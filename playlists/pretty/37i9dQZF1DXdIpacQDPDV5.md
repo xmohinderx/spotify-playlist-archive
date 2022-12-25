@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Sydney Blu
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,054 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,060 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 37 | [idk](https://open.spotify.com/track/1PhKKmyFwhnKVLuNpbOtg7) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Warehouse Summer](https://open.spotify.com/album/0feKW6G3IxAn97JhLUKXdJ) | 3:41 |
 | 38 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 |
 | 39 | [Paul Oakenfold X Lizzy Land \- “Get to You” \(Felix Cartal Remix\)](https://open.spotify.com/track/7d8p8TXJnFcu1Mtd11t13t) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Paul Oakenfold X Lizzy Land \- “Get to You” \(Felix Cartal Remix\)](https://open.spotify.com/album/0ERL2LODP5ufNIr99tWWh6) | 2:34 |
-| 40 | [Does She Know](https://open.spotify.com/track/242pTkgoQTlXM8LnhMZ0XU) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Does She Know](https://open.spotify.com/album/7i6Nl1F5YiWfLeSMLsa8fH) | 2:19 |
+| 40 | [Does She Know](https://open.spotify.com/track/3cOAo5alVOUMjWVmc5yf3H) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Does She Know](https://open.spotify.com/album/4wmcEGKJfMo4hZwDgT5O2C) | 2:19 |
 | 41 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 |
 | 42 | [More Horses](https://open.spotify.com/track/1rFFWztyr2N5REyljmQjgb) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [More Horses feat\. Tegan & Sara](https://open.spotify.com/album/7bjHoL0Ndu3UVAkocYOQ3x) | 5:33 |
 | 43 | [Biosphère](https://open.spotify.com/track/4yxlVbgJ5OdE9ipFOSMNGP) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Biosphère](https://open.spotify.com/album/2Cu8QDxQTHq57dOO2GfkFO) | 3:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 79 | [Drown](https://open.spotify.com/track/7Mff36ABo7BQquS3XRCLCA) | [Scity](https://open.spotify.com/artist/7nXwmKcvxkrvlq6QcxgUSZ) | [Drown](https://open.spotify.com/album/4PfxvIOGvyZomFIclSdPhJ) | 2:45 |
 | 80 | [Lovesick](https://open.spotify.com/track/2ECNBJ0b112QmhoBHKq8O6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:09 |
 
-Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMGMxOGUzMmE0YTA3NmNmYjQwNjMwOGVkNDI1OWQ3Y2Nj`
+Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMGY1ODliMjRhYTk4M2NiY2I5ODZjYjNlZTcyMzJhNDkw`

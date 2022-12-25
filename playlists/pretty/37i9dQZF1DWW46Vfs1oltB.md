@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > Check out The Quiett's interview as Clips! And check out the top 10 Korean hip\-hop songs selected by The Quiett at the top of the playlist\. \(Cover: The Quiett\) \(더 콰이엇의 인터뷰를 Clips로 확인하세요! 그리고 더 콰이엇이 선정한 한국힙합 10곡을 플레이리스트 최상단에서 확인하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,877 likes - 111 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,985 likes - 111 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

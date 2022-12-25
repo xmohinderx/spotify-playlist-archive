@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Luis R Conriquez, Jessie Uribe.",
-  "num_followers": 62956,
+  "num_followers": 62973,
   "original_name": "Mariachi 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGUxNTcyOWEwMWJjMDk2MjNmYjJkMTQzNmVlMjhkYzRl",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDhlMTc2OWFlZDliNWZkMjdhNjc2NWNkMmI5NDYxNzRh",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        }
-      ],
-      "duration_ms": 213428,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "No Me Conoces A\u00fan",
         "url": "https://open.spotify.com/album/0KlhHk0rSaA0ncTJA1DqwO"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 194948,
       "name": "No Me Conoces A\u00fan",
       "url": "https://open.spotify.com/track/3nRdKe1fgXmlTah80ealRW"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 213428,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Quiero Confesarte",
-        "url": "https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe"
-      },
-      "artists": [
-        {
-          "name": "Wil Caro",
-          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
-        }
-      ],
-      "duration_ms": 155365,
-      "name": "Quiero Confesarte",
-      "url": "https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Qu\u00e9 Tanto Es Tantito?",
         "url": "https://open.spotify.com/album/3PWvvcSA1xFwXwy8fyO83F"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 221554,
       "name": "Qu\u00e9 Tanto Es Tantito?",
       "url": "https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Quiero Confesarte",
+        "url": "https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe"
+      },
+      "artists": [
+        {
+          "name": "Wil Caro",
+          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
+        }
+      ],
+      "duration_ms": 155365,
+      "name": "Quiero Confesarte",
+      "url": "https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU"
     },
     {
       "added_at": "2022-07-29 04:00:00",

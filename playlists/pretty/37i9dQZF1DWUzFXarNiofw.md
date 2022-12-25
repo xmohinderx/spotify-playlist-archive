@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Jacquees
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,274 likes - 121 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,534 likes - 121 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,6 +128,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 118 | [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/album/3SwPKWhYOkIGL3AF0CC6sY) | 3:05 |
 | 119 | [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 |
 | 120 | [Cherry Wine](https://open.spotify.com/track/1yGfEpb5rYRSrdEsX3RCpX) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Cherry Wine](https://open.spotify.com/album/5xm6ly6zx7KN3JqtnJXY5T) | 2:59 |
-| 121 | [Garden](https://open.spotify.com/track/3U4lJRdx9MgH42ThXr8GuP) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Garden](https://open.spotify.com/album/3IPCddJutMPZCJHfVeClx5) | 2:55 |
+| 121 | [Garden](https://open.spotify.com/track/4nCQ22BkCrnLwNlJUUneTc) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/15qwevfPInT5d4Y0X2I1o0) | 2:55 |
 
-Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMGYxZTgzNTM4YzkyNzA2NTZlNWZmZmI4MjM3OGMzNzhh`
+Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDIyNDAyMGQ2YTIxYmY1YTQyOTI4NmRjY2E5YTE3NTFk`

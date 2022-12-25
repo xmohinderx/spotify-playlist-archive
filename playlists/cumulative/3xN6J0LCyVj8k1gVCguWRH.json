@@ -21362,6 +21362,24 @@
     },
     {
       "album": {
+        "name": "MOTION (DIVE IN)",
+        "url": "https://open.spotify.com/album/6uildMXkFASWvb5hPJXqJK"
+      },
+      "artists": [
+        {
+          "name": "HINYL",
+          "url": "https://open.spotify.com/artist/5C1kYgcLy2bHUCWGGvpKVP"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "MOTION",
+      "url": "https://open.spotify.com/track/77hjqTb1lNcHMLKpZxYcS7"
+    },
+    {
+      "album": {
         "name": "MOTION",
         "url": "https://open.spotify.com/album/6fKNqMMnSkRFWTNMRNUp1w"
       },
@@ -21373,7 +21391,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 186000,
       "name": "MOTION",
       "url": "https://open.spotify.com/track/7cQM2G5MT80a0xmv4Dcr8x"

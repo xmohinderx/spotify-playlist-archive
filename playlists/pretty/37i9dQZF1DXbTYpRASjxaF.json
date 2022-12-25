@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: WC no Beat, Mc Gabzin, Felp 22",
-  "num_followers": 86844,
+  "num_followers": 86927,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQ2MCwwMDAwMDAwMDA5MTg0YjhmMmU3OTE3OGE0MTRlOTA3NWMyNDgwY2Rm",
+  "snapshot_id": "MTY3MTc2NDQ2MCwwMDAwMDAwMDcyMDg3ZTk1MTM1MTVjMWNiMDRhYzg0YTAyYjJkNjg5",
   "tracks": [
     {
       "added_at": "2022-12-23 03:01:00",
@@ -839,30 +839,6 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
-        "name": "Lado Nerd",
-        "url": "https://open.spotify.com/album/4X0qPgz8rtgBfxSsTY3L5N"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 105600,
-      "name": "Lado Nerd",
-      "url": "https://open.spotify.com/track/152JuulFiSlmLQU1p3oM4b"
-    },
-    {
-      "added_at": "2022-12-23 03:01:00",
-      "album": {
         "name": "Cavalona",
         "url": "https://open.spotify.com/album/3cDefGhhnYoqP5Bc8XDbqc"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 176640,
       "name": "Cavalona",
       "url": "https://open.spotify.com/track/0v2Bc9YBplcdaBk7oEHliO"
+    },
+    {
+      "added_at": "2022-12-23 03:01:00",
+      "album": {
+        "name": "Lado Nerd",
+        "url": "https://open.spotify.com/album/4X0qPgz8rtgBfxSsTY3L5N"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 105600,
+      "name": "Lado Nerd",
+      "url": "https://open.spotify.com/track/152JuulFiSlmLQU1p3oM4b"
     },
     {
       "added_at": "2022-12-23 03:01:00",

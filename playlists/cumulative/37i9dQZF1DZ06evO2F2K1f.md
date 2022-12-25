@@ -4,13 +4,13 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-97 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/28P9YuJcTLPFyCtcBLEXvl)
+98 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/28P9YuJcTLPFyCtcBLEXvl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Man Alone](https://open.spotify.com/track/4EZ5UGomeXRNKrceW5xUq8) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 4:21 | 2022-07-27 | 2022-09-07 |
 | [A Touch of Nonsense](https://open.spotify.com/track/1qwhMcP5dOIEBGo9VMC5Rs) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 2:07 | 2022-06-22 | 2022-12-02 |
-| [Action Replay](https://open.spotify.com/track/5So0Gqy5hxb82PuNzFBn6o) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Kpm 1000 Series \- Volume 1](https://open.spotify.com/album/1svikpX3DorNerwbCIGi6H) | 1:56 | 2022-05-29 |  |
+| [Action Replay](https://open.spotify.com/track/5So0Gqy5hxb82PuNzFBn6o) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Kpm 1000 Series \- Volume 1](https://open.spotify.com/album/1svikpX3DorNerwbCIGi6H) | 1:56 | 2022-05-29 | 2022-12-25 |
 | [Alto Glide](https://open.spotify.com/track/02JG2okOS4zeeEpNvORWBo) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 5:04 | 2022-05-29 |  |
 | [Beach Buggy \(A\)](https://open.spotify.com/track/1zLiRIhQoqLRpmRFC5t4kp) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 1:57 | 2022-06-05 | 2022-07-23 |
 | [Beach Journey](https://open.spotify.com/track/5AEvACPyECiglaH0aNA2JF) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Luke Vibert's Nuggets 3](https://open.spotify.com/album/4XhHiKbo6yUr642e0GCrhK) | 3:07 | 2022-05-29 |  |
@@ -29,6 +29,7 @@
 | [Clear Waters](https://open.spotify.com/track/6zFgiV9dR2fIxDvTQBSP2j) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 1:58 | 2022-10-12 |  |
 | [Coast to Coast](https://open.spotify.com/track/5N9rr1pdKu8Pgy87IiLVEj) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Music for a Young Generation](https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL) | 3:27 | 2022-07-22 |  |
 | [Collision Course](https://open.spotify.com/track/32eDoXPsW7MWuDEJATrUTF) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 3:14 | 2022-05-29 | 2022-10-12 |
+| [Concord](https://open.spotify.com/track/26i0pp7OLKmIvG2mLer9vm) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: Soul Organ Showcase](https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ) | 1:35 | 2022-12-24 |  |
 | [Cool Cruiser](https://open.spotify.com/track/5STTE3rxT5B8GpqoxBhmTO) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Contemporary Contrasts](https://open.spotify.com/album/0MKFedbFML6oMKAt1KOAxv) | 3:01 | 2022-05-31 |  |
 | [Cruising](https://open.spotify.com/track/6fFRzJrLWUTTBiCzyMRTnG) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 4:26 | 2022-05-29 |  |
 | [Dave Allen at Large](https://open.spotify.com/track/5k90Y1F96cJs2Uj8P3QgAE) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Sixties](https://open.spotify.com/album/4yzoa9DAyLsMXnlfzHZMO7) | 0:49 | 2022-05-29 |  |

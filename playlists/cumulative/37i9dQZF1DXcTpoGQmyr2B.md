@@ -4,7 +4,7 @@
 
 > Let your stress melt away while you work up a sweat.
 
-201 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/0gAp2fhS8FFQOA7HtJ1tbD)
+203 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/0gAp2fhS8FFQOA7HtJ1tbD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 | 2022-03-03 | 2022-08-04 |
 | [One](https://open.spotify.com/track/1hoSHBbsZBNvv051EjQP5D) | [Castle Theater](https://open.spotify.com/artist/66DA1SaRhtBFQo4dQ8eF3e) | [One](https://open.spotify.com/album/0bSKEEtgOoaruEJ6NKvkCk) | 3:03 | 2022-03-03 |  |
 | [Overpass Graffiti](https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Overpass Graffiti](https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC) | 3:46 | 2022-05-06 |  |
-| [Paradise \- Acoustic](https://open.spotify.com/track/6VVi6cadD8WZGfredhpaPw) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/7weXwUa85fSK2MmtoFyzYZ) | 2:33 | 2022-03-03 |  |
+| [Paradise \- Acoustic](https://open.spotify.com/track/1uKavGXL05NzhPHSOUIg91) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/1Ad968gPukAt86YXpyEWIy) | 2:33 | 2022-12-09 |  |
+| [Paradise \- Acoustic](https://open.spotify.com/track/6VVi6cadD8WZGfredhpaPw) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/7weXwUa85fSK2MmtoFyzYZ) | 2:33 | 2022-03-03 | 2022-12-25 |
 | [Peer Pressure \(Acoustic\) \[feat\. Julia Michaels\]](https://open.spotify.com/track/2hFFke3WXVA9mV31XNy0dP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Peer Pressure \(Acoustic\)](https://open.spotify.com/album/27RJgXCscKOnvbjhhI3nWQ) | 2:56 | 2022-03-03 | 2022-08-04 |
 | [People, Turn Around](https://open.spotify.com/track/4BnR951eUWjZX2A3DQNiiI) | [Billy Allen](https://open.spotify.com/artist/3VNE2RRYAlEARq4BLodRTO), [The Pollies](https://open.spotify.com/artist/598trStGjYePaRmeDHip8u) | [People, Turn Around](https://open.spotify.com/album/2kxEB6jtPIeZlNOZkUvSAC) | 6:50 | 2022-06-03 |  |
 | [People, Turn Around](https://open.spotify.com/track/6ClQBXNubAOMjQgJxhz2Oe) | [Billy Allen](https://open.spotify.com/artist/3VNE2RRYAlEARq4BLodRTO), [The Pollies](https://open.spotify.com/artist/598trStGjYePaRmeDHip8u) | [People, Turn Around](https://open.spotify.com/album/7AhTcT99Y1Ept2ZcM2Q43s) | 6:50 | 2022-03-03 | 2022-07-29 |
@@ -175,7 +176,8 @@
 | [Sink](https://open.spotify.com/track/0ocA06erFoPo17B6oXYC86) | [Elkvilla](https://open.spotify.com/artist/3i8HbRFV4MShCZTOrdYZWz) | [Heard Well Collection, Vol\. 10](https://open.spotify.com/album/3VwHv6kazcxuLS63s6tMaR) | 5:26 | 2022-10-14 | 2022-11-13 |
 | [Sink](https://open.spotify.com/track/5Z4zJH6Z3cntnr5hRvptXB) | [Elkvilla](https://open.spotify.com/artist/3i8HbRFV4MShCZTOrdYZWz) | [Sink](https://open.spotify.com/album/22h7WVy7nu5tmnFmTKwYzc) | 5:26 | 2022-03-03 | 2022-07-29 |
 | [Sink](https://open.spotify.com/track/5g759dIqVspdTQ8PKnAiqE) | [Elkvilla](https://open.spotify.com/artist/3i8HbRFV4MShCZTOrdYZWz) | [Sink](https://open.spotify.com/album/7n6OTr4FWWreKfj7R47uyk) | 5:26 | 2022-06-03 |  |
-| [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/0F0xMIT47P5VpCOH5eajwO) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic](https://open.spotify.com/album/0WExxQj254CORDRL682MBN) | 2:46 | 2022-03-03 |  |
+| [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/0F0xMIT47P5VpCOH5eajwO) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic](https://open.spotify.com/album/0WExxQj254CORDRL682MBN) | 2:46 | 2022-03-03 | 2022-12-25 |
+| [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/2y4KKdn0UQPCIh0wbBYfgR) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic EP](https://open.spotify.com/album/2hqtH9rg9G0BsaymBNA8Bp) | 2:46 | 2022-12-09 |  |
 | [Someone You Loved](https://open.spotify.com/track/6o49CIQox7lfuEpxDw0FRN) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Acoustic Sessions](https://open.spotify.com/album/0nlQDrmzmr6aLzw3TkkEze) | 3:25 | 2022-03-03 |  |
 | [STAY](https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [STAY](https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG) | 2:12 | 2022-12-09 |  |
 | [Stay](https://open.spotify.com/track/3FDkUi2PPTBNGZRVyS19Gi) | [The Fretless](https://open.spotify.com/artist/76PwEGLUAzcEv43JTSxO2F), [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Stay](https://open.spotify.com/album/1B6OjPf4sMsav2FSysIvJT) | 3:29 | 2022-03-03 | 2022-11-12 |

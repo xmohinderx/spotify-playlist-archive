@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 100063,
+  "num_followers": 100091,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMDFiYmIyYWM2MWNiMDQxYWRiNzkyYTExNmFiYWI2YzA0",
+  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMGM5ZDZjYjMwNjEzMTEyZjJjMjZmM2QxZjU2YTE0ZmFm",
   "tracks": [
     {
       "added_at": "2022-12-01 13:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
+        "name": "Dhollandia / Circles",
+        "url": "https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 378241,
+      "name": "Dhollandia",
+      "url": "https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
         "name": "fall back",
         "url": "https://open.spotify.com/album/4gu4F5gAFTXjhpB87qMiaj"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 252584,
       "name": "fall back",
       "url": "https://open.spotify.com/track/0Li5j7ruBzzWoJJcdmPtGk"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Dhollandia / Circles",
-        "url": "https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 378241,
-      "name": "Dhollandia",
-      "url": "https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
     },
     {
-      "added_at": "2022-12-24 00:36:45",
+      "added_at": "2022-12-25 01:16:01",
       "album": {
         "name": "FREE002",
         "url": "https://open.spotify.com/album/39dE1TNPTHZqcNnKvKN7AB"
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "The Work",
-        "url": "https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV"
-      },
-      "artists": [
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 337266,
-      "name": "Plastic Future",
-      "url": "https://open.spotify.com/track/3r0MPlszKS3iIYcZOAJDME"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "Deep In The Glowing Heart (Night Version)",
         "url": "https://open.spotify.com/album/4VvBp7mqOnrUhqP3VOLYiJ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 420923,
       "name": "Deep In The Glowing Heart - Night Version",
       "url": "https://open.spotify.com/track/3XHWFH0geNVT36j4vbiv4m"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "The Work",
+        "url": "https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "duration_ms": 337266,
+      "name": "Plastic Future",
+      "url": "https://open.spotify.com/track/3r0MPlszKS3iIYcZOAJDME"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -991,38 +991,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "R\u00caVES",
-        "url": "https://open.spotify.com/album/2K2urI4ggKMFzLjhVT9MYY"
-      },
-      "artists": [
-        {
-          "name": "NASAYA",
-          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
-        }
-      ],
-      "duration_ms": 268872,
-      "name": "R\u00caVES",
-      "url": "https://open.spotify.com/track/5bju4Ul1M7JFdGd8PdixSP"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "The Corner",
-        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
-      },
-      "artists": [
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "The Corner",
-      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B"
       },
@@ -1039,6 +1007,22 @@
       "duration_ms": 298713,
       "name": "Water",
       "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "R\u00caVES",
+        "url": "https://open.spotify.com/album/2K2urI4ggKMFzLjhVT9MYY"
+      },
+      "artists": [
+        {
+          "name": "NASAYA",
+          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
+        }
+      ],
+      "duration_ms": 268872,
+      "name": "R\u00caVES",
+      "url": "https://open.spotify.com/track/5bju4Ul1M7JFdGd8PdixSP"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
+        "name": "The Corner",
+        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "The Corner",
+      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
         "name": "Bleu",
         "url": "https://open.spotify.com/album/0qGyomhK27BOrhRBAKPTid"
       },
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
+        "name": "breath tapes",
+        "url": "https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA"
+      },
+      "artists": [
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 215222,
+      "name": "suddenly",
+      "url": "https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
         "name": "In The Sweetness of You",
         "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 239240,
       "name": "Natural",
       "url": "https://open.spotify.com/track/0kGkvqy8ne40PwxNWZ01XL"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Komodo / Flores",
-        "url": "https://open.spotify.com/album/72sEoUBxoXL0SczjZzjNT3"
-      },
-      "artists": [
-        {
-          "name": "Bonsaye",
-          "url": "https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG"
-        }
-      ],
-      "duration_ms": 261874,
-      "name": "Komodo",
-      "url": "https://open.spotify.com/track/5OH67rxvZ9KHFInp9t4XjW"
     }
   ],
   "unique_name": "Night Shift",

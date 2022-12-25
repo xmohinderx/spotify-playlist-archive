@@ -709,7 +709,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -3207,7 +3207,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 143520,
       "name": "Dans P\u00e5 Bordet",
       "url": "https://open.spotify.com/track/56kyGGwLIVAR30ZFiASn8Q"
@@ -5315,7 +5315,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 167040,
       "name": "Frida Kahlo",
       "url": "https://open.spotify.com/track/4v8yhLDEcRQ6BynXcCrGMo"
@@ -8852,6 +8852,24 @@
     },
     {
       "album": {
+        "name": "Alf Pr\u00f8ysen",
+        "url": "https://open.spotify.com/album/7ouBxTfRp6hKPzai1fxB2P"
+      },
+      "artists": [
+        {
+          "name": "Alf Pr\u00f8ysen",
+          "url": "https://open.spotify.com/artist/0AU8XFChFl8AUPo5jExFlF"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180626,
+      "name": "Julekveldsvisa - 1951 Digital Remaster; 1993 Remastered Version",
+      "url": "https://open.spotify.com/track/5MLaFMlqnGrHyX2ZzGRilL"
+    },
+    {
+      "album": {
         "name": "Juletragedien",
         "url": "https://open.spotify.com/album/067B65snvZBeZu9KXOsLsk"
       },
@@ -12148,7 +12166,7 @@
       "artists": [
         {
           "name": "Truls Svendsen",
-          "url": "https://open.spotify.com/artist/0RmHkEuUEVtVOW00dJAaku"
+          "url": "https://open.spotify.com/artist/1K2DlbrXphcDPE5SvqkC9Q"
         },
         {
           "name": "Charlotte Smith",
@@ -12161,7 +12179,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 151463,
       "name": "N\u00e5r Julefreden Senker Seg",
       "url": "https://open.spotify.com/track/3UmTY7YUlFFDIxxcAfCzzn"
@@ -14983,7 +15001,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 119466,
       "name": "Sonjas Sang Til Julestjernen",
       "url": "https://open.spotify.com/track/19P1H7kpTEwoFtuiPyBVEc"
@@ -16147,7 +16165,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 201424,
       "name": "The Ballet Girl",
       "url": "https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1"
@@ -16183,7 +16201,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 192160,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"

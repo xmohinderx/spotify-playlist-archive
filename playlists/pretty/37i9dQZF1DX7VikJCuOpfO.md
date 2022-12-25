@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Luis R Conriquez, Jessie Uribe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,956 likes - 127 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,973 likes - 127 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,14 +115,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 105 | [Ya No Me Importa](https://open.spotify.com/track/1uVQ9tclCufSbqpaOHgfU4) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Ya No Me Importa](https://open.spotify.com/album/7sZubnxahx4tIddCErjwFR) | 2:25 |
 | 106 | [Algo Que Contar](https://open.spotify.com/track/4aQ2F1tvhcKYoefTiQAha0) | [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [Algo Que Contar](https://open.spotify.com/album/5Pv9gYFl5grUjFv53YppDH) | 2:34 |
 | 107 | [El Diluvio](https://open.spotify.com/track/7raQ5dg6Mpbbkf0fqm7Vum) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [El Diluvio](https://open.spotify.com/album/5Hguxb2ACNitInOSyruLVP) | 2:28 |
-| 108 | [Say Something](https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Say Something](https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm) | 3:33 |
-| 109 | [No Me Conoces Aún](https://open.spotify.com/track/3nRdKe1fgXmlTah80ealRW) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [No Me Conoces Aún](https://open.spotify.com/album/0KlhHk0rSaA0ncTJA1DqwO) | 3:14 |
+| 108 | [No Me Conoces Aún](https://open.spotify.com/track/3nRdKe1fgXmlTah80ealRW) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [No Me Conoces Aún](https://open.spotify.com/album/0KlhHk0rSaA0ncTJA1DqwO) | 3:14 |
+| 109 | [Say Something](https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Say Something](https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm) | 3:33 |
 | 110 | [Qué Ganas](https://open.spotify.com/track/1ssx2hBmMP49NiNE6QxhQV) | [ADA OLEA](https://open.spotify.com/artist/5kLS1HpKVb6HbflVCgu6bz) | [Qué Ganas](https://open.spotify.com/album/0eKAvkHF0t0nCuOrIuTlyv) | 3:08 |
 | 111 | [La Bikina](https://open.spotify.com/track/6QA7A2ZNzjInAn3wniLEeQ) | [Nuria Fergó](https://open.spotify.com/artist/0eU0mDoeIkicltGVoLtGy3) | [Con Permiso](https://open.spotify.com/album/4F1faolK6mjkIExXIH8maZ) | 2:59 |
 | 112 | [Tú Solo Tú](https://open.spotify.com/track/2ZwbOtOwLTNggNYeEkOpcZ) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Tú Solo Tú](https://open.spotify.com/album/5cWsl9DuZTi8l6RvI7RSzy) | 3:36 |
 | 113 | [La Cama De Piedra \- En Vivo](https://open.spotify.com/track/7mE8wNvsolFyp1pCNVunvQ) | [El Mono De Sinaloa](https://open.spotify.com/artist/1Bl1Br55F7SyrrFLWA4vSq), [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [La Cama De Piedra \- En Vivo](https://open.spotify.com/album/1ZbZ0QuREWjRNACbmpaDOs) | 3:05 |
-| 114 | [Quiero Confesarte](https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU) | [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [Quiero Confesarte](https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe) | 2:35 |
-| 115 | [Qué Tanto Es Tantito?](https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Qué Tanto Es Tantito?](https://open.spotify.com/album/3PWvvcSA1xFwXwy8fyO83F) | 3:41 |
+| 114 | [Qué Tanto Es Tantito?](https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Qué Tanto Es Tantito?](https://open.spotify.com/album/3PWvvcSA1xFwXwy8fyO83F) | 3:41 |
+| 115 | [Quiero Confesarte](https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU) | [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [Quiero Confesarte](https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe) | 2:35 |
 | 116 | [Los Mandados](https://open.spotify.com/track/31JZmPlv1H0npDMY4G5r9b) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Los Mandados](https://open.spotify.com/album/7uNCs64FQWq2ZsWA2PjJPK) | 2:43 |
 | 117 | [Te Amare \(Version Mariachi\)](https://open.spotify.com/track/2PWRbt4DwXa6ZcigYPa3AN) | [Rogelio Martinez](https://open.spotify.com/artist/7o6sbyEJZOSvb84L987hVH) | [Te Amare \(Versión Mariachi\)](https://open.spotify.com/album/2Cct0JbheL9MpyAIMTCj0Q) | 3:28 |
 | 118 | [Cartas Marcadas](https://open.spotify.com/track/71uuSDIUcy2AWBM9H7uWwq) | [Santiago Arroyo](https://open.spotify.com/artist/6uvBoFUSlKquPBsj8qrSUq) | [Cartas Marcadas](https://open.spotify.com/album/42KB9YEhXM4jHbtB3zf0B9) | 3:09 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 126 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/7CnmrsgrDklemSrdq8tuzL) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 3:05 |
 | 127 | [Probablemente](https://open.spotify.com/track/3WVloZ8Z5h6vgKQ7wFhi2Q) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Festivo](https://open.spotify.com/album/5dpj0D8wTg7QFG5VMashbU) | 3:53 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGUxNTcyOWEwMWJjMDk2MjNmYjJkMTQzNmVlMjhkYzRl`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDhlMTc2OWFlZDliNWZkMjdhNjc2NWNkMmI5NDYxNzRh`

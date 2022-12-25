@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Antía Muíño.
 
-328 songs - 20 hr 12 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
+329 songs - 20 hr 16 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Claroscuro](https://open.spotify.com/track/4NsXyQdZ80dXlGwLMyzUEz) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Claroscuro](https://open.spotify.com/album/4RLLGLmJOwqsrq2H4DLUfo) | 4:30 | 2021-12-24 | 2022-12-06 |
 | [Codo Con Codo](https://open.spotify.com/track/4DLl7PmnqhrYN6hDRO9Whu) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Codo Con Codo](https://open.spotify.com/album/0FmPdyJmPThdz0NBUnZalj) | 1:45 | 2021-12-24 | 2022-07-29 |
 | [COLAPSO](https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr) | [Lola Membrillo](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [COLAPSO](https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo) | 3:29 | 2021-12-24 | 2022-01-10 |
-| [Como Un Amuleto](https://open.spotify.com/track/2nRjw9V6oQmueOWsaoymJ4) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [Como Un Amuleto](https://open.spotify.com/album/2qln21nT8RxwJWyJOhSgGU) | 3:11 | 2022-05-13 |  |
+| [Como Un Amuleto](https://open.spotify.com/track/2nRjw9V6oQmueOWsaoymJ4) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [Como Un Amuleto](https://open.spotify.com/album/2qln21nT8RxwJWyJOhSgGU) | 3:11 | 2022-05-13 | 2022-12-25 |
 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 | 2021-12-24 |  |
 | [Contacto Directo](https://open.spotify.com/track/5dZ4bUdscVr4lr3iNVfvYW) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [P A L A B R A](https://open.spotify.com/album/5YOEvlFVR8UxB90TOvMHds) | 3:21 | 2021-12-24 | 2022-12-03 |
 | [Coplas \(feat\. Perotá Chingó\)](https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [La Sangre del Mundo](https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H) | 4:24 | 2021-12-24 |  |
@@ -186,6 +186,7 @@
 | [Me Quedo Aquí \- Bonus Track](https://open.spotify.com/track/6cxVIwPmlGl6LSfo0iGSJv) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Me Quedo Aquí \(Bonus Track\)](https://open.spotify.com/album/491Dqm9bqKjGxkgvYNaXja) | 3:33 | 2022-10-28 | 2022-11-12 |
 | [Me Voy a Valparaíso](https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Me Voy a Valparaíso](https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c) | 4:00 | 2021-12-24 |  |
 | [Mensajes en el Mar](https://open.spotify.com/track/4vgtji8ryyG6poEdMhSvE7) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/3uTW9z4Yhk9XnGwy6C7qiW) | 4:07 | 2021-12-24 | 2022-12-24 |
+| [Mensajes en el Mar](https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre) | 4:07 | 2022-12-23 |  |
 | [Mesa Para Dos](https://open.spotify.com/track/2KFvKwbWqJKtjHq3Cblrtf) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS), [Fredi Leis](https://open.spotify.com/artist/74JhFJgvnRd6yB9uVbtvLW) | [Mesa para dos](https://open.spotify.com/album/40NPpKJy5gaL9j9mKk1Lhn) | 2:27 | 2022-12-02 | 2022-12-24 |
 | [Mi Propio Lago](https://open.spotify.com/track/4Xktlj4EcbwmjdrTKmrlWu) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Mi Propio Lago](https://open.spotify.com/album/4asixMg1KsVDnmYPoDZ7MG) | 3:28 | 2022-05-27 | 2022-11-12 |
 | [Mi Vida](https://open.spotify.com/track/1Lx4D0ktuebDP7NG5l6RLc) | [Ona Mae](https://open.spotify.com/artist/1ejRCkLEViEiClmKLL1hpk) | [Mi Vida](https://open.spotify.com/album/2NAp7j38y6ktMr6IhhPjvi) | 4:22 | 2022-05-13 | 2022-05-25 |

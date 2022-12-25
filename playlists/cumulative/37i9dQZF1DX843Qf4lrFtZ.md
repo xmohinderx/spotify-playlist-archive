@@ -4,7 +4,7 @@
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-1,238 songs - 2 day 15 hr 22 min - [published](https://open.spotify.com/playlist/5uAU0FSX58fPShZRv61M9L)
+1,239 songs - 2 day 15 hr 25 min - [published](https://open.spotify.com/playlist/5uAU0FSX58fPShZRv61M9L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,7 +460,7 @@
 | [Hello](https://open.spotify.com/track/4s2QheDmwez4q3AhCyaGWc) | [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Hello](https://open.spotify.com/album/47TmGpsiVtufLseG5pLNFb) | 3:03 | 2019-07-30 | 2019-08-27 |
 | [Hello Hello Hello](https://open.spotify.com/track/1xNknVNOolLB4oQeEtNBX2) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2) | 2:52 | 2020-06-29 | 2022-04-17 |
 | [help herself \(with BENEE\)](https://open.spotify.com/track/7bhpOnHyttMaBCg6WGCRzi) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [help herself \(with BENEE\)](https://open.spotify.com/album/1dtiE9k4fY5xKRb4r80NKa) | 2:46 | 2021-05-10 | 2022-04-18 |
-| [Here With Me](https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Here With Me](https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd) | 2:36 | 2019-07-29\* |  |
+| [Here With Me](https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Here With Me](https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd) | 2:36 | 2019-07-29\* | 2022-12-25 |
 | [Hero](https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Hero](https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v) | 2:40 | 2022-12-08 |  |
 | [Hey Mama](https://open.spotify.com/track/0dDPUxV2ENxfuJGwMAocFR) | [Galavant](https://open.spotify.com/artist/7CsSec3NzFx2UipwF1APhu) | [Hey Mama](https://open.spotify.com/album/5FjGqgqI8BPmixMKhAqwk7) | 3:18 | 2019-08-06 | 2019-08-10 |
 | [hiccup](https://open.spotify.com/track/5C0fWU1j3pa4vvAZuYyisq) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [hiccup](https://open.spotify.com/album/4rdbtDrZ8ldJQePGGEL437) | 2:44 | 2020-09-18 | 2020-11-13 |
@@ -1110,6 +1110,7 @@
 | [Too Many Nights](https://open.spotify.com/track/6xB0rPxU3ncmMPgGDaD24M) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Too Many Nights](https://open.spotify.com/album/4Vuv40LsiUtYe7iriTaByr) | 3:08 | 2020-09-18 | 2021-01-08 |
 | [Too Many Problems \(feat\. Powfu\)](https://open.spotify.com/track/4NY3dbgimhDmj4tFt4tIzS) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Too Many Problems \(feat\. Powfu\)](https://open.spotify.com/album/1w8SeeBNLtPMoIBfgzHKcv) | 2:24 | 2021-04-22 | 2022-04-15 |
 | [Too Much](https://open.spotify.com/track/60NBh3Hbtes3ObiWkMhhrl) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Pity Party](https://open.spotify.com/album/14xTlrfCf7z4OeLP9nvHhz) | 3:25 | 2020-11-06 | 2021-03-22 |
+| [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2022-12-08 |  |
 | [Toosie Slide](https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Toosie Slide](https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J) | 4:07 | 2020-06-12 | 2020-09-14 |
 | [Torn](https://open.spotify.com/track/2GdxQw8NwoeH8tKySg6nym) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Torn](https://open.spotify.com/album/6a6Dy4LaFvh43Ed5lomDEd) | 3:18 | 2019-08-27 | 2019-08-28 |
 | [Touch](https://open.spotify.com/track/3jtYgsEzUr2RitAuymjQMI) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [FJØRA](https://open.spotify.com/artist/0NnlfSS9TzEUlffzx7KwBk) | [Touch](https://open.spotify.com/album/2XaF3NlRliM5wem6DaVAkR) | 2:25 | 2020-01-01 | 2020-07-03 |

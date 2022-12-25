@@ -1,12 +1,12 @@
 {
   "description": "Heavy music that understands.",
-  "num_followers": 155850,
+  "num_followers": 155899,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGYzNjI1ZjNjZjEwN2JmODkyMTBhMmQwMzA2MWJlODdm",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDVjYWU5NzEyYTk5YzgyYmVkZTQ3ZTQyZDZmNWJmM2Jj",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "All I Wanted",
-      "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "That's The Spirit",
         "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 222093,
       "name": "Drown",
       "url": "https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "All I Wanted",
+      "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -235,6 +235,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "POST HUMAN: SURVIVAL HORROR",
+        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 215003,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/3WATWS2Ywo5HeHtG0bE2iZ"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Colourmeinkindness",
         "url": "https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb"
       },
@@ -299,22 +315,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "POST HUMAN: SURVIVAL HORROR",
-        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 215003,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/3WATWS2Ywo5HeHtG0bE2iZ"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Getting Away With Murder",
         "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
       },
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 181837,
-      "name": "mars",
-      "url": "https://open.spotify.com/track/6C6aknFp2XtjIq7xuvyfuY"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "The Black",
         "url": "https://open.spotify.com/album/0IH8nMaCZC4A7DcGR7fW0V"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 229600,
       "name": "I Won't Give In",
       "url": "https://open.spotify.com/track/7scGzRwZMeHzFNuEJgnzvh"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 181837,
+      "name": "mars",
+      "url": "https://open.spotify.com/track/6C6aknFp2XtjIq7xuvyfuY"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/15lT31vL53ez4CQ41t26aK"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 374893,
-      "name": "And All That Could Have Been",
-      "url": "https://open.spotify.com/track/5UMsIIsvwkuIK3AeV7WhAW"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Holding Absence",
         "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 267546,
       "name": "Your Love (Has Ruined My Life)",
       "url": "https://open.spotify.com/track/10JEOrrLhzEGQm1HgFnrpN"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/15lT31vL53ez4CQ41t26aK"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 374893,
+      "name": "And All That Could Have Been",
+      "url": "https://open.spotify.com/track/5UMsIIsvwkuIK3AeV7WhAW"
     },
     {
       "added_at": "2022-08-25 23:00:00",

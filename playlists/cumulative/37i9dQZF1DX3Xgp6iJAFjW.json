@@ -302,6 +302,28 @@
     },
     {
       "album": {
+        "name": "17 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3TWu5whCfUMJbbzaNXqved"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+        },
+        {
+          "name": "Los Hijos De La Ni\u00f1a Luz",
+          "url": "https://open.spotify.com/artist/1pdvqZlba01URStTIbnfv2"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286693,
+      "name": "Baracunatana",
+      "url": "https://open.spotify.com/track/54Mmo8YOqrr6A53QVO14il"
+    },
+    {
+      "album": {
         "name": "Merengue Navide\u00f1o",
         "url": "https://open.spotify.com/album/723wthgUpMymoNyzovCz5e"
       },
@@ -711,7 +733,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 184621,
       "name": "El A\u00f1o Viejo",
       "url": "https://open.spotify.com/track/2eyo4wc8WOy7QrdYNQDDB6"

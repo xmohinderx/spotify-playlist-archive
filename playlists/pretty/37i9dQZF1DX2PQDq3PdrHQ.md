@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,004 likes - 300 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,415 likes - 300 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 52 | [pausation](https://open.spotify.com/track/3574XYkKE3GIf5agnbedRB) | [Zecole](https://open.spotify.com/artist/04F0tQDh38aj9UvWWr3jQG) | [Pausation](https://open.spotify.com/album/31YXAYFW3uaKAO3nrCEkXj) | 2:20 |
 | 53 | [Forever Dream](https://open.spotify.com/track/4QGm25bHKjIKYNgzTgoqRw) | [shapes](https://open.spotify.com/artist/4BTgiaeE6KnrTaHsfEOPDC) | [Forever Dream](https://open.spotify.com/album/3QCs3UZfTnPiDSvINQ90U7) | 2:31 |
 | 54 | [Looking At The Stars](https://open.spotify.com/track/79KN1dv6J0GhBPFqR5Bzr6) | [Mr\. Donsai](https://open.spotify.com/artist/7lw3xexSn1fipl8UlSXtpX) | [Night Journey](https://open.spotify.com/album/5HpYuCFpUd70FPgnsaWWFE) | 2:20 |
-| 55 | [Clean Sofas](https://open.spotify.com/track/2oMlnoQvy63EUfMWLUKEAx) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL), [Juurio](https://open.spotify.com/artist/4Qqyjqz2uXE8S8m5Mn5H1G) | [floating bedroom](https://open.spotify.com/album/2gnIgFPjjx0IefnfuJWnFB) | 2:08 |
+| 55 | [Clean Sofas](https://open.spotify.com/track/7HCmYfkG0DeMGGXVfxIfx1) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL), [Juurio](https://open.spotify.com/artist/4Qqyjqz2uXE8S8m5Mn5H1G) | [floating bedroom](https://open.spotify.com/album/2e2V2dLbQQvT6rAQ8CLOBK) | 2:08 |
 | 56 | [Morning Slush](https://open.spotify.com/track/2fi7wlRTCmdLpQBq9Albac) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [Morning Slush](https://open.spotify.com/album/10mvd7pBmtBouNL0aPBHBG) | 2:13 |
 | 57 | [puddles](https://open.spotify.com/track/1ICqwks7d1Jw0ivRAjnIUt) | [Flacvih](https://open.spotify.com/artist/5vyWkHZrsvbjPskzIatoFg), [Chillhop World](https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8) | [billboard](https://open.spotify.com/album/0iIsngFS2dkWGrKjemVvBG) | 2:13 |
 | 58 | [you snooze, you bruise](https://open.spotify.com/track/7H7Vuf9WnVeR03R1ZYdExT) | [yawn](https://open.spotify.com/artist/45gaMiwtS3JK5Nj6zPpMsI) | [you snooze, you bruise](https://open.spotify.com/album/1cL5cNrm8VanlgD3sj5RDB) | 1:51 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 299 | [Nighttime Voyage](https://open.spotify.com/track/6cbjfmf85NMVLxmwKD2VJG) | [LUXID AXID](https://open.spotify.com/artist/6yZIMRBmAHdrstkuapdrc0), [Nessen](https://open.spotify.com/artist/2WX7ariBgaxbv7XOjO8GGt) | [Lucid Dreams](https://open.spotify.com/album/20OUFGtfv163d3vn9OKojD) | 2:22 |
 | 300 | [Intricate](https://open.spotify.com/track/6KqokbvIdu1j99qIh77VAh) | [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47) | [Intricate](https://open.spotify.com/album/5OgnUtlefp3r1WNTCNy5WE) | 2:22 |
 
-Snapshot ID: `MTY3MTc1MzY2MCwwMDAwMDAwMDM2MDcwZGUwMjM5MmM3ZWRjNWQxMzhlYjlmYjdjOTQy`
+Snapshot ID: `MTY3MTc1MzY2MCwwMDAwMDAwMDE0NDE5NjIwMGE0M2UwMGY4YTljNmRhOWVkODQ4MzJm`

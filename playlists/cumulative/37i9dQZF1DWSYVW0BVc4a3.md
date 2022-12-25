@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: Boris Brejcha
 
-274 songs - 20 hr 54 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
+275 songs - 20 hr 58 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [It's Not You \- Nightshade Remix](https://open.spotify.com/track/0AB7xxoxUjWA1yoEEx87lw) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Nightshade](https://open.spotify.com/artist/5jlxXMEsdRPKWI4DEnBWlT) | [It's Not You](https://open.spotify.com/album/3iy2S5rOvMYWHiYvBCmeDT) | 5:12 | 2022-08-18 | 2022-08-20 |
 | [JOY \(Don't It Make You Feel\)](https://open.spotify.com/track/1PUSsDVdfoSD8TBeSUJRBx) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Don’t It Make You Feel\)](https://open.spotify.com/album/0dY0wbc3n8SS4WWfHdxo0L) | 3:22 | 2022-08-18 | 2022-09-15 |
 | [JOY \(Easy To Improve\)](https://open.spotify.com/track/2KA0StmQGMIQxf1rCqKB3D) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Easy To Improve\)](https://open.spotify.com/album/0EyTC7SBuLcfjIq4jaURtH) | 3:26 | 2022-08-25 | 2022-10-16 |
+| [JOY \(God Only Knows\)](https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(God Only Knows\)](https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU) | 4:26 | 2022-12-22 |  |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-08-18 |  |
 | [Just One Groove](https://open.spotify.com/track/0oT34K9Qg6iRiEtL7deAG1) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Songs You Might Remember from Some Parties](https://open.spotify.com/album/3gImC2DVTldtWuok5FXWfJ) | 4:16 | 2022-08-18 | 2022-09-02 |
 | [Kami](https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Kami EP](https://open.spotify.com/album/5AYtQB9ctK389PKxcDLIMZ) | 5:15 | 2022-08-18 | 2022-09-24 |
@@ -224,7 +225,7 @@
 | [Soul Seekers \- Joachim Pastor Remix](https://open.spotify.com/track/0OaPgWQe0OrOamArbbAga9) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Soul Seekers \(Joachim Pastor Remix\)](https://open.spotify.com/album/69ToKf1GTf7ldT3SXK7Cfq) | 4:34 | 2022-11-10 |  |
 | [Souljack](https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:44 | 2022-10-13 |  |
 | [Standing There](https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Standing There](https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH) | 3:36 | 2022-08-18 | 2022-12-02 |
-| [Starter](https://open.spotify.com/track/4oFlRoHqdnjfPm0tUUIvAq) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Starter](https://open.spotify.com/album/1Szi70idNJ5SYHU1qubvu0) | 2:58 | 2022-08-18 |  |
+| [Starter](https://open.spotify.com/track/4oFlRoHqdnjfPm0tUUIvAq) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Starter](https://open.spotify.com/album/1Szi70idNJ5SYHU1qubvu0) | 2:58 | 2022-08-18 | 2022-12-25 |
 | [Stepper](https://open.spotify.com/track/6LWnD63tBcpnkWJRlOegja) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Pressure](https://open.spotify.com/album/6QEnHZniqvybsckdyptQql) | 3:26 | 2022-10-06 | 2022-12-04 |
 | [suddenly](https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva) | 3:35 | 2022-08-18 | 2022-09-24 |
 | [Sumatra](https://open.spotify.com/track/2SvDldertcHX0y6kGDhtU3) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Sumatra](https://open.spotify.com/album/0Md5pzmo4V44Qdep0yXlT2) | 3:17 | 2022-08-18 | 2022-09-24 |

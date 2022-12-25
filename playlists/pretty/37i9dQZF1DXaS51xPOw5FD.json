@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM2MzA5NiwwMDAwMDAwMGUyMzY3ZmE0ZGM0OGJlMDcxMDMyOTZlZjczNTkwYzY4",
+  "snapshot_id": "MTY2OTM2MzA5NiwwMDAwMDAwMGZiNzc5MmRjOWUxYWM5OGI0ZGFiZjliOTYyNzI4ZmQz",
   "tracks": [
     {
       "added_at": "2022-08-05 09:05:46",
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/21JRqTnNDTiMxzTCvzcfc3"
     },
     {
-      "added_at": "2022-12-24 01:27:37",
+      "added_at": "2022-12-25 01:27:38",
       "album": {
         "name": "messy in heaven",
         "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
@@ -695,26 +695,6 @@
     {
       "added_at": "2022-08-05 09:05:46",
       "album": {
-        "name": "Remedies",
-        "url": "https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh"
-      },
-      "artists": [
-        {
-          "name": "Mollie Collins",
-          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
-        },
-        {
-          "name": "Ruth Royall",
-          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
-        }
-      ],
-      "duration_ms": 282758,
-      "name": "Remedies",
-      "url": "https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn"
-    },
-    {
-      "added_at": "2022-08-05 09:05:46",
-      "album": {
         "name": "Thinkin About",
         "url": "https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 159245,
       "name": "Thinkin About",
       "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
+    },
+    {
+      "added_at": "2022-08-05 09:05:46",
+      "album": {
+        "name": "Remedies",
+        "url": "https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Ruth Royall",
+          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
+        }
+      ],
+      "duration_ms": 282758,
+      "name": "Remedies",
+      "url": "https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn"
     },
     {
       "added_at": "2022-08-05 09:05:46",

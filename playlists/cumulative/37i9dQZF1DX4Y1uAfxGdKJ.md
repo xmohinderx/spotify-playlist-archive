@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-108 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/3PifnUsxdgchUCnyAhb9Ti)
+109 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/3PifnUsxdgchUCnyAhb9Ti)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2022-09-23 |  |
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2022-09-23 |  |
 | [I Promise You](https://open.spotify.com/track/52PxCQQlAme3g0UjH2smhF) | [Florem Ipsum](https://open.spotify.com/artist/594PMnBcYcEU1sTCC75Iir) | [I Promise You](https://open.spotify.com/album/3IKrjcrhhF9KVVyhLR9uiI) | 2:13 | 2022-12-09 |  |
-| [Indi](https://open.spotify.com/track/7zeOr0r8bQO5BO9Om7BuAt) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/37iP4wnkJE5ImiW2Q94nKx) | 3:20 | 2022-09-23 |  |
+| [Indi](https://open.spotify.com/track/6myfz5g9b9U6bQSr4XcKGu) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/3eFlBkbtH9AiyEXXr0YBeT) | 3:20 | 2022-12-23 |  |
+| [Indi](https://open.spotify.com/track/7zeOr0r8bQO5BO9Om7BuAt) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/37iP4wnkJE5ImiW2Q94nKx) | 3:20 | 2022-09-23 | 2022-12-25 |
 | [Inner Light](https://open.spotify.com/track/2ohFbsoB7uVvTTgCk7aWY3) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Inner Light](https://open.spotify.com/album/0kyY8NnooE5jHa3TBB2Dd9) | 3:57 | 2022-09-23 |  |
 | [Landmarks](https://open.spotify.com/track/0p4zxScTH4QBPnDdIeInfB) | [Aural](https://open.spotify.com/artist/4IagxrvnhCy4YV29Qjqc8o) | [Landmarks](https://open.spotify.com/album/1Fe00jswSTGhfYMKDktS28) | 5:06 | 2022-09-23 |  |
 | [Lhotse](https://open.spotify.com/track/2nnC39bmk3IhgU6Y234PEW) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Lhotse](https://open.spotify.com/album/0UOdspMM2Np1WVALtBLVdx) | 4:28 | 2022-09-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > Highlights of 2022, listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=du9lq5lGR\-27xrx2qy\_HRg"> Ayra Starr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,278 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,317 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 18 | [Fire On The Mountain](https://open.spotify.com/track/6md7bMosHws07OCXrMKfLz) | [Tolani](https://open.spotify.com/artist/6ILYtYSwIa2Aygcqr8PTds) | [Fire On The Mountain](https://open.spotify.com/album/7JmSLFsmxFpi2E7vcrxDW0) | 2:36 |
 | 19 | [Possible](https://open.spotify.com/track/6ARmMd93cqRGYDP0XC6JH7) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Dinho](https://open.spotify.com/artist/4vrcirbPoyFvdc64YBlMof), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV), [Makhanj](https://open.spotify.com/artist/1uYUUIkkkal5V3mIqk6KnV), [Lebza TheVillain](https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3), [Koek Sista](https://open.spotify.com/artist/2tE4mCEYtiSvETEVEAYjzv) | [Possible](https://open.spotify.com/album/4O2ppYH1KLoP8pE7XomrDk) | 6:50 |
 | 20 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 |
-| 21 | [E Choke](https://open.spotify.com/track/0dfhS0eJu5a3OB6TVMdYlA) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [E Choke](https://open.spotify.com/album/0bBL9agqk6xyPy88LWuS1b) | 3:03 |
+| 21 | [E Choke](https://open.spotify.com/track/0lzX67xt1DiKrl3CV0stJC) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [E Choke](https://open.spotify.com/album/5oSPnUJVW4g1oXILuB0lVT) | 3:03 |
 | 22 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 |
 | 23 | [Too Late for Mama](https://open.spotify.com/track/6xfGoZlwaIuBkDtTQV8lSX) | [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8) | [Too Late for Mama](https://open.spotify.com/album/1mlmOZ5TQjexDf1wIO4h9y) | 4:07 |
 | 24 | [Stamina](https://open.spotify.com/track/6ZAkfazhYBFqvK4DtjPEdG) | [Seyi Shay](https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Big Girl](https://open.spotify.com/album/4xNgVlvmGjoNZNjKUDEs90) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 49 | [Blue Jeans](https://open.spotify.com/track/5hDjWc5A1zOonjMrikQpuQ) | [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [Blue Jeans](https://open.spotify.com/album/64pRtYkZfuiH9OBqIGJqn0) | 3:21 |
 | 50 | [Where You Dey Go \(feat\. Naira Marley\)](https://open.spotify.com/track/0Dxn6EaJKcjQuLg8gzviIH) | [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Where You Dey Go](https://open.spotify.com/album/29cX6p9D3Aw6GRbsoeOldR) | 3:13 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDVlMzU1ZWU1ODMzNTE5NjRkZjE4NzJkZTRlMzA1ZDkw`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGQzOGJjMjU5NjdlNWMyOGZjMDM1MzBhYjE2NzhjODAw`

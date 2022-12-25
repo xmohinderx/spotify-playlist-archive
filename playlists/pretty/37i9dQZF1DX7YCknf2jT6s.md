@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Grace Kelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,979 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,065 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 67 | [Glass Moon](https://open.spotify.com/track/1MUGRzYFUpQ5vclnDzjAKs) | [Leland Whitty](https://open.spotify.com/artist/2QobOeybSvyibNUGIobnlP) | [Glass Moon](https://open.spotify.com/album/2e63mVSLrs5l94f0TVURTz) | 3:49 |
 | 68 | [Sagitario](https://open.spotify.com/track/5VfXnShYlySzT3XezkvwZM) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Sagitario](https://open.spotify.com/album/1YuxPKVxPa6nFrnTiGg9m1) | 2:23 |
 | 69 | [Euphoria Reprise](https://open.spotify.com/track/7zWP8Ark3QZFiV9lcQiOGH) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW), [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT) | [Euphoria Reprise](https://open.spotify.com/album/1GFpbxTMnZBYaxo94i5RdP) | 3:20 |
-| 70 | [So Cold](https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb) | 4:12 |
+| 70 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 |
 | 71 | [Epoca](https://open.spotify.com/track/2BkAmulEiKR12DmygIv1Wq) | [Alfonso Gugliucci](https://open.spotify.com/artist/7o2w7PcKeBdqCg0uvvKbgJ), [Jazz AG Trio](https://open.spotify.com/artist/6mSb04vn0JBQsguGh2K6VO), [Lenny Sendersky](https://open.spotify.com/artist/72xyMrVI7xrI9EChbkiMUZ) | [Epoca](https://open.spotify.com/album/6F31uhWGZkvk22lcnogA7u) | 3:25 |
 | 72 | [Mystics \- Live](https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg) | 3:47 |
 | 73 | [NOT TiGHT](https://open.spotify.com/track/0qZcBeIKskV61K1ekFJcar) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 4:08 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 85 | [Finding Light](https://open.spotify.com/track/3MGg7Spc0VFKuvdnUG5oYm) | [Jeff Denson](https://open.spotify.com/artist/20l9cWpMlJ5ip9Tg6z0TBN), [Romain Pilon](https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Finding Light](https://open.spotify.com/album/5JLlEDMSbWw5oGvpghB44H) | 4:21 |
 | 86 | [Pasadena Sun](https://open.spotify.com/track/1yFHsZoKINCydPpNwovrFz) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2), [Sam Borrello](https://open.spotify.com/artist/7loneNMuZqVQ1YQtw51GQi) | [Pasadena Sun](https://open.spotify.com/album/7GuF9J8VaPAY8bBqhvFlxC) | 1:42 |
 | 87 | [Zero — piano reworks](https://open.spotify.com/track/7CkPQE4VCenCENNN6q7nD2) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Zero — piano reworks](https://open.spotify.com/album/15fhFYXG3n5y6KWPT5reeA) | 3:27 |
-| 88 | [Wings](https://open.spotify.com/track/3hUngNsqq838qYdEQrMEcg) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Wings / Back To Africa](https://open.spotify.com/album/16K9DKlpw0YWAj6PfnXQwT) | 5:30 |
+| 88 | [Wings](https://open.spotify.com/track/0P0vNFONGtnVFxEEk3k0K2) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Wings / Back To Africa](https://open.spotify.com/album/2fmSHB85lXiVxUT8tKwyP2) | 5:30 |
 | 89 | [deliverenzo](https://open.spotify.com/track/4TAKShxabGTKjWSubmofT0) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Jesse DeLorenzo](https://open.spotify.com/artist/4SnMKP7QTXJoUuIynrttXN) | [deliverenzo](https://open.spotify.com/album/64UPCPwy2q2ejDYs3TMCbt) | 4:15 |
 | 90 | [Ereshkigal of the Underworld](https://open.spotify.com/track/7KVWQzXYf9m2xo2R7A1e38) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Secrets of Inanna](https://open.spotify.com/album/1ruDzWzQmOET51GQngt3f0) | 3:01 |
 | 91 | [Road To Los Suenos](https://open.spotify.com/track/6HIWUSJTeozj7tbW8s0Fue) | [Marcus Johnson](https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM) | [Quarantine Sessions](https://open.spotify.com/album/0FU8jHfcqwWOTnsxlj7gro) | 6:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [I Was an American Boy](https://open.spotify.com/track/111yyU1pjWcR40cMMaRxY4) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Marco Bardoscia](https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E), [Dino Rubino](https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S), [Daniele di Bonaventura](https://open.spotify.com/artist/2FfQ9VP66RZxG0lmiMAKT6) | [Ferlinghetti](https://open.spotify.com/album/68AL3VoUvPAaBcS8sSlWvU) | 6:11 |
 | 100 | [The Pioneers](https://open.spotify.com/track/6aUm3x3eDyWWi7vn4stopF) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Four](https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr) | 5:42 |
 
-Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDBmZTllZjhkMTk1M2Y5MWY0MGQ2MmEyMDhjOTgwNWVk`
+Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMGQwMWNjNWY3MTY0ZDIzM2Y3NjY3ZWI1Y2U3OWZjYzhk`

@@ -1062,6 +1062,24 @@
     },
     {
       "album": {
+        "name": "From Mexico with Love",
+        "url": "https://open.spotify.com/album/3qSSoMApIWkXTmCn4IaC30"
+      },
+      "artists": [
+        {
+          "name": "Last Dinosaurs",
+          "url": "https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176797,
+      "name": "Collect Call",
+      "url": "https://open.spotify.com/track/75zV0Nc4cnupY4QXbKRzN7"
+    },
+    {
+      "album": {
         "name": "Come To The Beach",
         "url": "https://open.spotify.com/album/7zvkLdqZGE4L68lf37t53G"
       },
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 199274,
       "name": "Do It Like You Do",
       "url": "https://open.spotify.com/track/69LmDU9Ykb2ffpDDisnf1w"
@@ -1949,7 +1967,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 168903,
       "name": "Feelin' Good (Could Be Better)",
       "url": "https://open.spotify.com/track/0w48XaKFfUByK6KuhL8OiF"
@@ -7505,7 +7523,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 228466,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"

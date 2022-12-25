@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف: لمياء المالكي
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,329 likes - 56 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,348 likes - 56 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

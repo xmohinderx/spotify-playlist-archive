@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > Our favorite R&B artists on the rise! Cover: Ambré
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,996 likes - 113 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,019 likes - 113 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 56 | [Racing Home](https://open.spotify.com/track/0iUtGIaO5gGI10zPD5qkh4) | [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Racing Home](https://open.spotify.com/album/3hQBmJ9haqOVdp0xt7xCHi) | 2:23 |
 | 57 | [Sway](https://open.spotify.com/track/5vjfKzxJpDGawFtTq8f4dj) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sway](https://open.spotify.com/album/7uxnk6j0snMV0K99bWfO4N) | 2:54 |
 | 58 | [Crazy Down](https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Um, Hello](https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj) | 3:04 |
-| 59 | [In The Moment](https://open.spotify.com/track/5T7CQ8uxqtIEzZ47zUBnz0) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [In The Moment](https://open.spotify.com/album/47jzJC3JouRl3o89fbUrxW) | 3:13 |
+| 59 | [In The Moment](https://open.spotify.com/track/2Xc0ucl20Cf0gOnbsxlOAU) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/15qwevfPInT5d4Y0X2I1o0) | 3:13 |
 | 60 | [About U](https://open.spotify.com/track/4bBdFSu4WcfJhWl1EsreVj) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [About U](https://open.spotify.com/album/48lbAUdEwFZFKWY2y4BfvB) | 2:42 |
 | 61 | [Lose \(Remix\) \[feat\. Marzz & Amari Noelle\]](https://open.spotify.com/track/7cr7rI6CnbXkUGRiWw9ppw) | [Lily Massie](https://open.spotify.com/artist/2kQ4RPZzQ5YVAcWNC162x9), [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG), [Amari Noelle](https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7) | [Lose \(Remix\) \[feat\. Marzz & Amari Noelle\]](https://open.spotify.com/album/1UmDky4I6vWUrf18TXniIw) | 3:14 |
 | 62 | [Cherry Wine](https://open.spotify.com/track/1yGfEpb5rYRSrdEsX3RCpX) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Cherry Wine](https://open.spotify.com/album/5xm6ly6zx7KN3JqtnJXY5T) | 2:59 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 112 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 |
 | 113 | [TALK TO ME \- TOO LATE](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:52 |
 
-Snapshot ID: `MTY3MTQ4MDE2NSwwMDAwMDAwMGNkNzdkMDFhMDFmNmQ4N2RjYzcyYmVlNDRmZTNiYWJi`
+Snapshot ID: `MTY3MTQ4MDE2NSwwMDAwMDAwMDY4MmQwZjgwNGFhZDcxNjFlMDRjMTMwMTM2MmQ5ZjUw`

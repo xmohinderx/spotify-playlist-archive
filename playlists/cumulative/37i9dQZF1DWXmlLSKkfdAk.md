@@ -4,7 +4,7 @@
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-288 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/56MimGQfv13ynX1TQdHFIl)
+289 songs - 17 hr 38 min - [published](https://open.spotify.com/playlist/56MimGQfv13ynX1TQdHFIl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Driver's License \(Acoustic\)](https://open.spotify.com/track/6kiyZthBkF9VkkVh9Cc4jY) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Aubrey Toone](https://open.spotify.com/artist/61R2K577GF9XaGmrzJIebF) | [Driver's License \(Acoustic\)](https://open.spotify.com/album/3zzWc3okIhygb6p6ai6RO9) | 3:53 | 2021-11-12 |  |
 | [drivers license](https://open.spotify.com/track/4GtkO065k7XSNJ9OQcnBHW) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Covers from Home](https://open.spotify.com/album/6BAh6hwMexhCLh3myahu5A) | 3:48 | 2022-07-27 |  |
 | [drivers license](https://open.spotify.com/track/6i8lDXu86pOsPwGbxoD4RI) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [drivers license](https://open.spotify.com/album/0CCwZdow3z8rNFTP7uOawf) | 3:48 | 2021-11-12 | 2022-12-02 |
-| [Eternal Flame](https://open.spotify.com/track/7kqlAbUuU1v9w5LN1nOO2q) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Eternal Flame](https://open.spotify.com/album/0IytbN5ftjevadORXnCFOD) | 2:42 | 2021-11-12 |  |
+| [Eternal Flame](https://open.spotify.com/track/4v2L78a6CUNGucM9hRyDiP) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Eternal Flame](https://open.spotify.com/album/7tb7dGLxrTJDQvF0kGdf3e) | 2:42 | 2022-07-27 |  |
+| [Eternal Flame](https://open.spotify.com/track/7kqlAbUuU1v9w5LN1nOO2q) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Eternal Flame](https://open.spotify.com/album/0IytbN5ftjevadORXnCFOD) | 2:42 | 2021-11-12 | 2022-12-25 |
 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 | 2021-11-12 |  |
 | [Fancy](https://open.spotify.com/track/5Kn5jBrNiTF1V5woyKOfkt) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ) | [BIMYOU](https://open.spotify.com/album/7jTKK15tPEBZRNcYJF3I8K) | 4:02 | 2021-11-12 | 2022-05-28 |
 | [Fast Car \(feat\. Tall Heights\)](https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc), [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [All or Nothing / Fast Car](https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV) | 4:32 | 2021-11-12 |  |

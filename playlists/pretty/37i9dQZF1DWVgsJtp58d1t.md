@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from FLO, SZA, Mike Dimes, Metro Boomin, PinkPantheress, UMI, and OG Ron C
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,701 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,819 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

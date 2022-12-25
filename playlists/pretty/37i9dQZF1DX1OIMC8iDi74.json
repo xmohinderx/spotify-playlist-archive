@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 871966,
+  "num_followers": 872089,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDA3Y2U4ZjI4Mzg0ZWY0ZTY5NjM4NmFjNGJjYWU5M2Rk",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDA0NjMwZTA2MDM1MDdkYjBiOGUyYjRiNzRkMTIzZTc5",
   "tracks": [
     {
       "added_at": "2022-12-02 15:49:35",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "duration_ms": 184273,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
         "name": "Reaper (feat. JID)",
         "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 164800,
       "name": "Reaper (feat. JID)",
       "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM"
-      },
-      "artists": [
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        }
-      ],
-      "duration_ms": 184273,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "Tanglewood",
-        "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        }
-      ],
-      "duration_ms": 158961,
-      "name": "Spanish Moss",
-      "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "Left Is Right",
         "url": "https://open.spotify.com/album/7nYaSlVUHMNvSRzc0guLYy"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 197260,
       "name": "Redo",
       "url": "https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "Tanglewood",
+        "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "duration_ms": 158961,
+      "name": "Spanish Moss",
+      "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "Blow the Roof",
-        "url": "https://open.spotify.com/album/1mpCVicVx2roKL7Bq2i6Vz"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 245090,
-      "name": "Do or Die (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/2BTPW7osibjN9gFDRY4mYN"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "Wobble",
         "url": "https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 188000,
       "name": "Wobble",
       "url": "https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "Blow the Roof",
+        "url": "https://open.spotify.com/album/1mpCVicVx2roKL7Bq2i6Vz"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 245090,
+      "name": "Do or Die (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/2BTPW7osibjN9gFDRY4mYN"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "Twitter",
-        "url": "https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Syaqish",
-          "url": "https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq"
-        }
-      ],
-      "duration_ms": 165350,
-      "name": "Twitter",
-      "url": "https://open.spotify.com/track/45NRSkN11nKunCO8gwswug"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "Tums",
         "url": "https://open.spotify.com/album/71faAIel0uVhPSmu8VJcj7"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 217000,
       "name": "Tums",
       "url": "https://open.spotify.com/track/00HG0BYPrRQQ5S7HVhVNSy"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "Twitter",
+        "url": "https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Syaqish",
+          "url": "https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq"
+        }
+      ],
+      "duration_ms": 165350,
+      "name": "Twitter",
+      "url": "https://open.spotify.com/track/45NRSkN11nKunCO8gwswug"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "MINDDD",
-        "url": "https://open.spotify.com/album/0cvKa2bC4q7tRP5refuzxq"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        },
-        {
-          "name": "Reo Cragun",
-          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
-        }
-      ],
-      "duration_ms": 121681,
-      "name": "MINDDD",
-      "url": "https://open.spotify.com/track/0nSP6p4IfCI6vIy2KJy13m"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "Take My Breath Away (feat. Linney)",
         "url": "https://open.spotify.com/album/5DPdR5DXrXQ2sV7H1yMJKe"
       },
@@ -1875,6 +1855,26 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
+        "name": "MINDDD",
+        "url": "https://open.spotify.com/album/0cvKa2bC4q7tRP5refuzxq"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "duration_ms": 121681,
+      "name": "MINDDD",
+      "url": "https://open.spotify.com/track/0nSP6p4IfCI6vIy2KJy13m"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
         "name": "Casper",
         "url": "https://open.spotify.com/album/4G9owMlxWUofZIN4kwNMDq"
       },
@@ -1887,6 +1887,22 @@
       "duration_ms": 161279,
       "name": "Casper",
       "url": "https://open.spotify.com/track/3EE7zRmVsiY5HHcK5fJ2H8"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "Sable Valley Summer Vol. 2",
+        "url": "https://open.spotify.com/album/7ybQzVkmLNJ0Lidjk1AEZ5"
+      },
+      "artists": [
+        {
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "No Chill",
+      "url": "https://open.spotify.com/track/46VgwcEKnjPCcSEsJ5fWY2"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1923,22 +1939,6 @@
       "duration_ms": 153600,
       "name": "It's Our Destiny",
       "url": "https://open.spotify.com/track/0OijABrqIE3h6iDcDjLagm"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
-        "name": "Sable Valley Summer Vol. 2",
-        "url": "https://open.spotify.com/album/7ybQzVkmLNJ0Lidjk1AEZ5"
-      },
-      "artists": [
-        {
-          "name": "Control Freak",
-          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "No Chill",
-      "url": "https://open.spotify.com/track/46VgwcEKnjPCcSEsJ5fWY2"
     },
     {
       "added_at": "2022-12-02 15:49:35",

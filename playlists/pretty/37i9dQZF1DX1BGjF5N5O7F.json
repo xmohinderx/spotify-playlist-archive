@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 527492,
+  "num_followers": 527516,
   "original_name": "Sexy As Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNjEyNjUyMCwwMDAwMDAwMDc1ODY1ZTNmMzAzZTVkOWI4NjQ2MTBhMTVjMGE1YmQz",
+  "snapshot_id": "MTYxNjEyNjUyMCwwMDAwMDAwMDY5MzY4NzMwMGI1ZTcyZWJjMDAzOGZlNDc0ODdhM2Vi",
   "tracks": [
     {
       "added_at": "2021-03-19 04:02:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "Red To Blue",
-        "url": "https://open.spotify.com/album/1I9c6ocArmYynUppXD68tx"
-      },
-      "artists": [
-        {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        }
-      ],
-      "duration_ms": 235160,
-      "name": "Ships In The Night",
-      "url": "https://open.spotify.com/track/3NL6ZotZh6tO2fssI1Iops"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
         "name": "A Mouthful",
         "url": "https://open.spotify.com/album/3L2s5VsbuOKnIdkfz8vE7J"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 144400,
       "name": "Song for lovers",
       "url": "https://open.spotify.com/track/6MS1VErb239jImgEbtIMgs"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Red To Blue",
+        "url": "https://open.spotify.com/album/1I9c6ocArmYynUppXD68tx"
+      },
+      "artists": [
+        {
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        }
+      ],
+      "duration_ms": 235160,
+      "name": "Ships In The Night",
+      "url": "https://open.spotify.com/track/3NL6ZotZh6tO2fssI1Iops"
     },
     {
       "added_at": "2021-03-19 04:02:00",

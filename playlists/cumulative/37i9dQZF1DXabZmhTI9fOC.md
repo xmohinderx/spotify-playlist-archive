@@ -4,7 +4,7 @@
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-304 songs - 16 hr 38 min - [published](https://open.spotify.com/playlist/1eOyuiVdoM5GbYWB3qlTpE)
+305 songs - 16 hr 40 min - [published](https://open.spotify.com/playlist/1eOyuiVdoM5GbYWB3qlTpE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [HAUNTED](https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HAUNTED](https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2) | 2:17 | 2022-07-29 |  |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2022-08-19 |  |
 | [Heart Of The Darkness](https://open.spotify.com/track/1lqumXdxoyJDWEZBBzFCEz) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Cinematic Songs \(Vol\. 2\)](https://open.spotify.com/album/3m4jEsg6lxhjaYXJSkvfaG) | 3:49 | 2022-08-08 |  |
-| [Heaven Is a Place on Earth](https://open.spotify.com/track/779rIEdmsgjQ22sYccCU2E) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Heaven Is a Place on Earth](https://open.spotify.com/album/599mFdlRQcn08rsnkGVe7N) | 2:47 | 2022-07-25 |  |
+| [Heaven Is A Place On Earth](https://open.spotify.com/track/45vAYz12Qwo6VwjNfdmCKh) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Heaven Is a Place On Earth](https://open.spotify.com/album/69T2rA7zCe9zML6CdHgA90) | 2:47 | 2022-07-25 |  |
+| [Heaven Is a Place on Earth](https://open.spotify.com/track/779rIEdmsgjQ22sYccCU2E) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Heaven Is a Place on Earth](https://open.spotify.com/album/599mFdlRQcn08rsnkGVe7N) | 2:47 | 2022-07-25 | 2022-12-25 |
 | [Heaven On My Mind \(with Sigala\)](https://open.spotify.com/track/7bIq1v8svANsAys7I694Up) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Heaven On My Mind \(with Sigala\)](https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm) | 3:12 | 2022-08-01 |  |
 | [Hit The Road Jack](https://open.spotify.com/track/13WrQpPeut2MTy6jbRwc2Y) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Jon](https://open.spotify.com/artist/2QJKrWBci7NRXIFDe1zo6p), [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Hit The Road Jack](https://open.spotify.com/album/43QLie5HQcXQ90k46XHiqR) | 3:31 | 2022-07-23 | 2022-10-13 |
 | [Hit the Road Jack](https://open.spotify.com/track/5PIpdcCquAoTWTUUjK1tbY) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Hit the Road Jack](https://open.spotify.com/album/2JiWOGcnPYwlkQSdUn2ZGx) | 3:31 | 2022-07-23 |  |

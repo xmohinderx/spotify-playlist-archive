@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nCover: T.I Blaze",
-  "num_followers": 2104,
+  "num_followers": 2119,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTM1NzcwMSwwMDAwMDAwMDZmNDJkYWYxMDIzZWViZmY1Yjk4M2U3NzU3Y2RjZTc4",
+  "snapshot_id": "MTY3MTM1NzcwMSwwMDAwMDAwMDE2YjgwZWEyMjRiNTQwNTNkZDJiZjE1Zjk1NmNlNmI0",
   "tracks": [
     {
       "added_at": "2022-11-14 10:48:33",
@@ -415,26 +415,6 @@
     {
       "added_at": "2022-06-29 06:30:37",
       "album": {
-        "name": "Mafo",
-        "url": "https://open.spotify.com/album/2lCPh18M0n0Ug9LJiqsREw"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Mafo",
-      "url": "https://open.spotify.com/track/0b4KxqG2zGWDh3iH571a7D"
-    },
-    {
-      "added_at": "2022-06-29 06:30:37",
-      "album": {
         "name": "Don't Hype Me",
         "url": "https://open.spotify.com/album/1TunsBNNXVGGhhMojgm4f6"
       },
@@ -505,38 +485,6 @@
       "url": "https://open.spotify.com/track/7nMrhVzouCx2Igpdwzo0Ta"
     },
     {
-      "added_at": "2022-08-05 07:04:19",
-      "album": {
-        "name": "New Born Fela",
-        "url": "https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 129807,
-      "name": "New Born Fela",
-      "url": "https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas"
-    },
-    {
-      "added_at": "2022-06-29 06:30:37",
-      "album": {
-        "name": "PXTA",
-        "url": "https://open.spotify.com/album/1JNKnxhJ9hpSpV1vbetRbU"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 208581,
-      "name": "PXTA",
-      "url": "https://open.spotify.com/track/1D7RpT4p5j72tan4NvEdCY"
-    },
-    {
       "added_at": "2022-06-29 06:30:37",
       "album": {
         "name": "A True Champion",
@@ -555,6 +503,22 @@
       "duration_ms": 191722,
       "name": "KPK (Ko Por Ke)",
       "url": "https://open.spotify.com/track/17q1F7gvBjI5aizepORyYG"
+    },
+    {
+      "added_at": "2022-08-05 07:04:19",
+      "album": {
+        "name": "New Born Fela",
+        "url": "https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 129807,
+      "name": "New Born Fela",
+      "url": "https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas"
     },
     {
       "added_at": "2022-06-29 06:30:37",
@@ -925,22 +889,6 @@
       "url": "https://open.spotify.com/track/0G6mkL7Qenh7YYWPuorN3A"
     },
     {
-      "added_at": "2022-06-29 06:30:37",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/7pQThPR8GmQWkzpvqIteNH"
-      },
-      "artists": [
-        {
-          "name": "Candy Bleakz",
-          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
-        }
-      ],
-      "duration_ms": 174359,
-      "name": "Red",
-      "url": "https://open.spotify.com/track/2eMgsptakx869WHZ64Y2No"
-    },
-    {
       "added_at": "2022-07-29 07:44:33",
       "album": {
         "name": "Ejon Jor",
@@ -959,6 +907,22 @@
       "duration_ms": 134269,
       "name": "Ejon Jor",
       "url": "https://open.spotify.com/track/3zd7lnavnwSmk4YzBidFSL"
+    },
+    {
+      "added_at": "2022-06-29 06:30:37",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/7pQThPR8GmQWkzpvqIteNH"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        }
+      ],
+      "duration_ms": 174359,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/2eMgsptakx869WHZ64Y2No"
     },
     {
       "added_at": "2022-06-29 06:30:37",
@@ -983,22 +947,6 @@
     {
       "added_at": "2022-06-29 06:30:37",
       "album": {
-        "name": "Sinym (Sarz Is Not Your Mate)",
-        "url": "https://open.spotify.com/album/3ZPMvMpc49XwdxVMZZsjRy"
-      },
-      "artists": [
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        }
-      ],
-      "duration_ms": 236065,
-      "name": "Celetronic Riddim",
-      "url": "https://open.spotify.com/track/3sO5W4kHBdjvcyE2ApiVcs"
-    },
-    {
-      "added_at": "2022-06-29 06:30:37",
-      "album": {
         "name": "Idi Oremi (Opotoyi, Pt. 2)",
         "url": "https://open.spotify.com/album/532Y9sBAkcmuOQC3EsgW0K"
       },
@@ -1015,6 +963,22 @@
     {
       "added_at": "2022-06-29 06:30:37",
       "album": {
+        "name": "Sinym (Sarz Is Not Your Mate)",
+        "url": "https://open.spotify.com/album/3ZPMvMpc49XwdxVMZZsjRy"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        }
+      ],
+      "duration_ms": 236065,
+      "name": "Celetronic Riddim",
+      "url": "https://open.spotify.com/track/3sO5W4kHBdjvcyE2ApiVcs"
+    },
+    {
+      "added_at": "2022-06-29 06:30:37",
+      "album": {
         "name": "TinTok Cruise Beat",
         "url": "https://open.spotify.com/album/3AdRRuXQ3Rs8B0APJsbaOu"
       },
@@ -1027,6 +991,22 @@
       "duration_ms": 133160,
       "name": "Tintok Cruise Beat",
       "url": "https://open.spotify.com/track/4KDnF7cF5UwTBEJYosVSnw"
+    },
+    {
+      "added_at": "2022-06-29 06:30:37",
+      "album": {
+        "name": "Geng",
+        "url": "https://open.spotify.com/album/5V40JgTzx7L2GYMAcj7Rdw"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 127111,
+      "name": "Geng",
+      "url": "https://open.spotify.com/track/1pUaknOVFqwYwExrK3K5zv"
     },
     {
       "added_at": "2022-12-02 00:00:00",
@@ -1065,6 +1045,30 @@
       "url": "https://open.spotify.com/track/7pRKdVbFEZU3LkzLY1hi3g"
     },
     {
+      "added_at": "2022-06-29 06:30:37",
+      "album": {
+        "name": "Of Lala",
+        "url": "https://open.spotify.com/album/1Fq2heYALs55JGlNPjHZLB"
+      },
+      "artists": [
+        {
+          "name": "Rahman Jago",
+          "url": "https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS"
+        },
+        {
+          "name": "Jamopyper",
+          "url": "https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 187585,
+      "name": "Of Lala",
+      "url": "https://open.spotify.com/track/6VMwrNQPmy3lHbuoHBTAO0"
+    },
+    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "FotiFoyin",
@@ -1093,44 +1097,36 @@
       "url": "https://open.spotify.com/track/2tuUgpT6L9av9kVH2Yhj9I"
     },
     {
-      "added_at": "2022-06-29 06:30:37",
+      "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Geng",
-        "url": "https://open.spotify.com/album/5V40JgTzx7L2GYMAcj7Rdw"
+        "name": "No Advise Me",
+        "url": "https://open.spotify.com/album/1DVKvXIvBqaIIuPQxy1qkK"
       },
       "artists": [
         {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+          "name": "Orezi",
+          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
         }
       ],
-      "duration_ms": 127111,
-      "name": "Geng",
-      "url": "https://open.spotify.com/track/1pUaknOVFqwYwExrK3K5zv"
+      "duration_ms": 178661,
+      "name": "No Advise Me",
+      "url": "https://open.spotify.com/track/563TepXA7x9GT17SHlSBMW"
     },
     {
       "added_at": "2022-06-29 06:30:37",
       "album": {
-        "name": "Of Lala",
-        "url": "https://open.spotify.com/album/1Fq2heYALs55JGlNPjHZLB"
+        "name": "Alajo Emilokan",
+        "url": "https://open.spotify.com/album/45XrXX2y77M6F5u4oLVHwo"
       },
       "artists": [
         {
-          "name": "Rahman Jago",
-          "url": "https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS"
-        },
-        {
-          "name": "Jamopyper",
-          "url": "https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "DJ CORA",
+          "url": "https://open.spotify.com/artist/5vPNT5JKbOOJuwdQ8dKOAc"
         }
       ],
-      "duration_ms": 187585,
-      "name": "Of Lala",
-      "url": "https://open.spotify.com/track/6VMwrNQPmy3lHbuoHBTAO0"
+      "duration_ms": 74161,
+      "name": "Alajo Emilokan",
+      "url": "https://open.spotify.com/track/10N00uyWmUaHFkNPbtNKvG"
     }
   ],
   "unique_name": "Street Energy ",

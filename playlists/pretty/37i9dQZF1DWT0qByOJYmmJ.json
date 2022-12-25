@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 577982,
+  "num_followers": 578163,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYwMTkzOSwwMDAwMDAwMDliMmNkZjc2YWFjZDE0Y2MzNGMxNTk2NDE5NzVhNWRj",
+  "snapshot_id": "MTY3MDYwMTkzOSwwMDAwMDAwMDc1NGM2OTgyMTlmYmUzZDJhZmIzMDJhOTUwODMyOTZi",
   "tracks": [
     {
       "added_at": "2022-12-09 16:05:39",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-12-09 16:05:39",
       "album": {
-        "name": "Si Nos Volvemos A Encontrar",
-        "url": "https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 204507,
-      "name": "Si Nos Volvemos A Encontrar",
-      "url": "https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM"
-    },
-    {
-      "added_at": "2022-12-09 16:05:39",
-      "album": {
         "name": "Linda Coincidencia",
         "url": "https://open.spotify.com/album/1YAAJCcCgxL4bPwu08KJeW"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 215998,
       "name": "Linda Coincidencia",
       "url": "https://open.spotify.com/track/0JS42avpIsAxFmkYjnbSkq"
+    },
+    {
+      "added_at": "2022-12-09 16:05:39",
+      "album": {
+        "name": "Si Nos Volvemos A Encontrar",
+        "url": "https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 204507,
+      "name": "Si Nos Volvemos A Encontrar",
+      "url": "https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM"
     },
     {
       "added_at": "2022-12-09 16:05:39",

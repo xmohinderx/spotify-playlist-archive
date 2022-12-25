@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-113 songs - 8 hr 22 min - not published yet
+114 songs - 8 hr 26 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [はんどめいど・きみはーと!](https://open.spotify.com/track/2hLA2UCmK6hS3yMDUzqXsx) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM 5th ANNIVERSARY 03](https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX) | 4:11 | 2022-12-01 |  |
 | [ほっぷ・すてっぷ・ハイ、しーぷ!](https://open.spotify.com/track/0lSwhCT4osQHWvYeW20ckj) | [岡村直央 \(CV.矢野奨吾\)](https://open.spotify.com/artist/6UVpGdaJTtWjqayx63Newe) | [THE IDOLM@STER SideM ORIGIN@L PIECES 05](https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ) | 4:12 | 2022-12-01 | 2022-12-06 |
 | [もっふ・いんざぼっくす](https://open.spotify.com/track/13WoTc4bqZFbEZf0M2v77m) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM ST@RTING LINE\-13 もふもふえん](https://open.spotify.com/album/6fDhBe9uCNQcEJU5RoVjlB) | 4:04 | 2022-12-01 |  |
-| [エウレカダイアリー](https://open.spotify.com/track/7oIyoSF18q8FlaGPrc90wi) | [Beit](https://open.spotify.com/artist/4kjd7D2GThtSXOHBgq0WA9), [S.E.M](https://open.spotify.com/artist/3NwNHa7Xdqe1r0j9ky8wgC) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 02](https://open.spotify.com/album/0lRIL8bWRWlOpSZGOmkgSF) | 4:48 | 2022-12-01 |  |
+| [エウレカダイアリー](https://open.spotify.com/track/7oIyoSF18q8FlaGPrc90wi) | [Beit](https://open.spotify.com/artist/4kjd7D2GThtSXOHBgq0WA9), [S.E.M](https://open.spotify.com/artist/3NwNHa7Xdqe1r0j9ky8wgC) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 02](https://open.spotify.com/album/0lRIL8bWRWlOpSZGOmkgSF) | 4:48 | 2022-12-01 | 2022-12-25 |
 | [オレたちの最強伝説\~一世一代、破羅駄威棲!\~](https://open.spotify.com/track/7I1PQc0TghgrtXfunQWZf8) | [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd) | [THE IDOLM@STER SideM ST@RTING LINE\-09 神速一魂](https://open.spotify.com/album/0V7ZKaIhX9xTlWvhiOJ5qk) | 3:15 | 2022-12-01 | 2022-12-03 |
 | [サ・ヨ・ナ・ラ Summer Holiday](https://open.spotify.com/track/3GTuCwTQnwQwdDQF427hWN) | [S.E.M](https://open.spotify.com/artist/3NwNHa7Xdqe1r0j9ky8wgC) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 02](https://open.spotify.com/album/0lRIL8bWRWlOpSZGOmkgSF) | 4:29 | 2022-12-01 |  |
 | [スマイル・エンゲージ](https://open.spotify.com/track/64B7azi2Fw6o1kNEKmoDcI) | [Beit](https://open.spotify.com/artist/4kjd7D2GThtSXOHBgq0WA9) | [THE IDOLM@STER SideM ST@RTING LINE\-03 Beit](https://open.spotify.com/album/5iM4P4PURSe6LQa7qkJKOh) | 5:33 | 2022-12-01 |  |
@@ -112,6 +112,7 @@
 | [伝えたいのはこんなきもち](https://open.spotify.com/track/5jwftUVuxmqkIg8LlcsTyY) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 02](https://open.spotify.com/album/2NSsTgEgV6pCRYqLBCgJoS) | 4:21 | 2022-12-01 | 2022-12-06 |
 | [千客万来ニーハオサァカス!](https://open.spotify.com/track/6xzS3JfLsFuXDeTsMStW6W) | [Shota Mitarai \(CV: Yoshitsugu Matsuoka\)](https://open.spotify.com/artist/6ozSRczwEwSy4jkXpp5iXB), [Minori Watanabe \(CV: Tomohito Takatsuka\)](https://open.spotify.com/artist/4prZhHOQvjtUdgqthbCQFA), [Takeru Taiga \(CV: Junta Terashima\)](https://open.spotify.com/artist/1BmFp2IUqdw85oyqx44lvq), [Daigo Kabuto \(CV: Takehiro Urao\)](https://open.spotify.com/artist/6VK1a5oxhSFphcjG5IyFhF) | [THE IDOLM@STER SideM WORLD TRE@SURE 04](https://open.spotify.com/album/5YY6uJriyD5sLakE00iPx1) | 3:40 | 2022-12-01 |  |
 | [喝彩!\~花鳥風月\~](https://open.spotify.com/track/3cWO8AHohiOhPvBLYtyrYd) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve) | [THE IDOLM@STER SideM ST@RTING LINE\-07 彩](https://open.spotify.com/album/0s7spotLMmTvQPSl4IykMd) | 4:50 | 2022-12-01 |  |
+| [夏時間グラフィティ](https://open.spotify.com/track/2fFyk58FJRGKL40fAa9R1A) | [Beit](https://open.spotify.com/artist/4kjd7D2GThtSXOHBgq0WA9), [High Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec), [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK) | [THE IDOLM@STER SideM ANIMATION PROJECT 01 Reason!!](https://open.spotify.com/album/2dWuenMwbM25FIFG8K7ACG) | 4:05 | 2022-12-22 |  |
 | [天道 輝からのスペシャルメッセージ](https://open.spotify.com/track/7BFww32SyxjIJzDHOxHd15) | [天道 輝 \(CV.仲村宗悟\)](https://open.spotify.com/artist/1GnnePv9qaMSiBZDD7CHa0) | [天道 輝からのスペシャルメッセージ](https://open.spotify.com/album/1AaEweWdMQCM8RXTsG7gTs) | 0:34 | 2022-12-01 |  |
 | [威風堂々と](https://open.spotify.com/track/6loUWr8hVdRMostxfh6OXU) | [黒野玄武 \(CV.深町寿成\)](https://open.spotify.com/artist/38GMHC9cKZ84mYq2mHgcWR) | [THE IDOLM@STER SideM ORIGIN@L PIECES 05](https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ) | 4:27 | 2022-12-01 | 2022-12-03 |
 | [我が混沌のサバト・マリアージュ](https://open.spotify.com/track/2mQQ2u5b2X3DRB55NeQhV2) | [アスラン=ベルゼビュートII世 \(CV.古川 慎\)](https://open.spotify.com/artist/0dXyfHIga8f2GDhON5dcwy) | [THE IDOLM@STER SideM ORIGIN@L PIECES 01](https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC) | 4:45 | 2022-12-13 | 2022-12-24 |

@@ -4,7 +4,7 @@
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-110 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
+112 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,8 +81,10 @@
 | [Seven](https://open.spotify.com/track/1t8G3u5OSk1fCx6p2qfvx6) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Seven](https://open.spotify.com/album/1QKWxr9CgCYTjctWwOMj9I) | 2:20 | 2022-03-17 | 2022-10-15 |
 | [Seven](https://open.spotify.com/track/3gEYp77UDNnrLthRPd1XqR) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [What Should We Do This Summer ?](https://open.spotify.com/album/2owTqqcIqHbuOiOiv8Alji) | 2:20 | 2022-03-17 | 2022-11-13 |
 | [Seven](https://open.spotify.com/track/3zMLVcYxdBYXfzd3v0UK4k) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Seven](https://open.spotify.com/album/3e3JdUqN93nSTtx0MIHTuK) | 2:20 | 2022-03-17 |  |
-| [Sharingan](https://open.spotify.com/track/369BjuBIVwQ9Z0ZvNrdCK9) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Sharingan](https://open.spotify.com/album/3Dp4gQKgU5nDuFp10dwDoC) | 3:03 | 2022-03-17 |  |
-| [Shining](https://open.spotify.com/track/0KW1G9rKXlALday2nNAjNd) | [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Shining](https://open.spotify.com/album/0mWrV1xXwbYAXuOkC7KK9Y) | 3:09 | 2022-03-17 |  |
+| [Sharingan](https://open.spotify.com/track/369BjuBIVwQ9Z0ZvNrdCK9) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Sharingan](https://open.spotify.com/album/3Dp4gQKgU5nDuFp10dwDoC) | 3:03 | 2022-03-17 | 2022-12-25 |
+| [Sharingan](https://open.spotify.com/track/7FTPrKmohZPchzkNuilZhs) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Sharingan](https://open.spotify.com/album/7ElFV9toYFJq1T2VSBaxY9) | 3:03 | 2022-03-17 |  |
+| [Shining](https://open.spotify.com/track/0KW1G9rKXlALday2nNAjNd) | [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Shining](https://open.spotify.com/album/0mWrV1xXwbYAXuOkC7KK9Y) | 3:09 | 2022-03-17 | 2022-12-25 |
+| [Shining](https://open.spotify.com/track/5QP2rGiVzDNAEsS5loaGck) | [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Shining](https://open.spotify.com/album/6ehnt3b5Dlr5A0PA3E3KKK) | 3:09 | 2022-03-17 |  |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2021-10-26 | 2022-03-17 |
 | [Skeletons](https://open.spotify.com/track/6YM72VCuP1kunsV8wCHHHh) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL) | [Skeletons](https://open.spotify.com/album/0VRUKCf6RoV1ZgYlGh577Z) | 3:49 | 2021-10-26 | 2022-03-17 |
 | [Slow Motion](https://open.spotify.com/track/1Wmvi57TUDKNIGnwzbZKQ2) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Slow Motion](https://open.spotify.com/album/0Kb5u4eKQwqwSIApbSFFjU) | 2:05 | 2021-10-26 | 2022-03-17 |

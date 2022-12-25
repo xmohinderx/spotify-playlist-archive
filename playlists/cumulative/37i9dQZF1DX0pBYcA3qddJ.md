@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-207 songs - 13 hr 10 min - not published yet
+208 songs - 13 hr 11 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Man Main Theme](https://open.spotify.com/track/31hV0jmhlMYzcp6CUvsFSZ) | [Cicada](https://open.spotify.com/artist/5Od6qTN5QeUH6CyXaaZusC) | [A Man Main Theme](https://open.spotify.com/album/75grRnp9GaEhzRlsQqVVNL) | 3:01 | 2022-11-10 | 2022-12-02 |
 | [A Mother's Touch \- 『桜色の風が咲く』オリジナル・サウンドトラックより](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(『桜色の風が咲く』オリジナル・サウンドトラックより\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 | 2022-10-27 | 2022-11-11 |
 | [A New Base for an Unknown Friend](https://open.spotify.com/track/4tAvSeSV6AnhliDhJR9FoZ) | [JunIzawa](https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I) | [A New Base EP](https://open.spotify.com/album/7rWa5b30jHvUxS7HmkaSC5) | 5:13 | 2022-11-22 | 2022-12-02 |
-| [A Quiet Grace](https://open.spotify.com/track/4917GPMOmDwQErO8676NZl) | [Josh Alexander](https://open.spotify.com/artist/5TDpeBlmwfv69GCABGr9Gs) | [A Quiet Grace](https://open.spotify.com/album/0BlovuovBYXIVEN4J0OjLw) | 2:50 | 2022-10-20 |  |
+| [A Quiet Grace](https://open.spotify.com/track/4917GPMOmDwQErO8676NZl) | [Josh Alexander](https://open.spotify.com/artist/5TDpeBlmwfv69GCABGr9Gs) | [A Quiet Grace](https://open.spotify.com/album/0BlovuovBYXIVEN4J0OjLw) | 2:50 | 2022-10-20 | 2022-12-25 |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2022-11-24 |  |
 | [ache for](https://open.spotify.com/track/55FOR5Couja7pPTxHKGh84) | [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [ache for](https://open.spotify.com/album/3pit8tQ6VzZ3ZoOxPiX5O0) | 5:28 | 2022-12-15 |  |
 | [Adoration \(Version for Solo Violin and String Orchestra\)](https://open.spotify.com/track/1ah3n5wpOQhFQzl9t3qGIu) | [Florence Beatrice Price](https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Zürcher Kammerorchester](https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM) | [America](https://open.spotify.com/album/4s9avSHrTQWXFYuEy0IfNZ) | 3:52 | 2022-10-20 | 2022-12-14 |
@@ -205,6 +205,7 @@
 | [夜想曲 第20番 嬰ハ短調「レント・コン・グラン・エスプレッシオーネ」\(遺作\)](https://open.spotify.com/track/1CDk88Mxf5tsjky4H8zzeR) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Hisako Kawamura](https://open.spotify.com/artist/49AcsFEdqWxwuQnTKA2pbq) | [夜想\(ノットゥルノ\)\~ショパンの世界](https://open.spotify.com/album/7BXkqS0HYTo1Oc9JwJlHrh) | 4:50 | 2022-10-20 | 2022-11-16 |
 | [子供のためのアルバム 作品 68第1部 幼い子供たちのために 14 小さな練習曲](https://open.spotify.com/track/6nApb9nOQevkIVX0hQcZC9) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Masako Ezaki](https://open.spotify.com/artist/200Ts1yadzJtWxmdKWSBL2) | [シューマン:子供のためのアルバム 作品68](https://open.spotify.com/album/0yQZwie71PZbGkbFQoVc9W) | 2:04 | 2022-12-01 |  |
 | [平均律クラヴィア曲集1\-10 ホ短調, BWV 855a: プレリュード](https://open.spotify.com/track/7w1mosI1qd2wrTjKpLTdVO) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [シロティ](https://open.spotify.com/artist/5Cw1xnWej2I3kZEk0MqqH0), [上原琢矢](https://open.spotify.com/artist/2fKXyRn7lLoGf97tId4b85) | [シャコンヌ](https://open.spotify.com/album/4AQeEq5RqXlDt9PoxXEiM7) | 3:26 | 2022-12-01 |  |
+| [春よ、来い](https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [KIYOZUKA](https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ) | 1:16 | 2022-12-22 |  |
 | [月に吠える](https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [月に吠える](https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3) | 3:25 | 2022-10-20 | 2022-11-09 |
 | [朝靄](https://open.spotify.com/track/65TTzydEeWNWUkRDbK5DmC) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI) | 3:18 | 2022-11-29 | 2022-12-01 |
 | [歩風](https://open.spotify.com/track/1XSAuGdPV3ptrtslbrgn8T) | [Ironomi](https://open.spotify.com/artist/62tSwHM7qLhiSDtVSf51Y5) | [琹の葉](https://open.spotify.com/album/0ab2TfwsIFt9RPG9uCMSSa) | 4:19 | 2022-10-20 | 2022-12-02 |

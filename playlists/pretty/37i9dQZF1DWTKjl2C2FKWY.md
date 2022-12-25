@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKjl2C2FKWY.md) - [plain]
 
 > Soft acoustic sounds for your massage session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,016 likes - 113 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,039 likes - 113 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
 | 2 | [Wherever You Will Go](https://open.spotify.com/track/0kQcWJTOfbktGHPEN0Gaa3) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Wherever You Will Go](https://open.spotify.com/album/6XwTT0vu0yqGtN4NVoC7HI) | 3:29 |
-| 3 | [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/0F0xMIT47P5VpCOH5eajwO) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic](https://open.spotify.com/album/0WExxQj254CORDRL682MBN) | 2:46 |
+| 3 | [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/2y4KKdn0UQPCIh0wbBYfgR) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic EP](https://open.spotify.com/album/2hqtH9rg9G0BsaymBNA8Bp) | 2:46 |
 | 4 | [Hungry Heart](https://open.spotify.com/track/0E7xdpw1IuxK7NnfSbbvlx) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Hungry Heart](https://open.spotify.com/album/2D4H84WEClhIdQT70frHEG) | 3:07 |
 | 5 | [River](https://open.spotify.com/track/5bSKmBnxZx9BXtqs3yYgbG) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [River](https://open.spotify.com/album/4IGahwSE6oSkYX4sxpgOac) | 3:11 |
 | 6 | [A thousand Years \- Acoustic](https://open.spotify.com/track/57CxlA1lWjST9FEueqzvfT) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [A Thousand Years](https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6) | 3:18 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKjl2C2FKWY.md) - [plain]
 | 112 | [Lightning Crashes](https://open.spotify.com/track/7e5dQ0xfbBFC4RWg7ogstX) | [Suzana Maximiliano](https://open.spotify.com/artist/0swyjVW2UWXf3aixsKCGc1) | [Lightning Crashes](https://open.spotify.com/album/45YVxODHqrMEgn8wU9qBaN) | 4:41 |
 | 113 | [Let It Be \- Acoustic Cover](https://open.spotify.com/track/5Z7uQk07vVyT5lTimk0ssS) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Let It Be \(Acoustic Cover\)](https://open.spotify.com/album/6Vy6gebHPKWlIGXBWHwLTN) | 4:24 |
 
-Snapshot ID: `MTY3MDMyOTk3MSwwMDAwMDAwMDNjMjJkZDM3ZTYzM2NlNWU4YWYyYWNmYTBlNjJkYWY3`
+Snapshot ID: `MTY3MDMyOTk3MSwwMDAwMDAwMDhmMmZkMmFhNzViYTk1YjIyNjcwNjc4MzcwOGQ4YTc0`

@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 26738,
+  "num_followers": 26790,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGQwOGE1ZGUxOGViYzBlOWJmYWI0ODMwMDJkZDQ1OGE5",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDRhOGY1Y2NhMjExOTdiMGJiY2U0ZjVlZTIxMzBjZTlh",
   "tracks": [
     {
       "added_at": "2022-09-09 09:05:38",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 374706,
-      "name": "Confidence - Live",
-      "url": "https://open.spotify.com/track/5J0TvJIdYrybgk6SINgieR"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
         "name": "No Longer Slaves",
         "url": "https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 350981,
       "name": "No Longer Slaves",
       "url": "https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 374706,
+      "name": "Confidence - Live",
+      "url": "https://open.spotify.com/track/5J0TvJIdYrybgk6SINgieR"
     },
     {
       "added_at": "2022-11-25 07:49:05",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 408856,
-      "name": "Mensuro",
-      "url": "https://open.spotify.com/track/1cM5uGt3561vmeY5wHQBnY"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
         "name": "Declaring His Power (Live)",
         "url": "https://open.spotify.com/album/596i9Wa4ivexgbqFh0qiaw"
       },
@@ -1191,22 +1175,18 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "Billion Words",
-        "url": "https://open.spotify.com/album/3MxeCft9yM5F5rpfokjV6Y"
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Onos",
-          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 464973,
-      "name": "Billion Words",
-      "url": "https://open.spotify.com/track/2puMJOrIlIR5ED23tXG69u"
+      "duration_ms": 408856,
+      "name": "Mensuro",
+      "url": "https://open.spotify.com/track/1cM5uGt3561vmeY5wHQBnY"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -1227,6 +1207,26 @@
       "duration_ms": 272000,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "Billion Words",
+        "url": "https://open.spotify.com/album/3MxeCft9yM5F5rpfokjV6Y"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Onos",
+          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
+        }
+      ],
+      "duration_ms": 464973,
+      "name": "Billion Words",
+      "url": "https://open.spotify.com/track/2puMJOrIlIR5ED23tXG69u"
     },
     {
       "added_at": "2022-07-28 23:00:00",

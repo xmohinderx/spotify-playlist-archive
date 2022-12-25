@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 456462,
+  "num_followers": 456648,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NjYxOCwwMDAwMDAwMDcxYzcwZGVlYzI2NzM1OGFlMTdhNTYzOTllZTcxNDk1",
+  "snapshot_id": "MTY3MDU2NjYxOCwwMDAwMDAwMGYyN2Q0ODQ4NTAyMGFlY2FiNjJiNGY1NjY1YjI4MGM0",
   "tracks": [
     {
       "added_at": "2022-11-18 12:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Kaleidoscope Dream",
-        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Adorn",
-      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "E=MC2",
         "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 204733,
       "name": "Touch My Body",
       "url": "https://open.spotify.com/track/2aEuXA1KswHlCGPOuPmCOW"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Wherever You Will Go",
-        "url": "https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh"
-      },
-      "artists": [
-        {
-          "name": "Charlene Soraia",
-          "url": "https://open.spotify.com/artist/0qk8MxMzgnfFECvDO3cc0X"
-        }
-      ],
-      "duration_ms": 197577,
-      "name": "Wherever You Will Go",
-      "url": "https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Get You - Single",
         "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 277297,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Wherever You Will Go",
+        "url": "https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh"
+      },
+      "artists": [
+        {
+          "name": "Charlene Soraia",
+          "url": "https://open.spotify.com/artist/0qk8MxMzgnfFECvDO3cc0X"
+        }
+      ],
+      "duration_ms": 197577,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Wish I Was Right For You",
-        "url": "https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR"
-      },
-      "artists": [
-        {
-          "name": "jens",
-          "url": "https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg"
-        }
-      ],
-      "duration_ms": 182562,
-      "name": "Wish I Was Right For You",
-      "url": "https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Crowded Places",
         "url": "https://open.spotify.com/album/5kBfpqZQEERHLnFCDGoX9D"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 262259,
       "name": "Crowded Places",
       "url": "https://open.spotify.com/track/6kNMg11e0ApnTmExdayfA1"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Wish I Was Right For You",
+        "url": "https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR"
+      },
+      "artists": [
+        {
+          "name": "jens",
+          "url": "https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg"
+        }
+      ],
+      "duration_ms": 182562,
+      "name": "Wish I Was Right For You",
+      "url": "https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "NIGHT FLIGHT",
-        "url": "https://open.spotify.com/album/2CfUVZdfwVHZNzf5WF3BID"
-      },
-      "artists": [
-        {
-          "name": "NIGHT FLIGHT",
-          "url": "https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "Parade",
-      "url": "https://open.spotify.com/track/1PAH34xJkjVKe51fS0Rv53"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Cassie (U.S. Version)",
         "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 247000,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/5YapFTzK50sdZcM6rWuL9M"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "NIGHT FLIGHT",
+        "url": "https://open.spotify.com/album/2CfUVZdfwVHZNzf5WF3BID"
+      },
+      "artists": [
+        {
+          "name": "NIGHT FLIGHT",
+          "url": "https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "Parade",
+      "url": "https://open.spotify.com/track/1PAH34xJkjVKe51fS0Rv53"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Amari' SZN 1",
-        "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
-      },
-      "artists": [
-        {
-          "name": "Amari Noelle",
-          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
-        }
-      ],
-      "duration_ms": 182248,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/2S9z9vVqHYMHSDaekOIdtB"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Heights",
         "url": "https://open.spotify.com/album/0XDFAkZ0lguLrmkJlq0bRp"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 226750,
       "name": "Heights",
       "url": "https://open.spotify.com/track/6AeMqCW8yvsUlPbC2euMON"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Amari' SZN 1",
+        "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
+      },
+      "artists": [
+        {
+          "name": "Amari Noelle",
+          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
+        }
+      ],
+      "duration_ms": 182248,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/2S9z9vVqHYMHSDaekOIdtB"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Entwined",
-        "url": "https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94"
-      },
-      "artists": [
-        {
-          "name": "Elias",
-          "url": "https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf"
-        }
-      ],
-      "duration_ms": 248895,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6NqWkjJYrl0btI44T9dTjg"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Keeper",
         "url": "https://open.spotify.com/album/6diy4RSh46M4H07eFCSywl"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 265518,
       "name": "Keeper",
       "url": "https://open.spotify.com/track/4eAjYQi1Pcimj01jVl9DFO"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Entwined",
+        "url": "https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf"
+        }
+      ],
+      "duration_ms": 248895,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6NqWkjJYrl0btI44T9dTjg"
     },
     {
       "added_at": "2022-11-18 12:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > só os que venceram na batalha de dança TUBARÃO TE AMO FALCÃO TE AMO
 
-[Spotify](https://open.spotify.com/user/spotify) - 910,803 likes - 67 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,789 likes - 67 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

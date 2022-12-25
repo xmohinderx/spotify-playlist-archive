@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks for your new years eve party! \| NYE party music including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday
 
-[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,250 likes - 153 songs - 7 hr 58 min
+[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,237 likes - 153 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

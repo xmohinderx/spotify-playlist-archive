@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,888 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,215 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 20 | [Elengi](https://open.spotify.com/track/0uUAqOdZFxa3yLi74cALfV) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Elengi](https://open.spotify.com/album/1euNOY9La6HVtlhADfFXaB) | 3:13 |
 | 21 | [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 |
 | 22 | [Pardon](https://open.spotify.com/track/2Fq5X3Mk5wBXm0Ba6HLhRC) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Pardon](https://open.spotify.com/album/2lg8wdL4nCUipxVf6Rr0l4) | 2:47 |
-| 23 | [Sugarcane \(Remix\) \[feat\. King Promise, Mayorkun & Darkoo\]](https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sugarcane \(Remix\) \[feat\. King Promise, Mayorkun & Darkoo\]](https://open.spotify.com/album/5dFQsLF9BvkgmgMONO8imD) | 4:11 |
+| 23 | [Sugarcane \- Remix](https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sugarcane \(Remix\)](https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN) | 4:11 |
 | 24 | [Miss Des Miss](https://open.spotify.com/track/2Qexnj9p4HuIbEljqrjlce) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Miss Des Miss](https://open.spotify.com/album/2JHZlpiaErSIdrv69sEt2S) | 2:34 |
 | 25 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 |
 | 26 | [Awajaree](https://open.spotify.com/track/5MJqTovX6d8m1LCh3CLHgd) | [Papi](https://open.spotify.com/artist/1seuCAgNtazhgOk3LaP68H) | [Awajaree](https://open.spotify.com/album/3tzIu51reZALx78qZPxGl6) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 |
 | 50 | [À distance \- Chokololo](https://open.spotify.com/track/3UFIY9Jv7OdPvqRkzwEfOJ) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF) | [À distance \(Chokololo\)](https://open.spotify.com/album/3SS31nC0avfiusueSnTZdX) | 2:55 |
 
-Snapshot ID: `MTY3MTc1MDAwMCwwMDAwMDAwMGE2OTBjYzg0ZGY3YzhlNDMwNWE1MDA5MjA1NTRkYmRi`
+Snapshot ID: `MTY3MTc1MDAwMCwwMDAwMDAwMGFhYWM5Nzc4YjUwMzFjNGUyZDE2YjliNGFmYWJmODg2`

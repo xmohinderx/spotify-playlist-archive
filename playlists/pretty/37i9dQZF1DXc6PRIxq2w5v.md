@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,167 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,255 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 57 | [Nome Sobre Todo Nome](https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Nome Sobre Todo Nome](https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj) | 2:13 |
 | 58 | [Apologetas](https://open.spotify.com/track/5VO6wd9GZRZUQSq149WuIM) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1) | [Apologetas](https://open.spotify.com/album/634hOgzEX0ZjtPLI52bCTm) | 2:58 |
 | 59 | [Se Cair](https://open.spotify.com/track/6qx9NzaqtRvYrcJ0ojAZzh) | [Bruno Coutinho](https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO), [Gui Souz MSC](https://open.spotify.com/artist/4JsEcRRMcKUPDgIeUuEvJ9) | [Se Cair](https://open.spotify.com/album/7M8bKWCmVtrUK3hrk3NSSQ) | 3:36 |
-| 60 | [Por Um](https://open.spotify.com/track/1VVorN6krkHg0M2RhOd769) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [Samuel Shikoba](https://open.spotify.com/artist/4GODihF5IXcVquZ5qq5S5r) | [Por Um](https://open.spotify.com/album/6RFgNle0IylqKa6wfSXqIl) | 3:13 |
-| 61 | [Deserto](https://open.spotify.com/track/4RAeUonVKVHJVosv2j0eyU) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB) | [Deserto](https://open.spotify.com/album/0MF14iNYICi1Lkn7yZYlZh) | 3:29 |
+| 60 | [Deserto](https://open.spotify.com/track/4RAeUonVKVHJVosv2j0eyU) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB) | [Deserto](https://open.spotify.com/album/0MF14iNYICi1Lkn7yZYlZh) | 3:29 |
+| 61 | [Por Um](https://open.spotify.com/track/1VVorN6krkHg0M2RhOd769) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [Samuel Shikoba](https://open.spotify.com/artist/4GODihF5IXcVquZ5qq5S5r) | [Por Um](https://open.spotify.com/album/6RFgNle0IylqKa6wfSXqIl) | 3:13 |
 | 62 | [Possivel É](https://open.spotify.com/track/7Gn9M2Gt4wcjzW9Se0esmO) | [KJ](https://open.spotify.com/artist/2C8xiQfIDWO4nKxfMZoL2c), [DJ Alle Mark](https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ) | [Possivel É](https://open.spotify.com/album/0Bz5jyWKCtu3bcQQF3AoBo) | 4:21 |
 | 63 | [LEVANTAR](https://open.spotify.com/track/2JMgMgcS4H1jAWxoP19vy0) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [Caíque Ribeiro](https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7) | [Levantar](https://open.spotify.com/album/1R5eqiltxoCCSUpr3VuigR) | 2:47 |
 | 64 | [O Preço](https://open.spotify.com/track/75ElCpWWG587b1qVhW4uun) | [C\. Braga](https://open.spotify.com/artist/5vatyKN28NkojtJkfg9fTp), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [O Preço](https://open.spotify.com/album/4dpgxFCXibZZsHqZhc07yU) | 3:22 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 69 | [Palavras Tem Poder](https://open.spotify.com/track/1dUF1jMNL4deMXvQ32aMWO) | [BB Rocha](https://open.spotify.com/artist/0EZQjfQIj9nhFgTFYHvXCp) | [Palavras Tem Poder](https://open.spotify.com/album/2hytBe2NaIGE6pmBjxOJWh) | 1:45 |
 | 70 | [Vivo pela Fé](https://open.spotify.com/track/0TMDB1AaYHs9oPhIh3KRQR) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Kael](https://open.spotify.com/artist/2REBelsnF968ZaU1llcjiN), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Vivo pela Fé](https://open.spotify.com/album/7mII8uafIEJ5gzObNp2EZ3) | 2:17 |
 
-Snapshot ID: `MTY3MDU2Njk0MywwMDAwMDAwMDlhOTg1ZTkzZTg3MzU1MmViMDgzY2ViYjUzZDYxNGEz`
+Snapshot ID: `MTY3MDU2Njk0MywwMDAwMDAwMDJlYzUzMDlkZjQyNWY3NDE1ZTJjZTljYWUzNjdmZmVk`

@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and new UK Funky. Cover: Roska",
-  "num_followers": 97164,
+  "num_followers": 97177,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE4MiwwMDAwMDAwMDdkMjIyMmFjOGJkYmRhMzQ1ZDM4MzM2MjJlNGM3NDYz",
+  "snapshot_id": "MTY0OTg2MjE4MiwwMDAwMDAwMGNlYTAzNjZmNGE0ODlmYTVjYzdjZDIxYThlYjFhNTdj",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:02",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Narst / Love Dub",
-        "url": "https://open.spotify.com/album/14AlAp96M3GOiLoGSdeAYu"
-      },
-      "artists": [
-        {
-          "name": "Cooly G",
-          "url": "https://open.spotify.com/artist/0XfcR8jVPEm77dOJEN9tvq"
-        }
-      ],
-      "duration_ms": 215706,
-      "name": "Love Dub",
-      "url": "https://open.spotify.com/track/2T4eUTOuEXnUWsQVyPzdGf"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Make Money",
         "url": "https://open.spotify.com/album/0lF3TZ4d8dK723Icsy5dvH"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 197072,
       "name": "Make Money",
       "url": "https://open.spotify.com/track/5D2nyKpovnlc0o6dFWA4Y1"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Narst / Love Dub",
+        "url": "https://open.spotify.com/album/14AlAp96M3GOiLoGSdeAYu"
+      },
+      "artists": [
+        {
+          "name": "Cooly G",
+          "url": "https://open.spotify.com/artist/0XfcR8jVPEm77dOJEN9tvq"
+        }
+      ],
+      "duration_ms": 215706,
+      "name": "Love Dub",
+      "url": "https://open.spotify.com/track/2T4eUTOuEXnUWsQVyPzdGf"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Diary of a Princess",
-        "url": "https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe"
-      },
-      "artists": [
-        {
-          "name": "Princess Nyah",
-          "url": "https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh"
-        }
-      ],
-      "duration_ms": 235275,
-      "name": "Frontline",
-      "url": "https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Sentah",
         "url": "https://open.spotify.com/album/3wkIHYwO7iSF8NGzaS89p2"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 188546,
       "name": "Sentah",
       "url": "https://open.spotify.com/track/3ozyBc00Z3ZARwbvSYHBjP"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Diary of a Princess",
+        "url": "https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe"
+      },
+      "artists": [
+        {
+          "name": "Princess Nyah",
+          "url": "https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh"
+        }
+      ],
+      "duration_ms": 235275,
+      "name": "Frontline",
+      "url": "https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH"
     },
     {
       "added_at": "2022-04-13 15:03:02",

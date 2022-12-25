@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 
 > Who order Azul?
 
-[Spotify](https://open.spotify.com/user/spotify) - 225 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 282 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 | 13 | [Wiase \(Y3d3 Remix\)](https://open.spotify.com/track/4eGieXDwiQ1RL980VAcQ5p) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Yung C](https://open.spotify.com/artist/4AmyHrK5ftoTr4qYrFGTlW) | [Wiase \(Y3d3 Remix\)](https://open.spotify.com/album/5iKIckXV57WUQ3LC6Ejd5x) | 4:36 |
 | 14 | [Killin Dem \(feat\. Zlatan\)](https://open.spotify.com/track/3a7ziOOO3Cbuv6BMXrj0wU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:41 |
 | 15 | [AKWAABA](https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Patapaa](https://open.spotify.com/artist/2IiQaWRKteXMGLUcdHLBO9) | [AKWAABA](https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj) | 3:26 |
-| 16 | [Jama](https://open.spotify.com/track/4dskoEQk5pAg9HKyEC2m1y) | [DJ Mic Smith](https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Shaker](https://open.spotify.com/artist/7ArAbdLBhHHZbkJI4cfndo) | [Jama](https://open.spotify.com/album/0jAZGDBm9i8MoD5AENa1xQ) | 3:54 |
+| 16 | [Jama](https://open.spotify.com/track/59qTPQbGwetpMucsi03W97) | [DJ Mic Smith](https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Shaker](https://open.spotify.com/artist/7ArAbdLBhHHZbkJI4cfndo) | [Jama](https://open.spotify.com/album/080VXLloTgqny7EUtmZ05Z) | 3:54 |
 | 17 | [Tonga](https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Tonga](https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8) | 3:22 |
 | 18 | [Omo Ada \(feat\. Shatta Wale & Fela Makafui\)](https://open.spotify.com/track/6Oh69XEHxh966heGDz4Yul) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Fela Makafui](https://open.spotify.com/artist/5PcgFn6JlRK9gXsSX7i3h3), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Omo Ada \(feat\. Shatta Wale & Fela Makafui\)](https://open.spotify.com/album/1MW8m6LL9SvHCI3L8fWtQp) | 2:48 |
 | 19 | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/album/6831TJYXJuShA212mn1yVi) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 | 49 | [Kilofeshe](https://open.spotify.com/track/78OD9RZjAyQcfsAigmRuGs) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Kilofeshe](https://open.spotify.com/album/4rcjl8nuXNh4cZDaavVoib) | 2:45 |
 | 50 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 |
 
-Snapshot ID: `MTY2OTk1Njk5MSwwMDAwMDAwMGE1ZmQyYjhhOWIzY2QxOTFiMjI4ZmIyY2E5NzdhNmNh`
+Snapshot ID: `MTY2OTk1Njk5MSwwMDAwMDAwMDQwN2Y3YjdiNmE2NjUwMmRmYmVkMzc3NDQ4NDg1YWQ4`

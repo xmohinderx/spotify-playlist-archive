@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-132 songs - 8 hr 55 min - not published yet
+133 songs - 9 hr 0 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Arbolito](https://open.spotify.com/track/3jOl0qRSfT1KkMd4pPLmeS) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño, Vol\. II](https://open.spotify.com/album/4zGcM2kO7IlHxqukxgCvgm) | 4:58 | 2022-11-25 |  |
 | [Ay, Ven en Navidad](https://open.spotify.com/track/7MiMJ4uF7MmYGEDaeMhwey) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 4:45 | 2022-11-25 |  |
 | [Baracunatana](https://open.spotify.com/track/6SjrXHZuPjXXbdBBL2gFAM) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [El Viaje Musical de Lisandro Meza, 60 Años, Vol\. 1](https://open.spotify.com/album/2ZwCWFJY7Kx12Uh1BrFdg3) | 4:46 | 2022-11-25 | 2022-12-24 |
+| [Baracunatana](https://open.spotify.com/track/54Mmo8YOqrr6A53QVO14il) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3), [Los Hijos De La Niña Luz](https://open.spotify.com/artist/1pdvqZlba01URStTIbnfv2) | [17 Éxitos](https://open.spotify.com/album/3TWu5whCfUMJbbzaNXqved) | 4:46 | 2022-12-18 |  |
 | [Bebo Hoy Bebo Mañana](https://open.spotify.com/track/5N8NdJ4K7GT7FCaH1gx1WC) | [Conjunto Quisquella](https://open.spotify.com/artist/0YhGsTSxJheGpoWWHq8Jeb) | [Merengue Navideño](https://open.spotify.com/album/723wthgUpMymoNyzovCz5e) | 4:54 | 2022-11-25 | 2022-12-19 |
 | [Bomba en Navidad](https://open.spotify.com/track/2kIawdmEzVhR9F0Z8EsOns) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Felices Pascuas](https://open.spotify.com/album/5ZfFl3nLmKSGdN3pKrVBQ6) | 5:06 | 2022-11-25 |  |
 | [Cantares de Navidad](https://open.spotify.com/track/2Jrp6IZC9nuxFKICHs6ioH) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Estrellas de Navidad](https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU) | 5:04 | 2022-11-25 | 2022-12-19 |
@@ -43,7 +44,7 @@
 | [El Arbolito](https://open.spotify.com/track/4dPDyWW4jv1DCwf54a0Oql) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [It's Christmas Time! \(Original Recordings\)](https://open.spotify.com/album/5WlU0sbzRWMlYWwSJobc7I) | 4:09 | 2022-11-25 | 2022-12-19 |
 | [El Avion](https://open.spotify.com/track/5mpvrAdbbSvThDIKygCrPL) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [Merenboom Vol\. 4](https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI) | 4:58 | 2022-11-25 |  |
 | [El Año Viejo](https://open.spotify.com/track/6zpp925GKli7ewqZ7EsuSv) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Estrellas de Navidad](https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU) | 3:18 | 2022-11-25 | 2022-12-19 |
-| [El Año Viejo](https://open.spotify.com/track/2eyo4wc8WOy7QrdYNQDDB6) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [El Año Viejo](https://open.spotify.com/album/7mMWItUBIdgcXB41pnzWwz) | 3:04 | 2022-11-25 |  |
+| [El Año Viejo](https://open.spotify.com/track/2eyo4wc8WOy7QrdYNQDDB6) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [El Año Viejo](https://open.spotify.com/album/7mMWItUBIdgcXB41pnzWwz) | 3:04 | 2022-11-25 | 2022-12-25 |
 | [El Año Viejo](https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 3:02 | 2022-11-25 |  |
 | [El burrito de belen](https://open.spotify.com/track/4Y1oOsZkfCV01Ov8jqU7mJ) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [El burrito de belen / Dame la mano paloma](https://open.spotify.com/album/1S4fT6NsFY4AzFViDpg69w) | 3:24 | 2022-12-18 |  |
 | [El Burrito De Belén](https://open.spotify.com/track/2ALqtIJS3bnBqtTiJrClKs) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Superestrellas En Navidad](https://open.spotify.com/album/37KAP4I6Cmu0W2sMAV5YFH) | 3:13 | 2022-11-25 |  |

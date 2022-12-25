@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Cover: Gordo
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,269 likes - 127 songs - 6 hr 56 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,265 likes - 127 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

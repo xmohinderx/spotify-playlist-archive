@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 316882,
+  "num_followers": 316987,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGFkY2NiY2JiMjNiZmMwMjIyNzJlZDM1NjFkNGY3Nzhk",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDIyMzRmZTM3OWM1NTNkOTY4YmFiNjA1NjkwMzE4YWY2",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -455,18 +455,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Smooth Move",
-        "url": "https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa"
+        "name": "Bacano",
+        "url": "https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt"
       },
       "artists": [
         {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
         }
       ],
-      "duration_ms": 316107,
-      "name": "Smooth Move",
-      "url": "https://open.spotify.com/track/6WFwC46XQapcmnToEcromu"
+      "duration_ms": 309092,
+      "name": "Open Season",
+      "url": "https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Bacano",
-        "url": "https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt"
+        "name": "Smooth Move",
+        "url": "https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa"
       },
       "artists": [
         {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
         }
       ],
-      "duration_ms": 309092,
-      "name": "Open Season",
-      "url": "https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH"
+      "duration_ms": 316107,
+      "name": "Smooth Move",
+      "url": "https://open.spotify.com/track/6WFwC46XQapcmnToEcromu"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -553,6 +553,22 @@
       "url": "https://open.spotify.com/track/2sqZfX3pEda59tqZNPJMaS"
     },
     {
+      "added_at": "2021-02-19 05:01:00",
+      "album": {
+        "name": "Basilisk",
+        "url": "https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        }
+      ],
+      "duration_ms": 269146,
+      "name": "Basilisk",
+      "url": "https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u"
+    },
+    {
       "added_at": "2021-06-11 04:01:00",
       "album": {
         "name": "The Golden Hour",
@@ -591,22 +607,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Golden Ticket",
-        "url": "https://open.spotify.com/album/0iOLQnizNBBrvLbvmdUPF6"
-      },
-      "artists": [
-        {
-          "name": "Brasstracks",
-          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "Basket Case",
-      "url": "https://open.spotify.com/track/4X9qoigjhdm32eRJRcjtm2"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Wired",
         "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
       },
@@ -623,18 +623,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Tej b/w Short Shrift",
-        "url": "https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu"
+        "name": "Golden Ticket",
+        "url": "https://open.spotify.com/album/0iOLQnizNBBrvLbvmdUPF6"
       },
       "artists": [
         {
-          "name": "The So Ons",
-          "url": "https://open.spotify.com/artist/4Nxb7FqlvvJ0bhqCypMD6D"
+          "name": "Brasstracks",
+          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
         }
       ],
-      "duration_ms": 328433,
-      "name": "Tej",
-      "url": "https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD"
+      "duration_ms": 228986,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/4X9qoigjhdm32eRJRcjtm2"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -653,20 +653,20 @@
       "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
     },
     {
-      "added_at": "2021-02-19 05:01:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Basilisk",
-        "url": "https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H"
+        "name": "Tej b/w Short Shrift",
+        "url": "https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu"
       },
       "artists": [
         {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+          "name": "The So Ons",
+          "url": "https://open.spotify.com/artist/4Nxb7FqlvvJ0bhqCypMD6D"
         }
       ],
-      "duration_ms": 269146,
-      "name": "Basilisk",
-      "url": "https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u"
+      "duration_ms": 328433,
+      "name": "Tej",
+      "url": "https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/7v4FBNdpo3FQwmHcU7hDnI"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "3 (Remastered)",
+        "url": "https://open.spotify.com/album/38p16DnIi2n5sxiZBat3ML"
+      },
+      "artists": [
+        {
+          "name": "Magic In Threes",
+          "url": "https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay"
+        }
+      ],
+      "duration_ms": 138533,
+      "name": "Work Tapes",
+      "url": "https://open.spotify.com/track/6IlJLEMA4tkDBFM4joXEzM"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Psychic Powers",
@@ -751,22 +767,6 @@
       "duration_ms": 158620,
       "name": "Psychic Powers",
       "url": "https://open.spotify.com/track/5xhQ3UWq2LhlYKFy1G1kY5"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "3 (Remastered)",
-        "url": "https://open.spotify.com/album/38p16DnIi2n5sxiZBat3ML"
-      },
-      "artists": [
-        {
-          "name": "Magic In Threes",
-          "url": "https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "Work Tapes",
-      "url": "https://open.spotify.com/track/6IlJLEMA4tkDBFM4joXEzM"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Good Luck With That",
-        "url": "https://open.spotify.com/album/3oSXZcUOdRgh1jiIjCFeiK"
-      },
-      "artists": [
-        {
-          "name": "Wolcott Curran Collective",
-          "url": "https://open.spotify.com/artist/5iJNcFVVTSBVdgoAY52ox5"
-        }
-      ],
-      "duration_ms": 250680,
-      "name": "Good Luck With That",
-      "url": "https://open.spotify.com/track/5YRjOIXSQ95AIvy4h5xkbu"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "The Fox",
         "url": "https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 239280,
       "name": "Do You Wanna Get Down",
       "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Good Luck With That",
+        "url": "https://open.spotify.com/album/3oSXZcUOdRgh1jiIjCFeiK"
+      },
+      "artists": [
+        {
+          "name": "Wolcott Curran Collective",
+          "url": "https://open.spotify.com/artist/5iJNcFVVTSBVdgoAY52ox5"
+        }
+      ],
+      "duration_ms": 250680,
+      "name": "Good Luck With That",
+      "url": "https://open.spotify.com/track/5YRjOIXSQ95AIvy4h5xkbu"
     },
     {
       "added_at": "2021-04-02 05:01:00",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/1uy8jY4k6SmI2Zr6fwbldQ"
     },
     {
-      "added_at": "2021-01-15 21:11:37",
-      "album": {
-        "name": "The Duke",
-        "url": "https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9"
-      },
-      "artists": [
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 166760,
-      "name": "The Duke",
-      "url": "https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Stay Awhile",
@@ -1049,20 +1033,20 @@
       "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
+      "added_at": "2021-01-15 21:11:37",
       "album": {
-        "name": "Assassin (The Paisley Park Session)",
-        "url": "https://open.spotify.com/album/4sj2In3VzdEOey1GlGlVhl"
+        "name": "The Duke",
+        "url": "https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9"
       },
       "artists": [
         {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
         }
       ],
-      "duration_ms": 202457,
-      "name": "Assassin - The Paisley Park Session",
-      "url": "https://open.spotify.com/track/00iZlOpfLr21eTSl0Ba3hn"
+      "duration_ms": 166760,
+      "name": "The Duke",
+      "url": "https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1087,6 +1071,22 @@
       "duration_ms": 120185,
       "name": "Stay In Your Lane",
       "url": "https://open.spotify.com/track/55ti5VOfdRuHEfMkbnOXR3"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Assassin (The Paisley Park Session)",
+        "url": "https://open.spotify.com/album/4sj2In3VzdEOey1GlGlVhl"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "duration_ms": 202457,
+      "name": "Assassin - The Paisley Park Session",
+      "url": "https://open.spotify.com/track/00iZlOpfLr21eTSl0Ba3hn"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1233,20 +1233,20 @@
       "url": "https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "Gotcha Rhythm Right Here",
-        "url": "https://open.spotify.com/album/5Ru54rs8Wr4ojekCyKHsz0"
+        "name": "Prospect Park West",
+        "url": "https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ"
       },
       "artists": [
         {
-          "name": "John Tropea",
-          "url": "https://open.spotify.com/artist/0WPM7cWlRjCwho6G09x2S2"
+          "name": "Jerry McHoy",
+          "url": "https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf"
         }
       ],
-      "duration_ms": 352192,
-      "name": "Chili Wa Man",
-      "url": "https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S"
+      "duration_ms": 176184,
+      "name": "Prospect Park West",
+      "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
     },
     {
       "added_at": "2021-11-26 05:01:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Gotcha Rhythm Right Here",
+        "url": "https://open.spotify.com/album/5Ru54rs8Wr4ojekCyKHsz0"
+      },
+      "artists": [
+        {
+          "name": "John Tropea",
+          "url": "https://open.spotify.com/artist/0WPM7cWlRjCwho6G09x2S2"
+        }
+      ],
+      "duration_ms": 352192,
+      "name": "Chili Wa Man",
+      "url": "https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Live A Ponte Sisto",
         "url": "https://open.spotify.com/album/6f3eNyHGDyc94yn5wStBYV"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 343080,
       "name": "Broasted Or Fried",
       "url": "https://open.spotify.com/track/0OdjZKTMbT5MyP1xrwAsHI"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Prospect Park West",
-        "url": "https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ"
-      },
-      "artists": [
-        {
-          "name": "Jerry McHoy",
-          "url": "https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf"
-        }
-      ],
-      "duration_ms": 176184,
-      "name": "Prospect Park West",
-      "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1327,22 +1327,6 @@
       "duration_ms": 470371,
       "name": "Bambu",
       "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Funkafized Plus",
-        "url": "https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f"
-      },
-      "artists": [
-        {
-          "name": "Boston Horns",
-          "url": "https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "Funkafized",
-      "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
     },
     {
       "added_at": "2021-11-19 05:02:00",
@@ -1363,6 +1347,22 @@
       "duration_ms": 305000,
       "name": "Cornish Hen",
       "url": "https://open.spotify.com/track/7nzJpykzx8lLq6aKKjcMP5"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Funkafized Plus",
+        "url": "https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f"
+      },
+      "artists": [
+        {
+          "name": "Boston Horns",
+          "url": "https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Funkafized",
+      "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
     },
     {
       "added_at": "2020-11-13 05:02:00",

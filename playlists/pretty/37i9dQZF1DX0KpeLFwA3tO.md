@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: poptropicaslutz!
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,253 likes - 125 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,315 likes - 125 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 97 | [Country Life](https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Country Life](https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT) | 2:27 |
 | 98 | [HAPPY](https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie) | 2:27 |
 | 99 | [Mayday](https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Mayday](https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo) | 3:15 |
-| 100 | [Sweet One](https://open.spotify.com/track/07yN3cbIaYw9LOli6iFEuL) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Perpetual States of Boredom](https://open.spotify.com/album/6oRFl2fJkYPBAMyRw6Q3GY) | 2:13 |
+| 100 | [Sweet One](https://open.spotify.com/track/2keqxI0IrJUrdBbXpswQpI) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Perpetual States of Boredom](https://open.spotify.com/album/0d3mjWzH04Ggs8aS2dfZOl) | 2:13 |
 | 101 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 |
 | 102 | [Violent Faith](https://open.spotify.com/track/3DcwnJm8kwUHLXfFFeaIUy) | [Craig's Brother](https://open.spotify.com/artist/7vQBiuIC5Ac3zwezkl6Y8S) | [Violent Faith](https://open.spotify.com/album/4x01ichsFuSFc4W2LbvX7s) | 3:38 |
 | 103 | [Freakshow](https://open.spotify.com/track/4qG7VJzZS75eZVv6LFnLbM) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Freakshow](https://open.spotify.com/album/2DzI2RSNz6HxgmHJCzwCK6) | 2:24 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Meal Deal](https://open.spotify.com/track/5qKqepzQPaif5QKoZNsiOU) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Meal Deal](https://open.spotify.com/album/1vxQHrNWHlXJsKIsozh2UZ) | 2:23 |
 | 125 | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/2fPKdiqwKvEdhtytC0kDED) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/album/16zuCh6AvPoS058XshhseX) | 3:36 |
 
-Snapshot ID: `MTY3MDU0NDAwMCwwMDAwMDAwMGUyMzExNmNiOWFmZTM0MmUyMDA0OTlhYWVhZTQ3MmZi`
+Snapshot ID: `MTY3MDU0NDAwMCwwMDAwMDAwMGIxOGY4YWRmMDkwMzc5MzIyZTczMDg5NjA4OTFmZDQw`

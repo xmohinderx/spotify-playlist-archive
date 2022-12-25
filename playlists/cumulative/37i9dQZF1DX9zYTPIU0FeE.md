@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M?si=DqsiTcXFSpaLRstMz7kqfQ">Xhanthi Nokwali</a>
 
-90 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/0ANwIIMXAUMCahITjRSDWI)
+92 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/0ANwIIMXAUMCahITjRSDWI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,11 +81,13 @@
 | [Senze' Nina](https://open.spotify.com/track/60ujUkmCYqPQkkZHKtu27b) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Senze' Nina](https://open.spotify.com/album/1KHEsl630n9WdseVpfIDCg) | 5:48 | 2022-04-28 |  |
 | [Sinivile](https://open.spotify.com/track/08SE0pY4CLGgnr7UMTkWet) | [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm) | [uGaba the Migration](https://open.spotify.com/album/1Igp59kX92saIgyQYTbnm7) | 6:29 | 2022-04-28 |  |
 | [Siyabulela](https://open.spotify.com/track/54s76VIwiH05zSmyVb80Yv) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Dialectic Soul](https://open.spotify.com/album/00aLg7RLt0Md1MQ8miFWBf) | 8:22 | 2022-04-28 |  |
-| [Sometimes I Feel Like a Motherless Child](https://open.spotify.com/track/5tRccXu5fL0PVqkNu1rkEN) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6), [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Sometimes I Feel LIke A Motherless Child](https://open.spotify.com/album/10oX5DOz6uo0AyKewTzGvd) | 5:49 | 2022-06-23 |  |
+| [Sometimes I Feel Like a Motherless Child](https://open.spotify.com/track/5tRccXu5fL0PVqkNu1rkEN) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6), [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Sometimes I Feel LIke A Motherless Child](https://open.spotify.com/album/10oX5DOz6uo0AyKewTzGvd) | 5:49 | 2022-06-23 | 2022-12-25 |
+| [Sometimes I Feel Like a Motherless Child](https://open.spotify.com/track/7wq5H9Ax3WTvQU6uWTthLe) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6), [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Group Theory: Black Music](https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1) | 5:49 | 2022-06-23 |  |
 | [Space Ship](https://open.spotify.com/track/5ZQiY5rlJaBvhyVMZJV8AS) | [Ayanda Sikade](https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh) | [Umakhulu](https://open.spotify.com/album/4OKxDZS6s45zQdFCeO2y7e) | 6:15 | 2022-04-28 |  |
 | [The Balance](https://open.spotify.com/track/5RGk7OKbDQEjSwtTYZxtxJ) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Ekaya](https://open.spotify.com/artist/0DatFccWNlM002HiZD9vOR) | [The Balance](https://open.spotify.com/album/7wV98ytkf55BxvrzQIbzNg) | 3:04 | 2022-04-28 |  |
 | [The Coming Of The Strange Ones](https://open.spotify.com/track/79RXo9QQNREbGI1vITMJGj) | [Shabaka and the Ancestors](https://open.spotify.com/artist/5RSOkfm0B0WR4IBbVUtYXk) | [We Are Sent Here By History](https://open.spotify.com/album/4S5MLu2PKU7uElm2V3JphK) | 6:28 | 2022-04-28 |  |
-| [The Fall](https://open.spotify.com/track/24XED46T5MAEe52fccVbU6) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [The Fall](https://open.spotify.com/album/2KVA9w5C7j07WtKI1JZ8pY) | 4:55 | 2022-05-12 |  |
+| [The Fall](https://open.spotify.com/track/24XED46T5MAEe52fccVbU6) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [The Fall](https://open.spotify.com/album/2KVA9w5C7j07WtKI1JZ8pY) | 4:55 | 2022-05-12 | 2022-12-25 |
+| [The Fall](https://open.spotify.com/track/4rjThEz7ckmhTMcxNzkavN) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Group Theory: Black Music](https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1) | 4:55 | 2022-05-12 |  |
 | [The Migration Suite Part II](https://open.spotify.com/track/2aUgQ0RxwcOOGCrWKYwUAC) | [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm) | [uGaba the Migration](https://open.spotify.com/album/1Igp59kX92saIgyQYTbnm7) | 7:24 | 2022-04-28 |  |
 | [The Panther](https://open.spotify.com/track/5duF6755ZRQ90ga0HUlirm) | [Simeon Davis Group](https://open.spotify.com/artist/4VpuhyxGT6WgAwOfI6OLqT), [Alex Hand](https://open.spotify.com/artist/1JHDHQilgJSwnEvwRmsFpL) | [Of Narratives & Nocturnes](https://open.spotify.com/album/52UFxrxnZAHFnzYmCLGoIE) | 12:26 | 2022-06-23 |  |
 | [The Prayer](https://open.spotify.com/track/6Zr7F3b51giK0VapxTNjRS) | [Leagan Starchild](https://open.spotify.com/artist/463uy2bD1rR0u2GbG8AMxS), [Mangaliso Asi](https://open.spotify.com/artist/154yazp34Zc2hrkxo0YbTx), [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Ekyoto](https://open.spotify.com/album/2Ga31FnP8JCHAncOn9MxgS) | 2:37 | 2022-04-28 |  |

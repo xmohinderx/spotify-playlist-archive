@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,725 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,761 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 25 | [Blues In The Night](https://open.spotify.com/track/50y2NVBilJvswKuQn5qe5x) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Piece By Piece](https://open.spotify.com/album/39LGwjgf2oV1BlCPsuLp4S) | 4:12 |
 | 26 | [House Of The Rising Sun](https://open.spotify.com/track/5mv7gXwH5qYChfwISnOx94) | [Roxy Perry](https://open.spotify.com/artist/5oFeTjmgNvB17ju7pOT7Tf) | [Back In Bluesville](https://open.spotify.com/album/1YocQJ1WyxCQ7bSCPg2A6N) | 5:02 |
 | 27 | [I Got the Same Old Blues \(feat\. Tom Petty\)](https://open.spotify.com/track/5uIAjyOvC9PjzCpeMRcQo8) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Eric Clapton & Friends \- The Breeze \(An Appreciation of JJ Cale\)](https://open.spotify.com/album/21swqoPE6wszY0IC8sJEYs) | 3:02 |
-| 28 | [Ramblin' On My Mind \- Mono](https://open.spotify.com/track/5ah6Etv38v3ZsE0iyZMdTq) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:06 |
-| 29 | [A Change Is Gonna Come \- Live](https://open.spotify.com/track/7KxGNaPXmhRwdjio3ttD69) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Live +](https://open.spotify.com/album/5LTErKR4sVxrANiPNLcYI8) | 7:20 |
+| 28 | [A Change Is Gonna Come \- Live](https://open.spotify.com/track/7KxGNaPXmhRwdjio3ttD69) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Live +](https://open.spotify.com/album/5LTErKR4sVxrANiPNLcYI8) | 7:20 |
+| 29 | [Ramblin' On My Mind \- Mono](https://open.spotify.com/track/5ah6Etv38v3ZsE0iyZMdTq) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:06 |
 | 30 | [Hesitation Blues \- Live](https://open.spotify.com/track/2ZA8w7VIA2A5bFmb3ViXoQ) | [Hot Tuna](https://open.spotify.com/artist/5tOrTQaBRD5yPHqbEwsRn7) | [Hot Tuna](https://open.spotify.com/album/7vDduqV8Ba7Jol7tdS5zEL) | 5:06 |
 | 31 | [Hoochie Coochie Man](https://open.spotify.com/track/0iRXdt6ZP8hFnzdUxymSBO) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 5:15 |
 | 32 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/4HTF7QhXhZQyuowEaGAiBl) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 5:57 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 64 | [Need Your Love So Bad](https://open.spotify.com/track/7hTT6Wfwni319nUkp5fmO7) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Messing With The Blues](https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp) | 3:27 |
 | 65 | [Fixin' To Die Blues](https://open.spotify.com/track/5xscuYoBceOfi1y2HfpPZd) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Keepin' Outta Trouble: A Tribute To Bukka White](https://open.spotify.com/album/7IVijDUdKmwy8kdvHYLhMA) | 5:22 |
 | 66 | [Stormy Monday Blues](https://open.spotify.com/track/1jWzxiovfCE1Ye5Mdy9Kq2) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Greatest Blues Covers](https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG) | 4:23 |
-| 67 | [Still Got the Blues](https://open.spotify.com/track/4foKEzs442JODnkwNRro1R) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Old Sock](https://open.spotify.com/album/4P3By1D3VxXMbbNZJI0a8v) | 5:54 |
-| 68 | [I Can't Stop Loving You](https://open.spotify.com/track/2ngkSsDjbKRxovWkMfjBUk) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [That's What I Say](https://open.spotify.com/album/6B6Legr1T9aMiMxL55SZnK) | 4:47 |
+| 67 | [I Can't Stop Loving You](https://open.spotify.com/track/2ngkSsDjbKRxovWkMfjBUk) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [That's What I Say](https://open.spotify.com/album/6B6Legr1T9aMiMxL55SZnK) | 4:47 |
+| 68 | [Still Got the Blues](https://open.spotify.com/track/4foKEzs442JODnkwNRro1R) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Old Sock](https://open.spotify.com/album/4P3By1D3VxXMbbNZJI0a8v) | 5:54 |
 | 69 | [Love That Burns \(with Rick Vito\) \- Live from The London Palladium](https://open.spotify.com/track/7avlGe2Kmp0yagByGRT9x0) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk), [Rick Vito](https://open.spotify.com/artist/0yC7EvUceCEZm3ZeawauQA) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac \(Live from The London Palladium\)](https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA) | 5:54 |
 | 70 | [Come Back Baby](https://open.spotify.com/track/6zN2SuJaXhGJYXhb77xPVO) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [Stars In My Crown](https://open.spotify.com/album/16vXqLiCvBwbSOPTF1VUwG) | 5:47 |
 | 71 | [Million Miles](https://open.spotify.com/track/7cSqMBqUSDCdqJj1sLuN0P) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00) | 6:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 74 | [Judgement Day](https://open.spotify.com/track/6ZdCKxcNoLgJfQBCncD2SU) | [Wentus Blues Band](https://open.spotify.com/artist/6RS2f6BOaKgqByAkXgpRJ9), [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Too Much Mustard](https://open.spotify.com/album/3qBcJfdrKT98tvXZqcIqsO) | 3:43 |
 | 75 | [Green Manalishi \(With the Two Prong Crown\)](https://open.spotify.com/track/1ugH9JwMb8Kv77IeNrkvWw) | [LORE](https://open.spotify.com/artist/18w4oJknIoBRU0ZB3ECGA2) | [Green Manalishi \(With the Two Prong Crown\)](https://open.spotify.com/album/3r9rCDEGcz1CdtHzepxcf8) | 5:48 |
 
-Snapshot ID: `MTY3MTYzOTkxOCwwMDAwMDAwMGQ5NWI0YWMxNWE0NzNmMGJmZWMxZDkzM2IzNWQwZjU4`
+Snapshot ID: `MTY3MTYzOTkxOCwwMDAwMDAwMDJlODlhYWFhYTk3NmNmMmUyMmExOTQxYmIyOWJmODFk`

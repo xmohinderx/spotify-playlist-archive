@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 34943,
+  "num_followers": 35021,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTIxOTg5NiwwMDAwMDAwMDQ5ZDMyOTRhYmM5MGJiYmYzMjI0MmU2ZmNlZGFmMjQw",
+  "snapshot_id": "MTY0MTIxOTg5NiwwMDAwMDAwMGEyY2M2ZWY3YWEwOGMyYTFmM2JlZGZiYjVkY2M2YTY0",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -463,6 +463,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 274320,
+      "name": "Past Lives",
+      "url": "https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 262209,
       "name": "Meet Me in the Woods",
       "url": "https://open.spotify.com/track/1bqrRn1pJWowNLA5N9L6uW"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 274320,
-      "name": "Past Lives",
-      "url": "https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -623,6 +623,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "10,000 Emerald Pools",
+      "url": "https://open.spotify.com/track/2pA4ip3VIEVcIa3qE02oAX"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 298760,
       "name": "Pretty Pimpin",
       "url": "https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "10,000 Emerald Pools",
-      "url": "https://open.spotify.com/track/2pA4ip3VIEVcIa3qE02oAX"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -703,6 +703,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/5MdPMGnu8UZlDrrF0nQEKL"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Keep On Loving You",
+      "url": "https://open.spotify.com/track/6dYcUcj1TyZZES5ivtjLdk"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/5MdPMGnu8UZlDrrF0nQEKL"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Keep On Loving You",
-      "url": "https://open.spotify.com/track/6dYcUcj1TyZZES5ivtjLdk"
+      "duration_ms": 224373,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/62ZXL1CWLJDiDWUZUhfLfU"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -779,22 +795,6 @@
       "duration_ms": 257426,
       "name": "White Blood",
       "url": "https://open.spotify.com/track/3sZfQB5uYTJmA4QnB8dv7P"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 224373,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/62ZXL1CWLJDiDWUZUhfLfU"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Strangers to Ourselves",
-        "url": "https://open.spotify.com/album/6iKqPv9C5oU29LR82N8lJf"
-      },
-      "artists": [
-        {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "Lampshades on Fire",
-      "url": "https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 241655,
       "name": "Run",
       "url": "https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Strangers to Ourselves",
+        "url": "https://open.spotify.com/album/6iKqPv9C5oU29LR82N8lJf"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "Lampshades on Fire",
+      "url": "https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Make Out",
-        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 231002,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/79XlfHDVYTMeqb2UR3ojEA"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Make Out",
+        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 231002,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/79XlfHDVYTMeqb2UR3ojEA"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Glitterbug (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 226106,
-      "name": "Pink Lemonade",
-      "url": "https://open.spotify.com/track/7dFERLugNJZUgtX1V3KA4b"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Christine and the Queens",
         "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 227368,
       "name": "Painting Greys",
       "url": "https://open.spotify.com/track/4YPR1YdTdvDUvuQxURHbjk"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Glitterbug (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 226106,
+      "name": "Pink Lemonade",
+      "url": "https://open.spotify.com/track/7dFERLugNJZUgtX1V3KA4b"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Teens of Style",
-        "url": "https://open.spotify.com/album/7s2vwXfI8Ki49zYIfTTkRT"
-      },
-      "artists": [
-        {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
-        }
-      ],
-      "duration_ms": 260426,
-      "name": "Something Soon",
-      "url": "https://open.spotify.com/track/1L2U62lhBK991jQJ1uecD5"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Every Open Eye",
         "url": "https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 237480,
       "name": "Leave a Trace",
       "url": "https://open.spotify.com/track/5HTBPhN9b2GMp5YXAGV6lT"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Teens of Style",
+        "url": "https://open.spotify.com/album/7s2vwXfI8Ki49zYIfTTkRT"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "Something Soon",
+      "url": "https://open.spotify.com/track/1L2U62lhBK991jQJ1uecD5"
     }
   ],
   "unique_name": "Best of Indie 2015",

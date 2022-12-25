@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 
 > Acoustic covers of all your favourite songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,715 likes - 189 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,896 likes - 189 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 7 | [One](https://open.spotify.com/track/1YuKlF5t0vvkMeq7GCHYZJ) | [M.I.R.K](https://open.spotify.com/artist/0XZuiuoZkCu26CRkSHKhwA) | [One](https://open.spotify.com/album/0HzIOmD8Uz36WOucuJrijn) | 2:29 |
 | 8 | [All Star \- Acoustic](https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [All Star \- Acoustic](https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1) | 3:50 |
 | 9 | [Better Now \(Acoustic\)](https://open.spotify.com/track/7BSAXJ5iT5ERuzduIvX8Ol) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2jnbvIEWopuhDSftIelDN0) | 3:40 |
-| 10 | [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/0F0xMIT47P5VpCOH5eajwO) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic](https://open.spotify.com/album/0WExxQj254CORDRL682MBN) | 2:46 |
+| 10 | [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/2y4KKdn0UQPCIh0wbBYfgR) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic EP](https://open.spotify.com/album/2hqtH9rg9G0BsaymBNA8Bp) | 2:46 |
 | 11 | [Blank Space \- Acoustic](https://open.spotify.com/track/33XljpJIYSrlAy6nD9SVpm) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Blank Space \- Acoustic](https://open.spotify.com/album/77iOxkdJOIWcJIHe5peMKq) | 4:05 |
 | 12 | [love on the weekend](https://open.spotify.com/track/6PvqD3FhLOvNz0lyDjiHrl) | [love & back](https://open.spotify.com/artist/7mq5fcHr1XI4YdNaqtmE2M) | [love on the weekend](https://open.spotify.com/album/1fv3JS6iIvyJB9OPnug2Hb) | 3:17 |
 | 13 | [A Long December](https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [A Long December](https://open.spotify.com/album/2XHrRPNh9Vj0bLCo2p3DxA) | 2:42 |
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 104 | [Life Is Confusing](https://open.spotify.com/track/78s2tHrGmeYafyzumRfnqY) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Life Is Confusing](https://open.spotify.com/album/6Etm7L6piJ0Q0p3AbnDglC) | 3:47 |
 | 105 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/4BC8rzvaaPoimewdFeOxcB) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [Covers](https://open.spotify.com/album/3LFPV69y8dm2843r0V7kyw) | 3:28 |
 | 106 | [Mama Tried](https://open.spotify.com/track/3rf6VnUNCIgWlujpWL5hlE) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [Mama Tried](https://open.spotify.com/album/1iQ3sSsCp4nvcs4313TKpF) | 2:24 |
-| 107 | [Paradise \- Acoustic](https://open.spotify.com/track/6VVi6cadD8WZGfredhpaPw) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/7weXwUa85fSK2MmtoFyzYZ) | 2:33 |
+| 107 | [Paradise \- Acoustic](https://open.spotify.com/track/1uKavGXL05NzhPHSOUIg91) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/1Ad968gPukAt86YXpyEWIy) | 2:33 |
 | 108 | [In The Meantime](https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [In The Meantime](https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk) | 2:58 |
 | 109 | [I Like Me Better](https://open.spotify.com/track/3XhxKOiaCZcHb7YGmN4dvO) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [I Like Me Better](https://open.spotify.com/album/4vHrQ3IWPIZiaMyZ1ZXnjd) | 3:28 |
 | 110 | [He Got the Best of Me](https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [He Got the Best of Me](https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO) | 2:38 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 188 | [Castle on the Hill \- Acoustic](https://open.spotify.com/track/0aIcKuGEu9NrI4r07KyJRc) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [Castle on the Hill](https://open.spotify.com/album/4Veg0fmvBzK3aCZV8hzWUE) | 4:03 |
 | 189 | [Since U Been Gone \- Acoustic Version](https://open.spotify.com/track/4iObEYRE4FLm0D90gmZFef) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Since U Been Gone](https://open.spotify.com/album/1aF6m76ZjCEH8tN6W9W9Uk) | 3:41 |
 
-Snapshot ID: `MTY3MTc1NzIwMCwwMDAwMDAwMGY2OTViMjE1MDhkZTU3YjQ1YjA0ZTFlY2M3MTgyOGJi`
+Snapshot ID: `MTY3MTc1NzIwMCwwMDAwMDAwMGIyOGE3MDI5MGU3MWZjYThmZTE3NjIxM2JlOTAyYTQ1`

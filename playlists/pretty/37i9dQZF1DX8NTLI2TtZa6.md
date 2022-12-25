@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Concentration & Motivation! Focus\-enhancing piano music for your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,410,430 likes - 216 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,410,462 likes - 216 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

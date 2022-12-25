@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,746,568 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,746,775 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 47 | [Nann Hoe](https://open.spotify.com/track/3umaJVPB3ux55pcPAUNOZn) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [RAW](https://open.spotify.com/album/7qjfG80Q4046ra6Pvn6yLc) | 2:04 |
 | 48 | [Real Freak](https://open.spotify.com/track/6ThKqlrpzhNKuTLTlhTgl9) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa) | [Real Freak](https://open.spotify.com/album/3U6P2BvHZCOuUIl80VQCgq) | 2:47 |
 | 49 | [Elevate](https://open.spotify.com/track/6QEYla51X7I7Uuf7QgPORf) | [Pap Chanel](https://open.spotify.com/artist/1ziRj7e5Tm72Qf2ag6jHed) | [Elevate](https://open.spotify.com/album/3gqrkzDNwNmJH0fAqRS4sS) | 2:58 |
-| 50 | [Trick](https://open.spotify.com/track/60kkJZwSjzmoXP9dOWUlqe) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Diary of The Flow Queen](https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2) | 3:07 |
+| 50 | [CAN'T TELL ME NOTHING](https://open.spotify.com/track/5Ch6ZcfUCDzoJsMfhxmK46) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [CAN'T TELL ME NOTHING](https://open.spotify.com/album/4KzvzrVvk26wrGl1irb2Xi) | 2:59 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDNmODc3Zjc2MDcxZWY3MDRkMzVkMjFhMGExMWM4ZGNl`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDNmNDNhMTdiMTRjM2Q0Y2M0NjlkMWVkNDg1YjhlN2Q5`

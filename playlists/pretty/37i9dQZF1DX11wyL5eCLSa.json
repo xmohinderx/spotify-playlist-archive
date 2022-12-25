@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Astronom\u00eda Interior en portada.",
-  "num_followers": 137748,
+  "num_followers": 137782,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE3MDQwMCwwMDAwMDAwMDg0YmJjNGM4NmZiMTMyMGJkY2ZlNTczZmMwZWYyY2Ew",
+  "snapshot_id": "MTY3MTE3MDQwMCwwMDAwMDAwMGQ2ODY3MmJjZDhlN2VlZTkwM2IwZjQ0YjY4OTNhMmM3",
   "tracks": [
     {
       "added_at": "2022-11-11 06:03:45",
@@ -1161,6 +1161,26 @@
       "url": "https://open.spotify.com/track/5AnNiPaLMROa4wiba4VlWR"
     },
     {
+      "added_at": "2022-08-13 02:35:38",
+      "album": {
+        "name": "\u00bfY C\u00f3mo?",
+        "url": "https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Yawners",
+          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
+        }
+      ],
+      "duration_ms": 155533,
+      "name": "Mi Habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/399BxbhCL9R03WhKykK8ks"
+    },
+    {
       "added_at": "2022-07-22 17:47:39",
       "album": {
         "name": "Cosmovisiones",
@@ -1191,26 +1211,6 @@
       "duration_ms": 200500,
       "name": "1990",
       "url": "https://open.spotify.com/track/2U3iVgnEYikbslI2pZEEHp"
-    },
-    {
-      "added_at": "2022-08-13 02:35:38",
-      "album": {
-        "name": "\u00bfY C\u00f3mo?",
-        "url": "https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Yawners",
-          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "Mi Habitaci\u00f3n",
-      "url": "https://open.spotify.com/track/399BxbhCL9R03WhKykK8ks"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -1247,8 +1247,8 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Dejarte Ir",
-        "url": "https://open.spotify.com/album/2nsGHpWphvhNQudVYAc1Qc"
+        "name": "Mi Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1YcVrh4wME3hr6ZY7yk3d6"
       },
       "artists": [
         {
@@ -1256,9 +1256,9 @@
           "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
         }
       ],
-      "duration_ms": 192416,
-      "name": "Dejarte Ir",
-      "url": "https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu"
+      "duration_ms": 188181,
+      "name": "Mi Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2EeJ3n3I0EZaa3YQUvap72"
     }
   ],
   "unique_name": "EL ROCK NO HA MUERTO",

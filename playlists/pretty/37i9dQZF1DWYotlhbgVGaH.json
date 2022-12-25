@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a swing thing.",
-  "num_followers": 105767,
+  "num_followers": 105790,
   "original_name": "Swing Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMDkzODY3ZTkzODNjZjNiMDMxOTBhMDVkN2RhMWYyNTk2",
+  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMGE3NzFlNzI2NzQ1N2YzYTA5ZTE5MzI1MzM2YzBiYTNm",
   "tracks": [
     {
       "added_at": "2022-03-28 19:13:18",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Planet Jive",
-        "url": "https://open.spotify.com/album/500HHXaBRyYMmNjRJwvZW7"
-      },
-      "artists": [
-        {
-          "name": "The Jive Aces",
-          "url": "https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Planet Jive",
-      "url": "https://open.spotify.com/track/0P5aqi6J8btRUjZQKnVOst"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Mortyfied!",
         "url": "https://open.spotify.com/album/3xsxAd9Nkl5uBw3qZe0A5e"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 169720,
       "name": "Knockin' At Your Door",
       "url": "https://open.spotify.com/track/7GFHztqce85FfPw6da1q5M"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Planet Jive",
+        "url": "https://open.spotify.com/album/500HHXaBRyYMmNjRJwvZW7"
+      },
+      "artists": [
+        {
+          "name": "The Jive Aces",
+          "url": "https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Planet Jive",
+      "url": "https://open.spotify.com/track/0P5aqi6J8btRUjZQKnVOst"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Spread a Little Happiness",
-        "url": "https://open.spotify.com/album/4V135Rn6LNvAchAyu6OUC7"
-      },
-      "artists": [
-        {
-          "name": "The Jive Aces",
-          "url": "https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2"
-        }
-      ],
-      "duration_ms": 164505,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/19HwojO9ZITydllvtcjVw8"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Jump For Joy",
         "url": "https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 238306,
       "name": "Sugar High",
       "url": "https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Spread a Little Happiness",
+        "url": "https://open.spotify.com/album/4V135Rn6LNvAchAyu6OUC7"
+      },
+      "artists": [
+        {
+          "name": "The Jive Aces",
+          "url": "https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2"
+        }
+      ],
+      "duration_ms": 164505,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/19HwojO9ZITydllvtcjVw8"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -783,62 +783,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Rigormorty",
-        "url": "https://open.spotify.com/album/3nqKqVYdRaQyB2qd1kWTAk"
-      },
-      "artists": [
-        {
-          "name": "The New Morty Show",
-          "url": "https://open.spotify.com/artist/7GdpM0f8Vw3eXAp55yZ52r"
-        },
-        {
-          "name": "Brian Fishler",
-          "url": "https://open.spotify.com/artist/5fxyIuzJ5vK7Zx81wjdMcL"
-        },
-        {
-          "name": "Cynthia Lewis",
-          "url": "https://open.spotify.com/artist/0FJZBCtDYUDl0mYzgmWgYh"
-        },
-        {
-          "name": "Jeff Whipp",
-          "url": "https://open.spotify.com/artist/66RFLzdKcDlXlSxmff7BvA"
-        },
-        {
-          "name": "John Quam",
-          "url": "https://open.spotify.com/artist/6vghKR8UKkp05RwmP8Fg5E"
-        },
-        {
-          "name": "Morty Okin",
-          "url": "https://open.spotify.com/artist/6FqmDFYYzq24aznz9lSmG6"
-        },
-        {
-          "name": "Robert Castillo",
-          "url": "https://open.spotify.com/artist/1KurYRB7eBuZFscPXhW3df"
-        },
-        {
-          "name": "Trevor Kinsel",
-          "url": "https://open.spotify.com/artist/3zNfLl2dwYGK9AgeFEeaPL"
-        },
-        {
-          "name": "Van Hughes",
-          "url": "https://open.spotify.com/artist/76GyeB20CZqIOO1AfXrwV3"
-        },
-        {
-          "name": "Matt Cowan",
-          "url": "https://open.spotify.com/artist/5oGRwSzCJN3v7DghqpKcj7"
-        },
-        {
-          "name": "David Murotake",
-          "url": "https://open.spotify.com/artist/7uzZ3EA96AqNKa37nhSLp0"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "Ladies Man",
-      "url": "https://open.spotify.com/track/66RVNE96LjcmaaXkhdK76a"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Shakin' The Shack",
         "url": "https://open.spotify.com/album/2oxzv7ABlnhhz98UlePH3a"
       },
@@ -883,6 +827,22 @@
       "duration_ms": 280493,
       "name": "Jumptown",
       "url": "https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "The Romper Room",
+        "url": "https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4"
+      },
+      "artists": [
+        {
+          "name": "Eight To The Bar",
+          "url": "https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "Dirty Dog",
+      "url": "https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli"
     }
   ],
   "unique_name": "Swing Revival",

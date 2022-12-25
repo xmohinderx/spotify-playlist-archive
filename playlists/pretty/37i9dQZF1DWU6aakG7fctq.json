@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Cuco",
-  "num_followers": 505083,
+  "num_followers": 505133,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMDI4NTE0OGJhZTEwNjIyZWZiMzgwMjgxMTMyMTk2YWFi",
+  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMDQwZWQxMGU3Nzc4Nzc4NGMxNjZmYmIwY2YzNTMyYjEw",
   "tracks": [
     {
       "added_at": "2022-12-23 05:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
+        "name": "Abismos",
+        "url": "https://open.spotify.com/album/5wFCEY9HExtzfyTETDeAHi"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Espero Que Est\u00e9s Bien",
+      "url": "https://open.spotify.com/track/38S97g7LqJ62vCYS3tVMTe"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
         "name": "Pedestal",
         "url": "https://open.spotify.com/album/2IsAYh8idgFVFh9ZeJ1Yu6"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 208502,
       "name": "Pedestal",
       "url": "https://open.spotify.com/track/7p4QEB7iXuOG7Zomx9WMqn"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Abismos",
-        "url": "https://open.spotify.com/album/5wFCEY9HExtzfyTETDeAHi"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Espero Que Est\u00e9s Bien",
-      "url": "https://open.spotify.com/track/38S97g7LqJ62vCYS3tVMTe"
     },
     {
       "added_at": "2022-12-23 05:00:00",

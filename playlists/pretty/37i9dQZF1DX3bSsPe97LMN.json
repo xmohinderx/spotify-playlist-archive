@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Michelle BI en portada.",
-  "num_followers": 47154,
+  "num_followers": 47167,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3NTIwMCwwMDAwMDAwMDUwMzMzYzI3ZTAxNWIyYWEyZTdhZjI5NTIzNWRkY2Ey",
+  "snapshot_id": "MTY3MTc3NTIwMCwwMDAwMDAwMDM0ZDRhMmExMjIwZGZhM2MyYmUwMzVlZDI3NWYyNGU1",
   "tracks": [
     {
       "added_at": "2022-12-23 06:00:00",
@@ -337,22 +337,6 @@
       "url": "https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 167370,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
-    },
-    {
       "added_at": "2022-12-02 06:00:00",
       "album": {
         "name": "H\u00e1gase Hombre",
@@ -371,6 +355,22 @@
       "duration_ms": 184927,
       "name": "H\u00e1gase Hombre",
       "url": "https://open.spotify.com/track/3g5i3yc1YBBlJRPUYzZ6Eu"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 167370,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
     },
     {
       "added_at": "2022-11-18 06:00:00",
@@ -509,26 +509,6 @@
       "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
     },
     {
-      "added_at": "2022-10-07 15:36:37",
-      "album": {
-        "name": "Fuimos Un Fracaso",
-        "url": "https://open.spotify.com/album/3cqvXVdDagVXznbwa4eY3D"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 198661,
-      "name": "Fuimos Un Fracaso",
-      "url": "https://open.spotify.com/track/0QKF6xXTTPkeKqZBxtkjWh"
-    },
-    {
       "added_at": "2022-12-05 23:10:14",
       "album": {
         "name": "Tambi\u00e9n Me Llamo Ismael",
@@ -547,6 +527,26 @@
       "duration_ms": 186624,
       "name": "Tambi\u00e9n Me Llamo Ismael",
       "url": "https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD"
+    },
+    {
+      "added_at": "2022-10-07 15:36:37",
+      "album": {
+        "name": "Fuimos Un Fracaso",
+        "url": "https://open.spotify.com/album/3cqvXVdDagVXznbwa4eY3D"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 198661,
+      "name": "Fuimos Un Fracaso",
+      "url": "https://open.spotify.com/track/0QKF6xXTTPkeKqZBxtkjWh"
     },
     {
       "added_at": "2022-11-18 06:00:00",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
     },
     {
-      "added_at": "2022-11-11 06:00:00",
-      "album": {
-        "name": "Tiempos de Guerra 2",
-        "url": "https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 171053,
-      "name": "Tiempos de Guerra 2",
-      "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
-    },
-    {
       "added_at": "2022-12-05 23:10:14",
       "album": {
         "name": "Se Alborotaron Los Guachos",
@@ -931,6 +915,22 @@
       "duration_ms": 164022,
       "name": "Se Alborotaron Los Guachos - En Vivo",
       "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
+    },
+    {
+      "added_at": "2022-11-11 06:00:00",
+      "album": {
+        "name": "Tiempos de Guerra 2",
+        "url": "https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 171053,
+      "name": "Tiempos de Guerra 2",
+      "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
     },
     {
       "added_at": "2022-12-05 23:10:14",
@@ -1005,6 +1005,22 @@
       "url": "https://open.spotify.com/track/0mbMWo3O3iewwXaruG4a7D"
     },
     {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
+        "name": "Peque\u00f1a y Frag\u00edl",
+        "url": "https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        }
+      ],
+      "duration_ms": 173837,
+      "name": "Peque\u00f1a y Frag\u00edl",
+      "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
+    },
+    {
       "added_at": "2022-10-14 05:00:00",
       "album": {
         "name": "Bajo la Lluv\u00eda",
@@ -1025,6 +1041,26 @@
       "url": "https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4"
     },
     {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
+        "name": "Cu\u00f1ados y Compadres",
+        "url": "https://open.spotify.com/album/1AEo9kTiKt4lUxwNV9gF7c"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Jes\u00fas Ojeda y Sus Parientes",
+          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
+        }
+      ],
+      "duration_ms": 230548,
+      "name": "Cu\u00f1ados y Compadres",
+      "url": "https://open.spotify.com/track/1gkd7OJkmMVNQEEJjFvQLp"
+    },
+    {
       "added_at": "2022-12-09 06:00:00",
       "album": {
         "name": "En Cada Trago",
@@ -1039,22 +1075,6 @@
       "duration_ms": 172645,
       "name": "En Cada Trago",
       "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
-    },
-    {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "Peque\u00f1a y Frag\u00edl",
-        "url": "https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58"
-      },
-      "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        }
-      ],
-      "duration_ms": 173837,
-      "name": "Peque\u00f1a y Frag\u00edl",
-      "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1129,6 +1149,22 @@
       "url": "https://open.spotify.com/track/31u0xddM70KxFebPyLawpR"
     },
     {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
+        "name": "El Flaco",
+        "url": "https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 147957,
+      "name": "El Flaco",
+      "url": "https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q"
+    },
+    {
       "added_at": "2022-12-09 06:00:00",
       "album": {
         "name": "No Le Muevan Al Viej\u00f3n",
@@ -1155,38 +1191,6 @@
     {
       "added_at": "2022-12-23 06:00:00",
       "album": {
-        "name": "El Flaco",
-        "url": "https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 147957,
-      "name": "El Flaco",
-      "url": "https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q"
-    },
-    {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "Con Tololoche y Charchetas (En Vivo)",
-        "url": "https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI"
-      },
-      "artists": [
-        {
-          "name": "Arturo Coronel y el Buen Estilo",
-          "url": "https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al"
-        }
-      ],
-      "duration_ms": 186274,
-      "name": "Sin Lado Izquierdo - En Vivo",
-      "url": "https://open.spotify.com/track/4EfiD65iGGfMHAR8c93Pwk"
-    },
-    {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
         "name": "El Wizard Es Mi Apodo",
         "url": "https://open.spotify.com/album/2OGIAIOIwoHrqgD8M0vqOZ"
       },
@@ -1199,42 +1203,6 @@
       "duration_ms": 194040,
       "name": "El Wizard Es Mi Apodo",
       "url": "https://open.spotify.com/track/6P6GsfUCmIjOv6Q2zBI36s"
-    },
-    {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "Cu\u00f1ados y Compadres",
-        "url": "https://open.spotify.com/album/1AEo9kTiKt4lUxwNV9gF7c"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Jes\u00fas Ojeda y Sus Parientes",
-          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
-        }
-      ],
-      "duration_ms": 230548,
-      "name": "Cu\u00f1ados y Compadres",
-      "url": "https://open.spotify.com/track/1gkd7OJkmMVNQEEJjFvQLp"
-    },
-    {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "El Yasion",
-        "url": "https://open.spotify.com/album/4F0IqF3EVj7uq9BzdjuEXP"
-      },
-      "artists": [
-        {
-          "name": "Jasiel AB",
-          "url": "https://open.spotify.com/artist/1hsZtqjs2Z7sInQ8x3oUEx"
-        }
-      ],
-      "duration_ms": 204389,
-      "name": "El Yasion",
-      "url": "https://open.spotify.com/track/63tKdWv76KMCnRLHBySNOX"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -1255,6 +1223,22 @@
     {
       "added_at": "2022-12-23 06:00:00",
       "album": {
+        "name": "Con Tololoche y Charchetas (En Vivo)",
+        "url": "https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI"
+      },
+      "artists": [
+        {
+          "name": "Arturo Coronel y el Buen Estilo",
+          "url": "https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al"
+        }
+      ],
+      "duration_ms": 186274,
+      "name": "Sin Lado Izquierdo - En Vivo",
+      "url": "https://open.spotify.com/track/4EfiD65iGGfMHAR8c93Pwk"
+    },
+    {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
         "name": "Nada Contigo",
         "url": "https://open.spotify.com/album/2eCgfwIDUkkfDC70C4EHkM"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 179413,
       "name": "Nada Contigo",
       "url": "https://open.spotify.com/track/2GH7nxSCfsR6vAtzID3S89"
+    },
+    {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
+        "name": "El Yasion",
+        "url": "https://open.spotify.com/album/4F0IqF3EVj7uq9BzdjuEXP"
+      },
+      "artists": [
+        {
+          "name": "Jasiel AB",
+          "url": "https://open.spotify.com/artist/1hsZtqjs2Z7sInQ8x3oUEx"
+        }
+      ],
+      "duration_ms": 204389,
+      "name": "El Yasion",
+      "url": "https://open.spotify.com/track/63tKdWv76KMCnRLHBySNOX"
     },
     {
       "added_at": "2022-12-23 06:00:00",

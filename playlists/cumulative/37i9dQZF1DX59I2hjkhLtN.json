@@ -790,6 +790,28 @@
     },
     {
       "album": {
+        "name": "Corte Alinhado",
+        "url": "https://open.spotify.com/album/0uBvFw719iSqFIYxtLS1bE"
+      },
+      "artists": [
+        {
+          "name": "CJ Oficial",
+          "url": "https://open.spotify.com/artist/0U8fdXg8HLIU7FpSFtkacV"
+        },
+        {
+          "name": "Marquiori",
+          "url": "https://open.spotify.com/artist/2ClYSptWSX1ope6qd6sW6p"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133089,
+      "name": "Corte Alinhado",
+      "url": "https://open.spotify.com/track/7DOJWw9IoWxwth6ugSiYJi"
+    },
+    {
+      "album": {
         "name": "C\u00e1 No Norte #1",
         "url": "https://open.spotify.com/album/5Q193LZAoAYTV3ccjoTj2c"
       },
@@ -1067,28 +1089,6 @@
       "duration_ms": 242626,
       "name": "Dispidida",
       "url": "https://open.spotify.com/track/5vll1bdUAaPHYRHvY1jv3g"
-    },
-    {
-      "album": {
-        "name": "Do Corte Alinhado",
-        "url": "https://open.spotify.com/album/0uBvFw719iSqFIYxtLS1bE"
-      },
-      "artists": [
-        {
-          "name": "CJ Oficial",
-          "url": "https://open.spotify.com/artist/0U8fdXg8HLIU7FpSFtkacV"
-        },
-        {
-          "name": "Marquiori",
-          "url": "https://open.spotify.com/artist/2ClYSptWSX1ope6qd6sW6p"
-        }
-      ],
-      "date_added": "2022-12-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 133089,
-      "name": "Do Corte Alinhado",
-      "url": "https://open.spotify.com/track/7DOJWw9IoWxwth6ugSiYJi"
     },
     {
       "album": {

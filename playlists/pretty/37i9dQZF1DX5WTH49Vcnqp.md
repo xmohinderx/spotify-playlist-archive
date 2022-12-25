@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Oliver Tree
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,038 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,040 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 27 | [Haunted](https://open.spotify.com/track/25mOIbcGQELTkBrUCvq73A) | [The Vanns](https://open.spotify.com/artist/7CFtg726anbQC3CY0glRDG) | [Haunted](https://open.spotify.com/album/0difLqtbZ1nUYUTzfobMIe) | 4:27 |
 | 28 | [Olympia](https://open.spotify.com/track/6xsIZGWud4OdojtNN63z3Y) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Olympia](https://open.spotify.com/album/4y0eCEU0tFEqJJnJzeD9IG) | 3:40 |
 | 29 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 |
-| 30 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 |
+| 30 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 |
 | 31 | [Fear](https://open.spotify.com/track/3Zgd2DHOJ0wVjfSwJYnYw9) | [edith](https://open.spotify.com/artist/6l9Hv70cP4vLDZIMl9KfKQ) | [Fear](https://open.spotify.com/album/29kTMwPHupX5O99teEFEix) | 3:08 |
 | 32 | [Endit](https://open.spotify.com/track/2V7nKWQBZkrLtIXdYWY5hp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc) | 4:51 |
 | 33 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [Tequila Shotgun](https://open.spotify.com/track/5wKcLjjSF81QCTAiTni588) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Tequila Shotgun](https://open.spotify.com/album/3Dw1uk3uehvWx7O7Bth5J8) | 3:24 |
 | 80 | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He) | 2:48 |
 
-Snapshot ID: `MTY3MTcxNDAwMCwwMDAwMDAwMGZiOGRjY2M1MDhkOWE3MGEyOGM1ZTZkODYzYTU3Zjhl`
+Snapshot ID: `MTY3MTcxNDAwMCwwMDAwMDAwMGUwY2RlOGY0ODQ2YTEwNjk2MWNiN2U2NmJlNTBkYTAw`

@@ -11,7 +11,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 | 1 | [Queenish](https://open.spotify.com/track/0kPZoWuMLkHAZv1k3fxk5a) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Queenish](https://open.spotify.com/album/4hk6LBPYaFiOxSdKA56XSE) | 2:27 |
 | 2 | [Chaila](https://open.spotify.com/track/32dmwS4I5d2QIQveVtWf8D) | [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y) | [GO Bravely](https://open.spotify.com/album/3F5NOIN8QC02Sd2XEYFrvk) | 3:11 |
 | 3 | [Smile](https://open.spotify.com/track/7EoqyiXqNAiRhEsLiLjncu) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [Smile](https://open.spotify.com/album/4JPObqnN2a7k5k5ICQz23E) | 2:55 |
-| 4 | [Sharingan](https://open.spotify.com/track/369BjuBIVwQ9Z0ZvNrdCK9) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Sharingan](https://open.spotify.com/album/3Dp4gQKgU5nDuFp10dwDoC) | 3:03 |
+| 4 | [Sharingan](https://open.spotify.com/track/7FTPrKmohZPchzkNuilZhs) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Sharingan](https://open.spotify.com/album/7ElFV9toYFJq1T2VSBaxY9) | 3:03 |
 | 5 | [Long Nights](https://open.spotify.com/track/7jJ8iI3nd7qtKEwpHBBiIX) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Long Nights](https://open.spotify.com/album/3VQp3peJICpaQMShwYRgJW) | 3:18 |
 | 6 | [Where You Are](https://open.spotify.com/track/1wkmKVGBLk4A1jblaKVQ3h) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Where You Are](https://open.spotify.com/album/3bv9unehQKvqOAChCAZcoD) | 3:37 |
 | 7 | [N17](https://open.spotify.com/track/39mt4BMqhMZ81iKXfsF58V) | [Tolü Makay](https://open.spotify.com/artist/337qYJNRgFq2iddKtqiHDG), [RTE Concert Orchestra](https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk) | [N17](https://open.spotify.com/album/5vUdLwC1QrFldBnBfXxG1T) | 3:46 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 | 39 | [Garden](https://open.spotify.com/track/38uqIeoKKlFxm2aH6SL73v) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [What Should We Do This Summer ?](https://open.spotify.com/album/2owTqqcIqHbuOiOiv8Alji) | 3:12 |
 | 40 | [Trapped](https://open.spotify.com/track/44aOl91V0gvzcW2gBS4WCs) | [Panch](https://open.spotify.com/artist/4559cnfJUfk6DFLNt9ENpO) | [Trapped](https://open.spotify.com/album/1hKsgvyuvtOAD0SA9iwBXQ) | 2:57 |
 | 41 | [Brown](https://open.spotify.com/track/0c6YkDqJgpaX2kCTwXbrjj) | [Ama Millieir](https://open.spotify.com/artist/4IrUxLaGY463W3WD3ABWCa) | [Brown](https://open.spotify.com/album/1VYBVGhN5z43zG8j7ni4pq) | 3:00 |
-| 42 | [Shining](https://open.spotify.com/track/0KW1G9rKXlALday2nNAjNd) | [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Shining](https://open.spotify.com/album/0mWrV1xXwbYAXuOkC7KK9Y) | 3:09 |
+| 42 | [Shining](https://open.spotify.com/track/5QP2rGiVzDNAEsS5loaGck) | [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Shining](https://open.spotify.com/album/6ehnt3b5Dlr5A0PA3E3KKK) | 3:09 |
 | 43 | [Wasting Time](https://open.spotify.com/track/56ebQiBJZnXsSZ8iTfCdqU) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [Wasting Time](https://open.spotify.com/album/2iObfuLdk1Y0myNdPXl23U) | 3:02 |
 | 44 | [Taurus](https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0) | 3:06 |
 | 45 | [Golden](https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 | 49 | [Tiger Woods](https://open.spotify.com/track/3TP4es7Z8PL11XHNExj0aB) | [Av9](https://open.spotify.com/artist/1jIj0KgtAmcGbI8aPILxej), [Chuks](https://open.spotify.com/artist/7aQgFbV1G32PxN1IunF4Hw), [Rose9](https://open.spotify.com/artist/2YnLovVFq1yb1i04StOpei) | [Tiger Woods](https://open.spotify.com/album/3kWPB2Q3oYywGaqW018mCB) | 3:51 |
 | 50 | [061](https://open.spotify.com/track/07zGUsX4t6zF4VQfa9hHDi) | [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y) | [061](https://open.spotify.com/album/5W3aa9ngdHTngZTE6f5hzw) | 3:14 |
 
-Snapshot ID: `MTY0NzQ3NTIwMCwwMDAwMDAwMGQ4ZmE4N2IyMzA3YTBlYzYyMmFkYjgzMDllZDA1NTE3`
+Snapshot ID: `MTY0NzQ3NTIwMCwwMDAwMDAwMGY1YjU3YTliZDNjMzMxZTVkZmVlZDZjZTUzNzQxNzky`

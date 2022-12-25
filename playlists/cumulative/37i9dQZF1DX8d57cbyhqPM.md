@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. / From the Congo, to the world\. 🌍  Photo: Moonshine
 
-146 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
+148 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [BIBAMBA](https://open.spotify.com/track/1qJu5qWynObxyKSMGh0xM0) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [BIBAMBA](https://open.spotify.com/album/6fNqw6OqnYexbBes93iK5n) | 3:02 | 2022-11-18 | 2022-12-09 |
 | [Bloqué](https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Bloqué](https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8) | 3:18 | 2022-08-05 |  |
 | [Bokoko](https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc) | [Roga Roga](https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug), [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Bokoko \(Extra Musica\)](https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6) | 4:12 | 2022-06-30 |  |
-| [Bomaye](https://open.spotify.com/track/3CEFVlSmv5KRooqXoKSPWS) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Bomaye](https://open.spotify.com/album/2oz2hClmby2iAj7iWulReI) | 2:24 | 2022-10-21 |  |
+| [Bomaye](https://open.spotify.com/track/3CEFVlSmv5KRooqXoKSPWS) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Bomaye](https://open.spotify.com/album/2oz2hClmby2iAj7iWulReI) | 2:24 | 2022-10-21 | 2022-12-25 |
+| [Bomaye](https://open.spotify.com/track/50ZsyxjMWxPjzun9kXmxv9) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Bomaye](https://open.spotify.com/album/6ssjdtgwemdgvwovgOdEKr) | 2:24 | 2022-12-16 |  |
 | [Burning Desire](https://open.spotify.com/track/3qpT9U1rM6FPbW7X3xogK4) | [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z) | [Burning Desire](https://open.spotify.com/album/4fuF6upvUdk2MhKLtL9x7b) | 2:52 | 2022-06-30 | 2022-10-22 |
 | [Butu Ya Lelo](https://open.spotify.com/track/6ybcrc3Ekrcy65TG0ASgsQ) | [Tcherly N](https://open.spotify.com/artist/5QhZSGrBxIQyLE7Ntl2VEi) | [Butu Ya Lelo](https://open.spotify.com/album/7brNGIzXrN2I5CUbsNmPTW) | 3:42 | 2022-06-30 | 2022-08-20 |
 | [Bébé](https://open.spotify.com/track/2sjJrFhDT0oP3fyCocTVyX) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 4:05 | 2022-06-30 | 2022-10-15 |
@@ -132,7 +133,8 @@
 | [Tikanga](https://open.spotify.com/track/6zZeCUzW9Aa6Gh1ogxSByj) | [Lady Aicha & Pisko Cranes Original Fulu Mziki of Kinsasha](https://open.spotify.com/artist/5oxIilD2a6k8dOoKEetWnt) | [N'Djila Wa Mudjimu](https://open.spotify.com/album/3h9hONYG9Ahpw10nqgp21y) | 6:28 | 2022-10-21 | 2022-11-19 |
 | [Tingama](https://open.spotify.com/track/4cz3p3yWjKNOrYTTXaTizs) | [Jeyyyh](https://open.spotify.com/artist/2KBhvUkyuomSbcfkUwozOP) | [Tingama](https://open.spotify.com/album/7wCs42r00RvLckfr6wx652) | 2:32 | 2022-12-16 |  |
 | [Tlb](https://open.spotify.com/track/5MbgvVfSVON5bRng2iuboW) | [JDL](https://open.spotify.com/artist/3aSOqB03AcdniBDFyhaQBq) | [Tlb](https://open.spotify.com/album/4xKh0zkc1agvKgK3bIgLyT) | 2:41 | 2022-08-12 |  |
-| [Toleka](https://open.spotify.com/track/1KEROJ9ebYie5dficNGUFD) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Toleka](https://open.spotify.com/album/6WKNnYnQRTex7lPuYM8PE8) | 3:18 | 2022-06-30 |  |
+| [Toleka](https://open.spotify.com/track/1KEROJ9ebYie5dficNGUFD) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Toleka](https://open.spotify.com/album/6WKNnYnQRTex7lPuYM8PE8) | 3:18 | 2022-06-30 | 2022-12-25 |
+| [Toleka](https://open.spotify.com/track/2i3RY72siSsRLffssw2boS) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Toleka](https://open.spotify.com/album/1FUtfN6N0YQJkMRzqqrT9n) | 3:18 | 2022-12-16 |  |
 | [Trop c'est trop](https://open.spotify.com/track/6GvLQgYTEwmgTjadj3Agsw) | [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Trop c'est trop](https://open.spotify.com/album/1wL4WyHqFJwnS9F1IgxeFW) | 6:43 | 2022-06-30 |  |
 | [Trop d'style](https://open.spotify.com/track/3psZCp00KQYDNUEFomZuMt) | [Jobooy](https://open.spotify.com/artist/3zBTnQu40I1ZWfsDDoeBDH) | [Trop d'style](https://open.spotify.com/album/1JK3DwucZnzPmNqeRhcNID) | 2:51 | 2022-06-30 |  |
 | [Trouvez\-la moi](https://open.spotify.com/track/1VaQdhu4wt5Ic8GEmjIiF2) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Gentleman 2.0](https://open.spotify.com/album/4W1TprhYF2tlbhilWvi0A3) | 5:51 | 2022-06-30 | 2022-07-29 |

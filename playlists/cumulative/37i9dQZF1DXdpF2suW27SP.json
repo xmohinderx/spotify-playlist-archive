@@ -502,6 +502,24 @@
     },
     {
       "album": {
+        "name": "Patr\u00f5es EP",
+        "url": "https://open.spotify.com/album/1ZHitx0vl1g1FR7CjwdszR"
+      },
+      "artists": [
+        {
+          "name": "Supa Squad",
+          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120452,
+      "name": "Bend Ova",
+      "url": "https://open.spotify.com/track/6f3IhJuJDxU53yW3vAUtAL"
+    },
+    {
+      "album": {
         "name": "Bimba Y Lola",
         "url": "https://open.spotify.com/album/7CtTCSTIrFUnRlqCKe4oM3"
       },

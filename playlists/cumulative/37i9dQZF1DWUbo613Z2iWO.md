@@ -4,7 +4,7 @@
 
 > Our favorite R&B artists on the rise! Cover: Ambré
 
-494 songs - 1 day 1 hr 39 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
+495 songs - 1 day 1 hr 42 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,8 @@
 | [In My Feelings](https://open.spotify.com/track/3DffItF1T4GVMAUyyYicFY) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [In My Feelings](https://open.spotify.com/album/2CvZeMFgTqOL15lyFzCqTM) | 3:45 | 2022-05-27 | 2022-07-30 |
 | [IN THE AIR \(SPED UP\)](https://open.spotify.com/track/5NmLXvwNgcvE6DhJMxyIV6) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IN THE AIR/BILL$ \(SPED UP\)](https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58) | 1:42 | 2022-09-09 | 2022-11-12 |
 | [In The Club](https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [In The Club](https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs) | 2:52 | 2022-04-29 | 2022-07-02 |
-| [In The Moment](https://open.spotify.com/track/5T7CQ8uxqtIEzZ47zUBnz0) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [In The Moment](https://open.spotify.com/album/47jzJC3JouRl3o89fbUrxW) | 3:13 | 2022-08-12 |  |
+| [In The Moment](https://open.spotify.com/track/2Xc0ucl20Cf0gOnbsxlOAU) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/15qwevfPInT5d4Y0X2I1o0) | 3:13 | 2022-12-02 |  |
+| [In The Moment](https://open.spotify.com/track/5T7CQ8uxqtIEzZ47zUBnz0) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [In The Moment](https://open.spotify.com/album/47jzJC3JouRl3o89fbUrxW) | 3:13 | 2022-08-12 | 2022-12-25 |
 | [In The Morning](https://open.spotify.com/track/2u1lDhvkGDUkc8UQWWcC2Y) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz) | [In The Morning](https://open.spotify.com/album/1d6d8AezYNJ2PgpY7Oc5IQ) | 3:02 | 2022-05-06 | 2022-07-02 |
 | [Infinity High](https://open.spotify.com/track/5vEqsOWZ9uWx593VN9ielE) | [MERŌN](https://open.spotify.com/artist/0YbqIxOpOJO7cOpGjMypRk) | [Daisy](https://open.spotify.com/album/2jLOP81uzTbwJbS5scWxOf) | 2:14 | 2022-02-28 | 2022-03-26 |
 | [INFINITY PLUS INFINITY](https://open.spotify.com/track/3W2SA9K6Ap5wk06SNvD63C) | [Ctrlgang](https://open.spotify.com/artist/4bMX90q14BwLcwOZPe9hZV) | [INFINITY PLUS INFINITY](https://open.spotify.com/album/5BYeL15D2j66yBx5xDnFYv) | 2:01 | 2022-06-17 | 2022-08-06 |

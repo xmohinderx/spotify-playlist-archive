@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 208404,
+  "num_followers": 208425,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDkzODk5YTVhYmM4MTQwOWEzNzVlYmE3M2IzOWQ5M2Y0",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDMyNGNhNmFkMTY0OTMxOWNiYjQ0M2YwMDAxZWEwYzQz",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN"
-      },
-      "artists": [
-        {
-          "name": "Bar\u00f3n Rojo",
-          "url": "https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "Los Rockeros Van al Infierno",
-      "url": "https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Subkonzziente",
         "url": "https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 234666,
       "name": "M\u00edstica",
       "url": "https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00f3n Rojo",
+          "url": "https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "Los Rockeros Van al Infierno",
+      "url": "https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -671,22 +671,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Apatrida",
-        "url": "https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3"
-      },
-      "artists": [
-        {
-          "name": "Nuclear",
-          "url": "https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt"
-        }
-      ],
-      "duration_ms": 225312,
-      "name": "Apatrida",
-      "url": "https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Satanico-Dramatico",
         "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 71000,
       "name": "Sigo Siendo El Rey",
       "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Apatrida",
+        "url": "https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3"
+      },
+      "artists": [
+        {
+          "name": "Nuclear",
+          "url": "https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt"
+        }
+      ],
+      "duration_ms": 225312,
+      "name": "Apatrida",
+      "url": "https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -799,18 +799,18 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Legiones",
-        "url": "https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf"
+        "name": "Dios Ha Muerto",
+        "url": "https://open.spotify.com/album/2FlG7v1XqcqUwXLpXZiwFi"
       },
       "artists": [
         {
-          "name": "Serpentor",
-          "url": "https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM"
+          "name": "Acutor",
+          "url": "https://open.spotify.com/artist/4tHrTzSpJDv756VU0oVnn0"
         }
       ],
-      "duration_ms": 374026,
-      "name": "Reinar\u00e1 el Caos",
-      "url": "https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z"
+      "duration_ms": 248360,
+      "name": "Brutal Existencia",
+      "url": "https://open.spotify.com/track/2evFymF2OK3gW1enigpUqD"
     }
   ],
   "unique_name": "Metal del Nuestro",

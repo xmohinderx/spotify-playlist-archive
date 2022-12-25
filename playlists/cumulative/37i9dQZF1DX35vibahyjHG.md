@@ -4,7 +4,7 @@
 
 > Highlights of 2022, listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=du9lq5lGR\-27xrx2qy\_HRg"> Ayra Starr</a>
 
-192 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/6yzD6damvxnHwo13ZRV2qK)
+193 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/6yzD6damvxnHwo13ZRV2qK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Don't Worry](https://open.spotify.com/track/3JT3enk1eYMdwoV5liSJ3B) | [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG) | [A Girl from Harare](https://open.spotify.com/album/4xZWxiGGLPBvwEOmYCbsE9) | 3:18 | 2022-02-02 | 2022-05-05 |
 | [Drown](https://open.spotify.com/track/6dUAWdwaM0s1FAajh7i2oY) | [Fewa](https://open.spotify.com/artist/75C3ZzGRAbVr4Fk3osN51M) | [Serenity](https://open.spotify.com/album/7wKJUBSNLTo44z59Hv5EHL) | 2:59 | 2022-04-05 | 2022-07-06 |
 | [Dubai](https://open.spotify.com/track/6tx3PPYfrkpeJqQH2oSxhH) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [Sizwe Alakine](https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [Dubai](https://open.spotify.com/album/3LU9tiUoLpihL2pXPbejWO) | 6:30 | 2021-11-08 |  |
-| [E Choke](https://open.spotify.com/track/0dfhS0eJu5a3OB6TVMdYlA) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [E Choke](https://open.spotify.com/album/0bBL9agqk6xyPy88LWuS1b) | 3:03 | 2021-10-15 |  |
+| [E Choke](https://open.spotify.com/track/0dfhS0eJu5a3OB6TVMdYlA) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [E Choke](https://open.spotify.com/album/0bBL9agqk6xyPy88LWuS1b) | 3:03 | 2021-10-15 | 2022-12-25 |
+| [E Choke](https://open.spotify.com/track/0lzX67xt1DiKrl3CV0stJC) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [E Choke](https://open.spotify.com/album/5oSPnUJVW4g1oXILuB0lVT) | 3:03 | 2022-11-30 |  |
 | [Effects Of Thoughts](https://open.spotify.com/track/78ACXVGjnl6C0R8IbMhePg) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Effects Of Thoughts](https://open.spotify.com/album/0ZuwDdFNfDG6bCRmGyLpPa) | 2:51 | 2021-10-15 | 2022-04-06 |
 | [Energy](https://open.spotify.com/track/1bj5ZFpxGFP5ooQcctNVB4) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Nadeem Din\-Gabisi](https://open.spotify.com/artist/4ckH39T1k1Dz6Lmo6dmno6) | [Energy](https://open.spotify.com/album/6sKrmGGTFELOes2uZ8LxUk) | 4:58 | 2022-09-07 | 2022-12-01 |
 | [Eshu](https://open.spotify.com/track/2EB9HogbtwaVVHOUhmArEp) | [Amai Kuda Et Les Bois](https://open.spotify.com/artist/1SBiL8VyIl0OzZbyJQTNvw) | [Eshu](https://open.spotify.com/album/7Gb6bgH1YnrsoNulqp4tHd) | 3:20 | 2022-05-04 | 2022-06-01 |

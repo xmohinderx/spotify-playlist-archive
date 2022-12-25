@@ -1,12 +1,12 @@
 {
   "description": "Las artistas que marcaron el a\u00f1o con Mon Laferte en portada. ",
-  "num_followers": 10725,
+  "num_followers": 10737,
   "original_name": "Lo mejor de EQUAL Chile 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMGRhYjViZGY1NzI1YmZjMDIyYTU3NmMzYTdhNjVjNWEz",
+  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMDJlOGUzMWMwN2U4N2UzZjY3YWRhNGMyYjNiOWU5OGVm",
   "tracks": [
     {
       "added_at": "2022-11-30 13:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Unu",
-        "url": "https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        }
-      ],
-      "duration_ms": 200988,
-      "name": "Unu",
-      "url": "https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Fine",
         "url": "https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 182384,
       "name": "Fine",
       "url": "https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Unu",
+        "url": "https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        }
+      ],
+      "duration_ms": 200988,
+      "name": "Unu",
+      "url": "https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j"
     },
     {
       "added_at": "2022-11-30 13:00:00",

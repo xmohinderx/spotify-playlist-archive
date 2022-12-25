@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-78 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/4IZcoENbRUH8fIMPWTB7x5)
+79 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/4IZcoENbRUH8fIMPWTB7x5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [アンパンマンのマーチ](https://open.spotify.com/track/1PKfIbqY6tFFPcvmbHP1RS) | [ドリーミング](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ!アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 2:50 | 2022-04-10 |  |
 | [ウルトラ リラックス](https://open.spotify.com/track/25IzraQSbIa16ldrInYseb) | [Tomoe Shinohara](https://open.spotify.com/artist/27trVEYHShFRolUZEP29KC) | [スーパーモデル 15th Anniversary Edition](https://open.spotify.com/album/4R4HiowbixsBsdSXAqiTFf) | 4:35 | 2022-05-27 |  |
 | [ウルトラ リラックス](https://open.spotify.com/track/59TfIBHvlkefLsrMUy2wvz) | [Tomoe Shinohara](https://open.spotify.com/artist/27trVEYHShFRolUZEP29KC) | [スーパーモデル 15th Anniversary Edition](https://open.spotify.com/album/3e54EqkG6yNxDS4D9tfL0X) | 4:35 | 2022-04-10 | 2022-07-29 |
+| [オラはにんきもの](https://open.spotify.com/track/4wXNNWkfD8JLN8AFSCYXvb) | [のはらしんのすけ](https://open.spotify.com/artist/6llUTHSSYBAyRZtZiwj0bm) | [クレヨンしんちゃん](https://open.spotify.com/album/6wxH8XD524yDFAWQ8yS65R) | 3:32 | 2022-12-24 |  |
 | [カントリー・ロード\(耳をすませば\)](https://open.spotify.com/track/05ZK15TznnzSCm9zeF0Y8j) | [本名陽子](https://open.spotify.com/artist/6Sjyx1ilVnUtyFWOPTPKFc) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:26 | 2022-04-10 | 2022-07-29 |
 | [ギリギリchop](https://open.spotify.com/track/6UUmbqYhL4p8W70bCzfOpx) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ギリギリchop](https://open.spotify.com/album/2xvUnnVWLk2tEPlbtOBpOd) | 3:57 | 2022-04-10 |  |
 | [ゲッターロボ號 \(ゲッターロボ號\)](https://open.spotify.com/track/5oWCL1JWKTWfWNj0tAzwK5) | [Ichiro Mizuki](https://open.spotify.com/artist/4uW4SEyjVLBFqGsy9iaD9N) | [永井豪ヒーロー伝説 鋼鉄魔神篇](https://open.spotify.com/album/4khnrd3qIG0miG9HvJz0hL) | 3:08 | 2022-04-10 |  |
@@ -82,7 +83,7 @@
 | [通学路](https://open.spotify.com/track/3bWtmS6HYTudK8w9BSDsfw) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [\(初\)](https://open.spotify.com/album/4gYecLNP2SMcZ8ObXyryeS) | 4:05 | 2022-05-27 |  |
 | [通学路](https://open.spotify.com/track/4aPWrSvOPs0TEfQviAvjAb) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [\(初\)](https://open.spotify.com/album/5N2CPtTbsPdd706lfTJiUj) | 4:05 | 2022-04-10 | 2022-07-29 |
 | [通学路](https://open.spotify.com/track/1vnFKuR3rBOhX7l5lcrMDa) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [GOLDEN☆BEST Whiteberry](https://open.spotify.com/album/7BMm2AkVbA3F7ULQoJ5ivY) | 4:05 | 2022-08-30 | 2022-11-14 |
-| [運命のルーレット廻して](https://open.spotify.com/track/36LFRJKinf0TWJjHg6SmHg) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [運命のルーレット廻して](https://open.spotify.com/album/0am0AmvgNvxLx0swxwyQVx) | 5:00 | 2022-04-10 |  |
+| [運命のルーレット廻して](https://open.spotify.com/track/36LFRJKinf0TWJjHg6SmHg) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [運命のルーレット廻して](https://open.spotify.com/album/0am0AmvgNvxLx0swxwyQVx) | 5:00 | 2022-04-10 | 2022-12-25 |
 | [魂のルフラン](https://open.spotify.com/track/4vJDqCqmiFI25MRpguICw0) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン/THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2) | 5:14 | 2022-05-27 |  |
 | [魂のルフラン](https://open.spotify.com/track/1NrzI6zJMDJLXTfxRFzGwX) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 5:14 | 2022-08-30 | 2022-11-14 |
 | [魂のルフラン](https://open.spotify.com/track/4pjQ19ATjMCMFqnEF75O9T) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン](https://open.spotify.com/album/7j1OdqnevNe9r0mwxOmh15) | 5:14 | 2022-04-10 | 2022-07-29 |

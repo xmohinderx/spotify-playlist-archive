@@ -4,7 +4,7 @@
 
 > A hypnotic journey through melodic techno.
 
-103 songs - 10 hr 20 min - not published yet
+104 songs - 10 hr 26 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Mankind](https://open.spotify.com/track/521p9zLwWdFrfWwGpgtIbF) | [Mitch De Klein](https://open.spotify.com/artist/7zGEI2pEvhrGrD2Vqrhpwg) | [Mankind](https://open.spotify.com/album/3Q1QrU32ydYQrPMZofU4lZ) | 3:46 | 2022-12-02 |  |
 | [Mechanical Dream](https://open.spotify.com/track/6QKYmkC2KUgDmzcVn7zGQW) | [Ubbah](https://open.spotify.com/artist/0gSdePQqsO1geT47TcEMal) | [Wired & Sealed EP](https://open.spotify.com/album/42CWZtIhTPgsrJ9FLO0Qea) | 7:07 | 2022-11-23 | 2022-12-07 |
 | [Mind Control](https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Mind Control](https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF) | 5:07 | 2022-11-23 |  |
-| [Mind Control \- Stephan Jolk Remix](https://open.spotify.com/track/2ig7zIzaD3omrWSgJdlx4W) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Mind Control Remixes](https://open.spotify.com/album/5ojPPLGixsheh2u3SXPYy5) | 5:12 | 2022-11-23 |  |
+| [Mind Control \- Stephan Jolk Remix](https://open.spotify.com/track/2ig7zIzaD3omrWSgJdlx4W) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Mind Control Remixes](https://open.spotify.com/album/5ojPPLGixsheh2u3SXPYy5) | 5:12 | 2022-11-23 | 2022-12-25 |
 | [Mirage](https://open.spotify.com/track/7ebulpHSffs4Thc0VM0LHv) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Mirage](https://open.spotify.com/album/5ZwqPuurXv0oKEZXvfAHZc) | 4:20 | 2022-11-23 |  |
 | [Mutant Disco \- Original](https://open.spotify.com/track/0oFgQ7eTFDuuvxV5aucMDq) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Mutant Series](https://open.spotify.com/album/6z7ja8yliHzpMMrZpzThjn) | 6:59 | 2022-11-23 | 2022-12-06 |
 | [My Everything](https://open.spotify.com/track/4LMlPnnfUXxmRTuj8tPBN7) | [Das Pharaoh](https://open.spotify.com/artist/4BVdLTy33D4KtSxNUu6bUW) | [My Everything](https://open.spotify.com/album/632rCZmbM4IcuMZvTf2ohC) | 2:52 | 2022-11-23 |  |
@@ -101,6 +101,7 @@
 | [The Tide](https://open.spotify.com/track/3UWQvz3JJJbseHOoyX7Xw0) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C), [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Beautiful Errors](https://open.spotify.com/artist/2hXE7AOxECS5zOIPxtYYaM) | [The Tide](https://open.spotify.com/album/2YhEMk0bYtGvOQYTJY6pqc) | 4:04 | 2022-12-09 |  |
 | [Tibet](https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Tibet](https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK) | 6:43 | 2022-11-23 |  |
 | [To The Light \- Fideles Remix](https://open.spotify.com/track/4dnmKgkhPvrRrDYjajpPS5) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [To The Light \(Fideles Remix\)](https://open.spotify.com/album/6jNIuiKaLvkGloJnqq40Cp) | 4:30 | 2022-12-16 |  |
+| [To the Soul](https://open.spotify.com/track/2YrXmlAEz519MRKZdpcR3F) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [To the Soul](https://open.spotify.com/album/5ozX77l1jnaM9dWDUGv78H) | 6:36 | 2022-12-16 |  |
 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 | 2022-11-23 |  |
 | [Trust The Hours](https://open.spotify.com/track/7s6PEaininXkVBJr2RRKub) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Trust The Hours](https://open.spotify.com/album/4MKzursWBCbB95qiTNQzgV) | 6:11 | 2022-11-23 |  |
 | [Try](https://open.spotify.com/track/6dYp9gwmnHvLdjwHhhiJbV) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Try / I Need You Now](https://open.spotify.com/album/4bPpSY4RfqWXcPrlLP8v1G) | 3:39 | 2022-11-23 | 2022-12-17 |

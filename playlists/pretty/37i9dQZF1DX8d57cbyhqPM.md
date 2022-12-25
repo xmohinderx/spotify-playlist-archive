@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde\. / From the Congo, to the world\. 🌍  Photo: Moonshine
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,545 likes - 90 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,590 likes - 90 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 33 | [Afsana](https://open.spotify.com/track/0Ms0rronIijW3ngbCOtRlB) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6) | 4:47 |
 | 34 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 |
 | 35 | [Lakisa Photo’a Bae](https://open.spotify.com/track/4agVZjZqRIbyaXDRrROHxM) | [Marechal Abd](https://open.spotify.com/artist/5BygI6Tha3l5w9lxWJUKMY) | [Lakisa Photo’a Bae](https://open.spotify.com/album/09VNeekwCgaV3NVSJOl9f7) | 2:16 |
-| 36 | [Bomaye](https://open.spotify.com/track/3CEFVlSmv5KRooqXoKSPWS) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Bomaye](https://open.spotify.com/album/2oz2hClmby2iAj7iWulReI) | 2:24 |
+| 36 | [Bomaye](https://open.spotify.com/track/50ZsyxjMWxPjzun9kXmxv9) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Bomaye](https://open.spotify.com/album/6ssjdtgwemdgvwovgOdEKr) | 2:24 |
 | 37 | [Lubumbashi](https://open.spotify.com/track/4TbXW306MYRuyLl3f3fAaO) | [Zaire](https://open.spotify.com/artist/7eAsCMv2IYlqYV2eZCLkay) | [Lubumbashi](https://open.spotify.com/album/23zgjg8tmsPMWpML2KXG8A) | 2:35 |
 | 38 | [Pays de merveilles](https://open.spotify.com/track/3kDm6WcoCPHjvucG5mv3dY) | [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Pays de merveilles](https://open.spotify.com/album/4QuGEJxOOYCbvj3S5cR5up) | 5:31 |
 | 39 | [Malele](https://open.spotify.com/track/4SiRdXcs6gAfWaaGJwXvnq) | [Montparnasse Musique](https://open.spotify.com/artist/3BWH21B4XctwdGhDsmNlKG), [Menga Waku](https://open.spotify.com/artist/2wuuIEeoqLCf3WqKJw2TO3) | [Malele](https://open.spotify.com/album/0YgwuVtiEGQVpf4V8gJR2G) | 3:56 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 46 | [Nalingi ye](https://open.spotify.com/track/5mEnRGML6tztiuKBigJIQQ) | [Stone Warley](https://open.spotify.com/artist/4PYXE76LmEnTLqqkeoxc01), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Nalingi ye](https://open.spotify.com/album/6FM6rbjMIjVaxH5cQ6g5S9) | 3:02 |
 | 47 | [Κ\. Kin la belle](https://open.spotify.com/track/6YuSiFqJP4MUo88RtUAfAX) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Ipséité](https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt) | 3:20 |
 | 48 | [Africa](https://open.spotify.com/track/0HOdXa3PPnJhNRBlgO7Jhr) | [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ) | [Africa](https://open.spotify.com/album/5oVYOWGSA1iXbviwW3SnTH) | 2:33 |
-| 49 | [Toleka](https://open.spotify.com/track/1KEROJ9ebYie5dficNGUFD) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Toleka](https://open.spotify.com/album/6WKNnYnQRTex7lPuYM8PE8) | 3:18 |
+| 49 | [Toleka](https://open.spotify.com/track/2i3RY72siSsRLffssw2boS) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Toleka](https://open.spotify.com/album/1FUtfN6N0YQJkMRzqqrT9n) | 3:18 |
 | 50 | [VALABA](https://open.spotify.com/track/0hurXA0kT1G8xL1fs8ekxN) | [Odrey](https://open.spotify.com/artist/4uMgvCxdUFjIOy4Nl1wKMj), [Stone](https://open.spotify.com/artist/1QUKRGAAoys1E4p8kA7mHT) | [VALABA](https://open.spotify.com/album/3RhNnoJ7oIOj6HnRsMi6sz) | 2:34 |
 | 51 | [Kita](https://open.spotify.com/track/0I4zmOt8SOMvMcJCB4YaIO) | [Djako](https://open.spotify.com/artist/6hJcwkxbYVPFDRZYFDuJv9), [Dé Panama](https://open.spotify.com/artist/3tv6rEIw6RVujaQZD6W6ca), [Gettss](https://open.spotify.com/artist/4bkTZCzXEVVHQ1cLmaYd1e) | [Kita](https://open.spotify.com/album/1KxMpI9xFDsrzQ3AXq9Mge) | 3:36 |
 | 52 | [Mutu Ebeba](https://open.spotify.com/track/2GAA7jWcNgb0mMIZ4Zb3r1) | [SHARABIA](https://open.spotify.com/artist/5TcxIt337AdejHrxFa5KTN) | [Mutu EBEBA](https://open.spotify.com/album/6ePKPQSOmiFxZYb9qyFemo) | 4:31 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 89 | [Mbila \- João Selva Remix](https://open.spotify.com/track/1gW5zzEe41Hdbd3l1CYllP) | [Les Mamans du Congo](https://open.spotify.com/artist/7i6SYXEQQzBMOlb4M9hE1I), [RROBIN](https://open.spotify.com/artist/2xPaqV5LOTeUjSsMGaLVmY), [João Selva](https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG) | [Mbila \(João Selva Remix\)](https://open.spotify.com/album/4CexHLC4PDH9rCz9l33xpo) | 4:02 |
 | 90 | [Atalaku](https://open.spotify.com/track/4f45BUGMPheVBmtxg5jVAf) | [Mike LeMillionaire](https://open.spotify.com/artist/4U7uidgCCK3Q7KsLzT3muv) | [Atalaku](https://open.spotify.com/album/6z4rOtn4oWJmSISqwXYhpE) | 1:04 |
 
-Snapshot ID: `MTY3MTE2Njg2MCwwMDAwMDAwMDU5NDA4YzdhMDQyNjZiN2UxMzk1YTI2NGI4NWMzMGY0`
+Snapshot ID: `MTY3MTE2Njg2MCwwMDAwMDAwMGQ2M2ZjZGYxYWI4ZWJjM2RkNDhkMDcwYjhjOTNlNGI3`

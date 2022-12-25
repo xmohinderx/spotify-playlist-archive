@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: youra, Mandong \(유라, 만동\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,812 likes - 76 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,826 likes - 76 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

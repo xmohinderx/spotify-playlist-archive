@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 348311,
+  "num_followers": 348940,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE5NywwMDAwMDAwMDM4YzYyNDcyMTk5MzFmNTk4MmJiZTIxNzVkMWFlMWU2",
+  "snapshot_id": "MTY0OTg2MjE5NywwMDAwMDAwMDFiZTY1MGY4NDIwMDgyM2IwNTk4MGVlYzQ2MjE3Njcx",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:17",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Hudson Street",
-        "url": "https://open.spotify.com/album/2Uxdu2VRsTj2AIUI38VNfD"
-      },
-      "artists": [
-        {
-          "name": "Agnelli & Nelson",
-          "url": "https://open.spotify.com/artist/25fXoLpROrtnNtQ1ifr8oN"
-        }
-      ],
-      "duration_ms": 417306,
-      "name": "Everyday - Extended Mix",
-      "url": "https://open.spotify.com/track/4ApMz0VzAlMf7EAR1Nn3I5"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
         "name": "Trance Top 1000 - The Best Of",
         "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 225841,
       "name": "Universal Nation",
       "url": "https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
+        "name": "Hudson Street",
+        "url": "https://open.spotify.com/album/2Uxdu2VRsTj2AIUI38VNfD"
+      },
+      "artists": [
+        {
+          "name": "Agnelli & Nelson",
+          "url": "https://open.spotify.com/artist/25fXoLpROrtnNtQ1ifr8oN"
+        }
+      ],
+      "duration_ms": 417306,
+      "name": "Everyday - Extended Mix",
+      "url": "https://open.spotify.com/track/4ApMz0VzAlMf7EAR1Nn3I5"
     },
     {
       "added_at": "2022-04-13 15:03:17",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: Stray Kids\(스트레이 키즈\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,931 likes - 130 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,017 likes - 130 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cheers!](https://open.spotify.com/track/2VFKbSBzOeLq3FFMcrkpXl) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Work Later Drink Now S2, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0Z5UmfvsfNUMVedakree1B) | 3:03 |
 | 2 | [예쁨 가득한 Eve \(prod\. Minit\)](https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [예쁨 가득한 Eve](https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo) | 2:50 |
-| 3 | [After Resignation](https://open.spotify.com/track/4VlTkxdN8up3zdaeqHp0zp) | [MINGYU](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay) | [After Resignation : Re+Project ‘Re+Call’](https://open.spotify.com/album/1YeUugiuIG08qtZyeLpjK9) | 4:41 |
+| 3 | [After Resignation](https://open.spotify.com/track/4VlTkxdN8up3zdaeqHp0zp) | [Mingyu](https://open.spotify.com/artist/07s1hDc1qCKvsglKf5B6X5) | [After Resignation : Re+Project ‘Re+Call’](https://open.spotify.com/album/1YeUugiuIG08qtZyeLpjK9) | 4:41 |
 | 4 | [Candle](https://open.spotify.com/track/7LhjwLkKvbjT30PBvKePTP) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN) | [Candle](https://open.spotify.com/album/6lzlBNGpzNf5P7IsVXNpzS) | 3:33 |
 | 5 | [Thorn](https://open.spotify.com/track/5oApK38Fycj7FemmYnpJm3) | [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z) | [Thorn](https://open.spotify.com/album/2ESqLtziuxHNUc71jCTHKZ) | 2:46 |
 | 6 | [Nobody is perfect \(Prod\. Song Yoodam\)](https://open.spotify.com/track/0rmepzrZX9JO9Rnvx07fvr) | [Mckdaddy](https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA) | [Unlock My Boss, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/03W3tRDeTtIvAvHFX598NR) | 2:56 |

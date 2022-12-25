@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > Dance and electronic Arabic songs\. Cover: Obeidmusic, Pamela Antoun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,388 likes - 55 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,423 likes - 55 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [3ala bali](https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Pamela Antoun](https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN) | [3ala bali](https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5) | 3:30 |
-| 2 | [Seret El Hob Remix](https://open.spotify.com/track/2nLsfcz1xMPpRVQbEICa0a) | [Aly Fathallah](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [Seret El Hob Remix](https://open.spotify.com/album/6ac2W6mJALSa62m9Rjf8WQ) | 4:06 |
+| 2 | [Seret El Hob Remix](https://open.spotify.com/track/2nLsfcz1xMPpRVQbEICa0a) | [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [Seret El Hob Remix](https://open.spotify.com/album/6ac2W6mJALSa62m9Rjf8WQ) | 4:06 |
 | 3 | [Headlights \(feat\. KIDDO & Issam Alnajjar\) \- Radio Edit](https://open.spotify.com/track/2gqnO3cvjvBNTYr9dMNZIn) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO & Issam Alnajjar\) \[Radio Edit\]](https://open.spotify.com/album/6XZqrGWZ3s06HmcCRziviX) | 2:38 |
 | 4 | [Bel Ahlam \(Remix\)](https://open.spotify.com/track/5jonBF1ctoQZ3vkaTN5VIv) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM) | [Bel Ahlam \(Remix\)](https://open.spotify.com/album/7F8KwU004mAZFkyAzzK4qc) | 3:22 |
 | 5 | [Ya Rababa](https://open.spotify.com/track/0JbbFcObfoamPYxjFO3Bzo) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Toufic Hatem](https://open.spotify.com/artist/4j9gpKIArRkQI69agEe0YH) | [Ya Rababa](https://open.spotify.com/album/39MFNRuzV8F5JOChDRpBxe) | 5:48 |

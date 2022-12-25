@@ -1,12 +1,12 @@
 {
   "description": "Quiet mornings, wake up early and take a moment with nature for a positive start of your day.",
-  "num_followers": 350,
+  "num_followers": 357,
   "original_name": "Early Birds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1Nzg2MCwwMDAwMDAwMGE1Y2E2ZWY3ZGI0MGM4M2UwZTAxNmQ1YzdlN2ExNzc0",
+  "snapshot_id": "MTY2Njk1Nzg2MCwwMDAwMDAwMDcyNzZkMzA2NzQ5NTg1MzRhMGQ4MjIzMjVhMWJiZjNm",
   "tracks": [
     {
       "added_at": "2022-10-28 11:51:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-10-28 11:51:00",
       "album": {
-        "name": "Summer Breeze Bird",
-        "url": "https://open.spotify.com/album/4qe0C4jwN9ix2zefirJ3wA"
-      },
-      "artists": [
-        {
-          "name": "Dominica del Foresta",
-          "url": "https://open.spotify.com/artist/0hG7O67NvjLAehkxcJmmJZ"
-        }
-      ],
-      "duration_ms": 123594,
-      "name": "Bird Sounds HD",
-      "url": "https://open.spotify.com/track/4CfWxs2ZmO9H34idCvfnvp"
-    },
-    {
-      "added_at": "2022-10-28 11:51:00",
-      "album": {
         "name": "Timber Slumber",
         "url": "https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 151209,
       "name": "Ocean Winds And Birds",
       "url": "https://open.spotify.com/track/0Ky7FA9AeAsAGiLUW7fKUv"
+    },
+    {
+      "added_at": "2022-10-28 11:51:00",
+      "album": {
+        "name": "Summer Breeze Bird",
+        "url": "https://open.spotify.com/album/4qe0C4jwN9ix2zefirJ3wA"
+      },
+      "artists": [
+        {
+          "name": "Dominica del Foresta",
+          "url": "https://open.spotify.com/artist/0hG7O67NvjLAehkxcJmmJZ"
+        }
+      ],
+      "duration_ms": 123594,
+      "name": "Bird Sounds HD",
+      "url": "https://open.spotify.com/track/4CfWxs2ZmO9H34idCvfnvp"
     },
     {
       "added_at": "2022-10-28 11:51:00",

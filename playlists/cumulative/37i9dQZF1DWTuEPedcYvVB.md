@@ -4,7 +4,7 @@
 
 > The official playlist for Top Boy\. Watch on Netflix
 
-52 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/6cWvUONQFP4knU09puj0L3)
+53 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/6cWvUONQFP4knU09puj0L3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Mañana \- 2019 \- Remaster](https://open.spotify.com/track/5wCaEg0F5IvtSZbFD2ze1l) | [Radio Tarifa](https://open.spotify.com/artist/66fSx6FKclyaS6PUYx23ee) | [Rumba Argelina \(2019 \- Remaster\)](https://open.spotify.com/album/1iuAGJEfdOw0klUssxJl4m) | 3:41 | 2022-04-14 |  |
 | [Mind Language](https://open.spotify.com/track/4jSLPUJKvVsG6avWAgFmY5) | [She Wyse](https://open.spotify.com/artist/03YynoWMMyKiLDbEVFBrrv) | [Mind Language](https://open.spotify.com/album/2Wp98D6txTTqGoBetjIxx4) | 2:57 | 2022-04-14 |  |
 | [Nighttime](https://open.spotify.com/track/3YWJbv4CeZ1508JfmGNVL6) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Nighttime](https://open.spotify.com/album/4XicRqMQwnEanQQES0kHjM) | 3:51 | 2022-04-14 |  |
-| [No Drama](https://open.spotify.com/track/6HyYOsbICeWtN9brSOhr9R) | [Lavida Loca](https://open.spotify.com/artist/415327ME0IFxW10IRFonr8) | [2 Sides](https://open.spotify.com/album/5o8IgzG9di21TFESYuU5jD) | 3:10 | 2022-04-14 |  |
+| [No Drama](https://open.spotify.com/track/2K4YJw1w339PDnVRVNXBpu) | [Lavida Loca](https://open.spotify.com/artist/415327ME0IFxW10IRFonr8) | [2 Sides](https://open.spotify.com/album/5F9kzrOxaGaB2sRMapfJUQ) | 3:10 | 2022-04-14 |  |
+| [No Drama](https://open.spotify.com/track/6HyYOsbICeWtN9brSOhr9R) | [Lavida Loca](https://open.spotify.com/artist/415327ME0IFxW10IRFonr8) | [2 Sides](https://open.spotify.com/album/5o8IgzG9di21TFESYuU5jD) | 3:10 | 2022-04-14 | 2022-12-25 |
 | [NOT ME](https://open.spotify.com/track/2e9nlfv5WRzHpcMNSqK2Ym) | [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [LAMSI INSTRUMENTALS, VOL\. 1](https://open.spotify.com/album/2gr9RvaXKeQdyIDInTYNKW) | 1:53 | 2022-04-14 |  |
 | [Otis](https://open.spotify.com/track/7A2yhrdnFspRjpX8RC8UW1) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 4:16 | 2022-04-14 |  |
 | [Peaceful Dub](https://open.spotify.com/track/5HwFKgAFGw4O3DNM8morCA) | [Harry Mosco](https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl) | [Peace & Harmony](https://open.spotify.com/album/4w0mVprAna8GLFxXq5nJ1r) | 6:08 | 2022-04-14 |  |

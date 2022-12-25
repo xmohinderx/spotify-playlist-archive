@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-403 songs - 23 hr 54 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+404 songs - 23 hr 58 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Inhumano](https://open.spotify.com/track/2BA2tCyrlMuoyacTadYQa5) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Telescopios](https://open.spotify.com/album/71hxwc4qWEP4Sfe5QGYqmV) | 2:19 | 2022-06-03 | 2022-07-28 |
 | [Instintos](https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Instintos](https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES) | 3:28 | 2022-12-09 |  |
 | [Interminable](https://open.spotify.com/track/3GBrUS3qZMgNfKxJH98uaO) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Bronx](https://open.spotify.com/album/6hdLPM6TKMEYkJO5AqFWIx) | 4:11 | 2022-06-03 | 2022-07-27 |
+| [Jardin Secreto](https://open.spotify.com/track/0IygTofvuok3zLmPQgjtbw) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Jardín Secreto](https://open.spotify.com/album/73sOVogAh0frrxkzHpKBs6) | 3:52 | 2022-12-23 |  |
 | [Jardin Secreto](https://open.spotify.com/track/5ahCZr2S2fe7clkWuOPdZc) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Jardín Secreto](https://open.spotify.com/album/7j0lW8QUdtvBk41WiBu7rp) | 3:52 | 2022-06-03 | 2022-12-12 |
 | [Jordan \(Orquesta en las sombras\) \[En Vivo\]](https://open.spotify.com/track/11ajmoDDs9wYcU7S5gkwQs) | [Eté & Los Problems](https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk) | [Jordan \(Orquesta en las sombras\) \[En Vivo\]](https://open.spotify.com/album/2ayGpdqShhiQwJbffxzfSQ) | 4:30 | 2022-07-01 | 2022-07-26 |
 | [Juguetitos](https://open.spotify.com/track/2wiN2QrEgBooB3VZBJmMSy) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [Guerrera/Soldado](https://open.spotify.com/album/6DpYoyH9mPlgvhc8BNhRvC) | 5:20 | 2022-06-03 | 2022-07-20 |
@@ -340,7 +341,7 @@
 | [Safari](https://open.spotify.com/track/14pgA3KZnuxmHixdWkxRLF) | [Machingo](https://open.spotify.com/artist/2EZXJLmEXia9ccRvTl6C6R) | [Safari](https://open.spotify.com/album/4KFc9asML3zShZKOuqEvUN) | 3:28 | 2022-07-15 | 2022-07-18 |
 | [Semillas de Luz](https://open.spotify.com/track/3EqkA7HfjFahS89pEBr2Sa) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Caldero](https://open.spotify.com/album/6K0FP8olOJO2Po8RVFkUhA) | 4:11 | 2022-06-03 |  |
 | [Sentimental](https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Sentimental](https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd) | 3:18 | 2022-10-12 |  |
-| [She Feels the Soul](https://open.spotify.com/track/3VaMyyUBykpkuz6BoNclKB) | [The Otherness](https://open.spotify.com/artist/5TBYqdpnL8B5fMfVyOTBUs) | [Lmirl](https://open.spotify.com/album/25ixlzX1HxCpvdREywAOzA) | 2:44 | 2022-12-23 |  |
+| [She Feels the Soul](https://open.spotify.com/track/3VaMyyUBykpkuz6BoNclKB) | [The Otherness](https://open.spotify.com/artist/5TBYqdpnL8B5fMfVyOTBUs) | [Lmirl](https://open.spotify.com/album/25ixlzX1HxCpvdREywAOzA) | 2:44 | 2022-12-23 | 2022-12-25 |
 | [Sigo Dando Amor](https://open.spotify.com/track/5nBrZR4tBfLU235cBdG8Dm) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Sigo Dando Amor](https://open.spotify.com/album/4uw3Z2Eb92CPFMbjFsmtVu) | 4:41 | 2022-06-03 | 2022-12-24 |
 | [Sin Condiciones](https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Sin Condiciones](https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj) | 3:50 | 2022-06-03 |  |
 | [Sin Ofender](https://open.spotify.com/track/6dNkn16oWASmBhkNrCyLik) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Sin Ofender](https://open.spotify.com/album/2wDiayqUBx2uOH9paOpVjT) | 4:47 | 2022-06-03 | 2022-07-24 |

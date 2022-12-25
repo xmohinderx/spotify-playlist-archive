@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-414 songs - 23 hr 13 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+415 songs - 23 hr 16 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 | 2022-06-27 |  |
 | [Closer to the Sun](https://open.spotify.com/track/7d4mgFtUuymNO1u90sEQrv) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Closer to the Sun](https://open.spotify.com/album/0GbV00DFHFHOEatCZbi71H) | 3:43 | 2021-03-10 | 2022-07-29 |
 | [cold weather](https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the first glass beach album](https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq) | 2:18 | 2022-07-29 |  |
+| [Collect Call](https://open.spotify.com/track/75zV0Nc4cnupY4QXbKRzN7) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [From Mexico with Love](https://open.spotify.com/album/3qSSoMApIWkXTmCn4IaC30) | 2:56 | 2022-11-07 |  |
 | [Come To The Beach](https://open.spotify.com/track/3cwrYbdU4eJkVXiH2USGid) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Come To The Beach](https://open.spotify.com/album/7zvkLdqZGE4L68lf37t53G) | 2:58 | 2021-03-10 |  |
 | [Coming of Age](https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Coming of Age](https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka) | 4:08 | 2021-03-10 |  |
 | [Coming Up Short](https://open.spotify.com/track/3YrT4nWBMF1eEHYc2fNOht) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Coming Up Short](https://open.spotify.com/album/5M2Z9oYLzg6BzpefliunfX) | 3:15 | 2021-03-10 | 2022-04-19 |
@@ -89,7 +90,7 @@
 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 | 2022-06-27 |  |
 | [Disaster Party](https://open.spotify.com/track/0tZQkiMamZC9PVKeIDtvTP) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [Disaster Party](https://open.spotify.com/album/3PUNh3goCvfGWs0ipKSUkS) | 3:01 | 2021-03-10 | 2022-07-30 |
 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 | 2021-06-25 | 2022-05-04 |
-| [Do It Like You Do](https://open.spotify.com/track/69LmDU9Ykb2ffpDDisnf1w) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [D.I.L.Y.D.](https://open.spotify.com/album/5UvMqJ7iarMJtztwBUG6UL) | 3:19 | 2022-06-27 |  |
+| [Do It Like You Do](https://open.spotify.com/track/69LmDU9Ykb2ffpDDisnf1w) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [D.I.L.Y.D.](https://open.spotify.com/album/5UvMqJ7iarMJtztwBUG6UL) | 3:19 | 2022-06-27 | 2022-12-25 |
 | [Do It Like You Do](https://open.spotify.com/track/7FOgj5HLQd9LXGKXot1RhA) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Do It Like You Do](https://open.spotify.com/album/0VFrisQgRs71gyFCbtAhCu) | 3:19 | 2021-03-10 | 2022-07-28 |
 | [Do You Really Wanna Know?](https://open.spotify.com/track/43oSsb5boERcpfiuDJR3Kq) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Do You Really Wanna Know?](https://open.spotify.com/album/1gSZbzpl3w3wp2Lc4sl3l8) | 2:58 | 2021-03-10 |  |
 | [Don't Take The Money](https://open.spotify.com/track/0d3BJRrklQ6sTfbmrojuZI) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Don't Take The Money](https://open.spotify.com/album/6XVw1ysE3HyYF9T9axP33Y) | 3:35 | 2021-03-10 |  |
@@ -113,7 +114,7 @@
 | [Favorite Liar](https://open.spotify.com/track/2fOmsaSjCncWDVJ1N8S2TZ) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [We Are the Wrecks](https://open.spotify.com/album/6erK5SKLmAcF78KQFh1zIA) | 4:02 | 2021-03-10 | 2022-07-29 |
 | [Favorite Liar](https://open.spotify.com/track/1scwknKtBQpreYy6MSoJqJ) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [We Are The Wrecks](https://open.spotify.com/album/0vQRfUULb3EpObpn28YOkH) | 4:02 | 2022-06-27 |  |
 | [February](https://open.spotify.com/track/3zEQAX67O9w1cn8U8P9BrR) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX) | [February EP](https://open.spotify.com/album/0VRxAmlJ7brgsTeHuAd6Xk) | 2:39 | 2021-03-10 | 2022-07-27 |
-| [Feelin' Good \(Could Be Better\)](https://open.spotify.com/track/0w48XaKFfUByK6KuhL8OiF) | [The Orphan The Poet](https://open.spotify.com/artist/4cqHx0neEP7BFbGlKkmIHQ) | [Feelin' Good \(Could Be Better\)](https://open.spotify.com/album/5Gr5dDOxke8SpvqP8tjE55) | 2:48 | 2022-04-12 | 2022-11-13 |
+| [Feelin' Good \(Could Be Better\)](https://open.spotify.com/track/0w48XaKFfUByK6KuhL8OiF) | [The Orphan The Poet](https://open.spotify.com/artist/4cqHx0neEP7BFbGlKkmIHQ) | [Feelin' Good \(Could Be Better\)](https://open.spotify.com/album/5Gr5dDOxke8SpvqP8tjE55) | 2:48 | 2022-04-12 |  |
 | [Find Someone](https://open.spotify.com/track/3nZBR8LOcyeKa9GO7ZdDoG) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 3:08 | 2022-06-27 |  |
 | [Find Someone](https://open.spotify.com/track/654BH5npNnfbFZyHD4c2RC) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Find Someone](https://open.spotify.com/album/7izguBApUn5lBJO7bDwzvV) | 3:08 | 2021-03-10 | 2022-07-29 |
 | [Fire Alarm](https://open.spotify.com/track/7owfaYY6CFwqQAv2Xih9CY) | [Castlecomer](https://open.spotify.com/artist/7tnWJfXaJmFO6vv5WFN2K0) | [Fire Alarm](https://open.spotify.com/album/6Km8vSwtJxgwqANRxnpvo3) | 3:57 | 2022-03-11 | 2022-04-18 |
@@ -415,7 +416,7 @@
 | [WONDER](https://open.spotify.com/track/6dZQEvVq2Zt23bD99bpInc) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [WONDER](https://open.spotify.com/album/2LUpdRveZYA02M51m1sJPb) | 3:45 | 2021-03-10 | 2022-07-29 |
 | [XO](https://open.spotify.com/track/0HbUACbnUZ6NvgFvVyUuC3) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Honest](https://open.spotify.com/album/1yuVbqSZGDRGypi9LfBzNm) | 3:05 | 2022-10-07 | 2022-11-13 |
 | [Xo](https://open.spotify.com/track/07szho7oBzTazuymjyzpLg) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Xo](https://open.spotify.com/album/1eQa2aJyNUJw5siUNwNDEx) | 3:05 | 2022-03-11 | 2022-04-21 |
-| [Yellow](https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Yellow](https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e) | 3:48 | 2022-07-29 |  |
+| [Yellow](https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Yellow](https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e) | 3:48 | 2022-07-29 | 2022-12-25 |
 | [Yellow Brick Road](https://open.spotify.com/track/6EECUMxRvAuPmkNVZQ9dQ9) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [Yellow Brick Road](https://open.spotify.com/album/20cDEwyKZZBfZ5moFnEsZS) | 3:44 | 2022-03-11 | 2022-04-21 |
 | [You Could Have Been the One](https://open.spotify.com/track/04rpiXwJmiOr2eWaayrcts) | [Coasts](https://open.spotify.com/artist/5OgSr6wQteRu9jek5JvnDQ) | [You Could Have Been the One](https://open.spotify.com/album/57yyazO3MEtmzqdaaeaAfq) | 4:15 | 2022-03-11 | 2022-04-16 |
 | [You Know It](https://open.spotify.com/track/169pWCmfvVazzcL4EXFPgL) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [Only The Lonely](https://open.spotify.com/album/5vBnIcG7nD3XEt8ErHpytO) | 3:02 | 2021-03-10 | 2022-05-04 |

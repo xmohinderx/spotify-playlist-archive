@@ -4,7 +4,7 @@
 
 > The best of today's dance hits\. Cover: Sydney Blu
 
-612 songs - 1 day 11 hr 21 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
+613 songs - 1 day 11 hr 23 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Do It Right](https://open.spotify.com/track/1jJuE5OvqMVky5uktkpz8P) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5), [LÊ IZNER](https://open.spotify.com/artist/6ojcf6MHScthRSqcwyxro2) | [Do It Right](https://open.spotify.com/album/3tWM3L4XZHN7GsNbkP6KpP) | 3:41 | 2022-02-11 | 2022-02-24 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-12-31 | 2022-02-12 |
 | [Do you miss me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 | 2022-11-18 | 2022-12-24 |
-| [Does She Know](https://open.spotify.com/track/242pTkgoQTlXM8LnhMZ0XU) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Does She Know](https://open.spotify.com/album/7i6Nl1F5YiWfLeSMLsa8fH) | 2:19 | 2022-12-09 |  |
+| [Does She Know](https://open.spotify.com/track/242pTkgoQTlXM8LnhMZ0XU) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Does She Know](https://open.spotify.com/album/7i6Nl1F5YiWfLeSMLsa8fH) | 2:19 | 2022-12-09 | 2022-12-25 |
+| [Does She Know](https://open.spotify.com/track/3cOAo5alVOUMjWVmc5yf3H) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Does She Know](https://open.spotify.com/album/4wmcEGKJfMo4hZwDgT5O2C) | 2:19 | 2022-12-09 |  |
 | [Don't Forget My Love](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love](https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv) | 3:19 | 2022-02-11 | 2022-06-04 |
 | [Don’t Keep Me Waiting](https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting](https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF) | 3:29 | 2022-03-04 | 2022-06-04 |
 | [Don’t Let Me Let Go \(with ILLENIUM & EVAN GIIA\)](https://open.spotify.com/track/251aCFbFK1f4Jkil96E5g1) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Don’t Let Me Let Go \(with ILLENIUM & EVAN GIIA\)](https://open.spotify.com/album/5fGpsmRrs2q0XWY8lo4xaA) | 3:25 | 2022-07-08 | 2022-10-15 |

@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-322 songs - 18 hr 45 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
+323 songs - 18 hr 49 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [care about u](https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2) | 3:21 | 2022-01-07 |  |
 | [cartrîdge](https://open.spotify.com/track/0lMfmKs4R0V9G1fpIO0JJw) | [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG) | [cartrîdge](https://open.spotify.com/album/7nO2jOgpYah46ziK8EOEaR) | 2:33 | 2022-01-07 | 2022-07-29 |
 | [Changa \- Blanke Remix](https://open.spotify.com/track/5TL9e2xgtvJFtNCBsq1CgX) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Changa](https://open.spotify.com/album/5kwv2A2qAK8pN007hSA56t) | 3:08 | 2022-03-11 | 2022-12-01 |
+| [Changa \- Blanke Remix](https://open.spotify.com/track/6rQcfPSmfwiJWae8WhU5k8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [etcetc Yearbook: 2018](https://open.spotify.com/album/645zH9nKzaoo4KBbMtOaGG) | 3:08 | 2022-12-16 |  |
 | [Channel 43 \- Radio Edit](https://open.spotify.com/track/2m9ryxnEcVoQNr22KRxe09) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Channel 43](https://open.spotify.com/album/6GTPauuGqd0apuW1moW6dD) | 3:04 | 2022-01-07 | 2022-10-13 |
 | [Channel 43 \- Radio Edit](https://open.spotify.com/track/32BKtTFLWpi73DwLWWEswe) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Channel 43](https://open.spotify.com/album/2JRRLpd3O6xb6gITipeQGr) | 3:04 | 2022-10-07 |  |
 | [Charisma](https://open.spotify.com/track/1pAbqGUiV6lQwofu1m31b3) | [Elliot Hsu](https://open.spotify.com/artist/1gnHg0HnaetLp2GKkX7dSi) | [Charisma](https://open.spotify.com/album/7JjMRGDRuV6agLLK9owiz4) | 3:53 | 2022-01-07 |  |
@@ -182,7 +183,7 @@
 | [Maybe](https://open.spotify.com/track/1gVIjLDPRFNJfv7TAKubnr) | [Midsplit](https://open.spotify.com/artist/5FDIxEGRvg8QrMoNr9BoFl), [Annie Mehesh](https://open.spotify.com/artist/5at1zXx4u5KSVzNHcsVOxM) | [Maybe](https://open.spotify.com/album/6Kw1eFD6pwT1metqBiUoft) | 3:18 | 2022-01-28 | 2022-07-15 |
 | [Memories](https://open.spotify.com/track/0c07SIKPJuFVDJjcmc160D) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Memories](https://open.spotify.com/album/0rmPcSAav94By4MMUYCUSn) | 3:52 | 2022-01-07 | 2022-07-25 |
 | [Mermaid](https://open.spotify.com/track/0jaMyOCkBqBFps33YS3ZOR) | [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Mermaid](https://open.spotify.com/album/0VrzLFj7WnmdRFFzZff1yE) | 3:51 | 2022-01-07 |  |
-| [Message](https://open.spotify.com/track/2HugpozniKFTxu2us4YqBV) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Message](https://open.spotify.com/album/1aYV3ULEfkmN2NAO25yXLy) | 3:57 | 2022-10-07 |  |
+| [Message](https://open.spotify.com/track/2HugpozniKFTxu2us4YqBV) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Message](https://open.spotify.com/album/1aYV3ULEfkmN2NAO25yXLy) | 3:57 | 2022-10-07 | 2022-12-25 |
 | [Metamorphosis](https://open.spotify.com/track/0oNip00viM5wjLuAJQQiGc) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis](https://open.spotify.com/album/58X1FSKjMEcuWTyHWU9LSX) | 4:08 | 2022-04-15 | 2022-04-19 |
 | [Mike Tyson](https://open.spotify.com/track/7c1nwQG909uEAphCBqXdIy) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Mike Tyson](https://open.spotify.com/album/1IFy7kRW05yfv5CPfiFK0f) | 3:19 | 2022-01-07 | 2022-07-29 |
 | [Miracle](https://open.spotify.com/track/7JSS036IjVSwD64TAr6n32) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Good Faith](https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr) | 4:10 | 2022-01-07 |  |

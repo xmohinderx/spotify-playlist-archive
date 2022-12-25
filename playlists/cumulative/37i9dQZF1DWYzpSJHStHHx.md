@@ -4,7 +4,7 @@
 
 > Hang ten.
 
-210 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
+211 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Avant Gardener](https://open.spotify.com/track/0U49QcRHyGfbmhhbNl92Q4) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [The Double Ep: A Sea of Split Peas](https://open.spotify.com/album/2Tj0T4o9svdk19AjADY4lx) | 5:12 | 2021-02-05 | 2022-07-29 |
 | [Avant Gardener](https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [The Double EP: A Sea of Split Peas](https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej) | 5:12 | 2022-07-22 |  |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2021-04-13 | 2022-06-17 |
-| [Beach Comber](https://open.spotify.com/track/3tPh7vkXySn2lUEH1NEPyO) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Real Estate](https://open.spotify.com/album/0vEt6UkpYZOpKxVO7H7j9Y) | 4:28 | 2021-02-05 |  |
+| [Beach Comber](https://open.spotify.com/track/3tPh7vkXySn2lUEH1NEPyO) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Real Estate](https://open.spotify.com/album/0vEt6UkpYZOpKxVO7H7j9Y) | 4:28 | 2021-02-05 | 2022-12-25 |
 | [Better Than I Know Myself](https://open.spotify.com/track/0xg79a3ac7iAOILS1QQbPa) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Better Than I Know Myself](https://open.spotify.com/album/6UB2H0P4aSqExfV7GWvtKO) | 4:22 | 2021-08-27 | 2022-07-29 |
 | [Big Fat Mouth](https://open.spotify.com/track/2H57VA9OzK2NLmweUfJTdq) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Big Fat Mouth](https://open.spotify.com/album/5zV5ZxYZ42GF1wGO7RI587) | 3:36 | 2021-02-05 | 2022-07-29 |
 | [big fat mouth](https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Wait](https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ) | 3:38 | 2022-07-22 |  |
@@ -47,6 +47,7 @@
 | [Crystal Night](https://open.spotify.com/track/6A3MxyZsLIaG07chsY3L1q) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Satan's Graffiti or God's Art?](https://open.spotify.com/album/4ml6A0R0vrHdSEAua3nA98) | 3:38 | 2021-02-05 | 2022-07-01 |
 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 | 2021-02-05 |  |
 | [DARLING](https://open.spotify.com/track/63WglSNzQJ4pzS6OYEsj6B) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [DARLING](https://open.spotify.com/album/5gfKoVTEJqa1mTuSczsgdL) | 2:27 | 2021-08-27 | 2022-07-29 |
+| [daydreams](https://open.spotify.com/track/6KdNWhoB9bpgYyfoFuhMPz) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [daydreams](https://open.spotify.com/album/4u90ynQDviPV7DKt2Lg749) | 2:14 | 2022-09-22 |  |
 | [Days](https://open.spotify.com/track/6113aOfHIC0vbZVDZ6PpRV) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/13F3zUhKQsEe4IG6DaMJCh) | 4:29 | 2021-02-05 | 2022-07-02 |
 | [delicate creature](https://open.spotify.com/track/5HON29JZvuzaHX2B2oIwr1) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/1G8iPiffToCQstIPJJqAAG) | 4:32 | 2021-02-05 | 2022-07-29 |
 | [Dorothy](https://open.spotify.com/track/7jay75cMfpEIyIkkvmemYr) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:06 | 2022-07-22 |  |

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,270 songs - 5 day 6 hr 17 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+3,271 songs - 5 day 6 hr 20 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Air](https://open.spotify.com/track/1b06eTijUE2IvH9BuaHMbS) | [Soupbox](https://open.spotify.com/artist/1qs1eSFywywd503RiuQWPQ), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [Air](https://open.spotify.com/album/3qCT6GsREzPP0DkCA8kLpE) | 2:47 | 2022-03-24 | 2022-11-21 |
 | [Air](https://open.spotify.com/track/2WPlQnqZ3VMkv09nme29W3) | [Soupbox](https://open.spotify.com/artist/1qs1eSFywywd503RiuQWPQ), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [Air](https://open.spotify.com/album/1WVFnAYt24SDcdv1WZn1Np) | 2:47 | 2022-11-17 |  |
 | [aire](https://open.spotify.com/track/3a3sVy6yS0SaObQXHFACHh) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [linus \| aire](https://open.spotify.com/album/3dUwhT5ZK7IAdbtkwkHIY8) | 2:32 | 2020-02-22 | 2020-05-20 |
+| [Airmode](https://open.spotify.com/track/0XjhdZLruTHOaVdJ2KhLvv) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/5PLEEcxdBS03aJq52w7MlM) | 2:22 | 2022-12-22 |  |
 | [Airmode](https://open.spotify.com/track/5sutYbAzYOsOaw3SBWXSOb) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Airmode](https://open.spotify.com/album/4uCZClT1s76MUKHgC3ipMz) | 2:22 | 2022-04-21 | 2022-11-21 |
 | [Airmode](https://open.spotify.com/track/7JiG627CSJ1qkZHcRWGK76) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/6XAIRCFzU3leT8kQZuQtdA) | 2:22 | 2022-11-17 | 2022-12-15 |
 | [Airwalkin'](https://open.spotify.com/track/3vOyxHqlyh185or0GN6k7v) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x) | [Airwalkin'](https://open.spotify.com/album/6pOy2lQH36IaIdO2jqz7y6) | 2:29 | 2021-03-14 | 2021-07-30 |
@@ -868,7 +869,7 @@
 | [Evenings in Soho](https://open.spotify.com/track/1YHrzzAYyhe7c34Fv2OHQK) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Evenings in Soho](https://open.spotify.com/album/47WDvEwx51V8pO1JEcnzsn) | 2:57 | 2020-09-25 | 2021-03-06 |
 | [Everest](https://open.spotify.com/track/0hVBBtEN1zjNXskK7dMRPN) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Everest](https://open.spotify.com/album/4Cz7Cjo1bbgJL2w3Umnt4S) | 1:36 | 2022-11-17 | 2022-12-20 |
 | [Everest](https://open.spotify.com/track/4dGdL5dCoidGdU8zqTnj2S) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Everest](https://open.spotify.com/album/5W2WQ7NAoeBOBWHUjISZ5N) | 1:36 | 2022-03-04 | 2022-09-04 |
-| [Everest](https://open.spotify.com/track/3vYouZujMonwhGjVFESJHe) | [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [Everest](https://open.spotify.com/album/6RnGFy9JPCqI7Ls0XIIDn6) | 2:02 | 2022-11-03 |  |
+| [Everest](https://open.spotify.com/track/3vYouZujMonwhGjVFESJHe) | [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [Everest](https://open.spotify.com/album/6RnGFy9JPCqI7Ls0XIIDn6) | 2:02 | 2022-11-03 | 2022-12-25 |
 | [Evergreen](https://open.spotify.com/track/4JBkIQ34kFeWuyJQwQKDK2) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82), [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [Evergreen](https://open.spotify.com/album/1NorQWStaLdQzCuJyFoB8l) | 2:15 | 2021-05-22 | 2022-07-01 |
 | [Evergreen Galaxy](https://open.spotify.com/track/01cF0O2vgJy20SzDrA2GET) | [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Evergreen Galaxy](https://open.spotify.com/album/7w8LdQrfsOYwOIRXZ5UaEW) | 2:29 | 2021-05-14 | 2022-01-28 |
 | [Everluv](https://open.spotify.com/track/6xbWtSRDzwBsdcSXIbwM2R) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Everluv](https://open.spotify.com/album/6JSjxjopZ6f8AzAVaal9ey) | 1:33 | 2022-02-17 | 2022-04-01 |

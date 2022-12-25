@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,675,337 likes - 288 songs - 14 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,675,397 likes - 288 songs - 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 138 | [Bamboo](https://open.spotify.com/track/38sgXe7I4fJwnYEqBcO7xT) | [Gleery](https://open.spotify.com/artist/6LXTSY43XhcV6XnVLANctK) | [Bamboo](https://open.spotify.com/album/1aj2hPr1ERvkV1oKJ0JPOH) | 3:36 |
 | 139 | [Piano Park](https://open.spotify.com/track/7MYP5ACQrR73wJ4CQkzhaZ) | [Ben Jonovski](https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC) | [Piano Park](https://open.spotify.com/album/6u0PJfhQLlBRArcd2T5iNr) | 2:08 |
 | 140 | [Wayless](https://open.spotify.com/track/2R4wZV3xXUK6ymYuutoCIL) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Wayless](https://open.spotify.com/album/5WeziXtaneAoMQHOI2GCo4) | 2:33 |
-| 141 | [Indi](https://open.spotify.com/track/7zeOr0r8bQO5BO9Om7BuAt) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/37iP4wnkJE5ImiW2Q94nKx) | 3:20 |
+| 141 | [Indi](https://open.spotify.com/track/6myfz5g9b9U6bQSr4XcKGu) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/3eFlBkbtH9AiyEXXr0YBeT) | 3:20 |
 | 142 | [Base\-level Guilt](https://open.spotify.com/track/5zKasYyHSZ6oNpxdNGrGZg) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Base\-level Guilt](https://open.spotify.com/album/24d5RGnCIcRoIdcEzBHJMp) | 3:06 |
 | 143 | [Sunrise](https://open.spotify.com/track/3TYF3RI9u0EzSQZkjp4MZ6) | [R3YAN](https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel), [O3L](https://open.spotify.com/artist/7wcEi954zzxLil4ihmxOZy) | [Sunrise](https://open.spotify.com/album/1jw1mgFBtQ5BAlBOOlyIEP) | 2:10 |
 | 144 | [Audicity](https://open.spotify.com/track/0AUW5PDxB0OE9oGdgj5AL7) | [Solounge](https://open.spotify.com/artist/3UnDKCtOqVmqsLznc3Zj81) | [Audicity](https://open.spotify.com/album/6FhGljQpeIuQ9anXvvyCFd) | 3:16 |
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 287 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 |
 | 288 | [Moon](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb) | [Safe Tock](https://open.spotify.com/artist/2Wz1Gs5fSAP2v31hzx113t) | [Moon](https://open.spotify.com/album/3M46ScNsRcUadJs8j5qajr) | 2:56 |
 
-Snapshot ID: `MTY3MTc1MzY2MCwwMDAwMDAwMGNkZmU0NmI2NDlhMmMwZWE4ZmY0Y2IyNjc0MzIwYTM2`
+Snapshot ID: `MTY3MTc1MzY2MCwwMDAwMDAwMGU3ZjViZjEwYzQzOTI5ZDQwNTQ0Njg1ZmI4MWE4YTRj`

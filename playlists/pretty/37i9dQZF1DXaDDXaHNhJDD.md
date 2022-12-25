@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > An exclusive collection of Malayalam super hit songs.<br/>Cover: GOLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,851 likes - 76 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,989 likes - 76 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 39 | [Koyikkodu](https://open.spotify.com/track/4ZvzfkM8slkxtCB7EtkyLD) | [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Abhaya Hiranmayi](https://open.spotify.com/artist/0Z8vxkS3JFzjsLPHH7MLhR) | [Goodalochana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74dfKo4DL91dTZZilPMplE) | 1:46 |
 | 40 | [Kalakkatha](https://open.spotify.com/track/667y08kCQ18lpjvdLK5wQi) | [Nanjiyamma](https://open.spotify.com/artist/4LDKQfEAZt4pldaHSjisgs) | [Ayyappanum Koshiyum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0GWt8AypWByLvy3G0oWIAH) | 2:04 |
 | 41 | [Jaathikkathottam](https://open.spotify.com/track/1ZZtStYMdU3QIvUjhfnsAU) | [Soumya Ramakrishnan](https://open.spotify.com/artist/3jeQnnEkLnuxVeC47y3cqn), [Devadutt Bijibal](https://open.spotify.com/artist/51p0T0N97ozluqA1KnE4KI) | [Thanneer Mathan Dinangal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6LCKrpfljG1iAlBrVH3pQd) | 4:01 |
-| 42 | [Pavizha Mazha](https://open.spotify.com/track/36bYASwok7rBHAkrqiPdnu) | [P\. S\. Jayhari](https://open.spotify.com/artist/4cR7Pr8HL7eddm7Zm79gV4), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Athiran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GMlzCTaWknSK8sTnFm8KJ) | 3:53 |
+| 42 | [Pavizha Mazha](https://open.spotify.com/track/36bYASwok7rBHAkrqiPdnu) | [P S Jayhari](https://open.spotify.com/artist/2G1EstqVdKjJfk7G58S9DC), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Athiran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GMlzCTaWknSK8sTnFm8KJ) | 3:53 |
 | 43 | [Cholappenne \- From "Malayankunju"](https://open.spotify.com/track/6v0c0neh1gNUX5r8B4GdFT) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Cholappenne \(From "Malayankunju"\)](https://open.spotify.com/album/3d18bx7mnfeA5Ne0S8Epyb) | 3:42 |
 | 44 | [Kamini](https://open.spotify.com/track/5sC8JC6dHcEifGMB8xPbbO) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Anugraheethan Antony](https://open.spotify.com/album/2DJyACvp30UFBGAvk9UGmL) | 3:58 |
 | 45 | [Kannilente \(From "Marakkar \- Arabikadalinte Simham"\)](https://open.spotify.com/track/7nh3AwCaZwynihlPhvAaqI) | [Ronnie Raphael](https://open.spotify.com/artist/0de21hsTsnpfWS6cTDRhhe), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Zia Ul Haq](https://open.spotify.com/artist/3kPqgCCGlCGS9owID1l5n9) | [Kannilente \(From "Marakkar \- Arabikadalinte Simham"\)](https://open.spotify.com/album/77apTBUDZtKhljq8fjoFBw) | 5:34 |

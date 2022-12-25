@@ -4,7 +4,7 @@
 
 > Sway your way through the evening.
 
-210 songs - 12 hr 52 min - [published](https://open.spotify.com/playlist/1yEsj7P9XfDpVu6i8GE8Qq)
+211 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/1yEsj7P9XfDpVu6i8GE8Qq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,8 @@
 | [slow summer](https://open.spotify.com/track/4JEGeqPF0RH7oi1lHdtbK6) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [slow summer](https://open.spotify.com/album/5h57maDhvtnrVnJa7ihR7D) | 2:48 | 2021-10-01 |  |
 | [Solar Flare](https://open.spotify.com/track/0hcHi1RoWCayxRSbq2f3CI) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Solar Flare](https://open.spotify.com/album/7qL5oIG6MPdd2NfgjOmQXp) | 3:22 | 2021-10-01 |  |
 | [Something Simple](https://open.spotify.com/track/4a1HMAk6ABM11NPJvBkkeT) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Something Simple](https://open.spotify.com/album/21Fj4477nfc4wOV6UZjL0u) | 3:50 | 2021-10-01 |  |
-| [Stay](https://open.spotify.com/track/4zu19OtPZq8ljWVhPthram) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/1Thc6xEDDKf6LsyE55ytOv) | 3:49 | 2021-10-01 |  |
+| [Stay](https://open.spotify.com/track/0Ghaex7YilwIGGCVzFeyYm) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/2mkNZarVOH90LJSpG9whzL) | 3:49 | 2022-01-21 |  |
+| [Stay](https://open.spotify.com/track/4zu19OtPZq8ljWVhPthram) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/1Thc6xEDDKf6LsyE55ytOv) | 3:49 | 2021-10-01 | 2022-12-25 |
 | [Stay High](https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:11 | 2021-10-01 | 2022-07-29 |
 | [Stay High](https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:11 | 2022-01-21 |  |
 | [Stay Low](https://open.spotify.com/track/2zMa3j2F2h4UJbhpXivD3S) | [In Memoirs](https://open.spotify.com/artist/1LZevuTucGb3IEb84enBNt) | [Hope, Fear & Fashion](https://open.spotify.com/album/6nTvklCSNP03q78ix8Dh58) | 4:07 | 2021-10-01 |  |

@@ -4,7 +4,7 @@
 
 > Our editors’ picks for the best of Indie in Canada in 2022.<br/> Cover: Men I Trust \#SpotifyWrapped
 
-225 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/0rSmcrhhqMQpl4IftmXXUs)
+226 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/0rSmcrhhqMQpl4IftmXXUs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [DIMANCHE SOIR](https://open.spotify.com/track/1xTasIo5MGbmSi792apTaz) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [OCTEMBRE](https://open.spotify.com/album/6U0usnBvoliJcfq7xxmEZA) | 3:09 | 2021-12-01 | 2022-11-12 |
 | [DIMANCHE SOIR](https://open.spotify.com/track/2Alp8pWLWoEjbkqWwd6di1) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic) | 3:09 | 2021-12-01 | 2022-07-29 |
 | [DNA](https://open.spotify.com/track/2pynCI5GBvS41YlbkA7Yhh) | [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Tabula Rasa](https://open.spotify.com/album/2zRT3RmIBeoFVuAOA2TnKL) | 3:17 | 2021-12-01 | 2022-12-01 |
-| [Don't Come Back](https://open.spotify.com/track/0woeyl9aHAxviN2nEcUxmj) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Don't Come Back](https://open.spotify.com/album/1JIStSjrhT76FZelRHlVSt) | 3:37 | 2022-11-30 |  |
+| [Don't Come Back](https://open.spotify.com/track/0woeyl9aHAxviN2nEcUxmj) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Don't Come Back](https://open.spotify.com/album/1JIStSjrhT76FZelRHlVSt) | 3:37 | 2022-11-30 | 2022-12-25 |
+| [Don't Come Back](https://open.spotify.com/track/637Dhg7cBf6ODFeY2wjF5Z) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Don't Come Back](https://open.spotify.com/album/2XGKQzWNKsrUOdg4719WPb) | 3:37 | 2022-11-30 |  |
 | [Don't Know Why](https://open.spotify.com/track/0UJNHaZIuRHVlc5fKtav0z) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Don't Know Why](https://open.spotify.com/album/0VNovm8OBZjtfjqC4iUPLO) | 3:09 | 2021-12-01 | 2022-11-13 |
 | [Don't Know Why](https://open.spotify.com/track/1TW8Vka4FAyEErz245zxvM) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Don't Know Why](https://open.spotify.com/album/1OONF0jdQiEYEh4nXxhB5j) | 3:09 | 2021-12-01 | 2022-07-29 |
 | [Don't Know Why](https://open.spotify.com/track/1ukvyO3hy4NQ59MTPOOWFz) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait](https://open.spotify.com/album/5kQwGFGp61L6iYlk8tgHCS) | 3:09 | 2021-12-01 | 2022-12-01 |

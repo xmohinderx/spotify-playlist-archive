@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tzt7g58Xlh.md) - [plain]
 
 > Rock on with their latest releases from 'Mercury – Act 1 & 2'!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,712 likes - 72 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,886 likes - 72 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

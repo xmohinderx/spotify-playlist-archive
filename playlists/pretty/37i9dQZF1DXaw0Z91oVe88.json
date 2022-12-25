@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2059,
+  "num_followers": 2064,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQzNzE3OSwwMDAwMDAwMGUxZmIzMjdmZGI3MDI2NWU0MjA3YTZhMmZiNzJmNDM5",
+  "snapshot_id": "MTY3MTQzNzE3OSwwMDAwMDAwMDEwNGQ3OTM0ZDUxYTFhZGM3YWVhNzhkOThkZjI4YjY0",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:32",
@@ -453,6 +453,22 @@
       "url": "https://open.spotify.com/track/2wAoIkP1XpMeAAnGSH4Drv"
     },
     {
+      "added_at": "2022-12-25 01:29:16",
+      "album": {
+        "name": "Summer Strike, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW"
+      },
+      "artists": [
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv"
+    },
+    {
       "added_at": "2022-09-05 15:56:32",
       "album": {
         "name": "sleeplessness",
@@ -467,22 +483,6 @@
       "duration_ms": 293395,
       "name": "sleeplessness",
       "url": "https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl"
-    },
-    {
-      "added_at": "2022-12-24 01:07:00",
-      "album": {
-        "name": "Summer Strike, Pt. 8 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW"
-      },
-      "artists": [
-        {
-          "name": "SEOLA",
-          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv"
     },
     {
       "added_at": "2022-09-05 15:56:32",

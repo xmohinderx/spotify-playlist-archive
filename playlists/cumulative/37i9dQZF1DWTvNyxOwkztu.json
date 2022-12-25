@@ -488,6 +488,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Days",
+        "url": "https://open.spotify.com/album/7L61BSNJHk6KbiXS4SyYO3"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "Beautiful Days",
+      "url": "https://open.spotify.com/track/3VkSrMcKCi4CSXoNiSqnZd"
+    },
+    {
+      "album": {
         "name": "Before",
         "url": "https://open.spotify.com/album/0ZgzhNN2wnyVnDjlRKi0vK"
       },
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 144354,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/1a6r66Fc1mvkgQ4A2XP5Mk"

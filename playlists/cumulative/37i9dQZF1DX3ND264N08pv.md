@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-112 songs - 6 hr 31 min - not published yet
+113 songs - 6 hr 34 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [From The Underground \(Rave Core\)](https://open.spotify.com/track/6f7hGT8dkVxUcMP943ZRmD) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [From The Underground \(Rave Core\)](https://open.spotify.com/album/3HX5w8ehEqbGsCk4x6mfZ9) | 3:54 | 2022-12-08 |  |
 | [Fuego \- Official Masters of Hardcore Spain 2022 Anthem](https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Mr\. Hyde](https://open.spotify.com/artist/4hcDjY6PSQy3g9gqrCaPX0) | [Fuego \(Official Masters of Hardcore Spain 2022 Anthem\)](https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx) | 4:39 | 2022-12-08 |  |
 | [Full Throttle \(Official Gearbox Full Throttle Anthem\)](https://open.spotify.com/track/5JkCr2BpMh1pdMb6R4hKLx) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN), [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR), [Sovereign King](https://open.spotify.com/artist/4Ub0mdQEa3RhAfwWgVXp46) | [Full Throttle \(Official Gearbox Full Throttle Anthem\)](https://open.spotify.com/album/0oFzTvwtQFWESNcpQmO2K0) | 3:38 | 2022-12-08 |  |
+| [Fvcking One](https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY) | [Edwar](https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC), [Sidekick](https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co) | [Fvcking One](https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj) | 3:33 | 2022-12-22 |  |
 | [Game Breaker](https://open.spotify.com/track/2lNaARcTaHVlohiPlKvlnm) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [Game Breaker](https://open.spotify.com/album/5byRL7fz21kyoNAM2Fog4H) | 3:18 | 2022-12-08 |  |
 | [Generavers](https://open.spotify.com/track/0OCosJ6fVT8Oqy3MPmNLrl) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [Generavers](https://open.spotify.com/album/0MoBA9jfilDabb6JZ9DqaF) | 2:49 | 2022-12-08 |  |
 | [Get a Little Stupid \(Crypsis & T\-Junction Remix\) \- Radio Edit](https://open.spotify.com/track/4YtQwEglNJsL2A8BcEFWvT) | [the Vinyl Junk](https://open.spotify.com/artist/3yZonU4DKsaM0DdSWXPZMc), [Crypsis](https://open.spotify.com/artist/4Kr8tEhZ6ecAQnqxd7WkTb), [T\-Junction](https://open.spotify.com/artist/5MeNCyt5G7I8SRIEoH3tCD) | [Get a Little Stupid \(Crypsis & T\-Junction Remix\)](https://open.spotify.com/album/0LSBY0DuFErhEuRdPOEhKJ) | 3:16 | 2022-12-22 |  |
@@ -73,7 +74,7 @@
 | [MAKE IT POP](https://open.spotify.com/track/15aTM8pzywQEBV73CrlAO3) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [MAKE IT POP](https://open.spotify.com/album/13JOW0aLJacGieAZhtH3HL) | 3:14 | 2022-12-08 |  |
 | [Medication Time](https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Medication Time](https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T) | 4:17 | 2022-12-08 |  |
 | [Mi Madre](https://open.spotify.com/track/7sy5W4vCjRAifgy14muCpP) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Mi Madre](https://open.spotify.com/album/3jpDofUQPIy8xx7lLigl3Q) | 2:40 | 2022-12-08 |  |
-| [MORE THAN HUMAN](https://open.spotify.com/track/3dKT1n8DfajEoMTyU3hMTU) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [MORE THAN HUMAN](https://open.spotify.com/album/3GJfH79LQ6vBNLtA7rvNpF) | 2:53 | 2022-12-08 |  |
+| [MORE THAN HUMAN](https://open.spotify.com/track/3dKT1n8DfajEoMTyU3hMTU) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [MORE THAN HUMAN](https://open.spotify.com/album/3GJfH79LQ6vBNLtA7rvNpF) | 2:53 | 2022-12-08 | 2022-12-25 |
 | [Mutilate](https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE) | [Chapter V](https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab), [Amduscias](https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y) | [Mutilate](https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b) | 3:50 | 2022-12-08 |  |
 | [Mythology of Hardcore \- Official Masters of Hardcore Russia 2022 Anthem](https://open.spotify.com/track/4Ia0P4lQDTzKYva6OWFSuW) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Mythology of Hardcore \(Official Masters of Hardcore Russia 2022 Anthem\)](https://open.spotify.com/album/6cHbfD9YozJvYcUIDF1J9J) | 4:55 | 2022-12-08 |  |
 | [NARKOS](https://open.spotify.com/track/2gCNvpnuWTcV05hpFzZ1xd) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [NARKOS](https://open.spotify.com/album/77Nlgy3Pbxf3CdSlcwyOas) | 3:31 | 2022-12-08 |  |

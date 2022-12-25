@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=tPKTmHNTQa2S1MpSDge2Wg" > Jay Bahd </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,167 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,195 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 41 | [Koobi](https://open.spotify.com/track/197R5eZFfywBrXGQ6tBofH) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1) | [Koobi](https://open.spotify.com/album/67NQONOlbvJVe4qlCf2llO) | 2:40 |
 | 42 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 |
 | 43 | [MOOD](https://open.spotify.com/track/0ei8sI3SpiPoMlhcAXDrnF) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [MOOD](https://open.spotify.com/album/1bS9Kowm41KATu43nV62u4) | 2:01 |
-| 44 | [ANADWO](https://open.spotify.com/track/5w7jfLrHkTNPT0X8WqvD39) | [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf), [Black Sherif](https://open.spotify.com/artist/7vUqrkIW1S62gRXf3lGhdc), [Kimilist](https://open.spotify.com/artist/2o0JWJBhIb9uopM3YEecpP) | [ANADWO](https://open.spotify.com/album/7MzcMtFt7MIxdGNdEKA2Bw) | 2:43 |
+| 44 | [ANADWO](https://open.spotify.com/track/0yJwoXiQgvWGRI0zC4fBkc) | [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf), [Black Sheriff](https://open.spotify.com/artist/1zNmTgU8HEjyvdD1UDpOi9), [Kimilist](https://open.spotify.com/artist/2o0JWJBhIb9uopM3YEecpP) | [ANADWO](https://open.spotify.com/album/1zBWBi9V1zJ1wU6yKCMC8b) | 2:43 |
 | 45 | [AKOBAM](https://open.spotify.com/track/0swMLKHRsRTnt9Nd5WwxFa) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Kofi Mole](https://open.spotify.com/artist/0xhGPeT5o5Jt2xdywtD5by), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [AKOBAM](https://open.spotify.com/album/28jWq9AwZF1UpwWfnDjpR4) | 3:09 |
 | 46 | [M.O.B](https://open.spotify.com/track/5ZjMbsuc7hzTyMlauaJUbt) | [O'kenneth,reggie](https://open.spotify.com/artist/132awLu7WliKxvElyC2Qgu) | [Straight Outta Kumerica](https://open.spotify.com/album/54JOkOQwRCI799ZdqP3EyA) | 3:11 |
 | 47 | [Akata Gang Gang \(feat\. O'Kenneth, Pappy Kojo, Skyface SDW, Kawabanga & Jay Bahd\)](https://open.spotify.com/track/6QJ5y6ootRIS3rUkGCERTB) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [2 TIMES A GUY](https://open.spotify.com/album/5rpbWF8MqB3At9rdJN9ZUs) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [Feelingx](https://open.spotify.com/track/5xYLT71o8zWLyyiwIraq9v) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [2 TIMES A GUY](https://open.spotify.com/album/5rpbWF8MqB3At9rdJN9ZUs) | 2:02 |
 | 50 | [Sore \- Remix](https://open.spotify.com/track/3qqpV4EqQ3TPSYPHOom3I6) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Sore \(Remix\)](https://open.spotify.com/album/3duGoq617U2FfeRi7U1Nkc) | 4:26 |
 
-Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMGVlZmEwNDkxM2QyOWQ0OTQ1MDM5YjRhOGUyNzFmYzBm`
+Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMGZiNWM5ZmNkYTAwZjY2ZmM3NDMzNjdkNjA2OGJjNzdi`

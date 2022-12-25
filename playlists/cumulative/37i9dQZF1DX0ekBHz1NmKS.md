@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-608 songs - 1 day 8 hr 17 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+609 songs - 1 day 8 hr 19 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,11 +480,12 @@
 | [Sometimes](https://open.spotify.com/track/2z3p0draElJoHuLwPIeEyt) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Sometimes](https://open.spotify.com/album/7xIeb2a6nj8eUcx9kkY0oe) | 2:42 | 2021-12-16 | 2022-01-14 |
 | [Somewhere Without Me](https://open.spotify.com/track/0YoTjK4DQV9lx6OBtOJPj7) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Somewhere Without Me](https://open.spotify.com/album/5mWszAnXiNaXRLQ1XXUjFx) | 3:33 | 2021-12-16 | 2022-03-11 |
 | [Sommardag](https://open.spotify.com/track/2LWwXk56lQAa5zuHd6snBB) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Naag Nool](https://open.spotify.com/album/1UTctXDMnBfSheaCnpT7O5) | 3:19 | 2021-12-16 | 2022-03-07 |
+| [Sommaren](https://open.spotify.com/track/4icP6ZujBOr7XQ7ghKVyt4) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Sommaren](https://open.spotify.com/album/1hDeGA8SN9NIimQwgEQ043) | 2:53 | 2022-12-22 |  |
 | [Sommarn är över \(feat\. Eah\)](https://open.spotify.com/track/1XGr0Rdlrtx6QOUjw91lRX) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao), [Eah](https://open.spotify.com/artist/4Uj4hzPZNXOTHGdOsnCcF0) | [Sommarn är över \(feat\. Eah\)](https://open.spotify.com/album/4x6jVOB2d25n5WqHtCe9Mk) | 3:16 | 2021-12-16 | 2022-03-11 |
 | [Sommarregn \(feat\. Hanna Ferm\)](https://open.spotify.com/track/3rZtRBAKCHaZVxMQqXLAPu) | [Oskar Häggström](https://open.spotify.com/artist/69ZOZoebEshyscvb3HktEf), [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Sommarregn \(feat\. Hanna Ferm\)](https://open.spotify.com/album/12SjrFUpHO06Xm2Co5ookK) | 3:02 | 2022-06-21 |  |
 | [Sommartider hej!](https://open.spotify.com/track/1rUd5snXKfQ5TpCLvhBzGM) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe), [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Sommartider hej!](https://open.spotify.com/album/2THySII2sobcnUQRPVFgMT) | 3:17 | 2021-12-16 | 2022-02-10 |
 | [Sommartårar](https://open.spotify.com/track/4Akl0wddDthblkIkdaLI1N) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Sommartårar](https://open.spotify.com/album/0HsAsAQ5yJvZv8W0ZNWGRY) | 3:20 | 2022-09-15 | 2022-10-07 |
-| [space](https://open.spotify.com/track/4nstXEMLPc7P3lZcGuHKUI) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR), [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI) | [space / emma](https://open.spotify.com/album/7zKoHoObscvApk5HXFMJi1) | 2:48 | 2022-09-15 |  |
+| [space](https://open.spotify.com/track/4nstXEMLPc7P3lZcGuHKUI) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR), [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI) | [space / emma](https://open.spotify.com/album/7zKoHoObscvApk5HXFMJi1) | 2:48 | 2022-09-15 | 2022-12-25 |
 | [Spritdränkta](https://open.spotify.com/track/5IeOJsK7HmNjrRP3zOpOfn) | [Agnes Matsdotter](https://open.spotify.com/artist/6C0HjwmlFfHqrpxeQctQWi) | [Spritdränkta](https://open.spotify.com/album/3Ko4CeH9l8c5JFBDxpFAxY) | 3:37 | 2022-03-03 | 2022-05-13 |
 | [Start Walking](https://open.spotify.com/track/4UEzD2NPm9yZ0cLTB9Lo6z) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Start Walking](https://open.spotify.com/album/4JhxpPwRhUf0RzHuHSsZ3O) | 3:14 | 2021-12-16 | 2022-03-09 |
 | [Stay Awake](https://open.spotify.com/track/67rLEjVfBaTus10bbL8zLN) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Put Your Self Out There](https://open.spotify.com/album/55zVsU9v9bo3P253vEhMDi) | 4:20 | 2021-12-16 | 2022-01-09 |

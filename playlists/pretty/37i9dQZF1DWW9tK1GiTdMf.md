@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare ❤️‍🩹 la sad e villa in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,634 likes - 86 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,645 likes - 86 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 27 | [Questa tua fottuta negatività](https://open.spotify.com/track/4qaoYHNEeEEFNcYnjSPCCy) | [Redd](https://open.spotify.com/artist/7I5vEYDtuS7TwfVAhBWeLk) | [Questa tua fottuta negatività](https://open.spotify.com/album/31zbrJQzG2tEzwaNrV6kDr) | 2:36 |
 | 28 | [Fottuta Metà](https://open.spotify.com/track/2DEKLuq7DbIF74ZfHauwhI) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [xRick](https://open.spotify.com/artist/4P2y5Q6AP6IvvT7zKLAvwb), [DANDY TURNER](https://open.spotify.com/artist/3PEzbnNp2kOuNcL0Z19o0w) | [Punk Rock Boy](https://open.spotify.com/album/2ZOFYmi9h3R7T0tupX4iKh) | 3:02 |
 | 29 | [Life Sux](https://open.spotify.com/track/7GZ9fGAJn84kNEhNVSSQuU) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Life Sux](https://open.spotify.com/album/0PLBxxxm3JBEGoUCkTUVBJ) | 2:54 |
-| 30 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 |
+| 30 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 |
 | 31 | [100 GIORNI](https://open.spotify.com/track/1XutSOW3HIb0oBiNwDINxL) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [100 GIORNI](https://open.spotify.com/album/6vQHAIf4uxsWItu8Gp9nNH) | 1:16 |
 | 32 | [PROBLEMI CON LA DROGA](https://open.spotify.com/track/1BTLnipRQZjpOjeRLjensv) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq), [trippinduke](https://open.spotify.com/artist/6uJgIYT8rNd8AGFDGiyBDK), [Lele](https://open.spotify.com/artist/3SnnCylpFBT2CY1UmvBIxd), [Zzama](https://open.spotify.com/artist/3d9yGJbbSuMUQ1wzNmGISp), [Quello](https://open.spotify.com/artist/7GdkzNtMzNUCOMxqBYacF7), [Oreste](https://open.spotify.com/artist/1iEAHd4i99ehWHsruWZ6FL) | [PROBLEMI CON LA DROGA](https://open.spotify.com/album/6NHytU4CfBcvE3QtLnK3Mb) | 3:30 |
 | 33 | [Cuore tra le stelle](https://open.spotify.com/track/6FH8iaLFRr2IZLy5Ww8heM) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Cuore tra le stelle](https://open.spotify.com/album/7IOLYZrWju1gh2GWImGYcM) | 3:00 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 85 | [thot](https://open.spotify.com/track/13i8SRJERvFkyd3IDnYvnG) | [demoncandy](https://open.spotify.com/artist/68SYpEb4cmSAjA4k3B8npz) | [thot](https://open.spotify.com/album/34BqkpE71mtHnSE0AkaGO5) | 2:59 |
 | 86 | [Stronza\(te\)](https://open.spotify.com/track/226PtCoGUoPChxzaczVNNM) | [Geremia](https://open.spotify.com/artist/2RVL2mt0yVYoTutwu3MNYx), [Mach 1](https://open.spotify.com/artist/4nsO5c7kIKsI1zdtnKJkAR), [Harley](https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F) | [Stronza\(te\)](https://open.spotify.com/album/65XNiXVqx8dvXCk4WbPxfR) | 2:37 |
 
-Snapshot ID: `MTY3MTc1MDA2MCwwMDAwMDAwMDdiOWE3M2ZmMWI5MGQwN2U4OWZiNmMzYjk5MWIwYjQx`
+Snapshot ID: `MTY3MTc1MDA2MCwwMDAwMDAwMGMzNWNkZWJjNGUwYjc2YjVlZDhhNGFmN2FjYzdhNzY0`

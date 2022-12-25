@@ -4,7 +4,7 @@
 
 > Acoustic versions of well\-known songs.
 
-205 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/2gZT7bXJYkak1F0H80ajLr)
+207 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/2gZT7bXJYkak1F0H80ajLr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [New Slang](https://open.spotify.com/track/4zYHZg9c9KHkX2jQrZ24qe) | [Big Love and Little Hollywood](https://open.spotify.com/artist/6EWhaIgWq8P6AmvXu1q6U0) | [New Slang](https://open.spotify.com/album/7Jrjpc2NmWTypspUUm8t0y) | 4:00 | 2022-07-26 | 2022-12-01 |
 | [Once In a While \- Acoustic](https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Once In a While \(Acoustic\)](https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ) | 3:51 | 2021-12-09 |  |
 | [One](https://open.spotify.com/track/1hoSHBbsZBNvv051EjQP5D) | [Castle Theater](https://open.spotify.com/artist/66DA1SaRhtBFQo4dQ8eF3e) | [One](https://open.spotify.com/album/0bSKEEtgOoaruEJ6NKvkCk) | 3:03 | 2021-12-09 | 2022-12-01 |
-| [Paradise \- Acoustic](https://open.spotify.com/track/6VVi6cadD8WZGfredhpaPw) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/7weXwUa85fSK2MmtoFyzYZ) | 2:33 | 2021-12-09 |  |
+| [Paradise \- Acoustic](https://open.spotify.com/track/1uKavGXL05NzhPHSOUIg91) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/1Ad968gPukAt86YXpyEWIy) | 2:33 | 2022-12-23 |  |
+| [Paradise \- Acoustic](https://open.spotify.com/track/6VVi6cadD8WZGfredhpaPw) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/7weXwUa85fSK2MmtoFyzYZ) | 2:33 | 2021-12-09 | 2022-12-25 |
 | [Physical \- Acoustic](https://open.spotify.com/track/62rpDZFDR3rzC7kNH4cjA1) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Physical \(Acoustic\)](https://open.spotify.com/album/4AEHXePpm4bit5V0tm1kax) | 3:18 | 2021-12-09 | 2022-12-24 |
 | [Plowed](https://open.spotify.com/track/3F3fUJdadTQEqO81ZWF5ZK) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Plowed](https://open.spotify.com/album/6dXn2EYiw4kD1PFwpgdLoM) | 3:18 | 2021-12-09 |  |
 | [Pompeii](https://open.spotify.com/track/0v1PIU1m5Ywz1FYMAFwtpI) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/5dxFt6HCaP9lnjojZIvQVI) | 2:59 | 2022-07-26 | 2022-09-21 |
@@ -172,7 +173,8 @@
 | [She Doesn't Mind](https://open.spotify.com/track/28viyHPgjcya11hq7zpxuH) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [She Doesn't Mind](https://open.spotify.com/album/3HPvIWHp9DuT5aCCQAYXtK) | 3:29 | 2021-12-09 | 2022-07-29 |
 | [She Doesn't Mind](https://open.spotify.com/track/2Zis5AikaFO9h8rM5e4Z1v) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [She Doesn't Mind](https://open.spotify.com/album/0evXINNrzDRfe18Y9qXR8D) | 3:29 | 2022-09-20 | 2022-11-13 |
 | [Sledgehammer](https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [So Low](https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y) | 4:24 | 2021-12-09 | 2022-12-01 |
-| [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/0F0xMIT47P5VpCOH5eajwO) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic](https://open.spotify.com/album/0WExxQj254CORDRL682MBN) | 2:46 | 2021-12-09 |  |
+| [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/0F0xMIT47P5VpCOH5eajwO) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic](https://open.spotify.com/album/0WExxQj254CORDRL682MBN) | 2:46 | 2021-12-09 | 2022-12-25 |
+| [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/2y4KKdn0UQPCIh0wbBYfgR) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic EP](https://open.spotify.com/album/2hqtH9rg9G0BsaymBNA8Bp) | 2:46 | 2022-12-23 |  |
 | [Somebody That I Used To Know](https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Somebody That I Used To Know](https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl) | 2:52 | 2021-12-09 |  |
 | [Someone You Loved](https://open.spotify.com/track/6o49CIQox7lfuEpxDw0FRN) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Acoustic Sessions](https://open.spotify.com/album/0nlQDrmzmr6aLzw3TkkEze) | 3:25 | 2021-12-09 |  |
 | [Someone You Loved \(Cover\)](https://open.spotify.com/track/53W8zd1F4QASq67PsllYOG) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Patchwork](https://open.spotify.com/album/65f1t781sotHbcAco6nnZN) | 3:03 | 2021-12-09 | 2022-12-24 |

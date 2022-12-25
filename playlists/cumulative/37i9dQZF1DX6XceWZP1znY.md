@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-659 songs - 1 day 19 hr 56 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
+660 songs - 1 day 20 hr 1 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Daylight](https://open.spotify.com/track/1say3kpM3yexV7hazGgXP1) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Daylight](https://open.spotify.com/album/49Hveg3Dzx8xSwY6a81lsr) | 4:00 | 2022-06-07 | 2022-11-13 |
 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 | 2022-12-23 |  |
 | [Different](https://open.spotify.com/track/23taGXZI9sFYIxdBrqeVaz) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Different](https://open.spotify.com/album/4LF8VqmmnKz9NTmYWvPA7b) | 3:33 | 2022-08-11 | 2022-11-13 |
-| [Dive Back In Time](https://open.spotify.com/track/4ik2ylkYi7xBgx6C1suLTM) | [bicaso](https://open.spotify.com/artist/4DPo2oq4P35PLqBIjKUg50), [Gen Kakon](https://open.spotify.com/artist/3TX8QjkcSiYi5dvvCSeVLQ) | [Dive Back In Time](https://open.spotify.com/album/3PYK68Kz3gaJfnlgpjNjpl) | 2:49 | 2022-06-07 |  |
+| [Dive Back In Time](https://open.spotify.com/track/4ik2ylkYi7xBgx6C1suLTM) | [bicaso](https://open.spotify.com/artist/4DPo2oq4P35PLqBIjKUg50), [Gen Kakon](https://open.spotify.com/artist/3TX8QjkcSiYi5dvvCSeVLQ) | [Dive Back In Time](https://open.spotify.com/album/3PYK68Kz3gaJfnlgpjNjpl) | 2:49 | 2022-06-07 | 2022-12-25 |
 | [DiViNE](https://open.spotify.com/track/6gjkal8BbkbHQst6XUvNsr) | [EXiNA](https://open.spotify.com/artist/67jsnKQxgDih5HvR68qXWd) | [DiViNE](https://open.spotify.com/album/1JUj1PESaeSlFYf788rqrY) | 4:01 | 2022-06-07 | 2022-06-22 |
 | [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 | 2022-12-23 |  |
 | [Don't Know Why](https://open.spotify.com/track/77IWDKuXUNjFyj0MuVQqT5) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [blossom](https://open.spotify.com/album/57CWfsD6tG1RFbYPIslgxT) | 3:36 | 2022-06-07 | 2022-07-21 |
@@ -486,6 +486,7 @@
 | [ポラリス](https://open.spotify.com/track/6drUY5MlA6NpZcpotC7aQP) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [ポラリス \(Special Edition\)](https://open.spotify.com/album/3DDZz3ervHrqqw5cIb71eF) | 3:44 | 2022-06-07 | 2022-07-29 |
 | [マヨイガ](https://open.spotify.com/track/1yTU2sA9ePjcgxuXudnjwI) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [you love](https://open.spotify.com/album/7N1tYjZ22IGKQYDdqvKefO) | 5:18 | 2022-06-07 | 2022-07-22 |
 | [ミックスナッツ](https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ミックスナッツ](https://open.spotify.com/album/3O9SqecmKFv2ZafPKwahtz) | 3:33 | 2022-06-07 | 2022-07-29 |
+| [メリーゴーランド](https://open.spotify.com/track/1llk0Ducps2jpfNDtKwO1h) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [メリーゴーランド](https://open.spotify.com/album/51rgXBzk8MYv4IEN0ZeBdI) | 4:15 | 2022-12-23 |  |
 | [モノクロシティ](https://open.spotify.com/track/58zuwdJzxODln0rcx7lm44) | [ACE COLLECTION](https://open.spotify.com/artist/6p3G10bi9yrw3me7CDrCta) | [モノクロシティ](https://open.spotify.com/album/3bJwkYYxjwxRW4TCEQetuy) | 4:14 | 2022-06-07 | 2022-11-23 |
 | [モラトリアム](https://open.spotify.com/track/1a1wB12w5qTXLvz6et9ohH) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [モラトリアム](https://open.spotify.com/album/3wWqdbRezIHgiR8Ze2mURQ) | 4:47 | 2022-06-07 | 2022-12-18 |
 | [モラトリアム](https://open.spotify.com/track/5eHmOGj5szF3Pm9fHWVwuq) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [モラトリアム](https://open.spotify.com/album/6wrfl8TlwDqw5COvBlklTW) | 4:47 | 2022-06-07 | 2022-07-29 |

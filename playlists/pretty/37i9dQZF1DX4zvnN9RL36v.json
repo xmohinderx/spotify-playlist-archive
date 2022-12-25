@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 3756,
+  "num_followers": 3761,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMDNlNTk4ZDhlMmVlMDVhYmFiNTNjYWMyMzcyODAyYWMy",
+  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMGViZmMzZGY1Yzk4NTkwZmQ0ODYyZmVkY2MzYmRkMDYx",
   "tracks": [
     {
       "added_at": "2022-08-18 14:25:32",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "I hope I cross your mind",
-        "url": "https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg"
-      },
-      "artists": [
-        {
-          "name": "Sogaksogak",
-          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "I hope I cross your mind",
-      "url": "https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "\uc911\ub3c5",
         "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
       },
@@ -299,22 +283,34 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Da Capo",
-        "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
+        "name": "I hope I cross your mind",
+        "url": "https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg"
       },
       "artists": [
         {
-          "name": "TOY",
-          "url": "https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8"
-        },
-        {
-          "name": "Sing Si Kyung",
-          "url": "https://open.spotify.com/artist/54fqqQjr6QGdx1UX9cvfft"
+          "name": "Sogaksogak",
+          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
         }
       ],
-      "duration_ms": 285586,
-      "name": "Three of Us (With Sing Si Kyung)",
-      "url": "https://open.spotify.com/track/0elG6aqynKF3C1zYdzanpO"
+      "duration_ms": 216066,
+      "name": "I hope I cross your mind",
+      "url": "https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "Exhibition 2",
+        "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
+      },
+      "artists": [
+        {
+          "name": "Exhibition",
+          "url": "https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE"
+        }
+      ],
+      "duration_ms": 320055,
+      "name": "Druken Truth",
+      "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -335,18 +331,22 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Exhibition 2",
-        "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
+        "name": "Da Capo",
+        "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
       },
       "artists": [
         {
-          "name": "Exhibition",
-          "url": "https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE"
+          "name": "TOY",
+          "url": "https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8"
+        },
+        {
+          "name": "Sing Si Kyung",
+          "url": "https://open.spotify.com/artist/54fqqQjr6QGdx1UX9cvfft"
         }
       ],
-      "duration_ms": 320055,
-      "name": "Druken Truth",
-      "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
+      "duration_ms": 285586,
+      "name": "Three of Us (With Sing Si Kyung)",
+      "url": "https://open.spotify.com/track/0elG6aqynKF3C1zYdzanpO"
     },
     {
       "added_at": "2022-08-18 14:25:32",

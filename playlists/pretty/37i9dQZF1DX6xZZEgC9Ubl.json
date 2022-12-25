@@ -1,15 +1,15 @@
 {
   "description": "Emo rap feels for the misunderstood. Cover: Pardyalone",
-  "num_followers": 1392420,
+  "num_followers": 1393229,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMDAwMCwwMDAwMDAwMDJmNDFlMWY4ZTA3ZWQzZjQ2ODMwMGYxMDdlOTQ3NWNl",
+  "snapshot_id": "MTY3MTIxMDAwMCwwMDAwMDAwMDQzYWI0MmJiYjc0MDAyMTZjYTEyN2FiN2U2MWZmNzc4",
   "tracks": [
     {
-      "added_at": "2022-12-24 00:56:46",
+      "added_at": "2022-12-25 00:48:15",
       "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
     },
     {
-      "added_at": "2022-12-24 00:56:46",
+      "added_at": "2022-12-25 00:48:15",
       "album": {
         "name": "whts rght",
         "url": "https://open.spotify.com/album/32T7pErbR0Oj2lkOcgitah"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
     },
     {
-      "added_at": "2022-12-24 00:56:46",
+      "added_at": "2022-12-25 00:48:15",
       "album": {
         "name": "Devil In The Flesh",
         "url": "https://open.spotify.com/album/6iauzkIdWagMTjJjdbVBfk"
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "TOTAL XANARCHY",
-        "url": "https://open.spotify.com/album/2wmmYoAC48iNSTdU5Iwg6H"
-      },
-      "artists": [
-        {
-          "name": "Lil Xan",
-          "url": "https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Betrayed",
-      "url": "https://open.spotify.com/track/4vaxvNDaLSoD36iZX515ug"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/5X1ugJYc0B57rw0OnTwBKE"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 154893,
       "name": "Mine",
       "url": "https://open.spotify.com/track/4O1UcKLwZ92kxNTn3u0voN"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "TOTAL XANARCHY",
+        "url": "https://open.spotify.com/album/2wmmYoAC48iNSTdU5Iwg6H"
+      },
+      "artists": [
+        {
+          "name": "Lil Xan",
+          "url": "https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Betrayed",
+      "url": "https://open.spotify.com/track/4vaxvNDaLSoD36iZX515ug"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "First Draft",
-        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 127934,
-      "name": "Save Me, Please",
-      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "why am i crying",
         "url": "https://open.spotify.com/album/5vGBmuHZhXCaMhBBWD2ab0"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 136568,
       "name": "gone girl",
       "url": "https://open.spotify.com/track/3iH29NcCxYgI5shlkZrUoB"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "First Draft",
+        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 127934,
+      "name": "Save Me, Please",
+      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Bad Day",
-        "url": "https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA"
-      },
-      "artists": [
-        {
-          "name": "Justus Bennetts",
-          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
-        }
-      ],
-      "duration_ms": 108800,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "would you be my baby",
         "url": "https://open.spotify.com/album/5SGRuYzOCSloOXnKGv73ki"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 73421,
       "name": "would you be my baby",
       "url": "https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Bad Day",
+        "url": "https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA"
+      },
+      "artists": [
+        {
+          "name": "Justus Bennetts",
+          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
+        }
+      ],
+      "duration_ms": 108800,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
     },
     {
       "added_at": "2022-12-02 18:50:29",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Long Term Effects of SUFFERING",
-        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 122880,
-      "name": "Life Is but a Stream~",
-      "url": "https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Childhood Dreams",
         "url": "https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 165000,
       "name": "You Don't Want Me Anymore",
       "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Long Term Effects of SUFFERING",
+        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 122880,
+      "name": "Life Is but a Stream~",
+      "url": "https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Digikid 2",
+        "url": "https://open.spotify.com/album/3RoNCb8HWjDW4u1DTaDQVL"
+      },
+      "artists": [
+        {
+          "name": "Yxngxr1",
+          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
+        }
+      ],
+      "duration_ms": 121457,
+      "name": "PIGEONS",
+      "url": "https://open.spotify.com/track/6a23CwL8bVeizmNRR9AACs"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "when we were 16",
         "url": "https://open.spotify.com/album/1ngBIvObgRpFAouI0dRn4M"
       },
@@ -1367,38 +1383,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "The Two of Us Are Dying",
-        "url": "https://open.spotify.com/album/6vEqNDFYyv3rakykPzpYwu"
-      },
-      "artists": [
-        {
-          "name": "Killstation",
-          "url": "https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8"
-        }
-      ],
-      "duration_ms": 134209,
-      "name": "Sarcoma",
-      "url": "https://open.spotify.com/track/6gTbAJOvivFXwkOEhSIOtS"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Digikid 2",
-        "url": "https://open.spotify.com/album/3RoNCb8HWjDW4u1DTaDQVL"
-      },
-      "artists": [
-        {
-          "name": "Yxngxr1",
-          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
-        }
-      ],
-      "duration_ms": 121457,
-      "name": "PIGEONS",
-      "url": "https://open.spotify.com/track/6a23CwL8bVeizmNRR9AACs"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Hiding in the Dark",
         "url": "https://open.spotify.com/album/0hMJhcenN0EFZvD4qxdyZN"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 184141,
       "name": "Hiding in the Dark",
       "url": "https://open.spotify.com/track/1eau7EVXGFffQAGYFxIx6w"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "The Two of Us Are Dying",
+        "url": "https://open.spotify.com/album/6vEqNDFYyv3rakykPzpYwu"
+      },
+      "artists": [
+        {
+          "name": "Killstation",
+          "url": "https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8"
+        }
+      ],
+      "duration_ms": 134209,
+      "name": "Sarcoma",
+      "url": "https://open.spotify.com/track/6gTbAJOvivFXwkOEhSIOtS"
     },
     {
       "added_at": "2022-10-28 16:05:00",

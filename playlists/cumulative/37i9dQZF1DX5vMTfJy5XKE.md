@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-364 songs - 19 hr 7 min - [published](https://open.spotify.com/playlist/5LfWH4HC2jeu9j5xLz96yV)
+365 songs - 19 hr 10 min - [published](https://open.spotify.com/playlist/5LfWH4HC2jeu9j5xLz96yV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Heart Of Christmas](https://open.spotify.com/track/3YUOyXxvOI598tLifFijNF) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [Christmas with Cliff](https://open.spotify.com/album/3s6LvCzbhw6UiWOtkvpo9s) | 3:47 | 2022-12-02 |  |
 | [Hell of a Holiday](https://open.spotify.com/track/04ljVdZAfCyB0REJQ9fcmk) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Hell of a Holiday](https://open.spotify.com/album/0xsa9tFddApdX5wlHtKROP) | 2:55 | 2021-12-24 | 2022-09-28 |
 | [Holiday](https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Holiday](https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G) | 2:51 | 2022-12-16 |  |
-| [Holiday Dreaming](https://open.spotify.com/track/659yAq4DwQRjuHkP0K9Pz8) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [The Molly Burch Christmas Album](https://open.spotify.com/album/1aigDgjQuiFg77aCRnyTTq) | 3:30 | 2022-12-09 |  |
+| [Holiday Dreaming](https://open.spotify.com/track/5o4ej9ImySc5pS2GvMazVv) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [The Molly Burch Christmas Album \- Expanded](https://open.spotify.com/album/2pNWoLyf7n4o5MHZPXMMeZ) | 3:30 | 2022-12-09 |  |
+| [Holiday Dreaming](https://open.spotify.com/track/659yAq4DwQRjuHkP0K9Pz8) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [The Molly Burch Christmas Album](https://open.spotify.com/album/1aigDgjQuiFg77aCRnyTTq) | 3:30 | 2022-12-09 | 2022-12-25 |
 | [Holiday Party](https://open.spotify.com/track/2ZiKXOsDvx9TfXIJT5cZGN) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Holiday Party](https://open.spotify.com/album/6KqZkIWf9uZAPTgH46kYx1) | 3:01 | 2022-11-04 |  |
 | [Holiday Records](https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Holiday Records](https://open.spotify.com/album/4xrqHer0s9cTXkL0VyGgYx) | 3:03 | 2021-12-24 | 2022-07-29 |
 | [Holiday Rock](https://open.spotify.com/track/1QG0ibNEFUb0sIFDsIYrMk) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Holiday Rock](https://open.spotify.com/album/7pMCA1FnYmGA0I6ZHbbnpC) | 2:57 | 2021-12-24 | 2022-09-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Le tracce italiane pi\u00f9 romantiche di sempre.",
-  "num_followers": 160125,
+  "num_followers": 160158,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMDNmMWU3NWE3OGYzYTEyMDI0M2FmM2E4NTQ4NjI0NGQ2",
+  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMDk5MmFlMDcwM2YxOTlhZWY4Y2Q2NzdmMWU0ZTY2ZDZl",
   "tracks": [
     {
       "added_at": "2021-09-26 18:38:53",
@@ -751,6 +751,22 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
+        "name": "Mina Celentano",
+        "url": "https://open.spotify.com/album/0fK3gESwoPn02N98BmuRid"
+      },
+      "artists": [
+        {
+          "name": "MINACELENTANO",
+          "url": "https://open.spotify.com/artist/2RaKpBVCLrHguQqQDcahYB"
+        }
+      ],
+      "duration_ms": 282360,
+      "name": "Acqua e Sale",
+      "url": "https://open.spotify.com/track/2k5XUNGw2nD3qTl9C208Qr"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
         "name": "Soundtrack '96 - 06 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Mina Celentano",
-        "url": "https://open.spotify.com/album/0fK3gESwoPn02N98BmuRid"
-      },
-      "artists": [
-        {
-          "name": "MINACELENTANO",
-          "url": "https://open.spotify.com/artist/2RaKpBVCLrHguQqQDcahYB"
-        }
-      ],
-      "duration_ms": 282360,
-      "name": "Acqua e Sale",
-      "url": "https://open.spotify.com/track/2k5XUNGw2nD3qTl9C208Qr"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Il bacio di Klimt",
         "url": "https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB"
       },
@@ -803,18 +803,18 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/6cncwJJC6PJW1JelJ6v71g"
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb"
       },
       "artists": [
         {
-          "name": "Lortex",
-          "url": "https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45"
+          "name": "Riccardo Cocciante",
+          "url": "https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR"
         }
       ],
-      "duration_ms": 174725,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/1SIl1FBbHmGa4PmJu5q6Lm"
+      "duration_ms": 274973,
+      "name": "Bella senz'anima",
+      "url": "https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS"
     },
     {
       "added_at": "2021-09-26 18:38:53",

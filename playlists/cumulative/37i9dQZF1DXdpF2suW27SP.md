@@ -4,7 +4,7 @@
 
 > Richie Campbell entra na zona.
 
-173 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
+174 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bandidas](https://open.spotify.com/track/6MEZbtP3lg3mHnE9LzZn4S) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Bandidas](https://open.spotify.com/album/3GOXhstBnGiQbQylnIWEnq) | 3:30 | 2022-07-16 | 2022-11-25 |
 | [Beber Para Esquecer](https://open.spotify.com/track/76kNdRaqzgvYGB9tBIxUSf) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Beber Para Esquecer](https://open.spotify.com/album/3kHspN9UQgOo4q8f3y7N3K) | 3:03 | 2022-11-25 |  |
 | [Beijo](https://open.spotify.com/track/2P9UCbKe97jD0q6UOG7bsf) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Beijo](https://open.spotify.com/album/1aSuvQp44qKjLvTMFheNDK) | 3:23 | 2022-12-09 |  |
+| [Bend Ova](https://open.spotify.com/track/6f3IhJuJDxU53yW3vAUtAL) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw) | [Patrões EP](https://open.spotify.com/album/1ZHitx0vl1g1FR7CjwdszR) | 2:00 | 2022-12-23 |  |
 | [Bimba Y Lola](https://open.spotify.com/track/2hCuJd33TRNGiiJf7XIBVI) | [MC Caixa Dóculos](https://open.spotify.com/artist/1JoxU0YiJrmtkAHeS1pkwc) | [Bimba Y Lola](https://open.spotify.com/album/7CtTCSTIrFUnRlqCKe4oM3) | 2:40 | 2022-07-21 | 2022-08-12 |
 | [Bimba Y Lola](https://open.spotify.com/track/5QUDsjbO0NMHW3zAHTFErP) | [MC Caixa Dóculos](https://open.spotify.com/artist/1JoxU0YiJrmtkAHeS1pkwc) | [Bimba Y Lola](https://open.spotify.com/album/4Nf1gMXFDJJPcojjRrkMrO) | 2:40 | 2022-07-16 | 2022-07-29 |
 | [Bipolar](https://open.spotify.com/track/5WHssMvZ9qRpRSs6dkoivi) | [Lord XIV](https://open.spotify.com/artist/5TYWbwBIIkfhJHUrYbatRF), [Dj Dadda](https://open.spotify.com/artist/01cSS9Li4G0S7dH0h7Khfu) | [Bipolar](https://open.spotify.com/album/7b6rw53PTJcF16F5xbwZ24) | 2:40 | 2022-07-16 | 2022-10-01 |

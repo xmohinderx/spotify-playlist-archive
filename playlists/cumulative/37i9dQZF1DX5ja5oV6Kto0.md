@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB?si=kIJ9OaJFRY\-\_DktMB6Logg"> STRAFITTI</a>
 
-307 songs - 15 hr 25 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
+309 songs - 15 hr 32 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Confam](https://open.spotify.com/track/5DBDVCBlR9o20XdEj6RBv7) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Confam](https://open.spotify.com/album/6FKLdfkio3SWvlydR8ohRO) | 3:05 | 2022-08-05 | 2022-09-10 |
 | [Confess](https://open.spotify.com/track/0YYvexuLnGWjD8iUwirzoW) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Confess](https://open.spotify.com/album/55zccrU90VUl932ZTq1O9e) | 2:40 | 2022-11-18 |  |
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2021-09-09 | 2022-04-29 |
-| [Culture](https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V) | 3:28 | 2022-03-11 |  |
+| [Culture](https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V) | 3:28 | 2022-03-11 | 2022-12-25 |
+| [Culture](https://open.spotify.com/track/6ilJ5I8xWC4CjCvgLA91Fy) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/3D2Q4xKdKQQigHuNk1O3ZD) | 3:28 | 2022-09-15 |  |
 | [Curtains](https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Curtains](https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI) | 1:50 | 2022-06-16 | 2022-06-24 |
 | [Dami Duro \- Spotify Singles](https://open.spotify.com/track/3OsXnXDO9gIb0L8t4nHhGy) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Dami Duro \- Spotify Singles](https://open.spotify.com/album/4cr6Z3CYq1o0r9hsKKNNtE) | 3:20 | 2022-10-28 |  |
 | [Daylight](https://open.spotify.com/track/1RbQkmd0Y5kyAM78G86brd) | [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Daylight](https://open.spotify.com/album/49uRQvXnQht8Wk3mTiGjmw) | 3:30 | 2022-06-23 | 2022-07-08 |
@@ -141,7 +142,8 @@
 | [IDT](https://open.spotify.com/track/4zXMJEavXIWMG9LZHE50Tx) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [IDT](https://open.spotify.com/album/3vIVvdalZDCFdjxAUzV5rY) | 3:18 | 2022-11-24 |  |
 | [If I Tried](https://open.spotify.com/track/2B3PNPir3BzpEigu0YMbFt) | [Valerie Omari](https://open.spotify.com/artist/3N98mfZLBy9b9LjkhByak6), [The Rabbi Himself](https://open.spotify.com/artist/7o1o0zPFCBM0otuAEdjW1W) | [If I Tried](https://open.spotify.com/album/2K7sXFXwxw2SpgDUCFPdC0) | 3:20 | 2022-12-02 |  |
 | [If You Say](https://open.spotify.com/track/0Gti54i0mUfipe9LQDsbGC) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/12Z2vvO5UYrBygJEumBCXf) | 3:38 | 2021-11-11 |  |
-| [In A Loop](https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [In A Loop](https://open.spotify.com/album/4RNLtG8d1fQp2yUTiVBS9a) | 3:13 | 2022-04-07 |  |
+| [In A Loop](https://open.spotify.com/track/0jXii0r38VJ1TZYaWfPXWp) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [In A Loop](https://open.spotify.com/album/0kefHHVtlnqZG8JjjXxvxU) | 3:13 | 2022-09-15 |  |
+| [In A Loop](https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [In A Loop](https://open.spotify.com/album/4RNLtG8d1fQp2yUTiVBS9a) | 3:13 | 2022-04-07 | 2022-12-25 |
 | [In My Mind \- A COLORS SHOW](https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [In My Mind \- A COLORS SHOW](https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd) | 2:16 | 2022-08-22 | 2022-11-04 |
 | [In the Wind](https://open.spotify.com/track/2daN2z6MVvHVuVKCYmQqOn) | [Ictooicy](https://open.spotify.com/artist/19cyiv0rM3o9U8WboDW0Js) | [Sorry](https://open.spotify.com/album/16mVzniCBttR752jet9few) | 1:09 | 2022-03-31 | 2022-04-08 |
 | [Indifferent](https://open.spotify.com/track/022dXRXDk7T9bJB7pHLYuV) | [Mo$hpit Cindy](https://open.spotify.com/artist/7mlXK93aYpGSbRPaEqdLYU) | [21st Century Luv](https://open.spotify.com/album/2oMkffXgabRK3qvYNuvx0O) | 3:08 | 2021-07-02 | 2022-01-22 |

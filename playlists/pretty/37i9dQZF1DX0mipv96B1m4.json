@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 306,
+  "num_followers": 308,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcxODc0MCwwMDAwMDAwMDg1NGU4NWJiYWEzYTJlMmUzYWQ2MTBmNjc3YjZhM2U4",
+  "snapshot_id": "MTY2ODcxODc0MCwwMDAwMDAwMDQ4MTNmMWE0ZmEwYWNlNWU2NjI4NWU2NDQ1OGFiZTVh",
   "tracks": [
     {
       "added_at": "2022-11-17 20:59:00",
@@ -369,6 +369,22 @@
       "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
     },
     {
+      "added_at": "2022-08-19 12:56:03",
+      "album": {
+        "name": "Boss Lady",
+        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 178754,
+      "name": "Boss Lady",
+      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
+    },
+    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Pull Up On Mi Bumpa",
@@ -387,22 +403,6 @@
       "duration_ms": 227896,
       "name": "Pull Up On Mi Bumpa",
       "url": "https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp"
-    },
-    {
-      "added_at": "2022-08-19 12:56:03",
-      "album": {
-        "name": "Boss Lady",
-        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 178754,
-      "name": "Boss Lady",
-      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -483,6 +483,34 @@
       "duration_ms": 206471,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Tick Talk",
+        "url": "https://open.spotify.com/album/1QXAYNwiCldVsj5Zb2D3sP"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        },
+        {
+          "name": "DJ Lito",
+          "url": "https://open.spotify.com/artist/0iCdCjp95t54X4vw8v2YFR"
+        },
+        {
+          "name": "Sheilah Gashumba",
+          "url": "https://open.spotify.com/artist/5f5GUoXpzjXpjrkBeMg3H2"
+        },
+        {
+          "name": "SlickStuartRoja",
+          "url": "https://open.spotify.com/artist/0nCCjqitG4nNkXdHYfjaN6"
+        }
+      ],
+      "duration_ms": 220206,
+      "name": "Tick Talk",
+      "url": "https://open.spotify.com/track/5lSYksFuC3lKlCAYROEQd0"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -577,54 +605,6 @@
       "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
     },
     {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Tick Talk",
-        "url": "https://open.spotify.com/album/1QXAYNwiCldVsj5Zb2D3sP"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        },
-        {
-          "name": "DJ Lito",
-          "url": "https://open.spotify.com/artist/0iCdCjp95t54X4vw8v2YFR"
-        },
-        {
-          "name": "Sheilah Gashumba",
-          "url": "https://open.spotify.com/artist/5f5GUoXpzjXpjrkBeMg3H2"
-        },
-        {
-          "name": "SlickStuartRoja",
-          "url": "https://open.spotify.com/artist/0nCCjqitG4nNkXdHYfjaN6"
-        }
-      ],
-      "duration_ms": 220206,
-      "name": "Tick Talk",
-      "url": "https://open.spotify.com/track/5lSYksFuC3lKlCAYROEQd0"
-    },
-    {
-      "added_at": "2022-04-07 20:59:00",
-      "album": {
-        "name": "Bwonjagala",
-        "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Fille",
-          "url": "https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx"
-        }
-      ],
-      "duration_ms": 178834,
-      "name": "Bwonjagala",
-      "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
-    },
-    {
       "added_at": "2022-11-17 20:59:00",
       "album": {
         "name": "Enjoy Life",
@@ -639,6 +619,22 @@
       "duration_ms": 216056,
       "name": "Enjoy Life",
       "url": "https://open.spotify.com/track/1mFsMghybfR05jYyfLn6Bo"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Wulira Omuziki",
+        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
+      },
+      "artists": [
+        {
+          "name": "Eezzy",
+          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
+        }
+      ],
+      "duration_ms": 196205,
+      "name": "Wulira Omuziki",
+      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -669,6 +665,26 @@
       "url": "https://open.spotify.com/track/5oWb51bWAgCsxBOlWKZ7IS"
     },
     {
+      "added_at": "2022-04-07 20:59:00",
+      "album": {
+        "name": "Bwonjagala",
+        "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Fille",
+          "url": "https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx"
+        }
+      ],
+      "duration_ms": 178834,
+      "name": "Bwonjagala",
+      "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
+    },
+    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Bakuwe",
@@ -691,22 +707,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Wulira Omuziki",
-        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
-      },
-      "artists": [
-        {
-          "name": "Eezzy",
-          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
-        }
-      ],
-      "duration_ms": 196205,
-      "name": "Wulira Omuziki",
-      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Misege",
         "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
       },
@@ -723,26 +723,6 @@
       "duration_ms": 188235,
       "name": "Misege",
       "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
-      },
-      "artists": [
-        {
-          "name": "Arrow Bwoy",
-          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
-        },
-        {
-          "name": "Jackie Chandiru",
-          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -769,20 +749,24 @@
       "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
     },
     {
-      "added_at": "2022-05-19 20:59:00",
+      "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Welcome",
-        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
+        "name": "The One",
+        "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
       },
       "artists": [
         {
-          "name": "Ivanka",
-          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
+          "name": "Arrow Bwoy",
+          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
+        },
+        {
+          "name": "Jackie Chandiru",
+          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
         }
       ],
-      "duration_ms": 193959,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
+      "duration_ms": 208000,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -811,6 +795,22 @@
       "duration_ms": 220408,
       "name": "Born To Love You - 2020 Remix",
       "url": "https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ"
+    },
+    {
+      "added_at": "2022-05-19 20:59:00",
+      "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
+      },
+      "artists": [
+        {
+          "name": "Ivanka",
+          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
+        }
+      ],
+      "duration_ms": 193959,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -925,34 +925,6 @@
       "url": "https://open.spotify.com/track/2blpLXK920nbgZZSs3Kjlx"
     },
     {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "FRIEND ZONE",
-        "url": "https://open.spotify.com/album/6lmRzDwi4k9cA35kR2JpVy"
-      },
-      "artists": [
-        {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/7C2LQXwXMQjoPj1RyRenxy"
-        },
-        {
-          "name": "Twist Ergain",
-          "url": "https://open.spotify.com/artist/0GWbwhSIIMAGV0MlfzuDMC"
-        },
-        {
-          "name": "Arvans",
-          "url": "https://open.spotify.com/artist/654Iw8wymQZfcidkUmXrh0"
-        },
-        {
-          "name": "Joe Blk",
-          "url": "https://open.spotify.com/artist/7d0unyE3ytjoUW9AO9oexd"
-        }
-      ],
-      "duration_ms": 215405,
-      "name": "FRIEND ZONE",
-      "url": "https://open.spotify.com/track/2u2djNR80H5uTWHjYeOMhh"
-    },
-    {
       "added_at": "2022-08-05 09:37:54",
       "album": {
         "name": "Kiziniro",
@@ -979,6 +951,34 @@
       "duration_ms": 222599,
       "name": "Kiziniro",
       "url": "https://open.spotify.com/track/28SmtKCVqNzejIZyFGDaqd"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "FRIEND ZONE",
+        "url": "https://open.spotify.com/album/6lmRzDwi4k9cA35kR2JpVy"
+      },
+      "artists": [
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/7C2LQXwXMQjoPj1RyRenxy"
+        },
+        {
+          "name": "Twist Ergain",
+          "url": "https://open.spotify.com/artist/0GWbwhSIIMAGV0MlfzuDMC"
+        },
+        {
+          "name": "Arvans",
+          "url": "https://open.spotify.com/artist/654Iw8wymQZfcidkUmXrh0"
+        },
+        {
+          "name": "Joe Blk",
+          "url": "https://open.spotify.com/artist/7d0unyE3ytjoUW9AO9oexd"
+        }
+      ],
+      "duration_ms": 215405,
+      "name": "FRIEND ZONE",
+      "url": "https://open.spotify.com/track/2u2djNR80H5uTWHjYeOMhh"
     }
   ],
   "unique_name": "Kidandali Parte",

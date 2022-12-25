@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M?si=DqsiTcXFSpaLRstMz7kqfQ">Xhanthi Nokwali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394 likes - 83 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403 likes - 83 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 9 | [Cosmic Light](https://open.spotify.com/track/3As7BwjBWJBOxy7JAJuQYv) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Exiled](https://open.spotify.com/album/4fqKeqCJYOY7v3yKmuiau0) | 6:18 |
 | 10 | [Amathongo](https://open.spotify.com/track/2jUqVDtYIJWd3baszNjZkF) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Amathongo](https://open.spotify.com/album/26o5fNnGz2qfoCuhWrAvW8) | 6:26 |
 | 11 | [House of the Rising Sun](https://open.spotify.com/track/2jMSBk8jNymJngmMj9jGxT) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [House of the Rising Sun](https://open.spotify.com/album/4ywreEPoWhZilE0Asy9Wof) | 3:45 |
-| 12 | [Sometimes I Feel Like a Motherless Child](https://open.spotify.com/track/5tRccXu5fL0PVqkNu1rkEN) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6), [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Sometimes I Feel LIke A Motherless Child](https://open.spotify.com/album/10oX5DOz6uo0AyKewTzGvd) | 5:49 |
+| 12 | [Sometimes I Feel Like a Motherless Child](https://open.spotify.com/track/7wq5H9Ax3WTvQU6uWTthLe) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6), [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Group Theory: Black Music](https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1) | 5:49 |
 | 13 | [UMDALI](https://open.spotify.com/track/6Ez01NIwZoUm85QtgPK6J0) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [INGANEKWANE](https://open.spotify.com/album/2MfkJ9pIDlnoqF8nDZKoYJ) | 6:40 |
-| 14 | [The Fall](https://open.spotify.com/track/24XED46T5MAEe52fccVbU6) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [The Fall](https://open.spotify.com/album/2KVA9w5C7j07WtKI1JZ8pY) | 4:55 |
+| 14 | [The Fall](https://open.spotify.com/track/4rjThEz7ckmhTMcxNzkavN) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Group Theory: Black Music](https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1) | 4:55 |
 | 15 | [Intlokomo](https://open.spotify.com/track/3DOxqzFrfbegRHgX7xn2Du) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Intlokomo](https://open.spotify.com/album/2NDAw04JKZfgGCIwqtlMdG) | 6:58 |
 | 16 | [Emlilweni](https://open.spotify.com/track/6nq4iL5FqVg5b1xXqTTsSg) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [Emlilweni](https://open.spotify.com/album/0dWHPV6VdVYUZiY9ma0XKQ) | 6:33 |
 | 17 | [Wozani Nonke Sizothandaza](https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [At This Point in Time: Voices in Volumes](https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr) | 8:04 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 82 | [The Panther](https://open.spotify.com/track/5duF6755ZRQ90ga0HUlirm) | [Simeon Davis Group](https://open.spotify.com/artist/4VpuhyxGT6WgAwOfI6OLqT), [Alex Hand](https://open.spotify.com/artist/1JHDHQilgJSwnEvwRmsFpL) | [Of Narratives & Nocturnes](https://open.spotify.com/album/52UFxrxnZAHFnzYmCLGoIE) | 12:26 |
 | 83 | [Red Room](https://open.spotify.com/track/7qCcZTizjFBYCdqGjhvCoV) | [Tune Recreation Committee](https://open.spotify.com/artist/6lNEil3Rutgl0lscHp9pZx) | [Afrika Grooves With the Tune Recreation Committee](https://open.spotify.com/album/7etAEMYrH6A4M3Q7LvaycA) | 7:07 |
 
-Snapshot ID: `MTY2NjMwMzE0MCwwMDAwMDAwMDFiNzE4NjYzYjcwZGVkZDA3YjNiNTE4ZWJmZTE4YTk3`
+Snapshot ID: `MTY2NjMwMzE0MCwwMDAwMDAwMGZkOGJlODAyZDY2Y2I4OTdiODk0ZDNhZTNiMTYwYmNh`

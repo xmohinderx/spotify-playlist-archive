@@ -511,10 +511,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 211128,
       "name": "Enjoyment",
       "url": "https://open.spotify.com/track/4MUkX48LZSR2nLGSqLxRcd"
+    },
+    {
+      "album": {
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/3kO5jijVZlEl5KaOKM2ZG0"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211128,
+      "name": "Enjoyment",
+      "url": "https://open.spotify.com/track/74zNTorpLrsnDUGKxPb0fv"
     },
     {
       "album": {
@@ -805,7 +823,7 @@
     {
       "album": {
         "name": "Kaba",
-        "url": "https://open.spotify.com/album/6a7Uj2S1gntFbfKvR4EHuO"
+        "url": "https://open.spotify.com/album/7DsT04iHohIn3H4abcSZjH"
       },
       "artists": [
         {
@@ -816,6 +834,24 @@
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 171456,
+      "name": "Kaba",
+      "url": "https://open.spotify.com/track/0JxMcsYDw5m5fSunh11kqj"
+    },
+    {
+      "album": {
+        "name": "Kaba",
+        "url": "https://open.spotify.com/album/6a7Uj2S1gntFbfKvR4EHuO"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
       "duration_ms": 171456,
       "name": "Kaba",
       "url": "https://open.spotify.com/track/5LXGba7dYrvcLBTVADEOZA"
@@ -982,6 +1018,32 @@
     },
     {
       "album": {
+        "name": "Blackstar",
+        "url": "https://open.spotify.com/album/5CDWXHmONdhYTPfF44za7O"
+      },
+      "artists": [
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        },
+        {
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "date_added": "2021-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251238,
+      "name": "Momo (Mobile Money)",
+      "url": "https://open.spotify.com/track/1jyqRZ9DcWyv39i53rXqAt"
+    },
+    {
+      "album": {
         "name": "Momo (Mobile Money)",
         "url": "https://open.spotify.com/album/7fqgEzowQWVzNFfZB9QvRF"
       },
@@ -1001,7 +1063,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 251238,
       "name": "Momo - Mobile Money",
       "url": "https://open.spotify.com/track/699TWY18PQcoXRO1NMh7Qf"
@@ -1459,7 +1521,7 @@
     {
       "album": {
         "name": "Slow",
-        "url": "https://open.spotify.com/album/16OczVqcp5NswQ7nawPX8h"
+        "url": "https://open.spotify.com/album/0GNeksC7xMQxGc9z4Y6rpL"
       },
       "artists": [
         {
@@ -1474,6 +1536,28 @@
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 170686,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/5e5Be8E42zERy5Y3k65wyo"
+    },
+    {
+      "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/16OczVqcp5NswQ7nawPX8h"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
       "duration_ms": 170686,
       "name": "Slow",
       "url": "https://open.spotify.com/track/6fZmsZJAnLXJW7p9KO9hNI"
@@ -1632,7 +1716,7 @@
         },
         {
           "name": "Phantom",
-          "url": "https://open.spotify.com/artist/3OTu83w505CLRat7nFoQeV"
+          "url": "https://open.spotify.com/artist/0lWzG3nBwxEYih2qblTMmP"
         }
       ],
       "date_added": "2022-02-17",

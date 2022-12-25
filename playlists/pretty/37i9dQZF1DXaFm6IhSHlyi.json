@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 134985,
+  "num_followers": 135017,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjAxODgwMCwwMDAwMDAwMDU5NzJiOWJhZTI5NjhhOWRjODgwZjg5Yzc1YWY4Nzk3",
+  "snapshot_id": "MTY2NjAxODgwMCwwMDAwMDAwMDA5MDYwYzFjYzYwN2E5ZjdiNDNkN2Q5ZWVjZTllNDZm",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "\u56a3\u5f20",
+        "url": "https://open.spotify.com/album/5mW7p3W0I2ZG5pEPdUsfMM"
+      },
+      "artists": [
+        {
+          "name": "En",
+          "url": "https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET"
+        }
+      ],
+      "duration_ms": 253994,
+      "name": "\u56a3\u5f20",
+      "url": "https://open.spotify.com/track/78mWZg7F2XRlOr50Z2rKyv"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "PINK PLANET",
         "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 169127,
       "name": "At My Worst (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "\u56a3\u5f20",
-        "url": "https://open.spotify.com/album/5mW7p3W0I2ZG5pEPdUsfMM"
-      },
-      "artists": [
-        {
-          "name": "En",
-          "url": "https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET"
-        }
-      ],
-      "duration_ms": 253994,
-      "name": "\u56a3\u5f20",
-      "url": "https://open.spotify.com/track/78mWZg7F2XRlOr50Z2rKyv"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Hacia Adentro",
-        "url": "https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 243680,
-      "name": "Sobreviviendo",
-      "url": "https://open.spotify.com/track/1JnlPrlTzmhZ7jX7bPkLPn"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Accetto Miracoli",
         "url": "https://open.spotify.com/album/2OFCijOtzwFMkFNLRdShHw"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 225386,
       "name": "In Mezzo A Questo Inverno",
       "url": "https://open.spotify.com/track/6bMfEx9nIYsmFjiJl6P9NY"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Hacia Adentro",
+        "url": "https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 243680,
+      "name": "Sobreviviendo",
+      "url": "https://open.spotify.com/track/1JnlPrlTzmhZ7jX7bPkLPn"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Te quiero (Versi\u00f3n 2019)",
-        "url": "https://open.spotify.com/album/1xg3IvcDs8TmF05ZdKyNQJ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 230386,
-      "name": "Te quiero - Versi\u00f3n 2019",
-      "url": "https://open.spotify.com/track/4tHfu14rSYrdODVeJIGJ4r"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "criminal",
         "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 157186,
       "name": "criminal",
       "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Te quiero (Versi\u00f3n 2019)",
+        "url": "https://open.spotify.com/album/1xg3IvcDs8TmF05ZdKyNQJ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 230386,
+      "name": "Te quiero - Versi\u00f3n 2019",
+      "url": "https://open.spotify.com/track/4tHfu14rSYrdODVeJIGJ4r"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "How We Love",
-        "url": "https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd"
-      },
-      "artists": [
-        {
-          "name": "Hana Malhas",
-          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "How We Love",
-      "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "You Are",
         "url": "https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 228541,
       "name": "You Are",
       "url": "https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "How We Love",
+        "url": "https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd"
+      },
+      "artists": [
+        {
+          "name": "Hana Malhas",
+          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "How We Love",
+      "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
     },
     {
       "added_at": "2022-10-17 15:00:00",

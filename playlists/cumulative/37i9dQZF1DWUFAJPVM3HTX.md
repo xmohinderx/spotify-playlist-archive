@@ -4,7 +4,7 @@
 
 > The top tracks from Fresh Finds R&B in 2022\. Cover: Dylan Sinclair, Destin Conrad, and Jvck James
 
-905 songs - 1 day 23 hr 9 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
+906 songs - 1 day 23 hr 12 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,8 +309,9 @@
 | [fxck it then](https://open.spotify.com/track/6C6CivPw9ew0qPgvvbSloL) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [fxck it then](https://open.spotify.com/album/5kNYmUqBUNBOvYhV6YqKhC) | 2:15 | 2021-12-01 | 2022-01-13 |
 | [GALAXY OF YOU](https://open.spotify.com/track/2GCWZIRarWaFTGVCDhdPv6) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [GALAXY OF YOU](https://open.spotify.com/album/5Jj0HugoqEcqa6YL3LFBVa) | 2:51 | 2022-08-10 | 2022-09-09 |
 | [Game Day](https://open.spotify.com/track/3d1kYnggNQ2W9SAIL56ry4) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [Game Day](https://open.spotify.com/album/1xuGHcFfBgKVUZ8L0WkMDF) | 2:47 | 2022-09-02 | 2022-10-29 |
-| [Garden](https://open.spotify.com/track/2iV0tCviZeHE073WA8tB2Y) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/7mOkKWGrNLOeD32CdQIPQH) | 2:55 | 2022-11-30 |  |
+| [Garden](https://open.spotify.com/track/2iV0tCviZeHE073WA8tB2Y) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/7mOkKWGrNLOeD32CdQIPQH) | 2:55 | 2022-11-30 | 2022-12-25 |
 | [Garden](https://open.spotify.com/track/3U4lJRdx9MgH42ThXr8GuP) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Garden](https://open.spotify.com/album/3IPCddJutMPZCJHfVeClx5) | 2:55 | 2022-09-21 | 2022-12-01 |
+| [Garden](https://open.spotify.com/track/4nCQ22BkCrnLwNlJUUneTc) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/15qwevfPInT5d4Y0X2I1o0) | 2:55 | 2022-11-30 |  |
 | [Garden](https://open.spotify.com/track/7tqncrBGsGJQqc24e5Ffiv) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Garden](https://open.spotify.com/album/2AZjeSF9UHQkPhyjMXP9aa) | 2:28 | 2022-06-02 | 2022-09-03 |
 | [Get Around to It](https://open.spotify.com/track/7gAKlPw6Y1COhRFgGC5OmN) | [Ruby Jackson](https://open.spotify.com/artist/4NYJSTgWtPpU2aJ4ejXSiL) | [Get Around to It](https://open.spotify.com/album/2E3CYQ5bw3xathwsoJ30re) | 3:58 | 2022-09-02 | 2022-10-06 |
 | [Get Down \- Remix](https://open.spotify.com/track/07KhDx2bD3xRZ5d8spD4hv) | [Nappyhigh](https://open.spotify.com/artist/4MnQuPFIfAFg50h0RmnH0q), [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4), [ihateyouALX](https://open.spotify.com/artist/1ITIh5T2bdvDHALVgbR55O), [Brad Bellard](https://open.spotify.com/artist/4JByW708R736IxNLkuLqNP) | [Get Down](https://open.spotify.com/album/1rguHKpy035r5w04Zm2eEY) | 2:47 | 2022-10-28 | 2022-12-01 |

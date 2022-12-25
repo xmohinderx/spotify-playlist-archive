@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -1101,7 +1101,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 208941,
       "name": "Alli Mia Istoria Tou Dromou - Prod. By Mike G",
       "url": "https://open.spotify.com/track/14z3fLkpNskmbfeO75eMsl"
@@ -2520,6 +2520,28 @@
     },
     {
       "album": {
+        "name": "BIBELO",
+        "url": "https://open.spotify.com/album/79qL2AjywjI6TJt8FJdyaC"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176322,
+      "name": "BIBELO",
+      "url": "https://open.spotify.com/track/1i1rxhc6aNa3Sw99uxMwb4"
+    },
+    {
+      "album": {
         "name": "Big Moves (Vol. 2)",
         "url": "https://open.spotify.com/album/5ZCXG3UTuDFfg1TKsQnIM9"
       },
@@ -2987,7 +3009,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 174653,
       "name": "Bossidonas",
       "url": "https://open.spotify.com/track/5tbMaO9qbA9dMQnoOtRAUR"
@@ -5363,7 +5385,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 182656,
       "name": "Edo Giro - Prod. By Giorgos Orfanidis",
       "url": "https://open.spotify.com/track/5KBwk87AZVQmTHIVnuBR7J"
@@ -9041,7 +9063,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -9971,7 +9993,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 162000,
       "name": "Ksena Meri - Prod. By Dennis Green",
       "url": "https://open.spotify.com/track/1YlOjwSlP5tNIWZ8u9dhtt"
@@ -11163,7 +11185,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 192289,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/3jP6Yx6d8608AU4aIRJsE2"
@@ -16012,6 +16034,24 @@
     },
     {
       "album": {
+        "name": "RAININ'",
+        "url": "https://open.spotify.com/album/0eshx2V8i4tQ0BVSijrLFr"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170433,
+      "name": "RAININ'",
+      "url": "https://open.spotify.com/track/3EgEvLrJm4lOj8ngFH1Xfb"
+    },
+    {
+      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/63C7ZsRNPlS4PZymWqowTn"
       },
@@ -16393,7 +16433,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -16473,7 +16513,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 221127,
       "name": "Rules Are Rules",
       "url": "https://open.spotify.com/track/5zpbXrxF7v5Q82Uh9SHAzn"
@@ -17251,7 +17291,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 123045,
       "name": "Skoni",
       "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"
@@ -19229,7 +19269,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 141803,
       "name": "To Zygi - Prod. By Dimitris Koufoudakis",
       "url": "https://open.spotify.com/track/64np3XaWL8gH3yhsOASost"
@@ -20583,7 +20623,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 141500,
       "name": "We Came for Love",
       "url": "https://open.spotify.com/track/2kIVmLQVNEeZvcH8ZEZmdJ"

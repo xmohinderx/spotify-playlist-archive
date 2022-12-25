@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: poptropicaslutz!
 
-776 songs - 1 day 14 hr 53 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+777 songs - 1 day 14 hr 56 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -648,7 +648,8 @@
 | [Super Soaker](https://open.spotify.com/track/5aPsS8Erp6FBlFSEunU51j) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here’s What You Could Have Won](https://open.spotify.com/album/7xq7v7rW8L7QAgvw5i6Ig8) | 2:58 | 2022-09-22 | 2022-11-11 |
 | [Swear](https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 2:39 | 2022-10-27 |  |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-11 | 2022-04-22 |
-| [Sweet One](https://open.spotify.com/track/07yN3cbIaYw9LOli6iFEuL) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Perpetual States of Boredom](https://open.spotify.com/album/6oRFl2fJkYPBAMyRw6Q3GY) | 2:13 | 2022-10-20 |  |
+| [Sweet One](https://open.spotify.com/track/07yN3cbIaYw9LOli6iFEuL) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Perpetual States of Boredom](https://open.spotify.com/album/6oRFl2fJkYPBAMyRw6Q3GY) | 2:13 | 2022-10-20 | 2022-12-25 |
+| [Sweet One](https://open.spotify.com/track/2keqxI0IrJUrdBbXpswQpI) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Perpetual States of Boredom](https://open.spotify.com/album/0d3mjWzH04Ggs8aS2dfZOl) | 2:13 | 2022-12-09 |  |
 | [switchblade](https://open.spotify.com/track/5f5HlAWAgkfAJA1wK2IkCp) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [switchblade](https://open.spotify.com/album/2VZoxuBGO4qt4r5dgKZi4V) | 2:38 | 2022-04-14 | 2022-05-27 |
 | [Take A Ride \(Lights, Camera, Action\)](https://open.spotify.com/track/22TNVzuLGBBaK9a25K3Lo0) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [The Hunna](https://open.spotify.com/album/6o0Cd4hfhFGnVeYSugnzII) | 3:31 | 2022-10-27 |  |
 | [Take Back Your Voice](https://open.spotify.com/track/7BLCCHWAOIhOawOYwCkuI0) | [Ten Foot Pole](https://open.spotify.com/artist/27HBzx6Ox43GPbWLECgbFW) | [Take Back Your Voice](https://open.spotify.com/album/7fcLIMU8rRFN0v32oPHjiM) | 3:58 | 2022-08-11 | 2022-09-30 |

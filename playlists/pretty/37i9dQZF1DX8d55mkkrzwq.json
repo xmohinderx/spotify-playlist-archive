@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODgyNjgwNiwwMDAwMDAwMDA5Mjg0YzY5NWRkNzI2NjhlZDFiMGE5YTdjY2UyYTMx",
+  "snapshot_id": "MTY0ODgyNjgwNiwwMDAwMDAwMDFlOWQzZjg0YjM2YWM5ZTMxYjMxYTVkNGM3NTY0MDE0",
   "tracks": [
     {
       "added_at": "2022-04-01 15:26:46",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Laurie Berkner's Movement Songs",
-        "url": "https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i"
-      },
-      "artists": [
-        {
-          "name": "The Laurie Berkner Band",
-          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
-        }
-      ],
-      "duration_ms": 186427,
-      "name": "Shake Your Body Down",
-      "url": "https://open.spotify.com/track/41YMpUOoIl9pjM2Hd6kNwr"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
         "name": "Kids Dance Party",
         "url": "https://open.spotify.com/album/7JiXOAemvmJARf7w9WvbsT"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
+        "name": "Laurie Berkner's Movement Songs",
+        "url": "https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "duration_ms": 186427,
+      "name": "Shake Your Body Down",
+      "url": "https://open.spotify.com/track/41YMpUOoIl9pjM2Hd6kNwr"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
         "name": "Do as I'm Doing",
         "url": "https://open.spotify.com/album/169CIBnpB6WtwZWCDgyMgN"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Jump, Wiggle and Hop",
-        "url": "https://open.spotify.com/album/4uJG3vSCOT155ZdrfOsljQ"
-      },
-      "artists": [
-        {
-          "name": "Patty Shukla",
-          "url": "https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc"
-        }
-      ],
-      "duration_ms": 179297,
-      "name": "Hand Jive",
-      "url": "https://open.spotify.com/track/7kslM5r0WXSOBpoZuFlKir"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
         "name": "Scrambled Eggs For All",
         "url": "https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 151780,
       "name": "Do Your Own Dance",
       "url": "https://open.spotify.com/track/5DGIcwi5oNWxrzOnD4IRGE"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Jump, Wiggle and Hop",
+        "url": "https://open.spotify.com/album/4uJG3vSCOT155ZdrfOsljQ"
+      },
+      "artists": [
+        {
+          "name": "Patty Shukla",
+          "url": "https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc"
+        }
+      ],
+      "duration_ms": 179297,
+      "name": "Hand Jive",
+      "url": "https://open.spotify.com/track/7kslM5r0WXSOBpoZuFlKir"
     },
     {
       "added_at": "2022-04-01 15:26:46",

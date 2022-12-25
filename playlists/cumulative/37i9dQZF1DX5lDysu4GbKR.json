@@ -2629,6 +2629,24 @@
     {
       "album": {
         "name": "America / Still (Mahogany Sessions)",
+        "url": "https://open.spotify.com/album/2AIEo0JzqtJX6iyuZWDtqw"
+      },
+      "artists": [
+        {
+          "name": "Noah Slee",
+          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Still - Mahogany Sessions",
+      "url": "https://open.spotify.com/track/3oVKIhOJZwe2BttWt3yYbG"
+    },
+    {
+      "album": {
+        "name": "America / Still (Mahogany Sessions)",
         "url": "https://open.spotify.com/album/5mvlL1QYEbuXfWBCtX3EZL"
       },
       "artists": [
@@ -2643,7 +2661,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 198000,
       "name": "Still - Mahogany Sessions",
       "url": "https://open.spotify.com/track/4YE0W3TgLWGr5lbRjCynfl"

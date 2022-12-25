@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,071 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,163 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 32 | [Still Dancing](https://open.spotify.com/track/39R88egli2YgXq1omv1Io7) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Still Dancing](https://open.spotify.com/album/6eOQ7cXX85wKgIx5S69Ma3) | 3:18 |
 | 33 | [Take You Right Back](https://open.spotify.com/track/56O8jHWDc5Y2oBUKByKA1M) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Take You Right Back](https://open.spotify.com/album/0EHomYzyqS2xlUCWT1hTvz) | 2:51 |
 | 34 | [Swing It Like Roger](https://open.spotify.com/track/3OCotzyyYbf3vNBQ0tZqMR) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [Bend the Rules](https://open.spotify.com/album/3LsbDHcIw87U53Ir0pvrNK) | 3:16 |
-| 35 | [Demon Kitty Rag \- Electro Swing Version](https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR) | [Tori & Dean](https://open.spotify.com/artist/4YjNLeVeRmLimuQeY412jX) | [Demon Kitty Rag \(Electro Swing Version\)](https://open.spotify.com/album/7hyb5bepcY7rlOoG6RV9rJ) | 3:35 |
-| 36 | [Love!](https://open.spotify.com/track/6FU64m12iYGoyhPcFddZCZ) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Love!](https://open.spotify.com/album/73yHKsQVjzgJLgm7htHtWU) | 3:04 |
+| 35 | [Love!](https://open.spotify.com/track/6FU64m12iYGoyhPcFddZCZ) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Love!](https://open.spotify.com/album/73yHKsQVjzgJLgm7htHtWU) | 3:04 |
+| 36 | [Demon Kitty Rag \- Electro Swing Version](https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR) | [Tori & Dean](https://open.spotify.com/artist/4YjNLeVeRmLimuQeY412jX) | [Demon Kitty Rag \(Electro Swing Version\)](https://open.spotify.com/album/7hyb5bepcY7rlOoG6RV9rJ) | 3:35 |
 | 37 | [Boring 20s](https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01) | [Tamela D'Amico](https://open.spotify.com/artist/7GBJeLHS04OjBvxpGMFXYo), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Boring 20s](https://open.spotify.com/album/2AqxV8iRa5sCwT1DHNpcDg) | 2:50 |
 | 38 | [Mambo Rap](https://open.spotify.com/track/14RrzxMs07EhE8bUso5Pso) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Mambo Rap](https://open.spotify.com/album/1WqRiGdw8QFI9yMVqDCEQF) | 3:23 |
 | 39 | [Back in Time](https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [Karina Kappel](https://open.spotify.com/artist/31ufWigY0fDQ8p8EJxvaGH) | [Back in Time](https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw) | 3:18 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 55 | [Wake Up Romeo](https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) | [Wake Up Romeo](https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk) | 3:27 |
 | 56 | [Perfect \(Electro Swing Remix\)](https://open.spotify.com/track/46jrqGkZ9TPqP9u06RMfYq) | [11 Acorn Lane](https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5) | [Ladies Night](https://open.spotify.com/album/37TPTEBX1LA7SrITRlmKxI) | 3:22 |
 | 57 | [So Good](https://open.spotify.com/track/5zoU9m2Xg2fYgVzbuiqdzP) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [So Good](https://open.spotify.com/album/4j5hKLe8PcSammSkht2CHD) | 3:16 |
-| 58 | [Hep Cat Boogie](https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Kate Thomas](https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz) | [Vintage Vibes](https://open.spotify.com/album/6A8DKMCU2OoCTOMpqRnXPp) | 3:22 |
-| 59 | [Superhero](https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w) | [Kormac](https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn), [\(feat\. MC Little Tree\)](https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI) | [Doorsteps](https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w) | 5:28 |
+| 58 | [Superhero](https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w) | [Kormac](https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn), [\(feat\. MC Little Tree\)](https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI) | [Doorsteps](https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w) | 5:28 |
+| 59 | [Hep Cat Boogie](https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Kate Thomas](https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz) | [Vintage Vibes](https://open.spotify.com/album/6A8DKMCU2OoCTOMpqRnXPp) | 3:22 |
 | 60 | [1941 \(feat\. Virian\)](https://open.spotify.com/track/0Mft55GDMuD2rFnrSeFn3U) | [Klaypex](https://open.spotify.com/artist/4HBMToZ4yMR07eiK9IxtjK), [Virian](https://open.spotify.com/artist/5jYBAlIgga7KSy6mZLfHHR) | [Anything Goes](https://open.spotify.com/album/7CksdcNEVK5dAl0hbVAhDQ) | 3:00 |
 | 61 | [Someone New](https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Sonia Elisheva](https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7) | [Someone New](https://open.spotify.com/album/2F3q5N3VhVL3tOYT8uLVzy) | 2:56 |
 | 62 | [Watch Your Tongue](https://open.spotify.com/track/7sHYdGz9OhhGoTvNYDzN9N) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Watch Your Tongue](https://open.spotify.com/album/0VlRMNxmBvdI1wF3LV16Z4) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 74 | [Big Blue Swing](https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Big Blue Swing](https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7) | 3:47 |
 | 75 | [Miss Her](https://open.spotify.com/track/3VpLkugcSbYuDSOBKNxFaQ) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8), [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf) | [Bubbles](https://open.spotify.com/album/73KjLxHjBCmF1MF3Iw5405) | 4:02 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDI0NjY1NjYyMjY3OTc1MDdjZGFhZmVkNTIyNmYyOWYx`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDE4ZDUxZDVlMDY1ZjA1NTM3NDQyNDk0MDhkMWRhMDNj`

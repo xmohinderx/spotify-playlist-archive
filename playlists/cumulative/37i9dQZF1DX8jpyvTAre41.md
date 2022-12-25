@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: Måneskin
 
-518 songs - 1 day 5 hr 5 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
+519 songs - 1 day 5 hr 7 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,8 +416,9 @@
 | [Sonder](https://open.spotify.com/track/75CAy481QzLqCOKggIpsFi) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Sonder](https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20) | 3:20 | 2022-07-22 |  |
 | [Soundtrack to the End of the World](https://open.spotify.com/track/5w5smajWD6cU9yoV8Xup4x) | [The Congregation](https://open.spotify.com/artist/4DNfDn4Cibrj36mVQnVIUd) | [Soundtrack to the End of the World](https://open.spotify.com/album/2rbI0ac0G0WHszqW6wlmG6) | 2:50 | 2022-04-15 | 2022-04-29 |
 | [Spend the Day](https://open.spotify.com/track/1s7qm9rLMu1YBeYF7HSVfY) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Spend the Day](https://open.spotify.com/album/2Q8GGP0SoLwax6l2huOvkR) | 2:31 | 2022-07-15 | 2022-08-20 |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2022-12-23 |  |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-25 | 2022-12-10 |
-| [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-12-09 |  |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-12-09 | 2022-12-25 |
 | [Spit It Out](https://open.spotify.com/track/4aHOrIMyr64uSpXaNzvNFr) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [Spit It Out](https://open.spotify.com/album/1KJA9YhgxH9AXymMoOoIsS) | 4:06 | 2022-05-13 | 2022-06-11 |
 | [Stand 'Em Up \(feat\. What So Not\)](https://open.spotify.com/track/7ABVV0XWwrlu47ktzYrVUs) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [FutureNever](https://open.spotify.com/album/4xRcGN63W9HPNugSZdiTn5) | 3:38 | 2022-04-22 | 2022-05-28 |
 | [Stay Please](https://open.spotify.com/track/7MErMDoBHxRvAn4ptZDNf9) | [The Jins](https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b) | [Stay Please](https://open.spotify.com/album/4X8VBL1hTwgs08Tj1jjiKg) | 3:00 | 2022-09-16 |  |

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,383 songs - 3 day 23 hr 47 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,384 songs - 3 day 23 hr 51 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,7 +517,7 @@
 | [Heart To Heart](https://open.spotify.com/track/2RsBPnEUWSDEkheThXHbIq) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [Hildur Ottilia](https://open.spotify.com/artist/1H2le59U6mjpcoQwuZrmFk) | [Heart To Heart](https://open.spotify.com/album/7u2vHbfkcGaRIfDH91Bl4h) | 4:24 | 2022-09-09 | 2022-12-13 |
 | [Heartaches](https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heartaches](https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3) | 3:27 | 2021-09-10 |  |
 | [Hearts](https://open.spotify.com/track/3vc6u0eaPIsctv1VpYeFJa) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Hearts](https://open.spotify.com/album/1t4uVBcm7ShSfblkB0eqOI) | 4:29 | 2020-03-17 | 2022-04-21 |
-| [Heaven](https://open.spotify.com/track/2hpMzusOFuzMdVEabvJNGI) | [Alex Breitling](https://open.spotify.com/artist/4CBrawfeZ5WugRTqsXgwgI) | [Heaven](https://open.spotify.com/album/3Tr5O6KkzTRETYWxhRzByB) | 5:53 | 2022-04-22 |  |
+| [Heaven](https://open.spotify.com/track/2hpMzusOFuzMdVEabvJNGI) | [Alex Breitling](https://open.spotify.com/artist/4CBrawfeZ5WugRTqsXgwgI) | [Heaven](https://open.spotify.com/album/3Tr5O6KkzTRETYWxhRzByB) | 5:53 | 2022-04-22 | 2022-12-25 |
 | [HEAVEN](https://open.spotify.com/track/227Z9UAmt1YTN1hS7kzZXc) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:39 | 2020-05-18 | 2020-07-03 |
 | [Heaven On Loan](https://open.spotify.com/track/02LZjoWRzIMWwMbFc96697) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [Heaven On Loan](https://open.spotify.com/album/7EBFYT5zLekjjiMCUDQqeS) | 3:43 | 2022-03-18 | 2022-07-29 |
 | [hei](https://open.spotify.com/track/30wTNGjHpvAI9fspMsUpIo) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [hei](https://open.spotify.com/album/12ogBUIRgbSu6v4O6S7zDR) | 4:00 | 2022-08-26 | 2022-09-10 |
@@ -536,6 +536,7 @@
 | [High On Beat](https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [High On Beat](https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP) | 3:26 | 2021-06-05 | 2021-11-13 |
 | [High On Life](https://open.spotify.com/track/7sPTC8zYAKiKAHUkJtq9YC) | [Rodg](https://open.spotify.com/artist/1kb9YssvADeiGvCUwJzbdT) | [High On Life](https://open.spotify.com/album/1OfW4pkj3JPFUFbe2cH6Du) | 3:52 | 2020-05-22 | 2020-07-03 |
 | [High Tide](https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [High Tide](https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO) | 3:17 | 2021-10-22 |  |
+| [Higher Than Nirvana](https://open.spotify.com/track/06IzQHbqze5gZNkpZdndg9) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Higher Than Nirvana](https://open.spotify.com/album/7wjc6spzbsEeF5VRQKuB25) | 3:19 | 2022-12-16 |  |
 | [Hildegard](https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Hildegard](https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG) | 4:41 | 2022-01-21 | 2022-02-12 |
 | [Himalaya](https://open.spotify.com/track/310yA0OSNvWriki14qBLeY) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [V EP](https://open.spotify.com/album/4OYAw3CG6IbsnMPrc1Cxh7) | 4:23 | 2020-05-18 | 2020-07-03 |
 | [Hindsight](https://open.spotify.com/track/1LY3wORUYTg8t2lZ1v6wHq) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2), [SHOR](https://open.spotify.com/artist/7FJqyPALMKAfnwfVAaia1P) | [Hindsight](https://open.spotify.com/album/0g7v1hN2NKpX2act4kuEqv) | 3:42 | 2020-03-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is the best of today's true alternative rock scene.",
-  "num_followers": 469176,
+  "num_followers": 469215,
   "original_name": "New Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDg2MCwwMDAwMDAwMGEzMzljOTllYjViYWE5NjIzZTk2MzJhNzJlYmU5N2Qy",
+  "snapshot_id": "MTY1MTIwNDg2MCwwMDAwMDAwMDZjOTBjZWJhMDQ4MTYzMTk1ZTZlMjQ2N2QzMjc1ZmFi",
   "tracks": [
     {
       "added_at": "2022-04-29 04:01:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "-!-",
-        "url": "https://open.spotify.com/album/00NKrA90xCjPCMvR0CdvVl"
-      },
-      "artists": [
-        {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
-        }
-      ],
-      "duration_ms": 261680,
-      "name": "I Never Loved Myself Like I Loved You",
-      "url": "https://open.spotify.com/track/1ue6hDpQnActsuH661uCYR"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 236933,
       "name": "Typhoons",
       "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "-!-",
+        "url": "https://open.spotify.com/album/00NKrA90xCjPCMvR0CdvVl"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "duration_ms": 261680,
+      "name": "I Never Loved Myself Like I Loved You",
+      "url": "https://open.spotify.com/track/1ue6hDpQnActsuH661uCYR"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Night Gnomes",
-        "url": "https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt"
-      },
-      "artists": [
-        {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
-        }
-      ],
-      "duration_ms": 190543,
-      "name": "Bubblegum Infinity",
-      "url": "https://open.spotify.com/track/3et7oRd1VMvQ3805uuor7N"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Get Out Of My Life",
         "url": "https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o"
       },
@@ -923,22 +907,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Sego Sucks",
-        "url": "https://open.spotify.com/album/2VawrqRSehemq0YlVuZgCB"
-      },
-      "artists": [
-        {
-          "name": "Sego",
-          "url": "https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/2cLWsAvGFe41Jz6oJWkRFg"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Gaslight",
         "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
       },
@@ -951,6 +919,22 @@
       "duration_ms": 173314,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Sego Sucks",
+        "url": "https://open.spotify.com/album/2VawrqRSehemq0YlVuZgCB"
+      },
+      "artists": [
+        {
+          "name": "Sego",
+          "url": "https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj"
+        }
+      ],
+      "duration_ms": 200080,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/2cLWsAvGFe41Jz6oJWkRFg"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1123,22 +1107,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Welcome to Silvertown",
-        "url": "https://open.spotify.com/album/3aYOZUrvSmkzFKxWXdJphY"
-      },
-      "artists": [
-        {
-          "name": "Saint Agnes",
-          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Welcome to Silvertown",
-      "url": "https://open.spotify.com/track/3Vm5T4ZUrPXXkJ5YXqfvMX"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Seven White Horses",
         "url": "https://open.spotify.com/album/5LmBmJwqcsNY449vAXp4fB"
       },
@@ -1151,6 +1119,22 @@
       "duration_ms": 220816,
       "name": "Seven White Horses",
       "url": "https://open.spotify.com/track/6u8CUELC9atvWHvioAZeKI"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Welcome to Silvertown",
+        "url": "https://open.spotify.com/album/3aYOZUrvSmkzFKxWXdJphY"
+      },
+      "artists": [
+        {
+          "name": "Saint Agnes",
+          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Welcome to Silvertown",
+      "url": "https://open.spotify.com/track/3Vm5T4ZUrPXXkJ5YXqfvMX"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1319,22 +1303,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4"
-      },
-      "artists": [
-        {
-          "name": "Daphne's Couch",
-          "url": "https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq"
-        }
-      ],
-      "duration_ms": 166834,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Earth Is A Black Hole",
         "url": "https://open.spotify.com/album/2oRaxJoPECqRRpQ9PK2UVA"
       },
@@ -1347,6 +1315,22 @@
       "duration_ms": 175577,
       "name": "Earth Is A Black Hole",
       "url": "https://open.spotify.com/track/7eaEaXAiGR3i3LUJUDRRXc"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4"
+      },
+      "artists": [
+        {
+          "name": "Daphne's Couch",
+          "url": "https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq"
+        }
+      ],
+      "duration_ms": 166834,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1399,22 +1383,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/4gjHlfP5ER93yV0OlPXTty"
-      },
-      "artists": [
-        {
-          "name": "Mouth Culture",
-          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
-        }
-      ],
-      "duration_ms": 197777,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/6MykakiRHTZLF9zmCEtWBD"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Stop Beating on My Heart (Like a Bass Drum)",
         "url": "https://open.spotify.com/album/6N9Bxp8BX6qg4BMzl0e56v"
       },
@@ -1427,6 +1395,22 @@
       "duration_ms": 225068,
       "name": "Stop Beating on My Heart (Like a Bass Drum)",
       "url": "https://open.spotify.com/track/04HJIfLxIrxYsIHneUuDre"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/4gjHlfP5ER93yV0OlPXTty"
+      },
+      "artists": [
+        {
+          "name": "Mouth Culture",
+          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
+        }
+      ],
+      "duration_ms": 197777,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/6MykakiRHTZLF9zmCEtWBD"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1639,6 +1623,22 @@
       "duration_ms": 187666,
       "name": "New Comedown",
       "url": "https://open.spotify.com/track/4kbBYfLMIfzAnt9WoSDmvS"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Godsend",
+        "url": "https://open.spotify.com/album/1BIiMBKDK1K2kNE3SzJM3k"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "duration_ms": 262453,
+      "name": "Godsend",
+      "url": "https://open.spotify.com/track/6a9yNu5Nlc1xezZjHAzj0C"
     }
   ],
   "unique_name": "New Alt-Rock Mixtape",

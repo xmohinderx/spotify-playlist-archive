@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 59765,
+  "num_followers": 59803,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1MDYyMiwwMDAwMDAwMGEyZDk5NjQxM2IyOGMzYWY3YzFkY2FkNTc0MzFlZmE1",
+  "snapshot_id": "MTY3MTU1MDYyMiwwMDAwMDAwMDRlNjdkNDVkYzIxOThiMWFlZWYzZTEzNGE2NWY2MmRi",
   "tracks": [
     {
       "added_at": "2022-12-20 15:37:02",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-12-20 15:37:02",
       "album": {
-        "name": "Four Leaf Ring",
-        "url": "https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR"
+        "name": "100%\u30cf\u30d4\u30cd\u30b9",
+        "url": "https://open.spotify.com/album/2PrKTNIToXC8a8oZLAAQOG"
       },
       "artists": [
         {
-          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
-          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
+          "name": "\u767e (CV.\u4fdd\u5fd7\u7dcf\u4e00\u6717)",
+          "url": "https://open.spotify.com/artist/3pn6k1AxOtm76sgtZZbmk9"
         }
       ],
-      "duration_ms": 267146,
-      "name": "Four Leaf Ring",
-      "url": "https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV"
+      "duration_ms": 269160,
+      "name": "100%\u30cf\u30d4\u30cd\u30b9",
+      "url": "https://open.spotify.com/track/5UNiqysZNXw5IBHnMQ5G4w"
     },
     {
       "added_at": "2022-12-20 15:37:02",
@@ -479,18 +479,18 @@
     {
       "added_at": "2022-12-20 15:37:02",
       "album": {
-        "name": "100%\u30cf\u30d4\u30cd\u30b9",
-        "url": "https://open.spotify.com/album/2PrKTNIToXC8a8oZLAAQOG"
+        "name": "Four Leaf Ring",
+        "url": "https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR"
       },
       "artists": [
         {
-          "name": "\u767e (CV.\u4fdd\u5fd7\u7dcf\u4e00\u6717)",
-          "url": "https://open.spotify.com/artist/3pn6k1AxOtm76sgtZZbmk9"
+          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
+          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
         }
       ],
-      "duration_ms": 269160,
-      "name": "100%\u30cf\u30d4\u30cd\u30b9",
-      "url": "https://open.spotify.com/track/5UNiqysZNXw5IBHnMQ5G4w"
+      "duration_ms": 267146,
+      "name": "Four Leaf Ring",
+      "url": "https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV"
     },
     {
       "added_at": "2022-12-20 15:37:02",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-12-20 15:37:02",
       "album": {
-        "name": "My Precious World",
-        "url": "https://open.spotify.com/album/7Hl7VHWsWdBRFe7pS2OrXk"
-      },
-      "artists": [
-        {
-          "name": "TRIGGER",
-          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "My Precious World",
-      "url": "https://open.spotify.com/track/2BBSxqfQ0Tl24L9smDc7Yb"
-    },
-    {
-      "added_at": "2022-12-20 15:37:02",
-      "album": {
         "name": "Bang!Bang!Bang!",
         "url": "https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 261213,
       "name": "Bang!Bang!Bang!",
       "url": "https://open.spotify.com/track/0ZuhTLqnLM5lGQV4k7eZGT"
+    },
+    {
+      "added_at": "2022-12-20 15:37:02",
+      "album": {
+        "name": "My Precious World",
+        "url": "https://open.spotify.com/album/7Hl7VHWsWdBRFe7pS2OrXk"
+      },
+      "artists": [
+        {
+          "name": "TRIGGER",
+          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "My Precious World",
+      "url": "https://open.spotify.com/track/2BBSxqfQ0Tl24L9smDc7Yb"
     },
     {
       "added_at": "2022-12-20 15:37:02",

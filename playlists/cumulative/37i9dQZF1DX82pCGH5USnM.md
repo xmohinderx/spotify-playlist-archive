@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-656 songs - 1 day 14 hr 10 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
+657 songs - 1 day 14 hr 13 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,8 @@
 | [In Possession](https://open.spotify.com/track/1T3SCC0SCXXQ2zM66OFHnu) | [Fatehug](https://open.spotify.com/artist/0jYk4v9wqQ2HpvlrRJmEWl) | [In Possession](https://open.spotify.com/album/33lT3cyAluAQZsvQ6iTbG0) | 2:31 | 2022-12-09 |  |
 | [In the Morning We Shine](https://open.spotify.com/track/0Mw8IH4cKB3Ldnuh61Ro5h) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Aerial Navigation](https://open.spotify.com/album/6jjVN8tN951F1YaJdYC6lw) | 5:50 | 2020-04-07 | 2020-05-06 |
 | [In This Together](https://open.spotify.com/track/6I7lRMp9DcBxWQkUVY7kRW) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [In This Together](https://open.spotify.com/album/3HZMaVLmEIXqSNjhsTjrmD) | 2:49 | 2020-04-03\* | 2022-04-06 |
-| [Indi](https://open.spotify.com/track/7zeOr0r8bQO5BO9Om7BuAt) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/37iP4wnkJE5ImiW2Q94nKx) | 3:20 | 2022-08-12 |  |
+| [Indi](https://open.spotify.com/track/6myfz5g9b9U6bQSr4XcKGu) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/3eFlBkbtH9AiyEXXr0YBeT) | 3:20 | 2022-12-23 |  |
+| [Indi](https://open.spotify.com/track/7zeOr0r8bQO5BO9Om7BuAt) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/37iP4wnkJE5ImiW2Q94nKx) | 3:20 | 2022-08-12 | 2022-12-25 |
 | [Indigo](https://open.spotify.com/track/5v5pd290c4Gfdc8zFg7b31) | [Vee Jay](https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl) | [Indigo](https://open.spotify.com/album/7FSDgHsFvuoSkLmJqWifn0) | 2:23 | 2022-08-05 |  |
 | [INFINITE](https://open.spotify.com/track/3soQNBnujuHVriffjZJ6jU) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Voyage](https://open.spotify.com/album/6tEXhsto6ziBVo7OLHUfPn) | 4:02 | 2020-04-03\* | 2021-03-06 |
 | [Inga\-lill \- Edit](https://open.spotify.com/track/2nw0tw9i8BCEwGQyQkXcT6) | [Gabriel Minguez](https://open.spotify.com/artist/5JPB9dyLZWIsWZAubEn4YM) | [Inga\-lill](https://open.spotify.com/album/42LrBaAf5xLDvMpFA1mqQJ) | 4:50 | 2020-04-03\* | 2020-12-09 |

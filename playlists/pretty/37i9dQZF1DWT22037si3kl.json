@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: MD Chefe, DomLaike, Rare G, 4Genesis, Cax Camp",
-  "num_followers": 74655,
+  "num_followers": 74840,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQ2MCwwMDAwMDAwMDExYWE1MGI5YzQ0ZWE3NTNkMzFiZjk3OTZiODMzY2Fm",
+  "snapshot_id": "MTY3MTc2NDQ2MCwwMDAwMDAwMGZjNWUwYjU1MWE3MGNlZTI4MGI1ZmE0MTgyYmY1NDVk",
   "tracks": [
     {
       "added_at": "2022-12-23 03:01:00",
@@ -663,6 +663,30 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
+        "name": "Dolce & Gabbana",
+        "url": "https://open.spotify.com/album/2JhwjvmOEdWLGx78QladVw"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 145307,
+      "name": "Dolce & Gabbana",
+      "url": "https://open.spotify.com/track/3M132kZMsHNU0KaBwn85HY"
+    },
+    {
+      "added_at": "2022-12-23 03:01:00",
+      "album": {
         "name": "Londres Freestyle",
         "url": "https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU"
       },
@@ -687,30 +711,6 @@
       "duration_ms": 128000,
       "name": "Londres Freestyle",
       "url": "https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr"
-    },
-    {
-      "added_at": "2022-12-23 03:01:00",
-      "album": {
-        "name": "Dolce & Gabbana",
-        "url": "https://open.spotify.com/album/2JhwjvmOEdWLGx78QladVw"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 145307,
-      "name": "Dolce & Gabbana",
-      "url": "https://open.spotify.com/track/3M132kZMsHNU0KaBwn85HY"
     },
     {
       "added_at": "2022-12-23 03:01:00",
@@ -1151,26 +1151,22 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
-        "name": "Rajad\u00e3o",
-        "url": "https://open.spotify.com/album/6GsFdEZ4cKfrZLSp7U4Cbk"
+        "name": "Meu Carro na Pista",
+        "url": "https://open.spotify.com/album/2v9St64Ky2ag2jZ5JLgPZV"
       },
       "artists": [
         {
-          "name": "Jhow",
-          "url": "https://open.spotify.com/artist/53lrUpwDAdUp9ix7Xotwgy"
+          "name": "DANK",
+          "url": "https://open.spotify.com/artist/7tDjxyXj7EWdnnpAVwr2zM"
         },
         {
-          "name": "DreamHou$e",
-          "url": "https://open.spotify.com/artist/6tWD8u5kp6Fab82ziFL3mH"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
         }
       ],
-      "duration_ms": 156409,
-      "name": "Rajad\u00e3o",
-      "url": "https://open.spotify.com/track/7jmuBk1yOqprmak8PCgd1t"
+      "duration_ms": 144626,
+      "name": "Meu Carro na Pista",
+      "url": "https://open.spotify.com/track/0K9HKdZMguk6mQI8YIYBlK"
     },
     {
       "added_at": "2022-12-23 03:01:00",
@@ -1195,22 +1191,26 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
-        "name": "Meu Carro na Pista",
-        "url": "https://open.spotify.com/album/2v9St64Ky2ag2jZ5JLgPZV"
+        "name": "Rajad\u00e3o",
+        "url": "https://open.spotify.com/album/6GsFdEZ4cKfrZLSp7U4Cbk"
       },
       "artists": [
         {
-          "name": "DANK",
-          "url": "https://open.spotify.com/artist/7tDjxyXj7EWdnnpAVwr2zM"
+          "name": "Jhow",
+          "url": "https://open.spotify.com/artist/53lrUpwDAdUp9ix7Xotwgy"
         },
         {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+          "name": "DreamHou$e",
+          "url": "https://open.spotify.com/artist/6tWD8u5kp6Fab82ziFL3mH"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
         }
       ],
-      "duration_ms": 144626,
-      "name": "Meu Carro na Pista",
-      "url": "https://open.spotify.com/track/0K9HKdZMguk6mQI8YIYBlK"
+      "duration_ms": 156409,
+      "name": "Rajad\u00e3o",
+      "url": "https://open.spotify.com/track/7jmuBk1yOqprmak8PCgd1t"
     }
   ],
   "unique_name": "O Drip",

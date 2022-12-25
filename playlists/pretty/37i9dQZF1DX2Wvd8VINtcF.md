@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,373 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,389 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 18 | [In My Head \- Rebecca & Fiona Remix](https://open.spotify.com/track/35cwWivFvXLzwJfKlvbK0A) | [First Hate](https://open.spotify.com/artist/5HOnVNfQ1FvMzZN2NEuNhP), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [The Remix Experience](https://open.spotify.com/album/4UV7rf3N4fllR4vBHjdbin) | 4:31 |
 | 19 | [Welcome To My Island](https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Welcome To My Island](https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI) | 3:53 |
 | 20 | [Good Enough](https://open.spotify.com/track/5ubhHVO4Zk3Z5rEc067YBB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Good Enough](https://open.spotify.com/album/5a79iYbVq5Gpor4febLhQP) | 3:08 |
-| 21 | [Don't Cry \- TSHA Remix](https://open.spotify.com/track/5g8E1VkpYMZsANTTnzA86V) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Model Man \(The Remixes\)](https://open.spotify.com/album/5BMHuEgQSBbYGKhrsHVLea) | 4:42 |
+| 21 | [Don't Cry \- TSHA Remix](https://open.spotify.com/track/05ASZoQqSsG6jt90A0iZTA) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [Teisha Matthews](https://open.spotify.com/artist/4vV9KyDKHar5V4Jut94Yho) | [Model Man \(The Remixes\)](https://open.spotify.com/album/1YnetvzaxossTYOMeD1gB0) | 4:42 |
 | 22 | [She Don't Wanna Talk](https://open.spotify.com/track/2Of1FPGtBIZ7XFDOxTzDdS) | [Hey Damian!](https://open.spotify.com/artist/332FeKtYNS9dPXR8SE2amj) | [She Don't Wanna Talk](https://open.spotify.com/album/5D3Og795pQlmc8wzTXt9cy) | 2:38 |
 | 23 | [Everything Eventually Ends](https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Everything Eventually Ends](https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4) | 2:57 |
 | 24 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 99 | [Another Life](https://open.spotify.com/track/4QFsE5gOxgZ2FUfvD12KH5) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Another Life](https://open.spotify.com/album/6fxuLoc2x5pmPpenLsONtv) | 3:56 |
 | 100 | [ATK](https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [ATK](https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH) | 4:05 |
 
-Snapshot ID: `MTY3MTc5NTEwNCwwMDAwMDAwMDZiN2QwOWRmNDc2ZWU2NzllNjlmZGMxNGIxZGQwMWJi`
+Snapshot ID: `MTY3MTc5NTEwNCwwMDAwMDAwMGZjMjU1ZDJiOTFmOWYzMjM1MTliYmFlYWNiMGJhNjdk`

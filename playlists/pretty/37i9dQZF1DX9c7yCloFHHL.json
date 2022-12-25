@@ -1,12 +1,12 @@
 {
   "description": "The most popular Ambient tracks in 2022. ",
-  "num_followers": 113913,
+  "num_followers": 114035,
   "original_name": "Best of Ambiente 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTkwMCwwMDAwMDAwMDViYmE4ODRlNjE0YmZjNTU5ZDI0ZDUyNjM3OTMyMGRh",
+  "snapshot_id": "MTY2OTgxNTkwMCwwMDAwMDAwMDM5YjYxNDI5NThhNGJlNjc0NTRhZWM4NzM2ZThlNjA1",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Owls",
+        "url": "https://open.spotify.com/album/4y9qF03bF30CXAK0qwzoLI"
+      },
+      "artists": [
+        {
+          "name": "Samuel Powell",
+          "url": "https://open.spotify.com/artist/1qb9AWGLwoHz2r3eQYPmIG"
+        }
+      ],
+      "duration_ms": 242880,
+      "name": "Owls",
+      "url": "https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Monomom",
         "url": "https://open.spotify.com/album/2IdpCfBJCkX4GnY99B0MqW"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 331520,
       "name": "Monomom",
       "url": "https://open.spotify.com/track/083hSYQL8F0UScdHIXDBTN"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Owls",
-        "url": "https://open.spotify.com/album/4y9qF03bF30CXAK0qwzoLI"
-      },
-      "artists": [
-        {
-          "name": "Samuel Powell",
-          "url": "https://open.spotify.com/artist/1qb9AWGLwoHz2r3eQYPmIG"
-        }
-      ],
-      "duration_ms": 242880,
-      "name": "Owls",
-      "url": "https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "atomic bombs atomic bonds i love you",
-        "url": "https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r"
-      },
-      "artists": [
-        {
-          "name": "Askjell",
-          "url": "https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F"
-        }
-      ],
-      "duration_ms": 327600,
-      "name": "atomic bombs atomic bonds i love you",
-      "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 199058,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "atomic bombs atomic bonds i love you",
+        "url": "https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r"
+      },
+      "artists": [
+        {
+          "name": "Askjell",
+          "url": "https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F"
+        }
+      ],
+      "duration_ms": 327600,
+      "name": "atomic bombs atomic bonds i love you",
+      "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "I Remember You Like the Best Song",
+        "url": "https://open.spotify.com/album/3eWjndQQuRh7iRJpPPqifL"
+      },
+      "artists": [
+        {
+          "name": "Anenon",
+          "url": "https://open.spotify.com/artist/1nDzzoDVAeT9c5PkreI1yI"
+        }
+      ],
+      "duration_ms": 1077812,
+      "name": "I Remember You Like the Best Song",
+      "url": "https://open.spotify.com/track/0NKexfIeqfKHetCuMyuwJ7"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "TKATC",
         "url": "https://open.spotify.com/album/2nfA8gAjH3snXaMXm4bMU0"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 230066,
       "name": "TKATC",
       "url": "https://open.spotify.com/track/5hb4rFD4iNfqOlK1tHCHHt"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "I Remember You Like the Best Song",
-        "url": "https://open.spotify.com/album/3eWjndQQuRh7iRJpPPqifL"
-      },
-      "artists": [
-        {
-          "name": "Anenon",
-          "url": "https://open.spotify.com/artist/1nDzzoDVAeT9c5PkreI1yI"
-        }
-      ],
-      "duration_ms": 1077812,
-      "name": "I Remember You Like the Best Song",
-      "url": "https://open.spotify.com/track/0NKexfIeqfKHetCuMyuwJ7"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Glass Ripples",
-        "url": "https://open.spotify.com/album/0RkuycEp2BX9cmfoWQHrxT"
-      },
-      "artists": [
-        {
-          "name": "Himalayan Beach Ensemble",
-          "url": "https://open.spotify.com/artist/2mbmAHLUOR1DnyW3i2fu8o"
-        }
-      ],
-      "duration_ms": 149607,
-      "name": "Glass Ripples",
-      "url": "https://open.spotify.com/track/54pqtuZ9QEVKpQreLP1mh6"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Postcards",
         "url": "https://open.spotify.com/album/5s8tUuZ4mZDKvuETg8sdjo"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 217714,
       "name": "Ballad of a Sleepless Traveler",
       "url": "https://open.spotify.com/track/2L3UVm6BDNZGwv54TgcmSV"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Glass Ripples",
+        "url": "https://open.spotify.com/album/0RkuycEp2BX9cmfoWQHrxT"
+      },
+      "artists": [
+        {
+          "name": "Himalayan Beach Ensemble",
+          "url": "https://open.spotify.com/artist/2mbmAHLUOR1DnyW3i2fu8o"
+        }
+      ],
+      "duration_ms": 149607,
+      "name": "Glass Ripples",
+      "url": "https://open.spotify.com/track/54pqtuZ9QEVKpQreLP1mh6"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Insula",
-        "url": "https://open.spotify.com/album/0ATWho0WmSadHHvkYp6DdE"
-      },
-      "artists": [
-        {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
-        }
-      ],
-      "duration_ms": 241465,
-      "name": "34-46",
-      "url": "https://open.spotify.com/track/12OE00ciFg4FWrZY1sw1L2"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Purples (Live)",
         "url": "https://open.spotify.com/album/76DiyrxUsjI52JBcFq1TgY"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 450000,
       "name": "Purples - Live",
       "url": "https://open.spotify.com/track/0bNg765s4JOqt3QpaLtbLu"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Insula",
+        "url": "https://open.spotify.com/album/0ATWho0WmSadHHvkYp6DdE"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 241465,
+      "name": "34-46",
+      "url": "https://open.spotify.com/track/12OE00ciFg4FWrZY1sw1L2"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -983,6 +983,30 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "One And The Same",
+        "url": "https://open.spotify.com/album/2pPTwNuKuQ8E32oguodAjH"
+      },
+      "artists": [
+        {
+          "name": "Lissom",
+          "url": "https://open.spotify.com/artist/5BRxWwvhe1BxvK6fs4V0dx"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
+        },
+        {
+          "name": "Lowswimmer",
+          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
+        }
+      ],
+      "duration_ms": 177932,
+      "name": "One And The Same - Instrumental",
+      "url": "https://open.spotify.com/track/5i5DIQNxQikL9rf7Hw2P8B"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Zorza",
         "url": "https://open.spotify.com/album/78jXl5IqUjWoX4uA5tN3o6"
       },
@@ -995,22 +1019,6 @@
       "duration_ms": 336000,
       "name": "Zorza",
       "url": "https://open.spotify.com/track/4n0L5PdzC1L0jvvBdkfYEj"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Northern Skies",
-        "url": "https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0"
-      },
-      "artists": [
-        {
-          "name": "Ken Verheecke",
-          "url": "https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "1969",
-      "url": "https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1055,26 +1063,18 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "One And The Same",
-        "url": "https://open.spotify.com/album/2pPTwNuKuQ8E32oguodAjH"
+        "name": "Northern Skies",
+        "url": "https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0"
       },
       "artists": [
         {
-          "name": "Lissom",
-          "url": "https://open.spotify.com/artist/5BRxWwvhe1BxvK6fs4V0dx"
-        },
-        {
-          "name": "Julien Marchal",
-          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
-        },
-        {
-          "name": "Lowswimmer",
-          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
+          "name": "Ken Verheecke",
+          "url": "https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl"
         }
       ],
-      "duration_ms": 177932,
-      "name": "One And The Same - Instrumental",
-      "url": "https://open.spotify.com/track/5i5DIQNxQikL9rf7Hw2P8B"
+      "duration_ms": 170000,
+      "name": "1969",
+      "url": "https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "O Woods / Wake",
-        "url": "https://open.spotify.com/album/1voNqheGLAG4jd34kt38FS"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 681500,
-      "name": "O Woods",
-      "url": "https://open.spotify.com/track/5BxnSpD1nOMzISYOTUmPzJ"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Shortwave Memories",
         "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 249672,
       "name": "Formanta",
       "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "O Woods / Wake",
+        "url": "https://open.spotify.com/album/1voNqheGLAG4jd34kt38FS"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 681500,
+      "name": "O Woods",
+      "url": "https://open.spotify.com/track/5BxnSpD1nOMzISYOTUmPzJ"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Persona (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4J7oRjeqqBkz1JQ1GZP8j7"
+      },
+      "artists": [
+        {
+          "name": "Kyle Preston",
+          "url": "https://open.spotify.com/artist/4y34hJ1oLcRl5wOn7FnhX8"
+        }
+      ],
+      "duration_ms": 256926,
+      "name": "Alzheimer's Disease (Floor 1)",
+      "url": "https://open.spotify.com/track/644RtTy8O2hT4zpF5BSVTA"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "The Next Billion Years (Foam and Sand Reworks)",
         "url": "https://open.spotify.com/album/4KZmOzxvjx1pwCaLrdgvqm"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 290847,
       "name": "Post String Theory - Foam and Sand Rework",
       "url": "https://open.spotify.com/track/2UMYEU7Stut50T9S9fel4r"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Persona (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4J7oRjeqqBkz1JQ1GZP8j7"
-      },
-      "artists": [
-        {
-          "name": "Kyle Preston",
-          "url": "https://open.spotify.com/artist/4y34hJ1oLcRl5wOn7FnhX8"
-        }
-      ],
-      "duration_ms": 256926,
-      "name": "Alzheimer's Disease (Floor 1)",
-      "url": "https://open.spotify.com/track/644RtTy8O2hT4zpF5BSVTA"
     },
     {
       "added_at": "2022-11-30 13:45:00",

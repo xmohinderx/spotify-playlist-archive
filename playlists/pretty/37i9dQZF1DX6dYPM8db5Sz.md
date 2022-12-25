@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The freshest South African indie music\. Cover: <a href="https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH?si=kKwhOTwZSb67txT6pxokGg">Nakhane</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,256 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,260 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

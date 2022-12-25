@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos que no sab\u00edas que eran covers para disfrutar con pap\u00e1.",
-  "num_followers": 59088,
+  "num_followers": 59108,
   "original_name": "Covers Padres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTUyNTA3NiwwMDAwMDAwMDg0ZDY4ODA0ZjFjOGJjNTg0NDY3NmQ4NWQ0OTA3YWIz",
+  "snapshot_id": "MTYzNTUyNTA3NiwwMDAwMDAwMDNlNGJkMDVhMTZkNDhhMTMwNTQ2OWU3YTUwNjQ1Y2E2",
   "tracks": [
     {
       "added_at": "2021-10-29 16:31:16",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
+        "name": "Resistance Radio: The Man in the High Castle Album",
+        "url": "https://open.spotify.com/album/3Dn3xwT7mCdnG81G6iMMEJ"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/72kaYFXcFXeCOP5Q4HqoSN"
+        }
+      ],
+      "duration_ms": 193194,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/5bLWWo2SeuRzwnfVOms336"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
         "name": "Nu Funk",
         "url": "https://open.spotify.com/album/4m0tTmOODI4Is44HefPOYk"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 200000,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/33JtNLiczBlcVTAzxRqXEv"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
-        "name": "Resistance Radio: The Man in the High Castle Album",
-        "url": "https://open.spotify.com/album/3Dn3xwT7mCdnG81G6iMMEJ"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/72kaYFXcFXeCOP5Q4HqoSN"
-        }
-      ],
-      "duration_ms": 193194,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/5bLWWo2SeuRzwnfVOms336"
     }
   ],
   "unique_name": "Covers Padres",

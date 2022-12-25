@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-226 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
+227 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Barracudas](https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Barracudas EP](https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ) | 4:13 | 2021-12-09 |  |
 | [Be Your Home](https://open.spotify.com/track/0BMyWJ75QwSyKuVUeOQWwg) | [minite](https://open.spotify.com/artist/7pKvjpj0hmP1nnj34y9TlY) | [Be Your Home](https://open.spotify.com/album/3hcUBBnPFGeadvkuUi5So3) | 2:31 | 2021-12-09 | 2022-07-29 |
 | [Be Your Home](https://open.spotify.com/track/4CwnUUiKf86h7nu11EFTat) | [minite](https://open.spotify.com/artist/7pKvjpj0hmP1nnj34y9TlY) | [Be Your Home](https://open.spotify.com/album/5pMZbZNmxPdVp7gL5zvj3M) | 2:31 | 2022-06-02 |  |
+| [Beautiful Days](https://open.spotify.com/track/3VkSrMcKCi4CSXoNiSqnZd) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Beautiful Days](https://open.spotify.com/album/7L61BSNJHk6KbiXS4SyYO3) | 2:41 | 2022-11-25 |  |
 | [Before](https://open.spotify.com/track/4jnryVYgyBPM6yxZQLFzJT) | [Fresh Faces](https://open.spotify.com/artist/054OEgiAhYwnqHQOV2KmSc) | [Before](https://open.spotify.com/album/0ZgzhNN2wnyVnDjlRKi0vK) | 2:34 | 2022-03-25 | 2022-06-08 |
 | [Beyond Beliefs](https://open.spotify.com/track/58ney0bG2Vwecj8QzNGRkV) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 5:13 | 2021-12-09 |  |
 | [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 | 2022-08-05 |  |
@@ -63,7 +64,7 @@
 | [Distance](https://open.spotify.com/track/1t7dnSgClxQdMB4NYonJLn) | [Dreweybear](https://open.spotify.com/artist/5HDqj7lexto9EPJ42uS2dM) | [Distance](https://open.spotify.com/album/4CT0135sHX4XqxcZk2TYx9) | 3:49 | 2021-12-09 | 2022-07-27 |
 | [don't be so hard on yourself](https://open.spotify.com/track/0j69d3zENO7ZVjplwetmQp) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [it's good to hear your voice](https://open.spotify.com/album/5gaYJvbHf1NlOScEQvUSzZ) | 2:25 | 2022-03-25 | 2022-04-21 |
 | [Don't Tell Me I Can't Have It](https://open.spotify.com/track/7DdrHlmyfDmAibdAbEdYIu) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [Don't Tell Me I Can't Have It](https://open.spotify.com/album/4YyslwvTvE2qpL1zXdNrUx) | 3:07 | 2022-05-20 |  |
-| [Don't Worry](https://open.spotify.com/track/1a6r66Fc1mvkgQ4A2XP5Mk) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Don't Worry](https://open.spotify.com/album/3GJxRhegDoOkFd727RlTS1) | 2:24 | 2022-05-20 |  |
+| [Don't Worry](https://open.spotify.com/track/1a6r66Fc1mvkgQ4A2XP5Mk) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Don't Worry](https://open.spotify.com/album/3GJxRhegDoOkFd727RlTS1) | 2:24 | 2022-05-20 | 2022-12-25 |
 | [Don’t Worry](https://open.spotify.com/track/3velQ2xk4VMEb5No5W3bkQ) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Don’t Worry](https://open.spotify.com/album/2UZuAyYd1pTF1puvlQ2W4c) | 4:36 | 2021-12-09 |  |
 | [Doubts](https://open.spotify.com/track/10Iafk2IS4TyUsfP4C4kPE) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Down Here with You](https://open.spotify.com/album/6WqF77ilKp8ui2RlGIYmAp) | 3:15 | 2021-12-09 | 2022-02-27 |
 | [dustland](https://open.spotify.com/track/27H4C3bLGGAIm5vSXDosVy) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [dustland](https://open.spotify.com/album/2fFsnUpoimIqQSeaBPGTC2) | 2:41 | 2022-02-26 | 2022-11-27 |

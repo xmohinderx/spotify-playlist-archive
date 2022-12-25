@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea & Nino Josele",
-  "num_followers": 167991,
+  "num_followers": 168047,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDVjOWFmOTk1NjhiMDBmYTEwMGIyMDkxMWRmNTZmMjll",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGU2YzEyYzM5YWE5MThhYzNkNjIzN2NiOGFhY2NiODU1",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -111,22 +111,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Asian Dreamer",
-        "url": "https://open.spotify.com/album/2brs79CBxiApvCNRM880RA"
-      },
-      "artists": [
-        {
-          "name": "CASIOPEA",
-          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
-        }
-      ],
-      "duration_ms": 278240,
-      "name": "Midnight Rendezvous",
-      "url": "https://open.spotify.com/track/5dxRmXw3CeUEvWeALoJ1b2"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "The Aristocrats",
         "url": "https://open.spotify.com/album/7GKzcJbW0Qernh0Xab1bIf"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 353666,
       "name": "Bad Asteroid",
       "url": "https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Asian Dreamer",
+        "url": "https://open.spotify.com/album/2brs79CBxiApvCNRM880RA"
+      },
+      "artists": [
+        {
+          "name": "CASIOPEA",
+          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
+        }
+      ],
+      "duration_ms": 278240,
+      "name": "Midnight Rendezvous",
+      "url": "https://open.spotify.com/track/5dxRmXw3CeUEvWeALoJ1b2"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 474309,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Black Market",
@@ -357,6 +341,22 @@
       "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
     },
     {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 474309,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
+    },
+    {
       "added_at": "2021-04-16 04:01:00",
       "album": {
         "name": "Bring Backs",
@@ -371,22 +371,6 @@
       "duration_ms": 360053,
       "name": "Teki",
       "url": "https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS"
-    },
-    {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Septet",
-        "url": "https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ"
-      },
-      "artists": [
-        {
-          "name": "John Carroll Kirby",
-          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
-        }
-      ],
-      "duration_ms": 251643,
-      "name": "P64 By My Side",
-      "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -419,6 +403,22 @@
       "duration_ms": 300876,
       "name": "Friction",
       "url": "https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW"
+    },
+    {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "Septet",
+        "url": "https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ"
+      },
+      "artists": [
+        {
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        }
+      ],
+      "duration_ms": 251643,
+      "name": "P64 By My Side",
+      "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -469,6 +469,22 @@
       "url": "https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "The Rhinebeck Sessions",
+        "url": "https://open.spotify.com/album/3I3BsFSfYcBdS2Zls13Drq"
+      },
+      "artists": [
+        {
+          "name": "Spyro Gyra",
+          "url": "https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD"
+        }
+      ],
+      "duration_ms": 445013,
+      "name": "Sorbet",
+      "url": "https://open.spotify.com/track/450Rj9Nifq5Kq8Y6JQue6Z"
+    },
+    {
       "added_at": "2021-08-27 04:01:00",
       "album": {
         "name": "Ring of Saturn",
@@ -487,22 +503,6 @@
       "duration_ms": 240550,
       "name": "Ring of Saturn",
       "url": "https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "The Rhinebeck Sessions",
-        "url": "https://open.spotify.com/album/3I3BsFSfYcBdS2Zls13Drq"
-      },
-      "artists": [
-        {
-          "name": "Spyro Gyra",
-          "url": "https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD"
-        }
-      ],
-      "duration_ms": 445013,
-      "name": "Sorbet",
-      "url": "https://open.spotify.com/track/450Rj9Nifq5Kq8Y6JQue6Z"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Bent",
-        "url": "https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK"
-      },
-      "artists": [
-        {
-          "name": "Gary Willis",
-          "url": "https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ"
-        }
-      ],
-      "duration_ms": 371920,
-      "name": "Armageddon Blues",
-      "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Electric Rendezvous",
         "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 180800,
       "name": "Black Cat Shuffle",
       "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Bent",
+        "url": "https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK"
+      },
+      "artists": [
+        {
+          "name": "Gary Willis",
+          "url": "https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ"
+        }
+      ],
+      "duration_ms": 371920,
+      "name": "Armageddon Blues",
+      "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
     },
     {
       "added_at": "2022-02-11 19:11:35",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/6x7mEZbbec6EPOJVWYvmve"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Mondo Garaj",
-        "url": "https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs"
-      },
-      "artists": [
-        {
-          "name": "Garaj Mahal",
-          "url": "https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM"
-        }
-      ],
-      "duration_ms": 333413,
-      "name": "Mondo Garaj",
-      "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
-    },
-    {
       "added_at": "2022-04-08 04:02:00",
       "album": {
         "name": "Funkdombe - edit",
@@ -1051,6 +1035,22 @@
       "duration_ms": 230374,
       "name": "Funkdombe - edit",
       "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Mondo Garaj",
+        "url": "https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs"
+      },
+      "artists": [
+        {
+          "name": "Garaj Mahal",
+          "url": "https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM"
+        }
+      ],
+      "duration_ms": 333413,
+      "name": "Mondo Garaj",
+      "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1377,6 +1377,22 @@
       "url": "https://open.spotify.com/track/3wJ6ua41tikVX68v07Y11V"
     },
     {
+      "added_at": "2022-02-11 19:09:35",
+      "album": {
+        "name": "The Description Is Not The Described",
+        "url": "https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Cross",
+          "url": "https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t"
+        }
+      ],
+      "duration_ms": 433160,
+      "name": "Goodbye for Now",
+      "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
+    },
+    {
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "Catch me if you can!",
@@ -1403,22 +1419,6 @@
       "duration_ms": 238178,
       "name": "Catch me if you can!",
       "url": "https://open.spotify.com/track/2sdQsMO4eC2Onw3WOOPp6n"
-    },
-    {
-      "added_at": "2022-02-11 19:09:35",
-      "album": {
-        "name": "The Description Is Not The Described",
-        "url": "https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Cross",
-          "url": "https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t"
-        }
-      ],
-      "duration_ms": 433160,
-      "name": "Goodbye for Now",
-      "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
     },
     {
       "added_at": "2022-04-29 04:02:00",

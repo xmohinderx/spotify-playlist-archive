@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 14667,
+  "num_followers": 14674,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU3MDg3MCwwMDAwMDAwMGZmMTdiODBkMmI5ODZlZDZiNWNiZWE3ZDc3ZmQyMmUx",
+  "snapshot_id": "MTY3MTU3MDg3MCwwMDAwMDAwMDUzMjhiZTNjMDE4MjgzMzQ1MmEzMmEyYzcwNjNlZTJl",
   "tracks": [
     {
       "added_at": "2022-12-20 21:14:29",
@@ -1235,38 +1235,6 @@
     {
       "added_at": "2022-12-20 21:14:29",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/09pLe9TmUD5UxYWiWqjBqf"
-      },
-      "artists": [
-        {
-          "name": "Entre Linhas",
-          "url": "https://open.spotify.com/artist/0JGXguxnX2MUk3joFyJPjX"
-        },
-        {
-          "name": "Kuririn",
-          "url": "https://open.spotify.com/artist/6R85n4akSmUKlnYZ2QnzmC"
-        },
-        {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/6g0nBehL70Q9AW8jozS0JS"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 217392,
-      "name": "Cake",
-      "url": "https://open.spotify.com/track/4c98woI6F0ptrGFyK8O1m2"
-    },
-    {
-      "added_at": "2022-12-20 21:14:29",
-      "album": {
         "name": "Favela Vive 3",
         "url": "https://open.spotify.com/album/4np0uBqM0d1op95z3kztaF"
       },
@@ -1295,6 +1263,38 @@
       "duration_ms": 499570,
       "name": "Favela Vive 3",
       "url": "https://open.spotify.com/track/5XP9mHMTuUqQ2Lt7OxiXHN"
+    },
+    {
+      "added_at": "2022-12-20 21:14:29",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/09pLe9TmUD5UxYWiWqjBqf"
+      },
+      "artists": [
+        {
+          "name": "Entre Linhas",
+          "url": "https://open.spotify.com/artist/0JGXguxnX2MUk3joFyJPjX"
+        },
+        {
+          "name": "Kuririn",
+          "url": "https://open.spotify.com/artist/6R85n4akSmUKlnYZ2QnzmC"
+        },
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/6g0nBehL70Q9AW8jozS0JS"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 217392,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/4c98woI6F0ptrGFyK8O1m2"
     },
     {
       "added_at": "2022-12-20 21:14:29",

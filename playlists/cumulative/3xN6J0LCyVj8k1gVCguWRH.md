@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,900 songs - 4 day 13 hr 34 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,901 songs - 4 day 13 hr 38 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1123,7 +1123,8 @@
 | [More of You](https://open.spotify.com/track/0nsofcXSqxPcXXrqeY4TeT) | [Chaise](https://open.spotify.com/artist/0cDDDfHYuslpe1CoOeMmib) | [More of You](https://open.spotify.com/album/29j9jh8N2SezEXDGCQmI6n) | 4:03 | 2022-01-07 | 2022-01-23 |
 | [More Than You Know](https://open.spotify.com/track/5NCbLiZLwjQV5SqkGqtHtA) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In A Sentimental Mood](https://open.spotify.com/album/6bqVbJc4p9foiS8tQy1tow) | 4:40 | 2022-07-26 |  |
 | [MOTA](https://open.spotify.com/track/0zpwjk9WosuVgDCyfWshAC) | [TYLOR](https://open.spotify.com/artist/7FBFDgNhHbZvmrMJk4L1vO) | [MOTA](https://open.spotify.com/album/6PKzwCa3CZeWoY7TgGYOwX) | 2:29 | 2022-05-27 | 2022-06-12 |
-| [MOTION](https://open.spotify.com/track/7cQM2G5MT80a0xmv4Dcr8x) | [HINYL](https://open.spotify.com/artist/5C1kYgcLy2bHUCWGGvpKVP) | [MOTION](https://open.spotify.com/album/6fKNqMMnSkRFWTNMRNUp1w) | 3:06 | 2022-12-23 |  |
+| [MOTION](https://open.spotify.com/track/77hjqTb1lNcHMLKpZxYcS7) | [HINYL](https://open.spotify.com/artist/5C1kYgcLy2bHUCWGGvpKVP) | [MOTION \(DIVE IN\)](https://open.spotify.com/album/6uildMXkFASWvb5hPJXqJK) | 3:06 | 2022-12-24 |  |
+| [MOTION](https://open.spotify.com/track/7cQM2G5MT80a0xmv4Dcr8x) | [HINYL](https://open.spotify.com/artist/5C1kYgcLy2bHUCWGGvpKVP) | [MOTION](https://open.spotify.com/album/6fKNqMMnSkRFWTNMRNUp1w) | 3:06 | 2022-12-23 | 2022-12-25 |
 | [Move On](https://open.spotify.com/track/7kwGPYkQx1dYu0lod9IEAf) | [Ayo August](https://open.spotify.com/artist/2BiwobuxFl5vPgLcvA6yb4), [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Move On](https://open.spotify.com/album/0wwMY8G12nqu8CePeBBq2Q) | 2:09 | 2021-04-17 | 2021-05-03 |
 | [Move On](https://open.spotify.com/track/7m3Vj6y1dYXGwKhZ4N6BYB) | [Joytide](https://open.spotify.com/artist/6oKwIoXslSna3RRQwcCoOW), [Carl Roos](https://open.spotify.com/artist/0fKlHm1QYTvlNd8T1yeHBH) | [Move On](https://open.spotify.com/album/6uiU8puP5cdQv625EiIalh) | 2:54 | 2021-04-24 | 2021-05-09 |
 | [MULTIVERSO](https://open.spotify.com/track/3hOYzuMBAg3yPxglI5wEyA) | [Zaravia](https://open.spotify.com/artist/2zPRXZSRA4OLTLIBUdHIaK) | [MULTIVERSO](https://open.spotify.com/album/0WCe9PQZJNHdHaDF8c44Dz) | 3:43 | 2022-10-28 | 2022-11-19 |

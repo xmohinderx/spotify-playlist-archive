@@ -2057,6 +2057,32 @@
     {
       "album": {
         "name": "Sugarcane (Dutch Remix)",
+        "url": "https://open.spotify.com/album/2U7ev5JBGI60S5CNUAFVcJ"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Rich2Gether",
+          "url": "https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb"
+        },
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218581,
+      "name": "Sugarcane - Dutch Remix",
+      "url": "https://open.spotify.com/track/0quT0vhOQZArIr6s2No5ac"
+    },
+    {
+      "album": {
+        "name": "Sugarcane (Dutch Remix)",
         "url": "https://open.spotify.com/album/29jB9OyaNU5moCbdcSpsVJ"
       },
       "artists": [
@@ -2075,7 +2101,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 218581,
       "name": "Sugarcane - Dutch Remix",
       "url": "https://open.spotify.com/track/61tg9mVHe87QwDWYW4VJoD"

@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: skaiwater.",
-  "num_followers": 30584,
+  "num_followers": 30709,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0MzUyOSwwMDAwMDAwMDJhNmZiOGIwZTEyMzQ4MzgxOGEyZDZiMjY4NzRmNGJi",
+  "snapshot_id": "MTY3MTY0MzUyOSwwMDAwMDAwMDVjYjI2OTQwZWYwMDE5MGQzODZkNDFjM2Q0NTQ3OGI2",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -337,6 +337,22 @@
       "url": "https://open.spotify.com/track/6w9UIffgXbITL5Jsb5j14J"
     },
     {
+      "added_at": "2022-12-21 17:25:29",
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/0nC66yGMx88sJDbFQamG7s"
+      },
+      "artists": [
+        {
+          "name": "L1NA",
+          "url": "https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf"
+        }
+      ],
+      "duration_ms": 163165,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/6WqVQQvsU36rwF6yytQ6EM"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "All I Need (VIP)",
@@ -355,22 +371,6 @@
       "duration_ms": 195310,
       "name": "All I Need - VIP",
       "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
-    },
-    {
-      "added_at": "2022-12-21 17:25:29",
-      "album": {
-        "name": "BIRTHDAY",
-        "url": "https://open.spotify.com/album/0nC66yGMx88sJDbFQamG7s"
-      },
-      "artists": [
-        {
-          "name": "L1NA",
-          "url": "https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf"
-        }
-      ],
-      "duration_ms": 163165,
-      "name": "BIRTHDAY",
-      "url": "https://open.spotify.com/track/6WqVQQvsU36rwF6yytQ6EM"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -703,54 +703,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Anxious",
-        "url": "https://open.spotify.com/album/6gpmtNqKezX1vcJLljbZZB"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 121306,
-      "name": "Anxious",
-      "url": "https://open.spotify.com/track/4llF02WU3U7UTQwHCfGzf7"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "The Jersey Club Workout",
-        "url": "https://open.spotify.com/album/4b3EbKPFYiAxrglky3Cv9z"
-      },
-      "artists": [
-        {
-          "name": "Dj Dru",
-          "url": "https://open.spotify.com/artist/2IwJjE1jYSxMvSVpdUWpnV"
-        }
-      ],
-      "duration_ms": 158260,
-      "name": "Feel The Burn",
-      "url": "https://open.spotify.com/track/30HH5fUlLuu8Dxw7sLi93z"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "eyes",
-        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 142639,
-      "name": "eyes",
-      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "bla bla bla",
         "url": "https://open.spotify.com/album/6C25YbzE0xhfBAkRPYknbF"
       },
@@ -771,6 +723,54 @@
       "duration_ms": 145185,
       "name": "bla bla bla",
       "url": "https://open.spotify.com/track/0rD2KNGhWAOrbmzHKSF4ey"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Anxious",
+        "url": "https://open.spotify.com/album/6gpmtNqKezX1vcJLljbZZB"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 121306,
+      "name": "Anxious",
+      "url": "https://open.spotify.com/track/4llF02WU3U7UTQwHCfGzf7"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 142639,
+      "name": "eyes",
+      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "The Jersey Club Workout",
+        "url": "https://open.spotify.com/album/4b3EbKPFYiAxrglky3Cv9z"
+      },
+      "artists": [
+        {
+          "name": "Dj Dru",
+          "url": "https://open.spotify.com/artist/2IwJjE1jYSxMvSVpdUWpnV"
+        }
+      ],
+      "duration_ms": 158260,
+      "name": "Feel The Burn",
+      "url": "https://open.spotify.com/track/30HH5fUlLuu8Dxw7sLi93z"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -999,18 +999,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/1n31UsS0MSzs3FcK1d9IvQ"
+        "name": "Luhh Galore",
+        "url": "https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX"
       },
       "artists": [
         {
-          "name": "Zahsosaa",
-          "url": "https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y"
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
         }
       ],
-      "duration_ms": 114625,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/6OKRi2g1eGm78w4xIIz76n"
+      "duration_ms": 88302,
+      "name": "Luhh Galore",
+      "url": "https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Luhh Galore",
-        "url": "https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX"
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/1n31UsS0MSzs3FcK1d9IvQ"
       },
       "artists": [
         {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+          "name": "Zahsosaa",
+          "url": "https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y"
         }
       ],
-      "duration_ms": 88302,
-      "name": "Luhh Galore",
-      "url": "https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu"
+      "duration_ms": 114625,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/6OKRi2g1eGm78w4xIIz76n"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1235,22 +1235,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Renaissance (Remixes)",
-        "url": "https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ"
+        "name": "King of BBM",
+        "url": "https://open.spotify.com/album/0mRfNhYEVF7w1qkMcWEVLd"
       },
       "artists": [
         {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
         },
         {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+          "name": "Adolf Joker",
+          "url": "https://open.spotify.com/artist/0t8kV72cpnLzrZ3BFSd8gX"
         }
       ],
-      "duration_ms": 236411,
-      "name": "Body Pump - UNIIQU3 Remix",
-      "url": "https://open.spotify.com/track/5BMXfwG0l57VbehGPq2Uv2"
+      "duration_ms": 151901,
+      "name": "Hands on Ya Hips",
+      "url": "https://open.spotify.com/track/3RRPOt0SQzhAPcI6YHljR5"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1275,22 +1275,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "King of BBM",
-        "url": "https://open.spotify.com/album/0mRfNhYEVF7w1qkMcWEVLd"
+        "name": "Renaissance (Remixes)",
+        "url": "https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ"
       },
       "artists": [
         {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
         },
         {
-          "name": "Adolf Joker",
-          "url": "https://open.spotify.com/artist/0t8kV72cpnLzrZ3BFSd8gX"
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
         }
       ],
-      "duration_ms": 151901,
-      "name": "Hands on Ya Hips",
-      "url": "https://open.spotify.com/track/3RRPOt0SQzhAPcI6YHljR5"
+      "duration_ms": 236411,
+      "name": "Body Pump - UNIIQU3 Remix",
+      "url": "https://open.spotify.com/track/5BMXfwG0l57VbehGPq2Uv2"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Bounce Out",
-        "url": "https://open.spotify.com/album/50FdMs0QhRdxS97qD9wOCA"
-      },
-      "artists": [
-        {
-          "name": "YT",
-          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
-        }
-      ],
-      "duration_ms": 154672,
-      "name": "Bounce Out",
-      "url": "https://open.spotify.com/track/3NtvdMnZZOZsdgWsR81ego"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Shake Dhat",
         "url": "https://open.spotify.com/album/1QKwrwRA6Shk7TVxmgt6zL"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 56816,
       "name": "Shake Dat",
       "url": "https://open.spotify.com/track/5NpKBngX232AHgIME1jwF3"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Bounce Out",
+        "url": "https://open.spotify.com/album/50FdMs0QhRdxS97qD9wOCA"
+      },
+      "artists": [
+        {
+          "name": "YT",
+          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
+        }
+      ],
+      "duration_ms": 154672,
+      "name": "Bounce Out",
+      "url": "https://open.spotify.com/track/3NtvdMnZZOZsdgWsR81ego"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "I Said It's Lilman",
-        "url": "https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H"
-      },
-      "artists": [
-        {
-          "name": "DJ LILMAN",
-          "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Back It Up",
-      "url": "https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/5b3LuycxkwePie0mdQ5G0J"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Pop",
-        "url": "https://open.spotify.com/album/5ejDnrOQ5Yb8qZhxrn5nBx"
+        "name": "I Said It's Lilman",
+        "url": "https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H"
       },
       "artists": [
         {
-          "name": "BR33ZY",
-          "url": "https://open.spotify.com/artist/2UXvoavIi2SaWRY7A1vgcq"
+          "name": "DJ LILMAN",
+          "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
         }
       ],
-      "duration_ms": 139026,
-      "name": "POP",
-      "url": "https://open.spotify.com/track/6ZvZtgdc38dTaQ74WB9qUr"
+      "duration_ms": 156577,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Hey DJ",
-        "url": "https://open.spotify.com/album/0JQimmEMl5bl3Na6oyrOi0"
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/5ejDnrOQ5Yb8qZhxrn5nBx"
       },
       "artists": [
         {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+          "name": "BR33ZY",
+          "url": "https://open.spotify.com/artist/2UXvoavIi2SaWRY7A1vgcq"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/1At6Lri1BvcC92CWbX9RUd"
+      "duration_ms": 139026,
+      "name": "POP",
+      "url": "https://open.spotify.com/track/6ZvZtgdc38dTaQ74WB9qUr"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1659,6 +1643,22 @@
       "duration_ms": 170015,
       "name": "Free Me",
       "url": "https://open.spotify.com/track/6icjYa5MypaFUEmRx7P1uK"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Hey DJ",
+        "url": "https://open.spotify.com/album/0JQimmEMl5bl3Na6oyrOi0"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/1At6Lri1BvcC92CWbX9RUd"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Just Dance",
-        "url": "https://open.spotify.com/album/0bjVboGxCtC0X9xZmQkFo9"
-      },
-      "artists": [
-        {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
-        },
-        {
-          "name": "DJ Bake",
-          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
-        }
-      ],
-      "duration_ms": 156865,
-      "name": "Childs Play",
-      "url": "https://open.spotify.com/track/5BdvoBcHrsepw9WSwWBip4"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Walkdown",
         "url": "https://open.spotify.com/album/2ZOj3Ok0uGgTN1sbGYeJTe"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 105900,
       "name": "Walkdown",
       "url": "https://open.spotify.com/track/0M9A9pur06soprR1p61B3x"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Just Dance",
+        "url": "https://open.spotify.com/album/0bjVboGxCtC0X9xZmQkFo9"
+      },
+      "artists": [
+        {
+          "name": "Kyle Edwards",
+          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+        },
+        {
+          "name": "DJ Bake",
+          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
+        }
+      ],
+      "duration_ms": 156865,
+      "name": "Childs Play",
+      "url": "https://open.spotify.com/track/5BdvoBcHrsepw9WSwWBip4"
     },
     {
       "added_at": "2022-12-16 05:00:00",

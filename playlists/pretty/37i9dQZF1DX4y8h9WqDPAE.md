@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B from around the world comes to play with hip\-hop & pop!   Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,760,036 likes - 104 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,760,260 likes - 104 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

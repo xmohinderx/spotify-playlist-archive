@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,320 likes - 150 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,468 likes - 150 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 8 | [I T 's a G O O D D a Y](https://open.spotify.com/track/67DcAT2A7QoJPHeb6gULv3) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Anker Deol](https://open.spotify.com/artist/6Ft1jFojxoiQxAddH2o5ZF) | [It's a Good Life](https://open.spotify.com/album/4X6GOxP1pKtbgsDaT0t91h) | 2:36 |
 | 9 | [Insomnia](https://open.spotify.com/track/05BYGdbe061g9o9CnAqPBA) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Insomnia](https://open.spotify.com/album/1cVLhJnU0AR3kc81kHim96) | 3:09 |
 | 10 | [Hun Changa Ae](https://open.spotify.com/track/2kDfeQsKpDz07p6f0ALaOo) | [Satbir Aujla](https://open.spotify.com/artist/6JuBBw98XzwRZ6KvN1PpLy) | [Hun Changa Ae](https://open.spotify.com/album/1AvmoHXPkwmBGfeT4wdXiG) | 2:46 |
-| 11 | [Move On](https://open.spotify.com/track/7s8wMKOZLOxwO7gzovABYN) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Inder](https://open.spotify.com/artist/5Jrj9GIGW1qXysvVTo6F1K) | [Archives](https://open.spotify.com/album/6KmQIkfNTKlHizxBbXCxBq) | 2:57 |
+| 11 | [Move On](https://open.spotify.com/track/7s8wMKOZLOxwO7gzovABYN) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Inder](https://open.spotify.com/artist/4BTiv9wnMrhxZNxaTb3rwT) | [Archives](https://open.spotify.com/album/6KmQIkfNTKlHizxBbXCxBq) | 2:57 |
 | 12 | [Chaal](https://open.spotify.com/track/4tszOdKz6c6gvJHyIxXiZN) | [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Chaal](https://open.spotify.com/album/0zY0hQZOnz65fP6yZFHeqe) | 3:32 |
 | 13 | [Tu Tan Main](https://open.spotify.com/track/4QooqUadhw5LMMhkik7zJ8) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Luvdeep Saini Aka LDS](https://open.spotify.com/artist/09IBw62SGjjIOhl47qfnHs) | [Tu Tan Main \- Single](https://open.spotify.com/album/267NrowQgB4r2cNpLB3IWL) | 3:08 |
 | 14 | [Chandni Raat](https://open.spotify.com/track/578rtgpyZraj98LvEt7xJ1) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Chandni Raat](https://open.spotify.com/album/1cITau9wOAmBXUThCfhMvt) | 2:42 |

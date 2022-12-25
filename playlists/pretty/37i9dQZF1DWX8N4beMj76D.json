@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 7828,
+  "num_followers": 7835,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDM5MWUwODA0NjZhNDRiNDdkMDNhOTE1Y2JjMTIxMTM0",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDg2ZTY1Zjc3MTU5YzM3NzYxOWY1MDAyOGEyYTY5Y2Y3",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -591,22 +591,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Bird on the Wire: The Songs of Leonard Cohen",
-        "url": "https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz"
-      },
-      "artists": [
-        {
-          "name": "Perla Batalla",
-          "url": "https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd"
-        }
-      ],
-      "duration_ms": 376946,
-      "name": "Ballad of the Absent Mare",
-      "url": "https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Tower Of Song - The Songs Of Leonard Cohen",
         "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 199600,
       "name": "Sisters Of Mercy",
       "url": "https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Bird on the Wire: The Songs of Leonard Cohen",
+        "url": "https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz"
+      },
+      "artists": [
+        {
+          "name": "Perla Batalla",
+          "url": "https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd"
+        }
+      ],
+      "duration_ms": 376946,
+      "name": "Ballad of the Absent Mare",
+      "url": "https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC"
     },
     {
       "added_at": "2018-12-06 19:29:22",

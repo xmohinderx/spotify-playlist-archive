@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 
 > Driving electronic grooves for improved motivation and performance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,886 likes - 108 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,945 likes - 108 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 | 99 | [Galaxies](https://open.spotify.com/track/0HvT91CmD0AyTLPHzlABrn) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Galaxies](https://open.spotify.com/album/3bSYn35WoiHldPymVmaU4d) | 2:44 |
 | 100 | [Where Have U Been?](https://open.spotify.com/track/3bCnwmJwBob222khzVUrcN) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Where Have U Been?](https://open.spotify.com/album/3gmS7R3fNWUNN8Ewwy6URY) | 2:16 |
 | 101 | [Chapter Two](https://open.spotify.com/track/0LOGcNCFLfCWLh9mzTmaG5) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Chapter Two](https://open.spotify.com/album/2k4TuEENRlXWOp9sJLAnDr) | 5:11 |
-| 102 | [Indi](https://open.spotify.com/track/7zeOr0r8bQO5BO9Om7BuAt) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/37iP4wnkJE5ImiW2Q94nKx) | 3:20 |
+| 102 | [Indi](https://open.spotify.com/track/6myfz5g9b9U6bQSr4XcKGu) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/3eFlBkbtH9AiyEXXr0YBeT) | 3:20 |
 | 103 | [Eridani](https://open.spotify.com/track/5QkMlAxHmZG33OGA81oWSa) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Eridani](https://open.spotify.com/album/6UVuoIa23nsZimsHnTFzxZ) | 3:48 |
 | 104 | [Blanket](https://open.spotify.com/track/5OpS0HoEEV6N54WiSH0ibt) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [Blanket](https://open.spotify.com/album/5xMmziIduhAQBO3Xzpx4ns) | 2:27 |
 | 105 | [Drift](https://open.spotify.com/track/2fJwyJQ9h6qEBHJVcqZuPr) | [Lazy Driver](https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg) | [Drift](https://open.spotify.com/album/4JgPHkbu2r3lGQR9cXZ4UO) | 3:58 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 | 107 | [canggu \- Edit](https://open.spotify.com/track/0jy4TqKxOwZoraKJkle0dC) | [wet n salty](https://open.spotify.com/artist/2Ai8jQFx9LfNmToEgFjDbn) | [canggu \(Edit\)](https://open.spotify.com/album/6X8rpYiAaelLkwZK9Vx32k) | 2:23 |
 | 108 | [ocean walk](https://open.spotify.com/track/34WwE20Cawvpowutt29ieG) | [Hasse Hans](https://open.spotify.com/artist/4PjVK6KNfnMASGMI6gmMTW) | [ocean walk](https://open.spotify.com/album/6IxeXdhmaOPk66JJcWDVur) | 3:20 |
 
-Snapshot ID: `MTY3MTc1MzY2MCwwMDAwMDAwMDA0OTc3MjUxZDcwOWEyOTA4ZmEzYWU2NTJjOTU3Mzdl`
+Snapshot ID: `MTY3MTc1MzY2MCwwMDAwMDAwMGE0ODliODNhMzdhYjdkNjcwNDM3NTllOGIxMWQwZDJl`

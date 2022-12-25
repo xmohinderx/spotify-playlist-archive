@@ -1867,7 +1867,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 129173,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
@@ -2995,7 +2995,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -4091,7 +4091,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 108901,
       "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
       "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
@@ -10551,7 +10551,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
@@ -10591,7 +10591,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 155453,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
@@ -21049,6 +21049,24 @@
       "duration_ms": 243853,
       "name": "\u00c9g hlakka svo til",
       "url": "https://open.spotify.com/track/7tnaA3OaJ3a6UfXkcgpaIe"
+    },
+    {
+      "album": {
+        "name": "N\u00e6stu j\u00f3l",
+        "url": "https://open.spotify.com/album/5cDVfehcmiDsrW2VsyqykS"
+      },
+      "artists": [
+        {
+          "name": "Baggal\u00fatur",
+          "url": "https://open.spotify.com/artist/0zGt5wXkvlORfIk5tnFxAD"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232426,
+      "name": "\u00c9g kemst \u00ed j\u00f3laf\u00edling",
+      "url": "https://open.spotify.com/track/1We6Q5vkGV56AxIqSEpHcm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: SPOOKYPBL
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,915 likes - 60 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,929 likes - 60 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

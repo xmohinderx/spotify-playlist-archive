@@ -4,7 +4,7 @@
 
 > Jazz favorites from 2022\. Cover: Makaya McCraven \#SpotifyWrapped
 
-144 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/6vPgqB1nQAvAFN19KxQccP)
+145 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/6vPgqB1nQAvAFN19KxQccP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Wayne's Words](https://open.spotify.com/track/0zJlRE40wzh02mBYcT4UEB) | [Belmondo Quintet](https://open.spotify.com/artist/1rnnnxmIRIgMsYOVlCWm1H), [Stéphane Belmondo](https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ), [Lionel Belmondo](https://open.spotify.com/artist/5qw1KySGdjwYRyrRvXZ2Xs), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi), [Sylvain Romano](https://open.spotify.com/artist/3xfBsb1PTVruL4bh15TCDv), [Tony Rabeson](https://open.spotify.com/artist/45LGAkWGlJIzAa21Trpiaa) | [Brotherhood](https://open.spotify.com/album/4P1gs1NNheK0KeujsETd4F) | 5:55 | 2021-12-01 | 2022-12-01 |
 | [What Happens Next?](https://open.spotify.com/track/55sg7XJ6nyfOv1VM1OHdHD) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [What Happens Next?](https://open.spotify.com/album/3lw981bFN4nTdJXWJbhJvG) | 4:37 | 2022-11-30 |  |
 | [Why Not?](https://open.spotify.com/track/0mhDVzQgnwtrY1JnDqz7KQ) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Pera Krstajic](https://open.spotify.com/artist/3kNkllh7QAhy7282M8f1mW) | [Why Not? / Montara](https://open.spotify.com/album/7DKRJTdgGHoTedH7F9z50G) | 5:30 | 2022-11-30 |  |
-| [Wings](https://open.spotify.com/track/3hUngNsqq838qYdEQrMEcg) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Wings / Back To Africa](https://open.spotify.com/album/16K9DKlpw0YWAj6PfnXQwT) | 5:30 | 2022-11-30 |  |
+| [Wings](https://open.spotify.com/track/0P0vNFONGtnVFxEEk3k0K2) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Wings / Back To Africa](https://open.spotify.com/album/2fmSHB85lXiVxUT8tKwyP2) | 5:30 | 2022-11-30 |  |
+| [Wings](https://open.spotify.com/track/3hUngNsqq838qYdEQrMEcg) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Wings / Back To Africa](https://open.spotify.com/album/16K9DKlpw0YWAj6PfnXQwT) | 5:30 | 2022-11-30 | 2022-12-25 |
 | [Words Left Unspoken](https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Horizons](https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe) | 6:40 | 2022-11-30 |  |
 | [Yardeville \(feat\. Alex Hitchcock, Ant Law, Tom Hewson & Marc Michel\)](https://open.spotify.com/track/15mPzx0AdfAuLllGeEuQfg) | [Matt Ridley](https://open.spotify.com/artist/2HGpsXgeNmhvDeN6X5Hp16), [Alex Hitchcock](https://open.spotify.com/artist/4MrFF8cBU4dYrJsCeBdNrZ), [Ant Law](https://open.spotify.com/artist/6kdsDfFQZGJBwb9IvjnIL0), [Tom Hewson](https://open.spotify.com/artist/2S088txNLtfoPLvf35Uo9Y), [Marc Michel](https://open.spotify.com/artist/3swHWgK1FgkuXGZPb45LTc) | [The Antidote](https://open.spotify.com/album/2NZpjGzKVVrb8DjMIdIUg0) | 7:35 | 2021-12-01 | 2022-12-01 |
 | [yield](https://open.spotify.com/track/6MyPzGgsio8bnZZsb5ueyI) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [yield](https://open.spotify.com/album/7bWTozqHskhTmWK2KHw3aR) | 5:19 | 2022-11-30 |  |

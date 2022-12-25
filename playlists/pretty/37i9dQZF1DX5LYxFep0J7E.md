@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Jazz favorites from 2022\. Cover: Makaya McCraven \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,044 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,123 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 18 | [Bajrangbali](https://open.spotify.com/track/6dHZsOuOsmLSTs1PAyl0aj) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo](https://open.spotify.com/album/3VG63zwDBrNHX52aWzDxFA) | 3:32 |
 | 19 | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/track/5Uq45pwM3VHj9PeWDyjWLR) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [LOVE QUANTUM](https://open.spotify.com/album/0PdocBlAIGi3jougS8fNiB) | 3:10 |
 | 20 | [Beep Durple](https://open.spotify.com/track/0jpQ9EDSXQUiLyek5i6WYM) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Just Coolin'](https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx) | 6:20 |
-| 21 | [Wings](https://open.spotify.com/track/3hUngNsqq838qYdEQrMEcg) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Wings / Back To Africa](https://open.spotify.com/album/16K9DKlpw0YWAj6PfnXQwT) | 5:30 |
+| 21 | [Wings](https://open.spotify.com/track/0P0vNFONGtnVFxEEk3k0K2) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Wings / Back To Africa](https://open.spotify.com/album/2fmSHB85lXiVxUT8tKwyP2) | 5:30 |
 | 22 | [Captured Time](https://open.spotify.com/track/4n4uG6LLOH4xab3V7fbrO7) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Next Stop](https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz) | 4:24 |
 | 23 | [Falling](https://open.spotify.com/track/1AZO8tYXvWlrkoaytSJNXu) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [12 Stars](https://open.spotify.com/album/3DFIvcm119lRoa5NxyiBDC) | 6:21 |
 | 24 | [El Neo Songo](https://open.spotify.com/track/16cB05rfZF8GYqwtSPkXuy) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Futuro Tumbao II](https://open.spotify.com/album/4T3KrCMbySqxfVJEUJ2vOQ) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 74 | [Long Way From Home \(feat\. Eric Harland\)](https://open.spotify.com/track/4LvTgaYf1iMvkBPh9YMK54) | [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [Far Star](https://open.spotify.com/album/1AIF7npFznwVA8tnlSNock) | 5:17 |
 | 75 | [Words Left Unspoken](https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Horizons](https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe) | 6:40 |
 
-Snapshot ID: `MTY2OTgxNjAyMCwwMDAwMDAwMGU3OGUyYjM5MWIyNmNmMWM1MTQ3M2JiY2Q0NzM0MWJi`
+Snapshot ID: `MTY2OTgxNjAyMCwwMDAwMDAwMGMxMmRjNDU2OGI1NzFmNTkwYjQyY2VkOGM5NWFhOTAz`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-718 songs - 1 day 16 hr 25 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
+719 songs - 1 day 16 hr 29 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [GALAPIN](https://open.spotify.com/track/29EmyYlu6tRW51iY7AvGNT) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [GALAPIN](https://open.spotify.com/album/34EGyXtxsJbIL5gAFVzcZa) | 3:16 | 2022-03-20 | 2022-04-10 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-11 |
 | [Gastar](https://open.spotify.com/track/7jZGELQvY3aZKaCIQVqwSY) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:29 | 2021-12-05 | 2021-12-11 |
+| [Gato de Noche](https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Gato de Noche](https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH) | 3:47 | 2022-12-24 |  |
 | [GATÚBELA](https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [GATÚBELA](https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA) | 3:29 | 2022-08-27 |  |
 | [Giga](https://open.spotify.com/track/1UIVqQ8pqlvoSlPy9esKd6) | [Miguelito](https://open.spotify.com/artist/4gwgJqemp17xhiPm7pEAqu) | [Giga](https://open.spotify.com/album/6aXyh9hv7Z91eD1LZwp8sd) | 2:37 | 2022-08-22 | 2022-09-24 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-12 |
@@ -602,7 +603,7 @@
 | [Si Es Trucho Es Trucho](https://open.spotify.com/track/6wQufshN8RwGazPyDQ0WXM) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB), [Verbo Flow](https://open.spotify.com/artist/0dxkgaBNqak7UBqLB1sZrQ) | [Si Es Trucho Es Trucho](https://open.spotify.com/album/0fudaOv4OlQqIUH3uQ6IM7) | 5:37 | 2021-03-27\* | 2021-05-19 |
 | [Si Es Trucho Es Trucho](https://open.spotify.com/track/27aoNGpRiq722amHUMzBpJ) | [Verbo Flow](https://open.spotify.com/artist/0dxkgaBNqak7UBqLB1sZrQ), [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB) | [Si Es Trucho Es Trucho](https://open.spotify.com/album/5wh6qhU1E9x8v5itRCAKeV) | 5:37 | 2021-05-23 | 2021-05-29 |
 | [Si Estuviésemos Juntos](https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:49 | 2022-01-26 | 2022-05-08 |
-| [Si la Calle Llama](https://open.spotify.com/track/32nYQxfwMslxlbhgm48B3o) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:51 | 2022-11-19 |  |
+| [Si la Calle Llama](https://open.spotify.com/track/32nYQxfwMslxlbhgm48B3o) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:51 | 2022-11-19 | 2022-12-25 |
 | [Si Lo Puedes Soñar](https://open.spotify.com/track/529JIZZBymNcDRijYcjTkF) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Si Lo Puedes Soñar](https://open.spotify.com/album/5TXyBngsscsxdTWhGuNxT1) | 3:15 | 2022-08-19 | 2022-08-22 |
 | [Si Te Veo](https://open.spotify.com/track/2TmT3wSwRf0CYJFGGaIXNB) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Si Te Veo](https://open.spotify.com/album/1g0enqdoT94Aw5vCJvubzd) | 4:15 | 2021-06-04 | 2021-08-28 |
 | [Si Te Veo](https://open.spotify.com/track/661BAtQVPGlDZ097DzN1hJ) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Los Favoritos 2.5](https://open.spotify.com/album/1VkgKNe63Fqsyc7gRPQ1qC) | 4:15 | 2021-09-19 | 2021-09-29 |

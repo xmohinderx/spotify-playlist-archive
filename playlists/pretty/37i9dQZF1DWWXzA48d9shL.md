@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$ and Germ
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,509 likes - 87 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,150 likes - 87 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 36 | [Fucking Your Culture](https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:15 |
 | 37 | [Psycho Pass](https://open.spotify.com/track/3kZAm2TC74lBJFPDoV40Qc) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 2](https://open.spotify.com/album/1gylfqMj0edhomts9vZL7d) | 2:15 |
 | 38 | [1\-800\-Swallow Me \(feat\. Jasiah\)](https://open.spotify.com/track/7tIFl5tbjhQHhAf6K8A2ru) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Hope You're Proud](https://open.spotify.com/album/7iidCiYZ0gNZHm3S7CODEQ) | 2:40 |
-| 39 | [MORPHINE](https://open.spotify.com/track/4WoXUdjKIErU4dQCx6PADX) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL), [outsiderX](https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ) | [MORPHINE](https://open.spotify.com/album/0q3a5tfHbVM0PRq3fgEr0q) | 2:04 |
+| 39 | [MORPHINE](https://open.spotify.com/track/3i0nLqskbxPXYAxosdZLz2) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL), [outsiderX](https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ) | [MORPHINE](https://open.spotify.com/album/2XBkfvgQ4ZkC1jalljGcY4) | 2:04 |
 | 40 | [HEADF1RST](https://open.spotify.com/track/0fLfkuOaS2oVukMM92ksLz) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [HEADF1RST](https://open.spotify.com/album/1nePUQDAvEU6uO7Uh14wsX) | 2:00 |
 | 41 | [ROLEPLAY](https://open.spotify.com/track/6lBjqdPLsOxLSKrBPQufi5) | [OMXNEMO](https://open.spotify.com/artist/6QK0K28MJ2Fj2nsmrZv1O1), [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [Lucie's Nightmare](https://open.spotify.com/artist/73cmp0OKYaPbYsCAgKqAcl), [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [ROLEPLAY](https://open.spotify.com/album/4tYEe0g5xT5kWJg5wFxrs1) | 2:58 |
 | 42 | [BOMBS AWAY](https://open.spotify.com/track/6JOw76PRfcxW6Vkaav9tjr) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [BOMBS AWAY](https://open.spotify.com/album/05WbSjUcKfLcmbW3nkPotc) | 2:24 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 86 | [Mr\. Make Her Dance](https://open.spotify.com/track/4DtVUDgdAyUynlbZPrbj24) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Mr\. Make Her Dance](https://open.spotify.com/album/2bFOfBfOwE10X9B6CPyQmO) | 2:35 |
 | 87 | [Fuck Em Up](https://open.spotify.com/track/1Qwro8EUjM8MDrU8vUYSgE) | [Eazy Mac](https://open.spotify.com/artist/1qHkWv9sHlhqmNdPbMU5tN) | [Fuck Em Up](https://open.spotify.com/album/72xLdtea89AlAtgYcQYlWR) | 2:04 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGUwYWZmNDkwYTA2OTA2ODk2Mzk3OTBiMzJkZTQ5MTM1`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDA3YWU3ZTExNWIxNjk4OGU5NjBiODgyNWRjYzg3ZTYw`

@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-257 songs - 14 hr 29 min - not published yet
+258 songs - 14 hr 34 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Discoman](https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Discoman](https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT) | 3:40 | 2022-10-28 | 2022-11-25 |
 | [disoriented](https://open.spotify.com/track/2DktKzalubu8t5irfO5qOZ) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [disoriented](https://open.spotify.com/album/1KTPGTx8CccfS002Bffxnj) | 2:48 | 2022-12-23 |  |
 | [Do you miss me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 | 2022-11-17 |  |
-| [Don't Cry \- TSHA Remix](https://open.spotify.com/track/5g8E1VkpYMZsANTTnzA86V) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Model Man \(The Remixes\)](https://open.spotify.com/album/5BMHuEgQSBbYGKhrsHVLea) | 4:42 | 2022-12-15 |  |
+| [Don't Cry \- TSHA Remix](https://open.spotify.com/track/5g8E1VkpYMZsANTTnzA86V) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Model Man \(The Remixes\)](https://open.spotify.com/album/5BMHuEgQSBbYGKhrsHVLea) | 4:42 | 2022-12-15 | 2022-12-25 |
+| [Don't Cry \- TSHA Remix](https://open.spotify.com/track/05ASZoQqSsG6jt90A0iZTA) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [Teisha Matthews](https://open.spotify.com/artist/4vV9KyDKHar5V4Jut94Yho) | [Model Man \(The Remixes\)](https://open.spotify.com/album/1YnetvzaxossTYOMeD1gB0) | 4:42 | 2022-12-23 |  |
 | [Don't Look Up](https://open.spotify.com/track/2hEzbMdKzJTcMSvUwXL153) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [ALPHA PLACE \(Deluxe\)](https://open.spotify.com/album/43990rLi4Lh9PkJBJ2m2TC) | 1:57 | 2022-12-15 |  |
 | [Doppio Passo](https://open.spotify.com/track/5z0FnVkoJlQU1bbhbTSSfC) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Doppio Passo](https://open.spotify.com/album/5EZIPpBqS4FEhaqWKvePGX) | 3:07 | 2022-12-15 |  |
 | [Down In Atlanta](https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Down In Atlanta](https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp) | 2:44 | 2022-11-17 | 2022-12-16 |

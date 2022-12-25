@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: BDK.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,598 likes - 105 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,602 likes - 105 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 22 | [Paranoia](https://open.spotify.com/track/6gWxs2UBdPiTs9D9LgrLjK) | [Yung Juse](https://open.spotify.com/artist/7HelyGdEBoc25C7inwIXVJ) | [Paranoia](https://open.spotify.com/album/4leqMHWzHssFnpsD8AclBr) | 2:57 |
 | 23 | [R&B$](https://open.spotify.com/track/0YeYBDhNqOUIgsGz3lUmJ5) | [A Migos](https://open.spotify.com/artist/7wGVWzuplGcxBMnF0EmfGV) | [R&B$](https://open.spotify.com/album/3VcdMQIsAByZG1klHEMvcc) | 2:29 |
 | 24 | [Viciado](https://open.spotify.com/track/2utfCVxSXEWN711XL58Ci7) | [Nova Wave](https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv) | [Viciado](https://open.spotify.com/album/19PSSc9iyYbYaal7ePUG6W) | 3:23 |
-| 25 | [Do Corte Alinhado](https://open.spotify.com/track/7DOJWw9IoWxwth6ugSiYJi) | [CJ Oficial](https://open.spotify.com/artist/0U8fdXg8HLIU7FpSFtkacV), [Marquiori](https://open.spotify.com/artist/2ClYSptWSX1ope6qd6sW6p) | [Do Corte Alinhado](https://open.spotify.com/album/0uBvFw719iSqFIYxtLS1bE) | 2:13 |
+| 25 | [Corte Alinhado](https://open.spotify.com/track/7DOJWw9IoWxwth6ugSiYJi) | [CJ Oficial](https://open.spotify.com/artist/0U8fdXg8HLIU7FpSFtkacV), [Marquiori](https://open.spotify.com/artist/2ClYSptWSX1ope6qd6sW6p) | [Corte Alinhado](https://open.spotify.com/album/0uBvFw719iSqFIYxtLS1bE) | 2:13 |
 | 26 | [México](https://open.spotify.com/track/0pDYDKL7Gsd333bEcEgtLO) | [Lake](https://open.spotify.com/artist/7yFz46AJxXLmMGwyHKcJ1p), [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl) | [México](https://open.spotify.com/album/4p8i8HdR8Sk2cM3l5F7q01) | 3:05 |
 | 27 | [Muda](https://open.spotify.com/track/4lfWVSTuepVsLTI7StVGm2) | [Lev GUNS](https://open.spotify.com/artist/7HX1qfljWONJJZK14l3XzQ), [Dani G](https://open.spotify.com/artist/6zTAGL8Jmrm933JZg7e49N) | [Muda](https://open.spotify.com/album/2VKuICLOgdUDEfUWjc7xJe) | 2:38 |
 | 28 | [Dharma](https://open.spotify.com/track/76fzvTxLBTROkZcGWE7vQ5) | [Puro L](https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5) | [O Monge De Wall Street](https://open.spotify.com/album/3Kyc4efKQZ42YSw0jLcoLa) | 4:03 |

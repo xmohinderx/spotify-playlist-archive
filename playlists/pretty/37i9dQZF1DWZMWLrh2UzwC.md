@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,122 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,130 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 18 | [8:13 am](https://open.spotify.com/track/6AIVNYGmj0RTNo1W2zyXyI) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [真美](https://open.spotify.com/album/57LuWhd9WPHVinoiib12XU) | 3:38 |
 | 19 | [CHRISTMAS PARTY \- SB19 VƎRSION](https://open.spotify.com/track/387ZTKanhRfPXazSyzTWUj) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [CHRISTMAS PARTY \(SB19 VƎRSION\)](https://open.spotify.com/album/2UgWskszQ0cez7IH1mvt32) | 4:47 |
 | 20 | [Christmas Last Awhile \(feat\. paulkyte\)](https://open.spotify.com/track/69XPghJUtT6wPhDqwQllz3) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Christmas Last Awhile \(feat\. paulkyte\)](https://open.spotify.com/album/2HXPiOMyatUG4nQrGVJKlw) | 3:06 |
-| 21 | [All I want For Christmas Is You](https://open.spotify.com/track/7uvGieeJ0jk8W0BjoBC0ib) | [Velvet Aduk](https://open.spotify.com/artist/0HXMMVQy5IrTOHU84Llzfs), [Allen Ambrose Mudi](https://open.spotify.com/artist/1BrAce1b2K2tXuIiPLSHTQ) | [All I want For Christmas Is You](https://open.spotify.com/album/0UUEis0zOSzrcvZPRHnuto) | 3:17 |
+| 21 | [All I Want For Christmas Is You](https://open.spotify.com/track/7uvGieeJ0jk8W0BjoBC0ib) | [Velvet Aduk](https://open.spotify.com/artist/0HXMMVQy5IrTOHU84Llzfs) | [All I Want For Christmas Is You](https://open.spotify.com/album/0UUEis0zOSzrcvZPRHnuto) | 3:17 |
 | 22 | [Better Year](https://open.spotify.com/track/6vaMtE36zYgbVIla2hEpJm) | [YNR](https://open.spotify.com/artist/6KNsuFP4y43HfGwlgXGStK), [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [Better Year](https://open.spotify.com/album/5PqOKWa2mMLioqKW4VXQKz) | 2:24 |
 | 23 | [Queens](https://open.spotify.com/track/2dOk0o89ue9pQoNut1ArWm) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN \(Japan Edition\)](https://open.spotify.com/album/0ltOqWTjaKRCkoQ53dDHmy) | 3:10 |
 | 24 | [Come Alive?](https://open.spotify.com/track/6KOC9bdVSSA6cgEUrbL8w4) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [Come Alive?](https://open.spotify.com/album/3xiGhW93GUR8Adu8uyj9Vu) | 3:20 |

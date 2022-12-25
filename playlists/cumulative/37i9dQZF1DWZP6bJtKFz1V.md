@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: spill tab
 
-466 songs - 1 day 0 hr 14 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
+467 songs - 1 day 0 hr 18 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Love Brand New](https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Love Brand New](https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX) | 3:18 | 2022-02-04 | 2022-12-17 |
 | [Love Is All I Bring](https://open.spotify.com/track/363X19MuOxz85oVQ0NsDWa) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Love Is All I Bring](https://open.spotify.com/album/1GKXjRKLwrtGc3SDx24mJf) | 3:27 | 2022-07-08 | 2022-07-21 |
 | [Love Letter \(feat\. The Knocks\)](https://open.spotify.com/track/26wuBc04catG1QQyYupr35) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Love Letter \(feat\. The Knocks\)](https://open.spotify.com/album/1MYXb16TpRvNZiLmscSGDk) | 4:13 | 2022-03-25 | 2022-04-29 |
-| [Lucky \- Edit](https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Lucky](https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl) | 3:16 | 2022-08-05 |  |
+| [Lucky \- Edit](https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Lucky](https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl) | 3:16 | 2022-08-05 | 2022-12-25 |
 | [made for you](https://open.spotify.com/track/3OVfWzWkl7RqsOkysmc5kg) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [made for you](https://open.spotify.com/album/1wMh6vF11HQUcmW45Fwh6k) | 2:52 | 2022-04-01 | 2022-07-29 |
 | [Make This Better](https://open.spotify.com/track/6AX6CNaVys5pYVjiuR9s5L) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Make This Better](https://open.spotify.com/album/5zBoy5WdtSciAkfXGf7vtF) | 2:42 | 2022-04-29 | 2022-07-27 |
 | [Martian Man](https://open.spotify.com/track/3BHXBrDpZSRhmNWExBfYGZ) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Martian Man](https://open.spotify.com/album/2coz3m9rwxsZXdjJWdExI9) | 2:04 | 2022-08-26 |  |
@@ -275,6 +275,7 @@
 | [Move Me](https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Give Me Your Shoulders, Pt\. 1](https://open.spotify.com/album/07Ac7q2KMqblFcVfyWPmig) | 3:36 | 2022-02-25 | 2022-10-29 |
 | [Mr Regular](https://open.spotify.com/track/1P4zbuZbTKc12UxXXZJohl) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Mr Regular](https://open.spotify.com/album/56ivqF23LdiQ6YYRhhdfXy) | 2:54 | 2022-07-22 | 2022-08-13 |
 | [Mr Regular \(feat\. Oliver Tree & Killer Mike\)](https://open.spotify.com/track/5GGeui401dCbJLVno3gYgM) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Mr Regular \(feat\. Oliver Tree & Killer Mike\)](https://open.spotify.com/album/47smPL4rALcoThyXAP5PCl) | 2:54 | 2022-06-03 | 2022-07-27 |
+| [Mr\. 29](https://open.spotify.com/track/168fmRRPvlRujqdnO6LgZl) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Mr\. 29](https://open.spotify.com/album/3pPQuXK5HoZrQphE7RLAMR) | 3:18 | 2022-12-16 |  |
 | [mr\. sunshine](https://open.spotify.com/track/6x984mI891z1E2sVwYumUx) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 8](https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk) | 2:57 | 2022-11-18 |  |
 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 | 2022-03-11 |  |
 | [NAILS](https://open.spotify.com/track/67qVRmg2JynkOZ5olduLAd) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [NAILS](https://open.spotify.com/album/6xNOhGAMlLrxbg0yV7gRNu) | 2:51 | 2022-05-27 | 2022-06-04 |

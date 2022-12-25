@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The top tracks from Fresh Finds R&B in 2022\. Cover: Dylan Sinclair, Destin Conrad, and Jvck James
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,912 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,991 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 24 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 |
 | 25 | [Ride](https://open.spotify.com/track/4olvqOBWTo3avaGFdeJAic) | [Zay Johnny](https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Ride](https://open.spotify.com/album/5JdNEDADKC0WVWCa0Gd3GC) | 2:53 |
 | 26 | [BE FREE](https://open.spotify.com/track/4exp12So2KjvsPwmN2L7r8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [PDF/BE FREE](https://open.spotify.com/album/3JXY3hqrj0r0dOTJjem5p1) | 3:23 |
-| 27 | [Garden](https://open.spotify.com/track/2iV0tCviZeHE073WA8tB2Y) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/7mOkKWGrNLOeD32CdQIPQH) | 2:55 |
+| 27 | [Garden](https://open.spotify.com/track/4nCQ22BkCrnLwNlJUUneTc) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/15qwevfPInT5d4Y0X2I1o0) | 2:55 |
 | 28 | [What to Do](https://open.spotify.com/track/62CSQmNkGVUG23BDiisrm8) | [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [Just Two](https://open.spotify.com/album/0KGn8aKfAO6vSRDfFr6XtU) | 2:27 |
 | 29 | [Perfect Timing](https://open.spotify.com/track/7GJq8XxZby3QLdubVkevYs) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [In The Meantime...](https://open.spotify.com/album/1qUcbrfGhJtaYOpZRna9eX) | 2:10 |
 | 30 | [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 79 | [SUNRISE](https://open.spotify.com/track/5bvsXgDtVaFSg2JFhxL1lH) | [Leuca](https://open.spotify.com/artist/3wCg2Idgypg6OjA0uDYctR) | [SUNRISE](https://open.spotify.com/album/1DI9bwQfWVGOAYkF18mFo7) | 2:55 |
 | 80 | [All On Me](https://open.spotify.com/track/2wyVkxyQT40hOwV0iiv4Nu) | [Benjamin A.D](https://open.spotify.com/artist/4UWmplYALfjUhWM6jZ8ftN) | [All On Me](https://open.spotify.com/album/6z1SOMLN44Hl0zmNRmiWC3) | 2:28 |
 
-Snapshot ID: `MTY3MDMwODgyOCwwMDAwMDAwMDExZDA1Nzc5ZDUxMWRiMmNmMmViOGIzMTUyYWU1OWYz`
+Snapshot ID: `MTY3MDMwODgyOCwwMDAwMDAwMDM1ZTM2MzFkYWE1NjYxMzIwYmQ0NDUwMDM2YjQxNWU3`

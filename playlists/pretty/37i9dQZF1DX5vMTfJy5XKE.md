@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,016 likes - 166 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,130 likes - 166 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 10 | [O Holy Night](https://open.spotify.com/track/4mB8BNXD3ASRsZtJpIJNTE) | [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a), [Trans Chorus of Los Angeles](https://open.spotify.com/artist/4TtD6XNkJlufh7J0quit2c) | [O Holy Night](https://open.spotify.com/album/2NfBG1xSIrUstj0dxFUByP) | 2:44 |
 | 11 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/54H84HFq1hUDEOcYxbTjrL) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0pZykWJQyWBjOY8c2RSRv2) | 2:42 |
 | 12 | [Jingle Bell Rock](https://open.spotify.com/track/2Txst52kJxfvQjVgbCcE2N) | [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Christmas Songs](https://open.spotify.com/album/6TrBZsEdcM4SiIAiEEZJbJ) | 2:20 |
-| 13 | [Holiday Dreaming](https://open.spotify.com/track/659yAq4DwQRjuHkP0K9Pz8) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [The Molly Burch Christmas Album](https://open.spotify.com/album/1aigDgjQuiFg77aCRnyTTq) | 3:30 |
+| 13 | [Holiday Dreaming](https://open.spotify.com/track/5o4ej9ImySc5pS2GvMazVv) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [The Molly Burch Christmas Album \- Expanded](https://open.spotify.com/album/2pNWoLyf7n4o5MHZPXMMeZ) | 3:30 |
 | 14 | [Hallelujah](https://open.spotify.com/track/6P2ZBHJZfp2yltmlk2M2gD) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 3:20 |
 | 15 | [Walking in The Air](https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Walking in The Air](https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51) | 3:59 |
 | 16 | [Do You Hear What I Hear?](https://open.spotify.com/track/4ALkaFHbQZtJ5h1FigF2Ps) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Do You Hear What I Hear?](https://open.spotify.com/album/2FJVY528PwIOfqDkAn25a4) | 3:05 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 165 | [Last Christmas](https://open.spotify.com/track/2ADlV7RigsZc3Lo6kzGczk) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Last Christmas](https://open.spotify.com/album/6gWCpXtACkNTSchRJtD3oo) | 2:48 |
 | 166 | [Just Me This Year](https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Just Me This Year](https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr) | 3:07 |
 
-Snapshot ID: `MTY3MTYzODUxMCwwMDAwMDAwMDM5ZmEwM2UwNzkwMWVmZDViZTVkNDAzNzNkMjI0ZWZi`
+Snapshot ID: `MTY3MTYzODUxMCwwMDAwMDAwMDg4ZTdjYzgzMzU4Mjk3YjFmZGIxMmZhMThjMzFhYjVl`

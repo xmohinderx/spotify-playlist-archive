@@ -4881,6 +4881,24 @@
     {
       "album": {
         "name": "Indi",
+        "url": "https://open.spotify.com/album/3eFlBkbtH9AiyEXXr0YBeT"
+      },
+      "artists": [
+        {
+          "name": "Ceci",
+          "url": "https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200060,
+      "name": "Indi",
+      "url": "https://open.spotify.com/track/6myfz5g9b9U6bQSr4XcKGu"
+    },
+    {
+      "album": {
+        "name": "Indi",
         "url": "https://open.spotify.com/album/37iP4wnkJE5ImiW2Q94nKx"
       },
       "artists": [
@@ -4891,7 +4909,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 200060,
       "name": "Indi",
       "url": "https://open.spotify.com/track/7zeOr0r8bQO5BO9Om7BuAt"
