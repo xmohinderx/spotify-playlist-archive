@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53096,
+  "num_followers": 53093,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDIzZjNkMjdmODc1MTgwNTI2ZWFiMzExZjcxMDBjZGY4",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDBlOGFiNGY1Mjk2MTY4ZTJlNzVhMzBhZjQ2ZWIxNjI1",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -279,22 +279,6 @@
       "duration_ms": 189106,
       "name": "Tonight I Feel Like Kafka",
       "url": "https://open.spotify.com/track/6ojZsSfUuRUC4VxtWLUAdi"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Max Jury",
-        "url": "https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb"
-      },
-      "artists": [
-        {
-          "name": "Max Jury",
-          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
-        }
-      ],
-      "duration_ms": 235936,
-      "name": "Great American Novel",
-      "url": "https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -667,22 +651,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Cultosaurus Erectus",
-        "url": "https://open.spotify.com/album/2w9ox8f1PSz30Ayanrm9C4"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 399106,
-      "name": "Black Blade",
-      "url": "https://open.spotify.com/track/4Nyx3c0IPFITNo42yodlrh"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Com Lag: 2+2=5",
         "url": "https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l"
       },
@@ -695,6 +663,22 @@
       "duration_ms": 238280,
       "name": "Paperbag Writer",
       "url": "https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Cultosaurus Erectus",
+        "url": "https://open.spotify.com/album/2w9ox8f1PSz30Ayanrm9C4"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 399106,
+      "name": "Black Blade",
+      "url": "https://open.spotify.com/track/4Nyx3c0IPFITNo42yodlrh"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -807,6 +791,22 @@
       "duration_ms": 392506,
       "name": "Pattern Recognition",
       "url": "https://open.spotify.com/track/1uWk8vnCYaoZQvCW8KYepP"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
+      },
+      "artists": [
+        {
+          "name": "Little Green Cars",
+          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "Harper Lee",
+      "url": "https://open.spotify.com/track/03F8N51pg6btI2LE5WE8Ld"
     }
   ],
   "unique_name": "The Writer's Playlist",

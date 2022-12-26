@@ -232,6 +232,24 @@
     },
     {
       "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/7e5zGP0I9BPxJ3XzltgfbN"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205413,
+      "name": "Angels' Lullaby",
+      "url": "https://open.spotify.com/track/2QpkZZY4Tx0pzYImvMoaUk"
+    },
+    {
+      "album": {
         "name": "As Time Goes By",
         "url": "https://open.spotify.com/album/2Jr81lF1N4Lq9rGzroCQQR"
       },
@@ -589,7 +607,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 202226,
       "name": "First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,348 likes - 118 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,401 likes - 118 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 15 | [Take On Me](https://open.spotify.com/track/6xAdFwLNed6786FezhUMVS) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits Vol\. 2](https://open.spotify.com/album/2WcSVdRwyvMHAnZKq0FvdE) | 3:44 |
 | 16 | [Rich Girl](https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Rich Girl](https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf) | 3:50 |
 | 17 | [Killing Me Softly](https://open.spotify.com/track/6QgSrNAJU5w3JhyucHXGdk) | [The Barefoot Movement](https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt) | [Killing Me Softly](https://open.spotify.com/album/37giKlWlFrTFv6cIMXXUt4) | 4:02 |
-| 18 | [Song for a Winter's Night](https://open.spotify.com/track/20Dz1YrI5LMrVs1cpGaNMb) | [Rumour Mill](https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6) | [Song for a Winter's Night](https://open.spotify.com/album/57cxci74OPUile2bjgfso2) | 3:35 |
+| 18 | [Song For A Winter's Night](https://open.spotify.com/track/5BA7aoZQbAFRyTnaHpepNJ) | [Rumour Mill](https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6) | [Song For A Winter's Night](https://open.spotify.com/album/2xohh3ZJof8cVR565Ap4GI) | 3:31 |
 | 19 | [Get Lucky](https://open.spotify.com/track/5rs8b6GOWiKokzSjEhCIN8) | [The Beef Seeds](https://open.spotify.com/artist/2Lgu1zUJEcEB1A1tbhUSBR) | [Rhythm and Moo's](https://open.spotify.com/album/5W0SRmCrSDB4ncf86ayv2R) | 3:29 |
 | 20 | [Kryptonite](https://open.spotify.com/track/5nkAJwICnwnzsriZCcastc) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Cornbread Red](https://open.spotify.com/artist/6WGUADHV7LnpbmNi5PhfYO) | [Pickin' On 3 Doors Down: A Bluegrass Tribute \- Down to This:](https://open.spotify.com/album/4j19jxzQmLk1Iqu8jLfbnt) | 3:45 |
 | 21 | [Come On In My Kitchen](https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 4:59 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 117 | [Game of Thrones \(Main Theme\)](https://open.spotify.com/track/58KlChZMUnuITA871NPyls) | [Flatt Lonesome](https://open.spotify.com/artist/5m7v6OS8omwyHvXARri5Zh) | [Game of Thrones \(Main Theme\)](https://open.spotify.com/album/4scGLabYRn5ZGwv7ult8jN) | 5:01 |
 | 118 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDRiOTAzNzQ3NGM5ZmQ5YjNjYzRiOTFjNjEzMzljYTIz`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDYxYjUzZGY3NzE0NGNmZGI3YzUyYmU5MTNmNWU1NWQ5`

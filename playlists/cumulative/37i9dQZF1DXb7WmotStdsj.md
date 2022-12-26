@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Bello.
 
-123 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
+125 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Bechouiya 3la Galbi](https://open.spotify.com/track/073EMBsQPqd4j89yoztZ47) | [Rai Mix](https://open.spotify.com/artist/03sJ8qPVXuuOkHBdswV4pj) | [Dj ANes ReMix Rai](https://open.spotify.com/album/3e4hbnsuCNBmXPXdTDexzO) | 4:05 | 2021-10-19 | 2022-03-26 |
 | [Bghitona natfarko](https://open.spotify.com/track/30SPX8Eue4UhihxU9cio7p) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm) | [Bghitona natfarko](https://open.spotify.com/album/4baIAIwbTC2MqgKeIliPKU) | 2:33 | 2021-10-19 | 2022-09-21 |
 | [Bravo](https://open.spotify.com/track/3v7uGitLi89jWMK5F6BUjh) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Bravo](https://open.spotify.com/album/6YZsunqkk3ZzwDsJtqZHvA) | 3:59 | 2021-10-19 |  |
-| [Bye Bye](https://open.spotify.com/track/03bUz9jtzmYl0XjgxpYvyN) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Bye Bye](https://open.spotify.com/album/6QlLtCE9DUZJJnvLKXgIuv) | 3:31 | 2021-10-19 |  |
+| [Bye Bye](https://open.spotify.com/track/03bUz9jtzmYl0XjgxpYvyN) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Bye Bye](https://open.spotify.com/album/6QlLtCE9DUZJJnvLKXgIuv) | 3:31 | 2021-10-19 | 2022-12-26 |
 | [Bye Bye lmiziria](https://open.spotify.com/track/3KjVFfbEZPUj1076iJHdLA) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Bye Bye lmiziria](https://open.spotify.com/album/503UybXLd49aqSVhY8ufvd) | 5:29 | 2021-10-19 |  |
 | [Cha3ra Wendir Avc](https://open.spotify.com/track/4212sW8gzoojsEClN5LI8L) | [Amine Matlo](https://open.spotify.com/artist/2aFfUpawrHEPOQHzCXMUMZ) | [Cha3ra Wendir Avc](https://open.spotify.com/album/3OY3BSh6ltSis4Q2AT7dD7) | 6:32 | 2022-05-11 |  |
 | [Cheb Redouane Habibi Come To Dubai](https://open.spotify.com/track/7os0JnhRfMpRnq8nxmSUPN) | [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Cheb Redouane Habibi Come To Dubai](https://open.spotify.com/album/6lsOMMzoq17CjREiQrJ4CR) | 4:35 | 2022-09-20 | 2022-12-01 |
@@ -44,6 +44,7 @@
 | [Fi Hawmtek Tayah](https://open.spotify.com/track/49EW3aFH5ORawt7n24NYKm) | [Studio Ganfouda](https://open.spotify.com/artist/6MjJRyqsG53a9FreiOOsxa), [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Fi Hawmtek Tayah](https://open.spotify.com/album/1cmcB8p4CvvbbDJR8rrpfY) | 5:25 | 2022-09-20 |  |
 | [Ga3 Li Srali](https://open.spotify.com/track/4VwGNd7gYBkudOycgXZWpF) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Ga3 Li Srali](https://open.spotify.com/album/2UIsgooFCMOW5g3cVIH6lX) | 3:34 | 2021-10-19 | 2022-09-21 |
 | [Galbek Hnin](https://open.spotify.com/track/4KDcEc96txreeEubzdDPbD) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Galbek Hnin](https://open.spotify.com/album/1MOev2y0PJadIp52sXjwW2) | 4:00 | 2022-11-14 | 2022-11-21 |
+| [Galbi 3lik Nberdah](https://open.spotify.com/track/1dNtGFaYXVYZScOHJDxHop) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A), [Yousri Osqar](https://open.spotify.com/artist/7g2JUs53eAMoNovszsQtay) | [Galbi 3lik Nberdah](https://open.spotify.com/album/3NPdCimnGE3NROx5bGPr4y) | 5:07 | 2022-12-25 |  |
 | [Ghazali](https://open.spotify.com/track/3LhtZaCJX2Z5pGFQGK6nP0) | [Artisan Dz](https://open.spotify.com/artist/1v8wfWfx4RqBm2Mqy1v9o9) | [Ghazali](https://open.spotify.com/album/1BD51EjGSTPgMyfQoA6VwG) | 5:04 | 2022-10-03 | 2022-10-09 |
 | [Ghazali](https://open.spotify.com/track/6JBqQLrTxG8wigGUGshYUN) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [Ghazali](https://open.spotify.com/album/3W7Td1MGNtH7PqGMpbtb57) | 5:04 | 2022-12-05 |  |
 | [GHAZALI](https://open.spotify.com/track/1hZrz8xkp0QEJNNmdKYNVP) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [GHAZALI](https://open.spotify.com/album/7Abvw9BQxOgFT6FTld7zoC) | 5:04 | 2022-10-03 | 2022-10-27 |
@@ -100,7 +101,8 @@
 | [Nabghi Nhawas](https://open.spotify.com/track/2u8hovFZoxDdTAMmgHsiMi) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Nabghi Nhawas](https://open.spotify.com/album/197oMQkYh9nl8SqTrCUM19) | 4:34 | 2022-08-24 |  |
 | [Nad El Borkan](https://open.spotify.com/track/3sphBPmMtnnJTLn49xYiT3) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nad El Borkan](https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU) | 4:16 | 2022-09-20 |  |
 | [Nakareen El Khir](https://open.spotify.com/track/73dNejNw458nkrl9ZxZq36) | [Amine 31](https://open.spotify.com/artist/1FAQqzHTQMSqyDsYCzN6o9) | [Nakareen El Khir](https://open.spotify.com/album/29NpPCEDfXbrTV7Ok4zviR) | 4:58 | 2022-01-31 |  |
-| [Nebghiha Fort](https://open.spotify.com/track/0WNSvpxLKFTLamuLGNjY66) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/7s3899KvA2iBSLOYmYZoY6) | 3:12 | 2022-11-20 |  |
+| [Nebghiha Fort](https://open.spotify.com/track/2wo2GyiPDb0cL9UdQN6DzD) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/0BsMS6fQ7FIgGDuHWUvLIU) | 3:04 | 2022-12-12 |  |
+| [Nebghiha Fort](https://open.spotify.com/track/0WNSvpxLKFTLamuLGNjY66) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/7s3899KvA2iBSLOYmYZoY6) | 3:12 | 2022-11-20 | 2022-12-26 |
 | [Nebki 3la Teswirtek](https://open.spotify.com/track/42UfblYvwCmX9Ri9TNPlVd) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Nebki 3la Teswirtek](https://open.spotify.com/album/1ObCN69iY2W0M7H7l8lxbp) | 5:12 | 2022-09-20 |  |
 | [Nensak Dra3](https://open.spotify.com/track/4M4sHSOBAIlqtPkFikUcMo) | [Abdelkader Belabbes](https://open.spotify.com/artist/5TwUxKiLvqL7Ux6dTqVdhu) | [Nensak Dra3](https://open.spotify.com/album/1rpCdaXwkDNYvwu2dwFtPh) | 4:05 | 2022-09-20 |  |
 | [Nrohlah Wela Yjini L'essentiel Yrangéni](https://open.spotify.com/track/5yqlKsyNTsJ9FyneSZVIbm) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [Nrohlah Wela Yjini L'essentiel Yrangéni](https://open.spotify.com/album/6Aebn10r1Ar2HPXsa5msno) | 5:16 | 2022-09-20 |  |

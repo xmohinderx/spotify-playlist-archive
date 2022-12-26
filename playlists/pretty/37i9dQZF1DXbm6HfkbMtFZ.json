@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 631535,
+  "num_followers": 631774,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDI3MDQwMCwwMDAwMDAwMDViZjQwOTk2ZjE0YjEwZmM4ZmQzNGI0NjcwMTlkMWYz",
+  "snapshot_id": "MTY3MDI3MDQwMCwwMDAwMDAwMDg3NTdlYmYxMmY1MWZlMmJjZTEyZjFjMWQyZDQwYjBl",
   "tracks": [
     {
       "added_at": "2022-12-05 20:00:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
+        "name": "Still Life - EP",
+        "url": "https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "duration_ms": 138394,
+      "name": "Lesson Learnt",
+      "url": "https://open.spotify.com/track/7hXtZAHYedEOK3pGdWD6iQ"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
-        "name": "Still Life - EP",
-        "url": "https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        }
-      ],
-      "duration_ms": 138394,
-      "name": "Lesson Learnt",
-      "url": "https://open.spotify.com/track/7hXtZAHYedEOK3pGdWD6iQ"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "New Me, Same Us",
-        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 207037,
-      "name": "Where You Belong",
-      "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
         "name": "100 Days, 100 Nights",
         "url": "https://open.spotify.com/album/5AaBCtOPHVJMYcDyLgu5BD"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 166766,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4inbFqrP4CS3Ig99dIwfQ1"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
+        "name": "New Me, Same Us",
+        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 207037,
+      "name": "Where You Belong",
+      "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Easier Said Than Done",
+      "url": "https://open.spotify.com/track/7dIPEjXoxkhmNR9S7EQVJ0"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
         "name": "Dark Days [Feat. Sylvan Esso]",
         "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 181212,
       "name": "Dark Days [Feat. Sylvan Esso]",
       "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Easier Said Than Done",
-      "url": "https://open.spotify.com/track/7dIPEjXoxkhmNR9S7EQVJ0"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "Half Mile Harvest",
-        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 231965,
-      "name": "Crying Shame",
-      "url": "https://open.spotify.com/track/0VBKbgt7Q8fvR4B5DrvVph"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
         "name": "Wings At The Speed Of Sound (Archive Collection)",
         "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
       },
@@ -1007,18 +991,34 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "Lazy Days",
-        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
+        "name": "Half Mile Harvest",
+        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
       },
       "artists": [
         {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 222320,
-      "name": "Sun Go Down",
-      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
+      "duration_ms": 231965,
+      "name": "Crying Shame",
+      "url": "https://open.spotify.com/track/0VBKbgt7Q8fvR4B5DrvVph"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/4YiQZDTgl11xZyPKnIMhrQ"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 159013,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/67P7QngMeXMuA1qi9JqlyG"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/4YiQZDTgl11xZyPKnIMhrQ"
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
         }
       ],
-      "duration_ms": 159013,
-      "name": "Summer Days",
-      "url": "https://open.spotify.com/track/67P7QngMeXMuA1qi9JqlyG"
+      "duration_ms": 222320,
+      "name": "Sun Go Down",
+      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "Some Twist",
-        "url": "https://open.spotify.com/album/5BJlXjpFtDVaKC5YouIbOI"
-      },
-      "artists": [
-        {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
-        }
-      ],
-      "duration_ms": 138097,
-      "name": "I Root",
-      "url": "https://open.spotify.com/track/7opFLwPI53eORdmxyv7Y3f"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
         "name": "Always Afternoon",
         "url": "https://open.spotify.com/album/5DaHMJFjoslPtN7m9xDNYi"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 183226,
       "name": "Always Afternoon",
       "url": "https://open.spotify.com/track/6GMaQmdpwGolGyuW6ZJ9X9"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
+        "name": "Some Twist",
+        "url": "https://open.spotify.com/album/5BJlXjpFtDVaKC5YouIbOI"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "duration_ms": 138097,
+      "name": "I Root",
+      "url": "https://open.spotify.com/track/7opFLwPI53eORdmxyv7Y3f"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 191037,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE"
       },
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 191037,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
         "name": "American Love Call",
         "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
       },
@@ -1459,22 +1459,6 @@
       "duration_ms": 198095,
       "name": "Circles",
       "url": "https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
-      },
-      "artists": [
-        {
-          "name": "Neal Francis",
-          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
-        }
-      ],
-      "duration_ms": 390200,
-      "name": "Changes, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -1511,6 +1495,22 @@
       "duration_ms": 232477,
       "name": "Prism",
       "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
+      },
+      "artists": [
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "duration_ms": 390200,
+      "name": "Changes, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
+        "name": "Make You",
+        "url": "https://open.spotify.com/album/2R3BPuzo1srqdas4Y60gL7"
+      },
+      "artists": [
+        {
+          "name": "Famous Yesterday",
+          "url": "https://open.spotify.com/artist/6SQu8AZw8mjUFT6GFxBJ7h"
+        }
+      ],
+      "duration_ms": 170165,
+      "name": "Make You",
+      "url": "https://open.spotify.com/track/7DXQPLHpsoSkDCOmw6jdyf"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
         "name": "Let It Die",
         "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
       },
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "Make You",
-        "url": "https://open.spotify.com/album/2R3BPuzo1srqdas4Y60gL7"
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
       },
       "artists": [
         {
-          "name": "Famous Yesterday",
-          "url": "https://open.spotify.com/artist/6SQu8AZw8mjUFT6GFxBJ7h"
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
         }
       ],
-      "duration_ms": 170165,
-      "name": "Make You",
-      "url": "https://open.spotify.com/track/7DXQPLHpsoSkDCOmw6jdyf"
+      "duration_ms": 195080,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -1647,22 +1663,6 @@
       "duration_ms": 225640,
       "name": "Didn't I - Florent F Rework",
       "url": "https://open.spotify.com/track/3OyOwLshqBHiEOAMBCYQgI"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 195080,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
+        "name": "It'll All Be Over",
+        "url": "https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA"
+      },
+      "artists": [
+        {
+          "name": "Supreme Jubilees",
+          "url": "https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw"
+        }
+      ],
+      "duration_ms": 185480,
+      "name": "It'll All Be Over",
+      "url": "https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
         "name": "Everybody's Heart Is Broken Now (Deluxe)",
         "url": "https://open.spotify.com/album/0bI8EkjX0m9HXgbgZOJPi5"
       },
@@ -1835,6 +1851,22 @@
       "duration_ms": 211547,
       "name": "You Want the Sun",
       "url": "https://open.spotify.com/track/42K7gCdALsYYyaccZzifzU"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
+        "name": "Kids Fallin' In Love",
+        "url": "https://open.spotify.com/album/4Q9CZw1r0QCbFH7AdtYE3g"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 227369,
+      "name": "Kids Fallin' In Love",
+      "url": "https://open.spotify.com/track/4LPiZEE28GPCQPES6Xxy5A"
     },
     {
       "added_at": "2022-12-05 20:00:00",
@@ -1859,38 +1891,6 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "It'll All Be Over",
-        "url": "https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA"
-      },
-      "artists": [
-        {
-          "name": "Supreme Jubilees",
-          "url": "https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw"
-        }
-      ],
-      "duration_ms": 185480,
-      "name": "It'll All Be Over",
-      "url": "https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
-        "name": "Kids Fallin' In Love",
-        "url": "https://open.spotify.com/album/4Q9CZw1r0QCbFH7AdtYE3g"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 227369,
-      "name": "Kids Fallin' In Love",
-      "url": "https://open.spotify.com/track/4LPiZEE28GPCQPES6Xxy5A"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
       },
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2022-12-05 20:00:00",
       "album": {
-        "name": "The Atlantic Ocean",
-        "url": "https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO"
-      },
-      "artists": [
-        {
-          "name": "Richard Swift",
-          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "Lady Luck",
-      "url": "https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe"
-    },
-    {
-      "added_at": "2022-12-05 20:00:00",
-      "album": {
         "name": "Dusk at Cubist Castle",
         "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 112066,
       "name": "Jumping Fences",
       "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
+    },
+    {
+      "added_at": "2022-12-05 20:00:00",
+      "album": {
+        "name": "The Atlantic Ocean",
+        "url": "https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO"
+      },
+      "artists": [
+        {
+          "name": "Richard Swift",
+          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "Lady Luck",
+      "url": "https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe"
     }
   ],
   "unique_name": "Feel Good Dinner",

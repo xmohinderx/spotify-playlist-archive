@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Antía Muíño.
 
-329 songs - 20 hr 16 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
+330 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Al Margen de Ojalá](https://open.spotify.com/track/5cBArlwbcWbtM1bojUohLx) | [Andrés Iwasaki](https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj) | [Al Margen de Ojalá](https://open.spotify.com/album/1r5ZAPQ4xnDARkAXaTXDus) | 5:26 | 2021-12-24 |  |
 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:41 | 2021-12-24 |  |
 | [Alfonsina Y El Mar](https://open.spotify.com/track/2LDFwmbyd2PsVEZFCsZFZZ) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/529vSkrdGV4B5ZdpglN1CA) | 4:39 | 2022-07-22 | 2022-10-14 |
-| [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 | 2022-12-23 |  |
+| [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 | 2022-12-23 | 2022-12-26 |
 | [Alfonsina y el Mar](https://open.spotify.com/track/4QknKPpA2m8Yw8vQimkKHQ) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina y el Mar](https://open.spotify.com/album/06MI02YQmQL6Vz2M4EckSg) | 4:39 | 2021-12-24 | 2022-07-23 |
 | [Alitas de mar \(feat\. Juanito Makandé\)](https://open.spotify.com/track/4YKIrD8XK51XIsqJEpB1Q0) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Juanito Makandé](https://open.spotify.com/artist/72fEVnXpnjN2i2MU99ga0z) | [Alitas de mar \(feat\. Juanito Makandé\)](https://open.spotify.com/album/1JH19MdY6rtR8AZziT1vcw) | 3:14 | 2021-12-24 |  |
 | [Alma Mantra](https://open.spotify.com/track/5LA6XlS8iZGbRlO4Z6lr4G) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Grupo Cluster](https://open.spotify.com/artist/6UaPnqedipLYiyEIj4edj6) | [El Viejo Comunista \(+ Adelantos\)](https://open.spotify.com/album/5SCD19jQdSs6g7RtJup5Po) | 3:09 | 2021-12-24 | 2022-07-29 |
@@ -212,6 +212,7 @@
 | [No Pasarán](https://open.spotify.com/track/01qqX42EpmyAS6mOTKzBB0) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [El Vuelo](https://open.spotify.com/album/11ZYjr4BcCTyu8kAcZ6gA9) | 5:29 | 2021-12-24 | 2022-10-11 |
 | [No quiere volver](https://open.spotify.com/track/70GOXaZNUUuCu1UD4IVeyo) | [Maritune](https://open.spotify.com/artist/5pZKCvKqPprJ96bKy7jjUY) | [No quiere volver](https://open.spotify.com/album/5Of8u654Wk3tYG0gcXOYIM) | 3:43 | 2022-04-01 | 2022-04-26 |
 | [No somos lo que nos dicen que somos](https://open.spotify.com/track/6DKkbcVmw5uzuej6TyMwYk) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Acto II: La \(Des\) Mesura](https://open.spotify.com/album/0UDCnifL25jz7KOpYXfGXu) | 5:27 | 2022-11-11 | 2022-11-26 |
+| [No Ves Tal Vez](https://open.spotify.com/track/4vKh9YiqQQQHq7Bn2IdNbN) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [No Ves Tal Vez](https://open.spotify.com/album/3C4Cqb16lrZSpFoc772AIv) | 3:29 | 2022-12-23 |  |
 | [Nos Ocupamos del Mar \(Hermanos Krahe\)](https://open.spotify.com/track/78JZFiirZ0CcbW8os7scgq) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y) | [Nos Ocupamos del Mar \(Hermanos Krahe\)](https://open.spotify.com/album/0e528evmmuLZaHL87fohAF) | 3:36 | 2022-03-11 | 2022-04-20 |
 | [Noviembre](https://open.spotify.com/track/5Rns0JAdfVtIVPvBBvPbXF) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Noviembre](https://open.spotify.com/album/30vftzA8hNmdZ8ncLZ6mCq) | 4:05 | 2021-12-24 | 2022-07-29 |
 | [Noviembre](https://open.spotify.com/track/4uDVKfmJ8cnn63O5V8ZKeq) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Noviembre](https://open.spotify.com/album/5dbmoIYD1zBB64NzQtMtB7) | 2:50 | 2022-09-28 |  |

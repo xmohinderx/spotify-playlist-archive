@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 77 | [I Could Get Used to This](https://open.spotify.com/track/6qskiiPakXAiR3j0T6YLfv) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 3:04 |
 | 78 | [I Was Thinking I Could Clean Up for Christmas](https://open.spotify.com/track/4NLNaPIqMMrYBUrC7101gg) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 4:23 |
 | 79 | [Medicine Wheel](https://open.spotify.com/track/2uMidV9vh9zHb7CxlI1ezp) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 4:08 |
-| 80 | [Ballantines](https://open.spotify.com/track/0xC8kQIZt4MY12LmKeZb8C) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 2:21 |
-| 81 | [It Takes All Kinds](https://open.spotify.com/track/77QWSeLEVCmoLSlCwVdgIy) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Bachelor No\. 2 \(Or, The Last Remains of the Dodo\)](https://open.spotify.com/album/2oAh7vprZx8iSqoyNxQASX) | 4:06 |
+| 80 | [It Takes All Kinds](https://open.spotify.com/track/77QWSeLEVCmoLSlCwVdgIy) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Bachelor No\. 2 \(Or, The Last Remains of the Dodo\)](https://open.spotify.com/album/2oAh7vprZx8iSqoyNxQASX) | 4:06 |
+| 81 | [Ballantines](https://open.spotify.com/track/0xC8kQIZt4MY12LmKeZb8C) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 2:21 |
 | 82 | [Stupid Thing](https://open.spotify.com/track/5LAinADvuYtEaX1ejM9IdO) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:27 |
 | 83 | [Put Me On Top](https://open.spotify.com/track/2bbzJzaNSdOHECnc2uKnV7) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:28 |
 | 84 | [I See You](https://open.spotify.com/track/2ZIFYxsLlHNCFVTLwZHw3L) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 3:36 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `Mjc4NjU1MDUsMDAwMDAwMDAwNWZjOTc4MzEyNjA2MWMxMzdkMzRiMDZjZDNiOGQxNQ==`
+Snapshot ID: `Mjc4NjY5NDUsMDAwMDAwMDBiZjc4NTlhNzJmMGRkOWI4MTg1ZDQ1ZTc3ODVmY2ZjYQ==`

@@ -4,7 +4,7 @@
 
 > Soothing, soft piano.
 
-203 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/4eLccPUZOHW6eZhftpmYAZ)
+204 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/4eLccPUZOHW6eZhftpmYAZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Felt Improv No\. 31](https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 31](https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC) | 2:24 | 2022-07-01 |  |
 | [Finding The Heavens](https://open.spotify.com/track/5iVgHr0hrCFOvem4Yc75Gc) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Finding The Heavens](https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ) | 2:47 | 2022-02-04 |  |
 | [First Snow](https://open.spotify.com/track/2y4X4kKQSuAIqUJbMHWGke) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [12 Ensemble](https://open.spotify.com/artist/2em3FOAFG3NssO0tWItWuj) | [Winter Songs](https://open.spotify.com/album/1m2B0Df35xza5SfLfskyB2) | 2:27 | 2019-04-17 | 2022-02-05 |
-| [First Steps](https://open.spotify.com/track/78VCEkQtYNDml6W5xXgw81) | [Niklas Blumenthaler](https://open.spotify.com/artist/14PMDJ6ZGkzsHqS51zw6cG), [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [First Steps](https://open.spotify.com/album/7FPTqt19aPN3Wly3go9342) | 2:23 | 2022-02-18 |  |
+| [First Steps](https://open.spotify.com/track/78VCEkQtYNDml6W5xXgw81) | [Niklas Blumenthaler](https://open.spotify.com/artist/14PMDJ6ZGkzsHqS51zw6cG), [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [First Steps](https://open.spotify.com/album/7FPTqt19aPN3Wly3go9342) | 2:23 | 2022-02-18 | 2022-12-26 |
 | [Floating](https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK) | [Gianluca Piacenza](https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS) | [Floating](https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY) | 4:14 | 2022-04-01 |  |
 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 | 2022-02-18 |  |
 | [Fly](https://open.spotify.com/track/37VCPePaHSM2GxHWEt6ffp) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Fly](https://open.spotify.com/album/17mffUTUEHfdKDz1VRuaHx) | 3:49 | 2019-04-17 | 2022-02-05 |
@@ -83,6 +83,7 @@
 | [Fractal](https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Fractal](https://open.spotify.com/album/2cpXYJpQaWwsLKbcDtAJis) | 3:11 | 2022-02-25 |  |
 | [Fractions](https://open.spotify.com/track/38QAogdiLHS54YxFbOO4Jj) | [Gabriel Parker](https://open.spotify.com/artist/4mo8fqMn19RX8Ekf2yz0t4) | [Fractions](https://open.spotify.com/album/5ZVtZ3m4nZBoc0R2paTrKc) | 2:15 | 2019-04-17 | 2022-02-05 |
 | [Fragile](https://open.spotify.com/track/6uQaPMGHgvqYG3Jb2VlKqG) | [Hauschka](https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt) | [Substantial](https://open.spotify.com/album/64LyVOmmmTqVxtmPsyZPmc) | 3:28 | 2019-04-17 | 2022-02-05 |
+| [Fundersom](https://open.spotify.com/track/3gl8vhkqDmqEVN2ZZp7ML8) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Fundersom](https://open.spotify.com/album/0vMpCoijfU4ZT0YBCSmVmx) | 2:01 | 2022-09-20 |  |
 | [Gdansk](https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Gdansk](https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR) | 2:27 | 2022-02-04 |  |
 | [Grey Light](https://open.spotify.com/track/2OT0D7g8Y0CotmE5DYcbvy) | [Francesco Tristano](https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj) | [Piano Circle Songs](https://open.spotify.com/album/0HZffZIK7Q6RCdn8LOI72k) | 4:36 | 2019-04-17 | 2022-02-05 |
 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 | 2022-02-04 |  |

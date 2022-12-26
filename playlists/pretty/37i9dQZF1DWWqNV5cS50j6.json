@@ -1,12 +1,12 @@
 {
   "description": "BROCKHAMPTON makes anti pop.",
-  "num_followers": 681470,
+  "num_followers": 681651,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1NzQ0NiwwMDAwMDAwMGM1Nzk3M2RhN2FkMmZlZWFlNWY0Njc5NDFlYmNmMDNl",
+  "snapshot_id": "MTY3MTU1NzQ0NiwwMDAwMDAwMDEzM2NmYWQwYjcxY2M1NjNhMmE2YjMzMzY3NWI4MTlk",
   "tracks": [
     {
       "added_at": "2022-11-30 19:41:15",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 191478,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "Big Pussy",
         "url": "https://open.spotify.com/album/3aDrSVhq4TRAlAayrAC95o"
       },
@@ -573,20 +589,28 @@
       "url": "https://open.spotify.com/track/2l7IXXGf3d9lcBsDBDQkx9"
     },
     {
-      "added_at": "2022-11-30 19:41:15",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "The Mission",
-        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+        "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
+        "url": "https://open.spotify.com/album/5hDQKtvksHHw2WoISwqLp0"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "Meechy Darko",
+          "url": "https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6"
+        },
+        {
+          "name": "Flatbush Zombies",
+          "url": "https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC"
+        },
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
         }
       ],
-      "duration_ms": 191478,
-      "name": "The Mission",
-      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+      "duration_ms": 144484,
+      "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
+      "url": "https://open.spotify.com/track/2cVowt9WTucunkRTYzPosl"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -635,30 +659,6 @@
       "duration_ms": 114416,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
-        "url": "https://open.spotify.com/album/5hDQKtvksHHw2WoISwqLp0"
-      },
-      "artists": [
-        {
-          "name": "Meechy Darko",
-          "url": "https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6"
-        },
-        {
-          "name": "Flatbush Zombies",
-          "url": "https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC"
-        },
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 144484,
-      "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
-      "url": "https://open.spotify.com/track/2cVowt9WTucunkRTYzPosl"
     },
     {
       "added_at": "2022-12-20 17:30:46",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "IDC",
+        "url": "https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 112666,
+      "name": "IDC",
+      "url": "https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "ANECDOTE (REMIX) [feat. Teezo Touchdown]",
         "url": "https://open.spotify.com/album/7dNHd2eVIHmdiOFMO5K3Ne"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 160941,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/4BWo9epXbwI6wGU7vueUbJ"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "IDC",
-        "url": "https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
-        }
-      ],
-      "duration_ms": 112666,
-      "name": "IDC",
-      "url": "https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/1YfxX6KZuOmVJ9xtKaHwAO"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 179060,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/3KuRIaA6dy6WUk9QIaVMCm"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "CHAOS NOW*",
         "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Vest & Boxers",
-        "url": "https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1"
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/1YfxX6KZuOmVJ9xtKaHwAO"
       },
       "artists": [
         {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
         }
       ],
-      "duration_ms": 177064,
-      "name": "Vest & Boxers",
-      "url": "https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o"
+      "duration_ms": 179060,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/3KuRIaA6dy6WUk9QIaVMCm"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1327,6 +1311,22 @@
       "duration_ms": 167500,
       "name": "Would It Kill You At All",
       "url": "https://open.spotify.com/track/0MFpii15OtF6euR17upS7S"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Made Your Mama Cry",
+        "url": "https://open.spotify.com/album/5lTDpM1X4vqQIFD7jLP17c"
+      },
+      "artists": [
+        {
+          "name": "Nana Lourdes",
+          "url": "https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg"
+        }
+      ],
+      "duration_ms": 158451,
+      "name": "Made Your Mama Cry",
+      "url": "https://open.spotify.com/track/3GROKC4eYt3KVWN3AyMCwL"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1355,22 +1355,6 @@
       "duration_ms": 297640,
       "name": "Don't Ask, Don't Tell (feat. redveil, Sam Truth & Glen the Saiyan)",
       "url": "https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Made Your Mama Cry",
-        "url": "https://open.spotify.com/album/5lTDpM1X4vqQIFD7jLP17c"
-      },
-      "artists": [
-        {
-          "name": "Nana Lourdes",
-          "url": "https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg"
-        }
-      ],
-      "duration_ms": 158451,
-      "name": "Made Your Mama Cry",
-      "url": "https://open.spotify.com/track/3GROKC4eYt3KVWN3AyMCwL"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1411,22 +1395,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "boythots",
-        "url": "https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 137844,
-      "name": "boythots",
-      "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU"
       },
@@ -1439,6 +1407,22 @@
       "duration_ms": 226833,
       "name": "Blue",
       "url": "https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "boythots",
+        "url": "https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 137844,
+      "name": "boythots",
+      "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1593,6 +1577,22 @@
       "url": "https://open.spotify.com/track/1VjFGmdI8jKbs3rCjGfc1G"
     },
     {
+      "added_at": "2022-12-14 20:26:31",
+      "album": {
+        "name": "Extrovert",
+        "url": "https://open.spotify.com/album/3Rbg1yJHg5yf87IkeT7iic"
+      },
+      "artists": [
+        {
+          "name": "Monjola",
+          "url": "https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6"
+        }
+      ],
+      "duration_ms": 186856,
+      "name": "Extrovert",
+      "url": "https://open.spotify.com/track/6yfmbb66n84EZH1bFOH739"
+    },
+    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "Tangerine",
@@ -1609,20 +1609,20 @@
       "url": "https://open.spotify.com/track/6fnEjJ2pkB8q1zglXLXURh"
     },
     {
-      "added_at": "2022-12-14 20:26:31",
+      "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Extrovert",
-        "url": "https://open.spotify.com/album/3Rbg1yJHg5yf87IkeT7iic"
+        "name": "until my heart stops beating",
+        "url": "https://open.spotify.com/album/3w2ZKhoHP7cg7ypyy7sSW6"
       },
       "artists": [
         {
-          "name": "Monjola",
-          "url": "https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6"
+          "name": "modernlove.",
+          "url": "https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh"
         }
       ],
-      "duration_ms": 186856,
-      "name": "Extrovert",
-      "url": "https://open.spotify.com/track/6yfmbb66n84EZH1bFOH739"
+      "duration_ms": 204608,
+      "name": "until my heart stops beating",
+      "url": "https://open.spotify.com/track/0sZ3dRMYJYNr2Y2mffvgb3"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "until my heart stops beating",
-        "url": "https://open.spotify.com/album/3w2ZKhoHP7cg7ypyy7sSW6"
+        "name": "Griffith Park",
+        "url": "https://open.spotify.com/album/07yxHbRLq9yM0RYsdxKiel"
       },
       "artists": [
         {
-          "name": "modernlove.",
-          "url": "https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh"
+          "name": "Carter Ace",
+          "url": "https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz"
         }
       ],
-      "duration_ms": 204608,
-      "name": "until my heart stops beating",
-      "url": "https://open.spotify.com/track/0sZ3dRMYJYNr2Y2mffvgb3"
+      "duration_ms": 201733,
+      "name": "Griffith Park",
+      "url": "https://open.spotify.com/track/2QyOjjcHa5OY31zBlZOF2z"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Griffith Park",
-        "url": "https://open.spotify.com/album/07yxHbRLq9yM0RYsdxKiel"
+        "name": "CHANGE THE CHANNEL",
+        "url": "https://open.spotify.com/album/2Gl4wXz0O0MOGAAWyEHfs6"
       },
       "artists": [
         {
-          "name": "Carter Ace",
-          "url": "https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz"
+          "name": "MIA GLADSTONE",
+          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
         }
       ],
-      "duration_ms": 201733,
-      "name": "Griffith Park",
-      "url": "https://open.spotify.com/track/2QyOjjcHa5OY31zBlZOF2z"
+      "duration_ms": 155675,
+      "name": "CHANGE THE CHANNEL",
+      "url": "https://open.spotify.com/track/7jCwlREfUpw0NCIU23hMhx"
     }
   ],
   "unique_name": "anti pop",

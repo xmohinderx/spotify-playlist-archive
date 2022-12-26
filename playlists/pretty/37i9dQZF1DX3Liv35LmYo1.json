@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 100091,
+  "num_followers": 100118,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMGM5ZDZjYjMwNjEzMTEyZjJjMjZmM2QxZjU2YTE0ZmFm",
+  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMDgxM2FhNzYzMjg0ZGI1ZWU2MGVmMzIxZTU5YmIzOTAy",
   "tracks": [
     {
       "added_at": "2022-12-01 13:00:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Please Keep Shimmering",
-        "url": "https://open.spotify.com/album/1gNXxhIfHLXttmjKSC1TDV"
-      },
-      "artists": [
-        {
-          "name": "Tom VR",
-          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
-        }
-      ],
-      "duration_ms": 263842,
-      "name": "Keep Shimmering",
-      "url": "https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "Blue Hour",
         "url": "https://open.spotify.com/album/2m57meR4I847cmV8m7cNxn"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 211845,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/7lggwV1nP2sMYOieWNvjfw"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Please Keep Shimmering",
+        "url": "https://open.spotify.com/album/1gNXxhIfHLXttmjKSC1TDV"
+      },
+      "artists": [
+        {
+          "name": "Tom VR",
+          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
+        }
+      ],
+      "duration_ms": 263842,
+      "name": "Keep Shimmering",
+      "url": "https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -407,6 +407,26 @@
       "duration_ms": 291657,
       "name": "Us",
       "url": "https://open.spotify.com/track/63yVhTOpbvjkA4kvH1O2yi"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Condition",
+        "url": "https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 224393,
+      "name": "Condition",
+      "url": "https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -467,22 +487,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Heirloom",
-        "url": "https://open.spotify.com/album/29rHqyYnfNh28uhELamXiN"
-      },
-      "artists": [
-        {
-          "name": "KISLO",
-          "url": "https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6"
-        }
-      ],
-      "duration_ms": 283461,
-      "name": "Heirloom",
-      "url": "https://open.spotify.com/track/7oq6vOvJhCrDTTlgmtNiNS"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "Sea To Sky",
         "url": "https://open.spotify.com/album/6vfjmNMRImYGCdH0Umbven"
       },
@@ -503,22 +507,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Condition",
-        "url": "https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV"
+        "name": "Heirloom",
+        "url": "https://open.spotify.com/album/29rHqyYnfNh28uhELamXiN"
       },
       "artists": [
         {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        },
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "KISLO",
+          "url": "https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6"
         }
       ],
-      "duration_ms": 224393,
-      "name": "Condition",
-      "url": "https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj"
+      "duration_ms": 283461,
+      "name": "Heirloom",
+      "url": "https://open.spotify.com/track/7oq6vOvJhCrDTTlgmtNiNS"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
     },
     {
-      "added_at": "2022-12-25 01:16:01",
+      "added_at": "2022-12-26 00:18:45",
       "album": {
         "name": "FREE002",
         "url": "https://open.spotify.com/album/39dE1TNPTHZqcNnKvKN7AB"
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "View from the Aeroplane Window",
-        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
       },
       "artists": [
         {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
         }
       ],
-      "duration_ms": 233346,
-      "name": "View from the Aeroplane Window",
-      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
+      "duration_ms": 282349,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
+        "name": "View from the Aeroplane Window",
+        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
       },
       "artists": [
         {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
         }
       ],
-      "duration_ms": 282349,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
+      "duration_ms": 233346,
+      "name": "View from the Aeroplane Window",
+      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -815,26 +815,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Revelation (Barry Can't Swim Remix)",
-        "url": "https://open.spotify.com/album/3VUcoDNEPn4JneLFXXltLZ"
+        "name": "Standing There",
+        "url": "https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "PBSR",
-          "url": "https://open.spotify.com/artist/1hcR66sinceJiPFq2AgCGs"
-        },
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
         }
       ],
-      "duration_ms": 261741,
-      "name": "Revelation - Barry Can't Swim Remix",
-      "url": "https://open.spotify.com/track/4Z8pgVix2UNvTxqOx2V34n"
+      "duration_ms": 216028,
+      "name": "Standing There",
+      "url": "https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -859,18 +851,26 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Standing There",
-        "url": "https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH"
+        "name": "Revelation (Barry Can't Swim Remix)",
+        "url": "https://open.spotify.com/album/3VUcoDNEPn4JneLFXXltLZ"
       },
       "artists": [
         {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "PBSR",
+          "url": "https://open.spotify.com/artist/1hcR66sinceJiPFq2AgCGs"
+        },
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 216028,
-      "name": "Standing There",
-      "url": "https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63"
+      "duration_ms": 261741,
+      "name": "Revelation - Barry Can't Swim Remix",
+      "url": "https://open.spotify.com/track/4Z8pgVix2UNvTxqOx2V34n"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Setting Sun",
-        "url": "https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 373166,
-      "name": "Setting Sun",
-      "url": "https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 298713,
       "name": "Water",
       "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Setting Sun",
+        "url": "https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 373166,
+      "name": "Setting Sun",
+      "url": "https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Caring EP",
-        "url": "https://open.spotify.com/album/4dOfbULS4YEuZyy1ux3HIW"
+        "name": "breath tapes",
+        "url": "https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA"
       },
       "artists": [
         {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
         }
       ],
-      "duration_ms": 274267,
-      "name": "Shapeless",
-      "url": "https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME"
+      "duration_ms": 215222,
+      "name": "suddenly",
+      "url": "https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1179,6 +1179,22 @@
       "duration_ms": 498001,
       "name": "Inperspect",
       "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Caring EP",
+        "url": "https://open.spotify.com/album/4dOfbULS4YEuZyy1ux3HIW"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 274267,
+      "name": "Shapeless",
+      "url": "https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 297585,
       "name": "Leave Here",
       "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "breath tapes",
-        "url": "https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 215222,
-      "name": "suddenly",
-      "url": "https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH"
     },
     {
       "added_at": "2022-12-01 13:00:00",

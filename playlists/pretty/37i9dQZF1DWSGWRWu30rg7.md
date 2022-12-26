@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Fresh Finds Indonesia mempersembahkan: angkatan 2022 yang bersinar\. \#SpotifyWrapped Cover: Bernadya
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,460 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,485 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

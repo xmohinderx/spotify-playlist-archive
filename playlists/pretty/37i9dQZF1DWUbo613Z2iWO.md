@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > Our favorite R&B artists on the rise! Cover: Ambré
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,019 likes - 113 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,040 likes - 113 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

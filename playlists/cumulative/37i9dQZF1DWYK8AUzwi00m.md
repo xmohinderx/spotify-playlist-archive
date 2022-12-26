@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-289 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/1iD0LJ237Mwsk85XtyHKDf)
+292 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/1iD0LJ237Mwsk85XtyHKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Holy Jolly Christmas](https://open.spotify.com/track/66TPQ0Cw4SvXbCPJGdfwM6) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [A Holy Jolly Christmas](https://open.spotify.com/album/4zgAtGu8evTT3OU541WbcK) | 3:01 | 2022-11-11 |  |
 | [Aesthetic Christmas](https://open.spotify.com/track/2IwjwcZbQbkAPgwtGu8G0s) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Merry Christmas \(Lofi beats\)](https://open.spotify.com/album/3nFx4sv8We0GyLBq1tk7pa) | 2:57 | 2021-12-20 |  |
 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/2h8EHpeJcIVOvWS4r4LwCo) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/album/1E7eg4EWi1s52uiVxp0UfH) | 2:26 | 2022-11-11 |  |
+| [all i want for christmas is lofi](https://open.spotify.com/track/7rNTCi9j9WIc1kxQSor5Ak) | [Kumo City](https://open.spotify.com/artist/0WLyZCjbiZcpPPfM73TtmA) | [all i want for christmas is lofi](https://open.spotify.com/album/1wG31235BfrJ6nbjRmArhT) | 3:02 | 2022-12-25 |  |
 | [all i want for christmas is you](https://open.spotify.com/track/4P9eg12prbMxyI1OsU8hyD) | [slace n' cal](https://open.spotify.com/artist/5oa9uIjqOngcHDuOFdWwzv) | [all i want for christmas is you](https://open.spotify.com/album/5aOjU3qM5OTjAdYHSemefq) | 2:32 | 2022-11-11 |  |
 | [All I Wish for Christmas](https://open.spotify.com/track/0W4x1eYx7HYsWAfZ4vzkSd) | [Tony Thriller](https://open.spotify.com/artist/77eYPd2PnhvGKJHFFMmbR7) | [Lofi Christmas Dream](https://open.spotify.com/album/0X7oGr11TaApOmfPjHGdb9) | 2:02 | 2021-12-20 |  |
 | [All I Wish for Christmas](https://open.spotify.com/track/3TmxaVbyvTP8EOq8mQGp2H) | [Tony Thriller](https://open.spotify.com/artist/77eYPd2PnhvGKJHFFMmbR7) | [Lofi Christmas Dream](https://open.spotify.com/album/3OnJJlpCQHvees2JzvmnoS) | 2:02 | 2021-12-20 | 2022-07-29 |
@@ -152,6 +153,7 @@
 | [Joyeux Noël Mes Amis](https://open.spotify.com/track/496qR8QAdvGMokE5g06cu6) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Joyeux Noël Mes Amis](https://open.spotify.com/album/0pUlrSrq6gcPR6tCZGApMN) | 2:38 | 2022-12-16 |  |
 | [Last Christmas](https://open.spotify.com/track/0C2aYKZSKh02rbMvmcGHll) | [.Uzu](https://open.spotify.com/artist/2yHGwnXMJNGI7bgsl5xagS) | [Last Christmas](https://open.spotify.com/album/199wg1Q2h88X8e8XZjZArK) | 2:34 | 2021-12-20 | 2022-11-12 |
 | [Last Christmas](https://open.spotify.com/track/5nxiA9hklxQ7TOUOcKtDD0) | [Bflynn](https://open.spotify.com/artist/1dqYLAMpwMJc4uFKEzCwfN) | [Hbdj: A Lofi Christmas](https://open.spotify.com/album/4hV6jdo3WofAyY96RoIMe1) | 2:48 | 2021-12-20 | 2022-11-12 |
+| [Last Christmas](https://open.spotify.com/track/7oI18fYvFsZGJ20q1NG05s) | [Kris Kringle](https://open.spotify.com/artist/6MYYrraavGyfyHiV0HMGiU) | [A Lofi Christmas](https://open.spotify.com/album/4V4BG0eK6dGRVTR41PoUZb) | 2:36 | 2022-12-25 |  |
 | [Last Christmas Lo\-Fi](https://open.spotify.com/track/0T11SuRD1LbPDj0QJZrSjE) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Last Christmas Lo\-Fi](https://open.spotify.com/album/1CoBx7PxXi70TtCustoOcq) | 2:08 | 2022-11-11 |  |
 | [latenite](https://open.spotify.com/track/4eaNEchs8ADEH5XfhJlk8K) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 1:58 | 2021-12-20 |  |
 | [latenite](https://open.spotify.com/track/5vSUFyNKpv64p2oIrcHqb9) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/6WYT84o6iLdOkuYTU6858W) | 1:58 | 2021-12-20 | 2022-07-29 |
@@ -255,6 +257,7 @@
 | [Spike the Eggnog](https://open.spotify.com/track/5Ndi8aTYfmjrXYgTOXhYEM) | [Two Dudes](https://open.spotify.com/artist/7B4UaTUFjsPmtPNg2HcLwS) | [Sounds of the Season, Vol\. I](https://open.spotify.com/album/38MuWDkJ0apxRo0nniKlpu) | 2:15 | 2021-12-20 |  |
 | [That’s Christmas To Me](https://open.spotify.com/track/1gFMfxMXkETjtfHUPjAYqD) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [That’s Christmas To Me](https://open.spotify.com/album/6gAxwmPsSel57fMKf7aZ7k) | 2:42 | 2022-11-11 |  |
 | [The Christmas Song](https://open.spotify.com/track/4JwPTsnZYEl85SZhtiDgYR) | [Jazzamass](https://open.spotify.com/artist/3gMOdlsYdkbCobRA1i8Bwb) | [The Christmas Song](https://open.spotify.com/album/556s2vwXqKkEFrGhDKK2Gw) | 1:57 | 2022-11-11 |  |
+| [The Christmas Song](https://open.spotify.com/track/4ZX6yH8H5nNldN8h34AQto) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Spaniel Mac](https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30) | [The Christmas Song](https://open.spotify.com/album/3HwZFyER0XsknO8inC4SVS) | 2:09 | 2022-12-25 |  |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/1jfe1vVK9uruZS6wF9P04Q) | [Ameer Corro](https://open.spotify.com/artist/1H5PsYGFaTqxJUoyr6bD5C), [Sun Kim](https://open.spotify.com/artist/0jcraZwUALvGIS3RtpsWZQ) | [Lofimas \(A Lofi Christmas\)](https://open.spotify.com/album/30YjVa2kQbQ9XmkIGe87RG) | 2:44 | 2021-12-20 | 2022-07-29 |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/44R8mSrOzeIL8h7j2tn4KU) | [Ameer Corro](https://open.spotify.com/artist/1H5PsYGFaTqxJUoyr6bD5C), [Sun Kim](https://open.spotify.com/artist/0jcraZwUALvGIS3RtpsWZQ) | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/album/0MJj6YAUwn9QiLgXSBomyX) | 2:44 | 2021-12-20 | 2022-11-12 |
 | [The First Noel](https://open.spotify.com/track/2L7Pan356vmGe4tIfiLvHd) | [Hadoque](https://open.spotify.com/artist/3nn3OEYb7jVEreIYIqoFR3) | [A Lofi Christmas](https://open.spotify.com/album/0QJZU8Vi8bboQZLziY1lst) | 3:09 | 2021-12-20 |  |

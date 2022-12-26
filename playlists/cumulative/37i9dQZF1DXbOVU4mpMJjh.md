@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-470 songs - 1 day 13 hr 37 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+471 songs - 1 day 13 hr 41 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Blue Thoughts](https://open.spotify.com/track/7hvSyIZ9zoCASvdRjnQaQ6) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [Blue Thoughts](https://open.spotify.com/album/6Y74yq4aQLCrlY2Iqt6Tw6) | 2:21 | 2022-04-28 | 2022-10-08 |
 | [Blues for Sharpie](https://open.spotify.com/track/3gPr9tbx4jSM0nS6O9J5UZ) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 5:29 | 2022-04-14 | 2022-09-23 |
 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 | 2022-04-14 | 2022-09-16 |
-| [Bring Me Yesterday](https://open.spotify.com/track/0jGhhONiu7NOpOqrnTBh8d) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [October Blue](https://open.spotify.com/album/7kZPEYeThqDrK4xfb4LJJh) | 3:23 | 2022-11-11 |  |
+| [Bring Me Yesterday](https://open.spotify.com/track/0jGhhONiu7NOpOqrnTBh8d) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [October Blue](https://open.spotify.com/album/7kZPEYeThqDrK4xfb4LJJh) | 3:23 | 2022-11-11 | 2022-12-26 |
 | [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-08-16 |  |
 | [Butterscotch](https://open.spotify.com/track/39PpSNPOIoOtam0j0e2f03) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In The Moment](https://open.spotify.com/album/67IGAmmZ4PW7h8GbpKTpgj) | 2:39 | 2022-04-14 | 2022-05-03 |
 | [Bye Bye Blackbird](https://open.spotify.com/track/2iGbLTqpJYeH3tMWuQ8I1z) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Bye Bye Blackbird](https://open.spotify.com/album/20amhdyesQ1J8ngfDMv6nr) | 3:07 | 2022-04-14 | 2022-09-23 |
@@ -229,6 +229,7 @@
 | [L.A\. 58](https://open.spotify.com/track/0jqMv6eLhPbsFbKlHsV9hv) | [Aldo Romano](https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF) | [Mélodies en noir & blanc](https://open.spotify.com/album/019jkstAav7gCfwinh0asK) | 4:06 | 2022-04-14 | 2022-10-08 |
 | [La fin justifie les moyens](https://open.spotify.com/track/1zowWjoCroDC3WZYxbrlNQ) | [Joran Cariou Trio](https://open.spotify.com/artist/0EmoB83lbpEcH9Eh77Sp9K), [Damien Varaillon](https://open.spotify.com/artist/0cE8R1W0Cc2wQIDZPdJJ2M), [Stéphane Adsuar](https://open.spotify.com/artist/1r3aAqkG4KRnk2syAoqSd2) | [The Path Up](https://open.spotify.com/album/54mnf1vkHCoNfWDP0Hu3dG) | 7:13 | 2022-04-14 | 2022-09-23 |
 | [Landmarks](https://open.spotify.com/track/5bjV2B1rH2gkdtJ4qr0qQy) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Landmarks](https://open.spotify.com/album/5InHDZVvNbDDvq917BmMgT) | 8:20 | 2022-04-14 | 2022-10-03 |
+| [Last Time](https://open.spotify.com/track/1hJDVrOqH92eenr4R1xDge) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Last Time](https://open.spotify.com/album/0jagdC0GzcXXZ3K8K7pubH) | 3:31 | 2022-12-22 |  |
 | [Laura](https://open.spotify.com/track/5c6uQOFSUzRGOiEVdDB6Zx) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Laura](https://open.spotify.com/album/53Vz2jcWzo7abWsSzjBWrj) | 4:04 | 2022-08-29 | 2022-12-13 |
 | [Leave Me Here](https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX) | [Hidden Beauty](https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF) | 4:03 | 2022-04-14 | 2022-10-08 |
 | [Let There Be Love](https://open.spotify.com/track/2YsxdgfdysICWS4Mrn25hd) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Ultimate Collection](https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od) | 2:46 | 2022-04-14 | 2022-05-25 |

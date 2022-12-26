@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Wajeed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,090 likes - 106 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,112 likes - 106 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

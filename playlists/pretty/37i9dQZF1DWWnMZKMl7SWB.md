@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,762 likes - 219 songs - 13 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,760 likes - 219 songs - 13 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 89 | [Chateau \- Holmsey Remix](https://open.spotify.com/track/3asXkEqb2qAgyCBHTwJ4oL) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr), [Holmsey](https://open.spotify.com/artist/1MLYmLwA6D9xQUwsHdDYKI) | [Chateau \(Holmsey Remix\)](https://open.spotify.com/album/3IFc27niCIYyyrbEAl2RTk) | 4:00 |
 | 90 | [Your Love \(feat\. Neigh\)](https://open.spotify.com/track/15OVL6MDpdHHIVUcd9mfHM) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi), [Neigh](https://open.spotify.com/artist/0zyYd1BIWulWzSzmt4rcue) | [Your Love \(feat\. Neigh\)](https://open.spotify.com/album/0SSlnv6FtEurI3bkbMekf7) | 2:53 |
 | 91 | [Test the Waters](https://open.spotify.com/track/4zDZY6XnZRjGlRDr9h5gOG) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS) | [Love & Retrograde](https://open.spotify.com/album/1PpnNxo4uBSSLWSNT0S920) | 3:48 |
-| 92 | [Clarity](https://open.spotify.com/track/3nXapkwJPBvHDG5u3PLRGp) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Model Man](https://open.spotify.com/album/1SCoPxlKCVvW2DqWI2Ddfu) | 4:05 |
+| 92 | [Clarity](https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Model Man](https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4) | 4:05 |
 | 93 | [40 Love](https://open.spotify.com/track/3HCoyY47D7po1xC1y7HsBU) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [40 Love](https://open.spotify.com/album/69geYIK32L6nCd4Btqdeh6) | 3:00 |
 | 94 | [Deserter](https://open.spotify.com/track/1YPsBcPaUgzDLVMnkNjezF) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Down Here with You](https://open.spotify.com/album/6WqF77ilKp8ui2RlGIYmAp) | 3:30 |
 | 95 | [Travellers](https://open.spotify.com/track/1bJIEtBbAA5RKl6vo6v0es) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Travellers](https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe) | 3:20 |
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 218 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 219 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MTY3MDU5MTY5OSwwMDAwMDAwMGIxMzA0OTA2ODEwNWIzMGIxZDViYmI5YWI0NmRlYzZm`
+Snapshot ID: `MTY3MDU5MTY5OSwwMDAwMDAwMGE0NDcxYzYwMWYwNmVkYjg3MzhiMDk1NjE0ZWQwNTMw`

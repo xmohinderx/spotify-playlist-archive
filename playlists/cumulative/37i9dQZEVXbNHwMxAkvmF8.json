@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 260706,
       "name": "A sz\u00fcrke Pat\u00e1s",
       "url": "https://open.spotify.com/track/5Oyji0CLU1eZeKn8V9rILD"
@@ -255,6 +255,24 @@
       "duration_ms": 172235,
       "name": "Add Nekem",
       "url": "https://open.spotify.com/track/4Y4C89YbMhZqpOfu4wcmOp"
+    },
+    {
+      "album": {
+        "name": "H\u00f3ban \u00c9bred... (Az \u00dcnnep Dalai)",
+        "url": "https://open.spotify.com/album/2ODRdmlfGMVOdl5ekka8RL"
+      },
+      "artists": [
+        {
+          "name": "Csondor Kata",
+          "url": "https://open.spotify.com/artist/6bMCVNXzD05FAXAQTENiP9"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186746,
+      "name": "Add Tov\u00e1bb - H\u00f3ban \u00c9bred",
+      "url": "https://open.spotify.com/track/0u9d3S4SvsWhyrAUSRQak9"
     },
     {
       "album": {
@@ -345,7 +363,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 268240,
       "name": "Aj\u00e1nd\u00e9k",
       "url": "https://open.spotify.com/track/0a0zPUrwviAua4IhhaYUsP"
@@ -385,6 +403,24 @@
       "duration_ms": 109064,
       "name": "ALB\u00c1N TYGA INTERLUDE",
       "url": "https://open.spotify.com/track/5JTqGjzGa6d5byvxDIQDqc"
+    },
+    {
+      "album": {
+        "name": "LP1",
+        "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
+      },
+      "artists": [
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181144,
+      "name": "All I Want (For Christmas)",
+      "url": "https://open.spotify.com/track/0JM8LI4HxrQs2Reqr2naYo"
     },
     {
       "album": {
@@ -1734,6 +1770,28 @@
     },
     {
       "album": {
+        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
+        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
+      },
+      "artists": [
+        {
+          "name": "Mykola Dmytrovych Leontovych",
+          "url": "https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85266,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
+    },
+    {
+      "album": {
         "name": "Cella",
         "url": "https://open.spotify.com/album/6dggcvgiT5YjDX6CUOxTNS"
       },
@@ -1839,7 +1897,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 242495,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
@@ -2117,7 +2175,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -2161,7 +2219,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 150000,
       "name": "Csinibaba",
       "url": "https://open.spotify.com/track/33zWUivvsRkfnOYx4FUmPt"
@@ -3549,7 +3607,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 156038,
       "name": "Forog a vil\u00e1g",
       "url": "https://open.spotify.com/track/1cf5u4F1zIvn9wUjhqzxm9"
@@ -3567,7 +3625,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 203529,
       "name": "four moods",
       "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
@@ -4773,7 +4831,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 264826,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ"
@@ -4795,7 +4853,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -5097,7 +5155,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
@@ -5275,7 +5333,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 120693,
       "name": "Jingle Bells - Remastered 1999",
       "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
@@ -5947,7 +6005,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
@@ -8249,7 +8307,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 140480,
       "name": "Papa",
       "url": "https://open.spotify.com/track/3XKdJfbBwnxUnn5tdaJoYL"
@@ -8873,7 +8931,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 137000,
       "name": "Pullup",
       "url": "https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155"
@@ -9639,7 +9697,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 143773,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/6a1hzBiTkgqTsDA0Xgfh9z"
@@ -10185,7 +10243,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 272393,
       "name": "Step Into Christmas",
       "url": "https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT"
@@ -10793,7 +10851,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 261626,
       "name": "Thank God It's Christmas - Non-Album Single",
       "url": "https://open.spotify.com/track/2xGO2UjzxeVQSIkyg98vck"
@@ -10959,7 +11017,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 124186,
       "name": "Tilidin",
       "url": "https://open.spotify.com/track/3kmBT0nbeNoaRlFMZbAOfb"
@@ -11133,7 +11191,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 166164,
       "name": "Topshit",
       "url": "https://open.spotify.com/track/6w9aIT3TyqClXIcKyw6W1a"
@@ -11303,7 +11361,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
@@ -11525,7 +11583,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 187105,
       "name": "V\u00e1rn\u00e9k",
       "url": "https://open.spotify.com/track/0nQuoTxzDIVoWzaTgF5xtW"

@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 208230,
+  "num_followers": 208250,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMGU1MzdmZGY2YTAzYzEzMmJhOGQ1ZDkzYmI2MzgwYzI2",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMGVhOWFiMTcxOGM3Y2RlNGRkMmQ0ODJkZmEwYjI1N2Ex",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Elixir",
+        "url": "https://open.spotify.com/album/1IMGSrqAcD0F6aTtd5X4RV"
+      },
+      "artists": [
+        {
+          "name": "Pamela Williams",
+          "url": "https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM"
+        }
+      ],
+      "duration_ms": 202129,
+      "name": "Frobidden Fruit",
+      "url": "https://open.spotify.com/track/5AtQKKuYkuGbdQOXAvxGCN"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "The Golden Hour",
         "url": "https://open.spotify.com/album/60IyGGYt7i028SO7QQdSb1"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 185340,
       "name": "Today",
       "url": "https://open.spotify.com/track/2q31jbhT4UKTd0hD79yPJQ"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Elixir",
-        "url": "https://open.spotify.com/album/1IMGSrqAcD0F6aTtd5X4RV"
-      },
-      "artists": [
-        {
-          "name": "Pamela Williams",
-          "url": "https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM"
-        }
-      ],
-      "duration_ms": 202129,
-      "name": "Frobidden Fruit",
-      "url": "https://open.spotify.com/track/5AtQKKuYkuGbdQOXAvxGCN"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Leave It to the Gods",
-        "url": "https://open.spotify.com/album/6VEDP9KD6ndDnNnBene1aX"
-      },
-      "artists": [
-        {
-          "name": "D.S. Wilson",
-          "url": "https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO"
-        }
-      ],
-      "duration_ms": 266506,
-      "name": "Leave It to the Gods",
-      "url": "https://open.spotify.com/track/3DvdHFeQ3AeZNzxHy61Gcu"
-    },
-    {
       "added_at": "2022-08-05 04:02:00",
       "album": {
         "name": "Funky Fridays, Vol. 2",
@@ -571,6 +555,22 @@
       "duration_ms": 199989,
       "name": "ML Funk",
       "url": "https://open.spotify.com/track/3wTiWUgjbqyVZljheQ7Jeo"
+    },
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Leave It to the Gods",
+        "url": "https://open.spotify.com/album/6VEDP9KD6ndDnNnBene1aX"
+      },
+      "artists": [
+        {
+          "name": "D.S. Wilson",
+          "url": "https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO"
+        }
+      ],
+      "duration_ms": 266506,
+      "name": "Leave It to the Gods",
+      "url": "https://open.spotify.com/track/3DvdHFeQ3AeZNzxHy61Gcu"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -667,26 +667,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Backyard Brew",
-        "url": "https://open.spotify.com/album/6KhzqoYV7Ec7jjtmE4WZbS"
-      },
-      "artists": [
-        {
-          "name": "The JT Project",
-          "url": "https://open.spotify.com/artist/2xTYEWbPLMXfJkew3Z8RVE"
-        },
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 254376,
-      "name": "Backyard Brew",
-      "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Soul City",
         "url": "https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 230696,
       "name": "Soul City",
       "url": "https://open.spotify.com/track/5H6VCCvafjEQWIrnui0wOd"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Backyard Brew",
+        "url": "https://open.spotify.com/album/6KhzqoYV7Ec7jjtmE4WZbS"
+      },
+      "artists": [
+        {
+          "name": "The JT Project",
+          "url": "https://open.spotify.com/artist/2xTYEWbPLMXfJkew3Z8RVE"
+        },
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 254376,
+      "name": "Backyard Brew",
+      "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -741,20 +741,20 @@
       "url": "https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "The Goddess",
-        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
+        "name": "Just Funkin' Around",
+        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
       },
       "artists": [
         {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+          "name": "Pieces Of A Dream",
+          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
         }
       ],
-      "duration_ms": 246458,
-      "name": "The Goddess",
-      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
+      "duration_ms": 289586,
+      "name": "Right Back Atcha",
+      "url": "https://open.spotify.com/track/2QioAmckSszJB7cvJZ5k0j"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -789,20 +789,36 @@
       "url": "https://open.spotify.com/track/0PClILX1b9qL40YodPjBzS"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
+      "added_at": "2021-10-01 04:02:00",
       "album": {
-        "name": "Just Funkin' Around",
-        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
+        "name": "The Goddess",
+        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
       },
       "artists": [
         {
-          "name": "Pieces Of A Dream",
-          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
         }
       ],
-      "duration_ms": 289586,
-      "name": "Right Back Atcha",
-      "url": "https://open.spotify.com/track/2QioAmckSszJB7cvJZ5k0j"
+      "duration_ms": 246458,
+      "name": "The Goddess",
+      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Romance Language",
+        "url": "https://open.spotify.com/album/6evpmPsZzuiEp1sWPbgg75"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 288731,
+      "name": "I Wish I Wasn't",
+      "url": "https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -839,22 +855,6 @@
       "duration_ms": 232733,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/4V3dOJuQQwy0kjSWBkO0Ay"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Romance Language",
-        "url": "https://open.spotify.com/album/6evpmPsZzuiEp1sWPbgg75"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 288731,
-      "name": "I Wish I Wasn't",
-      "url": "https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "City Beat",
-        "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
-      },
-      "artists": [
-        {
-          "name": "Michael J Thomas",
-          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
-        }
-      ],
-      "duration_ms": 242933,
-      "name": "City Beat",
-      "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Summer Madness",
         "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 243146,
       "name": "Cachaca",
       "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "City Beat",
+        "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
+      },
+      "artists": [
+        {
+          "name": "Michael J Thomas",
+          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "City Beat",
+      "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "G (Bonus Version)",
-        "url": "https://open.spotify.com/album/7gKMIxgMTUdd4D6kNQwDRR"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 244600,
-      "name": "Taking Control",
-      "url": "https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "As the Days Go by...",
         "url": "https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "The Best of Walter Beasley: The Affable Years, Vol. 1",
-        "url": "https://open.spotify.com/album/6htMbWB5n9O15lmgQ4r3Oq"
+        "name": "G (Bonus Version)",
+        "url": "https://open.spotify.com/album/7gKMIxgMTUdd4D6kNQwDRR"
       },
       "artists": [
         {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
         }
       ],
-      "duration_ms": 229640,
-      "name": "Barack's Groove",
-      "url": "https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju"
+      "duration_ms": 244600,
+      "name": "Taking Control",
+      "url": "https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1171,6 +1155,22 @@
       "duration_ms": 254011,
       "name": "Crown Royal",
       "url": "https://open.spotify.com/track/4mZbsrWprSBCb61ZSMI6XR"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "The Best of Walter Beasley: The Affable Years, Vol. 1",
+        "url": "https://open.spotify.com/album/6htMbWB5n9O15lmgQ4r3Oq"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Barack's Groove",
+      "url": "https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Breakin' Thru",
-        "url": "https://open.spotify.com/album/24dW1Q7SRpwk4R1FXuolVI"
-      },
-      "artists": [
-        {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        }
-      ],
-      "duration_ms": 270968,
-      "name": "Breakin' Thru",
-      "url": "https://open.spotify.com/track/4hHPO7Vt4eGqEPreB35Tn7"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Sweetness",
         "url": "https://open.spotify.com/album/0fEG5FbdY24aA6sSlceKEW"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 410753,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/6XqIJu5pvnmk2hYjne89E9"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Breakin' Thru",
+        "url": "https://open.spotify.com/album/24dW1Q7SRpwk4R1FXuolVI"
+      },
+      "artists": [
+        {
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+        }
+      ],
+      "duration_ms": 270968,
+      "name": "Breakin' Thru",
+      "url": "https://open.spotify.com/track/4hHPO7Vt4eGqEPreB35Tn7"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -1365,6 +1365,22 @@
       "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
     },
     {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Say What",
+        "url": "https://open.spotify.com/album/4Sv7jKSOmNE0Lhagi9DKlo"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 227077,
+      "name": "Say What",
+      "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Summer Feelin'",
@@ -1383,22 +1399,6 @@
       "duration_ms": 238887,
       "name": "Summer Feelin'",
       "url": "https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Say What",
-        "url": "https://open.spotify.com/album/4Sv7jKSOmNE0Lhagi9DKlo"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 227077,
-      "name": "Say What",
-      "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Pulling Off The Covers",
-        "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
-      },
-      "artists": [
-        {
-          "name": "Mike Phillips",
-          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
-        }
-      ],
-      "duration_ms": 248880,
-      "name": "Setembro",
-      "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 217022,
       "name": "You're My Joy",
       "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Pulling Off The Covers",
+        "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
+      },
+      "artists": [
+        {
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+        }
+      ],
+      "duration_ms": 248880,
+      "name": "Setembro",
+      "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
     },
     {
       "added_at": "2021-07-12 18:23:33",

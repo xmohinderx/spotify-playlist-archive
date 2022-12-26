@@ -1,13 +1,33 @@
 {
   "description": "Les meilleurs tubes Ra\u00ef du moment que vous entendez partout. Cover: Cheb Bello.",
-  "num_followers": 148506,
+  "num_followers": 148627,
   "original_name": "Ra\u00ef Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDgzMDI1OSwwMDAwMDAwMDBjNGUzOTQ0OTgwODcwMzAzYzA3ZWZkMzljZGQ4OGIx",
+  "snapshot_id": "MTY3MTk2MjQ1MywwMDAwMDAwMGE5Zjk2MDgxYzNkMTgxODZjNDRlYWIzODY5ZDE5ZjU4",
   "tracks": [
+    {
+      "added_at": "2022-12-25 10:00:53",
+      "album": {
+        "name": "Galbi 3lik Nberdah",
+        "url": "https://open.spotify.com/album/3NPdCimnGE3NROx5bGPr4y"
+      },
+      "artists": [
+        {
+          "name": "Sofiane Asla",
+          "url": "https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A"
+        },
+        {
+          "name": "Yousri Osqar",
+          "url": "https://open.spotify.com/artist/7g2JUs53eAMoNovszsQtay"
+        }
+      ],
+      "duration_ms": 307524,
+      "name": "Galbi 3lik Nberdah",
+      "url": "https://open.spotify.com/track/1dNtGFaYXVYZScOHJDxHop"
+    },
     {
       "added_at": "2022-12-12 07:30:59",
       "album": {
@@ -44,7 +64,7 @@
       "added_at": "2022-12-12 07:30:59",
       "album": {
         "name": "Nebghiha Fort",
-        "url": "https://open.spotify.com/album/7s3899KvA2iBSLOYmYZoY6"
+        "url": "https://open.spotify.com/album/0BsMS6fQ7FIgGDuHWUvLIU"
       },
       "artists": [
         {
@@ -52,9 +72,9 @@
           "url": "https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb"
         }
       ],
-      "duration_ms": 192864,
+      "duration_ms": 184032,
       "name": "Nebghiha Fort",
-      "url": "https://open.spotify.com/track/0WNSvpxLKFTLamuLGNjY66"
+      "url": "https://open.spotify.com/track/2wo2GyiPDb0cL9UdQN6DzD"
     },
     {
       "added_at": "2022-12-12 07:30:59",
@@ -351,22 +371,6 @@
       "duration_ms": 278000,
       "name": "Zidini 3ich9ane",
       "url": "https://open.spotify.com/track/78xAW5L8hxmBHnZtIqjyZf"
-    },
-    {
-      "added_at": "2022-12-12 07:30:59",
-      "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/6QlLtCE9DUZJJnvLKXgIuv"
-      },
-      "artists": [
-        {
-          "name": "Amine Babylone",
-          "url": "https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3"
-        }
-      ],
-      "duration_ms": 211696,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/03bUz9jtzmYl0XjgxpYvyN"
     },
     {
       "added_at": "2022-12-12 07:30:59",

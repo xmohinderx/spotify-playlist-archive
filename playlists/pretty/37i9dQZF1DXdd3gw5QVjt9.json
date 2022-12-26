@@ -1,12 +1,12 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1222063,
+  "num_followers": 1222056,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDU5MjhhZGYyNmZlYTM1Y2Q1MDYyOGQzNGUxNmY1Nzk5",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGI3N2I1NWU0OTViMDVhYzFlOGQ0NTgzNzljMGFiM2U3",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Celeste EP",
+        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
+      },
+      "artists": [
+        {
+          "name": "Ezra Vine",
+          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+        }
+      ],
+      "duration_ms": 203309,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
       },
@@ -627,18 +643,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Celeste EP",
-        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
+        "name": "This Empty Northern Hemisphere",
+        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
       "artists": [
         {
-          "name": "Ezra Vine",
-          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 203309,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
+      "duration_ms": 178346,
+      "name": "Virginia May",
+      "url": "https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -659,22 +675,6 @@
       "duration_ms": 240787,
       "name": "Consolation Prize",
       "url": "https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "This Empty Northern Hemisphere",
-        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 178346,
-      "name": "Virginia May",
-      "url": "https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Sweet Misery",
-        "url": "https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 189329,
-      "name": "Sweet Misery",
-      "url": "https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Redemption (From the Apple Original Film \u201cPalmer\u201d)",
         "url": "https://open.spotify.com/album/2d9J4LzLm6h9eNIg8COFCB"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 298935,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/7sJIqdSLw7lvQUsX2NOxJB"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Sweet Misery",
+        "url": "https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 189329,
+      "name": "Sweet Misery",
+      "url": "https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Love and Chains",
-        "url": "https://open.spotify.com/album/4lvDFolhKDR42KqeDPPBvT"
-      },
-      "artists": [
-        {
-          "name": "Vivian Leva",
-          "url": "https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H"
-        },
-        {
-          "name": "Riley Calcagno",
-          "url": "https://open.spotify.com/artist/2n5rNh7Wb7FFhnijzCPfii"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Love and Chains",
-      "url": "https://open.spotify.com/track/0nGmvNB4K3bSexD4xNaFgZ"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "No Rain, No Rose",
         "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 266894,
       "name": "Highway Blood",
       "url": "https://open.spotify.com/track/5e6kMwY5gD9sYEEMUl4RbU"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Love and Chains",
+        "url": "https://open.spotify.com/album/4lvDFolhKDR42KqeDPPBvT"
+      },
+      "artists": [
+        {
+          "name": "Vivian Leva",
+          "url": "https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H"
+        },
+        {
+          "name": "Riley Calcagno",
+          "url": "https://open.spotify.com/artist/2n5rNh7Wb7FFhnijzCPfii"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Love and Chains",
+      "url": "https://open.spotify.com/track/0nGmvNB4K3bSexD4xNaFgZ"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        }
-      ],
-      "duration_ms": 154491,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "by design",
         "url": "https://open.spotify.com/album/2iKnUX26YQtb43UgO0yLBr"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 315294,
       "name": "quite alright",
       "url": "https://open.spotify.com/track/1LEGkagVxaB3oEjfbhz2a1"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "duration_ms": 154491,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c"
     },
     {
       "added_at": "2022-10-07 04:00:00",

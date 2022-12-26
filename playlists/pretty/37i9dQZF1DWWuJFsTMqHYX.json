@@ -1,12 +1,12 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 212609,
+  "num_followers": 212881,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDgzMDA0MywwMDAwMDAwMDQ1NzJjNWQxMjU4Nzc5NDRhZWUzZDdlZmUyYjkyNmY0",
+  "snapshot_id": "MTY3MDgzMDA0MywwMDAwMDAwMDE1YzMwMThiODY2ZjJjOGQwNTAwN2YwMmUxYTg1MGEz",
   "tracks": [
     {
       "added_at": "2022-12-12 07:27:22",
@@ -115,22 +115,6 @@
     {
       "added_at": "2022-12-12 07:27:22",
       "album": {
-        "name": "El Aaiun Egdat",
-        "url": "https://open.spotify.com/album/1M46BfgAnMu8p5P8DjUQ1p"
-      },
-      "artists": [
-        {
-          "name": "Mariem Hassan",
-          "url": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
-        }
-      ],
-      "duration_ms": 266123,
-      "name": "Arrabi al Arabe",
-      "url": "https://open.spotify.com/track/4anx9dy5q5vU1B0kwNRmrR"
-    },
-    {
-      "added_at": "2022-12-12 07:27:22",
-      "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 279346,
       "name": "Tamiditine",
       "url": "https://open.spotify.com/track/2st24VONuY9hqiGAPkhyua"
+    },
+    {
+      "added_at": "2022-12-12 07:27:22",
+      "album": {
+        "name": "El Aaiun Egdat",
+        "url": "https://open.spotify.com/album/1M46BfgAnMu8p5P8DjUQ1p"
+      },
+      "artists": [
+        {
+          "name": "Mariem Hassan",
+          "url": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
+        }
+      ],
+      "duration_ms": 266123,
+      "name": "Arrabi al Arabe",
+      "url": "https://open.spotify.com/track/4anx9dy5q5vU1B0kwNRmrR"
     },
     {
       "added_at": "2022-12-12 07:27:22",
@@ -271,62 +271,6 @@
     {
       "added_at": "2022-12-12 07:27:22",
       "album": {
-        "name": "Kel Tamasheq (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH"
-      },
-      "artists": [
-        {
-          "name": "Liya Ag Ablil",
-          "url": "https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5"
-        },
-        {
-          "name": "Nadia Nid El Mourid",
-          "url": "https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb"
-        },
-        {
-          "name": "Abdallah Ag Ahmed",
-          "url": "https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS"
-        },
-        {
-          "name": "Mathias Vaguenez",
-          "url": "https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d"
-        },
-        {
-          "name": "Sanou Ag Ahmed",
-          "url": "https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY"
-        },
-        {
-          "name": "Yamina Nid El Mourid",
-          "url": "https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS"
-        }
-      ],
-      "duration_ms": 284840,
-      "name": "Awa adounia",
-      "url": "https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg"
-    },
-    {
-      "added_at": "2022-12-12 07:27:22",
-      "album": {
-        "name": "Talking Timbuktu (with Ry Cooder)",
-        "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 324920,
-      "name": "Bonde (with Ry Cooder)",
-      "url": "https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW"
-    },
-    {
-      "added_at": "2022-12-12 07:27:22",
-      "album": {
         "name": "The Routes of Slavery",
         "url": "https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp"
       },
@@ -367,6 +311,62 @@
       "duration_ms": 223973,
       "name": "Sinanon Saran (Chant de griot)",
       "url": "https://open.spotify.com/track/1ASQZ8acmZj1IOFoXggUf9"
+    },
+    {
+      "added_at": "2022-12-12 07:27:22",
+      "album": {
+        "name": "Talking Timbuktu (with Ry Cooder)",
+        "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 324920,
+      "name": "Bonde (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW"
+    },
+    {
+      "added_at": "2022-12-12 07:27:22",
+      "album": {
+        "name": "Kel Tamasheq (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH"
+      },
+      "artists": [
+        {
+          "name": "Liya Ag Ablil",
+          "url": "https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5"
+        },
+        {
+          "name": "Nadia Nid El Mourid",
+          "url": "https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb"
+        },
+        {
+          "name": "Abdallah Ag Ahmed",
+          "url": "https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS"
+        },
+        {
+          "name": "Mathias Vaguenez",
+          "url": "https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d"
+        },
+        {
+          "name": "Sanou Ag Ahmed",
+          "url": "https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY"
+        },
+        {
+          "name": "Yamina Nid El Mourid",
+          "url": "https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS"
+        }
+      ],
+      "duration_ms": 284840,
+      "name": "Awa adounia",
+      "url": "https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg"
     },
     {
       "added_at": "2022-12-12 07:27:22",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-12-12 07:27:22",
       "album": {
-        "name": "Black Tenere",
-        "url": "https://open.spotify.com/album/2szNhyx4lm9LoUU8KnUN6b"
-      },
-      "artists": [
-        {
-          "name": "Kel Assouf",
-          "url": "https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9"
-        }
-      ],
-      "duration_ms": 281120,
-      "name": "Fransa",
-      "url": "https://open.spotify.com/track/3N6ddWSmrMFvZkGFBU4Ike"
-    },
-    {
-      "added_at": "2022-12-12 07:27:22",
-      "album": {
         "name": "Mariama",
         "url": "https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 338933,
       "name": "Mariama Kaba",
       "url": "https://open.spotify.com/track/5bnDe8MjKs8mQnNTXq2yNJ"
+    },
+    {
+      "added_at": "2022-12-12 07:27:22",
+      "album": {
+        "name": "Black Tenere",
+        "url": "https://open.spotify.com/album/2szNhyx4lm9LoUU8KnUN6b"
+      },
+      "artists": [
+        {
+          "name": "Kel Assouf",
+          "url": "https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9"
+        }
+      ],
+      "duration_ms": 281120,
+      "name": "Fransa",
+      "url": "https://open.spotify.com/track/3N6ddWSmrMFvZkGFBU4Ike"
     },
     {
       "added_at": "2022-12-12 07:27:22",

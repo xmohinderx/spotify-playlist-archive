@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M?si=DqsiTcXFSpaLRstMz7kqfQ">Xhanthi Nokwali</a>
 
-92 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/0ANwIIMXAUMCahITjRSDWI)
+93 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/0ANwIIMXAUMCahITjRSDWI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [UMDALI](https://open.spotify.com/track/6Ez01NIwZoUm85QtgPK6J0) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [INGANEKWANE](https://open.spotify.com/album/2MfkJ9pIDlnoqF8nDZKoYJ) | 6:40 | 2022-04-28 |  |
 | [uNongoma](https://open.spotify.com/track/2vcHzKopy1YAUDU074p503) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Paras](https://open.spotify.com/artist/4KXt4PyOQbec8NA3hURZ8c) | [Isambulo](https://open.spotify.com/album/0SPsHKZyf7VGSjeyquxccs) | 6:01 | 2022-06-23 |  |
 | [uNongoma](https://open.spotify.com/track/58pRCGe1pQguRfIuZeFS7v) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Paras](https://open.spotify.com/artist/4KXt4PyOQbec8NA3hURZ8c) | [uNongoma](https://open.spotify.com/album/62qSpZQ42mPEVKX1cq2j9L) | 6:01 | 2022-06-23 | 2022-11-02 |
-| [Wadada](https://open.spotify.com/track/021dKUW3T1zcnCzuTcQ2MF) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Group Theory: Black Music](https://open.spotify.com/album/4bLUzO4dszMKwyzY4jXsXA) | 4:45 | 2022-07-07 |  |
+| [Wadada](https://open.spotify.com/track/021dKUW3T1zcnCzuTcQ2MF) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Group Theory: Black Music](https://open.spotify.com/album/4bLUzO4dszMKwyzY4jXsXA) | 4:45 | 2022-07-07 | 2022-12-26 |
+| [Wadada](https://open.spotify.com/track/5GvAP2rW6vPSqAdNsUI4Oq) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Group Theory: Black Music](https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1) | 4:45 | 2022-07-07 |  |
 | [Where The Heart Is](https://open.spotify.com/track/43COSQ9QZsY47ZariNFRnS) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 5:27 | 2022-04-28 |  |
 | [Wozani Nonke Sizothandaza](https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [At This Point in Time: Voices in Volumes](https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr) | 8:04 | 2022-04-28 |  |
 

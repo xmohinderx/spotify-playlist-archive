@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Disturbed",
-  "num_followers": 845885,
+  "num_followers": 846658,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEyMzAyOSwwMDAwMDAwMGI5MGMxMjE4ZTA3YTNiNzk1ZDFmYmRkNzBmZmVjZGE1",
+  "snapshot_id": "MTY2OTEyMzAyOSwwMDAwMDAwMDM3NTMyMjA0MDczNmUyZjM0MDg5MzhmNTcyZmQyNmUz",
   "tracks": [
     {
       "added_at": "2022-11-22 13:17:09",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-11-22 13:17:09",
       "album": {
-        "name": "10,000 Days",
-        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 426680,
-      "name": "Vicarious",
-      "url": "https://open.spotify.com/track/65ShmiE5aLBdcIGr7tHX35"
-    },
-    {
-      "added_at": "2022-11-22 13:17:09",
-      "album": {
         "name": "Iowa",
         "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2022-11-22 13:17:09",
       "album": {
-        "name": "Crimson Thunder",
-        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
+        "name": "10,000 Days",
+        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
       },
       "artists": [
         {
-          "name": "HammerFall",
-          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
         }
       ],
-      "duration_ms": 231386,
-      "name": "Hearts on Fire",
-      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
+      "duration_ms": 426680,
+      "name": "Vicarious",
+      "url": "https://open.spotify.com/track/65ShmiE5aLBdcIGr7tHX35"
     },
     {
       "added_at": "2022-11-22 13:17:09",
@@ -667,6 +651,22 @@
       "duration_ms": 250720,
       "name": "Primo Victoria",
       "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
+    },
+    {
+      "added_at": "2022-11-22 13:17:09",
+      "album": {
+        "name": "Crimson Thunder",
+        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
+      },
+      "artists": [
+        {
+          "name": "HammerFall",
+          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+        }
+      ],
+      "duration_ms": 231386,
+      "name": "Hearts on Fire",
+      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
     },
     {
       "added_at": "2022-11-22 13:17:09",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-11-22 13:17:09",
       "album": {
-        "name": "Clayman",
-        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 294866,
-      "name": "Only for the Weak",
-      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
-    },
-    {
-      "added_at": "2022-11-22 13:17:09",
-      "album": {
         "name": "Leviathan",
         "url": "https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 228586,
       "name": "Blood and Thunder",
       "url": "https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux"
+    },
+    {
+      "added_at": "2022-11-22 13:17:09",
+      "album": {
+        "name": "Clayman",
+        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 294866,
+      "name": "Only for the Weak",
+      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
     },
     {
       "added_at": "2022-11-22 13:17:09",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-11-22 13:17:09",
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 476266,
-      "name": "The Day That Never Comes",
-      "url": "https://open.spotify.com/track/2gqzkEF88vMclfRZEIOnQO"
-    },
-    {
-      "added_at": "2022-11-22 13:17:09",
-      "album": {
         "name": "The Dethalbum",
         "url": "https://open.spotify.com/album/6YVSzU89AisNDfVK4HUt69"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 204360,
       "name": "Murmaider",
       "url": "https://open.spotify.com/track/5ghMfHMHakVS0omjj2cBSA"
+    },
+    {
+      "added_at": "2022-11-22 13:17:09",
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 476266,
+      "name": "The Day That Never Comes",
+      "url": "https://open.spotify.com/track/2gqzkEF88vMclfRZEIOnQO"
     },
     {
       "added_at": "2022-11-22 13:17:09",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-11-22 13:17:09",
       "album": {
-        "name": "The Curse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Right Side Of The Bed",
-      "url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3"
-    },
-    {
-      "added_at": "2022-11-22 13:17:09",
-      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 233520,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO"
+    },
+    {
+      "added_at": "2022-11-22 13:17:09",
+      "album": {
+        "name": "The Curse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Right Side Of The Bed",
+      "url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3"
     },
     {
       "added_at": "2022-11-22 13:17:09",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-11-22 13:17:09",
       "album": {
-        "name": "An Ocean Between Us",
-        "url": "https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 223653,
-      "name": "Nothing Left",
-      "url": "https://open.spotify.com/track/2zy79BntQ1kumEUeqM5O84"
-    },
-    {
-      "added_at": "2022-11-22 13:17:09",
-      "album": {
         "name": "Angel Of Retribution",
         "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 264200,
       "name": "Angel",
       "url": "https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv"
+    },
+    {
+      "added_at": "2022-11-22 13:17:09",
+      "album": {
+        "name": "An Ocean Between Us",
+        "url": "https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "Nothing Left",
+      "url": "https://open.spotify.com/track/2zy79BntQ1kumEUeqM5O84"
     },
     {
       "added_at": "2022-11-22 13:17:09",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-11-22 13:17:09",
       "album": {
-        "name": "Friede sei mit Dir",
-        "url": "https://open.spotify.com/album/235X3eQimRVyGnP71WBT5a"
-      },
-      "artists": [
-        {
-          "name": "Die Apokalyptischen Reiter",
-          "url": "https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn"
-        }
-      ],
-      "duration_ms": 211095,
-      "name": "Ghostriders in the Sky",
-      "url": "https://open.spotify.com/track/3D9X47VTRPVT6aAuK7bPvf"
-    },
-    {
-      "added_at": "2022-11-22 13:17:09",
-      "album": {
         "name": "Inferno",
         "url": "https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 183640,
       "name": "In the Name of Tragedy",
       "url": "https://open.spotify.com/track/1DhCdQMyNLklKGxBheRFxL"
+    },
+    {
+      "added_at": "2022-11-22 13:17:09",
+      "album": {
+        "name": "Friede sei mit Dir",
+        "url": "https://open.spotify.com/album/235X3eQimRVyGnP71WBT5a"
+      },
+      "artists": [
+        {
+          "name": "Die Apokalyptischen Reiter",
+          "url": "https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn"
+        }
+      ],
+      "duration_ms": 211095,
+      "name": "Ghostriders in the Sky",
+      "url": "https://open.spotify.com/track/3D9X47VTRPVT6aAuK7bPvf"
     },
     {
       "added_at": "2022-11-22 13:17:09",

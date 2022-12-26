@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 118946,
+  "num_followers": 118975,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU0ODQwMCwwMDAwMDAwMDY0ODRiZjA2MDFkMjkwMWM4ODFmYjgwOWUwYTg0NGQ2",
+  "snapshot_id": "MTY3MTU0ODQwMCwwMDAwMDAwMDQ1Y2Y2OGI5YjY1YmEyNDQ0NjY3NjY4ZDQ3ZGE5ODRi",
   "tracks": [
     {
       "added_at": "2022-12-20 15:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-12-20 15:00:00",
       "album": {
-        "name": "\u702c\u3068\u702c",
-        "url": "https://open.spotify.com/album/5gWa4l4159qeKUNFDBbmhS"
-      },
-      "artists": [
-        {
-          "name": "\u4e0a\u91ce\u5927\u6a39",
-          "url": "https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF"
-        }
-      ],
-      "duration_ms": 283149,
-      "name": "\u540c\u3058\u6708\u3092\u898b\u3066\u3044\u308b",
-      "url": "https://open.spotify.com/track/1f0WfgZV9JK1k0e8OpyqML"
-    },
-    {
-      "added_at": "2022-12-20 15:00:00",
-      "album": {
         "name": "SHINJITERU",
         "url": "https://open.spotify.com/album/17wK4RXzdKxK13VIyOyQHU"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 213933,
       "name": "\u6df1\u547c\u5438",
       "url": "https://open.spotify.com/track/67cJ60aXMxPR2e3cjplRAb"
+    },
+    {
+      "added_at": "2022-12-20 15:00:00",
+      "album": {
+        "name": "\u702c\u3068\u702c",
+        "url": "https://open.spotify.com/album/5gWa4l4159qeKUNFDBbmhS"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u91ce\u5927\u6a39",
+          "url": "https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF"
+        }
+      ],
+      "duration_ms": 283149,
+      "name": "\u540c\u3058\u6708\u3092\u898b\u3066\u3044\u308b",
+      "url": "https://open.spotify.com/track/1f0WfgZV9JK1k0e8OpyqML"
     },
     {
       "added_at": "2022-12-20 15:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-12-20 15:00:00",
       "album": {
-        "name": "Prescribing The...",
-        "url": "https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat"
+        "name": "POLY LIFE MULTI SOUL",
+        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
         }
       ],
-      "duration_ms": 287169,
-      "name": "\u82fa",
-      "url": "https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH"
+      "duration_ms": 128028,
+      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
+      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
     },
     {
       "added_at": "2022-12-20 15:00:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-12-20 15:00:00",
       "album": {
-        "name": "POLY LIFE MULTI SOUL",
-        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
+        "name": "Prescribing The...",
+        "url": "https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat"
       },
       "artists": [
         {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
         }
       ],
-      "duration_ms": 128028,
-      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
-      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
+      "duration_ms": 287169,
+      "name": "\u82fa",
+      "url": "https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH"
     },
     {
       "added_at": "2022-12-20 15:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-12-20 15:00:00",
       "album": {
+        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
+      },
+      "artists": [
+        {
+          "name": "KENTA MAENO",
+          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
+        }
+      ],
+      "duration_ms": 67203,
+      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
+    },
+    {
+      "added_at": "2022-12-20 15:00:00",
+      "album": {
         "name": "Sleeping in Waking",
         "url": "https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 274066,
       "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
       "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
-    },
-    {
-      "added_at": "2022-12-20 15:00:00",
-      "album": {
-        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
-      },
-      "artists": [
-        {
-          "name": "KENTA MAENO",
-          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
-        }
-      ],
-      "duration_ms": 67203,
-      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
     },
     {
       "added_at": "2022-12-20 15:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2022-12-20 15:00:00",
       "album": {
-        "name": "Retronym",
-        "url": "https://open.spotify.com/album/0l7UtNpyBJeATV6nnvdZpj"
+        "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+        "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
       },
       "artists": [
         {
-          "name": "NRQ",
-          "url": "https://open.spotify.com/artist/55EEMVysOzhsLWSDzB5zhf"
+          "name": "Anzen Chitai",
+          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
         }
       ],
-      "duration_ms": 161813,
-      "name": "\u5728\u5b85\u30ef\u30eb\u30c4",
-      "url": "https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e"
+      "duration_ms": 280786,
+      "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+      "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
     },
     {
       "added_at": "2022-12-20 15:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-12-20 15:00:00",
       "album": {
+        "name": "Retronym",
+        "url": "https://open.spotify.com/album/0l7UtNpyBJeATV6nnvdZpj"
+      },
+      "artists": [
+        {
+          "name": "NRQ",
+          "url": "https://open.spotify.com/artist/55EEMVysOzhsLWSDzB5zhf"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "\u5728\u5b85\u30ef\u30eb\u30c4",
+      "url": "https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e"
+    },
+    {
+      "added_at": "2022-12-20 15:00:00",
+      "album": {
         "name": "Lamp",
         "url": "https://open.spotify.com/album/4xD9RDDnKrG3MHzvuP0GCd"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 272436,
       "name": "Lamp",
       "url": "https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9"
-    },
-    {
-      "added_at": "2022-12-20 15:00:00",
-      "album": {
-        "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
-        "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
-      },
-      "artists": [
-        {
-          "name": "Anzen Chitai",
-          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
-        }
-      ],
-      "duration_ms": 280786,
-      "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
-      "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
     },
     {
       "added_at": "2022-12-20 15:00:00",

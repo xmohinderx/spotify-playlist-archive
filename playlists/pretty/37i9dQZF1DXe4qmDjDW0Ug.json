@@ -1,12 +1,12 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 6426,
+  "num_followers": 6441,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ4MDYxMCwwMDAwMDAwMGMyNzVhZjVjZmQ2Mzg1NDkzMTZjOTM2NGViMTNlM2Vj",
+  "snapshot_id": "MTYxNTQ4MDYxMCwwMDAwMDAwMDczZGJiNjJmNGU5NzhiMWY2ODllY2M5MzQ3ZGIyMGNl",
   "tracks": [
     {
       "added_at": "2021-03-11 16:36:50",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
-      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "Miss Ripley OST",
         "url": "https://open.spotify.com/album/1jD2g58pVcEUe1TYzSjgi5"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 241690,
       "name": "Glass",
       "url": "https://open.spotify.com/track/5rXek3NJpCQfJxOjaKrj6j"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
+      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
     },
     {
       "added_at": "2021-03-11 16:36:50",

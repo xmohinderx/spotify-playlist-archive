@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#ElMundoFuera \(Improvisación\)](https://open.spotify.com/track/7HqU2puNgziwgTZ7NcVKlY) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [\#ElMundoFuera \(Improvisación\)](https://open.spotify.com/album/0aeEduveGwn87AfHFnwFPM) | 2:22 | 2021-12-16 | 2022-11-22 |
+| [\#ElMundoFuera \(Improvisación\)](https://open.spotify.com/track/7HqU2puNgziwgTZ7NcVKlY) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [\#ElMundoFuera \(Improvisación\)](https://open.spotify.com/album/0aeEduveGwn87AfHFnwFPM) | 2:22 | 2021-12-16 |  |
 | [6:00 a.m\. \- Versión Acústica en Vivo](https://open.spotify.com/track/0UubSGVhoTEpsWUk7DCfzi) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Cruce de caminos: Acústico, real y en vivo](https://open.spotify.com/album/21AcAVNJQfFr5nolH78DCZ) | 5:02 | 2021-12-16 | 2022-07-29 |
 | [A Estas Horas Del Amor](https://open.spotify.com/track/7jvS0VAybfsXCivr8fq0qc) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [A Estas Horas Del Amor](https://open.spotify.com/album/3TsNQwV855A2mrxnEaT6lz) | 5:02 | 2021-12-16 | 2022-11-24 |
 | [A Mí y a Nadie Más](https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [A Mí y a Nadie Más](https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P) | 2:37 | 2021-12-16 |  |
@@ -133,7 +133,7 @@
 | [Saudade \- Versión Acústica](https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0) | [Ale Aguirre](https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS) | [Saudade \(Versión Acústica\)](https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG) | 3:58 | 2021-12-16 |  |
 | [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 | 2022-08-05 |  |
 | [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-01-26 | 2022-10-03 |
-| [Ser Guitarra](https://open.spotify.com/track/6mtNyMwmlwy8kMq3NsWa6q) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Ser Guitarra](https://open.spotify.com/album/3xZM5pC6lmpRMXnTPSeLJZ) | 2:59 | 2021-12-16 |  |
+| [Ser Guitarra](https://open.spotify.com/track/6mtNyMwmlwy8kMq3NsWa6q) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Ser Guitarra](https://open.spotify.com/album/3xZM5pC6lmpRMXnTPSeLJZ) | 2:59 | 2021-12-16 | 2022-12-26 |
 | [Si hubieras querido \- Versión acústica](https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:15 | 2021-12-16 |  |
 | [Siempre Cerca \- Acústico](https://open.spotify.com/track/2cp3Ez21EpWKsp541ws5mK) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Siempre Cerca \(Acústico\)](https://open.spotify.com/album/3NEYdetK2Nhf6FIbCnIlca) | 3:09 | 2021-12-16 |  |
 | [Soldadito de Hierro](https://open.spotify.com/track/1wWSi1N5mBif8926JR78Ju) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Bailando en la batalla](https://open.spotify.com/album/659edmkQvKqcBjN76GPRcM) | 2:22 | 2022-06-07 |  |

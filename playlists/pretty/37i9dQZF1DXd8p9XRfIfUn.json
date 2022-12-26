@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Montano, Totoy El Frio",
-  "num_followers": 61067,
+  "num_followers": 61084,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjA2MCwwMDAwMDAwMDhkYjU4OWNkYzM3ZDU3ZTZmYTNlY2I5ZWM0MjY4Nzli",
+  "snapshot_id": "MTY3MDU2MjA2MCwwMDAwMDAwMDhjNmQ0M2RiZjVjNTdjNWNkOGE4MDM1Nzg1ZjM4YTBi",
   "tracks": [
     {
       "added_at": "2022-12-09 05:01:00",
@@ -103,18 +103,18 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Locura y Maldad",
-        "url": "https://open.spotify.com/album/7lU4WSIRtJkfYTCVJsWt6j"
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Locura y Maldad",
-      "url": "https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt"
+      "duration_ms": 153062,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -163,18 +163,18 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Gatita",
-        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
+        "name": "Locura y Maldad",
+        "url": "https://open.spotify.com/album/7lU4WSIRtJkfYTCVJsWt6j"
       },
       "artists": [
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 153062,
-      "name": "Gatita",
-      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
+      "duration_ms": 200000,
+      "name": "Locura y Maldad",
+      "url": "https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Mala Memoria",
-        "url": "https://open.spotify.com/album/5iWTg6nuWpFtk5BuLi9yXA"
-      },
-      "artists": [
-        {
-          "name": "West Blanco",
-          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "Mala Memoria",
-      "url": "https://open.spotify.com/track/1XgZiDNjSDSP6ySC3tp8wj"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
         "name": "Me Juquie",
         "url": "https://open.spotify.com/album/7uHa5H6yYjxgh0ek8Tc2Yk"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 158000,
       "name": "Me Juquie",
       "url": "https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
+        "name": "Mala Memoria",
+        "url": "https://open.spotify.com/album/5iWTg6nuWpFtk5BuLi9yXA"
+      },
+      "artists": [
+        {
+          "name": "West Blanco",
+          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "Mala Memoria",
+      "url": "https://open.spotify.com/track/1XgZiDNjSDSP6ySC3tp8wj"
     },
     {
       "added_at": "2022-12-09 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY\. The most awaited SKZ\-REPLAY is here! \#LoveSTAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,863 likes - 141 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,388 likes - 141 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

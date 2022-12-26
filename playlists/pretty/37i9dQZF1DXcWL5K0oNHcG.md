@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Our editors' picks of the best tracks from Fresh Finds Jazz this year\. Cover: Nathan\-Paul \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,543 likes - 75 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,581 likes - 75 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

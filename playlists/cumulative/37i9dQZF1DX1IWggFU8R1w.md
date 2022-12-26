@@ -4,7 +4,7 @@
 
 > Check out the official playlist from The Witcher\. Watch The Witcher: Blood Origin, now streaming on Netflix.
 
-134 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/2QOy9igHzE74ErcLfQ8T9Q)
+135 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/2QOy9igHzE74ErcLfQ8T9Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Scian's Camp](https://open.spotify.com/track/3h9TScshQ3TMl6nLGvVUet) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 4:09 | 2022-12-16 |  |
 | [Shouldn't You Know When Someone Is Pretending](https://open.spotify.com/track/4ppMrMWZB3RPJwaFp2DNm3) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6), [Lindsay Deutsch](https://open.spotify.com/artist/2WXkYbNLvrHPGcUM1kMBTx) | [The Witcher \(Music from the Netflix Original Series\)](https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS) | 2:21 | 2022-05-20 |  |
 | [Some Wounds Can't Be Healed](https://open.spotify.com/track/1QZZBOAzcMYVpKbG6WJx6b) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [The Witcher: Season 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA) | 1:31 | 2022-05-20 |  |
+| [Song of the Seven \(From the Netflix Series "The Witcher: Blood Origin"\)](https://open.spotify.com/track/6h1nuPZk9fQjjgKEuiRJOf) | [Joey Batey](https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc), [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [Song of the Seven \(From the Netflix Series "The Witcher: Blood Origin"\)](https://open.spotify.com/album/13TT6VTNXuprXHRP6JpUXD) | 3:47 | 2022-12-25 |  |
 | [Stay With Me](https://open.spotify.com/track/488afZ4YrlW3fh00NhLSWc) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [The Witcher: Season 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA) | 3:11 | 2022-05-20 |  |
 | [Strength in Unity](https://open.spotify.com/track/13iDbXwqZieTXEL4TTcxPY) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz) | [The Witcher: Nightmare of the Wolf \(Music from the Netflix Anime Film\)](https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW) | 2:31 | 2022-05-20 |  |
 | [Sugo's Lamentation](https://open.spotify.com/track/6WSsD7mCahx2WAT3U4K5pC) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz) | [The Witcher: Nightmare of the Wolf \(Music from the Netflix Anime Film\)](https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW) | 1:00 | 2022-05-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Music from the most memorable Super Bowl halftime shows. Cover: Dr. Dre",
-  "num_followers": 61249,
+  "num_followers": 61260,
   "original_name": "Halftime Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDU4ODYwMywwMDAwMDAwMDVmYWUyOTlhZDA3OWI2YTAzZTI2OGMyOTVkYTM4MGQ0",
+  "snapshot_id": "MTY0NDU4ODYwMywwMDAwMDAwMGMwOGE5ODNjYzEwOTVlZTdjMzMyNmQ0YTQ0YzFhNWE0",
   "tracks": [
     {
       "added_at": "2022-02-11 14:10:03",
@@ -473,20 +473,20 @@
       "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
     },
     {
-      "added_at": "2020-01-31 18:41:40",
+      "added_at": "2022-02-11 14:10:03",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
       },
       "artists": [
         {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+      "duration_ms": 265866,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
     },
     {
       "added_at": "2022-02-11 14:10:03",
@@ -509,40 +509,20 @@
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
     },
     {
-      "added_at": "2022-02-11 14:10:03",
+      "added_at": "2020-01-31 18:41:40",
       "album": {
-        "name": "No More Drama",
-        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 265866,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
-    },
-    {
-      "added_at": "2022-02-11 14:10:03",
-      "album": {
-        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
-        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Drop It Like It's Hot",
-      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
       "added_at": "2020-01-31 17:44:55",
@@ -563,6 +543,26 @@
       "duration_ms": 195840,
       "name": "Chantaje (feat. Maluma)",
       "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
+    },
+    {
+      "added_at": "2022-02-11 14:10:03",
+      "album": {
+        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
+        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 266066,
+      "name": "Drop It Like It's Hot",
+      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
     },
     {
       "added_at": "2020-01-31 18:41:40",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/08QZBupqwLXOalOpgiTi5e"
     },
     {
-      "added_at": "2020-01-31 18:41:40",
-      "album": {
-        "name": "Hold Me, Thrill Me, Kiss Me",
-        "url": "https://open.spotify.com/album/0gAN0kuGJrIZXVq8jG8sij"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "Turn the Beat Around",
-      "url": "https://open.spotify.com/track/5EExhZiAXIqw6M5FFGAiUb"
-    },
-    {
       "added_at": "2018-01-30 18:06:42",
       "album": {
         "name": "Merry, Merry Christmas",
@@ -1463,6 +1447,22 @@
       "duration_ms": 238466,
       "name": "This One's for the Children",
       "url": "https://open.spotify.com/track/78bDGxqn2KF2VU1G3Kz6J0"
+    },
+    {
+      "added_at": "2020-01-31 18:41:40",
+      "album": {
+        "name": "Hold Me, Thrill Me, Kiss Me",
+        "url": "https://open.spotify.com/album/0gAN0kuGJrIZXVq8jG8sij"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Turn the Beat Around",
+      "url": "https://open.spotify.com/track/5EExhZiAXIqw6M5FFGAiUb"
     },
     {
       "added_at": "2020-01-31 18:41:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,886 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,950 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 53 | [Gasoline](https://open.spotify.com/track/3cIv1Ct9pCkygvsawr9hub) | [FreshhhLife](https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Gasoline](https://open.spotify.com/album/2MBstB7AuikcLshNNTfqBh) | 3:36 |
 | 54 | [Right Now](https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5) | [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV) | [Right Now](https://open.spotify.com/album/3z1x7PCAvhRkG0F7bxAf3W) | 2:41 |
 | 55 | [You](https://open.spotify.com/track/6w2RZjWpz1sXqRPuX92izA) | [Dvk](https://open.spotify.com/artist/0BbxfukSeIodPyKQJXhawB) | [Cupid](https://open.spotify.com/album/6TiiajhnvtKkjXVhxWkPz1) | 2:51 |
-| 56 | [N1](https://open.spotify.com/track/4AxBTkq98PvdTd8eYsbsE0) | [Sandricidio](https://open.spotify.com/artist/1StFte0Pe59Pu4unbpadJ0) | [N1](https://open.spotify.com/album/16Hp09IOG9OZXmqj789ejf) | 2:55 |
-| 57 | [Diferente](https://open.spotify.com/track/0alvMe4SV8FsVI4dVdPi6o) | [Hachibae](https://open.spotify.com/artist/4Y32ard944s09cbgtFOD0i) | [Diferente](https://open.spotify.com/album/0fdEVAurFGPYQx36Ojcc91) | 1:45 |
-| 58 | [3AM](https://open.spotify.com/track/1hyewEko9M8kAQqNWxU5jY) | [Cairo](https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP) | [3AM](https://open.spotify.com/album/1kkh8UFijujeCRn91kAKDH) | 2:27 |
+| 56 | [3AM](https://open.spotify.com/track/1hyewEko9M8kAQqNWxU5jY) | [Cairo](https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP) | [3AM](https://open.spotify.com/album/1kkh8UFijujeCRn91kAKDH) | 2:27 |
+| 57 | [N1](https://open.spotify.com/track/4AxBTkq98PvdTd8eYsbsE0) | [Sandricidio](https://open.spotify.com/artist/1StFte0Pe59Pu4unbpadJ0) | [N1](https://open.spotify.com/album/16Hp09IOG9OZXmqj789ejf) | 2:55 |
+| 58 | [Diferente](https://open.spotify.com/track/0alvMe4SV8FsVI4dVdPi6o) | [Hachibae](https://open.spotify.com/artist/4Y32ard944s09cbgtFOD0i) | [Diferente](https://open.spotify.com/album/0fdEVAurFGPYQx36Ojcc91) | 1:45 |
 | 59 | [Céu No Quarto](https://open.spotify.com/track/7qocYaIQY1ToJnbK7pj8fN) | [Walter 4reignr](https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt) | [Céu No Quarto](https://open.spotify.com/album/1iQArK8itENXTXgexkZwDd) | 2:38 |
 | 60 | [Cupid](https://open.spotify.com/track/23WXbyhKyMT8dowZx3Bu7I) | [King Cizzy](https://open.spotify.com/artist/3ZTBddrm597Yp0BM5aLLUN) | [Cupid](https://open.spotify.com/album/4MUjU07dZASo1tDM1MDGY6) | 2:56 |
 
-Snapshot ID: `MTY3MTc1MzYwMCwwMDAwMDAwMDBkZDQ1Zjc0Yjk0MjViNGYyZjhmMzE3NmJiMWE5ZDkw`
+Snapshot ID: `MTY3MTc1MzYwMCwwMDAwMDAwMDg1YmVhOTk0MzQ3ZmRlNWVmMzk5NDk4NDk2ZjM1NjUy`

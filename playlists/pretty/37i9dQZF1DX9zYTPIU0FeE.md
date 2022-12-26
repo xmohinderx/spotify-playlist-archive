@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M?si=DqsiTcXFSpaLRstMz7kqfQ">Xhanthi Nokwali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,403 likes - 83 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,411 likes - 83 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Konakele](https://open.spotify.com/track/3qKG9yS1kM7BbvKtJghsE9) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Umthombo](https://open.spotify.com/album/5Qg2kXcTYZWUVFAC7UYMMV) | 6:29 |
 | 2 | [Bayakhala](https://open.spotify.com/track/044VNnUGUaAOphHS0uHITs) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Bayakhala](https://open.spotify.com/album/0X0kjZMbBYfMg00uuY6vkf) | 5:30 |
-| 3 | [Wadada](https://open.spotify.com/track/021dKUW3T1zcnCzuTcQ2MF) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Group Theory: Black Music](https://open.spotify.com/album/4bLUzO4dszMKwyzY4jXsXA) | 4:45 |
+| 3 | [Wadada](https://open.spotify.com/track/5GvAP2rW6vPSqAdNsUI4Oq) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Group Theory: Black Music](https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1) | 4:45 |
 | 4 | [Gog'uIdah](https://open.spotify.com/track/5JcKd6KIvGnMFKGEx1HWNk) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Isambulo](https://open.spotify.com/album/0SPsHKZyf7VGSjeyquxccs) | 3:40 |
 | 5 | [Inkululeko](https://open.spotify.com/track/4qptyeqFHhN0TUUjFQO6c9) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Inkululeko](https://open.spotify.com/album/2jaXRcmklOiLxffL337Ish) | 7:40 |
 | 6 | [Ntate Gwangwa's Stroll](https://open.spotify.com/track/4eM3xpiSyUFX1Of3EYyoM2) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [Ntate Gwangwa's Stroll](https://open.spotify.com/album/3D0v4FYzpWX2bpWcujxyBQ) | 7:02 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 82 | [The Panther](https://open.spotify.com/track/5duF6755ZRQ90ga0HUlirm) | [Simeon Davis Group](https://open.spotify.com/artist/4VpuhyxGT6WgAwOfI6OLqT), [Alex Hand](https://open.spotify.com/artist/1JHDHQilgJSwnEvwRmsFpL) | [Of Narratives & Nocturnes](https://open.spotify.com/album/52UFxrxnZAHFnzYmCLGoIE) | 12:26 |
 | 83 | [Red Room](https://open.spotify.com/track/7qCcZTizjFBYCdqGjhvCoV) | [Tune Recreation Committee](https://open.spotify.com/artist/6lNEil3Rutgl0lscHp9pZx) | [Afrika Grooves With the Tune Recreation Committee](https://open.spotify.com/album/7etAEMYrH6A4M3Q7LvaycA) | 7:07 |
 
-Snapshot ID: `MTY2NjMwMzE0MCwwMDAwMDAwMGZkOGJlODAyZDY2Y2I4OTdiODk0ZDNhZTNiMTYwYmNh`
+Snapshot ID: `MTY2NjMwMzE0MCwwMDAwMDAwMDE1N2FlNzhiYWQ2N2E2ZGQ0ZTgyMjQ4MmQ2ZTdhNjA0`

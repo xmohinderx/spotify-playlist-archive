@@ -253,6 +253,24 @@
     {
       "album": {
         "name": "Persona",
+        "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156714,
+      "name": "BODY PARTS - I denti",
+      "url": "https://open.spotify.com/track/20Jv9Gx73P618C5rYt2Tmx"
+    },
+    {
+      "album": {
+        "name": "Persona",
         "url": "https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul"
       },
       "artists": [
@@ -281,7 +299,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 156714,
       "name": "BODY PARTS - I denti",
       "url": "https://open.spotify.com/track/4hArX7vFWANuw0gCA1KG5k"
@@ -1387,6 +1405,28 @@
     {
       "album": {
         "name": "Persona",
+        "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212316,
+      "name": "QUALCOSA IN CUI CREDERE - Lo scheletro",
+      "url": "https://open.spotify.com/track/5mZhdcP4Cexz1kWqGobJF6"
+    },
+    {
+      "album": {
+        "name": "Persona",
         "url": "https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul"
       },
       "artists": [
@@ -1423,7 +1463,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 212316,
       "name": "QUALCOSA IN CUI CREDERE - Lo scheletro (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/1t6xoDooMgAqlYDOLTrsxj"

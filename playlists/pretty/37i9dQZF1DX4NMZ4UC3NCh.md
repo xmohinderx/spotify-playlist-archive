@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMZ4UC3NCh.md) - [plain]
 
 > Happiness! This is Red Velvet! Red Velvet wants everyone to have a Beautiful Christmas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,894 likes - 108 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,041 likes - 108 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

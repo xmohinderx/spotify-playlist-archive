@@ -1,12 +1,12 @@
 {
   "description": "The most popular Ambient tracks in 2022. ",
-  "num_followers": 114035,
+  "num_followers": 114114,
   "original_name": "Best of Ambiente 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTkwMCwwMDAwMDAwMDM5YjYxNDI5NThhNGJlNjc0NTRhZWM4NzM2ZThlNjA1",
+  "snapshot_id": "MTY2OTgxNTkwMCwwMDAwMDAwMGY3MGQ1OWU0NjZlOTFiZTE3N2U4Zjk4YTA2OWM1ZDZj",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Upstream Dream",
-        "url": "https://open.spotify.com/album/1srML4m8W67DuWLV3zAgRN"
-      },
-      "artists": [
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 256005,
-      "name": "Upstream Dream",
-      "url": "https://open.spotify.com/track/36nGeAgQbzIgtvhTbOAA0S"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Erased Dreams",
         "url": "https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 213357,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/6oDoN0p3hXIb4LLZ8MhKFj"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Upstream Dream",
+        "url": "https://open.spotify.com/album/1srML4m8W67DuWLV3zAgRN"
+      },
+      "artists": [
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 256005,
+      "name": "Upstream Dream",
+      "url": "https://open.spotify.com/track/36nGeAgQbzIgtvhTbOAA0S"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "A Light Without Flame",
-        "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
+        "name": "time to time",
+        "url": "https://open.spotify.com/album/1eCGj5XvDvL0robzpjph9p"
       },
       "artists": [
         {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+          "name": "james king",
+          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
         }
       ],
-      "duration_ms": 203994,
-      "name": "A Light Without Flame",
-      "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
+      "duration_ms": 121653,
+      "name": "softly",
+      "url": "https://open.spotify.com/track/1zp5bDTjX4hFLaKm3JAAub"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -335,22 +335,6 @@
       "duration_ms": 238000,
       "name": "Klass - MISSUXO Film Edit",
       "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "time to time",
-        "url": "https://open.spotify.com/album/1eCGj5XvDvL0robzpjph9p"
-      },
-      "artists": [
-        {
-          "name": "james king",
-          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
-        }
-      ],
-      "duration_ms": 121653,
-      "name": "softly",
-      "url": "https://open.spotify.com/track/1zp5bDTjX4hFLaKm3JAAub"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -403,6 +387,22 @@
       "duration_ms": 331520,
       "name": "Monomom",
       "url": "https://open.spotify.com/track/083hSYQL8F0UScdHIXDBTN"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "A Light Without Flame",
+        "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
+      },
+      "artists": [
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 203994,
+      "name": "A Light Without Flame",
+      "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -475,26 +475,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Before I Forget You",
-        "url": "https://open.spotify.com/album/22omqP8r89EcEWyQVnC8KB"
-      },
-      "artists": [
-        {
-          "name": "Matt Tondut",
-          "url": "https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX"
-        },
-        {
-          "name": "Amai Oto",
-          "url": "https://open.spotify.com/artist/3iNGaJ4kwEjOpkj6IEyQCR"
-        }
-      ],
-      "duration_ms": 174512,
-      "name": "Before I Forget You",
-      "url": "https://open.spotify.com/track/2o4uQ0qj4WNEMnnmtkUcrz"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
         "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Before I Forget You",
+        "url": "https://open.spotify.com/album/22omqP8r89EcEWyQVnC8KB"
+      },
+      "artists": [
+        {
+          "name": "Matt Tondut",
+          "url": "https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX"
+        },
+        {
+          "name": "Amai Oto",
+          "url": "https://open.spotify.com/artist/3iNGaJ4kwEjOpkj6IEyQCR"
+        }
+      ],
+      "duration_ms": 174512,
+      "name": "Before I Forget You",
+      "url": "https://open.spotify.com/track/2o4uQ0qj4WNEMnnmtkUcrz"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3"
-      },
-      "artists": [
-        {
-          "name": "slowave",
-          "url": "https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65"
-        }
-      ],
-      "duration_ms": 199058,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "atomic bombs atomic bonds i love you",
         "url": "https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 327600,
       "name": "atomic bombs atomic bonds i love you",
       "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3"
+      },
+      "artists": [
+        {
+          "name": "slowave",
+          "url": "https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65"
+        }
+      ],
+      "duration_ms": 199058,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Postcards",
+        "url": "https://open.spotify.com/album/5s8tUuZ4mZDKvuETg8sdjo"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 217714,
+      "name": "Ballad of a Sleepless Traveler",
+      "url": "https://open.spotify.com/track/2L3UVm6BDNZGwv54TgcmSV"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Recordings from the \u00c5land Islands",
         "url": "https://open.spotify.com/album/2vGukamccOX7WCqir66kWT"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 268813,
       "name": "Golden Galactic",
       "url": "https://open.spotify.com/track/5UV4bOGPyQyF5hnWuel6Zv"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Postcards",
-        "url": "https://open.spotify.com/album/5s8tUuZ4mZDKvuETg8sdjo"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        }
-      ],
-      "duration_ms": 217714,
-      "name": "Ballad of a Sleepless Traveler",
-      "url": "https://open.spotify.com/track/2L3UVm6BDNZGwv54TgcmSV"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Insula",
-        "url": "https://open.spotify.com/album/0ATWho0WmSadHHvkYp6DdE"
-      },
-      "artists": [
-        {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
-        }
-      ],
-      "duration_ms": 241465,
-      "name": "34-46",
-      "url": "https://open.spotify.com/track/12OE00ciFg4FWrZY1sw1L2"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Avichrom",
         "url": "https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 497053,
       "name": "Rotmilan",
       "url": "https://open.spotify.com/track/2FddItgHhjt1CnzLZHPrbq"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Insula",
+        "url": "https://open.spotify.com/album/0ATWho0WmSadHHvkYp6DdE"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 241465,
+      "name": "34-46",
+      "url": "https://open.spotify.com/track/12OE00ciFg4FWrZY1sw1L2"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "O Woods / Wake",
-        "url": "https://open.spotify.com/album/1voNqheGLAG4jd34kt38FS"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 681500,
-      "name": "O Woods",
-      "url": "https://open.spotify.com/track/5BxnSpD1nOMzISYOTUmPzJ"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "En Bas Tu Vois",
         "url": "https://open.spotify.com/album/0DFXWb2ufqNIGnm6LnjFMm"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 767583,
       "name": "En Bas Tu Vois",
       "url": "https://open.spotify.com/track/7lvr6IFQGQPEBlV9aWBKKv"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "O Woods / Wake",
+        "url": "https://open.spotify.com/album/1voNqheGLAG4jd34kt38FS"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 681500,
+      "name": "O Woods",
+      "url": "https://open.spotify.com/track/5BxnSpD1nOMzISYOTUmPzJ"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "In Tenebris",
-        "url": "https://open.spotify.com/album/5og8EEI2vJIayYOtqLCKPg"
-      },
-      "artists": [
-        {
-          "name": "Raf21",
-          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
-        },
-        {
-          "name": "opeNWave",
-          "url": "https://open.spotify.com/artist/7pV6agydHiqJBhvSXuvS7O"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Coney Island",
-      "url": "https://open.spotify.com/track/1CtOu0i3Qvzi2HeIW1PHiT"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Into The Blue",
         "url": "https://open.spotify.com/album/5VzhW20SptDDaQ3FjjO6IQ"
       },
@@ -1571,6 +1551,42 @@
       "duration_ms": 183614,
       "name": "ever, after",
       "url": "https://open.spotify.com/track/1bIZWsVJatlo8hBzn0IEdI"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "In Tenebris",
+        "url": "https://open.spotify.com/album/5og8EEI2vJIayYOtqLCKPg"
+      },
+      "artists": [
+        {
+          "name": "Raf21",
+          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
+        },
+        {
+          "name": "opeNWave",
+          "url": "https://open.spotify.com/artist/7pV6agydHiqJBhvSXuvS7O"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Coney Island",
+      "url": "https://open.spotify.com/track/1CtOu0i3Qvzi2HeIW1PHiT"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/70KaeJJ97xzsi7vAfZmpwR"
+      },
+      "artists": [
+        {
+          "name": "Human Is Alive",
+          "url": "https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/3EI6qqBRg3AmGIcqrjYqKX"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1627,22 +1643,6 @@
       "duration_ms": 271682,
       "name": "Now - Lisa Morgenstern Rework",
       "url": "https://open.spotify.com/track/79XMlYlvCWLatIvL4Neqjd"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Everlasting",
-        "url": "https://open.spotify.com/album/70KaeJJ97xzsi7vAfZmpwR"
-      },
-      "artists": [
-        {
-          "name": "Human Is Alive",
-          "url": "https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Everlasting",
-      "url": "https://open.spotify.com/track/3EI6qqBRg3AmGIcqrjYqKX"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "M\u00fasica para los Jameos del Agua (Edici\u00f3n Especial 25 A\u00f1os)",
-        "url": "https://open.spotify.com/album/5hs9v4U6FglqYof3zd0zQK"
-      },
-      "artists": [
-        {
-          "name": "Samuel Aguilar",
-          "url": "https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj"
-        }
-      ],
-      "duration_ms": 196573,
-      "name": "Transparente",
-      "url": "https://open.spotify.com/track/0ZzHp9ah8wC9rHhyW9jstd"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Arroyo",
         "url": "https://open.spotify.com/album/30q19AJSdAxkdVc6414z7H"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 464031,
       "name": "Arroyo",
       "url": "https://open.spotify.com/track/0MnagqW3Qe0vWOmnV2iR7g"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "M\u00fasica para los Jameos del Agua (Edici\u00f3n Especial 25 A\u00f1os)",
+        "url": "https://open.spotify.com/album/5hs9v4U6FglqYof3zd0zQK"
+      },
+      "artists": [
+        {
+          "name": "Samuel Aguilar",
+          "url": "https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj"
+        }
+      ],
+      "duration_ms": 196573,
+      "name": "Transparente",
+      "url": "https://open.spotify.com/track/0ZzHp9ah8wC9rHhyW9jstd"
     },
     {
       "added_at": "2022-11-30 13:45:00",

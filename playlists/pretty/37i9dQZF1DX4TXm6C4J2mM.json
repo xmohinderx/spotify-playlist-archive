@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156695,
+  "num_followers": 156687,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDY4Yzg0MzgzMDA5N2JhMWM2ZDc5YzE4Nzk5YWE4MjE2",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDRkNWM5NGYwYTE3YmZjZjc0ZjhmZThiOTgzYTA3MzE4",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -803,6 +803,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/1QZFFOZrBvFHEZSNdkpDix"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 134330,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/6nCGuH4cs03pq76E2joqhE"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Creep (mint Singles)",
-        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        }
-      ],
-      "duration_ms": 161190,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -971,6 +971,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Stars Align (with Jolin Tsai)",
+        "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Stars Align (with Jolin Tsai)",
+      "url": "https://open.spotify.com/track/2RQYvKXf2WG4bqN6hPRNq6"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "We Can Come Together",
         "url": "https://open.spotify.com/album/2fQHFbvrb4zGAVXTR7DN4q"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 216984,
       "name": "We Can Come Together",
       "url": "https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Release Me (feat. Kalhaader)",
-        "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
-      },
-      "artists": [
-        {
-          "name": "Twelve",
-          "url": "https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb"
-        },
-        {
-          "name": "Kalhaader",
-          "url": "https://open.spotify.com/artist/29fzchb8sL2UW451BQWmek"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "Release Me (feat. Kalhaader)",
-      "url": "https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1039,42 +1039,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Stars Align (with Jolin Tsai)",
-        "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
+        "name": "Release Me (feat. Kalhaader)",
+        "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Twelve",
+          "url": "https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb"
         },
         {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+          "name": "Kalhaader",
+          "url": "https://open.spotify.com/artist/29fzchb8sL2UW451BQWmek"
         }
       ],
-      "duration_ms": 161904,
-      "name": "Stars Align (with Jolin Tsai)",
-      "url": "https://open.spotify.com/track/2RQYvKXf2WG4bqN6hPRNq6"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e"
-      },
-      "artists": [
-        {
-          "name": "Love Harder",
-          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
-        },
-        {
-          "name": "Amber Van Day",
-          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
-        }
-      ],
-      "duration_ms": 192296,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q"
+      "duration_ms": 146893,
+      "name": "Release Me (feat. Kalhaader)",
+      "url": "https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1099,6 +1079,26 @@
       "duration_ms": 185813,
       "name": "Family - Frank Walker Remix",
       "url": "https://open.spotify.com/track/6YnkswUQX2GXOhywMsBDqp"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e"
+      },
+      "artists": [
+        {
+          "name": "Love Harder",
+          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
+        },
+        {
+          "name": "Amber Van Day",
+          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
+        }
+      ],
+      "duration_ms": 192296,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/3aIJBaZpXCc2LFGVCmMODg"
-      },
-      "artists": [
-        {
-          "name": "Steerner",
-          "url": "https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz"
-        },
-        {
-          "name": "Buster Moe",
-          "url": "https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/64pKbp9wq3fqFHBZ7lIU6P"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Bruk It Down (feat. TxTHEWAY)",
         "url": "https://open.spotify.com/album/696wZWXfscdFjxQxK06WgP"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 136981,
       "name": "Bruk It Down (feat. TxTHEWAY)",
       "url": "https://open.spotify.com/track/04J03yanQCmSuigan5Y0cM"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/3aIJBaZpXCc2LFGVCmMODg"
+      },
+      "artists": [
+        {
+          "name": "Steerner",
+          "url": "https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz"
+        },
+        {
+          "name": "Buster Moe",
+          "url": "https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/64pKbp9wq3fqFHBZ7lIU6P"
     },
     {
       "added_at": "2022-11-10 23:00:00",

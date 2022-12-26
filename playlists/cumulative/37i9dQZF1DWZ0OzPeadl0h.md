@@ -4,7 +4,7 @@
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-177 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
+178 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Hours Are the New Days](https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Hours Are the New Days](https://open.spotify.com/album/3icg7KC4xfcrVtgANJ0duJ) | 4:04 | 2021-10-22 | 2022-06-15 |
 | [i leave early](https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [i leave early](https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX) | 3:13 | 2021-10-22 |  |
 | [I Wanted to Leave](https://open.spotify.com/track/2QLgg0DaXBIzKPV5ZzZPDI) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [You Knew It Was Me](https://open.spotify.com/album/0rJuGvvXX626hak1KwrEPZ) | 3:23 | 2021-11-17 | 2022-07-29 |
-| [I Wanted to Leave](https://open.spotify.com/track/2Tq3fayHpjP2nOZlBEjt3N) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [You Knew It Was Me](https://open.spotify.com/album/4vjD743S9q9qAgKFtXWJ3a) | 3:23 | 2021-11-17 |  |
+| [I Wanted to Leave](https://open.spotify.com/track/2Tq3fayHpjP2nOZlBEjt3N) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [You Knew It Was Me](https://open.spotify.com/album/4vjD743S9q9qAgKFtXWJ3a) | 3:23 | 2021-11-17 | 2022-12-26 |
+| [I Wanted to Leave](https://open.spotify.com/track/61iGwqhbDwkXanVo5LwJyF) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [I Wanted to Leave \(Sitar Version\)](https://open.spotify.com/album/5MiRZqeTOp7PqdgoTFwEav) | 3:23 | 2021-11-17 |  |
 | [I Was Often](https://open.spotify.com/track/0iFSHxZ8kOFoRz02vYuZAt) | [Slow Dancer](https://open.spotify.com/artist/2qq8yiTh6GieJeWShMcihO) | [In A Mood](https://open.spotify.com/album/4yJtcNlwnfaUMQdIi46Dyg) | 2:38 | 2021-10-22 | 2022-07-29 |
 | [I Was Often](https://open.spotify.com/track/6S2DjbASbKEzrB83yxIN8j) | [Slow Dancer](https://open.spotify.com/artist/2qq8yiTh6GieJeWShMcihO) | [In A Mood](https://open.spotify.com/album/2nH5kr8Depk9M5l2JwTFAF) | 2:38 | 2021-10-22 |  |
 | [IIWII](https://open.spotify.com/track/4jUDqSD6HRCQAFbhWK0yud) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [White Out](https://open.spotify.com/album/2giDyqBRmsxqT25u1xcUGI) | 4:48 | 2021-10-22 |  |

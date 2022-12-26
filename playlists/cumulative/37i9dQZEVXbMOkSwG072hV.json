@@ -5288,6 +5288,24 @@
     },
     {
       "album": {
+        "name": "Caneta Azul",
+        "url": "https://open.spotify.com/album/5VFcM61xPRTvg0GQnXFsv8"
+      },
+      "artists": [
+        {
+          "name": "Manoel Gomes",
+          "url": "https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243670,
+      "name": "Ela \u00c9 Muito \u00c9 Vagabunda",
+      "url": "https://open.spotify.com/track/2IiPAtpLCy6j1myV1X6Qq3"
+    },
+    {
+      "album": {
         "name": "Elas Quer Sentar pro Hotwheels",
         "url": "https://open.spotify.com/album/7BGYHcZFUweCAKBpaEZ92W"
       },
@@ -19115,7 +19133,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 105461,
       "name": "Vou Morar no Cabar\u00e9",
       "url": "https://open.spotify.com/track/4ewVY1OIA2ud9D58zjD7Ll"

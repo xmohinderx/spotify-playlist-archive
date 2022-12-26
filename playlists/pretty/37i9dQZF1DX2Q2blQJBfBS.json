@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 25012,
+  "num_followers": 25223,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGU1OGJkMDc4ZDYwY2I4OTQzYWU1ZGYyMjU4NWUxZDJl",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGQyYjAyMmE0NjQxN2ViNDMwOTcwZjg0MWRhN2MyNDVi",
   "tracks": [
     {
       "added_at": "2022-05-10 19:26:35",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
-      },
-      "artists": [
-        {
-          "name": "Grand Puba",
-          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
-        }
-      ],
-      "duration_ms": 263533,
-      "name": "I Like It (I Wanna Be Where You Are)",
-      "url": "https://open.spotify.com/track/5KBUiiDRPsocZlY2v3EtRk"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 260545,
       "name": "Zealots",
       "url": "https://open.spotify.com/track/52PgJoRz30sRQGOGqXYKdX"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
+      },
+      "artists": [
+        {
+          "name": "Grand Puba",
+          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
+        }
+      ],
+      "duration_ms": 263533,
+      "name": "I Like It (I Wanna Be Where You Are)",
+      "url": "https://open.spotify.com/track/5KBUiiDRPsocZlY2v3EtRk"
     },
     {
       "added_at": "2022-10-29 04:00:00",
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/2rk0lCpO1vkKAQ6BC8bjUX"
     },
     {
-      "added_at": "2022-12-25 00:30:57",
+      "added_at": "2022-12-26 01:05:34",
       "album": {
         "name": "One More",
         "url": "https://open.spotify.com/album/1iplLu9MsH5FMf35L6sZq3"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/0M5pEUmRD3b4nP31L88IdL"
     },
     {
-      "added_at": "2022-12-25 00:30:57",
+      "added_at": "2022-12-26 01:05:34",
       "album": {
         "name": "I Turned Myself into Myself",
         "url": "https://open.spotify.com/album/6tmKZYFGFxsZHgJwTeUERQ"
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/6NTceGKsDLTYehlyRbYp6O"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Clockers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
-      },
-      "artists": [
-        {
-          "name": "Crooklyn Dodgers",
-          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Return of The Crooklyn Dodgers",
-      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
-    },
-    {
       "added_at": "2022-09-30 04:10:30",
       "album": {
         "name": "KISS THE RING",
@@ -1031,6 +1015,22 @@
       "duration_ms": 205316,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/39UU4AyLap5LY9aIPm0X7h"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Clockers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
+      },
+      "artists": [
+        {
+          "name": "Crooklyn Dodgers",
+          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Return of The Crooklyn Dodgers",
+      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1105,7 +1105,7 @@
       "url": "https://open.spotify.com/track/4GdKi4F976XGtr8hedHEro"
     },
     {
-      "added_at": "2022-12-25 00:30:57",
+      "added_at": "2022-12-26 01:05:34",
       "album": {
         "name": "Narcan",
         "url": "https://open.spotify.com/album/4D1kEyNNQvPZy4sJ3togDl"
@@ -1257,6 +1257,22 @@
       "url": "https://open.spotify.com/track/3RkZ88ENyaY9WRC2yMAUQ0"
     },
     {
+      "added_at": "2022-12-26 01:05:34",
+      "album": {
+        "name": "YOD Presents: The Shining",
+        "url": "https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 153886,
+      "name": "Here's Johnny",
+      "url": "https://open.spotify.com/track/6cHurzh0uUnafG4HwOpRWK"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "2 P'z In A Pod",
@@ -1279,22 +1295,6 @@
       "duration_ms": 177819,
       "name": "Vanilla Cream",
       "url": "https://open.spotify.com/track/12h2DHtHRrxrhe1mc5QmKm"
-    },
-    {
-      "added_at": "2022-12-25 00:30:57",
-      "album": {
-        "name": "YOD Presents: The Shining",
-        "url": "https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        }
-      ],
-      "duration_ms": 153886,
-      "name": "Here's Johnny",
-      "url": "https://open.spotify.com/track/6cHurzh0uUnafG4HwOpRWK"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1337,6 +1337,30 @@
       "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
     },
     {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Beep",
+        "url": "https://open.spotify.com/album/43FECz43FmUI2lCoyGQAND"
+      },
+      "artists": [
+        {
+          "name": "Dave B.",
+          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
+        },
+        {
+          "name": "Jaywop",
+          "url": "https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9"
+        },
+        {
+          "name": "Da-P",
+          "url": "https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ"
+        }
+      ],
+      "duration_ms": 171219,
+      "name": "Beep",
+      "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
+    },
+    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "The Last Huzzah!",
@@ -1371,30 +1395,6 @@
       "duration_ms": 331937,
       "name": "The Last Huzzah!",
       "url": "https://open.spotify.com/track/4m7rYtLTr5vPPjlmkemR0C"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Beep",
-        "url": "https://open.spotify.com/album/43FECz43FmUI2lCoyGQAND"
-      },
-      "artists": [
-        {
-          "name": "Dave B.",
-          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
-        },
-        {
-          "name": "Jaywop",
-          "url": "https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9"
-        },
-        {
-          "name": "Da-P",
-          "url": "https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ"
-        }
-      ],
-      "duration_ms": 171219,
-      "name": "Beep",
-      "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/7xAfS5dttCDl09bOdXAmY5"
     },
     {
-      "added_at": "2022-06-24 12:00:00",
-      "album": {
-        "name": "DRILL MUSIC IN ZION",
-        "url": "https://open.spotify.com/album/1SkHVsBV7qIfKx0mdVuxbV"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 271883,
-      "name": "DRILL MUSIC IN ZION",
-      "url": "https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "The Black Mobius",
@@ -1501,24 +1485,20 @@
       "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
     },
     {
-      "added_at": "2022-08-05 12:00:00",
+      "added_at": "2022-06-24 12:00:00",
       "album": {
-        "name": "Intros, Outros & Interludes",
-        "url": "https://open.spotify.com/album/6EPg4n0tIsQpXmfAnpLHzq"
+        "name": "DRILL MUSIC IN ZION",
+        "url": "https://open.spotify.com/album/1SkHVsBV7qIfKx0mdVuxbV"
       },
       "artists": [
         {
-          "name": "Domo Genesis",
-          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
-        },
-        {
-          "name": "Evidence",
-          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
         }
       ],
-      "duration_ms": 148653,
-      "name": "Victories & Losses",
-      "url": "https://open.spotify.com/track/2K6ZrSKialsq4WWq4Em7xk"
+      "duration_ms": 271883,
+      "name": "DRILL MUSIC IN ZION",
+      "url": "https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH"
     },
     {
       "added_at": "2022-06-10 12:00:00",
@@ -1545,6 +1525,26 @@
       "url": "https://open.spotify.com/track/7gwQIgCoMKxY0zrALk86Zc"
     },
     {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Intros, Outros & Interludes",
+        "url": "https://open.spotify.com/album/6EPg4n0tIsQpXmfAnpLHzq"
+      },
+      "artists": [
+        {
+          "name": "Domo Genesis",
+          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
+        },
+        {
+          "name": "Evidence",
+          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
+        }
+      ],
+      "duration_ms": 148653,
+      "name": "Victories & Losses",
+      "url": "https://open.spotify.com/track/2K6ZrSKialsq4WWq4Em7xk"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Catch Me If You Can",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Ironman",
-        "url": "https://open.spotify.com/album/2jCjUgaDh9lVGju6u3cGvK"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 166840,
-      "name": "260 (feat. Raekwon)",
-      "url": "https://open.spotify.com/track/6eeG2PFxH0rFmLoK3hGGZH"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/6YEge8s9WLgdiigQFxNLIe"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 280220,
       "name": "The Love Song",
       "url": "https://open.spotify.com/track/7eGKbOhLhUGPGOtyEgnRhc"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Ironman",
+        "url": "https://open.spotify.com/album/2jCjUgaDh9lVGju6u3cGvK"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "duration_ms": 166840,
+      "name": "260 (feat. Raekwon)",
+      "url": "https://open.spotify.com/track/6eeG2PFxH0rFmLoK3hGGZH"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1653,22 +1653,6 @@
       "url": "https://open.spotify.com/track/5ME1N55LXNNEx9SP5s1rRv"
     },
     {
-      "added_at": "2022-12-25 00:30:57",
-      "album": {
-        "name": "One Man Army",
-        "url": "https://open.spotify.com/album/5r8TqJW9lIFw6easkGvqU0"
-      },
-      "artists": [
-        {
-          "name": "Apathy",
-          "url": "https://open.spotify.com/artist/6fK2hnSgfRPxR6sL975XQS"
-        }
-      ],
-      "duration_ms": 204956,
-      "name": "One Man Army",
-      "url": "https://open.spotify.com/track/6bOQpInkCrN8xixyBv9aG2"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "To Kill A Sunrise",
@@ -1709,6 +1693,22 @@
       "url": "https://open.spotify.com/track/0C5Nxw2GNFMzinyLklHTYA"
     },
     {
+      "added_at": "2022-12-26 01:05:34",
+      "album": {
+        "name": "One Man Army",
+        "url": "https://open.spotify.com/album/5r8TqJW9lIFw6easkGvqU0"
+      },
+      "artists": [
+        {
+          "name": "Apathy",
+          "url": "https://open.spotify.com/artist/6fK2hnSgfRPxR6sL975XQS"
+        }
+      ],
+      "duration_ms": 204956,
+      "name": "One Man Army",
+      "url": "https://open.spotify.com/track/6bOQpInkCrN8xixyBv9aG2"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Navy's Reprise",
@@ -1723,6 +1723,26 @@
       "duration_ms": 152281,
       "name": "Not a Lot to Fear",
       "url": "https://open.spotify.com/track/4lKmBs5dS81vXwJ2FsMbWE"
+    },
+    {
+      "added_at": "2022-10-29 04:00:00",
+      "album": {
+        "name": "Amir Divine (Damn Son Rework)",
+        "url": "https://open.spotify.com/album/3SImf3Y8oGlCJNMIax4wMu"
+      },
+      "artists": [
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        },
+        {
+          "name": "Ill Conscious",
+          "url": "https://open.spotify.com/artist/47NnUYBRcPQZwS2ijGlTqt"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Amir Divine - Damn Son Rework",
+      "url": "https://open.spotify.com/track/1cpZ8qDrMA4qWqCOPw5xcU"
     },
     {
       "added_at": "2022-10-29 04:00:00",
@@ -1743,6 +1763,22 @@
       "duration_ms": 240501,
       "name": "Randy Moss / Twenty-Six",
       "url": "https://open.spotify.com/track/1fIsoghaCZ5i61AB9Lv5Is"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "The Baltimore Housing Project",
+        "url": "https://open.spotify.com/album/4NvbiN9u7gPelMqlsEs5dE"
+      },
+      "artists": [
+        {
+          "name": "Jay Royale",
+          "url": "https://open.spotify.com/artist/3KNpTmSDhaORVahz00VlhW"
+        }
+      ],
+      "duration_ms": 227661,
+      "name": "Reefer Clouds",
+      "url": "https://open.spotify.com/track/6MryJ1KbKurnBs2ELzzrGh"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1781,22 +1817,6 @@
       "url": "https://open.spotify.com/track/30jfHyUlszF66IV2xlp8BM"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "The Baltimore Housing Project",
-        "url": "https://open.spotify.com/album/4NvbiN9u7gPelMqlsEs5dE"
-      },
-      "artists": [
-        {
-          "name": "Jay Royale",
-          "url": "https://open.spotify.com/artist/3KNpTmSDhaORVahz00VlhW"
-        }
-      ],
-      "duration_ms": 227661,
-      "name": "Reefer Clouds",
-      "url": "https://open.spotify.com/track/6MryJ1KbKurnBs2ELzzrGh"
-    },
-    {
       "added_at": "2022-05-20 12:00:00",
       "album": {
         "name": "Hold On",
@@ -1827,26 +1847,6 @@
       "duration_ms": 170872,
       "name": "90 From The Line, Pt. 3",
       "url": "https://open.spotify.com/track/3Ngt4ShOQ02FC0MvsfDfFK"
-    },
-    {
-      "added_at": "2022-10-29 04:00:00",
-      "album": {
-        "name": "Amir Divine (Damn Son Rework)",
-        "url": "https://open.spotify.com/album/3SImf3Y8oGlCJNMIax4wMu"
-      },
-      "artists": [
-        {
-          "name": "High John",
-          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
-        },
-        {
-          "name": "Ill Conscious",
-          "url": "https://open.spotify.com/artist/47NnUYBRcPQZwS2ijGlTqt"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Amir Divine - Damn Son Rework",
-      "url": "https://open.spotify.com/track/1cpZ8qDrMA4qWqCOPw5xcU"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1905,7 +1905,7 @@
       "url": "https://open.spotify.com/track/2HfwP1SaxQTGPwobr06lXP"
     },
     {
-      "added_at": "2022-12-25 00:30:57",
+      "added_at": "2022-12-26 01:05:34",
       "album": {
         "name": "Deutsche Marks 3",
         "url": "https://open.spotify.com/album/7k9IS4gC6f5ERorZ8eScJu"
@@ -1925,30 +1925,6 @@
       "url": "https://open.spotify.com/track/6z6yb0LVcMSuHXS0oCpUvx"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Dump YOD: Krutoy Edition",
-        "url": "https://open.spotify.com/album/5w84qVnNHvWnplOXOki2ch"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        },
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/6hvUcNz4QLXGftpZsvjWDb"
-    },
-    {
       "added_at": "2022-10-29 04:00:00",
       "album": {
         "name": "The Last Remnants",
@@ -1963,6 +1939,22 @@
       "duration_ms": 152655,
       "name": "Therapy Session",
       "url": "https://open.spotify.com/track/3Km9evmYEbOWSoAviuhJNA"
+    },
+    {
+      "added_at": "2022-12-26 01:05:34",
+      "album": {
+        "name": "MONTARA",
+        "url": "https://open.spotify.com/album/2Nl3fjllNCG3uPZrMBW4yU"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        }
+      ],
+      "duration_ms": 135870,
+      "name": "MONTARA",
+      "url": "https://open.spotify.com/track/43qEaP04zQe12Ch7PkXvUR"
     }
   ],
   "unique_name": "The Skate Shop",

@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-195 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
+197 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Christmas](https://open.spotify.com/track/58GbkmmdAijG6dAhnDYOaq) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Christmas](https://open.spotify.com/album/1twjpC9pXPmQBgXLqSeM8S) | 2:29 | 2021-11-12 | 2022-09-06 |
 | [Christmas](https://open.spotify.com/track/6k6uI1K7EWK0UsSpqtHpoX) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Christmas](https://open.spotify.com/album/2h5X4I201MIi7pv4lNCezO) | 2:29 | 2021-11-12 | 2022-07-25 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6Sm0Og9VDRjDWPQnERgPtd) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [A Christmas Gift For You From Moshi Moshi](https://open.spotify.com/album/1U4GkkVM8gk4WzBLxdNfR6) | 2:49 | 2021-11-12 | 2022-07-18 |
-| [Christmas Caller](https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Christmas Caller](https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv) | 2:15 | 2021-12-03 |  |
+| [Christmas \(Baby Please Come Home\) \- Recorded at Electric Lady Studios in NYC](https://open.spotify.com/track/4l6HpFFpPcJ3M5N1PuG7We) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/4NeHkZmteGriA9lEoa9Brp) | 3:23 | 2022-12-23 |  |
+| [Christmas Caller](https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Christmas Caller](https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv) | 2:15 | 2021-12-03 | 2022-12-26 |
 | [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 | 2022-12-23 |  |
 | [Christmas Eve \(Soul Purpose\)](https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Christmas Eve \(Soul Purpose\) / It’s Going To Be A Cold Winter](https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT) | 3:45 | 2021-11-12 | 2022-07-29 |
 | [Christmas Everyday](https://open.spotify.com/track/68gRTBTVwlnnwoqOsKPDCR) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [Christmas Everyday \- Single](https://open.spotify.com/album/0XX9kEAXQZRSxxlAwSADvU) | 2:09 | 2021-11-12 | 2022-07-29 |
@@ -62,6 +63,7 @@
 | [Christmas Trees In Rain](https://open.spotify.com/track/3LWDAisPvTSwPY1yDekJ4h) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Christmas Trees In Rain](https://open.spotify.com/album/7DIfJbxj5P6nW3NOuAEhhc) | 3:06 | 2021-11-12 | 2022-07-28 |
 | [Christmas Without You](https://open.spotify.com/track/267kRsUEcJoUyGHN7un0mo) | [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Christmas Without You](https://open.spotify.com/album/2G4xZw2aWxW1v6Ksw5QsHA) | 3:36 | 2021-11-12 | 2022-07-22 |
 | [Christmas Wrapping \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0V7gEKezonapBWqtRLj3yj) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Spotify Singles \- Holiday](https://open.spotify.com/album/417lgc1opyokWWmF2F7Wca) | 3:13 | 2021-11-12 | 2022-07-28 |
+| [Christmas, Hopefully](https://open.spotify.com/track/6d6BgnJ28MtFLtx0N0hR3y) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Christmas, Hopefully](https://open.spotify.com/album/7AiajSCAGYAg6Xqev65K9J) | 4:01 | 2022-12-23 |  |
 | [Christmas, Hopefully](https://open.spotify.com/track/1McvpCNx2uhJpZKNuPPfOz) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Christmas, Hopefully](https://open.spotify.com/album/3nRhv1zzvCD0x6u13SepBY) | 4:01 | 2021-11-12 | 2022-07-29 |
 | [Christmastime Is Here](https://open.spotify.com/track/7Muh7s7M9WhO9Zg2FoCyHb) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Christmastime Is Here](https://open.spotify.com/album/2Va7ruJJJHaCdAJ4r2xEjd) | 2:13 | 2021-11-12 | 2022-07-29 |
 | [Close Your Eyes](https://open.spotify.com/track/2VZFlunJX12zxbSrzMiDp2) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:05 | 2022-11-08 |  |
@@ -89,7 +91,7 @@
 | [Here We Come A\-Caroling](https://open.spotify.com/track/7qCP7q2x6LgxFM9bTUDQT2) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Here We Come A\-Caroling](https://open.spotify.com/album/5IAQ5BCCMopi0xZ7vbnCkL) | 2:47 | 2021-11-12 | 2022-07-25 |
 | [Holiday](https://open.spotify.com/track/1mrjKX3NVAtq1FGg7CzFbZ) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/4dPnPke5bEw0O12dgO7VkB) | 4:08 | 2021-11-12 | 2022-07-29 |
 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 | 2021-11-12 |  |
-| [Holiday Dreaming](https://open.spotify.com/track/659yAq4DwQRjuHkP0K9Pz8) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [The Molly Burch Christmas Album](https://open.spotify.com/album/1aigDgjQuiFg77aCRnyTTq) | 3:30 | 2022-12-23 |  |
+| [Holiday Dreaming](https://open.spotify.com/track/659yAq4DwQRjuHkP0K9Pz8) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [The Molly Burch Christmas Album](https://open.spotify.com/album/1aigDgjQuiFg77aCRnyTTq) | 3:30 | 2022-12-23 | 2022-12-26 |
 | [Home Alone, Too](https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Home Alone, Too](https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb) | 4:00 | 2021-11-12 |  |
 | [Home To You \(This Christmas\)](https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Home To You \(This Christmas\)](https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV) | 3:45 | 2021-11-12 |  |
 | [I Dream Of Christmas](https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Extended\)](https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj) | 3:22 | 2021-12-15 |  |

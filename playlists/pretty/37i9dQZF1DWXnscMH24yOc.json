@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 419295,
+  "num_followers": 419344,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk2MDAyOSwwMDAwMDAwMDk1YWEyZjQ1ODU3MTI1OGY2MjU3MjY3NzQyZDZlYzUy",
+  "snapshot_id": "MTY0Nzk2MDAyOSwwMDAwMDAwMGZhOTI1OGExNWY0OWJmNGU0MmU3ZGE4M2M4OTNmN2Y3",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -227,6 +227,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Hopes And Fears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "With Or Without You - BBC Jo Whiley Session / 2004",
+      "url": "https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 234079,
       "name": "Summer's End - Spotify Singles",
       "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Hopes And Fears (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "With Or Without You - BBC Jo Whiley Session / 2004",
-      "url": "https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15"
-      },
-      "artists": [
-        {
-          "name": "Roses & Revolutions",
-          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
-        }
-      ],
-      "duration_ms": 176497,
-      "name": "It's Not Living (If It's Not with You)",
-      "url": "https://open.spotify.com/track/0rZLcXPM6ozJK7BF28F9mK"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Giralunas, Un Homenaje a L.E.Aute",
         "url": "https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 336813,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15"
+      },
+      "artists": [
+        {
+          "name": "Roses & Revolutions",
+          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
+        }
+      ],
+      "duration_ms": 176497,
+      "name": "It's Not Living (If It's Not with You)",
+      "url": "https://open.spotify.com/track/0rZLcXPM6ozJK7BF28F9mK"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "In Your Prime - EP",
+        "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
+      },
+      "artists": [
+        {
+          "name": "Josef Salvat",
+          "url": "https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Everytime - Spotify Singles",
         "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "In Your Prime - EP",
-        "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
+        "name": "Palace (Cover) / Diane",
+        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
       },
       "artists": [
         {
-          "name": "Josef Salvat",
-          "url": "https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz"
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
         }
       ],
-      "duration_ms": 247200,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
+      "duration_ms": 229496,
+      "name": "Palace - Cover",
+      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -827,18 +843,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Palace (Cover) / Diane",
-        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
+        "name": "Thank you for the happiest year of my life",
+        "url": "https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh"
       },
       "artists": [
         {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+          "name": "if we were lakes",
+          "url": "https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z"
         }
       ],
-      "duration_ms": 229496,
-      "name": "Palace - Cover",
-      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
+      "duration_ms": 229604,
+      "name": "Thank you for the happiest year of my life",
+      "url": "https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -859,22 +875,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Thank you for the happiest year of my life",
-        "url": "https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh"
-      },
-      "artists": [
-        {
-          "name": "if we were lakes",
-          "url": "https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z"
-        }
-      ],
-      "duration_ms": 229604,
-      "name": "Thank you for the happiest year of my life",
-      "url": "https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Siamese Dream",
         "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 255633,
       "name": "Today",
       "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Friday I'm in Love",
-        "url": "https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA"
-      },
-      "artists": [
-        {
-          "name": "Oselie",
-          "url": "https://open.spotify.com/artist/2WFpP5JesWt9H0zqKesrCJ"
-        }
-      ],
-      "duration_ms": 173475,
-      "name": "Friday I'm in Love",
-      "url": "https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -935,6 +919,22 @@
       "duration_ms": 235579,
       "name": "What I Am - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Friday I'm in Love",
+        "url": "https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA"
+      },
+      "artists": [
+        {
+          "name": "Oselie",
+          "url": "https://open.spotify.com/artist/2WFpP5JesWt9H0zqKesrCJ"
+        }
+      ],
+      "duration_ms": 173475,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Waterfalls",
-        "url": "https://open.spotify.com/album/3a6JKnmVgeGdxebVWOXGOw"
-      },
-      "artists": [
-        {
-          "name": "Ten F\u00e9",
-          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
-        }
-      ],
-      "duration_ms": 266863,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/4WFdNbQtBQxY9rM7d3E6XC"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Cats On Trees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "It Must Have Been Love",
-        "url": "https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB"
+        "name": "Waterfalls",
+        "url": "https://open.spotify.com/album/3a6JKnmVgeGdxebVWOXGOw"
       },
       "artists": [
         {
-          "name": "Kathleen Edwards",
-          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+          "name": "Ten F\u00e9",
+          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
         }
       ],
-      "duration_ms": 247426,
-      "name": "It Must Have Been Love",
-      "url": "https://open.spotify.com/track/7fQ9Yffz8VAT0rVvo0h98b"
+      "duration_ms": 266863,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/4WFdNbQtBQxY9rM7d3E6XC"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Edwards",
+          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "It Must Have Been Love",
+      "url": "https://open.spotify.com/track/7fQ9Yffz8VAT0rVvo0h98b"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "I'm Gonna Be (500 Miles)",
         "url": "https://open.spotify.com/album/0b8KcBvQVOYGRQWGaWzyS0"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 212044,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "My Girl",
-        "url": "https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 185054,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 185054,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Love on Top",
         "url": "https://open.spotify.com/album/1AJrb6Xr98He43S6G9lBKP"
       },
@@ -1247,22 +1247,6 @@
       "duration_ms": 228000,
       "name": "Love on Top",
       "url": "https://open.spotify.com/track/2p49O7MazA7DBeS9IS9erq"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "...but i'd rather be with you",
-        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 235418,
-      "name": "Sunflower, Vol. 6",
-      "url": "https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "...but i'd rather be with you",
+        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 235418,
+      "name": "Sunflower, Vol. 6",
+      "url": "https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Robyn Sherwell",
         "url": "https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 170399,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Henry / I'm On Fire",
-        "url": "https://open.spotify.com/album/6ZAKHuqVkCtP8ZXrI7a54W"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 187241,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/1ZGTTfJcCJ33IfAaExK5Wi"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Nocturnes",
-        "url": "https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH"
+        "name": "Henry / I'm On Fire",
+        "url": "https://open.spotify.com/album/6ZAKHuqVkCtP8ZXrI7a54W"
       },
       "artists": [
         {
-          "name": "Meadowlark",
-          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
         }
       ],
-      "duration_ms": 227064,
-      "name": "About You Now",
-      "url": "https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau"
+      "duration_ms": 187241,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/1ZGTTfJcCJ33IfAaExK5Wi"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1379,6 +1363,22 @@
       "duration_ms": 238360,
       "name": "Here Comes The Sun (feat. dodie)",
       "url": "https://open.spotify.com/track/2KQlkzT8Gg1lFDU0y5TYeK"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Nocturnes",
+        "url": "https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH"
+      },
+      "artists": [
+        {
+          "name": "Meadowlark",
+          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
+        }
+      ],
+      "duration_ms": 227064,
+      "name": "About You Now",
+      "url": "https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Young & Sad",
-        "url": "https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA"
-      },
-      "artists": [
-        {
-          "name": "Tom Boy",
-          "url": "https://open.spotify.com/artist/1fqwhBnYqhrXIHVKkowZrt"
-        }
-      ],
-      "duration_ms": 182957,
-      "name": "Young & Sad",
-      "url": "https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Anthem +3",
         "url": "https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 345773,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Young & Sad",
+        "url": "https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA"
+      },
+      "artists": [
+        {
+          "name": "Tom Boy",
+          "url": "https://open.spotify.com/artist/1fqwhBnYqhrXIHVKkowZrt"
+        }
+      ],
+      "duration_ms": 182957,
+      "name": "Young & Sad",
+      "url": "https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "In Your Eyes (Acoustic)",
-        "url": "https://open.spotify.com/album/4wjW8JiSJksjix88SEnRTQ"
-      },
-      "artists": [
-        {
-          "name": "Gavin Mikhail",
-          "url": "https://open.spotify.com/artist/364ovD0MRp9ezaNTkRoLeA"
-        }
-      ],
-      "duration_ms": 273652,
-      "name": "In Your Eyes (Acoustic)",
-      "url": "https://open.spotify.com/track/5dQTVqWnlRhNgGUDbYOf8e"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Feel Good Inc.",
         "url": "https://open.spotify.com/album/4FjHmmKcMhmwZJkUWnbSje"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 236129,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "In Your Eyes (Acoustic)",
+        "url": "https://open.spotify.com/album/4wjW8JiSJksjix88SEnRTQ"
+      },
+      "artists": [
+        {
+          "name": "Gavin Mikhail",
+          "url": "https://open.spotify.com/artist/364ovD0MRp9ezaNTkRoLeA"
+        }
+      ],
+      "duration_ms": 273652,
+      "name": "In Your Eyes (Acoustic)",
+      "url": "https://open.spotify.com/track/5dQTVqWnlRhNgGUDbYOf8e"
     },
     {
       "added_at": "2022-03-22 14:40:29",

@@ -1189,7 +1189,7 @@
     {
       "album": {
         "name": "Soapy",
-        "url": "https://open.spotify.com/album/39cm8VQ9VBMhikxLxSG5lS"
+        "url": "https://open.spotify.com/album/1v9gHXqfKMRyEb1i64KJW3"
       },
       "artists": [
         {
@@ -1200,6 +1200,24 @@
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174043,
+      "name": "Soapy",
+      "url": "https://open.spotify.com/track/1SlqJxitLASHinl3X0Mvkn"
+    },
+    {
+      "album": {
+        "name": "Soapy",
+        "url": "https://open.spotify.com/album/39cm8VQ9VBMhikxLxSG5lS"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
       "duration_ms": 174043,
       "name": "Soapy",
       "url": "https://open.spotify.com/track/67Ar5yu8mH1rOVInvnsG0U"

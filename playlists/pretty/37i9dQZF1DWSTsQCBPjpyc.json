@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 17874,
+  "num_followers": 17911,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMDg2MGZlNDljNjIxNThkY2UyMzVlYzA1Zjg0ODA3M2Yw",
+  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMGJmODM4NWVjZGEzMjVlZTBiMmE0NGYxM2VkMDQyMDky",
   "tracks": [
     {
       "added_at": "2022-11-07 19:08:41",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/1iLqQUd6H6qN0FzKxDYXaf"
     },
     {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Traveler's Blues",
-        "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
-      },
-      "artists": [
-        {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
-        }
-      ],
-      "duration_ms": 272693,
-      "name": "Funky Bitch",
-      "url": "https://open.spotify.com/track/2YYFIVPhSTE4gCF7slbtDh"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Completely Well",
@@ -319,6 +303,22 @@
       "duration_ms": 292800,
       "name": "You're Losin' Me",
       "url": "https://open.spotify.com/track/0DID8Ir6yeko5KoXCXwOnL"
+    },
+    {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "Traveler's Blues",
+        "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
+      },
+      "artists": [
+        {
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+        }
+      ],
+      "duration_ms": 272693,
+      "name": "Funky Bitch",
+      "url": "https://open.spotify.com/track/2YYFIVPhSTE4gCF7slbtDh"
     },
     {
       "added_at": "2021-04-23 04:01:00",

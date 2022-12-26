@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 144363,
+  "num_followers": 144386,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMDZkMzUyZjM3MGVmMGE1NmFjMjZjMTZkY2NhZTNlMjEx",
+  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMGJjODE5YzM1ODYwOGFhMmI2YzZkNWYwNjVlYzY2ZmZl",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -315,6 +315,26 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "...SI CI SONO ANCH'IO (BLUE DOLPHIN)",
+        "url": "https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS"
+      },
+      "artists": [
+        {
+          "name": "Stephen Schlaks",
+          "url": "https://open.spotify.com/artist/2bxTIn8Z3fDtIPTFC7JypL"
+        },
+        {
+          "name": "Michel",
+          "url": "https://open.spotify.com/artist/26DaTPOYW2gXfXBIwghsKn"
+        }
+      ],
+      "duration_ms": 179703,
+      "name": "BLUE DOLPHIN",
+      "url": "https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Grandes Favoritas Instrumentales,Vol.4",
         "url": "https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 233600,
       "name": "The Entertainer",
       "url": "https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "...SI CI SONO ANCH'IO (BLUE DOLPHIN)",
-        "url": "https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS"
-      },
-      "artists": [
-        {
-          "name": "Stephen Schlaks",
-          "url": "https://open.spotify.com/artist/2bxTIn8Z3fDtIPTFC7JypL"
-        },
-        {
-          "name": "Michel",
-          "url": "https://open.spotify.com/artist/26DaTPOYW2gXfXBIwghsKn"
-        }
-      ],
-      "duration_ms": 179703,
-      "name": "BLUE DOLPHIN",
-      "url": "https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -695,18 +695,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Music Box Dancer",
-        "url": "https://open.spotify.com/album/2fcngsscxnVlJdbGgXmBlt"
+        "name": "60 Timeless Classics from the Giants of Traditional Jazz",
+        "url": "https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR"
       },
       "artists": [
         {
-          "name": "Frank Mills",
-          "url": "https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS"
+          "name": "Chris Barber",
+          "url": "https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU"
+        },
+        {
+          "name": "Monty Sunshine",
+          "url": "https://open.spotify.com/artist/42AJfxnbtIFT4DbZcUf11d"
         }
       ],
-      "duration_ms": 192360,
-      "name": "Music Box Dancer",
-      "url": "https://open.spotify.com/track/5NdzToomqRRxNSR0F0nUHg"
+      "duration_ms": 164360,
+      "name": "Petite Fleur",
+      "url": "https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -727,22 +731,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "60 Timeless Classics from the Giants of Traditional Jazz",
-        "url": "https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR"
+        "name": "Music Box Dancer",
+        "url": "https://open.spotify.com/album/2fcngsscxnVlJdbGgXmBlt"
       },
       "artists": [
         {
-          "name": "Chris Barber",
-          "url": "https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU"
-        },
-        {
-          "name": "Monty Sunshine",
-          "url": "https://open.spotify.com/artist/42AJfxnbtIFT4DbZcUf11d"
+          "name": "Frank Mills",
+          "url": "https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS"
         }
       ],
-      "duration_ms": 164360,
-      "name": "Petite Fleur",
-      "url": "https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x"
+      "duration_ms": 192360,
+      "name": "Music Box Dancer",
+      "url": "https://open.spotify.com/track/5NdzToomqRRxNSR0F0nUHg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -779,22 +779,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Kpm 1000 Series: Gentle Sounds - Volume 2",
-        "url": "https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pearson",
-          "url": "https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "Sleepy Shores",
-      "url": "https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Las No. 1 Instrumentales",
         "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 353680,
       "name": "Lluvia de Primavera",
       "url": "https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Kpm 1000 Series: Gentle Sounds - Volume 2",
+        "url": "https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pearson",
+          "url": "https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "Sleepy Shores",
+      "url": "https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -863,22 +863,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La m\u00e9lodie du lac d'amour",
-        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
-      },
-      "artists": [
-        {
-          "name": "Jean Claude Borelly",
-          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "Dolannes m\u00e9lodie",
-      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Orange Blossom Special And Wheels",
         "url": "https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 128785,
       "name": "Wheels",
       "url": "https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "La m\u00e9lodie du lac d'amour",
+        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
+      },
+      "artists": [
+        {
+          "name": "Jean Claude Borelly",
+          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Dolannes m\u00e9lodie",
+      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Danke Schoen - Helmut Zacharias",
-        "url": "https://open.spotify.com/album/56xiaYPiMFdZhgSrDVHV3y"
-      },
-      "artists": [
-        {
-          "name": "Helmut Zacharias",
-          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "Claire",
-      "url": "https://open.spotify.com/track/0SPiPaxXopuqHmU4Z8G2l7"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "La Fiesta Mexicana de Pepe Jaramillo",
         "url": "https://open.spotify.com/album/1TlhMhPjDehaKKimK6BabM"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 111200,
       "name": "Capullito de Alel\u00ed",
       "url": "https://open.spotify.com/track/3A1nSG1uFKrpTkyTFF9cW6"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Danke Schoen - Helmut Zacharias",
+        "url": "https://open.spotify.com/album/56xiaYPiMFdZhgSrDVHV3y"
+      },
+      "artists": [
+        {
+          "name": "Helmut Zacharias",
+          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "Claire",
+      "url": "https://open.spotify.com/track/0SPiPaxXopuqHmU4Z8G2l7"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
-      },
-      "artists": [
-        {
-          "name": "Raul Di Blasio",
-          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Coraz\u00f3n de Ni\u00f1o",
-      "url": "https://open.spotify.com/track/56y7Xna4NmOjX8VNz4dlNk"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "The Leroy Anderson Collection",
         "url": "https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 169426,
       "name": "Blue Tango",
       "url": "https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
+      },
+      "artists": [
+        {
+          "name": "Raul Di Blasio",
+          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Coraz\u00f3n de Ni\u00f1o",
+      "url": "https://open.spotify.com/track/56y7Xna4NmOjX8VNz4dlNk"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Playas de Ensue\u00f1o",
-        "url": "https://open.spotify.com/album/31E3FJeD3mPINXJu4kXpVD"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
       },
       "artists": [
         {
-          "name": "DCO",
-          "url": "https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ"
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
         }
       ],
-      "duration_ms": 193213,
-      "name": "Playas de Ensue\u00f1o",
-      "url": "https://open.spotify.com/track/1IXc0lJmLcPHHrGL9rSWzX"
+      "duration_ms": 153133,
+      "name": "The Girl from Ipanema",
+      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
+        "name": "Playas de Ensue\u00f1o",
+        "url": "https://open.spotify.com/album/31E3FJeD3mPINXJu4kXpVD"
       },
       "artists": [
         {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+          "name": "DCO",
+          "url": "https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ"
         }
       ],
-      "duration_ms": 153133,
-      "name": "The Girl from Ipanema",
-      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
+      "duration_ms": 193213,
+      "name": "Playas de Ensue\u00f1o",
+      "url": "https://open.spotify.com/track/1IXc0lJmLcPHHrGL9rSWzX"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/5fDbDD0sJ8DLzzSzpMKZZL"
     },
     {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
-      },
-      "artists": [
-        {
-          "name": "Raul Di Blasio",
-          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
-        }
-      ],
-      "duration_ms": 383933,
-      "name": "Piano",
-      "url": "https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23"
-    },
-    {
       "added_at": "2021-12-23 15:47:25",
       "album": {
         "name": "The Ultimate John Barry",
@@ -1427,6 +1411,22 @@
       "duration_ms": 403466,
       "name": "Ravel's Bolero",
       "url": "https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
+      },
+      "artists": [
+        {
+          "name": "Raul Di Blasio",
+          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
+        }
+      ],
+      "duration_ms": 383933,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 116400,
-      "name": "Java",
-      "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Santo & Johnny",
         "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 221186,
       "name": "El N\u00e1vajo Azul",
       "url": "https://open.spotify.com/track/4ZintGm70QaQWUx3AwRcQc"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 116400,
+      "name": "Java",
+      "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Violin Jazz Essentials",
-        "url": "https://open.spotify.com/album/1qOkAxsXhs3lEbSxnhE9lW"
-      },
-      "artists": [
-        {
-          "name": "Helmut Zacharias",
-          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Ave Maria No Morro",
-      "url": "https://open.spotify.com/track/2js8y9eYf3pe4Otk24Yr57"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Michel Legrand y Su Gran Orquesta",
         "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 159586,
       "name": "Kiss of Fire",
       "url": "https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Violin Jazz Essentials",
+        "url": "https://open.spotify.com/album/1qOkAxsXhs3lEbSxnhE9lW"
+      },
+      "artists": [
+        {
+          "name": "Helmut Zacharias",
+          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Ave Maria No Morro",
+      "url": "https://open.spotify.com/track/2js8y9eYf3pe4Otk24Yr57"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Celebration: A Musical Journey",
-        "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '77",
-          "url": "https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Promise Of A Fisherman (Promessa De Pescador)",
-      "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Norwegian Rain",
         "url": "https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 293853,
       "name": "The Approaching Storm",
       "url": "https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Celebration: A Musical Journey",
+        "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '77",
+          "url": "https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Promise Of A Fisherman (Promessa De Pescador)",
+      "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Michel Legrand y Su Gran Orquesta",
-        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
-      },
-      "artists": [
-        {
-          "name": "Michel Legrand",
-          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
-        }
-      ],
-      "duration_ms": 135360,
-      "name": "Boum",
-      "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Honeymoon in South America",
         "url": "https://open.spotify.com/album/0ws2zLdFiEZNztPGi1Jwem"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 173616,
       "name": "Moon Over Montevideo",
       "url": "https://open.spotify.com/track/4FcWZ82tsQ1As33m2SR2gN"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Michel Legrand y Su Gran Orquesta",
+        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
+      },
+      "artists": [
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+        }
+      ],
+      "duration_ms": 135360,
+      "name": "Boum",
+      "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
     },
     {
       "added_at": "2020-12-08 19:02:01",

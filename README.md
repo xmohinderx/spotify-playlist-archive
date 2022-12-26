@@ -2721,6 +2721,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Navidad Con Sabor](/playlists/pretty/37i9dQZF1DX3Xgp6iJAFjW.md)
 - [Navidad Cristiana](/playlists/pretty/37i9dQZF1DX4bpoWO7sjH5.md)
 - [Navidad Música Mexicana](/playlists/pretty/37i9dQZF1DX1cAnQLHCOsG.md)
+- [Navidad Para Niños](/playlists/pretty/37i9dQZF1DXbSZAntbig67.md)
 - [Nelson Mandela Tribute](/playlists/pretty/7iUOaMP7iKI22rBNflBwjX.md)
 - [Neo\-Psychedelic Rock](/playlists/pretty/37i9dQZF1DX7k3T9O9bscd.md)
 - [Neon Lights](/playlists/pretty/37i9dQZF1DWZQ9qjpEt3QA.md)

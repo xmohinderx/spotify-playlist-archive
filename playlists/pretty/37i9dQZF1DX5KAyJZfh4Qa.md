@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ <a href="https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb?si=6rDzYCSkSrSbnfwH1WhERA">One Step Closer</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,380 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,454 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

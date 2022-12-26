@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 527766,
+  "num_followers": 528044,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyNjAwMCwwMDAwMDAwMGVhZWYzYzY4NjEzMDFmYWQ4NWRiNGUxNmY0MzAxZTAw",
+  "snapshot_id": "MTY2ODcyNjAwMCwwMDAwMDAwMGVmMzkzMzZmZGRhMTFhNGMxYjc1YmUxODAzODgxZWEy",
   "tracks": [
     {
       "added_at": "2022-11-17 23:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Bedrock",
-      "url": "https://open.spotify.com/track/5gzS0JyrF7IHZzMH4rNpoK"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
         "name": "postcard from Berlin",
         "url": "https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 194092,
       "name": "grapejuice",
       "url": "https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Bedrock",
+      "url": "https://open.spotify.com/track/5gzS0JyrF7IHZzMH4rNpoK"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
+        "name": "Maybe October",
+        "url": "https://open.spotify.com/album/2fLdBQ3TVNexpi2PRYsqhX"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 164195,
+      "name": "Maybe October",
+      "url": "https://open.spotify.com/track/4TkGiH6W0MYjPpLgy11sP9"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Maybe October",
-        "url": "https://open.spotify.com/album/2fLdBQ3TVNexpi2PRYsqhX"
+        "name": "Golden Rope",
+        "url": "https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8"
       },
       "artists": [
         {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+          "name": "Bulgarian Cartrader",
+          "url": "https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx"
         }
       ],
-      "duration_ms": 164195,
-      "name": "Maybe October",
-      "url": "https://open.spotify.com/track/4TkGiH6W0MYjPpLgy11sP9"
+      "duration_ms": 220275,
+      "name": "Golden Rope",
+      "url": "https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -699,18 +715,18 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Golden Rope",
-        "url": "https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8"
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2DukMfm4xFv4wrG5OxnwmJ"
       },
       "artists": [
         {
-          "name": "Bulgarian Cartrader",
-          "url": "https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx"
+          "name": "SWEED",
+          "url": "https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG"
         }
       ],
-      "duration_ms": 220275,
-      "name": "Golden Rope",
-      "url": "https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy"
+      "duration_ms": 219562,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/3d2oVtfkR9fZGIejnA4fY8"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -727,22 +743,6 @@
       "duration_ms": 197576,
       "name": "Clocks",
       "url": "https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/2DukMfm4xFv4wrG5OxnwmJ"
-      },
-      "artists": [
-        {
-          "name": "SWEED",
-          "url": "https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG"
-        }
-      ],
-      "duration_ms": 219562,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/3d2oVtfkR9fZGIejnA4fY8"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 171890,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
         "name": "Colorado (Acoustic Version)",
         "url": "https://open.spotify.com/album/3PiUucuaHEp8Sr3eo1OETs"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 184515,
       "name": "Ocean Wide",
       "url": "https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 171890,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
         "name": "No Goodbye",
         "url": "https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 252000,
       "name": "No Goodbye",
       "url": "https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW"
-      },
-      "artists": [
-        {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
-        }
-      ],
-      "duration_ms": 255970,
-      "name": "Riverbank",
-      "url": "https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
         "name": "Around The Sun",
         "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 234493,
       "name": "Around The Sun",
       "url": "https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW"
+      },
+      "artists": [
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "duration_ms": 255970,
+      "name": "Riverbank",
+      "url": "https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg"
     },
     {
       "added_at": "2022-11-17 23:00:00",

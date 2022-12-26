@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 827471,
+  "num_followers": 827743,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAyNDg2OCwwMDAwMDAwMDZmOWZmMjZhNzZlNmU5ODRhMThmNWI4ODk5YWQ1NjM3",
+  "snapshot_id": "MTY2ODAyNDg2OCwwMDAwMDAwMDQyNjU1YzZiMWI3ZDhmMjdiNzc0NTc3N2ZmYzliNTcx",
   "tracks": [
     {
       "added_at": "2022-11-09 20:14:28",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "Morning Matters",
+        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Morning Matters",
+      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "HYPNOS",
         "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 227000,
       "name": "Skin Tight (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "Morning Matters",
-        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Morning Matters",
-      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -687,38 +687,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Monologues",
-        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
-      },
-      "artists": [
-        {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "I Got It",
-      "url": "https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "Negro Swan",
-        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 182893,
-      "name": "Orlando",
-      "url": "https://open.spotify.com/track/1H8BKN1WYV6AW1kghI3ldP"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "As Days Go By",
         "url": "https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx"
       },
@@ -735,6 +703,22 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "Monologues",
+        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
+      },
+      "artists": [
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "I Got It",
+      "url": "https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/1ubh8g3vXgxNP5RGfSlO6d"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 129048,
       "name": "You",
       "url": "https://open.spotify.com/track/0iRStxrY5NmQYzuSYnuoGg"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Negro Swan",
+        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "Orlando",
+      "url": "https://open.spotify.com/track/1H8BKN1WYV6AW1kghI3ldP"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "You're Too Precious",
-        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 223900,
-      "name": "You're Too Precious",
-      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "You Can't Steal My Joy",
         "url": "https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 154426,
       "name": "Space is the Place",
       "url": "https://open.spotify.com/track/38PFECJBX4yGhiHFH9XgYX"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "You're Too Precious",
+        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 223900,
+      "name": "You're Too Precious",
+      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "I'm Thru",
-        "url": "https://open.spotify.com/album/2vhF7msOOZ8QcwXReET5YP"
-      },
-      "artists": [
-        {
-          "name": "Luke Gomm",
-          "url": "https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB"
-        },
-        {
-          "name": "Cover art by Hasworld",
-          "url": "https://open.spotify.com/artist/4HaqOBtirZ4ArjpCAMCRGB"
-        }
-      ],
-      "duration_ms": 191335,
-      "name": "I'm Thru",
-      "url": "https://open.spotify.com/track/4ufWGDUgfZ0IHuDQsqAVMd"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Lost In America",
         "url": "https://open.spotify.com/album/2WbkuaOgi9oDxB5INkQW9T"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 174533,
       "name": "Let's Go Get Stoned",
       "url": "https://open.spotify.com/track/1XCqGflyHjZAE1BnRqWUc9"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "I'm Thru",
+        "url": "https://open.spotify.com/album/2vhF7msOOZ8QcwXReET5YP"
+      },
+      "artists": [
+        {
+          "name": "Luke Gomm",
+          "url": "https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB"
+        },
+        {
+          "name": "Cover art by Hasworld",
+          "url": "https://open.spotify.com/artist/4HaqOBtirZ4ArjpCAMCRGB"
+        }
+      ],
+      "duration_ms": 191335,
+      "name": "I'm Thru",
+      "url": "https://open.spotify.com/track/4ufWGDUgfZ0IHuDQsqAVMd"
     }
   ],
   "unique_name": "Lowkey",

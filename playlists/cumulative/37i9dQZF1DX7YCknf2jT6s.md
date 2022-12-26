@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Grace Kelly
 
-645 songs - 2 day 4 hr 8 min - [published](https://open.spotify.com/playlist/5R2nAaHgZSXgVDUHN6bx38)
+646 songs - 2 day 4 hr 13 min - [published](https://open.spotify.com/playlist/5R2nAaHgZSXgVDUHN6bx38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,8 @@
 | [Promises Kept \(feat\. Dominic Miller\)](https://open.spotify.com/track/6A0z33khgfQ8kVsTJcsbEJ) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM), [Dominic Miller](https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL) | [Promises Kept \(feat\. Dominic Miller\)](https://open.spotify.com/album/0Sd7qYxkJdJjTVn9vKgxqH) | 5:32 | 2021-12-23 | 2022-01-28 |
 | [Pulpo](https://open.spotify.com/track/1QISJCYkc7CvtL9kYnKvJJ) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Pulpo](https://open.spotify.com/album/7g0HlZNLEbmgn5WFpbXcXw) | 4:46 | 2022-08-08 | 2022-11-05 |
 | [Pulse](https://open.spotify.com/track/0L23Lh4ALOAJSUVBxHWLMt) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Matt Zara](https://open.spotify.com/artist/7esr72Ko5ghnnhZZSAxqHL) | [Pulse](https://open.spotify.com/album/47fhitalFxOfp647SOyW6y) | 3:32 | 2021-12-23 | 2022-01-28 |
-| [Pure Body](https://open.spotify.com/track/3EDOOB62d6D3zLJTsXe542) | [tyroneisaacstuart](https://open.spotify.com/artist/7IrtDd8etfUqqxBhfZ5zHI), [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [S!CK](https://open.spotify.com/album/5eb8rXscjtszX5i9zzAm6u) | 5:09 | 2022-11-11 |  |
+| [Pure Body](https://open.spotify.com/track/3EDOOB62d6D3zLJTsXe542) | [tyroneisaacstuart](https://open.spotify.com/artist/7IrtDd8etfUqqxBhfZ5zHI), [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [S!CK](https://open.spotify.com/album/5eb8rXscjtszX5i9zzAm6u) | 5:09 | 2022-11-11 | 2022-12-26 |
+| [Pure Body](https://open.spotify.com/track/6zFHFIS29EtNW7s1U4x7WI) | [tyroneisaacstuart](https://open.spotify.com/artist/7IrtDd8etfUqqxBhfZ5zHI), [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [S!CK](https://open.spotify.com/album/090lMBT6jYvffADBytYSvC) | 5:09 | 2022-11-11 |  |
 | [Push](https://open.spotify.com/track/1AqbCzDfgIsB8iF9rBUy0A) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Familiar Places](https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS) | 7:17 | 2022-01-20 | 2022-03-12 |
 | [PYRAMIDS](https://open.spotify.com/track/3O5uimXicNsioVqrfY5nv0) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Hyper\-Dimensional Expansion Beam](https://open.spotify.com/album/1XPsJnIVMjOt04rczMWVO4) | 4:50 | 2022-09-23 | 2022-12-10 |
 | [Quanno chiove](https://open.spotify.com/track/46vefwWRRLijm8xNYrGUVH) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP) | [Massimo Faraò Plays Pino Daniele's Ballads](https://open.spotify.com/album/3IsclXG2EZrHu8ZYYzS5Cy) | 4:44 | 2022-11-04 |  |

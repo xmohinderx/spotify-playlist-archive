@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Special Interest
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,080 likes - 126 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,153 likes - 126 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 26 | [Come On Down \(feat\. Joe Talbot\)](https://open.spotify.com/track/7j8wuFNfwgRuGJvi1vY5qI) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [Come On Down](https://open.spotify.com/album/2vTfTn3WEjwoNHLpA1bumO) | 3:24 |
 | 27 | [Moments of Clarity](https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ) | 3:50 |
 | 28 | [Eyes](https://open.spotify.com/track/4IixKf4WnlQ56QPwHchEO5) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Mushroom Death Sex Bummer Party](https://open.spotify.com/album/1xdQqexBnhvycuqFc6KUh9) | 1:30 |
-| 29 | [Lava Lamp Pisco](https://open.spotify.com/track/23TrkSJOvl2mnka8F6POxd) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt) | 4:01 |
+| 29 | [Lava Lamp Pisco](https://open.spotify.com/track/2eXXH2jx97BkAeMIM6Se3S) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw) | 4:01 |
 | 30 | [Monkey Mind](https://open.spotify.com/track/0lM6yxZLvHvxqBdYhgr9uo) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Monkey Mind](https://open.spotify.com/album/2tGMS4nGHxcPvD3DEIeaLW) | 2:18 |
 | 31 | [Over & Out](https://open.spotify.com/track/76M5por1Z1EIqZQ3K0fA1X) | [Pile of Love](https://open.spotify.com/artist/60iCPCyahHaVV4TvJBD6mL) | [Over & Out](https://open.spotify.com/album/1sikjvOUTHaQYcoPUjC3me) | 2:44 |
 | 32 | [Let Me Be Normal](https://open.spotify.com/track/4aPd0Ce1cRiE2Yg1fty3HD) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Let Me Be Normal](https://open.spotify.com/album/6RjuNtTTG4MkTaAxxzjZIJ) | 2:22 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 125 | [Friends On Ice](https://open.spotify.com/track/0ZDKTKucM4P27wWEuXh7Bt) | [Yung](https://open.spotify.com/artist/5XXsYiiQV6g24ksM2iAdtM) | [Ongoing Dispute](https://open.spotify.com/album/1ygTSPHT2gdItEzuDAKJth) | 4:06 |
 | 126 | [Modern Dinosaur](https://open.spotify.com/track/5TPqgtVFvYK8rmcIUNKY0s) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Sub Atomic Party Cool](https://open.spotify.com/album/36bR4wwIGzZW9F86ky3Zbm) | 2:31 |
 
-Snapshot ID: `MTY3MDg2MDAzMCwwMDAwMDAwMGI3NmEzOGFjMDhjNzA3MDIxMDJjOGEyMThlOWZkMjU0`
+Snapshot ID: `MTY3MDg2MDAzMCwwMDAwMDAwMGEyYzg1MDRlM2FhYWE4MTZiMmExNjNkMTZhZWFjZDZi`

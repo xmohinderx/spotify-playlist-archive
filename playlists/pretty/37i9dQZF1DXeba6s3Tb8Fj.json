@@ -1,12 +1,12 @@
 {
   "description": "Traditional West African blues and North African desert blues. Cover: Songhoy Blues",
-  "num_followers": 5519,
+  "num_followers": 5530,
   "original_name": "African Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMDJmNjA1ZTdlYzM4ODExNzk1OTc2OTcxMTlmYmEyYjE3",
+  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMDZmYThjMWI0M2RjOWFmYjYxNGQxY2RjZDI5ZmJiOTcw",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Imarhan",
-        "url": "https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL"
-      },
-      "artists": [
-        {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Tahabort",
-      "url": "https://open.spotify.com/track/1fd4zR1mI316y8y8Yq5txJ"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Savane",
         "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 463266,
       "name": "Savane",
       "url": "https://open.spotify.com/track/0Ya5bHuA3kyiePOhIQfQtW"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Imarhan",
+        "url": "https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Tahabort",
+      "url": "https://open.spotify.com/track/1fd4zR1mI316y8y8Yq5txJ"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -291,18 +291,34 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Music from Saharan Cellphones, Vol. 1",
-        "url": "https://open.spotify.com/album/4VK8kX70jpOy0QfKIWltaU"
+        "name": "African Gnaoua Blues",
+        "url": "https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase"
       },
       "artists": [
         {
-          "name": "Amanar",
-          "url": "https://open.spotify.com/artist/3UqKqZAPRw5jnAmiDoD6Px"
+          "name": "Majid Bekkas",
+          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
+        },
+        {
+          "name": "Rachid Zeroual",
+          "url": "https://open.spotify.com/artist/5SC5yIRmjZFE62gTfYkpPw"
+        },
+        {
+          "name": "Khalid Kouhen",
+          "url": "https://open.spotify.com/artist/793iN9XLyORCyaD3NW3isz"
+        },
+        {
+          "name": "Paolo Radoni",
+          "url": "https://open.spotify.com/artist/3huZDhwrKz3odYxyOzBhDa"
+        },
+        {
+          "name": "Marc Lelangue",
+          "url": "https://open.spotify.com/artist/00dper4Tuw2YtHISDEZEet"
         }
       ],
-      "duration_ms": 397706,
-      "name": "Alghafiat",
-      "url": "https://open.spotify.com/track/2XNNxHozxIxvJ6gUnjWjt3"
+      "duration_ms": 422053,
+      "name": "African Blues",
+      "url": "https://open.spotify.com/track/3vxY3FC2UbTGr3uxXNYpTV"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -339,34 +355,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "African Gnaoua Blues",
-        "url": "https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase"
+        "name": "Music from Saharan Cellphones, Vol. 1",
+        "url": "https://open.spotify.com/album/4VK8kX70jpOy0QfKIWltaU"
       },
       "artists": [
         {
-          "name": "Majid Bekkas",
-          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
-        },
-        {
-          "name": "Rachid Zeroual",
-          "url": "https://open.spotify.com/artist/5SC5yIRmjZFE62gTfYkpPw"
-        },
-        {
-          "name": "Khalid Kouhen",
-          "url": "https://open.spotify.com/artist/793iN9XLyORCyaD3NW3isz"
-        },
-        {
-          "name": "Paolo Radoni",
-          "url": "https://open.spotify.com/artist/3huZDhwrKz3odYxyOzBhDa"
-        },
-        {
-          "name": "Marc Lelangue",
-          "url": "https://open.spotify.com/artist/00dper4Tuw2YtHISDEZEet"
+          "name": "Amanar",
+          "url": "https://open.spotify.com/artist/3UqKqZAPRw5jnAmiDoD6Px"
         }
       ],
-      "duration_ms": 422053,
-      "name": "African Blues",
-      "url": "https://open.spotify.com/track/3vxY3FC2UbTGr3uxXNYpTV"
+      "duration_ms": 397706,
+      "name": "Alghafiat",
+      "url": "https://open.spotify.com/track/2XNNxHozxIxvJ6gUnjWjt3"
     },
     {
       "added_at": "2020-12-01 05:01:00",

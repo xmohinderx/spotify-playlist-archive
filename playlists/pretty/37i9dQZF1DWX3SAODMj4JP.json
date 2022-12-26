@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 82637,
+  "num_followers": 82764,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU3NzU2NCwwMDAwMDAwMDY1NzA5YzE1MmNmOWQ0NWEzMTkyZjIwZWU2NTlmMTJh",
+  "snapshot_id": "MTY2NzU3NzU2NCwwMDAwMDAwMDhjMjY3ZWM4Y2ZhNmE2MGMwM2YyZDhmZGVlNTgyMmI3",
   "tracks": [
     {
       "added_at": "2022-11-04 15:59:24",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-11-04 15:59:24",
       "album": {
-        "name": "Abra\u00e7o",
-        "url": "https://open.spotify.com/album/5zaifallEnusWXIpU2mMEX"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "Abra\u00e7o",
-      "url": "https://open.spotify.com/track/7y4puTp3k9X5jUxxlko0Pd"
-    },
-    {
-      "added_at": "2022-11-04 15:59:24",
-      "album": {
         "name": "Releituras",
         "url": "https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 279989,
       "name": "Eu, Poema: Releitura",
       "url": "https://open.spotify.com/track/16Bum18plc6ET7bEvEOq3Z"
+    },
+    {
+      "added_at": "2022-11-04 15:59:24",
+      "album": {
+        "name": "Abra\u00e7o",
+        "url": "https://open.spotify.com/album/5zaifallEnusWXIpU2mMEX"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "Abra\u00e7o",
+      "url": "https://open.spotify.com/track/7y4puTp3k9X5jUxxlko0Pd"
     },
     {
       "added_at": "2022-11-04 15:59:24",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-11-04 15:59:24",
       "album": {
-        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
-      },
-      "artists": [
-        {
-          "name": "Nathan Asafe",
-          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
-    },
-    {
-      "added_at": "2022-11-04 15:59:24",
-      "album": {
         "name": "Clarear",
         "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 318750,
       "name": "Clarear",
       "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
+    },
+    {
+      "added_at": "2022-11-04 15:59:24",
+      "album": {
+        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
+      },
+      "artists": [
+        {
+          "name": "Nathan Asafe",
+          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
+        }
+      ],
+      "duration_ms": 302750,
+      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
     },
     {
       "added_at": "2022-11-04 15:59:24",
@@ -923,18 +923,22 @@
     {
       "added_at": "2022-11-04 15:59:24",
       "album": {
-        "name": "Do Meu Interior",
-        "url": "https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I"
+        "name": "Intimidade",
+        "url": "https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H"
       },
       "artists": [
         {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+        },
+        {
+          "name": "Vagner Dida",
+          "url": "https://open.spotify.com/artist/2EpXG8Ya30dtA5znwtoxri"
         }
       ],
-      "duration_ms": 159629,
-      "name": "Sobre Viver",
-      "url": "https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU"
+      "duration_ms": 201247,
+      "name": "Intimidade",
+      "url": "https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0"
     },
     {
       "added_at": "2022-11-04 15:59:24",
@@ -955,6 +959,22 @@
     {
       "added_at": "2022-11-04 15:59:24",
       "album": {
+        "name": "Do Meu Interior",
+        "url": "https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        }
+      ],
+      "duration_ms": 159629,
+      "name": "Sobre Viver",
+      "url": "https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU"
+    },
+    {
+      "added_at": "2022-11-04 15:59:24",
+      "album": {
         "name": "Ora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 277884,
       "name": "Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
-    },
-    {
-      "added_at": "2022-11-04 15:59:24",
-      "album": {
-        "name": "Intimidade",
-        "url": "https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H"
-      },
-      "artists": [
-        {
-          "name": "Weslley Fonseca",
-          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
-        },
-        {
-          "name": "Vagner Dida",
-          "url": "https://open.spotify.com/artist/2EpXG8Ya30dtA5znwtoxri"
-        }
-      ],
-      "duration_ms": 201247,
-      "name": "Intimidade",
-      "url": "https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0"
     },
     {
       "added_at": "2022-11-04 15:59:24",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2022-11-04 15:59:24",
       "album": {
+        "name": "Meu Grande Amor (Vers\u00e3o Cordas)",
+        "url": "https://open.spotify.com/album/2B1yYnuXCiZQ5GCDUHEdIe"
+      },
+      "artists": [
+        {
+          "name": "Giselle Knevitz",
+          "url": "https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM"
+        },
+        {
+          "name": "Brasa Church Music",
+          "url": "https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A"
+        }
+      ],
+      "duration_ms": 442247,
+      "name": "Meu Grande Amor - Vers\u00e3o Cordas",
+      "url": "https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i"
+    },
+    {
+      "added_at": "2022-11-04 15:59:24",
+      "album": {
         "name": "Gra\u00e7a, Tambor e Cordas",
         "url": "https://open.spotify.com/album/2ZaQzGpfN8j7sYaqVg9H3a"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 195000,
       "name": "Pra Viver - Ac\u00fastico",
       "url": "https://open.spotify.com/track/42OJeiOtGughIhTJO9yHHa"
-    },
-    {
-      "added_at": "2022-11-04 15:59:24",
-      "album": {
-        "name": "Meu Grande Amor (Vers\u00e3o Cordas)",
-        "url": "https://open.spotify.com/album/2B1yYnuXCiZQ5GCDUHEdIe"
-      },
-      "artists": [
-        {
-          "name": "Giselle Knevitz",
-          "url": "https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM"
-        },
-        {
-          "name": "Brasa Church Music",
-          "url": "https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A"
-        }
-      ],
-      "duration_ms": 442247,
-      "name": "Meu Grande Amor - Vers\u00e3o Cordas",
-      "url": "https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i"
     },
     {
       "added_at": "2022-11-04 15:59:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Trampled by Turtles
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,986 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,012 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 48 | [Scrape Me Off the Ceiling](https://open.spotify.com/track/0imRwJuihcp7MvVEFnipaq) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Wild as We Came Here](https://open.spotify.com/album/754yx9mZquABRQbCpwL5r7) | 3:00 |
 | 49 | [Stress Dreams](https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Stress Dreams](https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW) | 8:01 |
 | 50 | [Play By Your Own Rules](https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc) | [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Storyman](https://open.spotify.com/album/25F6ItCZFGZ79LvZVhlDIm) | 3:31 |
-| 51 | [City That Drowned](https://open.spotify.com/track/6Dx8DROmZ9YYAt2cA3Ew24) | [Mile Twelve](https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf) | [City on a Hill](https://open.spotify.com/album/0SAncQWJMyMMg9Ee0HvvUb) | 3:32 |
-| 52 | [Greener Grass](https://open.spotify.com/track/3ztXpLv0VLCcuqRVz0das3) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Mount Royal](https://open.spotify.com/album/795pGXIkCO2lS7aNZ2joI0) | 3:02 |
+| 51 | [Greener Grass](https://open.spotify.com/track/3ztXpLv0VLCcuqRVz0das3) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Mount Royal](https://open.spotify.com/album/795pGXIkCO2lS7aNZ2joI0) | 3:02 |
+| 52 | [City That Drowned](https://open.spotify.com/track/6Dx8DROmZ9YYAt2cA3Ew24) | [Mile Twelve](https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf) | [City on a Hill](https://open.spotify.com/album/0SAncQWJMyMMg9Ee0HvvUb) | 3:32 |
 | 53 | [Railroad](https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Abigail Washburn](https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP) | [Béla Fleck & Abigail Washburn](https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm) | 3:36 |
-| 54 | [Homemade Wine](https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7) | [Gibson Brothers](https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV) | [In The Ground](https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde) | 3:11 |
-| 55 | [Wedding Dress](https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Sidetrack My Engine](https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx) | 2:45 |
+| 54 | [Wedding Dress](https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Sidetrack My Engine](https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx) | 2:45 |
+| 55 | [Homemade Wine](https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7) | [Gibson Brothers](https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV) | [In The Ground](https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde) | 3:11 |
 | 56 | [Any Old Time](https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:58 |
 | 57 | [In The Morning Light](https://open.spotify.com/track/7JjkNKImotm0EnATDEmnGu) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [In The Morning Light](https://open.spotify.com/album/1SpVLRagMwmLmP4KwnINWr) | 4:42 |
 | 58 | [21st of May](https://open.spotify.com/track/0hyhmEE6fFefO00bGN1yxD) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [A Dotted Line](https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2) | 2:47 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 92 | [Winter to Pry](https://open.spotify.com/track/4475bUCSvAIbnHVlxQzhZ6) | [The Deer](https://open.spotify.com/artist/1Hhsvgh6jPbzakInEaTFAJ) | [Tempest & Rapture](https://open.spotify.com/album/6wvpesFCyaJ2DPmD0U2g28) | 4:34 |
 | 93 | [Fall Like Rain](https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX) | [Justin Moses](https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola) | [Fall Like Rain](https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY) | 4:22 |
 | 94 | [Planets](https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Rise Sun](https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS) | 5:48 |
-| 95 | [Falling for You](https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX) | [The Petersens](https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx) | [Live Sessions, Vol\. 03](https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i) | 2:40 |
-| 96 | [Round Rock \(feat\. Michael Cleveland & Jerry Douglas\)](https://open.spotify.com/track/0476Xf6sinSTPQGtvTex9A) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk) | [My Bluegrass Heart](https://open.spotify.com/album/2mi6ZJQlD25OEzmZOTL7hR) | 6:09 |
+| 95 | [Round Rock \(feat\. Michael Cleveland & Jerry Douglas\)](https://open.spotify.com/track/0476Xf6sinSTPQGtvTex9A) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk) | [My Bluegrass Heart](https://open.spotify.com/album/2mi6ZJQlD25OEzmZOTL7hR) | 6:09 |
+| 96 | [Falling for You](https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX) | [The Petersens](https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx) | [Live Sessions, Vol\. 03](https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i) | 2:40 |
 | 97 | [95 Years](https://open.spotify.com/track/2FWHuUIYeGnboXO0PFaVc8) | [Volume Five](https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX) | [Drifter](https://open.spotify.com/album/69UJfZuTLuRKsM9dLgsf40) | 2:54 |
 | 98 | [All The Lilacs In Ohio](https://open.spotify.com/track/5kjXFnaAnDT1LoZ0Ql4ood) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [All The Lilacs In Ohio](https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au) | 3:29 |
 | 99 | [Keys](https://open.spotify.com/track/4Ibk99CMAC2nKGcYr3wVCG) | [Clyde and the Milltailers](https://open.spotify.com/artist/7zBpuTvYYgN8A4KA6PnzUA) | [Gone](https://open.spotify.com/album/7gc0887rEEosEmhLnai9EZ) | 3:00 |
 | 100 | [Run To Heaven](https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ladies & Gentlemen](https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm) | 3:10 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGYwMjY2MjNhN2VjMGEzYjFmZWRjOWNkOTE0ZDBlZDli`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGY1NDFhNzNjODM4Zjg4YzRmMDNjZGE5MzAwYjZhMjFl`

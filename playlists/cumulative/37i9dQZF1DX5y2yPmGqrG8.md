@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-468 songs - 1 day 20 hr 9 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
+469 songs - 1 day 20 hr 16 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,7 +441,7 @@
 | [Unguarded Travelin'](https://open.spotify.com/track/4OYS4H9fVFGK87WtC32qmL) | [Koti6](https://open.spotify.com/artist/0son6uK60FSd5ZlXyKLplp) | [Unguarded Travelin'](https://open.spotify.com/album/1LxN2StJXIuiYLFNvrMv7t) | 2:49 | 2022-02-25 | 2022-09-01 |
 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 | 2022-12-07 |  |
 | [Untitled, Live in Portland](https://open.spotify.com/track/1qJT3z2QI6YC7Txqm6OA2c) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Late Night Tales: Floating Points](https://open.spotify.com/album/1K1xmrnPvQaHAoPrS8GV5t) | 7:03 | 2021-10-06 | 2022-05-29 |
-| [Untravel](https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:51 | 2022-10-14 |  |
+| [Untravel](https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:51 | 2022-10-14 | 2022-12-26 |
 | [Upstairs Flat](https://open.spotify.com/track/7w6GXyNpjmfIL0jGCHyP2Z) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Antidawn EP](https://open.spotify.com/album/7LtQeOwb04n1ovSnFax21b) | 6:07 | 2022-10-14 | 2022-10-28 |
 | [Ursa Major](https://open.spotify.com/track/0wCUvFYNT0vJoDW8ky1WxM) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Ursa Major](https://open.spotify.com/album/0eBBp3GtEsITNPh3NTG00u) | 4:10 | 2021-10-06 | 2022-07-23 |
 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 | 2022-03-30 | 2022-07-12 |
@@ -459,6 +459,7 @@
 | [Watersynth](https://open.spotify.com/track/05e2T423zwHe7557aNewF4) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:20 | 2022-10-14 | 2022-10-28 |
 | [We Lay Down in a Field of Orange Flowers and We Listened to the Birds](https://open.spotify.com/track/25np9YI8L2IWtcxDoTFgoG) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [Flues of Forgotten Sands](https://open.spotify.com/album/7mXP8hv5XTR0PkY7J4gbOp) | 19:33 | 2022-07-15 | 2022-08-14 |
 | [Wetlands](https://open.spotify.com/track/7G5UnjAsSp8HOHgDbgJ1wa) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Wetlands](https://open.spotify.com/album/1mdE6AqyKbNKD6egcAI7wZ) | 3:10 | 2021-10-06 | 2022-07-29 |
+| [What's A Girl To Do](https://open.spotify.com/track/16AgjREHYb7Sv2iTOXXoPi) | [Group Listening](https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe) | [What's A Girl To Do](https://open.spotify.com/album/1dnsvE3TAYX6RLQXEgAvBz) | 7:14 | 2021-10-06 |  |
 | [What's A Girl To Do](https://open.spotify.com/track/4U5e1DoKCDNvAlx0WnUv9h) | [Group Listening](https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe) | [What's A Girl To Do](https://open.spotify.com/album/29QjYtpUdBZvn4r1dlQOiv) | 7:14 | 2021-10-06 | 2022-08-20 |
 | [Whatcomesup96 \- Mixed](https://open.spotify.com/track/2XnbmppKbtdRDNojRPyjM5) | [Zebrablood](https://open.spotify.com/artist/6YzavuXwWlGoDfXEZ7qnsb) | [fabric presents Leon Vynehall \(Mixed\)](https://open.spotify.com/album/491w2IyyumxBPJf06RZZJD) | 0:58 | 2022-04-06 | 2022-07-17 |
 | [Wheel](https://open.spotify.com/track/0G7BKy7yai0MUFnoQbcWaB) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG) | [Lex](https://open.spotify.com/album/5ZSDngKmEH1mF1l74n46H3) | 3:35 | 2021-10-06 | 2022-04-20 |

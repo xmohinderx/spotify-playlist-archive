@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea & Nino Josele",
-  "num_followers": 168047,
+  "num_followers": 168121,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGU2YzEyYzM5YWE5MThhYzNkNjIzN2NiOGFhY2NiODU1",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDJiMmQwMGQ1OWVmZTJkNjk2YmJhYjU4YjE3MmIyODMx",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -303,6 +303,22 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Black Market",
+        "url": "https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd"
+      },
+      "artists": [
+        {
+          "name": "Weather Report",
+          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+        }
+      ],
+      "duration_ms": 390640,
+      "name": "Black Market",
+      "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "Riding Giants (feat. Mike Stern, Dave Weckl)",
         "url": "https://open.spotify.com/album/0UfEhQZd7a9peWeSPflpaI"
       },
@@ -325,22 +341,6 @@
       "url": "https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Black Market",
-        "url": "https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd"
-      },
-      "artists": [
-        {
-          "name": "Weather Report",
-          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
-        }
-      ],
-      "duration_ms": 390640,
-      "name": "Black Market",
-      "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Trinity",
@@ -355,22 +355,6 @@
       "duration_ms": 474309,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
-    },
-    {
-      "added_at": "2021-04-16 04:01:00",
-      "album": {
-        "name": "Bring Backs",
-        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 360053,
-      "name": "Teki",
-      "url": "https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -389,20 +373,20 @@
       "url": "https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
+      "added_at": "2021-04-16 04:01:00",
       "album": {
-        "name": "Collisions",
-        "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
+        "name": "Bring Backs",
+        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
       },
       "artists": [
         {
-          "name": "TAUK",
-          "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         }
       ],
-      "duration_ms": 300876,
-      "name": "Friction",
-      "url": "https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW"
+      "duration_ms": 360053,
+      "name": "Teki",
+      "url": "https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS"
     },
     {
       "added_at": "2021-06-25 04:02:00",
@@ -419,6 +403,22 @@
       "duration_ms": 251643,
       "name": "P64 By My Side",
       "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Collisions",
+        "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
+      },
+      "artists": [
+        {
+          "name": "TAUK",
+          "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
+        }
+      ],
+      "duration_ms": 300876,
+      "name": "Friction",
+      "url": "https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -887,6 +887,22 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Lifetime: The Collection",
+        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
+      },
+      "artists": [
+        {
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
+        }
+      ],
+      "duration_ms": 386066,
+      "name": "Snake Oil",
+      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "Shapeless",
         "url": "https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 209276,
       "name": "Core",
       "url": "https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Lifetime: The Collection",
-        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
-      },
-      "artists": [
-        {
-          "name": "Tony Williams",
-          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
-        }
-      ],
-      "duration_ms": 386066,
-      "name": "Snake Oil",
-      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1053,22 +1053,6 @@
       "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Vtt2",
-        "url": "https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T"
-      },
-      "artists": [
-        {
-          "name": "Vital Techtones",
-          "url": "https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Catch Me If U Can",
-      "url": "https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6"
-    },
-    {
       "added_at": "2021-11-12 05:01:00",
       "album": {
         "name": "Mayday",
@@ -1083,6 +1067,22 @@
       "duration_ms": 288909,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Vtt2",
+        "url": "https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T"
+      },
+      "artists": [
+        {
+          "name": "Vital Techtones",
+          "url": "https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Catch Me If U Can",
+      "url": "https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1393,6 +1393,26 @@
       "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
     },
     {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "close tail",
+        "url": "https://open.spotify.com/album/2dAVyJIPNLM1MOS1XIuDSA"
+      },
+      "artists": [
+        {
+          "name": "POLYPLUS",
+          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
+        },
+        {
+          "name": "\u30ab\u30ef\u30a4\u30d2\u30c7\u30d2\u30ed",
+          "url": "https://open.spotify.com/artist/5Omh9eZovZzTmHfnzlmMJM"
+        }
+      ],
+      "duration_ms": 289851,
+      "name": "close tail",
+      "url": "https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA"
+    },
+    {
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "Catch me if you can!",
@@ -1421,42 +1441,6 @@
       "url": "https://open.spotify.com/track/2sdQsMO4eC2Onw3WOOPp6n"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "close tail",
-        "url": "https://open.spotify.com/album/2dAVyJIPNLM1MOS1XIuDSA"
-      },
-      "artists": [
-        {
-          "name": "POLYPLUS",
-          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
-        },
-        {
-          "name": "\u30ab\u30ef\u30a4\u30d2\u30c7\u30d2\u30ed",
-          "url": "https://open.spotify.com/artist/5Omh9eZovZzTmHfnzlmMJM"
-        }
-      ],
-      "duration_ms": 289851,
-      "name": "close tail",
-      "url": "https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
-      },
-      "artists": [
-        {
-          "name": "Allan Holdsworth",
-          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
-        }
-      ],
-      "duration_ms": 325040,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
-    },
-    {
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Eastern Kaleidoscope",
@@ -1479,6 +1463,22 @@
       "duration_ms": 384356,
       "name": "Eastern Kaleidoscope",
       "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
+      },
+      "artists": [
+        {
+          "name": "Allan Holdsworth",
+          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
+        }
+      ],
+      "duration_ms": 325040,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
     }
   ],
   "unique_name": "Fusion Fest",

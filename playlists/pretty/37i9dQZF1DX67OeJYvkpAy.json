@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 81033,
+  "num_followers": 81099,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDdlZTQyZTAyMGMyZGRjYWQ2ZjM1OWQ2MTUyNTUwNWYx",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGMyNDFmN2ZmNjBkYTNkMzkyOTViOTY3YWNlMzIyZmY5",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -179,6 +179,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Frozen Gold",
+        "url": "https://open.spotify.com/album/0mdcVQyvW9bXKydpQA5Bz3"
+      },
+      "artists": [
+        {
+          "name": "MKAY",
+          "url": "https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej"
+        }
+      ],
+      "duration_ms": 138135,
+      "name": "Frozen Gold",
+      "url": "https://open.spotify.com/track/0c0V2jXzEvEPRKKNdPHVk6"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Mad About Bars - S5-E8",
         "url": "https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 125995,
       "name": "Mad About Bars - S5-E8 Pt2",
       "url": "https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Frozen Gold",
-        "url": "https://open.spotify.com/album/0mdcVQyvW9bXKydpQA5Bz3"
-      },
-      "artists": [
-        {
-          "name": "MKAY",
-          "url": "https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej"
-        }
-      ],
-      "duration_ms": 138135,
-      "name": "Frozen Gold",
-      "url": "https://open.spotify.com/track/0c0V2jXzEvEPRKKNdPHVk6"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Never Been Ordinary",
-        "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
-      },
-      "artists": [
-        {
-          "name": "French The Kid",
-          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Window Blues",
-      "url": "https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "In Due Time",
         "url": "https://open.spotify.com/album/7nTX2UAegtxAFreniQhSaI"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 177057,
       "name": "Be Forreal",
       "url": "https://open.spotify.com/track/3y6cH5sy37Mb7gK6slyIlB"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Never Been Ordinary",
+        "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Window Blues",
+      "url": "https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Ether",
-        "url": "https://open.spotify.com/album/4k64kkyvTH0kzjjN2akVgm"
-      },
-      "artists": [
-        {
-          "name": "NSJ Mali",
-          "url": "https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Ether",
-      "url": "https://open.spotify.com/track/0IfMv5YeXCrbNJtNrlIdxS"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "High (All The Time)",
         "url": "https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Ether",
+        "url": "https://open.spotify.com/album/4k64kkyvTH0kzjjN2akVgm"
+      },
+      "artists": [
+        {
+          "name": "NSJ Mali",
+          "url": "https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/0IfMv5YeXCrbNJtNrlIdxS"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "No Emotions",
         "url": "https://open.spotify.com/album/17K4yH8Z5TxBVc5F49J5wQ"
       },
@@ -1191,8 +1191,8 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "High on Love",
-        "url": "https://open.spotify.com/album/5DJTixdrcHHAbzbnYzCE26"
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/21yWDNOLIhn37Kd6UtYua4"
       },
       "artists": [
         {
@@ -1200,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 181044,
-      "name": "High on Love",
-      "url": "https://open.spotify.com/track/2zZUvshFMhGN6QmnOUqMJI"
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/48oASW55itK9LQ5YFVSna4"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Better Than Me",
-        "url": "https://open.spotify.com/album/2nt2URWLUB0tMiNOpdVjsp"
-      },
-      "artists": [
-        {
-          "name": "KS",
-          "url": "https://open.spotify.com/artist/5DKEV4yJBpfHWFoqzSpNzU"
-        }
-      ],
-      "duration_ms": 146729,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/4TJRhzksocpuGeNh8qJFT8"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 169714,
       "name": "More",
       "url": "https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Better Than Me",
+        "url": "https://open.spotify.com/album/2nt2URWLUB0tMiNOpdVjsp"
+      },
+      "artists": [
+        {
+          "name": "KS",
+          "url": "https://open.spotify.com/artist/5DKEV4yJBpfHWFoqzSpNzU"
+        }
+      ],
+      "duration_ms": 146729,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/4TJRhzksocpuGeNh8qJFT8"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1343,8 +1343,8 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/21yWDNOLIhn37Kd6UtYua4"
+        "name": "High on Love",
+        "url": "https://open.spotify.com/album/5DJTixdrcHHAbzbnYzCE26"
       },
       "artists": [
         {
@@ -1352,9 +1352,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/48oASW55itK9LQ5YFVSna4"
+      "duration_ms": 181044,
+      "name": "High on Love",
+      "url": "https://open.spotify.com/track/2zZUvshFMhGN6QmnOUqMJI"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Angels Fly High",
-        "url": "https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Angels Fly High",
-      "url": "https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/5geYrrlo5OEZ4ImHAgcHd5"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 133090,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/5857X0HSQoIMW8mdJKhDVA"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Angels Fly High",
+        "url": "https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Angels Fly High",
+      "url": "https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW"
     },
     {
       "added_at": "2022-08-02 15:42:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Yandel & Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,708 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,838 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 13 | [Viviendo de lo Blanco](https://open.spotify.com/track/6fJt7gzBfer4uyh8XcJg8D) | [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Viviendo de lo Blanco](https://open.spotify.com/album/6NzVo36Va0VdRi1z8NDJkX) | 2:40 |
 | 14 | [Cuca](https://open.spotify.com/track/185juQ66htkJV1aNzeUBUw) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Cuca](https://open.spotify.com/album/7qINSHSAzZRdlDzomEwtcQ) | 2:20 |
 | 15 | [ME VOY \| E9](https://open.spotify.com/track/1PsHzI1j2YdALtsX9N6fP0) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [ME VOY \| E9](https://open.spotify.com/album/4eTdUnsV9I8vL3mEptSYQk) | 2:18 |
-| 16 | [Lo que el viento se llevó](https://open.spotify.com/track/2aBCMKMDskrazQZqb3JFzc) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [lo que el viento se llevó](https://open.spotify.com/album/2UIV5FHHm0n7L23lVQASnG) | 3:18 |
+| 16 | [lo que el viento se llevó](https://open.spotify.com/track/2aBCMKMDskrazQZqb3JFzc) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [lo que el viento se llevó](https://open.spotify.com/album/2UIV5FHHm0n7L23lVQASnG) | 3:18 |
 | 17 | [Para Siempre..\. ¿?](https://open.spotify.com/track/4ZqHm4OWOoZOOv5smffU6C) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Para Siempre..\. ¿?](https://open.spotify.com/album/7f2UbbWOm1LZFF7TWzeNnu) | 3:18 |
 | 18 | [Será \(feat\. Tamara Báez & DT.Bilardo\)](https://open.spotify.com/track/6J50I7pW8UQJE8qVT0RSea) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu), [Tamara Báez](https://open.spotify.com/artist/0JhK7gnIBytbUEh2PURT8i), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Será \(feat\. Tamara Báez & DT.Bilardo\)](https://open.spotify.com/album/2MQZG90FO0qGdhhajfJsc8) | 2:49 |
 | 19 | [Palma](https://open.spotify.com/track/2K0wBFBCsL9D24GX9JMFc2) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN) | [Palma](https://open.spotify.com/album/6qMJqJj0gOSN8MTPalrhLx) | 2:19 |

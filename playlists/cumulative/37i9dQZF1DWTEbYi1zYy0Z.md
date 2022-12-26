@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Candy Dulfer
 
-284 songs - 20 hr 5 min - [published](https://open.spotify.com/playlist/73Eg864FGRS3gdmYP6IVUV)
+285 songs - 20 hr 8 min - [published](https://open.spotify.com/playlist/73Eg864FGRS3gdmYP6IVUV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Catalina Nights](https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Catalina Nights](https://open.spotify.com/album/0qAGgRZUQlLzmIHww3hz97) | 4:04 | 2022-04-08 |  |
 | [Change the World](https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Simple Things](https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X) | 3:44 | 2022-05-20 |  |
 | [Chasing the Dream](https://open.spotify.com/track/7DoHYeSKTtlvvu0bjybY2f) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q), [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Sexy Somethin](https://open.spotify.com/album/3bmCfOCQF2wsR7L7XwvMwa) | 4:34 | 2021-01-22 | 2022-03-18 |
-| [Chicago Morning](https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb) | [Spontaneous Groovin' Combustion](https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5) | [Chicago Morning](https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N) | 4:20 | 2022-03-18 |  |
+| [Chicago Morning](https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb) | [Spontaneous Groovin' Combustion](https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5) | [Chicago Morning](https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N) | 4:20 | 2022-03-18 | 2022-12-26 |
 | [Chill@Will](https://open.spotify.com/track/0rPQtEYEBPRzjdwqg9UIjH) | [Gabriel Mark Hasselbach](https://open.spotify.com/artist/4YCL2MVhmQLfNMDXz2of4L), [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP) | [Chill@Will](https://open.spotify.com/album/6HZKfoekNmLbY2KuxQxTzD) | 4:29 | 2021-05-07 | 2022-03-18 |
 | [City Night Flower](https://open.spotify.com/track/2USwEUEiOOnObrAC8jsGRl) | [Alfonso Gugliucci](https://open.spotify.com/artist/7o2w7PcKeBdqCg0uvvKbgJ), [Lenny Sendersky](https://open.spotify.com/artist/72xyMrVI7xrI9EChbkiMUZ) | [City Night Flower](https://open.spotify.com/album/7jsclENEXlVWKEJyewTYA5) | 3:42 | 2021-05-28 | 2022-03-18 |
 | [Close to You](https://open.spotify.com/track/4wzsbI8mdiRmP7aFYSB9IZ) | [Jesse Thompson](https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5), [Justin Young](https://open.spotify.com/artist/49OldsHGWhHHWNKdkHdx7B) | [Close to You](https://open.spotify.com/album/0UzEtJFEp0E7sP6ls6Dro3) | 3:41 | 2021-10-01 | 2022-07-26 |
@@ -231,6 +231,7 @@
 | [Soul Free](https://open.spotify.com/track/4biAeEqczaaw07TqaHZbe0) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Fahir Atakoglu](https://open.spotify.com/artist/4zbXSXn32mW4u8p3sDFYc4) | [Soul Free](https://open.spotify.com/album/6B4ufrV9ePF1k4yf2B5APw) | 2:40 | 2021-07-30 | 2022-07-27 |
 | [Soul Searchin'](https://open.spotify.com/track/3LhJ5OcrLfQQ1igAXTuImg) | [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK), [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Soul Searchin'](https://open.spotify.com/album/1vfBqfZqfEaq6NInzf5rFh) | 4:16 | 2021-09-24 | 2022-09-17 |
 | [Soul to Soul \- 2022 Version](https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7) | [Christophe Goze](https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H) | [Soul to Soul](https://open.spotify.com/album/2FSxMIU0mbvZKmTBAZ99WJ) | 3:48 | 2022-01-28 | 2022-10-05 |
+| [Soul to Soul \- 2022 Version](https://open.spotify.com/track/46xA9y3Fy9Igs0EnFK5CsX) | [Christophe Goze](https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H) | [Soul to Soul](https://open.spotify.com/album/5iS8xmYmYmxqUgdOVICdxr) | 3:49 | 2022-01-28 |  |
 | [Spellbound](https://open.spotify.com/track/4MXaiJwuGAhZXpkQv80yJE) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Jordan Rudess](https://open.spotify.com/artist/1eAj0NmIiXgqpy5aN4GlsS) | [Volume 2: The Winds of Change](https://open.spotify.com/album/0d269yx7Lqw9QkncZ4EGL7) | 3:45 | 2021-08-27 | 2022-07-08 |
 | [Spirit Walk](https://open.spotify.com/track/21XPLRBuz67NvYQVuK7pqJ) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Spirit Walk](https://open.spotify.com/album/5DIArdzCXrgESWsQF0n6LA) | 4:16 | 2021-03-05 | 2022-03-11 |
 | [Stay Above the Fray \- Radio](https://open.spotify.com/track/7E3vISTOBBPeEylraGPU3t) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP) | [Stay Above the Fray](https://open.spotify.com/album/1CgCxO55ob4oGZtAK5xthX) | 4:07 | 2021-02-12 | 2022-03-18 |

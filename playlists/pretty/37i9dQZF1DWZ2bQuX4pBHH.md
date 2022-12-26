@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,379 likes - 60 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,506 likes - 60 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 50 | [Phir Milenge Chalte Chalte](https://open.spotify.com/track/00slEv0AYGnW85H84XsmGz) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Rab Ne Bana Di Jodi \(Original\)](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 6:34 |
 | 51 | [Dancing Jodi](https://open.spotify.com/track/2YNgcIiD73XsXFNM3UuxlM) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Rab Ne Bana Di Jodi \(Original\)](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 3:59 |
 | 52 | [Main Koi Aisa Geet Gaoon](https://open.spotify.com/track/0WBClBemYPJR44H6uIn0kp) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 5:17 |
-| 53 | [Chhupana Bhi Nahin Aata](https://open.spotify.com/track/106VQOgiNwarz03Aegj7Yz) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 5:22 |
-| 54 | [Ho Gaya Hai Tujhko To Pyar Sajna](https://open.spotify.com/track/7jV2zwwRKvHoLA8WFr3SCN) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Dilwale Dulhania Le Jayenge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj) | 5:49 |
+| 53 | [Ho Gaya Hai Tujhko To Pyar Sajna](https://open.spotify.com/track/7jV2zwwRKvHoLA8WFr3SCN) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Dilwale Dulhania Le Jayenge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj) | 5:49 |
+| 54 | [Chhupana Bhi Nahin Aata](https://open.spotify.com/track/106VQOgiNwarz03Aegj7Yz) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 5:22 |
 | 55 | [Chennai Express](https://open.spotify.com/track/2QDhzCaYd79t3sympjOUQY) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Chennai Express](https://open.spotify.com/album/08hhqmG2yI7741tXn2Zs4g) | 4:43 |
 | 56 | [Love You Zindagi \(From "Dear Zindagi"\)](https://open.spotify.com/track/0tZMTCvEzXWz7AvjzIPf1H) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Love You Zindagi \(From "Dear Zindagi"\)](https://open.spotify.com/album/5t4bdFFQvLYouhlhgetS8b) | 3:52 |
 | 57 | [Raat Ka Nasha](https://open.spotify.com/track/6c3Q6tMBsqucdb1TpPybGv) | [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Asoka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TTDo2dFKRUioHCPcfPpfz) | 5:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 59 | [Mere Mehboob Mere Sanam](https://open.spotify.com/track/1hnLo3D6Hm2H9966DQ89Og) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Duplicate \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0JIO80l5DNOiaBlslwjbFN) | 6:59 |
 | 60 | [Tujhe Dekha To \(From "Dilwale Dulhania Le Jayenge"\)](https://open.spotify.com/track/6FZrX6epdqcaQHx9LFRcuf) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 5:03 |
 
-Snapshot ID: `MTY3MTY5MjI1OSwwMDAwMDAwMDFhYTBhMDZhMzE5YmYwZDVmMmY5NTkyMDM4OTc4NjQz`
+Snapshot ID: `MTY3MTY5MjI1OSwwMDAwMDAwMGE4YzQ2YWZkNDZlNTYzMzIzZTRlZDE3ZGQ5NTM0MTY2`

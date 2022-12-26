@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Mariah Nala
 
-225 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
+226 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Geleira do tempo](https://open.spotify.com/track/4ziqkaBXfo4GrmuF0gsNyi) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Geleira do tempo](https://open.spotify.com/album/27ihbfzqxFE0FWX9g4uMhG) | 3:31 | 2022-05-13 |  |
 | [Golden Hour](https://open.spotify.com/track/4oDijncCNWBbS54GAqa9if) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Golden Hour](https://open.spotify.com/album/2yKMpfp6npVmfyjHVR08xQ) | 2:48 | 2022-11-11 |  |
 | [gostosa](https://open.spotify.com/track/438nqz8kEIvExTC1vtX8Wb) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [gostosa](https://open.spotify.com/album/3snaKVq0ImC43u1ZYxxSYK) | 2:34 | 2022-08-19 |  |
+| [Horizonte](https://open.spotify.com/track/2BxoVrrBkNMSHDv3IMJSw6) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Mazili](https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4) | [Horizonte](https://open.spotify.com/album/2yfBvpXbJ15VXJSKU6YTJH) | 3:14 | 2022-12-23 |  |
 | [imagina amar assim](https://open.spotify.com/track/0PmLsegy4g7Tgmc0C9jM61) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1), [bibi](https://open.spotify.com/artist/5psPyNU0Tac7jGsyaqOFR4) | [imagina amar assim](https://open.spotify.com/album/6YMf5PbWziwj5LVrU1dLUr) | 3:00 | 2022-05-13 | 2022-06-25 |
 | [Incendiar](https://open.spotify.com/track/5vps3IXPOK33NIYkUzvCgM) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [Incendiar](https://open.spotify.com/album/39MtgkZXzD9TgTgh5M98uq) | 3:02 | 2022-05-13 | 2022-06-15 |
 | [INCONSCIENTEMENTE](https://open.spotify.com/track/5KMi5R3gNyYFID5OzHA4iG) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [INCONSCIENTEMENTE](https://open.spotify.com/album/20zy3AllALKXGUvrosORrE) | 2:22 | 2022-05-13 | 2022-06-25 |
@@ -178,7 +179,7 @@
 | [Pra Te Conquistar](https://open.spotify.com/track/7vocZ3kbuEbt9ry3Gnic7E) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Pra Te Conquistar](https://open.spotify.com/album/03Pg25mTyw4O9HmKnph5ro) | 2:48 | 2022-05-13 | 2022-06-15 |
 | [Procura\-se](https://open.spotify.com/track/7jYQ5j1wARwgs2Dj6KDkVC) | [Mu Bispo](https://open.spotify.com/artist/2lYbWSffR2cha5exwBBjOv) | [Procura\-se](https://open.spotify.com/album/5To0xbPo78txnsMX4imIZm) | 2:48 | 2022-05-13 | 2022-08-02 |
 | [Produtividade](https://open.spotify.com/track/56FdRY4mgXyS4HC0lZdwkX) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Produtividade](https://open.spotify.com/album/6uc1ia5Sjn54gWDoPipvz5) | 2:39 | 2022-05-13 | 2022-12-10 |
-| [Prova De Amor](https://open.spotify.com/track/1bu9s8cHlqaezKvkmFJhNj) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK) | [Prova De Amor](https://open.spotify.com/album/4eYmX2aA4FDuWFegpIt1tE) | 3:05 | 2022-12-02 |  |
+| [Prova De Amor](https://open.spotify.com/track/1bu9s8cHlqaezKvkmFJhNj) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK) | [Prova De Amor](https://open.spotify.com/album/4eYmX2aA4FDuWFegpIt1tE) | 3:05 | 2022-12-02 | 2022-12-26 |
 | [Qual Fita](https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU) | 2:19 | 2022-08-01 |  |
 | [Quando](https://open.spotify.com/track/1hzBmDY92rHMRkWpydY120) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Quando](https://open.spotify.com/album/2iwPRtSrvVoBU9VpAeylfY) | 3:14 | 2022-11-18 |  |
 | [Que Fase](https://open.spotify.com/track/5pANifhuNQKbBK7KNvJ509) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/2IIbtH3HSK9ZySaSApVyZR) | 2:14 | 2022-07-01 | 2022-08-02 |

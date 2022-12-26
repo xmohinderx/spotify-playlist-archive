@@ -4,14 +4,15 @@
 
 > ¡Música urbana representando a Cuba! Cover: Gente de Zona
 
-108 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/10FYMQLgw0cDsX64VDlIyb)
+110 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/10FYMQLgw0cDsX64VDlIyb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Veces](https://open.spotify.com/track/0nDQNtW88DWTwLKHkNoppt) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Lo Mejor de Chocolate Mc](https://open.spotify.com/album/4OfBI6bpCsflQrY9P1OYn3) | 3:15 | 2022-04-08 |  |
 | [A Veces](https://open.spotify.com/track/1c2lJocDQiD2hgXupkYdWz) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [A Veces](https://open.spotify.com/album/42B1duHMCKPjC2YRNJ1Wy9) | 3:15 | 2022-02-25 | 2022-07-29 |
 | [A Veces](https://open.spotify.com/track/6vCB60g1U7wIRfncvEcG0a) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [A Veces](https://open.spotify.com/album/1j599y64H6FzxwnpnbEzfd) | 3:15 | 2022-04-08 | 2022-11-13 |
-| [Apagame la Luz](https://open.spotify.com/track/5YNm7rjtayQtYKgK1tLpcW) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Apagame la Luz](https://open.spotify.com/album/5A19cv9THtQaFe45nJ2beo) | 3:25 | 2022-04-08 |  |
+| [Apagame la Luz](https://open.spotify.com/track/5YNm7rjtayQtYKgK1tLpcW) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Apagame la Luz](https://open.spotify.com/album/5A19cv9THtQaFe45nJ2beo) | 3:25 | 2022-04-08 | 2022-12-26 |
+| [Apagame la Luz](https://open.spotify.com/track/6KaCsW4E7ETLaukIDRkpon) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Fiesta](https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH) | 3:25 | 2022-04-08 |  |
 | [Apagame La Luz](https://open.spotify.com/track/2UeoJF5un2nf1GSdkEkFGl) | [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Apagame La Luz](https://open.spotify.com/album/4kJ5ARANYhhVxLIRuenvYr) | 3:25 | 2022-02-25 | 2022-07-29 |
 | [Asere Que Bola](https://open.spotify.com/track/2IZ0Ji8yN4eglShpwasZ4Z) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Asere Que Bola](https://open.spotify.com/album/2XDiUwIJ6Ws80rSbR2GfAG) | 3:30 | 2022-04-08 |  |
 | [Asere Que Bola](https://open.spotify.com/track/4jf3OP6ndwKJQFMAyrc9xi) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Asere Que Bola](https://open.spotify.com/album/12U9vUORvdkrOUYH1D3cuR) | 3:30 | 2022-02-25 | 2022-07-29 |
@@ -20,7 +21,8 @@
 | [Bla Bla Bla](https://open.spotify.com/track/1Pbn9UgscbHOM7OY5dCjaa) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Bla Bla Bla](https://open.spotify.com/album/787S5irCGrnB6kNJsZZ9v7) | 3:32 | 2022-04-08 |  |
 | [Bla Bla Bla](https://open.spotify.com/track/1j7gz0GQdnBjxySqB8DAK7) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Latin Hits 2015 Club Edition \- 60 Latin Music Hits \(Salsa, Bachata, Dembow, Merengue, Reggaeton, Urbano, Timba, Cubaton, Kuduro, Latin Fitness\)](https://open.spotify.com/album/5vgDG3G3YEENAKiZv0bbOY) | 3:32 | 2022-02-25 | 2022-07-29 |
 | [Bruto](https://open.spotify.com/track/4ZK2XiI1L3ceiH8GU9rifk) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Yakarta](https://open.spotify.com/artist/7a639C80zwLMF0NYMpMxzG) | [Bruto](https://open.spotify.com/album/3zHyS1ZIzdzSkVTdsI8oYF) | 3:14 | 2022-02-25 |  |
-| [Calentando la Habana](https://open.spotify.com/track/5D5eHsVVy8JEHBOUXlhd4t) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Calentando la Habana](https://open.spotify.com/album/07Gy6UBWNbNzzOs4lmSZKC) | 4:13 | 2022-04-08 |  |
+| [Calentando la Habana](https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Fiesta](https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH) | 4:13 | 2022-04-08 |  |
+| [Calentando la Habana](https://open.spotify.com/track/5D5eHsVVy8JEHBOUXlhd4t) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Calentando la Habana](https://open.spotify.com/album/07Gy6UBWNbNzzOs4lmSZKC) | 4:13 | 2022-04-08 | 2022-12-26 |
 | [Calentando la Habana](https://open.spotify.com/track/6P367zPr9yTCQ0LIgT9foX) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Calentando la Habana](https://open.spotify.com/album/7wMLy38MpnGBvrT0Vjlafi) | 4:14 | 2022-02-25 | 2022-07-29 |
 | [Cubaton](https://open.spotify.com/track/4bHNliUdG1EDk3O29Usvjn) | [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo) | [Cubaton](https://open.spotify.com/album/1Npp9LzY0iyDiL7y7kEuUi) | 3:18 | 2022-02-25 |  |
 | [De Maravilla](https://open.spotify.com/track/2uSMDj5SjyJ8r3LCurBKQ0) | [Desiguales](https://open.spotify.com/artist/3hUoZymiG2iEoFjQl2qGdl) | [El Exterminio](https://open.spotify.com/album/3gAXcqoKPLQzarJn71BGYe) | 4:00 | 2022-02-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Majur",
-  "num_followers": 329702,
+  "num_followers": 329764,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMDdkYTRhYmNmNzEyNzMxNjcyMWUxYTM1NWVkNmExNDJi",
+  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMGJkMDU3MjhmZDVhYTA0MTk4MzI3NzBkYTM1ZjViNTk2",
   "tracks": [
     {
       "added_at": "2022-12-16 16:55:05",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-12-16 16:55:05",
       "album": {
+        "name": "Meu Coco",
+        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 212014,
+      "name": "Sem Samba N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
+    },
+    {
+      "added_at": "2022-12-16 16:55:05",
+      "album": {
         "name": "SIM SIM SIM",
         "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 235435,
       "name": "Passarinha",
       "url": "https://open.spotify.com/track/0cLilijUD3FgmzYzV7UAug"
-    },
-    {
-      "added_at": "2022-12-16 16:55:05",
-      "album": {
-        "name": "Meu Coco",
-        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 212014,
-      "name": "Sem Samba N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
     },
     {
       "added_at": "2022-12-16 16:55:05",
@@ -531,6 +531,42 @@
     {
       "added_at": "2022-12-16 16:55:05",
       "album": {
+        "name": "Em Casa Com os Gil",
+        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 234570,
+      "name": "Barato Total",
+      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
+    },
+    {
+      "added_at": "2022-12-16 16:55:05",
+      "album": {
+        "name": "Som de Alceu",
+        "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 182587,
+      "name": "Som de Alceu",
+      "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
+    },
+    {
+      "added_at": "2022-12-16 16:55:05",
+      "album": {
         "name": "Paula e Bebeto",
         "url": "https://open.spotify.com/album/0uiSAseDeXMBFIjAUAqQ87"
       },
@@ -547,22 +583,6 @@
       "duration_ms": 191418,
       "name": "Paula e Bebeto",
       "url": "https://open.spotify.com/track/62eMpHTC584YQztqxELhmK"
-    },
-    {
-      "added_at": "2022-12-16 16:55:05",
-      "album": {
-        "name": "Em Casa Com os Gil",
-        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 234570,
-      "name": "Barato Total",
-      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
     },
     {
       "added_at": "2022-12-16 16:55:05",
@@ -631,26 +651,6 @@
     {
       "added_at": "2022-12-16 16:55:05",
       "album": {
-        "name": "Som de Alceu",
-        "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 182587,
-      "name": "Som de Alceu",
-      "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
-    },
-    {
-      "added_at": "2022-12-16 16:55:05",
-      "album": {
         "name": "B\u00e9di Beat (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 162000,
       "name": "O Caderno",
       "url": "https://open.spotify.com/track/6AWFzXFFWd29Juiz3oOtzb"
-    },
-    {
-      "added_at": "2022-12-16 16:55:05",
-      "album": {
-        "name": "Num Mundo de Paz",
-        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 342514,
-      "name": "Num Mundo de Paz",
-      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
     },
     {
       "added_at": "2022-12-16 16:55:05",
@@ -755,6 +739,22 @@
     {
       "added_at": "2022-12-16 16:55:05",
       "album": {
+        "name": "Num Mundo de Paz",
+        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 342514,
+      "name": "Num Mundo de Paz",
+      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
+    },
+    {
+      "added_at": "2022-12-16 16:55:05",
+      "album": {
         "name": "Origem",
         "url": "https://open.spotify.com/album/2BPbMEyJZbHZ4Yre9s4AN8"
       },
@@ -791,26 +791,6 @@
       "duration_ms": 235640,
       "name": "Sozinho - Ao Vivo",
       "url": "https://open.spotify.com/track/7j6o7nPDkvQMtNQWyChADe"
-    },
-    {
-      "added_at": "2022-12-16 16:55:05",
-      "album": {
-        "name": "Beleza Destru\u00edda",
-        "url": "https://open.spotify.com/album/6POGjkubJUeXELdtwYtpm6"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        },
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 280271,
-      "name": "Beleza Destru\u00edda",
-      "url": "https://open.spotify.com/track/7maSkM3sduCmafzx9btEqR"
     },
     {
       "added_at": "2022-12-16 16:55:05",
@@ -911,18 +891,22 @@
     {
       "added_at": "2022-12-16 16:55:05",
       "album": {
-        "name": "Depois de Te Encontrar",
-        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
+        "name": "Beleza Destru\u00edda",
+        "url": "https://open.spotify.com/album/6POGjkubJUeXELdtwYtpm6"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        },
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 193804,
-      "name": "Depois de Te Encontrar",
-      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
+      "duration_ms": 280271,
+      "name": "Beleza Destru\u00edda",
+      "url": "https://open.spotify.com/track/7maSkM3sduCmafzx9btEqR"
     },
     {
       "added_at": "2022-12-16 16:55:05",
@@ -943,6 +927,22 @@
       "duration_ms": 272559,
       "name": "Pago Pra Ver",
       "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
+    },
+    {
+      "added_at": "2022-12-16 16:55:05",
+      "album": {
+        "name": "Depois de Te Encontrar",
+        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 193804,
+      "name": "Depois de Te Encontrar",
+      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
     },
     {
       "added_at": "2022-12-16 16:55:05",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-12-16 16:55:05",
       "album": {
-        "name": "Continha",
-        "url": "https://open.spotify.com/album/4LnfbTkG0cLbIINmM0TbYS"
-      },
-      "artists": [
-        {
-          "name": "Salma e Mac",
-          "url": "https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh"
-        }
-      ],
-      "duration_ms": 151880,
-      "name": "Continha",
-      "url": "https://open.spotify.com/track/70oxHVdsXTsaFmXk3d3u0l"
-    },
-    {
-      "added_at": "2022-12-16 16:55:05",
-      "album": {
         "name": "Tocando Em Frente",
         "url": "https://open.spotify.com/album/4LjOAlMvo0ubUMx6Tq01X9"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 243764,
       "name": "Tocando Em Frente",
       "url": "https://open.spotify.com/track/5Lel1cBF8VBfulFbxiFMuU"
+    },
+    {
+      "added_at": "2022-12-16 16:55:05",
+      "album": {
+        "name": "Continha",
+        "url": "https://open.spotify.com/album/4LnfbTkG0cLbIINmM0TbYS"
+      },
+      "artists": [
+        {
+          "name": "Salma e Mac",
+          "url": "https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh"
+        }
+      ],
+      "duration_ms": 151880,
+      "name": "Continha",
+      "url": "https://open.spotify.com/track/70oxHVdsXTsaFmXk3d3u0l"
     },
     {
       "added_at": "2022-12-16 16:55:05",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-12-16 16:55:05",
       "album": {
+        "name": "Ano Que Vem",
+        "url": "https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl"
+      },
+      "artists": [
+        {
+          "name": "Flerte Flamingo",
+          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
+        }
+      ],
+      "duration_ms": 179656,
+      "name": "Ano Que Vem",
+      "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
+    },
+    {
+      "added_at": "2022-12-16 16:55:05",
+      "album": {
         "name": "Jasmim Parte 1",
         "url": "https://open.spotify.com/album/6YRFjsWP08K5hNWocg7o2Q"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 157000,
       "name": "Fica l\u00e1 Com Ela",
       "url": "https://open.spotify.com/track/0D4oKyrvWNp7ONO0H7xlc5"
-    },
-    {
-      "added_at": "2022-12-16 16:55:05",
-      "album": {
-        "name": "Ano Que Vem",
-        "url": "https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl"
-      },
-      "artists": [
-        {
-          "name": "Flerte Flamingo",
-          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
-        }
-      ],
-      "duration_ms": 179656,
-      "name": "Ano Que Vem",
-      "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
     },
     {
       "added_at": "2022-12-16 16:55:05",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-12-16 16:55:05",
       "album": {
-        "name": "Morena Bonita",
-        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
-      },
-      "artists": [
-        {
-          "name": "Anna Setton",
-          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
-        }
-      ],
-      "duration_ms": 179517,
-      "name": "Morena Bonita",
-      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
-    },
-    {
-      "added_at": "2022-12-16 16:55:05",
-      "album": {
         "name": "Tenho Sede",
         "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 190468,
       "name": "Tenho Sede",
       "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
+    },
+    {
+      "added_at": "2022-12-16 16:55:05",
+      "album": {
+        "name": "Morena Bonita",
+        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
+      },
+      "artists": [
+        {
+          "name": "Anna Setton",
+          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
+        }
+      ],
+      "duration_ms": 179517,
+      "name": "Morena Bonita",
+      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
     },
     {
       "added_at": "2022-12-16 16:55:05",
@@ -1465,6 +1465,26 @@
       "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
     },
     {
+      "added_at": "2022-12-26 00:39:58",
+      "album": {
+        "name": "A Chuva Sem Gal",
+        "url": "https://open.spotify.com/album/6wLGkIhbIdCXVxUSMwQCxx"
+      },
+      "artists": [
+        {
+          "name": "Joyce Moreno",
+          "url": "https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v"
+        },
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 224850,
+      "name": "A Chuva Sem Gal",
+      "url": "https://open.spotify.com/track/51n8FkiDdHnpdCpWceridp"
+    },
+    {
       "added_at": "2022-12-16 16:55:05",
       "album": {
         "name": "Nossos Planos",
@@ -1501,24 +1521,24 @@
       "url": "https://open.spotify.com/track/4dpuPTfpY0tvaXsloKKPbE"
     },
     {
-      "added_at": "2022-12-16 16:55:05",
+      "added_at": "2022-12-26 00:39:58",
       "album": {
-        "name": "Se N\u00e3o For Amor",
-        "url": "https://open.spotify.com/album/58tRsnbneeUALoTYhCYbr7"
+        "name": "Voa Vagalume",
+        "url": "https://open.spotify.com/album/4FIzrE1QwsiRdtFuq78p2z"
       },
       "artists": [
         {
-          "name": "Benito 80",
-          "url": "https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1"
+          "name": "Gabriel Sater",
+          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
         },
         {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+          "name": "Almir Sater",
+          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
         }
       ],
-      "duration_ms": 296000,
-      "name": "Se N\u00e3o For Amor",
-      "url": "https://open.spotify.com/track/7HrlWBqZOmsS57YKvkegkq"
+      "duration_ms": 217606,
+      "name": "Voa Vagalume",
+      "url": "https://open.spotify.com/track/6Ni9sKJ0oAnDq1l3zIdX8s"
     },
     {
       "added_at": "2022-12-16 16:55:05",
@@ -1537,24 +1557,24 @@
       "url": "https://open.spotify.com/track/53ji1uDQVCxod5wYjdjuMf"
     },
     {
-      "added_at": "2022-12-25 00:40:13",
+      "added_at": "2022-12-16 16:55:05",
       "album": {
-        "name": "A Chuva Sem Gal",
-        "url": "https://open.spotify.com/album/6wLGkIhbIdCXVxUSMwQCxx"
+        "name": "Se N\u00e3o For Amor",
+        "url": "https://open.spotify.com/album/58tRsnbneeUALoTYhCYbr7"
       },
       "artists": [
         {
-          "name": "Joyce Moreno",
-          "url": "https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v"
+          "name": "Benito 80",
+          "url": "https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1"
         },
         {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
         }
       ],
-      "duration_ms": 224850,
-      "name": "A Chuva Sem Gal",
-      "url": "https://open.spotify.com/track/51n8FkiDdHnpdCpWceridp"
+      "duration_ms": 296000,
+      "name": "Se N\u00e3o For Amor",
+      "url": "https://open.spotify.com/track/7HrlWBqZOmsS57YKvkegkq"
     },
     {
       "added_at": "2022-12-16 16:55:05",
@@ -1629,26 +1649,6 @@
       "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
     },
     {
-      "added_at": "2022-12-25 00:40:13",
-      "album": {
-        "name": "Voa Vagalume",
-        "url": "https://open.spotify.com/album/4FIzrE1QwsiRdtFuq78p2z"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Sater",
-          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
-        },
-        {
-          "name": "Almir Sater",
-          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
-        }
-      ],
-      "duration_ms": 217606,
-      "name": "Voa Vagalume",
-      "url": "https://open.spotify.com/track/6Ni9sKJ0oAnDq1l3zIdX8s"
-    },
-    {
       "added_at": "2022-12-16 16:55:05",
       "album": {
         "name": "Porto",
@@ -1683,26 +1683,6 @@
       "duration_ms": 247802,
       "name": "Coment\u00e1rios a Respeito de Belchior",
       "url": "https://open.spotify.com/track/7gT9a8ekaXrLVOtOaOTNu0"
-    },
-    {
-      "added_at": "2022-12-16 16:55:05",
-      "album": {
-        "name": "A M\u00fasica de Tom",
-        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
-      },
-      "artists": [
-        {
-          "name": "Ayrton Montarroyos",
-          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
-        },
-        {
-          "name": "Cain\u00e3 Cavalcante",
-          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
-        }
-      ],
-      "duration_ms": 185691,
-      "name": "Eu Sei Que Vou Te Amar",
-      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
     },
     {
       "added_at": "2022-12-16 16:55:05",
@@ -1767,6 +1747,26 @@
       "duration_ms": 266093,
       "name": "cantar - ao vivo no bona",
       "url": "https://open.spotify.com/track/46FwFi4komf0g3p80RTjBv"
+    },
+    {
+      "added_at": "2022-12-16 16:55:05",
+      "album": {
+        "name": "A M\u00fasica de Tom",
+        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Montarroyos",
+          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
+        },
+        {
+          "name": "Cain\u00e3 Cavalcante",
+          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
+        }
+      ],
+      "duration_ms": 185691,
+      "name": "Eu Sei Que Vou Te Amar",
+      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
     },
     {
       "added_at": "2022-12-16 16:55:05",

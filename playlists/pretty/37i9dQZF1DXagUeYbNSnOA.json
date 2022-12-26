@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best tracks from Fresh Finds Latin this year. Cover: Estevie #SpotifyWrapped",
-  "num_followers": 168397,
+  "num_followers": 168396,
   "original_name": "Fresh Finds Latin: Best of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMDU5YzBiYTdiZjQ4ODdiYWJkMzZkYmEzZjliZGZmODI4",
+  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMDRmZWQ3MzhmYWViNjFkMjUyMGNiZGVjOGYyMDMyZGM2",
   "tracks": [
     {
       "added_at": "2022-11-30 14:52:40",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Barquinho",
-        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Barquinho",
-      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "Habla Claro",
         "url": "https://open.spotify.com/album/6YXHNTLs6P6K92BYebBdYH"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 150266,
       "name": "Habla Claro",
       "url": "https://open.spotify.com/track/4umBg5LdVN10ndZ605idaQ"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Barquinho",
+        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
+      },
+      "artists": [
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Barquinho",
+      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
+        "name": "HUGITO",
+        "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
+      },
+      "artists": [
+        {
+          "name": "Hugo D Almonte",
+          "url": "https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "VA HABLAR",
+      "url": "https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
         "name": "Bby Grl",
         "url": "https://open.spotify.com/album/43uszYWNYyigwvqIMVulL9"
       },
@@ -567,18 +583,18 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "HUGITO",
-        "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
+        "name": "piano, piano",
+        "url": "https://open.spotify.com/album/4eGBlxVTIK95Ptvsn5dCo7"
       },
       "artists": [
         {
-          "name": "Hugo D Almonte",
-          "url": "https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP"
+          "name": "astrid",
+          "url": "https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm"
         }
       ],
-      "duration_ms": 147692,
-      "name": "VA HABLAR",
-      "url": "https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF"
+      "duration_ms": 141597,
+      "name": "piano, piano",
+      "url": "https://open.spotify.com/track/7t18kLASLlcOnCsD7GtFu8"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -607,22 +623,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "piano, piano",
-        "url": "https://open.spotify.com/album/4eGBlxVTIK95Ptvsn5dCo7"
-      },
-      "artists": [
-        {
-          "name": "astrid",
-          "url": "https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm"
-        }
-      ],
-      "duration_ms": 141597,
-      "name": "piano, piano",
-      "url": "https://open.spotify.com/track/7t18kLASLlcOnCsD7GtFu8"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "Mensaje",
         "url": "https://open.spotify.com/album/2B1828MpJLzTAK78spqdC8"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Axis",
-        "url": "https://open.spotify.com/album/00q0x8KcLoNQr5B5pLfPaT"
-      },
-      "artists": [
-        {
-          "name": "Natalia Spiner",
-          "url": "https://open.spotify.com/artist/1sZOtmJhnHfBgjvkuW7sK6"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Axis",
-      "url": "https://open.spotify.com/track/3pvEEzySFpo6jsZ1W2cNOS"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "dices",
         "url": "https://open.spotify.com/album/1G9Ci35tCN4zZLtitXNe7c"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 200106,
       "name": "dices",
       "url": "https://open.spotify.com/track/1k0o4QwCNf3Fv5Bspwze13"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Axis",
+        "url": "https://open.spotify.com/album/00q0x8KcLoNQr5B5pLfPaT"
+      },
+      "artists": [
+        {
+          "name": "Natalia Spiner",
+          "url": "https://open.spotify.com/artist/1sZOtmJhnHfBgjvkuW7sK6"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Axis",
+      "url": "https://open.spotify.com/track/3pvEEzySFpo6jsZ1W2cNOS"
     },
     {
       "added_at": "2022-11-30 14:52:40",

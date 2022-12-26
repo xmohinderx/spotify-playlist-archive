@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 22820,
+  "num_followers": 22937,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTc0MTE1MCwwMDAwMDAwMDQ2YWU5ZWY1YThlOGRiNzhiZGNiYjlkODk1ZGVlZTZh",
+  "snapshot_id": "MTY2OTc0MTE1MCwwMDAwMDAwMDhhZTZiYmE2YjcwMDBiOGVjODY5ZGFlZDgwYWYyZTFl",
   "tracks": [
     {
       "added_at": "2022-11-10 20:03:46",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-11-10 20:03:46",
       "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 232806,
-      "name": "Immaterial",
-      "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
-    },
-    {
-      "added_at": "2022-11-10 20:03:46",
-      "album": {
         "name": "i hate it here",
         "url": "https://open.spotify.com/album/6YaIgWEICYDuhQ7Kb0R5Jx"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 157144,
       "name": "i hate it here",
       "url": "https://open.spotify.com/track/5W2YdxPUqmzYFELNQF95Dt"
+    },
+    {
+      "added_at": "2022-11-10 20:03:46",
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 232806,
+      "name": "Immaterial",
+      "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
     },
     {
       "added_at": "2022-11-10 20:03:46",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-11-10 20:03:46",
       "album": {
-        "name": "fishmonger",
-        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Spoiled little brat",
-      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
-    },
-    {
-      "added_at": "2022-11-10 20:03:46",
-      "album": {
         "name": "hope u doing well",
         "url": "https://open.spotify.com/album/1bbLvy7JrUy34A4gZ9kQqE"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 96653,
       "name": "hope u doing well",
       "url": "https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe"
+    },
+    {
+      "added_at": "2022-11-10 20:03:46",
+      "album": {
+        "name": "fishmonger",
+        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Spoiled little brat",
+      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
     },
     {
       "added_at": "2022-11-10 20:03:46",
@@ -767,26 +767,6 @@
     {
       "added_at": "2022-11-10 20:03:46",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        },
-        {
-          "name": "Alice Glass",
-          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
-        }
-      ],
-      "duration_ms": 157752,
-      "name": "LEGEND",
-      "url": "https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq"
-    },
-    {
-      "added_at": "2022-11-10 20:03:46",
-      "album": {
         "name": "bad idea (feat. blackwinterwells)",
         "url": "https://open.spotify.com/album/7AHNBk7kZBFAwZH1UNtf10"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 69041,
       "name": "bad idea (feat. blackwinterwells)",
       "url": "https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB"
+    },
+    {
+      "added_at": "2022-11-10 20:03:46",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        },
+        {
+          "name": "Alice Glass",
+          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
+        }
+      ],
+      "duration_ms": 157752,
+      "name": "LEGEND",
+      "url": "https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq"
     },
     {
       "added_at": "2022-11-10 20:03:46",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-11-10 20:03:46",
       "album": {
-        "name": "Rich Bitch Juice",
-        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        }
-      ],
-      "duration_ms": 120221,
-      "name": "Rich Bitch Juice",
-      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
-    },
-    {
-      "added_at": "2022-11-10 20:03:46",
-      "album": {
         "name": "clueless",
         "url": "https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 127634,
       "name": "clueless",
       "url": "https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me"
+    },
+    {
+      "added_at": "2022-11-10 20:03:46",
+      "album": {
+        "name": "Rich Bitch Juice",
+        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "duration_ms": 120221,
+      "name": "Rich Bitch Juice",
+      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
     },
     {
       "added_at": "2022-11-10 20:03:46",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-11-10 20:03:46",
       "album": {
-        "name": "I'm All Ears",
-        "url": "https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg"
-      },
-      "artists": [
-        {
-          "name": "Let's Eat Grandma",
-          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
-        }
-      ],
-      "duration_ms": 248976,
-      "name": "Hot Pink",
-      "url": "https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8"
-    },
-    {
-      "added_at": "2022-11-10 20:03:46",
-      "album": {
         "name": "movinglikeazombie (remix)",
         "url": "https://open.spotify.com/album/3Qsn28wKIcugGTZ6HnR0qR"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 465424,
       "name": "movinglikeazombie - remix",
       "url": "https://open.spotify.com/track/7xvyaMqkhnqnpTMgv7j3A2"
+    },
+    {
+      "added_at": "2022-11-10 20:03:46",
+      "album": {
+        "name": "I'm All Ears",
+        "url": "https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg"
+      },
+      "artists": [
+        {
+          "name": "Let's Eat Grandma",
+          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
+        }
+      ],
+      "duration_ms": 248976,
+      "name": "Hot Pink",
+      "url": "https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8"
     },
     {
       "added_at": "2022-11-10 20:03:46",

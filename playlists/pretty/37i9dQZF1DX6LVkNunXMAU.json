@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Valdes.",
-  "num_followers": 52966,
+  "num_followers": 52977,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDJhMzYxNmZjZjBhNGQ4ZTUwMTM4ZmYyNTkwZDIyZTlk",
+  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDU0NTQwZTBmNDllN2RjNWIyNmNmMDFiZGU5MTBjYzk4",
   "tracks": [
     {
       "added_at": "2022-11-11 21:41:34",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "A Donde Quiero Estar",
-        "url": "https://open.spotify.com/album/4X6b5zmNAHOGD1zIrBwnEc"
-      },
-      "artists": [
-        {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
-        }
-      ],
-      "duration_ms": 201601,
-      "name": "A Donde Quiero Estar",
-      "url": "https://open.spotify.com/track/2CxzakxMvIWj6EU3LiTuF2"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Dark Folk, Vol.1",
         "url": "https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 178000,
       "name": "Amor Con Filo",
       "url": "https://open.spotify.com/track/0wq8bmjHq0ECOj2BpivYhX"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "A Donde Quiero Estar",
+        "url": "https://open.spotify.com/album/4X6b5zmNAHOGD1zIrBwnEc"
+      },
+      "artists": [
+        {
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        }
+      ],
+      "duration_ms": 201601,
+      "name": "A Donde Quiero Estar",
+      "url": "https://open.spotify.com/track/2CxzakxMvIWj6EU3LiTuF2"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -555,6 +555,26 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Mensajes en el Mar",
+        "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        },
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        }
+      ],
+      "duration_ms": 247614,
+      "name": "Mensajes en el Mar",
+      "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "en diciembre (me haces falta)",
         "url": "https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK"
       },
@@ -619,42 +639,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Mensajes en el Mar",
-        "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
-      },
-      "artists": [
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        },
-        {
-          "name": "Las Migas",
-          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
-        }
-      ],
-      "duration_ms": 247614,
-      "name": "Mensajes en el Mar",
-      "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "<3",
-        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "<3",
-      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "En una",
         "url": "https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 219647,
       "name": "En una",
       "url": "https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "<3",
+        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "COLAPSO",
+        "url": "https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo"
+      },
+      "artists": [
+        {
+          "name": "Lola Membrillo",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 209247,
+      "name": "COLAPSO",
+      "url": "https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Marinero",
         "url": "https://open.spotify.com/album/1adOzcCHUdePajHRKum7nd"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 204562,
       "name": "Marinero",
       "url": "https://open.spotify.com/track/6waY05zsDSRriG3lmgFSTG"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "COLAPSO",
-        "url": "https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo"
-      },
-      "artists": [
-        {
-          "name": "Lola Membrillo",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 209247,
-      "name": "COLAPSO",
-      "url": "https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Tu Nombre",
-        "url": "https://open.spotify.com/album/0NvNtFrr5XEUUDSt5hytL0"
-      },
-      "artists": [
-        {
-          "name": "Mu\u00f1ecas",
-          "url": "https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8"
-        }
-      ],
-      "duration_ms": 181672,
-      "name": "Tu Nombre",
-      "url": "https://open.spotify.com/track/6nTACiUMLcPh7mjfGXCFjA"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Sigue Avanzando",
         "url": "https://open.spotify.com/album/56w8kgwJIz3Hk00QnlEeCA"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 214010,
       "name": "Sigue Avanzando",
       "url": "https://open.spotify.com/track/1HP5A6kGG0cpejOw4FqZC8"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/0NvNtFrr5XEUUDSt5hytL0"
+      },
+      "artists": [
+        {
+          "name": "Mu\u00f1ecas",
+          "url": "https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8"
+        }
+      ],
+      "duration_ms": 181672,
+      "name": "Tu Nombre",
+      "url": "https://open.spotify.com/track/6nTACiUMLcPh7mjfGXCFjA"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Planes para Hoy",
+        "url": "https://open.spotify.com/album/4FdQLnzWnqdUCgNV1qc2Bc"
+      },
+      "artists": [
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 283333,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/4nVKNgndC4DezUMjNY3Yvz"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Caminito",
         "url": "https://open.spotify.com/album/2ZWbPWg6bXrDojfU04sciq"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 166500,
       "name": "Caminito",
       "url": "https://open.spotify.com/track/0P0psuP8ipaedwxBDDyFvY"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Planes para Hoy",
-        "url": "https://open.spotify.com/album/4FdQLnzWnqdUCgNV1qc2Bc"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 283333,
-      "name": "Rara",
-      "url": "https://open.spotify.com/track/4nVKNgndC4DezUMjNY3Yvz"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Postre",
+        "url": "https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK"
+      },
+      "artists": [
+        {
+          "name": "Pastrana",
+          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Postre",
+      "url": "https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Technicolor",
         "url": "https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1"
       },
@@ -1631,18 +1647,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Postre",
-        "url": "https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK"
+        "name": "Puro",
+        "url": "https://open.spotify.com/album/1tU0V696ITlDOgDtljYvle"
       },
       "artists": [
         {
-          "name": "Pastrana",
-          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Postre",
-      "url": "https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle"
+      "duration_ms": 178723,
+      "name": "Todo el D\u00eda Loca",
+      "url": "https://open.spotify.com/track/6nJrZQb9Dti8Y3DpiSupev"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1659,22 +1675,6 @@
       "duration_ms": 222729,
       "name": "Isla",
       "url": "https://open.spotify.com/track/3B32feO30ttYUIIFe0RD0l"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Puro",
-        "url": "https://open.spotify.com/album/1tU0V696ITlDOgDtljYvle"
-      },
-      "artists": [
-        {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
-        }
-      ],
-      "duration_ms": 178723,
-      "name": "Todo el D\u00eda Loca",
-      "url": "https://open.spotify.com/track/6nJrZQb9Dti8Y3DpiSupev"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Meteorito",
-        "url": "https://open.spotify.com/album/4nRJxicIb0T5H78HR9vaoe"
+        "name": "Quiero Seguir Durmiendo",
+        "url": "https://open.spotify.com/album/5UJhwNUlF8F9Y4WbRD7MDu"
       },
       "artists": [
         {
-          "name": "Lupe Alvarez",
-          "url": "https://open.spotify.com/artist/6P6rNCUzVaHoz71C2EDr5X"
+          "name": "C\u00e9sar Avila",
+          "url": "https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1"
         }
       ],
-      "duration_ms": 197391,
-      "name": "Meteorito",
-      "url": "https://open.spotify.com/track/6chRwUZxC2L09DokRfZVAZ"
+      "duration_ms": 169922,
+      "name": "Quiero Seguir Durmiendo",
+      "url": "https://open.spotify.com/track/6vo21NT3rATjoi1ZWtc6sU"
     }
   ],
   "unique_name": "mandarina",

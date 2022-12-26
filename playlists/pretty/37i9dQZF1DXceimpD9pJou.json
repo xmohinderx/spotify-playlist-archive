@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Pablo Martinez",
-  "num_followers": 114147,
+  "num_followers": 114188,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU4MzYwMSwwMDAwMDAwMDIyZWY1OWI5MjJlYmFiMzkzMDAyNjNkMjFlYzE3OTU4",
+  "snapshot_id": "MTY3MDU4MzYwMSwwMDAwMDAwMGU2ZmY3NGFkY2E4M2M0ZTdiYzg1ZTlhNWFmMDU2MWU3",
   "tracks": [
     {
       "added_at": "2022-12-09 11:00:01",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-12-09 11:00:01",
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/5gThgZJB0mCkrYljBOEour"
-      },
-      "artists": [
-        {
-          "name": "Dariann Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
-        }
-      ],
-      "duration_ms": 261250,
-      "name": "Vive",
-      "url": "https://open.spotify.com/track/3VFOh655IwOLgcz9AePHVv"
-    },
-    {
-      "added_at": "2022-12-09 11:00:01",
-      "album": {
         "name": "\u00bfQui\u00e9n Dijo Miedo? (Worship) [En Vivo]",
         "url": "https://open.spotify.com/album/3tgps5jEf9gURMErMKg5Pa"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 460340,
       "name": "\u00bfQui\u00e9n Dijo Miedo? (Worship) [En Vivo]",
       "url": "https://open.spotify.com/track/0h18GdacIbXLsTfr7pURA9"
+    },
+    {
+      "added_at": "2022-12-09 11:00:01",
+      "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/5gThgZJB0mCkrYljBOEour"
+      },
+      "artists": [
+        {
+          "name": "Dariann Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
+        }
+      ],
+      "duration_ms": 261250,
+      "name": "Vive",
+      "url": "https://open.spotify.com/track/3VFOh655IwOLgcz9AePHVv"
     },
     {
       "added_at": "2022-12-09 11:00:01",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-12-09 11:00:01",
       "album": {
+        "name": "Darme",
+        "url": "https://open.spotify.com/album/695um4H2Si43vzZWDwA4Fr"
+      },
+      "artists": [
+        {
+          "name": "Pablo Martinez",
+          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
+        }
+      ],
+      "duration_ms": 222595,
+      "name": "Darme",
+      "url": "https://open.spotify.com/track/2KWikIPxp0z7wD6NIOlNvD"
+    },
+    {
+      "added_at": "2022-12-09 11:00:01",
+      "album": {
         "name": "En el estudio con Manny Montes Vol. 4",
         "url": "https://open.spotify.com/album/7HIGaVBJlUaRxYt8dyXVCP"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 193333,
       "name": "En el estudio con Manny Montes Vol. 4",
       "url": "https://open.spotify.com/track/2k3zCJ36BmRBINkHV3gWf7"
-    },
-    {
-      "added_at": "2022-12-09 11:00:01",
-      "album": {
-        "name": "Darme",
-        "url": "https://open.spotify.com/album/695um4H2Si43vzZWDwA4Fr"
-      },
-      "artists": [
-        {
-          "name": "Pablo Martinez",
-          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
-        }
-      ],
-      "duration_ms": 222595,
-      "name": "Darme",
-      "url": "https://open.spotify.com/track/2KWikIPxp0z7wD6NIOlNvD"
     },
     {
       "added_at": "2022-12-09 11:00:01",
@@ -919,22 +919,30 @@
     {
       "added_at": "2022-12-09 11:00:01",
       "album": {
-        "name": "Fuego de Dios",
-        "url": "https://open.spotify.com/album/0kZTHIOpuD0APSnOeFC4bd"
+        "name": "No Es Raro (Remix)",
+        "url": "https://open.spotify.com/album/7H2Gc0GOv7NOHSTyE5IO8n"
       },
       "artists": [
         {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
         },
         {
-          "name": "Puchi Colon",
-          "url": "https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi"
+          "name": "El Leo Pa\u00b4",
+          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
+        },
+        {
+          "name": "Peter Metivier",
+          "url": "https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg"
+        },
+        {
+          "name": "Jinys",
+          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
         }
       ],
-      "duration_ms": 199212,
-      "name": "Fuego de Dios",
-      "url": "https://open.spotify.com/track/3m06PBv6z76DRDtAMWHjgz"
+      "duration_ms": 315276,
+      "name": "No Es Raro - Remix",
+      "url": "https://open.spotify.com/track/3JUvJbSPgumrRUIduwYuSQ"
     },
     {
       "added_at": "2022-12-09 11:00:01",
@@ -979,6 +987,26 @@
     {
       "added_at": "2022-12-09 11:00:01",
       "album": {
+        "name": "Fuego de Dios",
+        "url": "https://open.spotify.com/album/0kZTHIOpuD0APSnOeFC4bd"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        },
+        {
+          "name": "Puchi Colon",
+          "url": "https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi"
+        }
+      ],
+      "duration_ms": 199212,
+      "name": "Fuego de Dios",
+      "url": "https://open.spotify.com/track/3m06PBv6z76DRDtAMWHjgz"
+    },
+    {
+      "added_at": "2022-12-09 11:00:01",
+      "album": {
         "name": "Su Sangre",
         "url": "https://open.spotify.com/album/5fvhJ16FUBEYkhKIcmCzJp"
       },
@@ -995,34 +1023,6 @@
       "duration_ms": 349901,
       "name": "Su Sangre - Radio Edit",
       "url": "https://open.spotify.com/track/1Gmid3Ba0ZN1Mi18K9wnSU"
-    },
-    {
-      "added_at": "2022-12-09 11:00:01",
-      "album": {
-        "name": "No Es Raro (Remix)",
-        "url": "https://open.spotify.com/album/7H2Gc0GOv7NOHSTyE5IO8n"
-      },
-      "artists": [
-        {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
-        },
-        {
-          "name": "El Leo Pa\u00b4",
-          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
-        },
-        {
-          "name": "Peter Metivier",
-          "url": "https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg"
-        },
-        {
-          "name": "Jinys",
-          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
-        }
-      ],
-      "duration_ms": 315276,
-      "name": "No Es Raro - Remix",
-      "url": "https://open.spotify.com/track/3JUvJbSPgumrRUIduwYuSQ"
     },
     {
       "added_at": "2022-12-09 11:00:01",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-12-09 11:00:01",
       "album": {
-        "name": "Carmesi",
-        "url": "https://open.spotify.com/album/4I8FKMAgtQA7rSa90M9KKA"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "Carmesi",
-      "url": "https://open.spotify.com/track/28bX6k1WTQB8DyTYEYPFJ5"
-    },
-    {
-      "added_at": "2022-12-09 11:00:01",
-      "album": {
         "name": "Pa' que Son Las Guitarras",
         "url": "https://open.spotify.com/album/40z3TYafjcab3mfN6VkDT1"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 193956,
       "name": "Pa' que Son Las Guitarras",
       "url": "https://open.spotify.com/track/2I6G5TABjMu7RVntToFDwk"
+    },
+    {
+      "added_at": "2022-12-09 11:00:01",
+      "album": {
+        "name": "Carmesi",
+        "url": "https://open.spotify.com/album/4I8FKMAgtQA7rSa90M9KKA"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Carmesi",
+      "url": "https://open.spotify.com/track/28bX6k1WTQB8DyTYEYPFJ5"
     },
     {
       "added_at": "2022-12-09 11:00:01",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-12-09 11:00:01",
       "album": {
+        "name": "rosa de amor",
+        "url": "https://open.spotify.com/album/2ldKE839o8afQK7gKk7joL"
+      },
+      "artists": [
+        {
+          "name": "Strings And Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 204458,
+      "name": "rosa de amor",
+      "url": "https://open.spotify.com/track/0gNmsJQAUzYulBFCGknFF9"
+    },
+    {
+      "added_at": "2022-12-09 11:00:01",
+      "album": {
         "name": "T\u00fa Eres Rey (Aleluya)",
         "url": "https://open.spotify.com/album/4Ubai9xWxsgUZ5vbIijy6g"
       },
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2022-12-09 11:00:01",
       "album": {
-        "name": "Recrea",
-        "url": "https://open.spotify.com/album/71KFGogmp9ZLWlVcgMc9RN"
-      },
-      "artists": [
-        {
-          "name": "Isaac Salinas",
-          "url": "https://open.spotify.com/artist/7xqZrj9YaPC57GXU4r2JwF"
-        }
-      ],
-      "duration_ms": 409874,
-      "name": "F\u00f3rmame",
-      "url": "https://open.spotify.com/track/3T9j3WGB4sXJn5pmP9X2vE"
-    },
-    {
-      "added_at": "2022-12-09 11:00:01",
-      "album": {
         "name": "El Robo",
         "url": "https://open.spotify.com/album/45NhbYt4QlTHqs5PApbYKK"
       },
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2022-12-09 11:00:01",
       "album": {
-        "name": "rosa de amor",
-        "url": "https://open.spotify.com/album/2ldKE839o8afQK7gKk7joL"
+        "name": "Recrea",
+        "url": "https://open.spotify.com/album/71KFGogmp9ZLWlVcgMc9RN"
       },
       "artists": [
         {
-          "name": "Strings And Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+          "name": "Isaac Salinas",
+          "url": "https://open.spotify.com/artist/7xqZrj9YaPC57GXU4r2JwF"
         }
       ],
-      "duration_ms": 204458,
-      "name": "rosa de amor",
-      "url": "https://open.spotify.com/track/0gNmsJQAUzYulBFCGknFF9"
+      "duration_ms": 409874,
+      "name": "F\u00f3rmame",
+      "url": "https://open.spotify.com/track/3T9j3WGB4sXJn5pmP9X2vE"
     },
     {
       "added_at": "2022-12-09 11:00:01",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-12-09 11:00:01",
       "album": {
-        "name": "Marcas",
-        "url": "https://open.spotify.com/album/47Yd2xwDnY6ecLe80LwYSl"
-      },
-      "artists": [
-        {
-          "name": "Hennessy",
-          "url": "https://open.spotify.com/artist/1LoeAMwjd44lrd6zU5Lh6U"
-        }
-      ],
-      "duration_ms": 209234,
-      "name": "Marcas",
-      "url": "https://open.spotify.com/track/3LGZx3Hn3qI3uXq3p2AoIt"
-    },
-    {
-      "added_at": "2022-12-09 11:00:01",
-      "album": {
         "name": "Ayer & Hoy",
         "url": "https://open.spotify.com/album/5nTBsdMMmH7sPvRL0TfNYl"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 204545,
       "name": "Ayer & Hoy",
       "url": "https://open.spotify.com/track/62hD9IQldcecd13tWGFdPy"
+    },
+    {
+      "added_at": "2022-12-09 11:00:01",
+      "album": {
+        "name": "Marcas",
+        "url": "https://open.spotify.com/album/47Yd2xwDnY6ecLe80LwYSl"
+      },
+      "artists": [
+        {
+          "name": "Hennessy",
+          "url": "https://open.spotify.com/artist/1LoeAMwjd44lrd6zU5Lh6U"
+        }
+      ],
+      "duration_ms": 209234,
+      "name": "Marcas",
+      "url": "https://open.spotify.com/track/3LGZx3Hn3qI3uXq3p2AoIt"
     },
     {
       "added_at": "2022-12-09 11:00:01",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2022-12-09 11:00:01",
       "album": {
+        "name": "El Protagonista",
+        "url": "https://open.spotify.com/album/2xjCkKC8DJVKNfmS9F1ukT"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Cielo",
+          "url": "https://open.spotify.com/artist/7BtPvKcx93ZZwYUIjpGyYQ"
+        }
+      ],
+      "duration_ms": 299535,
+      "name": "El Protagonista",
+      "url": "https://open.spotify.com/track/7ltjh4lDUqhQozk81qVbNb"
+    },
+    {
+      "added_at": "2022-12-09 11:00:01",
+      "album": {
         "name": "From Chile",
         "url": "https://open.spotify.com/album/22gfyGnwH3b6FThS6EwUf1"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 219482,
       "name": "Feliz Junto a Ti",
       "url": "https://open.spotify.com/track/6TAFp2cs0qpPCd4T4HiKWB"
-    },
-    {
-      "added_at": "2022-12-09 11:00:01",
-      "album": {
-        "name": "El Protagonista",
-        "url": "https://open.spotify.com/album/2xjCkKC8DJVKNfmS9F1ukT"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Cielo",
-          "url": "https://open.spotify.com/artist/7BtPvKcx93ZZwYUIjpGyYQ"
-        }
-      ],
-      "duration_ms": 299535,
-      "name": "El Protagonista",
-      "url": "https://open.spotify.com/track/7ltjh4lDUqhQozk81qVbNb"
     },
     {
       "added_at": "2022-12-09 11:00:01",

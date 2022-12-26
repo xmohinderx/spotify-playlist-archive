@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > The hustle king and worldwide multi talent of Korean hip\-hop/r&b.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,744 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,779 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 11 | [Love The Way \(Feat\. Jay Park & punchnello\)](https://open.spotify.com/track/6gLJoEyuuHk1IwrZXWjotF) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Point Of View: U](https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM) | 3:01 |
 | 12 | [Oscar](https://open.spotify.com/track/2Wqnhu5dRQDAQi8Ej6HnVQ) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Golden](https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H1GHR : BLUE TAPE](https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ) | 3:08 |
 | 13 | [Drip \(Feat\. Jay Park\)](https://open.spotify.com/track/2zCXNCWa1RMIHfv0435jhT) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:32 |
-| 14 | [BRB](https://open.spotify.com/track/620yE97rij2snTka7EbKH0) | [H1GHR MUSIC](https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K) | [BRB](https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2) | 5:04 |
-| 15 | [Does She](https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Rouge](https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ) | 3:22 |
+| 14 | [Does She](https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Rouge](https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ) | 3:22 |
+| 15 | [BRB](https://open.spotify.com/track/620yE97rij2snTka7EbKH0) | [H1GHR MUSIC](https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K) | [BRB](https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2) | 5:04 |
 | 16 | [Dedication \(feat\. Jay Park\)](https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Homecoming](https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD) | 2:46 |
 | 17 | [Day Day \(Prod\. By GRAY\)](https://open.spotify.com/track/3i6vV5Z2P9uMlxf8wdm2WK) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Show Me the Money 5 Episode 4](https://open.spotify.com/album/4iSAd5Tg8jNhoRLnZ0Tb0X) | 3:29 |
 | 18 | [Dingo X 쌔끈보이즈 \- 궁금해](https://open.spotify.com/track/00qTDk2XFKM5zgU8cIXotL) | [SGBOYZ](https://open.spotify.com/artist/5PDw41tArOne60p7F4vTtU) | [Dingo X 쌔끈보이즈 \- 궁금해](https://open.spotify.com/album/0IXensrKIZ7dxjoUgx57xb) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 99 | [Ride Me](https://open.spotify.com/track/5ZvRzu5RNxIwvyPGTx8plM) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Evolution](https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4) | 4:00 |
 | 100 | [F\*CKBOY](https://open.spotify.com/track/1ArM8xRbVUdcgvvYyVltGi) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 4:46 |
 
-Snapshot ID: `MTY2NzI3NTM2OCwwMDAwMDAwMDQyZGJiODc1MGYyZjk2MzY5ZmY4MTFiYjUxNTZjOGFm`
+Snapshot ID: `MTY2NzI3NTM2OCwwMDAwMDAwMDEzZDExY2M2ZmIyNTNhYjE1NDk2N2Q0OTNhNDY5MDM5`

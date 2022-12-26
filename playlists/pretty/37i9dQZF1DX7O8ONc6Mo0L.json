@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Kleber Lucas, Caetano Veloso",
-  "num_followers": 231652,
+  "num_followers": 231676,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDE5ODQwMCwwMDAwMDAwMDNmZTNlZDA2Yzg5YTRjODRhNjU0ZTFlNWM5OWFhMzc3",
+  "snapshot_id": "MTY3MDE5ODQwMCwwMDAwMDAwMDNiODdjNGViMDQ3MzgzNmMzMDU4YmE0ZmRjMmUzNTc2",
   "tracks": [
     {
       "added_at": "2022-12-05 00:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-12-05 00:00:00",
       "album": {
+        "name": "Encaixe",
+        "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 222607,
+      "name": "Encaixe",
+      "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
+    },
+    {
+      "added_at": "2022-12-05 00:00:00",
+      "album": {
         "name": "Ningu\u00e9m Explica Deus",
         "url": "https://open.spotify.com/album/0rtnasiLRIz9jg94tmwTU3"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 301623,
       "name": "Ningu\u00e9m Explica Deus",
       "url": "https://open.spotify.com/track/4tKdITTT7wvJNvl8c5Qoth"
-    },
-    {
-      "added_at": "2022-12-05 00:00:00",
-      "album": {
-        "name": "Encaixe",
-        "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 222607,
-      "name": "Encaixe",
-      "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
     },
     {
       "added_at": "2022-12-05 00:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-12-05 00:00:00",
       "album": {
+        "name": "Aprender Com a Vida (Piano e Voz)",
+        "url": "https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 258044,
+      "name": "Aprender Com a Vida - Piano e Voz",
+      "url": "https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw"
+    },
+    {
+      "added_at": "2022-12-05 00:00:00",
+      "album": {
         "name": "Primeira Ess\u00eancia (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2022-12-05 00:00:00",
       "album": {
-        "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
-        "url": "https://open.spotify.com/album/1Rz6o5OcmhO1YevBCg8bvw"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 252874,
-      "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7fpvwvVR2zhNaWUAUDXznF"
-    },
-    {
-      "added_at": "2022-12-05 00:00:00",
-      "album": {
         "name": "Tuas \u00c1guas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 299893,
       "name": "Tuas \u00c1guas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
+    },
+    {
+      "added_at": "2022-12-05 00:00:00",
+      "album": {
+        "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
+        "url": "https://open.spotify.com/album/1Rz6o5OcmhO1YevBCg8bvw"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 252874,
+      "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7fpvwvVR2zhNaWUAUDXznF"
     },
     {
       "added_at": "2022-12-05 00:00:00",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2022-12-05 00:00:00",
       "album": {
-        "name": "Aprender Com a Vida (Piano e Voz)",
-        "url": "https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 258044,
-      "name": "Aprender Com a Vida - Piano e Voz",
-      "url": "https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw"
-    },
-    {
-      "added_at": "2022-12-05 00:00:00",
-      "album": {
         "name": "Ac\u00fastico, Vol. 2",
         "url": "https://open.spotify.com/album/0OcToYPbbdIO4d6p7SJZ2n"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-12-05 00:00:00",
       "album": {
-        "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY"
-      },
-      "artists": [
-        {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
-        }
-      ],
-      "duration_ms": 437014,
-      "name": "Segure Minhas M\u00e3os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx"
-    },
-    {
-      "added_at": "2022-12-05 00:00:00",
-      "album": {
         "name": "Valeu a Pena",
         "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 237510,
       "name": "Valeu a Pena",
       "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
+    },
+    {
+      "added_at": "2022-12-05 00:00:00",
+      "album": {
+        "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY"
+      },
+      "artists": [
+        {
+          "name": "Jhonas Serra",
+          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+        }
+      ],
+      "duration_ms": 437014,
+      "name": "Segure Minhas M\u00e3os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx"
     },
     {
       "added_at": "2022-12-05 00:00:00",

@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-297 songs - 19 hr 21 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
+298 songs - 19 hr 24 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Diddly Squat](https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:05 | 2021-12-11 |  |
 | [Do You Hear What I Hear](https://open.spotify.com/track/4gTy5hUxyusgT1jy66cTeM) | [The Sing Team](https://open.spotify.com/artist/1laNwx3Sgr12cbdw3UTROn) | [Do You Hear What I Hear](https://open.spotify.com/album/6RL1rUhauhoIAs7VOiHeo6) | 3:12 | 2021-12-24 | 2022-07-28 |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/4HIfV8l6VGif6AtEIh80aA) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas +](https://open.spotify.com/album/1yXMLsVg38bs2cTZ57lgJ3) | 3:12 | 2021-12-11 |  |
-| [Don't Forget The Star](https://open.spotify.com/track/7FXLfasvHRnGpnOyq7ThFo) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Merry Christmas To You \(Great Big Family Edition\)](https://open.spotify.com/album/1oQisAUbNQh9hNsNLzF9Pv) | 4:32 | 2021-12-11 |  |
+| [Don't Forget The Star](https://open.spotify.com/track/7FXLfasvHRnGpnOyq7ThFo) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Merry Christmas To You \(Great Big Family Edition\)](https://open.spotify.com/album/1oQisAUbNQh9hNsNLzF9Pv) | 4:32 | 2021-12-11 | 2022-12-26 |
 | [El Primer Noel](https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [El Primer Noel](https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF) | 3:10 | 2021-12-24 | 2022-07-19 |
 | [Emmanuel](https://open.spotify.com/track/3rpBkWpINIPd8F4m3u1BCx) | [Hillside Recording](https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN), [Diana Trout](https://open.spotify.com/artist/0NHykv7QVZ6hTpKdPe3qrf) | [Emmanuel](https://open.spotify.com/album/57nrrOMHONlS0FgtFEi44P) | 3:59 | 2022-12-11 |  |
 | [Emmanuel](https://open.spotify.com/track/0PAQS2e3g3LMH5P0hTjWRh) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Christmas Songs](https://open.spotify.com/album/4TafV1ps3rMjGg80WWrMls) | 3:21 | 2021-12-24 | 2022-07-27 |
@@ -296,6 +296,7 @@
 | [What Child Is This?](https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 3:15 | 2021-12-24 |  |
 | [What Child Is This?](https://open.spotify.com/track/2z2ymhunj2m3A57fYv2dDQ) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold \(Deluxe Edition\)](https://open.spotify.com/album/6MEVxM406giEe9WitUo3Bc) | 3:15 | 2021-12-24 | 2022-11-13 |
 | [What Child Is This?](https://open.spotify.com/track/3zcK5rkivIL6bomdnNRyoL) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [What Child Is This?](https://open.spotify.com/album/5zS0XfUA5Eozusrsw3s4sz) | 3:29 | 2021-12-24 | 2022-07-25 |
+| [What Christmas Means to Me](https://open.spotify.com/track/7cIXP0NlDmF1MYy9rMrvLA) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [The Christmas Collection, Vol\. II](https://open.spotify.com/album/6NgePcACnWDn6juiNatZc9) | 2:44 | 2022-12-11 |  |
 | [Where Is Our King?](https://open.spotify.com/track/5JGMcK2svgA4INnAeZmKuw) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj) | [Where Is Our King?](https://open.spotify.com/album/1alJrcDZy8WrYfWI4My8hJ) | 4:49 | 2021-12-24 | 2022-07-21 |
 | [White Christmas](https://open.spotify.com/track/5g3MZjhHJQAhqwP8jz2ahr) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [From Seed To Sequoia](https://open.spotify.com/album/3Aa8olM4RJ0Gc820cqvREs) | 1:33 | 2021-12-11 |  |
 | [White Christmas](https://open.spotify.com/track/5pteOm3ioLG03qmNL1lZJn) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [All Heaven And Nature Sing](https://open.spotify.com/album/3yGqcUTfaxgJVcjAmn3FWQ) | 4:23 | 2021-12-11 |  |

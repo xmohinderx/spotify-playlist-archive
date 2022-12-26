@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Luis Alfonso Partida El Yaki
 
-314 songs - 17 hr 16 min - [published](https://open.spotify.com/playlist/4oXHgWduTWFlo14M6NXNSL)
+315 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/4oXHgWduTWFlo14M6NXNSL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [La Plebada De Archivaldo \(En Vivo\)](https://open.spotify.com/track/11e8P3zquAFA7j2cf5FJMm) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1) | [La Plebada De Archivaldo \(En Vivo\)](https://open.spotify.com/album/16klovKHeCLcwm7VPjFmzc) | 2:55 | 2022-05-12 | 2022-12-09 |
 | [La Princesa \- En Vivo](https://open.spotify.com/track/6ICkmxubRJZiI3xP8s7nEc) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [La Princesa \(En Vivo\)](https://open.spotify.com/album/5CB45BZeXgQzjrLr3nJKIR) | 3:54 | 2022-05-12 | 2022-07-29 |
 | [La Receta \- En Vivo](https://open.spotify.com/track/58QkaQHFlxKTQsf9neikRA) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Receta \(En Vivo\)](https://open.spotify.com/album/3LeJnT1HvvXzr93VVXAQ1m) | 2:39 | 2022-05-12 |  |
-| [La Siembra En El Cerro](https://open.spotify.com/track/7BM7AHyidinBMTUqO7oSU0) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 3:28 | 2022-12-08 |  |
+| [La Siembra En El Cerro](https://open.spotify.com/track/7BM7AHyidinBMTUqO7oSU0) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 3:28 | 2022-12-08 | 2022-12-26 |
 | [La Tipica](https://open.spotify.com/track/3AxEZyQEGEhHuTJgRrT7dh) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Tipica](https://open.spotify.com/album/1hPw3w27KcDVAKp6CDvdIZ) | 3:11 | 2022-05-12 | 2022-12-09 |
 | [La Vida Ruina \(En Vivo Desde La Perla Tapatia\)](https://open.spotify.com/track/6CaJzPuQFqwZ2AAj5jET3y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Vida Ruina \(En Vivo Desde La Perla Tapatia\)](https://open.spotify.com/album/47JiMvotl9xC4mwZAR12UY) | 2:04 | 2022-05-12 |  |
 | [La Yaquesita \- En Vivo](https://open.spotify.com/track/0dc1DPMzXyPqbKWg6za1KS) | [Los Viejones De Linares](https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW) | [Pura Lumbre Con \(En Vivo\)](https://open.spotify.com/album/24qFUtXKUfNEkofuUSNIZY) | 3:29 | 2022-12-09 |  |
@@ -304,6 +304,7 @@
 | [Tragos Amargos \- Live At Nuevo León México/2009](https://open.spotify.com/track/3vsD7bXY5xQP2GJLAnJ8GA) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y) | [Desde La Cantina \(Live At Nuevo León México/2009\)](https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy) | 2:58 | 2022-12-09 |  |
 | [Traketeando \- En Vivo](https://open.spotify.com/track/6hKJLUCgTWYt989CLMbxOW) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Juan De Ron](https://open.spotify.com/artist/3yrMnFLhmMGBW37Nse1VQl) | [Traketeando \(En Vivo\)](https://open.spotify.com/album/2L0MqXft3PsJGmM8kuOrTL) | 3:02 | 2022-12-08 |  |
 | [Trocas Duras](https://open.spotify.com/track/3qFZnwxgVYFou7iBfTynVl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Trocas Duras](https://open.spotify.com/album/5aX23lCd4oM1bSk2xKeDgg) | 3:05 | 2022-05-12 | 2022-12-09 |
+| [Tu Ingratitud \- Live](https://open.spotify.com/track/5MocMycbmLFBJlZU38ruP6) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:25 | 2022-12-26 |  |
 | [Un Placer, Fui El Chamaco \- En Vivo](https://open.spotify.com/track/5fJlztLjjC9akK1soyzCzu) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Un Placer, Fui El Chamaco \(En Vivo\)](https://open.spotify.com/album/1TnuJCwhjp4hVXakm0AyVX) | 2:43 | 2022-05-12 | 2022-12-09 |
 | [Una Aventura](https://open.spotify.com/track/1cznypGCkvfe1EnL2QAa6y) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 4:00 | 2022-05-12 | 2022-12-09 |
 | [Una Flor Quise Cortar](https://open.spotify.com/track/6fbbV0S1tDc9msYsgZ23gA) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Desde Las Vegas](https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB) | 2:33 | 2022-12-09 |  |

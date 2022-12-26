@@ -4,7 +4,7 @@
 
 > Tune in, bliss out
 
-73 songs - 4 hr 47 min - not published yet
+74 songs - 4 hr 50 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,11 +21,12 @@
 | [Clarity \- Chris Malinchak Mix](https://open.spotify.com/track/0Mv64uPH8nm7yZPPAj8HYe) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Clarity \(Chris Malinchak Mix\)](https://open.spotify.com/album/5heZ44v5LJyE8xBe4BBir9) | 3:50 | 2022-12-01 |  |
 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 | 2022-12-01 |  |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-12-01 |  |
+| [Everytime You Need Me](https://open.spotify.com/track/6AgOb1ARDRUjZdPAUgkWPg) | [Santorelli](https://open.spotify.com/artist/2W3PRQeJoFaEFaLZYiVrkR), [15grams](https://open.spotify.com/artist/1O6ddbpGxRTse2V0YEkhNH), [JXDE](https://open.spotify.com/artist/4qt40q1K5ce0eVlUa66bGC) | [Everytime You Need Me](https://open.spotify.com/album/1PqX9ZHah4bKmgxMR4EIFv) | 2:27 | 2022-12-15 |  |
 | [Fade Into Black](https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:04 | 2022-12-01 |  |
 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 | 2022-12-01 |  |
 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 | 2022-12-01 |  |
 | [Flipside](https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:18 | 2022-12-01 |  |
-| [Floating](https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Visage 5 \(Floating\)](https://open.spotify.com/album/7epHm3vYUTyuIjMj0HuU02) | 4:53 | 2022-12-01 |  |
+| [Floating](https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Visage 5 \(Floating\)](https://open.spotify.com/album/7epHm3vYUTyuIjMj0HuU02) | 4:53 | 2022-12-01 | 2022-12-26 |
 | [Glory](https://open.spotify.com/track/18Cl5BaGPKOS493dgicNXC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [mixed feelings](https://open.spotify.com/artist/6wnikTsr4A4y3Eiwpcmjh0) | [Glory](https://open.spotify.com/album/6R8SpkZFXLlWAdzWZHnB3j) | 2:24 | 2022-12-01 |  |
 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 | 2022-12-01 |  |
 | [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 | 2022-12-01 |  |

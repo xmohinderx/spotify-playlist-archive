@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 
 > Get your bassface on with these classic Dubstep tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,979 likes - 40 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,057 likes - 40 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bangarang \(feat\. Sirah\)](https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38) | [Bangarang EP](https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe) | 3:35 |
 | 2 | [Ginger Pubes](https://open.spotify.com/track/2s0xboyJ9qfdUQVS3ZcY8B) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP) | [Ginger Pubes / Blurgh!](https://open.spotify.com/album/4n7w7SRIJxV6oKySEmaAlK) | 5:09 |
-| 3 | [Bonfire](https://open.spotify.com/track/0QIYINh2AwmOmdu8CRYvlw) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [Rage Valley](https://open.spotify.com/album/2KZKR8bLDZPUxOE6JhTh4X) | 4:32 |
-| 4 | [Katy on a Mission](https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:39 |
+| 3 | [Katy on a Mission](https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:39 |
+| 4 | [Bonfire](https://open.spotify.com/track/0QIYINh2AwmOmdu8CRYvlw) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [Rage Valley](https://open.spotify.com/album/2KZKR8bLDZPUxOE6JhTh4X) | 4:32 |
 | 5 | [Eyes on Fire \- Zeds Dead Remix](https://open.spotify.com/track/3Oiauiojgokw9vWQvFmEoI) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Eyes on Fire \(Zeds Dead Remix\) \[Zed Dead Remix\]](https://open.spotify.com/album/5wFQEk3sV9Zjo3xnGZLS42) | 5:20 |
 | 6 | [Levels \- Skrillex Remix](https://open.spotify.com/track/5f6igUw1asUL4AGXSvgTW8) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Levels \(Remixes\)](https://open.spotify.com/album/42z0CzDpHpFYXLmKIk6NuC) | 4:41 |
 | 7 | [I Can't Stop](https://open.spotify.com/track/03EuhmMsEHVFI9ytainStU) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Lines in Wax](https://open.spotify.com/album/4nr0xtBBSdHcnaq3iSqEIr) | 5:03 |
 | 8 | [Make It Bun Dem](https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Make It Bun Dem After Hours EP](https://open.spotify.com/album/3ipNtzV1LNGEBWu4VSsmjP) | 3:33 |
-| 9 | [Internet Friends](https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [100% No Modern Talking](https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB) | 5:01 |
-| 10 | [Lone Wolf](https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Lone Wolf](https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY) | 4:16 |
-| 11 | [Promises](https://open.spotify.com/track/2LCCxYQ5dw1dz3Pu6APEUH) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:17 |
+| 9 | [Lone Wolf](https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Lone Wolf](https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY) | 4:16 |
+| 10 | [Promises](https://open.spotify.com/track/2LCCxYQ5dw1dz3Pu6APEUH) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:17 |
+| 11 | [Internet Friends](https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [100% No Modern Talking](https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB) | 5:01 |
 | 12 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavillion](https://open.spotify.com/artist/0z9vD9DKvwTGRPEQ4JZID7) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 |
 | 13 | [I Need Air \(feat\. Angela Hunte\)](https://open.spotify.com/track/5je1EimWTwYw2p8XVym99q) | [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL), [Angela Hunte](https://open.spotify.com/artist/7rEqtNYXSDePQHdZNiLN6L) | [Magnetic Man](https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr) | 4:16 |
 | 14 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 | 39 | [Changes](https://open.spotify.com/track/0PfR5qCmwobwbpXL3vaqPm) | [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu) | [Forgive / Changes](https://open.spotify.com/album/0Sg1wEBeKHsV2v9FOQlBm9) | 6:50 |
 | 40 | [Purple City](https://open.spotify.com/track/07OgaXz5dFCeLIVvPpZs7M) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP), [Ginz](https://open.spotify.com/artist/64QoeJG6EusbNsBxzkqoOv) | [Purple City / Re\-Up](https://open.spotify.com/album/4sgN1XtBJLaE06fcqo5SoV) | 4:24 |
 
-Snapshot ID: `MTYxMzA1Nzc3NCwwMDAwMDAwMGY2ZTRjNzY4YzMyZWM1NDkwNGE3ODhlNmI5YjUyMTll`
+Snapshot ID: `MTYxMzA1Nzc3NCwwMDAwMDAwMDQ4YjkxYTdiYTZjNmUwYmNiNmFiZmVmMGFmZGNiYTUy`

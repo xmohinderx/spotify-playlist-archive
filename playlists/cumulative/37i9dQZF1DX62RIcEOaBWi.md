@@ -4,7 +4,7 @@
 
 > Música alegre para que el trabajo se te pase volando.
 
-279 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/0X0LW6lwV1SEGovOJVY5Oo)
+280 songs - 16 hr 17 min - [published](https://open.spotify.com/playlist/0X0LW6lwV1SEGovOJVY5Oo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [El Viaje](https://open.spotify.com/track/0XR0jBbghtl9mPFu2sdrkw) | [Conchita](https://open.spotify.com/artist/0TPv1jIhKn4d0boGDxy4LI) | [El Viaje](https://open.spotify.com/album/6yYEqaQ9hk4TSbimaDF7Dw) | 4:41 | 2022-01-10 | 2022-07-29 |
 | [En El Coche](https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [En El Coche](https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp) | 2:05 | 2022-08-08 |  |
 | [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/track/2y4tVYe37VJaEkYbWTJvHE) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/album/7daj8IRYx1YWlcYwRlFc5O) | 3:55 | 2022-01-10 | 2022-07-29 |
+| [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/track/4lYGDM2P0P6NosnaoFiPqB) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/album/2NdVSWwmCmdCamPxCSt1er) | 3:54 | 2022-08-08 |  |
 | [Eso Que Tú Me Das](https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Tragas o Escupes](https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7) | 3:34 | 2022-08-08 |  |
 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2022-01-10 |  |
 | [Every Little Thing She Does Is Magic](https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 4:20 | 2022-08-08 |  |
@@ -161,7 +162,7 @@
 | [Me Gusta la Vida](https://open.spotify.com/track/4LRF5Z4aEOVa0Npgtaj2hN) | [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U) | [Me Gusta la Vida](https://open.spotify.com/album/5YxkHA6ezizJWzS0KO093G) | 2:54 | 2022-01-10 | 2022-07-29 |
 | [Me Quedo \(feat\. Ana Mena\)](https://open.spotify.com/track/1MdsletWuIR9ItEnitWRwp) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Me Quedo \(feat\. Ana Mena\)](https://open.spotify.com/album/2vVt1IgIral9JtNxlVRW3i) | 2:43 | 2022-01-10 | 2022-07-29 |
 | [Me Sabe Mal](https://open.spotify.com/track/53w7xjn8fwwU8Pc6rgMm5v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Me Sabe Mal](https://open.spotify.com/album/11BHSuw2pCt1zj8U9oTFHy) | 3:16 | 2022-01-10 | 2022-07-29 |
-| [MENEITO](https://open.spotify.com/track/2nSNqawExgEYd5k0CATOwO) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [MENEITO](https://open.spotify.com/album/6IaqXSNQMMkmzLtISgLJcI) | 3:18 | 2022-08-08 |  |
+| [MENEITO](https://open.spotify.com/track/2nSNqawExgEYd5k0CATOwO) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [MENEITO](https://open.spotify.com/album/6IaqXSNQMMkmzLtISgLJcI) | 3:18 | 2022-08-08 | 2022-12-26 |
 | [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 | 2022-01-10 | 2022-07-29 |
 | [Midnight Sky](https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:43 | 2022-01-10 |  |
 | [Millones](https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:41 | 2022-01-10 |  |

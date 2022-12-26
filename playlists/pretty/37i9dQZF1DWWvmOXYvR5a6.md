@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: CRUCiAL STAR크루셜스타\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,440 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,517 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 | 73 | [Lonely](https://open.spotify.com/track/5QcIKO1FjIQOWHlDATLV4g) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:16 |
 | 74 | [TANG!♡](https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 2:58 |
 | 75 | [OUT OF MY SIGHT](https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [VIOLINIST2](https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT) | 3:26 |
-| 76 | [Rich Kids Anthem \(Feat\. Lee Hi\)](https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:37 |
-| 77 | [MR\. BAD \(Feat\. Woo\)](https://open.spotify.com/track/5KkAIk1aWPPIWIkSGnEmJg) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [MR\. BAD](https://open.spotify.com/album/71KOTVJkEhbXVLNdZGKe9a) | 3:05 |
-| 78 | [When I fall in love](https://open.spotify.com/track/24kQoMnicTBAYZzHUozStq) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [3\-PAKTORY02](https://open.spotify.com/album/12jnTSyfUouBKTiOSyPBj6) | 4:17 |
+| 76 | [When I fall in love](https://open.spotify.com/track/24kQoMnicTBAYZzHUozStq) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [3\-PAKTORY02](https://open.spotify.com/album/12jnTSyfUouBKTiOSyPBj6) | 4:17 |
+| 77 | [LATELY \(Feat\. Hoody\)](https://open.spotify.com/track/68W9Rt5yAcalwteykLJ82a) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [LATELY](https://open.spotify.com/album/5TWPlHZkZ55l3zBaSrtSRk) | 3:51 |
+| 78 | [Rich Kids Anthem \(Feat\. Lee Hi\)](https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:37 |
 | 79 | [PARADISE \(Feat\. meenoi\)](https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7) | [PARKHYUNJIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:33 |
 | 80 | [Beautiful \(Feat\. Skinny Brown\)](https://open.spotify.com/track/3J6NzKxov6PDE1LC99gXV8) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 2:54 |
 | 81 | [Daisy \(feat\. pH\-1\)](https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Daisy](https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA) | 3:09 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 | 94 | [Make A Fool](https://open.spotify.com/track/6IGrg58iOTyvFEHokceSzr) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS), [KEYMAKER](https://open.spotify.com/artist/1x42PttDj7QKjjqLrDPY2t) | [Make A Fool](https://open.spotify.com/album/0XovgqsvuleWy2SzXwN3y0) | 3:39 |
 | 95 | [Movie](https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Movie](https://open.spotify.com/album/7JI0lmKDgLtLwSDT9qvaBH) | 3:30 |
 | 96 | [Loop](https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Loop](https://open.spotify.com/album/13YenPbjzjj83sdaKux9Bf) | 2:35 |
-| 97 | [Borderline](https://open.spotify.com/track/3wNyk56POKvJWrFDVWJAEx) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [Meantime](https://open.spotify.com/album/73Qw2FLdzCRM6lCIbk9tSQ) | 3:29 |
-| 98 | [Make Love \(Feat\. Zion.T\)](https://open.spotify.com/track/36eQx4sQik7l18vOUoJemG) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 2:34 |
+| 97 | [Make Love \(Feat\. Zion.T\)](https://open.spotify.com/track/36eQx4sQik7l18vOUoJemG) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 2:34 |
+| 98 | [Borderline](https://open.spotify.com/track/3wNyk56POKvJWrFDVWJAEx) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [Meantime](https://open.spotify.com/album/73Qw2FLdzCRM6lCIbk9tSQ) | 3:29 |
 | 99 | [Mull](https://open.spotify.com/track/3R0rfIZjWpNUHNHREUvCBN) | [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI) | [Ape Into Space](https://open.spotify.com/album/6KR7vGnlkIuUKzgGAEFODW) | 2:58 |
 | 100 | [Drivin’ \(Feat\. Layone, BIG Naughty\)](https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Drivin'](https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL) | 2:42 |
 
-Snapshot ID: `MTY3MTY5OTQ2MSwwMDAwMDAwMGU1OTYzNWU5MDFjNTRhZTdjYjBmYmY0N2Y2OTc4ZDEx`
+Snapshot ID: `MTY3MTY5OTQ2MSwwMDAwMDAwMDVhOTg2YmFlNDkyMTdjMzVjNjI2MmRmZjlmYWE4Mzdh`

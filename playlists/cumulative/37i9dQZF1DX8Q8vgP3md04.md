@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-75 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/5h1kkeVebhBTJyRzBDxWOy)
+76 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/5h1kkeVebhBTJyRzBDxWOy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Kenat Wediya](https://open.spotify.com/track/4iKrEZyjF2JcC5AukB2rBF) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 4:54 | 2018-10-04 |  |
 | [Keteraraw Mado](https://open.spotify.com/track/3BxMUw1RudApjSG9emnP5K) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 6:22 | 2020-07-21 |  |
 | [Konjo Bager](https://open.spotify.com/track/0YMIDzzUtGmPVGMhBXDkzB) | [Dawit Mellesse](https://open.spotify.com/artist/6iGBGaxHab6voJ9yrhPR0V) | [Andiken](https://open.spotify.com/album/4uj9CkcVsJMJYLTVWGKeAf) | 6:13 | 2018-10-04 |  |
-| [Lageba New](https://open.spotify.com/track/1fzfKZnrbsziirj0RvGdxV) | [Gildo Kassa](https://open.spotify.com/artist/6vL0Hxfu0HWRHF33vKlHIS) | [Lageba New](https://open.spotify.com/album/1leaV7ZRJi3Cf3raJd62SW) | 3:41 | 2020-06-05 |  |
+| [Lageba New](https://open.spotify.com/track/3dUwM1SPDO9WtawRzN1otb) | [Gildo Kassa](https://open.spotify.com/artist/6vL0Hxfu0HWRHF33vKlHIS) | [Lageba New](https://open.spotify.com/album/1cLOZ7hjPx1d5qWUK1ImXY) | 3:37 | 2020-06-05 |  |
+| [Lageba New](https://open.spotify.com/track/1fzfKZnrbsziirj0RvGdxV) | [Gildo Kassa](https://open.spotify.com/artist/6vL0Hxfu0HWRHF33vKlHIS) | [Lageba New](https://open.spotify.com/album/1leaV7ZRJi3Cf3raJd62SW) | 3:41 | 2020-06-05 | 2022-12-26 |
 | [Lijay](https://open.spotify.com/track/1H8X1BVWxWlGopjmqEhle5) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [Lijay](https://open.spotify.com/album/6Q5i8LyFcC7rxILCKqXZ3N) | 5:24 | 2020-05-15 | 2022-11-13 |
 | [Lijay](https://open.spotify.com/track/38F1nH0CSPLuWYJXa2GWzl) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [To Know Without Knowing](https://open.spotify.com/album/1475ygGcXf7C3oQ4XMYkMX) | 5:24 | 2020-05-15 |  |
 | [Lijay](https://open.spotify.com/track/57BxU4uqdbl6TITWtnQDMw) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [Lijay](https://open.spotify.com/album/2z3hyHFNHnQ3h9R36uUvzO) | 5:24 | 2020-05-15 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Big Joanie",
-  "num_followers": 127429,
+  "num_followers": 127473,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDAzODA2MCwwMDAwMDAwMGVmZmRjMzg1ZThkOTlhZmQ2YTdiMDRmNmU4OGM5MDlk",
+  "snapshot_id": "MTY1NDAzODA2MCwwMDAwMDAwMGUyZjgxYWRkZWU2Y2Y5ZjY0NTAzMmFjZTUxMjNkNGQz",
   "tracks": [
     {
       "added_at": "2022-05-31 23:01:00",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
+        "name": "Bitchboy",
+        "url": "https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG"
+      },
+      "artists": [
+        {
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+        }
+      ],
+      "duration_ms": 107162,
+      "name": "Bitchboy",
+      "url": "https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
         "name": "Get Damaged",
         "url": "https://open.spotify.com/album/0UpDz8iVPhlZPRLwJVkkSk"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 173800,
       "name": "The Rent",
       "url": "https://open.spotify.com/track/61aNP3upsNJMLRdWf8Mj5v"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "Bitchboy",
-        "url": "https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG"
-      },
-      "artists": [
-        {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
-        }
-      ],
-      "duration_ms": 107162,
-      "name": "Bitchboy",
-      "url": "https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Too Young To Be In Love",
-        "url": "https://open.spotify.com/album/0PBnBbcUe9KaCmt4x6izYP"
-      },
-      "artists": [
-        {
-          "name": "Hunx & His Punx",
-          "url": "https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF"
-        }
-      ],
-      "duration_ms": 215133,
-      "name": "Lovers Lane",
-      "url": "https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Grrrl Angst",
         "url": "https://open.spotify.com/album/1joEVEBQ4YuxikhoClLGBP"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 230350,
       "name": "Nvr Pass",
       "url": "https://open.spotify.com/track/7yJLS5bbD1BbVVXaRktMxP"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Too Young To Be In Love",
+        "url": "https://open.spotify.com/album/0PBnBbcUe9KaCmt4x6izYP"
+      },
+      "artists": [
+        {
+          "name": "Hunx & His Punx",
+          "url": "https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Lovers Lane",
+      "url": "https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Personal Best",
-        "url": "https://open.spotify.com/album/2CcIyIyNax2Zim1Ii5pHRK"
-      },
-      "artists": [
-        {
-          "name": "Team Dresch",
-          "url": "https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs"
-        }
-      ],
-      "duration_ms": 165560,
-      "name": "Fagetarian and Dyke",
-      "url": "https://open.spotify.com/track/2942YKHIqF1XHp7fvp1iEN"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Night in the Woods",
         "url": "https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 183000,
       "name": "Night in the Woods",
       "url": "https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Personal Best",
+        "url": "https://open.spotify.com/album/2CcIyIyNax2Zim1Ii5pHRK"
+      },
+      "artists": [
+        {
+          "name": "Team Dresch",
+          "url": "https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs"
+        }
+      ],
+      "duration_ms": 165560,
+      "name": "Fagetarian and Dyke",
+      "url": "https://open.spotify.com/track/2942YKHIqF1XHp7fvp1iEN"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Home Recordings 2020 - 2021",
-        "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
-      },
-      "artists": [
-        {
-          "name": "Tokky Horror",
-          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
-        }
-      ],
-      "duration_ms": 188374,
-      "name": "Girlracer",
-      "url": "https://open.spotify.com/track/4GHmY6MxPzapdarlVs7yku"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Facades",
         "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 96051,
       "name": "Thick Skin",
       "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Home Recordings 2020 - 2021",
+        "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
+      },
+      "artists": [
+        {
+          "name": "Tokky Horror",
+          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
+        }
+      ],
+      "duration_ms": 188374,
+      "name": "Girlracer",
+      "url": "https://open.spotify.com/track/4GHmY6MxPzapdarlVs7yku"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Severed Ties",
-        "url": "https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ"
-      },
-      "artists": [
-        {
-          "name": "Pleasure Venom",
-          "url": "https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "Severed Ties",
-      "url": "https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "All the Sweet Stuff",
         "url": "https://open.spotify.com/album/5aoNatUKyUDGrMpL7HtsR7"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 128880,
       "name": "Queer For You",
       "url": "https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Severed Ties",
+        "url": "https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ"
+      },
+      "artists": [
+        {
+          "name": "Pleasure Venom",
+          "url": "https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "Severed Ties",
+      "url": "https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK"
     },
     {
       "added_at": "2022-05-31 23:01:00",

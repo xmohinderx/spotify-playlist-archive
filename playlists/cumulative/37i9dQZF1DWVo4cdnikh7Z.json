@@ -607,7 +607,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 207600,
       "name": "Anbe Anbe (From \"Kranti\")",
       "url": "https://open.spotify.com/track/4rx5C6KP31IYNVdpYdyPoE"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 258472,
       "name": "Azhaiyaa Mazhai (From \"Pathaan\") - Tamil Version",
       "url": "https://open.spotify.com/track/1b2tuYykyDmm5MS9aFuA3b"
@@ -1293,7 +1293,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 229000,
       "name": "Chal Chakka (From \"Gatta Kusthi\")",
       "url": "https://open.spotify.com/track/0iO26QdZLvasU26HEQw0wB"
@@ -1803,7 +1803,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 250200,
       "name": "Dhinamum Poluthu",
       "url": "https://open.spotify.com/track/506UnOCbgqpCaDURVBv2eI"
@@ -2458,6 +2458,28 @@
     },
     {
       "album": {
+        "name": "Thunivu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6yrTMquEeWzhMIdGqzXhgA"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Shabir Sulthan",
+          "url": "https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200938,
+      "name": "Gangstaa",
+      "url": "https://open.spotify.com/track/23xgRYhf7NbleK53LGwgAp"
+    },
+    {
+      "album": {
         "name": "Hey Fakira (From \"Vikrant Rona\")",
         "url": "https://open.spotify.com/album/43ndO4gxILQa1frilGM4YM"
       },
@@ -2973,6 +2995,28 @@
       "duration_ms": 184000,
       "name": "Jillu Jakkamma (From \"Vallan\")",
       "url": "https://open.spotify.com/track/7q1f2FvInsxX11sVwObCSZ"
+    },
+    {
+      "album": {
+        "name": "Varisu",
+        "url": "https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy"
+      },
+      "artists": [
+        {
+          "name": "Anirudha",
+          "url": "https://open.spotify.com/artist/2BTTr1HTBzlnRnzS3NUKED"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224095,
+      "name": "Jimikki Ponnu",
+      "url": "https://open.spotify.com/track/7fRIo7WyDxXn3r233GCcdL"
     },
     {
       "album": {
@@ -4417,7 +4461,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 237000,
       "name": "Manidha Manidha",
       "url": "https://open.spotify.com/track/7oxASfqeW0w85LAIV3Mimn"
@@ -5733,7 +5777,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 238713,
       "name": "Oonjal Manam - From \"Laththi\"",
       "url": "https://open.spotify.com/track/7fxObppSmA0YfjRv8OQZ55"
@@ -7835,7 +7879,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 252071,
       "name": "Thanimai Sirayiley (From \u201cKaalangalil Aval Vasantham\u201d)",
       "url": "https://open.spotify.com/track/0Yz0P7QzuOZ68nJQeEAC6I"
@@ -8844,6 +8888,40 @@
     },
     {
       "album": {
+        "name": "Varisu",
+        "url": "https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "Arvindh Srinivasan",
+          "url": "https://open.spotify.com/artist/5M40zpsiYOjtzb3UmDVmpu"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270048,
+      "name": "Vaa Thalaivaa",
+      "url": "https://open.spotify.com/track/4H2ILdDNn6jkE7REM5skJC"
+    },
+    {
+      "album": {
         "name": "Vaathi",
         "url": "https://open.spotify.com/album/5G0ShngTfASzTfVDOSOM5p"
       },
@@ -9289,7 +9367,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 259500,
       "name": "Venaam Thalaiva Adviceu",
       "url": "https://open.spotify.com/track/5oSFIFYf3vdzi2pkAIgk7I"

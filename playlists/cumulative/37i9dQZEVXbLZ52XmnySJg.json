@@ -859,7 +859,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 169014,
       "name": "Baazigar",
       "url": "https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG"
@@ -5665,7 +5665,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 223459,
       "name": "Kabira",
       "url": "https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c"
@@ -8970,6 +8970,32 @@
     },
     {
       "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/2ap6wepv8WNqHCxJiclPIL"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Devika Badyal",
+          "url": "https://open.spotify.com/artist/0V8aeNb0fnR2P8eZVrx3lI"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171272,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/5TjVLCESR9XIp5vDAWYfmi"
+    },
+    {
+      "album": {
         "name": "Ponni Nadhi (From \"Ponniyin Selvan Part -1\") [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/6uoefjrPMaieH3pKqBYDeM"
       },
@@ -11145,7 +11171,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 173225,
       "name": "Thenmozhi (From \"Thiruchitrambalam\")",
       "url": "https://open.spotify.com/track/1Nr46gjiP50uPsz30gYhAd"
@@ -11589,7 +11615,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 69741,
       "name": "Tum Chhupa Na Sakogi",
       "url": "https://open.spotify.com/track/06YVd30bpfbyLnfNp4Lsnf"
@@ -12231,7 +12257,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 328421,
       "name": "WOH",
       "url": "https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN"

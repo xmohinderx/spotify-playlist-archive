@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-822 songs - 2 day 0 hr 51 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+823 songs - 2 day 0 hr 54 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Acoustic](https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 2:52 | 2022-07-08 |  |
 | [Afterglow](https://open.spotify.com/track/0AQDhFnLUd32C8y3cjje9g) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Afterglow](https://open.spotify.com/album/7aPvB6eRHfZCJvBcYHJEV5) | 3:33 | 2021-12-21 |  |
 | [Aika](https://open.spotify.com/track/6A3ObfWqITF7hnfnwJFasZ) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Aika](https://open.spotify.com/album/62w4aNA0XYwzfCkekH7wJQ) | 2:53 | 2022-03-24 | 2022-04-21 |
-| [Alaska](https://open.spotify.com/track/3Ek7jLGOKPmLeILZDWJw09) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Alaska](https://open.spotify.com/album/2uEU5UuZZ57MRlKRMuxN45) | 2:21 | 2021-12-21 |  |
+| [Alaska](https://open.spotify.com/track/3Ek7jLGOKPmLeILZDWJw09) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Alaska](https://open.spotify.com/album/2uEU5UuZZ57MRlKRMuxN45) | 2:21 | 2021-12-21 | 2022-12-26 |
 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 | 2022-07-08 |  |
 | [All the Pretty Girls](https://open.spotify.com/track/2eiY8qXiV6yReXSeuoplns) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [All the Pretty Girls](https://open.spotify.com/album/4Q4O06TIoYrl7zzVIOq3OF) | 4:29 | 2022-03-24 | 2022-04-20 |
 | [All These Years \- Acoustic](https://open.spotify.com/track/2LnU1vGhTzfY07720ZUiEK) | [Eva + Manu](https://open.spotify.com/artist/2B5sOQQiIaNLa07zalNGpe) | [All These Years \(Acoustic\)](https://open.spotify.com/album/4X1bCoqcsWI030jsjVX8uI) | 4:12 | 2022-02-03 | 2022-07-26 |
@@ -261,7 +261,7 @@
 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 | 2022-02-03 |  |
 | [Gravity](https://open.spotify.com/track/2pZkh4KqcPq8VDu9u6uXl9) | [Out for Lunch](https://open.spotify.com/artist/6s2Tpew2IbZPtD3nGm11bj) | [Gravity](https://open.spotify.com/album/2NynaLn2QbS8Au4cyJBWvV) | 2:54 | 2022-03-24 | 2022-04-02 |
 | [Great American Novel](https://open.spotify.com/track/7cNOOVO42JhWr1RugzdhqA) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Great American Novel](https://open.spotify.com/album/5EJkQ3cn2Wripdg8dYyDCu) | 3:54 | 2022-01-07 | 2022-07-29 |
-| [Great American Novel](https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Max Jury](https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb) | 3:55 | 2022-07-08 |  |
+| [Great American Novel](https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Max Jury](https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb) | 3:55 | 2022-07-08 | 2022-12-26 |
 | [Green Eyes](https://open.spotify.com/track/2l8oy455DILWtrPNUSFpma) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Green Eyes](https://open.spotify.com/album/3w4mYSl2E5wvXvnf32YkcT) | 3:38 | 2022-03-29 | 2022-04-06 |
 | [Grow](https://open.spotify.com/track/0FiaroF4hBSeBpUXoxHUMl) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Things I've Never Said](https://open.spotify.com/album/4X6Ipz2wEWYuw2VwWhEa23) | 3:59 | 2022-03-24 | 2022-04-21 |
 | [H.O.L.Y\. \- Acoustic](https://open.spotify.com/track/3wH9KuHeuYHNRF2Yt6z0cc) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [The Acoustic Sessions](https://open.spotify.com/album/3GV2TdiVjl8E5XXBEuiiyX) | 3:13 | 2021-12-21 |  |
@@ -568,6 +568,7 @@
 | [Rivers](https://open.spotify.com/track/07ZkpHysDtnBHQKbEOBZ2L) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Rivers](https://open.spotify.com/album/5EaduZSE3yDgAbDoKbOTrt) | 3:56 | 2022-03-24 | 2022-04-21 |
 | [Rivers And Roads](https://open.spotify.com/track/7kgMtZHgem1PlJhuP7vbur) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/490NgrGvR5PX8hWK6bUNsy) | 4:44 | 2022-03-24 | 2022-04-21 |
 | [rock bottom](https://open.spotify.com/track/3z7pGjbbFGjPt8ne55e0YW) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH) | 2:50 | 2022-03-24 | 2022-04-20 |
+| [Room](https://open.spotify.com/track/35wU3ihUZ1RnFPW1Q5NGvT) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [EGO](https://open.spotify.com/album/6s7rkUQ60j8BI4CGDgmxBZ) | 2:52 | 2022-12-09 |  |
 | [Run \(feat\. Ed Sheeran\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:00 | 2021-12-21 | 2022-02-03 |
 | [Runaway](https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Runaway](https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5) | 3:38 | 2022-03-24 | 2022-12-10 |
 | [Safe With You](https://open.spotify.com/track/22CoODRRJboBc4tEvHY9nc) | [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [Safe With You](https://open.spotify.com/album/6XwOCQOCLeSr0N3EqFRwCt) | 3:08 | 2021-12-21 | 2022-07-23 |
@@ -656,7 +657,7 @@
 | [Strangers](https://open.spotify.com/track/3q2T2qecCAnj7XlpUnLbBW) | [eliza elliott](https://open.spotify.com/artist/0HLxtYwwRy4qx1r8utJRAq), [Leuca](https://open.spotify.com/artist/3wCg2Idgypg6OjA0uDYctR) | [Strangers](https://open.spotify.com/album/3TKvUsHoRI6haq2QbHZsdK) | 3:29 | 2022-01-07 | 2022-11-14 |
 | [Such A Simple Thing \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Spotify Singles](https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu) | 5:07 | 2022-01-07 |  |
 | [Summer Guest](https://open.spotify.com/track/2x4DW2FItY2bHdOvEm30kM) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence](https://open.spotify.com/album/69ca0kNrnT5F8jvzNpEjD8) | 3:44 | 2022-03-24 | 2022-04-20 |
-| [Summer's Gone](https://open.spotify.com/track/6PmhCEPMjhSo9j8hz767xy) | [Maria Lynn](https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j) | [Summer's Gone](https://open.spotify.com/album/0OsygaGp6HUB4fmdPPgQOh) | 3:24 | 2022-03-24 | 2022-11-14 |
+| [Summer's Gone](https://open.spotify.com/track/6PmhCEPMjhSo9j8hz767xy) | [Maria Lynn](https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j) | [Summer's Gone](https://open.spotify.com/album/0OsygaGp6HUB4fmdPPgQOh) | 3:24 | 2022-03-24 |  |
 | [Sunburn](https://open.spotify.com/track/0pgQVwI3EASJPbovhNC7Up) | [Badley](https://open.spotify.com/artist/2mnmAUiXWb5Xck3XvpU99C) | [Sunburn](https://open.spotify.com/album/0oXafULnvTaiFXCGs466Pm) | 3:39 | 2022-03-24 | 2022-03-27 |
 | [Sunlight](https://open.spotify.com/track/0RHeh77ZQtP5Q3IZIjwqPc) | [G Voz](https://open.spotify.com/artist/1J4opZ8obcxOkZ8w0z64BC) | [Rehad](https://open.spotify.com/album/4X7O8eRZUQdMFvUznYK3dr) | 3:45 | 2021-12-21 | 2022-07-27 |
 | [Sunscreen](https://open.spotify.com/track/0j7W0n2R5CfrLsUazKcIvW) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/7G7qhm9LVPD0qo3V5ed1OR) | 2:49 | 2022-03-24 | 2022-04-01 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de esta cumbia! Cover: Los \u00c1ngeles Azules.",
-  "num_followers": 235289,
+  "num_followers": 235410,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ1OTc0NSwwMDAwMDAwMGU2ODE1Njc2YTQ5M2VmNmVlOGM2YmFlZTEyNWE4Yjg5",
+  "snapshot_id": "MTY3MDQ1OTc0NSwwMDAwMDAwMDA3NjA1NWRmNWU2NDMyMzA5MDVmZTgxMzYxZDFlZDAx",
   "tracks": [
     {
       "added_at": "2022-12-08 00:35:45",
@@ -87,18 +87,18 @@
     {
       "added_at": "2022-12-08 00:35:45",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
         }
       ],
-      "duration_ms": 172626,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
     },
     {
       "added_at": "2022-12-08 00:35:45",
@@ -123,18 +123,18 @@
     {
       "added_at": "2022-12-08 00:35:45",
       "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
       "artists": [
         {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 223160,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
+      "duration_ms": 172626,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
     },
     {
       "added_at": "2022-12-08 00:35:45",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-12-08 00:35:45",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "El Chico Del Apartamento 512",
-      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
-    },
-    {
-      "added_at": "2022-12-08 00:35:45",
-      "album": {
         "name": "Pasi\u00f3n Y Cumbia",
         "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 217586,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
+    },
+    {
+      "added_at": "2022-12-08 00:35:45",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
     },
     {
       "added_at": "2022-12-08 00:35:45",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-12-08 00:35:45",
       "album": {
+        "name": "Con la Fuerza de un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
+    },
+    {
+      "added_at": "2022-12-08 00:35:45",
+      "album": {
         "name": "El Botecito",
         "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
       },
@@ -399,38 +415,6 @@
     {
       "added_at": "2022-12-08 00:35:45",
       "album": {
-        "name": "Con la Fuerza de un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
-    },
-    {
-      "added_at": "2022-12-08 00:35:45",
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
-    },
-    {
-      "added_at": "2022-12-08 00:35:45",
-      "album": {
         "name": "Guaracha Sabrosona",
         "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
       },
@@ -463,6 +447,22 @@
     {
       "added_at": "2022-12-08 00:35:45",
       "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+    },
+    {
+      "added_at": "2022-12-08 00:35:45",
+      "album": {
         "name": "La Magia Del Amor",
         "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
       },
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-12-08 00:35:45",
       "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 228675,
-      "name": "Vida No Te Vayas",
-      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
-    },
-    {
-      "added_at": "2022-12-08 00:35:45",
-      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. 3",
         "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 281129,
       "name": "Echarme Al Olvido",
       "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
+    },
+    {
+      "added_at": "2022-12-08 00:35:45",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 228675,
+      "name": "Vida No Te Vayas",
+      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
     },
     {
       "added_at": "2022-12-08 00:35:45",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-12-08 00:35:45",
       "album": {
+        "name": "Felicidad",
+        "url": "https://open.spotify.com/album/62sFaXABrQ6potGL10NAtl"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/5BAbezIjIvHR4VOMECrIv9"
+    },
+    {
+      "added_at": "2022-12-08 00:35:45",
+      "album": {
         "name": "Mal de Amores",
         "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 188333,
       "name": "Mal de Amores",
       "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"
-    },
-    {
-      "added_at": "2022-12-08 00:35:45",
-      "album": {
-        "name": "Felicidad",
-        "url": "https://open.spotify.com/album/62sFaXABrQ6potGL10NAtl"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/5BAbezIjIvHR4VOMECrIv9"
     },
     {
       "added_at": "2022-12-08 00:35:45",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-12-08 00:35:45",
       "album": {
-        "name": "Los Mejores Hits del Ano",
-        "url": "https://open.spotify.com/album/60kUtdHaTgEfTFESmWUlcV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Fragancia",
-          "url": "https://open.spotify.com/artist/0rWMayP5qWv4dno1JFiwtj"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Mariana",
-      "url": "https://open.spotify.com/track/4xFjlFkQ4zrPKGhCwe6vNW"
-    },
-    {
-      "added_at": "2022-12-08 00:35:45",
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 189040,
       "name": "Mi Ni\u00f1a Mujer",
       "url": "https://open.spotify.com/track/5T01Xvq4sH0rakGkI1T5O5"
+    },
+    {
+      "added_at": "2022-12-08 00:35:45",
+      "album": {
+        "name": "Los Mejores Hits del Ano",
+        "url": "https://open.spotify.com/album/60kUtdHaTgEfTFESmWUlcV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fragancia",
+          "url": "https://open.spotify.com/artist/0rWMayP5qWv4dno1JFiwtj"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Mariana",
+      "url": "https://open.spotify.com/track/4xFjlFkQ4zrPKGhCwe6vNW"
     },
     {
       "added_at": "2022-12-08 00:35:45",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-12-08 00:35:45",
       "album": {
+        "name": "Las Puertas del Cielo",
+        "url": "https://open.spotify.com/album/2v3ywlWkUau8iq77G5rdz9"
+      },
+      "artists": [
+        {
+          "name": "Tiberio Y Sus Gatos Negros",
+          "url": "https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Oye Traicionera",
+      "url": "https://open.spotify.com/track/5DLCicaLhdpkDYCMmhy0pT"
+    },
+    {
+      "added_at": "2022-12-08 00:35:45",
+      "album": {
         "name": "Piel A Piel",
         "url": "https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 219346,
       "name": "Destilando Amor",
       "url": "https://open.spotify.com/track/4aeteklsGBPXRfZPKN4NS5"
-    },
-    {
-      "added_at": "2022-12-08 00:35:45",
-      "album": {
-        "name": "Las Puertas del Cielo",
-        "url": "https://open.spotify.com/album/2v3ywlWkUau8iq77G5rdz9"
-      },
-      "artists": [
-        {
-          "name": "Tiberio Y Sus Gatos Negros",
-          "url": "https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Oye Traicionera",
-      "url": "https://open.spotify.com/track/5DLCicaLhdpkDYCMmhy0pT"
     },
     {
       "added_at": "2022-12-08 00:35:45",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-12-08 00:35:45",
       "album": {
-        "name": "Te Buscare",
-        "url": "https://open.spotify.com/album/6HvHWmAdXDRO75JzuX5jhd"
-      },
-      "artists": [
-        {
-          "name": "Combo Loco",
-          "url": "https://open.spotify.com/artist/0lpNzQucMihkB7jQrIzMap"
-        }
-      ],
-      "duration_ms": 234370,
-      "name": "Te Buscare",
-      "url": "https://open.spotify.com/track/67LdkJPn9mPKkJ3FFI3eDO"
-    },
-    {
-      "added_at": "2022-12-08 00:35:45",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 247000,
       "name": "El Hombre Que Yo Amo",
       "url": "https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf"
+    },
+    {
+      "added_at": "2022-12-08 00:35:45",
+      "album": {
+        "name": "Te Buscare",
+        "url": "https://open.spotify.com/album/6HvHWmAdXDRO75JzuX5jhd"
+      },
+      "artists": [
+        {
+          "name": "Combo Loco",
+          "url": "https://open.spotify.com/artist/0lpNzQucMihkB7jQrIzMap"
+        }
+      ],
+      "duration_ms": 234370,
+      "name": "Te Buscare",
+      "url": "https://open.spotify.com/track/67LdkJPn9mPKkJ3FFI3eDO"
     },
     {
       "added_at": "2022-12-08 00:35:45",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-12-08 00:35:45",
       "album": {
-        "name": "A Mis Amigos",
-        "url": "https://open.spotify.com/album/4TtMhqvX6RwhKMLed7HMHg"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza Con Su Ritmo Y Sabor",
-          "url": "https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl"
-        }
-      ],
-      "duration_ms": 279880,
-      "name": "Mi Corazon Enamorado",
-      "url": "https://open.spotify.com/track/4RWbOGWFhcnQbzafhHUSGB"
-    },
-    {
-      "added_at": "2022-12-08 00:35:45",
-      "album": {
         "name": "Transformando La Cumbia",
         "url": "https://open.spotify.com/album/0oQPPVHlGTrEPptF9mOZeZ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 254200,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/6aiOkKVEe8Mo0O3ycrrn7z"
+    },
+    {
+      "added_at": "2022-12-08 00:35:45",
+      "album": {
+        "name": "A Mis Amigos",
+        "url": "https://open.spotify.com/album/4TtMhqvX6RwhKMLed7HMHg"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza Con Su Ritmo Y Sabor",
+          "url": "https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl"
+        }
+      ],
+      "duration_ms": 279880,
+      "name": "Mi Corazon Enamorado",
+      "url": "https://open.spotify.com/track/4RWbOGWFhcnQbzafhHUSGB"
     },
     {
       "added_at": "2022-12-08 00:35:45",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-12-08 00:35:45",
       "album": {
-        "name": "From KK To Kumbia All-Starz",
-        "url": "https://open.spotify.com/album/16cRWklmy1DIKkYufsAJMb"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "Chiquilla",
-      "url": "https://open.spotify.com/track/4RcN7qGRs4OfbI8cHmqQiL"
-    },
-    {
-      "added_at": "2022-12-08 00:35:45",
-      "album": {
         "name": "No te pertenece (Radio Edit)",
         "url": "https://open.spotify.com/album/4OHH9wtBsz0yqCEpIzQHUo"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 241319,
       "name": "No te pertenece - Radio Edit",
       "url": "https://open.spotify.com/track/61d67uSTg6cBHopUve5hsS"
+    },
+    {
+      "added_at": "2022-12-08 00:35:45",
+      "album": {
+        "name": "From KK To Kumbia All-Starz",
+        "url": "https://open.spotify.com/album/16cRWklmy1DIKkYufsAJMb"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Chiquilla",
+      "url": "https://open.spotify.com/track/4RcN7qGRs4OfbI8cHmqQiL"
     },
     {
       "added_at": "2022-12-08 00:35:45",

@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-114 songs - 8 hr 26 min - not published yet
+115 songs - 8 hr 31 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cherish BOUQUET](https://open.spotify.com/track/75krmbyTl57cAF2QMZpN8U) | [渡辺みのり \(CV.高塚智人\)](https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V) | [THE IDOLM@STER SideM ORIGIN@L PIECES 08](https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh) | 3:58 | 2022-12-20 | 2022-12-22 |
 | [Compass Gripper!!!](https://open.spotify.com/track/3YLPg6OPm8I6fDSGuBtb80) | [Frame](https://open.spotify.com/artist/5qydKuymRhyMaVPUfIqh8C), [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS), [F\-LAGS](https://open.spotify.com/artist/2hxDG36JKOWI4PrBw8pisz) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 02](https://open.spotify.com/album/2NSsTgEgV6pCRYqLBCgJoS) | 3:57 | 2022-12-01 |  |
 | [Cupids!](https://open.spotify.com/track/6rWbpnLwuH4U6AtJn9077S) | [F\-LAGS](https://open.spotify.com/artist/2hxDG36JKOWI4PrBw8pisz) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 02](https://open.spotify.com/album/2NSsTgEgV6pCRYqLBCgJoS) | 4:32 | 2022-12-01 |  |
+| [Dance in the school!](https://open.spotify.com/track/7hKA7W7hgr7n2VhVjqQYtH) | [S.E.M](https://open.spotify.com/artist/2joxq49JFTnYNwmLz9EqFx) | [THE IDOLM@STER SideM GROWING SIGN@L 13 S.E.M](https://open.spotify.com/album/0UGtgMGUTtpAGR0LdzXDWE) | 4:58 | 2022-12-22 |  |
 | [Delicious Delivery](https://open.spotify.com/track/11IbasM6IQLTIBqt95iEjO) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM NEW STAGE EPISODE:04 Café Parade](https://open.spotify.com/album/7roHIRpK6NNCZLly8TfzjA) | 4:07 | 2022-12-01 |  |
 | [DRAMATIC NONFICTION](https://open.spotify.com/track/2aZIqx5SwoqZJEhhE8ZV8r) | [DRAMATIC STARS](https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43) | [THE IDOLM@STER SideM ST@RTING LINE\-02 DRAMATIC STARS](https://open.spotify.com/album/0dUz5C62qxJ4wy9Ua0IWSE) | 3:51 | 2022-12-20 |  |
 | [DRIVE A LIVE](https://open.spotify.com/track/7KSn84SXhLWyibpChERxyq) | [315 ALLSTARS](https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX) | [THE IDOLM@STER SideM 5th ANNIVERSARY 01 PRIDE STAR](https://open.spotify.com/album/1isS51QfmONRHsnfdjpWwz) | 4:44 | 2022-12-01 |  |
@@ -120,7 +121,7 @@
 | [流星PARADE](https://open.spotify.com/track/7tbKELqHnlPuUYwTZvFZ3o) | [DRAMATIC STARS](https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43), [S.E.M](https://open.spotify.com/artist/16f65kX5QJikhy2xfRMHq1), [Jupiter](https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE) | [THE IDOLM@STER SideM ANIMATION PROJECT 01 Reason!!](https://open.spotify.com/album/2dWuenMwbM25FIFG8K7ACG) | 4:33 | 2022-12-01 |  |
 | [理由あって、アイドル!](https://open.spotify.com/track/7wK09hemIqf4AxVK5DUNVR) | [EFFY](https://open.spotify.com/artist/5jNbdaPfhmYcIub0YFgUgP) | [THE IDOLM@STER SideM ANIMATION PROJECT 08 Original Soundtrack: GLORIOUS RO@D](https://open.spotify.com/album/5g7hs5KQjp31HFvi9JJQEm) | 3:48 | 2022-12-01 | 2022-12-03 |
 | [眠らぬ夜にスパシーバ!](https://open.spotify.com/track/4SJ8Erz6FFM0GsOKt5j0KO) | [Yukihiro Kamiya \(CV: Sho Karino\)](https://open.spotify.com/artist/3BIkEVhgtjHtXs1wwTtdT1), [Jiro Yamashita \(CV: Yoshiki Nakajima\)](https://open.spotify.com/artist/4zUbhdm1GyDSGMXy1K8ft5), [Chris Koron \(CV: Wataru Komada\)](https://open.spotify.com/artist/5525KflQhcAxPFnx2i2fpA) | [THE IDOLM@STER SideM WORLD TRE@SURE 09](https://open.spotify.com/album/2ISzgwWVgaMlpRy0pymmCw) | 4:18 | 2022-12-20 | 2022-12-24 |
-| [笑顔の祭りにゃ、福来る](https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 03](https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl) | 4:56 | 2022-12-13 |  |
+| [笑顔の祭りにゃ、福来る](https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 03](https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl) | 4:56 | 2022-12-13 | 2022-12-26 |
 | [装 \-So Beautiful\-](https://open.spotify.com/track/64cjGcMVZYNkElowiZrhtw) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve) | [THE IDOLM@STER SideM NEW STAGE EPISODE:14 彩](https://open.spotify.com/album/5dP6PSOVJZaHWkIF6d9At7) | 4:18 | 2022-12-01 | 2022-12-19 |
 
 \*This playlist was first scraped on 2022-12-02. Prior content cannot be recovered.

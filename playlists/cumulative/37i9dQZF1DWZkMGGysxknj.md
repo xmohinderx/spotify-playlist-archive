@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-239 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/7x6tkeswM5zsR8gwqcHjZe)
+240 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/7x6tkeswM5zsR8gwqcHjZe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Los Feliz](https://open.spotify.com/track/6qY9VrqsfBeT8Nrc1Yg8jI) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Los Feliz](https://open.spotify.com/album/0NpSYwkF7F7jrbfH1fUDaP) | 2:50 | 2021-07-16 |  |
 | [Lose You To Love Me](https://open.spotify.com/track/2S6yL9ZiV5VzugxduC4vIv) | [Jessie Blue and Zach Solomon](https://open.spotify.com/artist/6DdJ9J6G22rS3lC7VRVZtx) | [Beautiful People](https://open.spotify.com/album/05D2GqXLdj8WTJUndF8RlG) | 4:13 | 2021-07-16 |  |
 | [Lose You To Love Me \- Acoustic](https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Lose You To Love Me \(Acoustic\)](https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd) | 4:14 | 2021-07-16 |  |
+| [Losing My Religion](https://open.spotify.com/track/1KKO7lAg5RTGYaTJkkZC9E) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Thief](https://open.spotify.com/album/2WA5txUH1i8QHvOh9ptsWh) | 4:06 | 2021-07-16 |  |
 | [Losing My Religion](https://open.spotify.com/track/5gQJkOnav0JZPh32HERWYD) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Losing My Religion](https://open.spotify.com/album/64SvXrbWzFrDIykCtZ4O3r) | 4:06 | 2021-07-16 | 2022-07-29 |
 | [Lover](https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5) | [Water and Salt](https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv) | [Lover](https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm) | 4:02 | 2021-07-16 |  |
 | [Mad World \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 2:53 | 2021-07-16 |  |
@@ -221,7 +222,7 @@
 | [Un día lo encontré](https://open.spotify.com/track/3oUpoOrGSqMWXtDnZMBRtZ) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Un día lo encontré](https://open.spotify.com/album/4yw8y4WyyfYFYNeOa7ngog) | 3:00 | 2021-07-16 | 2022-07-29 |
 | [Un Día Lo Encontré](https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:00 | 2021-07-16 |  |
 | [Un Día Planté una Rosa](https://open.spotify.com/track/0PjcBblfgbaeMrWNQ80SCb) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Un Día Planté una Rosa](https://open.spotify.com/album/1ZCvBLVlfrfhpPXWVHspQk) | 2:41 | 2021-07-16 | 2022-07-29 |
-| [Una Forma de Energía Que Ilumina las Cosas](https://open.spotify.com/track/3SHUNQPRPLs8ro0wqQg1bX) | [Números Primos](https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Una Forma de Energía Que Ilumina las Cosas](https://open.spotify.com/album/0CiWilvMV56ugYkjd8Ct1O) | 3:20 | 2021-07-16 |  |
+| [Una Forma de Energía Que Ilumina las Cosas](https://open.spotify.com/track/3SHUNQPRPLs8ro0wqQg1bX) | [Números Primos](https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Una Forma de Energía Que Ilumina las Cosas](https://open.spotify.com/album/0CiWilvMV56ugYkjd8Ct1O) | 3:20 | 2021-07-16 | 2022-12-26 |
 | [Underground](https://open.spotify.com/track/7o6k7QXBptuHj0XWsatlQs) | [Billie Mercedez](https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG) | [Underground](https://open.spotify.com/album/1U1lAdEOPh4Zs5SKL8XvKS) | 2:58 | 2021-07-16 | 2022-07-29 |
 | [Valentine Shmalentine](https://open.spotify.com/track/05clJaG0NPoowlJR4sUknK) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Valentine Shmalentine](https://open.spotify.com/album/4wJfdMhH8mTiEr2e9wGWT4) | 3:58 | 2021-07-16 | 2022-07-29 |
 | [Visions](https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:55 | 2021-07-16 |  |

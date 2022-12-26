@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 19671,
+  "num_followers": 19687,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg0NjY4MCwwMDAwMDAwMDgwYWQ1MDQ1MjUwMzdmZWQ4MGRhMGQ3Yzg4NDhjZDM4",
+  "snapshot_id": "MTY0NDg0NjY4MCwwMDAwMDAwMDM2ZDlkMmE1YTgzOTJiMjc4NTJjNGI2OWU0ZTY1NjQw",
   "tracks": [
     {
       "added_at": "2022-02-14 13:51:20",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-02-14 13:51:20",
       "album": {
-        "name": "Thinking of You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 272125,
-      "name": "Thinking of You (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
-    },
-    {
-      "added_at": "2022-02-14 13:51:20",
-      "album": {
         "name": "Feet Don't Fail Me Now",
         "url": "https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 198800,
       "name": "Feet Don't Fail Me Now",
       "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
+    },
+    {
+      "added_at": "2022-02-14 13:51:20",
+      "album": {
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
     },
     {
       "added_at": "2022-02-14 13:51:20",

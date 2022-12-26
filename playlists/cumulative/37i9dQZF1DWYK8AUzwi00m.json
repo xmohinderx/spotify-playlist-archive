@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "all i want for christmas is lofi",
+        "url": "https://open.spotify.com/album/1wG31235BfrJ6nbjRmArhT"
+      },
+      "artists": [
+        {
+          "name": "Kumo City",
+          "url": "https://open.spotify.com/artist/0WLyZCjbiZcpPPfM73TtmA"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "all i want for christmas is lofi",
+      "url": "https://open.spotify.com/track/7rNTCi9j9WIc1kxQSor5Ak"
+    },
+    {
+      "album": {
         "name": "all i want for christmas is you",
         "url": "https://open.spotify.com/album/5aOjU3qM5OTjAdYHSemefq"
       },
@@ -2624,6 +2642,24 @@
     },
     {
       "album": {
+        "name": "A Lofi Christmas",
+        "url": "https://open.spotify.com/album/4V4BG0eK6dGRVTR41PoUZb"
+      },
+      "artists": [
+        {
+          "name": "Kris Kringle",
+          "url": "https://open.spotify.com/artist/6MYYrraavGyfyHiV0HMGiU"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156279,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/7oI18fYvFsZGJ20q1NG05s"
+    },
+    {
+      "album": {
         "name": "Last Christmas Lo-Fi",
         "url": "https://open.spotify.com/album/1CoBx7PxXi70TtCustoOcq"
       },
@@ -4499,6 +4535,28 @@
       "duration_ms": 117124,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/4JwPTsnZYEl85SZhtiDgYR"
+    },
+    {
+      "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/3HwZFyER0XsknO8inC4SVS"
+      },
+      "artists": [
+        {
+          "name": "luv pug",
+          "url": "https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q"
+        },
+        {
+          "name": "Spaniel Mac",
+          "url": "https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129836,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/4ZX6yH8H5nNldN8h34AQto"
     },
     {
       "album": {

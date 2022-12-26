@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 320163,
+  "num_followers": 320271,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDE4ZDUxZDVlMDY1ZjA1NTM3NDQyNDk0MDhkMWRhMDNj",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDAxYWYxOTEyNjQ4OWE4YzFkY2VmZGE4YmEwZDBkYzdm",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1213,24 +1213,20 @@
       "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2021-01-22 10:35:47",
       "album": {
-        "name": "Slaughter In the Suburbs",
-        "url": "https://open.spotify.com/album/19OgQG7EqDdFfjPktRfmrJ"
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl"
       },
       "artists": [
         {
-          "name": "Kid Kasino",
-          "url": "https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD"
-        },
-        {
-          "name": "Shea",
-          "url": "https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0"
+          "name": "Swingrowers",
+          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
         }
       ],
-      "duration_ms": 213015,
-      "name": "Headless Horseman",
-      "url": "https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu"
+      "duration_ms": 213120,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1253,20 +1249,24 @@
       "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
     },
     {
-      "added_at": "2021-01-22 10:35:47",
+      "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl"
+        "name": "Slaughter In the Suburbs",
+        "url": "https://open.spotify.com/album/19OgQG7EqDdFfjPktRfmrJ"
       },
       "artists": [
         {
-          "name": "Swingrowers",
-          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
+          "name": "Kid Kasino",
+          "url": "https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD"
+        },
+        {
+          "name": "Shea",
+          "url": "https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0"
         }
       ],
-      "duration_ms": 213120,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
+      "duration_ms": 213015,
+      "name": "Headless Horseman",
+      "url": "https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu"
     },
     {
       "added_at": "2020-10-30 09:06:04",

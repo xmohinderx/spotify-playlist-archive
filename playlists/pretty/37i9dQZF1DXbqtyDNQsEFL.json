@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 26790,
+  "num_followers": 26851,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDRhOGY1Y2NhMjExOTdiMGJiY2U0ZjVlZTIxMzBjZTlh",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGU0NGU1OTBiMTFhOWZiOWNiYWU0Mzk3NWQ5MThhNGIw",
   "tracks": [
     {
       "added_at": "2022-09-09 09:05:38",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "The Hill",
-        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 591333,
-      "name": "Made A Way",
-      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
         "name": "Lion of Judah",
         "url": "https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 316280,
       "name": "Lion of Judah",
       "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 591333,
+      "name": "Made A Way",
+      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "Better Me",
-        "url": "https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So"
-      },
-      "artists": [
-        {
-          "name": "MOGmusic",
-          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
-        }
-      ],
-      "duration_ms": 505147,
-      "name": "Be Lifted (Live)",
-      "url": "https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
         "name": "Yes And Amen",
         "url": "https://open.spotify.com/album/2FEhibjz3n9PCtrwNiC1fH"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 405865,
       "name": "You Are Worthy",
       "url": "https://open.spotify.com/track/0BTicoVlzcnlfMK2W8RJdW"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "Better Me",
+        "url": "https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So"
+      },
+      "artists": [
+        {
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
+        }
+      ],
+      "duration_ms": 505147,
+      "name": "Be Lifted (Live)",
+      "url": "https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/4zMwX6dhKL54LaRTp7quwO"
     },
     {
-      "added_at": "2022-08-12 05:34:00",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/2EkC0qivZmtC9WmfLrmaZV"
-      },
-      "artists": [
-        {
-          "name": "MOGmusic",
-          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
-        }
-      ],
-      "duration_ms": 303674,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/1ei1YUmhJwUPZOXicTNjFW"
-    },
-    {
       "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "ALONE WITH GOD (Spontaneous Worship)",
@@ -1055,6 +1039,22 @@
       "duration_ms": 2526933,
       "name": "ALONE WITH GOD (Spontaneous Worship)",
       "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
+    },
+    {
+      "added_at": "2022-08-12 05:34:00",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/2EkC0qivZmtC9WmfLrmaZV"
+      },
+      "artists": [
+        {
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
+        }
+      ],
+      "duration_ms": 303674,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/1ei1YUmhJwUPZOXicTNjFW"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 408856,
-      "name": "Mensuro",
-      "url": "https://open.spotify.com/track/1cM5uGt3561vmeY5wHQBnY"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
         "name": "Revival Is In The Air (RIITA)",
         "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 272000,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 408856,
+      "name": "Mensuro",
+      "url": "https://open.spotify.com/track/1cM5uGt3561vmeY5wHQBnY"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -1269,38 +1269,6 @@
       "url": "https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO"
     },
     {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
-        "name": "Who Else",
-        "url": "https://open.spotify.com/album/77T5fBnTJSgDT0nHrUseTO"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Who Else (Single Mix)",
-      "url": "https://open.spotify.com/track/16i9L55SPprkbqR0Z13c3C"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
-        "name": "IBUKA",
-        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 302608,
-      "name": "IBUKA",
-      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
-    },
-    {
       "added_at": "2022-09-09 09:05:38",
       "album": {
         "name": "NEVER FORGET",
@@ -1327,6 +1295,22 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
+        "name": "IBUKA",
+        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 302608,
+      "name": "IBUKA",
+      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
         "name": "Nailed (Live)",
         "url": "https://open.spotify.com/album/5A7aEdbhlul1CR8z99TMIC"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 397531,
       "name": "Nailed - Live",
       "url": "https://open.spotify.com/track/023LkJYmuKsq8D27i0UC5K"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "Who Else",
+        "url": "https://open.spotify.com/album/77T5fBnTJSgDT0nHrUseTO"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Who Else (Single Mix)",
+      "url": "https://open.spotify.com/track/16i9L55SPprkbqR0Z13c3C"
     },
     {
       "added_at": "2022-06-09 11:11:30",

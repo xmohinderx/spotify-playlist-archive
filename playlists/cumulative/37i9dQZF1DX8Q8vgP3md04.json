@@ -771,7 +771,7 @@
     {
       "album": {
         "name": "Lageba New",
-        "url": "https://open.spotify.com/album/1leaV7ZRJi3Cf3raJd62SW"
+        "url": "https://open.spotify.com/album/1cLOZ7hjPx1d5qWUK1ImXY"
       },
       "artists": [
         {
@@ -782,6 +782,24 @@
       "date_added": "2020-06-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Lageba New",
+      "url": "https://open.spotify.com/track/3dUwM1SPDO9WtawRzN1otb"
+    },
+    {
+      "album": {
+        "name": "Lageba New",
+        "url": "https://open.spotify.com/album/1leaV7ZRJi3Cf3raJd62SW"
+      },
+      "artists": [
+        {
+          "name": "Gildo Kassa",
+          "url": "https://open.spotify.com/artist/6vL0Hxfu0HWRHF33vKlHIS"
+        }
+      ],
+      "date_added": "2020-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
       "duration_ms": 221681,
       "name": "Lageba New",
       "url": "https://open.spotify.com/track/1fzfKZnrbsziirj0RvGdxV"

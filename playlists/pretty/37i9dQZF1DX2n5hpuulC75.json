@@ -1,13 +1,29 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 244707,
+  "num_followers": 244755,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDRiOGJhZTI5NjM5MmM2ZDhhOTcwNmQ5YmEyMmFlNGY0",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDRiY2Q3ZmMzZTAxNTA5ZGE5OGEzYzA4YjUwMGE1MzE2",
   "tracks": [
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Twister",
+        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1f5eDiILUNeftOB26e6LB1"
+    },
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 252121,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Twister",
-        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/1f5eDiILUNeftOB26e6LB1"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -115,22 +115,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/4Fzw1NdiDb9pGJPRAVlKXv"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        }
-      ],
-      "duration_ms": 231131,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4gRuC34ZpRcpVXxMXM1csQ"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Theres Still Us",
         "url": "https://open.spotify.com/album/3YjNmDFxVL4IkODiF0cPwp"
       },
@@ -151,18 +135,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
+        "name": "You",
+        "url": "https://open.spotify.com/album/4Fzw1NdiDb9pGJPRAVlKXv"
       },
       "artists": [
         {
-          "name": "In Love With a Ghost",
-          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
         }
       ],
-      "duration_ms": 199603,
-      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
-      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
+      "duration_ms": 231131,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4gRuC34ZpRcpVXxMXM1csQ"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -211,6 +195,22 @@
       "duration_ms": 166344,
       "name": "By",
       "url": "https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
+      },
+      "artists": [
+        {
+          "name": "In Love With a Ghost",
+          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
+        }
+      ],
+      "duration_ms": 199603,
+      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
+      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -399,26 +399,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Unusable Love",
-        "url": "https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p"
-      },
-      "artists": [
-        {
-          "name": "El Ten Eleven",
-          "url": "https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0"
-        },
-        {
-          "name": "E. Mosseri",
-          "url": "https://open.spotify.com/artist/6uGJAxVdyHS0giyh2TzRWI"
-        }
-      ],
-      "duration_ms": 281110,
-      "name": "I'm Right Here",
-      "url": "https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
         "url": "https://open.spotify.com/album/21iBuI7GQwUDkBPErWjPi0"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 200504,
       "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
       "url": "https://open.spotify.com/track/28atUbzCFihH4GA3dU1gVM"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Unusable Love",
+        "url": "https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p"
+      },
+      "artists": [
+        {
+          "name": "El Ten Eleven",
+          "url": "https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0"
+        },
+        {
+          "name": "E. Mosseri",
+          "url": "https://open.spotify.com/artist/6uGJAxVdyHS0giyh2TzRWI"
+        }
+      ],
+      "duration_ms": 281110,
+      "name": "I'm Right Here",
+      "url": "https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -579,6 +579,22 @@
     {
       "added_at": "2019-05-24 08:01:00",
       "album": {
+        "name": "Aisle of Palm",
+        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
+      },
+      "artists": [
+        {
+          "name": "Beshken",
+          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
+        }
+      ],
+      "duration_ms": 218311,
+      "name": "White Gemini",
+      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
         "name": "another time (world$tar money)",
         "url": "https://open.spotify.com/album/0bMuRzy7dDIfKgliEaw4DV"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 181681,
       "name": "another time (world$tar money)",
       "url": "https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy"
-    },
-    {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "Aisle of Palm",
-        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
-      },
-      "artists": [
-        {
-          "name": "Beshken",
-          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
-        }
-      ],
-      "duration_ms": 218311,
-      "name": "White Gemini",
-      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -757,20 +757,20 @@
       "url": "https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
+      "added_at": "2019-03-18 20:29:35",
       "album": {
-        "name": "Surf",
-        "url": "https://open.spotify.com/album/2CV3nKfQHHtPujj2jizzig"
+        "name": "Never Meant to Call",
+        "url": "https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S"
       },
       "artists": [
         {
-          "name": "Common Tiger",
-          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
         }
       ],
-      "duration_ms": 175412,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI"
+      "duration_ms": 177600,
+      "name": "Never Meant To Call",
+      "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
     },
     {
       "added_at": "2019-06-07 08:01:00",
@@ -789,20 +789,20 @@
       "url": "https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u"
     },
     {
-      "added_at": "2019-03-18 20:29:35",
+      "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Never Meant to Call",
-        "url": "https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S"
+        "name": "Surf",
+        "url": "https://open.spotify.com/album/2CV3nKfQHHtPujj2jizzig"
       },
       "artists": [
         {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+          "name": "Common Tiger",
+          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Never Meant To Call",
-      "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
+      "duration_ms": 175412,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -851,6 +851,26 @@
       "duration_ms": 189445,
       "name": "Canyon",
       "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Woodstock (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        }
+      ],
+      "duration_ms": 194434,
+      "name": "Feel It Still - Medasin Remix",
+      "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -919,26 +939,6 @@
       "duration_ms": 208706,
       "name": "Get Light",
       "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Woodstock (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Medasin",
-          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
-        }
-      ],
-      "duration_ms": 194434,
-      "name": "Feel It Still - Medasin Remix",
-      "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
     },
     {
       "added_at": "2018-12-11 21:12:31",

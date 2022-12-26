@@ -1982,6 +1982,36 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 03 Xs",
+        "url": "https://open.spotify.com/album/6bRm5kHYUxrQIsLhVUn5oX"
+      },
+      "artists": [
+        {
+          "name": "\u661f\u4e95\u7f8e\u5e0c (CV.\u9577\u8c37\u5ddd\u660e\u5b50)",
+          "url": "https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi"
+        },
+        {
+          "name": "\u8429\u539f\u96ea\u6b69 (CV.\u6d45\u5009\u674f\u7f8e)",
+          "url": "https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh"
+        },
+        {
+          "name": "Makoto Kikuchi (CV: Hiromi Hirata)",
+          "url": "https://open.spotify.com/artist/0BFGQalWMJTIDXhAeqcCYv"
+        },
+        {
+          "name": "Iori Minase (CV: Rie Kugimiya)",
+          "url": "https://open.spotify.com/artist/6B6buazGVRebZ48YqRHnqd"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "\u30e9\u30d3\u30c3\u30c8\u30d5\u30a1\u30fc",
+      "url": "https://open.spotify.com/track/1O0Pn9LLqFfbPfVaRD0Dpi"
+    },
+    {
+      "album": {
         "name": "\u30ea\u30d5\u30ec\u30a4\u30f3\u30ad\u30b9 (Brand New Ver.)",
         "url": "https://open.spotify.com/album/5M761lw0DidVCkXofyhDu5"
       },
@@ -2513,7 +2543,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 249268,
       "name": "\u8ffd\u61b6\u306e\u30b5\u30f3\u30c9\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/0W0fe3R67arSnK3dJkeDi9"

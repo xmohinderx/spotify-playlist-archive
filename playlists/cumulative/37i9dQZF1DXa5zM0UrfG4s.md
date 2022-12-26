@@ -4,7 +4,7 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Hagle
 
-268 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
+269 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Goddess](https://open.spotify.com/track/0w1Qg8R267fYdcPDDi2Yoj) | [Olje](https://open.spotify.com/artist/0DA5Q5urbnY2wrnXF5hTVp) | [Goddess](https://open.spotify.com/album/53BLBDKlPB8fvOQwifBiRB) | 2:40 | 2022-04-28 | 2022-05-28 |
 | [Granada](https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Ungkar med dobbelseng](https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y) | 3:10 | 2022-07-28 |  |
 | [Granada](https://open.spotify.com/track/7mBxJDprUn3C1uRWBe3DJa) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Ungkar Med Dobbelseng](https://open.spotify.com/album/1s98zJHIwTJg5nBkkEeBRo) | 3:10 | 2021-12-16 | 2022-07-20 |
-| [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x) | 2:38 | 2022-01-06 |  |
+| [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x) | 2:38 | 2022-01-06 | 2022-12-26 |
 | [Ha Mer](https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [ZL](https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA) | [Ha Mer](https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to) | 2:12 | 2022-08-25 |  |
 | [HAALAND](https://open.spotify.com/track/0LOCSZsi6mwN14aWHi8VCI) | [Kevin Lauren](https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1), [BEK & Moberg](https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X) | [HAALAND](https://open.spotify.com/album/6oBrrSkRLcvyVWe9ZwIvMl) | 1:44 | 2022-08-31 | 2022-10-14 |
 | [Hardanger](https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Hardanger](https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt) | 3:56 | 2021-12-16 | 2022-10-16 |
@@ -126,6 +126,7 @@
 | [Hytta Mi](https://open.spotify.com/track/7y2Zz2AytRttQLdCjwRQ15) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hytta Mi](https://open.spotify.com/album/5JRkrEQSgGTQqjSYDDk4Oc) | 2:18 | 2022-02-24 | 2022-10-14 |
 | [Hyttetur](https://open.spotify.com/track/61uGtEPHDTwYDVwI7kMMFY) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Hyttetur](https://open.spotify.com/album/4HDNQrYhtgJEWQwT6cvDZk) | 2:43 | 2021-12-16 | 2022-07-20 |
 | [Hyttetur med gutta \- Kid Chutney Remix](https://open.spotify.com/track/6g2NTkdZtcQwQSZ3YVPLYE) | [Egil Ellevill](https://open.spotify.com/artist/3IzJ0vCw2AxthbKOLhGnQa), [Jack Dee](https://open.spotify.com/artist/1O4AnKY2Rp3ZNM5EmUqJrd), [Kid Chutney](https://open.spotify.com/artist/0vFUgEB0ITOpmHUpAb5XCM) | [Hyttetur med gutta \(Kid Chutney Remix\)](https://open.spotify.com/album/1j3u5svkDdOXSeqpnHeW1w) | 2:24 | 2022-01-20 | 2022-07-06 |
+| [Hälsa Gud](https://open.spotify.com/track/4owtkzhI4uCeagbsgTajFg) | [JENTAN](https://open.spotify.com/artist/4MEouD4sJ7R7RS4AWPmLH8), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [Hälsa Gud](https://open.spotify.com/album/7imYelkBM9wWrcy8syQgDd) | 2:30 | 2022-12-22 |  |
 | [Håper du er lykkelig nå](https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH) | [River](https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5), [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Håper du er lykkelig nå](https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7) | 2:59 | 2021-12-16 | 2022-11-14 |
 | [Håper du er lykkelig nå](https://open.spotify.com/track/75iyWZ7FM8t5dm1nAvFo4d) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Håper du er lykkelig nå](https://open.spotify.com/album/6d3FqU5T8ReEejG5a8lUFs) | 2:59 | 2021-12-16 | 2022-07-26 |
 | [Hæljetur](https://open.spotify.com/track/4Yr9mAAOu4BtQ1tGf0WjOS) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hæljetur](https://open.spotify.com/album/2GbMwa9XGFYyrZd5fvjIy7) | 2:25 | 2021-12-16 | 2022-07-28 |

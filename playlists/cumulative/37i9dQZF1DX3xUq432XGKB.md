@@ -4,7 +4,7 @@
 
 > Porter Robinson takes over the Guest List, featuring artists on this year's Second Sky lineup! Second Sky takes place October 29th, 2022 and tickets are available <a href="https://secondskyfest.com/">here</a>.
 
-100 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
+102 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [IN IN IN](https://open.spotify.com/track/3APSXl8dTTumv9L1HHpCCV) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/3DRPWHi5HizuPPgVj9JiFJ) | 3:17 | 2021-03-16 | 2022-10-19 |
 | [IN IN IN](https://open.spotify.com/track/6s5fztn7rjtRs2gGdP9n7t) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 3:17 | 2021-03-16 | 2022-10-13 |
 | [In the Morning](https://open.spotify.com/track/3pRyeZCIGdaO84RSBj9Bj7) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 4:06 | 2021-03-16 | 2022-10-19 |
-| [Jennifer](https://open.spotify.com/track/3YlUuMG4Guve8SxlxYqJ2W) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Jennifer](https://open.spotify.com/album/4IluqHZGQUxXellf1ycOYt) | 2:34 | 2021-03-16 |  |
+| [Jennifer](https://open.spotify.com/track/3H1mZpn3YUMS8wk96Chzog) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Jennifer](https://open.spotify.com/album/6470RiN3kfaRpooIh8gksh) | 2:34 | 2022-10-21 |  |
+| [Jennifer](https://open.spotify.com/track/3YlUuMG4Guve8SxlxYqJ2W) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Jennifer](https://open.spotify.com/album/4IluqHZGQUxXellf1ycOYt) | 2:34 | 2021-03-16 | 2022-12-26 |
 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 | 2022-10-18 |  |
 | [Killshot](https://open.spotify.com/track/0LJTfmgOMvlLd0u4HU9twm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [A Little Rhythm and a Wicked Feeling](https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc) | 3:56 | 2022-10-18 |  |
 | [Kimiga iine kuretara](https://open.spotify.com/track/1gBn1DsjOMllcU0LYQFGEm) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Kimiga iine kuretara](https://open.spotify.com/album/6x1dAhEcVp22ScAsfoEcCQ) | 3:43 | 2022-10-21 | 2022-11-13 |
@@ -98,7 +99,8 @@
 | [Ultra Pool](https://open.spotify.com/track/5ImmZZSkWdwqXDElBjUsdE) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Ultra Pool](https://open.spotify.com/album/1Ao4MJ2GKDgYs6XYgv1aBq) | 4:21 | 2022-10-18 |  |
 | [Understanding the Possibility](https://open.spotify.com/track/6IjuLWPRLmCYsfZIajtALJ) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [Understanding the Possibility](https://open.spotify.com/album/7qJjc1XYydl2r6I6RogrB9) | 4:33 | 2022-10-18 |  |
 | [unearth me](https://open.spotify.com/track/0Uq8EBEXYFBGcPTKlTtRdT) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/6s7TtMHRcoy8D0ipc0wmjE) | 3:25 | 2021-03-16 | 2022-10-19 |
-| [Want U There](https://open.spotify.com/track/6bgUfXTnC8XCnsTkiucJtD) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Want U There](https://open.spotify.com/album/4nbLoYqrWa7FZ6v0Cvp6Jq) | 2:56 | 2022-10-18 |  |
+| [Want U There](https://open.spotify.com/track/3wqYbseRjx11Bh2lJvmGxi) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Want U There](https://open.spotify.com/album/1ZqEcXM0VTfPN0LnMTvBvp) | 2:56 | 2022-10-21 |  |
+| [Want U There](https://open.spotify.com/track/6bgUfXTnC8XCnsTkiucJtD) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Want U There](https://open.spotify.com/album/4nbLoYqrWa7FZ6v0Cvp6Jq) | 2:56 | 2022-10-18 | 2022-12-26 |
 | [Wanted](https://open.spotify.com/track/6DmyAvH1MeAoqWApThDHTM) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Wanted](https://open.spotify.com/album/3dlPrX23qvVuXUBRInIJy8) | 2:58 | 2021-03-16 | 2022-10-19 |
 | [Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Trash Island](https://open.spotify.com/album/30zy3JHuDxZbBWGf8rGZGX) | 2:00 | 2022-10-18 |  |
 | [Whole House](https://open.spotify.com/track/6rbpsdhGF86u7Eu1Ew8iVK) | [Lolawolf](https://open.spotify.com/artist/6ABaV7mB6WIZKgfEEtWCf8) | [Tenderness](https://open.spotify.com/album/67v0qu708WJVT9rxxdZmh1) | 3:02 | 2021-03-16 | 2022-10-19 |

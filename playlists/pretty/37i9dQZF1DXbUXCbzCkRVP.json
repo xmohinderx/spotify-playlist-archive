@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 24006,
+  "num_followers": 24051,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1ODkzMSwwMDAwMDAwMGRhODVmMTIyZGYyOWI4YTgyMmVlZDQ2NWM4NGNlNmYw",
+  "snapshot_id": "MTY3MTU1ODkzMSwwMDAwMDAwMDFjNThmNjg0ZGZiYWZlNjc0MjNmZWZjM2U0ZTEzOThi",
   "tracks": [
     {
       "added_at": "2022-12-02 14:15:18",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-12-02 14:15:18",
       "album": {
-        "name": "Ultimate Collection",
-        "url": "https://open.spotify.com/album/6CbrZqDIfD8TDS4xrXC8MS"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "San-Ho-Zay",
-      "url": "https://open.spotify.com/track/54tnyfQvFNTCNjhvH540CU"
-    },
-    {
-      "added_at": "2022-12-02 14:15:18",
-      "album": {
         "name": "Guitar",
         "url": "https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 294413,
       "name": "Blues 'Fore Dawn - Instrumental",
       "url": "https://open.spotify.com/track/3zVx7964ROy15h1lC7fhzD"
+    },
+    {
+      "added_at": "2022-12-02 14:15:18",
+      "album": {
+        "name": "Ultimate Collection",
+        "url": "https://open.spotify.com/album/6CbrZqDIfD8TDS4xrXC8MS"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "San-Ho-Zay",
+      "url": "https://open.spotify.com/track/54tnyfQvFNTCNjhvH540CU"
     },
     {
       "added_at": "2022-12-02 14:15:18",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-12-02 14:15:18",
       "album": {
+        "name": "Don't Be Late",
+        "url": "https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P"
+      },
+      "artists": [
+        {
+          "name": "Serenity State of Mind",
+          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
+        }
+      ],
+      "duration_ms": 166436,
+      "name": "Don't Be Late",
+      "url": "https://open.spotify.com/track/1CT03EZWEzeePJs8nYvZHu"
+    },
+    {
+      "added_at": "2022-12-02 14:15:18",
+      "album": {
         "name": "Mercy Me",
         "url": "https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 463400,
       "name": "Blues For Duke Robillard",
       "url": "https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk"
-    },
-    {
-      "added_at": "2022-12-02 14:15:18",
-      "album": {
-        "name": "Don't Be Late",
-        "url": "https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P"
-      },
-      "artists": [
-        {
-          "name": "Serenity State of Mind",
-          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
-        }
-      ],
-      "duration_ms": 166436,
-      "name": "Don't Be Late",
-      "url": "https://open.spotify.com/track/1CT03EZWEzeePJs8nYvZHu"
     },
     {
       "added_at": "2022-12-02 14:15:18",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-12-02 14:15:18",
       "album": {
-        "name": "Night Train",
-        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Forrest",
-          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
-        }
-      ],
-      "duration_ms": 179440,
-      "name": "Night Train",
-      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
-    },
-    {
-      "added_at": "2022-12-02 14:15:18",
-      "album": {
         "name": "Blueprint (Remastered 2017)",
         "url": "https://open.spotify.com/album/31Sza8aKnWhwkUtcBdQfML"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 170441,
       "name": "Unmilitary Two-Step",
       "url": "https://open.spotify.com/track/6rkKAYvMwrYUK2Ub1CARFL"
+    },
+    {
+      "added_at": "2022-12-02 14:15:18",
+      "album": {
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Forrest",
+          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
+        }
+      ],
+      "duration_ms": 179440,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
     },
     {
       "added_at": "2022-12-02 14:15:18",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-12-02 14:15:18",
       "album": {
-        "name": "Mellow Blues",
-        "url": "https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq"
-      },
-      "artists": [
-        {
-          "name": "Sonny Thompson",
-          "url": "https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR"
-        }
-      ],
-      "duration_ms": 344266,
-      "name": "Long gone",
-      "url": "https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z"
-    },
-    {
-      "added_at": "2022-12-02 14:15:18",
-      "album": {
         "name": "Boedo's Blues",
         "url": "https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 133088,
       "name": "Boedo's Blues",
       "url": "https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7"
+    },
+    {
+      "added_at": "2022-12-02 14:15:18",
+      "album": {
+        "name": "Mellow Blues",
+        "url": "https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq"
+      },
+      "artists": [
+        {
+          "name": "Sonny Thompson",
+          "url": "https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR"
+        }
+      ],
+      "duration_ms": 344266,
+      "name": "Long gone",
+      "url": "https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z"
     },
     {
       "added_at": "2022-12-02 14:15:18",

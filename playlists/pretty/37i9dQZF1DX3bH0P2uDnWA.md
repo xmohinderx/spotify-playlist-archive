@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,163 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,271 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 65 | [Mr Magpie \- Jamie Berry Remix](https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY), [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [The Electric Swing Circus \- Remixed Vol\. 1](https://open.spotify.com/album/4u9XMOUCEU0NG39YcCnql0) | 3:44 |
 | 66 | [Don't Stop](https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Don't Stop](https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2) | 3:02 |
 | 67 | [Code Red](https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN) | [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Code Red](https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9) | 3:48 |
-| 68 | [Headless Horseman](https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu) | [Kid Kasino](https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD), [Shea](https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0) | [Slaughter In the Suburbs](https://open.spotify.com/album/19OgQG7EqDdFfjPktRfmrJ) | 3:33 |
+| 68 | [Rose](https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Rose](https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl) | 3:33 |
 | 69 | [My 20s Woman](https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Phos Toni](https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5) | [My 20s Woman](https://open.spotify.com/album/1fyfPMEPW6VBGtaxVWNI0A) | 3:06 |
-| 70 | [Rose](https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Rose](https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl) | 3:33 |
+| 70 | [Headless Horseman](https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu) | [Kid Kasino](https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD), [Shea](https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0) | [Slaughter In the Suburbs](https://open.spotify.com/album/19OgQG7EqDdFfjPktRfmrJ) | 3:33 |
 | 71 | [Allez Viens \(Via Con Me\) \[feat\. Pierre Santini & Lada Redstar\]](https://open.spotify.com/track/15gUb7QKP6PlbXxxTJm2T4) | [Bart & Baker](https://open.spotify.com/artist/1SqMdUGzBNOFB8rDdtiOxN), [Pierre Santini](https://open.spotify.com/artist/2sERfmcDISRbdIvSwc1srm), [Lada Redstar](https://open.spotify.com/artist/2hvVzDZUDCDV1CMEYefruX) | [Introducing, Bart&Baker](https://open.spotify.com/album/4nkLzdBaKeAHz0MqMWDjf9) | 3:29 |
 | 72 | [1925](https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [1925](https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe) | 2:44 |
 | 73 | [Day & Night](https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Day & Night](https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE) | 4:07 |
 | 74 | [Big Blue Swing](https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Big Blue Swing](https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7) | 3:47 |
 | 75 | [Miss Her](https://open.spotify.com/track/3VpLkugcSbYuDSOBKNxFaQ) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8), [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf) | [Bubbles](https://open.spotify.com/album/73KjLxHjBCmF1MF3Iw5405) | 4:02 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDE4ZDUxZDVlMDY1ZjA1NTM3NDQyNDk0MDhkMWRhMDNj`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDAxYWYxOTEyNjQ4OWE4YzFkY2VmZGE4YmEwZDBkYzdm`

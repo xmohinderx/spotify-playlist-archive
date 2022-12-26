@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 104267,
+  "num_followers": 104998,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTgwMDY5MywwMDAwMDAwMDRhZjZjYmIzMjc0MmVmZDg1Y2I2YTRmOTRhMzY1ZjU0",
+  "snapshot_id": "MTY3MTgwMDY5MywwMDAwMDAwMGI2YjIwNGIwOWFjNDQ0MjFmZTQ5NjBmMmMzNmU5ODNh",
   "tracks": [
     {
       "added_at": "2022-12-23 13:04:53",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "(There's No Place Like) Home for the Holidays - 1954 Version",
-      "url": "https://open.spotify.com/track/5mKxNjNnRFpO9Muzw3Ug0u"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
         "name": "The Dean Martin Christmas Album",
         "url": "https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 148480,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/5PCS7feLWXvEsp5s5fSpXe"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "(There's No Place Like) Home for the Holidays - 1954 Version",
+      "url": "https://open.spotify.com/track/5mKxNjNnRFpO9Muzw3Ug0u"
     },
     {
       "added_at": "2022-12-23 13:04:53",
@@ -559,6 +559,38 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
+        "name": "The Song Society Playlist",
+        "url": "https://open.spotify.com/album/2FrMkEgtQ6uITrWSoO07zX"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 253388,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/78buvo4nEf1G7ir4QubyuN"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
+        "name": "This Time Of The Year",
+        "url": "https://open.spotify.com/album/0szcykJDXIrks6ETFZF6Zw"
+      },
+      "artists": [
+        {
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+        }
+      ],
+      "duration_ms": 129533,
+      "name": "The Merriest",
+      "url": "https://open.spotify.com/track/2hDdstWRM7fF0Tf1RZmduM"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
         "name": "Breaking It Up!",
         "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
       },
@@ -595,54 +627,6 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
-        "name": "This is Christmas",
-        "url": "https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d"
-      },
-      "artists": [
-        {
-          "name": "Tasha Layton",
-          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
-        }
-      ],
-      "duration_ms": 185030,
-      "name": "Diddly Squat",
-      "url": "https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
-        "name": "The Song Society Playlist",
-        "url": "https://open.spotify.com/album/2FrMkEgtQ6uITrWSoO07zX"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 253388,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/78buvo4nEf1G7ir4QubyuN"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
-        "name": "This Time Of The Year",
-        "url": "https://open.spotify.com/album/0szcykJDXIrks6ETFZF6Zw"
-      },
-      "artists": [
-        {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
-        }
-      ],
-      "duration_ms": 129533,
-      "name": "The Merriest",
-      "url": "https://open.spotify.com/track/2hDdstWRM7fF0Tf1RZmduM"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
         "name": "Mr. Christmas",
         "url": "https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 216042,
       "name": "Mr. Christmas",
       "url": "https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
+        "name": "This is Christmas",
+        "url": "https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "duration_ms": 185030,
+      "name": "Diddly Squat",
+      "url": "https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2"
     },
     {
       "added_at": "2022-12-23 13:04:53",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
+        "name": "Show Me The Magic",
+        "url": "https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 150412,
+      "name": "Show Me The Magic",
+      "url": "https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
         "name": "The Season's Back Again",
         "url": "https://open.spotify.com/album/1TFxAeGNb72icOOpa5jxHE"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 176379,
       "name": "The Very Best Day This Year",
       "url": "https://open.spotify.com/track/4tS8ySaehAjC9hd54xCesZ"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
-        "name": "Show Me The Magic",
-        "url": "https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 150412,
-      "name": "Show Me The Magic",
-      "url": "https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ"
     },
     {
       "added_at": "2022-12-23 13:04:53",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/2T00SUWXZJoRl5nyvNGeST"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 146022,
       "name": "O Little Town Of Bethlehem",
       "url": "https://open.spotify.com/track/6V23uUPhBn3NZuUVq1aOlz"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/2T00SUWXZJoRl5nyvNGeST"
     },
     {
       "added_at": "2022-12-23 13:04:53",

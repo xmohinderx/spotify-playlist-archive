@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a swing thing.",
-  "num_followers": 105790,
+  "num_followers": 105811,
   "original_name": "Swing Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMGE3NzFlNzI2NzQ1N2YzYTA5ZTE5MzI1MzM2YzBiYTNm",
+  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMDYyMmJhYjk0ZjA4OGJkNjY4YmFlZTg4ODNhYmRiOTRm",
   "tracks": [
     {
       "added_at": "2022-03-28 19:13:18",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Big Bad Voodoo Daddy",
-        "url": "https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj"
-      },
-      "artists": [
-        {
-          "name": "Big Bad Voodoo Daddy",
-          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
-        }
-      ],
-      "duration_ms": 217800,
-      "name": "Mr. Pinstripe Suit",
-      "url": "https://open.spotify.com/track/1cp7pENCkTI63S6TIjFyVN"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "The Dirty Boogie",
         "url": "https://open.spotify.com/album/4st9EfeMOnXoxkIPS0fik4"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 172933,
       "name": "Jump Jive An' Wail",
       "url": "https://open.spotify.com/track/7FuRjlwyTY9uTAUgGpZtJU"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Big Bad Voodoo Daddy",
+        "url": "https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj"
+      },
+      "artists": [
+        {
+          "name": "Big Bad Voodoo Daddy",
+          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "Mr. Pinstripe Suit",
+      "url": "https://open.spotify.com/track/1cp7pENCkTI63S6TIjFyVN"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Hawaiian Swing",
-        "url": "https://open.spotify.com/album/0Zyc4YTwXUZLewbfOYKAcj"
-      },
-      "artists": [
-        {
-          "name": "Big Kahuna and the Copa Cat Pack",
-          "url": "https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4"
-        }
-      ],
-      "duration_ms": 130160,
-      "name": "Come On-A-My House",
-      "url": "https://open.spotify.com/track/6Ts8NAuSSmfaXQyGFovDCe"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "I Dare You!",
         "url": "https://open.spotify.com/album/7IbV9UGQrHutw7rb0hggG2"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 179453,
       "name": "I Dare You Baby",
       "url": "https://open.spotify.com/track/5EnB7dy2Yt1AoNDL9D6aFw"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Hawaiian Swing",
+        "url": "https://open.spotify.com/album/0Zyc4YTwXUZLewbfOYKAcj"
+      },
+      "artists": [
+        {
+          "name": "Big Kahuna and the Copa Cat Pack",
+          "url": "https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4"
+        }
+      ],
+      "duration_ms": 130160,
+      "name": "Come On-A-My House",
+      "url": "https://open.spotify.com/track/6Ts8NAuSSmfaXQyGFovDCe"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -379,18 +379,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "rapid city muscle car",
-        "url": "https://open.spotify.com/album/6Cja1Pp4ggffsO1kH3d46i"
+        "name": "Shake Those Hula Hips!",
+        "url": "https://open.spotify.com/album/3y7gQh1B6UZrBO6CGIxuDd"
       },
       "artists": [
         {
-          "name": "Cherry Poppin' Daddies",
-          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
+          "name": "Big Kahuna and the Copa Cat Pack",
+          "url": "https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4"
         }
       ],
-      "duration_ms": 214266,
-      "name": "The Ding Dong Daddy of the D Car Line",
-      "url": "https://open.spotify.com/track/4uxRacg0PBqOIan3lhJ3Xt"
+      "duration_ms": 213160,
+      "name": "Ain't No Big Thing",
+      "url": "https://open.spotify.com/track/5FIuy1qgSfOENMDKHjsAsb"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Shake Those Hula Hips!",
-        "url": "https://open.spotify.com/album/3y7gQh1B6UZrBO6CGIxuDd"
+        "name": "rapid city muscle car",
+        "url": "https://open.spotify.com/album/6Cja1Pp4ggffsO1kH3d46i"
       },
       "artists": [
         {
-          "name": "Big Kahuna and the Copa Cat Pack",
-          "url": "https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4"
+          "name": "Cherry Poppin' Daddies",
+          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
         }
       ],
-      "duration_ms": 213160,
-      "name": "Ain't No Big Thing",
-      "url": "https://open.spotify.com/track/5FIuy1qgSfOENMDKHjsAsb"
+      "duration_ms": 214266,
+      "name": "The Ding Dong Daddy of the D Car Line",
+      "url": "https://open.spotify.com/track/4uxRacg0PBqOIan3lhJ3Xt"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -455,38 +455,6 @@
       "duration_ms": 202466,
       "name": "Swing Baby!",
       "url": "https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Solid Gold Cadillac",
-        "url": "https://open.spotify.com/album/6JfB7Xb4Qk8D2Ioas6TYNO"
-      },
-      "artists": [
-        {
-          "name": "Mitch Woods and His Rocket 88\u2018S",
-          "url": "https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Solid Gold Cadillac",
-      "url": "https://open.spotify.com/track/1oztW0EFjpj4WSHEf6Jt0b"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Big Bad Voodoo Daddy",
-        "url": "https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj"
-      },
-      "artists": [
-        {
-          "name": "Big Bad Voodoo Daddy",
-          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Go Daddy O",
-      "url": "https://open.spotify.com/track/2q0gGzRNpYMYjXmMFidK0H"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -539,6 +507,38 @@
       "duration_ms": 169720,
       "name": "Knockin' At Your Door",
       "url": "https://open.spotify.com/track/7GFHztqce85FfPw6da1q5M"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Big Bad Voodoo Daddy",
+        "url": "https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj"
+      },
+      "artists": [
+        {
+          "name": "Big Bad Voodoo Daddy",
+          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "Go Daddy O",
+      "url": "https://open.spotify.com/track/2q0gGzRNpYMYjXmMFidK0H"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Solid Gold Cadillac",
+        "url": "https://open.spotify.com/album/6JfB7Xb4Qk8D2Ioas6TYNO"
+      },
+      "artists": [
+        {
+          "name": "Mitch Woods and His Rocket 88\u2018S",
+          "url": "https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Solid Gold Cadillac",
+      "url": "https://open.spotify.com/track/1oztW0EFjpj4WSHEf6Jt0b"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Come Out Swingin'",
-        "url": "https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g"
-      },
-      "artists": [
-        {
-          "name": "Steve Lucky & The Rhumba Bums",
-          "url": "https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS"
-        }
-      ],
-      "duration_ms": 250840,
-      "name": "Do The Pup",
-      "url": "https://open.spotify.com/track/3A7lDcfRJu8Hv9c1U5DZG4"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Superhero Swinger Undercover",
         "url": "https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 238306,
       "name": "Sugar High",
       "url": "https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Come Out Swingin'",
+        "url": "https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g"
+      },
+      "artists": [
+        {
+          "name": "Steve Lucky & The Rhumba Bums",
+          "url": "https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "Do The Pup",
+      "url": "https://open.spotify.com/track/3A7lDcfRJu8Hv9c1U5DZG4"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
+        "name": "The Romper Room",
+        "url": "https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4"
+      },
+      "artists": [
+        {
+          "name": "Eight To The Bar",
+          "url": "https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "Dirty Dog",
+      "url": "https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
         "name": "Dedicated To You",
         "url": "https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 280493,
       "name": "Jumptown",
       "url": "https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "The Romper Room",
-        "url": "https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4"
-      },
-      "artists": [
-        {
-          "name": "Eight To The Bar",
-          "url": "https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "Dirty Dog",
-      "url": "https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli"
     }
   ],
   "unique_name": "Swing Revival",

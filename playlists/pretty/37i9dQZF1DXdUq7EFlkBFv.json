@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 2924,
+  "num_followers": 2943,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMGRmOWExM2E2Yjg4ZmU0MjhmZWZlMzlhMDU4M2FlZjE3",
+  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMGM4MjBjNDU3M2IxMTdiMTdjY2FlM2ZjOTRhZGZhYTYw",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "No Time For Sleep (Freestyle)",
-        "url": "https://open.spotify.com/album/2SUNTv6iT4DwTmrNlqCqmi"
-      },
-      "artists": [
-        {
-          "name": "Bobby Shmurda",
-          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
-        }
-      ],
-      "duration_ms": 375652,
-      "name": "No Time For Sleep (Freestyle)",
-      "url": "https://open.spotify.com/track/50xlqNticOjNCnR192H1YJ"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 204629,
       "name": "Ok Ok pt 2",
       "url": "https://open.spotify.com/track/5ad5uryyzVWs95bK3myGkw"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "No Time For Sleep (Freestyle)",
+        "url": "https://open.spotify.com/album/2SUNTv6iT4DwTmrNlqCqmi"
+      },
+      "artists": [
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        }
+      ],
+      "duration_ms": 375652,
+      "name": "No Time For Sleep (Freestyle)",
+      "url": "https://open.spotify.com/track/50xlqNticOjNCnR192H1YJ"
     },
     {
       "added_at": "2022-10-01 16:17:17",

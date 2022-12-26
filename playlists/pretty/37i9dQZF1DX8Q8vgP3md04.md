@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,827 likes - 60 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,839 likes - 60 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 48 | [Kanchiga New](https://open.spotify.com/track/2ccPSIfmf9PmTkyywfeRRj) | [Samon Zemas](https://open.spotify.com/artist/2CXGI3F0AkpmppGSgdtcfA), [Aman N](https://open.spotify.com/artist/289FKaEJct7I2C3hVLMIBo) | [Kanchiga New](https://open.spotify.com/album/2m9twp71nnWlbmv7elggTA) | 2:58 |
 | 49 | [Yebleniloo](https://open.spotify.com/track/5Jl2tQyJUmFJRcdAtLrbfo) | [Selamawit Yohannes](https://open.spotify.com/artist/107XXfLHCmU4H5Konxlqg8) | [Yebleniloo](https://open.spotify.com/album/7xF9to8GK2yUYND3JRZBMa) | 4:51 |
 | 50 | [Shegnehush](https://open.spotify.com/track/4bUns4JjV5XAYlSx0i9lYI) | [Theodros Kassahun](https://open.spotify.com/artist/2CMA5fXRHJUfaokzsmGucv) | [Teddy](https://open.spotify.com/album/5h1VNzRDbt6hayX9hgHuf8) | 5:37 |
-| 51 | [Lageba New](https://open.spotify.com/track/1fzfKZnrbsziirj0RvGdxV) | [Gildo Kassa](https://open.spotify.com/artist/6vL0Hxfu0HWRHF33vKlHIS) | [Lageba New](https://open.spotify.com/album/1leaV7ZRJi3Cf3raJd62SW) | 3:41 |
+| 51 | [Lageba New](https://open.spotify.com/track/3dUwM1SPDO9WtawRzN1otb) | [Gildo Kassa](https://open.spotify.com/artist/6vL0Hxfu0HWRHF33vKlHIS) | [Lageba New](https://open.spotify.com/album/1cLOZ7hjPx1d5qWUK1ImXY) | 3:37 |
 | 52 | [Fiker](https://open.spotify.com/track/4UuPQugjrx9pQyEmfOeLrs) | [Dawit Cherent](https://open.spotify.com/artist/26MgB2XBEqAtyISkep3iC1) | [Sew, Pt\. 1 Mot](https://open.spotify.com/album/7bM7TdqRgpuDGl15zjFPet) | 5:16 |
 | 53 | [Atiyo](https://open.spotify.com/track/1pNBlWJrub3pRPhoTtXf0j) | [Ephrem Amare](https://open.spotify.com/artist/6l7ED7MvvS43jtq5TUMB95) | [Atiyo](https://open.spotify.com/album/55td4C2TUwzbKOMWT12JwV) | 4:50 |
 | 54 | [Ethiopia](https://open.spotify.com/track/6QGdSpLFgV2XSFETaDXf0Z) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 6:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 59 | [Shelter](https://open.spotify.com/track/0InSfY3vAN0dcy7MiyxdSM) | [Yohana](https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG) | [Shelter](https://open.spotify.com/album/5gbL8MJfWftKPNW4JfXp2P) | 4:19 |
 | 60 | [Welday Weni](https://open.spotify.com/track/7hFZoxd3fHB6kn3M2fZbgz) | [Liham Melody](https://open.spotify.com/artist/4mgP2hXsnULBqWou6ld9rQ) | [Welday Weni](https://open.spotify.com/album/2KbxKjKmOB2IPUsDdGBb8z) | 4:25 |
 
-Snapshot ID: `MTY3MDg1MDQ5OSwwMDAwMDAwMGIxOWVlZWI5ZWM1ODczNmU0NDYyZjgwOGY3NmE2NDY3`
+Snapshot ID: `MTY3MDg1MDQ5OSwwMDAwMDAwMGFjNGQ5OWNjOWQxMTBlODQ5ZGJlZTcxMjRiY2ZiNGM4`

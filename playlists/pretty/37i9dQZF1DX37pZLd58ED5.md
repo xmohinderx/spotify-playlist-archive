@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Night Skinny
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,836 likes - 58 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,972 likes - 58 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 22 | [STANOTTE \(feat\. Coez, Massimo Pericolo\)](https://open.spotify.com/track/16UKRoJsS0i0eUNCCroz7n) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [DJUNGLE UNCHAINED](https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO) | 2:39 |
 | 23 | [Cenere](https://open.spotify.com/track/45xyKCey4BM3fMeFEsF1Hp) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Cenere](https://open.spotify.com/album/1lrhX79POrz4wSmgD4aeGg) | 2:50 |
 | 24 | [Solletico \(feat\. Tedua & The Night Skinny\)](https://open.spotify.com/track/6gan8nbS78t2sUy0M9UpAX) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Ossigeno \- EP](https://open.spotify.com/album/0eAgD8ueJfUud98yLZ612P) | 3:06 |
-| 25 | [CRUDELIA \- I nervi](https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:50 |
+| 25 | [CRUDELIA \- I nervi](https://open.spotify.com/track/0xEgDBXYO9gGzmxCFWKxNg) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v) | 3:50 |
 | 26 | [Solido](https://open.spotify.com/track/2gPENupbdW8MMPijDovU4a) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [La Bella Musica](https://open.spotify.com/album/42tTqiNZ6vqy1qaTdXyp0J) | 3:14 |
 | 27 | [Polvere \(feat\. Capo Plaza\)](https://open.spotify.com/track/0ZzXPo0gS5h718w7WErG44) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Vita Vera Mixtape](https://open.spotify.com/album/3TjYHhJBeXCyoG0mmsTZd9) | 4:12 |
 | 28 | [Morto Mai \(Piano Solo\)](https://open.spotify.com/track/4vuQhmBVvyy4Zau0Ypv738) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Re Mida \(Aurum\)](https://open.spotify.com/album/18oJqI5kIQ5lwDvpdlny99) | 2:40 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 57 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
 | 58 | [molecole \(interlude\)](https://open.spotify.com/track/7vsofh7bdDeL0n0lodFiCi) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:05 |
 
-Snapshot ID: `MTY3MTE0NTI2MCwwMDAwMDAwMDE2ODAxZTM5NGE5M2E3ZjFhNjI2ZmU5MDRhM2NhMjQz`
+Snapshot ID: `MTY3MTE0NTI2MCwwMDAwMDAwMDdhYzAwZDJmMWE5NmVmMzRkOTZhOTQwNTNmODhkNWRk`

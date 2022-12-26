@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 
 > The Bocelli Family continues The Classical Takeover with their all\-time favourite tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,002 likes - 29 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,416 likes - 29 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

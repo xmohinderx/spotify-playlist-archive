@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Night Skinny
 
-91 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/4r83GtsNbTEk66vNKaqlF4)
+92 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/4r83GtsNbTEk66vNKaqlF4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,8 +37,9 @@
 | [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 | 2022-04-28 |  |
 | [Cicatrici \(feat\. Tedua\)](https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:12 | 2022-11-24 |  |
 | [Come Stai](https://open.spotify.com/track/6mmBVpItqlggbdKOD9zOu9) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 2:46 | 2022-04-28 | 2022-07-07 |
+| [CRUDELIA \- I nervi](https://open.spotify.com/track/0xEgDBXYO9gGzmxCFWKxNg) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v) | 3:50 | 2022-12-15 |  |
 | [CRUDELIA \- I nervi](https://open.spotify.com/track/1OeIJITrlUR4qss2kywMEn) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul) | 3:50 | 2022-04-28 | 2022-07-29 |
-| [CRUDELIA \- I nervi](https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:50 | 2022-07-14 |  |
+| [CRUDELIA \- I nervi](https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:50 | 2022-07-14 | 2022-12-26 |
 | [Dammi Un Motivo](https://open.spotify.com/track/0oZlPs7TYiYlLfveiUfQJ6) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Dammi Un Motivo](https://open.spotify.com/album/0HflwxpqIV1kISwqYaBPEH) | 3:24 | 2022-04-28 | 2022-07-29 |
 | [Dammi Un Motivo](https://open.spotify.com/track/32ixEZaSA1ZMrKOYInRbeP) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Aletheia](https://open.spotify.com/album/2FT4zvCc1vD2JdW8usqezZ) | 3:24 | 2022-07-14 |  |
 | [Dilemme \(with tha Supreme & Mara Sattei\)](https://open.spotify.com/track/1Whf2ZaesM1gXlU0z3Fslt) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Dilemme \(with tha Supreme & Mara Sattei\)](https://open.spotify.com/album/58UfZvPf388nNXT6nnszRp) | 3:51 | 2022-04-28 |  |

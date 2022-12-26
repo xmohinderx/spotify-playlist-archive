@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 85174,
+  "num_followers": 85203,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU2OTc1MywwMDAwMDAwMGUyMzYyMzhhNTdmNWFjNzNiNDAyMzgxNTQ0MzQyMDE3",
+  "snapshot_id": "MTY3MTU2OTc1MywwMDAwMDAwMDE5ODc1MGViZTM5MjAyNzBiNjU4NmY3OWY3ZGUzNDg1",
   "tracks": [
     {
       "added_at": "2022-12-20 20:55:53",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-12-20 20:55:53",
       "album": {
-        "name": "FYF",
-        "url": "https://open.spotify.com/album/6poRyRRuXJ6uBUg6pnewTU"
-      },
-      "artists": [
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        }
-      ],
-      "duration_ms": 173464,
-      "name": "FYF",
-      "url": "https://open.spotify.com/track/30CtlcCw99gOYiIoqqYHvE"
-    },
-    {
-      "added_at": "2022-12-20 20:55:53",
-      "album": {
         "name": "Intersections",
         "url": "https://open.spotify.com/album/1mhJA30itw9ItQOGXb9s4N"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 217079,
       "name": "Thought of You (feat. Joyce Wrice)",
       "url": "https://open.spotify.com/track/0OLSlzgN1eafqbICQ5vOdo"
+    },
+    {
+      "added_at": "2022-12-20 20:55:53",
+      "album": {
+        "name": "FYF",
+        "url": "https://open.spotify.com/album/6poRyRRuXJ6uBUg6pnewTU"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 173464,
+      "name": "FYF",
+      "url": "https://open.spotify.com/track/30CtlcCw99gOYiIoqqYHvE"
     },
     {
       "added_at": "2022-12-20 20:55:53",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-12-20 20:55:53",
       "album": {
-        "name": "No Love Song",
-        "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
-      },
-      "artists": [
-        {
-          "name": "Children of Zeus",
-          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "No Love Song",
-      "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
-    },
-    {
-      "added_at": "2022-12-20 20:55:53",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 183373,
       "name": "Comeback.",
       "url": "https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV"
+    },
+    {
+      "added_at": "2022-12-20 20:55:53",
+      "album": {
+        "name": "No Love Song",
+        "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
+      },
+      "artists": [
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "No Love Song",
+      "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
     },
     {
       "added_at": "2022-12-20 20:55:53",

@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from DJ Snake, Wade, and Nooran Sisters.",
-  "num_followers": 414896,
+  "num_followers": 415026,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMDI0NzMxZWYwMTAyYTRjZDQ1OWQ2ZDdmMTkwZmFlMTVl",
+  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMDBmNjYwYWMzNTE4ZDU3MDgwYmE4MGFkMDYzMjdkYmI1",
   "tracks": [
     {
       "added_at": "2022-12-23 05:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Larie",
-        "url": "https://open.spotify.com/album/0RikiewW0N6HhMdiOABC0B"
-      },
-      "artists": [
-        {
-          "name": "Zuma Dionys",
-          "url": "https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd"
-        }
-      ],
-      "duration_ms": 398644,
-      "name": "Larie",
-      "url": "https://open.spotify.com/track/5n9U9n1EPoBpll9cDtB8S8"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "slept on the floor still dreamt about you",
         "url": "https://open.spotify.com/album/40BEVH86n8EDOKZIy7Jg8S"
       },
@@ -439,54 +423,18 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Strobelight",
-        "url": "https://open.spotify.com/album/75vflp1ClfR2lQIjKUk3LO"
+        "name": "Larie",
+        "url": "https://open.spotify.com/album/0RikiewW0N6HhMdiOABC0B"
       },
       "artists": [
         {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
-        },
-        {
-          "name": "DECKERT",
-          "url": "https://open.spotify.com/artist/54GyyJSnlEI1jVkdGpbbrH"
+          "name": "Zuma Dionys",
+          "url": "https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd"
         }
       ],
-      "duration_ms": 149291,
-      "name": "Strobelight",
-      "url": "https://open.spotify.com/track/7v27NOlRCjImx1rkXImaVr"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Thursday",
-        "url": "https://open.spotify.com/album/6tHlpSOXbM3YfWJcAPEuPI"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Thursday",
-      "url": "https://open.spotify.com/track/674eJylPTltR16ISBvUp3S"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Nonsense",
-        "url": "https://open.spotify.com/album/13QSFgfxSLhToogFGs9YSg"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 154080,
-      "name": "Nonsense",
-      "url": "https://open.spotify.com/track/0khMYTfrsvLJSwqsxknVJS"
+      "duration_ms": 398644,
+      "name": "Larie",
+      "url": "https://open.spotify.com/track/5n9U9n1EPoBpll9cDtB8S8"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -515,22 +463,54 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Black (Thomas Newson Remix)",
-        "url": "https://open.spotify.com/album/2hldjjomGPdQICe2M3E97l"
+        "name": "Nonsense",
+        "url": "https://open.spotify.com/album/13QSFgfxSLhToogFGs9YSg"
       },
       "artists": [
         {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        },
-        {
-          "name": "Thomas Newson",
-          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
         }
       ],
-      "duration_ms": 168375,
-      "name": "Black - Thomas Newson Remix",
-      "url": "https://open.spotify.com/track/6N8Z3RyhTXMct5ke3Wzp7E"
+      "duration_ms": 154080,
+      "name": "Nonsense",
+      "url": "https://open.spotify.com/track/0khMYTfrsvLJSwqsxknVJS"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Thursday",
+        "url": "https://open.spotify.com/album/6tHlpSOXbM3YfWJcAPEuPI"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Thursday",
+      "url": "https://open.spotify.com/track/674eJylPTltR16ISBvUp3S"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Strobelight",
+        "url": "https://open.spotify.com/album/75vflp1ClfR2lQIjKUk3LO"
+      },
+      "artists": [
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        },
+        {
+          "name": "DECKERT",
+          "url": "https://open.spotify.com/artist/54GyyJSnlEI1jVkdGpbbrH"
+        }
+      ],
+      "duration_ms": 149291,
+      "name": "Strobelight",
+      "url": "https://open.spotify.com/track/7v27NOlRCjImx1rkXImaVr"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -547,6 +527,26 @@
       "duration_ms": 323789,
       "name": "LoveCrime",
       "url": "https://open.spotify.com/track/1FeltVvTT7clONLywe6cnu"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Black (Thomas Newson Remix)",
+        "url": "https://open.spotify.com/album/2hldjjomGPdQICe2M3E97l"
+      },
+      "artists": [
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        }
+      ],
+      "duration_ms": 168375,
+      "name": "Black - Thomas Newson Remix",
+      "url": "https://open.spotify.com/track/6N8Z3RyhTXMct5ke3Wzp7E"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Rent Request",
-        "url": "https://open.spotify.com/album/4B7LUTkhOYmEwi25XXhdAf"
-      },
-      "artists": [
-        {
-          "name": "DJ Plead",
-          "url": "https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg"
-        },
-        {
-          "name": "Stain",
-          "url": "https://open.spotify.com/artist/1OX7sfFYYwIbyEBhszHx8Y"
-        }
-      ],
-      "duration_ms": 224648,
-      "name": "Rent Request",
-      "url": "https://open.spotify.com/track/4Od7jtoYfrMHteQ8CDH59j"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "WHITE and BLACK",
         "url": "https://open.spotify.com/album/2zm7V9JKzeZnJRz22dFNHe"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 388944,
       "name": "BLACK (Original)",
       "url": "https://open.spotify.com/track/77mcSQLPQUfFm3npV5f9VK"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Rent Request",
+        "url": "https://open.spotify.com/album/4B7LUTkhOYmEwi25XXhdAf"
+      },
+      "artists": [
+        {
+          "name": "DJ Plead",
+          "url": "https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg"
+        },
+        {
+          "name": "Stain",
+          "url": "https://open.spotify.com/artist/1OX7sfFYYwIbyEBhszHx8Y"
+        }
+      ],
+      "duration_ms": 224648,
+      "name": "Rent Request",
+      "url": "https://open.spotify.com/track/4Od7jtoYfrMHteQ8CDH59j"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -843,6 +843,26 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/3YBKbUbzNym3dom6UEpbYF"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "Friendz By Chance",
+          "url": "https://open.spotify.com/artist/2MhwZ9lBlMCnrH3qpmxOlE"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/5tfa48lIs4pPbSPyLurYZY"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
         "name": "Fake Mirror",
         "url": "https://open.spotify.com/album/0pBk5zaqAxcLIpL1q7MLnk"
       },
@@ -875,26 +895,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/3YBKbUbzNym3dom6UEpbYF"
-      },
-      "artists": [
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        },
-        {
-          "name": "Friendz By Chance",
-          "url": "https://open.spotify.com/artist/2MhwZ9lBlMCnrH3qpmxOlE"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/5tfa48lIs4pPbSPyLurYZY"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Decennium: Landmark",
         "url": "https://open.spotify.com/album/13R8LxyJ1l4974Bs7skY3K"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "A Dream Sequence",
-        "url": "https://open.spotify.com/album/64pfheGODRtVRT8cnNfEfm"
-      },
-      "artists": [
-        {
-          "name": "Uto Karem",
-          "url": "https://open.spotify.com/artist/6KBbbE4QVlVQwFNIXrD8hF"
-        }
-      ],
-      "duration_ms": 375338,
-      "name": "A Dream Sequence",
-      "url": "https://open.spotify.com/track/2locdWsh6ZpDVxgso4U8ff"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/5tIFW4nVvV2EGktpDeuo2j"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 253889,
       "name": "Venus",
       "url": "https://open.spotify.com/track/6mDZz0XcSK9bQRD938LAfi"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "A Dream Sequence",
+        "url": "https://open.spotify.com/album/64pfheGODRtVRT8cnNfEfm"
+      },
+      "artists": [
+        {
+          "name": "Uto Karem",
+          "url": "https://open.spotify.com/artist/6KBbbE4QVlVQwFNIXrD8hF"
+        }
+      ],
+      "duration_ms": 375338,
+      "name": "A Dream Sequence",
+      "url": "https://open.spotify.com/track/2locdWsh6ZpDVxgso4U8ff"
     },
     {
       "added_at": "2022-12-23 05:00:00",

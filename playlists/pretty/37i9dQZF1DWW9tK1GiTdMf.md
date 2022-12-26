@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare ❤️‍🩹 la sad e villa in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,645 likes - 86 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,651 likes - 86 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

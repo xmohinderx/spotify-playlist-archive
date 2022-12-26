@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Gal Costa e destaques de 2022, por mais mulheres sendo ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,345 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,354 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,18 +38,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 28 | [Segue Invicto](https://open.spotify.com/track/7JGsf3jzhsMWDu75sQdPCF) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Segue Invicto](https://open.spotify.com/album/6cSpSEmFKxpVasXThfY5Er) | 2:28 |
 | 29 | [Malandro](https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Lição de Vida](https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA) | 3:11 |
 | 30 | [Dar Uma Deitchada](https://open.spotify.com/track/5GLedVg0J1z9zRh8CeET3R) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Dar Uma Deitchada](https://open.spotify.com/album/3Ga97on08bV8nNgFZ5sqx3) | 3:12 |
-| 31 | [Não Quero Ser Mais Eu \- Ao Vivo](https://open.spotify.com/track/4tRErerEoiCOIV2pLfL7hv) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos ao vivo em Goiânia vol 1](https://open.spotify.com/album/5TnxDHDxcAiyLx4IOkNRTQ) | 3:01 |
+| 31 | [Hoje Eu Vou Dar uma Sentadinha](https://open.spotify.com/track/67MzL6NnggPqvBfJVzoYwX) | [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Hoje Eu Vou Dar uma Sentadinha](https://open.spotify.com/album/2ERJxD3rl7r66fHJURjCon) | 2:25 |
 | 32 | [GAROTA INFERNAL](https://open.spotify.com/track/1v7claHAuCV40i4Z6BkVdq) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [GAROTA INFERNAL](https://open.spotify.com/album/4Q7onjpfABjrDQMbuGeTTg) | 2:29 |
-| 33 | [Hoje Eu Vou Dar uma Sentadinha](https://open.spotify.com/track/67MzL6NnggPqvBfJVzoYwX) | [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Hoje Eu Vou Dar uma Sentadinha](https://open.spotify.com/album/2ERJxD3rl7r66fHJURjCon) | 2:25 |
-| 34 | [Motinha](https://open.spotify.com/track/6DWa4TwWpkby73mls0w6XR) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Meu Esquema](https://open.spotify.com/album/6osVzkibmUSPNEWw7ABsjR) | 3:14 |
-| 35 | [Como Eu Quero](https://open.spotify.com/track/20Mxqxf2u0Q6gNteDiViGm) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Como Eu Quero](https://open.spotify.com/album/1GomGMvKxYmMKapaPa1UKO) | 3:21 |
+| 33 | [Não Quero Ser Mais Eu \- Ao Vivo](https://open.spotify.com/track/4tRErerEoiCOIV2pLfL7hv) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos ao vivo em Goiânia vol 1](https://open.spotify.com/album/5TnxDHDxcAiyLx4IOkNRTQ) | 3:01 |
+| 34 | [Como Eu Quero](https://open.spotify.com/track/20Mxqxf2u0Q6gNteDiViGm) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Como Eu Quero](https://open.spotify.com/album/1GomGMvKxYmMKapaPa1UKO) | 3:21 |
+| 35 | [Motinha](https://open.spotify.com/track/6DWa4TwWpkby73mls0w6XR) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Meu Esquema](https://open.spotify.com/album/6osVzkibmUSPNEWw7ABsjR) | 3:14 |
 | 36 | [Festa do Pijama](https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:19 |
-| 37 | [Bruta](https://open.spotify.com/track/3mQSEDjzQnlvL4wPZbIGxY) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Bruta](https://open.spotify.com/album/5R9BgwbDW54Y7ijTpolkep) | 2:16 |
-| 38 | [Eclipse do Meu Coração](https://open.spotify.com/track/1L8z8xVcwsz50N0FOMS3wb) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Eclipse do Meu Coração](https://open.spotify.com/album/5MuqShBqOfBFxvfyUlZx2D) | 3:28 |
+| 37 | [Eclipse do Meu Coração](https://open.spotify.com/track/1L8z8xVcwsz50N0FOMS3wb) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Eclipse do Meu Coração](https://open.spotify.com/album/5MuqShBqOfBFxvfyUlZx2D) | 3:28 |
+| 38 | [Bruta](https://open.spotify.com/track/3mQSEDjzQnlvL4wPZbIGxY) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Bruta](https://open.spotify.com/album/5R9BgwbDW54Y7ijTpolkep) | 2:16 |
 | 39 | [O Choro é Livre](https://open.spotify.com/track/7mdclgEREBeEcIbGxIchcF) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [O Choro é Livre](https://open.spotify.com/album/1EyIA4KLuQVUuhzuYDwc8n) | 3:39 |
 | 40 | [Perigosinha "Louquinha"](https://open.spotify.com/track/0L3b6sD84Py9h9r6RnoJt4) | [Mariana Pimenta](https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn) | [Perigosinha "Louquinha"](https://open.spotify.com/album/7w4dcc9ArowJKqX7BmBIw3) | 2:37 |
-| 41 | [QUANDO EU TE OLHEI \- A COLORS SHOW](https://open.spotify.com/track/0enyOQLhOZz4DjK3TZ7UX3) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [QUANDO EU TE OLHEI \- A COLORS SHOW](https://open.spotify.com/album/1TSgZiq063sQKhMft5tpeF) | 2:33 |
-| 42 | [Triscou Já Foi \- Ao Vivo](https://open.spotify.com/track/7cxum22Z75BDS2DTkTz2Ll) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Baseado em Fatos Reais, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/2F1IlArMVL10Uc8BQ4Po3E) | 2:41 |
+| 41 | [Triscou Já Foi \- Ao Vivo](https://open.spotify.com/track/7cxum22Z75BDS2DTkTz2Ll) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Baseado em Fatos Reais, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/2F1IlArMVL10Uc8BQ4Po3E) | 2:41 |
+| 42 | [QUANDO EU TE OLHEI \- A COLORS SHOW](https://open.spotify.com/track/0enyOQLhOZz4DjK3TZ7UX3) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [QUANDO EU TE OLHEI \- A COLORS SHOW](https://open.spotify.com/album/1TSgZiq063sQKhMft5tpeF) | 2:33 |
 | 43 | [Quente e Colorido](https://open.spotify.com/track/3s6AiXEi941a5NcgUtrrN9) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [O Que Me Cabe](https://open.spotify.com/album/6hWBRxxH3zGGUVii6mEl3k) | 3:47 |
 | 44 | [Quero Que Você Se \- Ao vivo](https://open.spotify.com/track/5ECdJiYkcQz1VhpYzsGUhW) | [Kamilla Maria](https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c) | [Quero Que Você Se \(Ao vivo\)](https://open.spotify.com/album/5Xe6JNQNwRJhHkoJ2sSOqH) | 2:54 |
 | 45 | [Me Trata Como Ex \- Ao Vivo](https://open.spotify.com/track/7EAkUVnalwN4Fc6BhgSkgp) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Me Trata Como Ex \(Ao Vivo\)](https://open.spotify.com/album/7iF6LYew2lJAR2RzGEyPAJ) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Eu Vou](https://open.spotify.com/track/7HcrBJtYTifl7zQqSLc2n7) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [Eu Vou](https://open.spotify.com/album/65plWnQdnyp41mpaLsdtHt) | 3:10 |
 | 50 | [TROPA DAS SOLTINHAS](https://open.spotify.com/track/7k82WCRSzfByzGXVYRgAvb) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [TROPA DAS SOLTINHAS](https://open.spotify.com/album/0gLKqtVCVOcI7eGz6rJuIZ) | 2:26 |
 
-Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDI3M2ZkM2MxZDhjZTZhMGFkODJjYWNlZmNiNjAxMDY1`
+Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDU0OWViZGZiMmM4ZDYxNzU0MmM3YzgyNDgwMjVmNjA2`

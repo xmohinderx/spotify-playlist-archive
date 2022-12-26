@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-243 songs - 20 hr 51 min - [published](https://open.spotify.com/playlist/6TUsSMZfT1RvK6nvajCGWL)
+244 songs - 20 hr 54 min - [published](https://open.spotify.com/playlist/6TUsSMZfT1RvK6nvajCGWL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [There's No You](https://open.spotify.com/track/26ORtzOnZdW8K9NgvI3sEj) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis For Lovers \(Deluxe Edition\)](https://open.spotify.com/album/23Fc6CSX7gbd4HOuptoyO5) | 2:16 | 2022-05-18 | 2022-09-23 |
 | [These Foolish Things](https://open.spotify.com/track/5RxZwg8IMvhgaGieGEVVeC) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Is Back](https://open.spotify.com/album/0OrYAj73Jdex3jgq4ppbO7) | 4:54 | 2022-05-18 | 2022-07-29 |
 | [These Foolish Things \(Remind Me of You\)](https://open.spotify.com/track/59VHmPVQP4XPbOeiiIwqG6) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Blues and Ballads](https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP) | 6:00 | 2022-09-08 | 2022-11-11 |
-| [Time Remembered \- Live](https://open.spotify.com/track/7wpeyD7ZlOmN4JGyEvfg38) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Time Remembered](https://open.spotify.com/album/4F1Rr08dCuQjaeTrho8qrX) | 5:35 | 2022-05-18 |  |
+| [Time Remembered \- Live](https://open.spotify.com/track/7wpeyD7ZlOmN4JGyEvfg38) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Time Remembered](https://open.spotify.com/album/4F1Rr08dCuQjaeTrho8qrX) | 5:35 | 2022-05-18 | 2022-12-26 |
 | [Too Young To Go Steady](https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads](https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs) | 5:41 | 2022-05-18 | 2022-08-27 |
 | [Unsentimental](https://open.spotify.com/track/7JmMOryQFeykS1BEWInJSs) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Unsentimental](https://open.spotify.com/album/1XetCzlMmbbOg5evN3Bp9d) | 5:00 | 2022-05-18 |  |
 | [Warm Valley](https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 3:20 | 2022-09-08 |  |
@@ -251,5 +251,6 @@
 | [You're Good to Me](https://open.spotify.com/track/66pIaEj18uvWZVUdagkzly) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [The End is the Beginning](https://open.spotify.com/album/4DlVzBCQqPnLGCyqCPmx7m) | 3:14 | 2022-11-10 |  |
 | [You've Changed \- Live](https://open.spotify.com/track/7HleoJP6ECvm5m7AJBDwgT) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Yesterdays](https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX) | 7:55 | 2022-09-08 | 2022-11-11 |
 | [Young and Foolish](https://open.spotify.com/track/2ncnr8AuzqAabOGEIoA863) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3), [Ignasi González](https://open.spotify.com/artist/60JCzYj9SSZ3DZdyONwr5P), [Jo Krause](https://open.spotify.com/artist/1TYodU4WCCM39ztPleTYuy) | [Moon Mist](https://open.spotify.com/album/462dHUs0Xl5H4v1057d2mO) | 5:30 | 2022-05-18 |  |
+| [Últimamente](https://open.spotify.com/track/1BJmiWUEqMx2aqHqfIbeAQ) | [Joanna Mason](https://open.spotify.com/artist/4S1m9Gvs6oH0gHRnpkoAUT) | [Últimamente](https://open.spotify.com/album/0UlBxNwVwKvU30I3RHUlAr) | 3:04 | 2022-12-23 |  |
 
 \*This playlist was first scraped on 2022-05-19. Prior content cannot be recovered.

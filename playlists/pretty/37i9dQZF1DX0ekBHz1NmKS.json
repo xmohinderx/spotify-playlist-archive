@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 118546,
+  "num_followers": 118553,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDVlNTdkZGU2MmNmNGFjMjY1MTQ0MjAyOGM0NDE0NGRl",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDQ2NWY0Yjk5YzZlMWVlZGZmMjI5NTI5NzRmZjdiNzRj",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "\u00c4nnu mer",
+        "url": "https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 184482,
+      "name": "\u00c4nnu mer",
+      "url": "https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Karlavagnen",
         "url": "https://open.spotify.com/album/1sqRHRlSZ1rJQwTeGP5en5"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 175714,
       "name": "V\u00e4lkommen \u00c5ter",
       "url": "https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "\u00c4nnu mer",
-        "url": "https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 184482,
-      "name": "\u00c4nnu mer",
-      "url": "https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Sommaren",
+        "url": "https://open.spotify.com/album/1hDeGA8SN9NIimQwgEQ043"
+      },
+      "artists": [
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        },
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "duration_ms": 173030,
+      "name": "Sommaren",
+      "url": "https://open.spotify.com/track/4icP6ZujBOr7XQ7ghKVyt4"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Bleeding",
         "url": "https://open.spotify.com/album/6lUWA3vDu8WIvd8TPGFKnO"
       },
@@ -1171,22 +1191,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Isabelle",
-        "url": "https://open.spotify.com/album/170jl8RUaJsCe2snINmw7P"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 215818,
-      "name": "Isabelle",
-      "url": "https://open.spotify.com/track/6RIWWLyss6LfdqJXANlhFv"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Neon Lights",
         "url": "https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE"
       },
@@ -1199,6 +1203,22 @@
       "duration_ms": 209200,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Isabelle",
+        "url": "https://open.spotify.com/album/170jl8RUaJsCe2snINmw7P"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 215818,
+      "name": "Isabelle",
+      "url": "https://open.spotify.com/track/6RIWWLyss6LfdqJXANlhFv"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1303,22 +1323,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Barnsben",
-        "url": "https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1"
-      },
-      "artists": [
-        {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
-        }
-      ],
-      "duration_ms": 214190,
-      "name": "Barnsben",
-      "url": "https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Solen i G\u00f6teborg",
         "url": "https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB"
       },
@@ -1331,6 +1335,22 @@
       "duration_ms": 171600,
       "name": "Solen i G\u00f6teborg",
       "url": "https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Barnsben",
+        "url": "https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1"
+      },
+      "artists": [
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "duration_ms": 214190,
+      "name": "Barnsben",
+      "url": "https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1407,46 +1427,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Sommaren",
-        "url": "https://open.spotify.com/album/1hDeGA8SN9NIimQwgEQ043"
-      },
-      "artists": [
-        {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
-        },
-        {
-          "name": "Maria Jane Smith",
-          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
-        }
-      ],
-      "duration_ms": 173030,
-      "name": "Sommaren",
-      "url": "https://open.spotify.com/track/4icP6ZujBOr7XQ7ghKVyt4"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "\u00c4ndstation",
-        "url": "https://open.spotify.com/album/0nnNhppI9BUITKl6MxxH1K"
-      },
-      "artists": [
-        {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
-        },
-        {
-          "name": "Kid Eriksson",
-          "url": "https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8"
-        }
-      ],
-      "duration_ms": 200986,
-      "name": "\u00c4ndstation",
-      "url": "https://open.spotify.com/track/2j9vYw795YQtiWOUBSr4iG"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Tiden rinner iv\u00e4g",
         "url": "https://open.spotify.com/album/1yVbNhW1AHwDGQdbzVRKD2"
       },
@@ -1459,26 +1439,6 @@
       "duration_ms": 179546,
       "name": "Tiden rinner iv\u00e4g",
       "url": "https://open.spotify.com/track/7JxgJn1DCftAEZim7e5gPc"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "T\u00e4nd alla ljus (Fr\u00e5n Benjamin's)",
-        "url": "https://open.spotify.com/album/2N7xVJBwo7MaFhEukHMoDt"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        },
-        {
-          "name": "Silvana Imam",
-          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "T\u00e4nd alla ljus - Fr\u00e5n Benjamin's",
-      "url": "https://open.spotify.com/track/06M8KfNJwdqxB9lLuPVt28"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1507,18 +1467,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "S\u00e4g det som du menar det",
-        "url": "https://open.spotify.com/album/2khYdwNQ1tuRDQOOtleqst"
+        "name": "T\u00e4nd alla ljus (Fr\u00e5n Benjamin's)",
+        "url": "https://open.spotify.com/album/2N7xVJBwo7MaFhEukHMoDt"
       },
       "artists": [
         {
-          "name": "Emilia Pantic",
-          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Silvana Imam",
+          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
         }
       ],
-      "duration_ms": 140973,
-      "name": "S\u00e4g det som du menar det",
-      "url": "https://open.spotify.com/track/1ZYsXA05ID62zPpnxlMPHj"
+      "duration_ms": 168000,
+      "name": "T\u00e4nd alla ljus - Fr\u00e5n Benjamin's",
+      "url": "https://open.spotify.com/track/06M8KfNJwdqxB9lLuPVt28"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1539,6 +1503,26 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "\u00c4ndstation",
+        "url": "https://open.spotify.com/album/0nnNhppI9BUITKl6MxxH1K"
+      },
+      "artists": [
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        },
+        {
+          "name": "Kid Eriksson",
+          "url": "https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8"
+        }
+      ],
+      "duration_ms": 200986,
+      "name": "\u00c4ndstation",
+      "url": "https://open.spotify.com/track/2j9vYw795YQtiWOUBSr4iG"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Night at Ezeh's",
         "url": "https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 193285,
       "name": "CRISIS",
       "url": "https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "S\u00e4g det som du menar det",
+        "url": "https://open.spotify.com/album/2khYdwNQ1tuRDQOOtleqst"
+      },
+      "artists": [
+        {
+          "name": "Emilia Pantic",
+          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
+        }
+      ],
+      "duration_ms": 140973,
+      "name": "S\u00e4g det som du menar det",
+      "url": "https://open.spotify.com/track/1ZYsXA05ID62zPpnxlMPHj"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Svanes\u00e5ng",
-        "url": "https://open.spotify.com/album/6lV5CFB3QiE3voHW1oO6ig"
-      },
-      "artists": [
-        {
-          "name": "Mares",
-          "url": "https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC"
-        }
-      ],
-      "duration_ms": 232109,
-      "name": "Kevin",
-      "url": "https://open.spotify.com/track/4dudT3PA7LO8x95l9oMsLb"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Hold Out",
         "url": "https://open.spotify.com/album/1AjiPJEfUG1MMI28cxqics"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 191186,
       "name": "Hold Out",
       "url": "https://open.spotify.com/track/23CuzFQM5TFmWBcMFVVKOd"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Svanes\u00e5ng",
+        "url": "https://open.spotify.com/album/6lV5CFB3QiE3voHW1oO6ig"
+      },
+      "artists": [
+        {
+          "name": "Mares",
+          "url": "https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC"
+        }
+      ],
+      "duration_ms": 232109,
+      "name": "Kevin",
+      "url": "https://open.spotify.com/track/4dudT3PA7LO8x95l9oMsLb"
     },
     {
       "added_at": "2022-12-22 23:00:00",

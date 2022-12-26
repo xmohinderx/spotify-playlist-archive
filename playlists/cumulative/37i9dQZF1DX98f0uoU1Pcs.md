@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Special Interest
 
-362 songs - 19 hr 18 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+363 songs - 19 hr 22 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,8 @@
 | [Kooperboy](https://open.spotify.com/track/1robAwSosmg3FXM0wpOEMv) | [Headfirst](https://open.spotify.com/artist/3FV7EGmhcCWhgSB91GCROk) | [Kooperboy](https://open.spotify.com/album/1H6fYIbML5wpX0kFwzzmij) | 3:20 | 2021-10-07 | 2022-03-12 |
 | [Lava Lamp Pisco](https://open.spotify.com/track/0IUCAG77pftJPK8AHtgleA) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Bob Holiday](https://open.spotify.com/album/3LuNmpwpxJYX8WGS1yNOPd) | 4:01 | 2022-11-04 | 2022-11-13 |
 | [Lava Lamp Pisco](https://open.spotify.com/track/142WFjtY5Pww6AmoLpLCNE) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Lava Lamp Pisco](https://open.spotify.com/album/6OxduyVLmp55HliX26j59W) | 4:01 | 2022-02-11 | 2022-07-29 |
-| [Lava Lamp Pisco](https://open.spotify.com/track/23TrkSJOvl2mnka8F6POxd) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt) | 4:01 | 2022-07-08 |  |
+| [Lava Lamp Pisco](https://open.spotify.com/track/23TrkSJOvl2mnka8F6POxd) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt) | 4:01 | 2022-07-08 | 2022-12-26 |
+| [Lava Lamp Pisco](https://open.spotify.com/track/2eXXH2jx97BkAeMIM6Se3S) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw) | 4:01 | 2022-12-09 |  |
 | [Leader of the Pack](https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Leader of the Pack](https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS) | 3:03 | 2022-09-30 |  |
 | [Leech](https://open.spotify.com/track/4PJYzWsL4EjU9s15owchBD) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Leech](https://open.spotify.com/album/3QATHeFuFAimHyxBMeP6Xr) | 5:10 | 2022-11-21 |  |
 | [Let It All Go](https://open.spotify.com/track/1bZh05eZmb6Nl0t5fPhEgN) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Wading \- EP](https://open.spotify.com/album/6SM2HhCR9ct5DPU3TEnV76) | 4:22 | 2022-01-07 | 2022-03-12 |

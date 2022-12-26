@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 287126,
       "name": "El Oso",
       "url": "https://open.spotify.com/track/3XkmnmWXsNw790uaFBexqb"
@@ -755,6 +755,28 @@
       "duration_ms": 157875,
       "name": "La Gente Nueva",
       "url": "https://open.spotify.com/track/5vyDbihMtrtyrKp6xUW8Gq"
+    },
+    {
+      "album": {
+        "name": "La Internacional",
+        "url": "https://open.spotify.com/album/5lOudBxycPSzUC6GKDQ2Cs"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        },
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159176,
+      "name": "La Internacional",
+      "url": "https://open.spotify.com/track/6T0FTw6tAOUbeMIvGV7WrX"
     },
     {
       "album": {

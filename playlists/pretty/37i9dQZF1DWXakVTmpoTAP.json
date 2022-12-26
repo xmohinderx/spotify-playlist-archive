@@ -1,12 +1,12 @@
 {
   "description": "Songs that show your dad love and appreciation ",
-  "num_followers": 11067,
+  "num_followers": 11066,
   "original_name": "Father's Day Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMGE5NDk3ODFkZjUwZmFhODk3ZjVmOTYwYmU2YjNjY2U5",
+  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMGFhZDBlZWE5NzU2ZmQ4MDUwODY3N2M4YjIzMzM1N2Zh",
   "tracks": [
     {
       "added_at": "2022-06-15 19:48:26",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Soldier of Love",
-        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 278640,
-      "name": "Babyfather",
-      "url": "https://open.spotify.com/track/10kh9WpO4XlJWhJKfW4I7t"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "The Very Best Of Cat Stevens",
         "url": "https://open.spotify.com/album/3ds29BDzL13tt6Xy9tuFal"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 220333,
       "name": "Father And Son",
       "url": "https://open.spotify.com/track/2nU1cyrG92p8h99g3Gykwz"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Soldier of Love",
+        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 278640,
+      "name": "Babyfather",
+      "url": "https://open.spotify.com/track/10kh9WpO4XlJWhJKfW4I7t"
     },
     {
       "added_at": "2022-06-09 16:13:45",

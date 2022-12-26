@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 14483,
+  "num_followers": 14487,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMGUyZTM0ZWQxOGRhMDE1NDBmZWUyNTNjNmRiZTk3NTQ3",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMGRiNDE3ZGE1NWUyNzBiYWViOTQ5YmMzZmQ0NmMyY2Zj",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Presentando a Mercedes Simone",
-        "url": "https://open.spotify.com/album/6HNgJ8dZflujytFtS4TUm3"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Simone",
-          "url": "https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Milonga Sentimental",
-      "url": "https://open.spotify.com/track/1uJeHbIPeOKGfEEJujJkP7"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Con las Alas del Alma",
         "url": "https://open.spotify.com/album/1IJDQDltstBfcrxE7IoJii"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 181120,
       "name": "Siempre Se Vuelve a Bs. As.",
       "url": "https://open.spotify.com/track/3xjANYsJ2nMZBLr7T6lDcZ"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Presentando a Mercedes Simone",
+        "url": "https://open.spotify.com/album/6HNgJ8dZflujytFtS4TUm3"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Simone",
+          "url": "https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Milonga Sentimental",
+      "url": "https://open.spotify.com/track/1uJeHbIPeOKGfEEJujJkP7"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Lejos",
-        "url": "https://open.spotify.com/album/3Bejr5wnkAxczzVqZKYfSc"
-      },
-      "artists": [
-        {
-          "name": "La Chicana",
-          "url": "https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ"
-        }
-      ],
-      "duration_ms": 245733,
-      "name": "La Mariposa",
-      "url": "https://open.spotify.com/track/17iPZmaID95A2XxcTDBXoh"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 286093,
       "name": "Adios Nonino",
       "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Lejos",
+        "url": "https://open.spotify.com/album/3Bejr5wnkAxczzVqZKYfSc"
+      },
+      "artists": [
+        {
+          "name": "La Chicana",
+          "url": "https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ"
+        }
+      ],
+      "duration_ms": 245733,
+      "name": "La Mariposa",
+      "url": "https://open.spotify.com/track/17iPZmaID95A2XxcTDBXoh"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -915,42 +915,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Salto Mortal (Canta a Gardel, Corsini y Magaldi)",
-        "url": "https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb"
-      },
-      "artists": [
-        {
-          "name": "Dolores Sol\u00e1",
-          "url": "https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV"
-        }
-      ],
-      "duration_ms": 132813,
-      "name": "Morocha Triste",
-      "url": "https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
-      },
-      "artists": [
-        {
-          "name": "Maria Gra\u00f1a",
-          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
-        },
-        {
-          "name": "Jorge Calandrelli",
-          "url": "https://open.spotify.com/artist/3cjxn6Z8XrhJuuEcxxQHmm"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Caser\u00f3n de Tejas (feat. Jorge Calandrelli)",
-      "url": "https://open.spotify.com/track/0Elfdj2gQ0Ib0h49kCKb2R"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7"
       },
@@ -975,6 +939,42 @@
       "duration_ms": 210613,
       "name": "Cafet\u00edn de Buenos Aires",
       "url": "https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
+      },
+      "artists": [
+        {
+          "name": "Maria Gra\u00f1a",
+          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
+        },
+        {
+          "name": "Jorge Calandrelli",
+          "url": "https://open.spotify.com/artist/3cjxn6Z8XrhJuuEcxxQHmm"
+        }
+      ],
+      "duration_ms": 250133,
+      "name": "Caser\u00f3n de Tejas (feat. Jorge Calandrelli)",
+      "url": "https://open.spotify.com/track/0Elfdj2gQ0Ib0h49kCKb2R"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Salto Mortal (Canta a Gardel, Corsini y Magaldi)",
+        "url": "https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb"
+      },
+      "artists": [
+        {
+          "name": "Dolores Sol\u00e1",
+          "url": "https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV"
+        }
+      ],
+      "duration_ms": 132813,
+      "name": "Morocha Triste",
+      "url": "https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428"
     },
     {
       "added_at": "2022-07-08 03:00:00",

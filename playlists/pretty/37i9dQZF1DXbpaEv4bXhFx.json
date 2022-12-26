@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 7631,
+  "num_followers": 7641,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYxNDQ3OCwwMDAwMDAwMGM1ZjQ3YmEzODRlOTc5YzlmNzc5MWMxMWE4MDQyY2Fi",
+  "snapshot_id": "MTY3MTYxNDQ3OCwwMDAwMDAwMGQxNjNjOGVmNDNmOTllOGY5MzcwZjdhOGZmZjk1YjI4",
   "tracks": [
     {
       "added_at": "2022-12-21 09:21:18",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-12-21 09:21:18",
       "album": {
-        "name": "Night Poem",
-        "url": "https://open.spotify.com/album/5mjKgtVWrCqyh3sRru9dgU"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 185853,
-      "name": "Night Poem",
-      "url": "https://open.spotify.com/track/13NOcggiQ7sDxGxpRWUpLc"
-    },
-    {
-      "added_at": "2022-12-21 09:21:18",
-      "album": {
         "name": "New Edition 41",
         "url": "https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 210850,
       "name": "Don't be sad",
       "url": "https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8"
+    },
+    {
+      "added_at": "2022-12-21 09:21:18",
+      "album": {
+        "name": "Night Poem",
+        "url": "https://open.spotify.com/album/5mjKgtVWrCqyh3sRru9dgU"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 185853,
+      "name": "Night Poem",
+      "url": "https://open.spotify.com/track/13NOcggiQ7sDxGxpRWUpLc"
     },
     {
       "added_at": "2022-12-21 09:21:18",

@@ -4,7 +4,7 @@
 
 > Beautiful indie tracks from around the world\. Cover: beabadoobee.
 
-75 songs - 4 hr 8 min - not published yet
+76 songs - 4 hr 12 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Flowers From Japan](https://open.spotify.com/track/6UMZpB7uTxDyhUs8cvSHRE) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Flowers From Japan](https://open.spotify.com/album/7cWK1OJgqmkyBjK67LUesw) | 4:06 | 2022-11-30 |  |
 | [frown](https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:19 | 2022-11-30 |  |
 | [Guilty Pleasure](https://open.spotify.com/track/7kwejfjT6uVl3KxDBKC2b6) | [Francesco De Leo](https://open.spotify.com/artist/3PpiZ8N2SEIctxgh7iDuiU), [Lucia Manca](https://open.spotify.com/artist/5DHfordpyNL7yXbVTLeed4) | [Swarovski](https://open.spotify.com/album/1jnNba0j3Is9I0bEqAPfRF) | 3:38 | 2022-11-30 |  |
-| [Hi\-Fidelity](https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7) | 3:19 | 2022-11-30 |  |
+| [Hi\-Fidelity](https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ZNelJy2iPIK2YtGHCuB3t) | 3:19 | 2022-11-30 |  |
+| [Hi\-Fidelity](https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7) | 3:19 | 2022-11-30 | 2022-12-26 |
 | [HYPERREAL](https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:00 | 2022-11-30 |  |
 | [I Guess](https://open.spotify.com/track/0hzVEWIYibIGxMdn2NkjXw) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Pigeons & Planes presents: See You Next Year](https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm) | 2:54 | 2022-11-30 |  |
 | [It Matters Until It Doesn't](https://open.spotify.com/track/6yF8gJoUzniKX40Y4AopUo) | [Ruru](https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo) | [Glorious Miscellanea](https://open.spotify.com/album/2YiePm4VnASWYAs1dAwZx4) | 2:35 | 2022-11-30 |  |

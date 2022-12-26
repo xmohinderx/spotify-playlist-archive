@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 55740,
+  "num_followers": 55773,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDQ5YzIwNGZlMzljODg2NjhhZGFiNTI2Mjc0Y2U1MGI4",
+  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMGE2YjNkYjhkMzc1YjcyZDc4NTBmZjk0MGY4OGQ0NGRh",
   "tracks": [
     {
       "added_at": "2022-07-29 05:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
+        "name": "Letrux em Noite de Clim\u00e3o",
+        "url": "https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT"
+      },
+      "artists": [
+        {
+          "name": "Letrux",
+          "url": "https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke"
+        }
+      ],
+      "duration_ms": 190735,
+      "name": "Flerte Revival",
+      "url": "https://open.spotify.com/track/2t2HDBOr6qB4BN5R3Pl0bF"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
         "name": "I'm In Love With You",
         "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 252600,
       "name": "I'm In Love With You",
       "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "Letrux em Noite de Clim\u00e3o",
-        "url": "https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT"
-      },
-      "artists": [
-        {
-          "name": "Letrux",
-          "url": "https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke"
-        }
-      ],
-      "duration_ms": 190735,
-      "name": "Flerte Revival",
-      "url": "https://open.spotify.com/track/2t2HDBOr6qB4BN5R3Pl0bF"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Eleuthera (Catching Flies Remix)",
-        "url": "https://open.spotify.com/album/7ahqwpECJWcTM1egy6nGGd"
-      },
-      "artists": [
-        {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
-        },
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 263926,
-      "name": "Eleuthera - Catching Flies Remix",
-      "url": "https://open.spotify.com/track/7sv8W4bgj7MA7ZUN3GKsOg"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "Mirada Speed",
         "url": "https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 227992,
       "name": "Mirada Speed",
       "url": "https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "Eleuthera (Catching Flies Remix)",
+        "url": "https://open.spotify.com/album/7ahqwpECJWcTM1egy6nGGd"
+      },
+      "artists": [
+        {
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+        },
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 263926,
+      "name": "Eleuthera - Catching Flies Remix",
+      "url": "https://open.spotify.com/track/7sv8W4bgj7MA7ZUN3GKsOg"
     },
     {
       "added_at": "2022-07-29 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,709 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,730 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 39 | [Ievan Polkka \- Club Remix](https://open.spotify.com/track/7hZKIhk5IK6LIz7MQ0NW3L) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Bilal Göregen](https://open.spotify.com/artist/0459Ol8RLeJZJ3FZjZ1225) | [Ievan Polkka \(Club Remix\)](https://open.spotify.com/album/2nMJV3UrtyqwKc9e7q23hn) | 3:00 |
 | 40 | [Youngr](https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Youngr](https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz) | 2:55 |
 | 41 | [Power \(Remember Who You Are\) \- Nasty C Remix](https://open.spotify.com/track/3d43VQ7ibf6NjEznS7IiYI) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Power \(Remember Who You Are\) \[Nasty C Remix\]](https://open.spotify.com/album/5dX7g1UdjcQrSfshmnjJv1) | 3:41 |
-| 42 | [OMOGE WA JO](https://open.spotify.com/track/3ra7ztUfRIwxw0sO8PhmMC) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/0gZF6kUZ77XxQA23NkNp5K) | 2:25 |
-| 43 | [Coming Along](https://open.spotify.com/track/5rpmwkjhUVZvXun139ddzG) | [Sunset Sweatshop](https://open.spotify.com/artist/0Wntg3GwOUnXhRr2vneYg6) | [Chasing Gold](https://open.spotify.com/album/2W8YApa3K9CEwoIN3oJoVT) | 2:49 |
+| 42 | [Coming Along](https://open.spotify.com/track/5rpmwkjhUVZvXun139ddzG) | [Sunset Sweatshop](https://open.spotify.com/artist/0Wntg3GwOUnXhRr2vneYg6) | [Chasing Gold](https://open.spotify.com/album/2W8YApa3K9CEwoIN3oJoVT) | 2:49 |
+| 43 | [OMOGE WA JO](https://open.spotify.com/track/3ra7ztUfRIwxw0sO8PhmMC) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/0gZF6kUZ77XxQA23NkNp5K) | 2:25 |
 | 44 | [We All Believe](https://open.spotify.com/track/2jMgqmkgXS0YDmFxavM8gZ) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Your Mind Is A Picture](https://open.spotify.com/album/0Tiz91zHGJ2kwCaLq4IRb2) | 3:15 |
 | 45 | ['Til I Found You \- Montmartre Remix](https://open.spotify.com/track/1W3DjILstwRfspKO8vpfZp) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [‘Til I Found You \(Montmartre Remix\)](https://open.spotify.com/album/2gtbA1YdkxivCi36EambHn) | 2:46 |
 | 46 | [Moonwalk Away](https://open.spotify.com/track/7pcd9XP1fZsiFGFCOFhtY3) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) | [Three Second Memory \(Deluxe\)](https://open.spotify.com/album/4zfXvbTiPAfmHt56Q3tQEc) | 5:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | [Waves](https://open.spotify.com/track/1cgHWk3kQk8SbvaYHkfTkV) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Critical As Water](https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll) | 3:00 |
 | 60 | [Through the Night](https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj) | [Rubber Duc](https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU) | [Through the Night](https://open.spotify.com/album/1Z7KGtMBANUIXPSp4lajX3) | 3:39 |
 
-Snapshot ID: `MTY2OTEyMjY3MywwMDAwMDAwMDFjNzU2MjkxNDY4Njg1YWMyYjgyMDBkOGFlZmJmYzY5`
+Snapshot ID: `MTY2OTEyMjY3MywwMDAwMDAwMGZjZDcwMjA0NzQ1ZDUxYTFkNzM5NDQ2YTY0YTk5MzRm`

@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Malcolm VL, Jotap\u00ea",
-  "num_followers": 24161,
+  "num_followers": 24192,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQ2MCwwMDAwMDAwMDlhOGQ1ODA2ZDgzYWNlMDFhZmE1MTZlOWFhN2RiYzA0",
+  "snapshot_id": "MTY3MTc2NDQ2MCwwMDAwMDAwMDAwMGNlOTEwYWYwYmVkNDVmMDJmN2Y4MzY0NTU1Y2Vj",
   "tracks": [
     {
       "added_at": "2022-12-02 03:01:00",
@@ -839,6 +839,30 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "Edgar Davids",
+        "url": "https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Edgar Davids",
+      "url": "https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "Passa Nada",
         "url": "https://open.spotify.com/album/7AAwkqFgpxCSOomrrxQFlT"
       },
@@ -867,30 +891,6 @@
       "duration_ms": 224216,
       "name": "Passa Nada",
       "url": "https://open.spotify.com/track/2ppPUewH2bl3W80Zp6zKcD"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Edgar Davids",
-        "url": "https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf"
-      },
-      "artists": [
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Edgar Davids",
-      "url": "https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1101,7 +1101,7 @@
       "url": "https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr"
     },
     {
-      "added_at": "2022-12-25 01:00:29",
+      "added_at": "2022-12-26 00:04:54",
       "album": {
         "name": "Joga e Descontrai",
         "url": "https://open.spotify.com/album/1GkAILVDeTqdESnKt6kKr9"

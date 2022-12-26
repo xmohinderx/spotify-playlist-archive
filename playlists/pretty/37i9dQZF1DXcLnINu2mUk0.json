@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
-  "num_followers": 22886,
+  "num_followers": 22950,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MzYwMCwwMDAwMDAwMDBkZDQ1Zjc0Yjk0MjViNGYyZjhmMzE3NmJiMWE5ZDkw",
+  "snapshot_id": "MTY3MTc1MzYwMCwwMDAwMDAwMDg1YmVhOTk0MzQ3ZmRlNWVmMzk5NDk4NDk2ZjM1NjUy",
   "tracks": [
     {
       "added_at": "2022-12-23 00:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-12-23 00:00:00",
       "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/1kkh8UFijujeCRn91kAKDH"
+      },
+      "artists": [
+        {
+          "name": "Cairo",
+          "url": "https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/1hyewEko9M8kAQqNWxU5jY"
+    },
+    {
+      "added_at": "2022-12-23 00:00:00",
+      "album": {
         "name": "N1",
         "url": "https://open.spotify.com/album/16Hp09IOG9OZXmqj789ejf"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 105110,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/0alvMe4SV8FsVI4dVdPi6o"
-    },
-    {
-      "added_at": "2022-12-23 00:00:00",
-      "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/1kkh8UFijujeCRn91kAKDH"
-      },
-      "artists": [
-        {
-          "name": "Cairo",
-          "url": "https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/1hyewEko9M8kAQqNWxU5jY"
     },
     {
       "added_at": "2022-12-23 00:00:00",

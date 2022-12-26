@@ -1,12 +1,12 @@
 {
   "description": "Las artistas que marcaron el a\u00f1o con Mon Laferte en portada. ",
-  "num_followers": 10737,
+  "num_followers": 10755,
   "original_name": "Lo mejor de EQUAL Chile 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMDJlOGUzMWMwN2U4N2UzZjY3YWRhNGMyYjNiOWU5OGVm",
+  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMDZiN2NhYjkwZDBhZTExYWJiNzJhYWZkYzcwZTBlOGU2",
   "tracks": [
     {
       "added_at": "2022-11-30 13:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
+        "name": "Adi\u00f3s Mi Negrito",
+        "url": "https://open.spotify.com/album/58OYosg2fG9Ykdz68filu1"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Cornejo",
+          "url": "https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6"
+        }
+      ],
+      "duration_ms": 265752,
+      "name": "Adi\u00f3s Mi Negrito",
+      "url": "https://open.spotify.com/track/6MKjQsM77ioTbQ5idx3sLp"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
         "name": "Bestia",
         "url": "https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 190197,
       "name": "Brillando Alto",
       "url": "https://open.spotify.com/track/57C9tAaIytHcO1ntxGohxc"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
-        "name": "Adi\u00f3s Mi Negrito",
-        "url": "https://open.spotify.com/album/58OYosg2fG9Ykdz68filu1"
-      },
-      "artists": [
-        {
-          "name": "Evelyn Cornejo",
-          "url": "https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6"
-        }
-      ],
-      "duration_ms": 265752,
-      "name": "Adi\u00f3s Mi Negrito",
-      "url": "https://open.spotify.com/track/6MKjQsM77ioTbQ5idx3sLp"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Albor",
-        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 201123,
-      "name": "Esta vislumbra",
-      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/07unMn9Pkm8nWxv1Kr1sdt"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 178055,
       "name": "Loco",
       "url": "https://open.spotify.com/track/44nbI3uV9Xy4JTQJ6eCYTL"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Albor",
+        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 201123,
+      "name": "Esta vislumbra",
+      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
     },
     {
       "added_at": "2022-11-30 13:00:00",

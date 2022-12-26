@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 14107,
+  "num_followers": 14138,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzEzODM1MSwwMDAwMDAwMGY1OWQ4NjAwMDI3OWVlN2MwYTI3MTZjMGRlMDRlZWY2",
+  "snapshot_id": "MTY0MzEzODM1MSwwMDAwMDAwMDJjNzRmNGJkNmM5M2NiMmRlNWJiZDM4OTRkZTZjYTQ5",
   "tracks": [
     {
       "added_at": "2022-01-25 19:19:11",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "Inmortales de To\u00f1a la Negra",
-        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 131840,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/5lI6MgAE8NQSw0QfBBAyrH"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
         "name": "Az\u00facar! Caliente",
         "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 176706,
       "name": "Yerbero Moderno",
       "url": "https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
+        "name": "Inmortales de To\u00f1a la Negra",
+        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 131840,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/5lI6MgAE8NQSw0QfBBAyrH"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -663,18 +663,18 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "Que Rico Mambo",
-        "url": "https://open.spotify.com/album/3rzBUm3IuhOIYHHKAJtu9l"
+        "name": "Mis 50 Favoritas",
+        "url": "https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0"
       },
       "artists": [
         {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+          "name": "Los Flamers",
+          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
         }
       ],
-      "duration_ms": 236235,
-      "name": "Que Rico Mambo",
-      "url": "https://open.spotify.com/track/65KQTYQiwd2kZSmGxpfZs0"
+      "duration_ms": 193146,
+      "name": "Juana La Cubana",
+      "url": "https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -699,18 +699,18 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "Mis 50 Favoritas",
-        "url": "https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0"
+        "name": "Que Rico Mambo",
+        "url": "https://open.spotify.com/album/3rzBUm3IuhOIYHHKAJtu9l"
       },
       "artists": [
         {
-          "name": "Los Flamers",
-          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
         }
       ],
-      "duration_ms": 193146,
-      "name": "Juana La Cubana",
-      "url": "https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj"
+      "duration_ms": 236235,
+      "name": "Que Rico Mambo",
+      "url": "https://open.spotify.com/track/65KQTYQiwd2kZSmGxpfZs0"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "Vamos A La Fiesta",
-        "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
       },
       "artists": [
         {
-          "name": "Marimba Orquesta Perla De Chiapas",
-          "url": "https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP"
+          "name": "Tony Camargo",
+          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
         }
       ],
-      "duration_ms": 165301,
-      "name": "Zacazonapan",
-      "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
+      "duration_ms": 163760,
+      "name": "Mi Cafetal",
+      "url": "https://open.spotify.com/track/0fRuB2A8KrSnkUh4JPSBhk"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
+        "name": "Vamos A La Fiesta",
+        "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
       },
       "artists": [
         {
-          "name": "Tony Camargo",
-          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
+          "name": "Marimba Orquesta Perla De Chiapas",
+          "url": "https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP"
         }
       ],
-      "duration_ms": 163760,
-      "name": "Mi Cafetal",
-      "url": "https://open.spotify.com/track/0fRuB2A8KrSnkUh4JPSBhk"
+      "duration_ms": 165301,
+      "name": "Zacazonapan",
+      "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "El Caballero del Ritmo",
-        "url": "https://open.spotify.com/album/2z9SCzTWxm7IkqlfxbAR5d"
-      },
-      "artists": [
-        {
-          "name": "Arturo Nu\u00f1ez Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/1oVhEJ0rdAKvE0goWNDqdl"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "Un Meneito Na' Ma'",
-      "url": "https://open.spotify.com/track/61Js6aQ1SK6VmigZl7CS2O"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
         "name": "Aguita de Coco",
         "url": "https://open.spotify.com/album/2mnZqRaITER5ycCq6AXcQV"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 217813,
       "name": "Aguita de Coco",
       "url": "https://open.spotify.com/track/2uFL2daNnQgaBzFynQAvJo"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
+        "name": "El Caballero del Ritmo",
+        "url": "https://open.spotify.com/album/2z9SCzTWxm7IkqlfxbAR5d"
+      },
+      "artists": [
+        {
+          "name": "Arturo Nu\u00f1ez Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/1oVhEJ0rdAKvE0goWNDqdl"
+        }
+      ],
+      "duration_ms": 193026,
+      "name": "Un Meneito Na' Ma'",
+      "url": "https://open.spotify.com/track/61Js6aQ1SK6VmigZl7CS2O"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
+      },
+      "artists": [
+        {
+          "name": "Tony Camargo",
+          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
+        }
+      ],
+      "duration_ms": 134866,
+      "name": "El Negrito del Batey",
+      "url": "https://open.spotify.com/track/2bBCMYgeKMhvK7ngV98EaU"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
         "name": "Mambos Boleros y Danzones",
         "url": "https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 175866,
       "name": "Agua De Beber",
       "url": "https://open.spotify.com/track/3m5kWHTfLwkfBK0v9bjXGM"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
-      },
-      "artists": [
-        {
-          "name": "Tony Camargo",
-          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
-        }
-      ],
-      "duration_ms": 134866,
-      "name": "El Negrito del Batey",
-      "url": "https://open.spotify.com/track/2bBCMYgeKMhvK7ngV98EaU"
     },
     {
       "added_at": "2022-01-25 19:19:11",

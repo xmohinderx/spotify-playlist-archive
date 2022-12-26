@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ?si=Kgw5PWDhS6yDqzLVTjjqjA"> Bosom P Yung </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,197 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,209 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

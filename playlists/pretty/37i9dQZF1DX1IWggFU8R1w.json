@@ -1,13 +1,33 @@
 {
   "description": "Check out the official playlist from The Witcher. Watch The Witcher: Blood Origin, now streaming on Netflix.",
-  "num_followers": 2486,
+  "num_followers": 2519,
   "original_name": "The Witcher Official Playlist ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE3NzYwMCwwMDAwMDAwMGM1Mzc2YWEzNTMzNTVjMzVjZmYwZmMwY2YzZmI5M2Fk",
+  "snapshot_id": "MTY3MTk1NTIwMCwwMDAwMDAwMGYxM2Y4YmU0NTRhOTM1MDgxNjYyZDQ4MmNjZDkwNGY0",
   "tracks": [
+    {
+      "added_at": "2022-12-25 08:00:00",
+      "album": {
+        "name": "Song of the Seven (From the Netflix Series \"The Witcher: Blood Origin\")",
+        "url": "https://open.spotify.com/album/13TT6VTNXuprXHRP6JpUXD"
+      },
+      "artists": [
+        {
+          "name": "Joey Batey",
+          "url": "https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc"
+        },
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "duration_ms": 227162,
+      "name": "Song of the Seven (From the Netflix Series \"The Witcher: Blood Origin\")",
+      "url": "https://open.spotify.com/track/6h1nuPZk9fQjjgKEuiRJOf"
+    },
     {
       "added_at": "2022-12-16 08:00:00",
       "album": {

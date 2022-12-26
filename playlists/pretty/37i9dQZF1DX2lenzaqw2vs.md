@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > LGBTQ+ artists and allies join this fiesta\. <br/>Cover: Nicole Zignago
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,908 likes - 130 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,906 likes - 130 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,10 +133,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 123 | [Grande](https://open.spotify.com/track/4Ysxfregr1tcAeGxzBrLVi) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs), [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [Grande](https://open.spotify.com/album/4x9XyYlT1YS2DUi47Onqt4) | 2:56 |
 | 124 | [Ruido](https://open.spotify.com/track/1MQsLLmZ6tyJ88Fuwjwcx8) | [La Prohibida](https://open.spotify.com/artist/1sHPujXeed3zTvHlpbqdtl) | [Ruido](https://open.spotify.com/album/2T5rf0qgV9RnkxdnuKEHhf) | 4:57 |
 | 125 | [Sorpresa](https://open.spotify.com/track/3RQIY31sKQOkk5uiRBr0su) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Amor, Locura & Otros Vicios](https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD) | 2:48 |
-| 126 | [Cocaíno](https://open.spotify.com/track/5NtClnWq7XKckE810jIBOw) | [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM) | [Hi\-def Femme](https://open.spotify.com/album/1KOFFgfz2ax4baSBqlyBBP) | 3:52 |
-| 127 | [Llama A Tu Novio](https://open.spotify.com/track/29xiEKkbavb1wM1NTHxmq7) | [Solomon Ray](https://open.spotify.com/artist/6bSsC4nmXp8XTMbTO4CnkV), [MANCANDY](https://open.spotify.com/artist/1MYMkIxhD5Gsq0u0NhPFVq) | [La Mala Introducción](https://open.spotify.com/album/2rXmqm76mF6qneMLib4xiw) | 3:40 |
+| 126 | [Llama A Tu Novio](https://open.spotify.com/track/29xiEKkbavb1wM1NTHxmq7) | [Solomon Ray](https://open.spotify.com/artist/6bSsC4nmXp8XTMbTO4CnkV), [MANCANDY](https://open.spotify.com/artist/1MYMkIxhD5Gsq0u0NhPFVq) | [La Mala Introducción](https://open.spotify.com/album/2rXmqm76mF6qneMLib4xiw) | 3:40 |
+| 127 | [Cocaíno](https://open.spotify.com/track/5NtClnWq7XKckE810jIBOw) | [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM) | [Hi\-def Femme](https://open.spotify.com/album/1KOFFgfz2ax4baSBqlyBBP) | 3:52 |
 | 128 | [Por un Beso](https://open.spotify.com/track/58oFJ52eIebXuzeOVDmU7E) | [Luis Gamarra](https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr) | [Por un Beso](https://open.spotify.com/album/26N5QgwKVy7uX1ppcdcskX) | 2:59 |
 | 129 | [Luces](https://open.spotify.com/track/5ZbZqPiTSQJzKvkMHyZoYi) | [ARIA](https://open.spotify.com/artist/6W4UUzoroQt4P9pjHnauHt), [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j) | [Luces](https://open.spotify.com/album/1fTA11dukn2IrHiFyNb3qD) | 3:26 |
 | 130 | [Shutup](https://open.spotify.com/track/4teYxzh9n4jVpwzL9EQlp2) | [LoMaasBello](https://open.spotify.com/artist/4q1yvWG9gjwwUM0Z51sIMK) | [Shutup](https://open.spotify.com/album/6DkNaHrTgYNr6WJqTWHOb4) | 3:12 |
 
-Snapshot ID: `MTY1NzA0ODgwNCwwMDAwMDAwMDMzZTM3MWRjNjM0ODg0M2ViNjgzNzA3ZjNlMDU3NDE4`
+Snapshot ID: `MTY1NzA0ODgwNCwwMDAwMDAwMDQ4NmNhYWE1YjcwYTNmZWE1OWViYmMwMDZiNjA4OTMy`

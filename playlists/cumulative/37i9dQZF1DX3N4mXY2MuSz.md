@@ -4,7 +4,7 @@
 
 > Holiday classics from your favourite punks\. Cover: The Linda Lindas
 
-185 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/0LsEqOOLiAoH7HfToPQ8Cv)
+186 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/0LsEqOOLiAoH7HfToPQ8Cv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/68Lhef10In5tjhXg5jPotf) | [Issues](https://open.spotify.com/artist/2FHVFWxdcKsUpaxf52ihWN) | [Punk Goes Christmas](https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3) | 3:48 | 2021-11-19 | 2022-07-29 |
 | [Merry Christmas, Kiss My Ass](https://open.spotify.com/track/1Y2GZOHagYKkKRzNVbpbT5) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:19 | 2021-11-19 |  |
 | [Merry Christmas, Kiss My Ass](https://open.spotify.com/track/4rZ0E41vSsttJd2AzaI4Y1) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work \(Deluxe Version\)](https://open.spotify.com/album/2ZF3l2HMjlP7KR2Na2ClY7) | 3:19 | 2021-11-19 | 2022-07-29 |
-| [Merry Spidey Christmas \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR) | [Merry Spidey Christmas \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB) | 2:06 | 2022-11-18 |  |
+| [Merry Spidey Christmas \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR) | [Merry Spidey Christmas \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB) | 2:06 | 2022-11-18 | 2022-12-26 |
 | [Mr\. Winter](https://open.spotify.com/track/3dboEgQj1XkorQYxcj62PY) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | […And A Happy New Year](https://open.spotify.com/album/0nvXgp11ABRjr2BFuBm3rP) | 3:21 | 2021-11-19 | 2022-12-13 |
 | [Mr\. Winter](https://open.spotify.com/track/4DhKi9aSu9cEf5HnHSAdSE) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [..\. And A Happy New Year \- EP](https://open.spotify.com/album/5gp50OwT4ocLFYjY0yGKoK) | 3:21 | 2021-11-19 | 2022-07-29 |
 | [My December](https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 4:20 | 2021-11-19 |  |
@@ -163,6 +163,7 @@
 | [This Christmas](https://open.spotify.com/track/7E7UX0xNqCJ6GBfoG1S9iJ) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:03 | 2021-11-19 |  |
 | [This Christmas \(I'll Burn It To The Ground\)](https://open.spotify.com/track/4lc26OWTRFdEZediB0picq) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:27 | 2021-11-19 |  |
 | [This Christmas \(I'll Burn It to the Ground\)](https://open.spotify.com/track/6fCw2dWI97mTUCNWuLanFf) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punk Goes Christmas](https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3) | 3:27 | 2021-11-19 | 2022-07-26 |
+| [This Could Be Christmas](https://open.spotify.com/track/2lmsxNpEVPs17M7LS7cnl7) | [The So So Glos](https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP), [Spider Stacy](https://open.spotify.com/artist/6wkRKWzFa3VQEet6p66eSu) | [This Could Be Christmas](https://open.spotify.com/album/3mlCzvIC685wUotds8Fpye) | 4:51 | 2022-12-01 |  |
 | [This Holiday](https://open.spotify.com/track/4PQkltcPjdiFh2Uvc3Zvhv) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [This Holiday](https://open.spotify.com/album/5xtAmmqy1YTHVd5DCZYQ2E) | 3:34 | 2021-11-19 | 2022-07-29 |
 | [This Holiday](https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 3:34 | 2021-11-19 |  |
 | [This Is a Christmas Match](https://open.spotify.com/track/2m4EHtbC543ItZjqiM7Tgg) | [Wimbledon Alley](https://open.spotify.com/artist/493q9CX6Jfqz84BMKeE1pT) | [This Is a Christmas Match](https://open.spotify.com/album/6I1AEdIeubzxeUrf06Uz8H) | 2:08 | 2021-11-19 | 2022-07-29 |

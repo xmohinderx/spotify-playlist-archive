@@ -1202,6 +1202,24 @@
     },
     {
       "album": {
+        "name": "Cortexiphan*",
+        "url": "https://open.spotify.com/album/1UE0RyxtK6BvbYIFG1igbJ"
+      },
+      "artists": [
+        {
+          "name": "Parteum",
+          "url": "https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187056,
+      "name": "Cortexiphan #05",
+      "url": "https://open.spotify.com/track/0kLlpRIX89EGeU7yRwqjzR"
+    },
+    {
+      "album": {
         "name": "Cuidado Com Esse Rap",
         "url": "https://open.spotify.com/album/7yhma1v5tKDqLHfk7lTqXY"
       },
@@ -1675,7 +1693,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 321202,
       "name": "Eu Queria Mudar",
       "url": "https://open.spotify.com/track/38E1BGHU8jut2QugXISugS"

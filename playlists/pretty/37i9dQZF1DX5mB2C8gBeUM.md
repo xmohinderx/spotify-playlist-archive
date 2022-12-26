@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: Blanco Brown and T.I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,387 likes - 171 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,525 likes - 171 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

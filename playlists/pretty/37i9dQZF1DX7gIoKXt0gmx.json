@@ -1,15 +1,15 @@
 {
   "description": "All the vibes. All the feels. \ud83e\udee0",
-  "num_followers": 2481082,
+  "num_followers": 2481606,
   "original_name": "All The Feels",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk3MTEzMCwwMDAwMDAwMGRiMzZjMjVjZmUxY2Y2NjgxYTcyMmVlNzRjZWRjY2Q4",
+  "snapshot_id": "MTY3MDk3MTEzMCwwMDAwMDAwMDhkYjI3MTdkYTJkNjJhOWYxY2VkOWQ2NGUzMDMxOWMz",
   "tracks": [
     {
-      "added_at": "2022-12-25 01:13:55",
+      "added_at": "2022-12-26 00:43:27",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF"
     },
     {
-      "added_at": "2022-12-25 01:13:55",
+      "added_at": "2022-12-26 00:43:27",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-12-05 22:44:17",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 183022,
-      "name": "Around Me",
-      "url": "https://open.spotify.com/track/7dQeS4ErW1iWvnKdrtKwKr"
-    },
-    {
-      "added_at": "2022-12-05 22:44:17",
-      "album": {
         "name": "Public Displays Of Affection: The Album",
         "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 222095,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/37S1u9dpiGeBO80Lk9msLy"
+    },
+    {
+      "added_at": "2022-12-05 22:44:17",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 183022,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/7dQeS4ErW1iWvnKdrtKwKr"
     },
     {
       "added_at": "2022-12-05 22:44:17",

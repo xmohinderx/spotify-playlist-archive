@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Soraia Ramos x Nenny.
 
-287 songs - 17 hr 22 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
+288 songs - 17 hr 26 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Apaixonado / Magico / Dam bo amor / Cada vez mais / So 1 momento \- Acoustic Session 1](https://open.spotify.com/track/6Nq3psIgjMvHfSN26gVKtK) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Apaixonado / Magico / Dam bo amor / Cada vez mais / So 1 momento \(Acoustic Session 1\)](https://open.spotify.com/album/6ZZ5iSN6iPO6PtlV6E1q1W) | 3:51 | 2022-04-29 | 2022-07-27 |
 | [Aperta](https://open.spotify.com/track/101bSnuKjwls52XChDbfvg) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Mirror](https://open.spotify.com/album/77BKN39eVEPX2baKEJwqtN) | 3:59 | 2021-12-10 | 2022-04-24 |
 | [Ar que eu Respiro](https://open.spotify.com/track/5VNEmowzM1mq3aDXBHt0K8) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj) | [Ar que eu Respiro](https://open.spotify.com/album/3JL8oqCrugYHWSw72nSkOX) | 3:08 | 2022-07-07 | 2022-07-25 |
-| [Arrepios](https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Arrepios](https://open.spotify.com/album/430jQV4UrweqvoV5osODxI) | 3:24 | 2022-05-26 |  |
+| [Arrepios](https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Arrepios](https://open.spotify.com/album/430jQV4UrweqvoV5osODxI) | 3:24 | 2022-05-26 | 2022-12-26 |
 | [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 | 2021-12-10 |  |
 | [AVÉ](https://open.spotify.com/track/6D9rsde59fT5cHjTqyWz6c) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [AVÉ](https://open.spotify.com/album/4Yqrh5FabMU4qXPf4161BA) | 2:52 | 2022-11-18 |  |
 | [Bai](https://open.spotify.com/track/3ooG7GI5gSSROggAE2pnji) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Bai](https://open.spotify.com/album/76HqC9jwLHzsx5OEWFjQbK) | 3:23 | 2021-12-10 |  |
@@ -185,6 +185,7 @@
 | [Não Vai Embora](https://open.spotify.com/track/0jes5OAEw9JPkXmZ0zpH1d) | [Addy Buxexa](https://open.spotify.com/artist/7mRzqV8rLwE3T14smX9mBg), [Eudreezy](https://open.spotify.com/artist/4SSvV9YET4ifk8VPTHHH24) | [Não Vai Embora](https://open.spotify.com/album/2FrqxNqOXe4LhBfN6JYodA) | 3:45 | 2021-12-10 | 2022-06-06 |
 | [Não Vai Lá](https://open.spotify.com/track/3U9rPBCioBOYbh4IRKEIVS) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Não Vai Lá](https://open.spotify.com/album/5PiHqNNX6TP5G68ls7BmNb) | 3:07 | 2022-07-07 | 2022-07-28 |
 | [Não vai lá](https://open.spotify.com/track/3soU1YzHXcd4nsIjpJmMgK) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Não vai lá](https://open.spotify.com/album/7MkzilGO9QcuASMQuDW0a9) | 3:07 | 2022-08-12 | 2022-12-01 |
+| [Não vai lá](https://open.spotify.com/track/1l52eiHWhwnSLfdyqBRAeY) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Sincera](https://open.spotify.com/album/6azn6TqoR8Uin80ljkqddo) | 3:07 | 2022-12-09 |  |
 | [O Nosso Amor](https://open.spotify.com/track/23bemRVqcUNl1ujD87upis) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [O Nosso Amor](https://open.spotify.com/album/0g47qzEGZUVkYQJzMQhIcU) | 4:46 | 2021-12-10 |  |
 | [O Que Eu Não Fiz](https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Consagração](https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V) | 3:08 | 2022-07-01 |  |
 | [O Que Podemos Ser](https://open.spotify.com/track/7oswOjkF7Q3UFxfyw0Df8t) | [Da Silva](https://open.spotify.com/artist/0VbLf7VNOS7UfPfxRGF02E) | [O Que Podemos Ser](https://open.spotify.com/album/2eUWLweyMjgAB0KQzRpOkU) | 3:04 | 2022-04-22 | 2022-06-06 |

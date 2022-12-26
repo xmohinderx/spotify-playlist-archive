@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,707 likes - 80 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,710 likes - 79 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,15 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 68 | [Ne Hölmöt](https://open.spotify.com/track/2IlAAZBNdZi9g4WKVEvT0O) | [Saarisalo](https://open.spotify.com/artist/6IgTXnqCShUIfXhX2eC8Yl) | [Ne Hölmöt](https://open.spotify.com/album/0uk6R34azCdrEGPYzWidii) | 4:33 |
 | 69 | [Aava](https://open.spotify.com/track/0ujS9nCJPQaGjzsvaIK7Fx) | [Sami Jaakkola Quartet](https://open.spotify.com/artist/0cmKg90nLDc7vf2fPngnnr) | [Aava](https://open.spotify.com/album/06WNFAzaNDrz4Hrv4sd5iH) | 4:20 |
 | 70 | [Just Make It Fast](https://open.spotify.com/track/4xxgPpHKtihNz7yr4FutXd) | [Markus Holkko](https://open.spotify.com/artist/6l1wgkfbI4ICpgO0Spqmed) | [East Side Up!](https://open.spotify.com/album/1HQSyUWkSc5PrsCMnLMTDz) | 3:46 |
-| 71 | [Corona](https://open.spotify.com/track/3nP2kXpViJJR0gjNFlvy1i) | [Aaro Laitinen Quintet](https://open.spotify.com/artist/38NWfEYiJBllcdL6vE4Wb0) | [Corona](https://open.spotify.com/album/04MAdee5JJQdLMfESDGYbX) | 7:15 |
-| 72 | [Sunday 20](https://open.spotify.com/track/1ZgAdSaIBOiuP4ORjwqq19) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq) | [Trio](https://open.spotify.com/album/5lQSdw9RAGUJt2PS6az04U) | 5:47 |
-| 73 | [Neon Light \[And the Sky Was Trans\]](https://open.spotify.com/track/7vFAgpPhAoNXnwVVS4gFOK) | [Linda Fredriksson](https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL) | [Neon Light \[And the Sky Was Trans\]](https://open.spotify.com/album/0JpAFFtjeBpAPuzsSds87a) | 5:28 |
-| 74 | [Hope](https://open.spotify.com/track/0wIIVAaIVEEezkbF3nywKF) | [Elena Mindru](https://open.spotify.com/artist/47QMhVp3uV1FqiU2RtAlWZ) | [Hope](https://open.spotify.com/album/1bph2eWLw0CiJawMFhb2Pu) | 5:30 |
-| 75 | [Arcade](https://open.spotify.com/track/1uT3YSj2okGX3oYOiROe2z) | [Kalevi Hämäläinen Group](https://open.spotify.com/artist/4Kc8F50zSN0op8lEcKm6c2) | [Arcade](https://open.spotify.com/album/5viGCnQLCBvMYEdAaxkM54) | 6:28 |
-| 76 | [What Is It \(That You're so Afraid Of\)](https://open.spotify.com/track/0AnjhIB4R0t8xJ2mbAsvtF) | [Tomi Nikku](https://open.spotify.com/artist/4PePBixKLlpOaotcULtg7o), [5tet](https://open.spotify.com/artist/5Qm3npTJ6kO8wV8ZySNUbg) | [What Is It \(That You're so Afraid Of\)](https://open.spotify.com/album/34Br3pPRXwTkNWo9nIWjJp) | 6:33 |
-| 77 | [Ajasta eksyneet](https://open.spotify.com/track/6Ufl4p4Oz7F42LTYr5Z2zu) | [Pihlanne](https://open.spotify.com/artist/7revWXsvgsJUnhB81hawi9) | [Lähellä, kaukana](https://open.spotify.com/album/4tmVTqWdEUSA8MEocoXC9v) | 5:28 |
-| 78 | [Sörnäinen](https://open.spotify.com/track/01qQCb8v73UKqrdr3z4Ydn) | [Artturi Rönkä](https://open.spotify.com/artist/5OUO2uQgJ6P0eWW4SxMdac), [Daniel Sommer](https://open.spotify.com/artist/3BWDiqu2vlyz18ZDMsZ5VO), [Kasperi Sarikoski](https://open.spotify.com/artist/1yNUIy8ESiCTqEcCcf0snT) | [Sörnäinen](https://open.spotify.com/album/5vLh5LYQOIEbyrTEeQ1stg) | 4:56 |
-| 79 | [Stream Lines](https://open.spotify.com/track/4nBw9s80yHFNGPCDCR0u0j) | [Aki Rissanen](https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX) | [Stream Lines](https://open.spotify.com/album/0sPvJauHRN2nbG73nU55Nm) | 4:20 |
-| 80 | [Orlo](https://open.spotify.com/track/6JHImit1Hmvx8x7Qx6cAJd) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq) | [Orlo](https://open.spotify.com/album/77VgiOCIC8xoZv7KNLnooh) | 4:55 |
+| 71 | [Sunday 20](https://open.spotify.com/track/1ZgAdSaIBOiuP4ORjwqq19) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq) | [Trio](https://open.spotify.com/album/5lQSdw9RAGUJt2PS6az04U) | 5:47 |
+| 72 | [Neon Light \[And the Sky Was Trans\]](https://open.spotify.com/track/7vFAgpPhAoNXnwVVS4gFOK) | [Linda Fredriksson](https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL) | [Neon Light \[And the Sky Was Trans\]](https://open.spotify.com/album/0JpAFFtjeBpAPuzsSds87a) | 5:28 |
+| 73 | [Hope](https://open.spotify.com/track/0wIIVAaIVEEezkbF3nywKF) | [Elena Mindru](https://open.spotify.com/artist/47QMhVp3uV1FqiU2RtAlWZ) | [Hope](https://open.spotify.com/album/1bph2eWLw0CiJawMFhb2Pu) | 5:30 |
+| 74 | [Arcade](https://open.spotify.com/track/1uT3YSj2okGX3oYOiROe2z) | [Kalevi Hämäläinen Group](https://open.spotify.com/artist/4Kc8F50zSN0op8lEcKm6c2) | [Arcade](https://open.spotify.com/album/5viGCnQLCBvMYEdAaxkM54) | 6:28 |
+| 75 | [What Is It \(That You're so Afraid Of\)](https://open.spotify.com/track/0AnjhIB4R0t8xJ2mbAsvtF) | [Tomi Nikku](https://open.spotify.com/artist/4PePBixKLlpOaotcULtg7o), [5tet](https://open.spotify.com/artist/5Qm3npTJ6kO8wV8ZySNUbg) | [What Is It \(That You're so Afraid Of\)](https://open.spotify.com/album/34Br3pPRXwTkNWo9nIWjJp) | 6:33 |
+| 76 | [Ajasta eksyneet](https://open.spotify.com/track/6Ufl4p4Oz7F42LTYr5Z2zu) | [Pihlanne](https://open.spotify.com/artist/7revWXsvgsJUnhB81hawi9) | [Lähellä, kaukana](https://open.spotify.com/album/4tmVTqWdEUSA8MEocoXC9v) | 5:28 |
+| 77 | [Sörnäinen](https://open.spotify.com/track/01qQCb8v73UKqrdr3z4Ydn) | [Artturi Rönkä](https://open.spotify.com/artist/5OUO2uQgJ6P0eWW4SxMdac), [Daniel Sommer](https://open.spotify.com/artist/3BWDiqu2vlyz18ZDMsZ5VO), [Kasperi Sarikoski](https://open.spotify.com/artist/1yNUIy8ESiCTqEcCcf0snT) | [Sörnäinen](https://open.spotify.com/album/5vLh5LYQOIEbyrTEeQ1stg) | 4:56 |
+| 78 | [Stream Lines](https://open.spotify.com/track/4nBw9s80yHFNGPCDCR0u0j) | [Aki Rissanen](https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX) | [Stream Lines](https://open.spotify.com/album/0sPvJauHRN2nbG73nU55Nm) | 4:20 |
+| 79 | [Orlo](https://open.spotify.com/track/6JHImit1Hmvx8x7Qx6cAJd) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq) | [Orlo](https://open.spotify.com/album/77VgiOCIC8xoZv7KNLnooh) | 4:55 |
 
 Snapshot ID: `MTY2Njk0NDk0NywwMDAwMDAwMDg3NzRmYjc2OGIzZDg3ZThlZjZmZGIxMzQ2NGYyZjAy`

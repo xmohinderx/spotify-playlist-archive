@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: The 1975
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,704 likes - 72 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,719 likes - 72 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

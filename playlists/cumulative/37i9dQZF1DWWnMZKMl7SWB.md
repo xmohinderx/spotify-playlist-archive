@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-303 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
+304 songs - 19 hr 37 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Chronograph](https://open.spotify.com/track/4vVOS1z2vpySK6s6FphUlZ) | [Insert Values](https://open.spotify.com/artist/6bBcKerBmp4gjqDtxQG1qm) | [Chronograph](https://open.spotify.com/album/3Mq2XDS9nlgxZps5eWTAX2) | 2:42 | 2022-11-11 |  |
 | [Clarity](https://open.spotify.com/track/19ISEtEat3oefNy4yVFLFK) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Clarity](https://open.spotify.com/album/09bDlTcjEzOeMZJCjKwxF0) | 4:04 | 2022-04-12 | 2022-07-29 |
 | [Clarity](https://open.spotify.com/track/3JSPHPd6ykQIRMuPGsKIrR) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Clarity](https://open.spotify.com/album/4mBLkjC4H3OxkiMm22cdQ8) | 4:05 | 2022-09-09 | 2022-11-13 |
-| [Clarity](https://open.spotify.com/track/3nXapkwJPBvHDG5u3PLRGp) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Model Man](https://open.spotify.com/album/1SCoPxlKCVvW2DqWI2Ddfu) | 4:05 | 2022-04-12 |  |
+| [Clarity](https://open.spotify.com/track/3nXapkwJPBvHDG5u3PLRGp) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Model Man](https://open.spotify.com/album/1SCoPxlKCVvW2DqWI2Ddfu) | 4:05 | 2022-04-12 | 2022-12-26 |
+| [Clarity](https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Model Man](https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4) | 4:05 | 2022-12-09 |  |
 | [Club der Ewigkeiten](https://open.spotify.com/track/2ywFTaCXKedBFlYA0XcHJM) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 4:09 | 2022-04-12 |  |
 | [Counting Stars](https://open.spotify.com/track/7KMm1zF2QOTSw2t01IAFif) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [2nd Collection](https://open.spotify.com/album/1uFAVpKOz5CBiaMxVnA9UW) | 4:07 | 2022-04-12 |  |
 | [Deserter](https://open.spotify.com/track/1YPsBcPaUgzDLVMnkNjezF) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Down Here with You](https://open.spotify.com/album/6WqF77ilKp8ui2RlGIYmAp) | 3:30 | 2022-04-12 |  |

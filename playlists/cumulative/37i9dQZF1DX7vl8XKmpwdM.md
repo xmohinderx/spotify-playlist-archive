@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Thiruchitrambalam
 
-84 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
+85 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Jai Sulthan \- From "Sulthan"](https://open.spotify.com/track/7crGzxRqI5pMZAjZgF9uu2) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Junior Nithya](https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3), [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW) | [Jai Sulthan \(From "Sulthan"\)](https://open.spotify.com/album/3t8eTRRkTRs9mxxYWZK9Xz) | 4:06 | 2021-12-01 |  |
 | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/track/4HdzYTQiouB9BVYX7JOrhh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/album/3cXSg3K9z6fZAd1lWmqvrc) | 3:22 | 2021-12-16 |  |
 | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/track/0OgazYID6CUlSeiAoeuf5B) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/album/5hoVfWGxDJhhqJHdooUJkh) | 3:38 | 2021-12-01 |  |
+| [Jimikki Ponnu](https://open.spotify.com/track/7fRIo7WyDxXn3r233GCcdL) | [Anirudha](https://open.spotify.com/artist/2BTTr1HTBzlnRnzS3NUKED), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Varisu](https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy) | 3:44 | 2022-12-25 |  |
 | [Jolly O Gymkhana \(From "Beast"\)](https://open.spotify.com/track/6lpbzOMBOYHRsp6WEMvRvn) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jolly O Gymkhana \(From "Beast"\)](https://open.spotify.com/album/2mtWpU8LaaIDWGA3dtGEUC) | 3:28 | 2022-03-19 |  |
 | [Kadhal Psycho \(From "Saaho"\)](https://open.spotify.com/track/36BwgojDYh1SOmZ6gG7WqR) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Kadhal Psycho \(From "Saaho"\)](https://open.spotify.com/album/3Q8ydcSlU4QA8a7GCkU51y) | 2:46 | 2021-12-01 |  |
 | [Kaduna Thrillu Thanada \(From "Bhediya \- Tamil"\)](https://open.spotify.com/track/2uJSz1wsssI2ehg69qNZ9F) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Kaduna Thrillu Thanada \(From "Bhediya \- Tamil"\)](https://open.spotify.com/album/0cTTOCLYogE4CwKR6C0k1V) | 2:46 | 2022-11-14 | 2022-12-05 |

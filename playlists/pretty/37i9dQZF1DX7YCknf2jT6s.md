@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Grace Kelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,065 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,152 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 72 | [Mystics \- Live](https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg) | 3:47 |
 | 73 | [NOT TiGHT](https://open.spotify.com/track/0qZcBeIKskV61K1ekFJcar) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 4:08 |
 | 74 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/7LL0QkIE3gZLmqUbptVLc2) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Par\-Ola Landin](https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr), [Karl\-Henrik Ousbäck](https://open.spotify.com/artist/4S3y6LL6sBcjwwSEYknBwV) | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/album/4C9bsmeHvh168BMnqd5stY) | 6:30 |
-| 75 | [Pure Body](https://open.spotify.com/track/3EDOOB62d6D3zLJTsXe542) | [tyroneisaacstuart](https://open.spotify.com/artist/7IrtDd8etfUqqxBhfZ5zHI), [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [S!CK](https://open.spotify.com/album/5eb8rXscjtszX5i9zzAm6u) | 5:09 |
+| 75 | [Pure Body](https://open.spotify.com/track/6zFHFIS29EtNW7s1U4x7WI) | [tyroneisaacstuart](https://open.spotify.com/artist/7IrtDd8etfUqqxBhfZ5zHI), [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [S!CK](https://open.spotify.com/album/090lMBT6jYvffADBytYSvC) | 5:09 |
 | 76 | [Stolper Jim](https://open.spotify.com/track/5V6OPGZZMF9d92kjYd5eP8) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Stolper Jim](https://open.spotify.com/album/677oWxXvSwf13IrJRjEYAR) | 4:05 |
 | 77 | [Out of the Past](https://open.spotify.com/track/5GrUxudlbub9174u8xDeJr) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG), [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u), [Curtis Fuller](https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK), [Geoff Keezer](https://open.spotify.com/artist/5rlMzX0jL0ENT9XEVPJMnu), [Dwayne Burno](https://open.spotify.com/artist/6bc7L0muoQvrJmrehvygRT), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [One Day, Forever](https://open.spotify.com/album/1GhbfG1CSNsrbngRHITu6H) | 9:18 |
 | 78 | [Dust Ball Fantasy \(feat\. Lionel Loueke\)](https://open.spotify.com/track/1R3OT4zUhA9p8erPorBcPD) | [Marcus Strickland Twi\-Life](https://open.spotify.com/artist/3r1zgybXPtRemw0HPrDU7l), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Dust Ball Fantasy \(feat\. Lionel Loueke\)](https://open.spotify.com/album/3fAJ4IYvinGbGd9SSpmcsN) | 5:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [I Was an American Boy](https://open.spotify.com/track/111yyU1pjWcR40cMMaRxY4) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Marco Bardoscia](https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E), [Dino Rubino](https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S), [Daniele di Bonaventura](https://open.spotify.com/artist/2FfQ9VP66RZxG0lmiMAKT6) | [Ferlinghetti](https://open.spotify.com/album/68AL3VoUvPAaBcS8sSlWvU) | 6:11 |
 | 100 | [The Pioneers](https://open.spotify.com/track/6aUm3x3eDyWWi7vn4stopF) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Four](https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr) | 5:42 |
 
-Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMGQwMWNjNWY3MTY0ZDIzM2Y3NjY3ZWI1Y2U3OWZjYzhk`
+Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMGVlYmRmNTQ1NDBlMzAyZWQ3OTkwYWNjMmVmNmZkMzQy`

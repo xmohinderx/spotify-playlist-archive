@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 100638,
+  "num_followers": 100676,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMGU2MzhlOGJkMTAxMDc5YjExZDMyZjNhNWIxYWE3MThi",
+  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMDVmYmMxZjYzYTczMDYyNDkwNWY2YjRjN2FmMTA0MTZl",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -527,8 +527,8 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
+        "name": "Traigo Alabanza",
+        "url": "https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c"
       },
       "artists": [
         {
@@ -536,25 +536,9 @@
           "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
         }
       ],
-      "duration_ms": 244426,
-      "name": "Digan Lo Que Diga",
-      "url": "https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Solo Bachata",
-        "url": "https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Rios",
-          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
-        }
-      ],
-      "duration_ms": 301320,
-      "name": "Cuando Se Acaba El Amor",
-      "url": "https://open.spotify.com/track/2FXKO3yAmNgFE3GcNsuJDd"
+      "duration_ms": 251453,
+      "name": "Estoy Contento",
+      "url": "https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -571,6 +555,22 @@
       "duration_ms": 236000,
       "name": "Mi Fe",
       "url": "https://open.spotify.com/track/6MgUmPLVK2yvNDSAcL0D1d"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Solo Bachata",
+        "url": "https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Rios",
+          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
+        }
+      ],
+      "duration_ms": 301320,
+      "name": "Cuando Se Acaba El Amor",
+      "url": "https://open.spotify.com/track/2FXKO3yAmNgFE3GcNsuJDd"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -623,8 +623,8 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Traigo Alabanza",
-        "url": "https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c"
+        "name": "Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
         }
       ],
-      "duration_ms": 251453,
-      "name": "Estoy Contento",
-      "url": "https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s"
+      "duration_ms": 244426,
+      "name": "Digan Lo Que Diga",
+      "url": "https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3"
     },
     {
       "added_at": "2020-09-18 05:02:00",

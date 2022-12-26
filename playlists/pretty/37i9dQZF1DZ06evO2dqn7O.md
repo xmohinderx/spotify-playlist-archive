@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,307 likes - 52 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,313 likes - 52 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 51 | [Okay](https://open.spotify.com/track/2qo6M1TWBhGCX4N0LlqvMi) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Beautiful Liar](https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8) | 4:45 |
 | 52 | [Water \- From The Original Television Soundtrack Blade Runner Black Lotus](https://open.spotify.com/track/4IDwJJkYVZQ7GaIGjtDx0J) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Water \(From The Original Television Soundtrack Blade Runner Black Lotus\)](https://open.spotify.com/album/0bu5iBOXvPRMZOUGUsdA0V) | 3:13 |
 
-Snapshot ID: `Mjc4NjQ4MzUsMDAwMDAwMDAzZTZmYzM4NzdlZTlkODU1OTRmYjQ2NjUwNTM5ZGQxOQ==`
+Snapshot ID: `Mjc4NjYyNzgsMDAwMDAwMDBjNWE1MzVmNTllNTNjODYyZjhjN2FkMjIwMjBjNzJkZQ==`

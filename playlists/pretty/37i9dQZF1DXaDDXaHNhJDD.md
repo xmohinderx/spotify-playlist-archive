@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > An exclusive collection of Malayalam super hit songs.<br/>Cover: GOLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,989 likes - 76 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,143 likes - 76 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

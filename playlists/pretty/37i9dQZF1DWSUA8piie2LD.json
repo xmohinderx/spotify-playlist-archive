@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 53368,
+  "num_followers": 53479,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTcxNzc0MywwMDAwMDAwMDA3NzdiODdmZmIwMWVhYjFlMDk1YWU5ZjE2MTY3MmZl",
+  "snapshot_id": "MTY3MTcxNzc0MywwMDAwMDAwMGI5MmUyYWI4YjFjNjc3ZDA2OTBhZWQyZGQ3MDY2N2Vj",
   "tracks": [
     {
       "added_at": "2022-12-22 14:02:23",
@@ -287,18 +287,18 @@
     {
       "added_at": "2022-12-22 14:02:23",
       "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
       },
       "artists": [
         {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
         }
       ],
-      "duration_ms": 276400,
-      "name": "Now 'Til Forever",
-      "url": "https://open.spotify.com/track/4L2lzMYxwE4ObPozyV1idl"
+      "duration_ms": 175280,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/38EkRULbiBhUGbMBsgFRtw"
     },
     {
       "added_at": "2022-12-22 14:02:23",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-12-22 14:02:23",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/38EkRULbiBhUGbMBsgFRtw"
-    },
-    {
-      "added_at": "2022-12-22 14:02:23",
-      "album": {
         "name": "Personal Touch",
         "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 224626,
       "name": "Personal Touch",
       "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
+    },
+    {
+      "added_at": "2022-12-22 14:02:23",
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 276400,
+      "name": "Now 'Til Forever",
+      "url": "https://open.spotify.com/track/4L2lzMYxwE4ObPozyV1idl"
     },
     {
       "added_at": "2022-12-22 14:02:23",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-12-22 14:02:23",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 270773,
-      "name": "Who's That Lady",
-      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
-    },
-    {
-      "added_at": "2022-12-22 14:02:23",
-      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 340386,
       "name": "Fields of Gold",
       "url": "https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp"
+    },
+    {
+      "added_at": "2022-12-22 14:02:23",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 270773,
+      "name": "Who's That Lady",
+      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
     },
     {
       "added_at": "2022-12-22 14:02:23",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-12-22 14:02:23",
       "album": {
-        "name": "For Your Pleasure",
-        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Nice And Easy",
-      "url": "https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K"
-    },
-    {
-      "added_at": "2022-12-22 14:02:23",
-      "album": {
         "name": "Out Of A Dream",
         "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 300560,
       "name": "Love Won't Let Me Wait",
       "url": "https://open.spotify.com/track/3jHXbXBwZ9O1YMVsSfXuee"
+    },
+    {
+      "added_at": "2022-12-22 14:02:23",
+      "album": {
+        "name": "For Your Pleasure",
+        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Nice And Easy",
+      "url": "https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K"
     },
     {
       "added_at": "2022-12-22 14:02:23",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-12-22 14:02:23",
       "album": {
+        "name": "Euge Groove",
+        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 304400,
+      "name": "Sneak a Peek",
+      "url": "https://open.spotify.com/track/2uc5qiIZZPPFpNaQn3M54w"
+    },
+    {
+      "added_at": "2022-12-22 14:02:23",
+      "album": {
         "name": "Full Stride",
         "url": "https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2022-12-22 14:02:23",
       "album": {
-        "name": "Euge Groove",
-        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 304400,
-      "name": "Sneak a Peek",
-      "url": "https://open.spotify.com/track/2uc5qiIZZPPFpNaQn3M54w"
-    },
-    {
-      "added_at": "2022-12-22 14:02:23",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
       },
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-12-22 14:02:23",
       "album": {
+        "name": "Born 2 Groove",
+        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 308826,
+      "name": "A Summer Night's Dream",
+      "url": "https://open.spotify.com/track/0c0BVgVakGq5rylCucXVau"
+    },
+    {
+      "added_at": "2022-12-22 14:02:23",
+      "album": {
         "name": "Excusez-Moi",
         "url": "https://open.spotify.com/album/4kNEM4zelH69nf1mFyysDA"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 276226,
       "name": "If Only For One Night",
       "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
-    },
-    {
-      "added_at": "2022-12-22 14:02:23",
-      "album": {
-        "name": "Born 2 Groove",
-        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 308826,
-      "name": "A Summer Night's Dream",
-      "url": "https://open.spotify.com/track/0c0BVgVakGq5rylCucXVau"
     },
     {
       "added_at": "2022-12-22 14:02:23",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-12-22 14:02:23",
       "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        }
-      ],
-      "duration_ms": 283866,
-      "name": "Twice in a Lifetime",
-      "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
-    },
-    {
-      "added_at": "2022-12-22 14:02:23",
-      "album": {
         "name": "For The Love",
         "url": "https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 280868,
       "name": "I Just Can't Let Go",
       "url": "https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB"
+    },
+    {
+      "added_at": "2022-12-22 14:02:23",
+      "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "duration_ms": 283866,
+      "name": "Twice in a Lifetime",
+      "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
     },
     {
       "added_at": "2022-12-22 14:02:23",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-12-22 14:02:23",
       "album": {
-        "name": "Hardcastle 2",
-        "url": "https://open.spotify.com/album/61tvHMNjOY8wXboWWeNA8D"
-      },
-      "artists": [
-        {
-          "name": "Paul Hardcastle",
-          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Bird Island",
-      "url": "https://open.spotify.com/track/5IJsB3d0lCO9sstn4odorM"
-    },
-    {
-      "added_at": "2022-12-22 14:02:23",
-      "album": {
         "name": "Nightlife",
         "url": "https://open.spotify.com/album/3REfT3hfJrLkfsfmkS8ZHN"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 271880,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i"
+    },
+    {
+      "added_at": "2022-12-22 14:02:23",
+      "album": {
+        "name": "Hardcastle 2",
+        "url": "https://open.spotify.com/album/61tvHMNjOY8wXboWWeNA8D"
+      },
+      "artists": [
+        {
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Bird Island",
+      "url": "https://open.spotify.com/track/5IJsB3d0lCO9sstn4odorM"
     },
     {
       "added_at": "2022-12-22 14:02:23",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-12-22 14:02:23",
       "album": {
-        "name": "Cover to Cover",
-        "url": "https://open.spotify.com/album/0xxiiLV2wZraHsNUnROvyW"
-      },
-      "artists": [
-        {
-          "name": "Paul Hardcastle",
-          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Shelbi",
-      "url": "https://open.spotify.com/track/3THBbgiNAp43CpeU5knmFn"
-    },
-    {
-      "added_at": "2022-12-22 14:02:23",
-      "album": {
         "name": "Til the Morning Light",
         "url": "https://open.spotify.com/album/3ZASeCmSy50JdfVhHfcoSn"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 270036,
       "name": "Til the Morning Light",
       "url": "https://open.spotify.com/track/0cLaBxrMKtBKjpeelpxvYG"
+    },
+    {
+      "added_at": "2022-12-22 14:02:23",
+      "album": {
+        "name": "Cover to Cover",
+        "url": "https://open.spotify.com/album/0xxiiLV2wZraHsNUnROvyW"
+      },
+      "artists": [
+        {
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Shelbi",
+      "url": "https://open.spotify.com/track/3THBbgiNAp43CpeU5knmFn"
     },
     {
       "added_at": "2022-12-22 14:02:23",

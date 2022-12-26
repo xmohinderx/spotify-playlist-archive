@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 115200,
       "name": "BANKAI",
       "url": "https://open.spotify.com/track/33sPNJZxIi4Qq9jy4rACPJ"
@@ -1857,7 +1857,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 86160,
       "name": "classical phonk",
       "url": "https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl"
@@ -6447,7 +6447,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 220096,
       "name": "Musta Been a Ghost",
       "url": "https://open.spotify.com/track/0AZTpwagcDe4nH0mPcnYhS"
@@ -7765,7 +7765,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 150833,
       "name": "Poka\u017ed\u00e9",
       "url": "https://open.spotify.com/track/1AirRMnxu37GcsIhUD3lZ5"
@@ -9259,7 +9259,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 110938,
       "name": "Spinnin",
       "url": "https://open.spotify.com/track/5OzgCc3gQsqchX95k1C1Qa"
@@ -9525,6 +9525,24 @@
       "duration_ms": 193475,
       "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
       "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
+    },
+    {
+      "album": {
+        "name": "Heart Skips Beat",
+        "url": "https://open.spotify.com/album/5IWeqnBDLYy5YdnsKOxh2n"
+      },
+      "artists": [
+        {
+          "name": "Jona Lewie",
+          "url": "https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176360,
+      "name": "Stop The Cavalry",
+      "url": "https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr"
     },
     {
       "album": {
@@ -10086,6 +10104,24 @@
     },
     {
       "album": {
+        "name": "Vianoce s Darinou La\u0161\u010diakovou",
+        "url": "https://open.spotify.com/album/29myIJSYGwJnapy3OiERsp"
+      },
+      "artists": [
+        {
+          "name": "Darina Lasciakov\u00e1",
+          "url": "https://open.spotify.com/artist/7CtXDuxQ1KjFQWntoRdQlw"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205066,
+      "name": "Ticha noc",
+      "url": "https://open.spotify.com/track/1KkwI1nxE0ApQk9glt8ZBs"
+    },
+    {
+      "album": {
         "name": "Stane Sa / To Okolo N\u00e1s",
         "url": "https://open.spotify.com/album/6nkWiiixRtzxOqOV58yOLW"
       },
@@ -10211,7 +10247,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 84817,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/7DfX6Bou8XXAxkWSUt18LD"
@@ -11452,6 +11488,28 @@
     },
     {
       "album": {
+        "name": "Karel Gott",
+        "url": "https://open.spotify.com/album/0DO7GeEDjD2OwjsfZ9usJu"
+      },
+      "artists": [
+        {
+          "name": "Karel Gott",
+          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
+        },
+        {
+          "name": "Darina Rolincov\u00e1",
+          "url": "https://open.spotify.com/artist/2vPsYuWFFe7mm37Qfypnk7"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215213,
+      "name": "Zvonky \u0160t\u011bst\u00ed",
+      "url": "https://open.spotify.com/track/7m3RFdvEMjDiSJbIUld06r"
+    },
+    {
+      "album": {
         "name": "|BONKERS|",
         "url": "https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr"
       },
@@ -11467,6 +11525,24 @@
       "duration_ms": 212335,
       "name": "|BONKERS|",
       "url": "https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS"
+    },
+    {
+      "album": {
+        "name": "\u010casy se m\u011bn\u00ed",
+        "url": "https://open.spotify.com/album/0OTEueHdGIHC1EGPNrgujI"
+      },
+      "artists": [
+        {
+          "name": "Kate\u0159ina Marie Tich\u00e1",
+          "url": "https://open.spotify.com/artist/0WGRcXFn2jyD7Jq6wIHv6O"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152405,
+      "name": "\u010casy se m\u011bn\u00ed",
+      "url": "https://open.spotify.com/track/4atsam3P3ITpW0gkb6ogX4"
     },
     {
       "album": {

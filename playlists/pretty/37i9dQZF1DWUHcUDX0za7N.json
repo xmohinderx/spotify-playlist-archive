@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YZ4PsjwoRNK0UBOTjrxGsA\" > Odumodublvck </a> ",
-  "num_followers": 13463,
+  "num_followers": 13500,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTM1NzczOSwwMDAwMDAwMGFjNWUwODZiODEwYTQwMTdkMGE2M2E0YTczOWNiYmI5",
+  "snapshot_id": "MTY3MTM1NzczOSwwMDAwMDAwMGZiMTZmYTEyNmRjNDA3MTY3ZDNjNjNhYzBhNDYyZjA2",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -921,6 +921,26 @@
       "url": "https://open.spotify.com/track/11bQsRKQ9z0acI4klPQoQr"
     },
     {
+      "added_at": "2022-08-12 05:06:58",
+      "album": {
+        "name": "Vigilante Bop",
+        "url": "https://open.spotify.com/album/2W90ihxyThRpceuy94iejV"
+      },
+      "artists": [
+        {
+          "name": "Alpha Ojini",
+          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
+        },
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 180950,
+      "name": "Vigilante Bop",
+      "url": "https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Gbagada Express",
@@ -947,26 +967,6 @@
       "duration_ms": 168247,
       "name": "Awolowo",
       "url": "https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0"
-    },
-    {
-      "added_at": "2022-08-12 05:06:58",
-      "album": {
-        "name": "Vigilante Bop",
-        "url": "https://open.spotify.com/album/2W90ihxyThRpceuy94iejV"
-      },
-      "artists": [
-        {
-          "name": "Alpha Ojini",
-          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
-        },
-        {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 180950,
-      "name": "Vigilante Bop",
-      "url": "https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1265,22 +1265,6 @@
       "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
-      "added_at": "2022-11-18 11:40:22",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/4NR3st0lpRq63g3oSp5wj3"
-      },
-      "artists": [
-        {
-          "name": "Kayode",
-          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
-        }
-      ],
-      "duration_ms": 146527,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/6v3uGqyVkVIfFfoWHNHH6v"
-    },
-    {
       "added_at": "2022-11-24 23:00:00",
       "album": {
         "name": "Closer",
@@ -1299,6 +1283,22 @@
       "duration_ms": 196657,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4LknxxjOhHOSD1114p2xWD"
+    },
+    {
+      "added_at": "2022-11-18 11:40:22",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4NR3st0lpRq63g3oSp5wj3"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
+        }
+      ],
+      "duration_ms": 146527,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6v3uGqyVkVIfFfoWHNHH6v"
     },
     {
       "added_at": "2022-06-09 23:00:00",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-151 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/1UyIYAFlZaVwKHGX6GAsd7)
+152 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/1UyIYAFlZaVwKHGX6GAsd7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,8 +38,9 @@
 | [Chelsea Bridge](https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Ben Webster](https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE) | 7:22 | 2022-09-08 |  |
 | [Circle \- Exodus Album Version](https://open.spotify.com/track/4JZ9Pc0QK921qM5g5Aexeg) | [Plus One](https://open.spotify.com/artist/5TMRulP603VraQhrFUUKnR) | [Exodus](https://open.spotify.com/album/156VxyrWt0Y50ypQYm8HCd) | 3:26 | 2022-09-08 |  |
 | [Circle of Fourths](https://open.spotify.com/track/3gYdEuSW3WulxmjkJoCnXK) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 1:44 | 2022-09-08 |  |
-| [Clementine](https://open.spotify.com/track/1DkbJhQlmCvXe4ieTwecEC) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Lush Life](https://open.spotify.com/album/3YelTkVhlEXydToO9cCDjS) | 2:23 | 2022-10-18 |  |
+| [Clementine](https://open.spotify.com/track/1DkbJhQlmCvXe4ieTwecEC) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Lush Life](https://open.spotify.com/album/3YelTkVhlEXydToO9cCDjS) | 2:23 | 2022-10-18 | 2022-12-26 |
 | [Clementine](https://open.spotify.com/track/5OVFmjIZkM2EBjW8T0v0V7) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Lush Life](https://open.spotify.com/album/43x4d2Sq1mUl2X5VBWa0Ve) | 2:23 | 2022-09-08 | 2022-10-19 |
+| [Clementine](https://open.spotify.com/track/7m9S3Smuhc0AlDqZoIR0MX) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Nutcracker Suite \(Expanded Edition\)](https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug) | 2:48 | 2022-12-25 |  |
 | [Clementine](https://open.spotify.com/track/1Wi7jbwmHDnGKl8eymwcBt) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 2:40 | 2022-09-08 |  |
 | [Coffee and Kisses](https://open.spotify.com/track/0ursbi6z3JFL0Tndox3C0a) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 3:10 | 2022-09-08 |  |
 | [Congo Square](https://open.spotify.com/track/6VyjJ9aklXIyIdYuNr9vMc) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Laika](https://open.spotify.com/artist/1x7QlgJUVrLv1SSyeknnJq) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 3:47 | 2022-09-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > 80s/90s throwbacks is \#SpotifyTBT's way of wishing you a very happy holidays\. Cover: Wham!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,128,180 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,128,142 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

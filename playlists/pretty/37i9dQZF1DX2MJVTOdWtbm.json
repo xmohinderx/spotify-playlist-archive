@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior H ",
-  "num_followers": 102676,
+  "num_followers": 102696,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc0MDc5NSwwMDAwMDAwMDYyODA0YmUxYTdmMGU2ZWVkM2ZhYmUxYjc0YjFjZmQ5",
+  "snapshot_id": "MTY3MTc0MDc5NSwwMDAwMDAwMDdlODUyYzI0MDU3ZTA4NTQzYTY5OTAzM2NjZjliMzc1",
   "tracks": [
     {
       "added_at": "2022-12-22 20:26:35",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-12-22 20:26:35",
       "album": {
+        "name": "SUPERSTICIONES",
+        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 188890,
+      "name": "Supersticiones",
+      "url": "https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ"
+    },
+    {
+      "added_at": "2022-12-22 20:26:35",
+      "album": {
         "name": "Pleasure (feat. RINI)",
         "url": "https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 161305,
       "name": "Pleasure (feat. RINI)",
       "url": "https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI"
-    },
-    {
-      "added_at": "2022-12-22 20:26:35",
-      "album": {
-        "name": "SUPERSTICIONES",
-        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 188890,
-      "name": "Supersticiones",
-      "url": "https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ"
     },
     {
       "added_at": "2022-12-22 20:26:35",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-12-22 20:26:35",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/3JQEMF8g2t7S3LwKnCDRAO"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Eres Mi Aire",
-      "url": "https://open.spotify.com/track/6TFD7lH9k8A8PC4CRns4IT"
-    },
-    {
-      "added_at": "2022-12-22 20:26:35",
-      "album": {
         "name": "B-Day",
         "url": "https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 248000,
       "name": "B-Day",
       "url": "https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm"
+    },
+    {
+      "added_at": "2022-12-22 20:26:35",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/3JQEMF8g2t7S3LwKnCDRAO"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Eres Mi Aire",
+      "url": "https://open.spotify.com/track/6TFD7lH9k8A8PC4CRns4IT"
     },
     {
       "added_at": "2022-12-22 20:26:35",
@@ -943,18 +943,22 @@
     {
       "added_at": "2022-12-22 20:26:35",
       "album": {
-        "name": "Uh Huh",
-        "url": "https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf"
+        "name": "Alumnos",
+        "url": "https://open.spotify.com/album/224WofhHqF6PuYTGd63baR"
       },
       "artists": [
         {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+          "name": "Matt Hunter",
+          "url": "https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU"
+        },
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
         }
       ],
-      "duration_ms": 163541,
-      "name": "Uh Huh",
-      "url": "https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX"
+      "duration_ms": 198071,
+      "name": "Alumnos",
+      "url": "https://open.spotify.com/track/7pZw5QAA11FtUZFg5utXzp"
     },
     {
       "added_at": "2022-12-22 20:26:35",
@@ -975,22 +979,18 @@
     {
       "added_at": "2022-12-22 20:26:35",
       "album": {
-        "name": "Alumnos",
-        "url": "https://open.spotify.com/album/224WofhHqF6PuYTGd63baR"
+        "name": "Uh Huh",
+        "url": "https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf"
       },
       "artists": [
         {
-          "name": "Matt Hunter",
-          "url": "https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU"
-        },
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 198071,
-      "name": "Alumnos",
-      "url": "https://open.spotify.com/track/7pZw5QAA11FtUZFg5utXzp"
+      "duration_ms": 163541,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX"
     },
     {
       "added_at": "2022-12-22 20:26:35",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2022-12-22 20:26:35",
       "album": {
-        "name": "Prende",
-        "url": "https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX"
+        "name": "DUCATI",
+        "url": "https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X"
       },
       "artists": [
         {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+          "name": "Le Coco",
+          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
         }
       ],
-      "duration_ms": 173373,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX"
+      "duration_ms": 169161,
+      "name": "DUCATI",
+      "url": "https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX"
     },
     {
       "added_at": "2022-12-22 20:26:35",
@@ -1111,6 +1111,22 @@
       "duration_ms": 157920,
       "name": "Quiero - TDH's Version",
       "url": "https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L"
+    },
+    {
+      "added_at": "2022-12-22 20:26:35",
+      "album": {
+        "name": "Prende",
+        "url": "https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX"
     },
     {
       "added_at": "2022-12-22 20:26:35",
@@ -1159,22 +1175,6 @@
       "duration_ms": 172430,
       "name": "CU\u00c1NTO",
       "url": "https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1"
-    },
-    {
-      "added_at": "2022-12-22 20:26:35",
-      "album": {
-        "name": "DUCATI",
-        "url": "https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X"
-      },
-      "artists": [
-        {
-          "name": "Le Coco",
-          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
-        }
-      ],
-      "duration_ms": 169161,
-      "name": "DUCATI",
-      "url": "https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX"
     },
     {
       "added_at": "2022-12-22 20:26:35",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-12-22 20:26:35",
       "album": {
-        "name": "Ninf\u00f3manos",
-        "url": "https://open.spotify.com/album/5KAXW9PX9uqiepPG9wCtac"
-      },
-      "artists": [
-        {
-          "name": "Moffa",
-          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
-        }
-      ],
-      "duration_ms": 191706,
-      "name": "Ninf\u00f3manos",
-      "url": "https://open.spotify.com/track/7dsCME5KU7kN9Cwo3CO3wA"
-    },
-    {
-      "added_at": "2022-12-22 20:26:35",
-      "album": {
         "name": "Sensualidad",
         "url": "https://open.spotify.com/album/2OVwjjXrMd82oKAhl6mR7U"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 156477,
       "name": "Sensualidad",
       "url": "https://open.spotify.com/track/69AsrqBlInVuFIpSnxmnn4"
+    },
+    {
+      "added_at": "2022-12-22 20:26:35",
+      "album": {
+        "name": "Ninf\u00f3manos",
+        "url": "https://open.spotify.com/album/5KAXW9PX9uqiepPG9wCtac"
+      },
+      "artists": [
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "Ninf\u00f3manos",
+      "url": "https://open.spotify.com/track/7dsCME5KU7kN9Cwo3CO3wA"
     },
     {
       "added_at": "2022-12-22 20:26:35",

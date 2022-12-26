@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 763,914 likes - 155 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,046 likes - 155 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

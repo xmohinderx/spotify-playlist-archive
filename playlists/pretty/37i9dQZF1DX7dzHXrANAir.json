@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 77893,
+  "num_followers": 77980,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MzYwMCwwMDAwMDAwMDFhMGZlYzI5NDJjY2YyNzkxYTZmNTg3MWFiZmNkY2Mz",
+  "snapshot_id": "MTY2OTk1MzYwMCwwMDAwMDAwMDI3MjNhNzU4NDI5NmYwM2ViYzIxOWRiZmY0NTFkOGE4",
   "tracks": [
     {
       "added_at": "2022-11-25 04:00:00",
@@ -379,38 +379,6 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
-        "name": "hundred00",
-        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 289210,
-      "name": "hundred00",
-      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "Venice - Infinitely Avantgarde (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 235563,
-      "name": "G-Minor",
-      "url": "https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
         "name": "Spring 1 (Levitation Mix)",
         "url": "https://open.spotify.com/album/4maru8HKkGFwwrUWovd1wX"
       },
@@ -431,6 +399,38 @@
       "duration_ms": 215281,
       "name": "Spring 1 - Levitation Mix",
       "url": "https://open.spotify.com/track/6fLXeujLOUvDQbMeUTJg16"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Venice - Infinitely Avantgarde (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 235563,
+      "name": "G-Minor",
+      "url": "https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "hundred00",
+        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 289210,
+      "name": "hundred00",
+      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
     },
     {
-      "added_at": "2022-12-25 00:41:45",
+      "added_at": "2022-12-26 01:21:14",
       "album": {
         "name": "Gabriel (Tom Player Strings Version)",
         "url": "https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/4ybl2VlK5Iw5zVT8WeSzhJ"
     },
     {
-      "added_at": "2022-12-25 00:41:45",
+      "added_at": "2022-12-26 01:21:14",
       "album": {
         "name": "Glass Gateway",
         "url": "https://open.spotify.com/album/2rw7rY5ebuktELGAJhZMnl"
@@ -563,6 +563,26 @@
       "duration_ms": 352181,
       "name": "Etude No.12 (XA4 Remix)",
       "url": "https://open.spotify.com/track/4FYOsrACpgx1zu5qQjcQFo"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Post-Svalbard",
+        "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Robert Lippok",
+          "url": "https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF"
+        }
+      ],
+      "duration_ms": 270874,
+      "name": "Season Shifting - Robert Lippok Rework",
+      "url": "https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -607,26 +627,6 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
-        "name": "Post-Svalbard",
-        "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Robert Lippok",
-          "url": "https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF"
-        }
-      ],
-      "duration_ms": 270874,
-      "name": "Season Shifting - Robert Lippok Rework",
-      "url": "https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
         "name": "Satori by the Sea",
         "url": "https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 187000,
       "name": "Satori by the Sea",
       "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
-      },
-      "artists": [
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        }
-      ],
-      "duration_ms": 268124,
-      "name": "Ostinato",
-      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -687,6 +671,22 @@
       "duration_ms": 186000,
       "name": "Caf\u00e9 Papantla",
       "url": "https://open.spotify.com/track/3LpMime27p6chEwOIZbluE"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        }
+      ],
+      "duration_ms": 268124,
+      "name": "Ostinato",
+      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -1027,6 +1027,42 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
+        "name": "Close To Her",
+        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+        }
+      ],
+      "duration_ms": 209558,
+      "name": "Close To Her",
+      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Sound Visions",
+        "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
+      },
+      "artists": [
+        {
+          "name": "Matteo Saggese",
+          "url": "https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4"
+        },
+        {
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+        }
+      ],
+      "duration_ms": 207315,
+      "name": "Dancing leaves",
+      "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
         "name": "Patina",
         "url": "https://open.spotify.com/album/7ooOWujwGib7z5Lf0tU3FW"
       },
@@ -1095,58 +1131,6 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
-        "name": "Close To Her",
-        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
-        }
-      ],
-      "duration_ms": 209558,
-      "name": "Close To Her",
-      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "Sound Visions",
-        "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
-      },
-      "artists": [
-        {
-          "name": "Matteo Saggese",
-          "url": "https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4"
-        },
-        {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
-        }
-      ],
-      "duration_ms": 207315,
-      "name": "Dancing leaves",
-      "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "Building Blocks, Pt. 5",
-        "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
-      },
-      "artists": [
-        {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
-        }
-      ],
-      "duration_ms": 280818,
-      "name": "The Cheek of Daniel",
-      "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
         "name": "We Could Stay",
         "url": "https://open.spotify.com/album/1H2N1aTT8g9zwzD3Nqui0w"
       },
@@ -1167,38 +1151,18 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
-        "name": "Recaptures",
-        "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
+        "name": "Building Blocks, Pt. 5",
+        "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
       },
       "artists": [
         {
-          "name": "Minihi",
-          "url": "https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0"
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
         }
       ],
-      "duration_ms": 210600,
-      "name": "Minquiers",
-      "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "New Grass \u2014 piano reworks",
-        "url": "https://open.spotify.com/album/4KGB54dfOJOX4e6wEiryws"
-      },
-      "artists": [
-        {
-          "name": "tstewart",
-          "url": "https://open.spotify.com/artist/5xEcI8Vn4ofUa5tLHNNlkV"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 216141,
-      "name": "New Grass \u2014 piano reworks",
-      "url": "https://open.spotify.com/track/3E8cDI21EQkDQjncehTKFL"
+      "duration_ms": 280818,
+      "name": "The Cheek of Daniel",
+      "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -1223,6 +1187,26 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
+        "name": "New Grass \u2014 piano reworks",
+        "url": "https://open.spotify.com/album/4KGB54dfOJOX4e6wEiryws"
+      },
+      "artists": [
+        {
+          "name": "tstewart",
+          "url": "https://open.spotify.com/artist/5xEcI8Vn4ofUa5tLHNNlkV"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 216141,
+      "name": "New Grass \u2014 piano reworks",
+      "url": "https://open.spotify.com/track/3E8cDI21EQkDQjncehTKFL"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
         "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
         "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
       },
@@ -1239,6 +1223,38 @@
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Recaptures",
+        "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
+      },
+      "artists": [
+        {
+          "name": "Minihi",
+          "url": "https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Minquiers",
+      "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Variations",
+        "url": "https://open.spotify.com/album/23KZFnhhIRJclDGwXNW92i"
+      },
+      "artists": [
+        {
+          "name": "MAGUIRE",
+          "url": "https://open.spotify.com/artist/4AOwSeTJx05mkR3satgYG8"
+        }
+      ],
+      "duration_ms": 225462,
+      "name": "La descente",
+      "url": "https://open.spotify.com/track/5fdSOtVU9hePoYbQhcMcaB"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -1261,7 +1277,23 @@
       "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
     },
     {
-      "added_at": "2022-12-25 00:41:45",
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/7LRGLAQd2fdDOU7ygP0DrF"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ndag S\u00f8ndag",
+          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
+        }
+      ],
+      "duration_ms": 238764,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3boXyamYzmzAvMbu5Rwmlv"
+    },
+    {
+      "added_at": "2022-12-26 01:21:14",
       "album": {
         "name": "Prayers",
         "url": "https://open.spotify.com/album/44M51OEL60fhGnyht1CtVb"
@@ -1279,38 +1311,6 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
-        "name": "Variations",
-        "url": "https://open.spotify.com/album/23KZFnhhIRJclDGwXNW92i"
-      },
-      "artists": [
-        {
-          "name": "MAGUIRE",
-          "url": "https://open.spotify.com/artist/4AOwSeTJx05mkR3satgYG8"
-        }
-      ],
-      "duration_ms": 225462,
-      "name": "La descente",
-      "url": "https://open.spotify.com/track/5fdSOtVU9hePoYbQhcMcaB"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/7LRGLAQd2fdDOU7ygP0DrF"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ndag S\u00f8ndag",
-          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
-        }
-      ],
-      "duration_ms": 238764,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/3boXyamYzmzAvMbu5Rwmlv"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
         "name": "Rameau, etc",
         "url": "https://open.spotify.com/album/1nSJdY9yheUwqZD9TOQqy1"
       },
@@ -1323,30 +1323,6 @@
       "duration_ms": 245365,
       "name": "Rameau, etc",
       "url": "https://open.spotify.com/track/7ynV83CExKcLCaot0TchPQ"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "Higher Ground",
-        "url": "https://open.spotify.com/album/5QwPCN1Fn7WGvOUcjIsNlW"
-      },
-      "artists": [
-        {
-          "name": "Thomas Slinger",
-          "url": "https://open.spotify.com/artist/0hbbekz6DXUyzhwY0RtcQ7"
-        },
-        {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
-        },
-        {
-          "name": "Autonomy",
-          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
-        }
-      ],
-      "duration_ms": 181460,
-      "name": "Feel What You Need",
-      "url": "https://open.spotify.com/track/2IfutHlzHKdogrpvOdUgan"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -1371,6 +1347,30 @@
       "duration_ms": 257314,
       "name": "Circle 31",
       "url": "https://open.spotify.com/track/4OqYtePk55zkJqHnbCo6AZ"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Higher Ground",
+        "url": "https://open.spotify.com/album/5QwPCN1Fn7WGvOUcjIsNlW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Slinger",
+          "url": "https://open.spotify.com/artist/0hbbekz6DXUyzhwY0RtcQ7"
+        },
+        {
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+        },
+        {
+          "name": "Autonomy",
+          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+        }
+      ],
+      "duration_ms": 181460,
+      "name": "Feel What You Need",
+      "url": "https://open.spotify.com/track/2IfutHlzHKdogrpvOdUgan"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
-        "name": "Frost",
-        "url": "https://open.spotify.com/album/2audNxAFYm85cY3VNjpt8Z"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 292044,
-      "name": "Dawn is Near",
-      "url": "https://open.spotify.com/track/3GBazB23qS7nwK55xxZRB3"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
         "name": "Vale",
         "url": "https://open.spotify.com/album/7bzBIJynVYnwioBEY248DP"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 388748,
       "name": "Vale",
       "url": "https://open.spotify.com/track/4RocG6490RoLRJgdbNZEEY"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/2audNxAFYm85cY3VNjpt8Z"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 292044,
+      "name": "Dawn is Near",
+      "url": "https://open.spotify.com/track/3GBazB23qS7nwK55xxZRB3"
     },
     {
       "added_at": "2022-11-25 04:00:00",
