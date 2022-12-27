@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Vedha",
-  "num_followers": 44396,
+  "num_followers": 44464,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3NDgwMiwwMDAwMDAwMGE2ODllZDYxNmU1NjVjYjdlNDg4NmVmMWFmM2YwMmIx",
+  "snapshot_id": "MTY3MjA1ODcwNywwMDAwMDAwMDA5NGNmNDgwYmE0MDc4YmE2NGIyZDNjZTljMjAyOThl",
   "tracks": [
     {
       "added_at": "2022-12-11 14:28:49",
@@ -29,6 +29,50 @@
       "url": "https://open.spotify.com/track/2vAt6CnFCqoyemVnE7oniI"
     },
     {
+      "added_at": "2022-12-26 05:48:56",
+      "album": {
+        "name": "Pushpavati (From \"Kranti\")",
+        "url": "https://open.spotify.com/album/6SxEMY4PKpgNMXNsBsh8Si"
+      },
+      "artists": [
+        {
+          "name": "V. Hari Krishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        },
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "duration_ms": 244897,
+      "name": "Pushpavati (From \"Kranti\")",
+      "url": "https://open.spotify.com/track/4N9kWGZh8QGjsXK2q79EHF"
+    },
+    {
+      "added_at": "2022-12-26 05:48:56",
+      "album": {
+        "name": "Ramachari 2.0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/43eSy3szXeEHZy5MzqA5L3"
+      },
+      "artists": [
+        {
+          "name": "Sunder Murthy",
+          "url": "https://open.spotify.com/artist/4S0V3g0wtpNCUA1WUGSttx"
+        },
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        }
+      ],
+      "duration_ms": 211055,
+      "name": "Bangariye",
+      "url": "https://open.spotify.com/track/0BsXoMp9kMI0AUEH6JPPRP"
+    },
+    {
       "added_at": "2022-12-02 09:04:03",
       "album": {
         "name": "Gillakko Shiva (From \"Vedha\")",
@@ -47,6 +91,54 @@
       "duration_ms": 244469,
       "name": "Gillakko Shiva (From \"Vedha\")",
       "url": "https://open.spotify.com/track/11PnFfnBgh4vTmCSKON5EO"
+    },
+    {
+      "added_at": "2022-12-19 09:02:26",
+      "album": {
+        "name": "Bannave Maaside (From \"10\")",
+        "url": "https://open.spotify.com/album/6ZWiNLByw97DOx6Na3Kyic"
+      },
+      "artists": [
+        {
+          "name": "Gagan Baderiya",
+          "url": "https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "duration_ms": 210124,
+      "name": "Bannave Maaside (From \"10\")",
+      "url": "https://open.spotify.com/track/2XQsAnwCfG3k0zMhP5C4L5"
+    },
+    {
+      "added_at": "2022-12-26 05:48:56",
+      "album": {
+        "name": "Nodu Nodu (From \"Baby Missing\")",
+        "url": "https://open.spotify.com/album/43PzBdSScFKTMURKVYg7sT"
+      },
+      "artists": [
+        {
+          "name": "Naveen Sajju",
+          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
+        },
+        {
+          "name": "Arfaz Ullal",
+          "url": "https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq"
+        },
+        {
+          "name": "Shri Sastha",
+          "url": "https://open.spotify.com/artist/48o6CxQdWZwIagBSllp2hu"
+        },
+        {
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3zMAaXwoMBtxeIzUQjiXcy"
+        }
+      ],
+      "duration_ms": 181104,
+      "name": "Nodu Nodu (From \"Baby Missing\")",
+      "url": "https://open.spotify.com/track/1q7AWiwBPhWOyYihmf7zCH"
     },
     {
       "added_at": "2022-12-18 13:34:15",
@@ -71,26 +163,6 @@
       "duration_ms": 207600,
       "name": "Bombe Bombe (From \"Kranti\")",
       "url": "https://open.spotify.com/track/5R4ZLze526WkAvN6WXiFWY"
-    },
-    {
-      "added_at": "2022-12-19 09:02:26",
-      "album": {
-        "name": "Bannave Maaside (From \"10\")",
-        "url": "https://open.spotify.com/album/6ZWiNLByw97DOx6Na3Kyic"
-      },
-      "artists": [
-        {
-          "name": "Gagan Baderiya",
-          "url": "https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq"
-        },
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        }
-      ],
-      "duration_ms": 210124,
-      "name": "Bannave Maaside (From \"10\")",
-      "url": "https://open.spotify.com/track/2XQsAnwCfG3k0zMhP5C4L5"
     },
     {
       "added_at": "2022-12-23 05:53:22",
@@ -339,34 +411,6 @@
       "duration_ms": 249901,
       "name": "Male Suridu",
       "url": "https://open.spotify.com/track/2PoHwH7V2dxvUovkDJxw7t"
-    },
-    {
-      "added_at": "2022-12-23 05:53:22",
-      "album": {
-        "name": "Kaniti Gatha (From \"Lokam Yerugani Katha\") - Single",
-        "url": "https://open.spotify.com/album/6Go9ZQO1OmIQqpSXb3KsAt"
-      },
-      "artists": [
-        {
-          "name": "Srinivas Bharadwaj",
-          "url": "https://open.spotify.com/artist/2giSDY5DrZ0iuIkbl1D9UJ"
-        },
-        {
-          "name": "Tejaswini Nandibhatla",
-          "url": "https://open.spotify.com/artist/5MnOoI04ZDh7kAXQjE9FOB"
-        },
-        {
-          "name": "Srikanth Koppula",
-          "url": "https://open.spotify.com/artist/5YZm8lFYzglM4r9oXJoRTw"
-        },
-        {
-          "name": "Satya",
-          "url": "https://open.spotify.com/artist/5WUMpw3qYuJuohmuyHYepB"
-        }
-      ],
-      "duration_ms": 285250,
-      "name": "Kaniti Gatha (From \"Lokam Yerugani Katha\")",
-      "url": "https://open.spotify.com/track/6iWEuydBAWKNqBVJSLax7s"
     },
     {
       "added_at": "2022-12-17 06:40:07",

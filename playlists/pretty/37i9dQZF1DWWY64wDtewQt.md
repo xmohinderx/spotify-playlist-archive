@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,682,288 likes - 100 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,695,770 likes - 100 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 39 | [Flare](https://open.spotify.com/track/3hzelPptWzx0OrSDTyIuuy) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Flare](https://open.spotify.com/album/0UlezwwW4xMVnoRycJUWCu) | 2:31 |
 | 40 | [Disaster](https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag) | 1:24 |
 | 41 | [Phonk Drift](https://open.spotify.com/track/16nj3NeIiDUCRrdZmi7jmm) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [Lastfragment](https://open.spotify.com/artist/0prNIqZMr1aog4xj7qQo1A) | [Phonk Drift](https://open.spotify.com/album/4wTUsg32G9PscOlpHDV1B5) | 2:01 |
-| 42 | [Skinny Life](https://open.spotify.com/track/6UsZJgMN0xC7l26Lg21OTj) | [lixffr](https://open.spotify.com/artist/0GUmve9sjccwOk35nZkHtl), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Phonky Year](https://open.spotify.com/album/7hmGHkTtF3QRoSIfmPbJwz) | 2:26 |
+| 42 | [Skinny Life](https://open.spotify.com/track/4Q6NbWo0mfhBon2DyG6tW9) | [lixffr](https://open.spotify.com/artist/0GUmve9sjccwOk35nZkHtl), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Phonky Year](https://open.spotify.com/album/1I7oAah4fw6822L2eZZAh4) | 2:26 |
 | 43 | [mana break](https://open.spotify.com/track/3XOcTnIA8aGpil8h76eH7N) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [mana break](https://open.spotify.com/album/10Cgx3ZjrNZxeiMTE8LX1o) | 1:33 |
 | 44 | [\|BONKERS\|](https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS) | [staplegun](https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI) | [\|BONKERS\|](https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr) | 3:32 |
 | 45 | [WAVESTAR](https://open.spotify.com/track/1bw61wr9TDCRtCMeBX3Ml3) | [SANTO BEATS](https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml), [Diambu](https://open.spotify.com/artist/4a76EDYmK1MYYedIZ0dzzG) | [GEMS](https://open.spotify.com/album/2P2mU3zsMot08btsVNXGJD) | 2:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [DAMAGE](https://open.spotify.com/track/2YSm6BI1oDJwBayq3ey1QG) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DAMAGE](https://open.spotify.com/album/3ZBmbk49nEavSEHQ1ZZyv7) | 2:21 |
 | 100 | [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 |
 
-Snapshot ID: `MTY3MTc3Njc0OCwwMDAwMDAwMGIzMjBmM2E3ODVlYjEzNTI2YTllNDlhYTdhM2U4YmYy`
+Snapshot ID: `MTY3MTc3Njc0OCwwMDAwMDAwMGZmNGQ5NWY4NmY2ZmRjMmQwZTQyMjA2ZjUwYzkwMmY5`

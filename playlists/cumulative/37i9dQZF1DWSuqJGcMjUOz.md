@@ -4,7 +4,7 @@
 
 > La playlist officielle de l’édition 2022 des Francos de Montréal!
 
-179 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/157Wm8kF1v2FFbepAN4t2W)
+180 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/157Wm8kF1v2FFbepAN4t2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Beau beam](https://open.spotify.com/track/6ua2eIv3IxLvuxPqYn9dFV) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Applaudissez, bande de chameaux](https://open.spotify.com/album/5iY1ENGgSyP7THcv1Zmgsl) | 3:05 | 2022-05-25 | 2022-11-03 |
 | [Bonsaï](https://open.spotify.com/track/6LzREVOgZqgUhHkfuj209f) | [Gros Mené](https://open.spotify.com/artist/0dTjZUMqyvErZOdHwPQjaT) | [Pax et Bonum](https://open.spotify.com/album/46cTZARrHo7jivv9B8mg9f) | 3:43 | 2022-05-25 | 2022-12-17 |
 | [Broken \- Radio Edit](https://open.spotify.com/track/3f5w7CK8pCKwlijBz0vann) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Ses Plus Grands Succès](https://open.spotify.com/album/2VERbKTPxuqen1yO2ISCaH) | 2:41 | 2022-05-25 |  |
-| [Brûler des condos](https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Brûler des condos](https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk) | 2:03 | 2022-05-25 |  |
+| [Brûler des condos](https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Brûler des condos](https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk) | 2:03 | 2022-05-25 | 2022-12-27 |
 | [Brûler les ponts](https://open.spotify.com/track/2bLCDHwZVyyKFEAB8uRRv3) | [Marieme](https://open.spotify.com/artist/2GcthSTguQ2Xbbq03jb1fP), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [MARIO](https://open.spotify.com/album/4JeQA0F4KK1ladlU9R7Ib7) | 3:43 | 2022-05-25 | 2022-07-28 |
 | [Caipirinha](https://open.spotify.com/track/3ntkJVSYJIPDKBJj2uYLRa) | [DjeuhDjoah](https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY), [Lieutenant Nicholson](https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5) | [Caipirinha](https://open.spotify.com/album/70tCTmRLlDolCLIxPRrFUp) | 3:53 | 2022-05-25 |  |
 | [Ce n'est pas de la chance](https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 4:52 | 2022-05-25 |  |
@@ -101,6 +101,7 @@
 | [Le calme](https://open.spotify.com/track/4IGlqD7J3eNcwAPXlzItfG) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Snake eyes](https://open.spotify.com/album/1FexOSZ11itCQyCsbAT8v8) | 3:54 | 2022-05-25 | 2022-07-29 |
 | [Le Dernier Jour du Disco](https://open.spotify.com/track/2Yu8DEe4uc8ApN7t7q0P4s) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le feu](https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN) | 3:27 | 2022-05-25 |  |
 | [Le monde est beau pis laid](https://open.spotify.com/track/0vQECTFhaZKGAmpZFqmhFy) | [Marie\-Annick Lepine](https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3) | [Entre Beaurivage et l'Ange\-Gardien](https://open.spotify.com/album/30ofVs8VaZyrCxhSZdAKs1) | 2:41 | 2022-05-25 | 2022-07-25 |
+| [Le p'tit poisson](https://open.spotify.com/track/3hHuT6JJb6BWYeICvG5ZEk) | [B.A.R.F.](https://open.spotify.com/artist/2qRKuBKmqgabhw6GYzpDg0) | [Tumulte](https://open.spotify.com/album/0E6rlmjGAENef7KVPAAIVA) | 2:17 | 2022-05-25 |  |
 | [Le souhait de Carmen](https://open.spotify.com/track/6SBDaSKJHFlDpaFKDn4Dy7) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Haute Mère](https://open.spotify.com/album/4SwLXWJcGSbeWwhRRCs9Kt) | 4:44 | 2022-05-25 |  |
 | [Le temps au temps](https://open.spotify.com/track/02O2SLRlUGY2KdY6xmOYfs) | [Maëva](https://open.spotify.com/artist/0ey4BGstpRmD8BBqdYJ5jT) | [Prélude](https://open.spotify.com/album/3YEsc0LRdQXLqZP27O0XXN) | 2:15 | 2022-05-25 | 2022-07-29 |
 | [Le temps est bon](https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:23 | 2022-05-25 |  |

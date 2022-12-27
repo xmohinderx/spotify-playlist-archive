@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 122495,
+  "num_followers": 122522,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDg2MCwwMDAwMDAwMDQ4ZTdhYmRmOWYxNjBmMTBhNjRiN2ExYmY0YzMzZWYy",
+  "snapshot_id": "MTY2OTMzMDg2MCwwMDAwMDAwMGJmYzEzN2NmZjNlNGRkY2NmNGJmYTZjZDlmMjcyNjU2",
   "tracks": [
     {
       "added_at": "2022-11-24 23:01:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
+        "name": "The Ladder",
+        "url": "https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "duration_ms": 333520,
+      "name": "The Ladder",
+      "url": "https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
         "name": "Villa Amorini",
         "url": "https://open.spotify.com/album/5PdhR2YW9IubgKjU9N28RG"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 234213,
       "name": "Staying In",
       "url": "https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "The Ladder",
-        "url": "https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 333520,
-      "name": "The Ladder",
-      "url": "https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -435,6 +435,26 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/7nVorCP3wTcYLnvJHtURKX"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        }
+      ],
+      "duration_ms": 387760,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/4n8wv8NZB3HgMXYzszEDWm"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
         "name": "Shortwave Memories",
         "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 249672,
       "name": "Formanta",
       "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Tyrkisk Pepper",
-        "url": "https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt"
-      },
-      "artists": [
-        {
-          "name": "Blackbelt Andersen",
-          "url": "https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL"
-        },
-        {
-          "name": "D\u00f8lle J\u00f8lle",
-          "url": "https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B"
-        }
-      ],
-      "duration_ms": 482835,
-      "name": "Tyrkisk Pepper - Dolle Jolle Remix",
-      "url": "https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -487,22 +487,22 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/7nVorCP3wTcYLnvJHtURKX"
+        "name": "Tyrkisk Pepper",
+        "url": "https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt"
       },
       "artists": [
         {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+          "name": "Blackbelt Andersen",
+          "url": "https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL"
         },
         {
-          "name": "Alison Goldfrapp",
-          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+          "name": "D\u00f8lle J\u00f8lle",
+          "url": "https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B"
         }
       ],
-      "duration_ms": 387760,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/4n8wv8NZB3HgMXYzszEDWm"
+      "duration_ms": 482835,
+      "name": "Tyrkisk Pepper - Dolle Jolle Remix",
+      "url": "https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -731,18 +731,38 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Sadsongwtf",
-        "url": "https://open.spotify.com/album/0snl6gC7BXLFyK1MJjWy42"
+        "name": "Moving Points",
+        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
       },
       "artists": [
         {
           "name": "Jerry Folk",
           "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        },
+        {
+          "name": "Tilla",
+          "url": "https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI"
         }
       ],
-      "duration_ms": 173164,
-      "name": "Sadsongwtf",
-      "url": "https://open.spotify.com/track/2zA7dBlE6tarkCzK2Rsi3o"
+      "duration_ms": 127524,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "Oppkok",
+        "url": "https://open.spotify.com/album/1Ez5JV6xCESNKfZlyGYLfR"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Torske",
+          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
+        }
+      ],
+      "duration_ms": 303282,
+      "name": "Nitten Nitti - Harvey's Not Normal Mix",
+      "url": "https://open.spotify.com/track/0pQ56PL4N5p5yl6L1vluwr"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -763,22 +783,6 @@
       "duration_ms": 371333,
       "name": "Baby Can't Stop",
       "url": "https://open.spotify.com/track/4vDhfpbTaN2DScjCWdzBOx"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Oppkok",
-        "url": "https://open.spotify.com/album/1Ez5JV6xCESNKfZlyGYLfR"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
-        }
-      ],
-      "duration_ms": 303282,
-      "name": "Nitten Nitti - Harvey's Not Normal Mix",
-      "url": "https://open.spotify.com/track/0pQ56PL4N5p5yl6L1vluwr"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -855,18 +859,22 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Ramma EP",
-        "url": "https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG"
+        "name": "Motown",
+        "url": "https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
+          "name": "Ost & Kjex",
+          "url": "https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61"
+        },
+        {
+          "name": "Tracee Meyn",
+          "url": "https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly"
         }
       ],
-      "duration_ms": 426575,
-      "name": "Bommelom",
-      "url": "https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa"
+      "duration_ms": 388272,
+      "name": "Motown",
+      "url": "https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX"
     }
   ],
   "unique_name": "Space Disco",

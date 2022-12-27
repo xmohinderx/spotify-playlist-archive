@@ -1,12 +1,12 @@
 {
   "description": "The ultimate Lo-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 415155,
+  "num_followers": 415207,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTcyMTIwMCwwMDAwMDAwMDBmMDk3M2ZhNWE3YjJiOTc5MmI3MjQzYzM0YTk2NmE4",
+  "snapshot_id": "MTY3MTcyMTIwMCwwMDAwMDAwMDUxNmU3MzQ4OTI4YWU5Njg5MWQ3OGZjNDNmYjBkMGU1",
   "tracks": [
     {
       "added_at": "2022-12-22 15:00:00",
@@ -319,42 +319,6 @@
     {
       "added_at": "2022-12-22 15:00:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
-      },
-      "artists": [
-        {
-          "name": "Allgood",
-          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
-        },
-        {
-          "name": "Kanimayo",
-          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
-    },
-    {
-      "added_at": "2022-12-22 15:00:00",
-      "album": {
-        "name": "Unsophisticated Beats Vol.1",
-        "url": "https://open.spotify.com/album/4ufn7k60NGy1IvKwwoEHEL"
-      },
-      "artists": [
-        {
-          "name": "PrinceDo",
-          "url": "https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05"
-        }
-      ],
-      "duration_ms": 216524,
-      "name": "Summer Morn",
-      "url": "https://open.spotify.com/track/7txY6OM6LrIkZCwN6cJjgt"
-    },
-    {
-      "added_at": "2022-12-22 15:00:00",
-      "album": {
         "name": "Lonely Girl",
         "url": "https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO"
       },
@@ -375,18 +339,38 @@
     {
       "added_at": "2022-12-22 15:00:00",
       "album": {
-        "name": "Fallin",
-        "url": "https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe"
+        "name": "Unsophisticated Beats Vol.1",
+        "url": "https://open.spotify.com/album/4ufn7k60NGy1IvKwwoEHEL"
       },
       "artists": [
         {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+          "name": "PrinceDo",
+          "url": "https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05"
         }
       ],
-      "duration_ms": 149589,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D"
+      "duration_ms": 216524,
+      "name": "Summer Morn",
+      "url": "https://open.spotify.com/track/7txY6OM6LrIkZCwN6cJjgt"
+    },
+    {
+      "added_at": "2022-12-22 15:00:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
+      },
+      "artists": [
+        {
+          "name": "Allgood",
+          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
+        },
+        {
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
     },
     {
       "added_at": "2022-12-22 15:00:00",
@@ -403,6 +387,22 @@
       "duration_ms": 144950,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC"
+    },
+    {
+      "added_at": "2022-12-22 15:00:00",
+      "album": {
+        "name": "Fallin",
+        "url": "https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 149589,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D"
     },
     {
       "added_at": "2022-12-22 15:00:00",
@@ -775,38 +775,6 @@
     {
       "added_at": "2022-12-22 15:00:00",
       "album": {
-        "name": "CINEMA",
-        "url": "https://open.spotify.com/album/1i4w92XNnwSw6gKaMyJu1j"
-      },
-      "artists": [
-        {
-          "name": "ord minami",
-          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "By The Sea",
-      "url": "https://open.spotify.com/track/1o4X9LyVmM4F1CRfjVjHDQ"
-    },
-    {
-      "added_at": "2022-12-22 15:00:00",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/1zEzeSY7dRs8tkKfDg5lQ0"
-      },
-      "artists": [
-        {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/1oyrVPtes5mIqt3RNIOcGp"
-    },
-    {
-      "added_at": "2022-12-22 15:00:00",
-      "album": {
         "name": "ameagari",
         "url": "https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv"
       },
@@ -835,6 +803,54 @@
       "duration_ms": 109714,
       "name": "Osaka Dreams",
       "url": "https://open.spotify.com/track/7HxJ4o4dId4o21IjTpS7GJ"
+    },
+    {
+      "added_at": "2022-12-22 15:00:00",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/1zEzeSY7dRs8tkKfDg5lQ0"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/1oyrVPtes5mIqt3RNIOcGp"
+    },
+    {
+      "added_at": "2022-12-22 15:00:00",
+      "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/1i4w92XNnwSw6gKaMyJu1j"
+      },
+      "artists": [
+        {
+          "name": "ord minami",
+          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "By The Sea",
+      "url": "https://open.spotify.com/track/1o4X9LyVmM4F1CRfjVjHDQ"
+    },
+    {
+      "added_at": "2022-12-22 15:00:00",
+      "album": {
+        "name": "City of light",
+        "url": "https://open.spotify.com/album/77fLZ8RFyF00tSuGQoectU"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        }
+      ],
+      "duration_ms": 209412,
+      "name": "City of light",
+      "url": "https://open.spotify.com/track/4BJ5BgS91QUV094LD8B7yp"
     },
     {
       "added_at": "2022-12-22 15:00:00",
@@ -895,22 +911,6 @@
     {
       "added_at": "2022-12-22 15:00:00",
       "album": {
-        "name": "City of light",
-        "url": "https://open.spotify.com/album/77fLZ8RFyF00tSuGQoectU"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        }
-      ],
-      "duration_ms": 209412,
-      "name": "City of light",
-      "url": "https://open.spotify.com/track/4BJ5BgS91QUV094LD8B7yp"
-    },
-    {
-      "added_at": "2022-12-22 15:00:00",
-      "album": {
         "name": "special",
         "url": "https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr"
       },
@@ -959,26 +959,6 @@
     {
       "added_at": "2022-12-22 15:00:00",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug"
-      },
-      "artists": [
-        {
-          "name": "Akio Watanabe",
-          "url": "https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4"
-        },
-        {
-          "name": "AYG",
-          "url": "https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"
-    },
-    {
-      "added_at": "2022-12-22 15:00:00",
-      "album": {
         "name": "Contrast",
         "url": "https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb"
       },
@@ -991,42 +971,6 @@
       "duration_ms": 219207,
       "name": "Conflicted",
       "url": "https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY"
-    },
-    {
-      "added_at": "2022-12-22 15:00:00",
-      "album": {
-        "name": "Legend (Instrumental)",
-        "url": "https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh"
-      },
-      "artists": [
-        {
-          "name": "A.O.",
-          "url": "https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI"
-        }
-      ],
-      "duration_ms": 218526,
-      "name": "Legend - Instrumental",
-      "url": "https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY"
-    },
-    {
-      "added_at": "2022-12-22 15:00:00",
-      "album": {
-        "name": "work_1",
-        "url": "https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs"
-      },
-      "artists": [
-        {
-          "name": "Kazuki Isogai",
-          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
-        },
-        {
-          "name": "yuhei miura",
-          "url": "https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5"
-        }
-      ],
-      "duration_ms": 76549,
-      "name": "Bedroom",
-      "url": "https://open.spotify.com/track/5SUZg6W98l9ycWumNLKue3"
     },
     {
       "added_at": "2022-12-22 15:00:00",
@@ -1051,6 +995,46 @@
     {
       "added_at": "2022-12-22 15:00:00",
       "album": {
+        "name": "work_1",
+        "url": "https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs"
+      },
+      "artists": [
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        },
+        {
+          "name": "yuhei miura",
+          "url": "https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5"
+        }
+      ],
+      "duration_ms": 76549,
+      "name": "Bedroom",
+      "url": "https://open.spotify.com/track/5SUZg6W98l9ycWumNLKue3"
+    },
+    {
+      "added_at": "2022-12-22 15:00:00",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug"
+      },
+      "artists": [
+        {
+          "name": "Akio Watanabe",
+          "url": "https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4"
+        },
+        {
+          "name": "AYG",
+          "url": "https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"
+    },
+    {
+      "added_at": "2022-12-22 15:00:00",
+      "album": {
         "name": "Breezin",
         "url": "https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 155401,
       "name": "Breezin",
       "url": "https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8"
+    },
+    {
+      "added_at": "2022-12-22 15:00:00",
+      "album": {
+        "name": "Legend (Instrumental)",
+        "url": "https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh"
+      },
+      "artists": [
+        {
+          "name": "A.O.",
+          "url": "https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI"
+        }
+      ],
+      "duration_ms": 218526,
+      "name": "Legend - Instrumental",
+      "url": "https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY"
     },
     {
       "added_at": "2022-12-22 15:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-12-22 15:00:00",
       "album": {
+        "name": "The Wondering Beats vol.1",
+        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
+      },
+      "artists": [
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
+    },
+    {
+      "added_at": "2022-12-22 15:00:00",
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/2HLb7alHJmqkOWgmwMO67C"
       },
@@ -1347,18 +1363,26 @@
     {
       "added_at": "2022-12-22 15:00:00",
       "album": {
-        "name": "The Wondering Beats vol.1",
-        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
+        "name": "Sequences",
+        "url": "https://open.spotify.com/album/0N9eVWHd8pIJFLP6Ph27ok"
       },
       "artists": [
         {
-          "name": "GORO KUMAI",
-          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
+        },
+        {
+          "name": "Shou",
+          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
+        },
+        {
+          "name": "Idyllic",
+          "url": "https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K"
         }
       ],
-      "duration_ms": 158117,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
+      "duration_ms": 120000,
+      "name": "Sequences",
+      "url": "https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32"
     },
     {
       "added_at": "2022-12-22 15:00:00",
@@ -1379,6 +1403,22 @@
       "duration_ms": 148125,
       "name": "meraki",
       "url": "https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ"
+    },
+    {
+      "added_at": "2022-12-22 15:00:00",
+      "album": {
+        "name": "Spring Fever",
+        "url": "https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk"
+      },
+      "artists": [
+        {
+          "name": "VIDEOTAPEMUSIC",
+          "url": "https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ"
+        }
+      ],
+      "duration_ms": 243696,
+      "name": "Spring Fever",
+      "url": "https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR"
     },
     {
       "added_at": "2022-12-22 15:00:00",
@@ -1407,22 +1447,6 @@
     {
       "added_at": "2022-12-22 15:00:00",
       "album": {
-        "name": "Spring Fever",
-        "url": "https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk"
-      },
-      "artists": [
-        {
-          "name": "VIDEOTAPEMUSIC",
-          "url": "https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ"
-        }
-      ],
-      "duration_ms": 243696,
-      "name": "Spring Fever",
-      "url": "https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR"
-    },
-    {
-      "added_at": "2022-12-22 15:00:00",
-      "album": {
         "name": "Oak",
         "url": "https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg"
       },
@@ -1439,30 +1463,6 @@
       "duration_ms": 170370,
       "name": "Oak",
       "url": "https://open.spotify.com/track/4QrLXFESrpnpf6TXJsM1rX"
-    },
-    {
-      "added_at": "2022-12-22 15:00:00",
-      "album": {
-        "name": "Sequences",
-        "url": "https://open.spotify.com/album/0N9eVWHd8pIJFLP6Ph27ok"
-      },
-      "artists": [
-        {
-          "name": "Komorebi",
-          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
-        },
-        {
-          "name": "Shou",
-          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
-        },
-        {
-          "name": "Idyllic",
-          "url": "https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Sequences",
-      "url": "https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32"
     },
     {
       "added_at": "2022-12-22 15:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-12-22 15:00:00",
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/7x5O7JrQUeqy45LEDkxXW5"
+      },
+      "artists": [
+        {
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+        }
+      ],
+      "duration_ms": 341613,
+      "name": "ARUKAS",
+      "url": "https://open.spotify.com/track/6JZvi1dibOiGyJ8yBsGYUq"
+    },
+    {
+      "added_at": "2022-12-22 15:00:00",
+      "album": {
         "name": "Milk Shake",
         "url": "https://open.spotify.com/album/5NZvMImcg4lJ5Vq04ZanIU"
       },
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2022-12-22 15:00:00",
       "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/7x5O7JrQUeqy45LEDkxXW5"
-      },
-      "artists": [
-        {
-          "name": "jizue",
-          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
-        }
-      ],
-      "duration_ms": 341613,
-      "name": "ARUKAS",
-      "url": "https://open.spotify.com/track/6JZvi1dibOiGyJ8yBsGYUq"
-    },
-    {
-      "added_at": "2022-12-22 15:00:00",
-      "album": {
         "name": "Stay Around",
         "url": "https://open.spotify.com/album/6QYCTUgRSDhqOYqYVRKoA5"
       },
@@ -1611,6 +1611,22 @@
       "duration_ms": 121411,
       "name": "Stay Around",
       "url": "https://open.spotify.com/track/1UWPpmeIw7jorX4rAII27O"
+    },
+    {
+      "added_at": "2022-12-22 15:00:00",
+      "album": {
+        "name": "YAZZY BEATS \u6691\u4e2d\u898b\u821e",
+        "url": "https://open.spotify.com/album/58aQfV4UZbPw8KDsUWAGkW"
+      },
+      "artists": [
+        {
+          "name": "Tha Omedetaz",
+          "url": "https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL"
+        }
+      ],
+      "duration_ms": 130421,
+      "name": "CHOP SUMMER",
+      "url": "https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds"
     },
     {
       "added_at": "2022-12-22 15:00:00",
@@ -1647,18 +1663,18 @@
     {
       "added_at": "2022-12-22 15:00:00",
       "album": {
-        "name": "YAZZY BEATS \u6691\u4e2d\u898b\u821e",
-        "url": "https://open.spotify.com/album/58aQfV4UZbPw8KDsUWAGkW"
+        "name": "Kof\u016b II",
+        "url": "https://open.spotify.com/album/7pWhkwLglyr3he6crAv1gJ"
       },
       "artists": [
         {
-          "name": "Tha Omedetaz",
-          "url": "https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL"
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
         }
       ],
-      "duration_ms": 130421,
-      "name": "CHOP SUMMER",
-      "url": "https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds"
+      "duration_ms": 185380,
+      "name": "Shurayuki hime",
+      "url": "https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr"
     },
     {
       "added_at": "2022-12-22 15:00:00",
@@ -1695,18 +1711,22 @@
     {
       "added_at": "2022-12-22 15:00:00",
       "album": {
-        "name": "Kof\u016b II",
-        "url": "https://open.spotify.com/album/7pWhkwLglyr3he6crAv1gJ"
+        "name": "Yufuin",
+        "url": "https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC"
       },
       "artists": [
         {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        },
+        {
+          "name": "yuhei miura",
+          "url": "https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5"
         }
       ],
-      "duration_ms": 185380,
-      "name": "Shurayuki hime",
-      "url": "https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr"
+      "duration_ms": 155670,
+      "name": "Yufuin",
+      "url": "https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9"
     },
     {
       "added_at": "2022-12-22 15:00:00",
@@ -1731,26 +1751,6 @@
       "duration_ms": 129229,
       "name": "Sliding Doors",
       "url": "https://open.spotify.com/track/3Cxr6JFgfsDlTpFvLjGiEk"
-    },
-    {
-      "added_at": "2022-12-22 15:00:00",
-      "album": {
-        "name": "Yufuin",
-        "url": "https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC"
-      },
-      "artists": [
-        {
-          "name": "Kazuki Isogai",
-          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
-        },
-        {
-          "name": "yuhei miura",
-          "url": "https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5"
-        }
-      ],
-      "duration_ms": 155670,
-      "name": "Yufuin",
-      "url": "https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9"
     },
     {
       "added_at": "2022-12-22 15:00:00",

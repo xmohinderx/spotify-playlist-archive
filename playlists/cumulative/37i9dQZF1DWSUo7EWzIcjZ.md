@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-378 songs - 1 day 3 hr 52 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+379 songs - 1 day 3 hr 55 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Adolescente Tu](https://open.spotify.com/track/4SYDVdaVe7JoGP9eh1wewN) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Ineditos](https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1) | 4:54 | 2021-02-02 |  |
 | [Alegria](https://open.spotify.com/track/51VCeHkyRAaY8wUbsU66Ix) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 5:22 | 2021-02-02 |  |
 | [Alza Tu Copa](https://open.spotify.com/track/1ut8r7VkR4KxauGzNHOLd5) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 3:40 | 2021-02-02 | 2022-12-02 |
+| [Alza Tu Copa](https://open.spotify.com/track/5hsgrR7IYwLx2hnIFebvMg) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Escucha Escucha](https://open.spotify.com/album/4ipHsO9OrrWES7Y7H30h54) | 3:41 | 2021-02-02 |  |
 | [Amaneciendo](https://open.spotify.com/track/3mxl5Y9skPEFKdnQWYcmOF) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Gran Mayimbe](https://open.spotify.com/album/3YcXVczErplYfnXgiNNCjg) | 4:14 | 2021-02-02 |  |
 | [Amaneciendo](https://open.spotify.com/track/766T4qLT0fBFmO10TE22nT) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Gran Mayimbe](https://open.spotify.com/album/2zNITytUCZB1igeLvy0yEC) | 4:14 | 2021-02-02 | 2022-07-29 |
 | [Amor Magico](https://open.spotify.com/track/2VtzepnoI82CSMoVkbopcu) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Siempre Yo](https://open.spotify.com/album/7cN3BR4CQwLLtYnWRQKCHI) | 4:30 | 2021-02-02 | 2022-07-26 |
@@ -132,8 +133,8 @@
 | [En el Fin de Semana](https://open.spotify.com/track/4djMEKq1oCMjUGrRNLNJt9) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Merengue Hits Clásicos de Oro](https://open.spotify.com/album/5m0rT0gH2hJ4tkxRXi2izV) | 4:15 | 2021-02-02 | 2022-07-24 |
 | [Enamorado de Ella](https://open.spotify.com/track/2C9UWCuysy7CdAAkhqKjNa) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [16 Merengues de Oro](https://open.spotify.com/album/6XAKkXGOcBzBfvx7rmawRd) | 4:32 | 2021-02-02 |  |
 | [Enamorar](https://open.spotify.com/track/1vyT9DmHU1KcDuKqp0z0Az) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [Otro Dia Mas Sin Verte](https://open.spotify.com/album/5XPcciaGBqmXPcMngAMgCC) | 4:03 | 2021-02-02 | 2022-07-27 |
-| [Enamorar](https://open.spotify.com/track/4vJQoi7roAr5A2K0hH8F1x) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [16 Exitos de Sandy Reyes](https://open.spotify.com/album/5m8APs3ZtFY50rDi5yldzi) | 4:05 | 2021-02-02 | 2022-12-14 |
-| [Enamorar](https://open.spotify.com/track/5PCqIB29DYyOj1glBryH3t) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [Sandy Reyes y su orquesta](https://open.spotify.com/album/2Q3rZtrvUQMcAFfUtH2KwG) | 4:05 | 2021-02-02 |  |
+| [Enamorar](https://open.spotify.com/track/4vJQoi7roAr5A2K0hH8F1x) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [16 Exitos de Sandy Reyes](https://open.spotify.com/album/5m8APs3ZtFY50rDi5yldzi) | 4:05 | 2021-02-02 |  |
+| [Enamorar](https://open.spotify.com/track/5PCqIB29DYyOj1glBryH3t) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [Sandy Reyes y su orquesta](https://open.spotify.com/album/2Q3rZtrvUQMcAFfUtH2KwG) | 4:05 | 2021-02-02 | 2022-12-27 |
 | [Entre Tu Cuerpo y el Mio](https://open.spotify.com/track/2BeJ9CiFFnA6w3cVvRt7Ae) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Greatest Hits](https://open.spotify.com/album/7gEKwqz5pfeKeL9U1FWBnl) | 4:58 | 2021-02-02 | 2022-07-29 |
 | [Entre Tu Cuerpo y el Mio](https://open.spotify.com/track/20js1xS9eDxHcHVoVQASPO) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Los Vecinos](https://open.spotify.com/artist/3wwEkvc5v1R19fMX5fCj7a) | [20 Exitos Originales](https://open.spotify.com/album/76bNdLqQnSnzU145Com1b1) | 4:58 | 2021-02-02 |  |
 | [Entre Tu Y Yo](https://open.spotify.com/track/2mInd0Utcfprbtb1k2U3ez) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues Volume 2](https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW) | 4:34 | 2021-02-02 | 2022-07-20 |
@@ -211,7 +212,7 @@
 | [Los diseñadores](https://open.spotify.com/track/6Rh8XA7epTYTIqWKQAXXjp) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs), [Charlie Rodriguez](https://open.spotify.com/artist/2HMIrqrn0is623MduW9coi) | [Un Cantante, 3 Facetas, Un Gran Artista \- Bolero, Bachata & Merengue](https://open.spotify.com/album/25v4AE4BEtDWDNBTpbElt5) | 4:27 | 2021-02-02 | 2022-07-29 |
 | [Madre](https://open.spotify.com/track/5C99HN4vPVTXaZp9mLI5Sb) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3qvDNquco8SgclYBqUadWh) | 4:47 | 2021-02-02 | 2022-07-29 |
 | [Maldita Sea](https://open.spotify.com/track/5YjpYs0P1BcT486h5IIAss) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [La Negra Mia](https://open.spotify.com/album/5x4cKnzSCXbgNOEW4mz3SK) | 4:14 | 2021-02-02 | 2022-12-01 |
-| [Maldita Sea](https://open.spotify.com/track/6LbzQKMKllO8zPSQlXMqxG) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [La Negra Mia](https://open.spotify.com/album/4t7DGFShnFDkOWneDiLDHC) | 4:15 | 2021-02-02 |  |
+| [Maldita Sea](https://open.spotify.com/track/6LbzQKMKllO8zPSQlXMqxG) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [La Negra Mia](https://open.spotify.com/album/4t7DGFShnFDkOWneDiLDHC) | 4:15 | 2021-02-02 | 2022-12-27 |
 | [Maria \(Guayando, Guayando\)](https://open.spotify.com/track/44TX1WaaVTVTPheQljLnnM) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 3:46 | 2021-02-02 | 2022-07-27 |
 | [Mas](https://open.spotify.com/track/1z7g4SDTN6wplx3FiK0tAx) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:21 | 2021-02-02 | 2022-12-20 |
 | [Me Aleje Llorando](https://open.spotify.com/track/0lhRxdjg7xrk3eXa5jBBnK) | [Dionis Fernandez](https://open.spotify.com/artist/6gpiTm3vKuiZuFN3fOSlc3) | [11 Exitos](https://open.spotify.com/album/23cQzFo14t7f6eSgzh7Smp) | 3:17 | 2021-02-02 | 2022-07-28 |

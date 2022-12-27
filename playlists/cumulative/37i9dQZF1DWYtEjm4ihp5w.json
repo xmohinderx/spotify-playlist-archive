@@ -300,6 +300,24 @@
     },
     {
       "album": {
+        "name": "Eufury",
+        "url": "https://open.spotify.com/album/6SOAaopbpAVjiUE80HA1X5"
+      },
+      "artists": [
+        {
+          "name": "Furelise",
+          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154673,
+      "name": "Eufury",
+      "url": "https://open.spotify.com/track/6qLmmvQDXYI9jesFhTdOEn"
+    },
+    {
+      "album": {
         "name": "Faux D\u00e9part",
         "url": "https://open.spotify.com/album/6qvNXxEmDlVAcplTG2ybPM"
       },

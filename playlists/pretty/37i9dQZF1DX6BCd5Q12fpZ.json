@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 59318,
+  "num_followers": 59324,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDE4Y2YyMzFkZWE5NjBlZmQ1NzVhNjdmMDY1ZWMwYzdh",
+  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMGIzNDY1ZjhhZmNkMWEwMTUzZjkxMWM0ZjJjNjNmZjdl",
   "tracks": [
     {
       "added_at": "2022-05-16 13:21:08",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "Sound of Silence",
-        "url": "https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj"
-      },
-      "artists": [
-        {
-          "name": "Dami Im",
-          "url": "https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY"
-        }
-      ],
-      "duration_ms": 195479,
-      "name": "Sound of Silence",
-      "url": "https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "Saade, Vol. 1",
         "url": "https://open.spotify.com/album/3ZaKROktb3ejok1owIknk7"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 180813,
       "name": "Popular",
       "url": "https://open.spotify.com/track/64WR5TPXZZ2wsWYA3enKfK"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "Sound of Silence",
+        "url": "https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj"
+      },
+      "artists": [
+        {
+          "name": "Dami Im",
+          "url": "https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY"
+        }
+      ],
+      "duration_ms": 195479,
+      "name": "Sound of Silence",
+      "url": "https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3"
     },
     {
       "added_at": "2022-05-16 13:21:08",

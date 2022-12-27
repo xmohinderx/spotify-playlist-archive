@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-254 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/5iFkvSVaOfjtCz6w0iDsyy)
+255 songs - 15 hr 17 min - [published](https://open.spotify.com/playlist/5iFkvSVaOfjtCz6w0iDsyy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [原來真的愛上了](https://open.spotify.com/track/021RtAtctOzhRhctErmiWZ) | [羅啟聰](https://open.spotify.com/artist/4UbI3GzO9gvf3HfzDSPFXw), [秋和政](https://open.spotify.com/artist/4ONvl9dIUCXvlfooTFJfND) | [原來真的愛上了](https://open.spotify.com/album/3HmVUS1UJ77yF6tZRGOfeH) | 2:51 | 2022-07-25 | 2022-07-28 |
 | [只對你有感覺](https://open.spotify.com/track/6WdMREn0gO76tvckO16SQu) | [飛輪海](https://open.spotify.com/artist/37Ge9MTQaJqJknImNwYhWF), [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [飛輪海首張同名專輯](https://open.spotify.com/album/0gFZClQ1u36BTMamo4kX2F) | 3:59 | 2022-06-20 | 2022-06-30 |
 | [告白氣球](https://open.spotify.com/track/1ivCIgrYZyE0BvItL4Z8lk) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [周杰倫的床邊故事](https://open.spotify.com/album/5clrYp291Dg0XL6rgvOgoB) | 3:35 | 2022-07-11 |  |
-| [和你的天气总是那么好 \(新传媒电视剧《遇见你,真香!》插曲\)](https://open.spotify.com/track/45c6g3bSGtCTmVzZkwc4s9) | [Xu Bin](https://open.spotify.com/artist/3FFFFJDwvzCq6gcHa9WkLs), [Chantalle Ng](https://open.spotify.com/artist/0XRTIDpqja8U3RNVM7CxEK) | [新传媒电视剧《遇见你,真香!》电视剧原声带](https://open.spotify.com/album/1K8czXXHMQeE57rqeifxPE) | 3:08 | 2022-12-19 |  |
+| [和你的天气总是那么好 \(新传媒电视剧《遇见你,真香!》插曲\)](https://open.spotify.com/track/45c6g3bSGtCTmVzZkwc4s9) | [Xu Bin](https://open.spotify.com/artist/3FFFFJDwvzCq6gcHa9WkLs), [Chantalle Ng](https://open.spotify.com/artist/0XRTIDpqja8U3RNVM7CxEK) | [新传媒电视剧《遇见你,真香!》电视剧原声带](https://open.spotify.com/album/1K8czXXHMQeE57rqeifxPE) | 3:08 | 2022-12-19 | 2022-12-27 |
 | [哆唻咪](https://open.spotify.com/track/57RA8RHw9BlzKPkSDET63E) | [賀敬軒](https://open.spotify.com/artist/78AtbJzyfj3N9MTtfByW85) | [哆唻咪](https://open.spotify.com/album/5Ue3zLUZw5MqLh7WqBUYSd) | 4:02 | 2022-07-04 | 2022-07-08 |
 | [哪裡來的勇氣](https://open.spotify.com/track/5JqnhLnwkayjT4dFEyPwDu) | [Da Tian Chen](https://open.spotify.com/artist/0vap3muSZLb1kqpPs1UmS6) | [一百種失戀的方法](https://open.spotify.com/album/1w2K9kDHi4I7n89bTOanMu) | 3:58 | 2022-06-06 | 2022-06-29 |
 | [喜歡](https://open.spotify.com/track/2fp2exMvOesqBQ1Km5Zut6) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [謝孟庭](https://open.spotify.com/artist/25iwdlQf9Cxdxhq8MQj8Pc) | [找到我](https://open.spotify.com/album/6u8wGLHZFB6H8HQRZ40L9G) | 3:42 | 2022-06-13 | 2022-07-26 |
@@ -139,6 +139,7 @@
 | [幸福摩天輪](https://open.spotify.com/track/5ayE9R8ctpX7UGOWXCRk14) | [ALL\-RANGE](https://open.spotify.com/artist/7aRvHV5UR0tqnuWfJQy4f8) | [初次見面](https://open.spotify.com/album/6FKYBWEpQgfNvmmTfses7q) | 4:06 | 2022-06-06 | 2022-06-10 |
 | [幸福是被你需要](https://open.spotify.com/track/0KNnNIaWABM2kum1ZdCYVO) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [慢慢懂](https://open.spotify.com/album/31K53QT3eo47WrUAVGzS6O) | 3:54 | 2022-06-13 | 2022-06-21 |
 | [幸福註解](https://open.spotify.com/track/7cE5qr9la6gVadtsWjoBNX) | [鄭茵聲](https://open.spotify.com/artist/6klZsIEZ1oB4RvXnDz1grL) | [幸福註解](https://open.spotify.com/album/6Tg7lriSym4owkw42AtaeZ) | 3:36 | 2022-06-20 | 2022-07-23 |
+| [很想很想你 \(電視劇《月裡青山淡如畫》插曲\)](https://open.spotify.com/track/65IeKSN4N5Df5uJR856Wjg) | [yihuik苡慧](https://open.spotify.com/artist/3tkDkXGNpLVIt8qQJHSb7e), [曹楊Young](https://open.spotify.com/artist/5JOUHQFT7pdj2vkhUIrkrk) | [很想很想你 \(電視劇《月裡青山淡如畫》插曲\)](https://open.spotify.com/album/5WSMqB9fHeEDZ3jQbtHkkG) | 3:22 | 2022-12-27 |  |
 | [從此過著幸福快樂的日子 \(feat\. J.Sheon\)](https://open.spotify.com/track/2eoTwXiLMuu3ROZxJO7Gt9) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp), [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [從此過著幸福快樂的日子 \(feat\. J.Sheon\)](https://open.spotify.com/album/4p2yGZSWtSFjmO3RBddpkr) | 3:00 | 2022-06-06 | 2022-07-29 |
 | [微波Love \- 《微波爐男孩的假期》插曲](https://open.spotify.com/track/0ZnSZRMqLEAbawvvZatbQD) | [邵羽](https://open.spotify.com/artist/7ybjv0mFpYBAUbTk6UiThE), [辛樂兒](https://open.spotify.com/artist/4UnxKtDx3oJXcFVEpsV89v) | [微波Love \- 《微波爐男孩的假期》插曲](https://open.spotify.com/album/2DdZTarsZD3M88rY6Q9HNY) | 3:04 | 2022-07-04 | 2022-07-07 |
 | [心之所向 \(電視劇《G小調進行曲》插曲\)](https://open.spotify.com/track/4Xvj5NRfLAdRkG7HR5kf1i) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [心之所向 \(電視劇《G小調進行曲》插曲\)](https://open.spotify.com/album/68tDV5LucsfHAssEANpZuf) | 4:20 | 2022-06-06 | 2022-07-29 |

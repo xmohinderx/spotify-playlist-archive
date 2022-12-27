@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-388 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
+389 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,8 @@
 | [Show Me Your Back](https://open.spotify.com/track/5Ro8cPLumZRfhhfVxBG5hJ) | [FindMyName](https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2) | [Show Me Your Back](https://open.spotify.com/album/2WfTYJXnEWlam3UpiFcngR) | 3:14 | 2022-07-22 |  |
 | [showdown](https://open.spotify.com/track/48fzAdCxamFYCHNXXLk6zn) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o) | [showdown](https://open.spotify.com/album/4OMVt53nIZgMMf5uDsAdjz) | 2:00 | 2022-05-13 | 2022-07-09 |
 | [Silvia](https://open.spotify.com/track/3ctasKqsuqcg0BqYqUd17e) | [AntXres](https://open.spotify.com/artist/7v9CZIFskqQfiHrQbI8B3z) | [Silvia](https://open.spotify.com/album/5UMRqJEboY6K8YSaU22BV5) | 2:35 | 2021-08-27 | 2022-02-19 |
-| [Skinny Life](https://open.spotify.com/track/6UsZJgMN0xC7l26Lg21OTj) | [lixffr](https://open.spotify.com/artist/0GUmve9sjccwOk35nZkHtl), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Phonky Year](https://open.spotify.com/album/7hmGHkTtF3QRoSIfmPbJwz) | 2:26 | 2022-12-16 |  |
+| [Skinny Life](https://open.spotify.com/track/4Q6NbWo0mfhBon2DyG6tW9) | [lixffr](https://open.spotify.com/artist/0GUmve9sjccwOk35nZkHtl), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Phonky Year](https://open.spotify.com/album/1I7oAah4fw6822L2eZZAh4) | 2:26 | 2022-12-16 |  |
+| [Skinny Life](https://open.spotify.com/track/6UsZJgMN0xC7l26Lg21OTj) | [lixffr](https://open.spotify.com/artist/0GUmve9sjccwOk35nZkHtl), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Phonky Year](https://open.spotify.com/album/7hmGHkTtF3QRoSIfmPbJwz) | 2:26 | 2022-12-16 | 2022-12-27 |
 | [Slapper](https://open.spotify.com/track/7mtsigBhtzIJ8e4XsfpMkI) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Fast & Furious: Drift Tape \(Phonk Vol 1\)](https://open.spotify.com/album/1XJGiLPpejKHhzovCVpQUY) | 1:07 | 2022-12-16 |  |
 | [SLAUGHTER HOUSE](https://open.spotify.com/track/512GmOfa7bOg5IJcrVHMdy) | [Phonkha](https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU), [zecki](https://open.spotify.com/artist/3hmaJ9tTvaDVTrJyHPO9T0) | [SLAUGHTER HOUSE](https://open.spotify.com/album/74VzeE1hiSnr1P2SsQ2m0L) | 2:31 | 2022-09-02 |  |
 | [SLAYER](https://open.spotify.com/track/6GubPXHfFG5cYUFZNl4vsZ) | [Ya$h](https://open.spotify.com/artist/6dvtf0mSE1nAC2vbStrrVG), [only1korob](https://open.spotify.com/artist/5G8Q8ZPaEwSl3oO0DpnUYB), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [SLAYER](https://open.spotify.com/album/6jeoIb83bE8HaEr1HvHTZj) | 2:53 | 2022-07-29 | 2022-09-24 |

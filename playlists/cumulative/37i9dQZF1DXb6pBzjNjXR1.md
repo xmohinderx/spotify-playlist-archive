@@ -4,7 +4,7 @@
 
 > AfroTech was born in South Africa and it is travelling the world's dancefloors\. Listen to the best in AfroTech here.
 
-86 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/2tRmuLmE2qlwUjvVj1bq1z)
+87 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/2tRmuLmE2qlwUjvVj1bq1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Tshwala Bami](https://open.spotify.com/track/1t9i8N7VERUnG5oAZbGU5L) | [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Jnr SA](https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku) | [Tshwala Bami](https://open.spotify.com/album/1man3N1G9mg0eQGypyxL3C) | 6:25 | 2022-12-02 |  |
 | [Turmoil](https://open.spotify.com/track/4Yk9WHAIpHTBREPJzYfUsR) | [DJ LESOUL](https://open.spotify.com/artist/5C6dZk6xmSCgrYWjje5zPm) | [Turmoil](https://open.spotify.com/album/28wN2o412xOVYXOWFyn85y) | 6:33 | 2022-10-31 |  |
 | [Two Zulu Men In Ibiza](https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8) | [DJ Merlon](https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Two Zulu Men In Ibiza EP](https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz) | 7:01 | 2022-12-02 |  |
-| [Ubomi Umzamo](https://open.spotify.com/track/260JCKOqT6QbYSJq6KSRne) | [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Eves Manxeba](https://open.spotify.com/artist/5XLEwFZp3QbAQxL51R2ADB) | [Ubomi](https://open.spotify.com/album/41eQeVOsXmM5r8Dk8KnOZL) | 4:01 | 2022-12-02 |  |
+| [Ubomi Umzamo](https://open.spotify.com/track/260JCKOqT6QbYSJq6KSRne) | [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Eves Manxeba](https://open.spotify.com/artist/5XLEwFZp3QbAQxL51R2ADB) | [Ubomi](https://open.spotify.com/album/41eQeVOsXmM5r8Dk8KnOZL) | 4:01 | 2022-12-02 | 2022-12-27 |
+| [Ubomi Umzamo](https://open.spotify.com/track/2L5JfERa3VxgMAj93Q4gT4) | [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Eves Manxeba](https://open.spotify.com/artist/5XLEwFZp3QbAQxL51R2ADB) | [Ubomi](https://open.spotify.com/album/79G6OtDk17Lq9UmlyxUqev) | 4:01 | 2022-12-02 |  |
 | [Udumo](https://open.spotify.com/track/2AMFvzvh5gothJ4kkrsK9X) | [AfroNerd](https://open.spotify.com/artist/6SrgBbRgwhj5g0o2dzi0tD), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Udumo, Camagu \(Incl\. Giorgio Bassetti Remix\)](https://open.spotify.com/album/2sJgQR1xzzIU9NzrqybEka) | 6:50 | 2022-09-22 |  |
 | [Ukuthanda Wena](https://open.spotify.com/track/7ymsC9MDZ9eqcPgxGk7huP) | [Stones & Bones](https://open.spotify.com/artist/5dBe8LtEp62lNMgDOFx7l4), [Bukeka](https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV), [Audio J](https://open.spotify.com/artist/06FxdIJd8WOrZLKZgj6zc3) | [The 12 Year Saga](https://open.spotify.com/album/3xloxYskgtTZmtIpBDNjH5) | 6:53 | 2022-09-22 |  |
 | [Umoya Wami](https://open.spotify.com/track/1R7qdtlbSSYtJ7Aez5Pd2C) | [Malumz on Decks](https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS), [Tabia](https://open.spotify.com/artist/3fvAIzLvQim7Bas6O8FCK8) | [Afro Is Africa](https://open.spotify.com/album/6u967bk1pgeM7GXj7VZzGj) | 6:13 | 2022-08-11 | 2022-10-04 |

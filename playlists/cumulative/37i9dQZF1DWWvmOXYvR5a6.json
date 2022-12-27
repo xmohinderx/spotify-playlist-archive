@@ -2781,7 +2781,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 162586,
       "name": "Drivin\u2019 (Feat. Layone, BIG Naughty)",
       "url": "https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT"
@@ -6927,7 +6927,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 178920,
       "name": "Mull",
       "url": "https://open.spotify.com/track/3R0rfIZjWpNUHNHREUvCBN"
@@ -9658,6 +9658,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Struggles",
+        "url": "https://open.spotify.com/album/4BgxqlGNChjQb4MQzfjXEg"
+      },
+      "artists": [
+        {
+          "name": "\uc804\ud604\uc7ac",
+          "url": "https://open.spotify.com/artist/10el24MGnx27TEXY6kM7Qv"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/7pXb7Ho5ahUdcJWdAWdnC9"
+    },
+    {
+      "album": {
         "name": "PREVIEW - plusNONE",
         "url": "https://open.spotify.com/album/0mv9HXhq7wB0kcNYexp6l2"
       },
@@ -10081,6 +10099,28 @@
       "duration_ms": 199000,
       "name": "SUN & MOON",
       "url": "https://open.spotify.com/track/5hydYnlC66FvUwY5nYp9sI"
+    },
+    {
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/3SizZnd3U3JAWvgiCiK7ny"
+      },
+      "artists": [
+        {
+          "name": "BEAT SOMEONE",
+          "url": "https://open.spotify.com/artist/5RYJ7hcKqMGA7bPLXN7ouY"
+        },
+        {
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196214,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/79slMuiNDsDAUkyaECBcoc"
     },
     {
       "album": {

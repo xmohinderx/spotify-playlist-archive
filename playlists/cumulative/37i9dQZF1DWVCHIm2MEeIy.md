@@ -4,7 +4,7 @@
 
 > Time to rave again.
 
-257 songs - 1 day 0 hr 25 min - [published](https://open.spotify.com/playlist/5ZDZU4DCEvLnxIZybyWNjj)
+258 songs - 1 day 0 hr 32 min - [published](https://open.spotify.com/playlist/5ZDZU4DCEvLnxIZybyWNjj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/1ipso6qku1yalltQEtxAPw) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/6fxVUbJy29bvtfqUm94y5b) | 4:06 | 2022-04-15 | 2022-07-29 |
 | [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st) | 4:06 | 2022-11-14 |  |
 | [Come Back Around \- Maya Jane Coles Remix](https://open.spotify.com/track/4n2gEtt5HWKGERlbGDj3Dz) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Come Back Around \(Maya Jane Coles Remix\)](https://open.spotify.com/album/3WCQXG4uUxlKMXzYGCwkWI) | 3:42 | 2022-04-15 | 2022-07-28 |
+| [Confide \(Contour 1\)](https://open.spotify.com/track/6GbgqFsJbytKNRlmcZIHqL) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Contour](https://open.spotify.com/album/7MvFbkm0nHFPin4SYkiOIY) | 6:41 | 2022-11-14 |  |
 | [Confide \(Contour 1\)](https://open.spotify.com/track/6q4NIJH9q9qXmjQtUBnGpM) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Confide \(Contour 1\)](https://open.spotify.com/album/1NXbRThuLLae8FHXkL4tgq) | 6:41 | 2022-09-30 | 2022-10-19 |
 | [Confusion](https://open.spotify.com/track/4dUIinlaify3Z3DAZmPkc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Confusion](https://open.spotify.com/album/0c4WgnhgDzr5B0SL3mwIDM) | 6:56 | 2022-06-24 |  |
 | [Control](https://open.spotify.com/track/3qQFXz3qhRRa3HEXGeZ0Yl) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Control](https://open.spotify.com/album/5qRgoyaOBrrscesIipuThi) | 6:13 | 2022-08-19 | 2022-08-22 |
@@ -121,7 +122,7 @@
 | [Internal Jungle](https://open.spotify.com/track/0FxLMpVTDgdNmk0Ehc0ZKx) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [The Selador Showcase \- The Phenomenal Fifteenth](https://open.spotify.com/album/0IdBHTWEw5scv60okmQpFE) | 7:25 | 2022-04-15 | 2022-07-17 |
 | [Irani \- Joris Delacroix Remix](https://open.spotify.com/track/0RAKYllv4sHLI5GzDXIOqd) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Joris Delacroix](https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1) | [Irani \(Joris Delacroix Remix\)](https://open.spotify.com/album/3mSD8QLyj9Nl7jAC82J2c6) | 3:48 | 2022-04-15 | 2022-06-16 |
 | [Is This Our Earth?](https://open.spotify.com/track/4oDRXykJhBsUZJOODiQ18M) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Is This Our Earth?](https://open.spotify.com/album/316bE5c2saBR5h40GBARwm) | 3:41 | 2022-06-24 |  |
-| [Known](https://open.spotify.com/track/7HifJr6sXlPCtnfPnMC0Rg) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Known](https://open.spotify.com/album/2xnS4KlBwyc8sYKPJ5kmpk) | 4:26 | 2022-11-14 |  |
+| [Known](https://open.spotify.com/track/7HifJr6sXlPCtnfPnMC0Rg) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Known](https://open.spotify.com/album/2xnS4KlBwyc8sYKPJ5kmpk) | 4:26 | 2022-11-14 | 2022-12-27 |
 | [Lady Cherry](https://open.spotify.com/track/1FegqJzuhbp7XZY4gT5EoW) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Discreet Moment Thing Pt\. 2](https://open.spotify.com/album/7FK2B1ZpjFe2JI5B3MXea0) | 5:42 | 2022-06-24 |  |
 | [Lady Cherry](https://open.spotify.com/track/5Aub2PCLAJi4QuMnN5g5d3) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Discreet Moment Thing Pt\. 2](https://open.spotify.com/album/5eaviny1LfRUn4benBg9XD) | 5:42 | 2022-04-15 | 2022-07-27 |
 | [Landa](https://open.spotify.com/track/4QKgq7twx3wHL3fS73WKHo) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:00 | 2022-08-12 |  |

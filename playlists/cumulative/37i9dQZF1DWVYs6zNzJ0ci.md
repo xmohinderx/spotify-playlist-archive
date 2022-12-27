@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari en español\. Foto: Manuel Medrano, Rawayana
 
-227 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/1vSJyoseXwXuO64ij78YrM)
+228 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/1vSJyoseXwXuO64ij78YrM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Keep The Fyah Burning](https://open.spotify.com/track/1Rp41EZvGAym6wLzj7QgRY) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Brinsley Forde](https://open.spotify.com/artist/63qBcGs26phTxIJUhgOWB8), [Flabba Holt](https://open.spotify.com/artist/5utMO0rlmzSsVIEIQEm9Tl) | [Keep The Fyah Burning](https://open.spotify.com/album/5d8pv82S8cNEp4jXwhejxm) | 4:16 | 2022-07-08 |  |
 | [Keep the Fyah Burning](https://open.spotify.com/track/1MHI9kaLavQz85sCIiSiBL) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Brinsley Forde](https://open.spotify.com/artist/63qBcGs26phTxIJUhgOWB8), [Flabba Holt](https://open.spotify.com/artist/5utMO0rlmzSsVIEIQEm9Tl) | [Keep the Fyah Burning](https://open.spotify.com/album/22eQg2AVJlNxrU2U2H2jjO) | 4:17 | 2021-12-10 | 2022-07-29 |
 | [Kultura Babylon](https://open.spotify.com/track/32DIxvqzBXDijvEP5ZTaKT) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Kultura Babylon](https://open.spotify.com/album/00B4QdRvpRIdowHME57El2) | 3:57 | 2021-12-10 | 2022-07-27 |
+| [Kultura Babylon](https://open.spotify.com/track/3FEHIGm7Ox5HSZsTI1W1RP) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Kultura Babylon](https://open.spotify.com/album/4xisbZxOFYpVoxqJumZiTZ) | 3:58 | 2022-11-18 |  |
 | [Kultura Babylon](https://open.spotify.com/track/7vKxkgvw31YjVgEiabyXZa) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Kultura Babylon](https://open.spotify.com/album/0DZ7bLQzuop71o90CTkueo) | 3:58 | 2022-07-08 | 2022-12-06 |
 | [La Complicidad](https://open.spotify.com/track/5gHKusQmvb34THoxqd7m6X) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/5Mz4QZogCrS5CCg2Zeul8i) | 6:07 | 2021-12-10 | 2022-07-27 |
 | [La Complicidad \- En Vivo](https://open.spotify.com/track/0JS9Ajk3ggRyjyHpLYhQQ7) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 6:07 | 2022-10-14 | 2022-11-13 |
@@ -155,7 +156,7 @@
 | [No Me Dejes Solo](https://open.spotify.com/track/0b5LAtE2OcolkjdUbm9hmF) | [Mentes Comunes](https://open.spotify.com/artist/2s8ywGGHH5OB5TfhVLwN48) | [No Me Dejes Solo](https://open.spotify.com/album/3RruyP1Q51wAfI1Ou9zGZ1) | 3:09 | 2022-04-01 | 2022-04-21 |
 | [No me quieras mal \(feat\. Green Valley\)](https://open.spotify.com/track/0i28uCpFSDqIf7KVTqj5hv) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy) | [No me quieras mal \(feat\. Green Valley\)](https://open.spotify.com/album/0t3QVhg859BVQMZ9BxQWK5) | 4:06 | 2022-09-30 |  |
 | [No Sé Si Salga El Sol \- Remix](https://open.spotify.com/track/0gw6orix5diJLOahicJhj6) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [No Sé Si Salga El Sol \(Remix\)](https://open.spotify.com/album/4UVV1F929dzhwavk2GQkKD) | 3:08 | 2022-11-18 |  |
-| [Normal](https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Normal](https://open.spotify.com/album/4TDHPkZFHmvX2NM5S6y73c) | 4:27 | 2021-12-10 |  |
+| [Normal](https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Normal](https://open.spotify.com/album/4TDHPkZFHmvX2NM5S6y73c) | 4:27 | 2021-12-10 | 2022-12-27 |
 | [On the Good Road \- En Vivo En Sala Siranush](https://open.spotify.com/track/42X9GlneXJkyRShuDLPvNc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [On the Good Road \(En Vivo En Sala Siranush\)](https://open.spotify.com/album/2eVwZkKc0oWJa9r85EsrAt) | 3:48 | 2022-09-30 | 2022-10-15 |
 | [One Earth](https://open.spotify.com/track/0F47jz9LSAqWfSRaksVYDb) | [David Kawooq](https://open.spotify.com/artist/71miEAUvClO9XgUdy6dqnZ), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Colectivo Ley De Origen](https://open.spotify.com/artist/5J6qDQo17awBaFEmOGhfb3) | [One Earth](https://open.spotify.com/album/5phaCeuxwasbYXb7E7lsIB) | 3:10 | 2022-04-01 | 2022-04-20 |
 | [Ora por Mi](https://open.spotify.com/track/0RmQb6tQRFyDzvTD8vQTSm) | [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Fortuna](https://open.spotify.com/album/7l3I2523DYUnHB6EjBKzFB) | 3:50 | 2022-04-01 | 2022-04-21 |

@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 11876,
+  "num_followers": 11878,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMDlmMGJlZGY4ODM4ZmFjMWQ3M2FhMGViMzRkYmFlOGM3",
+  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMGRjMjlmNWU3NDA5MGRjMjgyNWJkMWI0MmExY2RiYjli",
   "tracks": [
     {
       "added_at": "2020-11-25 03:15:55",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "The Story of You",
-        "url": "https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx"
-      },
-      "artists": [
-        {
-          "name": "Satsang",
-          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "I Am",
-      "url": "https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "Storm Boy",
         "url": "https://open.spotify.com/album/1hVCb34MRa3jaxuah3HHT7"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 239080,
       "name": "Storm Boy",
       "url": "https://open.spotify.com/track/7J4GmvwgVBKMS6BAWnhLwB"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
+        "name": "The Story of You",
+        "url": "https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx"
+      },
+      "artists": [
+        {
+          "name": "Satsang",
+          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -191,6 +191,22 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
+        "name": "The Fruitful Darkness",
+        "url": "https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 239312,
+      "name": "Moon / Sun",
+      "url": "https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
         "name": "Sunday Vibe",
         "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 186760,
       "name": "Sunday Vibe",
       "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
-        "name": "The Fruitful Darkness",
-        "url": "https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 239312,
-      "name": "Moon / Sun",
-      "url": "https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -275,6 +275,26 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
+        "name": "Put Down What You Are Carrying (with Brett Dennen)",
+        "url": "https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        },
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 268006,
+      "name": "Put Down What You Are Carrying (with Brett Dennen)",
+      "url": "https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
         "name": "Don't Let Me Disappear",
         "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
       },
@@ -323,26 +343,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Put Down What You Are Carrying (with Brett Dennen)",
-        "url": "https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        },
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 268006,
-      "name": "Put Down What You Are Carrying (with Brett Dennen)",
-      "url": "https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "Campfire Anthems, Vol. I",
         "url": "https://open.spotify.com/album/5rVbfchsQDXcJQYF7sDHVw"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Cas Haley",
-        "url": "https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz"
-      },
-      "artists": [
-        {
-          "name": "Cas Haley",
-          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
-        }
-      ],
-      "duration_ms": 209536,
-      "name": "Walking on the Moon (Acoustic)",
-      "url": "https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "Take Your Power Back",
         "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 236064,
       "name": "Garden",
       "url": "https://open.spotify.com/track/4sqyxt6b47PF0mKE7OvLxH"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
+        "name": "Cas Haley",
+        "url": "https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz"
+      },
+      "artists": [
+        {
+          "name": "Cas Haley",
+          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
+        }
+      ],
+      "duration_ms": 209536,
+      "name": "Walking on the Moon (Acoustic)",
+      "url": "https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -619,26 +619,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Leylines",
-        "url": "https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G"
-      },
-      "artists": [
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        },
-        {
-          "name": "Ani DiFranco",
-          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
-        }
-      ],
-      "duration_ms": 235826,
-      "name": "Speak out",
-      "url": "https://open.spotify.com/track/5WpkhH54wP0WQBMhFZiTdq"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "Everyday Life, Everyday People",
         "url": "https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X"
       },
@@ -655,22 +635,6 @@
       "duration_ms": 241306,
       "name": "If You Want It",
       "url": "https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
-        "name": "Take Your Power Back",
-        "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
-      },
-      "artists": [
-        {
-          "name": "Nahko And Medicine For The People",
-          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
-        }
-      ],
-      "duration_ms": 207485,
-      "name": "Lifeguard",
-      "url": "https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -695,6 +659,22 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
+        "name": "Take Your Power Back",
+        "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
+      },
+      "artists": [
+        {
+          "name": "Nahko And Medicine For The People",
+          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
+        }
+      ],
+      "duration_ms": 207485,
+      "name": "Lifeguard",
+      "url": "https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
         "name": "Stay Human Vol. II",
         "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
       },
@@ -711,8 +691,8 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Pulse",
-        "url": "https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx"
+        "name": "Leylines",
+        "url": "https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G"
       },
       "artists": [
         {
@@ -720,13 +700,13 @@
           "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
         },
         {
-          "name": "Dirtwire",
-          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
         }
       ],
-      "duration_ms": 262174,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8"
+      "duration_ms": 235826,
+      "name": "Speak out",
+      "url": "https://open.spotify.com/track/5WpkhH54wP0WQBMhFZiTdq"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -843,6 +823,26 @@
       "duration_ms": 169613,
       "name": "What's the Secret?",
       "url": "https://open.spotify.com/track/4mz4vDsoyYLZFvPOtqZQkv"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        },
+        {
+          "name": "Dirtwire",
+          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
+        }
+      ],
+      "duration_ms": 262174,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8"
     },
     {
       "added_at": "2020-11-25 03:15:55",

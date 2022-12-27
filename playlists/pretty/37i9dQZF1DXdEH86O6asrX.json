@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta de las mejores bandas sonoras del siglo XXI!",
-  "num_followers": 521863,
+  "num_followers": 521849,
   "original_name": "Soundtracks \u00c9picos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTcxODM1NSwwMDAwMDAwMDQwZmNlZmE1YmI3MTU1OGRhMjQ3MmM3NWJlYWI1Y2Uw",
+  "snapshot_id": "MTY0OTcxODM1NSwwMDAwMDAwMGUzMzQ5NGVjOTg3MmJhZjI4OWQxODZhNzk0MTVkM2I0",
   "tracks": [
     {
       "added_at": "2022-01-27 04:35:36",
@@ -207,38 +207,6 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
-        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 356626,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 309386,
-      "name": "O Tannenbaum",
-      "url": "https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
         "name": "Elvis' Christmas Album",
         "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
       },
@@ -255,18 +223,18 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Nightcall",
-        "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
+        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
       },
       "artists": [
         {
-          "name": "Kavinsky",
-          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
         }
       ],
-      "duration_ms": 258413,
-      "name": "Nightcall",
-      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
+      "duration_ms": 356626,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -287,6 +255,22 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 309386,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
         "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
         "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 293533,
       "name": "Main Title \"Somewhere in My Memory\" (From \"Home Alone\") - Voice",
       "url": "https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
+        "name": "Nightcall",
+        "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
+      },
+      "artists": [
+        {
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        }
+      ],
+      "duration_ms": 258413,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
+        "name": "This Christmas - Songs From The Motion Picture",
+        "url": "https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
         "name": "Oh, Inverted World (20th Anniversary Remaster)",
         "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 303477,
       "name": "Stand Up (From Harriet)",
       "url": "https://open.spotify.com/track/3wNNbf63xkxw9rIVWtFy7a"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
-        "name": "This Christmas - Songs From The Motion Picture",
-        "url": "https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "The Polar Express (Original Motion Picture Soundtrack) [Special Edition]",
-        "url": "https://open.spotify.com/album/64jNt6b5Ds4itNEXTpk9Fk"
-      },
-      "artists": [
-        {
-          "name": "Tom Hanks",
-          "url": "https://open.spotify.com/artist/3OCGqx0Y3UyrBnyzjIokIr"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "The Polar Express",
-      "url": "https://open.spotify.com/track/1Gi37i20j7uydKwNnNcbkz"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
         "name": "Louis Wishes You a Cool Yule",
         "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 169092,
       "name": "'Zat You, Santa Claus? - Single Version",
       "url": "https://open.spotify.com/track/4Kh0X8pMk2yIFf4jnGXrTZ"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
+        "name": "The Polar Express (Original Motion Picture Soundtrack) [Special Edition]",
+        "url": "https://open.spotify.com/album/64jNt6b5Ds4itNEXTpk9Fk"
+      },
+      "artists": [
+        {
+          "name": "Tom Hanks",
+          "url": "https://open.spotify.com/artist/3OCGqx0Y3UyrBnyzjIokIr"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "The Polar Express",
+      "url": "https://open.spotify.com/track/1Gi37i20j7uydKwNnNcbkz"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
-        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
-      },
-      "artists": [
-        {
-          "name": "Kermit",
-          "url": "https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw"
-        }
-      ],
-      "duration_ms": 170293,
-      "name": "One More Sleep \u2019til Christmas",
-      "url": "https://open.spotify.com/track/4ZEUe2d1foQdbsNdgQXZlS"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
         "name": "Brain Drain",
         "url": "https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 123600,
       "name": "Merry Christmas (I Don't Want to Fight Tonight)",
       "url": "https://open.spotify.com/track/7EGQaR9y8XyKeDW7jiDndI"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "Kermit",
+          "url": "https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw"
+        }
+      ],
+      "duration_ms": 170293,
+      "name": "One More Sleep \u2019til Christmas",
+      "url": "https://open.spotify.com/track/4ZEUe2d1foQdbsNdgQXZlS"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
+        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 175533,
+      "name": "Christmas at Hogwarts",
+      "url": "https://open.spotify.com/track/4WPw9shOzxaA4cWws44Xjd"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
         "name": "Suspiria (Music for the Luca Guadagnino Film)",
         "url": "https://open.spotify.com/album/2UehMLybYgLuuNHRNJpbCB"
       },
@@ -647,18 +663,34 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
+        "name": "Meet Me In St. Louis (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/29vvOZZDLLZavty2hkZySE"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Judy Garland",
+          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
         }
       ],
-      "duration_ms": 175533,
-      "name": "Christmas at Hogwarts",
-      "url": "https://open.spotify.com/track/4WPw9shOzxaA4cWws44Xjd"
+      "duration_ms": 157506,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1BMmB1L5PbedWBAFl3xf27"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
+        "name": "Edward Scissorhands",
+        "url": "https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "duration_ms": 104973,
+      "name": "Ice Dance",
+      "url": "https://open.spotify.com/track/6HH8ZoDIe5qw8EYTTHVZh7"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -683,38 +715,6 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Edward Scissorhands",
-        "url": "https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf"
-      },
-      "artists": [
-        {
-          "name": "Danny Elfman",
-          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
-        }
-      ],
-      "duration_ms": 104973,
-      "name": "Ice Dance",
-      "url": "https://open.spotify.com/track/6HH8ZoDIe5qw8EYTTHVZh7"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
-        "name": "Meet Me In St. Louis (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/29vvOZZDLLZavty2hkZySE"
-      },
-      "artists": [
-        {
-          "name": "Judy Garland",
-          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/1BMmB1L5PbedWBAFl3xf27"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
         "name": "Frozen: Una Aventura Congelada (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 222640,
       "name": "Libre Soy",
       "url": "https://open.spotify.com/track/2PHO8EhBkqFQQ9JtQaAt0P"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
+        "name": "Merry Christmas Baby / White Christmas",
+        "url": "https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/7LxsehOTDXTpsuWAMWXe9o"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -751,18 +767,18 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Merry Christmas Baby / White Christmas",
-        "url": "https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp"
+        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
+        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 182706,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/7LxsehOTDXTpsuWAMWXe9o"
+      "duration_ms": 179000,
+      "name": "Star of Bethlehem - Voice",
+      "url": "https://open.spotify.com/track/5MNkMPDxNoQCILLPJw4XAB"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -779,22 +795,6 @@
       "duration_ms": 366826,
       "name": "Dry the Rain",
       "url": "https://open.spotify.com/track/7ItpUlCUwTRyiXZ0YclPQ7"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
-        "name": "Popstar: Never Stop Never Stopping",
-        "url": "https://open.spotify.com/album/07fcZXkBS0y4Y80GT60PZq"
-      },
-      "artists": [
-        {
-          "name": "The Lonely Island",
-          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
-        }
-      ],
-      "duration_ms": 150586,
-      "name": "Finest Girl (Bin Laden Song)",
-      "url": "https://open.spotify.com/track/1LpjlPR8Gv52B04UQNLZAw"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
-        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
+        "name": "Popstar: Never Stop Never Stopping",
+        "url": "https://open.spotify.com/album/07fcZXkBS0y4Y80GT60PZq"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "The Lonely Island",
+          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Star of Bethlehem - Voice",
-      "url": "https://open.spotify.com/track/5MNkMPDxNoQCILLPJw4XAB"
+      "duration_ms": 150586,
+      "name": "Finest Girl (Bin Laden Song)",
+      "url": "https://open.spotify.com/track/1LpjlPR8Gv52B04UQNLZAw"
     },
     {
       "added_at": "2022-01-27 04:35:36",

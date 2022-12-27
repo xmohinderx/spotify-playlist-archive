@@ -1631,7 +1631,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 138750,
       "name": "Apple Juice (feat. Carla Monroe) - MOTi Remix",
       "url": "https://open.spotify.com/track/6fIgsZFtGXiIvxb2Y6oCc7"
@@ -3387,7 +3387,7 @@
       ],
       "date_added": "2020-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 198435,
       "name": "Bring It Home",
       "url": "https://open.spotify.com/track/7D0oCfqEAkXrrKhBMth8Nt"
@@ -10073,7 +10073,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 226262,
       "name": "GOT EM",
       "url": "https://open.spotify.com/track/404RlM5dJoLH2FL1mBMGLt"
@@ -12049,7 +12049,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "I Feel Human",
       "url": "https://open.spotify.com/track/2URnJ0pGKPFpZowwVjKwPR"
@@ -13139,7 +13139,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 212280,
       "name": "Infinity 2018",
       "url": "https://open.spotify.com/track/3jaFTrMgWgrY5wZQqJwMKN"
@@ -17258,6 +17258,24 @@
     },
     {
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/1kAa3NghRtSKIxPsPqGPbo"
+      },
+      "artists": [
+        {
+          "name": "Toby Green",
+          "url": "https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151680,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/77nsopvS2oakiCcvVZaZLV"
+    },
+    {
+      "album": {
         "name": "Move It",
         "url": "https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza"
       },
@@ -17379,7 +17397,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 191663,
       "name": "My Affection",
       "url": "https://open.spotify.com/track/0ByVaTwUoxD8lTUBtuR6dy"
@@ -19594,6 +19612,32 @@
     },
     {
       "album": {
+        "name": "Outside (feat. Ellie Goulding) [Remixes]",
+        "url": "https://open.spotify.com/album/3SeFkF7fa4RNRxfH4DSvoS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296240,
+      "name": "Outside (feat. Ellie Goulding) - Hardwell Remix",
+      "url": "https://open.spotify.com/track/5F65SKdHWD9l4Nl4kgMcWG"
+    },
+    {
+      "album": {
         "name": "Outta Control",
         "url": "https://open.spotify.com/album/43b2HGxiBrWtvWwRylPeEV"
       },
@@ -19833,7 +19877,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 174677,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6S8QooXikGI3RqJcarCcrY"
@@ -20279,7 +20323,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 178000,
       "name": "Playout",
       "url": "https://open.spotify.com/track/7pLGq8QViObSq3rwPIBPRB"
@@ -20367,7 +20411,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 202380,
       "name": "Pondicherry",
       "url": "https://open.spotify.com/track/0IoJNiqfeORsU6nMY9zC85"
@@ -22191,7 +22235,7 @@
       ],
       "date_added": "2020-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-26",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "Say Say Say (Waiting 4 U) - Steff da Campo & 71 Digits Radio Mix",
       "url": "https://open.spotify.com/track/3Ns7GYmCWy4DLI3e6yRE5d"

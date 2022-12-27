@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 220667,
+  "num_followers": 220741,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTE0NTgyMCwwMDAwMDAwMGI1NjU2NTA3MjU3YzA2MTFjZTM4MjNlN2M0MzA1ZmNi",
+  "snapshot_id": "MTY2OTE0NTgyMCwwMDAwMDAwMDllNGM5YjE2YTFjNDA4ZDhhN2FiNjJkYmY1NzM2YTMy",
   "tracks": [
     {
       "added_at": "2022-11-22 19:37:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
-        "name": "Dreamscapes",
-        "url": "https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL"
-      },
-      "artists": [
-        {
-          "name": "kyu",
-          "url": "https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW"
-        }
-      ],
-      "duration_ms": 133437,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d"
-    },
-    {
-      "added_at": "2022-11-22 19:37:00",
-      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/3GDrSVfvjeXnRUjXaE0XBb"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 298799,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/7FtKmHnpcW6NDCCLe83CjR"
+    },
+    {
+      "added_at": "2022-11-22 19:37:00",
+      "album": {
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL"
+      },
+      "artists": [
+        {
+          "name": "kyu",
+          "url": "https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW"
+        }
+      ],
+      "duration_ms": 133437,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d"
     },
     {
       "added_at": "2022-11-22 19:37:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
-        "name": "structures",
-        "url": "https://open.spotify.com/album/4xwwce3n8nmpfAEVmg7xQe"
-      },
-      "artists": [
-        {
-          "name": "yudaii",
-          "url": "https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv"
-        }
-      ],
-      "duration_ms": 121486,
-      "name": "structures",
-      "url": "https://open.spotify.com/track/6B9DAQWbldDxbEQ6IhabvF"
-    },
-    {
-      "added_at": "2022-11-22 19:37:00",
-      "album": {
         "name": "Seven Seas",
         "url": "https://open.spotify.com/album/7tFM2YfFPx3mNrwRes7LrC"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 276080,
       "name": "Ocelot",
       "url": "https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr"
+    },
+    {
+      "added_at": "2022-11-22 19:37:00",
+      "album": {
+        "name": "structures",
+        "url": "https://open.spotify.com/album/4xwwce3n8nmpfAEVmg7xQe"
+      },
+      "artists": [
+        {
+          "name": "yudaii",
+          "url": "https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv"
+        }
+      ],
+      "duration_ms": 121486,
+      "name": "structures",
+      "url": "https://open.spotify.com/track/6B9DAQWbldDxbEQ6IhabvF"
     },
     {
       "added_at": "2022-11-22 19:37:00",

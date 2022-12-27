@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 29305,
+  "num_followers": 29352,
   "original_name": "Hardcore Rage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDlmM2YxOWE3YWUyMjk1OWNkYTJmODhlODE0ODBjYmFm",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMGYyNGFjMjMxNTRkOWIyOGMwYWI1YzhkMWQ5YmM1MDk2",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -339,26 +339,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Klapt Door Je Botten",
-        "url": "https://open.spotify.com/album/5wCrZXF2mUnwNMzZZ3jSux"
+        "name": "Terrified",
+        "url": "https://open.spotify.com/album/4tD5GB1lBAMJLWqZDif3Ae"
       },
       "artists": [
         {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+          "name": "Trespassed",
+          "url": "https://open.spotify.com/artist/4P64zOuVtzLwvGEMasQXl5"
         },
         {
-          "name": "BOMBSQUAD",
-          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
-        },
-        {
-          "name": "Major Conspiracy",
-          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+          "name": "MC Robs",
+          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
         }
       ],
-      "duration_ms": 192941,
-      "name": "Klapt Door Je Botten",
-      "url": "https://open.spotify.com/track/7kF6GlYwelx6MLH3Jhmiyz"
+      "duration_ms": 202040,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/0TYBkC9jZ5b8FPW7kn673t"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -379,22 +375,26 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Terrified",
-        "url": "https://open.spotify.com/album/4tD5GB1lBAMJLWqZDif3Ae"
+        "name": "Klapt Door Je Botten",
+        "url": "https://open.spotify.com/album/5wCrZXF2mUnwNMzZZ3jSux"
       },
       "artists": [
         {
-          "name": "Trespassed",
-          "url": "https://open.spotify.com/artist/4P64zOuVtzLwvGEMasQXl5"
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
         },
         {
-          "name": "MC Robs",
-          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
+          "name": "BOMBSQUAD",
+          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
+        },
+        {
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
         }
       ],
-      "duration_ms": 202040,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/0TYBkC9jZ5b8FPW7kn673t"
+      "duration_ms": 192941,
+      "name": "Klapt Door Je Botten",
+      "url": "https://open.spotify.com/track/7kF6GlYwelx6MLH3Jhmiyz"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Broken Inside",
-        "url": "https://open.spotify.com/album/07ibnMCRSY45wLqlWETuW8"
-      },
-      "artists": [
-        {
-          "name": "Namara",
-          "url": "https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1"
-        }
-      ],
-      "duration_ms": 205339,
-      "name": "Broken Inside",
-      "url": "https://open.spotify.com/track/6LvC4nm62BQGESBPhwgpgg"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "PartyRockerz",
         "url": "https://open.spotify.com/album/51mWPGTNUyjPtbkYyh6cYI"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 175151,
       "name": "PartyRockerz",
       "url": "https://open.spotify.com/track/2iRiV6IPA015xIEGfiwXKX"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Broken Inside",
+        "url": "https://open.spotify.com/album/07ibnMCRSY45wLqlWETuW8"
+      },
+      "artists": [
+        {
+          "name": "Namara",
+          "url": "https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1"
+        }
+      ],
+      "duration_ms": 205339,
+      "name": "Broken Inside",
+      "url": "https://open.spotify.com/track/6LvC4nm62BQGESBPhwgpgg"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -683,30 +683,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Hell Of A Ride (Official Dominator 2022 Anthem)",
-        "url": "https://open.spotify.com/album/5DJ81U0ycYxyM6g0DwJv0d"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
-        },
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
-        }
-      ],
-      "duration_ms": 251368,
-      "name": "Hell Of A Ride - Official Dominator 2022 Anthem",
-      "url": "https://open.spotify.com/track/4mmfmBwioCjlXjkklzXzHx"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "M.D.E.",
         "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 227022,
       "name": "STRUGGLE TO SURVIVE",
       "url": "https://open.spotify.com/track/5ppcwNlHYEMQOHYbo0y2Jf"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Hell Of A Ride (Official Dominator 2022 Anthem)",
+        "url": "https://open.spotify.com/album/5DJ81U0ycYxyM6g0DwJv0d"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
+        }
+      ],
+      "duration_ms": 251368,
+      "name": "Hell Of A Ride - Official Dominator 2022 Anthem",
+      "url": "https://open.spotify.com/track/4mmfmBwioCjlXjkklzXzHx"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -903,26 +903,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Game Breaker",
-        "url": "https://open.spotify.com/album/5byRL7fz21kyoNAM2Fog4H"
-      },
-      "artists": [
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        },
-        {
-          "name": "E-Force",
-          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
-        }
-      ],
-      "duration_ms": 198987,
-      "name": "Game Breaker",
-      "url": "https://open.spotify.com/track/2lNaARcTaHVlohiPlKvlnm"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Ready to Explode",
         "url": "https://open.spotify.com/album/1E4pKYJpNlutAR8xdE5JKN"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 167997,
       "name": "Ready to Explode",
       "url": "https://open.spotify.com/track/2ghOOeK8G7LLwygHsgZzjP"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Game Breaker",
+        "url": "https://open.spotify.com/album/5byRL7fz21kyoNAM2Fog4H"
+      },
+      "artists": [
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        },
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        }
+      ],
+      "duration_ms": 198987,
+      "name": "Game Breaker",
+      "url": "https://open.spotify.com/track/2lNaARcTaHVlohiPlKvlnm"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Crazy, Like Me!",
+        "url": "https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g"
+      },
+      "artists": [
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Crazy, Like Me!",
+      "url": "https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Runes of Retribution",
         "url": "https://open.spotify.com/album/6lsiqiLTNIBZwha12kaqM5"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 252158,
       "name": "Warriors (2022 Refix)",
       "url": "https://open.spotify.com/track/7rSv6TtMaamxdoG3fzhKQ8"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Crazy, Like Me!",
-        "url": "https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g"
-      },
-      "artists": [
-        {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Crazy, Like Me!",
-      "url": "https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "The Resurrection (Official Toxicator 2022 Anthem)",
-        "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 254075,
-      "name": "The Resurrection (Official Toxicator 2022 Anthem)",
-      "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Mi Madre",
         "url": "https://open.spotify.com/album/3jpDofUQPIy8xx7lLigl3Q"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 160187,
       "name": "Mi Madre",
       "url": "https://open.spotify.com/track/7sy5W4vCjRAifgy14muCpP"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "The Resurrection (Official Toxicator 2022 Anthem)",
+        "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 254075,
+      "name": "The Resurrection (Official Toxicator 2022 Anthem)",
+      "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1303,22 +1303,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Battle Tonight",
-        "url": "https://open.spotify.com/album/2X4Jg0NyQ8TVXQybcX7pQJ"
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
       },
       "artists": [
         {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
         }
       ],
-      "duration_ms": 248052,
-      "name": "Battle Tonight",
-      "url": "https://open.spotify.com/track/29Mp8a1JKqeSv5Oz52vXJv"
+      "duration_ms": 288398,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1339,18 +1335,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Shadows in the Dark",
-        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+        "name": "Battle Tonight",
+        "url": "https://open.spotify.com/album/2X4Jg0NyQ8TVXQybcX7pQJ"
       },
       "artists": [
         {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
         }
       ],
-      "duration_ms": 288398,
-      "name": "Shadows in the Dark",
-      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+      "duration_ms": 248052,
+      "name": "Battle Tonight",
+      "url": "https://open.spotify.com/track/29Mp8a1JKqeSv5Oz52vXJv"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
-      },
-      "artists": [
-        {
-          "name": "Bloodfire",
-          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "LOSE STRESS",
         "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 168101,
       "name": "LOSE STRESS",
       "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
+      },
+      "artists": [
+        {
+          "name": "Bloodfire",
+          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Rave Machine",
-        "url": "https://open.spotify.com/album/1PrEgszhMvGe9PiLdPywWu"
-      },
-      "artists": [
-        {
-          "name": "Dither",
-          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
-        }
-      ],
-      "duration_ms": 228631,
-      "name": "Rave Machine",
-      "url": "https://open.spotify.com/track/7quuryt7S7Ix5Xr51GC3Ng"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Underrated",
         "url": "https://open.spotify.com/album/0U6P6vlGhcsJdag0XFwcgx"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 191428,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/0j6lCCFLzJWdNeNoRZhCa7"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Rave Machine",
+        "url": "https://open.spotify.com/album/1PrEgszhMvGe9PiLdPywWu"
+      },
+      "artists": [
+        {
+          "name": "Dither",
+          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
+        }
+      ],
+      "duration_ms": 228631,
+      "name": "Rave Machine",
+      "url": "https://open.spotify.com/track/7quuryt7S7Ix5Xr51GC3Ng"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Fvcking One",
+        "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
+      },
+      "artists": [
+        {
+          "name": "Edwar",
+          "url": "https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC"
+        },
+        {
+          "name": "Sidekick",
+          "url": "https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co"
+        }
+      ],
+      "duration_ms": 213254,
+      "name": "Fvcking One",
+      "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Get Yo Handz Up",
         "url": "https://open.spotify.com/album/7zzCuMBoBUveoOBnfoJejW"
       },
@@ -1827,42 +1847,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Fvcking One",
-        "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
-      },
-      "artists": [
-        {
-          "name": "Edwar",
-          "url": "https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC"
-        },
-        {
-          "name": "Sidekick",
-          "url": "https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co"
-        }
-      ],
-      "duration_ms": 213254,
-      "name": "Fvcking One",
-      "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Somebody Scream",
-        "url": "https://open.spotify.com/album/3aEuF7m8JR9bl3h7QFaURf"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        }
-      ],
-      "duration_ms": 184461,
-      "name": "Somebody Scream",
-      "url": "https://open.spotify.com/track/4CdpHd15INaUXln3uZYwYN"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Sick And Tired",
         "url": "https://open.spotify.com/album/16kkNx668sjZceOu4LeK6d"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 192315,
       "name": "Sick And Tired",
       "url": "https://open.spotify.com/track/1K13dIVI2xSsqZQlPuKvq2"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Somebody Scream",
+        "url": "https://open.spotify.com/album/3aEuF7m8JR9bl3h7QFaURf"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 184461,
+      "name": "Somebody Scream",
+      "url": "https://open.spotify.com/track/4CdpHd15INaUXln3uZYwYN"
     }
   ],
   "unique_name": "Hardcore Rage",

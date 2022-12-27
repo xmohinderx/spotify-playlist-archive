@@ -4,7 +4,7 @@
 
 > Distorted and rough around the edges.
 
-188 songs - 15 hr 20 min - [published](https://open.spotify.com/playlist/07qDvOBagx5S8EJa8xnFvt)
+189 songs - 15 hr 23 min - [published](https://open.spotify.com/playlist/07qDvOBagx5S8EJa8xnFvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [House Magic](https://open.spotify.com/track/1wYVHbd2iJ5Z99yTxVmFyY) | [Peter Schumann](https://open.spotify.com/artist/53xUjVBCaTHEXSrFFnup3I) | [Deeper Conversations EP](https://open.spotify.com/album/4qubW0lYGdGpUwpCqlShpR) | 8:01 | 2022-10-21 |  |
 | [Hyperspace \(feat\. Teza Sumendra\)](https://open.spotify.com/track/5izPRm1uzeRQs7YRpw4IKw) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Hyperspace \(feat\. Teza Sumendra\)](https://open.spotify.com/album/1qnUz82hJ3LVACEPIzIIkX) | 3:24 | 2022-03-25 |  |
 | [I Gotta Cry](https://open.spotify.com/track/1DtATMMquUii9mswtWJ3tc) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x), [Rick Flair](https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m) | [I Gotta Cry](https://open.spotify.com/album/5psitNv3hl8WEoZY7Z2tx1) | 5:12 | 2022-07-01 | 2022-11-20 |
-| [I Gotta Cry](https://open.spotify.com/track/6qT1jEoG6VqQZ92fye8wtd) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x), [Rick Flair](https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m) | [Sessions 2](https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP) | 5:12 | 2022-10-21 |  |
+| [I Gotta Cry](https://open.spotify.com/track/6qT1jEoG6VqQZ92fye8wtd) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x), [Rick Flair](https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m) | [Sessions 2](https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP) | 5:12 | 2022-10-21 | 2022-12-27 |
 | [I Needed](https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj) | [Hanna](https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB) | [I Needed / Intercession, On Behalf](https://open.spotify.com/album/5FyTGjsgSg6DCtg5oxui1p) | 6:37 | 2022-10-21 |  |
 | [I Needed](https://open.spotify.com/track/78dl5Vy3mpTzFrUPtbXO32) | [Hanna](https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB) | [I Needed / Intercession, On Behalf](https://open.spotify.com/album/4snXlVkKMujBDwyF7e44cs) | 6:37 | 2021-12-17 | 2022-11-09 |
 | [I'm Gonna Get You](https://open.spotify.com/track/1hnANA1tO5FrQuy8rXsO2x) | [Lauren Flax](https://open.spotify.com/artist/1LUYSrytHIC78JbMgFBIG7) | [Out of Reality EP](https://open.spotify.com/album/4LftfI7I21UdF2E3aWFP6M) | 6:08 | 2021-12-17 | 2022-07-29 |
@@ -151,6 +151,7 @@
 | [Saw You for the First Time](https://open.spotify.com/track/3b9MUQ7uiQHhU420B6f8Ta) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/5P6H4kEva65eEr6pMJEqoJ) | 6:44 | 2021-12-17 | 2022-07-29 |
 | [Saw You for the First Time](https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 6:44 | 2022-07-01 | 2022-08-13 |
 | [SEX IS GOOD BUT HAVE U EVER](https://open.spotify.com/track/0358S9WHqBYVCv7IDPtPNH) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Movement](https://open.spotify.com/album/4I5tBFpR9Av5UwvWGrijwW) | 2:26 | 2022-10-21 | 2022-12-14 |
+| [SEX IS GOOD BUT HAVE U EVER](https://open.spotify.com/track/3Q90SwsnNZDTTG0gqZxTaU) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Movement](https://open.spotify.com/album/612PCusXpFlpdlg3sLupIA) | 2:26 | 2022-10-21 |  |
 | [SEX IS GOOD BUT HAVE U EVER](https://open.spotify.com/track/5Zoo5FV2AteC6zrFwGoukH) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Movement](https://open.spotify.com/album/76UMqatl6klSIhmOmd7UNx) | 2:26 | 2022-04-22 | 2022-11-21 |
 | [Signals](https://open.spotify.com/track/733FlhpmdWPp9YRbGkqvrq) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [Signals EP](https://open.spotify.com/album/1BDRViteUf8jflNGqrW08c) | 5:24 | 2021-12-17 | 2022-05-24 |
 | [Simetric](https://open.spotify.com/track/48ut6j0loWCy7vJEc32VNG) | [Mihai Popoviciu](https://open.spotify.com/artist/0NkrYKqkzWI0pilb6ko9uM) | [Simetric](https://open.spotify.com/album/6C3tdBPKxnTEOKrjHM6JQF) | 6:37 | 2022-03-25 | 2022-04-01 |

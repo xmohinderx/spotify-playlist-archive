@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 129 | [J For Jules](https://open.spotify.com/track/0J6nZDgEuwXtECq8Pukn1n) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 4:25 |
 | 130 | [Jacob Marley's Chain](https://open.spotify.com/track/3MvkWS2gAegv8zPhci1oVL) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:01 |
 | 131 | [Brother's Keeper](https://open.spotify.com/track/7jTgrxio0BhMkyVSGwMXUz) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 4:01 |
-| 132 | [Par For The Course](https://open.spotify.com/track/4bGXy2S9unA288Pf4IVRfU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 6:01 |
-| 133 | [Checks](https://open.spotify.com/track/04flaUqyLAa4bBN4eXtKv7) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 0:34 |
+| 132 | [Checks](https://open.spotify.com/track/04flaUqyLAa4bBN4eXtKv7) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 0:34 |
+| 133 | [Par For The Course](https://open.spotify.com/track/4bGXy2S9unA288Pf4IVRfU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 6:01 |
 | 134 | [Long Gone \(Buddy\)](https://open.spotify.com/track/0cAdYBuFObbGN42H0cXaye) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 4:31 |
 | 135 | [No Sir](https://open.spotify.com/track/5wWI1B8FajA5J1LXL0yhFD) | [The Both](https://open.spotify.com/artist/6nH7HjT8QPbZI2wnTjtJui) | [The Both](https://open.spotify.com/album/3Feh0t4blZHMotGPGKM6lr) | 3:46 |
 | 136 | [You Could Have Been a Roosevelt](https://open.spotify.com/track/2dU0Wk5jvZmygM7qobHZ2n) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 2:07 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `Mjc4NjY5NDUsMDAwMDAwMDBiZjc4NTlhNzJmMGRkOWI4MTg1ZDQ1ZTc3ODVmY2ZjYQ==`
+Snapshot ID: `Mjc4NjgzODUsMDAwMDAwMDA4ZTdkOWE4MmVjMjUzYWFlNTcwMzI5YWFkNDA0MzllMw==`

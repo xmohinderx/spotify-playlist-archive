@@ -2,7 +2,7 @@
 
 ### [Las Micheladas](https://open.spotify.com/playlist/37i9dQZF1DWT46DLgeBxAh)
 
-> 
+> Una mezcla sabrosa, picosita y refrescante.
 
 198 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/2OyWUm7JT7S1430Zfh33kP)
 

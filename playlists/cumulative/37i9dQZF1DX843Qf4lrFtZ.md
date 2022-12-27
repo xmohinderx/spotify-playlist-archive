@@ -4,7 +4,7 @@
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-1,239 songs - 2 day 15 hr 25 min - [published](https://open.spotify.com/playlist/5uAU0FSX58fPShZRv61M9L)
+1,240 songs - 2 day 15 hr 27 min - [published](https://open.spotify.com/playlist/5uAU0FSX58fPShZRv61M9L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Audrey](https://open.spotify.com/track/4tRQZioCVlJSJQbyMr5kko) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 2:47 | 2022-04-14 | 2022-04-20 |
 | [Baby Blue](https://open.spotify.com/track/2uqRl9tbQVBEjlO00uQKKl) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Baby Blue](https://open.spotify.com/album/0wYyx1oF9LhNQor8nPOmj9) | 2:26 | 2020-08-07 | 2020-09-11 |
 | [Baby, I'm Jealous \(feat\. Doja Cat\)](https://open.spotify.com/track/2fTdRdN73RgIgcUZN33dvt) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Baby, I'm Jealous \(feat\. Doja Cat\)](https://open.spotify.com/album/2N367tN1eIXrHNVe86aVy4) | 2:55 | 2020-10-09 | 2021-01-05 |
+| [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 | 2022-12-08 |  |
 | [Backfire](https://open.spotify.com/track/4cMBFU3ZjlbscquikM8sM7) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [Not Famous](https://open.spotify.com/artist/2iKfppgaY3Er8HpZWh4rBt) | [Backfire](https://open.spotify.com/album/71OOJwnxEHDkb1JYVUp3js) | 3:04 | 2019-12-31 | 2020-10-21 |
 | [Bad](https://open.spotify.com/track/5IyfLNOG7aDgE7se8brfjN) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Bad](https://open.spotify.com/album/78R8Dp3nY7Vw7rmxDDfRdy) | 2:50 | 2020-06-15 | 2020-10-02 |
 | [Bad as the Boys](https://open.spotify.com/track/3e20HtdIlujFpeaM20nAmN) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Bad As The Boys \(feat\. ALMA\)](https://open.spotify.com/album/00oyXQOmH0MJIVcvDDx70m) | 3:06 | 2019-08-06 | 2020-01-04 |
@@ -465,7 +466,7 @@
 | [Hey Mama](https://open.spotify.com/track/0dDPUxV2ENxfuJGwMAocFR) | [Galavant](https://open.spotify.com/artist/7CsSec3NzFx2UipwF1APhu) | [Hey Mama](https://open.spotify.com/album/5FjGqgqI8BPmixMKhAqwk7) | 3:18 | 2019-08-06 | 2019-08-10 |
 | [hiccup](https://open.spotify.com/track/5C0fWU1j3pa4vvAZuYyisq) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [hiccup](https://open.spotify.com/album/4rdbtDrZ8ldJQePGGEL437) | 2:44 | 2020-09-18 | 2020-11-13 |
 | [Hideaway with Me \(feat\. Charlie\)](https://open.spotify.com/track/2h11ouA07csEBqnoX0u7v2) | [Sid Rosco](https://open.spotify.com/artist/5WUm8pP5PRs8GWdeJRHl7N), [Charlie](https://open.spotify.com/artist/1RfPkzG4Y4DboTpBjx8BBo) | [Hideaway with Me \(feat\. Charlie\)](https://open.spotify.com/album/5ABCqGnlf22N90YKUZueo0) | 3:03 | 2019-07-29\* | 2019-08-27 |
-| [High](https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:55 | 2022-11-10 |  |
+| [High](https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:55 | 2022-11-10 | 2022-12-27 |
 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 | 2022-02-03 | 2022-07-29 |
 | [High Forever](https://open.spotify.com/track/0fBFIKejwITajFF9nDomva) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K), [Nairobi](https://open.spotify.com/artist/6xvmQu4xazca5bQXSX9ibX) | [High Forever](https://open.spotify.com/album/0YHqcD3TGXofmVND1iYUcn) | 2:52 | 2020-12-04 | 2022-06-03 |
 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 | 2019-08-05 |  |

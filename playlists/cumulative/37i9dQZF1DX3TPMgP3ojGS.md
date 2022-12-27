@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,619 songs - 3 day 0 hr 59 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,620 songs - 3 day 1 hr 2 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1145,6 +1145,7 @@
 | [Rue de Cevert](https://open.spotify.com/track/3eV3nKmvSQKLs2d41u5ML1) | [Enid Fergus](https://open.spotify.com/artist/7KxS3qdagNb674qAsV0vsA) | [Rue de Cevert](https://open.spotify.com/album/7gqybDNjWxE3AjvsfRWdg9) | 4:03 | 2021-05-13 | 2021-05-14 |
 | [Rue de Rivoli](https://open.spotify.com/track/2QdIzYZgex1rqQ2OjA2LTb) | [Francine Leblanc](https://open.spotify.com/artist/3ua2qjBzlY2IDpjWQJA8Uy) | [Rue de Rivoli](https://open.spotify.com/album/5bExtKRwzIRQh9ozDlLSbn) | 2:09 | 2021-03-06\* | 2022-04-18 |
 | [Rues de Flavigny](https://open.spotify.com/track/1Ozxe6DIFd6e6qTPvv8M40) | [Caroline Collette](https://open.spotify.com/artist/2BGDPQmQ1UAeMbQSKpGm8V) | [Rues de Flavigny](https://open.spotify.com/album/5QHQ8nu9QhbcAkJ2I7IRWi) | 2:57 | 2021-03-20 | 2022-04-01 |
+| [Ruiseñor](https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Khione](https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51) | 2:59 | 2022-12-27 |  |
 | [Rêvasser](https://open.spotify.com/track/2rBLJwsNjWvSx0yVAQLc3B) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Rêvasser](https://open.spotify.com/album/0xnlKa5rkGsf3r93ULxb3l) | 3:29 | 2022-12-24 |  |
 | [Rêverie, L\. 68](https://open.spotify.com/track/5IzY73gAigNjKuGIFQQm3g) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [François\-Joël Thiollier](https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM) | [Art & Music: Degas – Music of His Time](https://open.spotify.com/album/4lEJwhXrs0rjhIfN3f77pc) | 4:23 | 2021-03-10 | 2021-03-11 |
 | [Rêves d'éternité](https://open.spotify.com/track/013h40ZaPMhd98D3SCqrjC) | [Amélie Chantal](https://open.spotify.com/artist/5zuXGJ6hQt9pckfi7JOLVO) | [Rêves d'éternité](https://open.spotify.com/album/45b289J4ODP1WeI9RYjgjR) | 1:56 | 2021-04-06 | 2022-04-15 |
@@ -1493,7 +1494,7 @@
 | [Ty](https://open.spotify.com/track/22iPFsNL3QgQlAg8ObaQfM) | [Salomea Jaworska](https://open.spotify.com/artist/6MpNhFJTxMR6bAyzLAysbY) | [Ty](https://open.spotify.com/album/1lm7e0r6DWd48lbItgYBkz) | 2:17 | 2021-05-18 | 2021-05-20 |
 | [Tôt le matin](https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7) | [Alonzo Gautier](https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3) | [Tôt le matin](https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR) | 2:10 | 2022-12-24 |  |
 | [U Adelie](https://open.spotify.com/track/5GbSZr9Wi8i7MWv8HugyPt) | [Arctic Vision](https://open.spotify.com/artist/3bt00stZuACL1bcaDZjFpg) | [Arctic Vision](https://open.spotify.com/album/0riEsCVLa5iRC3bl74wRc9) | 5:38 | 2021-03-16 | 2021-05-15 |
-| [Un Cadeau](https://open.spotify.com/track/7Jrx30VldPaujIaP3c2SJn) | [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Un Cadeau](https://open.spotify.com/album/75lQPJlmH7f4DlqyOpemjO) | 2:37 | 2022-12-24 |  |
+| [Un Cadeau](https://open.spotify.com/track/7Jrx30VldPaujIaP3c2SJn) | [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Un Cadeau](https://open.spotify.com/album/75lQPJlmH7f4DlqyOpemjO) | 2:37 | 2022-12-24 | 2022-12-27 |
 | [Un demi coeur](https://open.spotify.com/track/7wxb4xOv1EWMYI3VdVFLQv) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Un demi coeur](https://open.spotify.com/album/5l2faDKKsIRFUBxxJmCvnt) | 2:28 | 2021-03-17 | 2022-04-18 |
 | [Un instante](https://open.spotify.com/track/3IekwR2RInfv68Xyu7rk2B) | [Lukas Wall](https://open.spotify.com/artist/4N5fnolz7HorIGjo95HuB2) | [Un instante](https://open.spotify.com/album/02BuTkEn4fJqESdijpzFaJ) | 3:35 | 2022-04-12 | 2022-04-15 |
 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 | 2022-02-09 | 2022-12-24 |

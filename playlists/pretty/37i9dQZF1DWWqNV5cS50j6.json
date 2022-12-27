@@ -1,12 +1,12 @@
 {
   "description": "BROCKHAMPTON makes anti pop.",
-  "num_followers": 681651,
+  "num_followers": 681841,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1NzQ0NiwwMDAwMDAwMDEzM2NmYWQwYjcxY2M1NjNhMmE2YjMzMzY3NWI4MTlk",
+  "snapshot_id": "MTY3MTU1NzQ0NiwwMDAwMDAwMDE2NDg0N2IzZTAyODk3MTAzMTZjM2QyMTNjOWNlZmNk",
   "tracks": [
     {
       "added_at": "2022-11-30 19:41:15",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "The Difference",
         "url": "https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV"
       },
@@ -151,22 +167,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Demon Days",
-        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "DARE",
-      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "SPIT IN MY FACE!",
         "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
       },
@@ -179,22 +179,6 @@
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 242484,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -231,6 +215,22 @@
       "duration_ms": 156800,
       "name": "pg baby",
       "url": "https://open.spotify.com/track/2qfPBPq9BEVEd1GF4UH96H"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Demon Days",
+        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "DARE",
+      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -301,22 +301,6 @@
       "url": "https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW"
     },
     {
-      "added_at": "2022-12-16 15:41:08",
-      "album": {
-        "name": "The Family",
-        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 166946,
-      "name": "All That",
-      "url": "https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u"
-    },
-    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Skinny Ape",
@@ -347,6 +331,22 @@
       "duration_ms": 124872,
       "name": "Weight",
       "url": "https://open.spotify.com/track/5sdkS8DXx8rXNLxbSos8GS"
+    },
+    {
+      "added_at": "2022-12-16 15:41:08",
+      "album": {
+        "name": "The Family",
+        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 166946,
+      "name": "All That",
+      "url": "https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Baby Queen",
-        "url": "https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 220105,
-      "name": "Baby Queen",
-      "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "fantasize",
         "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 147893,
       "name": "Head In The Clouds",
       "url": "https://open.spotify.com/track/1fAE0TQ3xblvOgnmM7yL1s"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Baby Queen",
+        "url": "https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 220105,
+      "name": "Baby Queen",
+      "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "lemon sorbet",
+        "url": "https://open.spotify.com/album/5ZwVrlXFV5pgOf9WtJkMpd"
+      },
+      "artists": [
+        {
+          "name": "SASH",
+          "url": "https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ"
+        }
+      ],
+      "duration_ms": 151048,
+      "name": "lemon sorbet",
+      "url": "https://open.spotify.com/track/0N0vTOwTQLo6edqB1TF2XS"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "Psychedelic Views (feat. IDK)",
         "url": "https://open.spotify.com/album/4dGOwkXOA2MzysErvXsKEC"
       },
@@ -983,22 +999,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "lemon sorbet",
-        "url": "https://open.spotify.com/album/5ZwVrlXFV5pgOf9WtJkMpd"
-      },
-      "artists": [
-        {
-          "name": "SASH",
-          "url": "https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ"
-        }
-      ],
-      "duration_ms": 151048,
-      "name": "lemon sorbet",
-      "url": "https://open.spotify.com/track/0N0vTOwTQLo6edqB1TF2XS"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "fall at the same time",
         "url": "https://open.spotify.com/album/7aNtdBuIYUy6vEg1KymPkp"
       },
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Bad Radio",
-        "url": "https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4"
-      },
-      "artists": [
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 185317,
-      "name": "Bad Radio",
-      "url": "https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "Bad Decisions",
         "url": "https://open.spotify.com/album/1gfhCvXKKGLGCRfdf02GiU"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 165485,
       "name": "Dance",
       "url": "https://open.spotify.com/track/1U4yfIDARp95wtUGOZZW51"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Bad Radio",
+        "url": "https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 185317,
+      "name": "Bad Radio",
+      "url": "https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Body Move",
-        "url": "https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Fae",
-          "url": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Body Move",
-      "url": "https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "IDC",
         "url": "https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 112666,
       "name": "IDC",
       "url": "https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Body Move",
+        "url": "https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Fae",
+          "url": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Body Move",
+      "url": "https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 171013,
+      "name": "PORN ACTING*",
+      "url": "https://open.spotify.com/track/5m1w4Wt0Zd9dGjGjNbH5t2"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "High Beams (JPEGMAFIA Remix)",
         "url": "https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 157150,
       "name": "High Beams - JPEGMAFIA Remix",
       "url": "https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "CHAOS NOW*",
-        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "PORN ACTING*",
-      "url": "https://open.spotify.com/track/5m1w4Wt0Zd9dGjGjNbH5t2"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Mixtape",
-        "url": "https://open.spotify.com/album/6eI1jzNYFmvtOuVbS6KuCg"
-      },
-      "artists": [
-        {
-          "name": "Bobbing",
-          "url": "https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX"
-        }
-      ],
-      "duration_ms": 116782,
-      "name": "Mastodon Matador",
-      "url": "https://open.spotify.com/track/0LMnm18zZKMlRe59xxA3o3"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "Off The Drugs",
         "url": "https://open.spotify.com/album/1NjXy9akXwlUfk74r2owE1"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "Mixtape",
+        "url": "https://open.spotify.com/album/6eI1jzNYFmvtOuVbS6KuCg"
+      },
+      "artists": [
+        {
+          "name": "Bobbing",
+          "url": "https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX"
+        }
+      ],
+      "duration_ms": 116782,
+      "name": "Mastodon Matador",
+      "url": "https://open.spotify.com/track/0LMnm18zZKMlRe59xxA3o3"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "BBC",
         "url": "https://open.spotify.com/album/70gNu3PKq0dtMlfyytf44t"
       },
@@ -1525,20 +1525,52 @@
       "url": "https://open.spotify.com/track/7zgsDaX02rdtq3zpdVqrpK"
     },
     {
-      "added_at": "2022-11-30 19:41:15",
+      "added_at": "2022-12-14 20:26:31",
       "album": {
-        "name": "Groupie",
-        "url": "https://open.spotify.com/album/2CDCVRa5raNL9q7NfiGJcZ"
+        "name": "Extrovert",
+        "url": "https://open.spotify.com/album/3Rbg1yJHg5yf87IkeT7iic"
       },
       "artists": [
         {
-          "name": "Groupthink",
-          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+          "name": "Monjola",
+          "url": "https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6"
         }
       ],
-      "duration_ms": 120268,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/79Ty2Ykvn2ZJhFd9Nn45b7"
+      "duration_ms": 186856,
+      "name": "Extrovert",
+      "url": "https://open.spotify.com/track/6yfmbb66n84EZH1bFOH739"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "until my heart stops beating",
+        "url": "https://open.spotify.com/album/3w2ZKhoHP7cg7ypyy7sSW6"
+      },
+      "artists": [
+        {
+          "name": "modernlove.",
+          "url": "https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh"
+        }
+      ],
+      "duration_ms": 204608,
+      "name": "until my heart stops beating",
+      "url": "https://open.spotify.com/track/0sZ3dRMYJYNr2Y2mffvgb3"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "off the map",
+        "url": "https://open.spotify.com/album/4qpSyJ8g2EPT7U3b43mXqZ"
+      },
+      "artists": [
+        {
+          "name": "Ramzoid",
+          "url": "https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH"
+        }
+      ],
+      "duration_ms": 129113,
+      "name": "off the map",
+      "url": "https://open.spotify.com/track/1VjFGmdI8jKbs3rCjGfc1G"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1563,34 +1595,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "off the map",
-        "url": "https://open.spotify.com/album/4qpSyJ8g2EPT7U3b43mXqZ"
+        "name": "Groupie",
+        "url": "https://open.spotify.com/album/2CDCVRa5raNL9q7NfiGJcZ"
       },
       "artists": [
         {
-          "name": "Ramzoid",
-          "url": "https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH"
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
         }
       ],
-      "duration_ms": 129113,
-      "name": "off the map",
-      "url": "https://open.spotify.com/track/1VjFGmdI8jKbs3rCjGfc1G"
-    },
-    {
-      "added_at": "2022-12-14 20:26:31",
-      "album": {
-        "name": "Extrovert",
-        "url": "https://open.spotify.com/album/3Rbg1yJHg5yf87IkeT7iic"
-      },
-      "artists": [
-        {
-          "name": "Monjola",
-          "url": "https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6"
-        }
-      ],
-      "duration_ms": 186856,
-      "name": "Extrovert",
-      "url": "https://open.spotify.com/track/6yfmbb66n84EZH1bFOH739"
+      "duration_ms": 120268,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/79Ty2Ykvn2ZJhFd9Nn45b7"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1607,22 +1623,6 @@
       "duration_ms": 234230,
       "name": "Oh! Frenchy",
       "url": "https://open.spotify.com/track/6fnEjJ2pkB8q1zglXLXURh"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "until my heart stops beating",
-        "url": "https://open.spotify.com/album/3w2ZKhoHP7cg7ypyy7sSW6"
-      },
-      "artists": [
-        {
-          "name": "modernlove.",
-          "url": "https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh"
-        }
-      ],
-      "duration_ms": 204608,
-      "name": "until my heart stops beating",
-      "url": "https://open.spotify.com/track/0sZ3dRMYJYNr2Y2mffvgb3"
     },
     {
       "added_at": "2022-11-30 19:41:15",

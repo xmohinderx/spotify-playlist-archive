@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-815 songs - 1 day 18 hr 26 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
+816 songs - 1 day 18 hr 30 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,7 +622,7 @@
 | [Sinatra](https://open.spotify.com/track/1USo158Kncaxfyq9q306dn) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Sinatra](https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0) | 2:36 | 2021-02-24 |  |
 | [Sis](https://open.spotify.com/track/6Qoz4HdYCIzQCmEd8ARYWP) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sis](https://open.spotify.com/album/0tGZsYEJXwkOnnTGuHTrli) | 2:16 | 2019-07-31 | 2021-08-03 |
 | [Six AM](https://open.spotify.com/track/5ac9xtBIyhpsPqqH7dBVQ2) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [wya](https://open.spotify.com/album/79kdqxniiLUROGEZ3L7cRF) | 2:05 | 2019-07-31 | 2021-05-27 |
-| [Six Speed](https://open.spotify.com/track/38loOBAgDgCW4pFWyH9cey) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Six Speed](https://open.spotify.com/album/2DkQzt5cmb3Jy8ZQH4tBo9) | 2:00 | 2019-07-31 |  |
+| [Six Speed](https://open.spotify.com/track/38loOBAgDgCW4pFWyH9cey) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Six Speed](https://open.spotify.com/album/2DkQzt5cmb3Jy8ZQH4tBo9) | 2:00 | 2019-07-31 | 2022-12-27 |
 | [skype calls](https://open.spotify.com/track/4i4YoTjnTs1Z0VRAX9GSIU) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [come ovr/skype calls](https://open.spotify.com/album/6WlsGn24BvEIiQCyCXtvfG) | 3:12 | 2019-11-26 | 2021-05-27 |
 | [Sleep Well](https://open.spotify.com/track/3GWuPbPr5nT65fmew963zV) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Sleep Well](https://open.spotify.com/album/7vT3flPEcoHfHJrGGw1YFU) | 4:08 | 2021-03-19 | 2022-04-29 |
 | [Slow Dance](https://open.spotify.com/track/6nDkgZcgo5MymSY9ILu7b0) | [Tucker Rivera](https://open.spotify.com/artist/09WHWCIpkmBt5LP1OyZLxb) | [Slow Dance](https://open.spotify.com/album/4BXjCWmC7eY6SV8TOZL6rA) | 3:37 | 2021-03-20 | 2021-08-22 |
@@ -696,6 +696,7 @@
 | [Talk to Me](https://open.spotify.com/track/7mLIL4OdNdwFcGNlTcWa0c) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Dear.](https://open.spotify.com/album/4DIujoqFXrPFtxPts7PlWz) | 4:37 | 2019-07-30\* | 2021-08-14 |
 | [Talk to You](https://open.spotify.com/track/2xi7ZaCjI9UPek4MpWabZ6) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Talk to You \(remixes\)](https://open.spotify.com/album/2PiDg6FYdpPMPFZFP9y51H) | 3:34 | 2022-09-14 | 2022-12-19 |
 | [Talk to You](https://open.spotify.com/track/5YIAMIFBXGXsyJwJmqUMZo) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Talk to You](https://open.spotify.com/album/5qRQGtoghlIqXPd7iQPJNG) | 3:34 | 2021-06-25 | 2022-11-17 |
+| [Talk to You](https://open.spotify.com/track/6suxUONtPxkEPL3JHGX9SX) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:34 | 2022-09-14 |  |
 | [Talk to You \- slow](https://open.spotify.com/track/2eUmt1vpwc7pl0SImUEWfJ) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Talk to You \(remixes\)](https://open.spotify.com/album/2PiDg6FYdpPMPFZFP9y51H) | 4:03 | 2021-08-27 | 2022-06-28 |
 | [Tapioca Cheeks](https://open.spotify.com/track/4XVcu0WKTeQpCgKkb5Q4QK) | [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Tapioca Cheeks](https://open.spotify.com/album/30TyMP6R9AkzkmVWjTHuor) | 3:07 | 2021-06-04 | 2021-12-21 |
 | [Tapioca Cheeks](https://open.spotify.com/track/7EMcNr05ag5jaDsDggc0MM) | [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Tapioca Cheeks](https://open.spotify.com/album/4mGejbMP3AOGXEfavrv0su) | 3:07 | 2021-11-19 | 2022-04-20 |

@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 367849,
+  "num_followers": 367953,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkxMTkxNywwMDAwMDAwMDMzNzU3MmRjMTIwOGM2NTUxZjYyYmEyMGQzODAzODdm",
+  "snapshot_id": "MTY2OTkxMTkxNywwMDAwMDAwMGFkZjdhM2E2MTk2ZDU3NzI2ZjAzNzU4NjcyMDdiYzRm",
   "tracks": [
     {
       "added_at": "2022-11-16 14:28:31",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-11-16 14:28:31",
       "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 220838,
+      "name": "Assumptions",
+      "url": "https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d"
+    },
+    {
+      "added_at": "2022-11-16 14:28:31",
+      "album": {
         "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
         "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 271240,
       "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
       "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
-    },
-    {
-      "added_at": "2022-11-16 14:28:31",
-      "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 220838,
-      "name": "Assumptions",
-      "url": "https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d"
     },
     {
       "added_at": "2022-11-16 14:28:31",

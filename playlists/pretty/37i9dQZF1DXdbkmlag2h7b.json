@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 631209,
+  "num_followers": 631211,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU0OTQzNywwMDAwMDAwMGZkMTE4MjA3OWE1OTU3ZjgwMDFjMmUxMDVkYjk0ZDBh",
+  "snapshot_id": "MTY3MTU0OTQzNywwMDAwMDAwMDI5NjdkZWEyNjc0NGQyZGU5M2M4OTc1MmNjMjg3ZTBk",
   "tracks": [
     {
       "added_at": "2022-12-20 15:17:17",
@@ -139,38 +139,6 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
-        "name": "Silk Under Rain",
-        "url": "https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV"
-      },
-      "artists": [
-        {
-          "name": "Mari Cafferty",
-          "url": "https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Lively Bluebottle",
-      "url": "https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS"
-    },
-    {
-      "added_at": "2022-12-20 15:17:17",
-      "album": {
-        "name": "Prana",
-        "url": "https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR"
-      },
-      "artists": [
-        {
-          "name": "Najia",
-          "url": "https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1"
-        }
-      ],
-      "duration_ms": 157724,
-      "name": "Ocean Breath",
-      "url": "https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O"
-    },
-    {
-      "added_at": "2022-12-20 15:17:17",
-      "album": {
         "name": "Yoga Meditation",
         "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
       },
@@ -187,6 +155,22 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
+        "name": "Silk Under Rain",
+        "url": "https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV"
+      },
+      "artists": [
+        {
+          "name": "Mari Cafferty",
+          "url": "https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lively Bluebottle",
+      "url": "https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS"
+    },
+    {
+      "added_at": "2022-12-20 15:17:17",
+      "album": {
         "name": "Beautiful Morning",
         "url": "https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 252000,
       "name": "First Day",
       "url": "https://open.spotify.com/track/2Wsu9gvKCWRXLA1nEdFfXt"
+    },
+    {
+      "added_at": "2022-12-20 15:17:17",
+      "album": {
+        "name": "Prana",
+        "url": "https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR"
+      },
+      "artists": [
+        {
+          "name": "Najia",
+          "url": "https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1"
+        }
+      ],
+      "duration_ms": 157724,
+      "name": "Ocean Breath",
+      "url": "https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O"
     },
     {
       "added_at": "2022-12-20 15:17:17",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
-        "name": "Hum",
-        "url": "https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK"
-      },
-      "artists": [
-        {
-          "name": "Parazal",
-          "url": "https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49"
-        }
-      ],
-      "duration_ms": 186542,
-      "name": "Suhpratti",
-      "url": "https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J"
-    },
-    {
-      "added_at": "2022-12-20 15:17:17",
-      "album": {
         "name": "Sweven",
         "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 193500,
       "name": "Sweven",
       "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
+    },
+    {
+      "added_at": "2022-12-20 15:17:17",
+      "album": {
+        "name": "Hum",
+        "url": "https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK"
+      },
+      "artists": [
+        {
+          "name": "Parazal",
+          "url": "https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49"
+        }
+      ],
+      "duration_ms": 186542,
+      "name": "Suhpratti",
+      "url": "https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J"
     },
     {
       "added_at": "2022-12-20 15:17:17",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
-        "name": "The Unforgetting Heart",
-        "url": "https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG"
-      },
-      "artists": [
-        {
-          "name": "Michael Hopp\u00e9",
-          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "Eventide",
-      "url": "https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm"
-    },
-    {
-      "added_at": "2022-12-20 15:17:17",
-      "album": {
         "name": "Into Gratitude",
         "url": "https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 187636,
       "name": "Into Gratitude - Stripped",
       "url": "https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU"
+    },
+    {
+      "added_at": "2022-12-20 15:17:17",
+      "album": {
+        "name": "The Unforgetting Heart",
+        "url": "https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG"
+      },
+      "artists": [
+        {
+          "name": "Michael Hopp\u00e9",
+          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
+        }
+      ],
+      "duration_ms": 271893,
+      "name": "Eventide",
+      "url": "https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm"
     },
     {
       "added_at": "2022-12-20 15:17:17",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
-        "name": "Son\u00e1mbulos",
-        "url": "https://open.spotify.com/album/5ZD37ffzlkkgsDPA6Ayc4V"
-      },
-      "artists": [
-        {
-          "name": "Abril Iluso",
-          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Son\u00e1mbulos",
-      "url": "https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX"
-    },
-    {
-      "added_at": "2022-12-20 15:17:17",
-      "album": {
         "name": "Arrivals",
         "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 188000,
       "name": "Takamatsu",
       "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
+    },
+    {
+      "added_at": "2022-12-20 15:17:17",
+      "album": {
+        "name": "Son\u00e1mbulos",
+        "url": "https://open.spotify.com/album/5ZD37ffzlkkgsDPA6Ayc4V"
+      },
+      "artists": [
+        {
+          "name": "Abril Iluso",
+          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX"
     },
     {
       "added_at": "2022-12-20 15:17:17",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
+        "name": "Ich W\u00fcnsche",
+        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
+      },
+      "artists": [
+        {
+          "name": "Nils Schreiber",
+          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
+        }
+      ],
+      "duration_ms": 179727,
+      "name": "Unendlich",
+      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
+    },
+    {
+      "added_at": "2022-12-20 15:17:17",
+      "album": {
         "name": "Porto Fino",
         "url": "https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
-        "name": "Ich W\u00fcnsche",
-        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
-      },
-      "artists": [
-        {
-          "name": "Nils Schreiber",
-          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
-        }
-      ],
-      "duration_ms": 179727,
-      "name": "Unendlich",
-      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
-    },
-    {
-      "added_at": "2022-12-20 15:17:17",
-      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
-        "name": "Legend Of Zea",
-        "url": "https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce"
-      },
-      "artists": [
-        {
-          "name": "Cora Zea",
-          "url": "https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg"
-        }
-      ],
-      "duration_ms": 211583,
-      "name": "Afternoon Spirits",
-      "url": "https://open.spotify.com/track/6kAwnVIencquZ72t4X46Lh"
-    },
-    {
-      "added_at": "2022-12-20 15:17:17",
-      "album": {
         "name": "Meadow / Forests",
         "url": "https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 140878,
       "name": "Forests",
       "url": "https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o"
+    },
+    {
+      "added_at": "2022-12-20 15:17:17",
+      "album": {
+        "name": "Legend Of Zea",
+        "url": "https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce"
+      },
+      "artists": [
+        {
+          "name": "Cora Zea",
+          "url": "https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg"
+        }
+      ],
+      "duration_ms": 211583,
+      "name": "Afternoon Spirits",
+      "url": "https://open.spotify.com/track/6kAwnVIencquZ72t4X46Lh"
     },
     {
       "added_at": "2022-12-20 15:17:17",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
-        "name": "The Light of Day",
-        "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
-      },
-      "artists": [
-        {
-          "name": "Chymeris",
-          "url": "https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "The Light of Day",
-      "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
-    },
-    {
-      "added_at": "2022-12-20 15:17:17",
-      "album": {
         "name": "The Acoustic Mind - Vol. 1",
         "url": "https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 172589,
       "name": "Headroom",
       "url": "https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs"
+    },
+    {
+      "added_at": "2022-12-20 15:17:17",
+      "album": {
+        "name": "The Light of Day",
+        "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
+      },
+      "artists": [
+        {
+          "name": "Chymeris",
+          "url": "https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "The Light of Day",
+      "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
     },
     {
       "added_at": "2022-12-20 15:17:17",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
-        "name": "Memory Canvas",
-        "url": "https://open.spotify.com/album/5k803G97CKyWSiClt8UMnF"
-      },
-      "artists": [
-        {
-          "name": "Kilometre Club",
-          "url": "https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w"
-        }
-      ],
-      "duration_ms": 215418,
-      "name": "Becker's",
-      "url": "https://open.spotify.com/track/4HPiuEOyFCBZzp5mugj0o7"
-    },
-    {
-      "added_at": "2022-12-20 15:17:17",
-      "album": {
         "name": "Aion",
         "url": "https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 124212,
       "name": "Aion",
       "url": "https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf"
+    },
+    {
+      "added_at": "2022-12-20 15:17:17",
+      "album": {
+        "name": "Memory Canvas",
+        "url": "https://open.spotify.com/album/5k803G97CKyWSiClt8UMnF"
+      },
+      "artists": [
+        {
+          "name": "Kilometre Club",
+          "url": "https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w"
+        }
+      ],
+      "duration_ms": 215418,
+      "name": "Becker's",
+      "url": "https://open.spotify.com/track/4HPiuEOyFCBZzp5mugj0o7"
     },
     {
       "added_at": "2022-12-20 15:17:17",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-12-20 15:17:17",
       "album": {
-        "name": "Longevity",
-        "url": "https://open.spotify.com/album/5q1GXNsqZB1GbekDWzZThJ"
+        "name": "Lucent Path",
+        "url": "https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d"
       },
       "artists": [
         {
-          "name": "Jonas Sandberg",
-          "url": "https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O"
+          "name": "NAYAT",
+          "url": "https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC"
         }
       ],
-      "duration_ms": 214951,
-      "name": "Longevity",
-      "url": "https://open.spotify.com/track/1YBpN1eAb3hJ0tEtbZsmSt"
+      "duration_ms": 240000,
+      "name": "Divine Light - Studio Edit",
+      "url": "https://open.spotify.com/track/76b4OvaMSGspOtxlQ7v7Eh"
     }
   ],
   "unique_name": "DayDreamer",

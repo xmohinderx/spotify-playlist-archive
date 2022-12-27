@@ -423,7 +423,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 230173,
       "name": "After you\u2019ve gone",
       "url": "https://open.spotify.com/track/1JEeGmgxMtzRiMo0rv7RC6"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 204533,
       "name": "Are we done? (prod. ROCOBERRY)",
       "url": "https://open.spotify.com/track/4eqcmmcuNXjDTb7578WI6E"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 222933,
       "name": "At That Moment",
       "url": "https://open.spotify.com/track/0CB3B5ir8I2KbB3dkGVtWF"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 215400,
       "name": "Beautiful Memories",
       "url": "https://open.spotify.com/track/3fsuqdPCR4rJCYJoyi2FTu"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 231466,
       "name": "Beauty(2022)",
       "url": "https://open.spotify.com/track/1gaE9GDp3ctETPzSPcjhZs"
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 193346,
       "name": "Broke Up, Met Again (prod. DOKO) - You Remix Version",
       "url": "https://open.spotify.com/track/7vgez1qM4xypCv921l7688"
@@ -2011,7 +2011,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 237653,
       "name": "dawn call from you",
       "url": "https://open.spotify.com/track/6q5qD963d6AuwUF7NAcVhl"
@@ -2123,7 +2123,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 187733,
       "name": "Dear my X",
       "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
@@ -2343,7 +2343,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 185293,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/4RbFKG6CxfKaITwfQS2AaK"
@@ -2423,7 +2423,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 244226,
       "name": "Don't say anything",
       "url": "https://open.spotify.com/track/4TnRGdiATWzXYut78YX1KZ"
@@ -3329,7 +3329,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 228266,
       "name": "Forest",
       "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
@@ -3509,7 +3509,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 254000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
@@ -3531,6 +3531,24 @@
       "duration_ms": 226496,
       "name": "Goodbye the days I loved",
       "url": "https://open.spotify.com/track/6rYTjMqLaNbAGsXzAF71ZJ"
+    },
+    {
+      "album": {
+        "name": "Goodbye To Romance(MINSEO X Kim Eana Project)",
+        "url": "https://open.spotify.com/album/7rbY1TxXwT3JUEefNPSZS4"
+      },
+      "artists": [
+        {
+          "name": "MINSEO",
+          "url": "https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265413,
+      "name": "Goodbye To Romance(MINSEO X Kim Eana Project)",
+      "url": "https://open.spotify.com/track/6qD8OvBNgiIZ7faV9zlgok"
     },
     {
       "album": {
@@ -3882,6 +3900,24 @@
     },
     {
       "album": {
+        "name": "The Forbidden Marriage, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0UoIZMkWzH1OqYXbc934Mv"
+      },
+      "artists": [
+        {
+          "name": "SEO EUNKWANG",
+          "url": "https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275503,
+      "name": "How Can I Forget You",
+      "url": "https://open.spotify.com/track/3zs2ZBMzKOG1fMeh9rnkVT"
+    },
+    {
+      "album": {
         "name": "How could you",
         "url": "https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo"
       },
@@ -4067,7 +4103,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 218546,
       "name": "I can't forget you",
       "url": "https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM"
@@ -4139,7 +4175,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 204970,
       "name": "I didn't know back then",
       "url": "https://open.spotify.com/track/4bmeg9Q5PtrEfSjUPtN1xo"
@@ -4381,7 +4417,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 207866,
       "name": "I Missed You",
       "url": "https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N"
@@ -4439,7 +4475,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 256035,
       "name": "I still can't believe it",
       "url": "https://open.spotify.com/track/74GRNRNGzmV6v9PC7nCCDR"
@@ -4973,7 +5009,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 218597,
       "name": "In my Room",
       "url": "https://open.spotify.com/track/5UHQql79LIcoZytAEWdIOq"
@@ -5009,7 +5045,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 222250,
       "name": "In The End",
       "url": "https://open.spotify.com/track/6CBPmkWVL7uM2foOpObxrl"
@@ -5225,7 +5261,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 239428,
       "name": "It's all my fault",
       "url": "https://open.spotify.com/track/2ScIOszpvKuJvIJwd0Ywkf"
@@ -5611,7 +5647,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 281000,
       "name": "Like a Bird",
       "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
@@ -5723,7 +5759,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 210266,
       "name": "Like that day it rained (Feat. Yoon Myoung)",
       "url": "https://open.spotify.com/track/2Ee2Aj1QwFrn1axyc50E08"
@@ -5961,7 +5997,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 219413,
       "name": "LONER",
       "url": "https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn"
@@ -6069,7 +6105,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 230733,
       "name": "Love Lost",
       "url": "https://open.spotify.com/track/1axSh8e8I2eSYLBt4nrgYn"
@@ -6195,7 +6231,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 199733,
       "name": "Luminous",
       "url": "https://open.spotify.com/track/3fQTr5geEQ2q8kgdqx44gl"
@@ -6231,7 +6267,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 219051,
       "name": "Maybe love",
       "url": "https://open.spotify.com/track/0pHoqvvME1oHFSErpiLXmp"
@@ -6325,7 +6361,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 216973,
       "name": "Memory of You",
       "url": "https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1"
@@ -7571,7 +7607,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 240626,
       "name": "Please Don't forget me (WEBTOON 'Discovery of Love' X GB9)",
       "url": "https://open.spotify.com/track/6mj9CHo8FmFSsDH9VaOfD8"
@@ -7921,7 +7957,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 265040,
       "name": "Rolling (2022)",
       "url": "https://open.spotify.com/track/3zgrXUNrq4eNLQ354wGhVq"
@@ -8181,7 +8217,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 225626,
       "name": "She",
       "url": "https://open.spotify.com/track/0BnIEkvcwpCH0UhPUqtUTg"
@@ -8333,6 +8369,24 @@
       "duration_ms": 284746,
       "name": "Small Room (Feat. IU)",
       "url": "https://open.spotify.com/track/4mnfM64nYzPE6h4dM4EMIh"
+    },
+    {
+      "album": {
+        "name": "Snow on Christmas",
+        "url": "https://open.spotify.com/album/4yVwoxry9eozDQ9ca98wTH"
+      },
+      "artists": [
+        {
+          "name": "Baek Juyeon",
+          "url": "https://open.spotify.com/artist/4vzgTWeitkDcGSUJwCCYvr"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241080,
+      "name": "Snow on Christmas",
+      "url": "https://open.spotify.com/track/1efhs3qNob9LxwIxyGCvdf"
     },
     {
       "album": {
@@ -8906,6 +8960,24 @@
     },
     {
       "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/0PZHs6jgIvohnWOiqkrbEw"
+      },
+      "artists": [
+        {
+          "name": "Div",
+          "url": "https://open.spotify.com/artist/33EogRsZc7AZ2RwY90VsJn"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229320,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/789mOE8Bws9wCYSFkoeq6i"
+    },
+    {
+      "album": {
         "name": "summer rain",
         "url": "https://open.spotify.com/album/38o1YPBuMbaBb5Ahqhkc9c"
       },
@@ -9386,6 +9458,24 @@
     },
     {
       "album": {
+        "name": "Reborn Rich (Original Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/3YinMIPjIc3hIdxsG9dZv6"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/0fraTVaecGSCFpX7Hmxmqx"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257956,
+      "name": "THE MIRACLE",
+      "url": "https://open.spotify.com/track/3FGhoG7s17n1VfDZfCFLQp"
+    },
+    {
+      "album": {
         "name": "The Moment My Heart (She is My Type\u2661 X KYUHYUN)",
         "url": "https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J"
       },
@@ -9459,7 +9549,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 242586,
       "name": "The night in silence",
       "url": "https://open.spotify.com/track/32LDCA5ph30ulI089AzC0y"
@@ -9495,7 +9585,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 247733,
       "name": "The Regret of Yesterday",
       "url": "https://open.spotify.com/track/2eLPb8yBpSTb6LHWWmzUAN"
@@ -9553,6 +9643,28 @@
       "duration_ms": 248133,
       "name": "The Song",
       "url": "https://open.spotify.com/track/1TDlDMp9J4cpHj77DETvVb"
+    },
+    {
+      "album": {
+        "name": "The star",
+        "url": "https://open.spotify.com/album/7srtgA0xnFqNLnrAnfjsQg"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        },
+        {
+          "name": "Petra",
+          "url": "https://open.spotify.com/artist/3VWH0jNShIR12uJ55lchbw"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243071,
+      "name": "The star",
+      "url": "https://open.spotify.com/track/6dJE26yEAPMqGF5U6HaHbC"
     },
     {
       "album": {
@@ -9795,7 +9907,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 231346,
       "name": "To Me",
       "url": "https://open.spotify.com/track/6eLNBIUwf81FxFHekvd8Gu"
@@ -9897,6 +10009,24 @@
       "duration_ms": 255666,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5zRPAxbJo5IXIHFTOETcJL"
+    },
+    {
+      "album": {
+        "name": "too late",
+        "url": "https://open.spotify.com/album/3cizllj4s7FZPX3ojRojZ6"
+      },
+      "artists": [
+        {
+          "name": "CHUNJI",
+          "url": "https://open.spotify.com/artist/5HS9HhKluiMJe6hAoxgggj"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253880,
+      "name": "too late",
+      "url": "https://open.spotify.com/track/1HvjjweYcnWWEF6kogNTdA"
     },
     {
       "album": {
@@ -10325,7 +10455,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 265892,
       "name": "When I Close My Eyes",
       "url": "https://open.spotify.com/track/3RbJGQMARr47A0H8d6zdxu"
@@ -10491,7 +10621,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 198040,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/7EbqPyHFpXmcTTewbsX9hz"
@@ -10689,7 +10819,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 279610,
       "name": "Willow Tree",
       "url": "https://open.spotify.com/track/5rT4CDlXDE0IHXCPspWjic"
@@ -11177,7 +11307,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 265846,
       "name": "zero gravity",
       "url": "https://open.spotify.com/track/4tKkpWGoNZJXN7tAXV9aI6"

@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 54243,
+  "num_followers": 54317,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1MjA1NCwwMDAwMDAwMDk1YTllNDE2NmExMDU0YzhlOTQzYmNhMjY2NDgzNDVm",
+  "snapshot_id": "MTY3MTU1MjA1NCwwMDAwMDAwMDRjZTExMGU2Y2VhMDg1NDFiZDRkYjBhZDE5MzhjOTA2",
   "tracks": [
     {
       "added_at": "2022-12-13 15:48:27",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-12-13 15:48:27",
       "album": {
-        "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
-        "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
-      },
-      "artists": [
-        {
-          "name": "Neru",
-          "url": "https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr"
-        }
-      ],
-      "duration_ms": 214146,
-      "name": "\u30ed\u30b9\u30c8\u30ef\u30f3\u306e\u53f7\u54ed",
-      "url": "https://open.spotify.com/track/7bjO3BMl5ps63mpPMfhPDC"
-    },
-    {
-      "added_at": "2022-12-13 15:48:27",
-      "album": {
         "name": "GHOST",
         "url": "https://open.spotify.com/album/3euL5ADirJFFXvoX9OlIfA"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 210000,
       "name": "Ghost Rule",
       "url": "https://open.spotify.com/track/1OAp6qN5KmoGUQ2edICKsC"
+    },
+    {
+      "added_at": "2022-12-13 15:48:27",
+      "album": {
+        "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
+        "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
+      },
+      "artists": [
+        {
+          "name": "Neru",
+          "url": "https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr"
+        }
+      ],
+      "duration_ms": 214146,
+      "name": "\u30ed\u30b9\u30c8\u30ef\u30f3\u306e\u53f7\u54ed",
+      "url": "https://open.spotify.com/track/7bjO3BMl5ps63mpPMfhPDC"
     },
     {
       "added_at": "2022-12-13 15:48:27",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-12-13 15:48:27",
       "album": {
-        "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
-        "url": "https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh"
-      },
-      "artists": [
-        {
-          "name": "hachi",
-          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
-        }
-      ],
-      "duration_ms": 238874,
-      "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
-      "url": "https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F"
-    },
-    {
-      "added_at": "2022-12-13 15:48:27",
-      "album": {
         "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb",
         "url": "https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 206440,
       "name": "\u30d2\u30d0\u30ca -Reloaded-",
       "url": "https://open.spotify.com/track/3g2jMbl3XTP0k0cYb5rN6p"
+    },
+    {
+      "added_at": "2022-12-13 15:48:27",
+      "album": {
+        "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
+        "url": "https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "duration_ms": 238874,
+      "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
+      "url": "https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F"
     },
     {
       "added_at": "2022-12-13 15:48:27",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-12-13 15:48:27",
       "album": {
-        "name": "God sees all",
-        "url": "https://open.spotify.com/album/2UvWMD9DOfJxpJaSwNtqFU"
-      },
-      "artists": [
-        {
-          "name": "Ethyria",
-          "url": "https://open.spotify.com/artist/1FUCVcTXn8jXmPTS3vV9xy"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "God sees all",
-      "url": "https://open.spotify.com/track/1MES6o0hVfvTcoK0JYDQq6"
-    },
-    {
-      "added_at": "2022-12-13 15:48:27",
-      "album": {
         "name": "KAF+YOU KAFU COMPILATION ALBUM \u30b7\u30f3\u30e1\u30c8\u30ea\u30fc",
         "url": "https://open.spotify.com/album/7lskLrUOlkfbFpQBzQDPkv"
       },
@@ -703,22 +687,6 @@
     {
       "added_at": "2022-12-13 15:48:27",
       "album": {
-        "name": "Nayutan Sei Kara No Buttai Y",
-        "url": "https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P"
-      },
-      "artists": [
-        {
-          "name": "Nayutalien",
-          "url": "https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Alien Alien",
-      "url": "https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v"
-    },
-    {
-      "added_at": "2022-12-13 15:48:27",
-      "album": {
         "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
         "url": "https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx"
       },
@@ -735,6 +703,22 @@
     {
       "added_at": "2022-12-13 15:48:27",
       "album": {
+        "name": "God sees all",
+        "url": "https://open.spotify.com/album/2UvWMD9DOfJxpJaSwNtqFU"
+      },
+      "artists": [
+        {
+          "name": "Ethyria",
+          "url": "https://open.spotify.com/artist/1FUCVcTXn8jXmPTS3vV9xy"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "God sees all",
+      "url": "https://open.spotify.com/track/1MES6o0hVfvTcoK0JYDQq6"
+    },
+    {
+      "added_at": "2022-12-13 15:48:27",
+      "album": {
         "name": "Shadow Shadow",
         "url": "https://open.spotify.com/album/0czcM9b8vvv9vGIoftmnMq"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 141777,
       "name": "Shadow Shadow",
       "url": "https://open.spotify.com/track/3kKrLW9Fi7FdPi5oeLER7U"
+    },
+    {
+      "added_at": "2022-12-13 15:48:27",
+      "album": {
+        "name": "Nayutan Sei Kara No Buttai Y",
+        "url": "https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P"
+      },
+      "artists": [
+        {
+          "name": "Nayutalien",
+          "url": "https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Alien Alien",
+      "url": "https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v"
     },
     {
       "added_at": "2022-12-13 15:48:27",

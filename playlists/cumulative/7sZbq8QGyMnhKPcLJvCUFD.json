@@ -1738,6 +1738,28 @@
     },
     {
       "album": {
+        "name": "Memory Nights",
+        "url": "https://open.spotify.com/album/1TaHRPxZD4e0lzVB8EU2AG"
+      },
+      "artists": [
+        {
+          "name": "Jack Shore",
+          "url": "https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P"
+        },
+        {
+          "name": "KORA",
+          "url": "https://open.spotify.com/artist/1q24lJcNrIIAo3r8oL1Qyy"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Memory Nights",
+      "url": "https://open.spotify.com/track/3ooflzDgtL0pqnikV7HUDW"
+    },
+    {
+      "album": {
         "name": "Mess",
         "url": "https://open.spotify.com/album/5TpIbGAHt0rVaw52JIP8md"
       },

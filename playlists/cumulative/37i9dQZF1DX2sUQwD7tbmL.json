@@ -4188,6 +4188,28 @@
     },
     {
       "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/4soSC3Y3hkAczeDVklfp34"
+      },
+      "artists": [
+        {
+          "name": "RAC",
+          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
+        },
+        {
+          "name": "Pink Feathers",
+          "url": "https://open.spotify.com/artist/5G46oA5vyTUNhJkAyqmGmW"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180506,
+      "name": "It\u2019s A Shame",
+      "url": "https://open.spotify.com/track/4DoWwjW93HS2p0SahEQ2qR"
+    },
+    {
+      "album": {
         "name": "Japanese / A Whole Month Of You",
         "url": "https://open.spotify.com/album/3QvqkEYqLwoEWrAPSQulNY"
       },
@@ -7325,7 +7347,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 187415,
       "name": "Stella Brown",
       "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"

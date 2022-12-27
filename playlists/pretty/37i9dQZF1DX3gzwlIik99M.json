@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 208436,
+  "num_followers": 208462,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMGZmMzAwYTg5NzAwZmU5MmYxNDBlYjVlNDNiMmM5M2Y1",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDdkN2RlOGZhNDdkYTYxN2U0Y2MxOWY3ZDgxODBkOTcx",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Subkonzziente",
-        "url": "https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh"
-      },
-      "artists": [
-        {
-          "name": "Esp\u00e9cimen",
-          "url": "https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "M\u00edstica",
-      "url": "https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN"
       },
@@ -187,6 +171,22 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
+        "name": "Subkonzziente",
+        "url": "https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh"
+      },
+      "artists": [
+        {
+          "name": "Esp\u00e9cimen",
+          "url": "https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
         "name": "El Mar De Las Almas",
         "url": "https://open.spotify.com/album/52tcNhROdl0187orh4tB3N"
       },
@@ -199,6 +199,22 @@
       "duration_ms": 223440,
       "name": "Acido",
       "url": "https://open.spotify.com/track/1k6fvfuYE9xZi1hbwOhF6k"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Beneath the Remains",
+        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 265853,
+      "name": "Mass Hypnosis",
+      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -235,26 +251,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "El Nuevo Camino del Hombre",
-        "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
-      },
-      "artists": [
-        {
-          "name": "A.N.I.M.A.L.",
-          "url": "https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9"
-        },
-        {
-          "name": "Mario Altamirano and A.N.I.M.A.L.",
-          "url": "https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "El nuevo camino del hombre",
-      "url": "https://open.spotify.com/track/7uZcZ7lXte8e8rNCIRH38y"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "A Toda Madre",
         "url": "https://open.spotify.com/album/51ANJ0vGG9eG8brTzy6Sxs"
       },
@@ -271,18 +267,22 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Beneath the Remains",
-        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
+        "name": "El Nuevo Camino del Hombre",
+        "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
       },
       "artists": [
         {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+          "name": "A.N.I.M.A.L.",
+          "url": "https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9"
+        },
+        {
+          "name": "Mario Altamirano and A.N.I.M.A.L.",
+          "url": "https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m"
         }
       ],
-      "duration_ms": 265853,
-      "name": "Mass Hypnosis",
-      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
+      "duration_ms": 209373,
+      "name": "El nuevo camino del hombre",
+      "url": "https://open.spotify.com/track/7uZcZ7lXte8e8rNCIRH38y"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -623,22 +623,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Discord",
-        "url": "https://open.spotify.com/album/32wro7OSF1QC9jPzyJPetm"
-      },
-      "artists": [
-        {
-          "name": "Black Overdrive",
-          "url": "https://open.spotify.com/artist/6RjpO9q4DJ8kbZOYeZ6FRB"
-        }
-      ],
-      "duration_ms": 192070,
-      "name": "Discord",
-      "url": "https://open.spotify.com/track/7e1Z0fSkCghUWbed04i1k8"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Plan Mundial Para La Destrucci\u00f3n",
         "url": "https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 257773,
       "name": "Darse Cuenta",
       "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Discord",
+        "url": "https://open.spotify.com/album/32wro7OSF1QC9jPzyJPetm"
+      },
+      "artists": [
+        {
+          "name": "Black Overdrive",
+          "url": "https://open.spotify.com/artist/6RjpO9q4DJ8kbZOYeZ6FRB"
+        }
+      ],
+      "duration_ms": 192070,
+      "name": "Discord",
+      "url": "https://open.spotify.com/track/7e1Z0fSkCghUWbed04i1k8"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -783,6 +783,22 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
+        "name": "Muerte Verdadera Muerte",
+        "url": "https://open.spotify.com/album/1MFmNLxH0oGUXDx8EwE9nE"
+      },
+      "artists": [
+        {
+          "name": "Masacre",
+          "url": "https://open.spotify.com/artist/6ybTIsR4n37yT6UspaRR7m"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "\u00c9xodo",
+      "url": "https://open.spotify.com/track/2nv6Rz0mTEAL96uyRM114Q"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
         "name": "Los Cantipuercos",
         "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 180693,
       "name": "La Caperuputa y el Lobo Culi\u00f3n",
       "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Legiones",
-        "url": "https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf"
-      },
-      "artists": [
-        {
-          "name": "Serpentor",
-          "url": "https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM"
-        }
-      ],
-      "duration_ms": 374026,
-      "name": "Reinar\u00e1 el Caos",
-      "url": "https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z"
     }
   ],
   "unique_name": "Metal del Nuestro",

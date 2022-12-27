@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-823 songs - 2 day 0 hr 54 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+824 songs - 2 day 0 hr 57 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,7 +657,7 @@
 | [Strangers](https://open.spotify.com/track/3q2T2qecCAnj7XlpUnLbBW) | [eliza elliott](https://open.spotify.com/artist/0HLxtYwwRy4qx1r8utJRAq), [Leuca](https://open.spotify.com/artist/3wCg2Idgypg6OjA0uDYctR) | [Strangers](https://open.spotify.com/album/3TKvUsHoRI6haq2QbHZsdK) | 3:29 | 2022-01-07 | 2022-11-14 |
 | [Such A Simple Thing \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Spotify Singles](https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu) | 5:07 | 2022-01-07 |  |
 | [Summer Guest](https://open.spotify.com/track/2x4DW2FItY2bHdOvEm30kM) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence](https://open.spotify.com/album/69ca0kNrnT5F8jvzNpEjD8) | 3:44 | 2022-03-24 | 2022-04-20 |
-| [Summer's Gone](https://open.spotify.com/track/6PmhCEPMjhSo9j8hz767xy) | [Maria Lynn](https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j) | [Summer's Gone](https://open.spotify.com/album/0OsygaGp6HUB4fmdPPgQOh) | 3:24 | 2022-03-24 |  |
+| [Summer's Gone](https://open.spotify.com/track/6PmhCEPMjhSo9j8hz767xy) | [Maria Lynn](https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j) | [Summer's Gone](https://open.spotify.com/album/0OsygaGp6HUB4fmdPPgQOh) | 3:24 | 2022-03-24 | 2022-12-27 |
 | [Sunburn](https://open.spotify.com/track/0pgQVwI3EASJPbovhNC7Up) | [Badley](https://open.spotify.com/artist/2mnmAUiXWb5Xck3XvpU99C) | [Sunburn](https://open.spotify.com/album/0oXafULnvTaiFXCGs466Pm) | 3:39 | 2022-03-24 | 2022-03-27 |
 | [Sunlight](https://open.spotify.com/track/0RHeh77ZQtP5Q3IZIjwqPc) | [G Voz](https://open.spotify.com/artist/1J4opZ8obcxOkZ8w0z64BC) | [Rehad](https://open.spotify.com/album/4X7O8eRZUQdMFvUznYK3dr) | 3:45 | 2021-12-21 | 2022-07-27 |
 | [Sunscreen](https://open.spotify.com/track/0j7W0n2R5CfrLsUazKcIvW) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/7G7qhm9LVPD0qo3V5ed1OR) | 2:49 | 2022-03-24 | 2022-04-01 |
@@ -813,6 +813,7 @@
 | [With You](https://open.spotify.com/track/5Lu0vv78RmKZeBPpP1N8za) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [With You](https://open.spotify.com/album/1Ca9JdekdlYxnlCMCtVsdR) | 2:34 | 2021-12-21 |  |
 | [Work It Out](https://open.spotify.com/track/24CHsQoRcKhgi0P4AQgcwp) | [RYD](https://open.spotify.com/artist/4rWFqDLK4QEPkNLK0z6PPR) | [Work It Out](https://open.spotify.com/album/0SyizA7bZZxsZRrvskWrUx) | 3:11 | 2022-03-24 | 2022-04-20 |
 | [World Spins Madly On](https://open.spotify.com/track/4EKxZ5GJg89kAVHf6sAcEA) | [The Weepies](https://open.spotify.com/artist/6pwHWKweuoCyx3OoFaD0Q5) | [Say I Am You](https://open.spotify.com/album/53rpqwJWEpqPM1xMqIxJmz) | 2:45 | 2022-03-24 | 2022-04-21 |
+| [worst enemy](https://open.spotify.com/track/4GRELogjYGX7i6b0jXQMDF) | [Jake Clark](https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd) | [worst enemy](https://open.spotify.com/album/5c1T3eQmdBGNy4Ol5pDWPw) | 2:57 | 2022-12-27 |  |
 | [Wrong Days](https://open.spotify.com/track/18fw7Gr4T7pysVqV5K0OMY) | [SUNDAYS](https://open.spotify.com/artist/7MjONNGSFluldBu4xa0gYy) | [Wrong Days](https://open.spotify.com/album/2gsQ0TqkTKWWyiy58kM4QE) | 4:42 | 2022-02-03 | 2022-07-08 |
 | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/track/2JerYQPEZWTiTEIFgfUEoV) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/album/4VkgVNf0yIMLkwfls1J83u) | 4:04 | 2022-03-04 | 2022-04-10 |
 | [You & I](https://open.spotify.com/track/6Wzl4NBqft9IyyZ8GmjQTV) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [You & I](https://open.spotify.com/album/1q5XgAboGu9bWtqal9PZen) | 3:41 | 2021-12-21 | 2022-07-29 |

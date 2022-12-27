@@ -358,6 +358,24 @@
     },
     {
       "album": {
+        "name": "Escucha Escucha",
+        "url": "https://open.spotify.com/album/4ipHsO9OrrWES7Y7H30h54"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Alza Tu Copa",
+      "url": "https://open.spotify.com/track/5hsgrR7IYwLx2hnIFebvMg"
+    },
+    {
+      "album": {
         "name": "El Gran Mayimbe",
         "url": "https://open.spotify.com/album/3YcXVczErplYfnXgiNNCjg"
       },
@@ -2279,7 +2297,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 245933,
       "name": "Enamorar",
       "url": "https://open.spotify.com/track/4vJQoi7roAr5A2K0hH8F1x"
@@ -2297,7 +2315,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 245995,
       "name": "Enamorar",
       "url": "https://open.spotify.com/track/5PCqIB29DYyOj1glBryH3t"
@@ -3717,7 +3735,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 255000,
       "name": "Maldita Sea",
       "url": "https://open.spotify.com/track/6LbzQKMKllO8zPSQlXMqxG"

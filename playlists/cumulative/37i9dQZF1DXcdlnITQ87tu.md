@@ -4,7 +4,7 @@
 
 > \(Listen Genie TV's original drama 'Summer Strike's soundtrack in here!\) Genie TV 오리지널 시리즈 '아무것도 하고 싶지 않아'의 사운드 트랙들을 감상해보세요!
 
-23 songs - 1 hr 7 min - not published yet
+25 songs - 1 hr 13 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,8 @@
 | [EP5\. Summer Strike](https://open.spotify.com/track/41hWRGUuKSxqHQfeGJjLVt) | [Summer Strike](https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr) | [EP2\. Summer Strike](https://open.spotify.com/album/2ZK4i2zK4r0FMb02Borh8k) | 0:25 | 2022-12-19 |  |
 | [Hello, Stranger](https://open.spotify.com/track/5YHYuTCyF50A70ixu1nkku) | [Kum Junhyeon](https://open.spotify.com/artist/1OFbKzbdQhFvWfqQH8RXNB) | [Summer Strike, Pt\. 9 \(Original Soundtrack\)](https://open.spotify.com/album/52qsYImTDRxS2IVZ5n8rnZ) | 4:24 | 2022-12-19 |  |
 | [Hello, Stranger \- Instrumental](https://open.spotify.com/track/6xUba5wbv0FAs6TmAMedQt) | [Kum Junhyeon](https://open.spotify.com/artist/1OFbKzbdQhFvWfqQH8RXNB) | [Summer Strike, Pt\. 9 \(Original Soundtrack\)](https://open.spotify.com/album/52qsYImTDRxS2IVZ5n8rnZ) | 4:24 | 2022-12-19 |  |
+| [I See You Like I See the Sun](https://open.spotify.com/track/4grbG9wAAoFTbYnDBTkyrc) | [Low\-end project](https://open.spotify.com/artist/5HECc7MQ1IoYk1H8MNrflW) | [Summer Strike, Pt\. 12 \(Original Soundtrack\)](https://open.spotify.com/album/1x1azzo9YyhTc65qCKfEar) | 3:06 | 2022-12-26 |  |
+| [I See You Like I See the Sun \- Instrumental](https://open.spotify.com/track/6BLhiaQyo2VeYJkxyOFnUC) | [Low\-end project](https://open.spotify.com/artist/5HECc7MQ1IoYk1H8MNrflW) | [Summer Strike, Pt\. 12 \(Original Soundtrack\)](https://open.spotify.com/album/1x1azzo9YyhTc65qCKfEar) | 3:06 | 2022-12-26 |  |
 | [I′ll Wait](https://open.spotify.com/track/0GHqJSl06IMIpMnVzZfuJd) | [JIYOON](https://open.spotify.com/artist/519qrDQ4c2KCau2Jm7jTQE) | [Summer Strike, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/5XYEOk4tUO2uGZdRXYw7HL) | 3:37 | 2022-12-14 |  |
 | [I′ll Wait \- Instrumental](https://open.spotify.com/track/6u206oNs5B288CxFrjKfoM) | [JIYOON](https://open.spotify.com/artist/519qrDQ4c2KCau2Jm7jTQE) | [Summer Strike, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/5XYEOk4tUO2uGZdRXYw7HL) | 3:37 | 2022-12-14 |  |
 | [Lover](https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv) | [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [Summer Strike, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW) | 2:55 | 2022-12-14 |  |

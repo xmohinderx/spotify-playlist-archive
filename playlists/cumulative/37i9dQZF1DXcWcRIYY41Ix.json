@@ -2007,7 +2007,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 191520,
       "name": "El primero",
       "url": "https://open.spotify.com/track/3yFlsxRaK7TuIByEWGPdlw"
@@ -5715,6 +5715,24 @@
       "duration_ms": 216661,
       "name": "Todo Lo Que No Est\u00e1",
       "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
+    },
+    {
+      "album": {
+        "name": "Todo y Nada",
+        "url": "https://open.spotify.com/album/5lHEIjkxkFOc23ZVWn2YrT"
+      },
+      "artists": [
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140345,
+      "name": "Todo y Nada",
+      "url": "https://open.spotify.com/track/3JC9mTwpw2FMbvSjFaFYx8"
     },
     {
       "album": {

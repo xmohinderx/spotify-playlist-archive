@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Antía Muíño.
 
-330 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
+331 songs - 20 hr 22 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 | 2022-07-22 |  |
 | [El mundo en torno a ti](https://open.spotify.com/track/5WfZQApmpzZwqn1070XtF3) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Mundos inmóviles derrumbándose](https://open.spotify.com/album/73kq0BQGLHlbefVFRbVSGw) | 5:00 | 2022-03-07 | 2022-03-12 |
 | [El Palmar](https://open.spotify.com/track/4XgtH8XgnB6NWxX3e5gr6U) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS), [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [El Palmar](https://open.spotify.com/album/1sK8DJFpwDQFjUtiOG1J0k) | 3:07 | 2022-07-01 |  |
-| [El primero](https://open.spotify.com/track/3yFlsxRaK7TuIByEWGPdlw) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Las manos](https://open.spotify.com/album/1LKDk8RQ588oxmj4tBK39i) | 3:11 | 2022-11-25 |  |
+| [El primero](https://open.spotify.com/track/3yFlsxRaK7TuIByEWGPdlw) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Las manos](https://open.spotify.com/album/1LKDk8RQ588oxmj4tBK39i) | 3:11 | 2022-11-25 | 2022-12-27 |
 | [El Tiempo Está Después](https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox), [Ernesto Snajer](https://open.spotify.com/artist/2lsW2v88mmr3SCDpKFlUao) | [Raíces](https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5) | 3:01 | 2021-12-24 |  |
 | [El Viejo Comunista](https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [El Viejo Comunista](https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke) | 4:57 | 2021-12-24 |  |
 | [En el río](https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Casi tierra](https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY) | 3:08 | 2021-12-24 |  |
@@ -301,6 +301,7 @@
 | [Todo Lo Que Está Bien](https://open.spotify.com/track/6B3oesJhA0R2ZxCrDqIhgr) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg) | [La Llorería](https://open.spotify.com/album/0EBPMOrasCffWzNkDwwbPf) | 3:40 | 2022-04-08 | 2022-04-19 |
 | [Todo lo que hemos hecho](https://open.spotify.com/track/2vPLLswygDu5YPmRCxbNik) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Acto I: La \(Re\) Conciliación](https://open.spotify.com/album/1SJF6XS1MgjBugP0sLeX7Y) | 3:54 | 2022-07-01 | 2022-07-23 |
 | [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luisa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 | 2021-12-24 |  |
+| [Todo y Nada](https://open.spotify.com/track/3JC9mTwpw2FMbvSjFaFYx8) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [Todo y Nada](https://open.spotify.com/album/5lHEIjkxkFOc23ZVWn2YrT) | 2:20 | 2022-12-23 |  |
 | [Trataré](https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 4:50 | 2022-04-25 |  |
 | [Trenca'm](https://open.spotify.com/track/4Xs3rkhvdnGD16th3tYS1N) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Joia](https://open.spotify.com/album/51Jxy7KcajXwq86YBjG2NX) | 2:33 | 2021-12-24 | 2022-01-11 |
 | [Tristeza](https://open.spotify.com/track/7AYiZYUZuplwc9krvnYEGK) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tristeza](https://open.spotify.com/album/7uFEru1YVLeBYTcU3OnTHN) | 3:01 | 2021-12-24 | 2022-02-05 |

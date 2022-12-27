@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 43769,
+  "num_followers": 43786,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTcyMTIwMCwwMDAwMDAwMDFjYjEzYmU3NDI5MjAzYWEwOGFjYjliZThlN2JhYzA2",
+  "snapshot_id": "MTY3MTcyMTIwMCwwMDAwMDAwMDJjMzkzMjBlNWU5MTg3M2ZmNjhjMjZmNGJlYzg1MDQ2",
   "tracks": [
     {
       "added_at": "2022-12-22 15:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-12-22 15:00:00",
       "album": {
-        "name": "Actual Life Piano EP (April 14 - December 17 2020)",
-        "url": "https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "Kyle (Northern Line)",
-      "url": "https://open.spotify.com/track/2rHefyfbrhfXVaquedNvnR"
-    },
-    {
-      "added_at": "2022-12-22 15:00:00",
-      "album": {
         "name": "Takk...",
         "url": "https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 268706,
       "name": "Hopp\u00edpolla",
       "url": "https://open.spotify.com/track/0yQPpUq5BJyqah5m2Q5Stt"
+    },
+    {
+      "added_at": "2022-12-22 15:00:00",
+      "album": {
+        "name": "Actual Life Piano EP (April 14 - December 17 2020)",
+        "url": "https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "Kyle (Northern Line)",
+      "url": "https://open.spotify.com/track/2rHefyfbrhfXVaquedNvnR"
     },
     {
       "added_at": "2022-12-22 15:00:00",

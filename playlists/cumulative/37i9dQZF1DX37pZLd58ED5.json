@@ -211,6 +211,28 @@
     {
       "album": {
         "name": "Persona",
+        "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255449,
+      "name": "APPARTENGO - Il sangue",
+      "url": "https://open.spotify.com/track/6mP8EUaw6JbuYMJkQew3Ny"
+    },
+    {
+      "album": {
+        "name": "Persona",
         "url": "https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul"
       },
       "artists": [
@@ -247,7 +269,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 255449,
       "name": "APPARTENGO - Il sangue (feat. Massimo Pericolo)",
       "url": "https://open.spotify.com/track/3A22uqfe8OfNkeqJj4Fmc1"

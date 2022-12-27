@@ -2,7 +2,7 @@
 
 ### [This Is Super Junior](https://open.spotify.com/playlist/37i9dQZF1DX7h06zz0VktL)
 
-> All E.L.F's go to playlist! The essential tracks, all in one playlist.
+> All E.L.F's go to playlist! "The Road : Celebration \- The 11th Album Vol.2"\. is here!
 
 190 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/2UMJmYC8TKLWWGuzrB0lu5)
 

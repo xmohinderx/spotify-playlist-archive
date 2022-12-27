@@ -718,6 +718,28 @@
     },
     {
       "album": {
+        "name": "Varshons",
+        "url": "https://open.spotify.com/album/22BwjAeaaEiSeJF1EeSMVI"
+      },
+      "artists": [
+        {
+          "name": "The Lemonheads",
+          "url": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X"
+        },
+        {
+          "name": "Liv Tyler",
+          "url": "https://open.spotify.com/artist/5OVn0ENwjLIZbRxVPovVgH"
+        }
+      ],
+      "date_added": "2018-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184146,
+      "name": "Hey, That's No Way To Say Goodbye (feat. Liv Tyler)",
+      "url": "https://open.spotify.com/track/6pT22eHNB4aDW7x5q5j4Um"
+    },
+    {
+      "album": {
         "name": "Is Your Love Big Enough? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3S7PPQijoPQ8ASlHl6LsJ9"
       },
@@ -1217,7 +1239,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 245040,
       "name": "Tennessee Waltz - Live at Montreux Jazz Festival",
       "url": "https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J"

@@ -2009,6 +2009,24 @@
     {
       "album": {
         "name": "Kultura Babylon",
+        "url": "https://open.spotify.com/album/4xisbZxOFYpVoxqJumZiTZ"
+      },
+      "artists": [
+        {
+          "name": "Laguna Pai",
+          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238040,
+      "name": "Kultura Babylon",
+      "url": "https://open.spotify.com/track/3FEHIGm7Ox5HSZsTI1W1RP"
+    },
+    {
+      "album": {
+        "name": "Kultura Babylon",
         "url": "https://open.spotify.com/album/0DZ7bLQzuop71o90CTkueo"
       },
       "artists": [
@@ -2949,7 +2967,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 267983,
       "name": "Normal",
       "url": "https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV"

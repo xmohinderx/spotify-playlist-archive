@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 24636,
+  "num_followers": 24663,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDg4Mzg3MCwwMDAwMDAwMDU4Y2E0YjNiNTA1YWFkZjkwNTZiOTMwOWNjMzFlNDRk",
+  "snapshot_id": "MTY3MDg4Mzg3MCwwMDAwMDAwMDY2MDEzNWI5NDQ2MzBmNjZkOTNmMWE3ZGUzYzhiMWRi",
   "tracks": [
     {
       "added_at": "2022-12-12 22:24:30",
@@ -247,6 +247,26 @@
     {
       "added_at": "2022-12-12 22:24:30",
       "album": {
+        "name": "Walk em Like a Dog",
+        "url": "https://open.spotify.com/album/0MNWH6M35DhkfLsm12fHb5"
+      },
+      "artists": [
+        {
+          "name": "D STURDY",
+          "url": "https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr"
+        },
+        {
+          "name": "Fakebitcheshero",
+          "url": "https://open.spotify.com/artist/4GOXTwL3RdkWmP9y3wTNDI"
+        }
+      ],
+      "duration_ms": 148427,
+      "name": "Walk em Like a Dog",
+      "url": "https://open.spotify.com/track/0O0H8qIQtHo7dvnMwdZwUm"
+    },
+    {
+      "added_at": "2022-12-12 22:24:30",
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 142639,
       "name": "eyes",
       "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
-    },
-    {
-      "added_at": "2022-12-12 22:24:30",
-      "album": {
-        "name": "Walk em Like a Dog",
-        "url": "https://open.spotify.com/album/0MNWH6M35DhkfLsm12fHb5"
-      },
-      "artists": [
-        {
-          "name": "D STURDY",
-          "url": "https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr"
-        },
-        {
-          "name": "Fakebitcheshero",
-          "url": "https://open.spotify.com/artist/4GOXTwL3RdkWmP9y3wTNDI"
-        }
-      ],
-      "duration_ms": 148427,
-      "name": "Walk em Like a Dog",
-      "url": "https://open.spotify.com/track/0O0H8qIQtHo7dvnMwdZwUm"
     },
     {
       "added_at": "2022-12-12 22:24:30",
@@ -611,26 +611,22 @@
     {
       "added_at": "2022-12-12 22:24:30",
       "album": {
-        "name": "ELASTIC",
-        "url": "https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO"
+        "name": "nasty",
+        "url": "https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN"
       },
       "artists": [
         {
-          "name": "ZDBT",
-          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
         },
         {
-          "name": "Prado Monroe",
-          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
-        },
-        {
-          "name": "Slim Media Player",
-          "url": "https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR"
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
         }
       ],
-      "duration_ms": 219508,
-      "name": "ELASTIC",
-      "url": "https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV"
+      "duration_ms": 175505,
+      "name": "nasty",
+      "url": "https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa"
     },
     {
       "added_at": "2022-12-12 22:24:30",
@@ -675,22 +671,26 @@
     {
       "added_at": "2022-12-12 22:24:30",
       "album": {
-        "name": "nasty",
-        "url": "https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN"
+        "name": "ELASTIC",
+        "url": "https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO"
       },
       "artists": [
         {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+          "name": "ZDBT",
+          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
         },
         {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+          "name": "Prado Monroe",
+          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
+        },
+        {
+          "name": "Slim Media Player",
+          "url": "https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR"
         }
       ],
-      "duration_ms": 175505,
-      "name": "nasty",
-      "url": "https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa"
+      "duration_ms": 219508,
+      "name": "ELASTIC",
+      "url": "https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV"
     },
     {
       "added_at": "2022-12-12 22:24:30",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-12-12 22:24:30",
       "album": {
+        "name": "Lei do Baile",
+        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        }
+      ],
+      "duration_ms": 212015,
+      "name": "Lei do Baile",
+      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
+    },
+    {
+      "added_at": "2022-12-12 22:24:30",
+      "album": {
         "name": "Deliver",
         "url": "https://open.spotify.com/album/4n8WFWykGXGPBqOsSY20gR"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 126077,
       "name": "Deliver",
       "url": "https://open.spotify.com/track/0M2anbL4SH9kiWvEyTGzGJ"
-    },
-    {
-      "added_at": "2022-12-12 22:24:30",
-      "album": {
-        "name": "Lei do Baile",
-        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        }
-      ],
-      "duration_ms": 212015,
-      "name": "Lei do Baile",
-      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
     },
     {
       "added_at": "2022-12-12 22:24:30",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-12-12 22:24:30",
       "album": {
-        "name": "Svengali",
-        "url": "https://open.spotify.com/album/2h8f7vS40iywANXRz0tiYL"
-      },
-      "artists": [
-        {
-          "name": "Cakes da Killa",
-          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
-        }
-      ],
-      "duration_ms": 154358,
-      "name": "Ball And Chain",
-      "url": "https://open.spotify.com/track/0zD50HrXQAuuRlFyxIoCtx"
-    },
-    {
-      "added_at": "2022-12-12 22:24:30",
-      "album": {
         "name": "U Wanna?",
         "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 250009,
       "name": "U Wanna?",
       "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
+    },
+    {
+      "added_at": "2022-12-12 22:24:30",
+      "album": {
+        "name": "Svengali",
+        "url": "https://open.spotify.com/album/2h8f7vS40iywANXRz0tiYL"
+      },
+      "artists": [
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        }
+      ],
+      "duration_ms": 154358,
+      "name": "Ball And Chain",
+      "url": "https://open.spotify.com/track/0zD50HrXQAuuRlFyxIoCtx"
     },
     {
       "added_at": "2022-12-12 22:24:30",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-12-12 22:24:30",
       "album": {
-        "name": "Svengali",
-        "url": "https://open.spotify.com/album/2NqZ5jCcoAevfo62dyJKk5"
-      },
-      "artists": [
-        {
-          "name": "Cakes da Killa",
-          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
-        }
-      ],
-      "duration_ms": 179482,
-      "name": "Svengali",
-      "url": "https://open.spotify.com/track/4mIJ0lm0B8ynSPeGTjqJ5G"
-    },
-    {
-      "added_at": "2022-12-12 22:24:30",
-      "album": {
         "name": "EZ 4 Me",
         "url": "https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 139130,
       "name": "Desire - Jersey Club Remix",
       "url": "https://open.spotify.com/track/1ILih0tnJMvkggPP2879Bg"
+    },
+    {
+      "added_at": "2022-12-12 22:24:30",
+      "album": {
+        "name": "Svengali",
+        "url": "https://open.spotify.com/album/2NqZ5jCcoAevfo62dyJKk5"
+      },
+      "artists": [
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        }
+      ],
+      "duration_ms": 179482,
+      "name": "Svengali",
+      "url": "https://open.spotify.com/track/4mIJ0lm0B8ynSPeGTjqJ5G"
     },
     {
       "added_at": "2022-12-12 22:24:30",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2022-12-12 22:24:30",
       "album": {
-        "name": "We from Baltimore",
-        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
-      },
-      "artists": [
-        {
-          "name": "CalvoMusic",
-          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
-        },
-        {
-          "name": "Charles",
-          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
-        }
-      ],
-      "duration_ms": 131391,
-      "name": "Bitch We from Baltimore",
-      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
-    },
-    {
-      "added_at": "2022-12-12 22:24:30",
-      "album": {
         "name": "Dark City Beneath The Beat (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3uzH6PmVioHRyKmBcJFELQ"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 162919,
       "name": "Roll Call (feat. TT The Artist & Mighty Mark)",
       "url": "https://open.spotify.com/track/0CqO3pjpupPRniIQIqfDDC"
+    },
+    {
+      "added_at": "2022-12-12 22:24:30",
+      "album": {
+        "name": "We from Baltimore",
+        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
+      },
+      "artists": [
+        {
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "Charles",
+          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
+        }
+      ],
+      "duration_ms": 131391,
+      "name": "Bitch We from Baltimore",
+      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
     },
     {
       "added_at": "2022-12-12 22:24:30",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2022-12-12 22:24:30",
       "album": {
-        "name": "Touch (Leonce Remix)",
-        "url": "https://open.spotify.com/album/1oR96yctfi93SFLn0l1NLk"
-      },
-      "artists": [
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        },
-        {
-          "name": "Leonce",
-          "url": "https://open.spotify.com/artist/4CtHfoB4Jfn9hpWMHBq3lc"
-        }
-      ],
-      "duration_ms": 234441,
-      "name": "Touch - Leonce Remix",
-      "url": "https://open.spotify.com/track/2ktWS8sHNDJ7hgRmxDHsXb"
-    },
-    {
-      "added_at": "2022-12-12 22:24:30",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/4hiwTcr6euYZh55T4gzM4U"
       },
@@ -1711,22 +1691,6 @@
     {
       "added_at": "2022-12-12 22:24:30",
       "album": {
-        "name": "Tabasco",
-        "url": "https://open.spotify.com/album/3VicZ7lCcaTVt9N6hpZdxs"
-      },
-      "artists": [
-        {
-          "name": "BASE",
-          "url": "https://open.spotify.com/artist/3BLMGeDCKEvxuiuEUag9xf"
-        }
-      ],
-      "duration_ms": 129522,
-      "name": "Tabasco",
-      "url": "https://open.spotify.com/track/4mIo1BjbD5tyuLceK7Ifpn"
-    },
-    {
-      "added_at": "2022-12-12 22:24:30",
-      "album": {
         "name": "WORK",
         "url": "https://open.spotify.com/album/6jhqBMKKpjSUNGaUv3Ar6Y"
       },
@@ -1743,6 +1707,22 @@
       "duration_ms": 192000,
       "name": "WORK",
       "url": "https://open.spotify.com/track/3f6cQPVTkf8KuEni7b8bS6"
+    },
+    {
+      "added_at": "2022-12-12 22:24:30",
+      "album": {
+        "name": "Tabasco",
+        "url": "https://open.spotify.com/album/3VicZ7lCcaTVt9N6hpZdxs"
+      },
+      "artists": [
+        {
+          "name": "BASE",
+          "url": "https://open.spotify.com/artist/3BLMGeDCKEvxuiuEUag9xf"
+        }
+      ],
+      "duration_ms": 129522,
+      "name": "Tabasco",
+      "url": "https://open.spotify.com/track/4mIo1BjbD5tyuLceK7Ifpn"
     },
     {
       "added_at": "2022-12-12 22:24:30",
@@ -1767,6 +1747,42 @@
       "duration_ms": 166500,
       "name": "Switch",
       "url": "https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT"
+    },
+    {
+      "added_at": "2022-12-12 22:24:30",
+      "album": {
+        "name": "Touch (Leonce Remix)",
+        "url": "https://open.spotify.com/album/1oR96yctfi93SFLn0l1NLk"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "Leonce",
+          "url": "https://open.spotify.com/artist/4CtHfoB4Jfn9hpWMHBq3lc"
+        }
+      ],
+      "duration_ms": 234441,
+      "name": "Touch - Leonce Remix",
+      "url": "https://open.spotify.com/track/2ktWS8sHNDJ7hgRmxDHsXb"
+    },
+    {
+      "added_at": "2022-12-12 22:24:30",
+      "album": {
+        "name": "Sub Poppin",
+        "url": "https://open.spotify.com/album/34ea1zRekZvYeW2L2CkoZf"
+      },
+      "artists": [
+        {
+          "name": "Black Rave Culture",
+          "url": "https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS"
+        }
+      ],
+      "duration_ms": 341476,
+      "name": "Sub Poppin",
+      "url": "https://open.spotify.com/track/3pFcZbT0YVipT9LNrCutFk"
     },
     {
       "added_at": "2022-12-12 22:24:30",
@@ -1815,22 +1831,6 @@
       "duration_ms": 123650,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/1lZr19oQWX6GwbaqmqCSlT"
-    },
-    {
-      "added_at": "2022-12-12 22:24:30",
-      "album": {
-        "name": "Sub Poppin",
-        "url": "https://open.spotify.com/album/34ea1zRekZvYeW2L2CkoZf"
-      },
-      "artists": [
-        {
-          "name": "Black Rave Culture",
-          "url": "https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS"
-        }
-      ],
-      "duration_ms": 341476,
-      "name": "Sub Poppin",
-      "url": "https://open.spotify.com/track/3pFcZbT0YVipT9LNrCutFk"
     },
     {
       "added_at": "2022-12-12 22:24:30",
