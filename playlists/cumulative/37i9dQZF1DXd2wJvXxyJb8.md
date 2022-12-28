@@ -2,9 +2,9 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> só os que venceram na batalha de dança TUBARÃO TE AMO FALCÃO TE AMO
+> q q eh birimbola?
 
-189 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
+191 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [MALDITA PERIGOSA](https://open.spotify.com/track/7MJiZazhXeWZoFZlBzC7sf) | [DJ VILÃO](https://open.spotify.com/artist/7evNwWIec7shUErOTwAzk9), [Mc Scar](https://open.spotify.com/artist/59QeFVjDVrtm42TTVs4ZR0) | [MALDITA PERIGOSA](https://open.spotify.com/album/3i4p8zlN5C2TQaJBkFfTT4) | 3:13 | 2022-05-26 | 2022-11-10 |
 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 | 2022-05-26 | 2022-11-08 |
 | [Malvadão 3](https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Malvadão 3](https://open.spotify.com/album/1XrBVMRctpsTGw189yBIsl) | 2:21 | 2022-05-26 |  |
+| [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX) | 2:32 | 2022-12-28 |  |
 | [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 | 2022-07-04 | 2022-07-29 |
 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-07-28 | 2022-08-12 |
 | [Me Chama de Amor \- Arrochadeira Remix](https://open.spotify.com/track/1ih3nbYJ0lugsku6065BC5) | [O Tubarão](https://open.spotify.com/artist/5oqu436HPM9PGpNSlPBpAT), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Me Chama de Amor \(Arrochadeira Remix\)](https://open.spotify.com/album/6VHZaHeeY9g9bYrgbyVsOq) | 2:09 | 2022-05-26 |  |
@@ -143,6 +144,7 @@
 | [Pique, Piquezin X Cintura Ignorante](https://open.spotify.com/track/0hcsxVehBlwctRQPLzE2LC) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [Pet & Bobii](https://open.spotify.com/artist/2lJQn1DHF1ipwxytJBMljq), [MC Buraga](https://open.spotify.com/artist/5OjUzfzhGFTQDWfKiPcxAE) | [Pique, Piquezin X Cintura Ignorante](https://open.spotify.com/album/6GlDenJOhhay8Vc71Wawmf) | 3:23 | 2022-05-26 | 2022-07-31 |
 | [Pique, Piquezin X Cintura Ignorante](https://open.spotify.com/track/5AuOlnnQlEKRwN6biy0c2P) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [Pet & Bobii](https://open.spotify.com/artist/2lJQn1DHF1ipwxytJBMljq), [MC Buraga](https://open.spotify.com/artist/5OjUzfzhGFTQDWfKiPcxAE) | [Pique, Piquezin X Cintura Ignorante](https://open.spotify.com/album/3osieNmAeTHS8DNxJw1kfP) | 3:23 | 2022-07-28 | 2022-08-09 |
 | [Piui Tic Tac Camisinha de Chocolate](https://open.spotify.com/track/2aMF3nO14nw77EMDg0spS3) | [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d), [dj fury](https://open.spotify.com/artist/31F57cAEyyEHY2coP5Q6DV) | [Piui Tic Tac Camisinha de Chocolate](https://open.spotify.com/album/7zFyHvOaq5Yhy846Zf77hg) | 2:40 | 2022-05-26 | 2022-09-22 |
+| [PLAYGROUND](https://open.spotify.com/track/5gitknsNQkrsCwfIbWK8Kd) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [PLAYGROUND](https://open.spotify.com/album/3hPfwefUmHJZDXrJpdftxi) | 2:19 | 2022-12-28 |  |
 | [Pontos de Exclamação](https://open.spotify.com/track/2mlsK27VNUj8y08BvtIbXu) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Pontos de Exclamação](https://open.spotify.com/album/6OMICpWuK1nwndfvZJuGyb) | 3:01 | 2022-05-26 | 2022-07-19 |
 | [Primeiro Beck](https://open.spotify.com/track/3IN6ZKDzAsOUuOtmIqnAYX) | [DJ DEIVÃO](https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk), [Mc guizinho niazi](https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3), [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO) | [Primeiro Beck](https://open.spotify.com/album/2wNWu9WSJynNKZrQZndTPB) | 2:19 | 2022-09-02 | 2022-09-07 |
 | [Primeiro Beck Ela Me Mamou](https://open.spotify.com/track/3DNgjjNmVUj5z1uvLVd343) | [ascendingboy](https://open.spotify.com/artist/2d05ivGt1JcxoIcbMB7g48) | [Primeiro Beck Ela Me Mamou](https://open.spotify.com/album/1Q7VZ0frBrYW1T2SoWKg2U) | 1:54 | 2022-08-31 | 2022-09-03 |

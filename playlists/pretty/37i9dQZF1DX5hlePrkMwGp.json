@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the romantic side of Ani",
-  "num_followers": 92952,
+  "num_followers": 93042,
   "original_name": "Romantic Anirudh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTE3OTIzNCwwMDAwMDAwMGI2MTA4Y2QzNTMxYTRlNDZjNDU5OTAyMWFjMWNmZmI4",
+  "snapshot_id": "MTY2OTE3OTIzNCwwMDAwMDAwMDMwNjg0MjEyOTkwYWU4ZTUwZWZjNjRhNDAxMjA0MWVi",
   "tracks": [
     {
       "added_at": "2021-08-02 09:30:31",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Best of Love : Anirudh Ravichander",
-        "url": "https://open.spotify.com/album/7p1906A7I3UI6237RzuQI5"
+        "name": "Rum (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7wOBAKgO7PkU1tsOMPI8LN"
       },
       "artists": [
         {
           "name": "Anirudh Ravichander",
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         }
       ],
-      "duration_ms": 259594,
-      "name": "Naana Thaana (From \"Thaanaa Serndha Koottam\")",
-      "url": "https://open.spotify.com/track/5CzhbT0Ly1hcslbzAchwnx"
+      "duration_ms": 222693,
+      "name": "Alladhe Siragiye",
+      "url": "https://open.spotify.com/track/4bBvORgFl84qcZ1Q4LtMoN"
     }
   ],
   "unique_name": "Romantic Anirudh",

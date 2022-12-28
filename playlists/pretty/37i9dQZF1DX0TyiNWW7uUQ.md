@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 
 > Finest collection of Tamil Music from the past 10 years<br/>Cover : Varisu
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,460 likes - 56 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,186 likes - 56 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

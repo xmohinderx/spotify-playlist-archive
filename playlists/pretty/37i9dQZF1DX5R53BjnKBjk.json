@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer!  Foto: Guil\u00e9 / Arte: Isu Kim",
-  "num_followers": 13976,
+  "num_followers": 13999,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NzI2OSwwMDAwMDAwMDU2M2QwYWQ4Y2FiM2IxMWUyZTUyNDY3YWQxNzNlNGEx",
+  "snapshot_id": "MTY3MTc2NzI2OSwwMDAwMDAwMGI1NjM1M2VlYmZhZTEwY2JiMTZkMTE0NmI1NDU1NjU4",
   "tracks": [
     {
       "added_at": "2022-12-23 03:47:49",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "A Vida \u00e9 Uma Granada",
-        "url": "https://open.spotify.com/album/2mM0SEjQaE4PnR9zpPeIrO"
-      },
-      "artists": [
-        {
-          "name": "DINGO",
-          "url": "https://open.spotify.com/artist/2sUDjU3jdpKtqxUMn0GRc4"
-        }
-      ],
-      "duration_ms": 206484,
-      "name": "A Vida \u00e9 Uma Granada",
-      "url": "https://open.spotify.com/track/6MCrJunzD53N8RzvbuzkXm"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
         "name": "Fica Comigo",
         "url": "https://open.spotify.com/album/6rLTqTd9CpYuWxbVZRGPwS"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 218117,
       "name": "Fica Comigo",
       "url": "https://open.spotify.com/track/0ydIAs5h5yOkavyEf9Ewk0"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
+        "name": "A Vida \u00e9 Uma Granada",
+        "url": "https://open.spotify.com/album/2mM0SEjQaE4PnR9zpPeIrO"
+      },
+      "artists": [
+        {
+          "name": "DINGO",
+          "url": "https://open.spotify.com/artist/2sUDjU3jdpKtqxUMn0GRc4"
+        }
+      ],
+      "duration_ms": 206484,
+      "name": "A Vida \u00e9 Uma Granada",
+      "url": "https://open.spotify.com/track/6MCrJunzD53N8RzvbuzkXm"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Voc\u00ea se foi",
-        "url": "https://open.spotify.com/album/2l7rPaP9LrW5toO0XJvncX"
-      },
-      "artists": [
-        {
-          "name": "Thalicia",
-          "url": "https://open.spotify.com/artist/48GcDaOEfFSpjdQ9F7YjGz"
-        }
-      ],
-      "duration_ms": 155440,
-      "name": "Voc\u00ea se foi",
-      "url": "https://open.spotify.com/track/7FApxGdL1suhFLn8YwBryf"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
         "name": "Pe\u00e7o Pra Voc\u00ea",
         "url": "https://open.spotify.com/album/2r1KTbIu4SQDhlYX2jKSwS"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 180440,
       "name": "Pe\u00e7o Pra Voc\u00ea",
       "url": "https://open.spotify.com/track/2gHdwywG9tXQrb06feK7NP"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
+        "name": "Voc\u00ea se foi",
+        "url": "https://open.spotify.com/album/2l7rPaP9LrW5toO0XJvncX"
+      },
+      "artists": [
+        {
+          "name": "Thalicia",
+          "url": "https://open.spotify.com/artist/48GcDaOEfFSpjdQ9F7YjGz"
+        }
+      ],
+      "duration_ms": 155440,
+      "name": "Voc\u00ea se foi",
+      "url": "https://open.spotify.com/track/7FApxGdL1suhFLn8YwBryf"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Nossa Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/0HsTY9lcp48a5I36Ylm3hC"
-      },
-      "artists": [
-        {
-          "name": "Carolina Andrade",
-          "url": "https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q"
-        }
-      ],
-      "duration_ms": 160337,
-      "name": "Nossa Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/1noeediw3cEtbwx5xHA3Gz"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
         "name": "4 Da Tarde",
         "url": "https://open.spotify.com/album/3f8B8HAmQquLVXVkKuMms0"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 168293,
       "name": "4 Da Tarde",
       "url": "https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
+        "name": "Nossa Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/0HsTY9lcp48a5I36Ylm3hC"
+      },
+      "artists": [
+        {
+          "name": "Carolina Andrade",
+          "url": "https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q"
+        }
+      ],
+      "duration_ms": 160337,
+      "name": "Nossa Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/1noeediw3cEtbwx5xHA3Gz"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
+        "name": "Bate Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE"
+      },
+      "artists": [
+        {
+          "name": "Tangerim",
+          "url": "https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk"
+        }
+      ],
+      "duration_ms": 177141,
+      "name": "Bate Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
         "name": "Sabotagem",
         "url": "https://open.spotify.com/album/0SbZxcv1ZTmPx3u5whGP3N"
       },
@@ -647,18 +663,22 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Bate Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE"
+        "name": "V\u00edcio Que C\u00ea Tem Em Mim",
+        "url": "https://open.spotify.com/album/6lLhGUbpGSVUuGhlp1BHrg"
       },
       "artists": [
         {
-          "name": "Tangerim",
-          "url": "https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk"
+          "name": "Fanieh",
+          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
+        },
+        {
+          "name": "Emik\u00e1",
+          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
         }
       ],
-      "duration_ms": 177141,
-      "name": "Bate Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN"
+      "duration_ms": 162045,
+      "name": "V\u00edcio Que C\u00ea Tem Em Mim",
+      "url": "https://open.spotify.com/track/7uSJeb5UvlZlPD0eTPaz9a"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -679,22 +699,18 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "V\u00edcio Que C\u00ea Tem Em Mim",
-        "url": "https://open.spotify.com/album/6lLhGUbpGSVUuGhlp1BHrg"
+        "name": "Foi Mal",
+        "url": "https://open.spotify.com/album/1IjwOJro5gMK3gNIhbBTXD"
       },
       "artists": [
         {
-          "name": "Fanieh",
-          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
-        },
-        {
-          "name": "Emik\u00e1",
-          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
+          "name": "Pelados",
+          "url": "https://open.spotify.com/artist/3sKRMB7oFfuDicBljhWbQU"
         }
       ],
-      "duration_ms": 162045,
-      "name": "V\u00edcio Que C\u00ea Tem Em Mim",
-      "url": "https://open.spotify.com/track/7uSJeb5UvlZlPD0eTPaz9a"
+      "duration_ms": 191826,
+      "name": "foda que ela era linda",
+      "url": "https://open.spotify.com/track/1pGKEGUMYsHhEdKnE6itcZ"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -727,22 +743,6 @@
       "duration_ms": 97952,
       "name": "carta do futuro",
       "url": "https://open.spotify.com/track/2sN2yyqjF3XdJ7kErLkbyg"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
-        "name": "Foi Mal",
-        "url": "https://open.spotify.com/album/1IjwOJro5gMK3gNIhbBTXD"
-      },
-      "artists": [
-        {
-          "name": "Pelados",
-          "url": "https://open.spotify.com/artist/3sKRMB7oFfuDicBljhWbQU"
-        }
-      ],
-      "duration_ms": 191826,
-      "name": "foda que ela era linda",
-      "url": "https://open.spotify.com/track/1pGKEGUMYsHhEdKnE6itcZ"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Quartinho",
-        "url": "https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV"
-      },
-      "artists": [
-        {
-          "name": "Casali",
-          "url": "https://open.spotify.com/artist/7sPl7zsOqdfq2yrXDirwBQ"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Quartinho",
-      "url": "https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
         "name": "Ent\u00e3o Me Diz",
         "url": "https://open.spotify.com/album/5rS4Dlac0grWfVUgBUTUay"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Do Meu Lado",
-        "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
+        "name": "Quartinho",
+        "url": "https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV"
       },
       "artists": [
         {
-          "name": "Veni",
-          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
+          "name": "Casali",
+          "url": "https://open.spotify.com/artist/7sPl7zsOqdfq2yrXDirwBQ"
         }
       ],
-      "duration_ms": 151187,
-      "name": "Do Meu Lado",
-      "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
+      "duration_ms": 133000,
+      "name": "Quartinho",
+      "url": "https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -871,6 +855,22 @@
       "duration_ms": 173164,
       "name": "colinas",
       "url": "https://open.spotify.com/track/5MK7p5jh6o14ieY2oRdlBp"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
+        "name": "Do Meu Lado",
+        "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
+      },
+      "artists": [
+        {
+          "name": "Veni",
+          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
+        }
+      ],
+      "duration_ms": 151187,
+      "name": "Do Meu Lado",
+      "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -1159,22 +1159,22 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Queda livre",
-        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
+        "name": "Ma\u00e7\u00e3 do Amor",
+        "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
       },
       "artists": [
         {
-          "name": "Playmoboys",
-          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
+          "name": "G\u00f3bi",
+          "url": "https://open.spotify.com/artist/19nkGd7GShR772VW7nrhos"
         },
         {
-          "name": "Oh! I Kill",
-          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
+          "name": "Bianca Rhoden",
+          "url": "https://open.spotify.com/artist/4Oi3CXGzhIlrGInMf36RkI"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Queda livre",
-      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
+      "duration_ms": 275882,
+      "name": "Se Eu Te Ver de Novo",
+      "url": "https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -1195,22 +1195,22 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Ma\u00e7\u00e3 do Amor",
-        "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
+        "name": "Queda livre",
+        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
       },
       "artists": [
         {
-          "name": "G\u00f3bi",
-          "url": "https://open.spotify.com/artist/19nkGd7GShR772VW7nrhos"
+          "name": "Playmoboys",
+          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
         },
         {
-          "name": "Bianca Rhoden",
-          "url": "https://open.spotify.com/artist/4Oi3CXGzhIlrGInMf36RkI"
+          "name": "Oh! I Kill",
+          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
         }
       ],
-      "duration_ms": 275882,
-      "name": "Se Eu Te Ver de Novo",
-      "url": "https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c"
+      "duration_ms": 198000,
+      "name": "Queda livre",
+      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
     },
     {
       "added_at": "2022-12-23 03:47:49",

@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 3629,
+  "num_followers": 3635,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMGQ1YTIzNDNkMmFlMzc5ZmJlOWU2NjM2ZjcxNzNiMDAz",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDRkMjY0NGE4N2M4YTVhYzEwN2NmYTgxYzgzMjI1OWZi",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -431,22 +431,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 221360,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Top 25 Praise Songs: 2005",
         "url": "https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 147400,
       "name": "Shine, Jesus Shine",
       "url": "https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 221360,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
     },
     {
       "added_at": "2021-06-29 13:36:02",

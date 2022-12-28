@@ -4,7 +4,7 @@
 
 > Dance and Electronic tracks for the season <3
 
-84 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/4PrgY693se4AxDeLDvPstU)
+85 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/4PrgY693se4AxDeLDvPstU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Somewhere In My Memory \(Home Alone Theme\)](https://open.spotify.com/track/5ZfBrAjAr1TRYl9H8Ltc5p) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w) | [Somewhere In My Memory \(Home Alone Theme\)](https://open.spotify.com/album/1FXyTDgFpITzpxpdIztaVS) | 3:13 | 2021-12-17 | 2022-07-29 |
 | [Somewhere In My Memory \(Home Alone Theme\)](https://open.spotify.com/track/5myPiuaHzvdFCIp8wO6NTQ) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 3:13 | 2021-12-17 |  |
 | [Still Still Still](https://open.spotify.com/track/5KZjGGlnhMHQpVoMhbSX01) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [hOMe for the Holidays](https://open.spotify.com/album/4fNaFBB1r1HrjH9f0Btoxk) | 4:06 | 2021-12-17 | 2022-07-28 |
-| [THANK YOU MARIAH](https://open.spotify.com/track/2V2oqrlk22uH9Cjv8CICn8) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [THANK YOU MARIAH](https://open.spotify.com/album/2E33FQocDCN66wMxncziqW) | 3:30 | 2021-12-17 |  |
+| [THANK YOU MARIAH](https://open.spotify.com/track/2V2oqrlk22uH9Cjv8CICn8) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [THANK YOU MARIAH](https://open.spotify.com/album/2E33FQocDCN66wMxncziqW) | 3:30 | 2021-12-17 | 2022-12-28 |
 | [The First Noel \(feat\. Gabrielle Current\)](https://open.spotify.com/track/56iX5gfP8z8fhPiYNNysjF) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Gabrielle Current](https://open.spotify.com/artist/7efkoQb7dW8884GCnykYKW) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:53 | 2021-12-17 | 2022-07-28 |
 | [This Christmas Night \(feat\. Dia Frampton\)](https://open.spotify.com/track/0ce4QrpcsOWkMpkami5Ts0) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:19 | 2021-12-17 | 2022-07-27 |
 | [Tropical Holiday](https://open.spotify.com/track/7lRGYkzXuyIX0rM4ADWcSu) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [Hoodboi](https://open.spotify.com/artist/1521R3ksLyQyFeqdtaSZUZ) | [A Very Decent Christmas 5](https://open.spotify.com/album/69Sc4UHlIvUwXORZ01gEaz) | 4:01 | 2021-12-17 | 2022-07-29 |
@@ -88,6 +88,7 @@
 | [Whim](https://open.spotify.com/track/6PAWxLsMLFV7yNinpK6eJY) | [Ghost of Christmas](https://open.spotify.com/artist/7Akv2Ot7bWY2ZtJSlLevfD) | [The Difference](https://open.spotify.com/album/11ROGuJ5Nl9z7OEM4Ojs4S) | 3:38 | 2021-12-17 | 2022-07-29 |
 | [White Christmas \- Original Mix](https://open.spotify.com/track/7mIf5heujHBQPOi6cnDDBF) | [Dinka](https://open.spotify.com/artist/3jEWwtiifaWzV7ZcRduuxU) | [Christmas Dance, Vol\. 3](https://open.spotify.com/album/1cUVJECgYRPdzU8GtSJIsB) | 6:08 | 2021-12-17 | 2022-07-28 |
 | [Winter Wonderland](https://open.spotify.com/track/1yypsnzEnQZTniPoVFzGb9) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:14 | 2021-12-17 | 2022-10-23 |
+| [Winter Wonderland](https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Winter Wonderland](https://open.spotify.com/album/1gOfnXRPhogf3nAiM8EGfr) | 2:44 | 2022-12-16 |  |
 | [Winter Wonderland ^Bsiide](https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Winter Wonderland ^Bsiide](https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a) | 2:58 | 2021-12-17 |  |
 | [Wonderful Dream \(Holidays Are Coming\)](https://open.spotify.com/track/4GQr5He2pvm4UKc63esd2a) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Emmie Lee](https://open.spotify.com/artist/4fFlpk8hS56rPSExrMiiLW) | [Wonderful Dream \(Holidays Are Coming\)](https://open.spotify.com/album/1cErEnoh23Dw8bUjbxu6WL) | 2:53 | 2021-12-17 | 2022-07-29 |
 | [Wonderful Dream \(Holidays Are Coming\)](https://open.spotify.com/track/6NcTdDmYsOPE8opSKJF5en) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Emmie Lee](https://open.spotify.com/artist/4fFlpk8hS56rPSExrMiiLW) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:53 | 2021-12-17 |  |

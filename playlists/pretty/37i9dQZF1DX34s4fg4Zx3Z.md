@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Hay nhất từ Fresh Finds Vietnam 2022\. Ảnh bìa: Winno
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,652 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,663 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 79 | [Ngại Ngùng](https://open.spotify.com/track/26c7o6WHqYWBSvL8kJ1z0J) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ), [MC Wiz](https://open.spotify.com/artist/4sukkkUXTLXloBgZPRUEad) | [Ngại Ngùng](https://open.spotify.com/album/2KJmh3930S2eDbuJT42HQs) | 3:00 |
 | 80 | [daybyday](https://open.spotify.com/track/4PAZ3N5yObypeVI7KmHZZI) | [SIVAN](https://open.spotify.com/artist/0wJWawRvX8K9joiK9QqkX5) | [daybyday](https://open.spotify.com/album/3L3XlPYtzEGyT1MGPY2okb) | 3:25 |
 | 81 | [Cold kid](https://open.spotify.com/track/1uv9uA1f4MTcS43dIbr3us) | [Bennn](https://open.spotify.com/artist/29xskXsdUlVZFODDTeBgoS), [CapsCtrl](https://open.spotify.com/artist/7wN7vb40xrBRCvPEfeyNy5) | [Cold kid](https://open.spotify.com/album/6VNXXCiEuRA5AtMKseGu70) | 3:15 |
-| 82 | [Du Ca Khúc](https://open.spotify.com/track/3Zhj3xciEukUSbRwvMowSs) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5) | [Du Ca Khúc](https://open.spotify.com/album/33PgsFP4fN6zHyrCPOA9vP) | 1:58 |
+| 82 | [Du Ca Khúc](https://open.spotify.com/track/3Zhj3xciEukUSbRwvMowSs) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Du Ca Khúc](https://open.spotify.com/album/33PgsFP4fN6zHyrCPOA9vP) | 1:58 |
 | 83 | [biet iu 1 nguoi](https://open.spotify.com/track/1g81KcA7tjoHug3WE9GhC5) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB) | [biet iu 1 nguoi](https://open.spotify.com/album/7uKuy9aMQmqvQkpVx8927F) | 3:00 |
 | 84 | [Sau Ngày Chia Tay](https://open.spotify.com/track/235Tyllxkn3Uqawvo8O7hj) | [Luke D](https://open.spotify.com/artist/6Q8rdOp4MwNFF18K75sMzZ) | [Sau Ngày Chia Tay](https://open.spotify.com/album/2OJ8s6PgfqQMraoZxd59ZK) | 4:01 |
 | 85 | [Từng Là Chúng Ta](https://open.spotify.com/track/73ikMsMoQ9yy0ex2ncCMxC) | [Ngọc Dolil](https://open.spotify.com/artist/6VLN4hTrGOZ5Le1TVTwDTg) | [Từng Là Chúng Ta](https://open.spotify.com/album/3ge04XkhedMdUOpMWsOwMk) | 3:46 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Rito Riba
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,001 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,116 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Heer Ranjha \- Reprise](https://open.spotify.com/track/1bqUw1KWD8e9SiZx9vXTNh) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Heer Ranjha \- Reprise](https://open.spotify.com/album/3SgxfvjAmlXnHYm7Ej3ix7) | 3:55 |
+| 1 | [Heer Ranjha \(Reprise\)](https://open.spotify.com/track/1bqUw1KWD8e9SiZx9vXTNh) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Heer Ranjha \(Reprise\)](https://open.spotify.com/album/3SgxfvjAmlXnHYm7Ej3ix7) | 3:55 |
 | 2 | [usko sab pata hai](https://open.spotify.com/track/2e02cHciVAiubNVpNYiLCO) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [usko sab pata hai](https://open.spotify.com/album/3IQPy3WlyofK9LjmvUEigT) | 2:37 |
 | 3 | [Barsan Lagi](https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Barsan Lagi](https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4) | 3:39 |
 | 4 | [Ek Baar Keh Do](https://open.spotify.com/track/6P4W1WnJmspwcoj9g49mHL) | [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Ek Baar Keh Do](https://open.spotify.com/album/15gs9OaQ0JXOrkDEgbHOVC) | 3:44 |

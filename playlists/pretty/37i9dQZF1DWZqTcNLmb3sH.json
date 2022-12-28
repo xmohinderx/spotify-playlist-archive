@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Vedha",
-  "num_followers": 44464,
+  "num_followers": 44528,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjA1ODcwNywwMDAwMDAwMDA5NGNmNDgwYmE0MDc4YmE2NGIyZDNjZTljMjAyOThl",
+  "snapshot_id": "MTY3MjExOTQ0MiwwMDAwMDAwMDNmMzY4NjdhNjk4YjNmNjVlODUxN2VlNzk1OWQxYjE4",
   "tracks": [
     {
       "added_at": "2022-12-11 14:28:49",
@@ -139,6 +139,50 @@
       "duration_ms": 181104,
       "name": "Nodu Nodu (From \"Baby Missing\")",
       "url": "https://open.spotify.com/track/1q7AWiwBPhWOyYihmf7zCH"
+    },
+    {
+      "added_at": "2022-12-27 05:35:59",
+      "album": {
+        "name": "Chinnumari (From \"Vedha\")",
+        "url": "https://open.spotify.com/album/7MR5VGVzYoQZtI7spc3uWw"
+      },
+      "artists": [
+        {
+          "name": "Keerthan Holla",
+          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
+        },
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "Chinnumari (From \"Vedha\")",
+      "url": "https://open.spotify.com/track/7MBiHHCBLA40Ix05D97bpM"
+    },
+    {
+      "added_at": "2022-12-27 05:37:22",
+      "album": {
+        "name": "Rangaada Ragale (From \"Once Upon A Time In Jamaaligudda\")",
+        "url": "https://open.spotify.com/album/4eM4jnU46TcRdzyfONVPOE"
+      },
+      "artists": [
+        {
+          "name": "J. Anoop Seelin",
+          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Harshika Devanathan",
+          "url": "https://open.spotify.com/artist/7BE4DofqukmR1I2CH7sTl3"
+        }
+      ],
+      "duration_ms": 261305,
+      "name": "Rangaada Ragale",
+      "url": "https://open.spotify.com/track/225t3bc1FUxlIib8GlI7P1"
     },
     {
       "added_at": "2022-12-18 13:34:15",

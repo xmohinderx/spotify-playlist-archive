@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Y50OtuhLO.md) - [plain]
 
 ### [The Glow Up](https://open.spotify.com/playlist/37i9dQZF1DWZ0Y50OtuhLO)
 
-> The soundtrack to being to best version of you\. Curated by Ana & Saff \#NYE2022
+> Ana & Saff bring you the soundtrack to being to best version of you! \#NYE2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,496 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,514 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Y50OtuhLO.md) - [plain]
 | 49 | [On My Mind](https://open.spotify.com/track/27alispkWlF2rkQdjVmEfz) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [On My Mind](https://open.spotify.com/album/27sZmJ1EGInKWupuQSJBAq) | 2:45 |
 | 50 | [Still Sleepless](https://open.spotify.com/track/7iQt37BiWTwLDdjeQdTa5P) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Still Sleepless \(Ekko & Sidetrack Remix\)](https://open.spotify.com/album/3B5O9docVLoUE5SNqf2dNj) | 2:42 |
 
-Snapshot ID: `MTY3MTg0MDAwMCwwMDAwMDAwMDZkZGVhZGJiMTNiNzQ4ZjdlMTdiYWVmMjkyMDI3OTYw`
+Snapshot ID: `MTY3MjE4NTg0OCwwMDAwMDAwMDFhY2NjMjljMmUwN2QyMmI2M2I4YWMzY2NiZTA1M2Y4`

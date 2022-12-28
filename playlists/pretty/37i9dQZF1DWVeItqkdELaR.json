@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora do ver\u00e3o.",
-  "num_followers": 85593,
+  "num_followers": 85623,
   "original_name": "Ver\u00e3o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDJiMmZhYmE2ODE5ZDQwMDhmYmQ4OGQyNzJjNjA4ZmVm",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMGY4MDFlMmE4ZTFhNjBkYmUxN2Q1ZTNlNzE3YjRiMGUy",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "A Um Beijo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/57DH7MBymmvWBf5yBMKeSd"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        },
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "duration_ms": 156164,
+      "name": "A Um Beijo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4PbwSgOB9azMBS0eGO2tX7"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Trava na Pose, Chama no Zoom, Da um Close",
         "url": "https://open.spotify.com/album/5FY0hhzRFgldlHh2U8stHw"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 214270,
       "name": "Trava na Pose, Chama no Zoom, Da um Close (feat. Mc Rennan)",
       "url": "https://open.spotify.com/track/5aqmWrDgnyQ2OVn6UgBko3"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "A Um Beijo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/57DH7MBymmvWBf5yBMKeSd"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        },
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        }
-      ],
-      "duration_ms": 156164,
-      "name": "A Um Beijo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4PbwSgOB9azMBS0eGO2tX7"
     },
     {
       "added_at": "2022-10-13 23:00:00",

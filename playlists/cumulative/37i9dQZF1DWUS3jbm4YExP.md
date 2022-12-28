@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-479 songs - 1 day 11 hr 28 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
+480 songs - 1 day 11 hr 32 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [La vie c'est bon](https://open.spotify.com/track/4FTKlJ3fxAKrBxHAni5IIo) | [Vaudou Game](https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz) | [Kidayu](https://open.spotify.com/album/76PW5sf4kKQR5jCZ05gilM) | 3:32 | 2021-10-06 | 2022-04-21 |
 | [La Ñapa](https://open.spotify.com/track/15A7KFrf9RKpCDUWGGuImI) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [La Ñapa](https://open.spotify.com/album/3irpaaj5nCOgJSZe56PNWt) | 4:45 | 2022-04-26 | 2022-07-29 |
 | [Lambada de Oceania, Africa y America \(eran un solo continente\)](https://open.spotify.com/track/3FiCLbJj5E7jBDo87OAElh) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Infame Golpazo En Keroxen](https://open.spotify.com/album/5o1rY4kJ3NlsUwwBzRljM4) | 5:22 | 2021-10-06 | 2022-07-14 |
-| [Las Panteras](https://open.spotify.com/track/78wov1rtJdf7ZnPNNXBDWY) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:52 | 2022-04-26 |  |
+| [Las Panteras](https://open.spotify.com/track/78wov1rtJdf7ZnPNNXBDWY) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:52 | 2022-04-26 | 2022-12-28 |
 | [Law Laffeina El Ard \- Habibi Funk 020](https://open.spotify.com/track/7aYyF8mi6LYqms6JdcREDS) | [Maha](https://open.spotify.com/artist/18LWSRqUjdqlSaAD79HS4H) | [Law Laffeina El Ard \(Habibi Funk 020\)](https://open.spotify.com/album/7vtL88JlUZ72Q5ekJ4MLsx) | 6:16 | 2022-09-03 | 2022-11-20 |
 | [Layla, Pt\. 1](https://open.spotify.com/track/1fJWdk2kxrtkdlPFyVRqIc) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e) | [Layla](https://open.spotify.com/album/33jRRJHoKl6Fes91vgdXAz) | 3:14 | 2021-10-06 | 2022-05-29 |
 | [Lazalypso](https://open.spotify.com/track/4mtYQUCB0AuUriy4Sv1nri) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/0y7GV4jRQOaWiN4sH0SPW5) | 3:33 | 2021-10-06 | 2022-04-14 |
@@ -277,6 +277,7 @@
 | [Make It Right](https://open.spotify.com/track/0KjwYVDuTHrfN36XSWEQc5) | [Johnny!](https://open.spotify.com/artist/0qdofS3PCyg0WmhycmvnYk) | [Make It Right](https://open.spotify.com/album/1d99bHzvTbXCiTyqyuWMK8) | 4:00 | 2021-10-06 | 2022-07-18 |
 | [Makeda](https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO) | [Unconscious Collective](https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL) | 5:53 | 2021-10-06 | 2022-07-29 |
 | [Makom Ma Bobe](https://open.spotify.com/track/6f4DXvuDxaFn0cjkKJzrsr) | [Jeannette Ndiaye](https://open.spotify.com/artist/2trDKGvhEsWjDTHlELK7Mw) | [Makom Ma Bobe](https://open.spotify.com/album/5vg3VkyG1kDVrAq0owk2bn) | 4:27 | 2021-10-06 | 2022-07-13 |
+| [Maktoub Aleina](https://open.spotify.com/track/1SvhjcZt9HTr7MpeAwaskE) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 4:07 | 2022-01-14 |  |
 | [Maktoub Aleina \(Habibi Funk 018\)](https://open.spotify.com/track/0GlDM1s0mLBrnV3BcF59EW) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Maktoub Aleina \(Habibi Funk 018\)](https://open.spotify.com/album/4PUXReU8jUWCkcge6pQKtk) | 4:07 | 2022-01-14 | 2022-07-21 |
 | [Mam Yinne Wa](https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM) | [Alogte Oho & His Sounds of Joy](https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1) | [Mam Yinne Wa](https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T) | 3:55 | 2021-10-06 | 2022-07-28 |
 | [Mama \- Déni\-Shain & Mister Francky Remix](https://open.spotify.com/track/0LoVuHRdOFBhT61crHWyIo) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7), [Déni\-Shain](https://open.spotify.com/artist/2I3JncUKUZx2s0SqB4PcKr), [Mister Francky](https://open.spotify.com/artist/4kXQgX9t5ijlfWnybY6SW5) | [Mama](https://open.spotify.com/album/1ZvCj7rr10to6fz4dzGCgv) | 5:04 | 2021-10-06 | 2022-04-21 |

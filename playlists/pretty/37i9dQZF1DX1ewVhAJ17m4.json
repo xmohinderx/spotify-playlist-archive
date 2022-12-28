@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: blink-182",
-  "num_followers": 537943,
+  "num_followers": 538030,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMGYwYzljYmM4Y2QyZmQ4ZTdjMGVlZDg3YzMwY2JlOWQ4",
+  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMGI5ZDI2ODFhYmNlMmI4OGJlNzc3NmY0ZWJkZjZhMTM1",
   "tracks": [
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1247,22 +1247,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "DOUBTS",
-        "url": "https://open.spotify.com/album/0pcdbVMc06CZpJOoPpB55Z"
+        "name": "Happy Never After",
+        "url": "https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL"
       },
       "artists": [
         {
-          "name": "Fran Roz",
-          "url": "https://open.spotify.com/artist/5CEBgPIQYvgECBicrmdsSY"
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
         },
         {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
         }
       ],
-      "duration_ms": 174657,
-      "name": "DOUBTS (feat. Ryan Oakes)",
-      "url": "https://open.spotify.com/track/4Oqkl7HhomsKtZ0uLmN1H7"
+      "duration_ms": 175172,
+      "name": "Cursive",
+      "url": "https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "DOUBTS",
+        "url": "https://open.spotify.com/album/0pcdbVMc06CZpJOoPpB55Z"
+      },
+      "artists": [
+        {
+          "name": "Fran Roz",
+          "url": "https://open.spotify.com/artist/5CEBgPIQYvgECBicrmdsSY"
+        },
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "duration_ms": 174657,
+      "name": "DOUBTS (feat. Ryan Oakes)",
+      "url": "https://open.spotify.com/track/4Oqkl7HhomsKtZ0uLmN1H7"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Sunsign",
         "url": "https://open.spotify.com/album/5LJjM6vDocHzTEZvT2LQNf"
       },
@@ -1299,6 +1319,26 @@
       "duration_ms": 227507,
       "name": "Sunsign",
       "url": "https://open.spotify.com/track/2dx61vuBfDtGSoLtTYohAJ"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Six Feet Under",
+        "url": "https://open.spotify.com/album/4C8d8WgzPnrxZyJdlNgzHo"
+      },
+      "artists": [
+        {
+          "name": "Ty Arena$",
+          "url": "https://open.spotify.com/artist/08oF6bUJ3xPBr6XQsJdxpI"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "duration_ms": 133124,
+      "name": "Six Feet Under",
+      "url": "https://open.spotify.com/track/54BhHvjtrz2eqGomjZK9mg"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1331,46 +1371,6 @@
       "duration_ms": 148897,
       "name": "u look stupid",
       "url": "https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "Six Feet Under",
-        "url": "https://open.spotify.com/album/4C8d8WgzPnrxZyJdlNgzHo"
-      },
-      "artists": [
-        {
-          "name": "Ty Arena$",
-          "url": "https://open.spotify.com/artist/08oF6bUJ3xPBr6XQsJdxpI"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
-        }
-      ],
-      "duration_ms": 133124,
-      "name": "Six Feet Under",
-      "url": "https://open.spotify.com/track/54BhHvjtrz2eqGomjZK9mg"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "Happy Never After",
-        "url": "https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
-        }
-      ],
-      "duration_ms": 175172,
-      "name": "Cursive",
-      "url": "https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H"
     },
     {
       "added_at": "2022-11-10 17:53:01",

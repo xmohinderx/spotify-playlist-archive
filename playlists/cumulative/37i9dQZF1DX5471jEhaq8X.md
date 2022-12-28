@@ -4,7 +4,7 @@
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover: El de La Guitarra & Polo Gonzalez
 
-360 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
+361 songs - 18 hr 21 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,8 @@
 | [San Juditas](https://open.spotify.com/track/5WqylHMUJGQ1Me46J2trNh) | [Grupo Nuevo Equipo](https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl) | [San Juditas](https://open.spotify.com/album/69h4MhqmusnrGzuaxIG5Nx) | 3:01 | 2022-07-22 | 2022-08-27 |
 | [Sangre Avendaño](https://open.spotify.com/track/6K9JdTjaP3A3yLP70pai9J) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Sangre Avendaño](https://open.spotify.com/album/3Yt8oT3W1Efx00jW3hi1JL) | 2:47 | 2022-05-13 |  |
 | [Se Divisan](https://open.spotify.com/track/3SFPkPGIGcCUXpUVUdgx6z) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Se Divisan](https://open.spotify.com/album/7iwQC4YEVZ2BbSyGNArJpQ) | 2:40 | 2022-05-13 |  |
-| [Se Pistearon Los Jefes](https://open.spotify.com/track/72nutc9x8SS0jlYjpial3Z) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Corridos de Clase, Vol.1](https://open.spotify.com/album/3lT7LKNoatLlhcio83vUm2) | 3:03 | 2022-12-23 |  |
+| [Se Pistearon Los Jefes](https://open.spotify.com/track/1zRVLXcyO09rXgIRokSuWG) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Corridos de Clase, Vol.1](https://open.spotify.com/album/3WU7CF909gg8zaUegnLAQO) | 3:03 | 2022-12-23 |  |
+| [Se Pistearon Los Jefes](https://open.spotify.com/track/72nutc9x8SS0jlYjpial3Z) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Corridos de Clase, Vol.1](https://open.spotify.com/album/3lT7LKNoatLlhcio83vUm2) | 3:03 | 2022-12-23 | 2022-12-28 |
 | [Se Rumora](https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:23 | 2022-11-11 |  |
 | [Seguimos En El Refuego](https://open.spotify.com/track/6YZNJmVJafiS9dKdf9ZCKa) | [El De La H](https://open.spotify.com/artist/5JRFF4doyWWw1oWC4th6O1) | [Seguimos En El Refuego](https://open.spotify.com/album/0XAFLJnNTXtI3G7jyPxKzD) | 2:49 | 2022-06-10 | 2022-07-25 |
 | [Seguimos Más Fuertes](https://open.spotify.com/track/64fKfz7LgBeIUrPBhLrtj7) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Seguimos Más Fuertes](https://open.spotify.com/album/6xliwTuuud43NH2EhqxXrP) | 3:20 | 2022-05-13 |  |

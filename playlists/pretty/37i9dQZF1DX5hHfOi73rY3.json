@@ -1,12 +1,12 @@
 {
   "description": "Classic party anthems from the club to your ears!",
-  "num_followers": 243658,
+  "num_followers": 243727,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzI3ODQzNSwwMDAwMDAwMGFmNTg2NGU5OWZiNDQ3ZDkzYjdlMjM0MjBkMDI0Zjc2",
+  "snapshot_id": "MTY0MzI3ODQzNSwwMDAwMDAwMGU0YWZhZDNmYzY4MTQwOTVkNTc1NzdmYWE4ZmNjZWVh",
   "tracks": [
     {
       "added_at": "2020-11-06 16:59:04",
@@ -439,22 +439,6 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "Be Sharp Say Nowt",
-        "url": "https://open.spotify.com/album/1Wx6VPrYYhN56cBE99izlc"
-      },
-      "artists": [
-        {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "Be Sharp Say Nowt",
-      "url": "https://open.spotify.com/track/6TvYtabYoc5plSB9kJpgOs"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
         "name": "Techno Disco Tool (Radio Edit)",
         "url": "https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 194307,
       "name": "Techno Disco Tool - Radio Edit",
       "url": "https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
+        "name": "Be Sharp Say Nowt",
+        "url": "https://open.spotify.com/album/1Wx6VPrYYhN56cBE99izlc"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Be Sharp Say Nowt",
+      "url": "https://open.spotify.com/track/6TvYtabYoc5plSB9kJpgOs"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -547,22 +547,6 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "Chunky",
-        "url": "https://open.spotify.com/album/79oalwUgqtwuzWPNYDMEEH"
-      },
-      "artists": [
-        {
-          "name": "Format:B",
-          "url": "https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux"
-        }
-      ],
-      "duration_ms": 158114,
-      "name": "Chunky",
-      "url": "https://open.spotify.com/track/5SB73InpxuEQ20qEWhOQFV"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
         "name": "Deep Down Low",
         "url": "https://open.spotify.com/album/67bF4s11NHmoi7cnwJcEMM"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 190476,
       "name": "Deep Down Low",
       "url": "https://open.spotify.com/track/46rZgRYU1H5Xnv0n75OGis"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
+        "name": "Chunky",
+        "url": "https://open.spotify.com/album/79oalwUgqtwuzWPNYDMEEH"
+      },
+      "artists": [
+        {
+          "name": "Format:B",
+          "url": "https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux"
+        }
+      ],
+      "duration_ms": 158114,
+      "name": "Chunky",
+      "url": "https://open.spotify.com/track/5SB73InpxuEQ20qEWhOQFV"
     },
     {
       "added_at": "2020-11-06 16:59:04",

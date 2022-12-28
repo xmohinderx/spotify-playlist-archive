@@ -1,12 +1,12 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 513845,
+  "num_followers": 513936,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE4MjUzNywwMDAwMDAwMDkyMWNkMjc1M2EzMTdmMjU2YjUxMGI3YmVlOTNmMjFk",
+  "snapshot_id": "MTY3MTE4MjUzNywwMDAwMDAwMDhhYjRkOTQ5YjQwODAwZjFiNDA2NTBjOGQ1ZTA3OGRk",
   "tracks": [
     {
       "added_at": "2022-12-16 09:22:17",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-12-16 09:22:17",
       "album": {
+        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
+        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Whole Lot of Shakin' Going On",
+      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
+    },
+    {
+      "added_at": "2022-12-16 09:22:17",
+      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 132970,
       "name": "Get Rhythm",
       "url": "https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk"
-    },
-    {
-      "added_at": "2022-12-16 09:22:17",
-      "album": {
-        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
-        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Whole Lot of Shakin' Going On",
-      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
     },
     {
       "added_at": "2022-12-16 09:22:17",
@@ -703,18 +703,18 @@
     {
       "added_at": "2022-12-16 09:22:17",
       "album": {
-        "name": "Rockin' the Night Away",
-        "url": "https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
       "artists": [
         {
-          "name": "The Jetaways",
-          "url": "https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy"
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
         }
       ],
-      "duration_ms": 173866,
-      "name": "Rockin' the Night Away",
-      "url": "https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs"
+      "duration_ms": 138840,
+      "name": "Hello Mary Lou",
+      "url": "https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z"
     },
     {
       "added_at": "2022-12-16 09:22:17",
@@ -735,34 +735,18 @@
     {
       "added_at": "2022-12-16 09:22:17",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
+        "name": "Rockin' the Night Away",
+        "url": "https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ"
       },
       "artists": [
         {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+          "name": "The Jetaways",
+          "url": "https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy"
         }
       ],
-      "duration_ms": 138840,
-      "name": "Hello Mary Lou",
-      "url": "https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z"
-    },
-    {
-      "added_at": "2022-12-16 09:22:17",
-      "album": {
-        "name": "Gene Vincent And The Blue Caps",
-        "url": "https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk"
-      },
-      "artists": [
-        {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
-        }
-      ],
-      "duration_ms": 135373,
-      "name": "Hold Me, Hug Me, Rock Me",
-      "url": "https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd"
+      "duration_ms": 173866,
+      "name": "Rockin' the Night Away",
+      "url": "https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs"
     },
     {
       "added_at": "2022-12-16 09:22:17",
@@ -779,6 +763,22 @@
       "duration_ms": 139173,
       "name": "Once More",
       "url": "https://open.spotify.com/track/6s3WmrBER7k2TVM1wvue3i"
+    },
+    {
+      "added_at": "2022-12-16 09:22:17",
+      "album": {
+        "name": "Gene Vincent And The Blue Caps",
+        "url": "https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+        }
+      ],
+      "duration_ms": 135373,
+      "name": "Hold Me, Hug Me, Rock Me",
+      "url": "https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd"
     },
     {
       "added_at": "2022-12-16 09:22:17",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-12-16 09:22:17",
       "album": {
+        "name": "Today, Tomorrow And Forever - 20 Classics",
+        "url": "https://open.spotify.com/album/0Fy5ifXfJvQhICrKpPNp1V"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "duration_ms": 141893,
+      "name": "I Got A Lot Of Rhythm In My Soul",
+      "url": "https://open.spotify.com/track/4ZwNjuuUxTMBjRtGocNJCQ"
+    },
+    {
+      "added_at": "2022-12-16 09:22:17",
+      "album": {
         "name": "Rock & Roll Is Everywhere",
         "url": "https://open.spotify.com/album/74UQcWKIYIRoZHGjczEXvU"
       },
@@ -959,26 +975,6 @@
       "duration_ms": 137813,
       "name": "Fire Bug",
       "url": "https://open.spotify.com/track/7r5V7GyOhmcHWAv5D9YYPn"
-    },
-    {
-      "added_at": "2022-12-16 09:22:17",
-      "album": {
-        "name": "Our Own Way Of Rockin'",
-        "url": "https://open.spotify.com/album/3Tig4FmFOmfxWrwwQhN1DO"
-      },
-      "artists": [
-        {
-          "name": "Crazy Cavan",
-          "url": "https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv"
-        },
-        {
-          "name": "The Rhythm Rockers",
-          "url": "https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "My Little Sister Gotta Motorbike",
-      "url": "https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY"
     }
   ],
   "unique_name": "Rockabilly Mania",

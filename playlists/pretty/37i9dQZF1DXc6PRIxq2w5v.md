@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,397 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,484 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 50 | [BABY](https://open.spotify.com/track/2BRwBwyJfVjZcDW5LJ0Uow) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI) | [BABY](https://open.spotify.com/album/4dzKbTq1stnawn67OPO024) | 2:27 |
 | 51 | [Eu Sou Iluminado](https://open.spotify.com/track/5ypnmxsJvnyiLtqDFv7nbO) | [Mc Miller](https://open.spotify.com/artist/3lPqoloT6yQMReUyZIkes6) | [Iluminado](https://open.spotify.com/album/6HQv3LN7oBn7irJL2GZ7kd) | 3:53 |
 | 52 | [Se Cair](https://open.spotify.com/track/6qx9NzaqtRvYrcJ0ojAZzh) | [Bruno Coutinho](https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO), [Gui Souz MSC](https://open.spotify.com/artist/4JsEcRRMcKUPDgIeUuEvJ9) | [Se Cair](https://open.spotify.com/album/7M8bKWCmVtrUK3hrk3NSSQ) | 3:36 |
-| 53 | [Efêmero Atemporal](https://open.spotify.com/track/49e4mRatiyMDsf50fGLlVA) | [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r) | [Efêmero Atemporal](https://open.spotify.com/album/6DGbktchq40Qaa6vkGc4SV) | 3:33 |
-| 54 | [Minha Canção](https://open.spotify.com/track/0WkMzrS1PnaVsqFz7rMdwB) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Minha Canção](https://open.spotify.com/album/7Htbb53NXhxmvCyPhuFOmU) | 4:40 |
+| 53 | [Minha Canção](https://open.spotify.com/track/0WkMzrS1PnaVsqFz7rMdwB) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Minha Canção](https://open.spotify.com/album/7Htbb53NXhxmvCyPhuFOmU) | 4:40 |
+| 54 | [Efêmero Atemporal](https://open.spotify.com/track/49e4mRatiyMDsf50fGLlVA) | [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r) | [Efêmero Atemporal](https://open.spotify.com/album/6DGbktchq40Qaa6vkGc4SV) | 3:33 |
 | 55 | [Vale da Sombra](https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Vale da Sombra](https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF) | 3:12 |
 | 56 | [Esperança para o Perdido](https://open.spotify.com/track/4UAfUuqFcfimpz2zyhkXPP) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX), [P.N.D.K](https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw), [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Esperança para o Perdido](https://open.spotify.com/album/4ooKIy2sW48ccw5QMIh92Q) | 3:50 |
 | 57 | [CQC](https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [CQC](https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC) | 3:01 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 59 | [Por Um](https://open.spotify.com/track/1VVorN6krkHg0M2RhOd769) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [Samuel Shikoba](https://open.spotify.com/artist/4GODihF5IXcVquZ5qq5S5r) | [Por Um](https://open.spotify.com/album/6RFgNle0IylqKa6wfSXqIl) | 3:13 |
 | 60 | [Deserto](https://open.spotify.com/track/4RAeUonVKVHJVosv2j0eyU) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB) | [Deserto](https://open.spotify.com/album/0MF14iNYICi1Lkn7yZYlZh) | 3:29 |
 | 61 | [Possivel É](https://open.spotify.com/track/7Gn9M2Gt4wcjzW9Se0esmO) | [KJ](https://open.spotify.com/artist/2C8xiQfIDWO4nKxfMZoL2c), [DJ Alle Mark](https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ) | [Possivel É](https://open.spotify.com/album/0Bz5jyWKCtu3bcQQF3AoBo) | 4:21 |
-| 62 | [O Preço](https://open.spotify.com/track/75ElCpWWG587b1qVhW4uun) | [C\. Braga](https://open.spotify.com/artist/5vatyKN28NkojtJkfg9fTp), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [O Preço](https://open.spotify.com/album/4dpgxFCXibZZsHqZhc07yU) | 3:22 |
-| 63 | [LEVANTAR](https://open.spotify.com/track/2JMgMgcS4H1jAWxoP19vy0) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [Caíque Ribeiro](https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7) | [Levantar](https://open.spotify.com/album/1R5eqiltxoCCSUpr3VuigR) | 2:47 |
+| 62 | [LEVANTAR](https://open.spotify.com/track/2JMgMgcS4H1jAWxoP19vy0) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [Caíque Ribeiro](https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7) | [Levantar](https://open.spotify.com/album/1R5eqiltxoCCSUpr3VuigR) | 2:47 |
+| 63 | [O Preço](https://open.spotify.com/track/75ElCpWWG587b1qVhW4uun) | [C\. Braga](https://open.spotify.com/artist/5vatyKN28NkojtJkfg9fTp), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [O Preço](https://open.spotify.com/album/4dpgxFCXibZZsHqZhc07yU) | 3:22 |
 | 64 | [Nome Sobre Todo Nome](https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Nome Sobre Todo Nome](https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj) | 2:13 |
 | 65 | [Não Temerei](https://open.spotify.com/track/14X9dYqmcMRLBr0fr2aUxC) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Não Temerei](https://open.spotify.com/album/4KFGtrAb28swJXHPfQ8j1T) | 2:42 |
 | 66 | [Aliança](https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Fala pra eles que é o Felipin](https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB) | 2:59 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 69 | [Palavras Tem Poder](https://open.spotify.com/track/1dUF1jMNL4deMXvQ32aMWO) | [BB Rocha](https://open.spotify.com/artist/0EZQjfQIj9nhFgTFYHvXCp) | [Palavras Tem Poder](https://open.spotify.com/album/2hytBe2NaIGE6pmBjxOJWh) | 1:45 |
 | 70 | [Vivo pela Fé](https://open.spotify.com/track/0TMDB1AaYHs9oPhIh3KRQR) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Kael](https://open.spotify.com/artist/2REBelsnF968ZaU1llcjiN), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Vivo pela Fé](https://open.spotify.com/album/7mII8uafIEJ5gzObNp2EZ3) | 2:17 |
 
-Snapshot ID: `MTY3MDU2Njk0MywwMDAwMDAwMDgzYjdhNDA2MTVhMzE4ODJlZWVkNzlkNzg5ZGE0NWY4`
+Snapshot ID: `MTY3MDU2Njk0MywwMDAwMDAwMDBlNTg2MWM4ZWNlN2IxMWRhYzZmNTM2ZjcyNWM1Mzg3`

@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  Limoblaze
 
-180 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/3GMEBhg58xE6pI1nu7uZoh)
+181 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/3GMEBhg58xE6pI1nu7uZoh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Fake It](https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Fake It](https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN) | 3:06 | 2022-06-01 | 2022-09-03 |
 | [Father Forgive Us](https://open.spotify.com/track/7ATNyYHU8764aIFAA6aJ14) | [Reconcile](https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm), [Og Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2), [D Brooks the President](https://open.spotify.com/artist/1AOGtSA48BMCuUH2XYWchk) | [Father Forgive Us](https://open.spotify.com/album/5UdkDwxRkETEh4yVrbuCS3) | 3:39 | 2022-07-17 | 2022-09-03 |
 | [Ficky Ficky](https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Ficky Ficky](https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF) | 1:44 | 2022-12-16 |  |
+| [First Love](https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K) | [Christ Encounter](https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf) | [First Love](https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ) | 4:08 | 2022-12-16 |  |
 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 | 2022-07-17 | 2022-10-01 |
 | [Give Him Praise](https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [Give Him Praise](https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy) | 2:00 | 2022-12-16 |  |
 | [Glory](https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Glory](https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC) | 2:30 | 2022-06-01 | 2022-07-18 |
@@ -104,7 +105,7 @@
 | [MAKE IT MAKE SENSE](https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [MAKE IT MAKE SENSE](https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5) | 2:45 | 2022-06-01 | 2022-07-18 |
 | [Mine](https://open.spotify.com/track/0BdjCtXaFIHpy9Yy4WcWy8) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [Mine](https://open.spotify.com/album/5md45mofvGSgVFUS15ePkN) | 3:23 | 2022-09-30 |  |
 | [Miracles \(feat\. Pastor Mike Jr.\)](https://open.spotify.com/track/5fATOdcoblNwc2cW4DTUok) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Miracles \(feat\. Pastor Mike Jr.\)](https://open.spotify.com/album/33sy8ZsbmMJYER9v5Yw3xD) | 5:58 | 2022-09-30 |  |
-| [Motive](https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs) | [Motive](https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH) | 2:42 | 2022-06-01 |  |
+| [Motive](https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs) | [Motive](https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH) | 2:42 | 2022-06-01 | 2022-12-28 |
 | [My Portion](https://open.spotify.com/track/0YnO0NlWKxEKHeOhfKARQx) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [My Portion](https://open.spotify.com/album/6C58XmJvIcml1Wgez0Ad8C) | 4:10 | 2022-02-18 | 2022-06-01 |
 | [New](https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [New](https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE) | 3:15 | 2022-06-01 | 2022-10-01 |
 | [New Me](https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [New Me](https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj) | 2:46 | 2022-06-01 |  |

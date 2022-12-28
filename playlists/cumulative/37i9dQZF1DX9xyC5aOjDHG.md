@@ -4,7 +4,7 @@
 
 > Music & Episodes of “Sword Art Online” series! 音楽とPodcastで辿る「ソードアート・オンライン」の世界！\(C\)2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO\-A Project
 
-129 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/0PzANGEQ6UOUzOy4YIBJAY)
+130 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/0PzANGEQ6UOUzOy4YIBJAY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [ALONE](https://open.spotify.com/track/08EaMQ9Ro0NavqaBpdfJDk) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw) | 5:01 | 2022-04-01 |  |
 | [ANIMA](https://open.spotify.com/track/6uT4In9l5gE4cSiMtxFtrC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/0UUW762dgvMubwt07PwmaF) | 4:27 | 2022-04-01 | 2022-07-29 |
 | [ANIMA](https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:29 | 2022-04-01 |  |
+| [ANSWER](https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ANSWER](https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD) | 3:24 | 2022-12-27 |  |
 | [BLAZING BULLET](https://open.spotify.com/track/1skaofZEKSq01YUmdBj5sI) | [キリト \(CV:松岡禎丞\)](https://open.spotify.com/artist/6JhcN5WCAWU88kw4RfPwEv), [シノン \(CV:沢城みゆき\)](https://open.spotify.com/artist/5MK1DksbVa4ME5L6NENRt0) | [ソードアート・オンライン キャラクターソングコレクションII](https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq) | 4:08 | 2022-04-01 |  |
 | [Break Beat Bark!](https://open.spotify.com/track/18Cjb5zI8lmbgVcaagZGoV) | [ユナ \(CV:神田沙也加\)](https://open.spotify.com/artist/1sxYGoRSZlWDvqHWTH1k4A) | [劇場版 ソードアート・オンライン \-オーディナル・スケール\- Original Soundtrack](https://open.spotify.com/album/1VRxzUSCzUYdrNQsaOJXUF) | 4:08 | 2022-04-01 |  |
 | [Catch the Moment](https://open.spotify.com/track/6vRkYTrWDzzVrZTqBJFR0u) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P) | 4:42 | 2022-04-01 |  |

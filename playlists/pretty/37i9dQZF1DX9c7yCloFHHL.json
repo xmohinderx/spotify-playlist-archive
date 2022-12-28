@@ -1,12 +1,12 @@
 {
   "description": "The most popular Ambient tracks in 2022. ",
-  "num_followers": 114249,
+  "num_followers": 114386,
   "original_name": "Best of Ambiente 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTkwMCwwMDAwMDAwMGUyZTEyMGViNzc3NmM3OTZmM2YzODI4NTZkYTA0MDFl",
+  "snapshot_id": "MTY2OTgxNTkwMCwwMDAwMDAwMGUxOTNhYjAxNWEwOWE0YTk2ZDYzMzk1ZDM0NjkwNzJk",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "phases of the moon",
-        "url": "https://open.spotify.com/album/5zImrTFUWontzflxnybrH8"
-      },
-      "artists": [
-        {
-          "name": "AOI",
-          "url": "https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "venus mist",
-      "url": "https://open.spotify.com/track/6UEHWnyYNSTjgqxxJF84wQ"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Mountains, Go",
         "url": "https://open.spotify.com/album/3ynwXohmbMQN0bhDPWw5U9"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 519893,
       "name": "Management Of Sorrows",
       "url": "https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "phases of the moon",
+        "url": "https://open.spotify.com/album/5zImrTFUWontzflxnybrH8"
+      },
+      "artists": [
+        {
+          "name": "AOI",
+          "url": "https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "venus mist",
+      "url": "https://open.spotify.com/track/6UEHWnyYNSTjgqxxJF84wQ"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Music For Growing Flowers",
-        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        }
-      ],
-      "duration_ms": 309173,
-      "name": "Music For Growing Flowers - Pt. 1",
-      "url": "https://open.spotify.com/track/12QBPa6pOKXnSx3PBBQw69"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "I Remember You Like the Best Song",
         "url": "https://open.spotify.com/album/3eWjndQQuRh7iRJpPPqifL"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 1077812,
       "name": "I Remember You Like the Best Song",
       "url": "https://open.spotify.com/track/0NKexfIeqfKHetCuMyuwJ7"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "duration_ms": 309173,
+      "name": "Music For Growing Flowers - Pt. 1",
+      "url": "https://open.spotify.com/track/12QBPa6pOKXnSx3PBBQw69"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Garden Gaia",
+        "url": "https://open.spotify.com/album/1DgRx1LvQ06RX992m1yn5m"
+      },
+      "artists": [
+        {
+          "name": "Pantha Du Prince",
+          "url": "https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi"
+        }
+      ],
+      "duration_ms": 268813,
+      "name": "Golden Galactic",
+      "url": "https://open.spotify.com/track/5UV4bOGPyQyF5hnWuel6Zv"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Recordings from the \u00c5land Islands",
         "url": "https://open.spotify.com/album/2vGukamccOX7WCqir66kWT"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 222400,
       "name": "Under the Midnight Sun",
       "url": "https://open.spotify.com/track/3OqqbGF64e51ooNpMAF9i5"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Garden Gaia",
-        "url": "https://open.spotify.com/album/1DgRx1LvQ06RX992m1yn5m"
-      },
-      "artists": [
-        {
-          "name": "Pantha Du Prince",
-          "url": "https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi"
-        }
-      ],
-      "duration_ms": 268813,
-      "name": "Golden Galactic",
-      "url": "https://open.spotify.com/track/5UV4bOGPyQyF5hnWuel6Zv"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/6f0ELW7CR2CWxYf859r71X"
-      },
-      "artists": [
-        {
-          "name": "The Last Days of Our Past",
-          "url": "https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX"
-        }
-      ],
-      "duration_ms": 248659,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/6XDmQX1g0mwTif6Hy1EJuk"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Mondocane (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Rcce6AQnDXcSe0jTZDO6e"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 191405,
       "name": "Orphangene - Soundtrack from the motion picture \"Mondocane\"",
       "url": "https://open.spotify.com/track/7B5qaGsOU0b4CktM6oK5NN"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/6f0ELW7CR2CWxYf859r71X"
+      },
+      "artists": [
+        {
+          "name": "The Last Days of Our Past",
+          "url": "https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX"
+        }
+      ],
+      "duration_ms": 248659,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/6XDmQX1g0mwTif6Hy1EJuk"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Northern Skies",
-        "url": "https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0"
+        "name": "Mysteries",
+        "url": "https://open.spotify.com/album/6jGXRmqwwd25TgRbNT6X2P"
       },
       "artists": [
         {
-          "name": "Ken Verheecke",
-          "url": "https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl"
+          "name": "Antarctic Wastelands",
+          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
         }
       ],
-      "duration_ms": 170000,
-      "name": "1969",
-      "url": "https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv"
+      "duration_ms": 183851,
+      "name": "Mysteries",
+      "url": "https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Mysteries",
-        "url": "https://open.spotify.com/album/6jGXRmqwwd25TgRbNT6X2P"
+        "name": "Northern Skies",
+        "url": "https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0"
       },
       "artists": [
         {
-          "name": "Antarctic Wastelands",
-          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
+          "name": "Ken Verheecke",
+          "url": "https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl"
         }
       ],
-      "duration_ms": 183851,
-      "name": "Mysteries",
-      "url": "https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv"
+      "duration_ms": 170000,
+      "name": "1969",
+      "url": "https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/70KaeJJ97xzsi7vAfZmpwR"
+      },
+      "artists": [
+        {
+          "name": "Human Is Alive",
+          "url": "https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/3EI6qqBRg3AmGIcqrjYqKX"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Snow Ball",
         "url": "https://open.spotify.com/album/0b0F3Y7oSYFmbqC4wrquUd"
       },
@@ -1503,6 +1519,22 @@
       "duration_ms": 204265,
       "name": "Snow Ball",
       "url": "https://open.spotify.com/track/7GQgKVsUz6y4TS0h5kiryY"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "after.",
+        "url": "https://open.spotify.com/album/0lySn87GZkkmgPOInrnuC2"
+      },
+      "artists": [
+        {
+          "name": "Project AER",
+          "url": "https://open.spotify.com/artist/0iMWUBpWAGKAenBVePrZFP"
+        }
+      ],
+      "duration_ms": 183614,
+      "name": "ever, after",
+      "url": "https://open.spotify.com/track/1bIZWsVJatlo8hBzn0IEdI"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1539,38 +1571,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Everlasting",
-        "url": "https://open.spotify.com/album/70KaeJJ97xzsi7vAfZmpwR"
-      },
-      "artists": [
-        {
-          "name": "Human Is Alive",
-          "url": "https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Everlasting",
-      "url": "https://open.spotify.com/track/3EI6qqBRg3AmGIcqrjYqKX"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "after.",
-        "url": "https://open.spotify.com/album/0lySn87GZkkmgPOInrnuC2"
-      },
-      "artists": [
-        {
-          "name": "Project AER",
-          "url": "https://open.spotify.com/artist/0iMWUBpWAGKAenBVePrZFP"
-        }
-      ],
-      "duration_ms": 183614,
-      "name": "ever, after",
-      "url": "https://open.spotify.com/track/1bIZWsVJatlo8hBzn0IEdI"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "In Tenebris",
         "url": "https://open.spotify.com/album/5og8EEI2vJIayYOtqLCKPg"
       },
@@ -1587,22 +1587,6 @@
       "duration_ms": 194000,
       "name": "Coney Island",
       "url": "https://open.spotify.com/track/1CtOu0i3Qvzi2HeIW1PHiT"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Meeting You Between Spring and Summer",
-        "url": "https://open.spotify.com/album/5VwDGt3zLBwx85ftiYBcDc"
-      },
-      "artists": [
-        {
-          "name": "Chris Other",
-          "url": "https://open.spotify.com/artist/6jEDdYtgiDQrVXUJ3dvpAV"
-        }
-      ],
-      "duration_ms": 310000,
-      "name": "Early Spring",
-      "url": "https://open.spotify.com/track/5gBHwLpu16lo8wSK9DtBoj"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Meeting You Between Spring and Summer",
+        "url": "https://open.spotify.com/album/5VwDGt3zLBwx85ftiYBcDc"
+      },
+      "artists": [
+        {
+          "name": "Chris Other",
+          "url": "https://open.spotify.com/artist/6jEDdYtgiDQrVXUJ3dvpAV"
+        }
+      ],
+      "duration_ms": 310000,
+      "name": "Early Spring",
+      "url": "https://open.spotify.com/track/5gBHwLpu16lo8wSK9DtBoj"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Sincretico Modale",
         "url": "https://open.spotify.com/album/2z0qqpHJUTaWSXWn4ZqwVS"
       },
@@ -1675,6 +1675,22 @@
       "duration_ms": 312485,
       "name": "Always",
       "url": "https://open.spotify.com/track/5X28wVhPZ2RK91PPyfOOgQ"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Arroyo",
+        "url": "https://open.spotify.com/album/30q19AJSdAxkdVc6414z7H"
+      },
+      "artists": [
+        {
+          "name": "Jon Porras",
+          "url": "https://open.spotify.com/artist/0FDxPN4OkExGczv8cRTAZx"
+        }
+      ],
+      "duration_ms": 464031,
+      "name": "Arroyo",
+      "url": "https://open.spotify.com/track/0MnagqW3Qe0vWOmnV2iR7g"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1711,22 +1727,6 @@
       "duration_ms": 320009,
       "name": "Remember This Time",
       "url": "https://open.spotify.com/track/5GB1TCF6ZMbcYMmGoKQtf3"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Arroyo",
-        "url": "https://open.spotify.com/album/30q19AJSdAxkdVc6414z7H"
-      },
-      "artists": [
-        {
-          "name": "Jon Porras",
-          "url": "https://open.spotify.com/artist/0FDxPN4OkExGczv8cRTAZx"
-        }
-      ],
-      "duration_ms": 464031,
-      "name": "Arroyo",
-      "url": "https://open.spotify.com/track/0MnagqW3Qe0vWOmnV2iR7g"
     },
     {
       "added_at": "2022-11-30 13:45:00",

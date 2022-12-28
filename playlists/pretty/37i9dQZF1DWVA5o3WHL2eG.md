@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Highlights of 2022, listen to women at full volume\. Cover: Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,295 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,345 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 35 | [Schiebedach](https://open.spotify.com/track/4p4fKKNyiDT76Xvw1IWVA0) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [Liebe 404](https://open.spotify.com/album/1V2uMKtPGqx7RK5bGjDcVj) | 2:36 |
 | 36 | [Unstoppable](https://open.spotify.com/track/22CKOOivvI8mP30GlYS8WK) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Unstoppable](https://open.spotify.com/album/4OEhImZK3QYFBxeayvDULa) | 3:11 |
 | 37 | [Funke, Flächenbrand](https://open.spotify.com/track/5MumaN3URY1XqIWkRdVxjz) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Funke, Flächenbrand](https://open.spotify.com/album/6OTvVeDS7GlTqKf2qVU86o) | 2:36 |
-| 38 | [Pose](https://open.spotify.com/track/6gjTBagyl527aB9iMUa0W6) | [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Pose](https://open.spotify.com/album/0TFg2kMG4asTEDP334NmJr) | 1:52 |
-| 39 | [Signal](https://open.spotify.com/track/2Y6dYM6KjTEPhfvM8a7zTI) | [LEA x LINDA](https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro) | [Signal](https://open.spotify.com/album/1b5h1zGp7FDEgnJjFxFQzZ) | 3:23 |
+| 38 | [Signal](https://open.spotify.com/track/2Y6dYM6KjTEPhfvM8a7zTI) | [LEA x LINDA](https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro) | [Signal](https://open.spotify.com/album/1b5h1zGp7FDEgnJjFxFQzZ) | 3:23 |
+| 39 | [Pose](https://open.spotify.com/track/6gjTBagyl527aB9iMUa0W6) | [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Pose](https://open.spotify.com/album/0TFg2kMG4asTEDP334NmJr) | 1:52 |
 | 40 | [erste liebe](https://open.spotify.com/track/24p3rBwIunzXjt8WOwu3eL) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [immer nur liebe](https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY) | 2:48 |
 | 41 | [Filmriss](https://open.spotify.com/track/2hCiXG7TpQ43uYzeCRF8Gb) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Filmriss](https://open.spotify.com/album/7oCwaTiAhFIYZGHJc8nVVm) | 2:10 |
 | 42 | [Lose Yourself](https://open.spotify.com/track/5wJkHw2lQZ1sNUumIEf2Ab) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lose Yourself](https://open.spotify.com/album/2db0jBeEkExuy5uv7G1Qei) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Mirrors](https://open.spotify.com/track/6dQzvpLz9qwutLYx6GUYCM) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Mirrors](https://open.spotify.com/album/0KnR5gUhV3Hb6mL13zU05z) | 4:21 |
 | 50 | [Shitlife](https://open.spotify.com/track/2LL9g7WEYzeVM2q7wtORWW) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Softness, Pt\. 2](https://open.spotify.com/album/1kFBJy9PoFDTiVlfAPuqDF) | 3:45 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDdlNGJiZTY3M2ZmOWUxMjYxYjQzMWUzMjY5NTU3MzRi`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDQ0M2MxYmRjZmU4MTkzMDYwNDA4ODMzNzEzMmMwZGI4`

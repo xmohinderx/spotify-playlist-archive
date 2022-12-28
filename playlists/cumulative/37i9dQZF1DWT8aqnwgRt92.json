@@ -250,6 +250,24 @@
     },
     {
       "album": {
+        "name": "ANSWER",
+        "url": "https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "ANSWER",
+      "url": "https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet"
+    },
+    {
+      "album": {
         "name": "ASEED",
         "url": "https://open.spotify.com/album/7IRJ6a77nAR2jYEg5rDu1K"
       },
@@ -2191,7 +2209,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 233017,
       "name": "Kyokansarenakutemoiijanai",
       "url": "https://open.spotify.com/track/0ILqv4nIfyMSHg7WPJBwlw"
@@ -2651,7 +2669,7 @@
       },
       "artists": [
         {
-          "name": "\u9752\u5c71\u5409\u80fd",
+          "name": "Yoshino Aoyama",
           "url": "https://open.spotify.com/artist/41AMM7nACzTXN8OCVTsFvP"
         }
       ],
@@ -4395,7 +4413,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 227360,
       "name": "\u306a\u306b\u304c\u60aa\u3044",
       "url": "https://open.spotify.com/track/5r8hIaf0VCNptCt8SRtxD9"
@@ -4817,7 +4835,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 228960,
       "name": "\u30ae\u30bf\u30fc\u3068\u5b64\u72ec\u3068\u84bc\u3044\u60d1\u661f",
       "url": "https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu"
@@ -5109,7 +5127,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 238962,
       "name": "\u30c1\u30ad\u30c1\u30ad\u30d0\u30f3\u30d0\u30f3 - \u30af\u30ea\u30b9\u30de\u30b9\u30fb\u30b7\u30e3\u30f3\u30b7\u30e3\u30f3",
       "url": "https://open.spotify.com/track/1WKgUGH7nM83632LTQQwX5"
@@ -5402,6 +5420,24 @@
     },
     {
       "album": {
+        "name": "\u30d5\u30a1\u30a4\u30c8\u30bd\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208964,
+      "name": "\u30d5\u30a1\u30a4\u30c8\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ"
+    },
+    {
+      "album": {
         "name": "\u30d7\u30e9\u30c1\u30ca - from CrosSing",
         "url": "https://open.spotify.com/album/655NcCoweylwkXHPkYvD2V"
       },
@@ -5688,6 +5724,24 @@
     },
     {
       "album": {
+        "name": "\u4e91\u3046\u900f\u308a (Maniac ver.)",
+        "url": "https://open.spotify.com/album/1D6iNejlXLIaqdzpRrhXle"
+      },
+      "artists": [
+        {
+          "name": "JYOCHO",
+          "url": "https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119480,
+      "name": "\u4e91\u3046\u900f\u308a - Maniac ver.",
+      "url": "https://open.spotify.com/track/3Qe02mMZQuCc1hyr71Nd3l"
+    },
+    {
+      "album": {
         "name": "\u4e94\u7b49\u5206\u306e\u8ecc\u8de1",
         "url": "https://open.spotify.com/album/1LwNX4lCrDG1LJpFSMT11Z"
       },
@@ -5739,6 +5793,24 @@
       "duration_ms": 247506,
       "name": "\u4eba\u829d\u5c45",
       "url": "https://open.spotify.com/track/74sYtRs4LCDIpdBP8xDMSP"
+    },
+    {
+      "album": {
+        "name": "\u4eca\u3092\u3001\u751f\u304d\u308b\u70ba\u306b",
+        "url": "https://open.spotify.com/album/5LLoBEyJTODqQx81FWZLgR"
+      },
+      "artists": [
+        {
+          "name": "angela",
+          "url": "https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286166,
+      "name": "\u4eca\u3092\u3001\u751f\u304d\u308b\u70ba\u306b",
+      "url": "https://open.spotify.com/track/578KbVViSYTjl713NHSYGx"
     },
     {
       "album": {
@@ -6457,7 +6529,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 228214,
       "name": "\u65b0\u6642\u4ee3 - \u30a6\u30bf from ONE PIECE FILM RED",
       "url": "https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25"
@@ -7135,6 +7207,24 @@
       "duration_ms": 204471,
       "name": "\u8a00\u3048\u306a\u3044",
       "url": "https://open.spotify.com/track/4Pgfcz3P83oJHdRvO0NJ0Q"
+    },
+    {
+      "album": {
+        "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271813,
+      "name": "\u8ee2\u304c\u308b\u5ca9\u3001\u541b\u306b\u671d\u304c\u964d\u308b",
+      "url": "https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP"
     },
     {
       "album": {

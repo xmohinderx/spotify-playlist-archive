@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music in 2022",
-  "num_followers": 20023,
+  "num_followers": 20938,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDZkZWYzZTQyNjUxNmYyODA3ZjBkNTVjMTY0MmIzYmMx",
+  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDQwMmQyYWQ0ZDRhY2ZkZGFmMDhkZTlmNTRlMzhjYzM5",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "at least i'm pretty",
         "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 210191,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "How Are We Feeling?",
+        "url": "https://open.spotify.com/album/3LzxhOvnQT1JnoFnntRK03"
+      },
+      "artists": [
+        {
+          "name": "late night drive home",
+          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
+        }
+      ],
+      "duration_ms": 199636,
+      "name": "Awkward Conversations",
+      "url": "https://open.spotify.com/track/3AJuNljAt1IdmdRtFYslQj"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "I've Never Been To LA",
         "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 159129,
       "name": "I've Never Been To LA (Edit)",
       "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "How Are We Feeling?",
-        "url": "https://open.spotify.com/album/3LzxhOvnQT1JnoFnntRK03"
-      },
-      "artists": [
-        {
-          "name": "late night drive home",
-          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
-        }
-      ],
-      "duration_ms": 199636,
-      "name": "Awkward Conversations",
-      "url": "https://open.spotify.com/track/3AJuNljAt1IdmdRtFYslQj"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "(Da Da Da) Day Ones",
+        "url": "https://open.spotify.com/album/0JtKzPOrwgHIZVjZruHN38"
+      },
+      "artists": [
+        {
+          "name": "Wez Atlas",
+          "url": "https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ"
+        },
+        {
+          "name": "Sagiri S\u00f3l",
+          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "(Da Da Da) Day Ones - feat. Sagiri S\u00f3l",
+      "url": "https://open.spotify.com/track/0LA15b3Bs8tuTnIA8KeNJn"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Teenager",
         "url": "https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 179249,
       "name": "Teenager",
       "url": "https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "(Da Da Da) Day Ones",
-        "url": "https://open.spotify.com/album/0JtKzPOrwgHIZVjZruHN38"
-      },
-      "artists": [
-        {
-          "name": "Wez Atlas",
-          "url": "https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ"
-        },
-        {
-          "name": "Sagiri S\u00f3l",
-          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "(Da Da Da) Day Ones - feat. Sagiri S\u00f3l",
-      "url": "https://open.spotify.com/track/0LA15b3Bs8tuTnIA8KeNJn"
     },
     {
       "added_at": "2022-11-30 13:46:00",

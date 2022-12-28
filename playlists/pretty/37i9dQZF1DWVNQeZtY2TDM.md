@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: W.M.L \(李杰明\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,006 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,007 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 74 | [野百合](https://open.spotify.com/track/1byiztwbgvGLUp61H5H2gU) | [thehopend](https://open.spotify.com/artist/32lrEgDlSQ0p6KLJckSvXd) | [野百合](https://open.spotify.com/album/1h1UQlFdvtu9U6eDQibPv8) | 3:34 |
 | 75 | [Right Track](https://open.spotify.com/track/2ovdqkxBpYfOjzxD0X9sBj) | [嚴浩翔](https://open.spotify.com/artist/1HDcsCZWBilavG8eEjVUxX) | [Right Track](https://open.spotify.com/album/0aCYIsHGFFItjrdP9w8ieN) | 3:33 |
 | 76 | [Early Morning](https://open.spotify.com/track/0PV0vAPPAYWwbkKpNH1H60) | [Denzel Cheng](https://open.spotify.com/artist/6HdMvBWAXWnxX5LEWlgluN) | [Early Morning](https://open.spotify.com/album/0o4ynHc13GhQrD120cKSl8) | 2:42 |
-| 77 | [禪波基尼](https://open.spotify.com/track/2gdC1h1TgzjR97gvaDcBkS) | [禪波](https://open.spotify.com/artist/0lLSuaElweetKFx2tdx5tO) | [禪波基尼](https://open.spotify.com/album/1k2J4XYVVQovJegN8nJHEZ) | 2:56 |
+| 77 | [ZENBORGHINI](https://open.spotify.com/track/2gdC1h1TgzjR97gvaDcBkS) | [ZENBØ](https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG) | [禪波基尼](https://open.spotify.com/album/1k2J4XYVVQovJegN8nJHEZ) | 2:56 |
 | 78 | [I GOT YOU](https://open.spotify.com/track/0ZYmHuq7ReGSzmOq4CRh0L) | [Teezy](https://open.spotify.com/artist/5P4IE6bIqsXDKHf5Z7vmeA) | [I GOT YOU](https://open.spotify.com/album/0IXE3ZZaput5VmZBdFU1HB) | 2:38 |
 | 79 | [狗影忍者](https://open.spotify.com/track/4bSAqNvKf5yr5IWCgpcu4H) | [潮州土狗](https://open.spotify.com/artist/7jMy8JE32Ck096LLh6Hy4L) | [狗狗歷險記](https://open.spotify.com/album/0wTxAffsRai0vNjP78USVf) | 1:55 |
 | 80 | [yoxi有喜](https://open.spotify.com/track/5lxg0athNn6ZWOX7lPS3M2) | [YoungLee](https://open.spotify.com/artist/37SCZVt9ssGoiuzN972Vud) | [yoxi有喜](https://open.spotify.com/album/4uP9dvAKRio2Lik113FUFC) | 1:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2022\. Aldo Trujillo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,754 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,982 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 71 | [Kenwood En Los Radios \(En Vivo\)](https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C) | [Desde Culiacán Con Servando Zl \(En Vivo\)](https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg) | 3:07 |
 | 72 | [Lamborghini Azul \- En Vivo](https://open.spotify.com/track/0hf8xtdWiBHBOHo9PgwjD5) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Lamborghini Azul \(En Vivo\)](https://open.spotify.com/album/1C6S7LZeFZFztndffpNPMv) | 3:46 |
 | 73 | [Aqui Ando En El Caloron \- En Vivo](https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Aqui Ando En El Caloron \(En Vivo\)](https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn) | 3:52 |
-| 74 | [Se Pistearon Los Jefes](https://open.spotify.com/track/72nutc9x8SS0jlYjpial3Z) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Corridos de Clase, Vol.1](https://open.spotify.com/album/3lT7LKNoatLlhcio83vUm2) | 3:03 |
+| 74 | [Se Pistearon Los Jefes](https://open.spotify.com/track/1zRVLXcyO09rXgIRokSuWG) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Corridos de Clase, Vol.1](https://open.spotify.com/album/3WU7CF909gg8zaUegnLAQO) | 3:03 |
 | 75 | [Bélico X Siempre \- En Vivo](https://open.spotify.com/track/67V38GVtNuQcuq7lcevAjh) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Bélico X Siempre \(En Vivo\)](https://open.spotify.com/album/6PvM8qWEQNvh7hcyVMkxOV) | 3:01 |
 
-Snapshot ID: `MTY3MTc3NTIwMCwwMDAwMDAwMGNjMWUxOTVjYWI0MDY3MzkzNzM0ZDdkNTMxN2U5ZjA4`
+Snapshot ID: `MTY3MTc3NTIwMCwwMDAwMDAwMGY0NzQ0N2RjMzlhMDVlZmU3ZmExNzU2MGZiYjY0YmEw`

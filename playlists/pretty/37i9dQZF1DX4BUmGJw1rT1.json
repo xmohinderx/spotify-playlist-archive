@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 40787,
+  "num_followers": 40847,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYzOTg0OSwwMDAwMDAwMDE2MmEyNWRkNGMwYTUxNzY1YjVhZjRiM2M5YjJkY2Mx",
+  "snapshot_id": "MTY3MTYzOTg0OSwwMDAwMDAwMGYyNmVkMmNjMWI3N2U3ZDQ5ZmIxZjJkZjk2YjA0ZDI4",
   "tracks": [
     {
       "added_at": "2022-11-17 18:57:25",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-11-17 18:57:25",
       "album": {
-        "name": "The Natch'l Blues",
-        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 182506,
-      "name": "Corinna - From \"The Natch'l Blues\"",
-      "url": "https://open.spotify.com/track/1NoIZ1658UHpicKQ9rcWYh"
-    },
-    {
-      "added_at": "2022-11-17 18:57:25",
-      "album": {
         "name": "Home Again",
         "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 212373,
       "name": "Home Again",
       "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
+    },
+    {
+      "added_at": "2022-11-17 18:57:25",
+      "album": {
+        "name": "The Natch'l Blues",
+        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 182506,
+      "name": "Corinna - From \"The Natch'l Blues\"",
+      "url": "https://open.spotify.com/track/1NoIZ1658UHpicKQ9rcWYh"
     },
     {
       "added_at": "2022-11-17 18:57:25",
@@ -407,26 +407,6 @@
     {
       "added_at": "2022-11-17 18:57:25",
       "album": {
-        "name": "Country Ghetto",
-        "url": "https://open.spotify.com/album/2Z4n6K4UZKC6EV6AhFgazV"
-      },
-      "artists": [
-        {
-          "name": "JJ Grey & Mofro",
-          "url": "https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv"
-        },
-        {
-          "name": "Mofro",
-          "url": "https://open.spotify.com/artist/7sDt65UhJuh1P4pN9kAbmQ"
-        }
-      ],
-      "duration_ms": 268200,
-      "name": "Mississippi",
-      "url": "https://open.spotify.com/track/7AtzrTsXNFiSCpL9MTypSO"
-    },
-    {
-      "added_at": "2022-11-17 18:57:25",
-      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 297893,
       "name": "Set Sail part I (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy"
+    },
+    {
+      "added_at": "2022-11-17 18:57:25",
+      "album": {
+        "name": "Country Ghetto",
+        "url": "https://open.spotify.com/album/2Z4n6K4UZKC6EV6AhFgazV"
+      },
+      "artists": [
+        {
+          "name": "JJ Grey & Mofro",
+          "url": "https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv"
+        },
+        {
+          "name": "Mofro",
+          "url": "https://open.spotify.com/artist/7sDt65UhJuh1P4pN9kAbmQ"
+        }
+      ],
+      "duration_ms": 268200,
+      "name": "Mississippi",
+      "url": "https://open.spotify.com/track/7AtzrTsXNFiSCpL9MTypSO"
     },
     {
       "added_at": "2022-11-17 18:57:25",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-11-17 18:57:25",
       "album": {
-        "name": "Sticking With It",
-        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 182813,
-      "name": "Sleep On It",
-      "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
-    },
-    {
-      "added_at": "2022-11-17 18:57:25",
-      "album": {
         "name": "Last Forever",
         "url": "https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 226131,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2"
+    },
+    {
+      "added_at": "2022-11-17 18:57:25",
+      "album": {
+        "name": "Sticking With It",
+        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "Sleep On It",
+      "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
     },
     {
       "added_at": "2022-11-17 18:57:25",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-11-17 18:57:25",
       "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 356426,
-      "name": "A Quitter Never Wins",
-      "url": "https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX"
-    },
-    {
-      "added_at": "2022-11-17 18:57:25",
-      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 208167,
       "name": "Does Anybody Know",
       "url": "https://open.spotify.com/track/7HpL4czETBCPqzQhr97eR1"
+    },
+    {
+      "added_at": "2022-11-17 18:57:25",
+      "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 356426,
+      "name": "A Quitter Never Wins",
+      "url": "https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX"
     },
     {
       "added_at": "2022-11-17 18:57:25",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-11-17 18:57:25",
       "album": {
-        "name": "Little Junior Parker: Mr. Blues",
-        "url": "https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 144746,
-      "name": "Mystery Train",
-      "url": "https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo"
-    },
-    {
-      "added_at": "2022-11-17 18:57:25",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/5Z8f8n8ljs1bIkXLCyxM5E"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 270600,
       "name": "River",
       "url": "https://open.spotify.com/track/2nn2TnyajaSRTbcZQxYVL7"
+    },
+    {
+      "added_at": "2022-11-17 18:57:25",
+      "album": {
+        "name": "Little Junior Parker: Mr. Blues",
+        "url": "https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 144746,
+      "name": "Mystery Train",
+      "url": "https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo"
     },
     {
       "added_at": "2022-11-17 18:57:25",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-11-17 18:57:25",
       "album": {
-        "name": "Good To Be (Home Again)",
-        "url": "https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "Good To Be (Home Again)",
-      "url": "https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my"
-    },
-    {
-      "added_at": "2022-11-17 18:57:25",
-      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 473080,
       "name": "Need Your Love So Bad - 2002 Digital Remaster",
       "url": "https://open.spotify.com/track/58BGpUO6f8f8LuRyInc61J"
+    },
+    {
+      "added_at": "2022-11-17 18:57:25",
+      "album": {
+        "name": "Good To Be (Home Again)",
+        "url": "https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "Good To Be (Home Again)",
+      "url": "https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my"
     },
     {
       "added_at": "2022-11-17 18:57:25",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-11-17 18:57:25",
       "album": {
-        "name": "Riding Out The Storm",
-        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 278873,
-      "name": "Riding Out The Storm",
-      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
-    },
-    {
-      "added_at": "2022-11-17 18:57:25",
-      "album": {
         "name": "Rise to the Grind",
         "url": "https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 290453,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V"
+    },
+    {
+      "added_at": "2022-11-17 18:57:25",
+      "album": {
+        "name": "Riding Out The Storm",
+        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 278873,
+      "name": "Riding Out The Storm",
+      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
     },
     {
       "added_at": "2022-11-17 18:57:25",
@@ -1375,22 +1375,18 @@
     {
       "added_at": "2022-11-17 18:57:25",
       "album": {
-        "name": "Loving Arms - (Radio Edit), Masterlink Sessions",
-        "url": "https://open.spotify.com/album/1BaPCN6TG322ANCUq7C2RB"
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
       },
       "artists": [
         {
-          "name": "Jo Harman",
-          "url": "https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk"
-        },
-        {
-          "name": "Redtenbacher's Funkestra",
-          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+          "name": "Christine Perfect",
+          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
         }
       ],
-      "duration_ms": 326761,
-      "name": "Loving Arms - (radio edit), Masterlink Sessions",
-      "url": "https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG"
+      "duration_ms": 180680,
+      "name": "And That's Saying a Lot",
+      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
     },
     {
       "added_at": "2022-11-17 18:57:25",
@@ -1411,18 +1407,22 @@
     {
       "added_at": "2022-11-17 18:57:25",
       "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
+        "name": "Loving Arms - (Radio Edit), Masterlink Sessions",
+        "url": "https://open.spotify.com/album/1BaPCN6TG322ANCUq7C2RB"
       },
       "artists": [
         {
-          "name": "Christine Perfect",
-          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
+          "name": "Jo Harman",
+          "url": "https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk"
+        },
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
         }
       ],
-      "duration_ms": 180680,
-      "name": "And That's Saying a Lot",
-      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
+      "duration_ms": 326761,
+      "name": "Loving Arms - (radio edit), Masterlink Sessions",
+      "url": "https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG"
     },
     {
       "added_at": "2022-11-17 18:57:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,576 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,654 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 30 | [L'Amour Toujours \- Hardstyle Version](https://open.spotify.com/track/4LR1jodAjwy93mUG447kvD) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [L'Amour Toujours \(Hardstyle Version\)](https://open.spotify.com/album/2SbmElQVDhXV9Y6vXmi5g5) | 2:49 |
 | 31 | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko) | 3:58 |
 | 32 | [Zombie](https://open.spotify.com/track/1TwbzKMxFBExaDEUWqQ832) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Zombie](https://open.spotify.com/album/2QIID9JrUSTyJpaMFaZYuH) | 4:49 |
-| 33 | [Heaven \- DJ Isaac Remix](https://open.spotify.com/track/6If6tXpbwYs5zBop1AqfwG) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg), [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq) | [Heaven \(Remixes\)](https://open.spotify.com/album/7FamurxHc0oaPYDoQ6F3jF) | 3:18 |
-| 34 | [Just Dance \(Hardstyle\)](https://open.spotify.com/track/3O5nmXfS7o6FuEEmiNTWDz) | [puremind](https://open.spotify.com/artist/2dFzw3ekT9cjNi1WYmKPfX) | [Just Dance \(Hardstyle\)](https://open.spotify.com/album/5iMaejRpMPquOG2YXVRPJ7) | 2:30 |
+| 33 | [Just Dance \(Hardstyle\)](https://open.spotify.com/track/3O5nmXfS7o6FuEEmiNTWDz) | [puremind](https://open.spotify.com/artist/2dFzw3ekT9cjNi1WYmKPfX) | [Just Dance \(Hardstyle\)](https://open.spotify.com/album/5iMaejRpMPquOG2YXVRPJ7) | 2:30 |
+| 34 | [Heaven \- DJ Isaac Remix](https://open.spotify.com/track/6If6tXpbwYs5zBop1AqfwG) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg), [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq) | [Heaven \(Remixes\)](https://open.spotify.com/album/7FamurxHc0oaPYDoQ6F3jF) | 3:18 |
 | 35 | [Only Girl \- Hardstyle Remix](https://open.spotify.com/track/1Yoxdq3J7CxsaLPAynnZde) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [Only Girl \(Hardstyle Remix\)](https://open.spotify.com/album/4ycaH6mCx8CPIY3xXxjYi9) | 2:07 |
 | 36 | [Country Roads](https://open.spotify.com/track/6wwAp1Cmkcwc7tlrP9U2X9) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Country Roads](https://open.spotify.com/album/5oZGGyO9tPtYKOkLi2rxkf) | 2:53 |
 | 37 | [Jackie Chan \- MANDY Remix](https://open.spotify.com/track/0NtJLfcKJcZpGrguDWCuga) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Mandy](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [Jackie Chan \(Remixes, Vol\. 2\)](https://open.spotify.com/album/2LfHj3QvCGowIeeSYWXLuA) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 49 | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/track/0drhA9z3U2NUoF3dM4WeQT) | [Topmodelz](https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/album/2J1RBk0GRZbCekoI1E0fO4) | 3:22 |
 | 50 | [La Colegiala](https://open.spotify.com/track/2cyxZcDi7HB48T8mYZViLv) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [La Colegiala](https://open.spotify.com/album/5St2aiydKvThR9AR0fHSpO) | 3:23 |
 
-Snapshot ID: `MTY3MTc1MDAwMCwwMDAwMDAwMDMxMjZmOTAyZjM3NzdiZDNhYzZlNGQxYTcyYTgzZmIz`
+Snapshot ID: `MTY3MTc1MDAwMCwwMDAwMDAwMDRlMGJjYzBjMDU5MmMyZmJlZGMxNjI2YjJmNzdiMDU0`

@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: ELLEGARDEN
 
-437 songs - 1 day 4 hr 48 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+438 songs - 1 day 4 hr 54 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Spring Breath](https://open.spotify.com/track/4gXIoS4dweag2ZBdk8xaRf) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [A Spring Breath](https://open.spotify.com/album/1XJr7sq0j0c5bccwKMdTVw) | 3:58 | 2022-05-17 | 2022-07-29 |
 | [Ain't That So Awesome](https://open.spotify.com/track/5SttGai4pssVpymhyYZGLC) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Cocoon for the Golden Future](https://open.spotify.com/album/6V1A127GqQOGQOslh0an1k) | 3:39 | 2022-10-29 | 2022-11-02 |
 | [All for RAN](https://open.spotify.com/track/2Exj7jLQ6dWGfynuNu8gj8) | [T.C.R横浜銀蝿R.S.](https://open.spotify.com/artist/0aJenP5NVBmexzvl9zeme1) | [All for RAN](https://open.spotify.com/album/1JxOZW4NUViYk6Svm771w7) | 5:09 | 2022-10-29 | 2022-11-02 |
-| [All We Need Is Summer Day](https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 2:42 | 2022-12-20 |  |
+| [All We Need Is Summer Day](https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 2:42 | 2022-12-20 | 2022-12-28 |
 | [All We Need Is Summer Day](https://open.spotify.com/track/4qtgwiStMnnZjDDAvCayeV) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [Hourglass / One More Time / All We Need Is Summer Day / 白夜の日々 \(Album Version\) / Spirit Explosion / 泡沫 \(Album Version\)](https://open.spotify.com/album/3lifxra2Pyp4H8LQvcslF6) | 2:42 | 2022-08-09 | 2022-08-24 |
 | [Allergy song](https://open.spotify.com/track/0oxWuE6fWCpNb9muRYM0mm) | [The Mirraz](https://open.spotify.com/artist/79HYgPQhrRdcGWDwZO2fhV) | [Cocoa with Marshmallows](https://open.spotify.com/album/647HAwp0smQvXrMVyI6BjQ) | 3:17 | 2022-11-22 | 2022-12-07 |
 | [Almond](https://open.spotify.com/track/0AEx6W2Aju7o0jPTl3O9R8) | [Crazy Ken Band](https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2) | [樹影](https://open.spotify.com/album/6SpTffXCwwCJTbD93OJ9ye) | 3:29 | 2022-08-04 | 2022-08-17 |
@@ -112,6 +112,7 @@
 | [It's a Wonderful Life! \~Heat Up Theme \~ .](https://open.spotify.com/track/5k4vMqDvrkMq4roJ1CEcQ5) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [It's a Wonderful Life! \~Heat Up Theme \~ .](https://open.spotify.com/album/5cV5NuuUhNhhQoCYIRj3SH) | 3:28 | 2022-10-05 | 2022-10-12 |
 | [It's not too late](https://open.spotify.com/track/6msygryLZFEN7Fw7laGcAA) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [It's not too late](https://open.spotify.com/album/03Dx5bwpehJewD0236CHfe) | 4:33 | 2022-07-19 | 2022-07-27 |
 | [JOY](https://open.spotify.com/track/4qm684B9C9kVHvHJuWLuOQ) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [アントロギア](https://open.spotify.com/album/3buKVNQCasGoLW9lz9hY8D) | 4:50 | 2022-05-12 | 2022-07-25 |
+| [Judgement Day](https://open.spotify.com/track/0MxKjHqwplq23za7oz8HBp) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [JUDGEMENT DAY](https://open.spotify.com/album/1jV4Ke1D2IzyRPI1NMOQdL) | 5:52 | 2022-12-27 |  |
 | [Just](https://open.spotify.com/track/648ultx75M4zzMpS7YDgVs) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [fade / Just](https://open.spotify.com/album/4EzumahZ1VCLCBIfa2q8Jb) | 2:59 | 2022-05-10 | 2022-12-21 |
 | [Just Kids](https://open.spotify.com/track/1LesMz0NuPydkt6acRvbjG) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [Just Kids .ep](https://open.spotify.com/album/7r4IHmJNgqsvXGwJyNQsMY) | 2:57 | 2022-07-12 | 2022-08-04 |
 | [KABUKI](https://open.spotify.com/track/1kwYacRt7TdEyoWWIRdpbK) | [Jam Fuzz Kid](https://open.spotify.com/artist/6GQODml23klZ80TrKLUOfv) | [KABUKI](https://open.spotify.com/album/3ftXHTshutmnvZa20VSAjh) | 3:25 | 2022-06-14 | 2022-06-20 |

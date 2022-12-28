@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 34012,
+  "num_followers": 34011,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMDMzYTIyNTgwNGIyNGI3OTcxYTZlMGI2MTM1ZDk1MGE2",
+  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMDgxOWRmYjM0NzNmYTk2NDQ0ZmMwODE4MTk0MzRiMDA3",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Asleep At Heaven's Gate (Remastered And Expanded Edition)",
         "url": "https://open.spotify.com/album/47B9Lff4byhHeFXL9Wr73F"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 197596,
       "name": "I Need a Teacher",
       "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Boys & Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Tripper",
+        "url": "https://open.spotify.com/album/1T3Cs0BLSZbyk0G62lvPtD"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 226120,
+      "name": "You're Too Weird",
+      "url": "https://open.spotify.com/track/5UcAW3tygU6dN6YTGhVYvS"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Day of the Dead",
         "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Tripper",
-        "url": "https://open.spotify.com/album/1T3Cs0BLSZbyk0G62lvPtD"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 226120,
-      "name": "You're Too Weird",
-      "url": "https://open.spotify.com/track/5UcAW3tygU6dN6YTGhVYvS"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "I'm Wide Awake, It's Morning",
         "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
       },
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "The Black Dirt Sessions",
-        "url": "https://open.spotify.com/album/2XsWRPltTHzmdDtzwevG0w"
+        "name": "All the Things That I Did and All the Things That I Didn't Do",
+        "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
       },
       "artists": [
         {
-          "name": "Deer Tick",
-          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
         }
       ],
-      "duration_ms": 223933,
-      "name": "Twenty Miles",
-      "url": "https://open.spotify.com/track/69XEXAbJTZwFfVz7ayfg3I"
+      "duration_ms": 229760,
+      "name": "Younger Years",
+      "url": "https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E"
     }
   ],
   "unique_name": "Wide Awake",

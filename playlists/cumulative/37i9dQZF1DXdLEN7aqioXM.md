@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-376 songs - 1 day 2 hr 59 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+377 songs - 1 day 3 hr 1 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [American Cars](https://open.spotify.com/track/4J2fJp9BPeXZKjL3iCzVQy) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [American Cars](https://open.spotify.com/album/0T3inf6wyoQqegxC1oojP3) | 3:46 | 2022-04-01 | 2022-04-18 |
 | [American Cars](https://open.spotify.com/track/7t1C2Z5kYtmhZGMs5mIFz2) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [Dark Hearts](https://open.spotify.com/album/1dMkUqXlm5b3JxSzBmVIX5) | 3:46 | 2022-09-23 | 2022-12-24 |
 | [Anywhere](https://open.spotify.com/track/7KxyDBiAiTnb1vz62ZlH88) | [Jordan F](https://open.spotify.com/artist/1qSGsjM9uWGLbH1PWUPV7A), [Zealyn](https://open.spotify.com/artist/0ORcnlg4NMByo3oPEjaPae) | [Anywhere](https://open.spotify.com/album/2dwabGQ19mCQ16GhQL4BzA) | 3:35 | 2022-04-01 | 2022-08-04 |
-| [Arabische Ritter](https://open.spotify.com/track/7J6EybY2CiqDZhhv722nvn) | [NNHMN](https://open.spotify.com/artist/3PFLYlaguMd2AXu1i3UAKt) | [Arabische Ritter](https://open.spotify.com/album/4Ox1hXgvvJPMUdyVpgPqwF) | 5:08 | 2022-12-23 |  |
+| [Arabische Ritter](https://open.spotify.com/track/7J6EybY2CiqDZhhv722nvn) | [NNHMN](https://open.spotify.com/artist/3PFLYlaguMd2AXu1i3UAKt) | [Arabische Ritter](https://open.spotify.com/album/4Ox1hXgvvJPMUdyVpgPqwF) | 5:08 | 2022-12-23 | 2022-12-28 |
 | [Arcades](https://open.spotify.com/track/5DOAJk4OI8pG1qwr4IvoSP) | [Nhyx](https://open.spotify.com/artist/15hYbx7vg01TZFFgipPAHm) | [Arcades](https://open.spotify.com/album/0gD0gX1zzbSBNXyhUPY2Xl) | 4:11 | 2022-04-01 | 2022-07-28 |
 | [Argon Prime \(From “in Search of Tomorrow”\)](https://open.spotify.com/track/0Ze0BHOGmP7dam4zPuTGrU) | [Zombie Hyperdrive](https://open.spotify.com/artist/72naL8vQVNsx85zPLuTSWf) | [Argon Prime \(From “in Search of Tomorrow”\)](https://open.spotify.com/album/31kky74Q1UeLzsREiCVyFp) | 5:05 | 2022-06-17 | 2022-07-29 |
 | [Arpyness](https://open.spotify.com/track/3RBqODwZkvWdLmyd7d9sh1) | [Tainsus](https://open.spotify.com/artist/26xZG1fqaCKjvOIkMS31BT) | [Arpyness](https://open.spotify.com/album/7nnjXgeQJyLc3SvIdiBGy0) | 2:31 | 2021-10-15 | 2022-07-29 |
@@ -279,6 +279,7 @@
 | [Purple Sun](https://open.spotify.com/track/5GorBkISuzSRgEuiq3dJu6) | [Honom](https://open.spotify.com/artist/13WQt5GKTugUQuHSXpixo8) | [Purple Sun](https://open.spotify.com/album/5gUwXtM9UM3dk0vGnW0rQC) | 6:52 | 2022-04-01 |  |
 | [Real Love](https://open.spotify.com/track/55jTVB6tALwo85MptV69q4) | [Fury Weekend](https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH), [Young Medicine](https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ) | [Real Love](https://open.spotify.com/album/44P5y0hkgPpmYM8nAMTa56) | 4:31 | 2022-07-29 | 2022-09-03 |
 | [Recall](https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Recall](https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd) | 3:25 | 2022-07-22 |  |
+| [Redux](https://open.spotify.com/track/75DXlX1UhXLaCL8266arxL) | [nerø](https://open.spotify.com/artist/4NTzAb63RDT3yUcOSXlP5H) | [Redux](https://open.spotify.com/album/0b5r4vfvbVrlBsrNOzrw5c) | 2:24 | 2022-12-23 |  |
 | [Refusal Of The Return](https://open.spotify.com/track/27nEodVw1shr7qeyXMcsJ6) | [Russian Linesman](https://open.spotify.com/artist/3sIH8lHWLGHJMenpRCSmMv) | [Monomyth V \- The Return](https://open.spotify.com/album/01ZwLUFpfgiP6PuuGb4BGA) | 7:32 | 2021-10-15 | 2022-11-13 |
 | [Regatta \- Original Mix](https://open.spotify.com/track/2VS9Np3bgVlXEaTQrSusof) | [Michael Cassette](https://open.spotify.com/artist/3xDWzhtOet1qJ08MLimhSd) | [Anjunadeep 03](https://open.spotify.com/album/4Qi3v9fRbBBAfsaWKXMvrn) | 6:06 | 2022-04-01 | 2022-04-19 |
 | [Release](https://open.spotify.com/track/3XVJx3ZIHAhSsjapF263Ql) | [Adieu Aru](https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3) | [Release](https://open.spotify.com/album/1PhJNrjqTDMcHPp7VBsla3) | 3:40 | 2022-05-06 |  |

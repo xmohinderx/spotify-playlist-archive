@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The top 50 tracks from Fresh Finds Philippines in 2022\. Cover: Jace Roque
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,244 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,249 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 15 | [Magdamag?](https://open.spotify.com/track/2LXCJnF269n3cYriHwyv3b) | [Jaymes Karl](https://open.spotify.com/artist/5NBbtkLi1b0P5nez11CfzF), [Jaye Arthur](https://open.spotify.com/artist/7mcqCEN9CtJqAkudwMYd1H), [Icy D](https://open.spotify.com/artist/0DrnDxPyiRdLOa75RPrA2e) | [Magdamag?](https://open.spotify.com/album/4fhl18N60d54A0enCOCaCS) | 2:39 |
 | 16 | [Attracted](https://open.spotify.com/track/3hnlOF2IchhxpcUm3Ctv5Q) | [Fritz Miranda](https://open.spotify.com/artist/2XU4WiVXIJRKj0U8Jp9XE4) | [Attracted](https://open.spotify.com/album/7vz3rSMHantDRYqjfWRB0K) | 3:50 |
 | 17 | [Will You Be My Forever](https://open.spotify.com/track/6UyTfNTj9C0g4s3iM6tqJA) | [Rich Valencia](https://open.spotify.com/artist/3ZnXiCDFRGeq3izc01zLHk) | [Will You Be My Forever](https://open.spotify.com/album/4YhYWioHB5q285aQHEW9JP) | 4:35 |
-| 18 | [Overtime](https://open.spotify.com/track/3Kw4LwmkY3gPcCCiDldBn7) | [Harmon Literal](https://open.spotify.com/artist/4otbq3fbjmPI60TDrb2pcK) | [Overtime](https://open.spotify.com/album/5BRhOXAxZdHx7FDwvQc8PK) | 3:15 |
+| 18 | [Overtime](https://open.spotify.com/track/3Kw4LwmkY3gPcCCiDldBn7) | [Monne Liera](https://open.spotify.com/artist/4otbq3fbjmPI60TDrb2pcK) | [Overtime](https://open.spotify.com/album/5BRhOXAxZdHx7FDwvQc8PK) | 3:15 |
 | 19 | [Halaga \(1553\)](https://open.spotify.com/track/5NLuEozQdasSn9Pu5PnW4r) | [nikko](https://open.spotify.com/artist/4iTGD1IiSfm4z0PPeULqnK) | [Halaga \(1553\)](https://open.spotify.com/album/2w5GmPK4SpI0hiMCoa1ypv) | 4:10 |
 | 20 | [Umasa Pa](https://open.spotify.com/track/5WVZgtrZYW13ldnMpB5k7v) | [Tambiotics](https://open.spotify.com/artist/4fppdiyrayBDfbCVK2pLGM) | [Umasa Pa](https://open.spotify.com/album/3UP5uKZyjF5M2OZXMr1RSd) | 4:31 |
 | 21 | [Akala](https://open.spotify.com/track/5q49yQl5oFFtRT5sCIjfjO) | [C\_playa\_Pdk](https://open.spotify.com/artist/2iaGZTTCxLWD7Q8o2ck611) | [Akala](https://open.spotify.com/album/34K1RyxrzJwLTf5LnCMEA6) | 3:23 |

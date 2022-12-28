@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 308808,
       "name": "Arabische Ritter",
       "url": "https://open.spotify.com/track/7J6EybY2CiqDZhhv722nvn"
@@ -5179,6 +5179,24 @@
       "duration_ms": 205128,
       "name": "Recall",
       "url": "https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM"
+    },
+    {
+      "album": {
+        "name": "Redux",
+        "url": "https://open.spotify.com/album/0b5r4vfvbVrlBsrNOzrw5c"
+      },
+      "artists": [
+        {
+          "name": "ner\u00f8",
+          "url": "https://open.spotify.com/artist/4NTzAb63RDT3yUcOSXlP5H"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Redux",
+      "url": "https://open.spotify.com/track/75DXlX1UhXLaCL8266arxL"
     },
     {
       "album": {

@@ -3351,7 +3351,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 207587,
       "name": "AM I (Feat. Bamsem)",
       "url": "https://open.spotify.com/track/0WSUMztxfiVH984Nfi7bfK"
@@ -4449,7 +4449,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 288682,
       "name": "BABEL",
       "url": "https://open.spotify.com/track/5uzR8Dr8tGWWasQbHKBOoC"
@@ -8079,7 +8079,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 243533,
       "name": "Broke up",
       "url": "https://open.spotify.com/track/61J9e05LcMunfk51Ll9G5l"
@@ -9461,7 +9461,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 217066,
       "name": "Candy",
       "url": "https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI"
@@ -9811,7 +9811,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 213280,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK"
@@ -10745,7 +10745,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 148615,
       "name": "Circle Mind (feat. Dbo)",
       "url": "https://open.spotify.com/track/32aPXAGrLPmZahHtGMw4r6"
@@ -12248,6 +12248,28 @@
     },
     {
       "album": {
+        "name": "Coward (Feat. Chanju)",
+        "url": "https://open.spotify.com/album/3lgkDElxbqhZlWksJwazwq"
+      },
+      "artists": [
+        {
+          "name": "Mommy Son",
+          "url": "https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1"
+        },
+        {
+          "name": "chanju",
+          "url": "https://open.spotify.com/artist/2te4fM51pD1aQhRF0uDFp0"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "Coward (Feat. Chanju)",
+      "url": "https://open.spotify.com/track/6xgVsoN0sYuvOni0KzAiM5"
+    },
+    {
+      "album": {
         "name": "Nearly (T)here",
         "url": "https://open.spotify.com/album/3eXhhqvpBHi1w1DIag9gpF"
       },
@@ -13045,6 +13067,28 @@
       "duration_ms": 182200,
       "name": "Darling",
       "url": "https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC"
+    },
+    {
+      "album": {
+        "name": "Darling (feat. dress)",
+        "url": "https://open.spotify.com/album/1nDGEzBI75Dan159KrtNAj"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "dress",
+          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254955,
+      "name": "Darling (feat. dress)",
+      "url": "https://open.spotify.com/track/0vVVMt1bmd7K87IstridSS"
     },
     {
       "album": {
@@ -14217,7 +14261,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 192293,
       "name": "Die For You (feat. Kelsey Kuan)",
       "url": "https://open.spotify.com/track/7K7Mg9iQ8ZnD5EEwm27gw2"
@@ -16748,6 +16792,24 @@
     },
     {
       "album": {
+        "name": "Elon Musk",
+        "url": "https://open.spotify.com/album/5hYLSv0CrAddV2sOXtKV7h"
+      },
+      "artists": [
+        {
+          "name": "Lov3rboi",
+          "url": "https://open.spotify.com/artist/3g30Ok78m7rECa0VuoN9e9"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106086,
+      "name": "Elon Musk",
+      "url": "https://open.spotify.com/track/7oih3KQUoOJImDfkrFs1ku"
+    },
+    {
+      "album": {
         "name": "Nameless things",
         "url": "https://open.spotify.com/album/0fXjtbpSfZ3flyMTnOqHNa"
       },
@@ -17071,7 +17133,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 298307,
       "name": "Endless Dance",
       "url": "https://open.spotify.com/track/6ufG57VUdOTV9OBh7Uvs0v"
@@ -18505,7 +18567,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 228946,
       "name": "Fantasy (feat. Gary & ALi)",
       "url": "https://open.spotify.com/track/1QOot7m7p0cDBL0Ei4qpCJ"
@@ -20583,7 +20645,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 231609,
       "name": "Fortunately, what is still",
       "url": "https://open.spotify.com/track/6SwdQ4lPPios6cMNsWnsXO"
@@ -20709,7 +20771,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 211456,
       "name": "Free Giveaway",
       "url": "https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi"
@@ -21561,7 +21623,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 220908,
       "name": "GIRL (Feat. Yonko)",
       "url": "https://open.spotify.com/track/4dQMFWBISNYeLstXIZqfdn"
@@ -23533,7 +23595,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 200813,
       "name": "Happy For Love",
       "url": "https://open.spotify.com/track/56MoHxJvpi1XJUX4fDfOqF"
@@ -24793,7 +24855,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 247680,
       "name": "Holiday (Feat. lIlBOI, GIRIBOY) (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/44mJS0YRReMdwrY0jFu9Cd"
@@ -25041,7 +25103,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 225331,
       "name": "Home Party",
       "url": "https://open.spotify.com/track/7KxS5lF228j1GY8Zc6qtXx"
@@ -25469,7 +25531,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 275503,
       "name": "How Can I Forget You",
       "url": "https://open.spotify.com/track/3zs2ZBMzKOG1fMeh9rnkVT"
@@ -25869,7 +25931,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 127612,
       "name": "hug me tight",
       "url": "https://open.spotify.com/track/1Ev5WziK8PYoSpNYJKd5qg"
@@ -25913,7 +25975,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 171751,
       "name": "HUGS",
       "url": "https://open.spotify.com/track/79pUbgRjhBrZeTEujCh4Za"
@@ -27177,7 +27239,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 201098,
       "name": "I let you go like that",
       "url": "https://open.spotify.com/track/4dxdpGZ43mXqN1FhrfTGhf"
@@ -27655,7 +27717,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 191911,
       "name": "I need some time",
       "url": "https://open.spotify.com/track/26BqSwNhE6aR2teaqchiVr"
@@ -28331,7 +28393,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 199999,
       "name": "I'll be your green light (feat. Kim Seungmin)",
       "url": "https://open.spotify.com/track/7CbjzjN9hvz3GddyGWKfZ4"
@@ -28993,7 +29055,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 286762,
       "name": "If I were who I am back then",
       "url": "https://open.spotify.com/track/2H4UCwUAWz0CC0ZMkI7Imm"
@@ -32087,7 +32149,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 236639,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/6fkh3UwL0AqbMSCjYogC4V"
@@ -32752,6 +32814,24 @@
     },
     {
       "album": {
+        "name": "Letter",
+        "url": "https://open.spotify.com/album/31HW8lgaLvAbWAAyGENFG5"
+      },
+      "artists": [
+        {
+          "name": "DaNTe'",
+          "url": "https://open.spotify.com/artist/3qopEpowoNJPXRiFeEi6Qm"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222697,
+      "name": "Letter",
+      "url": "https://open.spotify.com/track/3mim8OzDtQI1nNdhpvIHOk"
+    },
+    {
+      "album": {
         "name": "letter",
         "url": "https://open.spotify.com/album/0vyQQUbUhNyRmDWXjEMpdF"
       },
@@ -32875,7 +32955,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 202858,
       "name": "Lie to me",
       "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
@@ -32893,7 +32973,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 177300,
       "name": "Life is Short Film (LISF)",
       "url": "https://open.spotify.com/track/39UJKNGggASNlnDwu1yizN"
@@ -33463,7 +33543,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 135460,
       "name": "LIMBO (feat. Swervy)",
       "url": "https://open.spotify.com/track/0VaMlRGroQ8RgVrQv3s8Uv"
@@ -33995,7 +34075,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 198421,
       "name": "Look at me",
       "url": "https://open.spotify.com/track/19tKS6dpatJ02PWk3tWUbO"
@@ -34103,7 +34183,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 116643,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4XlrF7VTXVtHSBhHo5NWQe"
@@ -35501,6 +35581,24 @@
       "duration_ms": 219458,
       "name": "lovesick",
       "url": "https://open.spotify.com/track/1nP1TjjP1p0CPnXtWzNzal"
+    },
+    {
+      "album": {
+        "name": "Naul <Ballad Pop City>",
+        "url": "https://open.spotify.com/album/5X1uhTLjddBnsq3lxKmTAr"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255565,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/2aSmaOoWoC2GPb3i5J9Daw"
     },
     {
       "album": {
@@ -41555,7 +41653,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 167645,
       "name": "Nxde (Steve Aoki Remix)",
       "url": "https://open.spotify.com/track/6HXVUmiqWSg3OW6yr5mJCJ"
@@ -42747,7 +42845,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 196210,
       "name": "Only if I have you",
       "url": "https://open.spotify.com/track/3A4Sa8vjPGVpG0YHSCrFqq"
@@ -43395,7 +43493,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 216920,
       "name": "Our Season",
       "url": "https://open.spotify.com/track/3yA7377j20H03qiukcBkjU"
@@ -44707,7 +44805,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 183829,
       "name": "Pink Pilot (Art. Hawoong)",
       "url": "https://open.spotify.com/track/2Ei18MtcP7xhDY17iT1Hr4"
@@ -45757,7 +45855,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 279844,
       "name": "Promise Of The World (Howl\u2032s Moving Castle OST)",
       "url": "https://open.spotify.com/track/3tKYamEvcTGLNhAbrbdPs6"
@@ -47058,6 +47156,28 @@
     },
     {
       "album": {
+        "name": "Remembering That Time",
+        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
+      },
+      "artists": [
+        {
+          "name": "Jung Hwan Ho",
+          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
+        },
+        {
+          "name": "Jisoo Sohn",
+          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267986,
+      "name": "Remembering That Time",
+      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
+    },
+    {
+      "album": {
         "name": "Remind",
         "url": "https://open.spotify.com/album/1cli5zZQ2oP31DTO4U8Ybg"
       },
@@ -47411,7 +47531,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 200840,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/10IqjO25MvYVgnmMtavF9U"
@@ -51163,7 +51283,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 241080,
       "name": "Snow on Christmas",
       "url": "https://open.spotify.com/track/1efhs3qNob9LxwIxyGCvdf"
@@ -51305,7 +51425,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 188750,
       "name": "So What",
       "url": "https://open.spotify.com/track/7pXb7Ho5ahUdcJWdAWdnC9"
@@ -53114,6 +53234,24 @@
     },
     {
       "album": {
+        "name": "Missing: The Other Side 2 (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/4ebeZziAY8xysG8bHhHljX"
+      },
+      "artists": [
+        {
+          "name": "Baek A",
+          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/1Idbih6qYZUXzL5I4Wq6Hn"
+    },
+    {
+      "album": {
         "name": "winter feels",
         "url": "https://open.spotify.com/album/3S5YHfIwiPCdFQc17teLWy"
       },
@@ -53125,7 +53263,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 128673,
       "name": "stay with me",
       "url": "https://open.spotify.com/track/0NmyWgwsiMHnGJuncly0ti"
@@ -53665,7 +53803,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 229320,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/789mOE8Bws9wCYSFkoeq6i"
@@ -54315,7 +54453,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 196214,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/79slMuiNDsDAUkyaECBcoc"
@@ -56427,7 +56565,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 304831,
       "name": "The farewell I knew",
       "url": "https://open.spotify.com/track/53cDhBqIZI7a5RTCCviBta"
@@ -56761,7 +56899,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 257956,
       "name": "THE MIRACLE",
       "url": "https://open.spotify.com/track/3FGhoG7s17n1VfDZfCFLQp"
@@ -57195,7 +57333,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 243071,
       "name": "The star",
       "url": "https://open.spotify.com/track/6dJE26yEAPMqGF5U6HaHbC"
@@ -59011,10 +59149,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 253880,
       "name": "too late",
       "url": "https://open.spotify.com/track/1HvjjweYcnWWEF6kogNTdA"
+    },
+    {
+      "album": {
+        "name": "visa4badtrip 0.5",
+        "url": "https://open.spotify.com/album/79KBIfNkdXMVVluxvV146N"
+      },
+      "artists": [
+        {
+          "name": "Lil Kintexx",
+          "url": "https://open.spotify.com/artist/05GiFsy2bdPTpl3oyJyZic"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145696,
+      "name": "too much (Prod. 030)",
+      "url": "https://open.spotify.com/track/0uy4CCJdr8qjiiFFyVZXCZ"
     },
     {
       "album": {
@@ -59688,6 +59844,24 @@
     },
     {
       "album": {
+        "name": "Songs I'll Never Sing For You Volume.1",
+        "url": "https://open.spotify.com/album/69PXgnmyr9q4isx0cKcWBj"
+      },
+      "artists": [
+        {
+          "name": "David Oh",
+          "url": "https://open.spotify.com/artist/7LfjAtFXL1fwMB23GNf8Mu"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199366,
+      "name": "U",
+      "url": "https://open.spotify.com/track/5GpjDEuBecJskwBdyti6KU"
+    },
+    {
+      "album": {
         "name": "OFOSUN",
         "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
       },
@@ -60027,6 +60201,24 @@
       "duration_ms": 187520,
       "name": "Undercover",
       "url": "https://open.spotify.com/track/25hPY8NCwcvXr21YdWmPns"
+    },
+    {
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/3JEfQIglXMJz3D5imP88m0"
+      },
+      "artists": [
+        {
+          "name": "coldnight",
+          "url": "https://open.spotify.com/artist/0lkK1zrc663DxBxvR13yEj"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/6MrjuOlP7stTrxno2dJGs9"
     },
     {
       "album": {
@@ -62241,6 +62433,24 @@
       "duration_ms": 198716,
       "name": "We were beautiful",
       "url": "https://open.spotify.com/track/3mJwxIe4I6V9Df1K0jtj9f"
+    },
+    {
+      "album": {
+        "name": "We Will Be One",
+        "url": "https://open.spotify.com/album/2u0bEo4WR4tvQHNlcvYQZV"
+      },
+      "artists": [
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183542,
+      "name": "We Will Be One",
+      "url": "https://open.spotify.com/track/6d8FfbeQRPThAt4Xl5PQWT"
     },
     {
       "album": {
@@ -65759,7 +65969,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 282282,
-      "name": "You Gave Me Back Tomorrow (feat. Soulman) (prod. \ubc15\uc0c1\uade0 (LA\ubc15\ud53c\ub514)) - Korean Version",
+      "name": "You Gave Me Back Tomorrow (feat. Soulman) (prod. LA\ubc15\ud53c\ub514) - Korean Version",
       "url": "https://open.spotify.com/track/2pquS6iWnzw7BzDYLUM1pz"
     },
     {
@@ -65797,6 +66007,24 @@
       "duration_ms": 295093,
       "name": "You know everything",
       "url": "https://open.spotify.com/track/3gUbxvr8LQ3OhT69E82crb"
+    },
+    {
+      "album": {
+        "name": "You may live in happiness (2022)",
+        "url": "https://open.spotify.com/album/6Bnnguv7ITOcrnTcqGQIy8"
+      },
+      "artists": [
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274880,
+      "name": "You may live in happiness (2022)",
+      "url": "https://open.spotify.com/track/0D5e4R40frQYkr2PzdMpHL"
     },
     {
       "album": {
@@ -67085,7 +67313,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 206494,
       "name": "\uadf8\ub0e5 \uadf8\ub807\ub2e4\uace0",
       "url": "https://open.spotify.com/track/1VwItTeGdZBrPbd0dslhxt"

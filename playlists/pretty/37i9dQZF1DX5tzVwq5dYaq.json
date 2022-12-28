@@ -1,12 +1,12 @@
 {
   "description": "Musica che, come la primavera, rende tutto pi\u00f9 bello.",
-  "num_followers": 55743,
+  "num_followers": 55740,
   "original_name": "Primavera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMGMzMmM2MjljOTQ5MjIyOWMwMjFlMjdkMTYxMTk2MzZj",
+  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMDJjZDIxZmQ0YmNhNmZjNjY1MjE0MGE4Nzc3ZTJlOTIw",
   "tracks": [
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Thoughts From Yesterday",
-        "url": "https://open.spotify.com/album/21bHaOy9Gsbw9B2nC0o4Y1"
-      },
-      "artists": [
-        {
-          "name": "Elliot Root",
-          "url": "https://open.spotify.com/artist/2czQ8vG4i3wBWxfsAt4yqw"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "June, After Dark",
-      "url": "https://open.spotify.com/track/1nSWQ5Y7OcuGiWGdA1UYlr"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "love + everything else",
         "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 199169,
       "name": "cheap sunglasses",
       "url": "https://open.spotify.com/track/2FwP6d7xG5Hch65LBsa7Zi"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Thoughts From Yesterday",
+        "url": "https://open.spotify.com/album/21bHaOy9Gsbw9B2nC0o4Y1"
+      },
+      "artists": [
+        {
+          "name": "Elliot Root",
+          "url": "https://open.spotify.com/artist/2czQ8vG4i3wBWxfsAt4yqw"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "June, After Dark",
+      "url": "https://open.spotify.com/track/1nSWQ5Y7OcuGiWGdA1UYlr"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
+        "name": "Pretty Girl (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
+      },
+      "artists": [
+        {
+          "name": "Becca Adams",
+          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
+        }
+      ],
+      "duration_ms": 180828,
+      "name": "Pretty Girl - Acoustic Version",
+      "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
         "name": "Less Is More",
         "url": "https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 158474,
       "name": "Reality",
       "url": "https://open.spotify.com/track/6rHROoXjEfuxYVw1nd7plQ"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
-        "name": "Pretty Girl (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
-      },
-      "artists": [
-        {
-          "name": "Becca Adams",
-          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
-        }
-      ],
-      "duration_ms": 180828,
-      "name": "Pretty Girl - Acoustic Version",
-      "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
     },
     {
       "added_at": "2022-09-21 10:12:07",

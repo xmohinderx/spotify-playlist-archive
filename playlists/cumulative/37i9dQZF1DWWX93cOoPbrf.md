@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2022\. Aldo Trujillo en portada.
 
-352 songs - 18 hr 0 min - [published](https://open.spotify.com/playlist/3NcL9qMtEpCLAYx2RQtV9b)
+353 songs - 18 hr 4 min - [published](https://open.spotify.com/playlist/3NcL9qMtEpCLAYx2RQtV9b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,8 @@
 | [Se Chambiar](https://open.spotify.com/track/0DhsymswrtrrXT35LM0NEV) | [Clave 520](https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Se Chambiar](https://open.spotify.com/album/37TUkJIOuGtrFMtfX6nMfF) | 2:37 | 2022-09-23 | 2022-10-15 |
 | [Se Les Peló Baltazar](https://open.spotify.com/track/1wkzeiZ4eRu5gbW26vWbwy) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Se Les Peló Baltazar](https://open.spotify.com/album/2gPVLB8l3Po7qFcQbm0leT) | 2:28 | 2022-12-09 |  |
 | [Se Me Quedan Viendo Raro](https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Se Me Quedan Viendo Raro](https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR) | 3:17 | 2022-09-30 | 2022-11-05 |
-| [Se Pistearon Los Jefes](https://open.spotify.com/track/72nutc9x8SS0jlYjpial3Z) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Corridos de Clase, Vol.1](https://open.spotify.com/album/3lT7LKNoatLlhcio83vUm2) | 3:03 | 2022-12-16 |  |
+| [Se Pistearon Los Jefes](https://open.spotify.com/track/1zRVLXcyO09rXgIRokSuWG) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Corridos de Clase, Vol.1](https://open.spotify.com/album/3WU7CF909gg8zaUegnLAQO) | 3:03 | 2022-12-16 |  |
+| [Se Pistearon Los Jefes](https://open.spotify.com/track/72nutc9x8SS0jlYjpial3Z) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Corridos de Clase, Vol.1](https://open.spotify.com/album/3lT7LKNoatLlhcio83vUm2) | 3:03 | 2022-12-16 | 2022-12-28 |
 | [Seguimos De Pie AKA M Gordo](https://open.spotify.com/track/0I1MRgCGWi6cHiSWIv6L0j) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Seguimos De Pie AKA M Gordo](https://open.spotify.com/album/3Z8HTMWbdLKXvVrN0v3YTH) | 2:54 | 2022-09-23 | 2022-11-05 |
 | [Selfies](https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Selfies](https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg) | 3:00 | 2022-10-14 | 2022-12-03 |
 | [Serafín](https://open.spotify.com/track/5Pbb3cVhYMtg58gnFq4uhp) | [La Duda](https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafín](https://open.spotify.com/album/1wzg7v8U1aZjvaYfpfNFc7) | 2:56 | 2022-07-15 | 2022-10-01 |

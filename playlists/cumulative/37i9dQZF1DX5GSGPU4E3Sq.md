@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-269 songs - 15 hr 12 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
+270 songs - 15 hr 16 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [A Short Story of the Mahale Mountains](https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Short Story of the Mahale Mountains](https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO) | 2:42 | 2022-07-19 | 2022-12-21 |
 | [A State of Serenity](https://open.spotify.com/track/176IOSw9ni8nujE5dohokG) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [A State of Serenity](https://open.spotify.com/album/57igbGHTL6IlAtYAbN15PV) | 2:18 | 2022-07-19 |  |
 | [A State of Serenity](https://open.spotify.com/track/2X5ft2Wr7rKNWOIq95r4jN) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [A State of Serenity](https://open.spotify.com/album/4cRhOKD4JYSYT3m6rCoadt) | 2:18 | 2022-06-29 | 2022-07-29 |
-| [A3](https://open.spotify.com/track/1Jcqa7zjW20XYBw5MqUli1) | [ADAM TK](https://open.spotify.com/artist/7hauEwIlR9Ca94YCGOCmP1) | [A3](https://open.spotify.com/album/2B0YCjyV5FA8oaFea1Gvg3) | 3:02 | 2022-07-19 |  |
+| [A3](https://open.spotify.com/track/1Jcqa7zjW20XYBw5MqUli1) | [ADAM TK](https://open.spotify.com/artist/7hauEwIlR9Ca94YCGOCmP1) | [A3](https://open.spotify.com/album/2B0YCjyV5FA8oaFea1Gvg3) | 3:02 | 2022-07-19 | 2022-12-28 |
 | [A3](https://open.spotify.com/track/3q75tGobnVPeZn3qw34gHB) | [ADAM TK](https://open.spotify.com/artist/7hauEwIlR9Ca94YCGOCmP1) | [A3](https://open.spotify.com/album/74YxyF19A8tA4VSWeqeEKP) | 3:02 | 2022-06-29 | 2022-07-29 |
 | [Aether Talk](https://open.spotify.com/track/6Av8cijBWCaJtAGAuAr5s6) | [Mei Wyatt](https://open.spotify.com/artist/3dlas5ivLc1UoaGKlWz7ak) | [Aether Talk](https://open.spotify.com/album/3cARiEXphXSJtlU63ttYuC) | 2:52 | 2022-06-29 |  |
 | [Alison](https://open.spotify.com/track/6kzNvefDJPplSR4CCjF5nf) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Alison](https://open.spotify.com/album/78iFE9QoiqvXXQ6B8Gw2Vh) | 3:13 | 2022-06-29 | 2022-07-29 |
@@ -202,6 +202,7 @@
 | [Resurrection](https://open.spotify.com/track/6yLO7nPmUpyPgzfXD9FbpX) | [My Wondrous Dream](https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q) | [Resurrection](https://open.spotify.com/album/5cdqw0PmirLemkUdjvgs2b) | 3:00 | 2022-07-19 |  |
 | [Rural Landscapes](https://open.spotify.com/track/0VEv5eVGdRogFPx7jI0fdo) | [Emerald High](https://open.spotify.com/artist/0GqXpiHp5JAF6pRU9orT7Q) | [Industrial Structures](https://open.spotify.com/album/5gDhWcsMxLTreuS2zYrisU) | 2:57 | 2022-07-19 | 2022-12-16 |
 | [Rural Landscapes](https://open.spotify.com/track/6THgi0W2fwz42lNfFlnOee) | [Emerald High](https://open.spotify.com/artist/0GqXpiHp5JAF6pRU9orT7Q) | [Industrial Structures](https://open.spotify.com/album/66U0R8mY1PyzlVu5YkdcCb) | 2:57 | 2022-06-29 | 2022-07-29 |
+| [Sammram](https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821) | [Ikupu Ume](https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP) | [Sammram](https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz) | 3:26 | 2022-12-28 |  |
 | [Senseful](https://open.spotify.com/track/4ManKtJrC9Ry4yGXWfSJ9A) | [Eternal Ocean](https://open.spotify.com/artist/4o9SdUqz20DIjiXmxKbE3f) | [Miracle](https://open.spotify.com/album/7aAIykm8uOZg51FkNKMUNS) | 2:53 | 2022-06-29 |  |
 | [Sequel](https://open.spotify.com/track/3SuFqv9coNjBTkRrPLlr2Q) | [..\. and the stars](https://open.spotify.com/artist/4H6Wrh5SBfHLYNirgs3pLO) | [Sequel](https://open.spotify.com/album/0K9TZl9c0ZQuETSELTQvxu) | 3:38 | 2022-09-13 |  |
 | [Sequel](https://open.spotify.com/track/6jxhYCjs0eeu3lUrkNDvyG) | [..\. and the stars](https://open.spotify.com/artist/4H6Wrh5SBfHLYNirgs3pLO) | [Sequel](https://open.spotify.com/album/4ioPSkVm13kcY5a6ISSYD4) | 3:38 | 2022-06-29 | 2022-07-28 |

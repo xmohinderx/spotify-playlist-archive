@@ -1,6 +1,6 @@
 {
   "description": "New music from popular Hindi artists. Cover- Rito Riba",
-  "num_followers": 15001,
+  "num_followers": 15116,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
@@ -11,7 +11,7 @@
     {
       "added_at": "2022-12-23 01:00:00",
       "album": {
-        "name": "Heer Ranjha - Reprise",
+        "name": "Heer Ranjha (Reprise)",
         "url": "https://open.spotify.com/album/3SgxfvjAmlXnHYm7Ej3ix7"
       },
       "artists": [
@@ -22,10 +22,14 @@
         {
           "name": "Lisa Mishra",
           "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
         }
       ],
       "duration_ms": 235000,
-      "name": "Heer Ranjha - Reprise",
+      "name": "Heer Ranjha (Reprise)",
       "url": "https://open.spotify.com/track/1bqUw1KWD8e9SiZx9vXTNh"
     },
     {

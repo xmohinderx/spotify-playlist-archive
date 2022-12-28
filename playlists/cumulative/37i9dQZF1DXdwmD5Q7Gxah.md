@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> All the indescribable feelings that music gives you\. cover: abby sage
+> All the indescribable feelings that music gives you, a \#corecore paradise\. cover: abby sage
 
-1,998 songs - 4 day 10 hr 57 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,999 songs - 4 day 11 hr 2 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 | 2020-05-22 | 2021-03-06 |
 | [blue](https://open.spotify.com/track/5YkAqxoym5dZ1fYoaN0iCx) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [blue](https://open.spotify.com/album/3H1sqBMdhQtwQZ3w2nWAOA) | 3:00 | 2019-12-21 | 2020-01-10 |
 | [Blue](https://open.spotify.com/track/2y6G2t0eCNCeTOHwIKjc3l) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Blue](https://open.spotify.com/album/3Qmc7xQ6vy3eNAS6RMpcGK) | 3:07 | 2019-07-30\* | 2019-08-15 |
-| [Blue](https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Blue](https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU) | 3:46 | 2022-11-11 |  |
+| [Blue](https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Blue](https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU) | 3:46 | 2022-11-11 | 2022-12-28 |
 | [Blue Cellophane](https://open.spotify.com/track/0tpsGNKhQwqTlj2XZ03ql2) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Blue Cellophane](https://open.spotify.com/album/4OfgZO9nnAjfwA1ez25pCg) | 3:01 | 2019-11-16 | 2020-05-29 |
 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 | 2021-07-01 | 2021-12-02 |
 | [blue skies](https://open.spotify.com/track/7duh8jJuNZbWQjoTx2GsDz) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [blue skies](https://open.spotify.com/album/4ZDKZJpwxWeMZ1IhCPDb0R) | 2:08 | 2019-09-14 | 2020-03-25 |
@@ -598,6 +598,7 @@
 | [Feel Like Doing Nothing](https://open.spotify.com/track/2kUQyPvQpScTvEi31bXG9h) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Feel Like Doing Nothing](https://open.spotify.com/album/7Ln0bP0xLLpxm43S1beehA) | 2:32 | 2020-08-07 | 2020-08-21 |
 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 | 2019-07-30\* | 2020-07-31 |
 | [Feeling Lonely](https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:17 | 2020-05-12 | 2020-05-29 |
+| [feelings](https://open.spotify.com/track/52m7HHOAJM9MLfwOkhu4pv) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [innerdialogue](https://open.spotify.com/album/71fYutyUI0dEQ0443BaXde) | 4:56 | 2022-12-27 |  |
 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 | 2021-11-20 | 2022-02-26 |
 | [FEELS LIKE HOME](https://open.spotify.com/track/0T9un1tCka7l3lwsJmmLLU) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [FEELS LIKE HOME](https://open.spotify.com/album/5HHEFnwQ2n6rkUOiRLkv3G) | 3:31 | 2019-08-23 | 2019-10-29 |
 | [Feels Like The First Time](https://open.spotify.com/track/3ebtMrN6PQnfmmbecwxCqB) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [The Sea](https://open.spotify.com/album/6RWaO30cfIopmf7CqNfCVH) | 3:13 | 2020-10-10 | 2020-11-27 |

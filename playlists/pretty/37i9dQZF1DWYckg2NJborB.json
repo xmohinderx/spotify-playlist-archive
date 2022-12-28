@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53091,
+  "num_followers": 53083,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDYzZGU0ZWIyMjk5MzE2ZmNhNDU4ZTBkYWM0MmUyYTli",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDgxZWNhYTJlMTE3MTI2NWEwNzU2NDdlNGZmNjNlNDc3",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -603,6 +603,22 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
+        "name": "Max Jury",
+        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
+      },
+      "artists": [
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        }
+      ],
+      "duration_ms": 235936,
+      "name": "Great American Novel",
+      "url": "https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
         "name": "Opheliac (The Deluxe Edition)",
         "url": "https://open.spotify.com/album/7FDaA4N8rvotYVci2updNR"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Billy Breathes",
-        "url": "https://open.spotify.com/album/4Gesl7yxQQF2taqnoEy3NN"
-      },
-      "artists": [
-        {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
-        }
-      ],
-      "duration_ms": 319293,
-      "name": "Prince Caspian",
-      "url": "https://open.spotify.com/track/255zg2kzJRA0JEOxYwMaUs"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Cultosaurus Erectus",
         "url": "https://open.spotify.com/album/2w9ox8f1PSz30Ayanrm9C4"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 399106,
       "name": "Black Blade",
       "url": "https://open.spotify.com/track/4Nyx3c0IPFITNo42yodlrh"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Billy Breathes",
+        "url": "https://open.spotify.com/album/4Gesl7yxQQF2taqnoEy3NN"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 319293,
+      "name": "Prince Caspian",
+      "url": "https://open.spotify.com/track/255zg2kzJRA0JEOxYwMaUs"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -791,22 +807,6 @@
       "duration_ms": 392506,
       "name": "Pattern Recognition",
       "url": "https://open.spotify.com/track/1uWk8vnCYaoZQvCW8KYepP"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Absolute Zero",
-        "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
-      },
-      "artists": [
-        {
-          "name": "Little Green Cars",
-          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
-        }
-      ],
-      "duration_ms": 211626,
-      "name": "Harper Lee",
-      "url": "https://open.spotify.com/track/03F8N51pg6btI2LE5WE8Ld"
     }
   ],
   "unique_name": "The Writer's Playlist",

@@ -1,12 +1,12 @@
 {
   "description": "Hang ten.",
-  "num_followers": 478349,
+  "num_followers": 478520,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTc1MDgxNywwMDAwMDAwMDI0ZmEwYzBiN2QxOWY2MmVmODNiOWFhNTY4YWMwNmZm",
+  "snapshot_id": "MTY2OTc1MDgxNywwMDAwMDAwMGQ3MWY0ZjE3NTIwYWVlNjkyZjY2NTViYzVmMTliZDc3",
   "tracks": [
     {
       "added_at": "2022-09-22 19:11:53",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "666",
-        "url": "https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB"
-      },
-      "artists": [
-        {
-          "name": "Sugar Candy Mountain",
-          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
-        }
-      ],
-      "duration_ms": 192027,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 166213,
       "name": "One Another",
       "url": "https://open.spotify.com/track/5gC8P6NwgqxcTYnwml5q5j"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB"
+      },
+      "artists": [
+        {
+          "name": "Sugar Candy Mountain",
+          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
+        }
+      ],
+      "duration_ms": 192027,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC"
     },
     {
       "added_at": "2022-09-22 19:11:53",

@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 495467,
+  "num_followers": 495634,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjQ3MiwwMDAwMDAwMGQyMDQwYmJmY2VmY2M1N2RkNDMwMGMyNzlhZDRlYzJk",
+  "snapshot_id": "MTY3MDU2MjQ3MiwwMDAwMDAwMGVjYzllYzNjMzc3NTZiMjY0YzliNmQ4MDJkMGE4M2My",
   "tracks": [
     {
       "added_at": "2022-12-09 05:07:52",
@@ -451,18 +451,22 @@
     {
       "added_at": "2022-12-09 05:07:52",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+        "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 287266,
-      "name": "Cornelia Street",
-      "url": "https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a"
+      "duration_ms": 177322,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT"
     },
     {
       "added_at": "2022-12-09 05:07:52",
@@ -483,22 +487,18 @@
     {
       "added_at": "2022-12-09 05:07:52",
       "album": {
-        "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 177322,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT"
+      "duration_ms": 287266,
+      "name": "Cornelia Street",
+      "url": "https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a"
     },
     {
       "added_at": "2022-12-09 05:07:52",

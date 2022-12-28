@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-251 songs - 20 hr 26 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+252 songs - 20 hr 30 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Golden Dawn](https://open.spotify.com/track/7bllwcaPt7Di4dI2mbpvfU) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/7luhH7DG3J2silksmUZ73i) | 2:50 | 2021-11-12 | 2022-07-29 |
 | [Gondii](https://open.spotify.com/track/6P7FJBspEtLcqjzltUv74y) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Changes](https://open.spotify.com/album/05ag5ukffFozEnXGOeuTTD) | 4:56 | 2022-10-28 |  |
 | [Greven](https://open.spotify.com/track/54URuxbHDl2XnK5lSWJNNC) | [Fontän](https://open.spotify.com/artist/6EXurtehkPBoE9zRRHW9sO) | [Fontän](https://open.spotify.com/album/4wooYSPNjboju7eYkIn5Kq) | 6:05 | 2021-11-12 | 2022-07-17 |
-| [Greven](https://open.spotify.com/track/5QbDGQdwnrfxWuBDhNMVMN) | [Fontän](https://open.spotify.com/artist/6EXurtehkPBoE9zRRHW9sO) | [Fontän](https://open.spotify.com/album/0kyJHCH5zr45XB4ZXnl9cg) | 6:05 | 2021-11-12 |  |
+| [Greven](https://open.spotify.com/track/5QbDGQdwnrfxWuBDhNMVMN) | [Fontän](https://open.spotify.com/artist/6EXurtehkPBoE9zRRHW9sO) | [Fontän](https://open.spotify.com/album/0kyJHCH5zr45XB4ZXnl9cg) | 6:05 | 2021-11-12 | 2022-12-28 |
 | [Hiisi, Pt\. 1](https://open.spotify.com/track/2gXyYqSL0g17iNfUZVQryO) | [Kiki Pau](https://open.spotify.com/artist/2U4JtZdPoHPqEBofPg0CjC) | [Hiisi, Pt\. 1](https://open.spotify.com/album/1vmhF0O98KUC5m9pH3jzf6) | 6:48 | 2021-11-12 | 2022-07-28 |
 | [Hit](https://open.spotify.com/track/4x12MWeIxxxkpZNPaX3Erd) | [Flowers Must Die](https://open.spotify.com/artist/27P1oHX79UqesBdT17z28I) | [Kompost](https://open.spotify.com/album/7svO470IGQ7iHSRlCV1ggO) | 5:07 | 2021-11-12 | 2022-07-11 |
 | [Hit It and Quit It](https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Fudge Sandwich](https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw) | 4:00 | 2021-11-12 | 2022-07-24 |
@@ -172,6 +172,7 @@
 | [Pollution Rise](https://open.spotify.com/track/4vGQm0QW07GtI44ks50qp0) | [Red Belmont](https://open.spotify.com/artist/0V5q8bb8VlZqaHh6TpEDx6) | [Into My Own](https://open.spotify.com/album/2FZTKvIax4NkqVHEOdV7Sw) | 4:17 | 2021-11-12 | 2022-07-07 |
 | [Posthumous Forgiveness](https://open.spotify.com/track/3rQ0ZaLrkLv8HhAAKSbAC0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Posthumous Forgiveness](https://open.spotify.com/album/0AA8MiQS9djcrznNT83ViG) | 6:06 | 2021-11-12 | 2022-07-27 |
 | [premonition / ‚óØ / it shines through](https://open.spotify.com/track/1oQrm94AgXdhDE0wusgKrc) | [HOLY](https://open.spotify.com/artist/6TNGPJ14slujZq0YSywpsQ) | [premonition](https://open.spotify.com/album/22ccKxifv1lmzw5C9pdznt) | 6:37 | 2021-11-12 | 2022-07-29 |
+| [Put Your Thing On Me](https://open.spotify.com/track/55uKi2bQPxwGgFkxOiMicQ) | [The Grodeck Whipperjenny](https://open.spotify.com/artist/644ywfAXoGkPjOOxg2nZPE) | [The Grodeck Whipperjenny](https://open.spotify.com/album/2wdDKLGzrJ0SR1Q3ydZ4P0) | 4:36 | 2021-11-12 |  |
 | [Put Your Thing On Me](https://open.spotify.com/track/4VFMCnFF9Hc5Ki6mO9km5J) | [The Grodeck Whipperjenny](https://open.spotify.com/artist/644ywfAXoGkPjOOxg2nZPE) | [The Grodeck Whipperjenny \(Digitally Remastered\)](https://open.spotify.com/album/5qGe0KjGNFeVqGBHRwZwfT) | 4:36 | 2021-11-12 | 2022-07-28 |
 | [På knivan](https://open.spotify.com/track/1LlK2ubpG3rHStn7ZGav3j) | [Sammal](https://open.spotify.com/artist/163FlKihIniAXnf9NdoIZk) | [På knivan](https://open.spotify.com/album/5FhK556d60Gy5XBHCrrrm5) | 3:29 | 2022-09-03 | 2022-12-06 |
 | [Rasayana](https://open.spotify.com/track/1mf0q8XDtJwuQVP8mnpsfz) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A New Day Dawning](https://open.spotify.com/album/7CvbhsQF1ESh1ZXb2h0Sx4) | 9:00 | 2021-11-12 | 2022-10-06 |

@@ -19120,6 +19120,24 @@
     },
     {
       "album": {
+        "name": "Flowow",
+        "url": "https://open.spotify.com/album/08Ga0oeERhkVviuU1PML0I"
+      },
+      "artists": [
+        {
+          "name": "Fed Nance",
+          "url": "https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115124,
+      "name": "Flowow",
+      "url": "https://open.spotify.com/track/7lY2zovuTeMCvUvk07Z0sG"
+    },
+    {
+      "album": {
         "name": "Flowstate",
         "url": "https://open.spotify.com/album/26Xh03TQE0jvRP0mhqYAR6"
       },
@@ -28527,6 +28545,24 @@
       "duration_ms": 83437,
       "name": "Just Relax",
       "url": "https://open.spotify.com/track/6FKPqYsQSvYCTmcTEIh9ui"
+    },
+    {
+      "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/4kOYBeJdWzDMmx5xUlt2zK"
+      },
+      "artists": [
+        {
+          "name": "Malia L\u00f8u",
+          "url": "https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123544,
+      "name": "Just Us",
+      "url": "https://open.spotify.com/track/1rH0fl85kkL8ySygNMWvRM"
     },
     {
       "album": {
@@ -38627,7 +38663,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 140250,
       "name": "Never Forget Where You Came From",
       "url": "https://open.spotify.com/track/6aaDGpzsEJCke8qwMVgao0"
@@ -39109,7 +39145,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 122926,
       "name": "Night Jam",
       "url": "https://open.spotify.com/track/21iOXhZjIM9V95zoUV1vaN"
@@ -49677,7 +49713,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 135000,
       "name": "Shibuya Station",
       "url": "https://open.spotify.com/track/3RPsh6RCp4bkxjjO2yZ0x1"
@@ -63537,6 +63573,28 @@
       "duration_ms": 155246,
       "name": "What Do You Want - Don Philippe Remix",
       "url": "https://open.spotify.com/track/3pN0n9iixGsDNRvokjO2mr"
+    },
+    {
+      "album": {
+        "name": "What I Ever Wished For",
+        "url": "https://open.spotify.com/album/33fy0T55E63F7XnFmiddmI"
+      },
+      "artists": [
+        {
+          "name": "landlooper",
+          "url": "https://open.spotify.com/artist/38qqfsLO3vaDBewodzX1V1"
+        },
+        {
+          "name": "eleven",
+          "url": "https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "What I Ever Wished For",
+      "url": "https://open.spotify.com/track/4YAHjyurI5EIwNO1tFyjE4"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 7853,
+  "num_followers": 7864,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDY1N2U5NWViMjE1MDBhMTk4NmY1Njc2NWVhN2RmNjQ3",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDFkMjA1YWZlM2UxYzcwYTFiNGIwYWNhYTMwNTI5ODE0",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -315,22 +315,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Rarities",
-        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Ain't No Cure For Love",
-      "url": "https://open.spotify.com/track/4F6PiM255qHEw6CKRJTjPs"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Hymns of the 49th Parallel",
         "url": "https://open.spotify.com/album/7aTcKEqDqi1NoR2RggubbX"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 268733,
       "name": "Bird on a Wire",
       "url": "https://open.spotify.com/track/53WJ6eGjiUvlqniOj6fsr2"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Rarities",
+        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Ain't No Cure For Love",
+      "url": "https://open.spotify.com/track/4F6PiM255qHEw6CKRJTjPs"
     },
     {
       "added_at": "2018-12-06 19:29:22",

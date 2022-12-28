@@ -1,15 +1,15 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 87078,
+  "num_followers": 87092,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjAyNTQ1NSwwMDAwMDAwMGFkZmQwMGMxN2VlNWMyOTZmZTRkYWE2OTQxMWM5NmMx",
+  "snapshot_id": "MTY3MjAyNTQ1NSwwMDAwMDAwMDgxMjFhMjRjMjFhMjdhODQwODU4MTE3MDUzMjJjMTli",
   "tracks": [
     {
-      "added_at": "2022-12-27 01:21:04",
+      "added_at": "2022-12-28 00:58:47",
       "album": {
         "name": "\u5f88\u60f3\u5f88\u60f3\u4f60 (\u96fb\u8996\u5287\u300a\u6708\u88e1\u9752\u5c71\u6de1\u5982\u756b\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/5WSMqB9fHeEDZ3jQbtHkkG"
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-12-19 06:23:29",
       "album": {
-        "name": "\u9759\u6084\u6084",
-        "url": "https://open.spotify.com/album/2HPDOJb3fpTL7AwiRLfw5L"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u6ceb",
-          "url": "https://open.spotify.com/artist/3mpbX209GwoScDJLVLRHk9"
-        }
-      ],
-      "duration_ms": 185678,
-      "name": "\u9759\u6084\u6084",
-      "url": "https://open.spotify.com/track/5PVNTW0LaOF2uino8FV0m2"
-    },
-    {
-      "added_at": "2022-12-19 06:23:29",
-      "album": {
         "name": "\u4f60\u5728\u7169\u60f1\u4ec0\u9ebc",
         "url": "https://open.spotify.com/album/4GfRmbxZ3d1K05z3DWQlqa"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 275493,
       "name": "\u4f60\u88ab\u5beb\u5728\u6211\u7684\u6b4c\u88e1",
       "url": "https://open.spotify.com/track/7ovUSP7jWkzWR2SHptYJfd"
+    },
+    {
+      "added_at": "2022-12-19 06:23:29",
+      "album": {
+        "name": "\u9759\u6084\u6084",
+        "url": "https://open.spotify.com/album/2HPDOJb3fpTL7AwiRLfw5L"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u6ceb",
+          "url": "https://open.spotify.com/artist/3mpbX209GwoScDJLVLRHk9"
+        }
+      ],
+      "duration_ms": 185678,
+      "name": "\u9759\u6084\u6084",
+      "url": "https://open.spotify.com/track/5PVNTW0LaOF2uino8FV0m2"
     },
     {
       "added_at": "2022-12-19 06:23:29",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-12-19 06:23:29",
       "album": {
+        "name": "Take Off - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "duration_ms": 226013,
+      "name": "Let me love u",
+      "url": "https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH"
+    },
+    {
+      "added_at": "2022-12-19 06:23:29",
+      "album": {
         "name": "Thoughts Of You",
         "url": "https://open.spotify.com/album/2ZXNtjobXsbWgzcRlYGaPx"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 224520,
       "name": "Thoughts Of You (Feat. pH-1 & BENZO)",
       "url": "https://open.spotify.com/track/3NVsaXCV8RR8VGZzZlXuVX"
-    },
-    {
-      "added_at": "2022-12-19 06:23:29",
-      "album": {
-        "name": "Take Off - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL"
-      },
-      "artists": [
-        {
-          "name": "WayV",
-          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
-        }
-      ],
-      "duration_ms": 226013,
-      "name": "Let me love u",
-      "url": "https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH"
     },
     {
       "added_at": "2022-12-19 06:23:29",
@@ -679,26 +679,6 @@
     {
       "added_at": "2022-12-19 06:23:29",
       "album": {
-        "name": "\u597d\u50cf\u90fd\u4e00\u6a23 (\u96fb\u8996\u5287\u300a\u5169\u500b\u4eba\u7684\u5c0f\u68ee\u6797\u300b\u7247\u5c3e\u66f2)",
-        "url": "https://open.spotify.com/album/5yMcA6cG26E9Hfgy81EBl6"
-      },
-      "artists": [
-        {
-          "name": "\u865e\u66f8\u6b23",
-          "url": "https://open.spotify.com/artist/5zPqM8LgROl23YebfY1a7B"
-        },
-        {
-          "name": "\u5f35\u5f6c\u5f6c",
-          "url": "https://open.spotify.com/artist/3mqdyRN0qBJFC2K8QtaOoe"
-        }
-      ],
-      "duration_ms": 177536,
-      "name": "\u597d\u50cf\u90fd\u4e00\u6a23 (\u96fb\u8996\u5287\u300a\u5169\u500b\u4eba\u7684\u5c0f\u68ee\u6797\u300b\u7247\u5c3e\u66f2)",
-      "url": "https://open.spotify.com/track/7nX4mpxrY71HCtzRa3zmrn"
-    },
-    {
-      "added_at": "2022-12-19 06:23:29",
-      "album": {
         "name": "\u4f60\u9084\u4e0d\u77e5\u9053?",
         "url": "https://open.spotify.com/album/64w5Op6YBOQ9AiV76Rvikp"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 191365,
       "name": "\u4f60\u9084\u4e0d\u77e5\u9053?",
       "url": "https://open.spotify.com/track/4dV0T2JbvRemNAdt2oaOhG"
+    },
+    {
+      "added_at": "2022-12-19 06:23:29",
+      "album": {
+        "name": "\u597d\u50cf\u90fd\u4e00\u6a23 (\u96fb\u8996\u5287\u300a\u5169\u500b\u4eba\u7684\u5c0f\u68ee\u6797\u300b\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/5yMcA6cG26E9Hfgy81EBl6"
+      },
+      "artists": [
+        {
+          "name": "\u865e\u66f8\u6b23",
+          "url": "https://open.spotify.com/artist/5zPqM8LgROl23YebfY1a7B"
+        },
+        {
+          "name": "\u5f35\u5f6c\u5f6c",
+          "url": "https://open.spotify.com/artist/3mqdyRN0qBJFC2K8QtaOoe"
+        }
+      ],
+      "duration_ms": 177536,
+      "name": "\u597d\u50cf\u90fd\u4e00\u6a23 (\u96fb\u8996\u5287\u300a\u5169\u500b\u4eba\u7684\u5c0f\u68ee\u6797\u300b\u7247\u5c3e\u66f2)",
+      "url": "https://open.spotify.com/track/7nX4mpxrY71HCtzRa3zmrn"
     },
     {
       "added_at": "2022-12-19 06:23:29",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-12-19 06:23:29",
       "album": {
-        "name": "My Only",
-        "url": "https://open.spotify.com/album/51sZueI8QTDvCQnsCokQ6n"
-      },
-      "artists": [
-        {
-          "name": "AcQUA \u6e90\u5c11\u5e74",
-          "url": "https://open.spotify.com/artist/0CIydy50GshlhGW8ajW0Bn"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "My Only",
-      "url": "https://open.spotify.com/track/5moOeYLCth43bfjWtrjLoZ"
-    },
-    {
-      "added_at": "2022-12-19 06:23:29",
-      "album": {
         "name": "\u4e0d\u5b8c\u7f8e\u4e0d\u5f8c\u6094",
         "url": "https://open.spotify.com/album/443gH48fTBtHf7dHNyh4uW"
       },
@@ -1067,6 +1051,38 @@
       "duration_ms": 228228,
       "name": "\u4e0d\u5b8c\u7f8e\u4e0d\u5f8c\u6094",
       "url": "https://open.spotify.com/track/7enqjdBiOa8RK3P9NBIRz7"
+    },
+    {
+      "added_at": "2022-12-19 06:23:29",
+      "album": {
+        "name": "My Only",
+        "url": "https://open.spotify.com/album/51sZueI8QTDvCQnsCokQ6n"
+      },
+      "artists": [
+        {
+          "name": "AcQUA \u6e90\u5c11\u5e74",
+          "url": "https://open.spotify.com/artist/0CIydy50GshlhGW8ajW0Bn"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "My Only",
+      "url": "https://open.spotify.com/track/5moOeYLCth43bfjWtrjLoZ"
+    },
+    {
+      "added_at": "2022-12-19 06:23:29",
+      "album": {
+        "name": "Little Present",
+        "url": "https://open.spotify.com/album/5n1aatMPEnYrX3KDFcORjE"
+      },
+      "artists": [
+        {
+          "name": "Zooey Wonder",
+          "url": "https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD"
+        }
+      ],
+      "duration_ms": 225029,
+      "name": "Little Present",
+      "url": "https://open.spotify.com/track/0YWDf9aiF23GCGCmZXteZ3"
     },
     {
       "added_at": "2022-12-19 06:23:29",
@@ -1103,22 +1119,6 @@
       "duration_ms": 172200,
       "name": "\u975e\u914b",
       "url": "https://open.spotify.com/track/6PPqL3Oj5qzpTN8xG19W2z"
-    },
-    {
-      "added_at": "2022-12-19 06:23:29",
-      "album": {
-        "name": "Little Present",
-        "url": "https://open.spotify.com/album/5n1aatMPEnYrX3KDFcORjE"
-      },
-      "artists": [
-        {
-          "name": "Zooey Wonder",
-          "url": "https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD"
-        }
-      ],
-      "duration_ms": 225029,
-      "name": "Little Present",
-      "url": "https://open.spotify.com/track/0YWDf9aiF23GCGCmZXteZ3"
     },
     {
       "added_at": "2022-12-19 06:23:29",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2022-12-19 06:23:29",
       "album": {
+        "name": "\u561f\u58f0\u540e\u8bf7\u7559\u604b",
+        "url": "https://open.spotify.com/album/4UeNX6glWOvhV0kLV4HCN2"
+      },
+      "artists": [
+        {
+          "name": "Soph T.",
+          "url": "https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP"
+        }
+      ],
+      "duration_ms": 183002,
+      "name": "\u4ed6\u6765\u65f6\u7684\u811a\u6b65",
+      "url": "https://open.spotify.com/track/5D0dp4kKzO4nb3xXqTYCTk"
+    },
+    {
+      "added_at": "2022-12-19 06:23:29",
+      "album": {
         "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 273950,
       "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB"
-    },
-    {
-      "added_at": "2022-12-19 06:23:29",
-      "album": {
-        "name": "\u561f\u58f0\u540e\u8bf7\u7559\u604b",
-        "url": "https://open.spotify.com/album/4UeNX6glWOvhV0kLV4HCN2"
-      },
-      "artists": [
-        {
-          "name": "Soph T.",
-          "url": "https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP"
-        }
-      ],
-      "duration_ms": 183002,
-      "name": "\u4ed6\u6765\u65f6\u7684\u811a\u6b65",
-      "url": "https://open.spotify.com/track/5D0dp4kKzO4nb3xXqTYCTk"
     },
     {
       "added_at": "2022-12-19 06:23:29",
@@ -1279,22 +1279,22 @@
     {
       "added_at": "2022-12-19 06:23:29",
       "album": {
-        "name": "\u70ba\u4f60\u5531\u60c5\u6b4c - Love you till I die",
-        "url": "https://open.spotify.com/album/2tX0HTJYDGSLwNSVO0Qt1T"
+        "name": "\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u9047\u89c1\u4f60,\u771f\u9999!\u300b\u7535\u89c6\u5267\u539f\u58f0\u5e26",
+        "url": "https://open.spotify.com/album/1K8czXXHMQeE57rqeifxPE"
       },
       "artists": [
         {
-          "name": "\u9ec3\u865f",
-          "url": "https://open.spotify.com/artist/0RVEZgV5JHf5UR8ywnIYrA"
+          "name": "Xu Bin",
+          "url": "https://open.spotify.com/artist/3FFFFJDwvzCq6gcHa9WkLs"
         },
         {
-          "name": "\u66fe\u8580\u5e06",
-          "url": "https://open.spotify.com/artist/7J7oIdrlpxuIXXkfT0FmOD"
+          "name": "Chantalle Ng",
+          "url": "https://open.spotify.com/artist/0XRTIDpqja8U3RNVM7CxEK"
         }
       ],
-      "duration_ms": 202068,
-      "name": "Love you till I die",
-      "url": "https://open.spotify.com/track/20ysHIsiNC08vzhhHE9p8O"
+      "duration_ms": 188080,
+      "name": "\u548c\u4f60\u7684\u5929\u6c14\u603b\u662f\u90a3\u4e48\u597d (\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u9047\u89c1\u4f60,\u771f\u9999!\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/45c6g3bSGtCTmVzZkwc4s9"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

@@ -1,12 +1,12 @@
 {
   "description": "Let's party with cheerful Korean trot medley. Cover: Jung Dong Won(\uc815\ub3d9\uc6d0) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 17227,
+  "num_followers": 17247,
   "original_name": "K-Trot Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDIyOTI5MywwMDAwMDAwMDkyOWU4ZmZmMGQ3M2UzMjYyNTJlNGM0NDZiYTA3N2Yx",
+  "snapshot_id": "MTY3MDIyOTI5MywwMDAwMDAwMGE4OTFkZGYxMDE4NjNmMjgzNThiMTNkYWFkNTNlODRj",
   "tracks": [
     {
       "added_at": "2022-12-05 08:31:17",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-12-05 08:31:17",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/615aalqP0HyakgrgP9ceg3"
-      },
-      "artists": [
-        {
-          "name": "Kim Heejae",
-          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
-        }
-      ],
-      "duration_ms": 162880,
-      "name": "Follow Me (Prod. by Young Tak)",
-      "url": "https://open.spotify.com/track/1fihoC9boTXb99e4qHV6lh"
-    },
-    {
-      "added_at": "2022-12-05 08:31:17",
-      "album": {
         "name": "HourGlass",
         "url": "https://open.spotify.com/album/25iGM255bqo8i5s06PeE7Q"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 204680,
       "name": "BlingBling",
       "url": "https://open.spotify.com/track/0KH57XRPLENwXdAIoYvbPm"
+    },
+    {
+      "added_at": "2022-12-05 08:31:17",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/615aalqP0HyakgrgP9ceg3"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        }
+      ],
+      "duration_ms": 162880,
+      "name": "Follow Me (Prod. by Young Tak)",
+      "url": "https://open.spotify.com/track/1fihoC9boTXb99e4qHV6lh"
     },
     {
       "added_at": "2022-12-05 08:31:17",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-12-05 08:31:17",
       "album": {
+        "name": "MAN",
+        "url": "https://open.spotify.com/album/68jEx6JgTi7la2zvPCUenu"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "A Real Man",
+      "url": "https://open.spotify.com/track/7E2zRN1q4C0hN3ldjiDaEj"
+    },
+    {
+      "added_at": "2022-12-05 08:31:17",
+      "album": {
         "name": "\uc624\uc2b9\uadfc Special `\ub0b4 \ub098\uc774\uac00 \uc5b4\ub54c\uc11c`",
         "url": "https://open.spotify.com/album/2n8pyK5h9IB3lmg5W6r6Be"
       },
@@ -759,26 +775,6 @@
       "duration_ms": 199171,
       "name": "\ub0b4 \ub098\uc774\uac00 \uc5b4\ub54c\uc11c",
       "url": "https://open.spotify.com/track/7ESq2ZGhHOdvtuA96W2e6E"
-    },
-    {
-      "added_at": "2022-12-05 08:31:17",
-      "album": {
-        "name": "Hit it off",
-        "url": "https://open.spotify.com/album/11Fp25BbKskMcUdFGvhr43"
-      },
-      "artists": [
-        {
-          "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
-        },
-        {
-          "name": "Nam Seung Min",
-          "url": "https://open.spotify.com/artist/0wRrz9KJtITKteZdPuDfJA"
-        }
-      ],
-      "duration_ms": 182186,
-      "name": "Hit it off (Feat. Nam Seung Min) (Prod. Young Tak)",
-      "url": "https://open.spotify.com/track/3DhY0UqxDcqDWmXMjiQMGJ"
     },
     {
       "added_at": "2022-12-05 08:31:17",
@@ -823,6 +819,22 @@
     {
       "added_at": "2022-12-05 08:31:17",
       "album": {
+        "name": "\ud55c\uc794\ud574",
+        "url": "https://open.spotify.com/album/0tYyIhabxVv2VMT5H3dP4q"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uad70",
+          "url": "https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC"
+        }
+      ],
+      "duration_ms": 199353,
+      "name": "\ud55c\uc794\ud574",
+      "url": "https://open.spotify.com/track/3RzXaAgfDWmPb3QsJY3uzW"
+    },
+    {
+      "added_at": "2022-12-05 08:31:17",
+      "album": {
         "name": "BBONG FOR YOO",
         "url": "https://open.spotify.com/album/3MpKeiNoI6Sh0EcvPG01q6"
       },
@@ -839,18 +851,22 @@
     {
       "added_at": "2022-12-05 08:31:17",
       "album": {
-        "name": "\ud55c\uc794\ud574",
-        "url": "https://open.spotify.com/album/0tYyIhabxVv2VMT5H3dP4q"
+        "name": "Hit it off",
+        "url": "https://open.spotify.com/album/11Fp25BbKskMcUdFGvhr43"
       },
       "artists": [
         {
-          "name": "\ubc15\uad70",
-          "url": "https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC"
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        },
+        {
+          "name": "Nam Seung Min",
+          "url": "https://open.spotify.com/artist/0wRrz9KJtITKteZdPuDfJA"
         }
       ],
-      "duration_ms": 199353,
-      "name": "\ud55c\uc794\ud574",
-      "url": "https://open.spotify.com/track/3RzXaAgfDWmPb3QsJY3uzW"
+      "duration_ms": 182186,
+      "name": "Hit it off (Feat. Nam Seung Min) (Prod. Young Tak)",
+      "url": "https://open.spotify.com/track/3DhY0UqxDcqDWmXMjiQMGJ"
     },
     {
       "added_at": "2022-12-05 08:31:17",
@@ -891,22 +907,6 @@
     {
       "added_at": "2022-12-05 08:31:17",
       "album": {
-        "name": "Super Five - All Eyes on Me",
-        "url": "https://open.spotify.com/album/66G9cqzAR7InL6pbseHcnO"
-      },
-      "artists": [
-        {
-          "name": "Super Five",
-          "url": "https://open.spotify.com/artist/38SpwrdX8Ks7qgaj4F8tSk"
-        }
-      ],
-      "duration_ms": 226426,
-      "name": "All Eyes on Me",
-      "url": "https://open.spotify.com/track/3dQE7nZ4mQOZNCJgo3RxYv"
-    },
-    {
-      "added_at": "2022-12-05 08:31:17",
-      "album": {
         "name": "Lots of Love",
         "url": "https://open.spotify.com/album/3RvBl6rKAc0y0SsRjR4MqE"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-12-05 08:31:17",
       "album": {
-        "name": "MAN",
-        "url": "https://open.spotify.com/album/68jEx6JgTi7la2zvPCUenu"
-      },
-      "artists": [
-        {
-          "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
-        }
-      ],
-      "duration_ms": 191960,
-      "name": "A Real Man",
-      "url": "https://open.spotify.com/track/7E2zRN1q4C0hN3ldjiDaEj"
-    },
-    {
-      "added_at": "2022-12-05 08:31:17",
-      "album": {
         "name": "Read and Ignored",
         "url": "https://open.spotify.com/album/2TLUFzFHkfjirhp8i8ZYhp"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 168680,
       "name": "Read and Ignored (Prod. Young Tak)",
       "url": "https://open.spotify.com/track/1qMvWFcU6YiXbwxLIuiOgB"
+    },
+    {
+      "added_at": "2022-12-05 08:31:17",
+      "album": {
+        "name": "Super Five - All Eyes on Me",
+        "url": "https://open.spotify.com/album/66G9cqzAR7InL6pbseHcnO"
+      },
+      "artists": [
+        {
+          "name": "Super Five",
+          "url": "https://open.spotify.com/artist/38SpwrdX8Ks7qgaj4F8tSk"
+        }
+      ],
+      "duration_ms": 226426,
+      "name": "All Eyes on Me",
+      "url": "https://open.spotify.com/track/3dQE7nZ4mQOZNCJgo3RxYv"
     },
     {
       "added_at": "2022-12-05 08:31:17",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-12-05 08:31:17",
       "album": {
+        "name": "Music source of Mr.Trot FINAL BEST",
+        "url": "https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "duration_ms": 272840,
+      "name": "White space",
+      "url": "https://open.spotify.com/track/2bquds3iXdFCEdb1BOJp1D"
+    },
+    {
+      "added_at": "2022-12-05 08:31:17",
+      "album": {
         "name": "\ud2b8\ub86f\uac00\uc655",
         "url": "https://open.spotify.com/album/2GhSslxollNuNr8Q94sa4b"
       },
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2022-12-05 08:31:17",
       "album": {
-        "name": "Super Five - Hello",
-        "url": "https://open.spotify.com/album/0SHDJH2nZncK3QWkbWvvV0"
-      },
-      "artists": [
-        {
-          "name": "Super Five",
-          "url": "https://open.spotify.com/artist/38SpwrdX8Ks7qgaj4F8tSk"
-        }
-      ],
-      "duration_ms": 201573,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0tNFcj0jSRtD49JifWJLTt"
-    },
-    {
-      "added_at": "2022-12-05 08:31:17",
-      "album": {
         "name": "Love call center PART19",
         "url": "https://open.spotify.com/album/2KUWccXjVSNPJadz0hZxhb"
       },
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2022-12-05 08:31:17",
       "album": {
-        "name": "Music source of Mr.Trot FINAL BEST",
-        "url": "https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk"
+        "name": "Super Five - Hello",
+        "url": "https://open.spotify.com/album/0SHDJH2nZncK3QWkbWvvV0"
       },
       "artists": [
         {
-          "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+          "name": "Super Five",
+          "url": "https://open.spotify.com/artist/38SpwrdX8Ks7qgaj4F8tSk"
         }
       ],
-      "duration_ms": 272840,
-      "name": "White space",
-      "url": "https://open.spotify.com/track/2bquds3iXdFCEdb1BOJp1D"
+      "duration_ms": 201573,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0tNFcj0jSRtD49JifWJLTt"
     },
     {
       "added_at": "2022-12-05 08:31:17",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2022-12-05 08:31:17",
       "album": {
-        "name": "Music source of <MissTrot2> FINAL Songwriter Mission",
-        "url": "https://open.spotify.com/album/55myCPZ3HKzK1yXcw7AGG6"
+        "name": "HourGlass",
+        "url": "https://open.spotify.com/album/25iGM255bqo8i5s06PeE7Q"
       },
       "artists": [
         {
-          "name": "Byeol Sarang",
-          "url": "https://open.spotify.com/artist/3VrazTKgtuVIWAklWap0KT"
+          "name": "Park Hyun-Bin",
+          "url": "https://open.spotify.com/artist/4CFPY7gjBXwLIaDhkngkjj"
         }
       ],
-      "duration_ms": 206306,
-      "name": "Magnifying glass",
-      "url": "https://open.spotify.com/track/2KXrBnVEDw53vxbB4OGJc9"
+      "duration_ms": 198106,
+      "name": "Dead drunk",
+      "url": "https://open.spotify.com/track/78zqNlzWzlZzuKqHLXSroo"
     },
     {
       "added_at": "2022-12-05 08:31:17",
@@ -1151,18 +1151,34 @@
     {
       "added_at": "2022-12-05 08:31:17",
       "album": {
-        "name": "HourGlass",
-        "url": "https://open.spotify.com/album/25iGM255bqo8i5s06PeE7Q"
+        "name": "MAN",
+        "url": "https://open.spotify.com/album/68jEx6JgTi7la2zvPCUenu"
       },
       "artists": [
         {
-          "name": "Park Hyun-Bin",
-          "url": "https://open.spotify.com/artist/4CFPY7gjBXwLIaDhkngkjj"
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
         }
       ],
-      "duration_ms": 198106,
-      "name": "Dead drunk",
-      "url": "https://open.spotify.com/track/78zqNlzWzlZzuKqHLXSroo"
+      "duration_ms": 199173,
+      "name": "OPPA",
+      "url": "https://open.spotify.com/track/0BiDHFoq9c9mmeoQxBQutn"
+    },
+    {
+      "added_at": "2022-12-05 08:31:17",
+      "album": {
+        "name": "Music source of <MissTrot2> FINAL Songwriter Mission",
+        "url": "https://open.spotify.com/album/55myCPZ3HKzK1yXcw7AGG6"
+      },
+      "artists": [
+        {
+          "name": "Byeol Sarang",
+          "url": "https://open.spotify.com/artist/3VrazTKgtuVIWAklWap0KT"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "Magnifying glass",
+      "url": "https://open.spotify.com/track/2KXrBnVEDw53vxbB4OGJc9"
     },
     {
       "added_at": "2022-12-05 08:31:17",
@@ -1183,22 +1199,6 @@
       "duration_ms": 264466,
       "name": "For Your Soul",
       "url": "https://open.spotify.com/track/35t583wCAY9JBgjIHpcjJx"
-    },
-    {
-      "added_at": "2022-12-05 08:31:17",
-      "album": {
-        "name": "MAN",
-        "url": "https://open.spotify.com/album/68jEx6JgTi7la2zvPCUenu"
-      },
-      "artists": [
-        {
-          "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
-        }
-      ],
-      "duration_ms": 199173,
-      "name": "OPPA",
-      "url": "https://open.spotify.com/track/0BiDHFoq9c9mmeoQxBQutn"
     },
     {
       "added_at": "2022-12-05 08:31:17",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-12-05 08:31:17",
       "album": {
-        "name": "MISS TROT2 PRELIMINARY BEST PART2",
-        "url": "https://open.spotify.com/album/2GXTij5DayYJdpScEjYUSx"
-      },
-      "artists": [
-        {
-          "name": "Yujin Jeon",
-          "url": "https://open.spotify.com/artist/3BFcxv7uPQ7efI42KZtDfY"
-        }
-      ],
-      "duration_ms": 167773,
-      "name": "Let's live in Seoul",
-      "url": "https://open.spotify.com/track/17RtMYFvvUkesJ9DqlbJj9"
-    },
-    {
-      "added_at": "2022-12-05 08:31:17",
-      "album": {
         "name": "Best of Mr. Trot Preliminary",
         "url": "https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 154680,
       "name": "Turn",
       "url": "https://open.spotify.com/track/7nx7ExJ2PUYEBZ05atB5aq"
+    },
+    {
+      "added_at": "2022-12-05 08:31:17",
+      "album": {
+        "name": "MISS TROT2 PRELIMINARY BEST PART2",
+        "url": "https://open.spotify.com/album/2GXTij5DayYJdpScEjYUSx"
+      },
+      "artists": [
+        {
+          "name": "Yujin Jeon",
+          "url": "https://open.spotify.com/artist/3BFcxv7uPQ7efI42KZtDfY"
+        }
+      ],
+      "duration_ms": 167773,
+      "name": "Let's live in Seoul",
+      "url": "https://open.spotify.com/track/17RtMYFvvUkesJ9DqlbJj9"
     },
     {
       "added_at": "2022-12-05 08:31:17",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-12-05 08:31:17",
       "album": {
-        "name": "Love Cowboy",
-        "url": "https://open.spotify.com/album/0YBzjXf261UR4wQ2n1GtXx"
-      },
-      "artists": [
-        {
-          "name": "Ko Jaegeun",
-          "url": "https://open.spotify.com/artist/0gRX6Q2nFjWXH7cwAgmeyb"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "Love Cowboy",
-      "url": "https://open.spotify.com/track/7yBH4eMEkQaWP5fXppUGyx"
-    },
-    {
-      "added_at": "2022-12-05 08:31:17",
-      "album": {
         "name": "Bongsungah school PART11",
         "url": "https://open.spotify.com/album/5m6Y65eU3N3LmBJlzh0fzo"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 243800,
       "name": "To your side",
       "url": "https://open.spotify.com/track/0ta3WpGiovwG1131y52khK"
+    },
+    {
+      "added_at": "2022-12-05 08:31:17",
+      "album": {
+        "name": "Love Cowboy",
+        "url": "https://open.spotify.com/album/0YBzjXf261UR4wQ2n1GtXx"
+      },
+      "artists": [
+        {
+          "name": "Ko Jaegeun",
+          "url": "https://open.spotify.com/artist/0gRX6Q2nFjWXH7cwAgmeyb"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "Love Cowboy",
+      "url": "https://open.spotify.com/track/7yBH4eMEkQaWP5fXppUGyx"
     },
     {
       "added_at": "2022-12-05 08:31:17",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-12-05 08:31:17",
       "album": {
-        "name": "Live Alone",
-        "url": "https://open.spotify.com/album/1eI9yJF4EO51GtTBvLrC8B"
-      },
-      "artists": [
-        {
-          "name": "Broccoli, you too?",
-          "url": "https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j"
-        }
-      ],
-      "duration_ms": 185399,
-      "name": "Live Alone",
-      "url": "https://open.spotify.com/track/4XfuUHxAQEvfD8rfIurDO0"
-    },
-    {
-      "added_at": "2022-12-05 08:31:17",
-      "album": {
         "name": "Music source of Mr.Trot Trot Aid Best",
         "url": "https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 196640,
       "name": "Reverse life:Poor man",
       "url": "https://open.spotify.com/track/1cDXyQY46sDcMuWVOHVig0"
+    },
+    {
+      "added_at": "2022-12-05 08:31:17",
+      "album": {
+        "name": "Live Alone",
+        "url": "https://open.spotify.com/album/1eI9yJF4EO51GtTBvLrC8B"
+      },
+      "artists": [
+        {
+          "name": "Broccoli, you too?",
+          "url": "https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j"
+        }
+      ],
+      "duration_ms": 185399,
+      "name": "Live Alone",
+      "url": "https://open.spotify.com/track/4XfuUHxAQEvfD8rfIurDO0"
     }
   ],
   "unique_name": "K-Trot Stars",

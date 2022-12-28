@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Danny Schiller",
-  "num_followers": 749069,
+  "num_followers": 749039,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTg3NzQxNSwwMDAwMDAwMGM2MDZkMzhjYmNlNzVhYmFlYTE4ZDQ0NDViNjE3N2Uw",
+  "snapshot_id": "MTY3MTg3NzQxNSwwMDAwMDAwMDdmOGFlM2ZmNzU5MjU4OWQ4MjI1NThkYjEzNzY3OTg3",
   "tracks": [
     {
       "added_at": "2022-12-24 10:23:35",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2022-12-24 10:23:35",
       "album": {
-        "name": "Fresh Water",
-        "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
-      },
-      "artists": [
-        {
-          "name": "PAM\u00c9",
-          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
-        },
-        {
-          "name": "Floyd Fuji",
-          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
-        }
-      ],
-      "duration_ms": 157010,
-      "name": "Fresh Water",
-      "url": "https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw"
-    },
-    {
-      "added_at": "2022-12-24 10:23:35",
-      "album": {
         "name": "22/2/22 (feat. Paula Cendejas)",
         "url": "https://open.spotify.com/album/2nNJ9wdWz3EuDvHwSgWjBn"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 168260,
       "name": "22/2/22 (feat. Paula Cendejas)",
       "url": "https://open.spotify.com/track/6VH9vAqhTig0SaS5mI5yw8"
+    },
+    {
+      "added_at": "2022-12-24 10:23:35",
+      "album": {
+        "name": "Fresh Water",
+        "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
+      },
+      "artists": [
+        {
+          "name": "PAM\u00c9",
+          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
+        },
+        {
+          "name": "Floyd Fuji",
+          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+        }
+      ],
+      "duration_ms": 157010,
+      "name": "Fresh Water",
+      "url": "https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw"
     },
     {
       "added_at": "2022-12-24 10:23:35",

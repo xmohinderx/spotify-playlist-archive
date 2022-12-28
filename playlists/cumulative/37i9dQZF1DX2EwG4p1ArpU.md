@@ -4,7 +4,7 @@
 
 > ネット発の新たな才能として注目を集めるシンガーソングライター、Eveの楽曲を1つのプレイリストに。Essential tracks from Japanese singer\-songwriter, Eve.
 
-56 songs - 3 hr 35 min - not published yet
+57 songs - 3 hr 38 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Dr.](https://open.spotify.com/track/5tSvyb7RMd24kLEpVw57yQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [Blue](https://open.spotify.com/album/2QWSqoeGoHB8OPMkVu1AHt) | 3:53 | 2022-11-30 |  |
 | [Dramaturgy](https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 3:58 | 2022-11-30 |  |
 | [Fake](https://open.spotify.com/track/3rxvZZmcbp4KtMxhxydRaQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [Blue](https://open.spotify.com/album/2QWSqoeGoHB8OPMkVu1AHt) | 3:39 | 2022-11-30 |  |
+| [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 | 2022-12-27 |  |
 | [Furiwoshita](https://open.spotify.com/track/4hGG4KDQmxMnKjUc9Fi5KL) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 3:55 | 2022-11-30 |  |
 | [Fuyukan](https://open.spotify.com/track/2QerQi2fdfatbYKX2MJWx5) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [OFFICIAL NUMBER](https://open.spotify.com/album/2AxkAqRmDqZJB03UPQaC0B) | 3:26 | 2022-11-30 |  |
 | [Gunjo Sanka](https://open.spotify.com/track/5rq7yhcpsofB04NgTqlY8r) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaizin](https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1) | 4:36 | 2022-11-30 |  |

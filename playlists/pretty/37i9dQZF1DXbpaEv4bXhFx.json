@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 7647,
+  "num_followers": 7651,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjAzNzI2NywwMDAwMDAwMGZhZmY5NjliZmU5MzY3NjBkMDFlMzQyOWU0NzBjYTE3",
+  "snapshot_id": "MTY3MjAzNzI2NywwMDAwMDAwMDg1N2NiNmM2OWUyMDRmYWEyMTc0NzY1ZGUxMmZhMTM1",
   "tracks": [
     {
       "added_at": "2022-12-26 06:47:47",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-12-26 06:47:47",
       "album": {
+        "name": "On Rainy Days (2021)",
+        "url": "https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 230186,
+      "name": "On Rainy Days (2021)",
+      "url": "https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU"
+    },
+    {
+      "added_at": "2022-12-26 06:47:47",
+      "album": {
         "name": "Chancellor",
         "url": "https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 248906,
       "name": "Walking In The Rain (feat. Younha)",
       "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
-    },
-    {
-      "added_at": "2022-12-26 06:47:47",
-      "album": {
-        "name": "On Rainy Days (2021)",
-        "url": "https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 230186,
-      "name": "On Rainy Days (2021)",
-      "url": "https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU"
     },
     {
       "added_at": "2022-12-26 06:47:47",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-12-26 06:47:47",
       "album": {
+        "name": "Will spring come?",
+        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Will spring come?",
+      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
+    },
+    {
+      "added_at": "2022-12-26 06:47:47",
+      "album": {
         "name": "Dry Flower",
         "url": "https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 234066,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
-    },
-    {
-      "added_at": "2022-12-26 06:47:47",
-      "album": {
-        "name": "Beside",
-        "url": "https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt"
-      },
-      "artists": [
-        {
-          "name": "SURL",
-          "url": "https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Beside",
-      "url": "https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7"
     }
   ],
   "unique_name": "\uc6b0\uc0b0 \uc544\ub798",

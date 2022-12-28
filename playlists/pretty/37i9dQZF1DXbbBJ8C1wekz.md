@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,125 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,167 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 19 | [Oi Né](https://open.spotify.com/track/430wwaLM5dZXhY4h7QJH0I) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Oi Né](https://open.spotify.com/album/5KSCMOcGXILOqcIO1YhiKk) | 2:50 |
 | 20 | [A Cunhada](https://open.spotify.com/track/2NmCWuOfyIZBGdBHezHboQ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [A Cunhada](https://open.spotify.com/album/18mcw81gkxsDALOpPDPpGf) | 2:47 |
 | 21 | [Assault \(Angra\)](https://open.spotify.com/track/0In8P4w9CvupkqGBuyHTLv) | [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Buddy](https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY) | [Assault \(Angra\)](https://open.spotify.com/album/7C71AMfoi1LwvHIV17o2HU) | 4:29 |
-| 22 | [Bailão](https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [Mestre B](https://open.spotify.com/artist/3Rwms7zByQMzHZdIKhqpSK) | [Bailão](https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp) | 3:30 |
+| 22 | [Bailão](https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [Mestre B](https://open.spotify.com/artist/3Rwms7zByQMzHZdIKhqpSK), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Bailão](https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp) | 3:30 |
 | 23 | [Chega de Falar de Ice](https://open.spotify.com/track/7sO4qwDP84KRGKNCbMSn2o) | [Leozin](https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V) | [Chega de Falar de Ice](https://open.spotify.com/album/2Cylgte8uM34hQxgQP74xg) | 2:57 |
 | 24 | [Bendito](https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Bendito](https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm) | 2:57 |
 | 25 | [Só Quando Ela Me Quer](https://open.spotify.com/track/70D4ZYmLC8Kxxw4rGthU0Q) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Jaya Luuck](https://open.spotify.com/artist/6FDtch9VfXoXymUYL4CLl5), [Duzz](https://open.spotify.com/artist/6tRGYcs5KQjLB19jVMGxJG), [Rubro](https://open.spotify.com/artist/12Q1vJ1wMjyzZMmW4QOcgw) | [237](https://open.spotify.com/album/3VGvkH5X8bhjIV0rSohaVU) | 3:48 |

@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-154 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/1xksct4B5bg9jYP5TYccYG)
+155 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/1xksct4B5bg9jYP5TYccYG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [How Deep Is The Ocean](https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [How Deep Is The Ocean](https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj) | 5:18 | 2022-04-13 |  |
 | [How Long](https://open.spotify.com/track/3VKEFn4xRdTOcHrLsCOMFb) | [Ksenia Parkhatskaya](https://open.spotify.com/artist/6AZm6N0cbEAzLkxdlbzbmy) | [Colours](https://open.spotify.com/album/1mThTkKwU2AUYhDfs0hG2O) | 4:35 | 2022-04-13 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 | 2022-04-13 |  |
-| [I Can't Get Started](https://open.spotify.com/track/2pTg3UNkYi7dT5dghfUjjy) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [No Bounds](https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC) | 5:12 | 2022-04-13 |  |
+| [I Can't Get Started](https://open.spotify.com/track/2pTg3UNkYi7dT5dghfUjjy) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [No Bounds](https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC) | 5:12 | 2022-04-13 | 2022-12-28 |
 | [I Can't Get Started](https://open.spotify.com/track/6hYK6zZdmTBDwiZAy7ztN5) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP) | [For Connoisseurs Only](https://open.spotify.com/album/57jlLW5snTeDKnJPIuO0Kk) | 5:00 | 2022-05-19 | 2022-08-12 |
 | [I Didn't Know About You](https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn) | [Jocelyn Barth](https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX) | [Tell Him I Said Hello](https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J) | 4:26 | 2022-04-13 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/5YLwLTd5iacl6v2wVZLDb8) | [Yotam Ishay](https://open.spotify.com/artist/3ABpfCZ60PQjECYhCuXRWs) | [Seed](https://open.spotify.com/album/1VHxkrq4ZeKF0JaeoGvNtg) | 5:28 | 2022-04-13 |  |
@@ -150,6 +150,7 @@
 | [Try Your Wings](https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/41ff0V2xBRKpKTAOORTfZ5) | 2:54 | 2022-10-27 |  |
 | [Undefined](https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Undefined](https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu) | 5:35 | 2022-04-13 |  |
 | [Velvet Curtains \(feat\. Håkon Kornstad\)](https://open.spotify.com/track/4wfF91BDvZYOiP7LKq2New) | [Silje Nergaard](https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc), [Håkon Kornstad](https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2) | [Velvet Curtains \(feat\. Håkon Kornstad\)](https://open.spotify.com/album/4zi13mNLYwuG0gpoadaE3q) | 6:11 | 2022-04-13 |  |
+| [Violets for Your Furs](https://open.spotify.com/track/5fVwnzlWnYEdJnL9KRQZ0d) | [Jason Fabus](https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5) | [Violets for Your Furs](https://open.spotify.com/album/5vk5kBWYxSgwzUR1ZynaGt) | 3:36 | 2022-12-23 |  |
 | [We'll Be Together Again](https://open.spotify.com/track/2prTB2hj3iF2I1pkgqttcp) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 3:01 | 2022-04-13 | 2022-09-21 |
 | [What Of Your Eyes](https://open.spotify.com/track/3hX0T0Z16mRfHAzd1sHluC) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Entre eux deux](https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7) | 4:30 | 2022-05-19 |  |
 | [What'll I Do](https://open.spotify.com/track/3XKJb8TvplQ7iZcr4dfA2J) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [What'll I Do](https://open.spotify.com/album/5Kr5XbBJCKgQEYkCki7Ddz) | 4:05 | 2022-04-13 |  |

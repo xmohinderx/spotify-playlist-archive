@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 25315,
+  "num_followers": 25350,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMGVhZDA3NzBmYjRhN2UyOGE2NzcxODMyY2E5NDdiZGJj",
+  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMGVlM2ZlMmJlYmQyNGM4MzA3YTc0ZmJkZWQ3YjVmNjMx",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "El Imperio de los Apus",
-        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
-      },
-      "artists": [
-        {
-          "name": "Los Apus",
-          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
-        }
-      ],
-      "duration_ms": 254506,
-      "name": "Challwaschallay",
-      "url": "https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Pastorita Huaracina",
         "url": "https://open.spotify.com/album/7LrDqHp1qBGa16z2MqqThM"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 188786,
       "name": "A los Filos de un Cuchillo",
       "url": "https://open.spotify.com/track/2NV98hFxTvHGnzFLDfmOXI"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "El Imperio de los Apus",
+        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
+      },
+      "artists": [
+        {
+          "name": "Los Apus",
+          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
+        }
+      ],
+      "duration_ms": 254506,
+      "name": "Challwaschallay",
+      "url": "https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Cantares Huaracinos",
-        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
-      },
-      "artists": [
-        {
-          "name": "Jilguero Del Huascar\u00e1n",
-          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "Al Comp\u00e1s de Mi Guitarra",
-      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Lo Mejor del Incomparable...Mario Mendoza",
         "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 163080,
       "name": "Mi Linda Ni\u00f1a",
       "url": "https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Cantares Huaracinos",
+        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
+      },
+      "artists": [
+        {
+          "name": "Jilguero Del Huascar\u00e1n",
+          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "Al Comp\u00e1s de Mi Guitarra",
+      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
     },
     {
       "added_at": "2022-02-04 14:45:56",

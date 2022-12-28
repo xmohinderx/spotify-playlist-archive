@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > The top 50 tracks from Fresh Finds Korea in 2022\. \(Cover: Evelyn Hahn\(에이블린 한\)\) 2022년 Fresh Finds Korea를 빛낸 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,638 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,684 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 14 | [2 O' CLOCK](https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [2 O' CLOCK](https://open.spotify.com/album/2VAiqG6FNssKi5vOda6kil) | 2:32 |
 | 15 | [Count On Me](https://open.spotify.com/track/1FzglcHcXeAKKrj8jtTf5O) | [Kim Addict](https://open.spotify.com/artist/2egBIYU5zJpYuuLkTllux7) | [Lit Addict 2](https://open.spotify.com/album/6IwrDuCjs6pXlMdoAVGJoO) | 3:14 |
 | 16 | [You know everything](https://open.spotify.com/track/3gUbxvr8LQ3OhT69E82crb) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Someone's playlist \#8](https://open.spotify.com/album/7tNp4kGCYT55TKWDdciZ94) | 4:55 |
-| 17 | [nobody in the sea](https://open.spotify.com/track/6VAk0q2b9soXU6LZNq5TRF) | [Coldnight](https://open.spotify.com/artist/0lkK1zrc663DxBxvR13yEj) | [nobody in the sea](https://open.spotify.com/album/7ibkKmBjuuAoQxIss1ovq1) | 3:17 |
+| 17 | [nobody in the sea](https://open.spotify.com/track/6VAk0q2b9soXU6LZNq5TRF) | [coldnight](https://open.spotify.com/artist/0lkK1zrc663DxBxvR13yEj) | [nobody in the sea](https://open.spotify.com/album/7ibkKmBjuuAoQxIss1ovq1) | 3:17 |
 | 18 | [SAKURA](https://open.spotify.com/track/79fhDI559oHJZIlbBBaHJI) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [SAKURA](https://open.spotify.com/album/2mylbh0V9gJFFzGTsW1iwb) | 2:26 |
 | 19 | [LOVE, LOVE](https://open.spotify.com/track/19VTbnXgwa9wKDPUnD7XYu) | [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [LOVE, LOVE](https://open.spotify.com/album/5nqsSh2xyxBowizTNbZ6zC) | 3:37 |
 | 20 | [Timing pool](https://open.spotify.com/track/2tq464dC5rz9z9LI2YAqo2) | [MOA](https://open.spotify.com/artist/4fCrr7xTKNEREwl8jRA3c2) | [Timing pool](https://open.spotify.com/album/7iDI0uHJAzTb4gujf6yT9w) | 3:37 |

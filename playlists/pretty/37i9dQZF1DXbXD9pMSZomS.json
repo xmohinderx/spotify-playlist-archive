@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 402843,
+  "num_followers": 402944,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM1Mzc2MSwwMDAwMDAwMDU3YTViNzMyYjc0ZDhkMTAzYzI1ZjRjYTNlODg2NTJl",
+  "snapshot_id": "MTY2NjM1Mzc2MSwwMDAwMDAwMGRmY2U5OGFiNmI2YjBiZDFjYzdiNTk2NmI5OWU4NWZl",
   "tracks": [
     {
       "added_at": "2022-10-21 12:02:40",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Late Night Basix Vol. 2",
-        "url": "https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l"
-      },
-      "artists": [
-        {
-          "name": "Rick Wade",
-          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
-        }
-      ],
-      "duration_ms": 359793,
-      "name": "Deep -N- Dirty",
-      "url": "https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "Back To My Place",
         "url": "https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 245863,
       "name": "Back to My Place",
       "url": "https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Late Night Basix Vol. 2",
+        "url": "https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l"
+      },
+      "artists": [
+        {
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
+        }
+      ],
+      "duration_ms": 359793,
+      "name": "Deep -N- Dirty",
+      "url": "https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Asakusa Light",
-        "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
-      },
-      "artists": [
-        {
-          "name": "Soichi Terada",
-          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
-        }
-      ],
-      "duration_ms": 271349,
-      "name": "Diving into Minds",
-      "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "porco rosso",
         "url": "https://open.spotify.com/album/2DkNjsTfC3rPkgmN77x1fS"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 219840,
       "name": "porco rosso",
       "url": "https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Asakusa Light",
+        "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
+      },
+      "artists": [
+        {
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+        }
+      ],
+      "duration_ms": 271349,
+      "name": "Diving into Minds",
+      "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Everytime EP",
-        "url": "https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw"
-      },
-      "artists": [
-        {
-          "name": "Jason Hersco",
-          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
-        }
-      ],
-      "duration_ms": 308269,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "Closer To The Essence",
         "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 161152,
       "name": "Closer To The Essence",
       "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Everytime EP",
+        "url": "https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw"
+      },
+      "artists": [
+        {
+          "name": "Jason Hersco",
+          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
+        }
+      ],
+      "duration_ms": 308269,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Mellow Mornings",
-        "url": "https://open.spotify.com/album/6t4sfAMZKZ3ik8VqhruGvc"
-      },
-      "artists": [
-        {
-          "name": "Shopan",
-          "url": "https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl"
-        }
-      ],
-      "duration_ms": 154814,
-      "name": "Mellow Mornings",
-      "url": "https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "Secret Box",
         "url": "https://open.spotify.com/album/4q3Q728Q7ZTIARRcZg77Sc"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 479253,
       "name": "Barter",
       "url": "https://open.spotify.com/track/77Jt26XQ3qTX8wbkFKmQCx"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Mellow Mornings",
+        "url": "https://open.spotify.com/album/6t4sfAMZKZ3ik8VqhruGvc"
+      },
+      "artists": [
+        {
+          "name": "Shopan",
+          "url": "https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl"
+        }
+      ],
+      "duration_ms": 154814,
+      "name": "Mellow Mornings",
+      "url": "https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Dosages, Vol. 2",
-        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
-      },
-      "artists": [
-        {
-          "name": "Jorge Milliano",
-          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
-        }
-      ],
-      "duration_ms": 178983,
-      "name": "Lofi Vs. House",
-      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "Watarase",
         "url": "https://open.spotify.com/album/4NXJDWKX8NbIWW3DaAnIt7"
       },
@@ -903,6 +887,38 @@
       "duration_ms": 409619,
       "name": "Watarase - Henrik Schwarz Version",
       "url": "https://open.spotify.com/track/4JHtMHW1hT1KODX4wRqAfQ"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Dosages, Vol. 2",
+        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
+      },
+      "artists": [
+        {
+          "name": "Jorge Milliano",
+          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
+        }
+      ],
+      "duration_ms": 178983,
+      "name": "Lofi Vs. House",
+      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/612PCusXpFlpdlg3sLupIA"
+      },
+      "artists": [
+        {
+          "name": "Soul Legend",
+          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+        }
+      ],
+      "duration_ms": 146949,
+      "name": "SEX IS GOOD BUT HAVE U EVER",
+      "url": "https://open.spotify.com/track/3Q90SwsnNZDTTG0gqZxTaU"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -959,22 +975,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Movement",
-        "url": "https://open.spotify.com/album/612PCusXpFlpdlg3sLupIA"
-      },
-      "artists": [
-        {
-          "name": "Soul Legend",
-          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
-        }
-      ],
-      "duration_ms": 146949,
-      "name": "SEX IS GOOD BUT HAVE U EVER",
-      "url": "https://open.spotify.com/track/3Q90SwsnNZDTTG0gqZxTaU"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "31 Minutes of Relaxing ASMR",
         "url": "https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk"
       },
@@ -1007,22 +1007,22 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Godson of House",
-        "url": "https://open.spotify.com/album/0IegYzp9b6XbcSzvd9z4Lm"
+        "name": "Sessions 2",
+        "url": "https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP"
       },
       "artists": [
         {
-          "name": "Kareem Ali",
-          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+          "name": "Klaus Layer",
+          "url": "https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x"
         },
         {
-          "name": "Byron the Aquarius",
-          "url": "https://open.spotify.com/artist/46Fi6aCaPrBr5ojzhsUkK5"
+          "name": "Rick Flair",
+          "url": "https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m"
         }
       ],
-      "duration_ms": 516409,
-      "name": "Godson of House",
-      "url": "https://open.spotify.com/track/2zMGp9sLqwuWowUcm53WAX"
+      "duration_ms": 312000,
+      "name": "I Gotta Cry",
+      "url": "https://open.spotify.com/track/6qT1jEoG6VqQZ92fye8wtd"
     }
   ],
   "unique_name": "Lo-Fi House",

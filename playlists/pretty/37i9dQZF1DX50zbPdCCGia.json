@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s.",
-  "num_followers": 167988,
+  "num_followers": 168213,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDMxMSwwMDAwMDAwMGM3YzU4Mzg3YzcyYzc2OTQxNjE2MmI4MjhlMTBmM2Nl",
+  "snapshot_id": "MTY2ODcwMDMxMSwwMDAwMDAwMDU1NGRhMGFjYTgzYjRhODAzYjY2MzQzY2ZiMGUyMzYx",
   "tracks": [
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Hair Of The Dog",
-        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
-      },
-      "artists": [
-        {
-          "name": "Nazareth",
-          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 150226,
       "name": "Lonely People",
       "url": "https://open.spotify.com/track/5coTcHT7K8O3G97y9T4LOU"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Hair Of The Dog",
+        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Red Octopus",
-        "url": "https://open.spotify.com/album/5i7zeNrDbhxe5J2yfZgAPh"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Starship",
-          "url": "https://open.spotify.com/artist/3HC7NcxQx2Yk0fWoRKJ0xF"
-        }
-      ],
-      "duration_ms": 412040,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/5dFvprlP5JS7gxeaMhMOWS"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/3m4xJJDmVNzsWaJ6OlLTru"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 195160,
       "name": "Song Sung Blue - Single Version",
       "url": "https://open.spotify.com/track/4FZ8wtTaOAbYvyChBt4GEQ"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Red Octopus",
+        "url": "https://open.spotify.com/album/5i7zeNrDbhxe5J2yfZgAPh"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Starship",
+          "url": "https://open.spotify.com/artist/3HC7NcxQx2Yk0fWoRKJ0xF"
+        }
+      ],
+      "duration_ms": 412040,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/5dFvprlP5JS7gxeaMhMOWS"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "In The Land Of Grey And Pink",
-        "url": "https://open.spotify.com/album/6TWjon4uYsV2wu7QJTuKjd"
-      },
-      "artists": [
-        {
-          "name": "Caravan",
-          "url": "https://open.spotify.com/artist/5kwbFaRKf9HCFGrJPacZ7s"
-        }
-      ],
-      "duration_ms": 298840,
-      "name": "In The Land Of Grey & Pink",
-      "url": "https://open.spotify.com/track/4Z335bGhpA68s6sq40UDfe"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 265680,
       "name": "Just Another Nervous Wreck - 2010 Remastered",
       "url": "https://open.spotify.com/track/6o8nZVzweaEOLDLOgaogX5"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "In The Land Of Grey And Pink",
+        "url": "https://open.spotify.com/album/6TWjon4uYsV2wu7QJTuKjd"
+      },
+      "artists": [
+        {
+          "name": "Caravan",
+          "url": "https://open.spotify.com/artist/5kwbFaRKf9HCFGrJPacZ7s"
+        }
+      ],
+      "duration_ms": 298840,
+      "name": "In The Land Of Grey & Pink",
+      "url": "https://open.spotify.com/track/4Z335bGhpA68s6sq40UDfe"
     },
     {
       "added_at": "2021-11-23 12:34:50",

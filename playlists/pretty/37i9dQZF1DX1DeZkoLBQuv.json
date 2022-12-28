@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 6055,
+  "num_followers": 6080,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMGQ4OTllYzdhYmUyMGFmNThjOTkzZWFiNTQ1MzM0Yjhh",
+  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMDA2NGUwZGM2NWIzZjVhZmQ2NWNkMzM0YzFhNDRiNTA3",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "\u00d3 Noite Santa",
-        "url": "https://open.spotify.com/album/0vXRWz90LTIjiXKcoorBfl"
-      },
-      "artists": [
-        {
-          "name": "Pedras Vivas",
-          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
-        }
-      ],
-      "duration_ms": 310714,
-      "name": "\u00d3 Noite Santa",
-      "url": "https://open.spotify.com/track/5yhQjZ8DUS5SrPI5WNUYFi"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Harpa Vol.2",
         "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 337803,
       "name": "A Face Adorada de Jesus",
       "url": "https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "\u00d3 Noite Santa",
+        "url": "https://open.spotify.com/album/0vXRWz90LTIjiXKcoorBfl"
+      },
+      "artists": [
+        {
+          "name": "Pedras Vivas",
+          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
+        }
+      ],
+      "duration_ms": 310714,
+      "name": "\u00d3 Noite Santa",
+      "url": "https://open.spotify.com/track/5yhQjZ8DUS5SrPI5WNUYFi"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        }
-      ],
-      "duration_ms": 267911,
-      "name": "O Melhor Presente",
-      "url": "https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "A Can\u00e7\u00e3o de Natal",
         "url": "https://open.spotify.com/album/7MFHWfAfMt5Ueioziy2y8O"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 345735,
       "name": "Medley de Natal: Num Ber\u00e7o de Palha / Noite de Paz",
       "url": "https://open.spotify.com/track/5rNPvuwcj2vdeLSgF8e8gI"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        }
+      ],
+      "duration_ms": 267911,
+      "name": "O Melhor Presente",
+      "url": "https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -879,26 +879,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Outra Vez, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59"
+        "name": "Meu Natal",
+        "url": "https://open.spotify.com/album/0hqPJXin6tnErxVYK6i4jA"
       },
       "artists": [
         {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+          "name": "Jeanne Mascarenhas",
+          "url": "https://open.spotify.com/artist/1yGmI1ZztrHtndLgHTnz9J"
         },
         {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         }
       ],
-      "duration_ms": 282500,
-      "name": "Como Um de N\u00f3s - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td"
+      "duration_ms": 255986,
+      "name": "Tenha pra Voc\u00ea um Feliz Natal",
+      "url": "https://open.spotify.com/track/1y0oEieIbO267rpUEpvgMM"
     }
   ],
   "unique_name": "Louvores de Natal",

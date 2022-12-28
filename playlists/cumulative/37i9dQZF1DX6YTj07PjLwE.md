@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.
 
-632 songs - 1 day 22 hr 21 min - [published](https://open.spotify.com/playlist/5fY6Ph5wM7EgXYDIjEJqVm)
+633 songs - 1 day 22 hr 25 min - [published](https://open.spotify.com/playlist/5fY6Ph5wM7EgXYDIjEJqVm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,6 +525,7 @@
 | [Talk Show Host](https://open.spotify.com/track/2sy0icOIskeP2lCqgZiTyE) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Street Spirit \(Fade Out\)](https://open.spotify.com/album/4KzKj6JMBbIQ4QhbF3uQNR) | 4:41 | 2022-04-28 | 2022-07-15 |
 | [Talk Show Host](https://open.spotify.com/track/3cMuGOGSaTWbwOurTS4b3Y) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Street Spirit \(Fade Out\)](https://open.spotify.com/album/23wLaTvnMb3pSb3uxnQE3E) | 4:41 | 2022-04-28 | 2022-11-13 |
 | [Talk Tonight \- Remastered](https://open.spotify.com/track/6zLD6Cx1xvZSLSuSYi1h4M) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's the Story\) Morning Glory? \[Remastered Deluxe Edition\]](https://open.spotify.com/album/4okKcGkaoWYRgu9wBYjg8u) | 4:22 | 2022-04-28 | 2022-07-29 |
+| [Talk Tonight \- Remastered](https://open.spotify.com/track/2LNV0347QKt4AHxRSfCBij) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:23 | 2022-11-17 |  |
 | [Taste It](https://open.spotify.com/track/5nyoBFZpN6miTIrBeNJtyB) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Welcome To Wherever You Are \(Remastered\)](https://open.spotify.com/album/6BucEUL1TVDW6WQ59RS3WV) | 3:21 | 2022-04-28 | 2022-07-12 |
 | [Tears of the Dragon \- 2001 Remastered Version](https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls To Picasso \(2001 Remastered Version\)](https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8) | 6:24 | 2022-04-28 |  |
 | [Tease Me Please Me](https://open.spotify.com/track/2QpY0RaiEsfiguZZRcMWo0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:45 | 2022-04-28 | 2022-07-27 |
@@ -560,7 +561,7 @@
 | [This Is a Call](https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 3:53 | 2022-04-28 |  |
 | [This Is Hardcore \- Original Version](https://open.spotify.com/track/1so0qYkfkiZNNcvJN02qdo) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [This Is Hardcore](https://open.spotify.com/album/4KVaUWQnFQSqP3lBViJTO5) | 6:23 | 2022-04-28 | 2022-07-29 |
 | [Thorn In My Pride](https://open.spotify.com/track/4VDfpqLKbbuMMRIl14LLTg) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [The Southern Harmony And Musical Companion](https://open.spotify.com/album/4hVgzAM4i3dPdhZQki9cKk) | 6:03 | 2022-04-28 | 2022-07-28 |
-| [Three Marlenas](https://open.spotify.com/track/6iPZEvHsTanHMOtjyJWMEm) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Bringing Down The Horse](https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh) | 4:59 | 2022-04-28 |  |
+| [Three Marlenas](https://open.spotify.com/track/6iPZEvHsTanHMOtjyJWMEm) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Bringing Down The Horse](https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh) | 4:59 | 2022-04-28 | 2022-12-28 |
 | [Three Point One Four](https://open.spotify.com/track/2WQmyZjoqOQnIawOD2sT3C) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 3:55 | 2022-04-28 | 2022-07-23 |
 | [Time](https://open.spotify.com/track/1N0UflnZhn7xOkrN2l8zxx) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Cracked Rear View](https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K) | 4:56 | 2022-04-28 |  |
 | [Time To Move On](https://open.spotify.com/track/20dt11ZTAtjsfcNJLP9u30) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:15 | 2022-04-28 |  |

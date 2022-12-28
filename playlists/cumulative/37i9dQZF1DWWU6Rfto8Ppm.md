@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-368 songs - 22 hr 12 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
+369 songs - 22 hr 15 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Nadie Te Amará Como Yo \(Remix\) \(feat\. Zion & Arcángel\)](https://open.spotify.com/track/1eoAytqST4MVGz4xdTDqPj) | [Dyland & Lenny](https://open.spotify.com/artist/6EiZOxfG8B5evnLH4KnJeF), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK) | [My World](https://open.spotify.com/album/2XpLbDgssTyK3AmeQlfUL3) | 3:48 | 2021-12-17 |  |
 | [Nena Fichu](https://open.spotify.com/track/2mIhnz6uEyGqXDaYUtr87x) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [El Talento del Bloque](https://open.spotify.com/album/5juo8FAhKpHZrXkKnKe5BQ) | 3:28 | 2021-12-17 | 2022-07-29 |
 | [Nena Fichu](https://open.spotify.com/track/4fP0RqHjhQAnA9PQMchA0S) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [El Talento del Bloque](https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq) | 3:28 | 2022-07-27 |  |
+| [Ninfómana](https://open.spotify.com/track/2PLUdeWqMCRnD1H2e3kt4H) | [Rayo & Toby](https://open.spotify.com/artist/2xmhyxkjpGNBeWXVMeVWHb), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Collection](https://open.spotify.com/album/4e0DgiMV4jN6QhBZylqyvW) | 3:14 | 2022-12-07 |  |
 | [Ninfómana](https://open.spotify.com/track/3aScXwESHmWZH8aQys64zv) | [Rayo & Toby](https://open.spotify.com/artist/2xmhyxkjpGNBeWXVMeVWHb), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Collection](https://open.spotify.com/album/2kpv8aDirgn8AWvs9txgBo) | 3:14 | 2022-05-13 | 2022-06-22 |
 | [Niña Bonita](https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \- Reloaded](https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96) | 3:36 | 2022-10-12 |  |
 | [No Es Culpa Mía](https://open.spotify.com/track/4YAcCjGlRfpcFLyxiI54K7) | [DY](https://open.spotify.com/artist/1zqpsQPgYJM5lYlaaoIL7h) | [No Es Culpa Mía](https://open.spotify.com/album/6pa7ftXvhHJWLvuE4A5mLI) | 1:47 | 2021-12-17 | 2022-07-29 |
@@ -352,7 +353,7 @@
 | [Un Sueño](https://open.spotify.com/track/4w8XJ8nvhslJS3AvR6uL98) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Gargolas 5: The Next Generation](https://open.spotify.com/album/6xJVY6jlX0QRob0ueF9kKJ) | 4:05 | 2022-07-27 |  |
 | [Un Sueño](https://open.spotify.com/track/0dA58RZci59FbrNbNbhGJj) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Alex Gargolas Greatest Hits](https://open.spotify.com/album/6JmEk1yaNPn4LFx9YPcZXv) | 4:14 | 2021-12-17 | 2022-07-29 |
 | [Vaina Loca \- Remix](https://open.spotify.com/track/6dZyrKtOxPV8kXlln1ylk8) | [Pipe Calderón](https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [History](https://open.spotify.com/album/3DGMNR9O9QpuMhRaZlxAtN) | 4:54 | 2022-05-13 |  |
-| [Vamos Pa' La Disco](https://open.spotify.com/track/5ui4NzxjntyFHYsB88PIT4) | [Las Guanabanas](https://open.spotify.com/artist/0MNbjdRcXpvAwnXgWd1Im1) | [Guillaera](https://open.spotify.com/album/6MmriVAm5hv6bVImoUWRpP) | 2:48 | 2021-12-17 |  |
+| [Vamos Pa' La Disco](https://open.spotify.com/track/5ui4NzxjntyFHYsB88PIT4) | [Las Guanabanas](https://open.spotify.com/artist/0MNbjdRcXpvAwnXgWd1Im1) | [Guillaera](https://open.spotify.com/album/6MmriVAm5hv6bVImoUWRpP) | 2:48 | 2021-12-17 | 2022-12-28 |
 | [Vampiresa](https://open.spotify.com/track/644Kky1J5BsAX9zUxziIsX) | [Johnny Prez](https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw) | [The Money Machine Presenta: El Bando Korrupto 2](https://open.spotify.com/album/04owJYXyzs72kYcy2keNrd) | 3:16 | 2021-12-17 |  |
 | [Ven Bailalo](https://open.spotify.com/track/2KtNeULMaw8sFkr8w13WWB) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [Strictly Latin Dancing Come And Dance](https://open.spotify.com/album/395yG7il5B0i3V22UN37y2) | 4:12 | 2021-12-17 | 2022-07-29 |
 | [Ven Bailalo \- Reggaeton Mix](https://open.spotify.com/track/5nZYc9ZDMhlXv6iWahZTU8) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo) | [Ven Bailalo \(Reggaeton Mix\)](https://open.spotify.com/album/0jgWVVvhT0tbpzFIr73p3f) | 4:12 | 2022-07-27 |  |

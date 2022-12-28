@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: The Young Escape
 
-237 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/4bsxWx6vxgvD3SfZNEt9WD)
+238 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/4bsxWx6vxgvD3SfZNEt9WD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Free](https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Free](https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38) | 3:20 | 2021-10-31 |  |
 | [Friend Of Sinners](https://open.spotify.com/track/6kTSXLgIQDmupPqwV84OHQ) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Friend Of Sinners](https://open.spotify.com/album/2X2zfQA7I9MI3KrU5yeZ2k) | 3:22 | 2021-10-31 | 2022-07-29 |
 | [Glorify](https://open.spotify.com/track/5Sd0FZOU2IrxmY6CHbK4oF) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Glorify](https://open.spotify.com/album/5uhFFE1MswWC568NaPkGR5) | 2:57 | 2021-10-31 | 2022-07-26 |
-| [Glorify \(feat\. Toby Mac & Terrian\)](https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 | 2021-10-31 |  |
+| [Glorify \(feat\. Toby Mac & Terrian\)](https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 | 2021-10-31 | 2022-12-28 |
 | [God Help](https://open.spotify.com/track/676lRGOndFzVhAnz6wbFqh) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [God Help](https://open.spotify.com/album/3YbTsoSlScWE8OuPePBaF1) | 3:01 | 2021-10-31 | 2022-07-26 |
 | [God Only Knows \(Timbaland Remix\)](https://open.spotify.com/track/0XMQuzgUJu7AjruBHzTg4Z) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [God Only Knows \(Timbaland Remix\)](https://open.spotify.com/album/1EVzer4Sth6dDaSXxZRuR0) | 3:35 | 2021-10-31 |  |
 | [Golden](https://open.spotify.com/track/7MRWXpI22LKFKFK08yxwSD) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [Mixtape: Side A](https://open.spotify.com/album/50guywYSFP8FOVD8mQZ48k) | 2:52 | 2021-10-31 | 2022-07-29 |
@@ -111,6 +111,7 @@
 | [I Trust You \- Radio Edit](https://open.spotify.com/track/5qZREphIiL2VQ4IvuxgRnH) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I Trust You \(Radio Edit\)](https://open.spotify.com/album/1qE293EsHJeJdx0yNQDNYU) | 3:37 | 2021-10-31 | 2022-07-29 |
 | [I'm Still Breathing](https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [I'm Still Breathing](https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb) | 3:30 | 2021-10-31 |  |
 | [I'm Yours](https://open.spotify.com/track/0wiYzdVeuQkcfjHArN43Em) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Come Home](https://open.spotify.com/album/0RepEC2kqOu4cHOLfxEmiz) | 3:19 | 2021-10-31 | 2022-06-04 |
+| [Influencer](https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Entre Nubes](https://open.spotify.com/album/33365bfVKn4qAztySXLsBm) | 3:25 | 2021-10-31 |  |
 | [Interruption](https://open.spotify.com/track/6XAPzvnQkz6gYMQgFW4gKl) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Interruption](https://open.spotify.com/album/10hJ5eiHPbr1Hk7PsbT8Pv) | 3:15 | 2021-10-31 | 2022-07-24 |
 | [It's Gonna Get Better](https://open.spotify.com/track/4xq5lrkKBwpT8QB0iiBjSp) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [It's Gonna Get Better](https://open.spotify.com/album/6ZXqQXiHmTfQQIC1MOC9lI) | 3:36 | 2021-10-31 |  |
 | [IWKY](https://open.spotify.com/track/1bGKjyrC5SKldCSLFp5AsJ) | [We Are Leo](https://open.spotify.com/artist/2oyWcvOgCXHnYgJ5L0GZQu), [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [IWKY](https://open.spotify.com/album/0WMM3M7bSAV5RzMpHcd32Z) | 3:26 | 2021-10-31 | 2022-07-21 |

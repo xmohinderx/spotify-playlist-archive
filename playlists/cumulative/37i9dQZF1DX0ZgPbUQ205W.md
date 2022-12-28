@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-258 songs - 19 hr 16 min - [published](https://open.spotify.com/playlist/4VFlkwzjI7ScFjbEAfcPrl)
+259 songs - 19 hr 19 min - [published](https://open.spotify.com/playlist/4VFlkwzjI7ScFjbEAfcPrl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Leading Somewhere](https://open.spotify.com/track/0oLadn7l2XO7vvZK066MjM) | [Gustaf Ljunggren](https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs), [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh) | [Floreana](https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl) | 4:23 | 2022-05-13 | 2022-08-18 |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-11-11 |  |
 | [life](https://open.spotify.com/track/1y2hUGD1OpJGxGzhgTiIeO) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [be am](https://open.spotify.com/album/3521kw2vpYybwOFrpz9MGv) | 6:05 | 2022-02-24 | 2022-10-08 |
+| [Lighter](https://open.spotify.com/track/3ME6wz09uMm4wdzyQ4mQb0) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Lighter](https://open.spotify.com/album/58ofYRb4CTqH3UBL6loe3M) | 3:23 | 2022-12-28 |  |
 | [Litania](https://open.spotify.com/track/0ou3UbT1V1FaGU5oz6Q8Bo) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Litania](https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR) | 3:55 | 2022-11-11 |  |
 | [Liten Jazzballong Revisited](https://open.spotify.com/track/4r5PvENy5EBuslP0KIlsO9) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Revisited](https://open.spotify.com/album/2YrkkjesHFyXvlWDi9ODLh) | 6:11 | 2022-09-21 | 2022-10-08 |
 | [Lonely as a Cloud](https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Lonely as a Cloud](https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11) | 2:47 | 2022-12-01 |  |
@@ -173,7 +174,7 @@
 | [Psalm](https://open.spotify.com/track/2VvQcH8wowZ1ik70hdUcfF) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [A Year From Easter](https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0) | 3:10 | 2021-12-17 | 2022-10-08 |
 | [Purplebright](https://open.spotify.com/track/31HbP5dQ4HFCFNwXT6RoD9) | [Eivind Aarset](https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC), [Jan Bang](https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107) | [Snow Catches on Her Eyelashes](https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec) | 2:50 | 2021-12-17 | 2022-02-18 |
 | [Questions in a World of Blue](https://open.spotify.com/track/5BQcGyihNd07qVOSNZ1nWi) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Eric Schaefer](https://open.spotify.com/artist/78fgcTfahAcbrhArWRfzVg), [Christian Weber](https://open.spotify.com/artist/6p18gAI7K7nuCFyqbqJcmZ) | [Nachtfahrten \(with Eric Schaefer & Christian Weber\)](https://open.spotify.com/album/7DfL5qAJsMe7DqO5qlJov5) | 3:05 | 2022-05-25 | 2022-09-22 |
-| [Remembrance IV](https://open.spotify.com/track/6jZqtVqT7TEEyCuU6ZAl2m) | [Ketil Bjørnstad](https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Remembrance](https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC) | 4:13 | 2021-12-17 |  |
+| [Remembrance IV](https://open.spotify.com/track/6jZqtVqT7TEEyCuU6ZAl2m) | [Ketil Bjørnstad](https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Remembrance](https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC) | 4:13 | 2021-12-17 | 2022-12-28 |
 | [Reminiscence](https://open.spotify.com/track/1oPvlSxxRR7hojrjO5T9bB) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [End of Summer](https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ) | 7:03 | 2022-09-15 |  |
 | [Reverie](https://open.spotify.com/track/6I6eOUiJKzFbZ52WY3shok) | [Digo](https://open.spotify.com/artist/4zLM9VqtCfvu0rklvg6LyH) | [Reverie](https://open.spotify.com/album/7oJKCITP96nT9aDuGOsQFw) | 7:31 | 2021-12-17 | 2022-05-04 |
 | [Richter Sonntag](https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1) | [Nils Berg Cinemascope](https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3) | [We Seem to Be Drifting Apart](https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2) | 2:46 | 2021-12-17 | 2022-11-11 |

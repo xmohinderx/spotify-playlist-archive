@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 7702,
+  "num_followers": 7709,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDQ1YWRlNmIyODU2MDU5YjMzNTZlOWRkMDBhMDAzODAw",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMGY3ZTNjMTQwMmY3NDI0OGJhMzc0MDcyMjBkYzFiOWIy",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -447,22 +447,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Super-h\u00e9ros sous peu",
-        "url": "https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo"
-      },
-      "artists": [
-        {
-          "name": "See Spot Run",
-          "url": "https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "Decoller - Remix",
-      "url": "https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Mal \u00e9duqu\u00e9 mon amour",
         "url": "https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 203506,
       "name": "Tu ne peux pas partir",
       "url": "https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Super-h\u00e9ros sous peu",
+        "url": "https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo"
+      },
+      "artists": [
+        {
+          "name": "See Spot Run",
+          "url": "https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI"
+        }
+      ],
+      "duration_ms": 232280,
+      "name": "Decoller - Remix",
+      "url": "https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -623,18 +623,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Thermoplastique",
-        "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
+        "name": "Le silence des roses",
+        "url": "https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF"
       },
       "artists": [
         {
-          "name": "Les Secr\u00e9taires Volantes",
-          "url": "https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF"
+          "name": "France D'Amour",
+          "url": "https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI"
         }
       ],
-      "duration_ms": 173626,
-      "name": "Thermoplastique",
-      "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
+      "duration_ms": 263640,
+      "name": "Si j'ai tort",
+      "url": "https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -655,18 +655,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Le silence des roses",
-        "url": "https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF"
+        "name": "Thermoplastique",
+        "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
       },
       "artists": [
         {
-          "name": "France D'Amour",
-          "url": "https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI"
+          "name": "Les Secr\u00e9taires Volantes",
+          "url": "https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF"
         }
       ],
-      "duration_ms": 263640,
-      "name": "Si j'ai tort",
-      "url": "https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx"
+      "duration_ms": 173626,
+      "name": "Thermoplastique",
+      "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Le Nombre",
-        "url": "https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG"
-      },
-      "artists": [
-        {
-          "name": "Le Nombre",
-          "url": "https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Laissez venir \u00e0 moi les grandes brunes",
-      "url": "https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Coma",
         "url": "https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 219800,
       "name": "Une araign\u00e9e au plafond",
       "url": "https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Le Nombre",
+        "url": "https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG"
+      },
+      "artists": [
+        {
+          "name": "Le Nombre",
+          "url": "https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Laissez venir \u00e0 moi les grandes brunes",
+      "url": "https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB"
     },
     {
       "added_at": "2020-06-23 14:47:30",

@@ -1,12 +1,12 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: BROCKHAMPTON",
-  "num_followers": 903808,
+  "num_followers": 904025,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDhhNzJiYzdlZGM1Y2Q0MzA0Nzg0Y2ZmZjg2OTc5NGEx",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDgzN2VkMDJiZmUyM2QxODk4MDM5ZDk4NjA4ZjhmOTM2",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -683,26 +683,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Red Lights (feat. Hello O'shay)",
-        "url": "https://open.spotify.com/album/16yQV8L8zdacH4xEjbODda"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Hello O'shay",
-          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
-        }
-      ],
-      "duration_ms": 192545,
-      "name": "Red Lights (feat. Hello O'shay)",
-      "url": "https://open.spotify.com/track/2qUPj0b3PYLJJoscQvhMUr"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Suicide",
         "url": "https://open.spotify.com/album/4rx5wKkcvknXEV7IZzNhUs"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 224937,
       "name": "Suicide",
       "url": "https://open.spotify.com/track/3WYuIKvTLWbv8IwFNakmo5"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Red Lights (feat. Hello O'shay)",
+        "url": "https://open.spotify.com/album/16yQV8L8zdacH4xEjbODda"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hello O'shay",
+          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+        }
+      ],
+      "duration_ms": 192545,
+      "name": "Red Lights (feat. Hello O'shay)",
+      "url": "https://open.spotify.com/track/2qUPj0b3PYLJJoscQvhMUr"
     },
     {
       "added_at": "2022-12-16 05:00:00",

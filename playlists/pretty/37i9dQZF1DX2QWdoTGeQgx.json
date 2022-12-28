@@ -1,12 +1,12 @@
 {
   "description": "Sit back and unwind to the most selamba songs around.",
-  "num_followers": 42242,
+  "num_followers": 42257,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwMDc0NiwwMDAwMDAwMDIyOTI5ZDI2ZDA5NDg3NDIwZGQ5MDFkZDEyOWUxZGEx",
+  "snapshot_id": "MTY2NjkwMDc0NiwwMDAwMDAwMGM5ZmUyZDAzNzZhNWVlODE4Mzg0MTdhMmU5MmIzYjA3",
   "tracks": [
     {
       "added_at": "2022-10-27 19:59:06",
@@ -1211,18 +1211,22 @@
     {
       "added_at": "2022-10-27 19:59:06",
       "album": {
-        "name": "The Outsider EP",
-        "url": "https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp"
+        "name": "Friends (with Pamungkas)",
+        "url": "https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm"
       },
       "artists": [
         {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+          "name": "Rendy Pandugo",
+          "url": "https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8"
+        },
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
         }
       ],
-      "duration_ms": 166480,
-      "name": "Pager",
-      "url": "https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ"
+      "duration_ms": 199601,
+      "name": "Friends (with Pamungkas)",
+      "url": "https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n"
     }
   ],
   "unique_name": "Chill Lah",

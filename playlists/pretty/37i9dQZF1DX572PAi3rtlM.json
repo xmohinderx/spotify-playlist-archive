@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 24847,
+  "num_followers": 24860,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDliZDU0NzcxMDIxMWRhNTk4YWE5Y2I1NmZiMGVkY2I1",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDMwYWYxNWNhMTdmOTBjMzg2ZGVhZWUwOGU5Y2ZkYzU4",
   "tracks": [
     {
       "added_at": "2021-09-01 00:59:23",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "RE//CHOIRED",
-        "url": "https://open.spotify.com/album/5JMcyXM7mWafx7jpT7XQka"
-      },
-      "artists": [
-        {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
-        }
-      ],
-      "duration_ms": 234758,
-      "name": "Most Precious Love",
-      "url": "https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Zagora",
         "url": "https://open.spotify.com/album/2ev6ZbefgaoveKnaVGJ6oD"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 270333,
       "name": "Gonna Make You Mine",
       "url": "https://open.spotify.com/track/3x59bNHg2OwyaeHChaixaP"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "RE//CHOIRED",
+        "url": "https://open.spotify.com/album/5JMcyXM7mWafx7jpT7XQka"
+      },
+      "artists": [
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        }
+      ],
+      "duration_ms": 234758,
+      "name": "Most Precious Love",
+      "url": "https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Your Good Times Will Come",
-        "url": "https://open.spotify.com/album/1ZhTIMvd5OlrytEfwekpUR"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 290753,
-      "name": "Your Good Times Will Come",
-      "url": "https://open.spotify.com/track/3g5oI7fJYh9NaQMQ5x4ItH"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Scented Trip",
         "url": "https://open.spotify.com/album/12Z1TMLUbMqeeivrEijzha"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 380149,
       "name": "Morning Shift",
       "url": "https://open.spotify.com/track/3zleqNZf1vJabDXJKfAE9G"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Your Good Times Will Come",
+        "url": "https://open.spotify.com/album/1ZhTIMvd5OlrytEfwekpUR"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 290753,
+      "name": "Your Good Times Will Come",
+      "url": "https://open.spotify.com/track/3g5oI7fJYh9NaQMQ5x4ItH"
     },
     {
       "added_at": "2021-09-01 00:59:23",

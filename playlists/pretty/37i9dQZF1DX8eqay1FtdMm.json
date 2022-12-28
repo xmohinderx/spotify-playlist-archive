@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover: Jung Seung Hwan(\uc815\uc2b9\ud658)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 309437,
+  "num_followers": 309492,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjA0NjE0NSwwMDAwMDAwMGU4OTZhYjdlZmU4Nzg1MGU0NmYwMDhhMDU1ZjY0YzJh",
+  "snapshot_id": "MTY3MjA0NjE0NSwwMDAwMDAwMDYxMjQxODAwYzc0YTY5MWUxNTBkNjFlNjI5NGY0MzY3",
   "tracks": [
     {
       "added_at": "2022-12-19 08:16:02",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1xzC5lmJfG21PJBAeQaBam"
     },
     {
-      "added_at": "2022-12-27 01:22:25",
+      "added_at": "2022-12-28 01:06:05",
       "album": {
         "name": "The Forbidden Marriage, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0UoIZMkWzH1OqYXbc934Mv"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/6VqxPUU0GKTHJ0qlvzq89O"
     },
     {
-      "added_at": "2022-12-27 01:22:25",
+      "added_at": "2022-12-28 01:06:05",
       "album": {
         "name": "Unlock My Boss, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
     },
     {
-      "added_at": "2022-12-27 01:22:25",
+      "added_at": "2022-12-28 01:06:05",
       "album": {
         "name": "The star",
         "url": "https://open.spotify.com/album/7srtgA0xnFqNLnrAnfjsQg"
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 260264,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
         "name": "Lovers of the Red Sky OST Part.1",
         "url": "https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 248066,
       "name": "Is it me?",
       "url": "https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 260264,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
         "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 267280,
       "name": "Breath",
       "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "Chocolate, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1IIaSwpqJvJCvxXyM69c3A"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 221746,
-      "name": "Just Look for you",
-      "url": "https://open.spotify.com/track/15Xk9pTVjhLH3nldqR89Sl"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
         "name": "Love, Yerin",
         "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 205800,
       "name": "A Walk",
       "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
+        "name": "Chocolate, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1IIaSwpqJvJCvxXyM69c3A"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 221746,
+      "name": "Just Look for you",
+      "url": "https://open.spotify.com/track/15Xk9pTVjhLH3nldqR89Sl"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 273680,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
         "name": "Solo Christmas",
         "url": "https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 216146,
       "name": "Solo Christmas",
       "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 273680,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "Story Of Two Years",
-        "url": "https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt"
-      },
-      "artists": [
-        {
-          "name": "Lim Jae Beum",
-          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "\ub108\ub97c \uc704\ud574",
-      "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
         "name": "My Liberation Notes OST Part 1",
         "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "I Can\u2019t (Re:WIND 4MEN Vol.02)",
-        "url": "https://open.spotify.com/album/4ZUX84xu3LpbFHtgyJdoF6"
+        "name": "Story Of Two Years",
+        "url": "https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt"
       },
       "artists": [
         {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
         }
       ],
-      "duration_ms": 250053,
-      "name": "I Can\u2019t",
-      "url": "https://open.spotify.com/track/5o5yvRKiygg9Nh4Uvo0VTH"
+      "duration_ms": 246293,
+      "name": "\ub108\ub97c \uc704\ud574",
+      "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -1267,6 +1251,22 @@
       "duration_ms": 246491,
       "name": "Drunken confession at night (Prod. 2soo)",
       "url": "https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
+        "name": "I Can\u2019t (Re:WIND 4MEN Vol.02)",
+        "url": "https://open.spotify.com/album/4ZUX84xu3LpbFHtgyJdoF6"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "I Can\u2019t",
+      "url": "https://open.spotify.com/track/5o5yvRKiygg9Nh4Uvo0VTH"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "Sweet Lullaby",
-        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Sweet Lullaby",
-      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
         "name": "The 3rd Digital Single `Amazing You'",
         "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 296832,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
+        "name": "Sweet Lullaby",
+        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Sweet Lullaby",
+      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 238022,
+      "name": "didn't know me",
+      "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
         "name": "Burn Like A Star",
         "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+        "name": "My Favorite Winter",
+        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
         }
       ],
-      "duration_ms": 238022,
-      "name": "didn't know me",
-      "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
+      "duration_ms": 229386,
+      "name": "My Favorite Winter",
+      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "My Favorite Winter",
-        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "My Favorite Winter",
-      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
         "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
       },
@@ -1547,18 +1547,22 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "Red Moon: Beyond The Light",
-        "url": "https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6"
+        "name": "Ode To The Stars",
+        "url": "https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA"
       },
       "artists": [
         {
           "name": "MAKTUB",
           "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        },
+        {
+          "name": "Leeraon",
+          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
         }
       ],
-      "duration_ms": 244173,
-      "name": "The Eternal Moment",
-      "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
+      "duration_ms": 282853,
+      "name": "Ode To The Stars",
+      "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -1579,22 +1583,6 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "Bad Influence",
-        "url": "https://open.spotify.com/album/64UpaMQNLdwF1JD0JDaWor"
-      },
-      "artists": [
-        {
-          "name": "Bernard Park",
-          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "Bad Influence",
-      "url": "https://open.spotify.com/track/5IfWm7ztpJW3Up9pTLAAUc"
-    },
-    {
-      "added_at": "2022-12-19 08:16:02",
-      "album": {
         "name": "Starting Now",
         "url": "https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy"
       },
@@ -1607,6 +1595,22 @@
       "duration_ms": 205440,
       "name": "Starting Now",
       "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
+    },
+    {
+      "added_at": "2022-12-19 08:16:02",
+      "album": {
+        "name": "Bad Influence",
+        "url": "https://open.spotify.com/album/64UpaMQNLdwF1JD0JDaWor"
+      },
+      "artists": [
+        {
+          "name": "Bernard Park",
+          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
+        }
+      ],
+      "duration_ms": 160426,
+      "name": "Bad Influence",
+      "url": "https://open.spotify.com/track/5IfWm7ztpJW3Up9pTLAAUc"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -1643,8 +1647,8 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 6",
-        "url": "https://open.spotify.com/album/0ruypxhtFg28qk7uJDSozs"
+        "name": "Invitation",
+        "url": "https://open.spotify.com/album/0tv9DkivdKrquO2wE2khr2"
       },
       "artists": [
         {
@@ -1652,9 +1656,9 @@
           "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 219093,
-      "name": "Link",
-      "url": "https://open.spotify.com/track/6O3EdGPasHMi44JWmyi0nW"
+      "duration_ms": 210000,
+      "name": "Invitation",
+      "url": "https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA"
     },
     {
       "added_at": "2022-12-19 08:16:02",
@@ -1679,22 +1683,18 @@
     {
       "added_at": "2022-12-19 08:16:02",
       "album": {
-        "name": "Ode To The Stars",
-        "url": "https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA"
+        "name": "Red Moon: Beyond The Light",
+        "url": "https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6"
       },
       "artists": [
         {
           "name": "MAKTUB",
           "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        },
-        {
-          "name": "Leeraon",
-          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
         }
       ],
-      "duration_ms": 282853,
-      "name": "Ode To The Stars",
-      "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
+      "duration_ms": 244173,
+      "name": "The Eternal Moment",
+      "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
     }
   ],
   "unique_name": "v o K a l",

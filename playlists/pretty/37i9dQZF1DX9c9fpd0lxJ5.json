@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby:)",
-  "num_followers": 447228,
+  "num_followers": 447233,
   "original_name": "Radiante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY2NDc3MCwwMDAwMDAwMDVmYzg0ODM3NTNmMTdjYmVmNzQzYzNlODEzYTAzZDY3",
+  "snapshot_id": "MTY3MTY2NDc3MCwwMDAwMDAwMGQ2OTM1YWE2YzgxNzIzOTZlZTkwZTFkYWIyYWIwNGM0",
   "tracks": [
     {
       "added_at": "2022-12-21 23:19:29",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-12-21 23:19:29",
       "album": {
+        "name": "Multicolor",
+        "url": "https://open.spotify.com/album/2czVuP4m56SE64ctzcXclC"
+      },
+      "artists": [
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        }
+      ],
+      "duration_ms": 332546,
+      "name": "Rompecabezas",
+      "url": "https://open.spotify.com/track/5KPVawlzPpOuQ3qqvny35p"
+    },
+    {
+      "added_at": "2022-12-21 23:19:29",
+      "album": {
         "name": "Fuma",
         "url": "https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 199200,
       "name": "Fuma",
       "url": "https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL"
-    },
-    {
-      "added_at": "2022-12-21 23:19:29",
-      "album": {
-        "name": "Multicolor",
-        "url": "https://open.spotify.com/album/2czVuP4m56SE64ctzcXclC"
-      },
-      "artists": [
-        {
-          "name": "Solo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
-        }
-      ],
-      "duration_ms": 332546,
-      "name": "Rompecabezas",
-      "url": "https://open.spotify.com/track/5KPVawlzPpOuQ3qqvny35p"
     },
     {
       "added_at": "2022-12-21 23:19:29",

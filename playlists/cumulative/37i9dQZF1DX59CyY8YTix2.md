@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: クレナズム\(Culenasm\)
 
-717 songs - 1 day 22 hr 2 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+718 songs - 1 day 22 hr 6 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,7 @@
 | [キャラクター](https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [キャラクター](https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c) | 4:09 | 2022-07-28 | 2022-08-17 |
 | [キャリーケースは重いままで](https://open.spotify.com/track/2ADl3dTfftKsYTVQjdY7iH) | [やましたりな](https://open.spotify.com/artist/1O235Li0262kkP7gfP6B5W) | [バイバイ、私 / キャリーケースは重いままで](https://open.spotify.com/album/6ywtlcRbSCR213Z70OZIgK) | 4:05 | 2022-05-26 | 2022-07-29 |
 | [グッバイ来世でまた会おう](https://open.spotify.com/track/3tMAlCQkzdZaLY13drupYE) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [グッバイ来世でまた会おう](https://open.spotify.com/album/7awpbwywwAClGnc8pMrCPf) | 4:01 | 2022-05-26 | 2022-07-29 |
-| [クリスマスのよる](https://open.spotify.com/track/7EZhW28rCBdk7PEc39LaTA) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [クリスマスのよる](https://open.spotify.com/album/77XMycZ6Xdok8wMQT31hqp) | 4:30 | 2022-12-02 |  |
+| [クリスマスのよる](https://open.spotify.com/track/7EZhW28rCBdk7PEc39LaTA) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [クリスマスのよる](https://open.spotify.com/album/77XMycZ6Xdok8wMQT31hqp) | 4:30 | 2022-12-02 | 2022-12-28 |
 | [クリームソーダが溶ける頃](https://open.spotify.com/track/4p6eJCD6zGYSDI5RD2IhTG) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [クリームソーダが溶ける頃](https://open.spotify.com/album/6QfuUbAPxD3nBGc5OirrPD) | 3:23 | 2022-07-19 | 2022-07-27 |
 | [クロノスタシス](https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 3:47 | 2022-05-31 | 2022-12-14 |
 | [グッドナイトベイベー](https://open.spotify.com/track/5sYJnoEO3q43mlAX7huztD) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [ポップコーン](https://open.spotify.com/album/0L48DwxY1akUCwSnJnDNbQ) | 3:30 | 2022-05-26 | 2022-07-29 |
@@ -650,6 +650,7 @@
 | [生きてしぬ](https://open.spotify.com/track/2wjakZC9Np8hdcgqNKc1Vp) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [最終兵器は自由](https://open.spotify.com/album/539F5Y2n3e7QsdQtQM6BOp) | 3:11 | 2022-09-13 | 2022-09-21 |
 | [生きるのを辞めた日](https://open.spotify.com/track/6ph78xoUhUBAzggbIPWyoB) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [生きるのを辞めた日](https://open.spotify.com/album/5auV16bk3lCdHaM8ibEdpA) | 4:46 | 2022-05-26 | 2022-06-01 |
 | [生き辛い世の中だ](https://open.spotify.com/track/0cHMs6qYJPJl8vwZCh9vj8) | [nolala](https://open.spotify.com/artist/4zd18vM6FInPxbaa96shHL) | [生き辛い世の中だ](https://open.spotify.com/album/6Lcw50k6qw59rnfJyXsiqI) | 3:16 | 2022-06-07 | 2022-06-09 |
+| [生活](https://open.spotify.com/track/1TAF4rJSiwHVCw7usEp7ae) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [生活](https://open.spotify.com/album/4z9GVOoie1BZseiBIXKbnc) | 4:39 | 2022-12-27 |  |
 | [生活の中で](https://open.spotify.com/track/35BHxzM0NmyzYPgE7bns4i) | [最果テルーティン](https://open.spotify.com/artist/2yAThkujbnqrhoqPMdoxpX) | [生活の中で](https://open.spotify.com/album/1NGdzOkb5gbudyI6Mkh4n4) | 3:47 | 2022-06-16 | 2022-07-07 |
 | [発色](https://open.spotify.com/track/6P76G0j28gyqDcP6jWaRoH) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [発色](https://open.spotify.com/album/5CodK6p0lFVtOOLjMYYy6L) | 3:18 | 2022-11-15 | 2022-11-23 |
 | [白昼夢](https://open.spotify.com/track/61tfjimxak02qu4OqhVfVm) | [myuuRy](https://open.spotify.com/artist/61Xlneg2TaCeEck0vRikVJ) | [白昼夢](https://open.spotify.com/album/1JQiTCzu2sOuEuYge6g5rG) | 3:14 | 2022-11-01 | 2022-11-09 |

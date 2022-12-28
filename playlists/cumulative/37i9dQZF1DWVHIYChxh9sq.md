@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Luis Alfonso Partida El Yaki
 
-315 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/4oXHgWduTWFlo14M6NXNSL)
+316 songs - 17 hr 23 min - [published](https://open.spotify.com/playlist/4oXHgWduTWFlo14M6NXNSL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Traves Del Vaso \- Live](https://open.spotify.com/track/12nwHKeicOcrvmaX5ubm2U) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pa' Las De Vidrio \(Live\)](https://open.spotify.com/album/7InJQUmbBBEUqDZZMMJ4C8) | 3:02 | 2022-05-12 | 2022-12-09 |
 | [Abrazado De Un Poste \- En Vivo](https://open.spotify.com/track/5foBwr4MmU2oeuEe6gnQHr) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Lorenzo De Monteclaro](https://open.spotify.com/artist/4YnO1u0lWE4lXZKy8wXjZX) | [Desde La Cantina \(Live At Nuevo León México/2009\)](https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy) | 3:12 | 2022-12-09 |  |
 | [Acá Entre Nos \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/42sXKjLh6v97XWojhwckLR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 3:56 | 2022-05-12 | 2022-12-09 |
+| [Acábame de Matar](https://open.spotify.com/track/6QP0vTI12LG8SqiJPJx1zG) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Estas Se Acompañan Con Cerveza](https://open.spotify.com/album/7oL63kIHOxcxMuvtwuTiMR) | 3:32 | 2022-12-28 |  |
 | [Aguanta Corazon](https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:17 | 2022-12-09 |  |
 | [Ahí Les Va](https://open.spotify.com/track/1pyoLEEfKhGMFjVBjO6svK) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Ahí Les Va](https://open.spotify.com/album/5dT7lDmrlnSTGjO4vBQZY0) | 3:13 | 2022-05-12 | 2022-12-09 |
 | [Alma Enamorada](https://open.spotify.com/track/3yS8KJmIqB8CFBGKi4SNZF) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida Vol\. 2](https://open.spotify.com/album/3sVXSzrTDtqu3SazsdAKzb) | 2:36 | 2022-05-12 | 2022-12-09 |
@@ -122,7 +123,7 @@
 | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI) | 3:33 | 2022-12-08 |  |
 | [El H \(En Vivo\)](https://open.spotify.com/track/6053Is00EA36bQRzjvairQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Pisteando Con Amigos \(En Vivo\)](https://open.spotify.com/album/3eyWMTbJs0XLxLaOaUFLSU) | 3:00 | 2022-12-08 |  |
 | [El Humilde \- En Vivo](https://open.spotify.com/track/0ju0EtGY9pY1zMdW1e4fkE) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [El Humilde \(En Vivo\)](https://open.spotify.com/album/0c9qAUUno3iQO3K6wQTpuh) | 2:54 | 2022-05-12 | 2022-12-09 |
-| [El Indio Enamorado \(En Vivo\)](https://open.spotify.com/track/1AEWyAZwNY3HxYnOITEPu5) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [El Indio Enamorado \(En Vivo\)](https://open.spotify.com/album/0maq6fu6MH2kx9YOEe4nRG) | 2:55 | 2022-12-08 |  |
+| [El Indio Enamorado \(En Vivo\)](https://open.spotify.com/track/1AEWyAZwNY3HxYnOITEPu5) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [El Indio Enamorado \(En Vivo\)](https://open.spotify.com/album/0maq6fu6MH2kx9YOEe4nRG) | 2:55 | 2022-12-08 | 2022-12-28 |
 | [El Inmigrante \(En Vivo\)](https://open.spotify.com/track/4vTOriU3pZrfRkbR5tu43p) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [El Inmigrante \(En Vivo\)](https://open.spotify.com/album/0k1zLGzjpIbLLF0w5IWyZn) | 3:23 | 2022-05-12 |  |
 | [El Jardinero \- En Vivo](https://open.spotify.com/track/2SFkbDxKc6vxXog0jxEhqG) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Jardinero \(En Vivo\)](https://open.spotify.com/album/6lxrgPOv4TeGuPKcV9htWj) | 3:16 | 2022-05-12 | 2022-07-29 |
 | [El Jardinero \- En Vivo](https://open.spotify.com/track/2axaZeLCNirl8b03moUCUA) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Jardinero \(En Vivo\)](https://open.spotify.com/album/4Wlx4BInT94rbYM4Rr1kD4) | 3:16 | 2022-05-12 | 2022-12-09 |

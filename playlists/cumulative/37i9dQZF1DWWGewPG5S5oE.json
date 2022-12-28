@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 322842,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/6lAiWBSXcW4vO25LckdYlN"
@@ -698,6 +698,24 @@
     },
     {
       "album": {
+        "name": "Time Won't Stop",
+        "url": "https://open.spotify.com/album/0rQDHxRhpolHbzQYcB510w"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423263,
+      "name": "Mile in the green",
+      "url": "https://open.spotify.com/track/7rkZY26t32ha7lGHGnsGH7"
+    },
+    {
+      "album": {
         "name": "Mile in the green",
         "url": "https://open.spotify.com/album/73U232pI9TANrWBWEdgLe0"
       },
@@ -899,7 +917,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 332500,
       "name": "Red Lightning",
       "url": "https://open.spotify.com/track/7z8y7GvjS0X2BwDJGThY7y"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 236907,
       "name": "Squall",
       "url": "https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni"
@@ -1281,6 +1299,44 @@
       "duration_ms": 191239,
       "name": "tietie",
       "url": "https://open.spotify.com/track/22QIfhCJOZweyxywstzKVy"
+    },
+    {
+      "album": {
+        "name": "PARK STREET KIDS",
+        "url": "https://open.spotify.com/album/7DL4EnsqFanSVPyjZS1zLa"
+      },
+      "artists": [
+        {
+          "name": "Makoto Ozone",
+          "url": "https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged"
+        },
+        {
+          "name": "Eiji Kitamura",
+          "url": "https://open.spotify.com/artist/3ObcIjZXcEvPEGqSJxI8KM"
+        },
+        {
+          "name": "\u4e2d\u5ddd\u559c\u5f18",
+          "url": "https://open.spotify.com/artist/3oi4zctKJg8k5J3NuBEgkX"
+        },
+        {
+          "name": "\u4e2d\u5ddd\u82f1\u4e8c\u90ce",
+          "url": "https://open.spotify.com/artist/5n3EOyRF5yPU67VVCCefpx"
+        },
+        {
+          "name": "\u4e2d\u6751\u5065\u543e",
+          "url": "https://open.spotify.com/artist/1GT3yeZxbeiNfLoTwYw6pq"
+        },
+        {
+          "name": "\u9ad8\u6a4b\u4fe1\u4e4b\u4ecb",
+          "url": "https://open.spotify.com/artist/2ird8pw3KnFYmCcMJKWdcb"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361733,
+      "name": "Tiger Rag",
+      "url": "https://open.spotify.com/track/1vIrFpbVFbdDNoELavkLhz"
     },
     {
       "album": {
@@ -1789,7 +1845,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 277840,
       "name": "\u77f3\u306e\u6559\u4f1a",
       "url": "https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK"

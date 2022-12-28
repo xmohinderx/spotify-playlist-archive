@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,767 likes - 107 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,216 likes - 107 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 83 | [Summer Air](https://open.spotify.com/track/4zHbzMPCg3tovIILIa7dsB) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Summer Air](https://open.spotify.com/album/5bcHkau6y7drfSvfnTwMsv) | 3:03 |
 | 84 | [Lighthouse \- Andrelli Remix](https://open.spotify.com/track/04CttTezSnv71USiiG9mIo) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [Lighthouse \(Andrelli Remix\)](https://open.spotify.com/album/4ywy3ahNM8FMH99Ueuf9ZA) | 3:38 |
 | 85 | [Drink About](https://open.spotify.com/track/73WJ6rYbtFi0Z2T4hPS1iN) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Nice To Meet You](https://open.spotify.com/album/6ERbVmi33M9tKn7RNtt17G) | 3:02 |
-| 86 | [H.O.L.Y.](https://open.spotify.com/track/625SfHM2FVyyUj3cT8108G) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [H.O.L.Y.](https://open.spotify.com/album/7oCFkWFuRVBCSL2JrPP0LU) | 2:55 |
-| 87 | [Arcade \- Sam Feldt Remix](https://open.spotify.com/track/72tFpETiYCd5dOrxt8mjq1) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Arcade \(Sam Feldt Remix\)](https://open.spotify.com/album/7asdrrGPiGUgv50OATAorX) | 2:33 |
+| 86 | [Arcade \- Sam Feldt Remix](https://open.spotify.com/track/72tFpETiYCd5dOrxt8mjq1) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Arcade \(Sam Feldt Remix\)](https://open.spotify.com/album/7asdrrGPiGUgv50OATAorX) | 2:33 |
+| 87 | [H.O.L.Y.](https://open.spotify.com/track/625SfHM2FVyyUj3cT8108G) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [H.O.L.Y.](https://open.spotify.com/album/7oCFkWFuRVBCSL2JrPP0LU) | 2:55 |
 | 88 | [Sleepy Eyes](https://open.spotify.com/track/1Wvzo4EotLEh4W3OVcQoDO) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Elohim \(Deluxe Edition\)](https://open.spotify.com/album/6tbzSO8UHnbvsPFG449fb2) | 3:22 |
 | 89 | [Fade Out Lines \- The Avener Rework](https://open.spotify.com/track/2y2TNx72H4oE01TkztsAR6) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [The Wanderings Of The Avener](https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy) | 4:36 |
 | 90 | [Rewind](https://open.spotify.com/track/1VwFPiTNrvxg16OBBPDrEf) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [Sophie Strauss](https://open.spotify.com/artist/7jkqVQ6YQ3LvAhVG03ZP4G) | [Rewind](https://open.spotify.com/album/2E0mrQvminQ2RpbDB1149f) | 3:17 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 106 | [Carry Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:53 |
 | 107 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
 
-Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMGQ4NzMwNTBlOGVkZjU4MTcyMTkwZTZjMDc0YjY1ZWIz`
+Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMDQyNzVhYzA5ODBmMGZlMWI2N2IxN2E5OTM2NTgyMGU2`

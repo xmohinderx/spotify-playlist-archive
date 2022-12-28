@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Morocco.",
-  "num_followers": 153617,
+  "num_followers": 153867,
   "original_name": "Morocco Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjA1NjI3NSwwMDAwMDAwMGI4ODkzMTUzYTNlZWVlZGU3ZDg3YjM2NDBhMzE3Mjg1",
+  "snapshot_id": "MTY3MjE2NDYwNywwMDAwMDAwMDFhYTRlZDVhZTc3M2YxOTA0NDQ3NDAwNzlmODcwOWM1",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -99,54 +99,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/3TC4AzLjp92AoJj56TXvkZ"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        },
-        {
-          "name": "Leil",
-          "url": "https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3"
-        },
-        {
-          "name": "Ramoon",
-          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/2ZsK7PdynTF7ilvUEgKTvT"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "\u0664in (Act 4)",
-        "url": "https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV"
-      },
-      "artists": [
-        {
-          "name": "Don Bigg",
-          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
-        },
-        {
-          "name": "Sa\u00efd Senhaji",
-          "url": "https://open.spotify.com/artist/0B5LEqRZp3vG38J25CYPca"
-        },
-        {
-          "name": "Abdelaziz Stati",
-          "url": "https://open.spotify.com/artist/43TeJ7uEQzDLp3hXmzY2X1"
-        }
-      ],
-      "duration_ms": 365529,
-      "name": "L7essada",
-      "url": "https://open.spotify.com/track/6BbRk218FsK51B2KVc4GrA"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Nsiti",
         "url": "https://open.spotify.com/album/2d3GvYdZTh6DnvdOnO1ObG"
       },
@@ -191,6 +143,46 @@
       "duration_ms": 161118,
       "name": "Papa",
       "url": "https://open.spotify.com/track/4nl8f2KRGtXZvpRe2aQbgw"
+    },
+    {
+      "added_at": "2022-12-27 18:10:07",
+      "album": {
+        "name": "Dirou Niyya (Official Moroccan Fan Chant)",
+        "url": "https://open.spotify.com/album/4dh7GUAykeLvwzGOVM1lcb"
+      },
+      "artists": [
+        {
+          "name": "RedOne",
+          "url": "https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx"
+        }
+      ],
+      "duration_ms": 177725,
+      "name": "Dirou Niyya - Official Moroccan Fan Chant",
+      "url": "https://open.spotify.com/track/2pDBEAiA554r73laQPmzOW"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/3TC4AzLjp92AoJj56TXvkZ"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Leil",
+          "url": "https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3"
+        },
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        }
+      ],
+      "duration_ms": 224516,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/2ZsK7PdynTF7ilvUEgKTvT"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -255,26 +247,6 @@
       "duration_ms": 206326,
       "name": "Anaconda",
       "url": "https://open.spotify.com/track/52v6JiIMBEvnuvRFOyxhMQ"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Casaway",
-        "url": "https://open.spotify.com/album/6BuJoTvXekiP5Ixr6drom6"
-      },
-      "artists": [
-        {
-          "name": "Tagne",
-          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
-        },
-        {
-          "name": "Raymonde",
-          "url": "https://open.spotify.com/artist/63nHhkPCFLt50hfm4L9J0l"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Casaway",
-      "url": "https://open.spotify.com/track/1M5E9egSgeNZGI45zdTM0l"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -359,6 +331,30 @@
       "duration_ms": 197785,
       "name": "FORSSA",
       "url": "https://open.spotify.com/track/4ERqimtfCADVUI256ishDr"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "\u0664in (Act 4)",
+        "url": "https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        },
+        {
+          "name": "Sa\u00efd Senhaji",
+          "url": "https://open.spotify.com/artist/0B5LEqRZp3vG38J25CYPca"
+        },
+        {
+          "name": "Abdelaziz Stati",
+          "url": "https://open.spotify.com/artist/43TeJ7uEQzDLp3hXmzY2X1"
+        }
+      ],
+      "duration_ms": 365529,
+      "name": "L7essada",
+      "url": "https://open.spotify.com/track/6BbRk218FsK51B2KVc4GrA"
     },
     {
       "added_at": "2022-12-22 23:00:00",

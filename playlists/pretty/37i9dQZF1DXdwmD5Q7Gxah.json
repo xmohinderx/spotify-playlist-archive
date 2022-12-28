@@ -1,12 +1,12 @@
 {
-  "description": "All the indescribable feelings that music gives you. cover: abby sage",
-  "num_followers": 974344,
+  "description": "All the indescribable feelings that music gives you, a #corecore paradise. cover: abby sage",
+  "num_followers": 975561,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc0MTMyMywwMDAwMDAwMGJjMGNlNjhlZGU5ZjRmYjZhOWUzM2JhYjExN2I4OTIx",
+  "snapshot_id": "MTY3MjE3NDM4OCwwMDAwMDAwMDAyNmQ3OTBhYmQxNmNhZGZhNzAzYjljMzg2YzU2ZWY4",
   "tracks": [
     {
       "added_at": "2022-09-13 01:10:35",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/3VQ1VsQYbBN3doGCFHUdg9"
     },
     {
+      "added_at": "2022-12-22 20:35:23",
+      "album": {
+        "name": "Someone2Me",
+        "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 226471,
+      "name": "Someone2Me",
+      "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
+    },
+    {
       "added_at": "2022-11-02 20:55:55",
       "album": {
         "name": "girlfriend",
@@ -57,20 +73,20 @@
       "url": "https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx"
     },
     {
-      "added_at": "2022-12-22 20:35:23",
+      "added_at": "2022-12-27 20:53:08",
       "album": {
-        "name": "Someone2Me",
-        "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
+        "name": "innerdialogue",
+        "url": "https://open.spotify.com/album/71fYutyUI0dEQ0443BaXde"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "caaaaseyyyy",
+          "url": "https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c"
         }
       ],
-      "duration_ms": 226471,
-      "name": "Someone2Me",
-      "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
+      "duration_ms": 296151,
+      "name": "feelings",
+      "url": "https://open.spotify.com/track/52m7HHOAJM9MLfwOkhu4pv"
     },
     {
       "added_at": "2022-12-22 20:04:27",
@@ -139,6 +155,22 @@
       "duration_ms": 191159,
       "name": "Just for Now - Cover",
       "url": "https://open.spotify.com/track/3qnfvC7Ce8EvEplnXQopnh"
+    },
+    {
+      "added_at": "2022-12-19 17:24:50",
+      "album": {
+        "name": "Santigold",
+        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4yK3xXuNrkSq0OVjKUaCkY"
     },
     {
       "added_at": "2022-12-22 20:04:27",
@@ -221,20 +253,20 @@
       "url": "https://open.spotify.com/track/1RxMN0IcPf5yauGJRUjlAS"
     },
     {
-      "added_at": "2022-12-19 17:24:50",
+      "added_at": "2022-07-15 14:04:45",
       "album": {
-        "name": "Santigold",
-        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
       },
       "artists": [
         {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
         }
       ],
-      "duration_ms": 192560,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/4yK3xXuNrkSq0OVjKUaCkY"
+      "duration_ms": 222089,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/60C3tBC9yPX9vzwYnPrDbd"
     },
     {
       "added_at": "2022-12-14 17:58:27",
@@ -315,22 +347,6 @@
       "duration_ms": 200653,
       "name": "Take me home",
       "url": "https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I"
-    },
-    {
-      "added_at": "2022-12-07 23:45:22",
-      "album": {
-        "name": "Mercurial World",
-        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 241304,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/5xoMRan7YOKvYL6vueYugk"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -477,22 +493,6 @@
       "url": "https://open.spotify.com/track/3sip0psKnaeJ8kbG4rs0Ps"
     },
     {
-      "added_at": "2022-11-28 21:32:11",
-      "album": {
-        "name": "Over You",
-        "url": "https://open.spotify.com/album/7B0Vz06KjSaE8G3SbHgQ58"
-      },
-      "artists": [
-        {
-          "name": "yungatita",
-          "url": "https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "7 Weeks & 3 Days",
-      "url": "https://open.spotify.com/track/0yABdzMcJpRkKhVKXjfcUk"
-    },
-    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "endlessly",
@@ -573,38 +573,6 @@
       "url": "https://open.spotify.com/track/5stVamqETg34UDrpC5Zwhy"
     },
     {
-      "added_at": "2022-11-28 21:09:50",
-      "album": {
-        "name": "Call Me Hank",
-        "url": "https://open.spotify.com/album/6lKbgIIe7H597ik14sQ9GA"
-      },
-      "artists": [
-        {
-          "name": "Hank",
-          "url": "https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf"
-        }
-      ],
-      "duration_ms": 153356,
-      "name": "Call Me Hank",
-      "url": "https://open.spotify.com/track/0su4ERFKzOPBVhyRe3F7KQ"
-    },
-    {
-      "added_at": "2022-12-02 17:28:44",
-      "album": {
-        "name": "me and my gang",
-        "url": "https://open.spotify.com/album/7A1MMdXbkJDUOhnczJ7JIF"
-      },
-      "artists": [
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 138829,
-      "name": "me and my gang",
-      "url": "https://open.spotify.com/track/4AQGuktK4SQqVuSR7XQH79"
-    },
-    {
       "added_at": "2022-11-08 19:17:28",
       "album": {
         "name": "SPIT IN MY FACE!",
@@ -637,6 +605,22 @@
       "url": "https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D"
     },
     {
+      "added_at": "2022-11-28 21:32:11",
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/7B0Vz06KjSaE8G3SbHgQ58"
+      },
+      "artists": [
+        {
+          "name": "yungatita",
+          "url": "https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "7 Weeks & 3 Days",
+      "url": "https://open.spotify.com/track/0yABdzMcJpRkKhVKXjfcUk"
+    },
+    {
       "added_at": "2022-10-14 17:53:21",
       "album": {
         "name": "i haunt ur dreams",
@@ -651,42 +635,6 @@
       "duration_ms": 216665,
       "name": "i haunt ur dreams",
       "url": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW"
-    },
-    {
-      "added_at": "2022-07-15 14:04:45",
-      "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 222089,
-      "name": "Cinema",
-      "url": "https://open.spotify.com/track/60C3tBC9yPX9vzwYnPrDbd"
-    },
-    {
-      "added_at": "2022-11-16 18:27:01",
-      "album": {
-        "name": "Adonis",
-        "url": "https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Adonis - feat. KIRBY",
-      "url": "https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em"
     },
     {
       "added_at": "2022-11-10 19:17:58",
@@ -735,6 +683,58 @@
       "duration_ms": 213666,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/3F3YMGCp5ErvS14f71s8LX"
+    },
+    {
+      "added_at": "2022-11-28 21:09:50",
+      "album": {
+        "name": "Call Me Hank",
+        "url": "https://open.spotify.com/album/6lKbgIIe7H597ik14sQ9GA"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf"
+        }
+      ],
+      "duration_ms": 153356,
+      "name": "Call Me Hank",
+      "url": "https://open.spotify.com/track/0su4ERFKzOPBVhyRe3F7KQ"
+    },
+    {
+      "added_at": "2022-12-02 17:28:44",
+      "album": {
+        "name": "me and my gang",
+        "url": "https://open.spotify.com/album/7A1MMdXbkJDUOhnczJ7JIF"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 138829,
+      "name": "me and my gang",
+      "url": "https://open.spotify.com/track/4AQGuktK4SQqVuSR7XQH79"
+    },
+    {
+      "added_at": "2022-11-16 18:27:01",
+      "album": {
+        "name": "Adonis",
+        "url": "https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 219146,
+      "name": "Adonis - feat. KIRBY",
+      "url": "https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em"
     },
     {
       "added_at": "2022-12-02 17:28:44",
@@ -799,6 +799,22 @@
       "duration_ms": 168573,
       "name": "Four Below",
       "url": "https://open.spotify.com/track/0kglgbhRgUQnz6HhPh1isC"
+    },
+    {
+      "added_at": "2022-12-07 23:45:22",
+      "album": {
+        "name": "Mercurial World",
+        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 241304,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/5xoMRan7YOKvYL6vueYugk"
     },
     {
       "added_at": "2022-08-04 04:00:00",
@@ -1111,22 +1127,6 @@
       "duration_ms": 217610,
       "name": "Just in Case",
       "url": "https://open.spotify.com/track/6ZPOFvvzGzkUjfiboG4pbT"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU"
-      },
-      "artists": [
-        {
-          "name": "SAIAH",
-          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
-        }
-      ],
-      "duration_ms": 226833,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU"
     },
     {
       "added_at": "2022-10-28 04:01:00",

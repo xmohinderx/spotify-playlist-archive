@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: Wakadinali
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,363 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,386 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Balalu](https://open.spotify.com/track/0ARRlq8N1s8cAQ0ykjAez9) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [NDANI YA COCKPIT 3](https://open.spotify.com/album/3NvCDHqPpNi1y3lVhmAAsy) | 5:33 |
-| 2 | [Digdat](https://open.spotify.com/track/0gDRCCJF7ywar5zq3Qrv56) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 4:02 |
+| 2 | [Digdat](https://open.spotify.com/track/0gDRCCJF7ywar5zq3Qrv56) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 4:02 |
 | 3 | [Flying High](https://open.spotify.com/track/10thswSmwybPgn21eIk2Dm) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Angachi](https://open.spotify.com/artist/6wnyG9GsBPq9oXArg9ErYC), [Bakhita](https://open.spotify.com/artist/1YC7oOze3tqAKiPk5aNWIy) | [Flying High](https://open.spotify.com/album/53EBf8IaOg0U712jDuyZen) | 3:32 |
 | 4 | [Shots \(feat\. Nyashinski\)](https://open.spotify.com/track/1oZYyR3EWPOPTyrZXIQuey) | [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q), [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Ceduction](https://open.spotify.com/album/72CVdgTmhjPyGh78LRv1Gy) | 2:49 |
 | 5 | [All of That](https://open.spotify.com/track/2LRw8JPGlBgNSpI6EtF27p) | [Alma Ras](https://open.spotify.com/artist/6Pxg2gGOy1rDZJIeiEmsLp), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX) | [All of That](https://open.spotify.com/album/7nfbXw2EV9Cm6z4qHTVZSi) | 3:29 |

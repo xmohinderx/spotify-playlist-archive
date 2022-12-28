@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist - cover featuring  <a href=\"https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ\">INZO </a>.",
-  "num_followers": 2033703,
+  "num_followers": 2033719,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTI4MTQsZmI2ZDIxYThlMGU3NzkzZTJiZWJmYjI4ZWU1MDU0ODA1NTIyYTQyNQ==",
+  "snapshot_id": "MTI4MTgsYzFmY2MxMDBlMTI2ZDgwNjk4YjdlMjI2NDg4ZTg0MDZiYmNkYTI4MA==",
   "tracks": [
     {
       "added_at": "2022-12-26 16:16:21",
@@ -43,22 +43,46 @@
     {
       "added_at": "2022-12-26 16:16:21",
       "album": {
-        "name": "The Blueprint (Deluxe)",
-        "url": "https://open.spotify.com/album/3Fg0InS5WK4GhPWFWkXbxy"
+        "name": "The Blueprint",
+        "url": "https://open.spotify.com/album/11vbM8Rflk8ZqMRJDrr8VZ"
       },
       "artists": [
         {
-          "name": "Jordan Comolli",
-          "url": "https://open.spotify.com/artist/0OirGRY55NlQeqOHKhvpbm"
+          "name": "Besomorph",
+          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+        },
+        {
+          "name": "RIELL",
+          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
         },
         {
           "name": "broke",
           "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        },
+        {
+          "name": "WISNER",
+          "url": "https://open.spotify.com/artist/6EkmE2hY7VYyfi6uz9BT0L"
         }
       ],
-      "duration_ms": 166404,
-      "name": "UNO",
-      "url": "https://open.spotify.com/track/5P5aI7MtgYbP7ORnHWSKfb"
+      "duration_ms": 129600,
+      "name": "Midnight Sadness",
+      "url": "https://open.spotify.com/track/33K5gIHX0vvTbO4A2VV2TP"
+    },
+    {
+      "added_at": "2022-12-27 14:22:10",
+      "album": {
+        "name": "Day One",
+        "url": "https://open.spotify.com/album/7iFsrrfHiePDh8GK5T2upj"
+      },
+      "artists": [
+        {
+          "name": "Arman Cekin",
+          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Day One",
+      "url": "https://open.spotify.com/track/6ODjTpDpJo1vpW4UAJkmJZ"
     },
     {
       "added_at": "2022-12-26 16:16:21",
@@ -79,6 +103,26 @@
       "duration_ms": 285616,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/0ciBdxlofdSf1AePCpXGVF"
+    },
+    {
+      "added_at": "2022-12-26 16:16:21",
+      "album": {
+        "name": "The Blueprint (Deluxe)",
+        "url": "https://open.spotify.com/album/3Fg0InS5WK4GhPWFWkXbxy"
+      },
+      "artists": [
+        {
+          "name": "Jordan Comolli",
+          "url": "https://open.spotify.com/artist/0OirGRY55NlQeqOHKhvpbm"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "duration_ms": 166404,
+      "name": "UNO",
+      "url": "https://open.spotify.com/track/5P5aI7MtgYbP7ORnHWSKfb"
     },
     {
       "added_at": "2022-12-26 16:16:21",
@@ -843,34 +887,6 @@
       "duration_ms": 166120,
       "name": "Feel the Fire - MEMBA Remix",
       "url": "https://open.spotify.com/track/1PzNqhDtJYHVBMOI9Xmx2c"
-    },
-    {
-      "added_at": "2022-12-26 16:16:21",
-      "album": {
-        "name": "The Blueprint",
-        "url": "https://open.spotify.com/album/11vbM8Rflk8ZqMRJDrr8VZ"
-      },
-      "artists": [
-        {
-          "name": "Besomorph",
-          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
-        },
-        {
-          "name": "RIELL",
-          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
-        },
-        {
-          "name": "broke",
-          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        },
-        {
-          "name": "WISNER",
-          "url": "https://open.spotify.com/artist/6EkmE2hY7VYyfi6uz9BT0L"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Midnight Sadness",
-      "url": "https://open.spotify.com/track/33K5gIHX0vvTbO4A2VV2TP"
     },
     {
       "added_at": "2022-12-26 16:16:21",

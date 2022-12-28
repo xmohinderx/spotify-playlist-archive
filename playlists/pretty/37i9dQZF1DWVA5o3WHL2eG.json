@@ -1,12 +1,12 @@
 {
   "description": "Highlights of 2022, listen to women at full volume. Cover: Nina Chuba",
-  "num_followers": 22295,
+  "num_followers": 22345,
   "original_name": "Best of EQUAL GSA 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDdlNGJiZTY3M2ZmOWUxMjYxYjQzMWUzMjY5NTU3MzRi",
+  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDQ0M2MxYmRjZmU4MTkzMDYwNDA4ODMzNzEzMmMwZGI4",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Pose",
-        "url": "https://open.spotify.com/album/0TFg2kMG4asTEDP334NmJr"
-      },
-      "artists": [
-        {
-          "name": "LAYLA",
-          "url": "https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy"
-        }
-      ],
-      "duration_ms": 112741,
-      "name": "Pose",
-      "url": "https://open.spotify.com/track/6gjTBagyl527aB9iMUa0W6"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Signal",
         "url": "https://open.spotify.com/album/1b5h1zGp7FDEgnJjFxFQzZ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 203424,
       "name": "Signal",
       "url": "https://open.spotify.com/track/2Y6dYM6KjTEPhfvM8a7zTI"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Pose",
+        "url": "https://open.spotify.com/album/0TFg2kMG4asTEDP334NmJr"
+      },
+      "artists": [
+        {
+          "name": "LAYLA",
+          "url": "https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy"
+        }
+      ],
+      "duration_ms": 112741,
+      "name": "Pose",
+      "url": "https://open.spotify.com/track/6gjTBagyl527aB9iMUa0W6"
     },
     {
       "added_at": "2022-11-30 13:46:00",

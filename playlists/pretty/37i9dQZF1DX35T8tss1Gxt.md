@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Naomi Raine
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,500 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,550 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,12 +90,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 80 | [New Wine Flow](https://open.spotify.com/track/2xDpWnVhlAAsqjFWWYU80i) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [New Wine Flow](https://open.spotify.com/album/3TXxV9TnRmAlzEZcrzRb0y) | 3:29 |
 | 81 | [God Made](https://open.spotify.com/track/10R9lhq4htwyCqvso7QgL5) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [God Made](https://open.spotify.com/album/0O6JNTsJfdSmmot1eaHwft) | 3:20 |
 | 82 | [Heavy](https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp) | [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa) | [Heavy](https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE) | 3:30 |
-| 83 | [Thanks and Praise](https://open.spotify.com/track/4RgrucjGNOmcNo2NF7hsYb) | [Bay Worship Collective](https://open.spotify.com/artist/0sqo3WtvwFbQzu9eMRWOuT), [Josh Manongdo](https://open.spotify.com/artist/2k86aeAGM873qCIVSGImKe), [Sarita Canel](https://open.spotify.com/artist/5sUMPqfzRZPTsNbmguPX9N), [Ariel Catanyag](https://open.spotify.com/artist/2dmtwwOZ1U96RuKPLVitgt) | [Vol 3](https://open.spotify.com/album/6XNIUHPboj5X6br6mTkpFi) | 4:41 |
-| 84 | [Come and Be My Love](https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Come and Be My Love](https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85) | 2:42 |
-| 85 | [Thank You](https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy) | [Kelechi](https://open.spotify.com/artist/7evBSxu0dtP6Hgjgo3RHO7) | [Thank You](https://open.spotify.com/album/58Rs0Hr1q87t7lsA0DFeLR) | 3:25 |
+| 83 | [Come and Be My Love](https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Come and Be My Love](https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85) | 2:42 |
+| 84 | [Thank You](https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy) | [Kelechi](https://open.spotify.com/artist/7evBSxu0dtP6Hgjgo3RHO7) | [Thank You](https://open.spotify.com/album/58Rs0Hr1q87t7lsA0DFeLR) | 3:25 |
+| 85 | [Thanks and Praise](https://open.spotify.com/track/4RgrucjGNOmcNo2NF7hsYb) | [Bay Worship Collective](https://open.spotify.com/artist/0sqo3WtvwFbQzu9eMRWOuT), [Josh Manongdo](https://open.spotify.com/artist/2k86aeAGM873qCIVSGImKe), [Sarita Canel](https://open.spotify.com/artist/5sUMPqfzRZPTsNbmguPX9N), [Ariel Catanyag](https://open.spotify.com/artist/2dmtwwOZ1U96RuKPLVitgt) | [Vol 3](https://open.spotify.com/album/6XNIUHPboj5X6br6mTkpFi) | 4:41 |
 | 86 | [Authentic Love](https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr) | [Caleb Carroll](https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf) | [Authentic Love](https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3) | 4:42 |
-| 87 | [Rescue \(Reimagined\)](https://open.spotify.com/track/3WIhBPVP3v9O7rXserceei) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Rescue \(Reimagined\)](https://open.spotify.com/album/022ehc5YpTikEsYXysMeun) | 3:15 |
-| 88 | [Grace](https://open.spotify.com/track/1hCa15BtSKMQGa4iDcnV3S) | [Kevin Downswell](https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4) | [Grace](https://open.spotify.com/album/1PlYeaM005XFc1ggzEjllS) | 4:15 |
+| 87 | [Grace](https://open.spotify.com/track/1hCa15BtSKMQGa4iDcnV3S) | [Kevin Downswell](https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4) | [Grace](https://open.spotify.com/album/1PlYeaM005XFc1ggzEjllS) | 4:15 |
+| 88 | [Rescue \(Reimagined\)](https://open.spotify.com/track/3WIhBPVP3v9O7rXserceei) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Rescue \(Reimagined\)](https://open.spotify.com/album/022ehc5YpTikEsYXysMeun) | 3:15 |
 | 89 | [Godfidence](https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs), [Kristelle](https://open.spotify.com/artist/1tSoHKZsP9949r1PCPJrr9) | [Godfidence](https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku) | 3:16 |
 | 90 | [The Best Friend](https://open.spotify.com/track/6gndTSB6dxJOz8db35DqFO) | [Mervin Mayo](https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t) | [The Best Friend](https://open.spotify.com/album/3B9L9agghKNHGI6ulzHnUW) | 3:54 |
 | 91 | [GUIDE MY HEART](https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj) | [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [GUIDE MY HEART](https://open.spotify.com/album/7EnV7Wi07R4Vm8T8Gn0iCG) | 2:23 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 95 | [GRACE](https://open.spotify.com/track/01ioXCMkGpxuKrdEO3TSob) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [GRACE](https://open.spotify.com/album/6JzWGtTmJ29ZlAA87eW6Ct) | 4:15 |
 | 96 | [VANILLA](https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb) | [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [VANILLA](https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB) | 2:28 |
 | 97 | [It's Giving](https://open.spotify.com/track/2cOqrRTZKyhhPJgPeg3edl) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA) | [It's Giving](https://open.spotify.com/album/3whj47mfFAS2jRc7pm0Bb8) | 2:35 |
-| 98 | [No One's Gonna Save Me](https://open.spotify.com/track/2sKX02STKwRRUNqrwohWvV) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [No One's Gonna Save Me](https://open.spotify.com/album/4yP1cRV0rpwGqLnyj0Ye6i) | 2:39 |
-| 99 | [You Won't Leave Us](https://open.spotify.com/track/2vwqf7ECS2Th0lHoN9LuUz) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [You Won't Leave Us](https://open.spotify.com/album/4wiAzOB2eT9e6XLWtsYLzQ) | 3:19 |
+| 98 | [You Won't Leave Us](https://open.spotify.com/track/2vwqf7ECS2Th0lHoN9LuUz) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [You Won't Leave Us](https://open.spotify.com/album/4wiAzOB2eT9e6XLWtsYLzQ) | 3:19 |
+| 99 | [No One's Gonna Save Me](https://open.spotify.com/track/2sKX02STKwRRUNqrwohWvV) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [No One's Gonna Save Me](https://open.spotify.com/album/4yP1cRV0rpwGqLnyj0Ye6i) | 2:39 |
 | 100 | [you are worth it](https://open.spotify.com/track/5dpbAmZqwlXwsxL0cKNrHA) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [you are worth it](https://open.spotify.com/album/79W3DyH24yVwgL9OV1KTwX) | 2:18 |
 
-Snapshot ID: `MTY1ODAzNjMxMSwwMDAwMDAwMGFhNDQ3MWZmOWFiY2VkYTgwOTA3ZGIwZTJiMmRhN2M2`
+Snapshot ID: `MTY1ODAzNjMxMSwwMDAwMDAwMDViYjYyNDk2NGZkZDgxNzk4MmFjYmY2MmYzMzQ5NDFj`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMGRjMjlmNWU3NDA5MGRjMjgyNWJkMWI0MmExY2RiYjli",
+  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMDE4MjBiZWQwNjNhYzA2YmNiYmRiZjM2NTk4MTYwNzYz",
   "tracks": [
     {
       "added_at": "2020-11-25 03:15:55",
@@ -243,22 +243,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "The Education of the Individual Soul",
-        "url": "https://open.spotify.com/album/4IYRk5HoYTrYFUkTWRc8ot"
-      },
-      "artists": [
-        {
-          "name": "East Forest",
-          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
-        }
-      ],
-      "duration_ms": 259746,
-      "name": "10 Laws",
-      "url": "https://open.spotify.com/track/6rv66YGnlPsCQHBU0ym8Tm"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "Location 13 (Deluxe Version)",
         "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 255191,
       "name": "Letter to Lady J",
       "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
+        "name": "The Education of the Individual Soul",
+        "url": "https://open.spotify.com/album/4IYRk5HoYTrYFUkTWRc8ot"
+      },
+      "artists": [
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "duration_ms": 259746,
+      "name": "10 Laws",
+      "url": "https://open.spotify.com/track/6rv66YGnlPsCQHBU0ym8Tm"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -639,22 +639,18 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu"
+        "name": "Stay Human Vol. II",
+        "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
       },
       "artists": [
         {
-          "name": "Will Evans",
-          "url": "https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8"
-        },
-        {
-          "name": "Ben Fagan",
-          "url": "https://open.spotify.com/artist/68UAGPFWJbwW0JUscJVM3O"
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
         }
       ],
-      "duration_ms": 250915,
-      "name": "Adam & Eve (feat. Ben Fagan)",
-      "url": "https://open.spotify.com/track/4ZKAt72ICUQxUWAVYzVB0Y"
+      "duration_ms": 169689,
+      "name": "Just to Say I Love You",
+      "url": "https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -675,18 +671,22 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Stay Human Vol. II",
-        "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu"
       },
       "artists": [
         {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+          "name": "Will Evans",
+          "url": "https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8"
+        },
+        {
+          "name": "Ben Fagan",
+          "url": "https://open.spotify.com/artist/68UAGPFWJbwW0JUscJVM3O"
         }
       ],
-      "duration_ms": 169689,
-      "name": "Just to Say I Love You",
-      "url": "https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI"
+      "duration_ms": 250915,
+      "name": "Adam & Eve (feat. Ben Fagan)",
+      "url": "https://open.spotify.com/track/4ZKAt72ICUQxUWAVYzVB0Y"
     },
     {
       "added_at": "2020-11-25 03:15:55",

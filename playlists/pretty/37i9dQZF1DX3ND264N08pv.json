@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 29352,
+  "num_followers": 29410,
   "original_name": "Hardcore Rage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMGYyNGFjMjMxNTRkOWIyOGMwYWI1YzhkMWQ5YmM1MDk2",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMGNlYTZmNmM1ODc3ODUzMDNhYzJjODYyMzBlOWUxNTY0",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8"
-      },
-      "artists": [
-        {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
-        },
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        }
-      ],
-      "duration_ms": 221368,
-      "name": "Dope Sh!t",
-      "url": "https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "DANCEFLOOR SLAYER",
         "url": "https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 161653,
       "name": "DANCEFLOOR SLAYER",
       "url": "https://open.spotify.com/track/7dqpISlr5xVC4eDID1jc5c"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8"
+      },
+      "artists": [
+        {
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+        },
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "duration_ms": 221368,
+      "name": "Dope Sh!t",
+      "url": "https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 288398,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Mi Madre",
         "url": "https://open.spotify.com/album/3jpDofUQPIy8xx7lLigl3Q"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 160187,
       "name": "Mi Madre",
       "url": "https://open.spotify.com/track/7sy5W4vCjRAifgy14muCpP"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "The Resurrection (Official Toxicator 2022 Anthem)",
-        "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 254075,
-      "name": "The Resurrection (Official Toxicator 2022 Anthem)",
-      "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Sky Ablaze",
+        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
+      },
+      "artists": [
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "Sky Ablaze",
+      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
         "url": "https://open.spotify.com/album/19TTclSlr9unAuLXAC8S29"
       },
@@ -1303,8 +1319,8 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Shadows in the Dark",
-        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+        "name": "The Resurrection (Official Toxicator 2022 Anthem)",
+        "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
       },
       "artists": [
         {
@@ -1312,25 +1328,9 @@
           "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
         }
       ],
-      "duration_ms": 288398,
-      "name": "Shadows in the Dark",
-      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Sky Ablaze",
-        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
-      },
-      "artists": [
-        {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "Sky Ablaze",
-      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
+      "duration_ms": 254075,
+      "name": "The Resurrection (Official Toxicator 2022 Anthem)",
+      "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "BOW DOWN",
-        "url": "https://open.spotify.com/album/10RoPitNvB3vJHJtUs2ZSv"
-      },
-      "artists": [
-        {
-          "name": "DEEZL",
-          "url": "https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "BOW DOWN",
-      "url": "https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Beat My Drum",
         "url": "https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 202124,
       "name": "Beat My Drum",
       "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "BOW DOWN",
+        "url": "https://open.spotify.com/album/10RoPitNvB3vJHJtUs2ZSv"
+      },
+      "artists": [
+        {
+          "name": "DEEZL",
+          "url": "https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "BOW DOWN",
+      "url": "https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1439,22 +1439,6 @@
       "duration_ms": 200400,
       "name": "Demolition Hardcore",
       "url": "https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Buried Alive",
-        "url": "https://open.spotify.com/album/7kH4AAUjyQYDmmCeohXyxa"
-      },
-      "artists": [
-        {
-          "name": "Cryex",
-          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Buried Alive",
-      "url": "https://open.spotify.com/track/6En1mnKQHujsveLdnkPRon"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1491,22 +1475,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Forged In Fury",
-        "url": "https://open.spotify.com/album/1QVTiTTs4oZvU4lL7qLAnv"
+        "name": "Buried Alive",
+        "url": "https://open.spotify.com/album/7kH4AAUjyQYDmmCeohXyxa"
       },
       "artists": [
         {
-          "name": "Neroz",
-          "url": "https://open.spotify.com/artist/76WqyxPmL1KmO2up8jbYOC"
-        },
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+          "name": "Cryex",
+          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
         }
       ],
-      "duration_ms": 238421,
-      "name": "Forged In Fury",
-      "url": "https://open.spotify.com/track/74QKmn0vjBHL4SJ2WXPnhJ"
+      "duration_ms": 195320,
+      "name": "Buried Alive",
+      "url": "https://open.spotify.com/track/6En1mnKQHujsveLdnkPRon"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1527,6 +1507,42 @@
       "duration_ms": 191428,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/0j6lCCFLzJWdNeNoRZhCa7"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Forged In Fury",
+        "url": "https://open.spotify.com/album/1QVTiTTs4oZvU4lL7qLAnv"
+      },
+      "artists": [
+        {
+          "name": "Neroz",
+          "url": "https://open.spotify.com/artist/76WqyxPmL1KmO2up8jbYOC"
+        },
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "duration_ms": 238421,
+      "name": "Forged In Fury",
+      "url": "https://open.spotify.com/track/74QKmn0vjBHL4SJ2WXPnhJ"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Franse Beuker",
+        "url": "https://open.spotify.com/album/2vnG9faqmtBUruIewFguvc"
+      },
+      "artists": [
+        {
+          "name": "Opgekonkerd",
+          "url": "https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "Franse Beuker",
+      "url": "https://open.spotify.com/track/5ViJfFeCmWETxaW29QLMgr"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1563,22 +1579,6 @@
       "duration_ms": 245373,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Franse Beuker",
-        "url": "https://open.spotify.com/album/2vnG9faqmtBUruIewFguvc"
-      },
-      "artists": [
-        {
-          "name": "Opgekonkerd",
-          "url": "https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN"
-        }
-      ],
-      "duration_ms": 153640,
-      "name": "Franse Beuker",
-      "url": "https://open.spotify.com/track/5ViJfFeCmWETxaW29QLMgr"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Born To React",
+        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
+      },
+      "artists": [
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "duration_ms": 145519,
+      "name": "Born To React",
+      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Showtime",
         "url": "https://open.spotify.com/album/0P8MdMLHjzqHzVd8twfxe5"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 138071,
       "name": "Spacestorm",
       "url": "https://open.spotify.com/track/66lM2053Cgq8Xm7TUMR475"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Born To React",
-        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
-      },
-      "artists": [
-        {
-          "name": "Imperatorz",
-          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
-        }
-      ],
-      "duration_ms": 145519,
-      "name": "Born To React",
-      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
     },
     {
       "added_at": "2022-12-22 23:00:00",
