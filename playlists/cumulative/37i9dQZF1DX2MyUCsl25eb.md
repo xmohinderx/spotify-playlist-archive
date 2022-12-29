@@ -4,13 +4,13 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-489 songs - 1 day 4 hr 23 min - [published](https://open.spotify.com/playlist/5aOC3Wi6MSjtqKeAIF8G0z)
+490 songs - 1 day 4 hr 27 min - [published](https://open.spotify.com/playlist/5aOC3Wi6MSjtqKeAIF8G0z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100sadsongs](https://open.spotify.com/track/0rvcPanRR8rQO8lSIr0S4l) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [100sadsongs](https://open.spotify.com/album/52D5Elj3MPS11Wa0r50EFM) | 2:56 | 2022-05-20 | 2022-09-26 |
 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 | 2021-08-04 | 2022-04-01 |
-| [18](https://open.spotify.com/track/54F792TiwJOWmTJpbUqbXu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [18](https://open.spotify.com/album/7v8cb4h5R8a0i1NzjWLUod) | 2:58 | 2022-09-30 |  |
+| [18](https://open.spotify.com/track/54F792TiwJOWmTJpbUqbXu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [18](https://open.spotify.com/album/7v8cb4h5R8a0i1NzjWLUod) | 2:58 | 2022-09-30 | 2022-12-29 |
 | [2 / 14](https://open.spotify.com/track/5sCvipEhpAhVhu3K6kzm1P) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [My Thoughts on You](https://open.spotify.com/album/6cSlODoo4uSPxXfyGwcY9I) | 2:43 | 2021-08-04 | 2022-07-29 |
 | [400 Trillion](https://open.spotify.com/track/7J6nmPoXm6dIlVAIvSzUVp) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [400 Trillion](https://open.spotify.com/album/3nu8vM1n4tAuHPDzkxlN8H) | 3:42 | 2022-03-11 | 2022-04-17 |
 | [5 Minutes](https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [5 Minutes](https://open.spotify.com/album/50m0nBNNmLRfgF9DXtUSeL) | 3:15 | 2022-10-07 | 2022-11-19 |
@@ -402,6 +402,7 @@
 | [Stay](https://open.spotify.com/track/3koEQCObszK1d8rn2la7O3) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Stay](https://open.spotify.com/album/6uidjs2Vt0Pycb9I79DVAD) | 2:51 | 2022-02-18 | 2022-07-29 |
 | [Stay With You](https://open.spotify.com/track/0vwkXrG2ts3piPNwuHtwEK) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 3:48 | 2021-08-04 | 2022-04-17 |
 | [Steady Love](https://open.spotify.com/track/0ZpcK7pDA45LAVQFTJ2ieb) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/6Dy4vBbWht1kb3ITtTfqZA) | 3:44 | 2022-02-11 | 2022-07-29 |
+| [Steady Love](https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:44 | 2022-02-11 |  |
 | [Steam](https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:23 | 2021-08-04 | 2022-10-20 |
 | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/track/22lLqAMQOysHjy4iojDSmE) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/album/4C88dLvxhgzErXeL2ZZVBW) | 3:25 | 2021-08-04 | 2022-04-20 |
 | [Still Life](https://open.spotify.com/track/5OKQlPktbklnSDGm5MqDZB) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Still Life](https://open.spotify.com/album/3w9FXwCNHX7GuFcmJSwJiw) | 3:12 | 2021-10-15 | 2022-07-27 |

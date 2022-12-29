@@ -180,6 +180,28 @@
     },
     {
       "album": {
+        "name": "Alone with You (feat. Didi Han)",
+        "url": "https://open.spotify.com/album/1pM6qa4CNTYLrSL1Bd3Bcw"
+      },
+      "artists": [
+        {
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        },
+        {
+          "name": "DIDI HAN",
+          "url": "https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210607,
+      "name": "Alone with You",
+      "url": "https://open.spotify.com/track/2zWyV9CIpfaH6v0g1mq1a0"
+    },
+    {
+      "album": {
         "name": "alone with you (feat. Didi Han)",
         "url": "https://open.spotify.com/album/37uFN79H6w1fYvjcA6FZVz"
       },
@@ -1567,7 +1589,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 464628,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/6BiXzWCVJwTUT4fFLuDNeM"

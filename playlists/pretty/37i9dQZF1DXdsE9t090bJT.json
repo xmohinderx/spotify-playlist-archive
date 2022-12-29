@@ -1,12 +1,12 @@
 {
   "description": "Amor a la mexicana, canciones para dedicarle al amor de tu vida.",
-  "num_followers": 20013,
+  "num_followers": 20052,
   "original_name": "S\u00f3lo Para Amarte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ1NzAxMywwMDAwMDAwMDlhZTFiZmJjNjhmNTRhMWM5NmY4M2UwZDhlMTkzNjcx",
+  "snapshot_id": "MTY3MDQ1NzAxMywwMDAwMDAwMGEzMjI1NGViODUyYWQwYzlkNDc3MmNlMmUwNzgyYWQy",
   "tracks": [
     {
       "added_at": "2022-12-07 23:50:13",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-12-07 23:50:13",
       "album": {
+        "name": "Porque T\u00fa Llegaste (Versi\u00f3n Banda)",
+        "url": "https://open.spotify.com/album/08Gd99qF2Dx89cRRQzhIbM"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "Porque T\u00fa Llegaste - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/7kK0WBjfXWBXrIxgxhpXd9"
+    },
+    {
+      "added_at": "2022-12-07 23:50:13",
+      "album": {
         "name": "Soy Para Ti",
         "url": "https://open.spotify.com/album/6eRUj25447aaQ7TpYz2iJT"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 160250,
       "name": "Soy Para Ti",
       "url": "https://open.spotify.com/track/1P5pgQQ1njPjAkvnSJM2kY"
-    },
-    {
-      "added_at": "2022-12-07 23:50:13",
-      "album": {
-        "name": "Porque T\u00fa Llegaste (Versi\u00f3n Banda)",
-        "url": "https://open.spotify.com/album/08Gd99qF2Dx89cRRQzhIbM"
-      },
-      "artists": [
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Porque T\u00fa Llegaste - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/7kK0WBjfXWBXrIxgxhpXd9"
     },
     {
       "added_at": "2022-12-07 23:50:13",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-12-07 23:50:13",
       "album": {
+        "name": "Que Bonito",
+        "url": "https://open.spotify.com/album/1eZNRAvmGiQqBtHDNEDrUr"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 160409,
+      "name": "Que Bonito",
+      "url": "https://open.spotify.com/track/62cbdhrqPSuqcOMoRr2aff"
+    },
+    {
+      "added_at": "2022-12-07 23:50:13",
+      "album": {
         "name": "Ariel Camacho Para Siempre",
         "url": "https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 211776,
       "name": "Te Metiste",
       "url": "https://open.spotify.com/track/3f3oWj7ll4vtK6gXb2cIxm"
-    },
-    {
-      "added_at": "2022-12-07 23:50:13",
-      "album": {
-        "name": "Que Bonito",
-        "url": "https://open.spotify.com/album/1eZNRAvmGiQqBtHDNEDrUr"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 160409,
-      "name": "Que Bonito",
-      "url": "https://open.spotify.com/track/62cbdhrqPSuqcOMoRr2aff"
     },
     {
       "added_at": "2022-12-07 23:50:13",

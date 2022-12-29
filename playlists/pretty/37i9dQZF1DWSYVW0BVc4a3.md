@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 ### [Open Air](https://open.spotify.com/playlist/37i9dQZF1DWSYVW0BVc4a3)
 
-> Rave worthy melodic techno and house, hand\-curated from Yotto for New Year's Eve
+> Rave worthy melodic techno and house, hand\-curated by Yotto for New Year's Eve
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,250 likes - 43 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,897 likes - 43 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 42 | [Padologi](https://open.spotify.com/track/79Qiy1XfkdHp127WvVrJHo) | [Ivan Masa](https://open.spotify.com/artist/67Gv7dwcRa7EjGDf1zWaHR) | [Limitless EP](https://open.spotify.com/album/7sZ2tqPigT7MClVnbHVMFi) | 6:17 |
 | 43 | [Run & Hide \- Ae:ther Remix](https://open.spotify.com/track/1vPsTGsRfdTRhzUHG7kTLF) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Run & Hide \(Ae:ther Remix\)](https://open.spotify.com/album/1YfMh6jxGPAdTxuRIYESMS) | 7:02 |
 
-Snapshot ID: `MTY3MjE4MjAwMCwwMDAwMDAwMGI5Y2M5YWZkMmE0OGFjZWQ0MjMxMGIyNTM0OTgyM2Ew`
+Snapshot ID: `MTY3MjIyMjM1MywwMDAwMDAwMDFlN2Y4ZjY3OGUwYjMzMTVmMDFhZTg0MGZmYTkyNjYx`

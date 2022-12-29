@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Foto: Botellita de Jerez",
-  "num_followers": 124084,
+  "num_followers": 124144,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3MTk4MiwwMDAwMDAwMGYyNjYxMGY3NGM4N2MzZjY4M2Y4MjAwNWFlMTAzZjBk",
+  "snapshot_id": "MTY0Njk3MTk4MiwwMDAwMDAwMDFmM2JiNTA5MGU5OWEzNmM5MzdiMWQxMzdhNTA0MTg5",
   "tracks": [
     {
       "added_at": "2020-11-13 06:01:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "La Ciudad",
-        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
-      },
-      "artists": [
-        {
-          "name": "Blues Boys",
-          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "No Todo Es Oro",
-      "url": "https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "Anda Borracho Pancho",
         "url": "https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 261038,
       "name": "Como Dona a Su Agujero",
       "url": "https://open.spotify.com/track/4SeWTbfjNvu6ljXCo61tra"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "La Ciudad",
+        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
+      },
+      "artists": [
+        {
+          "name": "Blues Boys",
+          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "No Todo Es Oro",
+      "url": "https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Un Panteon Muy Vivo",
-        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 389733,
-      "name": "La Dosis Perfecta",
-      "url": "https://open.spotify.com/track/5aLGdqM8EbHC3B1iKWKDIJ"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "Ella Ya Muri\u00f3",
         "url": "https://open.spotify.com/album/2dC9MuUxi90lLwlqnbrSwV"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 301680,
       "name": "D\u00e9jalo",
       "url": "https://open.spotify.com/track/6CqGIY1S178hzRvAKh1Z1r"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "Un Panteon Muy Vivo",
+        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 389733,
+      "name": "La Dosis Perfecta",
+      "url": "https://open.spotify.com/track/5aLGdqM8EbHC3B1iKWKDIJ"
     },
     {
       "added_at": "2020-11-13 06:01:00",

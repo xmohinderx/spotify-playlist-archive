@@ -4,7 +4,7 @@
 
 > A soft and slow Jazz soundtrack to play in the background to all your activities.
 
-286 songs - 21 hr 24 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
+287 songs - 21 hr 27 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,12 +190,13 @@
 | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq) | 4:05 | 2022-11-10 |  |
 | [New Hampshire](https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Almond Joy](https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F) | 3:03 | 2022-11-10 | 2022-12-13 |
 | [Night Mist](https://open.spotify.com/track/3FK9WEakN8oFgfGdKeiqzY) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Like In Love](https://open.spotify.com/album/53bRCFvtFOk6HBKjf44Kzl) | 2:34 | 2021-12-03 | 2022-09-23 |
-| [Night Swimmer](https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Swallows](https://open.spotify.com/album/1oY3zKF2arpXsgJolpVemU) | 2:56 | 2022-11-10 |  |
+| [Night Swimmer](https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Swallows](https://open.spotify.com/album/1oY3zKF2arpXsgJolpVemU) | 2:56 | 2022-11-10 | 2022-12-29 |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-11-10 |  |
 | [Nothing Lasts Forever](https://open.spotify.com/track/0WHPnkjzE2wkLa06lL5cIX) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:42 | 2022-11-10 | 2022-11-26 |
 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 | 2022-11-10 |  |
 | [On The Street Where You Live](https://open.spotify.com/track/7xLNfcvvxHB3gjCeBdDD4n) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [On The Street Where You Live](https://open.spotify.com/album/09UH3htyiTiqxM0FnhqDsv) | 3:19 | 2022-11-10 | 2022-12-24 |
 | [One Day I'll Fly Away](https://open.spotify.com/track/6TCEJVBIrm9YysBGEVHFD0) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Jasmine](https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye) | 4:15 | 2021-12-03 | 2022-06-23 |
+| [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 | 2022-12-22 |  |
 | [Over The Rainbow](https://open.spotify.com/track/69XmGDda7Gd8UITZ80n1HD) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:42 | 2022-04-13 | 2022-11-11 |
 | [Pannonica](https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc) | [Spike Wilner Trio](https://open.spotify.com/artist/2IsQRgCkOiPQwg0sKFLAJQ) | [Pannonica](https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1) | 6:43 | 2022-09-15 | 2022-09-21 |
 | [Peace](https://open.spotify.com/track/7pDRAykBM45AObXmk2L4Cl) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Peace](https://open.spotify.com/album/6XvZZIudci1eKSN43SNnwn) | 3:37 | 2022-11-10 | 2022-12-08 |

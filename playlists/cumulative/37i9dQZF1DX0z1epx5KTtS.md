@@ -4,7 +4,7 @@
 
 > African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-96 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
+97 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Le nyama](https://open.spotify.com/track/621TMPiRb7R5dg9p2ECBW8) | [Aveiro Djess](https://open.spotify.com/artist/4lypn4ixPqyT9o2OLDCEsf) | [Le nyama](https://open.spotify.com/album/2BAoP5i5aAg4qJAGOjH9ij) | 3:45 | 2021-12-20 |  |
 | [Le Secret](https://open.spotify.com/track/09V5sBv2hhBXSRjXSAB3sb) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Le Secret](https://open.spotify.com/album/1h9Xp386wUIbffEgODh4ic) | 3:20 | 2022-09-01 |  |
 | [Ma Place](https://open.spotify.com/track/3UMKpuoJeemcDHxZepnIH7) | [Anderson 1er](https://open.spotify.com/artist/2MF2HhouHc4XEbRl7N6Jpp) | [Ma Place](https://open.spotify.com/album/3cevtx8WGwucUcmrP9toVk) | 3:55 | 2022-09-01 | 2022-12-02 |
+| [Mademoiselle](https://open.spotify.com/track/3Vt5QZrsmeOESKmpciE4ks) | [Jr La Melo](https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU), [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Mademoiselle](https://open.spotify.com/album/2vA35OUTpM5gVmTPnTGSnC) | 2:19 | 2022-12-28 |  |
 | [Mami Wata](https://open.spotify.com/track/07KaEXxno8BhXI6UKZcy1U) | [Tenor](https://open.spotify.com/artist/6yroy4hk9Daq02TQAWl778), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Mami Wata](https://open.spotify.com/album/7GaRPIyFR0pD6kZNlgbbh6) | 2:52 | 2022-05-26 | 2022-08-26 |
 | [Mapouka](https://open.spotify.com/track/6WT4eFi2jTFNuN8UkVGFLO) | [TNT Family](https://open.spotify.com/artist/707k62nFnrWfAmYF9qFcI6) | [12 Raisons](https://open.spotify.com/album/50VVd86np0xlYcTpibU37n) | 3:03 | 2022-06-02 | 2022-09-02 |
 | [MEME](https://open.spotify.com/track/6jq8XCdFOgVU1xb83EZ7NC) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [MEME](https://open.spotify.com/album/3F5WzTfqrtSpIDJNnvtzG9) | 3:20 | 2021-12-20 | 2022-06-17 |

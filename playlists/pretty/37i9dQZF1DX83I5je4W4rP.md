@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030,846 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,030,876 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 51 | [Right Me Up](https://open.spotify.com/track/0mIedzCvGwfq4wIdGiVSut) | [State Radio](https://open.spotify.com/artist/6eaKsv68njcrz5OjeQor5L), [Chadwick Stokes](https://open.spotify.com/artist/785rMkDH7JjOFN3NcBGDJM) | [Us Against The Crown \(Bonus Track Version\)](https://open.spotify.com/album/3XOvNcVeUI9AInH5f0i7ou) | 4:13 |
 | 52 | [We'll Be Alright](https://open.spotify.com/track/5k0U1CVgDmBZ6xutJVIU8r) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:16 |
 | 53 | [Count Me In](https://open.spotify.com/track/0BweE3lWBMXRPWWLtLV5z8) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Count Me In](https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg) | 3:09 |
-| 54 | [Sunshine](https://open.spotify.com/track/1ma4sCjoVMptvilcgJDPGc) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Spark Seeker](https://open.spotify.com/album/2dq7y0FKyzr33UBYXZ2g7u) | 3:33 |
-| 55 | [Shine](https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Start Livin'](https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg) | 3:14 |
+| 54 | [Shine](https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Start Livin'](https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg) | 3:14 |
+| 55 | [Sunshine](https://open.spotify.com/track/1ma4sCjoVMptvilcgJDPGc) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Spark Seeker](https://open.spotify.com/album/2dq7y0FKyzr33UBYXZ2g7u) | 3:33 |
 | 56 | [Rage \(feat\. Travis Barker and Aimee Interrupter of The Interrupters\)](https://open.spotify.com/track/7Eta7z7ofiykxOyk9HVWij) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Rage \(feat\. Travis Barker and Aimee Interrupter of The Interrupters\)](https://open.spotify.com/album/00HwTxnfnfF0OVuXeOhJCZ) | 3:14 |
 | 57 | [Where's The Love](https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Trevor Hall](https://open.spotify.com/album/34rT9ovQneEIUPtwPX9tDn) | 3:59 |
 | 58 | [Good Vibes \(feat\. Lutan Fyah\)](https://open.spotify.com/track/0kNSPASJw7VASyGPbOdkn8) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc), [Lutan Fyah](https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU) | [Peace of Mind \(Deluxe\)](https://open.spotify.com/album/69QU0KRyEfMXDG2K10HdMJ) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 99 | [I Like the Way You Roll \(feat\. Slightly Stoopid\)](https://open.spotify.com/track/2dBQiMLWP9cWCYfwB56YHf) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Dreamer](https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5) | 2:23 |
 | 100 | [Jump](https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 5:04 |
 
-Snapshot ID: `MTY2ODcxNTAxOSwwMDAwMDAwMGEzYmNmOWY3NzAyZTc5NzMwNjNjM2NmODA2NmJjNjQ4`
+Snapshot ID: `MTY2ODcxNTAxOSwwMDAwMDAwMDAwMjJjNmUxNGRiYTQ5Y2YwODcyNTkyM2U1YzI3MjZj`

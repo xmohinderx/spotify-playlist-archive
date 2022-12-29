@@ -8,8 +8,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Don't Check On Me \(feat\. Justin Bieber & Ink\)](https://open.spotify.com/track/7ILEWkpfdK6AjH2D7jppWk) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:24 |
-| 2 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 |
+| 1 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 |
+| 2 | [Don't Check On Me \(feat\. Justin Bieber & Ink\)](https://open.spotify.com/track/7ILEWkpfdK6AjH2D7jppWk) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:24 |
 | 3 | [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 |
 | 4 | [Ride](https://open.spotify.com/track/5hJb8AP76Z82b8ThCDJeOq) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [The Golden Child](https://open.spotify.com/album/52iN0AN48yBH5pF6C65ZmI) | 3:25 |
 | 5 | [Real Hitta \(feat\. Kodak Black\)](https://open.spotify.com/track/1fnRwgZLgAYMM1dVL1oqwG) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Real Hitta \(feat\. Kodak Black\)](https://open.spotify.com/album/2WrruSvj5i3k5j7xlQEaX6) | 3:51 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 27 | [Stay by Your Phone](https://open.spotify.com/track/64b4SSKDAW21DBBC8aXi4L) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Imagine Not Knowing](https://open.spotify.com/album/6YPjAMPVTJrGRAHXbhMgnO) | 3:48 |
 | 28 | [Before You Enter My Soul](https://open.spotify.com/track/5y0lEABp85Esv9bYUE5CvT) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:42 |
 
-Snapshot ID: `Mjc4Njk4MzksMDAwMDAwMDAyNGU0NmJjODk0ZjMyNzJmNzJlZmQyODFkOTFjZjVlMA==`
+Snapshot ID: `Mjc4NzEyNzksMDAwMDAwMDAwZDQyY2I5ZDYwZmU2YjMxMTZhNzUwNGMzZTI5Njg1Yw==`

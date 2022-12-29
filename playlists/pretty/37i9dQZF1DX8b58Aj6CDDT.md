@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 
 > Las canciones alternativas que definieron el 2022 en Hispanoamérica\. Marilina Bertoldi y Javiera Mena en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 876 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 905 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 | 22 | [Un Momento](https://open.spotify.com/track/4k1wOvis4BrvbkOT6jmaJ9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Momento](https://open.spotify.com/album/6rObLR3OfwtAkft3WuEuTI) | 3:09 |
 | 23 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 |
 | 24 | [No Me Querías Tanto](https://open.spotify.com/track/78O28x289DJcoRzZFWZN8l) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Tiene Que Ser Para Mí](https://open.spotify.com/album/2J5ARQTTYCX2j7WTDA6HKK) | 3:07 |
-| 25 | [Un Cabrón Con Suerte](https://open.spotify.com/track/5I5bMqyGxlbiPljq6QwxPe) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Sobredosis De Amor](https://open.spotify.com/album/09VrjlJzEaaGrWNbeMHkvF) | 3:05 |
-| 26 | [Zoe](https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 3:34 |
+| 25 | [Zoe](https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 3:34 |
+| 26 | [Un Cabrón Con Suerte](https://open.spotify.com/track/5I5bMqyGxlbiPljq6QwxPe) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Sobredosis De Amor](https://open.spotify.com/album/09VrjlJzEaaGrWNbeMHkvF) | 3:05 |
 | 27 | [Me Porto Bonito \- \(Post\-Punk\)](https://open.spotify.com/track/2xu9l5l3fm8noWonuDf3Cn) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Me Porto Bonito \(Post\-Punk\)](https://open.spotify.com/album/6TFTyQvQ60ixcqoFM0VYqy) | 3:00 |
 | 28 | [TRASCENDER](https://open.spotify.com/track/4vqZefmXZYfnLM03gJQtPu) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 1](https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi) | 4:15 |
 | 29 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 | 49 | [Tantas Cosas Buenas](https://open.spotify.com/track/6SOQ1rrcQL3UcGmsLOrXtd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Tantas Cosas Buenas](https://open.spotify.com/album/3sGo39318ViQM2ZHNporVo) | 3:58 |
 | 50 | [Lamentar](https://open.spotify.com/track/4VUO4tl0mGNhz2zoQ2EZd0) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Lamentar](https://open.spotify.com/album/3qqKA3lRu2PizL8UuQCD68) | 2:41 |
 
-Snapshot ID: `MTY2OTgyMDYzMiwwMDAwMDAwMDE2YTdiNTYwYjhmOTgyNDM3MmI4M2E4ZWJmMTJlZmEy`
+Snapshot ID: `MTY2OTgyMDYzMiwwMDAwMDAwMGMwNmVjMDU4NWViMmJhNWY3NDRkOThjMGI4NWJmMjAz`

@@ -4,7 +4,7 @@
 
 > A blend of the best from years past—from indie folk and pop grass to roots rock and Americana\. Cover: The Lumineers
 
-286 songs - 18 hr 41 min - [published](https://open.spotify.com/playlist/0JPuvt6u1FjZyAbnsSb2HM)
+287 songs - 18 hr 44 min - [published](https://open.spotify.com/playlist/0JPuvt6u1FjZyAbnsSb2HM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Crosses](https://open.spotify.com/track/0ByKWq0hsuYriK5avSMJ5r) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:42 | 2021-10-09 | 2021-10-12 |
 | [Dark Child](https://open.spotify.com/track/36hGMGCuTWVGsKcN2VuM8O) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Marlon Williams](https://open.spotify.com/album/4YZFCwN1KJOYs6bdm3aKhI) | 5:23 | 2020-10-21 | 2021-10-13 |
 | [Dark Child \- Single Edit](https://open.spotify.com/track/4puHB4a2PUyJViWnJcJEv0) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Dark Child](https://open.spotify.com/album/514G60yXX7mHxl67i5DYld) | 3:57 | 2020-10-20\* | 2022-06-21 |
-| [Day by Day](https://open.spotify.com/track/1bDS3ktQSucD150gp86iFU) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Motivational Speaking](https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl) | 3:12 | 2022-03-11 |  |
+| [Day by Day](https://open.spotify.com/track/1bDS3ktQSucD150gp86iFU) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Motivational Speaking](https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl) | 3:12 | 2022-03-11 | 2022-12-29 |
 | [Day by Day](https://open.spotify.com/track/5kQyTlP8HGfjsEYpxpk59v) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Day by Day](https://open.spotify.com/album/3ra5M72nDbIICWPtjanTRG) | 3:12 | 2021-10-01 | 2022-07-27 |
 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 | 2020-10-20\* |  |
 | [Deep In Love](https://open.spotify.com/track/2ehQ2UuXplkqly0XBBAPud) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/5OgTkrQuF1aL0FtsTi5KmV) | 5:09 | 2020-10-20\* | 2022-07-29 |
@@ -126,6 +126,7 @@
 | [Honeybee](https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:16 | 2021-04-03 |  |
 | [Horizon](https://open.spotify.com/track/1I55KLlJlGi3fyiA650Oxz) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/1bHFgyItmSogZKb5fWOefI) | 4:09 | 2020-10-21 | 2021-01-15 |
 | [House Fire](https://open.spotify.com/track/1RJyToUKkGSEfJjavJHSsF) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:52 | 2021-10-11 |  |
+| [House of Stone](https://open.spotify.com/track/1wTEU95kyZFCj5d6cUIysf) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [This Side of Jordan](https://open.spotify.com/album/6rYA2Dt9kUfW5HJR1ayNnZ) | 3:16 | 2022-03-11 |  |
 | [House of Stone](https://open.spotify.com/track/1Cy1mZ5KVGh4lU5gyBEmpq) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [This Side Of Jordan](https://open.spotify.com/album/3A6DYcbcB9vrZr7134jFQ7) | 3:16 | 2020-10-20\* | 2022-07-26 |
 | [Humbug Mountain Song](https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:04 | 2021-04-03 |  |
 | [Hurtin' \(On the Bottle\)](https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/55byaTflUCrOReQQukpctP) | 4:12 | 2020-10-21 | 2021-10-13 |

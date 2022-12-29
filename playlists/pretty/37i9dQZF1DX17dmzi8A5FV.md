@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 
 > All the biggest hits from the biggest boybands\. Cover: BTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,214 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,390 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 | 66 | [Caught in the Middle](https://open.spotify.com/track/4UE8T2GKceEaNhn5ORTkyo) | [A1](https://open.spotify.com/artist/5lPsVvHVDr6R5mDxRUXdOs) | [Make It Good](https://open.spotify.com/album/7aMMpyDflUCZzDFp6LNul0) | 3:26 |
 | 67 | [Everybody in Love](https://open.spotify.com/track/2iLN22AngD3PTsbvBu5ypL) | [JLS](https://open.spotify.com/artist/5xi3SZpllRPAkoPVbjB6nc) | [JLS](https://open.spotify.com/album/37ocVmUr58CZsunyOapI3m) | 3:15 |
 | 68 | [It's Alright \- The Guvnor Mix](https://open.spotify.com/track/0hiUOCWNdPefjaEAjcJ8Cq) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Walthamstow](https://open.spotify.com/album/5hVUeW05qGAIc1YA3h2Y7O) | 4:40 |
-| 69 | [All or Nothing](https://open.spotify.com/track/1TBIHWmr1r34J2s0eSfA7U) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town](https://open.spotify.com/album/2yWrBg2LjW4oPnCRQrJJLV) | 4:41 |
-| 70 | [Gone](https://open.spotify.com/track/4CCUjYJPbSXLL23BFeBVbI) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg) | 4:52 |
+| 69 | [Gone](https://open.spotify.com/track/4CCUjYJPbSXLL23BFeBVbI) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg) | 4:52 |
+| 70 | [All or Nothing](https://open.spotify.com/track/1TBIHWmr1r34J2s0eSfA7U) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town](https://open.spotify.com/album/2yWrBg2LjW4oPnCRQrJJLV) | 4:41 |
 | 71 | [Candy Girl](https://open.spotify.com/track/72OrfuJ9RxfLCoqAMeKHCZ) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Candy Girl](https://open.spotify.com/album/62OvMX7ymbmxO6TKiXDE4v) | 3:55 |
 | 72 | [Chloe \(You're the One I Want\)](https://open.spotify.com/track/036GQb6SETOJJG8BxJTNxc) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 3:42 |
 | 73 | [Back Here](https://open.spotify.com/track/6znv7i4Wif5fLwI6OjKHZ4) | [BBMAK](https://open.spotify.com/artist/7y1GT7SdgGiFLWoktv2TSw) | [Sooner Or Later](https://open.spotify.com/album/1vaydA93AMLnjddGnQM15Q) | 3:38 |
 | 74 | [Take on Me](https://open.spotify.com/track/6IVJFZI4fejlJ9XTa3CG5G) | [A1](https://open.spotify.com/artist/5lPsVvHVDr6R5mDxRUXdOs) | [The a List](https://open.spotify.com/album/5QLf9R6hnPkFFlKsv1VrR1) | 3:32 |
 | 75 | [Where's The Love](https://open.spotify.com/track/4auyLwpht5bFKtPpulMsCj) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:12 |
 
-Snapshot ID: `MTY3MTc3MzIxMywwMDAwMDAwMDkwN2E1OWU0NjU0MGEyZjJjYzMxN2Y4N2Y0YzQxMzI3`
+Snapshot ID: `MTY3MTc3MzIxMywwMDAwMDAwMDUxMzY5MjE3MDY4ZjI2OTAxZTk3OWM4Y2Q0ZWJiNDgw`

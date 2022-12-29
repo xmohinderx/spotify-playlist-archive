@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Oruam e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,258 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,608 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 44 | [Explana o Escondido \- Ao Vivo](https://open.spotify.com/track/5XOn0C8FGB92jStWCobGCR) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe) | [Explana o Escondido \(Ao Vivo\)](https://open.spotify.com/album/4qQkK8agkBSaFxs3fiCgnJ) | 2:38 |
 | 45 | [Pelo](https://open.spotify.com/track/6QcE06hPxLApPITC6lGLdx) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Meu Esquema](https://open.spotify.com/album/6osVzkibmUSPNEWw7ABsjR) | 2:53 |
 | 46 | [Acaju](https://open.spotify.com/track/4ClelpEpACByNDtO105jWC) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Acaju](https://open.spotify.com/album/0PmRFNK871H7c4LQi1lKPf) | 2:42 |
-| 47 | [Grajaú Girl](https://open.spotify.com/track/3vv073E7v6x5QScwohl0lV) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih), [Dj Will](https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX) | [Grajaú Girl](https://open.spotify.com/album/2CBlOL6zNxAHnN8AgoPKNo) | 3:01 |
-| 48 | [Quest](https://open.spotify.com/track/2JyzrRWYel4FiB7NbJuH7E) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl) | [Quest](https://open.spotify.com/album/1lOjoZGWkaw4VTp7rvKmNd) | 2:43 |
+| 47 | [Quest](https://open.spotify.com/track/2JyzrRWYel4FiB7NbJuH7E) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl) | [Quest](https://open.spotify.com/album/1lOjoZGWkaw4VTp7rvKmNd) | 2:43 |
+| 48 | [Grajaú Girl](https://open.spotify.com/track/3vv073E7v6x5QScwohl0lV) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih), [Dj Will](https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX) | [Grajaú Girl](https://open.spotify.com/album/2CBlOL6zNxAHnN8AgoPKNo) | 3:01 |
 | 49 | [Auto Filter](https://open.spotify.com/track/710nUmKdg0R0YGoHcxIhje) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Auto Filter](https://open.spotify.com/album/6jDENEt6mLAqNY8AKnzf19) | 3:48 |
 | 50 | [Maldita](https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 3:07 |
 
-Snapshot ID: `MTY3MjE3OTk0OSwwMDAwMDAwMDYzYTIwYjRhZjRjMjlmZTE4NDk1N2U2MDY1MzE4Yjlm`
+Snapshot ID: `MTY3MjE3OTk0OSwwMDAwMDAwMDgzNzg3NDQ4NmI4MjUwOTc5NjA2ZmIxNGY1ZDUxY2Yx`

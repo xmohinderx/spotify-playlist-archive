@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 
 > Some of the most beautiful French love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,764 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,807 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 11 | [INDÉLÉBILE](https://open.spotify.com/track/5Mwwrp4vtCAhExnFFHbwBt) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [INDÉLÉBILE](https://open.spotify.com/album/6SYrm2Ynl39i7bkanjPNVK) | 2:50 |
 | 12 | [Mais je t'aime](https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [MESDAMES deluxe](https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh) | 4:30 |
 | 13 | [J'espère](https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Airs païens](https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD) | 2:29 |
-| 14 | [Parce que c'est toi](https://open.spotify.com/track/2GSdDPQZPIoy0nPSzY7iXr) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [The Songs \(Acoustic\)](https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ) | 3:16 |
+| 14 | [L'amour, l'amour, l'amour](https://open.spotify.com/track/6OGpURRDL26WAeouxgnfX9) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:07 |
 | 15 | [Tout le monde \(sauf toi\)](https://open.spotify.com/track/4lyIlP2RIrY2dy6U6Xy0qu) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 2:45 |
-| 16 | [L'amour, l'amour, l'amour](https://open.spotify.com/track/6OGpURRDL26WAeouxgnfX9) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:07 |
-| 17 | [Le vent nous portera](https://open.spotify.com/track/0UC6CJgTFCikxLJZMNw8Xu) | [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [1983](https://open.spotify.com/album/2vZVdy9Me7olnm2GEbhPYv) | 3:46 |
+| 16 | [Le vent nous portera](https://open.spotify.com/track/0UC6CJgTFCikxLJZMNw8Xu) | [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [1983](https://open.spotify.com/album/2vZVdy9Me7olnm2GEbhPYv) | 3:46 |
+| 17 | [Parce que c'est toi](https://open.spotify.com/track/2GSdDPQZPIoy0nPSzY7iXr) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [The Songs \(Acoustic\)](https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ) | 3:16 |
 | 18 | [Jamais trop tard](https://open.spotify.com/track/7C03dDo2QyGVq7zjWF5uGB) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l), [Lou Doillon](https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q) | [Incarnat](https://open.spotify.com/album/7MHCdhvoWFGcKSnuqp5dOS) | 3:32 |
 | 19 | [Je T’aime](https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Pure](https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm) | 4:21 |
 | 20 | [On s'aimera toujours](https://open.spotify.com/track/2RcrBSsrLtBVPKqEyYCqpy) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Impossible à aimer](https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX) | 3:28 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 46 | [S'il suffisait d'aimer](https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:34 |
 | 47 | [Il n'y a que toi](https://open.spotify.com/track/1RqiVKbXmMpa5w70ebmCds) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Equilibre](https://open.spotify.com/album/05i1g2VNkI7hBdIADta182) | 3:21 |
 | 48 | [Fous n'importe où](https://open.spotify.com/track/3Wav5Db2A0kdJDAK3mpajp) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Rêver Mieux](https://open.spotify.com/album/2KE8MT2BeZA1sQWlQam4ce) | 3:59 |
-| 49 | [Tu m'aimes\-tu](https://open.spotify.com/track/57perXY58eWG2ImKYyxyLJ) | [Richard Desjardins](https://open.spotify.com/artist/2zZ8py1CLFzH10bc2unTpn) | [Tu m'aimes\-tu](https://open.spotify.com/album/3FsxgvoKpBzi9jgySKoF8f) | 4:49 |
-| 50 | [J't'aime tout court](https://open.spotify.com/track/4wRNDhiYiB07K39uBI7AlW) | [Nicola Ciccone](https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM) | [J't'aime tout court](https://open.spotify.com/album/4KQ5ciZy9S3350gBi1MP29) | 3:31 |
+| 49 | [J't'aime tout court](https://open.spotify.com/track/4wRNDhiYiB07K39uBI7AlW) | [Nicola Ciccone](https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM) | [J't'aime tout court](https://open.spotify.com/album/4KQ5ciZy9S3350gBi1MP29) | 3:31 |
+| 50 | [Tu m'aimes\-tu](https://open.spotify.com/track/57perXY58eWG2ImKYyxyLJ) | [Richard Desjardins](https://open.spotify.com/artist/2zZ8py1CLFzH10bc2unTpn) | [Tu m'aimes\-tu](https://open.spotify.com/album/3FsxgvoKpBzi9jgySKoF8f) | 4:49 |
 | 51 | [Aime\-moi](https://open.spotify.com/track/3Nx0tpFFwD0xdw424rhhfN) | [Ariane Brunet](https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg) | [Le pied dans ma bulle](https://open.spotify.com/album/7jRtfbizqVXGQzUplJzJ0r) | 3:16 |
 | 52 | [Je t'aimais, je t'aime et je t'aimerai](https://open.spotify.com/track/7Kw8uSGbshybOzw4fmosUx) | [Amandine Bourgeois](https://open.spotify.com/artist/5f2vuPQdfpjzhuIA0W9bNm) | [Au masculin](https://open.spotify.com/album/1UsDlpZBxnuZBo1xSyYax6) | 4:58 |
 | 53 | [Pour que tu m'aimes encore](https://open.spotify.com/track/5iUdu5DddFwvqmnwL0nOBI) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Pour que tu m'aimes encore](https://open.spotify.com/album/7F0oYlWbXKjecsCJS9wUMW) | 4:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 74 | [Chanson d'amour en sol standard](https://open.spotify.com/track/4jAgDuNmbaARi8zEQulw7v) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Mitan](https://open.spotify.com/album/4Zm0Sey2ULq1FS7YYaCQOB) | 5:36 |
 | 75 | [Ma préférence](https://open.spotify.com/track/28DzOSJv7d8NW96v0ZD804) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Limoilou \(Deluxe\)](https://open.spotify.com/album/32N6jwadyAwPmruhrGRB0J) | 2:49 |
 
-Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMGViN2QzODZjZjQzYWY0NmE0MTE4Y2YwN2I2NGM0NDk0`
+Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMGEyZjhjMzc1MGVhNTk0MDAxZTMxODkzZWVkMTI3MjJh`

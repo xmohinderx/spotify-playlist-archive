@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Las artistas que marcaron el año con Mon Laferte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,796 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,808 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 7 | [HEAVY](https://open.spotify.com/track/3bEetphA24F4tNyBW1p4Bz) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Brujerías de Cantina](https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy) | 2:58 |
 | 8 | [Beautiful Sadness](https://open.spotify.com/track/3gCU77vVGjA80B6cxXexWA) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:21 |
 | 9 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:40 |
-| 10 | [Libre Albedrío](https://open.spotify.com/track/5DovDrVCNh9qFp0GGnmJH7) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Libre Albedrío](https://open.spotify.com/album/6ywjX40yQQT3EVSuv0JcmV) | 3:04 |
-| 11 | [Báilalo Mujer](https://open.spotify.com/track/7y2HbN0w7eoRU5sw97VKpi) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Mariposa](https://open.spotify.com/album/0SOd8PQSePV5ryAWE9vM9X) | 2:52 |
+| 10 | [Báilalo Mujer](https://open.spotify.com/track/7y2HbN0w7eoRU5sw97VKpi) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Mariposa](https://open.spotify.com/album/0SOd8PQSePV5ryAWE9vM9X) | 2:52 |
+| 11 | [Libre Albedrío](https://open.spotify.com/track/5DovDrVCNh9qFp0GGnmJH7) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Libre Albedrío](https://open.spotify.com/album/6ywjX40yQQT3EVSuv0JcmV) | 3:04 |
 | 12 | [Canción Para Mi Ex](https://open.spotify.com/track/7JXdrYedUjDUn75naheO3y) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [Canción Para Mi Ex](https://open.spotify.com/album/4cgQLvcxp6LbnBMkhMdVGq) | 2:48 |
 | 13 | [Buena Suerte Muchacha](https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Buena Suerte Muchacha](https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0) | 3:13 |
 | 14 | [Fine](https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Fine](https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo) | 3:02 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 31 | [Jui$y](https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Feels](https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj) | 3:26 |
 | 32 | [Un Día Planté una Rosa](https://open.spotify.com/track/3BvyDuC2IhlSpG3DfnnXMR) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 2:41 |
 | 33 | [Loco](https://open.spotify.com/track/44nbI3uV9Xy4JTQJ6eCYTL) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Loco](https://open.spotify.com/album/07unMn9Pkm8nWxv1Kr1sdt) | 2:58 |
-| 34 | [Esta vislumbra](https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 3:21 |
-| 35 | [paterson](https://open.spotify.com/track/3DUKYkLS0M2kM6m7tzjipR) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [paterson](https://open.spotify.com/album/5URw6mtoVChP5GD5la6RbF) | 4:42 |
+| 34 | [paterson](https://open.spotify.com/track/3DUKYkLS0M2kM6m7tzjipR) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [paterson](https://open.spotify.com/album/5URw6mtoVChP5GD5la6RbF) | 4:42 |
+| 35 | [Esta vislumbra](https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 3:21 |
 | 36 | [Papel](https://open.spotify.com/track/4rE16lTqf0Itc1jcpnyDYx) | [May Villalobos](https://open.spotify.com/artist/2v6dIFNgGkqAwvSdeR6D8D), [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Papel](https://open.spotify.com/album/1qmqSiUdglS1nHtMpGDFAt) | 3:06 |
 | 37 | [Voy a Hacer las Cosas Lento](https://open.spotify.com/track/2giVbMc5SuyJedv7JaWr9o) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Voy a Hacer las Cosas Lento](https://open.spotify.com/album/4is8Xi19Eijn9e16KgaipK) | 3:28 |
 | 38 | [Por Que Se Fue la Paloma](https://open.spotify.com/track/75ic82G9v6jgTDjlq7jij7) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Lucero](https://open.spotify.com/album/4LFoct8D5qbHcGH1HVq6jP) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Te Vi](https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2) | [Te Vi](https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm) | 3:27 |
 | 50 | [Música \- Quadman Remix](https://open.spotify.com/track/1tsOfeJb5PliHGBP4adsmD) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Quadman](https://open.spotify.com/artist/4pIRnTXA6rcHUXbdS7uxuE) | [La Mar \(Remixes\)](https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O) | 6:15 |
 
-Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMGFmNjY3YmFkZjNlMDc5ODI3YzNhMDg0Njc2MGUwY2Y0`
+Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMDYzYjdlMGZlMDA2NjU5NzYzNWQzOWMzMmMxYWQ2MTI1`

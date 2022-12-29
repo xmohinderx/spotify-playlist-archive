@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,666 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,694 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 30 | [Tum Sang](https://open.spotify.com/track/60uYhlD1Q5xJC4X1ThXgXl) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Tum Sang](https://open.spotify.com/album/5iFLWvbvg9JS5xy81LQHMl) | 3:04 |
 | 31 | [Saahiba](https://open.spotify.com/track/72ZCskgfexMXQ7k9E0qx5l) | [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Saahiba](https://open.spotify.com/album/0Atpcs1HndL61F1zQO8BYV) | 4:54 |
 | 32 | [Rasiya](https://open.spotify.com/track/4GdSydpo68O9XnTnnmSntO) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:38 |
-| 33 | [Ja Ja Re](https://open.spotify.com/track/7fVYiLYOph8btMb6BxCTZP) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Sattar Khan](https://open.spotify.com/artist/0wART8J53ZbpAN7kFqkqjn) | [Ja Ja Re](https://open.spotify.com/album/52U7TP7dILVI4hue1faGh2) | 3:42 |
-| 34 | [Payaliya Jhankaar](https://open.spotify.com/track/0BOGGFXTMfUOfxrasa41hs) | [Anjali Gaikwad](https://open.spotify.com/artist/0moRS5SepzNxum0J5tpL1f), [Nandini Gaikwad](https://open.spotify.com/artist/78VN7vMgRbDesA3bL7Aokq) | [Payaliya Jhankaar](https://open.spotify.com/album/3WMKCc5jI7aYnxJEgwwMkn) | 6:05 |
+| 33 | [Payaliya Jhankaar](https://open.spotify.com/track/0BOGGFXTMfUOfxrasa41hs) | [Anjali Gaikwad](https://open.spotify.com/artist/0moRS5SepzNxum0J5tpL1f), [Nandini Gaikwad](https://open.spotify.com/artist/78VN7vMgRbDesA3bL7Aokq) | [Payaliya Jhankaar](https://open.spotify.com/album/3WMKCc5jI7aYnxJEgwwMkn) | 6:05 |
+| 34 | [Ja Ja Re](https://open.spotify.com/track/7fVYiLYOph8btMb6BxCTZP) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Sattar Khan](https://open.spotify.com/artist/0wART8J53ZbpAN7kFqkqjn) | [Ja Ja Re](https://open.spotify.com/album/52U7TP7dILVI4hue1faGh2) | 3:42 |
 | 35 | [Sakhi](https://open.spotify.com/track/1nlgs8u9AEoIljf13DBWnQ) | [Dhaiwat](https://open.spotify.com/artist/0MDNPCoSJLI4iBkIFBTnob), [Vidushi Kalpana Zokarkar](https://open.spotify.com/artist/12r2xD99LYO5hrilYhAFXV) | [Sakhi](https://open.spotify.com/album/3iRKkWNQQ2EnnAA5jA4sAZ) | 4:19 |
 | 36 | [The Unposted Letter](https://open.spotify.com/track/1xuLfcXNcA3J2qLZGFQ3kB) | [Varun Nimbolkar](https://open.spotify.com/artist/3dmI9UkzIOZZeHcdLJfXZs), [Saee Tembhekar](https://open.spotify.com/artist/3TJyCCTVwoTQo1FQ5xxuKm) | [The Unposted Letter](https://open.spotify.com/album/48hMn9wMVg6fRDYXCH06hY) | 4:14 |
-| 37 | [Badarwa](https://open.spotify.com/track/7FkI3zkAGGL7q09PxpmpY4) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Badarwa](https://open.spotify.com/album/2IogLl0Rn9jq8Ru17JPihQ) | 3:44 |
-| 38 | [Bihag](https://open.spotify.com/track/5pcewCfXI5xVVdDsPQbi4g) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS), [Kavya Singh](https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm), [Nikhil Rao](https://open.spotify.com/artist/6OSQbUN4wMOyMEEBsG5u5S), [Sree Rag](https://open.spotify.com/artist/5tDlXhji6JOZh7wTiWK3h5) | [Bihag](https://open.spotify.com/album/3K2vEVbx5qQ3I4PYTWPdKy) | 5:53 |
+| 37 | [Bihag](https://open.spotify.com/track/5pcewCfXI5xVVdDsPQbi4g) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS), [Kavya Singh](https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm), [Nikhil Rao](https://open.spotify.com/artist/6OSQbUN4wMOyMEEBsG5u5S), [Sree Rag](https://open.spotify.com/artist/5tDlXhji6JOZh7wTiWK3h5) | [Bihag](https://open.spotify.com/album/3K2vEVbx5qQ3I4PYTWPdKy) | 5:53 |
+| 38 | [Badarwa](https://open.spotify.com/track/7FkI3zkAGGL7q09PxpmpY4) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Badarwa](https://open.spotify.com/album/2IogLl0Rn9jq8Ru17JPihQ) | 3:44 |
 | 39 | [Ab Jaane Ki Zid Na Karo](https://open.spotify.com/track/2XvA8l5nma3jDO5onG3skp) | [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Satyansh Rajat](https://open.spotify.com/artist/2WvmxUMd2Pnekw7iHHyWLk) | [Ab Jaane Ki Zid Na Karo](https://open.spotify.com/album/1rmVytV1T9RRk8pr6jPsgd) | 3:01 |
 | 40 | [Ahir Bhairav](https://open.spotify.com/track/3izOUe13B7GBFb181eKujB) | [Honeysuckle Weekends](https://open.spotify.com/artist/30Jmjb5tjtHwwAX51M2yn2) | [Ahir Bhairav](https://open.spotify.com/album/0WrdiH1EH8dv7DMf1HieYW) | 5:39 |
 | 41 | [Pathjhad](https://open.spotify.com/track/5yuzt5Ib1KhOCxBLKhaeol) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Sabar](https://open.spotify.com/album/44gFbG7mWYc4u0lENFlQSY) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 49 | [Dehi](https://open.spotify.com/track/3dcxfK2dv5Wx41biEuRiZd) | [Inayat](https://open.spotify.com/artist/5jbBzjNgAiqpsNEOmOP448) | [Dehi](https://open.spotify.com/album/3JwEPc7W3rVTRv0rfHaHw5) | 4:33 |
 | 50 | [High](https://open.spotify.com/track/1ejKjr17tS1xJdfnUroTdK) | [Karsh Kale](https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn) | [Up](https://open.spotify.com/album/30f4bIRZBaGq5TalJs6D2S) | 2:46 |
 
-Snapshot ID: `MTY2OTA5NDkyNywwMDAwMDAwMDY5YzA5NTBhMmZjOTBhODBjNjNkMGZmYzdhMDUzOWJh`
+Snapshot ID: `MTY2OTA5NDkyNywwMDAwMDAwMDViZTEyODgxYWIzZjcxZTc0ODQ4ZjlkYzcyNzI4NTU5`

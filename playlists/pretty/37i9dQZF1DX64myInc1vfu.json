@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era just for you. Los boleritos de hoy. Cover: Yoss Bones",
-  "num_followers": 55798,
+  "num_followers": 55872,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzYwMDM1MiwwMDAwMDAwMDkxZGY3NzljZjEwNTk5MTU5YTg4M2E0MWVmOWZlMGQ2",
+  "snapshot_id": "MTY2MzYwMDM1MiwwMDAwMDAwMGM0MDI3NmM2MGQ3NWFiMTcxNzE5OTZjM2VjZGQxYjY5",
   "tracks": [
     {
       "added_at": "2022-09-19 15:12:32",
@@ -31,26 +31,6 @@
     {
       "added_at": "2022-09-19 15:12:32",
       "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
-        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Soledad y el Mar (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/1Xtz05nIgJiEYdncfd1w8h"
-    },
-    {
-      "added_at": "2022-09-19 15:12:32",
-      "album": {
         "name": "Se Me Olvid\u00f3",
         "url": "https://open.spotify.com/album/6sbeex4HisXrm68OJuUR2g"
       },
@@ -67,6 +47,26 @@
       "duration_ms": 220300,
       "name": "Se Me Olvid\u00f3",
       "url": "https://open.spotify.com/track/6mDaKsBN1KHIBfeNXJwhZk"
+    },
+    {
+      "added_at": "2022-09-19 15:12:32",
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Soledad y el Mar (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/1Xtz05nIgJiEYdncfd1w8h"
     },
     {
       "added_at": "2022-09-19 15:12:32",

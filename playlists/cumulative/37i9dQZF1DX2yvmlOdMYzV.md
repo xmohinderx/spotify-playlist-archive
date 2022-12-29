@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-278 songs - 15 hr 54 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
+279 songs - 15 hr 58 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [KMS \- A COLORS SHOW](https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [KMS \- A COLORS SHOW](https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt) | 2:26 | 2022-06-30 |  |
 | [kometostai.aintreallynootherwaytoputitro](https://open.spotify.com/track/2VUMXJ651NZmzUcJvPEhit) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Hud Dreems](https://open.spotify.com/album/5pkzBdjGwsm3D6EE4PPEQ2) | 1:13 | 2021-12-15 | 2022-04-07 |
 | [kometostai.aintreallynootherwaytoputitro](https://open.spotify.com/track/7oeNO6HoCTIHIuoNUp2Ur4) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Hud Dreems](https://open.spotify.com/album/7udRpnIdi1SS0oaLFsVwrD) | 1:13 | 2022-02-11 |  |
-| [Later](https://open.spotify.com/track/0MuaRi77N4gPEfVkuooxqS) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Later](https://open.spotify.com/album/5Xv4mbW5nQ7LIvSZ2LIWzC) | 4:30 | 2021-12-15 |  |
+| [Later](https://open.spotify.com/track/0MuaRi77N4gPEfVkuooxqS) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Later](https://open.spotify.com/album/5Xv4mbW5nQ7LIvSZ2LIWzC) | 4:30 | 2021-12-15 | 2022-12-29 |
 | [Lava/Treacle](https://open.spotify.com/track/227jTRlttZd3Qjoe1cdtmb) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI) | [Lava/Treacle](https://open.spotify.com/album/6jPzSHELKtpjfV9GOnTy1k) | 3:21 | 2022-09-05 |  |
 | [Lava/Treacle](https://open.spotify.com/track/3U8dhK8wiVtsdmj7jwUJlB) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI) | [Lava/Treacle](https://open.spotify.com/album/56BXeYf8Xp3zxKSuQmbOet) | 3:21 | 2021-12-15 | 2022-07-31 |
 | [Let It Go](https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Let It Go](https://open.spotify.com/album/7ofF9Iy9KRY1yg5QdbGYp7) | 3:43 | 2021-12-15 | 2022-10-22 |
@@ -265,6 +265,7 @@
 | [Two Worlds Apart](https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 2:58 | 2022-10-19 |  |
 | [Valentine](https://open.spotify.com/track/4JoDBcODOajOx3ZRQlSa7o) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Starry Ache](https://open.spotify.com/album/1yRRZvO7YIPHzSkvX94YOR) | 3:01 | 2021-12-15 | 2022-04-08 |
 | [Verbs](https://open.spotify.com/track/4yurN9uKsooqpAjMhfPfRh) | [Peyton](https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Verbs](https://open.spotify.com/album/47o1uI5KDCQEHdZjUOMBdT) | 3:33 | 2022-03-04 | 2022-12-24 |
+| [Verbs \(feat\. Steve Lacy\)](https://open.spotify.com/track/53cvnLRalWWOb42dcHL0yZ) | [Peyton](https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Verbs \(feat\. Steve Lacy\)](https://open.spotify.com/album/7oh3RIfZdxMGTNgkN6HBNB) | 3:33 | 2022-11-09 |  |
 | [VIBE SAY](https://open.spotify.com/track/6yQUG8HINCCkIWullY9tS1) | [ChessNotCheckers](https://open.spotify.com/artist/35C9Tuf8JXyEJbf4qUmlTV), [Lache](https://open.spotify.com/artist/7FwwPsRUl3AdbnxpcXh4VP), [Bari](https://open.spotify.com/artist/3IrrjuvOPa1KFxq0Kk8pvN) | [VIBE SAY](https://open.spotify.com/album/2B7WRxtWlm9glu6cTTMwG9) | 3:11 | 2021-12-15 | 2022-07-29 |
 | [Waiting For \(feat\. Jamila Woods\)](https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:20 | 2021-12-15 |  |
 | [Wanna Be](https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:27 | 2021-12-15 | 2022-09-17 |

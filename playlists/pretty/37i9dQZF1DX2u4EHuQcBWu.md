@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,870 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,927 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 42 | [Calma Pueblo \(feat\. Omar Rodríguez\)](https://open.spotify.com/track/4eES4FfNECMQCcb4Ao9yhj) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb), [Omar Rodriguez](https://open.spotify.com/artist/1ixVWnnE0qh69epdQxmEhO) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 4:09 |
 | 43 | [Nada Pasó](https://open.spotify.com/track/4GO7nRMoH2XnvXSIUqNMqg) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:39 |
 | 44 | [Para Que Nunca Mas](https://open.spotify.com/track/3hucW9oJIdJkxjaNxAc6wd) | [Sol y Lluvia](https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI) | [Antología del Canto Nuevo Vol\. 2](https://open.spotify.com/album/6ABGUSzgpN1gX8vIW4abGu) | 2:27 |
-| 45 | [Somos Más Americanos](https://open.spotify.com/track/0kBFfb1T2aCkhSJUIo56Mz) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends](https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP) | 4:10 |
-| 46 | [Santiago De Chile](https://open.spotify.com/track/3D4iziSjHi4jxG8r4pta7z) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Música Libre](https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0) | 3:17 |
+| 45 | [Santiago De Chile](https://open.spotify.com/track/3D4iziSjHi4jxG8r4pta7z) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Música Libre](https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0) | 3:17 |
+| 46 | [Somos Más Americanos](https://open.spotify.com/track/0kBFfb1T2aCkhSJUIo56Mz) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends](https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP) | 4:10 |
 | 47 | [Somos Sur](https://open.spotify.com/track/7Ke2pX91o8sYw220ZY0whv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Shadia Mansour](https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:46 |
 | 48 | [Tlatelolco 68](https://open.spotify.com/track/0IpAufJEjttMegWQvxcI2i) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:47 |
 | 49 | [Latinoamérica Es un Pueblo al Sur de Estados Unidos](https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Voz de los '80 \(Edición 30 Años\)](https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa) | 4:02 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 69 | [Los Dinosaurios \- Live](https://open.spotify.com/track/0BWhmRyHvBLMcEJDAos2PD) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 3:40 |
 | 70 | [Antifa Dance](https://open.spotify.com/track/3OfJ6ja2JtoQ7SDwNY4MTO) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Antifa Dance](https://open.spotify.com/album/5Ex8ADFhgsJVFkI5eHeQq1) | 2:35 |
 | 71 | [Cancion Pacifico\-Violenta](https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr) | [Sexual Democracia](https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7) | [Buscando Chilenos Vol\. 1](https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax) | 4:44 |
-| 72 | [El Barzón](https://open.spotify.com/track/7M4mRIorxuEm0lV27cuOii) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Mostros](https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA) | 4:26 |
-| 73 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
+| 72 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
+| 73 | [El Barzón](https://open.spotify.com/track/7M4mRIorxuEm0lV27cuOii) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Mostros](https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA) | 4:26 |
 | 74 | [Canción Sin Miedo](https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz) | 3:33 |
 | 75 | [La Marcha De La Bronca](https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [Yo Vivo en Esta Ciudad](https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i) | 3:47 |
 | 76 | [El Padre Antonio \- Y El Monaguillo Andres](https://open.spotify.com/track/2iyffU4KcLybIIn7MvkiuH) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Buscando America](https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu) | 8:03 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 97 | [Somos Hermanas](https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Somos Hermanas](https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK) | 3:50 |
 | 98 | [Amor Encapuchado 201666](https://open.spotify.com/track/5BCAE0JE2Q4TYyZh4JBuia) | [Anarkia Tropikal](https://open.spotify.com/artist/5faoRgtvabwICan9170dvD) | [Cumbia Punk 201666](https://open.spotify.com/album/3VHubNmckzkBtwZHFSLSPs) | 5:36 |
 | 99 | [Zopilotes](https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [El Objeto Antes Llamado Disco](https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ) | 4:33 |
-| 100 | [Todavia Cantamos](https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [Gieco Y Heredia En Vivo](https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3) | 3:46 |
+| 100 | [Odio](https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:15 |
 
-Snapshot ID: `MTY3MTE1NzY1NCwwMDAwMDAwMDJjMGYwOTkxNzk2ZTA3M2U4N2NmNzczMDAyNGNlMWUw`
+Snapshot ID: `MTY3MTE1NzY1NCwwMDAwMDAwMDU2YzViNGJkYjY3ZjUwNDc3MGUzZTZlMzU2YmZjYmQ4`

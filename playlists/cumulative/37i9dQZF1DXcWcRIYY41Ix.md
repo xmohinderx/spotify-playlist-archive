@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Antía Muíño.
 
-331 songs - 20 hr 22 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
+332 songs - 20 hr 25 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Mareas](https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Mareas](https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj) | 3:49 | 2021-12-24 | 2022-07-29 |
 | [Marinerita](https://open.spotify.com/track/1aROL7MLvyrTy1GJ69oqAh) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon) | [Marinerita](https://open.spotify.com/album/7q3SF6cbqTMpDkPi4wIFAI) | 4:58 | 2022-11-11 | 2022-11-26 |
 | [Matria](https://open.spotify.com/track/0C9erXRAs9mM0ogb5NpAkm) | [Sol Escobar](https://open.spotify.com/artist/7CEXwaARhPygIleaUOC9mJ) | [Matria](https://open.spotify.com/album/4lBEofXRtJjkCIXWl9O3Mt) | 3:59 | 2022-05-13 | 2022-05-24 |
+| [Me Fui](https://open.spotify.com/track/17IpNs6hv6Z6C6K31Phzkn) | [Vicky Gastelo](https://open.spotify.com/artist/6oIeX7RcNGYp83pCtlNPqb), [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO) | [Me Fui](https://open.spotify.com/album/1j7caKPPkCC1VUPChrAjmM) | 3:48 | 2022-12-23 |  |
 | [Me Quedo Aquí \- Bonus Track](https://open.spotify.com/track/6cxVIwPmlGl6LSfo0iGSJv) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Me Quedo Aquí \(Bonus Track\)](https://open.spotify.com/album/491Dqm9bqKjGxkgvYNaXja) | 3:33 | 2022-10-28 | 2022-11-12 |
 | [Me Voy a Valparaíso](https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Me Voy a Valparaíso](https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c) | 4:00 | 2021-12-24 |  |
 | [Mensajes en el Mar](https://open.spotify.com/track/4vgtji8ryyG6poEdMhSvE7) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/3uTW9z4Yhk9XnGwy6C7qiW) | 4:07 | 2021-12-24 | 2022-12-24 |
@@ -301,7 +302,7 @@
 | [Todo Lo Que Está Bien](https://open.spotify.com/track/6B3oesJhA0R2ZxCrDqIhgr) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg) | [La Llorería](https://open.spotify.com/album/0EBPMOrasCffWzNkDwwbPf) | 3:40 | 2022-04-08 | 2022-04-19 |
 | [Todo lo que hemos hecho](https://open.spotify.com/track/2vPLLswygDu5YPmRCxbNik) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Acto I: La \(Re\) Conciliación](https://open.spotify.com/album/1SJF6XS1MgjBugP0sLeX7Y) | 3:54 | 2022-07-01 | 2022-07-23 |
 | [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luisa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 | 2021-12-24 |  |
-| [Todo y Nada](https://open.spotify.com/track/3JC9mTwpw2FMbvSjFaFYx8) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [Todo y Nada](https://open.spotify.com/album/5lHEIjkxkFOc23ZVWn2YrT) | 2:20 | 2022-12-23 |  |
+| [Todo y Nada](https://open.spotify.com/track/3JC9mTwpw2FMbvSjFaFYx8) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [Todo y Nada](https://open.spotify.com/album/5lHEIjkxkFOc23ZVWn2YrT) | 2:20 | 2022-12-23 | 2022-12-29 |
 | [Trataré](https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 4:50 | 2022-04-25 |  |
 | [Trenca'm](https://open.spotify.com/track/4Xs3rkhvdnGD16th3tYS1N) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Joia](https://open.spotify.com/album/51Jxy7KcajXwq86YBjG2NX) | 2:33 | 2021-12-24 | 2022-01-11 |
 | [Tristeza](https://open.spotify.com/track/7AYiZYUZuplwc9krvnYEGK) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tristeza](https://open.spotify.com/album/7uFEru1YVLeBYTcU3OnTHN) | 3:01 | 2021-12-24 | 2022-02-05 |

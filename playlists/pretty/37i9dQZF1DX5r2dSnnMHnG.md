@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 70 | [Where the Wind Rises](https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [A daily adventurer](https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP) | 3:24 |
 | 71 | [I See You](https://open.spotify.com/track/3ykkBOfFlZrIqgxn6aoLya) | [ODD\-CAT](https://open.spotify.com/artist/61jqDpCSDJeuItEQIgBxBe), [Kim Je Hun](https://open.spotify.com/artist/2yBQzC1P5kNQBFqpgHUIg0) | [I See You](https://open.spotify.com/album/4FwZ6ZCeZVo7wQ3abMjvH4) | 3:12 |
 | 72 | [Weird Boy](https://open.spotify.com/track/1S6Kx6dOOWlJecLe1fM3Sm) | [murmoom](https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3) | [Weird Boy](https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s) | 3:37 |
-| 73 | [Walk](https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Walk](https://open.spotify.com/album/4erB8I424GyOFWNcze24Dd) | 3:35 |
-| 74 | [Spring](https://open.spotify.com/track/11HmVuJmBU6BXZ1z6hxpYa) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/6iW62TOeAyJE5vIbPyJRyI) | 2:53 |
+| 73 | [Spring](https://open.spotify.com/track/11HmVuJmBU6BXZ1z6hxpYa) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/6iW62TOeAyJE5vIbPyJRyI) | 2:53 |
+| 74 | [Walk](https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Walk](https://open.spotify.com/album/4erB8I424GyOFWNcze24Dd) | 3:35 |
 | 75 | [If I \(with Yun DDanDDan\)](https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [If I \(with Yun DDanDDan\)](https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y) | 3:49 |
 
-Snapshot ID: `MTY3MTQzNzE5NSwwMDAwMDAwMGVlNGMyNWIwMTcwOTA3YzYzOTVhYzJlYjNmMmJmOTU3`
+Snapshot ID: `MTY3MTQzNzE5NSwwMDAwMDAwMGE1MTc0MmU0NDM5MzAwNDliYTQwYmU4NmM1NGVmZjYx`

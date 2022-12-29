@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,862 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,971 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [綺羅キラー](https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [綺羅キラー](https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O) | 4:13 |
-| 2 | [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 |
+| 2 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 |
 | 3 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 |
 | 4 | [Aoku Aoku Hikaru feat\. ACANE, nulut](https://open.spotify.com/track/0UGnaxImsUffoaSkND3ueq) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [ACANE](https://open.spotify.com/artist/57G0EZUE9b480atssSdR9D), [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [ULTRAPANIC](https://open.spotify.com/album/6AZiQVTRwnR9UQmUfmMIJz) | 3:47 |
 | 5 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 |
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 29 | [化け猫 \- Leaks From His Laptop](https://open.spotify.com/track/3Wnba0vkxR4nmXbaRF9foE) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫 \(Leaks From His Laptop\)](https://open.spotify.com/album/5g9QalFqw7go87CtbuBbdK) | 0:56 |
 | 30 | [Honjitsu no Shotai](https://open.spotify.com/track/01ZBfQ4OjFODqWfvkgKn7y) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Honjitsu no Shotai](https://open.spotify.com/album/1dXMQs6RfDHv6lgAPA1yxq) | 3:25 |
 | 31 | [ヨワネハキ](https://open.spotify.com/track/0FOVGBW0RpVRuDuUuN4ZVw) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ヨワネハキ](https://open.spotify.com/album/5cVWpOwex504JeWwqE3Q7y) | 2:46 |
-| 32 | [踊](https://open.spotify.com/track/7z6qHGEKxRtwtYym2epV7l) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [踊](https://open.spotify.com/album/6jfXGkieuNnsFxi5pS3vJ2) | 3:28 |
-| 33 | [夜撫でるメノウ](https://open.spotify.com/track/6IHWPY5iBUI1AOUclbtE6F) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [夜撫でるメノウ / 幽霊東京](https://open.spotify.com/album/2eGDVgL9Vbz6Pehc9Kz7hS) | 4:22 |
+| 32 | [夜撫でるメノウ](https://open.spotify.com/track/6IHWPY5iBUI1AOUclbtE6F) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [夜撫でるメノウ / 幽霊東京](https://open.spotify.com/album/2eGDVgL9Vbz6Pehc9Kz7hS) | 4:22 |
+| 33 | [踊](https://open.spotify.com/track/7z6qHGEKxRtwtYym2epV7l) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [踊](https://open.spotify.com/album/6jfXGkieuNnsFxi5pS3vJ2) | 3:28 |
 | 34 | [真っ裸](https://open.spotify.com/track/4nO8lzlZENrOGOg9ufssD2) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [真っ裸](https://open.spotify.com/album/1KItK7DdrB5hBy98K5GuSZ) | 3:13 |
 | 35 | [ミスター](https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ミスター](https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt) | 3:07 |
 | 36 | [空洞サイボーグ](https://open.spotify.com/track/1AItWfHcNkmXpvTgxt33xp) | [神谷志龍](https://open.spotify.com/artist/6r2FGDlvtbwwRAnxLhzoaX) | [空洞サイボーグ](https://open.spotify.com/album/4CshPlm8d2bqFetd98dfSQ) | 3:13 |
-| 37 | [虚ろを扇ぐ](https://open.spotify.com/track/1xfPXJeJX2NOsdJGtbgJKH) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [虚ろを扇ぐ](https://open.spotify.com/album/2iWOVRsUdZk3nzwYgY22xw) | 3:27 |
+| 37 | [Hollow](https://open.spotify.com/track/4GfyY2ClRNnkI2PGsEFKFY) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [Hollow](https://open.spotify.com/album/1O0CAfNoYe79Xns7QEjajv) | 3:27 |
 | 38 | [バックライト](https://open.spotify.com/track/5A8W9xqsTQmbIM9h567QDF) | [SUIREN](https://open.spotify.com/artist/2nA3bgiJHNZkuv7O0HA3DK) | [バックライト](https://open.spotify.com/album/7qAXEyZd9MGPM2Ho2Foto3) | 3:48 |
 | 39 | [左右盲](https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [左右盲](https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443) | 4:27 |
 | 40 | [Rain, Rain Go Away!](https://open.spotify.com/track/6hKiBHq1LdeGrUkmarAXX4) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Rain, Rain Go Away!](https://open.spotify.com/album/7jtiQrVrHeXNE2n6qzBeXg) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [なにやってもうまくいかない](https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [なにやってもうまくいかない](https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv) | 2:26 |
 | 50 | [infinite](https://open.spotify.com/track/4ydXZZ1E7YybDo7rP64Gp3) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [空音](https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU), [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [infinite](https://open.spotify.com/album/7mu30DLJheyS31WvgkxyMJ) | 2:36 |
 
-Snapshot ID: `MTY3MjE1MzIwMCwwMDAwMDAwMDhjZTYzNTBjM2ZiMmIzM2Q3M2Q4MmY3NjYzYzdmZDI1`
+Snapshot ID: `MTY3MjE1MzIwMCwwMDAwMDAwMDY0ZDQyYzk1OGVkODBlNTUzNzY5ZDdmODgzN2Y5MTQw`

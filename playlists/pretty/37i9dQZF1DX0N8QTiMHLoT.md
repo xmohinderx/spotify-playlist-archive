@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > Because bass\. Cover: Victor Wooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,493 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,572 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 11 | [U Can't Hold No Groove \(If You Ain't Got No Pocket\)](https://open.spotify.com/track/2Yrvgx1OgSlTlEcaR8izUh) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [A Show of Hands 15](https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2) | 3:59 |
 | 12 | [Just Play](https://open.spotify.com/track/4rYhksNrzm7mjsP0IqAvAw) | [Doug Johns](https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk) | [Doug's Party Mix](https://open.spotify.com/album/525qzct3ZHrfnWMsGyJmT3) | 1:29 |
 | 13 | [Let's Play Some Funky Groove](https://open.spotify.com/track/1TPRQvysDFeNWTd65KPnxS) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk) | [Feelings](https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO) | 2:51 |
-| 14 | [Elephants On Ice Skates](https://open.spotify.com/track/0K6pSQ1hwpkIi73on3rqJ6) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [It Is What It Is](https://open.spotify.com/album/2kN0INHqkk9rUUVgYJpbat) | 6:41 |
+| 14 | [A Dark Light](https://open.spotify.com/track/770BeHuLlFqz5Tdm4tSmib) | [Aram Bedrosian](https://open.spotify.com/artist/1QX9Z8FnNxYuUk4bAur1Ut) | [A Dark Light](https://open.spotify.com/album/4Awbl4MQAZnfdfKf98lpbn) | 2:39 |
 | 15 | [Sex in a Pan](https://open.spotify.com/track/5HIpvnJea0u6rsdrfWCv3w) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [UFO Tofu](https://open.spotify.com/album/5ORewDyq7lUTyzoDali0SO) | 3:34 |
-| 16 | [A Dark Light](https://open.spotify.com/track/770BeHuLlFqz5Tdm4tSmib) | [Aram Bedrosian](https://open.spotify.com/artist/1QX9Z8FnNxYuUk4bAur1Ut) | [A Dark Light](https://open.spotify.com/album/4Awbl4MQAZnfdfKf98lpbn) | 2:39 |
+| 16 | [Elephants On Ice Skates](https://open.spotify.com/track/0K6pSQ1hwpkIi73on3rqJ6) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [It Is What It Is](https://open.spotify.com/album/2kN0INHqkk9rUUVgYJpbat) | 6:41 |
 | 17 | [Actualize](https://open.spotify.com/track/1NENL1nGSuAnJhZz8xZd6N) | [Evan Brewer](https://open.spotify.com/artist/5tYE3ViKxF5APISuBhET9y) | [Alone](https://open.spotify.com/album/3n97LxQTiIk9QBZWdzZggl) | 4:19 |
 | 18 | [BC](https://open.spotify.com/track/5z9YuyOeX4RPKk0dIAJWle) | [Tal Wilkenfeld](https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu) | [Transformation](https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS) | 6:21 |
 | 19 | [Beyond The Rift](https://open.spotify.com/track/64o9hhM3zNTVQpEnav9sib) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Fable](https://open.spotify.com/album/4PqhzQqYinxZBm6ZXB6pQk) | 2:18 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 38 | [Porky & Beans](https://open.spotify.com/track/6LcZLOWOzQGFQzRDtqefSq) | [Jeff Berlin](https://open.spotify.com/artist/4S6LWQMlfbLPNrXLY7RxI1) | [Aneurythms](https://open.spotify.com/album/6u8f8EVidJ6TJ3lRIZ4dMR) | 6:24 |
 | 39 | [Right After 4](https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Multiple Faces](https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB) | 6:53 |
 | 40 | [Power](https://open.spotify.com/track/2wd1sOeNdzBeRGsL6mPogQ) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [M2](https://open.spotify.com/album/1xyfptnTlG1u1fzVxYJm6d) | 4:35 |
-| 41 | [Off The Cuff](https://open.spotify.com/track/6aGE12dPzbEVEL47yb3F5d) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Notes With Attachments](https://open.spotify.com/album/5fsq4qeIWboRRPG7mGGfxr) | 2:34 |
-| 42 | [Don't Look Back Again](https://open.spotify.com/track/66MsmmOc0dIhqYuhVobax7) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Epiphany](https://open.spotify.com/album/5uGgz6J40Kwm77V8Lyl827) | 3:12 |
+| 41 | [Don't Look Back Again](https://open.spotify.com/track/66MsmmOc0dIhqYuhVobax7) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Epiphany](https://open.spotify.com/album/5uGgz6J40Kwm77V8Lyl827) | 3:12 |
+| 42 | [Off The Cuff](https://open.spotify.com/track/6aGE12dPzbEVEL47yb3F5d) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Notes With Attachments](https://open.spotify.com/album/5fsq4qeIWboRRPG7mGGfxr) | 2:34 |
 | 43 | [Aeon](https://open.spotify.com/track/7437o7VmWq62ibaGLLu4bb) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H) | [We Are All You \(Extended Edition\)](https://open.spotify.com/album/71E0HQ4rIZfwmA07vxqVUr) | 2:26 |
 | 44 | [P.A.C\. Man](https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Play](https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3) | 4:21 |
 | 45 | [Letter for Paul \(feat\. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato\)](https://open.spotify.com/track/3stEH9HPia2bpfoZ6LhOaR) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Jon Cowherd](https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo), [Rogerio Boccato](https://open.spotify.com/artist/4o7gEQWwzhUvcepiz3klAe) | [Letter for Paul \(feat\. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato\)](https://open.spotify.com/album/4oz7MSG5MJrIlxDLW7fF75) | 5:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 49 | [Trust and Faith](https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Trust and Faith](https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq) | 4:18 |
 | 50 | [F.U.NKWHY](https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 3:43 |
 
-Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMGE5NWEzNmE0NTJjYWQ1YjU0NjhiYmQxNjMzY2ViOTA5`
+Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMGRjYTkyMDA2OTJkMDZiMWI5MmYwOTc1MDVmOTYwYjk1`

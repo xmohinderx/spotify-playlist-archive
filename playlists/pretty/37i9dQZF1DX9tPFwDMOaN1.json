@@ -1,29 +1,13 @@
 {
   "description": "Let's turn ON the movement! Cover: NewJeans",
-  "num_followers": 4509413,
+  "num_followers": 4513350,
   "original_name": "K-Pop ON! (\uc628)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYxNDE5OCwwMDAwMDAwMGQ0NDUzMDE5NDZmNWQ5NDgzOGJmMzA2YjQ1ZmVhZTNk",
+  "snapshot_id": "MTY3MjIwMzM5OCwwMDAwMDAwMDcxOTFkYmM1ZTZmOTFkYTAwMWM5NDM0MjQyZDViOTMx",
   "tracks": [
-    {
-      "added_at": "2022-12-21 09:00:00",
-      "album": {
-        "name": "SKZ-REPLAY",
-        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 213071,
-      "name": "FAM (Korean Ver.)",
-      "url": "https://open.spotify.com/track/11BLMmPoTgKEi4XBDxdpYN"
-    },
     {
       "added_at": "2022-12-19 09:00:00",
       "album": {
@@ -59,34 +43,66 @@
     {
       "added_at": "2022-12-19 09:00:00",
       "album": {
-        "name": "CHASE - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
       },
       "artists": [
         {
-          "name": "MINHO",
-          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 206053,
-      "name": "Chase",
-      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
+      "duration_ms": 184444,
+      "name": "ANTIFRAGILE",
+      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
     },
     {
       "added_at": "2022-12-19 09:00:00",
       "album": {
-        "name": "CHESHIRE",
-        "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
+        "name": "Lowlife Princess: Noir",
+        "url": "https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0"
       },
       "artists": [
         {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 182453,
-      "name": "Cheshire",
-      "url": "https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha"
+      "duration_ms": 165135,
+      "name": "BIBI Vengeance",
+      "url": "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ"
+    },
+    {
+      "added_at": "2022-12-21 09:00:00",
+      "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 213071,
+      "name": "FAM (Korean Ver.)",
+      "url": "https://open.spotify.com/track/11BLMmPoTgKEi4XBDxdpYN"
+    },
+    {
+      "added_at": "2022-12-28 04:56:38",
+      "album": {
+        "name": "Black Eye",
+        "url": "https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9"
+      },
+      "artists": [
+        {
+          "name": "VERNON",
+          "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "Black Eye",
+      "url": "https://open.spotify.com/track/0aW2wxU16UTuwohjldJ5v0"
     },
     {
       "added_at": "2022-12-19 09:00:00",
@@ -103,6 +119,22 @@
       "duration_ms": 178453,
       "name": "Nxde",
       "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
+    },
+    {
+      "added_at": "2022-12-19 09:00:00",
+      "album": {
+        "name": "CHESHIRE",
+        "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Cheshire",
+      "url": "https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha"
     },
     {
       "added_at": "2022-12-19 09:00:00",
@@ -125,20 +157,52 @@
       "url": "https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF"
     },
     {
-      "added_at": "2022-12-19 09:00:00",
+      "added_at": "2022-12-28 04:56:38",
       "album": {
-        "name": "ANTIFRAGILE",
-        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+        "name": "HARMONY : SET IN",
+        "url": "https://open.spotify.com/album/1JDHisMjuJ1QkhcXiiLnnX"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
         }
       ],
-      "duration_ms": 184444,
-      "name": "ANTIFRAGILE",
-      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+      "duration_ms": 168053,
+      "name": "Back Down",
+      "url": "https://open.spotify.com/track/7EP9G7AIKrywWGdYsYZzGv"
+    },
+    {
+      "added_at": "2022-12-19 09:00:00",
+      "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+    },
+    {
+      "added_at": "2022-12-19 09:00:00",
+      "album": {
+        "name": "CHASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Chase",
+      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
     },
     {
       "added_at": "2022-12-19 09:00:00",
@@ -171,22 +235,6 @@
       "duration_ms": 216440,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv"
-    },
-    {
-      "added_at": "2022-12-19 09:00:00",
-      "album": {
-        "name": "Lowlife Princess: Noir",
-        "url": "https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 165135,
-      "name": "BIBI Vengeance",
-      "url": "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ"
     },
     {
       "added_at": "2022-12-19 09:00:00",
@@ -275,22 +323,6 @@
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
-    },
-    {
-      "added_at": "2022-12-19 09:00:00",
-      "album": {
-        "name": "After LIKE",
-        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "After LIKE",
-      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
     },
     {
       "added_at": "2022-12-19 09:00:00",
@@ -627,22 +659,6 @@
     {
       "added_at": "2022-12-19 09:00:00",
       "album": {
-        "name": "MALUS",
-        "url": "https://open.spotify.com/album/5VlLXq5wH22O8D5hBYWqAp"
-      },
-      "artists": [
-        {
-          "name": "ONEUS",
-          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Same Scent",
-      "url": "https://open.spotify.com/track/0eG3b2T3SXtPAhD9LLm8xA"
-    },
-    {
-      "added_at": "2022-12-19 09:00:00",
-      "album": {
         "name": "LOVE DIVE",
         "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 219549,
       "name": "BTBT",
       "url": "https://open.spotify.com/track/4XcxgZSriCYamtIA7BgT7V"
-    },
-    {
-      "added_at": "2022-12-19 09:00:00",
-      "album": {
-        "name": "Street Man Fighter Original Vol.4 (Crew Songs)",
-        "url": "https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 144773,
-      "name": "HEYDAY (Prod. Czaer)",
-      "url": "https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu"
     },
     {
       "added_at": "2022-12-19 09:00:00",

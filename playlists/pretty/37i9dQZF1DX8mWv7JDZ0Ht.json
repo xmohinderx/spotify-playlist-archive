@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Mariah Nala",
-  "num_followers": 414740,
+  "num_followers": 414797,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NjU5NywwMDAwMDAwMGFjNjgwMjQ0ZTM4ZTI0N2M5ODAxMDViMjRlNjdjNjll",
+  "snapshot_id": "MTY3MTc2NjU5NywwMDAwMDAwMGJiZWNkMmEzNTUyZjJmNDYwNDM4NjFhNDQ1NDMxYzdi",
   "tracks": [
     {
       "added_at": "2022-12-23 03:36:37",
@@ -87,6 +87,22 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
+        "name": "Quintal",
+        "url": "https://open.spotify.com/album/3XCQxArZadK3ZLgkVAvQN0"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 175255,
+      "name": "Quintal",
+      "url": "https://open.spotify.com/track/0d077bftCm5u4Q5PtcSZvs"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
         "name": "CAIXA POSTAL",
         "url": "https://open.spotify.com/album/3DXoL1hqiTstYZgFBtCo9c"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 185372,
       "name": "CAIXA POSTAL",
       "url": "https://open.spotify.com/track/6lJ1FbMTeRrmee0eqE7XPl"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
-        "name": "Quintal",
-        "url": "https://open.spotify.com/album/3XCQxArZadK3ZLgkVAvQN0"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 175255,
-      "name": "Quintal",
-      "url": "https://open.spotify.com/track/0d077bftCm5u4Q5PtcSZvs"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "Ningu\u00e9m Precisa Saber",
-        "url": "https://open.spotify.com/album/5DrTY2K8ZmcZ1rvoRN7hb0"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 151254,
-      "name": "Ningu\u00e9m Precisa Saber",
-      "url": "https://open.spotify.com/track/6uRvEfwHu4c1XMuOz0e1hx"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
         "name": "Cabelo Bagun\u00e7ado",
         "url": "https://open.spotify.com/album/6MCVay89JujxBCqEBy2vn0"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 231000,
       "name": "Cabelo Bagun\u00e7ado",
       "url": "https://open.spotify.com/track/5HnS5kHBcUEleSVO0IooQD"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
+        "name": "Ningu\u00e9m Precisa Saber",
+        "url": "https://open.spotify.com/album/5DrTY2K8ZmcZ1rvoRN7hb0"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 151254,
+      "name": "Ningu\u00e9m Precisa Saber",
+      "url": "https://open.spotify.com/track/6uRvEfwHu4c1XMuOz0e1hx"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -731,18 +731,22 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "JOVEM pt. 1",
-        "url": "https://open.spotify.com/album/3qF6YJ0LHtfPNcj5uJXCtN"
+        "name": "Horizonte",
+        "url": "https://open.spotify.com/album/2yfBvpXbJ15VXJSKU6YTJH"
       },
       "artists": [
         {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+        },
+        {
+          "name": "Mazili",
+          "url": "https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4"
         }
       ],
-      "duration_ms": 200557,
-      "name": "JOVEM",
-      "url": "https://open.spotify.com/track/1XYzIZaqCBBEv3ogPrXYxH"
+      "duration_ms": 194315,
+      "name": "Horizonte",
+      "url": "https://open.spotify.com/track/2BxoVrrBkNMSHDv3IMJSw6"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -795,18 +799,18 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "Depois de Te Encontrar",
-        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
+        "name": "JOVEM pt. 1",
+        "url": "https://open.spotify.com/album/3qF6YJ0LHtfPNcj5uJXCtN"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
         }
       ],
-      "duration_ms": 193804,
-      "name": "Depois de Te Encontrar",
-      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
+      "duration_ms": 200557,
+      "name": "JOVEM",
+      "url": "https://open.spotify.com/track/1XYzIZaqCBBEv3ogPrXYxH"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -839,22 +843,18 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "Horizonte",
-        "url": "https://open.spotify.com/album/2yfBvpXbJ15VXJSKU6YTJH"
+        "name": "Depois de Te Encontrar",
+        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
       },
       "artists": [
         {
-          "name": "Luiz Lins",
-          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
-        },
-        {
-          "name": "Mazili",
-          "url": "https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 194315,
-      "name": "Horizonte",
-      "url": "https://open.spotify.com/track/2BxoVrrBkNMSHDv3IMJSw6"
+      "duration_ms": 193804,
+      "name": "Depois de Te Encontrar",
+      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -891,18 +891,22 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "Sorria que Volta",
-        "url": "https://open.spotify.com/album/2V4qg7sNcMllTmLOFpzf7o"
+        "name": "Rara",
+        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Santino",
+          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
         }
       ],
-      "duration_ms": 141573,
-      "name": "Sorria que Volta",
-      "url": "https://open.spotify.com/track/1PtvbTuhHBw8Mfi9XIIIuC"
+      "duration_ms": 197883,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -927,22 +931,18 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "Rara",
-        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
+        "name": "Sorria que Volta",
+        "url": "https://open.spotify.com/album/2V4qg7sNcMllTmLOFpzf7o"
       },
       "artists": [
         {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Santino",
-          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
         }
       ],
-      "duration_ms": 197883,
-      "name": "Rara",
-      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
+      "duration_ms": 141573,
+      "name": "Sorria que Volta",
+      "url": "https://open.spotify.com/track/1PtvbTuhHBw8Mfi9XIIIuC"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "Sem Filtro",
-        "url": "https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1"
-      },
-      "artists": [
-        {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
-        }
-      ],
-      "duration_ms": 229032,
-      "name": "Sem Filtro",
-      "url": "https://open.spotify.com/track/1UEUzTALPqCT2oDJ3LoQfC"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
         "name": "Embriagado de Saudade",
         "url": "https://open.spotify.com/album/2MgoX7Y7rP0JCb6Q3K5SUX"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 155250,
       "name": "Embriagado de Saudade",
       "url": "https://open.spotify.com/track/5efZJvbyTISLTujhMm3rcR"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
+        "name": "Sem Filtro",
+        "url": "https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1"
+      },
+      "artists": [
+        {
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+        }
+      ],
+      "duration_ms": 229032,
+      "name": "Sem Filtro",
+      "url": "https://open.spotify.com/track/1UEUzTALPqCT2oDJ3LoQfC"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -1171,26 +1171,6 @@
       "duration_ms": 157573,
       "name": "Doideira",
       "url": "https://open.spotify.com/track/4aodXHEeYiQHyLBc0ElCX3"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
-        "name": "Melhor Falar Agora",
-        "url": "https://open.spotify.com/album/4lzWUsgzXAA2NhmkX3XUIp"
-      },
-      "artists": [
-        {
-          "name": "Carol Passos",
-          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
-        },
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "Melhor Falar Agora",
-      "url": "https://open.spotify.com/track/5Ppya3s6VURsZ4oLwiOj1q"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -1231,6 +1211,26 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
+        "name": "Boa Sorte / nada contra (ci\u00fame) / Bixinho",
+        "url": "https://open.spotify.com/album/75YOSbvTjjulviH8yLHgXH"
+      },
+      "artists": [
+        {
+          "name": "Nossa Toca",
+          "url": "https://open.spotify.com/artist/5o00VSNNjsdSmZ0YJwUSxi"
+        },
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 232416,
+      "name": "Boa Sorte / nada contra (ci\u00fame) / Bixinho",
+      "url": "https://open.spotify.com/track/31rZKzqElU5sb51on0nZwy"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
         "name": "Miudinho",
         "url": "https://open.spotify.com/album/0iFchnrlmmxgKASQzNz5Ba"
       },
@@ -1247,18 +1247,22 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "Mais Uma Hist\u00f3ria de Amor",
-        "url": "https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ"
+        "name": "Melhor Falar Agora",
+        "url": "https://open.spotify.com/album/4lzWUsgzXAA2NhmkX3XUIp"
       },
       "artists": [
         {
-          "name": "Sophia Stedile",
-          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        },
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
         }
       ],
-      "duration_ms": 143500,
-      "name": "N\u00e3o Sou Boa Com Palavras",
-      "url": "https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF"
+      "duration_ms": 115500,
+      "name": "Melhor Falar Agora",
+      "url": "https://open.spotify.com/track/5Ppya3s6VURsZ4oLwiOj1q"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -1295,6 +1299,22 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
+        "name": "Mais Uma Hist\u00f3ria de Amor",
+        "url": "https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stedile",
+          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "N\u00e3o Sou Boa Com Palavras",
+      "url": "https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
         "name": "Aquino e a Orquestra Invis\u00edvel",
         "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 173880,
       "name": "MTV",
       "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
-        "name": "Boa Sorte / nada contra (ci\u00fame) / Bixinho",
-        "url": "https://open.spotify.com/album/75YOSbvTjjulviH8yLHgXH"
-      },
-      "artists": [
-        {
-          "name": "Nossa Toca",
-          "url": "https://open.spotify.com/artist/5o00VSNNjsdSmZ0YJwUSxi"
-        },
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 232416,
-      "name": "Boa Sorte / nada contra (ci\u00fame) / Bixinho",
-      "url": "https://open.spotify.com/track/31rZKzqElU5sb51on0nZwy"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
+        "name": "Flores Que Eu Nunca Dei",
+        "url": "https://open.spotify.com/album/1mM2in7kTBpSLurd8HIjvD"
+      },
+      "artists": [
+        {
+          "name": "dreko",
+          "url": "https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy"
+        },
+        {
+          "name": "Kyu",
+          "url": "https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "Flores Que Eu Nunca Dei",
+      "url": "https://open.spotify.com/track/1tSRitSlttJ9PGtUz40ZSQ"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
         "name": "Passa",
         "url": "https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq"
       },
@@ -1387,22 +1407,6 @@
       "duration_ms": 176804,
       "name": "Passa",
       "url": "https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
-        "name": "Desajeito",
-        "url": "https://open.spotify.com/album/5Q6Owiw3e0533g0fmhZIBm"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Eu Gosto de Voc\u00ea",
-      "url": "https://open.spotify.com/track/6YSRQs68P9ojKJm8YZuw2e"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -1423,6 +1427,22 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
+        "name": "Desajeito",
+        "url": "https://open.spotify.com/album/5Q6Owiw3e0533g0fmhZIBm"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Eu Gosto de Voc\u00ea",
+      "url": "https://open.spotify.com/track/6YSRQs68P9ojKJm8YZuw2e"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
         "name": "Marshmallow Flor De Sal (Deluxe)",
         "url": "https://open.spotify.com/album/5GvOW673J6ctNmV7a23nNm"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 241920,
       "name": "Tons De Blue - Faixa B\u00f4nus",
       "url": "https://open.spotify.com/track/0ZYkFogckBfd6142gFg3pV"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
-        "name": "Clara x Sofia x Moons",
-        "url": "https://open.spotify.com/album/6oEQCEimNosm8bq8Wq6eed"
-      },
-      "artists": [
-        {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
-        },
-        {
-          "name": "Moons",
-          "url": "https://open.spotify.com/artist/5KokGIQH9RETtCjw72hAt0"
-        }
-      ],
-      "duration_ms": 304341,
-      "name": "fala (t\u00f4 te querendo)",
-      "url": "https://open.spotify.com/track/4PudtxTK0PUuH8FgaRdAW2"
     }
   ],
   "unique_name": "Pop Leve",

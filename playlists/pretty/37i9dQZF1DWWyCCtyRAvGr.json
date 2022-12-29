@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 132841,
+  "num_followers": 132976,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczNDA4NSwwMDAwMDAwMDM1YWRmNjk0MTBkNTJlZTY0N2M1ZTFlZDg2MmJmNTM0",
+  "snapshot_id": "MTY3MTczNDA4NSwwMDAwMDAwMDYxNTllMGFjNjA3YzJlZGJiZjNjNjQxNDAxZWEzMjkw",
   "tracks": [
     {
       "added_at": "2022-11-18 10:48:39",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
         "name": "The Blues Don't Lie",
         "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 222000,
       "name": "Follow The Money (feat. James Taylor)",
       "url": "https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 295466,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+        "name": "The Chess Story 1957-1964",
+        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
       },
       "artists": [
         {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+          "name": "Betty James",
+          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
         }
       ],
-      "duration_ms": 341173,
-      "name": "Gambler's Blues",
-      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
+      "duration_ms": 171266,
+      "name": "I'm A Little Mixed Up",
+      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -835,18 +835,18 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "The Chess Story 1957-1964",
-        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
       "artists": [
         {
-          "name": "Betty James",
-          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
         }
       ],
-      "duration_ms": 171266,
-      "name": "I'm A Little Mixed Up",
-      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
+      "duration_ms": 341173,
+      "name": "Gambler's Blues",
+      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "Man Of My Word",
-        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
-      },
-      "artists": [
-        {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
-        }
-      ],
-      "duration_ms": 280360,
-      "name": "This Time I'm Gone For Good",
-      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 319466,
       "name": "I Put My Trust In You",
       "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
+        "name": "Man Of My Word",
+        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "duration_ms": 280360,
+      "name": "This Time I'm Gone For Good",
+      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "His Best 1947 To 1956 - The Chess 50th Anniversary Collection (Reissue)",
-        "url": "https://open.spotify.com/album/6kAxjSLxwWTwCfZHCouR7f"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 170133,
-      "name": "(I'm Your) Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/76yNIsr8JtT0ubC3HjxKgS"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
         "name": "Born Under A Bad Sign (Mono)",
         "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 188697,
       "name": "Laundromat Blues - Mono Mix",
       "url": "https://open.spotify.com/track/272P3DN547Z4CNFNdLV4SD"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
+        "name": "His Best 1947 To 1956 - The Chess 50th Anniversary Collection (Reissue)",
+        "url": "https://open.spotify.com/album/6kAxjSLxwWTwCfZHCouR7f"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 170133,
+      "name": "(I'm Your) Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/76yNIsr8JtT0ubC3HjxKgS"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
+        "name": "Lee's Blues",
+        "url": "https://open.spotify.com/album/1nGxSeKWJlbUgOERip9lIA"
+      },
+      "artists": [
+        {
+          "name": "Oliver Darling",
+          "url": "https://open.spotify.com/artist/5wU74VdLtnvreTbydFZg6f"
+        }
+      ],
+      "duration_ms": 106282,
+      "name": "Honey Bee",
+      "url": "https://open.spotify.com/track/0dYOgkn38HzlbfPixiobYA"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
         "name": "May Be the Last Time",
         "url": "https://open.spotify.com/album/7fGQsHSygCD5xVwM0IVQhK"
       },
@@ -1679,38 +1695,18 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "Porch Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
+        "name": "Hoodoo Lady (1933-1937)",
+        "url": "https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn"
       },
       "artists": [
         {
-          "name": "Tony Holiday",
-          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
-        },
-        {
-          "name": "Ben Rice",
-          "url": "https://open.spotify.com/artist/4X0fLF6Ez0hMrc9EPmF7ex"
+          "name": "Memphis Minnie",
+          "url": "https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC"
         }
       ],
-      "duration_ms": 356426,
-      "name": "That's How I Learned (feat. Ben Rice)",
-      "url": "https://open.spotify.com/track/0KeJ7vkPFLGLNOBjms9HYO"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
-        "name": "Lee's Blues",
-        "url": "https://open.spotify.com/album/1nGxSeKWJlbUgOERip9lIA"
-      },
-      "artists": [
-        {
-          "name": "Oliver Darling",
-          "url": "https://open.spotify.com/artist/5wU74VdLtnvreTbydFZg6f"
-        }
-      ],
-      "duration_ms": 106282,
-      "name": "Honey Bee",
-      "url": "https://open.spotify.com/track/0dYOgkn38HzlbfPixiobYA"
+      "duration_ms": 157640,
+      "name": "Keep On Eatin'",
+      "url": "https://open.spotify.com/track/6CAYAC2lehhq20LE95nrVg"
     }
   ],
   "unique_name": "Blues on the Rocks",

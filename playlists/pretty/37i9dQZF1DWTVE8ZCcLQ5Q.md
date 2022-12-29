@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,386 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,366 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 44 | [Capa de Revista](https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Capa de Revista](https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5) | 2:54 |
 | 45 | [Jogo Sujo](https://open.spotify.com/track/4dr0AjgSS9kfTD9U8bfOnF) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 3:25 |
 | 46 | [GEMINI](https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [GEMINI](https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2) | 3:20 |
-| 47 | [bonita e miserável](https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [bonita e miserável](https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK) | 2:51 |
-| 48 | [Beira Mar](https://open.spotify.com/track/3D4H9CEYCjP7KuHQ8JZVtv) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM) | [Todo Mundo Ama O Sol](https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3) | 2:42 |
+| 47 | [Beira Mar](https://open.spotify.com/track/3D4H9CEYCjP7KuHQ8JZVtv) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM) | [Todo Mundo Ama O Sol](https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3) | 2:42 |
+| 48 | [bonita e miserável](https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [bonita e miserável](https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK) | 2:51 |
 | 49 | [Festa do Pijama](https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:19 |
 | 50 | [Vendaval \- Ao Vivo](https://open.spotify.com/track/2fkVehr2ZC9tEI2EpeOIOT) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Vendaval \(Ao Vivo\)](https://open.spotify.com/album/0CdhqJwe0aAWf0Oz7SYSiF) | 3:53 |
 | 51 | [Que Amigo É Esse \(Ao Vivo\)](https://open.spotify.com/track/6Ur3usqEbguXdqoc1WjA3K) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Sextou BB 4 Completo \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/7fj0Le4QkGQQkGdoZZtsGw) | 2:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 59 | [Me liga](https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Erick Di](https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS) | [Me liga](https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7) | 2:30 |
 | 60 | [Mais Uma Canção Pra Você](https://open.spotify.com/track/5x9hKw3w0M2FuZ5yFKlaPy) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Mais Uma Canção Pra Você](https://open.spotify.com/album/6k8qjqkqQDs8BYhkrab866) | 4:48 |
 
-Snapshot ID: `MTY2NTc3OTMxNywwMDAwMDAwMGVhOGZhZmNiMDMxMDNlNjkxNDE4MDJhM2VmNDA2MTg0`
+Snapshot ID: `MTY2NTc3OTMxNywwMDAwMDAwMDliNTY5ZWJiNjE2YTEwN2M1MTJhZWYyZDlkOGRkMjNl`

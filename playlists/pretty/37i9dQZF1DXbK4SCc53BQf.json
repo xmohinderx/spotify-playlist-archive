@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 77936,
+  "num_followers": 77974,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMGFlZGUzNmU2OWU1MjY1ZWRmZWI1YWY5ZjcwNGRlYTI3",
+  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDU0ZTZiY2MyMzA0NDkxYzJmYjIyYjljZDQ5OGMwZWNi",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -487,22 +487,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Fiel",
-        "url": "https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 278891,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "30 Bachatas Cristianas Pegaditas",
         "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 268613,
       "name": "Sinceridad",
       "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Fiel",
+        "url": "https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 278891,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX"
     },
     {
       "added_at": "2020-11-24 13:23:55",

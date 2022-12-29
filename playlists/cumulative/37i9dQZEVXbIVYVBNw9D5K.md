@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-575 songs - 1 day 5 hr 13 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+576 songs - 1 day 5 hr 17 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2021-11-11 |  |
 | [ANTEN FREESTYLE \(PLA4 INTRO\)](https://open.spotify.com/track/6BEMX2p0T54cQlI8k33drI) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [ANTEN FREESTYLE \(PLA4 INTRO\)](https://open.spotify.com/album/5Mf7XUKnYNRfNe7Yhzufuu) | 2:28 | 2021-08-15 | 2021-08-17 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2022-10-24 |
-| [Antidepresan](https://open.spotify.com/track/4OH5Cd8ZOI1eSgJSC9PYmU) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Antidepresan](https://open.spotify.com/album/7qeEafcjWKfuhE2HgXciUL) | 4:00 | 2022-11-05 |  |
+| [Antidepresan](https://open.spotify.com/track/4OH5Cd8ZOI1eSgJSC9PYmU) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Antidepresan](https://open.spotify.com/album/7qeEafcjWKfuhE2HgXciUL) | 4:00 | 2022-11-05 | 2022-12-29 |
+| [Antidepresan](https://open.spotify.com/track/4gGb55HsyG7oWP8Hhsfkpo) | [Okan xd](https://open.spotify.com/artist/7GNiGP8i4T32fJkr7aOv9a) | [Antidepresan](https://open.spotify.com/album/2RK6sGQr0LCUr37bGG2PDy) | 4:00 | 2022-12-28 |  |
 | [ANTRIKOT](https://open.spotify.com/track/34WZIBQM7PusIDr5LtVpav) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [ANTRIKOT](https://open.spotify.com/album/3RHfrDPc3SMfhvRkgWNlWs) | 2:41 | 2022-01-15 | 2022-04-30 |
 | [Anıları Sakla](https://open.spotify.com/track/4MKL1sm8VqknemVs2yjs4M) | [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Yolculuk](https://open.spotify.com/album/0ffhrMPhoprewPQPc5so04) | 3:36 | 2021-05-31 | 2021-12-25 |
 | [Ara](https://open.spotify.com/track/18Ies0Fsw2IwDuLoOhDlyy) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Ara](https://open.spotify.com/album/0C3BRPMqyxppx6kJbOImCq) | 3:00 | 2022-08-27 |  |
@@ -355,7 +356,7 @@
 | [M.](https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW) | [Anıl Emre Daldal](https://open.spotify.com/artist/5MHG3bmjGh0aqT8hS3nPzS) | [M.](https://open.spotify.com/album/03smIQd1UMqU4jjyaUtAHl) | 3:43 | 2022-12-26 | 2022-12-28 |
 | [Mahvettim](https://open.spotify.com/track/1GWxwShcDEdSvlr0jcpYI1) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mahvettim](https://open.spotify.com/album/3hrus3W40mGxVJRPRKHrrP) | 2:36 | 2021-10-31 | 2022-01-05 |
 | [Mahvettim](https://open.spotify.com/track/1ji6PoTBfVXqycvsXdgZgp) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mahvettim](https://open.spotify.com/album/6MYYIeblEVcAdUyFqIRIIq) | 2:36 | 2021-10-30 | 2022-05-13 |
-| [Mahşer](https://open.spotify.com/track/2RehF0hYbLDGxLTvjL0Xy6) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Mahşer](https://open.spotify.com/album/6feh1gWrVrm2mCgHrCUTyN) | 4:31 | 2022-04-12 | 2022-12-25 |
+| [Mahşer](https://open.spotify.com/track/2RehF0hYbLDGxLTvjL0Xy6) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Mahşer](https://open.spotify.com/album/6feh1gWrVrm2mCgHrCUTyN) | 4:31 | 2022-04-12 |  |
 | [MAKARON \- LÉ ORIGINAL](https://open.spotify.com/track/1Nq0FjJsVR06EYNZcyCvIG) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 2:57 | 2022-01-22 | 2022-01-26 |
 | [Makina](https://open.spotify.com/track/5jvhTc0g18kwYQNUJM5C4e) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:31 | 2021-03-27\* | 2022-03-30 |
 | [Marlon Brando](https://open.spotify.com/track/0O2zRCntGYssJk4bGn6dXk) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Marlon Brando](https://open.spotify.com/album/746vxoUmfdqRya2d924CPj) | 3:30 | 2021-05-09 | 2021-05-23 |
@@ -401,7 +402,7 @@
 | [Neyse Ne](https://open.spotify.com/track/1sLJtaMAbXGdvHDiPjg0eq) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Neyse Ne](https://open.spotify.com/album/395nlaZJns6xnreX5HdExs) | 2:56 | 2021-04-04 | 2021-04-11 |
 | [NKBİ](https://open.spotify.com/track/52KeXv6Ha1ndWru3WzdNkQ) | [Ali](https://open.spotify.com/artist/6PxZyYu4CsSp2TUaYTmmUx) | [NKBİ](https://open.spotify.com/album/41xu1RICTXRwblCxCC8wyK) | 2:58 | 2022-12-09 | 2022-12-11 |
 | [NKBİ](https://open.spotify.com/track/7lkqbdBKrsyNNq3xi0LeaY) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:57 | 2022-06-06 |  |
-| [NKBİ 2.0](https://open.spotify.com/track/63AIGuQJ8ZJWx02a9On4ov) | [Batuhan Şenel](https://open.spotify.com/artist/5ajPGCI6ThsiQNtgS3cn0K) | [NKBİ 2.0](https://open.spotify.com/album/62BXK8tzVl2eszPRgEjM4r) | 3:00 | 2022-12-27 |  |
+| [NKBİ 2.0](https://open.spotify.com/track/63AIGuQJ8ZJWx02a9On4ov) | [Batuhan Şenel](https://open.spotify.com/artist/5ajPGCI6ThsiQNtgS3cn0K) | [NKBİ 2.0](https://open.spotify.com/album/62BXK8tzVl2eszPRgEjM4r) | 3:00 | 2022-12-27 | 2022-12-29 |
 | [NKBİ 2.0](https://open.spotify.com/track/6a2HEgqlTmdxMOaLiLJz7O) | [Shuzky](https://open.spotify.com/artist/0LYZv1HvXUlUGnTXZeiAgw), [Godzee](https://open.spotify.com/artist/5vQvrYiNH2jK4GWSmbxK1T) | [NKBİ 2.0](https://open.spotify.com/album/1hif1tjTQ2RNijfzS8QWO7) | 2:58 | 2022-11-26 | 2022-12-01 |
 | [O \- CHORBA](https://open.spotify.com/track/0vhDm5t8sVsqPh9JOKTvaQ) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 0:57 | 2022-10-15 | 2022-10-20 |
 | [O LA LA](https://open.spotify.com/track/1qi3oAU3QDe3dPdGEY09dr) | [GOKO!](https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [O LA LA](https://open.spotify.com/album/0uBZmFQB35RUrwevBBc9dM) | 3:35 | 2021-10-10 | 2021-10-17 |

@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 132309,
+  "num_followers": 132343,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY3MjA5NCwwMDAwMDAwMDA0YWQ4Y2RjZTBiM2VjODQ0MmM5ZTI0YzZiZDQxYjBh",
+  "snapshot_id": "MTY3MTY3MjA5NCwwMDAwMDAwMDMyYThkYTM1ZjVhOTIzMjVjOGI2ODAzODcyODE1NGI3",
   "tracks": [
     {
       "added_at": "2022-10-12 15:43:07",
@@ -371,6 +371,34 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Escape (feat. Hayla)",
+        "url": "https://open.spotify.com/album/0SU0IO8l8gC0lgMSPxiWyO"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 240445,
+      "name": "Escape (feat. Hayla)",
+      "url": "https://open.spotify.com/track/3KAExCnsrlAw9ugJcA1QDH"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "AEIOU",
         "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
       },
@@ -407,34 +435,6 @@
       "duration_ms": 145890,
       "name": "Sex & Love",
       "url": "https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Escape (feat. Hayla)",
-        "url": "https://open.spotify.com/album/0SU0IO8l8gC0lgMSPxiWyO"
-      },
-      "artists": [
-        {
-          "name": "Kx5",
-          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
-        },
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 240445,
-      "name": "Escape (feat. Hayla)",
-      "url": "https://open.spotify.com/track/3KAExCnsrlAw9ugJcA1QDH"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -727,26 +727,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "I Don't Want You",
-        "url": "https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2"
-      },
-      "artists": [
-        {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "I Don't Want You",
-      "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 147260,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "I Don't Want You",
+        "url": "https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 190240,
+      "name": "I Don't Want You",
+      "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Party On My Own (feat. FAULHABER)",
         "url": "https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 146500,
       "name": "Party On My Own (feat. FAULHABER)",
       "url": "https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Creep (mint Singles)",
-        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        }
-      ],
-      "duration_ms": 161190,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "My Pony",
-        "url": "https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "My Pony",
-      "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "What's Up Suckaz",
         "url": "https://open.spotify.com/album/26Ii0K4367aR8WKk6GXQi9"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 190819,
       "name": "Morenito",
       "url": "https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "My Pony",
+        "url": "https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 153414,
+      "name": "My Pony",
+      "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
     },
     {
       "added_at": "2022-10-12 15:43:07",

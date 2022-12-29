@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer!  Foto: Guil\u00e9 / Arte: Isu Kim",
-  "num_followers": 13999,
+  "num_followers": 14017,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NzI2OSwwMDAwMDAwMGI1NjM1M2VlYmZhZTEwY2JiMTZkMTE0NmI1NDU1NjU4",
+  "snapshot_id": "MTY3MTc2NzI2OSwwMDAwMDAwMDJmZDZlOTU1YWJmOGVhN2UxZWMyODcwMWQ0ZWFiMDcx",
   "tracks": [
     {
       "added_at": "2022-12-23 03:47:49",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Um Brinde",
-        "url": "https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2"
-      },
-      "artists": [
-        {
-          "name": "Rick Agra",
-          "url": "https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN"
-        }
-      ],
-      "duration_ms": 153634,
-      "name": "Um Brinde",
-      "url": "https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/1LSGxSVeEFVwckvVJBjGb0"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 139480,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/14PoamgaKsFiwSlZ0Z2vFl"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
+        "name": "Um Brinde",
+        "url": "https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2"
+      },
+      "artists": [
+        {
+          "name": "Rick Agra",
+          "url": "https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN"
+        }
+      ],
+      "duration_ms": 153634,
+      "name": "Um Brinde",
+      "url": "https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 158985,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
         "name": "Futurea",
         "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 166611,
       "name": "Medo de Mim",
       "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
-        "name": "Madrugada",
-        "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 158985,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Bady",
-        "url": "https://open.spotify.com/album/6bjoikW93gjnCIhWaOFQWn"
-      },
-      "artists": [
-        {
-          "name": "VIN\u00cdCIUS",
-          "url": "https://open.spotify.com/artist/44SCweqSr4to2xPmyttMK1"
-        }
-      ],
-      "duration_ms": 179686,
-      "name": "Bady",
-      "url": "https://open.spotify.com/track/1N5gwVPnV4qovLJfiLD3Ug"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 211998,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
+        "name": "Bady",
+        "url": "https://open.spotify.com/album/6bjoikW93gjnCIhWaOFQWn"
+      },
+      "artists": [
+        {
+          "name": "VIN\u00cdCIUS",
+          "url": "https://open.spotify.com/artist/44SCweqSr4to2xPmyttMK1"
+        }
+      ],
+      "duration_ms": 179686,
+      "name": "Bady",
+      "url": "https://open.spotify.com/track/1N5gwVPnV4qovLJfiLD3Ug"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
+        "name": "Nada (Al\u00e9m de Voc\u00ea)",
+        "url": "https://open.spotify.com/album/6yZfMNvZ0O1V97ilVkGkiy"
+      },
+      "artists": [
+        {
+          "name": "DeLuca",
+          "url": "https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG"
+        }
+      ],
+      "duration_ms": 129595,
+      "name": "Nada (Al\u00e9m de Voc\u00ea)",
+      "url": "https://open.spotify.com/track/1Mf03EauuFA4HQBDqFjmiD"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
         "name": "Voc\u00ea Sabe",
         "url": "https://open.spotify.com/album/0a7kpNIwzEw2tSJYKLdpgF"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 155750,
       "name": "Voc\u00ea Sabe",
       "url": "https://open.spotify.com/track/0q87XSebhb3julIjgYtFwf"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
-        "name": "N\u00e3o Complica",
-        "url": "https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ"
-      },
-      "artists": [
-        {
-          "name": "Mavi",
-          "url": "https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f"
-        }
-      ],
-      "duration_ms": 161668,
-      "name": "N\u00e3o Complica",
-      "url": "https://open.spotify.com/track/6tKDV2xTSe9yTzy4xt6Q2A"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Nada (Al\u00e9m de Voc\u00ea)",
-        "url": "https://open.spotify.com/album/6yZfMNvZ0O1V97ilVkGkiy"
+        "name": "N\u00e3o Complica",
+        "url": "https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ"
       },
       "artists": [
         {
-          "name": "DeLuca",
-          "url": "https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG"
+          "name": "Mavi",
+          "url": "https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f"
         }
       ],
-      "duration_ms": 129595,
-      "name": "Nada (Al\u00e9m de Voc\u00ea)",
-      "url": "https://open.spotify.com/track/1Mf03EauuFA4HQBDqFjmiD"
+      "duration_ms": 161668,
+      "name": "N\u00e3o Complica",
+      "url": "https://open.spotify.com/track/6tKDV2xTSe9yTzy4xt6Q2A"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Nossa Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/0HsTY9lcp48a5I36Ylm3hC"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
       },
       "artists": [
         {
-          "name": "Carolina Andrade",
-          "url": "https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q"
+          "name": "vicro",
+          "url": "https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF"
         }
       ],
-      "duration_ms": 160337,
-      "name": "Nossa Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/1noeediw3cEtbwx5xHA3Gz"
+      "duration_ms": 230588,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
+        "name": "Nossa Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/0HsTY9lcp48a5I36Ylm3hC"
       },
       "artists": [
         {
-          "name": "vicro",
-          "url": "https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF"
+          "name": "Carolina Andrade",
+          "url": "https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q"
         }
       ],
-      "duration_ms": 230588,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
+      "duration_ms": 160337,
+      "name": "Nossa Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/1noeediw3cEtbwx5xHA3Gz"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
+        "name": "Foi Mal",
+        "url": "https://open.spotify.com/album/1IjwOJro5gMK3gNIhbBTXD"
+      },
+      "artists": [
+        {
+          "name": "Pelados",
+          "url": "https://open.spotify.com/artist/3sKRMB7oFfuDicBljhWbQU"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "foda que ela era linda",
+      "url": "https://open.spotify.com/track/1pGKEGUMYsHhEdKnE6itcZ"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
         "name": "V\u00edcio Que C\u00ea Tem Em Mim",
         "url": "https://open.spotify.com/album/6lLhGUbpGSVUuGhlp1BHrg"
       },
@@ -683,38 +699,6 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "YASSIQ",
-        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
-      },
-      "artists": [
-        {
-          "name": "YASSIQ",
-          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
-        }
-      ],
-      "duration_ms": 128771,
-      "name": "AL\u00d4",
-      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
-        "name": "Foi Mal",
-        "url": "https://open.spotify.com/album/1IjwOJro5gMK3gNIhbBTXD"
-      },
-      "artists": [
-        {
-          "name": "Pelados",
-          "url": "https://open.spotify.com/artist/3sKRMB7oFfuDicBljhWbQU"
-        }
-      ],
-      "duration_ms": 191826,
-      "name": "foda que ela era linda",
-      "url": "https://open.spotify.com/track/1pGKEGUMYsHhEdKnE6itcZ"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
         "name": "Voc\u00ea Chegou na Hora Certa",
         "url": "https://open.spotify.com/album/2S6JVRCJQ4Jlg7kesk8cln"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 148484,
       "name": "Voc\u00ea Chegou na Hora Certa",
       "url": "https://open.spotify.com/track/7DgVZXIT4FxG49oHTGNTen"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
+        "name": "YASSIQ",
+        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
+      },
+      "artists": [
+        {
+          "name": "YASSIQ",
+          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
+        }
+      ],
+      "duration_ms": 128771,
+      "name": "AL\u00d4",
+      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Poema Suspenso",
-        "url": "https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I"
-      },
-      "artists": [
-        {
-          "name": "Rizzih",
-          "url": "https://open.spotify.com/artist/4RU7ivIDDiiEWDxUMfOV64"
-        }
-      ],
-      "duration_ms": 178935,
-      "name": "(((V\u00eanus)))",
-      "url": "https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
         "name": "Febre",
         "url": "https://open.spotify.com/album/1EOQRSZ7tf1tGHMj4RLbGL"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 174724,
       "name": "Febre",
       "url": "https://open.spotify.com/track/0UUV7GzuwKoMoEfrJUX8Sl"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
+        "name": "Poema Suspenso",
+        "url": "https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I"
+      },
+      "artists": [
+        {
+          "name": "Rizzih",
+          "url": "https://open.spotify.com/artist/4RU7ivIDDiiEWDxUMfOV64"
+        }
+      ],
+      "duration_ms": 178935,
+      "name": "(((V\u00eanus)))",
+      "url": "https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Quartinho",
-        "url": "https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV"
-      },
-      "artists": [
-        {
-          "name": "Casali",
-          "url": "https://open.spotify.com/artist/7sPl7zsOqdfq2yrXDirwBQ"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Quartinho",
-      "url": "https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
         "name": "colinas",
         "url": "https://open.spotify.com/album/2nHbiv0dll2ghjacHW0AyX"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 173164,
       "name": "colinas",
       "url": "https://open.spotify.com/track/5MK7p5jh6o14ieY2oRdlBp"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
+        "name": "Quartinho",
+        "url": "https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV"
+      },
+      "artists": [
+        {
+          "name": "Casali",
+          "url": "https://open.spotify.com/artist/7sPl7zsOqdfq2yrXDirwBQ"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Quartinho",
+      "url": "https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Me Liga",
-        "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
-      },
-      "artists": [
-        {
-          "name": "GAROU\u00c1",
-          "url": "https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN"
-        }
-      ],
-      "duration_ms": 176398,
-      "name": "Me Liga",
-      "url": "https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
         "name": "Embalo",
         "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 201231,
       "name": "Embalo",
       "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
+        "name": "Me Liga",
+        "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
+      },
+      "artists": [
+        {
+          "name": "GAROU\u00c1",
+          "url": "https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN"
+        }
+      ],
+      "duration_ms": 176398,
+      "name": "Me Liga",
+      "url": "https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Esquece",
-        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
-      },
-      "artists": [
-        {
-          "name": "Jalma",
-          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
-        }
-      ],
-      "duration_ms": 178526,
-      "name": "Esquece",
-      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
         "name": "Escuro (Remix)",
         "url": "https://open.spotify.com/album/1tK3lj7wpTaB6oyoedNL7T"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 184557,
       "name": "Escuro - Remix",
       "url": "https://open.spotify.com/track/7ltk9pGQEWI7DqqY10nF9d"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
+        "name": "Esquece",
+        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
+      },
+      "artists": [
+        {
+          "name": "Jalma",
+          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
+        }
+      ],
+      "duration_ms": 178526,
+      "name": "Esquece",
+      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
     },
     {
       "added_at": "2022-12-23 03:47:49",

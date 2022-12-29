@@ -4,7 +4,7 @@
 
 > ¿searma o nosearma?
 
-360 songs - 22 hr 53 min - [published](https://open.spotify.com/playlist/4zY5WOutitYQCOxkaxT7Vi)
+361 songs - 22 hr 56 min - [published](https://open.spotify.com/playlist/4zY5WOutitYQCOxkaxT7Vi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [No Me Importa el Dinero \(feat\. Julieta Venegas\) \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:54 | 2021-06-16 | 2022-07-29 |
 | [No Podrás](https://open.spotify.com/track/5cKVlMBM905oNuhah0Bq7d) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [El Comienzo De La Historia](https://open.spotify.com/album/1LBdNG51o5ryh20epiN4NT) | 4:02 | 2021-06-16 | 2022-07-29 |
 | [No Sabía Cuánto](https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [No Sabía Cuánto](https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ) | 2:45 | 2022-08-26 | 2022-10-22 |
+| [No Se Va \- En Vivo](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 | 2022-10-28 |  |
 | [No Se Va \- En Vivo](https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A) | 3:14 | 2022-10-28 | 2022-12-24 |
 | [No Te Contaron Mal](https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:36 | 2021-06-16 | 2022-07-24 |
 | [Noche en LA](https://open.spotify.com/track/1FLiL8ETgtjbWOWrlLwLVS) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Noche en LA](https://open.spotify.com/album/7tusQcdm6cndTKQUwtK7Iw) | 3:29 | 2022-08-26 | 2022-09-04 |
@@ -347,7 +348,7 @@
 | [Vasos Vacíos \- Remasterizado 2008](https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Ritmo Mundial](https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh) | 4:39 | 2021-06-16 | 2022-11-15 |
 | [Vendedora de Caricias \- En Vivo](https://open.spotify.com/track/3r58xW3uNdgIEOvoLhKzg8) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 5:54 | 2021-06-16 | 2022-07-29 |
 | [Verde Mas Allá](https://open.spotify.com/track/0Mvjbhh3DHbG83cInmwXSl) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [Jenny And The Mexicats](https://open.spotify.com/album/4Ov20Bmw7FkoAzjjR7GRLt) | 3:29 | 2021-06-16 | 2022-07-23 |
-| [Vivir Mi Vida](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:12 | 2021-06-16 |  |
+| [Vivir Mi Vida](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:12 | 2021-06-16 | 2022-12-29 |
 | [Vivo](https://open.spotify.com/track/05Ptv8NfK87XhXNNbJ8Tgb) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Recupera tus Clásicos \- Fobia](https://open.spotify.com/album/39wqLGypRpdofU9MEM9bl1) | 4:41 | 2021-06-16 | 2022-07-29 |
 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 | 2021-06-16 | 2022-11-15 |
 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 | 2021-06-16 | 2022-10-29 |

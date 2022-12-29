@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-170 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
+171 songs - 13 hr 55 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/track/0AuC6j66fjBzcNjWViIlfr) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/album/2eAOEEB8t84it83QgeZBOO) | 4:18 | 2022-03-17 | 2022-09-13 |
 | [Morning](https://open.spotify.com/track/0ry0QY44R8IrB7cQapROCS) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Sun//Rain](https://open.spotify.com/album/79FXd9aIqWS5jy4kOT2owa) | 4:27 | 2022-05-18 |  |
 | [Mt Baker](https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:12 | 2022-03-17 |  |
-| [Music for Six Rooms](https://open.spotify.com/track/2kTVyBg5HoJBXo2qNPb7Tf) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 10:06 | 2022-03-17 |  |
+| [Music for Six Rooms](https://open.spotify.com/track/2kTVyBg5HoJBXo2qNPb7Tf) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 10:06 | 2022-03-17 | 2022-12-29 |
 | [New Love](https://open.spotify.com/track/2KN4qcDC3YYl5ihUx5qRQC) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Antidawn EP](https://open.spotify.com/album/46Tzqoo34KEb0G2hYDp5Ry) | 7:13 | 2022-03-17 | 2022-04-29 |
 | [Notes and Recollections](https://open.spotify.com/track/4N80c3K068q8H5Xuq2ru4O) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Above The Neon Glow](https://open.spotify.com/album/4qDk81Z78TXyclmv3NSEBm) | 8:16 | 2022-03-17 | 2022-07-29 |
 | [Nothing but Endless Rejections](https://open.spotify.com/track/6PIA1qwY2zEztGYWus9wWp) | [Alejandro Morse](https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6) | [Adversarial Policies](https://open.spotify.com/album/62Bv4Qi83NM7q3F9bXoCDm) | 7:54 | 2022-03-30 |  |
@@ -129,6 +129,7 @@
 | [Sealed](https://open.spotify.com/track/3nagQKjvGa9hhVHGmFzFdC) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Oto No Wa: Selected Sounds of Japan 1988\-2018](https://open.spotify.com/album/6u6zXpuGoDl7xJfUK49WVn) | 5:51 | 2022-03-17 |  |
 | [Seconds](https://open.spotify.com/track/2ROZkHmSV46OD2ESB6gpzs) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Seconds / Hólar](https://open.spotify.com/album/4uVGQKa9PFkytxLsLDkLJ6) | 2:03 | 2022-07-08 |  |
 | [Seconds](https://open.spotify.com/track/3vXmJi22FQIryr1IpTHOnX) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Seconds / Hólar](https://open.spotify.com/album/7Fgaunz4sA3JMGrfaa1YBC) | 2:03 | 2022-03-17 | 2022-07-29 |
+| [Severance](https://open.spotify.com/track/1Xb23c8l5v0syXyCcUmpPH) | [Mark Rushton](https://open.spotify.com/artist/3o7In5aHAnzK7WYGHY5Khx) | [There Are Always Other Possibilities](https://open.spotify.com/album/3VAhvgDUmBYGgUlS5jAliL) | 9:07 | 2022-12-20 |  |
 | [Severed Seas](https://open.spotify.com/track/0JCS05r42jjYLPrUm9dl2g) | [Amulets](https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt) | [Severed Seas](https://open.spotify.com/album/6IRHUBpwNwCOpIBC25kYUO) | 8:08 | 2022-03-17 | 2022-12-24 |
 | [Silken Pt\. 2.1](https://open.spotify.com/track/6rzDeRJStPBNFRho5sduJG) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:52 | 2022-03-17 | 2022-09-13 |
 | [Slipping the Mooring/Pond](https://open.spotify.com/track/62X9DAVP5ZH2A5Yzn5Rzdt) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [The Spinnaker Ensemble](https://open.spotify.com/artist/4kSdE1O1sFXQ03hleQba5x) | [The Wind of Things](https://open.spotify.com/album/6QxCmuFtpKqoyVaRLWlmSm) | 3:55 | 2022-03-17 | 2022-12-21 |

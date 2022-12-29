@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,000 likes - 70 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,054 likes - 70 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 14 | [Long Time \- Cabu Remix](https://open.spotify.com/track/78uwNLAfMW3RFkafAhnwKD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Long Time \(Cabu Remix\)](https://open.spotify.com/album/0BRh6hbd2RATsc6mO8RAAg) | 3:07 |
 | 15 | [Lençóis \(Love Me\)](https://open.spotify.com/track/72DxIGCEAp0mEn4hLFY7G7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Lençóis \(Love Me\)](https://open.spotify.com/album/3Rn9tJqGpKSHrmUvVFO6De) | 3:45 |
 | 16 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 |
-| 17 | [Heartaches](https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heartaches](https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3) | 3:27 |
-| 18 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 |
+| 17 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 |
+| 18 | [Heartaches](https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heartaches](https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3) | 3:27 |
 | 19 | [Caught Up](https://open.spotify.com/track/6FhA1HTNcksnvmUX9QLHRO) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy), [Nuxe](https://open.spotify.com/artist/5Sq2960LCdGIniRjmbmT6G) | [Caught Up](https://open.spotify.com/album/6uFCM1rc7ok68UvTqOksKF) | 2:15 |
 | 20 | [Begin Again \- Gordi Remix](https://open.spotify.com/track/6iOfH4VV2jsg65J3EMnIgJ) | [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Begin Again \(Gordi Remix\)](https://open.spotify.com/album/21k2AOJztHVcfdqib7cgwn) | 3:27 |
 | 21 | [No Fun](https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [No Fun](https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht) | 6:51 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 69 | [malo okoma \- Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 |
 | 70 | [Everytime You Need Me](https://open.spotify.com/track/6AgOb1ARDRUjZdPAUgkWPg) | [Santorelli](https://open.spotify.com/artist/2W3PRQeJoFaEFaLZYiVrkR), [15grams](https://open.spotify.com/artist/1O6ddbpGxRTse2V0YEkhNH), [JXDE](https://open.spotify.com/artist/4qt40q1K5ce0eVlUa66bGC) | [Everytime You Need Me](https://open.spotify.com/album/1PqX9ZHah4bKmgxMR4EIFv) | 2:27 |
 
-Snapshot ID: `MTY3MTEwOTIwMSwwMDAwMDAwMDI4ZDkyNDc3NzE4YjJhZWMxZjk5YjRmN2M1OWIyZDZm`
+Snapshot ID: `MTY3MTEwOTIwMSwwMDAwMDAwMGYwODhlYzg4NTkxN2QzNmUyNGE4NDY2MDA1OTIwNDc5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,675 likes - 70 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,955 likes - 70 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 38 | [Laughter of the Sea](https://open.spotify.com/track/2AjB1CCKlumQX9uJG48mDS) | [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx), [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Laughter of the Sea](https://open.spotify.com/album/2PdScDypRbyrR3yYkNEuMH) | 5:59 |
 | 39 | [Xica Xica](https://open.spotify.com/track/2xoHLJpHsV08cZKGfk5315) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G), [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Balance](https://open.spotify.com/album/6OevmK3tcivYCuZKtJ6PRC) | 4:28 |
 | 40 | [Mexico](https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Mexico](https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm) | 3:56 |
-| 41 | [Paloma](https://open.spotify.com/track/4lvRuiCSvrrfmnAb4YHZHn) | [MiRET](https://open.spotify.com/artist/0DvhQq0PzDC5dyRoH5XCI5), [Tuğçe Kurtiş](https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf), [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Paloma + Remixes](https://open.spotify.com/album/5LE9oiaGprQqvFtinBA73K) | 8:26 |
-| 42 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
+| 41 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
+| 42 | [Paloma](https://open.spotify.com/track/4lvRuiCSvrrfmnAb4YHZHn) | [MiRET](https://open.spotify.com/artist/0DvhQq0PzDC5dyRoH5XCI5), [Tuğçe Kurtiş](https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf), [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Paloma + Remixes](https://open.spotify.com/album/5LE9oiaGprQqvFtinBA73K) | 8:26 |
 | 43 | [El Abuelo](https://open.spotify.com/track/1cmjjbzi9Hqe6IgHbB7gBp) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [El Abuelo](https://open.spotify.com/album/0x7kpSHrkQrqMxrvwbpAPU) | 5:31 |
 | 44 | [The Loser](https://open.spotify.com/track/2hTRr2UxDJmHYXXgW89Mhx) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [Psychedelic Train](https://open.spotify.com/album/06w7pCU6snW8ydhyUp8yk3) | 3:37 |
 | 45 | [Rare Happiness](https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0) | [Hunee](https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy) | [Hunch Music](https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV) | 5:51 |
@@ -59,12 +59,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 49 | [Carnavalera](https://open.spotify.com/track/2qyyS2lOdC7oxZDQ7tCuY0) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Carnavalera](https://open.spotify.com/album/2nlKetdWi0Kc4RU1Xe5SPb) | 3:47 |
 | 50 | [Jardines](https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED) | 4:46 |
 | 51 | [Manos](https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1) | [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT) | [Ojos](https://open.spotify.com/album/0nt8pOx5bT4aU24zQ5RW9v) | 5:10 |
-| 52 | [Temazcal](https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Apolinar](https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U) | 4:11 |
+| 52 | [Paso a Huella \- Captain Planet Remix](https://open.spotify.com/track/157GatsyJwcoaLGDD43duL) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Ch'usay Remixes](https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl) | 3:27 |
 | 53 | [It All Depends \- Aguacate Version](https://open.spotify.com/track/0BOOqxJh6ioHQ1caqztRcQ) | [Roderic](https://open.spotify.com/artist/7wSzFq5CoNoCpzazDphDJs) | [It All Depends \(Aguacate Version\)](https://open.spotify.com/album/6HPPIRAjrwCKnzloCd3PUe) | 6:56 |
-| 54 | [Paso a Huella \- Captain Planet Remix](https://open.spotify.com/track/157GatsyJwcoaLGDD43duL) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Ch'usay Remixes](https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl) | 3:27 |
-| 55 | [Danza de Vision](https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Cantos de Vision](https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5) | 5:29 |
+| 54 | [Temazcal](https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Apolinar](https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U) | 4:11 |
+| 55 | [Chapinero](https://open.spotify.com/track/004JVePzMr05q3vP462QPa) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Bennu](https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo) | 3:42 |
 | 56 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 |
-| 57 | [Chapinero](https://open.spotify.com/track/004JVePzMr05q3vP462QPa) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Bennu](https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo) | 3:42 |
+| 57 | [Danza de Vision](https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Cantos de Vision](https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5) | 5:29 |
 | 58 | [Don’t You Want My Love](https://open.spotify.com/track/4L60ULqvJpqFReaNwmq8F0) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Forevernevermore](https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36) | 4:24 |
 | 59 | [Teu Sorriso \- Jex Opolis Remix](https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8) | [Paraíso](https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0), [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Claremont 56: 10 Years, Pt\. 1](https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP) | 7:09 |
 | 60 | [Shinjuku Strut](https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Hustler's Lullaby](https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z) | 5:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 69 | [Samba del Arenal](https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Cinemar](https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37) | [Samba del Arenal](https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk) | 4:13 |
 | 70 | [Charango Dub](https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Charango Dub](https://open.spotify.com/album/1L7MABgdSg4VF8VjYoySmU) | 4:44 |
 
-Snapshot ID: `MTY3MDM4ODA1NCwwMDAwMDAwMDMyZmIwZGI1OWNlYzY4YjM2ZDdlOTQ1NTI1ODAwZGY1`
+Snapshot ID: `MTY3MDM4ODA1NCwwMDAwMDAwMGYyNTk0ZDBlODliOTAyNTNmMjk3Y2FjNjc2MDg1MmRj`

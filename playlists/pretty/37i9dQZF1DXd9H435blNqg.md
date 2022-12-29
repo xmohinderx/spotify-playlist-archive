@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Ash Grunwald
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,106 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,185 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 14 | [Big Boy](https://open.spotify.com/track/3n8HMjq9XEllt8kyD1JGBy) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Choke Cherry Tree](https://open.spotify.com/album/2H6mfUMvRacDoPtgbcbqkR) | 3:03 |
 | 15 | [Pearl Cadillac \(feat\. Andra Day\)](https://open.spotify.com/track/5fcisGWiGPqr3hkPy0h1mr) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Pearl Cadillac \(feat\. Andra Day\)](https://open.spotify.com/album/5uVl49FsC9vFHCxNT2zoiJ) | 3:30 |
 | 16 | [Under the Big Top](https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc) | [Color Where You Are](https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM) | 3:47 |
-| 17 | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/track/4CYl5j3ugKHnfuzilmMxge) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Click Click Domino](https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq) | 3:23 |
-| 18 | [Tell Your Mother](https://open.spotify.com/track/4NrOX0curF1iOa5SUPdN6m) | [Dr JOE](https://open.spotify.com/artist/2hQXLKSqrDLgj3r6LtUU0Y) | [Tell Your Mother](https://open.spotify.com/album/0KyLimkIfVmiJOFGZQ1VWu) | 3:34 |
+| 17 | [Tell Your Mother](https://open.spotify.com/track/4NrOX0curF1iOa5SUPdN6m) | [Dr JOE](https://open.spotify.com/artist/2hQXLKSqrDLgj3r6LtUU0Y) | [Tell Your Mother](https://open.spotify.com/album/0KyLimkIfVmiJOFGZQ1VWu) | 3:34 |
+| 18 | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/track/4CYl5j3ugKHnfuzilmMxge) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Click Click Domino](https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq) | 3:23 |
 | 19 | [The Drop](https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Ones to Keep Close](https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0) | 3:16 |
 | 20 | [Get Yourself Some](https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Say the Word](https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb) | 3:00 |
 | 21 | [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 33 | [Switchup](https://open.spotify.com/track/4Pt6kY4Q9wxiFj9QJspC1g) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 2:27 |
 | 34 | [Howlin'](https://open.spotify.com/track/19nbRiVVV1nsBlpUmP1Hzp) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Howlin’](https://open.spotify.com/album/7brvYKnu3a0WFQe1F2cPgd) | 2:56 |
 | 35 | [Nobody's Wrong](https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Nobody's Wrong](https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp) | 3:55 |
-| 36 | [Downtown](https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Downtown](https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5) | 3:32 |
-| 37 | [The Day Took My Sunshine Away](https://open.spotify.com/track/5ZAhCwTNmmcQTFB6GX1DCR) | [Howlin' Sun](https://open.spotify.com/artist/4BH1zbJ2HjPh8g3yrUEcTw) | [Howlin' Sun](https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS) | 3:01 |
+| 36 | [The Day Took My Sunshine Away](https://open.spotify.com/track/5ZAhCwTNmmcQTFB6GX1DCR) | [Howlin' Sun](https://open.spotify.com/artist/4BH1zbJ2HjPh8g3yrUEcTw) | [Howlin' Sun](https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS) | 3:01 |
+| 37 | [Downtown](https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Downtown](https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5) | 3:32 |
 | 38 | [Live Forever](https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd) | [Daniel Spaleniak](https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs) | [Tape V](https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw) | 2:57 |
 | 39 | [Homemade Disaster](https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Homemade Disaster](https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1) | 3:14 |
 | 40 | [Don't Tell Me No Lies](https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Don't Tell Me No Lies](https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 49 | [Reaching](https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Reaching](https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ) | 3:15 |
 | 50 | [29 Gold Stars](https://open.spotify.com/track/054GuU4u3vY4b5bkU8K9eH) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [Demons](https://open.spotify.com/album/6QxlINdqOdpp8FfWJrnzOj) | 2:25 |
 
-Snapshot ID: `MTY2MTk3NTU4OCwwMDAwMDAwMDVlNGM2NzQ3NDk5YjVmNmVkYTNiNDM4YmY0ZmM2YTEz`
+Snapshot ID: `MTY2MTk3NTU4OCwwMDAwMDAwMGEwYmNhYjU5ZTQzMjI3ZGM2ZDVjMTc2MmU2ODcyZjdl`

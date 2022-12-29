@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 41825,
+  "num_followers": 41860,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDMyNjUwNywwMDAwMDAwMDliMmFkYmVlOWI2OTlkNWZjNzQxYWJhNzJiODBkMWUx",
+  "snapshot_id": "MTY3MDMyNjUwNywwMDAwMDAwMGM2OWZkOGJlZWEzMDEwYzVhZTExNzJlODUzNjk0NGI3",
   "tracks": [
     {
       "added_at": "2022-03-10 07:10:03",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Colours of the Night",
-        "url": "https://open.spotify.com/album/73B5ghcGOwmrl3J3Yw2mxA"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud Guinia",
-          "url": "https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ"
-        }
-      ],
-      "duration_ms": 530803,
-      "name": "Shaba Kouria",
-      "url": "https://open.spotify.com/track/6tghScpQTCpuhlhkrVztdO"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Jah Gnawi",
         "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 353811,
       "name": "Gnawi Baba Mimoun - Jan Rase Remix",
       "url": "https://open.spotify.com/track/7MJn7pkVO1chHyXvjemfqY"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Colours of the Night",
+        "url": "https://open.spotify.com/album/73B5ghcGOwmrl3J3Yw2mxA"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Guinia",
+          "url": "https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ"
+        }
+      ],
+      "duration_ms": 530803,
+      "name": "Shaba Kouria",
+      "url": "https://open.spotify.com/track/6tghScpQTCpuhlhkrVztdO"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Gnawa Home Songs",
-        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
-      },
-      "artists": [
-        {
-          "name": "Amida Boussou",
-          "url": "https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5"
-        }
-      ],
-      "duration_ms": 193693,
-      "name": "Boulila",
-      "url": "https://open.spotify.com/track/7K0e9c4yavJcHGpGr4VxpG"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Moroccan Spring (Live)",
         "url": "https://open.spotify.com/album/29xpcwtYHON3dbSKInrTzl"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 343840,
       "name": "Chalaban - Live",
       "url": "https://open.spotify.com/track/7eBSPitHLvqS4y6Ik7dD8f"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Gnawa Home Songs",
+        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
+      },
+      "artists": [
+        {
+          "name": "Amida Boussou",
+          "url": "https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5"
+        }
+      ],
+      "duration_ms": 193693,
+      "name": "Boulila",
+      "url": "https://open.spotify.com/track/7K0e9c4yavJcHGpGr4VxpG"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -787,18 +787,18 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Gnawa Njoum Experience",
-        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
+        "name": "Les Gnawa du Maroc (Ouled El' Abdi)",
+        "url": "https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK"
       },
       "artists": [
         {
-          "name": "Gnawa Njoum Experience",
-          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
+          "name": "Maalem Si Mohamed Chaouqi",
+          "url": "https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr"
         }
       ],
-      "duration_ms": 292520,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
+      "duration_ms": 201773,
+      "name": "Fangara Fangari\u00e9 - Ouled Bambara",
+      "url": "https://open.spotify.com/track/7toYPMNjEZ1JmR5TKEfhG9"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -823,34 +823,18 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Les Gnawa du Maroc (Ouled El' Abdi)",
-        "url": "https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK"
+        "name": "Gnawa Njoum Experience",
+        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
       },
       "artists": [
         {
-          "name": "Maalem Si Mohamed Chaouqi",
-          "url": "https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr"
+          "name": "Gnawa Njoum Experience",
+          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
         }
       ],
-      "duration_ms": 201773,
-      "name": "Fangara Fangari\u00e9 - Ouled Bambara",
-      "url": "https://open.spotify.com/track/7toYPMNjEZ1JmR5TKEfhG9"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Marrakech Undermoon: The Black Album, Vol. 2b",
-        "url": "https://open.spotify.com/album/6fBcXZbJb43gFxIpztjnzP"
-      },
-      "artists": [
-        {
-          "name": "The Sons of the Moon-Ouled Kamar",
-          "url": "https://open.spotify.com/artist/0RZ8EW3Dl3knNPp8IbrIHl"
-        }
-      ],
-      "duration_ms": 569226,
-      "name": "Bilaji",
-      "url": "https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv"
+      "duration_ms": 292520,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -871,18 +855,18 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Gnawa Njoum Experience",
-        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
+        "name": "Marrakech Undermoon: The Black Album, Vol. 2b",
+        "url": "https://open.spotify.com/album/6fBcXZbJb43gFxIpztjnzP"
       },
       "artists": [
         {
-          "name": "Gnawa Njoum Experience",
-          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
+          "name": "The Sons of the Moon-Ouled Kamar",
+          "url": "https://open.spotify.com/artist/0RZ8EW3Dl3knNPp8IbrIHl"
         }
       ],
-      "duration_ms": 375120,
-      "name": "Baba Arabi",
-      "url": "https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN"
+      "duration_ms": 569226,
+      "name": "Bilaji",
+      "url": "https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -907,6 +891,22 @@
       "duration_ms": 356066,
       "name": "Hamdouchi",
       "url": "https://open.spotify.com/track/7pa2MBRVlnvxxuY9DTfYYk"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Abacabok",
+        "url": "https://open.spotify.com/album/70FP8vQuBtJpCMnSVCMI1x"
+      },
+      "artists": [
+        {
+          "name": "Tartit",
+          "url": "https://open.spotify.com/artist/7tnGqjFwUewoWAkNofVV6Q"
+        }
+      ],
+      "duration_ms": 293600,
+      "name": "Tabey Tarate",
+      "url": "https://open.spotify.com/track/5AufVqlW1U4T81LZkQ1KRA"
     }
   ],
   "unique_name": "Gnawa Music",

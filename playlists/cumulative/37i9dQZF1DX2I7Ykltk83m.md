@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Soccer Mommy
 
-307 songs - 18 hr 29 min - [published](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
+308 songs - 18 hr 32 min - [published](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Headstart](https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:22 | 2022-05-20 |  |
 | [Heart of Gold](https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 2:51 | 2022-05-20 |  |
 | [Heart of Gold](https://open.spotify.com/track/6llEKdd9fteEPFnyV0OLZc) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Heart of Gold](https://open.spotify.com/album/5tYPEtQgBSORry07FxxmO7) | 2:51 | 2021-11-14 | 2022-07-29 |
-| [Hold U](https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Hold U](https://open.spotify.com/album/3Q7cvRxPP6gbPZf2u7AM2e) | 4:16 | 2021-11-14 |  |
+| [Hold U](https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Hold U](https://open.spotify.com/album/3Q7cvRxPP6gbPZf2u7AM2e) | 4:16 | 2021-11-14 | 2022-12-29 |
 | [Honey](https://open.spotify.com/track/2InbY91stGdhxZRL4h4IIQ) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Honey](https://open.spotify.com/album/6vkuAUXk0Gm8xizHhtjx0w) | 3:44 | 2021-11-14 | 2022-04-14 |
 | [Honey Understand](https://open.spotify.com/track/1FnqKOwkmTClK22zr3kWuH) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Honey Understand](https://open.spotify.com/album/5RltgL786Wbbtt2TT4rWsR) | 4:01 | 2022-02-04 |  |
 | [How Long](https://open.spotify.com/track/6kUtd2r6ctD3SSOjuV1Rh5) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [How Long](https://open.spotify.com/album/1gVrDytuTqsNRAt4MSzwQO) | 1:40 | 2021-11-14 | 2022-11-13 |
@@ -264,6 +264,7 @@
 | [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 | 2022-10-07 |  |
 | [Sweetheart](https://open.spotify.com/track/4T7okh1A7MmqS7xXypO0wx) | [Long Beard](https://open.spotify.com/artist/3truyDimkGtu58fxQj9Xv9) | [Means To Me](https://open.spotify.com/album/1GS9YuJnV8cNUZFJapg1AK) | 5:34 | 2021-11-14 | 2022-11-13 |
 | [Sword](https://open.spotify.com/track/6mD1KDKC3CcGAVCAwUkKl4) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Drink The Lake](https://open.spotify.com/album/111JuJ9c9okr6iskmC7DR3) | 3:02 | 2021-11-14 | 2022-07-29 |
+| [Sword](https://open.spotify.com/track/1EQ08xDU7g9brPXEVNeWnE) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Show Me How You Disappear](https://open.spotify.com/album/3byic3J5R5PQCm62tdTimO) | 3:02 | 2022-10-07 |  |
 | [SYT](https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [SYT](https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS) | 3:23 | 2022-10-07 |  |
 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 | 2022-04-01 |  |
 | [Tears Are Falling](https://open.spotify.com/track/3JAu0EQd84Mhu8RMLuwhsf) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/1Jy6QtG48t50gXKbxu3tcn) | 2:44 | 2022-04-15 | 2022-06-29 |

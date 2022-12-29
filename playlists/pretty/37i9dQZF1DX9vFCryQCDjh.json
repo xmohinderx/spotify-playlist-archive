@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 5554,
+  "num_followers": 5584,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ4MDA5MywwMDAwMDAwMDdiNDQ0NWIwYmU1MDY5OTY1ODRkMTE0MTAyMDFkMDIw",
+  "snapshot_id": "MTYxNTQ4MDA5MywwMDAwMDAwMDBkNjUzYmFmMzJiYjI0ZmVmMjg0NGZhNGNmMGFlZWQy",
   "tracks": [
     {
       "added_at": "2021-03-11 16:28:13",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "SHOO. EUGENE. SEA - The 2nd Album",
-        "url": "https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 245773,
-      "name": "Dreams Come True",
-      "url": "https://open.spotify.com/track/6whFRgwg7je2SYzpSfansM"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "\uae40\uc131\uc7ac",
         "url": "https://open.spotify.com/album/2bklVpbuK5jsVrLpebiu9o"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 215849,
       "name": "\ub9d0\ud558\uc790\uba74",
       "url": "https://open.spotify.com/track/3fCkxCmaOwJ8UuZD1N4Okx"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "SHOO. EUGENE. SEA - The 2nd Album",
+        "url": "https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 245773,
+      "name": "Dreams Come True",
+      "url": "https://open.spotify.com/track/6whFRgwg7je2SYzpSfansM"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -187,18 +187,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "S.E.S. - The 1st Album",
-        "url": "https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ"
+        "name": "HEY, COME ON! - The 4th Album",
+        "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
       },
       "artists": [
         {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
         }
       ],
-      "duration_ms": 225560,
-      "name": "(\u2032Cause) I\u2032m Your Girl",
-      "url": "https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ"
+      "duration_ms": 201866,
+      "name": "Wild Eyes",
+      "url": "https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -235,18 +235,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "HEY, COME ON! - The 4th Album",
-        "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
+        "name": "S.E.S. - The 1st Album",
+        "url": "https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ"
       },
       "artists": [
         {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
         }
       ],
-      "duration_ms": 201866,
-      "name": "Wild Eyes",
-      "url": "https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl"
+      "duration_ms": 225560,
+      "name": "(\u2032Cause) I\u2032m Your Girl",
+      "url": "https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -867,22 +867,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
-        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
-      },
-      "artists": [
-        {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
-        }
-      ],
-      "duration_ms": 242341,
-      "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
-      "url": "https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "\ud551\uacc4",
         "url": "https://open.spotify.com/album/2Aof43935C9VCXzV7HnA39"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 219173,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/7hZSoai2QgXbTuLeskVaVH"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
+        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
+      },
+      "artists": [
+        {
+          "name": "Roo'RA",
+          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+        }
+      ],
+      "duration_ms": 242341,
+      "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
+      "url": "https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\ub3c5\ucc3d\ud68c \u2161 1981~2002 (Live)",
-        "url": "https://open.spotify.com/album/4GwoC91P9MEZfyuk3ObLBb"
-      },
-      "artists": [
-        {
-          "name": "Lee Moon Sae",
-          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
-        }
-      ],
-      "duration_ms": 140253,
-      "name": "\ubd89\uc740 \ub178\uc744",
-      "url": "https://open.spotify.com/track/5bNAuYrv8L619MUm2xCNny"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Cyber Yoo Sueng Jun",
         "url": "https://open.spotify.com/album/3jrD9RUkQcrFZpy2dZL5sD"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
-        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
+        "name": "\ub3c5\ucc3d\ud68c \u2161 1981~2002 (Live)",
+        "url": "https://open.spotify.com/album/4GwoC91P9MEZfyuk3ObLBb"
       },
       "artists": [
         {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
         }
       ],
-      "duration_ms": 226667,
-      "name": "\ud504\ub85c\uc640 \uc544\ub9c8\uce04\uc5b4",
-      "url": "https://open.spotify.com/track/4iYW28u7mpxEokJT2zPGmp"
+      "duration_ms": 140253,
+      "name": "\ubd89\uc740 \ub178\uc744",
+      "url": "https://open.spotify.com/track/5bNAuYrv8L619MUm2xCNny"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1407,6 +1391,22 @@
       "duration_ms": 222250,
       "name": "\ub3c4 The Way",
       "url": "https://open.spotify.com/track/7EfwavUg7KW5oTJtzUrMCg"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
+        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
+      },
+      "artists": [
+        {
+          "name": "Roo'RA",
+          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+        }
+      ],
+      "duration_ms": 226667,
+      "name": "\ud504\ub85c\uc640 \uc544\ub9c8\uce04\uc5b4",
+      "url": "https://open.spotify.com/track/4iYW28u7mpxEokJT2zPGmp"
     },
     {
       "added_at": "2021-03-11 16:28:13",

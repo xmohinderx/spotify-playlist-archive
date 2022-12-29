@@ -4,7 +4,7 @@
 
 > Move your body with your favorite 90s songs.
 
-120 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/5plle7IsBjCKk2BE4UbBwc)
+121 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/5plle7IsBjCKk2BE4UbBwc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [O.P.P](https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Naughty By Nature](https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO) | 4:31 | 2021-12-22 |  |
 | [O.P.P](https://open.spotify.com/track/3voxsfqnGr9V74jkkzPhXC) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Naughty By Nature](https://open.spotify.com/album/7f2uv1aSmzTMlPXDFiZCra) | 4:31 | 2021-12-22 | 2022-07-29 |
 | [Please Don't Go \(Radio Cut\)](https://open.spotify.com/track/0w7XcNz84saf5p1nigc22t) | [K.W.S.](https://open.spotify.com/artist/188XxH8QLu4w8GW7cxSJe9) | [Please Don't Go](https://open.spotify.com/album/2iExuSxQaFAmuyRVrnLyAy) | 3:45 | 2021-12-22 | 2022-08-12 |
-| [Poison](https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison](https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD) | 4:21 | 2021-12-22 |  |
+| [Poison](https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison](https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD) | 4:21 | 2021-12-22 | 2022-12-29 |
+| [Poison](https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison \(Expanded Edition\)](https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi) | 4:21 | 2022-12-28 |  |
 | [Praise You \- Radio Edit](https://open.spotify.com/track/21RDsw7wzUJNl2FbWTgEfJ) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [The Greatest Hits: Why Try Harder](https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ) | 3:47 | 2022-10-11 |  |
 | [Professional Widow \- Armand's Star Trunk Funk Mix](https://open.spotify.com/track/5CNs4YXFuXSgAHeRQb4B5T) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [A Tori Amos Collection: Tales of a Librarian](https://open.spotify.com/album/3SUbEVk9geQgPBI7ZTilcc) | 3:47 | 2021-12-22 | 2022-08-12 |
 | [Professional Widow \- Armand's Star Trunk Funk Mix](https://open.spotify.com/track/7pRDFBYPmUWBFnpwDhzqGm) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [A Tori Amos Collection: Tales of a Librarian](https://open.spotify.com/album/5vxM3v3hgNTQUmSu3LFxTa) | 3:47 | 2021-12-22 | 2022-07-29 |

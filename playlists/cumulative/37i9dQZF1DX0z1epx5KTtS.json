@@ -1174,6 +1174,28 @@
     },
     {
       "album": {
+        "name": "Mademoiselle",
+        "url": "https://open.spotify.com/album/2vA35OUTpM5gVmTPnTGSnC"
+      },
+      "artists": [
+        {
+          "name": "Jr La Melo",
+          "url": "https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU"
+        },
+        {
+          "name": "Safarel Obiang",
+          "url": "https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Mademoiselle",
+      "url": "https://open.spotify.com/track/3Vt5QZrsmeOESKmpciE4ks"
+    },
+    {
+      "album": {
         "name": "Mami Wata",
         "url": "https://open.spotify.com/album/7GaRPIyFR0pD6kZNlgbbh6"
       },

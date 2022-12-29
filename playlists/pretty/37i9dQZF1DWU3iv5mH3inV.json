@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: El Alfa",
-  "num_followers": 72250,
+  "num_followers": 72351,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDBjNjcwMGQ5MjdhMGY3ZDE0M2QzNmFiYzg4OGU2ZDY4",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDhkZTMyOWEwNGFhYmNiNjQwZDcxZmQwMmViNjViOTY2",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Ponme to Eso Pa Lante",
-        "url": "https://open.spotify.com/album/30DAg92KlUWk4k8chGRWNJ"
-      },
-      "artists": [
-        {
-          "name": "El Chuape",
-          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "Ponme to Eso Pa Lante",
-      "url": "https://open.spotify.com/track/7HNX5ap83jCLeWODW6CU2m"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Klok Con Klok",
         "url": "https://open.spotify.com/album/712hXpuMGoq1KPEI1RxoW6"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 163800,
       "name": "Klok Con Klok",
       "url": "https://open.spotify.com/track/4VthUTifCMlgzYkfQX1LQV"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Ponme to Eso Pa Lante",
+        "url": "https://open.spotify.com/album/30DAg92KlUWk4k8chGRWNJ"
+      },
+      "artists": [
+        {
+          "name": "El Chuape",
+          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "Ponme to Eso Pa Lante",
+      "url": "https://open.spotify.com/track/7HNX5ap83jCLeWODW6CU2m"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Sin \"S\"",
-        "url": "https://open.spotify.com/album/0PbaFcLAnfpzvkXeVEZZHu"
-      },
-      "artists": [
-        {
-          "name": "Lo Blanquito",
-          "url": "https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Telacuti",
-      "url": "https://open.spotify.com/track/2uqPGoloSaqglIsJ6J1NIQ"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Exito, Vol 1",
         "url": "https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 201180,
       "name": "Ponte Tu Chaleco",
       "url": "https://open.spotify.com/track/5XXc4aGgZjunaqZPVR4GoR"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Sin \"S\"",
+        "url": "https://open.spotify.com/album/0PbaFcLAnfpzvkXeVEZZHu"
+      },
+      "artists": [
+        {
+          "name": "Lo Blanquito",
+          "url": "https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "Telacuti",
+      "url": "https://open.spotify.com/track/2uqPGoloSaqglIsJ6J1NIQ"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Otro Formato",
-        "url": "https://open.spotify.com/album/5PiUtsffoSQ9mdMj0Tno35"
-      },
-      "artists": [
-        {
-          "name": "Doble T y El Crok Los Pepes",
-          "url": "https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW"
-        }
-      ],
-      "duration_ms": 209989,
-      "name": "Bulto",
-      "url": "https://open.spotify.com/track/7IQF0Z5ZwfSpVYHF7CikOc"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/57uRQSxdSSKos8rz66Q65r"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 202005,
       "name": "Ella Quiere Cualto (Tu No Tiene Cualto)",
       "url": "https://open.spotify.com/track/0DBhySOALDr1Nz5rtY4kOW"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Otro Formato",
+        "url": "https://open.spotify.com/album/5PiUtsffoSQ9mdMj0Tno35"
+      },
+      "artists": [
+        {
+          "name": "Doble T y El Crok Los Pepes",
+          "url": "https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW"
+        }
+      ],
+      "duration_ms": 209989,
+      "name": "Bulto",
+      "url": "https://open.spotify.com/track/7IQF0Z5ZwfSpVYHF7CikOc"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2383,26 +2383,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Exitos, Vol.1",
-        "url": "https://open.spotify.com/album/3VYjIp6qFqI0GrEAy3tvBD"
-      },
-      "artists": [
-        {
-          "name": "L-R",
-          "url": "https://open.spotify.com/artist/1SHvPZpMlhUBjJysc0ZtV8"
-        },
-        {
-          "name": "La Nueva Escuela",
-          "url": "https://open.spotify.com/artist/7mcJN2bWqCv7jvykgHp4KN"
-        }
-      ],
-      "duration_ms": 155168,
-      "name": "Ella Me Mira (feat. La Nueva Escuela)",
-      "url": "https://open.spotify.com/track/42pwnitS0DXpyFrb1FylEI"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "LATIN HITS 2018 - Reggaeton, Salsa, Bachata, Pop Latino, Latin Fitness (60 Super Exitos Latinos - Club Edition)",
         "url": "https://open.spotify.com/album/7CecgOEOAK5MBc5kkEycA4"
       },
@@ -2435,22 +2415,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Bruja",
-        "url": "https://open.spotify.com/album/7eBXArBA76Ul3M0g0gYUwA"
+        "name": "Exitos, Vol.1",
+        "url": "https://open.spotify.com/album/3VYjIp6qFqI0GrEAy3tvBD"
       },
       "artists": [
         {
-          "name": "Calacote",
-          "url": "https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO"
+          "name": "L-R",
+          "url": "https://open.spotify.com/artist/1SHvPZpMlhUBjJysc0ZtV8"
         },
         {
-          "name": "Kiko el Crazy",
-          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+          "name": "La Nueva Escuela",
+          "url": "https://open.spotify.com/artist/7mcJN2bWqCv7jvykgHp4KN"
         }
       ],
-      "duration_ms": 171764,
-      "name": "Bruja",
-      "url": "https://open.spotify.com/track/5cxFAkgM6Gr9VFUr164Cos"
+      "duration_ms": 155168,
+      "name": "Ella Me Mira (feat. La Nueva Escuela)",
+      "url": "https://open.spotify.com/track/42pwnitS0DXpyFrb1FylEI"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2467,6 +2447,26 @@
       "duration_ms": 157571,
       "name": "Esa Malondra",
       "url": "https://open.spotify.com/track/6uiMQLU94ZPLF7gKKXnOQ6"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Bruja",
+        "url": "https://open.spotify.com/album/7eBXArBA76Ul3M0g0gYUwA"
+      },
+      "artists": [
+        {
+          "name": "Calacote",
+          "url": "https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        }
+      ],
+      "duration_ms": 171764,
+      "name": "Bruja",
+      "url": "https://open.spotify.com/track/5cxFAkgM6Gr9VFUr164Cos"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2547,6 +2547,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Latin Hits 2016 Club Edition - 60 Latin Music Hits (Salsa, Bachata, Dembow, Merengue, Reggaeton, Urbano, Timba, Cubaton Kuduro, Latin Fitness)",
+        "url": "https://open.spotify.com/album/1WiEQPrvuZjamAFzafoPy6"
+      },
+      "artists": [
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        }
+      ],
+      "duration_ms": 203040,
+      "name": "Debarata",
+      "url": "https://open.spotify.com/track/2L3FEivTGfG5P0rxH4OrLv"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Una Movie",
         "url": "https://open.spotify.com/album/6tNFpPVbnf9fRk2R78aBK4"
       },
@@ -2583,22 +2599,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Latin Hits 2016 Club Edition - 60 Latin Music Hits (Salsa, Bachata, Dembow, Merengue, Reggaeton, Urbano, Timba, Cubaton Kuduro, Latin Fitness)",
-        "url": "https://open.spotify.com/album/1WiEQPrvuZjamAFzafoPy6"
-      },
-      "artists": [
-        {
-          "name": "El Super Nuevo",
-          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
-        }
-      ],
-      "duration_ms": 203040,
-      "name": "Debarata",
-      "url": "https://open.spotify.com/track/2L3FEivTGfG5P0rxH4OrLv"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Edici\u00f3n de Lujo",
         "url": "https://open.spotify.com/album/3oeqfFFV0X5K7ObhiTzqry"
       },
@@ -2611,6 +2611,22 @@
       "duration_ms": 165433,
       "name": "Durisimo",
       "url": "https://open.spotify.com/track/2qm47srciNsrYrA0SFG3gD"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "duration_ms": 192835,
+      "name": "Pa Que Me Dan de Eso",
+      "url": "https://open.spotify.com/track/3p1QSTu0MI97klqS8IH6ND"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2655,22 +2671,6 @@
       "duration_ms": 501207,
       "name": "Tusi Quiere Vol 2",
       "url": "https://open.spotify.com/track/6PFcqAASJqKW8RumgjtsPN"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP"
-      },
-      "artists": [
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        }
-      ],
-      "duration_ms": 192835,
-      "name": "Pa Que Me Dan de Eso",
-      "url": "https://open.spotify.com/track/3p1QSTu0MI97klqS8IH6ND"
     },
     {
       "added_at": "2022-11-25 05:00:00",

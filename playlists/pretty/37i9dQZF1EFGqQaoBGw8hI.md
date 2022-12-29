@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,584 likes - 477 songs - 1 day 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,589 likes - 477 songs - 1 day 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,8 +208,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 198 | [Tambourine](https://open.spotify.com/track/3Y6uVmU5ndnKlbGdyuwP4t) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 4:17 |
 | 199 | [Have Mercy On The Criminal](https://open.spotify.com/track/1PHBBJNH4WFuDBlAuVKWMA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 5:57 |
 | 200 | [The Open Chord](https://open.spotify.com/track/4iW54UaPU3ozjqsCTvuuZt) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 4:04 |
-| 201 | [Dream \# 3](https://open.spotify.com/track/7cnCGtAN2cNPanepvsfW0G) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 1:36 |
-| 202 | [Whispers](https://open.spotify.com/track/3LT82gwyObsF1vpOVpJcMR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:26 |
+| 201 | [Whispers](https://open.spotify.com/track/3LT82gwyObsF1vpOVpJcMR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:26 |
+| 202 | [Dream \# 3](https://open.spotify.com/track/7cnCGtAN2cNPanepvsfW0G) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 1:36 |
 | 203 | [Open Einde](https://open.spotify.com/track/2NyyzkqlrnpPSqlxBVlH1k) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Vrije Val \(Expanded Edition\)](https://open.spotify.com/album/5BMc77Rg90zCXXmNuuJJu9) | 4:50 |
 | 204 | [Crystal](https://open.spotify.com/track/4bpNHxM2QdnG4p7ZtUb86M) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 5:05 |
 | 205 | [Once We Were Kings](https://open.spotify.com/track/4oxUtmvokfpIqg1HJ9g4pf) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 4:14 |
@@ -364,8 +364,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 354 | [Love Her Like Me](https://open.spotify.com/track/4QRoLbpMElBejhYvU5MSni) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 3:58 |
 | 355 | [Hard Luck Story](https://open.spotify.com/track/370wvMsgFk2WFsQfOI7ilP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 5:16 |
 | 356 | [I Must Have Lost It On The Wind](https://open.spotify.com/track/3HvxAXWaHkbbAzEhJiUDz4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 3:53 |
-| 357 | [Stinker](https://open.spotify.com/track/5NyYHYlGtTboKi5VoRMEtv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 5:20 |
-| 358 | [Duet For One](https://open.spotify.com/track/7pYUEPmQofVKAJhgXTf9GA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 4:52 |
+| 357 | [Duet For One](https://open.spotify.com/track/7pYUEPmQofVKAJhgXTf9GA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 4:52 |
+| 358 | [Stinker](https://open.spotify.com/track/5NyYHYlGtTboKi5VoRMEtv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 5:20 |
 | 359 | [Old 67](https://open.spotify.com/track/6oovsNtmQPIKcvEbfVpTmA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 4:01 |
 | 360 | [Believe / Song for Guy \(feat\. Elton John\)](https://open.spotify.com/track/7nfgo8cb1G5TsuGsdJSYJS) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Nightlife: Further Listening 1996 \- 2000 \(2017 Remaster\)](https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek) | 2:59 |
 | 361 | [Let Me Be Your Car](https://open.spotify.com/track/634gk7hAnQPgVz5ZAUfJO7) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Smiler](https://open.spotify.com/album/1RuMPrVES7OeG5Nam0N8mJ) | 4:57 |
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 476 | [Dandelions](https://open.spotify.com/track/088m4EqzTTqyd3aSsIsMpu) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 4:24 |
 | 477 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `Mjc4Njk4NDMsMDAwMDAwMDBhNGM2YWY5NGMxMWRmY2IxNDQxMzZjMGEzOTYzZGQ1ZA==`
+Snapshot ID: `Mjc4NzEyODMsMDAwMDAwMDAxZTQ4Y2ExNmRjOWY0ZmE5ZjMwZGFiMDIwZTM4MmYzNg==`

@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
-  "num_followers": 63890,
+  "num_followers": 64070,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDcwMmQzMmFiZjk1YTljNzc3MWIwMTYxNWIxZWY3NDlm",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMGFkOWEyMGU2NWMzNzhlMGVkMjA3NzAwN2I2ZjBmODE3",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -483,22 +483,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/6yYoYbMFB4I37AgBBsbKMy"
+        "name": "Nothing Standard",
+        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
       },
       "artists": [
         {
-          "name": "Les Crossaders",
-          "url": "https://open.spotify.com/artist/2MmYl6uhjTpPB6mSnNOWHv"
-        },
-        {
-          "name": "Deborah Dixon",
-          "url": "https://open.spotify.com/artist/1aHdv3nIrpIqY0Ot84aUCl"
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
         }
       ],
-      "duration_ms": 173253,
-      "name": "A Hard Day's Night",
-      "url": "https://open.spotify.com/track/3f3hT4I98nzIeqijasHcud"
+      "duration_ms": 388114,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -523,18 +519,38 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Nothing Standard",
-        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/6yYoYbMFB4I37AgBBsbKMy"
       },
       "artists": [
         {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
+          "name": "Les Crossaders",
+          "url": "https://open.spotify.com/artist/2MmYl6uhjTpPB6mSnNOWHv"
+        },
+        {
+          "name": "Deborah Dixon",
+          "url": "https://open.spotify.com/artist/1aHdv3nIrpIqY0Ot84aUCl"
         }
       ],
-      "duration_ms": 388114,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
+      "duration_ms": 173253,
+      "name": "A Hard Day's Night",
+      "url": "https://open.spotify.com/track/3f3hT4I98nzIeqijasHcud"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Your Mother Should Know",
+        "url": "https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "Your Mother Should Know",
+      "url": "https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -563,18 +579,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Your Mother Should Know",
-        "url": "https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO"
+        "name": "Most of the Time",
+        "url": "https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz"
       },
       "artists": [
         {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
         }
       ],
-      "duration_ms": 138213,
-      "name": "Your Mother Should Know",
-      "url": "https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal"
+      "duration_ms": 229826,
+      "name": "Most of the Time",
+      "url": "https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -591,22 +607,6 @@
       "duration_ms": 160280,
       "name": "Mrs. Robinson",
       "url": "https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Most of the Time",
-        "url": "https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Most of the Time",
-      "url": "https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "All I Do",
-        "url": "https://open.spotify.com/album/01ggqwB4iUJO47fa0T0wln"
-      },
-      "artists": [
-        {
-          "name": "Julius Rodriguez",
-          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
-        }
-      ],
-      "duration_ms": 280535,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/2ZMc5EGqLIWWU4l37EvEDi"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Jazz Volume: Herbie Hancock",
         "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 456480,
       "name": "A Case Of You - Short Version",
       "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "All I Do",
+        "url": "https://open.spotify.com/album/01ggqwB4iUJO47fa0T0wln"
+      },
+      "artists": [
+        {
+          "name": "Julius Rodriguez",
+          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
+        }
+      ],
+      "duration_ms": 280535,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/2ZMc5EGqLIWWU4l37EvEDi"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "The End Of A Summer",
-        "url": "https://open.spotify.com/album/3O3LacyGxoIb20HcvvfxTt"
-      },
-      "artists": [
-        {
-          "name": "Julia H\u00fclsmann Trio",
-          "url": "https://open.spotify.com/artist/5v4UR5BS8T0DNSPCPYqfcG"
-        }
-      ],
-      "duration_ms": 245306,
-      "name": "Kiss From A Rose",
-      "url": "https://open.spotify.com/track/1cO0leXSGQuzc7W3QMFkDS"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Life's Love Songs",
         "url": "https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 328192,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "The End Of A Summer",
+        "url": "https://open.spotify.com/album/3O3LacyGxoIb20HcvvfxTt"
+      },
+      "artists": [
+        {
+          "name": "Julia H\u00fclsmann Trio",
+          "url": "https://open.spotify.com/artist/5v4UR5BS8T0DNSPCPYqfcG"
+        }
+      ],
+      "duration_ms": 245306,
+      "name": "Kiss From A Rose",
+      "url": "https://open.spotify.com/track/1cO0leXSGQuzc7W3QMFkDS"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "In My Element",
+        "url": "https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "duration_ms": 523613,
+      "name": "Maiden Voyage / Everything In Its Right Place",
+      "url": "https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Staying in Touch",
         "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
       },
@@ -1407,18 +1423,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "In My Element",
-        "url": "https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS"
+        "name": "Joshua Redman",
+        "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
       },
       "artists": [
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
         }
       ],
-      "duration_ms": 523613,
-      "name": "Maiden Voyage / Everything In Its Right Place",
-      "url": "https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E"
+      "duration_ms": 279573,
+      "name": "I Got You - I Feel Good",
+      "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1435,22 +1451,6 @@
       "duration_ms": 229493,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Joshua Redman",
-        "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        }
-      ],
-      "duration_ms": 279573,
-      "name": "I Got You - I Feel Good",
-      "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "A Day In The Life: Impressions Of Pepper",
-        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
-      },
-      "artists": [
-        {
-          "name": "The JuJu Exchange",
-          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "A Day In The Life",
-      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Jazz Plays The Beatles",
         "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 157200,
       "name": "Can't Buy Me Love",
       "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "A Day In The Life: Impressions Of Pepper",
+        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
+      },
+      "artists": [
+        {
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "A Day In The Life",
+      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
     },
     {
       "added_at": "2022-12-22 23:00:00",

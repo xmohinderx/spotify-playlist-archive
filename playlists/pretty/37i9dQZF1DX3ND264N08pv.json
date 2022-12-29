@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 29410,
+  "num_followers": 29455,
   "original_name": "Hardcore Rage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMGNlYTZmNmM1ODc3ODUzMDNhYzJjODYyMzBlOWUxNTY0",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDA5NGFmZTc5MDI5MzYwYWRjMWIyYmUwMzM0NDE5YWEy",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -491,26 +491,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Ignition",
-        "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
-      },
-      "artists": [
-        {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 237714,
-      "name": "Ignition",
-      "url": "https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Cryexgenic",
         "url": "https://open.spotify.com/album/1wVCfLLSlUP2zprjVCYKR9"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 223215,
       "name": "Cryexgenic",
       "url": "https://open.spotify.com/track/1UACIXnIw1AVHyodV4wbhv"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Ignition",
+        "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
+      },
+      "artists": [
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 237714,
+      "name": "Ignition",
+      "url": "https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -699,26 +699,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "STRUGGLE TO SURVIVE",
-        "url": "https://open.spotify.com/album/3xjbDfiuJmTrLOgwkrotM4"
+        "name": "NO MONEY",
+        "url": "https://open.spotify.com/album/0lZNFfgKGF17zcHg86ylLm"
       },
       "artists": [
         {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+          "name": "GPF",
+          "url": "https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4"
         },
         {
-          "name": "Frenchkillerz",
-          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
-        },
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
         }
       ],
-      "duration_ms": 227022,
-      "name": "STRUGGLE TO SURVIVE",
-      "url": "https://open.spotify.com/track/5ppcwNlHYEMQOHYbo0y2Jf"
+      "duration_ms": 201014,
+      "name": "NO MONEY",
+      "url": "https://open.spotify.com/track/6wXivsC50mnHuToD2BAytt"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -747,22 +743,26 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "NO MONEY",
-        "url": "https://open.spotify.com/album/0lZNFfgKGF17zcHg86ylLm"
+        "name": "STRUGGLE TO SURVIVE",
+        "url": "https://open.spotify.com/album/3xjbDfiuJmTrLOgwkrotM4"
       },
       "artists": [
         {
-          "name": "GPF",
-          "url": "https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4"
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
         },
         {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+          "name": "Frenchkillerz",
+          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
+        },
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
         }
       ],
-      "duration_ms": 201014,
-      "name": "NO MONEY",
-      "url": "https://open.spotify.com/track/6wXivsC50mnHuToD2BAytt"
+      "duration_ms": 227022,
+      "name": "STRUGGLE TO SURVIVE",
+      "url": "https://open.spotify.com/track/5ppcwNlHYEMQOHYbo0y2Jf"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
-      },
-      "artists": [
-        {
-          "name": "Remzcore",
-          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
-        }
-      ],
-      "duration_ms": 178975,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Shadows in the Dark",
         "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 288398,
       "name": "Shadows in the Dark",
       "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
+      },
+      "artists": [
+        {
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+        }
+      ],
+      "duration_ms": 178975,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1243,6 +1243,54 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Sky Ablaze",
+        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
+      },
+      "artists": [
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "Sky Ablaze",
+      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "The Resurrection (Official Toxicator 2022 Anthem)",
+        "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 254075,
+      "name": "The Resurrection (Official Toxicator 2022 Anthem)",
+      "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Pac-man 2.0",
+        "url": "https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj"
+      },
+      "artists": [
+        {
+          "name": "FrenchFaces",
+          "url": "https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt"
+        }
+      ],
+      "duration_ms": 148360,
+      "name": "Pac-man 2.0",
+      "url": "https://open.spotify.com/track/4lXnOLBho6DRMaTUnJoACs"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Jongens van de straat",
         "url": "https://open.spotify.com/album/1S7iTYpQr6eYFLaCLWVfbt"
       },
@@ -1267,38 +1315,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Pac-man 2.0",
-        "url": "https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj"
-      },
-      "artists": [
-        {
-          "name": "FrenchFaces",
-          "url": "https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt"
-        }
-      ],
-      "duration_ms": 148360,
-      "name": "Pac-man 2.0",
-      "url": "https://open.spotify.com/track/4lXnOLBho6DRMaTUnJoACs"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Sky Ablaze",
-        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
-      },
-      "artists": [
-        {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "Sky Ablaze",
-      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
         "url": "https://open.spotify.com/album/19TTclSlr9unAuLXAC8S29"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 324300,
       "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
       "url": "https://open.spotify.com/track/6D67E5KlS9L6o2KgU3Ng0O"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "The Resurrection (Official Toxicator 2022 Anthem)",
-        "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 254075,
-      "name": "The Resurrection (Official Toxicator 2022 Anthem)",
-      "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Beat My Drum",
+        "url": "https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq"
+      },
+      "artists": [
+        {
+          "name": "Dither",
+          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
+        }
+      ],
+      "duration_ms": 202124,
+      "name": "Beat My Drum",
+      "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Kingdom (Sefa Remix)",
         "url": "https://open.spotify.com/album/3GbFuORrdFyrE0vw7ewNDv"
       },
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Beat My Drum",
-        "url": "https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq"
-      },
-      "artists": [
-        {
-          "name": "Dither",
-          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
-        }
-      ],
-      "duration_ms": 202124,
-      "name": "Beat My Drum",
-      "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "BOW DOWN",
         "url": "https://open.spotify.com/album/10RoPitNvB3vJHJtUs2ZSv"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 179240,
       "name": "BOW DOWN",
       "url": "https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
+      },
+      "artists": [
+        {
+          "name": "Bloodfire",
+          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1455,22 +1471,6 @@
       "duration_ms": 168101,
       "name": "LOSE STRESS",
       "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
-      },
-      "artists": [
-        {
-          "name": "Bloodfire",
-          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Back to Square One",
-        "url": "https://open.spotify.com/album/6kZ3RJatrJ9zZvZwIAYiJb"
-      },
-      "artists": [
-        {
-          "name": "Regain",
-          "url": "https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK"
-        }
-      ],
-      "duration_ms": 168363,
-      "name": "Come for You",
-      "url": "https://open.spotify.com/track/6jLL2rtFTGpzStKsw3XBqN"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "The Sound Flow",
         "url": "https://open.spotify.com/album/3iqIKphcsHVZa5B0Soy0cH"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 265945,
       "name": "The Sound Flow",
       "url": "https://open.spotify.com/track/2lH3W71iBNQGiQRLeHqPQF"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Back to Square One",
+        "url": "https://open.spotify.com/album/6kZ3RJatrJ9zZvZwIAYiJb"
+      },
+      "artists": [
+        {
+          "name": "Regain",
+          "url": "https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK"
+        }
+      ],
+      "duration_ms": 168363,
+      "name": "Come for You",
+      "url": "https://open.spotify.com/track/6jLL2rtFTGpzStKsw3XBqN"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Ride With Me",
-        "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
-      },
-      "artists": [
-        {
-          "name": "Vandal!sm",
-          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
-        }
-      ],
-      "duration_ms": 237818,
-      "name": "Ride With Me",
-      "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Fvcking One",
         "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 213254,
       "name": "Fvcking One",
       "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
+      },
+      "artists": [
+        {
+          "name": "Vandal!sm",
+          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
+        }
+      ],
+      "duration_ms": 237818,
+      "name": "Ride With Me",
+      "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
     },
     {
       "added_at": "2022-12-22 23:00:00",

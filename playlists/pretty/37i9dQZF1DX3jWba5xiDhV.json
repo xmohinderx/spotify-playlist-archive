@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 74060,
+  "num_followers": 74391,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMDkzMGYyYTYyY2Y0MGJjZGMwZGY1ZGU0OWZkZmMxYjJl",
+  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMDc2MjE0NDVmMjIyMjc3MDNiMzQxZDliN2IwZDMyNzUy",
   "tracks": [
     {
       "added_at": "2022-10-07 08:10:31",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/4eDKBINPlkkrz4AkZhx42I"
-      },
-      "artists": [
-        {
-          "name": "Gazebo",
-          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
-        }
-      ],
-      "duration_ms": 291720,
-      "name": "I Like Chopin",
-      "url": "https://open.spotify.com/track/2FHnN5ELL83TGbtXMDzoiJ"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Better Than Heaven",
         "url": "https://open.spotify.com/album/71st36nPTXAgWnEaNg9AZa"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 239693,
       "name": "Two of Hearts",
       "url": "https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/4eDKBINPlkkrz4AkZhx42I"
+      },
+      "artists": [
+        {
+          "name": "Gazebo",
+          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
+        }
+      ],
+      "duration_ms": 291720,
+      "name": "I Like Chopin",
+      "url": "https://open.spotify.com/track/2FHnN5ELL83TGbtXMDzoiJ"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
+        "name": "Disco Modernism (1983 - 2008)",
+        "url": "https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu"
+      },
+      "artists": [
+        {
+          "name": "Fred Ventura",
+          "url": "https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC"
+        }
+      ],
+      "duration_ms": 371920,
+      "name": "Wind of Change",
+      "url": "https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
         "name": "\u00c7a Va? Je t'aime! (Feat. EMMANUELLE)",
         "url": "https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 208194,
       "name": "\u00c7a va? Je t\u2019aime! (feat. EMMANUELLE)",
       "url": "https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
-        "name": "Disco Modernism (1983 - 2008)",
-        "url": "https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu"
-      },
-      "artists": [
-        {
-          "name": "Fred Ventura",
-          "url": "https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC"
-        }
-      ],
-      "duration_ms": 371920,
-      "name": "Wind of Change",
-      "url": "https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "The Sound of Tony Esposito",
-        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
-      },
-      "artists": [
-        {
-          "name": "Tony Esposito",
-          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
-        }
-      ],
-      "duration_ms": 313133,
-      "name": "Kalimba de luna",
-      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Automatic Dub 2",
         "url": "https://open.spotify.com/album/2gALEQAxbisVObFd0dfwwG"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 396511,
       "name": "Automatic Dub",
       "url": "https://open.spotify.com/track/1vu5RVntahCOW5bdwdJRTV"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "The Sound of Tony Esposito",
+        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
+      },
+      "artists": [
+        {
+          "name": "Tony Esposito",
+          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
+        }
+      ],
+      "duration_ms": 313133,
+      "name": "Kalimba de luna",
+      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
+        "name": "Caf\u00e8",
+        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
+      },
+      "artists": [
+        {
+          "name": "Dd Sound",
+          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
+        }
+      ],
+      "duration_ms": 393773,
+      "name": "Caf\u00e8 - Original 1979 Version",
+      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
         "name": "Under the Ice - Single",
         "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Caf\u00e8",
-        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
-      },
-      "artists": [
-        {
-          "name": "Dd Sound",
-          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
-        }
-      ],
-      "duration_ms": 393773,
-      "name": "Caf\u00e8 - Original 1979 Version",
-      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Challenger",
         "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
       },
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Bambina c/o Bye Bye Mi Amor",
-        "url": "https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb"
+        "name": "Italo Disco Vol. 2",
+        "url": "https://open.spotify.com/album/1Akyh6zkWizFkp101VjwTK"
       },
       "artists": [
         {
-          "name": "David Lyme",
-          "url": "https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1"
+          "name": "Gang",
+          "url": "https://open.spotify.com/artist/6w6I1RM8AvngUMogImmkxj"
         }
       ],
-      "duration_ms": 331200,
-      "name": "Bambina (Original 12-Inch Version)",
-      "url": "https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD"
+      "duration_ms": 313813,
+      "name": "KKK",
+      "url": "https://open.spotify.com/track/0exbk0My19GkSkpsz2SHqv"
     }
   ],
   "unique_name": "Italo Disco",

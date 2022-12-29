@@ -1,12 +1,12 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 1418462,
+  "num_followers": 1419574,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NzI1MCwwMDAwMDAwMGI4YzRlNzZmYzdhYmNkZDQyYzUxZTZjM2EyYjkyMGVj",
+  "snapshot_id": "MTY3MTE2NzI1MCwwMDAwMDAwMGU4MzhlZThjNDZhYzFlZWZlMDVkMzZkOTZmYjNlODc0",
   "tracks": [
     {
       "added_at": "2022-12-16 05:07:30",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-12-16 05:07:30",
       "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"
+    },
+    {
+      "added_at": "2022-12-16 05:07:30",
+      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 309322,
       "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)",
       "url": "https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4"
-    },
-    {
-      "added_at": "2022-12-16 05:07:30",
-      "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"
     },
     {
       "added_at": "2022-12-16 05:07:30",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-12-16 05:07:30",
       "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR"
-      },
-      "artists": [
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Hall of Fame",
-      "url": "https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ"
-    },
-    {
-      "added_at": "2022-12-16 05:07:30",
-      "album": {
         "name": "IN DIMES WE TRUST",
         "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2022-12-16 05:07:30",
       "album": {
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Hall of Fame",
+      "url": "https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ"
+    },
+    {
+      "added_at": "2022-12-16 05:07:30",
+      "album": {
         "name": "WAITRESS",
         "url": "https://open.spotify.com/album/6VIsocCK7mDklr0V3UouGZ"
       },
@@ -1103,6 +1103,30 @@
       "duration_ms": 132018,
       "name": "WAITRESS",
       "url": "https://open.spotify.com/track/6I5DkMtgMjN6k270nRwNEl"
+    },
+    {
+      "added_at": "2022-12-16 05:07:30",
+      "album": {
+        "name": "Finger Food",
+        "url": "https://open.spotify.com/album/5PMB3dVQeDR63EftsRyVd1"
+      },
+      "artists": [
+        {
+          "name": "Rolling Loud",
+          "url": "https://open.spotify.com/artist/1KV1kUwVWFHdF8J4GGiMkg"
+        },
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        },
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        }
+      ],
+      "duration_ms": 218413,
+      "name": "Finger Food",
+      "url": "https://open.spotify.com/track/1gXOwyDr6zzIL6FHk5L9IJ"
     },
     {
       "added_at": "2022-12-16 05:07:30",
@@ -1139,30 +1163,6 @@
       "duration_ms": 186538,
       "name": "AHHH HA",
       "url": "https://open.spotify.com/track/2bPI4TKM4oTxl2SijUXM2J"
-    },
-    {
-      "added_at": "2022-12-16 05:07:30",
-      "album": {
-        "name": "Finger Food",
-        "url": "https://open.spotify.com/album/5PMB3dVQeDR63EftsRyVd1"
-      },
-      "artists": [
-        {
-          "name": "Rolling Loud",
-          "url": "https://open.spotify.com/artist/1KV1kUwVWFHdF8J4GGiMkg"
-        },
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        },
-        {
-          "name": "Duke Deuce",
-          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
-        }
-      ],
-      "duration_ms": 218413,
-      "name": "Finger Food",
-      "url": "https://open.spotify.com/track/1gXOwyDr6zzIL6FHk5L9IJ"
     },
     {
       "added_at": "2022-12-16 05:07:30",

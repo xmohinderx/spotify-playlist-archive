@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 406154,
+  "num_followers": 406334,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDVhNDkyMjQxMTcxNzA5MjM2M2U4OGE1ODg2NmFjYTIx",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGY3N2RlY2Q1NTFiMThiZTUwYzRiOGYxNDNmMWQ1OWRj",
   "tracks": [
     {
       "added_at": "2020-12-22 17:15:29",
@@ -197,26 +197,6 @@
       "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
     },
     {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "NOTHIN LIKE U / CHANCES",
-        "url": "https://open.spotify.com/album/2KVBhRpYqnjAVE4eWW3W6g"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 218200,
-      "name": "CHANCES",
-      "url": "https://open.spotify.com/track/439X8jGytErRiPnaoUJHju"
-    },
-    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "Matter of Time (feat. Alex Maher)",
@@ -235,6 +215,26 @@
       "duration_ms": 240009,
       "name": "Matter of Time (feat. Alex Maher)",
       "url": "https://open.spotify.com/track/1TW9J0imyVBMihuwHqJ5sf"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "NOTHIN LIKE U / CHANCES",
+        "url": "https://open.spotify.com/album/2KVBhRpYqnjAVE4eWW3W6g"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "CHANCES",
+      "url": "https://open.spotify.com/track/439X8jGytErRiPnaoUJHju"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
     },
     {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Pizza Guy / Show Me",
-        "url": "https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790"
-      },
-      "artists": [
-        {
-          "name": "Touch Sensitive",
-          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
-        }
-      ],
-      "duration_ms": 349413,
-      "name": "Pizza Guy",
-      "url": "https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Fever Dream",
@@ -663,6 +647,22 @@
       "duration_ms": 263418,
       "name": "Tunnel of You",
       "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Pizza Guy / Show Me",
+        "url": "https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790"
+      },
+      "artists": [
+        {
+          "name": "Touch Sensitive",
+          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
+        }
+      ],
+      "duration_ms": 349413,
+      "name": "Pizza Guy",
+      "url": "https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -951,22 +951,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Taking Over",
-        "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
-      },
-      "artists": [
-        {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        }
-      ],
-      "duration_ms": 336867,
-      "name": "Taking Over",
-      "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Hesitate",
         "url": "https://open.spotify.com/album/5yCaCrHtiOhgbdBAupRJJM"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 251279,
       "name": "Hesitate",
       "url": "https://open.spotify.com/track/6L4xcis49DzITX6J3dPdcz"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Taking Over",
+        "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "duration_ms": 336867,
+      "name": "Taking Over",
+      "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
     },
     {
       "added_at": "2021-08-30 22:51:44",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Oh Uncertainty! A Universe Despairs",
-        "url": "https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX"
-      },
-      "artists": [
-        {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "Best for You",
-      "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 134220,
       "name": "Moody",
       "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Oh Uncertainty! A Universe Despairs",
+        "url": "https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "duration_ms": 213040,
+      "name": "Best for You",
+      "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Californian Soil",
-        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 243284,
-      "name": "Baby It's You",
-      "url": "https://open.spotify.com/track/2g8y0qpGaM3HTWWJZiInKA"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Sister",
         "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 268829,
       "name": "Sister",
       "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Californian Soil",
+        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 243284,
+      "name": "Baby It's You",
+      "url": "https://open.spotify.com/track/2g8y0qpGaM3HTWWJZiInKA"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
     },
     {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "I Can Change",
-        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 331525,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
-    },
-    {
       "added_at": "2021-03-08 18:24:23",
       "album": {
         "name": "Blue Ceiling",
@@ -1199,6 +1183,22 @@
       "duration_ms": 166909,
       "name": "Blue Ceiling",
       "url": "https://open.spotify.com/track/6o0kb9c076D1vN0NDlLMSR"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "I Can Change",
+        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 331525,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "All Becomes Okay",
-        "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 228162,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Shine a Light",
         "url": "https://open.spotify.com/album/1JiEqgVUMWk0F6P31nvwLG"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 349962,
       "name": "Shine a Light - Flight Facilities Remix",
       "url": "https://open.spotify.com/track/2nNSYajMD4ScHbhthVPqrh"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "All Becomes Okay",
+        "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 228162,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
     },
     {
       "added_at": "2020-12-22 17:15:29",

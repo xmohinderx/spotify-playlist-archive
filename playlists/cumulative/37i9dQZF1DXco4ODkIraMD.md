@@ -4,7 +4,7 @@
 
 > Esos éxitos que todavía quieres seguir escuchando\. Foto: J Balvin & Bad Bunny
 
-300 songs - 18 hr 20 min - [published](https://open.spotify.com/playlist/6ENxT1J0ltTig8PeynE97H)
+301 songs - 18 hr 23 min - [published](https://open.spotify.com/playlist/6ENxT1J0ltTig8PeynE97H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 | 2022-03-31 |  |
 | [Con Calma](https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [Con Calma](https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh) | 3:13 | 2022-03-31 |  |
 | [Confía](https://open.spotify.com/track/5kbps8unnGH4raN5WduZuq) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:22 | 2022-01-13 | 2022-04-20 |
-| [Contra La Pared](https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Contra La Pared](https://open.spotify.com/album/1bd0v6EhJjlU1UXuHQrxWQ) | 3:44 | 2022-03-31 |  |
+| [Contra La Pared](https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Contra La Pared](https://open.spotify.com/album/1bd0v6EhJjlU1UXuHQrxWQ) | 3:44 | 2022-03-31 | 2022-12-29 |
 | [Control \(feat\. Ecko\)](https://open.spotify.com/track/7BcRyPvhfTnkI4jZ5wLMBV) | [Agus Padilla](https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Control \(feat\. Ecko\)](https://open.spotify.com/album/69sTXkRzE0eFDr2obTd3GM) | 3:08 | 2022-03-31 | 2022-04-15 |
 | [Coolant](https://open.spotify.com/track/2fHOqQ9K6eY0wsbVZiYZPw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Coolant](https://open.spotify.com/album/6hURCisLKBolUaJJRhStAs) | 3:31 | 2021-12-10 | 2022-07-29 |
 | [Corazon De Seda \(feat\. Ozuna\)](https://open.spotify.com/track/0uRHot8ml8U8cYVwwzMwNT) | [Klasico](https://open.spotify.com/artist/6ejQ8vRKDUNBT2UyG3OaAM), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Que Gustan](https://open.spotify.com/album/303q7Gwd1npoNdMFtoAe9s) | 3:06 | 2021-12-10 |  |
@@ -303,6 +303,7 @@
 | [Verte Ir](https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR) | [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Verte Ir](https://open.spotify.com/album/76XsfdI0kGODDdhHAJKZi3) | 4:27 | 2021-12-10 |  |
 | [Web Cam](https://open.spotify.com/track/5GuWPgbyi879jGbQDdfM7V) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [El Talento del Bloque](https://open.spotify.com/album/5juo8FAhKpHZrXkKnKe5BQ) | 3:26 | 2022-01-13 | 2022-07-25 |
 | [X](https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 2:52 | 2022-03-31 |  |
+| [Y Si La Ves](https://open.spotify.com/track/3knSV43PghlJfTAIL2pbI3) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Y Si La Ves](https://open.spotify.com/album/5Zy52gEJ6MtKJ1zoM58r6E) | 3:18 | 2022-08-17 |  |
 | [Y Si La Ves](https://open.spotify.com/track/4J95x9uhN2aGkZnJb6uTdN) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Y Si La Ves](https://open.spotify.com/album/7zxlJMLiVAATUS56AxMtBh) | 3:18 | 2021-12-10 | 2022-07-29 |
 | [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 | 2021-12-10 | 2022-07-29 |
 | [Yo Te Lo Dije](https://open.spotify.com/track/7EIW8lOBAy83dU2YXnYUTT) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Yo Te Lo Dije](https://open.spotify.com/album/4F3OHfIxfvWw9WKyNX2pMh) | 3:40 | 2021-12-10 | 2022-07-28 |

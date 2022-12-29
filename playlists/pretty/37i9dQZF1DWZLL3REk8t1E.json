@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A calentar garganta!",
-  "num_followers": 1100351,
+  "num_followers": 1100494,
   "original_name": "La Cantina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDRhNTNjM2I3ZmViNmVlMmQ3NTFkNmE1NmYyYWRkYzVk",
+  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMGY5YzFkNDg3NzI5MDhmMmNjYzA2OWM3MWI4ZDE0ZDg2",
   "tracks": [
     {
       "added_at": "2022-08-03 18:59:26",
@@ -1529,24 +1529,20 @@
       "url": "https://open.spotify.com/track/0zuXHJrWM3tE6Ia7BtGSRU"
     },
     {
-      "added_at": "2022-09-30 05:00:00",
+      "added_at": "2022-08-03 18:59:26",
       "album": {
-        "name": "M\u00eda Un A\u00f1o",
-        "url": "https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT"
+        "name": "EL INFIERNO",
+        "url": "https://open.spotify.com/album/5zM5b1Ha8HwK6w5xRO4DFf"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
         }
       ],
-      "duration_ms": 174626,
-      "name": "M\u00eda Un A\u00f1o",
-      "url": "https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey"
+      "duration_ms": 217066,
+      "name": "EL INFIERNO",
+      "url": "https://open.spotify.com/track/2DhbJTNWJ4ChxnMEcY0WAq"
     },
     {
       "added_at": "2022-08-03 18:59:26",
@@ -1565,20 +1561,24 @@
       "url": "https://open.spotify.com/track/4xgBQfC09yhhY44xgcN6vx"
     },
     {
-      "added_at": "2022-08-03 18:59:26",
+      "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "EL INFIERNO",
-        "url": "https://open.spotify.com/album/5zM5b1Ha8HwK6w5xRO4DFf"
+        "name": "M\u00eda Un A\u00f1o",
+        "url": "https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT"
       },
       "artists": [
         {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 217066,
-      "name": "EL INFIERNO",
-      "url": "https://open.spotify.com/track/2DhbJTNWJ4ChxnMEcY0WAq"
+      "duration_ms": 174626,
+      "name": "M\u00eda Un A\u00f1o",
+      "url": "https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey"
     },
     {
       "added_at": "2022-08-03 18:59:26",

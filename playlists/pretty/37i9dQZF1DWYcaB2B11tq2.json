@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 325767,
+  "num_followers": 325955,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDRmY2M2NDlhZmE2M2RiNzgyZjRkODQ3M2JiZDAwMjQw",
+  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMGMzZGFmZmY2NTMyYWEyNDc3NjQ5MDk3NWI1NTgwNGI4",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Speak Revival",
-        "url": "https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 367760,
-      "name": "Fullness",
-      "url": "https://open.spotify.com/track/5UqyM8fDp1hAAvcb83TS7B"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Todo Pasar\u00e1",
         "url": "https://open.spotify.com/album/2qYzPWIFw6k0lix800JNyL"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 225900,
       "name": "Todo Pasar\u00e1",
       "url": "https://open.spotify.com/track/79MIBZkxaab6Pqv1Jsb49G"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Speak Revival",
+        "url": "https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 367760,
+      "name": "Fullness",
+      "url": "https://open.spotify.com/track/5UqyM8fDp1hAAvcb83TS7B"
     },
     {
       "added_at": "2021-05-21 19:19:27",

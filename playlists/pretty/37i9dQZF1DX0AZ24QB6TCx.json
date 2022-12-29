@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 278029,
+  "num_followers": 278099,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMTQwNSwwMDAwMDAwMGM0MjNlNDAxYTUwMzFlNTI0ODcyMGRjZTAzOTYzMWRh",
+  "snapshot_id": "MTY3MTIxMTQwNSwwMDAwMDAwMDlkZjQ3NjUyMzM1ZjQ3YTFjM2RhNDQwYTJhNDU2NjMy",
   "tracks": [
     {
       "added_at": "2022-12-16 17:23:24",
@@ -135,6 +135,26 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 279573,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
+    },
+    {
+      "added_at": "2022-12-16 17:23:24",
+      "album": {
         "name": "Tell Me (feat. Hero Baldwin)",
         "url": "https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque"
       },
@@ -155,26 +175,6 @@
       "duration_ms": 203522,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7"
-    },
-    {
-      "added_at": "2022-12-16 17:23:24",
-      "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 279573,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
     },
     {
       "added_at": "2022-12-16 17:23:24",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
-        "name": "Unspoken Words",
-        "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 285675,
-      "name": "Spectrum",
-      "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
-    },
-    {
-      "added_at": "2022-12-16 17:23:24",
-      "album": {
         "name": "Killing Time",
         "url": "https://open.spotify.com/album/6xNjdHhhNVSjGWciTy1BxH"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 332000,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/77kPYUHSjGVr71TNQrbvvj"
+    },
+    {
+      "added_at": "2022-12-16 17:23:24",
+      "album": {
+        "name": "Unspoken Words",
+        "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 285675,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
     },
     {
       "added_at": "2022-12-16 17:23:24",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
-        "name": "Vanished",
-        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
-      },
-      "artists": [
-        {
-          "name": "Ceas",
-          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
-        }
-      ],
-      "duration_ms": 356000,
-      "name": "Vanished",
-      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
-    },
-    {
-      "added_at": "2022-12-16 17:23:24",
-      "album": {
         "name": "Subconsciously",
         "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 462560,
       "name": "I'm Fallin (feat. RY X)",
       "url": "https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY"
+    },
+    {
+      "added_at": "2022-12-16 17:23:24",
+      "album": {
+        "name": "Vanished",
+        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
+      },
+      "artists": [
+        {
+          "name": "Ceas",
+          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "Vanished",
+      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
     },
     {
       "added_at": "2022-12-16 17:23:24",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
-        "name": "Perspective EP",
-        "url": "https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh"
-      },
-      "artists": [
-        {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
-        }
-      ],
-      "duration_ms": 304753,
-      "name": "Message",
-      "url": "https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF"
-    },
-    {
-      "added_at": "2022-12-16 17:23:24",
-      "album": {
         "name": "The Tribe",
         "url": "https://open.spotify.com/album/6HdlZw4vN6vtMGDVNRVFZk"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 508091,
       "name": "The Tribe",
       "url": "https://open.spotify.com/track/7LiOGey9rkzEndaZ0nSIvs"
+    },
+    {
+      "added_at": "2022-12-16 17:23:24",
+      "album": {
+        "name": "Perspective EP",
+        "url": "https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        }
+      ],
+      "duration_ms": 304753,
+      "name": "Message",
+      "url": "https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF"
     },
     {
       "added_at": "2022-12-16 17:23:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Youngboy NBA, Coi Leray and more\. Cover: Hotboii
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,580 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,765 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 44 | [Specialty](https://open.spotify.com/track/6wVm22yQR2vux6aLz4MLp4) | [Billacheck](https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH) | [Specialty](https://open.spotify.com/album/3IV5khV7VfuX3DCnIMF8ZQ) | 1:52 |
 | 45 | [Sko](https://open.spotify.com/track/7Atyu3gAjkdmxYt0kZawgX) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Sko](https://open.spotify.com/album/0FigtA2FRPWenIdAu5ElwS) | 2:30 |
 | 46 | [Red on My Mind](https://open.spotify.com/track/1xjlu7pqQoqYRkFzSQKLr6) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Red on My Mind](https://open.spotify.com/album/0V7lso2skTahpWZBSp4e87) | 2:19 |
-| 47 | [Tired](https://open.spotify.com/track/2ayYyt1AKc5eFIVbzieG6y) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Tired](https://open.spotify.com/album/7DX362BKElkVx87g476jeA) | 2:40 |
+| 47 | [Tired \(feat\. Rob49\)](https://open.spotify.com/track/2ayYyt1AKc5eFIVbzieG6y) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Tired \(feat\. Rob49\)](https://open.spotify.com/album/7DX362BKElkVx87g476jeA) | 2:40 |
 | 48 | [SUKISADA](https://open.spotify.com/track/1uawwhj5sMN2M535rWd4Xs) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [SUKISADA](https://open.spotify.com/album/3FfOGRD9hSOwzgKZf0sYQr) | 3:41 |
 | 49 | [Life Is What You Make It](https://open.spotify.com/track/61udKFuWpTjLVb4OSNT8Jx) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [Life Is What You Make It](https://open.spotify.com/album/2kSxp2BZd5Zjaryjnzlw3J) | 2:18 |
 | 50 | [Everlasting](https://open.spotify.com/track/31h2Iv1c5xeUJq4pXd0XCR) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX), [Lil 2z](https://open.spotify.com/artist/3XQ81u1a60R7egDWLKzV88) | [2's & 4's](https://open.spotify.com/album/4nNZ4wVnJ4I6NEegDHQ9RC) | 3:20 |

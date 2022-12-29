@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 1670,
+  "num_followers": 1691,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMDEwZWZkYmZmM2IyMzY4YmU5NmFmZjRhMDRiNWMyNzMx",
+  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMGMwOWMyOGNkZDMyZmZjYmNhN2NmZDU1OWI5NDA0ZWZh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -623,26 +623,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Hit Bout It",
-        "url": "https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 177158,
-      "name": "Hit Bout It",
-      "url": "https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Stay Down (with 6LACK & Young Thug)",
         "url": "https://open.spotify.com/album/6sj2rIjEotPclHMD1w3pZU"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 169330,
       "name": "Stay Down (with 6LACK & Young Thug)",
       "url": "https://open.spotify.com/track/5PrUgp50eMSlL8oCF1tkQX"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Hit Bout It",
+        "url": "https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 177158,
+      "name": "Hit Bout It",
+      "url": "https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6"
     },
     {
       "added_at": "2022-10-01 16:09:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: Paky
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,918 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,010 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 53 | [Bossoli](https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Bossoli](https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq) | 2:58 |
 | 54 | [BlaBlaBla](https://open.spotify.com/track/5hGjnVZzA563cMLHy22keP) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [BlaBlaBla](https://open.spotify.com/album/7mqK8UcO20KLRVvlWObIf7) | 1:53 |
 | 55 | [DREAM TEAM \(feat\. Pyrex, Capo Plaza, Tedua & Shiva\)](https://open.spotify.com/track/4IjDcm8qRdRiwrRtpIdpSD) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [X2](https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5) | 2:38 |
-| 56 | [Polo nord \- C+N Progressive Mix](https://open.spotify.com/track/1Wbc0N0X1zkFqnKGcj8Quh) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Nic Sarno](https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo) | [Scialla Semper \(Emodrill Repack\)](https://open.spotify.com/album/6nIBGD2Z0TbFrNcFOfhHVJ) | 4:09 |
-| 57 | [Thick \(feat\. MamboLosco\) \- Remix](https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Thick \(feat\. MamboLosco\) \[Remix\]](https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c) | 2:11 |
+| 56 | [Thick \(feat\. MamboLosco\) \- Remix](https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Thick \(feat\. MamboLosco\) \[Remix\]](https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c) | 2:11 |
+| 57 | [Polo nord \- C+N Progressive Mix](https://open.spotify.com/track/1Wbc0N0X1zkFqnKGcj8Quh) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Nic Sarno](https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo) | [Scialla Semper \(Emodrill Repack\)](https://open.spotify.com/album/6nIBGD2Z0TbFrNcFOfhHVJ) | 4:09 |
 | 58 | [181](https://open.spotify.com/track/3yEA1LJvalVoh8ejwq7PHD) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Verano](https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 2:20 |
 | 59 | [Twerk \(con Boro Boro\)](https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Arte](https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ) | 2:32 |
 | 60 | [ANSIA NO](https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9) | [FSK SATELLITE](https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH) | [FSK TRAPSHIT REVENGE](https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S) | 2:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 79 | [Serio \(feat\. Capo Plaza\)](https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Serio](https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3) | 3:38 |
 | 80 | [Il Doc 2 \(feat\. Tony Effe & Guè\)](https://open.spotify.com/track/2mKxTSrVPzc6dS8VqNTIYZ) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Il Doc 2 \(feat\. Tony Effe & Guè\)](https://open.spotify.com/album/1Ldy8KRZOLtwLJP3NmIR3q) | 2:54 |
 
-Snapshot ID: `MTY3MTE0NTI2MCwwMDAwMDAwMGQ2OGFhZmRmMTNlNGQ2MzEyODg5Y2RiMjM0M2Y3OTM4`
+Snapshot ID: `MTY3MTE0NTI2MCwwMDAwMDAwMDQ0NjFiYTFhNTdkYjgwYWZlYjk4ZmI0NTdiZTBkNWQ2`

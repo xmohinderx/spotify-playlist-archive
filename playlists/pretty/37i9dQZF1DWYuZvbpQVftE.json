@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 13206,
+  "num_followers": 13239,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEzMjQ4MSwwMDAwMDAwMDdkMDk3Yzg1MGViMmFjMjk4MTRkNThlNzdiNGQ4Nzc2",
+  "snapshot_id": "MTY2NTEzMjQ4MSwwMDAwMDAwMDE4MTYxMjU5YmMzYjNhMjNhZDRhNTUxM2IwMzIyYTY5",
   "tracks": [
     {
       "added_at": "2022-10-07 08:48:01",
@@ -491,26 +491,6 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
-        "name": "Blowin' Country",
-        "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
-      },
-      "artists": [
-        {
-          "name": "Bud Shank",
-          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
-        },
-        {
-          "name": "Bob Cooper",
-          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "Steve Allen Theme",
-      "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
-    },
-    {
-      "added_at": "2022-10-07 08:48:01",
-      "album": {
         "name": "Jimmy Raney Featuring Bob Brookmeyer",
         "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 246466,
       "name": "Isn't It Romantic",
       "url": "https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr"
+    },
+    {
+      "added_at": "2022-10-07 08:48:01",
+      "album": {
+        "name": "Blowin' Country",
+        "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
+      },
+      "artists": [
+        {
+          "name": "Bud Shank",
+          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
+        },
+        {
+          "name": "Bob Cooper",
+          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "Steve Allen Theme",
+      "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
     },
     {
       "added_at": "2022-10-07 08:48:01",

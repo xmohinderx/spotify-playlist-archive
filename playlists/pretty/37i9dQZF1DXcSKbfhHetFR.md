@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,709 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,717 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 5 | [Compter les corps](https://open.spotify.com/track/7mDh6tKtDYEkt8b1rXVTe0) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Compter les corps](https://open.spotify.com/album/0KPZyx1f8iQqRkj9d0gTbB) | 3:50 |
 | 6 | [Boomerang](https://open.spotify.com/track/6xw1lHAsGmik1lu0k15zk9) | [Kevin Parent](https://open.spotify.com/artist/5hOp5PaxAcdnaZtv4oqJCw) | [Pigeon d'argile](https://open.spotify.com/album/1GTX1BnzitW8M9h1Nrpofh) | 3:54 |
 | 7 | [Amalgame](https://open.spotify.com/track/21ATIZAwB9QXBOpTzw2lDM) | [Les Respectables](https://open.spotify.com/artist/1BgrTWzH5jW2zl79JfSLtl) | [$=Bonheur](https://open.spotify.com/album/3S1vz4DSEQFippvw8v05ev) | 4:27 |
-| 8 | [J'ai oublié](https://open.spotify.com/track/0fxyIaAHcZg6uBlFSHYyJM) | [Captaine Révolte](https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC) | [Danse sociale](https://open.spotify.com/album/43HrZpsHePmMfgN69PTnFR) | 3:55 |
-| 9 | [Le temps passe](https://open.spotify.com/track/4Wn546nf6SBGLC69yWHyos) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Chacun dans son espace](https://open.spotify.com/album/4t7Fp8XNpNChA2HQegZAEX) | 3:24 |
+| 8 | [Le temps passe](https://open.spotify.com/track/4Wn546nf6SBGLC69yWHyos) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Chacun dans son espace](https://open.spotify.com/album/4t7Fp8XNpNChA2HQegZAEX) | 3:24 |
+| 9 | [J'ai oublié](https://open.spotify.com/track/0fxyIaAHcZg6uBlFSHYyJM) | [Captaine Révolte](https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC) | [Danse sociale](https://open.spotify.com/album/43HrZpsHePmMfgN69PTnFR) | 3:55 |
 | 10 | [Moisi moé'ssi](https://open.spotify.com/track/7AjsJZERJcf80ZqBSK9JYL) | [Fred Fortin](https://open.spotify.com/artist/5ryQZJpg6hSgRjMO5Jh5I1) | [Joseph Antoine Frédéric Fortin Perron](https://open.spotify.com/album/4eX5rBmbbwvO2aDefCrDLo) | 3:15 |
 | 11 | [Le savant fou](https://open.spotify.com/track/2LHoVyY2KYcbvtyhiX90LN) | [eXterio](https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF) | [Le délire du savant fou](https://open.spotify.com/album/5U0ic2IdlLwMhRI328aU1J) | 3:19 |
 | 12 | [Les patates](https://open.spotify.com/track/7BnwGX5p7SSgcsST0vBS08) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1), [Anonymus](https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8) | [L'académie du massacre](https://open.spotify.com/album/1dUcPSoAYiiJ2ywiDbqnZ4) | 2:56 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 36 | [Sa craque au soleil](https://open.spotify.com/track/1eYkQO5OnEWa2tufpnKX92) | [Les frères Goyette](https://open.spotify.com/artist/1jnXQuhb3GMkO1voaEgjTW) | [Minimiser les dégâts](https://open.spotify.com/album/6WVpajKNQ7RdgDaGl6tTGU) | 2:59 |
 | 37 | [Cité rock suicide](https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi) | [Arseniq33](https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU) | [Courtepointes](https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5) | 3:04 |
 | 38 | [Dans les airs](https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I) | [Vénus 3](https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU) | [Sur quelle planète](https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB) | 5:23 |
-| 39 | [Si j'ai tort](https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [Le silence des roses](https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF) | 4:23 |
+| 39 | [Thermoplastique](https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM) | [Les Secrétaires Volantes](https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF) | [Thermoplastique](https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM) | 2:53 |
 | 40 | [Mini\-jupe et watusi](https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 1:57 |
-| 41 | [Thermoplastique](https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM) | [Les Secrétaires Volantes](https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF) | [Thermoplastique](https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM) | 2:53 |
+| 41 | [Si j'ai tort](https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [Le silence des roses](https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF) | 4:23 |
 | 42 | [Le teint de Linda](https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Le Chihuahua](https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe) | 4:39 |
 | 43 | [Joyeus'ment désespéré](https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA) | [La Chango Family](https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8) | [La Chango Family](https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd) | 3:26 |
 | 44 | [Vent fou](https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb) | [Jorane](https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7) | [Vent fou](https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t) | 1:19 |
 | 45 | [Une araignée au plafond](https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h) | [coma](https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC) | [Coma](https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ) | 3:39 |
-| 46 | [Laissez venir à moi les grandes brunes](https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB) | [Le Nombre](https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d) | [Le Nombre](https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG) | 2:54 |
+| 46 | [Fuck'n'shit baby love!](https://open.spotify.com/track/4g93mKyhPoyteuASIPB5Fx) | [Le Karlof Orchestra](https://open.spotify.com/artist/7KntwuIhLLYTksaejy4b7z) | [Fuck'n'shit baby love!](https://open.spotify.com/album/4K8ZHTSgSH3IX56pKOod5i) | 2:07 |
 | 47 | [Gwen et les rats](https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a) | [Gwenwed](https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT) | [l'amour la haine les animaux les automobiles](https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW) | 3:08 |
-| 48 | [Fuck'n'shit baby love!](https://open.spotify.com/track/4g93mKyhPoyteuASIPB5Fx) | [Le Karlof Orchestra](https://open.spotify.com/artist/7KntwuIhLLYTksaejy4b7z) | [Fuck'n'shit baby love!](https://open.spotify.com/album/4K8ZHTSgSH3IX56pKOod5i) | 2:07 |
+| 48 | [Laissez venir à moi les grandes brunes](https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB) | [Le Nombre](https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d) | [Le Nombre](https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG) | 2:54 |
 | 49 | [Alinéa](https://open.spotify.com/track/22lo0iW3QMBCTyVm1BnsWt) | [El Motor](https://open.spotify.com/artist/4NIlqFEWcoMo6rfATI1FRQ) | [El Motor](https://open.spotify.com/album/6IbcIVV1tB5vboWRJSe3ef) | 4:31 |
 | 50 | [La chèvre](https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi) | [Band de Garage](https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa) | [Corpo\-Trash\-Vidange](https://open.spotify.com/album/2YPx6Dndpg7rxy6xwck48d) | 2:55 |
 
-Snapshot ID: `MTU5MjkyMzY1MCwwMDAwMDAwMGY3ZTNjMTQwMmY3NDI0OGJhMzc0MDcyMjBkYzFiOWIy`
+Snapshot ID: `MTU5MjkyMzY1MCwwMDAwMDAwMGM0NjVjNjNlZWJlZjAzMDJjNzBlMzI1NWE5ZjkzNWQx`

@@ -1,12 +1,12 @@
 {
   "description": "Ibiza season is back for 2022. Let's dance!",
-  "num_followers": 77554,
+  "num_followers": 77732,
   "original_name": "Ibiza 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUzNzc2MCwwMDAwMDAwMDhmNDg1NTI1YmQwNzMwMTFkNjllOTNhZTY2NzVhYmNm",
+  "snapshot_id": "MTY2MTUzNzc2MCwwMDAwMDAwMDM0YjcwNWZlNDI5ZWY1ZDJkNDMxYmEzNzFlZDIyN2Uz",
   "tracks": [
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
-        "name": "Olympia",
-        "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "You've Done Enough",
-      "url": "https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP"
-    },
-    {
-      "added_at": "2022-08-26 18:16:00",
-      "album": {
         "name": "Sete",
         "url": "https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 209760,
       "name": "Sete",
       "url": "https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj"
+    },
+    {
+      "added_at": "2022-08-26 18:16:00",
+      "album": {
+        "name": "Olympia",
+        "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "You've Done Enough",
+      "url": "https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP"
     },
     {
       "added_at": "2022-08-26 18:16:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,505 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,511 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 22 | [Por una Cabeza](https://open.spotify.com/track/0qVDC2Swbbs7VrgZu3fe6P) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Adriana Varela y Piano](https://open.spotify.com/album/7yndjj9dS2GfQzQQiZzWpv) | 3:13 |
 | 23 | [Tango Negro](https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE) | [Libertad Lamarque](https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ) | [Tesoros De Coleccion \- Libertad Lamarque](https://open.spotify.com/album/5MOU8QeUpJ7vCBfVi5sM1p) | 2:58 |
 | 24 | [Fruta Amarga](https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:29 |
-| 25 | [Nada](https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 3:58 |
+| 25 | [Naranjo en Flor \(feat\. Mercedes Sosa\)](https://open.spotify.com/track/25NuGWk6dbNy8Eyt6zNlsR) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 3:45 |
 | 26 | [Siempre Se Vuelve a Bs\. As.](https://open.spotify.com/track/3xjANYsJ2nMZBLr7T6lDcZ) | [Eladia Blazquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [Con las Alas del Alma](https://open.spotify.com/album/1IJDQDltstBfcrxE7IoJii) | 3:01 |
 | 27 | [Milonga Sentimental](https://open.spotify.com/track/1uJeHbIPeOKGfEEJujJkP7) | [Mercedes Simone](https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W) | [Presentando a Mercedes Simone](https://open.spotify.com/album/6HNgJ8dZflujytFtS4TUm3) | 2:38 |
 | 28 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 30 | [Garganta Con Arena](https://open.spotify.com/track/6BjIumHEDyRxgocfAfwsXL) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Toda Mi Vida](https://open.spotify.com/album/17AJEwOMBmI6xhykdOBCI7) | 4:08 |
 | 31 | [Baldosa Floja](https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Canta](https://open.spotify.com/album/6PDbU5wE5nZCAkXVIuvVm8) | 2:10 |
 | 32 | [El día que me quieras \- Remastered](https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ) | [Libertad Lamarque](https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ) | [Tangos Inmortales de Libertad Lamarque \(Remastered\)](https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR) | 2:36 |
-| 33 | [Naranjo en Flor \(feat\. Mercedes Sosa\)](https://open.spotify.com/track/25NuGWk6dbNy8Eyt6zNlsR) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 3:45 |
+| 33 | [Nada](https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 3:58 |
 | 34 | [Adios Nonino](https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo) | [Eladia Blazquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [Serie De Oro](https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi) | 4:46 |
 | 35 | [Malena](https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ) | [Vos y yo](https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw) | 3:58 |
 | 36 | [Confidencias](https://open.spotify.com/track/53573za1S0cPRlR9TudWro) | [Mirta Uguet](https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O) | [Un sueño de barrio](https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz) | 3:28 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 54 | [Morocha Triste](https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428) | [Dolores Solá](https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV) | [Salto Mortal \(Canta a Gardel, Corsini y Magaldi\)](https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb) | 2:12 |
 | 55 | [Mano a Mano](https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Puñal de Sombra](https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh) | 3:33 |
 
-Snapshot ID: `MTY1NzI0OTIwMCwwMDAwMDAwMDI1ZTljYzE1MzUzYzFmN2NlODNhNTkxMzJlOGQxNWE5`
+Snapshot ID: `MTY1NzI0OTIwMCwwMDAwMDAwMDY4ZGYzZGFhZTgwYmQxMjQ4NTMxMWMxNGFiMmJkZGNh`

@@ -4,7 +4,7 @@
 
 > Hits to boost your mood and fill you with happiness!
 
-708 songs - 1 day 13 hr 40 min - [published](https://open.spotify.com/playlist/7AErLDUggnFbzZO3gre4Ta)
+709 songs - 1 day 13 hr 43 min - [published](https://open.spotify.com/playlist/7AErLDUggnFbzZO3gre4Ta)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Alone, Pt\. II](https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Alone, Pt\. II](https://open.spotify.com/album/700MviIgFKNTldTXmOAFOr) | 2:59 | 2020-01-05 | 2020-06-29 |
 | [Anti\-Everything](https://open.spotify.com/track/3ViJYmiobUr5ozBHHcpzbF) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Paper Crowns](https://open.spotify.com/album/1aS2mN8GGjjI8bkmveObNI) | 3:03 | 2019-05-26\* | 2020-05-22 |
 | [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 | 2021-01-01 |  |
+| [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:07 | 2022-11-10 |  |
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j) | 3:07 | 2022-01-27 | 2022-11-13 |
 | [Anywhere](https://open.spotify.com/track/7EI6Iki24tBHAMxtb4xQN2) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Anywhere](https://open.spotify.com/album/3syh4e0H2YnXmzGzP5Rd3G) | 3:35 | 2019-06-21 | 2019-12-31 |
 | [Arms Around Me](https://open.spotify.com/track/1QkaME1J8C8Pau6DHwkrIO) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Arms Around Me](https://open.spotify.com/album/3J9Y9lm3Hyx8ajh3DmJlhf) | 3:01 | 2020-04-25 | 2020-12-11 |
@@ -706,7 +707,7 @@
 | [You Can't Hurry Love](https://open.spotify.com/track/5bQduNI1lNfkNbDCKhBNX6) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/34xRDpvXJxS6oU7MTKlDtR) | 2:47 | 2019-07-09 | 2019-08-27 |
 | [You Can't Stop The Girl \(From Disney's "Maleficent: Mistress of Evil"\)](https://open.spotify.com/track/1i3z3GR1JtLswOSJNO0BQw) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [You Can't Stop The Girl \(From Disney's "Maleficent: Mistress of Evil"\)](https://open.spotify.com/album/1uuGNc2B7c5tEfCuIy3dDT) | 2:38 | 2019-10-11 | 2022-04-17 |
 | [You Come First \(feat\. Saweetie\)](https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [You Come First \(feat\. Saweetie\)](https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0) | 3:11 | 2019-05-26\* | 2020-03-15 |
-| [You for Me](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You for Me](https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT) | 2:55 | 2021-07-09 |  |
+| [You for Me](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You for Me](https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT) | 2:55 | 2021-07-09 | 2022-12-29 |
 | [You Go Down Smooth](https://open.spotify.com/track/6gxZLe2tUdy1U51aql0mfR) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Bad Self Portraits](https://open.spotify.com/album/6SIib5yrq0saKy08p2IPrB) | 3:29 | 2019-07-06 | 2019-08-10 |
 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 | 2019-07-11 | 2019-07-26 |
 | [You Me and The Silence](https://open.spotify.com/track/15t7OIDgCF5C6mLACqZbm5) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [You Me and The Silence](https://open.spotify.com/album/0NETS2tho42bDrogzCrZVl) | 3:05 | 2019-07-08 | 2020-01-04 |

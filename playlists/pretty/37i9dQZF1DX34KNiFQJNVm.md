@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luísa Sonza com Xamã, MC Cabelinho, Clayton & Romário e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,811,464 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,811,918 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 25 | [Sem Ti](https://open.spotify.com/track/2qUnP4hviknFSkZWPS6opK) | [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM), [Taty pink](https://open.spotify.com/artist/0zp4Tuw2qRqrPTZyBkk8pS) | [Sem Ti](https://open.spotify.com/album/2zMB2vSKNlmxIw3TwSK34q) | 3:16 |
 | 26 | [Surrender \(feat\. YOU\)](https://open.spotify.com/track/4v0SRIKcYUkNYhK2zLA6nf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ÜHÜ](https://open.spotify.com/artist/0kX81k87cBgYN7KffDI3fC), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Surrender \(feat\. YOU\)](https://open.spotify.com/album/6CeALTTb9SCKKEIzaQC8xl) | 3:33 |
 | 27 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 |
-| 28 | [Bala Magica \(feat\. Mc Dom Lp\)](https://open.spotify.com/track/5nZNRgjWoS5AiRMPw2U4RX) | [Dj W\-Beatz](https://open.spotify.com/artist/1359cXd992MwCyGCgbPDcS), [MC DOM LP](https://open.spotify.com/artist/1IDgBR9gfIJOS5lB7SwE6W) | [Bala Magica](https://open.spotify.com/album/6AWtyrmsqUUZXtPwR7B4iF) | 4:00 |
+| 28 | [Bala Magica \(feat\. Mc Dom Lp\)](https://open.spotify.com/track/5nZNRgjWoS5AiRMPw2U4RX) | [Dj W\-Beatz](https://open.spotify.com/artist/1359cXd992MwCyGCgbPDcS), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [MC DOM LP](https://open.spotify.com/artist/1IDgBR9gfIJOS5lB7SwE6W) | [Bala Magica](https://open.spotify.com/album/6AWtyrmsqUUZXtPwR7B4iF) | 4:00 |
 | 29 | [Catucada Forte](https://open.spotify.com/track/5kZWnBoD5YpX3fm5o613zU) | [Mc Lucy](https://open.spotify.com/artist/44bzWn6GQs6zVXvnYtqIMa), [TR](https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Catucada Forte](https://open.spotify.com/album/2t5Zfy6wBlXI7xs0WYoLnE) | 2:20 |
 | 30 | [Balança o Pacotão](https://open.spotify.com/track/3Rb2bm7vBg6oC6DmJGC1hH) | [Os Hawaianos](https://open.spotify.com/artist/6f6ccYxDNgsPCMemKceSY4), [Mc Mingau](https://open.spotify.com/artist/7tSLlq2b06iN7Z25KkrnhE), [DJ Tawan](https://open.spotify.com/artist/2ydsW9VfcxiyJBwUj1LM5b), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Balança o Pacotão](https://open.spotify.com/album/1abo1rlNJCPqqqx7bTSZt8) | 2:33 |
 | 31 | [Um Cara Entre A Gente \- Ao Vivo](https://open.spotify.com/track/6xEcO7Mdr8S6CrK6lAr0tp) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Ao Vivo Em Barretos, Vol 2](https://open.spotify.com/album/0me0ldYwg8LqZN983S2CWJ) | 3:23 |

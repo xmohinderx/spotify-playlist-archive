@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 40366,
+  "num_followers": 40391,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMDhkMzA3Zjk2MzAzNWRiNjNhNzQwZDZhYjhlM2ZhZTc0",
+  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMDRkOGFkYmMxNjYxMjcwNTBmYWNhY2M5NjU4YjM4Mjhh",
   "tracks": [
     {
       "added_at": "2022-12-17 09:00:30",
@@ -575,6 +575,26 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
+        "name": "A3MEL ESH",
+        "url": "https://open.spotify.com/album/2asPtwQJwsCs2LP0HQQgJP"
+      },
+      "artists": [
+        {
+          "name": "Ram Nafar",
+          "url": "https://open.spotify.com/artist/28CdLDNuzChKqZNArRgI5F"
+        },
+        {
+          "name": "Tamer Nafar",
+          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "A3MEL ESH",
+      "url": "https://open.spotify.com/track/3W2aWHlWIo373Npwv8TGEm"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
         "name": "Soundtrack to the Struggle 2",
         "url": "https://open.spotify.com/album/5gIwjf2qT4BdIt6REFXFcu"
       },
@@ -615,26 +635,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "A3MEL ESH",
-        "url": "https://open.spotify.com/album/2asPtwQJwsCs2LP0HQQgJP"
-      },
-      "artists": [
-        {
-          "name": "Ram Nafar",
-          "url": "https://open.spotify.com/artist/28CdLDNuzChKqZNArRgI5F"
-        },
-        {
-          "name": "Tamer Nafar",
-          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "A3MEL ESH",
-      "url": "https://open.spotify.com/track/3W2aWHlWIo373Npwv8TGEm"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "\u0628\u0637\u0644\u062a\u064a \u0627\u0644\u064a",
         "url": "https://open.spotify.com/album/6tQvEO9Vn7YVqrL4F8IS8b"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Maskhara",
-        "url": "https://open.spotify.com/album/3js4Eghi2JL8ngc07sXBQ9"
-      },
-      "artists": [
-        {
-          "name": "Bashar Murad",
-          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
-        }
-      ],
-      "duration_ms": 186411,
-      "name": "Maskhara",
-      "url": "https://open.spotify.com/track/4lV2xMJsbfsva6Ldqlf0pf"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "JABiD atini ala tawahini \u062c\u0628\u062f \u0623\u0639\u0637\u064a\u0646\u064a \u0639\u0644\u0649 \u0637\u0648\u0627\u062d\u064a\u0646\u064a",
         "url": "https://open.spotify.com/album/6vMVS8IbBTG7lVTKAc7COD"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 223361,
       "name": "Nasheed al Alam al Falastini \u0646\u0634\u064a\u062f \u0627\u0644\u0639\u0644\u0645 \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/2NJpqrTkLIPiERkyYeXLkc"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Maskhara",
+        "url": "https://open.spotify.com/album/3js4Eghi2JL8ngc07sXBQ9"
+      },
+      "artists": [
+        {
+          "name": "Bashar Murad",
+          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
+        }
+      ],
+      "duration_ms": 186411,
+      "name": "Maskhara",
+      "url": "https://open.spotify.com/track/4lV2xMJsbfsva6Ldqlf0pf"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Laween",
-        "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
-      },
-      "artists": [
-        {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
-        }
-      ],
-      "duration_ms": 208237,
-      "name": "Laween",
-      "url": "https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Today Is the day",
         "url": "https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 151058,
       "name": "Today is the day",
       "url": "https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Laween",
+        "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
+      },
+      "artists": [
+        {
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+        }
+      ],
+      "duration_ms": 208237,
+      "name": "Laween",
+      "url": "https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1027,18 +1027,22 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Dedication",
-        "url": "https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO"
+        "name": "Abu 3ntr",
+        "url": "https://open.spotify.com/album/1ua6NcTfZN5Bgu2TYelucN"
       },
       "artists": [
         {
-          "name": "DAM",
-          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
+          "name": "\u0141OAY",
+          "url": "https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz"
+        },
+        {
+          "name": "Lina Makoul",
+          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
         }
       ],
-      "duration_ms": 225880,
-      "name": "G'areeb Fi Bladi (Stranger In My Own Country)",
-      "url": "https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27"
+      "duration_ms": 213342,
+      "name": "Abu 3ntr",
+      "url": "https://open.spotify.com/track/4udzViP9ZtbBlCLkFLlj53"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1059,38 +1063,18 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Badi Ellak",
-        "url": "https://open.spotify.com/album/1T5lNQGgRYOlAgLj5ZihCf"
+        "name": "Dedication",
+        "url": "https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO"
       },
       "artists": [
         {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+          "name": "DAM",
+          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Badi Ellak",
-      "url": "https://open.spotify.com/track/7q4nRHpLoEUgSpRDxWo1x6"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
-        "name": "Abu 3ntr",
-        "url": "https://open.spotify.com/album/1ua6NcTfZN5Bgu2TYelucN"
-      },
-      "artists": [
-        {
-          "name": "\u0141OAY",
-          "url": "https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz"
-        },
-        {
-          "name": "Lina Makoul",
-          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
-        }
-      ],
-      "duration_ms": 213342,
-      "name": "Abu 3ntr",
-      "url": "https://open.spotify.com/track/4udzViP9ZtbBlCLkFLlj53"
+      "duration_ms": 225880,
+      "name": "G'areeb Fi Bladi (Stranger In My Own Country)",
+      "url": "https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
+        "name": "Badi Ellak",
+        "url": "https://open.spotify.com/album/1T5lNQGgRYOlAgLj5ZihCf"
+      },
+      "artists": [
+        {
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Badi Ellak",
+      "url": "https://open.spotify.com/track/7q4nRHpLoEUgSpRDxWo1x6"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
         "name": "NAS",
         "url": "https://open.spotify.com/album/2sF5JJiuI034l5IlblUrVz"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Mo Light",
-        "url": "https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E"
-      },
-      "artists": [
-        {
-          "name": "47SOUL",
-          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "Mo Light",
-      "url": "https://open.spotify.com/track/4ELE971aOY79OV4263w8h3"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "\u064a\u0627 \u0645\u0646\u062c\u0646\u064a\u0642",
         "url": "https://open.spotify.com/album/5W6qkrXenVMs0caeUqL8Z2"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 185375,
       "name": "\u064a\u0627 \u0645\u0646\u062c\u0646\u064a\u0642",
       "url": "https://open.spotify.com/track/3OcsroxTDUzBDTo3xOQQqp"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Mo Light",
+        "url": "https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E"
+      },
+      "artists": [
+        {
+          "name": "47SOUL",
+          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
+        }
+      ],
+      "duration_ms": 285773,
+      "name": "Mo Light",
+      "url": "https://open.spotify.com/track/4ELE971aOY79OV4263w8h3"
     },
     {
       "added_at": "2022-12-17 09:00:30",

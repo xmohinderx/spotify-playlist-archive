@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,449 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,633 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [J'ai Deux Amours](https://open.spotify.com/track/1cCLS8B6Lq3AaCMQ9nDepD) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 3:01 |
 | 2 | [Reine de l'attitude](https://open.spotify.com/track/3spC3JjpCKo7SmmDM8q3hM) | [DOPAMOON](https://open.spotify.com/artist/5vNhYUKZMEv2QMJXY7IPTK), [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [DOPAMOON](https://open.spotify.com/album/7HyaVaxpfofKNxXKRWWimT) | 4:06 |
 | 3 | [La nuit qui vient](https://open.spotify.com/track/4ZKSXSToPLPt7U4xUHntV2) | [Ali Danel](https://open.spotify.com/artist/6NxZVTVFzMmwotn9SOloSv) | [Ali Danel et ses ami.es](https://open.spotify.com/album/2P7JFcIznQGcuRFs2xdeB0) | 2:51 |
-| 4 | [Passion sonore](https://open.spotify.com/track/5g3MKESlpHy2eQtAvNAb7F) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g), [Lucile Seguin](https://open.spotify.com/artist/5qUMLxwaQHkTwan46kXxFQ) | [Affection Sauvage](https://open.spotify.com/album/6ImneANOkkDiBHQobOGzhQ) | 2:33 |
+| 4 | [Passion sonore](https://open.spotify.com/track/5uHoa6U6DbM99BLcwzsWlW) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g), [Lucile](https://open.spotify.com/artist/1TI0ZTyss5aySKWZm2UZRg) | [Affection sauvage](https://open.spotify.com/album/3EybPWwdMnd47308xzhn9N) | 2:33 |
 | 5 | [Par hasard](https://open.spotify.com/track/1AfrNSf2oeDwQWWmrpbfSl) | [Romain Muller](https://open.spotify.com/artist/2kNosEaCDLK4OdSzpZWaDu) | [Accroche cœur](https://open.spotify.com/album/0ih97JPr4BsXVFSRT4OdYd) | 3:50 |
 | 6 | [Claire](https://open.spotify.com/track/5dEwFefWaZJaoUA7nJtqOb) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Pensées](https://open.spotify.com/album/2uGK4G2Uz0EJi8PdrBsvPW) | 3:23 |
 | 7 | [Tout ira bien](https://open.spotify.com/track/0Sh7d5tyc75W387yNkIZWn) | [Sarah Rebecca](https://open.spotify.com/artist/58obmxGKVKCenZAkACSMgJ), [Ariel T](https://open.spotify.com/artist/1jV6ZVJ5WPoWiYZfOolQV6) | [Whatever Happens / Tout ira bien](https://open.spotify.com/album/71mBvajO6uacvSCPAYeBnU) | 3:03 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 215 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 216 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MTY3MTYzNDUzOSwwMDAwMDAwMGU5YWY2OTM4OGI0ZjBhMjAyMDY4MWQxNzYyOTEyMmM3`
+Snapshot ID: `MTY3MTYzNDUzOSwwMDAwMDAwMDBkYjM4NTY4NjA0NGVlMzk4ZjA5YWZmZmY3M2U4MTYz`

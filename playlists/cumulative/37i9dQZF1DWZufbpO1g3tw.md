@@ -4,7 +4,7 @@
 
 > ¡Picositos y con mucho sabor!
 
-174 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/4Q1G17YGjayP3gLunVYAPv)
+175 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/4Q1G17YGjayP3gLunVYAPv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Apasionadamente](https://open.spotify.com/track/22mVIMbschh7l57uvZuKma) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 3:00 | 2021-10-20 | 2022-07-29 |
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2021-10-20 |  |
 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2021-10-20 |  |
+| [Babalu](https://open.spotify.com/track/2q6Ctk1nBJU59XtYhiN47b) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt) | 4:29 | 2022-10-28 |  |
 | [Babalu](https://open.spotify.com/track/1B6eTnzTdnL1FH94eRT5pQ) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA) | 4:31 | 2022-04-20 | 2022-12-14 |
 | [Babalu](https://open.spotify.com/track/5Rk5sEHwAsroPFOjRBxogp) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/2eWZWaeg03fmtSWUoWYQHn) | 4:31 | 2022-04-20 | 2022-07-29 |
 | [Bien Bailadido](https://open.spotify.com/track/1b7NJVhLz54B5KPLp7BUum) | [Junior Y Su Equipo](https://open.spotify.com/artist/0eBvJ4QbkiayHAgs6yuXld) | [Saturno 2000 \- La Rebajada de Los Sonideros 1962 \- 1983](https://open.spotify.com/album/3mWxWw4Op4RkL5E3GzioL4) | 4:14 | 2022-04-20 | 2022-07-29 |
@@ -74,7 +75,7 @@
 | [Guaracha Sabrosona](https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guaracha Sabrosona](https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ) | 3:39 | 2022-10-28 |  |
 | [Gypsy Woman](https://open.spotify.com/track/2bHqwpV9FlAjdsERULo2ts) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Gypsy Woman](https://open.spotify.com/album/41RCbCNUXDHDey6Uh5jyb0) | 2:32 | 2022-04-20 |  |
 | [Harta](https://open.spotify.com/track/1nBAQLlD3WPf939Jlrc2Ku) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 3:05 | 2021-10-20 | 2022-07-29 |
-| [Hotline Bling](https://open.spotify.com/track/7dNOYhHNvhCs0uKkCQdH2M) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Hotline Bling](https://open.spotify.com/album/7fBRvRup48necAZiCwGugk) | 3:23 | 2021-10-20 |  |
+| [Hotline Bling](https://open.spotify.com/track/7dNOYhHNvhCs0uKkCQdH2M) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Hotline Bling](https://open.spotify.com/album/7fBRvRup48necAZiCwGugk) | 3:23 | 2021-10-20 | 2022-12-29 |
 | [Hotline Bling](https://open.spotify.com/track/7p6CgRGbeR6WyidudAzbsf) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Hotline Bling](https://open.spotify.com/album/1JbW8zIG1gp5vnDV7N5LJN) | 3:23 | 2021-10-20 | 2022-07-29 |
 | [Huapango Amor Ranchero](https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Huapango Amor Ranchero](https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND) | 3:19 | 2022-10-28 |  |
 | [Invasión](https://open.spotify.com/track/3s7jL9o8vvhLmw4lV3xMHW) | [EsaMiPau!](https://open.spotify.com/artist/2lmxVMvK3ROVKHvLg23fei), [Jacinto y La Cumbia](https://open.spotify.com/artist/23IL1fbbI60l5k6fWuPk5W), [Yawarana Orquesta](https://open.spotify.com/artist/21QWbz8AInxH5PPteJwmDf), [Héctor Hernández](https://open.spotify.com/artist/2RMGPGcbneXvxE2fweAXja) | [Invasión](https://open.spotify.com/album/0ebWSgyvKLGBKOlf2BsMPI) | 4:08 | 2021-10-20 | 2022-07-29 |

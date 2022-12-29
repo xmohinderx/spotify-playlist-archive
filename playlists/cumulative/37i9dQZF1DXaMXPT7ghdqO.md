@@ -4,7 +4,7 @@
 
 > 祝・結成5周年！6人組エンタメユニット、すとぷりの音楽をプレイリストで！ Music from Japanese entertainment group, Strawberry prince! ©STPR Inc.
 
-121 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/2YLxuzSVg17WJrVNq1unKo)
+122 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/2YLxuzSVg17WJrVNq1unKo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [ナミダメ](https://open.spotify.com/track/7eI11v0S0SpB896efwVkCX) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [ナミダメ](https://open.spotify.com/album/1zYayr9HkFUjZlbv4C4zUZ) | 3:58 | 2022-01-11 |  |
 | [ハジメテキミと](https://open.spotify.com/track/1MS4vrAGJwdY4l8dmIyse4) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Strawberry Prince](https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM) | 4:01 | 2022-01-11 | 2022-12-21 |
 | [ハルトレイン](https://open.spotify.com/track/178x6DAixou1uwfnVaMH1q) | [さとみ](https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q), [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:48 | 2022-12-20 |  |
-| [パレットダンス](https://open.spotify.com/track/7c4mupgNSHFRKjqY60gP4E) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーすたーと](https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA) | 4:09 | 2022-01-11 |  |
+| [パレットダンス](https://open.spotify.com/track/7c4mupgNSHFRKjqY60gP4E) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーすたーと](https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA) | 4:09 | 2022-01-11 | 2022-12-29 |
 | [パレードはここさ](https://open.spotify.com/track/7kxQOvJyKpJ5qxJA47ns0y) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [パレードはここさ](https://open.spotify.com/album/7sXmjRoJ0CC9Hl84kAIi3q) | 3:42 | 2022-01-11 |  |
 | [パレードへおかえり](https://open.spotify.com/track/6cHBRasCghhRUbnHJZU4wp) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [パレードへおかえり](https://open.spotify.com/album/6L8qaxzQsNjvkRWOYtd5LK) | 3:08 | 2022-01-11 |  |
 | [パンピじゃないのよッ!!](https://open.spotify.com/track/1nPeAlvdtQz2JcoRC1alaE) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [アスター](https://open.spotify.com/album/4bVrKqe9KlUdqnolJb5f82) | 3:47 | 2022-01-11 | 2022-12-27 |
@@ -91,6 +91,7 @@
 | [マブシガリヤ](https://open.spotify.com/track/7c44Ur3KXo6Al7voAHYApt) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [マブシガリヤ](https://open.spotify.com/album/4Dqr6UvR7MKjPxOSZfOUXh) | 3:57 | 2022-01-11 |  |
 | [マンマルダンス](https://open.spotify.com/track/3Q4VhGGFJFDE28AcnjlU4q) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L) | [マンマルダンス](https://open.spotify.com/album/26TBkOESixc53z6y1u5n90) | 2:20 | 2022-01-11 | 2022-12-21 |
 | [ヨアケイロ](https://open.spotify.com/track/40u80DYVFpGKNv6m6wnlZL) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [ヨアケイロ](https://open.spotify.com/album/40xvX4aZwwQKtbCKUir6X5) | 3:11 | 2022-12-20 | 2022-12-22 |
+| [ヨアケイロ](https://open.spotify.com/track/03QMOcvxXRRQuk4glPBBij) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:14 | 2022-12-20 |  |
 | [リスクテイカー](https://open.spotify.com/track/3Ppm073nnE7IAxLQacURpQ) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [リスクテイカー](https://open.spotify.com/album/3HdSWo43EU862jJZVY89GJ) | 3:14 | 2022-01-11 |  |
 | [ルマ](https://open.spotify.com/track/2sohKLm03IuyZNYXWWnduB) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L) | [タイムカプセル](https://open.spotify.com/album/6ZG2fGDSPwAkTZLHuU1BSA) | 3:02 | 2022-01-11 |  |
 | [レイジークレイジー](https://open.spotify.com/track/5aWZWMPOlv3lG5pBRdZ2si) | [ころん](https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ) | [アスター](https://open.spotify.com/album/4bVrKqe9KlUdqnolJb5f82) | 2:16 | 2022-01-11 |  |

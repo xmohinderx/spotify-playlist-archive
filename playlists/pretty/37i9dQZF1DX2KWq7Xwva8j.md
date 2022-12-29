@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,364 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,366 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 15 | [PROGRESO](https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [PROGRESO](https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe) | 3:22 |
 | 16 | [Ansiedad](https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Ansiedad](https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg) | 2:58 |
 | 17 | [por qué vuelvo a quererte?](https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [por qué vuelvo a quererte?](https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL) | 2:46 |
-| 18 | [No Llores \(feat\. Alice Wonder\)](https://open.spotify.com/track/78LUKLAVTjqQEf7f6b0PXg) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [No Llores \(feat\. Alice Wonder\)](https://open.spotify.com/album/2NlrMp7I85XX6HdkFJmJBM) | 3:38 |
-| 19 | [Egoísta](https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Egoísta](https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu) | 3:19 |
+| 18 | [Egoísta](https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Egoísta](https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu) | 3:19 |
+| 19 | [No Llores \(feat\. Alice Wonder\)](https://open.spotify.com/track/78LUKLAVTjqQEf7f6b0PXg) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [No Llores \(feat\. Alice Wonder\)](https://open.spotify.com/album/2NlrMp7I85XX6HdkFJmJBM) | 3:38 |
 | 20 | [Indie esperanzador](https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Indie esperanzador](https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc) | 2:50 |
 | 21 | [Mi Manera de Vivir](https://open.spotify.com/track/1kLfjR7DKezovtAhOTqdbF) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Mi Manera de Vivir](https://open.spotify.com/album/4MOWH9XXjmmQcflfPb7nie) | 2:14 |
 | 22 | [Alex Turner](https://open.spotify.com/track/7JL9bfCKDRmfrQqZbB6X0x) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Alex Turner](https://open.spotify.com/album/08tPbq1A0YvnoHbbIrKs4j) | 2:39 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 40 | [un poco sí...](https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [un poco sí...](https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD) | 2:59 |
 | 41 | [Roma No Es Amor](https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Roma No Es Amor](https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD) | 3:13 |
 | 42 | [A Contraluz](https://open.spotify.com/track/5go70LzuMiSpKWlLn1SzVj) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN) | [A Contraluz](https://open.spotify.com/album/5VlLEWKCcPDWAJecwDeZE9) | 3:07 |
-| 43 | [friki](https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [Pavlo Tambien](https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3) | [friki](https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK) | 2:11 |
-| 44 | [scenario!](https://open.spotify.com/track/3thdka0EjolLblroJXiE3U) | [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d) | [scenario!](https://open.spotify.com/album/5MFMSsSrGV3isktdCZm1jL) | 3:14 |
-| 45 | [Quiero Bailar](https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY) | [Elena Torres](https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV), [MPV](https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0) | [Quiero Bailar](https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g) | 2:52 |
+| 43 | [Quiero Bailar](https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY) | [Elena Torres](https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV), [MPV](https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0) | [Quiero Bailar](https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g) | 2:52 |
+| 44 | [friki](https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [Pavlo Tambien](https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3) | [friki](https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK) | 2:11 |
+| 45 | [scenario!](https://open.spotify.com/track/3thdka0EjolLblroJXiE3U) | [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d) | [scenario!](https://open.spotify.com/album/5MFMSsSrGV3isktdCZm1jL) | 3:14 |
 | 46 | [Marisol](https://open.spotify.com/track/4eGgtcKMoL45YN55eXzD24) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Marisol](https://open.spotify.com/album/3mbuvr5Onv2U39DA2Cq7jD) | 2:52 |
 | 47 | [Inercia](https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [Lombardía 22](https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi) | 2:59 |
 | 48 | [Soy Un Desastre](https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr) | [Paloma Rollán](https://open.spotify.com/artist/3qhKqJ5hDR26yN6Q1cdSp7) | [Soy Un Desastre](https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp) | 2:54 |
 | 49 | [Dunas](https://open.spotify.com/track/0NzUqCoIruBP1d1z8s81dU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Dunas](https://open.spotify.com/album/2QJCNYbQjm27rhgM2LIwSK) | 1:48 |
 | 50 | [Ojalá Fuéramos Amigos \(Buffetlibre Remix\)](https://open.spotify.com/track/5j6eTIKDiwc8r0LN3lFMSB) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Buffetlibre](https://open.spotify.com/artist/4wlrSsiSPO3L9DbJVuzXuh) | [Dime Algo \(bonito\) \(True Fans Edition\)](https://open.spotify.com/album/3Pvc669UGSa0e2LajSLL9g) | 3:22 |
 
-Snapshot ID: `MTY3MTYzMDY4MywwMDAwMDAwMDc5OTkxZTRlNWFmYzIzOTg4NzdiODc2MjljNTFkMjZi`
+Snapshot ID: `MTY3MTYzMDY4MywwMDAwMDAwMDM2OGI3ODJkNjMwNzFiYTZhZjkwNWJkNGRiMDk1ZTM5`

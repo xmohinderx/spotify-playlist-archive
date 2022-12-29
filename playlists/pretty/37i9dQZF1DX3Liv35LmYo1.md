@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night time hours
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,174 likes - 70 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,203 likes - 70 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 58 | [The Corner](https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Corner](https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi) | 3:40 |
 | 59 | [Sirens \(feat\. Caroline Polachek\) \[Sofia Kourtesis Remix\]](https://open.spotify.com/track/1KHY07C9hNsaQGvNRa7lK2) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces : The Remixes, Pt\. 2](https://open.spotify.com/album/40p5qaIMZREYF9S6vKzFf5) | 4:35 |
 | 60 | [Sueños](https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa) | [Waleed](https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs) | [Sueños](https://open.spotify.com/album/6nxJBK0M3lFEoFq1aPYshe) | 4:58 |
-| 61 | [by the reservoir](https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 5:08 |
-| 62 | [Shallow Water](https://open.spotify.com/track/1lJPVwuvM9b8wpdZIYRNq9) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Happiness, Guaranteed](https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX) | 4:41 |
-| 63 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 |
+| 61 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 |
+| 62 | [by the reservoir](https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 5:08 |
+| 63 | [Shallow Water](https://open.spotify.com/track/1lJPVwuvM9b8wpdZIYRNq9) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Happiness, Guaranteed](https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX) | 4:41 |
 | 64 | [Bleu \- Radio Edit](https://open.spotify.com/track/0QHxFlyTbpfcvC0qf4DKWS) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Bleu](https://open.spotify.com/album/0qGyomhK27BOrhRBAKPTid) | 3:48 |
 | 65 | [Is It Me](https://open.spotify.com/track/1rgievgwEh6siXmnPp5V93) | [Achingdrum](https://open.spotify.com/artist/4LeM3PKFS6wEtkDLNULq87), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy) | [Is It Me](https://open.spotify.com/album/7bdQzzdr4GwfMZIP5G6rKl) | 4:16 |
 | 66 | [Inperspect](https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Inperspect](https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR) | 8:18 |
-| 67 | [Ultra Truth](https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 5:17 |
-| 68 | [Leave Here](https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0) | 4:57 |
+| 67 | [Leave Here](https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0) | 4:57 |
+| 68 | [Ultra Truth](https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 5:17 |
 | 69 | [Shapeless](https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Caring EP](https://open.spotify.com/album/4dOfbULS4YEuZyy1ux3HIW) | 4:34 |
 | 70 | [Natural](https://open.spotify.com/track/0kGkvqy8ne40PwxNWZ01XL) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:59 |
 
-Snapshot ID: `MTY3MTEwOTIwMCwwMDAwMDAwMGFjYjliMDU5OGZiMjRiZjA1YzIxMWE0Mzg1MjE4YmU0`
+Snapshot ID: `MTY3MTEwOTIwMCwwMDAwMDAwMGUwOTAwZGM1MGUzZTIyYjE0ZmI0Y2E4M2VmOWViYmI5`

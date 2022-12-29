@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 15517,
+  "num_followers": 15538,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDcwNmIwNmRmNTg3MmJmNDM0Nzk0Mzk5ZDBkZTY5OGM4",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDQyODNmMDliZjBmNmFlMWQ3OTNlMjA3NmYwM2I1MDUz",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -253,22 +253,6 @@
       "url": "https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE"
     },
     {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 63720,
-      "name": "Rattlin' Change",
-      "url": "https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1"
-    },
-    {
       "added_at": "2020-10-21 17:37:12",
       "album": {
         "name": "In My Soul",
@@ -283,6 +267,22 @@
       "duration_ms": 365440,
       "name": "You're Everything",
       "url": "https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 63720,
+      "name": "Rattlin' Change",
+      "url": "https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "This Land",
-        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 157413,
-      "name": "Got to Get Up",
-      "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "The Bookends",
         "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 259906,
       "name": "Something's Gotta Give",
       "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "This Land",
+        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 157413,
+      "name": "Got to Get Up",
+      "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "Clawhammer",
-        "url": "https://open.spotify.com/album/1ZzwjyLk0uWUYsdMDxXkIS"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 270370,
-      "name": "Clawhammer",
-      "url": "https://open.spotify.com/track/3LHH5SAytvRIzj2i3XKvLU"
-    },
-    {
       "added_at": "2020-10-21 17:37:12",
       "album": {
         "name": "Pressure",
@@ -843,6 +827,22 @@
       "duration_ms": 168293,
       "name": "Backbone",
       "url": "https://open.spotify.com/track/735JDdMlCfiJDastCL3WTA"
+    },
+    {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "Clawhammer",
+        "url": "https://open.spotify.com/album/1ZzwjyLk0uWUYsdMDxXkIS"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 270370,
+      "name": "Clawhammer",
+      "url": "https://open.spotify.com/track/3LHH5SAytvRIzj2i3XKvLU"
     },
     {
       "added_at": "2020-10-21 17:37:12",

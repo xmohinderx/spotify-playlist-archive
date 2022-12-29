@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-405 songs - 1 day 2 hr 1 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+407 songs - 1 day 2 hr 6 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Anagram of Coda \- off vocal](https://open.spotify.com/track/3pp0QnYSYdK1xGIetlfqnh) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [Anagram of Coda](https://open.spotify.com/album/5rLplZ8aZBpjNCQyOaX7aT) | 4:40 | 2022-08-23 | 2022-09-21 |
 | [ANIMA \-Naked Style.\-](https://open.spotify.com/track/7yqxGBNHp7K1of6vriCB69) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 5:14 | 2022-05-28 | 2022-07-06 |
 | [ANSWER](https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ANSWER](https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD) | 3:24 | 2022-12-27 |  |
+| [As the Gods Say \- Maniac Ver.](https://open.spotify.com/track/1TqPXOmJzhLLwjgB6CVHU6) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [As the Gods Say \(Maniac Ver.\)](https://open.spotify.com/album/02JA34PUXRpX5EOowhGion) | 1:59 | 2022-12-27 |  |
 | [ASEED](https://open.spotify.com/track/48eYAbFWCsSEs3oKMAlI0h) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [ASEED](https://open.spotify.com/album/7IRJ6a77nAR2jYEg5rDu1K) | 4:49 | 2022-05-28 | 2022-06-09 |
 | [Awake](https://open.spotify.com/track/1GChdtgRm4YlTPp4JPFDc9) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Awake](https://open.spotify.com/album/1UFJUX3c8hieMx0HQd9JHr) | 5:25 | 2022-07-28 | 2022-09-15 |
 | [Awake](https://open.spotify.com/track/4Ct1sAdB2kL7LuxpCjJzZf) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Awake](https://open.spotify.com/album/6fdrR5Cxdp0zbhLEs4HYYB) | 5:25 | 2022-07-12 | 2022-07-29 |
@@ -70,6 +71,7 @@
 | [EVERLASTING](https://open.spotify.com/track/3yUn3VJ4i211Tgu7cLpGfn) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [EVERLASTING/ジャーニー](https://open.spotify.com/album/2nVMaMPC2mCUsCCJGKDZZj) | 4:02 | 2022-08-02 | 2022-10-05 |
 | [Everlasting Guilty Crown \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/track/0rE5MtnYOHxWWWp23i6w1p) | [SACRA BLUE BEATS](https://open.spotify.com/artist/7JFAWhsI7NNXmSo38Rk1Yn) | [Everlasting Guilty Crown \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/album/7fC91TTDBD5rMtJHfsHNoT) | 5:24 | 2022-05-28 | 2022-06-01 |
 | [Face2](https://open.spotify.com/track/5N1bKDzbdCKnReop9O2YEG) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [Face2](https://open.spotify.com/album/15eTxMxc2yzCOC4wveboLD) | 3:41 | 2022-08-05 | 2022-10-05 |
+| [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 | 2022-12-27 |  |
 | [Find the truth](https://open.spotify.com/track/11kTme3riMq4bEgawgtGT6) | [Rainy。](https://open.spotify.com/artist/2xhw0zn3geEHR4WX62KrAl) | [Find the truth](https://open.spotify.com/album/3LfcO5kUpQBwGFwT4DkM6o) | 3:50 | 2022-05-28 | 2022-06-03 |
 | [Fine Days](https://open.spotify.com/track/7IvySywtSMnhPm2pDPIDfj) | [諏訪ななか](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fine Days](https://open.spotify.com/album/5G2H3tBsXRon4X7ska2MwG) | 3:40 | 2022-11-02 | 2022-12-07 |
 | [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 | 2022-11-29 |  |
@@ -300,7 +302,7 @@
 | [ビビっとラブ](https://open.spotify.com/track/3XS6AoZrCPoLg8bm5Gk4Pb) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [ビビっとラブ](https://open.spotify.com/album/3XsxmFkO0mx2qfxrute4dH) | 3:55 | 2022-05-28 | 2022-07-08 |
 | [ビボウロク](https://open.spotify.com/track/3HJTTW6JzXEvrTjK2mYflY) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [ビボウロク](https://open.spotify.com/album/6rJD98WoJXBMiV82Sn47OA) | 3:25 | 2022-07-12 | 2022-09-15 |
 | [ビンクスの酒](https://open.spotify.com/track/4wsKw43OnCzoDqfhcxBvRf) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:26 | 2022-08-09 | 2022-08-17 |
-| [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 | 2022-12-27 |  |
+| [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 | 2022-12-27 | 2022-12-29 |
 | [プラチナ \- from CrosSing](https://open.spotify.com/track/0AmatthIisAg466qau2Oab) | [竹達彩奈](https://open.spotify.com/artist/4R1zxy2LxEjEgKpMre81HN) | [プラチナ \- from CrosSing](https://open.spotify.com/album/655NcCoweylwkXHPkYvD2V) | 4:09 | 2022-08-23 | 2022-08-25 |
 | [プレイメーカー feat.大野雄大\(from Da\-iCE\)](https://open.spotify.com/track/1nzPt6k4X0jyNutJ0F8LCy) | [all at once](https://open.spotify.com/artist/48BElNPYehUg03qOO3puCo), [大野雄大 \(from Da\-iCE\)](https://open.spotify.com/artist/4YX4877oTbkuhiKnanhWux) | [プレイメーカー feat.大野雄大\(from Da\-iCE\)](https://open.spotify.com/album/08AYBn8vne85ZsuZpydVIB) | 2:49 | 2022-10-01 | 2022-11-09 |
 | [マロウブルー](https://open.spotify.com/track/0qyQE3IUfeD38NkY2g6A6j) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [マロウブルー](https://open.spotify.com/album/2XP6i6ExSxqUxhIGGg3puP) | 3:32 | 2022-05-28 | 2022-06-08 |
@@ -316,7 +318,7 @@
 | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/track/4TuSvwEIqhBHcYxEYkbvyZ) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/album/0kG9v9GX4Ibm2UStcFWf8s) | 4:31 | 2022-10-04 | 2022-11-25 |
 | [一番光れ!\-ブッチギレ\-](https://open.spotify.com/track/4Lwu5jxAauZYj5JWPjD72P) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [一番光れ!\-ブッチギレ\-](https://open.spotify.com/album/025d3ip2r1hEWZwhTWBeTX) | 4:03 | 2022-07-28 | 2022-10-07 |
 | [不完全ドリーマー](https://open.spotify.com/track/3m6dse2AdzEZ83Fa5OqaeD) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [不完全ドリーマー](https://open.spotify.com/album/4Lo5xGczeAbrU4LZP0QiDa) | 4:47 | 2022-05-28 | 2022-06-03 |
-| [云う透り \- Maniac ver.](https://open.spotify.com/track/3Qe02mMZQuCc1hyr71Nd3l) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [云う透り \(Maniac ver.\)](https://open.spotify.com/album/1D6iNejlXLIaqdzpRrhXle) | 1:59 | 2022-12-27 |  |
+| [云う透り \- Maniac ver.](https://open.spotify.com/track/3Qe02mMZQuCc1hyr71Nd3l) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [云う透り \(Maniac ver.\)](https://open.spotify.com/album/1D6iNejlXLIaqdzpRrhXle) | 1:59 | 2022-12-27 | 2022-12-29 |
 | [五等分の軌跡](https://open.spotify.com/track/2x8LTwwFltPH8kjOThZaWu) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の軌跡](https://open.spotify.com/album/1LwNX4lCrDG1LJpFSMT11Z) | 4:09 | 2022-05-28 | 2022-07-27 |
 | [人なんだ](https://open.spotify.com/track/6CZzcCnBPSNIHKb1c29lB4) | [Suara](https://open.spotify.com/artist/4gaoQ5e8RCOVswub7zcfoV) | [人なんだ](https://open.spotify.com/album/0nKpIhPmduqYZ5e6o7pr0q) | 4:55 | 2022-07-28 | 2022-09-28 |
 | [人芝居](https://open.spotify.com/track/74sYtRs4LCDIpdBP8xDMSP) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [人芝居](https://open.spotify.com/album/7vRJFhwnCxhkQnk9SnSg4U) | 4:07 | 2022-07-05 | 2022-09-21 |

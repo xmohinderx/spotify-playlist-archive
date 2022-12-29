@@ -1737,7 +1737,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 606000,
       "name": "Music for Six Rooms",
       "url": "https://open.spotify.com/track/2kTVyBg5HoJBXo2qNPb7Tf"
@@ -2323,6 +2323,24 @@
       "duration_ms": 123750,
       "name": "Seconds",
       "url": "https://open.spotify.com/track/3vXmJi22FQIryr1IpTHOnX"
+    },
+    {
+      "album": {
+        "name": "There Are Always Other Possibilities",
+        "url": "https://open.spotify.com/album/3VAhvgDUmBYGgUlS5jAliL"
+      },
+      "artists": [
+        {
+          "name": "Mark Rushton",
+          "url": "https://open.spotify.com/artist/3o7In5aHAnzK7WYGHY5Khx"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547056,
+      "name": "Severance",
+      "url": "https://open.spotify.com/track/1Xb23c8l5v0syXyCcUmpPH"
     },
     {
       "album": {

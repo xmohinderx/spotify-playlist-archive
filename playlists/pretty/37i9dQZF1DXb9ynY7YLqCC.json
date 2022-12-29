@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 133433,
+  "num_followers": 133517,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgzNjkyNiwwMDAwMDAwMGVkMDNlYzZmNGJhNTZhMzNiNzgxNTMyNzVmNDY0Y2Jk",
+  "snapshot_id": "MTY2NzgzNjkyNiwwMDAwMDAwMGNmMDczZTczNGM0NGQ4NTE3Yzc3ZGMzZDc1MDZjMjdi",
   "tracks": [
     {
       "added_at": "2022-11-07 16:02:06",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Solo Canciones",
-        "url": "https://open.spotify.com/album/6t9YLarJhXBjGcmUCWyCIY"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/6bVflf7QtkVdZH6ro5PKiX"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
         "name": "A Cielo Abierto - El a\u00f1o del tigre",
         "url": "https://open.spotify.com/album/6flD95j521iLXh4JVL3BNq"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 194597,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/3dHDEm95M3UJb6KBuDufvK"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
+        "name": "Solo Canciones",
+        "url": "https://open.spotify.com/album/6t9YLarJhXBjGcmUCWyCIY"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/6bVflf7QtkVdZH6ro5PKiX"
     },
     {
       "added_at": "2022-11-07 16:02:06",

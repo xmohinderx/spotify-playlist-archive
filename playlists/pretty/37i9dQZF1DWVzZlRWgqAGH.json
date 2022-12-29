@@ -1,12 +1,12 @@
 {
   "description": "\ud83e\uddc8 Smooth joints. Cover: Masego \ud83c\udfb7 ",
-  "num_followers": 765604,
+  "num_followers": 765921,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxNjcyMiwwMDAwMDAwMDRmY2Q2ODg5ZTk0MjM3NTQxZDIxODhjNTAwMDE5MDc4",
+  "snapshot_id": "MTY3MTIxNjcyMiwwMDAwMDAwMDI0ODI5ODUyZTY2NjI0NjJiZTdjMDE4YmVlZTc0NmVh",
   "tracks": [
     {
       "added_at": "2022-12-16 18:52:02",
@@ -423,26 +423,6 @@
     {
       "added_at": "2022-12-16 18:52:02",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 269413,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
-    },
-    {
-      "added_at": "2022-12-16 18:52:02",
-      "album": {
         "name": "BLK VINTAGE",
         "url": "https://open.spotify.com/album/6psFVVvkFCxIvS8j4N3DkF"
       },
@@ -463,6 +443,26 @@
     {
       "added_at": "2022-12-16 18:52:02",
       "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 269413,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+    },
+    {
+      "added_at": "2022-12-16 18:52:02",
+      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
       },
@@ -475,38 +475,6 @@
       "duration_ms": 130981,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
-    },
-    {
-      "added_at": "2022-12-16 18:52:02",
-      "album": {
-        "name": "Oh No / Liahr",
-        "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 164946,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
-    },
-    {
-      "added_at": "2022-12-16 18:52:02",
-      "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 298160,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX"
     },
     {
       "added_at": "2022-12-16 18:52:02",
@@ -527,6 +495,38 @@
       "duration_ms": 258243,
       "name": "Stars (feat. Yasiin Bey)",
       "url": "https://open.spotify.com/track/1SsbAUqPSt20PhHAuVSDNu"
+    },
+    {
+      "added_at": "2022-12-16 18:52:02",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 298160,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX"
+    },
+    {
+      "added_at": "2022-12-16 18:52:02",
+      "album": {
+        "name": "Oh No / Liahr",
+        "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 164946,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
     },
     {
       "added_at": "2022-12-16 18:52:02",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2022-12-16 18:52:02",
       "album": {
-        "name": "Most Wanted (Deluxe)",
-        "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
-      },
-      "artists": [
-        {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Ease Up",
-      "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
-    },
-    {
-      "added_at": "2022-12-16 18:52:02",
-      "album": {
         "name": "TAKE A CHANCE (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 264412,
       "name": "TAKE A CHANCE (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN"
+    },
+    {
+      "added_at": "2022-12-16 18:52:02",
+      "album": {
+        "name": "Most Wanted (Deluxe)",
+        "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
+      },
+      "artists": [
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Ease Up",
+      "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
     },
     {
       "added_at": "2022-12-16 18:52:02",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-12-16 18:52:02",
       "album": {
-        "name": "Simple.",
-        "url": "https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        }
-      ],
-      "duration_ms": 186742,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/6rRCyEuP7uDdX7ste026ky"
-    },
-    {
-      "added_at": "2022-12-16 18:52:02",
-      "album": {
         "name": "Problems",
         "url": "https://open.spotify.com/album/1Ez1yDVUqoT3HuUtiZuThL"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 154768,
       "name": "Problems",
       "url": "https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX"
+    },
+    {
+      "added_at": "2022-12-16 18:52:02",
+      "album": {
+        "name": "Simple.",
+        "url": "https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "duration_ms": 186742,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/6rRCyEuP7uDdX7ste026ky"
     },
     {
       "added_at": "2022-12-16 18:52:02",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-12-16 18:52:02",
       "album": {
-        "name": "Panic Attacks",
-        "url": "https://open.spotify.com/album/60DFfJcPBoiWwzGS65DiAj"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Panic Attacks",
-      "url": "https://open.spotify.com/track/0hFxiaVUZTEpsAdrV595Xn"
-    },
-    {
-      "added_at": "2022-12-16 18:52:02",
-      "album": {
         "name": "Athletic Progression",
         "url": "https://open.spotify.com/album/3DPTrgC3Ee2cZN6lUGWdaq"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 271250,
       "name": "White Crayon",
       "url": "https://open.spotify.com/track/3a1CnmO9A2hb1B42dMTxel"
+    },
+    {
+      "added_at": "2022-12-16 18:52:02",
+      "album": {
+        "name": "Panic Attacks",
+        "url": "https://open.spotify.com/album/60DFfJcPBoiWwzGS65DiAj"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Panic Attacks",
+      "url": "https://open.spotify.com/track/0hFxiaVUZTEpsAdrV595Xn"
     },
     {
       "added_at": "2022-12-16 18:52:02",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2022-12-16 18:52:02",
       "album": {
-        "name": "5 Minutes",
-        "url": "https://open.spotify.com/album/50m0nBNNmLRfgF9DXtUSeL"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "5 Minutes",
-      "url": "https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn"
-    },
-    {
-      "added_at": "2022-12-16 18:52:02",
-      "album": {
         "name": "Wu Hen",
         "url": "https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 200596,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
+    },
+    {
+      "added_at": "2022-12-16 18:52:02",
+      "album": {
+        "name": "5 Minutes",
+        "url": "https://open.spotify.com/album/50m0nBNNmLRfgF9DXtUSeL"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "5 Minutes",
+      "url": "https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn"
     },
     {
       "added_at": "2022-12-16 18:52:02",

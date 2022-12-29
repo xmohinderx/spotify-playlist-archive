@@ -4,7 +4,7 @@
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-261 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
+262 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Passing Through a Screen Door](https://open.spotify.com/track/7ePkayJpwG3OxNT6UN20ZU) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K), [Little Kruta](https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe) | [Burst & Decay \(Volume II\)](https://open.spotify.com/album/6IIV6gHEqxVCydojrHVm6L) | 4:05 | 2021-02-08 | 2022-07-29 |
 | [Patience](https://open.spotify.com/track/1xwJpkTCba8guExNTHFd1H) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [Patience](https://open.spotify.com/album/3LbFLyD7bHKLYds3UFw6G8) | 3:44 | 2021-02-08 | 2022-07-29 |
 | [Patience](https://open.spotify.com/track/3Tdm0rR9xKlHDVr6QY1dYU) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv) | 3:45 | 2022-04-04 |  |
+| [Pavement \(Acoustic\)](https://open.spotify.com/track/6x6aHBeRb6Yy7gU29ctYMy) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Pavement \(Acoustic\)](https://open.spotify.com/album/6EjQOwjTQoiM9X8MW8azuP) | 4:00 | 2022-04-04 |  |
 | [Pavement \(Acoustic\)](https://open.spotify.com/track/7ewuuvaj84vzUKpq8SYwCn) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Pavement \(Acoustic\)](https://open.spotify.com/album/7c84hLBvFMTGpCXL0drPB9) | 4:00 | 2021-02-08 | 2022-07-29 |
 | [Peace of Mind \- Acoustic](https://open.spotify.com/track/1coIjlaBlQw11S1OPu2AcW) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Alone in the Dark](https://open.spotify.com/album/0TlOemPEohRjRYtVV4u7NC) | 4:06 | 2021-02-08 | 2022-07-06 |
 | [Pieces \(Acoustic\)](https://open.spotify.com/track/1bQcJc71ScYiurNEGNIaOx) | [MariaHill](https://open.spotify.com/artist/1n70LfQ2jXSKxoK1PI7oLt) | [Lie to Me](https://open.spotify.com/album/6I0naPXaPOIFFmqOMlzQYB) | 3:22 | 2021-02-08 | 2022-07-27 |
@@ -246,7 +247,7 @@
 | [Transient \(acoustic\)](https://open.spotify.com/track/5tVtDLvrpsn4hhpMkipK1j) | [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Transient \(acoustic\)](https://open.spotify.com/album/6hArGQoERO4x7t1QLtUzXs) | 4:20 | 2021-02-08 |  |
 | [Trust](https://open.spotify.com/track/1ckb26ENV924xifArbU4h3) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Trust](https://open.spotify.com/album/2qcieynFqaO6QuBseBYIxV) | 2:46 | 2021-02-08 | 2022-07-28 |
 | [Undersize](https://open.spotify.com/track/4bChSnQPzc0j9yijlJbZYQ) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Undersize](https://open.spotify.com/album/7qfM2xKbNfBQRwuzLc0zyW) | 3:47 | 2021-02-08 | 2022-07-28 |
-| [Violets](https://open.spotify.com/track/6veNr8pvwqdErGuk5xp2Im) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Violets](https://open.spotify.com/album/3WiGIqKj0WaAw5b2RL8UM7) | 3:54 | 2022-04-04 |  |
+| [Violets](https://open.spotify.com/track/6veNr8pvwqdErGuk5xp2Im) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Violets](https://open.spotify.com/album/3WiGIqKj0WaAw5b2RL8UM7) | 3:54 | 2022-04-04 | 2022-12-29 |
 | [Voldemort \(Acoustic\)](https://open.spotify.com/track/0e7QzF7gA3cEpkCNuZ8AGY) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Voldemort](https://open.spotify.com/album/5t8EH7X9vL9iRUZn1ySlkU) | 3:18 | 2021-02-08 | 2022-07-29 |
 | [Voldemort \(Acoustic\)](https://open.spotify.com/track/3Ju9wEP0b9wkNkVKxxGiJS) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Voldemort](https://open.spotify.com/album/6LSkT8XStkOZG26hWGHZO7) | 3:18 | 2022-04-04 |  |
 | [Wake Me Up When September Ends \- One World: Together At Home](https://open.spotify.com/track/2xHEVUWs1kCSuvwiPXlZtV) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG) | [One World: Together At Home](https://open.spotify.com/album/2VcZJySG0Skmua8JkfXGcz) | 2:59 | 2022-04-04 | 2022-07-29 |

@@ -5118,6 +5118,24 @@
     },
     {
       "album": {
+        "name": "Phantom - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/2CEDCFgac8o2GUAkXOmg1G"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227826,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/1jGfbcAuQepTZhvRT3Sy4s"
+    },
+    {
+      "album": {
         "name": "Pink Venom",
         "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
       },

@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2080,
+  "num_followers": 2090,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQzNzE3OSwwMDAwMDAwMDY1OGUwYjkwNzlkODg1ODdiMTEwOTVhNzIyODllNWZj",
+  "snapshot_id": "MTY3MTQzNzE3OSwwMDAwMDAwMDViMzMyMGNjMDk3OGQyNDJlNzQyODM4Y2NiZGVlNjky",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:32",
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc"
     },
     {
-      "added_at": "2022-12-28 01:12:42",
+      "added_at": "2022-12-29 01:31:14",
       "album": {
         "name": "Summer Strike, Pt. 8 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW"
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 282118,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
         "name": "New Edition 42",
         "url": "https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 164288,
       "name": "Eunha Store (feat. KIM YUNA)",
       "url": "https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
-        "name": "MIRROR",
-        "url": "https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 282118,
-      "name": "MIRROR",
-      "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
+        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uc9c0\uc6d0",
+          "url": "https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E"
+        }
+      ],
+      "duration_ms": 203386,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
         "name": "YOU (feat .Beenzino)",
         "url": "https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 255689,
       "name": "YOU (feat. Beenzino)",
       "url": "https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
-        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\uc9c0\uc6d0",
-          "url": "https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E"
-        }
-      ],
-      "duration_ms": 203386,
-      "name": "Cloud",
-      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
     },
     {
       "added_at": "2022-09-05 15:56:32",

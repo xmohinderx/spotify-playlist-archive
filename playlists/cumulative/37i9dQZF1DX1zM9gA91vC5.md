@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-850 songs - 1 day 13 hr 11 min - [published](https://open.spotify.com/playlist/3CTCwoJVrFjj3ZIFLb9LjB)
+851 songs - 1 day 13 hr 13 min - [published](https://open.spotify.com/playlist/3CTCwoJVrFjj3ZIFLb9LjB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Chronostasis](https://open.spotify.com/track/4vLkjOq0df258sEL7zrtE0) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chronostasis](https://open.spotify.com/album/3mEjbYACVfAp3enzgHVyeM) | 2:34 | 2020-11-12 |  |
 | [Chère Tante](https://open.spotify.com/track/5Hms3m02qVC3MCjaSTOEnA) | [Catherina Dafoe](https://open.spotify.com/artist/0JMmT09ZgpWQAIgO14wWsD) | [4](https://open.spotify.com/album/7ivdFtTeofiXLu1SyqeDeD) | 2:04 | 2021-09-16 |  |
 | [Circles](https://open.spotify.com/track/54TwPbo4CXoR8iPceyU64H) | [Charlie Frazier](https://open.spotify.com/artist/2TjrKh2DtfmGdCX69AjuxB) | [Circles](https://open.spotify.com/album/1AyPCifGCb1qDAzqAksTFr) | 2:38 | 2020-08-14\* | 2021-06-03 |
+| [City Prelude](https://open.spotify.com/track/7jCRVvGKxzAMWDqIiW2T53) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Preludes](https://open.spotify.com/album/39pSeV5BLaPnUAQUtx6ww1) | 2:19 | 2022-12-22 |  |
 | [Claudia](https://open.spotify.com/track/2qIu2zuVozhNA9jUbmji5u) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Claudia](https://open.spotify.com/album/3jHGLuvTzPVEeXwjXe3HjW) | 4:22 | 2020-08-14\* | 2022-01-04 |
 | [Clocks](https://open.spotify.com/track/6dfdNTuLOK8eFusN8HaQg8) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Clocks](https://open.spotify.com/album/15WhEso6vgnXIhHZNIn5eJ) | 2:49 | 2020-08-14\* | 2022-09-15 |
 | [Closed Openings](https://open.spotify.com/track/7pxuDXKptMdO0PeWc23TZM) | [Jonathan Coffey](https://open.spotify.com/artist/4wvGKA5ktmxBIpmIs1iF2y) | [Essess](https://open.spotify.com/album/6QOmktfKxgeKK4DKXIFgOx) | 3:23 | 2020-08-14\* | 2020-08-20 |
@@ -751,7 +752,7 @@
 | [Toska](https://open.spotify.com/track/19y9qRgaPMPy1m9k6zcj3D) | [Alina Yanovna](https://open.spotify.com/artist/1bcouKXyjgMXRI4zCQXo3Y) | [Toska](https://open.spotify.com/album/1Fe3FHdxEHtdz9vXCqgNti) | 2:06 | 2020-08-14\* | 2021-04-09 |
 | [Tout ira bien](https://open.spotify.com/track/27PKnZV5onvCSCHEViDuJN) | [Dagmar Collier](https://open.spotify.com/artist/7GMPam14aifoeTdBmapBTj) | [Tout ira bien](https://open.spotify.com/album/6CRUMiI3y064famEBvmoc5) | 2:37 | 2020-08-14\* | 2022-06-08 |
 | [Traces](https://open.spotify.com/track/5F9n6BJytzN6kqEQR2wv05) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:01 | 2020-08-14\* | 2020-09-16 |
-| [Traces](https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07) | [Leyland Moore](https://open.spotify.com/artist/6B68z24fHjW2BFiwzthkzO) | [Traces](https://open.spotify.com/album/4lzXcaZXKBzk0aaX6fFzlE) | 3:13 | 2020-11-12 |  |
+| [Traces](https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07) | [Leyland Moore](https://open.spotify.com/artist/6B68z24fHjW2BFiwzthkzO) | [Traces](https://open.spotify.com/album/4lzXcaZXKBzk0aaX6fFzlE) | 3:13 | 2020-11-12 | 2022-12-29 |
 | [Tracing the Sky](https://open.spotify.com/track/7DuRtVOXIo2EKXUmcMMKgx) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Without Words](https://open.spotify.com/album/57pvjTiZ2itUqiYHMg9cUq) | 3:50 | 2022-09-14 |  |
 | [Trails In The Sand](https://open.spotify.com/track/2kNdebYESPkIXVcTxlNWMi) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Trails In The Sand](https://open.spotify.com/album/3JDPEQbjLKJy86z3OkKk3H) | 2:31 | 2021-09-02 | 2022-06-08 |
 | [Transitions](https://open.spotify.com/track/2G2Be7WBq744i4aBamHv8o) | [Amélie Doret](https://open.spotify.com/artist/06pZeDECUky6aiFA6GjYg0) | [Transitions](https://open.spotify.com/album/7gaX1sOn0G412TvHVdZBtX) | 2:40 | 2021-06-03 |  |

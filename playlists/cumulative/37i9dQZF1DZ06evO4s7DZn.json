@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 414000,
       "name": "Carola - En Vivo",
       "url": "https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc"
@@ -638,6 +638,24 @@
     },
     {
       "album": {
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203103,
+      "name": "La Guitarra de Lolo",
+      "url": "https://open.spotify.com/track/7jmXCIPj3NzRGsVeS1e46P"
+    },
+    {
+      "album": {
         "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
         "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
       },
@@ -649,7 +667,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 232750,
       "name": "La Guitarra de Lolo - En Vivo",
       "url": "https://open.spotify.com/track/5bmN1vFp6A1o83L57dv2yv"

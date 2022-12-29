@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 654770,
+  "num_followers": 655057,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgwMDAwMiwwMDAwMDAwMDc0OTMzODMxNzBmNWM0NGZlNGYwNDcxOGY5Y2Y1ZjE3",
+  "snapshot_id": "MTY2NjgwMDAwMiwwMDAwMDAwMDQ2ZjZhOTFmM2NkNTliMmMwM2E2YjAwNzlkOWYyMzI3",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "First Place",
-        "url": "https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 283190,
-      "name": "Everything Is Just a Mess",
-      "url": "https://open.spotify.com/track/61wUA5kA0F88dsakAPSjPg"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Hold Space For Me",
         "url": "https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 168746,
       "name": "Ne Me Quitte Pas (Don't Leave Me)",
       "url": "https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "First Place",
+        "url": "https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 283190,
+      "name": "Everything Is Just a Mess",
+      "url": "https://open.spotify.com/track/61wUA5kA0F88dsakAPSjPg"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
-      },
-      "artists": [
-        {
-          "name": "Smog",
-          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Let's Move To The Country",
-      "url": "https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "The Waterfall II",
         "url": "https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 220405,
       "name": "Help Me Down",
       "url": "https://open.spotify.com/track/564vp2eEPOegtvHjnkhnhs"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
+      },
+      "artists": [
+        {
+          "name": "Smog",
+          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Let's Move To The Country",
+      "url": "https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "House We Share",
+        "url": "https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa"
+      },
+      "artists": [
+        {
+          "name": "Chance Emerson",
+          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
+        }
+      ],
+      "duration_ms": 167453,
+      "name": "House We Share",
+      "url": "https://open.spotify.com/track/7jrmivOL6T6uIv4Fd0eU8o"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Like a Ship",
         "url": "https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 251493,
       "name": "True Love",
       "url": "https://open.spotify.com/track/77YpxagBmCQV9cVzSi284F"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "House We Share",
-        "url": "https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa"
-      },
-      "artists": [
-        {
-          "name": "Chance Emerson",
-          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
-        }
-      ],
-      "duration_ms": 167453,
-      "name": "House We Share",
-      "url": "https://open.spotify.com/track/7jrmivOL6T6uIv4Fd0eU8o"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Crane Song",
-        "url": "https://open.spotify.com/album/7645lROHCBoCTaBZXuGbYy"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 289200,
-      "name": "Crane Song",
-      "url": "https://open.spotify.com/track/70ufZ2LbHrAV4yxq5h9zFq"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Life Is Strange",
         "url": "https://open.spotify.com/album/6ozSLuLzK71i6l4o2OiN1A"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 225680,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/4AzqVdOWSfVr1YQMLdpFMn"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Crane Song",
+        "url": "https://open.spotify.com/album/7645lROHCBoCTaBZXuGbYy"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Crane Song",
+      "url": "https://open.spotify.com/track/70ufZ2LbHrAV4yxq5h9zFq"
     },
     {
       "added_at": "2022-10-07 04:00:00",

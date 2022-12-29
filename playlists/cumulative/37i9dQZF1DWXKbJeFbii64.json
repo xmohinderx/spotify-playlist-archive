@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-26",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Lit up Sky",
       "url": "https://open.spotify.com/track/7gqGg9Fax0OdHyOcpatuL3"
@@ -600,6 +600,24 @@
     },
     {
       "album": {
+        "name": "Deep Storm",
+        "url": "https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7"
+      },
+      "artists": [
+        {
+          "name": "Illustrike",
+          "url": "https://open.spotify.com/artist/3fSaLzfLqxs7heaciEryrS"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217710,
+      "name": "Shelter Rain",
+      "url": "https://open.spotify.com/track/2LlSkv5N137jn1rvqs39vA"
+    },
+    {
+      "album": {
         "name": "Thunderstorms (Vol. 3)",
         "url": "https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU"
       },
@@ -629,7 +647,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 198000,
       "name": "Sky Full Of Thunder",
       "url": "https://open.spotify.com/track/0ovxaBAfSGc6ZFR2tZPNFG"
@@ -809,7 +827,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 170070,
       "name": "Stormy Harbor In The Evening",
       "url": "https://open.spotify.com/track/7jaUDokJnbVN5tFIUMKRqU"

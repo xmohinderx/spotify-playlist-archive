@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jonasu, Karen Harding, Kriss Reeve, Biscits",
+  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jonasu, Karen Harding, Kygo, Gryffin, Calum Scott",
   "name": "EDM Top 100",
   "published_playlist_ids": [
     "0Ntnl9seA6EX8wAm2l1oSO"
@@ -1631,7 +1631,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 138750,
       "name": "Apple Juice (feat. Carla Monroe) - MOTi Remix",
       "url": "https://open.spotify.com/track/6fIgsZFtGXiIvxb2Y6oCc7"
@@ -2631,7 +2631,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 184838,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/1qSSSDPH3qU40ApQsD4JJ6"
@@ -4947,7 +4947,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 220412,
       "name": "Colder (feat. Cappa)",
       "url": "https://open.spotify.com/track/04k2qZrQ5eu1XlM8XLz23S"
@@ -10095,7 +10095,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 226262,
       "name": "GOT EM",
       "url": "https://open.spotify.com/track/404RlM5dJoLH2FL1mBMGLt"
@@ -12761,7 +12761,7 @@
       ],
       "date_added": "2020-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-14",
+      "date_removed": null,
       "duration_ms": 156960,
       "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
       "url": "https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84"
@@ -12831,6 +12831,28 @@
       "duration_ms": 131065,
       "name": "In Da Getto",
       "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
+    },
+    {
+      "album": {
+        "name": "In My Arms",
+        "url": "https://open.spotify.com/album/4oYUVL7RBWNHXxViSqOJ8b"
+      },
+      "artists": [
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        },
+        {
+          "name": "Leroy Moreno",
+          "url": "https://open.spotify.com/artist/63d2Z7jnnWG0s05tFhig0o"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "In My Arms",
+      "url": "https://open.spotify.com/track/2mdwMr3FpQ333pFs0brbST"
     },
     {
       "album": {
@@ -13161,7 +13183,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 212280,
       "name": "Infinity 2018",
       "url": "https://open.spotify.com/track/3jaFTrMgWgrY5wZQqJwMKN"
@@ -15477,7 +15499,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 190955,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4VhdCS7iCaYM81NZaeA72I"
@@ -16301,7 +16323,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 153303,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/6L5eyrIlO6GkRJAdqQEThe"
@@ -17291,7 +17313,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 151680,
       "name": "Move",
       "url": "https://open.spotify.com/track/77nsopvS2oakiCcvVZaZLV"
@@ -17419,7 +17441,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 191663,
       "name": "My Affection",
       "url": "https://open.spotify.com/track/0ByVaTwUoxD8lTUBtuR6dy"
@@ -19653,7 +19675,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 296240,
       "name": "Outside (feat. Ellie Goulding) - Hardwell Remix",
       "url": "https://open.spotify.com/track/5F65SKdHWD9l4Nl4kgMcWG"
@@ -22257,7 +22279,7 @@
       ],
       "date_added": "2020-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "Say Say Say (Waiting 4 U) - Steff da Campo & 71 Digits Radio Mix",
       "url": "https://open.spotify.com/track/3Ns7GYmCWy4DLI3e6yRE5d"
@@ -23711,7 +23733,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 200786,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3ACnarSkTKiOTj4rsnFkgf"
@@ -24163,7 +24185,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 141290,
       "name": "STAY",
       "url": "https://open.spotify.com/track/4ArMwaJAUT2xC7vIETjqdU"
@@ -29607,7 +29629,7 @@
       ],
       "date_added": "2020-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 144393,
       "name": "You (\u00e0 la)",
       "url": "https://open.spotify.com/track/5kSh4hhyGRjLitIuNq0Agk"

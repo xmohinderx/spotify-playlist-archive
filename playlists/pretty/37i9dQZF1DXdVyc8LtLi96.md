@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,499 likes - 278 songs - 13 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,918 likes - 278 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 277 | [Lenient Motion](https://open.spotify.com/track/7hPX3L0FjSXXWdh9VeLgHF) | [Stellarscopees](https://open.spotify.com/artist/663VphTY3ZpSam1nra3WG6) | [Lenient Motion](https://open.spotify.com/album/0WlL5FsQE1nIJ50BEZJp8o) | 2:37 |
 | 278 | [Shapes of Solitude](https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Peaceful Illusions](https://open.spotify.com/album/56A3q7RrXnTuljybi6L14X) | 2:57 |
 
-Snapshot ID: `MTY3MTc1NzIwMCwwMDAwMDAwMDY2OWZhMTI2ZTVhMDY3MmNmMzBiMWZiNzg4Y2IzNDI4`
+Snapshot ID: `MTY3MjI1OTgwMywwMDAwMDAwMGI0ZTIyMzIxMzU4YzRhNjMyMTkxM2Q3Zjk1MDBmM2I3`

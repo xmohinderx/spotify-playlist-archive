@@ -4,7 +4,7 @@
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-310 songs - 19 hr 29 min - [published](https://open.spotify.com/playlist/0wv7jIu1raSykzpAO7jkt2)
+311 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/0wv7jIu1raSykzpAO7jkt2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [I Am California](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 | 2021-11-05 |  |
 | [I Can't Slow Her Down \- Edit](https://open.spotify.com/track/0WPcX3Q2MXyoGM56qiLjYX) | [L.A\. Salami](https://open.spotify.com/artist/23HG5wQ67P2pMksEMTbkur) | [I Can't Slow Her Down \(Edit\)](https://open.spotify.com/album/3PZDrjbgR0eVSkkA35HUxZ) | 3:33 | 2022-07-22 | 2022-08-03 |
 | [I Can't Slow Her Down \- Edit](https://open.spotify.com/track/1NmHZ5Vbogui7oeQYH1ExT) | [L.A\. Salami](https://open.spotify.com/artist/23HG5wQ67P2pMksEMTbkur) | [I Can't Slow Her Down \(Edit\)](https://open.spotify.com/album/6Ad5Z2MZ9Twe0z4zy2O5oY) | 3:33 | 2021-11-05 | 2022-07-29 |
-| [i don't care \- bonus track](https://open.spotify.com/track/3pM7NQahwmilUQ2JSBJOzA) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HOW DID WE GET HERE?](https://open.spotify.com/album/7AWw0QFEj9pezKu5hu1l4j) | 2:40 | 2022-10-07 |  |
+| [i don't care \- bonus track](https://open.spotify.com/track/3pM7NQahwmilUQ2JSBJOzA) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HOW DID WE GET HERE?](https://open.spotify.com/album/7AWw0QFEj9pezKu5hu1l4j) | 2:40 | 2022-10-07 | 2022-12-29 |
 | [I Don't Want to Go](https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Water](https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w) | 5:04 | 2021-11-08 | 2022-11-13 |
 | [I Hope It Takes You Higher \- Acoustic](https://open.spotify.com/track/71aHrUacV9bMtm1qCqJuwZ) | [Toulouse](https://open.spotify.com/artist/4Vy0AbsAmU5l3ZWOxhilzr), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [I Hope It Takes You Higher \(Acoustic\)](https://open.spotify.com/album/6NmGBBMgSEzqXprwqAIGad) | 3:40 | 2021-11-05 | 2022-07-29 |
 | [I Know You Know Me \(With Matt Berninger\)](https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [I Know You Know Me \(With Matt Berninger\)](https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW) | 3:19 | 2022-02-07 |  |
@@ -158,6 +158,7 @@
 | [Love Flew Away](https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k) | 2:27 | 2022-08-02 |  |
 | [Love Flew Away](https://open.spotify.com/track/5uAtnvrLOUDcTp9sfpxaQt) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/7yNnjSXqGCF3H1hEwJMwa5) | 2:27 | 2021-11-05 | 2022-07-28 |
 | [Love Flew Away](https://open.spotify.com/track/6FwkV9baY3ERqmxPsBLzYf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/3WvXQcV3BhJqued0PYn23U) | 2:27 | 2022-07-22 | 2022-10-13 |
+| [Manly Man](https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Manly Man](https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH) | 3:30 | 2022-12-16 |  |
 | [May](https://open.spotify.com/track/3kfXRPnEqfAEOeKKX4UszE) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Still Life](https://open.spotify.com/album/69bmzUtPRFNdCMjsiD11kJ) | 3:58 | 2021-11-05 | 2022-07-29 |
 | [Me, Myself and Lunacy](https://open.spotify.com/track/1JzJbtG6UOv4sICVA8IX4H) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | ["WHAT THEN?"](https://open.spotify.com/album/1Yx2bNjkNd8bWZ9uM5Aexu) | 3:42 | 2022-07-22 | 2022-07-29 |
 | [Meet The Moonlight](https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG) | 5:05 | 2022-05-13 |  |

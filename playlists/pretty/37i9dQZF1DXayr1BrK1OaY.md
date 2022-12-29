@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,671 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,845 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 50 | [Always](https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 7:28 |
 | 51 | [Alive \(with Calle Lehmann\)](https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calle Lehmann](https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm) | [Alive \(with Calle Lehmann\)](https://open.spotify.com/album/5JqV9qFpXtCtQkbUrzJ3ws) | 3:42 |
 | 52 | [Love Letter \(feat\. The Knocks\)](https://open.spotify.com/track/26wuBc04catG1QQyYupr35) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Love Letter \(feat\. The Knocks\)](https://open.spotify.com/album/1MYXb16TpRvNZiLmscSGDk) | 4:13 |
-| 53 | [This Ain't Real](https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh) | [MENTIS](https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3) | [This Ain't Real](https://open.spotify.com/album/0FQaYrRMEl63jQsjfxeU2D) | 2:45 |
-| 54 | [Envious](https://open.spotify.com/track/5qW3tkBTtvjBSZIBR51yIs) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:22 |
+| 53 | [Envious](https://open.spotify.com/track/5qW3tkBTtvjBSZIBR51yIs) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:22 |
+| 54 | [This Ain't Real](https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh) | [MENTIS](https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3) | [This Ain't Real](https://open.spotify.com/album/0FQaYrRMEl63jQsjfxeU2D) | 2:45 |
 | 55 | [What's a Girl to Do](https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [A Girl Between Two Worlds](https://open.spotify.com/album/4MGNcuX4Vvhv2hhn1FwtDW) | 7:26 |
 | 56 | [You've Done Enough](https://open.spotify.com/track/3zPfyVThoCzQ6IB5CSGDTz) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [You’ve Done Enough](https://open.spotify.com/album/3MpEvpOsGV9iKzHWwUcjbk) | 3:33 |
 | 57 | [Spotlight](https://open.spotify.com/track/0EtcGmf2mVZbHWq2ZGP3t7) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 5:31 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 65 | [Hide and Seek \- Le Youth Remix](https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Hide and Seek \(Le Youth Remix\)](https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO) | 3:51 |
 | 66 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 |
 | 67 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 |
-| 68 | [The Distance](https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:51 |
-| 69 | [Untroubled](https://open.spotify.com/track/28WFDBPuVavZOK0KxkYSd7) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Cold Water](https://open.spotify.com/album/5h8uwG3AnNcrJt3Jhx7i7y) | 4:00 |
+| 68 | [Untroubled](https://open.spotify.com/track/28WFDBPuVavZOK0KxkYSd7) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Cold Water](https://open.spotify.com/album/5h8uwG3AnNcrJt3Jhx7i7y) | 4:00 |
+| 69 | [The Distance](https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:51 |
 | 70 | [Alone Together](https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Georgia Blackwell](https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq) | [Alone Together](https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE) | 3:19 |
-| 71 | [Something I Can Feel](https://open.spotify.com/track/0HbwAcxC39MqElV6NO05DQ) | [Denis First](https://open.spotify.com/artist/1qVHDR3icC0cD02ofnzEA1), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Something I Can Feel](https://open.spotify.com/album/15ILAVj88X0ZVqpSPN9Mgp) | 2:58 |
-| 72 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
+| 71 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
+| 72 | [Something I Can Feel](https://open.spotify.com/track/0HbwAcxC39MqElV6NO05DQ) | [Denis First](https://open.spotify.com/artist/1qVHDR3icC0cD02ofnzEA1), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Something I Can Feel](https://open.spotify.com/album/15ILAVj88X0ZVqpSPN9Mgp) | 2:58 |
 | 73 | [TEMPO](https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [TEMPO](https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu) | 3:59 |
 | 74 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 |
 | 75 | [These Things Will Come To Be](https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [These Things Will Come To Be](https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7) | 4:56 |
 
-Snapshot ID: `MTY2OTI0OTYxOSwwMDAwMDAwMDQzODc1NmExMjMxMDJjNGJiOTU2ZWYxYmY3MDdiZDhl`
+Snapshot ID: `MTY2OTI0OTYxOSwwMDAwMDAwMGM0ODUwZGM1MTE4ODBmMzZiOTQxMWJjNDk0MTFhM2I2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Tokischa & Natanael Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,088 likes - 57 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,107 likes - 57 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 39 | [Otra Botella](https://open.spotify.com/track/1eF1uRpuxr351DXcsZ8t34) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Otra Botella](https://open.spotify.com/album/0yAKlqiiZXRUrSRdag7YeA) | 3:46 |
 | 40 | [Dos Uno Nueve \(219\)](https://open.spotify.com/track/4h4Yy4DUZw0NkivxwBHM32) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 3:07 |
 | 41 | [Fino Licor \- Feat\. Piso 21](https://open.spotify.com/track/64fVcCq6n2uN8HOq88uEph) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Fino Licor \(Feat\. Piso 21\)](https://open.spotify.com/album/0vxaR9TSxiPpFCUW703vFO) | 3:13 |
-| 42 | [Qué Maldición \- Remix](https://open.spotify.com/track/0SWfXjPmLSUydYzwK9ct9F) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Qué Maldición \(Remix\)](https://open.spotify.com/album/4dQqCFHI3jRAdCWJHZ2n1L) | 3:44 |
-| 43 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 |
-| 44 | [Conozco La Calle](https://open.spotify.com/track/5ImiC67NzaBXSUXZjN1CSX) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Conozco La Calle](https://open.spotify.com/album/4iciGlmDQeaior7njVNFwH) | 2:20 |
+| 42 | [Conozco La Calle](https://open.spotify.com/track/5ImiC67NzaBXSUXZjN1CSX) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Conozco La Calle](https://open.spotify.com/album/4iciGlmDQeaior7njVNFwH) | 2:20 |
+| 43 | [Qué Maldición \- Remix](https://open.spotify.com/track/0SWfXjPmLSUydYzwK9ct9F) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Qué Maldición \(Remix\)](https://open.spotify.com/album/4dQqCFHI3jRAdCWJHZ2n1L) | 3:44 |
+| 44 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 |
 | 45 | [100 Años \- Con Calibre 50](https://open.spotify.com/track/5CxyOGC6zPaZ190hXuH5FO) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [100 Años \(Con Calibre 50\)](https://open.spotify.com/album/0EHD1gdUFjhkeQkJVuLZQa) | 3:35 |
 | 46 | [Billetes de 100](https://open.spotify.com/track/7wUFaxBGcFTME9OJKJqvLu) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [LVV the Real Rondon](https://open.spotify.com/album/790bSD1HVSOob9fVklUzQR) | 3:28 |
 | 47 | [Enfermo de Riqueza](https://open.spotify.com/track/0sS3OIqLs2RcccCyR71h6s) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Enfermo de Riqueza](https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr) | 3:54 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 56 | [Para Todos Mis Paisanos](https://open.spotify.com/track/2R1GwRkfF4lYvc1IbnxsQX) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [La Maxima Banda de Mazatlan Sinaloa](https://open.spotify.com/artist/1jrlmT3OMCawrjyH20uoHf) | [Retumban2](https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy) | 3:13 |
 | 57 | [No Lo Vi Venir](https://open.spotify.com/track/0jHaTmAiY9trB4AjVECmR9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:02 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDM2Yjk4MGE2ODliYzU0YzVhZDdmY2IxODlmMjZmZmU5`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGRhYmNiNjk2NmI0NGExMWRlZDFhMWUzYmE0NGFhYTE4`

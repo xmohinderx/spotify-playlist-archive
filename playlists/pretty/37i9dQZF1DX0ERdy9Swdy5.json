@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s",
-  "num_followers": 595303,
+  "num_followers": 595623,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyODM0NCwwMDAwMDAwMDRkNzc3NGZhZTI4OWJjMjk3NDAwN2ZmNTI4YWQzYjMx",
+  "snapshot_id": "MTY2MTkyODM0NCwwMDAwMDAwMDVkYmY2NWE2Zjg3OWJlYzc4MGE1NDkyMjg2NDkzYWM3",
   "tracks": [
     {
       "added_at": "2022-08-31 06:45:44",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
-        "name": "Uno Mismo",
-        "url": "https://open.spotify.com/album/01z0qSqxPmPHUZMLu1qbeD"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 316226,
-      "name": "Esa Mujer",
-      "url": "https://open.spotify.com/track/0cLjHVBsx3bmdK1nwTMNZw"
-    },
-    {
-      "added_at": "2022-08-31 06:45:44",
-      "album": {
         "name": "El Sonero Quel El Pueblo Prefiere",
         "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 300106,
       "name": "Lady Laura",
       "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
+    },
+    {
+      "added_at": "2022-08-31 06:45:44",
+      "album": {
+        "name": "Uno Mismo",
+        "url": "https://open.spotify.com/album/01z0qSqxPmPHUZMLu1qbeD"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 316226,
+      "name": "Esa Mujer",
+      "url": "https://open.spotify.com/track/0cLjHVBsx3bmdK1nwTMNZw"
     },
     {
       "added_at": "2022-08-31 06:45:44",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
-        "name": "Mis Amores",
-        "url": "https://open.spotify.com/album/4QcUkOX9DED7QTsHLW2FN0"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
-        }
-      ],
-      "duration_ms": 307386,
-      "name": "Bailemos Otra Vez",
-      "url": "https://open.spotify.com/track/7CElrb5b1CNzbbLUaBynyO"
-    },
-    {
-      "added_at": "2022-08-31 06:45:44",
-      "album": {
         "name": "Grandes Exitos - Live",
         "url": "https://open.spotify.com/album/68YffUBPn4Td5mBE1hxFgE"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 441360,
       "name": "Un Verano En Nueva York",
       "url": "https://open.spotify.com/track/2BNonWqC7arlCrknZPyoEN"
+    },
+    {
+      "added_at": "2022-08-31 06:45:44",
+      "album": {
+        "name": "Mis Amores",
+        "url": "https://open.spotify.com/album/4QcUkOX9DED7QTsHLW2FN0"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        }
+      ],
+      "duration_ms": 307386,
+      "name": "Bailemos Otra Vez",
+      "url": "https://open.spotify.com/track/7CElrb5b1CNzbbLUaBynyO"
     },
     {
       "added_at": "2022-08-31 06:45:44",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
-        "name": "Sue\u00f1o Contigo",
-        "url": "https://open.spotify.com/album/127Z5jLS1wkkfTgPPLWDci"
+        "name": "Super Exitos",
+        "url": "https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
         }
       ],
-      "duration_ms": 253266,
-      "name": "Sue\u00f1o Contigo",
-      "url": "https://open.spotify.com/track/211kE9JH4gEvvyaZAuz6wC"
+      "duration_ms": 250773,
+      "name": "No Puedo Prescindir De Ti",
+      "url": "https://open.spotify.com/track/7LDZh6bVrES7Z9RuD4HMTC"
     }
   ],
   "unique_name": "Salsa Hits: Los 90s",

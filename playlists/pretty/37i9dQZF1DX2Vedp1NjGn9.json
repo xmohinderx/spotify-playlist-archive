@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 69407,
+  "num_followers": 69570,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMDIwNThiYWRlZTRiZDI1YmJhMGZkMjk1YTRjNzcwMWU4",
+  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMDE0ODVlNGJhNjM0N2E2ZjM2YmIyMDBiNmVhZjE3OGVm",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -953,6 +953,22 @@
       "url": "https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T"
     },
     {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 303386,
+      "name": "Helplessness Blues",
+      "url": "https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb"
+    },
+    {
       "added_at": "2022-01-03 14:20:47",
       "album": {
         "name": "Rome",
@@ -975,22 +991,6 @@
       "duration_ms": 211506,
       "name": "Black (feat. Norah Jones)",
       "url": "https://open.spotify.com/track/5H43dazn2x2O9dkDVvaiDS"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Helplessness Blues",
-        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 303386,
-      "name": "Helplessness Blues",
-      "url": "https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1089,6 +1089,38 @@
       "url": "https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r"
     },
     {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Blood Pressures",
+        "url": "https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Future Starts Slow",
+      "url": "https://open.spotify.com/track/04RcDL1mbjcVLMLqBOjkeX"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "Minnesota, WI",
+      "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
+    },
+    {
       "added_at": "2022-01-03 14:20:47",
       "album": {
         "name": "Rome",
@@ -1111,38 +1143,6 @@
       "duration_ms": 140960,
       "name": "Two Against One (feat. Jack White)",
       "url": "https://open.spotify.com/track/0CIvOZBEQmVtePr3dHZMPO"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 232440,
-      "name": "Minnesota, WI",
-      "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Blood Pressures",
-        "url": "https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX"
-      },
-      "artists": [
-        {
-          "name": "The Kills",
-          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Future Starts Slow",
-      "url": "https://open.spotify.com/track/04RcDL1mbjcVLMLqBOjkeX"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Space Is Only Noise",
-        "url": "https://open.spotify.com/album/0tUJcqDuXHNkaPKLN0lQhT"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
-        }
-      ],
-      "duration_ms": 342163,
-      "name": "Space Is Only Noise If You Can See",
-      "url": "https://open.spotify.com/track/7uW6TpsG5sqP5JxTLV7Bf0"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Within and Without",
         "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 265866,
       "name": "Amor Fati",
       "url": "https://open.spotify.com/track/2zCm8GoOtiDbUoKbjHEGg1"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Space Is Only Noise",
+        "url": "https://open.spotify.com/album/0tUJcqDuXHNkaPKLN0lQhT"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "duration_ms": 342163,
+      "name": "Space Is Only Noise If You Can See",
+      "url": "https://open.spotify.com/track/7uW6TpsG5sqP5JxTLV7Bf0"
     },
     {
       "added_at": "2021-09-02 08:15:11",

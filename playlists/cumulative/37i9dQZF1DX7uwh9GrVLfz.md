@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ハルカミライ\(Haruka Mirai\)
 
-480 songs - 1 day 2 hr 15 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
+481 songs - 1 day 2 hr 18 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [It's a Wonderful Life! \~Heat Up Theme \~ .](https://open.spotify.com/track/5k4vMqDvrkMq4roJ1CEcQ5) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [It's a Wonderful Life! \~Heat Up Theme \~ .](https://open.spotify.com/album/5cV5NuuUhNhhQoCYIRj3SH) | 3:28 | 2022-10-04 | 2022-10-26 |
 | [IT'S ONLY PUNK ROCK](https://open.spotify.com/track/50Msl98h4Yodp4HUBkMQ4C) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [FRIENDS](https://open.spotify.com/album/7yoAy5YMIW3GfFqxkdoBbH) | 2:29 | 2022-05-24 | 2022-07-26 |
 | [Japanese Cherry](https://open.spotify.com/track/0rtQpVwfZW6ESBMc3XX5Gg) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Candy Cruise EP](https://open.spotify.com/album/7f9rnDJTOsfDAn7FWGOlWN) | 1:55 | 2022-05-12 |  |
+| [JINJYA](https://open.spotify.com/track/2VwNxrdyl0LVnCIEMfUxi0) | [KAZUKIYAMAMORI](https://open.spotify.com/artist/0WUQd2fb6RypKU9htBzm6i) | [JINJYA](https://open.spotify.com/album/31UBWBFS2imNZPWrxwWvwl) | 3:22 | 2022-12-27 |  |
 | [JUST MY LIFE](https://open.spotify.com/track/6KUy8S7PTSHX2WRW4drmlU) | [S.M.N.](https://open.spotify.com/artist/1D6MlbV9yHTOrlmMNhtEc5) | [BAD HOP](https://open.spotify.com/album/1oud6zNyNjCKTF6lnyTMke) | 2:46 | 2022-07-14 | 2022-07-16 |
 | [jya\-ji](https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 2:35 | 2022-12-20 |  |
 | [Ka Waii Inu](https://open.spotify.com/track/5AIstB4OJX9BmqLbiG6766) | [ザ・リラクシンズ](https://open.spotify.com/artist/2TUQcoBWcdL0ID73Hxqn2H) | [Ka Waii Inu](https://open.spotify.com/album/36Ekc9YFr5GhzqLusz4IcJ) | 1:44 | 2022-06-07 | 2022-07-20 |
@@ -471,7 +472,7 @@
 | [白煙](https://open.spotify.com/track/0yGq8ZsyE3cYBYQC9R1P0g) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 3:49 | 2022-05-17 | 2022-07-28 |
 | [目が覚めてon the road](https://open.spotify.com/track/1gphTBLh9vXTXNPsq67MJY) | [ザ・リラクシンズ](https://open.spotify.com/artist/2TUQcoBWcdL0ID73Hxqn2H) | [目が覚めてon the road](https://open.spotify.com/album/1CowD0JcqhSUh9NyKkmUj8) | 3:42 | 2022-05-12 | 2022-07-19 |
 | [眩光](https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [あの日、あの場所/眩光](https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c) | 3:34 | 2022-05-12 |  |
-| [神社](https://open.spotify.com/track/4Z4tIMYd11bo5x16w2WjXf) | [かずき山盛り](https://open.spotify.com/artist/3wzWXrDWCw5xTrINkYkhTH) | [神社](https://open.spotify.com/album/1F35k5gQ4OjwJWDKqScdIQ) | 3:22 | 2022-12-27 |  |
+| [神社](https://open.spotify.com/track/4Z4tIMYd11bo5x16w2WjXf) | [かずき山盛り](https://open.spotify.com/artist/3wzWXrDWCw5xTrINkYkhTH) | [神社](https://open.spotify.com/album/1F35k5gQ4OjwJWDKqScdIQ) | 3:22 | 2022-12-27 | 2022-12-29 |
 | [空に唄えば](https://open.spotify.com/track/0CATStPGs7sxXxM7CJLdPa) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:18 | 2022-06-02 |  |
 | [笑っていようぜ](https://open.spotify.com/track/1QgHgUb7Fy1P8YNJTF2TpL) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [ビューティフルユース](https://open.spotify.com/album/421Ct2V48lwkcLbTySapDj) | 1:49 | 2022-05-12 | 2022-08-19 |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2022-11-08 |  |

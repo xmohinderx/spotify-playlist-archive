@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Sunlight! The most precious gold to be found on Earth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,383 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,382 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 45 | [Cigarra](https://open.spotify.com/track/6mESobRGEJZZAPF0pHzREQ) | [Fábio Caramuru](https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH) | [Ecomúsica: Conversas de um Piano Com a Fauna Brasileira](https://open.spotify.com/album/40tSqhnInwzfSBMC75n3rM) | 5:03 |
 | 46 | [Integration](https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ) | [Equanimous](https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn), [Ruby Chase](https://open.spotify.com/artist/7z3jWevFVKWVvlSbPVpjeq), [Bliss Looper](https://open.spotify.com/artist/2vcc8a70GimYU5JkdSngnN), [OPUS](https://open.spotify.com/artist/4iLJWObQDJTdSs6nmll4zU) | [Attract](https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA) | 2:54 |
 | 47 | [Rebecca's Theme \(Water\)](https://open.spotify.com/track/5JA1wMXh6C072LePIqWTdR) | [A.R.T\. Wilson](https://open.spotify.com/artist/3Ml899ULPFArc5T9GpwgRp) | [Overworld](https://open.spotify.com/album/5I4w85SAzHx1ZApr0ddtzH) | 4:36 |
-| 48 | [Yulquen](https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:37 |
-| 49 | [Europe](https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 3:46 |
+| 48 | [Europe](https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 3:46 |
+| 49 | [Yulquen](https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:37 |
 | 50 | [Birki](https://open.spotify.com/track/0ea8Oop13pg33agIZa2Q4K) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Sounds of Fischer Vol\. 1](https://open.spotify.com/album/4mDwLLZSBpBMHAgD1bRaaz) | 4:03 |
 
-Snapshot ID: `MTY3MTYwMjQwMCwwMDAwMDAwMDBiODdiZmQ2NjlhODdiYmQ4YmQwY2I0YzdiOTIyNGVi`
+Snapshot ID: `MTY3MTYwMjQwMCwwMDAwMDAwMDU2MzNhODE4YWRjNDZmZDQ0N2IzY2UxNDhhNmNkOWFl`

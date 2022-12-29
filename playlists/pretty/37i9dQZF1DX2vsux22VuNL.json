@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Cynthia Luz",
-  "num_followers": 244236,
+  "num_followers": 244354,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NjkxNiwwMDAwMDAwMDkzYmExMDUzZjY3ZjJkOWQxNTkzMzU1YTYxMDlmZTY5",
+  "snapshot_id": "MTY3MTc2NjkxNiwwMDAwMDAwMDhlMGJhODllNGVjODIzNjYyZmRiZWYyM2ZhMmQ1OTc3",
   "tracks": [
     {
       "added_at": "2022-12-16 03:00:00",
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/7qoIhutxU269Zqo9PG5IOj"
     },
     {
-      "added_at": "2022-12-28 01:12:40",
+      "added_at": "2022-12-29 00:25:33",
       "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
@@ -411,22 +411,30 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Ei Amor",
-        "url": "https://open.spotify.com/album/5gGGqa1ErhhqgU5s6wkEkQ"
+        "name": "Sussurros",
+        "url": "https://open.spotify.com/album/0QKrzgGefbKTTGNiyXMsy2"
       },
       "artists": [
         {
-          "name": "DONATTO",
-          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
         },
         {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
         }
       ],
-      "duration_ms": 141354,
-      "name": "Ei Amor",
-      "url": "https://open.spotify.com/track/4rYXjKPAqlSR1pieRKXeQ9"
+      "duration_ms": 191933,
+      "name": "Sussurros",
+      "url": "https://open.spotify.com/track/3h5WrbxaFRRRtLKvmlfvau"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -455,33 +463,25 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Sussurros",
-        "url": "https://open.spotify.com/album/0QKrzgGefbKTTGNiyXMsy2"
+        "name": "Ei Amor",
+        "url": "https://open.spotify.com/album/5gGGqa1ErhhqgU5s6wkEkQ"
       },
       "artists": [
         {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+          "name": "DONATTO",
+          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
         },
         {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
         }
       ],
-      "duration_ms": 191933,
-      "name": "Sussurros",
-      "url": "https://open.spotify.com/track/3h5WrbxaFRRRtLKvmlfvau"
+      "duration_ms": 141354,
+      "name": "Ei Amor",
+      "url": "https://open.spotify.com/track/4rYXjKPAqlSR1pieRKXeQ9"
     },
     {
-      "added_at": "2022-12-28 01:12:40",
+      "added_at": "2022-12-29 00:25:33",
       "album": {
         "name": "Org\u00e2nico Ver\u00e3o 2023",
         "url": "https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim"
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "F\u00e9 Imensa",
         "url": "https://open.spotify.com/album/7lTIW8fNmbd1ioWTjSfk05"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 288400,
       "name": "F\u00e9 Imensa",
       "url": "https://open.spotify.com/track/7Ay3bqPd31lSVCN73EJvJe"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Surreal",
-        "url": "https://open.spotify.com/album/6p55dtcIxQmIdfdVIqAkOQ"
-      },
-      "artists": [
-        {
-          "name": "Sofia",
-          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
-        },
-        {
-          "name": "FEL",
-          "url": "https://open.spotify.com/artist/5BFA1MzEXTBZTSLgB7cSRd"
-        }
-      ],
-      "duration_ms": 171392,
-      "name": "Surreal",
-      "url": "https://open.spotify.com/track/4stix6rwbQjjMde6z5IJjK"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Ac\u00fastico Altamira #14 - Medo",
         "url": "https://open.spotify.com/album/4KrCWuExqb7Xjxi8dQ7ukz"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 276705,
       "name": "Ac\u00fastico Altamira #14 - Medo",
       "url": "https://open.spotify.com/track/4IfMGfaZCGFEfzFizozRco"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Surreal",
+        "url": "https://open.spotify.com/album/6p55dtcIxQmIdfdVIqAkOQ"
+      },
+      "artists": [
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
+        },
+        {
+          "name": "FEL",
+          "url": "https://open.spotify.com/artist/5BFA1MzEXTBZTSLgB7cSRd"
+        }
+      ],
+      "duration_ms": 171392,
+      "name": "Surreal",
+      "url": "https://open.spotify.com/track/4stix6rwbQjjMde6z5IJjK"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1599,30 +1599,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Sem Ca\u00f4",
-        "url": "https://open.spotify.com/album/6eeSG3JJ6CIfWLzcjQ53yM"
-      },
-      "artists": [
-        {
-          "name": "Liza Lou",
-          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
-        },
-        {
-          "name": "IssoQue\u00c9SomDeRap",
-          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
-        },
-        {
-          "name": "Cortesia Da Casa",
-          "url": "https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6"
-        }
-      ],
-      "duration_ms": 234826,
-      "name": "Sem Ca\u00f4",
-      "url": "https://open.spotify.com/track/06fLo9eK0m0OCN6GDS1N8M"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Sentir Saudade",
         "url": "https://open.spotify.com/album/3YVXCU8NEDI9GQtk2Eg6NO"
       },
@@ -1651,6 +1627,30 @@
       "duration_ms": 206451,
       "name": "Sentir Saudade",
       "url": "https://open.spotify.com/track/4LuSl1ajXHPZB1gGWQ069n"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Sem Ca\u00f4",
+        "url": "https://open.spotify.com/album/6eeSG3JJ6CIfWLzcjQ53yM"
+      },
+      "artists": [
+        {
+          "name": "Liza Lou",
+          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
+        },
+        {
+          "name": "IssoQue\u00c9SomDeRap",
+          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
+        },
+        {
+          "name": "Cortesia Da Casa",
+          "url": "https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6"
+        }
+      ],
+      "duration_ms": 234826,
+      "name": "Sem Ca\u00f4",
+      "url": "https://open.spotify.com/track/06fLo9eK0m0OCN6GDS1N8M"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1783,6 +1783,26 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "O Que Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "O Que Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Ela Sumiu",
         "url": "https://open.spotify.com/album/1foSpiDjZEpIeo8U2lwO22"
       },
@@ -1803,26 +1823,6 @@
       "duration_ms": 184000,
       "name": "Ela Sumiu",
       "url": "https://open.spotify.com/track/72MtmArnaOKPRWcS3H7WR7"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "O Que Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "O Que Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
     }
   ],
   "unique_name": "brisa",

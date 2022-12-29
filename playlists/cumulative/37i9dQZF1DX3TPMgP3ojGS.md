@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,620 songs - 3 day 1 hr 2 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,621 songs - 3 day 1 hr 5 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [All At Once](https://open.spotify.com/track/0jtwO60GVhFIF2HGeIGLkr) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [All At Once](https://open.spotify.com/album/4HsiN8xlJfsyh6iUTeBwA6) | 2:57 | 2022-03-29 | 2022-04-14 |
 | [All but the Brightest Stars](https://open.spotify.com/track/3ibwnPw7VRVug1QbAtppAj) | [Pavel Antonov Manev](https://open.spotify.com/artist/0A7g4WQaIuDvhaZBcKpYee) | [All but the Brightest Stars](https://open.spotify.com/album/3UsF4EjYsxZjtVl5APinCd) | 3:21 | 2021-03-15 | 2022-05-31 |
 | [All of Me](https://open.spotify.com/track/6p711pj5pLIa6mVJrk2PAx) | [Ellen Courtois](https://open.spotify.com/artist/0N004UmHNdbv2HVHjEDxXa) | [All of Me \(Piano Cover\)](https://open.spotify.com/album/179clPJ1V3pIm47VYmTVs2) | 3:54 | 2021-05-25 | 2022-04-02 |
-| [All the Same](https://open.spotify.com/track/5xy2cj5d2WOTjPkkHuVH84) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [All the Same](https://open.spotify.com/album/4l6gpd836O7OwWEj8Pekfo) | 1:53 | 2022-12-24 |  |
+| [All the Same](https://open.spotify.com/track/5xy2cj5d2WOTjPkkHuVH84) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [All the Same](https://open.spotify.com/album/4l6gpd836O7OwWEj8Pekfo) | 1:53 | 2022-12-24 | 2022-12-29 |
 | [Alle ting treng si tid](https://open.spotify.com/track/0Ove61vF7Mr9YYWTb4ltgN) | [Sigrid Asphaug](https://open.spotify.com/artist/7LHMgCDlLhDqsQYCIRmp1d) | [Alle ting treng si tid](https://open.spotify.com/album/7MMZSlDq6oEv8vqWnpo99f) | 1:55 | 2022-04-14 | 2022-04-18 |
 | [Allena](https://open.spotify.com/track/4xO3mTbZDnaDSJtRdgzXQc) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Nostalgia](https://open.spotify.com/album/5m9MHYPBagBRk4rMt26lpN) | 1:39 | 2022-12-24 |  |
 | [Aller Anfang ist schwer](https://open.spotify.com/track/2XVccQz5rm9Uti3hrTmBoB) | [Jens Wechsler](https://open.spotify.com/artist/5BsoSlrs9ny1GMWKpESjyZ) | [Aller Anfang ist schwer](https://open.spotify.com/album/4Yscf6h8fgFnsq5Rbbnofn) | 2:01 | 2021-03-06\* | 2022-04-17 |
@@ -399,6 +399,7 @@
 | [Elfreth’s Alley](https://open.spotify.com/track/56kV0SkieRGfY4HUAGIsCM) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Elfreth’s Alley](https://open.spotify.com/album/0eN8e5w0xTXymCqKf1bdlZ) | 2:16 | 2021-03-10 | 2022-04-15 |
 | [Elixir](https://open.spotify.com/track/0kCN1NYNHTB39vgjcv7Sqx) | [Nia Glynn](https://open.spotify.com/artist/6qHUfCJ0xqPOXDYb3Vg1FM) | [Elixir](https://open.spotify.com/album/56s40KLEPYSTnC8J5w30di) | 2:27 | 2022-04-14 | 2022-06-01 |
 | [Ella's Lullaby](https://open.spotify.com/track/4TxfZzrq0dH2Wmfl4dAjN9) | [Enno Aare](https://open.spotify.com/artist/7eHcKVhaxOOTKJFZuu3x1h) | [Enno Aare](https://open.spotify.com/album/4bwyjd0Zmh114Y1tth2Vjv) | 3:40 | 2021-03-14 | 2022-04-17 |
+| [Ellebori](https://open.spotify.com/track/1j7pycxTWD6vyiKJout75p) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Ellebori](https://open.spotify.com/album/1Gzq0KGnmDKcF2jwPM83rS) | 2:59 | 2022-12-29 |  |
 | [Ellipses](https://open.spotify.com/track/28GCsymrcDUXXLC12nkhp3) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Ellipses](https://open.spotify.com/album/40Lka5pXfXf6wA3fRZAsZM) | 2:31 | 2022-03-29 | 2022-12-24 |
 | [Elysium](https://open.spotify.com/track/2XtkXvXNsqpTBddG6W4dkA) | [Reese Willis](https://open.spotify.com/artist/4iw6QArXcxuKkS1v2mo47u) | [Elysium](https://open.spotify.com/album/55W5st1xVSvmwGKR5xWkms) | 2:19 | 2021-03-09 | 2022-04-05 |
 | [Emeralds](https://open.spotify.com/track/4cWtWIuQgQF5Tvn7PfqHzA) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Emeralds](https://open.spotify.com/album/6PHgykEEHPYKP67jLJaFWg) | 2:45 | 2022-04-14 | 2022-08-09 |

@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 24860,
+  "num_followers": 24867,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDMwYWYxNWNhMTdmOTBjMzg2ZGVhZWUwOGU5Y2ZkYzU4",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDczY2YzYThlYWQzY2M4Y2Y4MTQxNjYyZTRiZjhiN2Q3",
   "tracks": [
     {
       "added_at": "2021-09-01 00:59:23",
@@ -575,26 +575,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Raw Cuts #3",
-        "url": "https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe"
-      },
-      "artists": [
-        {
-          "name": "Danilo Plessow",
-          "url": "https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle"
-        },
-        {
-          "name": "Motor City Drum Ensemble",
-          "url": "https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf"
-        }
-      ],
-      "duration_ms": 414359,
-      "name": "Raw Cuts #3",
-      "url": "https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Raiding the Vaults",
         "url": "https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6"
       },
@@ -615,22 +595,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Weekends and Beginnings",
-        "url": "https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C"
+        "name": "Raw Cuts #3",
+        "url": "https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe"
       },
       "artists": [
         {
-          "name": "Alice Smith",
-          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
+          "name": "Danilo Plessow",
+          "url": "https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle"
         },
         {
-          "name": "Maurice Fulton",
-          "url": "https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD"
+          "name": "Motor City Drum Ensemble",
+          "url": "https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf"
         }
       ],
-      "duration_ms": 332777,
-      "name": "Love Endeavor (Maurice Fulton Remix) - Mixed",
-      "url": "https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ"
+      "duration_ms": 414359,
+      "name": "Raw Cuts #3",
+      "url": "https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -647,6 +627,26 @@
       "duration_ms": 412257,
       "name": "Mars 500",
       "url": "https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Weekends and Beginnings",
+        "url": "https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C"
+      },
+      "artists": [
+        {
+          "name": "Alice Smith",
+          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
+        },
+        {
+          "name": "Maurice Fulton",
+          "url": "https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD"
+        }
+      ],
+      "duration_ms": 332777,
+      "name": "Love Endeavor (Maurice Fulton Remix) - Mixed",
+      "url": "https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -857,6 +857,22 @@
       "url": "https://open.spotify.com/track/3g5oI7fJYh9NaQMQ5x4ItH"
     },
     {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/1lZYSSKDM10kl2UIl2wXId"
+      },
+      "artists": [
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        }
+      ],
+      "duration_ms": 352758,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/4at1ctwfMr2a1t8xEpmOzX"
+    },
+    {
       "added_at": "2021-09-01 00:59:23",
       "album": {
         "name": "Trips #2: Vietnam",
@@ -879,22 +895,6 @@
       "duration_ms": 440341,
       "name": "Ho Chi Min",
       "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/1lZYSSKDM10kl2UIl2wXId"
-      },
-      "artists": [
-        {
-          "name": "DJ Island",
-          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
-        }
-      ],
-      "duration_ms": 352758,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/4at1ctwfMr2a1t8xEpmOzX"
     }
   ],
   "unique_name": "Rooftop Sunset",

@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
-  "num_followers": 468534,
+  "num_followers": 468764,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYwOTA2MSwwMDAwMDAwMDFkNGRhODBhNWYwZDRhZDdiN2M3MjZlYzI4OTA4M2Vk",
+  "snapshot_id": "MTY3MDYwOTA2MSwwMDAwMDAwMDM4ZDkzYzg2OGU3ZDcxNDFhN2RmNWU0OTdkZjVkYzc3",
   "tracks": [
     {
       "added_at": "2022-10-14 07:00:00",
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv"
     },
     {
-      "added_at": "2022-12-28 01:13:03",
+      "added_at": "2022-12-29 01:22:41",
       "album": {
         "name": "Myriad",
         "url": "https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC"
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Luciferian Towers",
+        "url": "https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH"
+      },
+      "artists": [
+        {
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
+        }
+      ],
+      "duration_ms": 279840,
+      "name": "Bosses Hang, Pt. I",
+      "url": "https://open.spotify.com/track/4vXuXPEZZpMXLW1pzRNCy2"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Dead Rock Commandos",
         "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 580237,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Luciferian Towers",
-        "url": "https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH"
-      },
-      "artists": [
-        {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
-        }
-      ],
-      "duration_ms": 279840,
-      "name": "Bosses Hang, Pt. I",
-      "url": "https://open.spotify.com/track/4vXuXPEZZpMXLW1pzRNCy2"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Through The Eyes Of Heathens",
-        "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
-      },
-      "artists": [
-        {
-          "name": "Dozer",
-          "url": "https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N"
-        }
-      ],
-      "duration_ms": 508293,
-      "name": "Big Sky Theory",
-      "url": "https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "All You Can Eat!!",
         "url": "https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 228693,
       "name": "Putain!",
       "url": "https://open.spotify.com/track/3dadlxoCAy15mHh3h9gcVr"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Through The Eyes Of Heathens",
+        "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
+      },
+      "artists": [
+        {
+          "name": "Dozer",
+          "url": "https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N"
+        }
+      ],
+      "duration_ms": 508293,
+      "name": "Big Sky Theory",
+      "url": "https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Unmountable Stairs",
+        "url": "https://open.spotify.com/album/3zdNW4axkxhHI6kxmVX8cu"
+      },
+      "artists": [
+        {
+          "name": "Witchrider",
+          "url": "https://open.spotify.com/artist/6yR8Nf8o56ZZR070jTti83"
+        }
+      ],
+      "duration_ms": 407646,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/1MAZXGVX6v3630AjDhSHPE"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Trance States in Tongues",
         "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 336720,
       "name": "Older No Wiser",
       "url": "https://open.spotify.com/track/3vX40kM91roJS58JpFMWct"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Unmountable Stairs",
-        "url": "https://open.spotify.com/album/3zdNW4axkxhHI6kxmVX8cu"
-      },
-      "artists": [
-        {
-          "name": "Witchrider",
-          "url": "https://open.spotify.com/artist/6yR8Nf8o56ZZR070jTti83"
-        }
-      ],
-      "duration_ms": 407646,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/1MAZXGVX6v3630AjDhSHPE"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Back From The Abyss",
-        "url": "https://open.spotify.com/album/6m0jOMIvEAtNOau0nUnpI3"
-      },
-      "artists": [
-        {
-          "name": "Orange Goblin",
-          "url": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
-        }
-      ],
-      "duration_ms": 378920,
-      "name": "Heavy Lies The Crown",
-      "url": "https://open.spotify.com/track/5FAO8M86HZX9TFfBMR2isb"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Busse Woods",
         "url": "https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Feberdr\u00f6m",
-        "url": "https://open.spotify.com/album/0Yqdj3KUlv24X7PIK0RV5w"
+        "name": "Back From The Abyss",
+        "url": "https://open.spotify.com/album/6m0jOMIvEAtNOau0nUnpI3"
       },
       "artists": [
         {
-          "name": "GAUPA",
-          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
+          "name": "Orange Goblin",
+          "url": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
         }
       ],
-      "duration_ms": 302416,
-      "name": "Vakuum",
-      "url": "https://open.spotify.com/track/57nUabDrFFazqfafSr5UzF"
+      "duration_ms": 378920,
+      "name": "Heavy Lies The Crown",
+      "url": "https://open.spotify.com/track/5FAO8M86HZX9TFfBMR2isb"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Feberdr\u00f6m",
+        "url": "https://open.spotify.com/album/0Yqdj3KUlv24X7PIK0RV5w"
+      },
+      "artists": [
+        {
+          "name": "GAUPA",
+          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
+        }
+      ],
+      "duration_ms": 302416,
+      "name": "Vakuum",
+      "url": "https://open.spotify.com/track/57nUabDrFFazqfafSr5UzF"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Black Harvest",
         "url": "https://open.spotify.com/album/6EwCQb8IyVWHX1l2u4v1kY"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Only a Suggestion",
-        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
-      },
-      "artists": [
-        {
-          "name": "Hermano",
-          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
-        }
-      ],
-      "duration_ms": 282160,
-      "name": "The Bottle",
-      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Wolfmother",
         "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 304600,
       "name": "Colossal",
       "url": "https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Only a Suggestion",
+        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
+      },
+      "artists": [
+        {
+          "name": "Hermano",
+          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
+        }
+      ],
+      "duration_ms": 282160,
+      "name": "The Bottle",
+      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
     },
     {
       "added_at": "2022-10-14 07:00:00",

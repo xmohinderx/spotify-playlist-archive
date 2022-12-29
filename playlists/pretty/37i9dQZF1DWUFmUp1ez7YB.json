@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Quiero Salsa, dame Salsa! Foto: Marc Anthony",
-  "num_followers": 362686,
+  "num_followers": 363242,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NzI5NSwwMDAwMDAwMGZjZWUyZTFmYjhhYjM0NDBkM2VmYTA0ZWM0MTAyZGE5",
+  "snapshot_id": "MTY1OTQ1NzI5NSwwMDAwMDAwMDZkYjZkZjE4NzllNzQwM2QwZjM0NmE2ODhlN2ZhMzc5",
   "tracks": [
     {
       "added_at": "2022-08-02 16:21:34",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-08-02 16:21:34",
       "album": {
-        "name": "Acarey Ya Lleg\u00f3",
-        "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
-      },
-      "artists": [
-        {
-          "name": "Septeto Acarey",
-          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
-        }
-      ],
-      "duration_ms": 300773,
-      "name": "Eres Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
-    },
-    {
-      "added_at": "2022-08-02 16:21:34",
-      "album": {
         "name": "Sentimental de Punta a Punta",
         "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 325642,
       "name": "Oiga, Mire, Vea",
       "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
+    },
+    {
+      "added_at": "2022-08-02 16:21:34",
+      "album": {
+        "name": "Acarey Ya Lleg\u00f3",
+        "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
+      },
+      "artists": [
+        {
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        }
+      ],
+      "duration_ms": 300773,
+      "name": "Eres Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
     },
     {
       "added_at": "2022-08-02 16:21:34",

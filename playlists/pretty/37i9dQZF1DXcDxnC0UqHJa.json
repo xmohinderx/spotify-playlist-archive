@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Madison Cunningham",
-  "num_followers": 468065,
+  "num_followers": 468084,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGY5NDQ1OGJiNjI4ZWVkYjQ2NjUzNDYzNzcwNTExYTJl",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGJmMmU2YmU4NzlkZTMwNzNmYTgyMmY1ZDJmNWFlNmE1",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
     },
     {
-      "added_at": "2022-12-28 01:36:36",
+      "added_at": "2022-12-29 01:33:58",
       "album": {
         "name": "Crooked Tree (Deluxe Edition)",
         "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "We Don't Eat EP",
-        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
-      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "The Bridge School Concerts 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 223133,
       "name": "Jesus, Etc.",
       "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "We Don't Eat EP",
+        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
+      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "A Long December",
+        "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 260812,
+      "name": "A Long December",
+      "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Shine a Light: Field Recordings from the Great American Railroad",
         "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 219672,
       "name": "Gentle on My Mind",
       "url": "https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "A Long December",
-        "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 260812,
-      "name": "A Long December",
-      "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 185053,
+      "name": "Dance Me to the End of Love (Bonus)",
+      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Farewell Transmission b/w The Dark Don\u2019t Hide It",
         "url": "https://open.spotify.com/album/1ArXidz2XpohzAXAFYm2tF"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 417533,
       "name": "Farewell Transmission",
       "url": "https://open.spotify.com/track/6QhhnBsVJ8WepUb1KLTFFH"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Dance Me to the End of Love (Bonus)",
-      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1577,20 +1577,28 @@
       "url": "https://open.spotify.com/track/7rtNxSatiqmLKb4G71k1yn"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Live Forever: A Tribute To Billy Joe Shaver",
-        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
+        "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
+        "url": "https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP"
       },
       "artists": [
         {
           "name": "Nathaniel Rateliff",
           "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        },
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        },
+        {
+          "name": "Sam Cohen",
+          "url": "https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP"
         }
       ],
-      "duration_ms": 171480,
-      "name": "You Asked Me To",
-      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
+      "duration_ms": 222996,
+      "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
+      "url": "https://open.spotify.com/track/6OmnOaeTaE6KGtsEaw6Lit"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1701,28 +1709,20 @@
       "url": "https://open.spotify.com/track/72X7jvDpgZyNjUeTixq15d"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
-        "url": "https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP"
+        "name": "Live Forever: A Tribute To Billy Joe Shaver",
+        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
       },
       "artists": [
         {
           "name": "Nathaniel Rateliff",
           "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        },
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        },
-        {
-          "name": "Sam Cohen",
-          "url": "https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP"
         }
       ],
-      "duration_ms": 222996,
-      "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
-      "url": "https://open.spotify.com/track/6OmnOaeTaE6KGtsEaw6Lit"
+      "duration_ms": 171480,
+      "name": "You Asked Me To",
+      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 246722,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Leave Me Breathless",
         "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 240080,
       "name": "Girl From The North Country",
       "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 246722,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "By Your Side / Landslide",
-        "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Green Rocky Road",
         "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 201985,
       "name": "Green Rocky Road",
       "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "By Your Side / Landslide",
+        "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
     },
     {
       "added_at": "2022-10-14 04:00:00",

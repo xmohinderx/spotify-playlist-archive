@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Awdella
 
-137 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
+138 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Cinta](https://open.spotify.com/track/0jkJChuTxiVr05C2oUAlht) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Cinta](https://open.spotify.com/album/1gAC5jqOsnhlGjfucDDkWo) | 3:54 | 2022-07-27 | 2022-11-25 |
 | [Cinta](https://open.spotify.com/track/390rIF5dbH5QRIb7r3NxOF) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Cinta](https://open.spotify.com/album/2aPLN3NAn2iPab8GMY4pV5) | 3:54 | 2022-05-25 | 2022-07-29 |
 | [Cinta Hanya Buatan](https://open.spotify.com/track/18UAyvjXAX4SUjL6kh3fpV) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8), [Muna Shahirah](https://open.spotify.com/artist/5SRNnJxN0REYoX7HR7SUgL) | [Cinta Hanya Buatan](https://open.spotify.com/album/1DOSCnP1s8LmknokNdCMOJ) | 4:03 | 2022-09-21 | 2022-12-22 |
-| [Cinta Hati](https://open.spotify.com/track/2ajnoyTjYU5cDgopof1NwJ) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD), [Fanzi Ruji](https://open.spotify.com/artist/3Mufz8lCG0dhZKqLUdqDGp) | [Cinta Hati](https://open.spotify.com/album/3E286LtyoyoSIKsb1iHNLr) | 3:01 | 2022-11-16 |  |
+| [Cinta Hati](https://open.spotify.com/track/2ajnoyTjYU5cDgopof1NwJ) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD), [Fanzi Ruji](https://open.spotify.com/artist/3Mufz8lCG0dhZKqLUdqDGp) | [Cinta Hati](https://open.spotify.com/album/3E286LtyoyoSIKsb1iHNLr) | 3:01 | 2022-11-16 | 2022-12-29 |
 | [Cinta Ini](https://open.spotify.com/track/76yLhPFFk1Wxab5OV0V70m) | [Amirchik](https://open.spotify.com/artist/0v3cIqT5jtOSGxotzz8kcZ) | [Cinta Ini](https://open.spotify.com/album/310QQkQcmHQUIqYRnFaBoQ) | 2:23 | 2022-08-31 | 2022-10-28 |
 | [Debu \- Strings Version](https://open.spotify.com/track/5CRTFdqAMRs1F4NyfMnQFU) | [Dayang Nurfaizah](https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV), [Amir Masdi](https://open.spotify.com/artist/4D3e1gNcNkycsMtOSo8Z2J) | [Debu \(Strings Version\)](https://open.spotify.com/album/1EuSXRl5N6AQ2P03FnU5Kq) | 3:29 | 2022-11-16 | 2022-11-25 |
 | [DEPRESI](https://open.spotify.com/track/7rrwz7bK0FX723GxJtN1p7) | [IamNeeta](https://open.spotify.com/artist/6g7i9qhTwxhEuxNUhU1mCg) | [DEPRESI](https://open.spotify.com/album/2Sb5rDCcdR2tPtplSmJkWu) | 3:47 | 2022-12-21 |  |
@@ -92,6 +92,7 @@
 | [Merasa Indah](https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:40 | 2022-05-25 | 2022-09-16 |
 | [Mimpi Ngeri](https://open.spotify.com/track/4vUcX4qA3rDIwtM1glK7k1) | [Ahmadul Amin](https://open.spotify.com/artist/3zEZOoywGtysVsh2w8OMZy), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Mimpi Ngeri](https://open.spotify.com/album/0rA7Lc45FOrfeZvVVIcswC) | 3:04 | 2022-09-15 | 2022-10-28 |
 | [Mini Love](https://open.spotify.com/track/2dAmKNCT1ImkO4sNtolvuH) | [Han Byul](https://open.spotify.com/artist/4BGk8nswKSAE0bSuxA1uTP) | [Mini Love](https://open.spotify.com/album/5tYl9vMg1JgPVKOIQ2V1ye) | 3:48 | 2022-08-31 | 2022-09-22 |
+| [Move On Tutorial](https://open.spotify.com/track/7ClNG4tiTECgBqTBydFcQU) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Move On Tutorial](https://open.spotify.com/album/5mhNViXGW7xhRNzvOUMCmR) | 3:04 | 2022-12-28 |  |
 | [Mungkin Ini Adalah Lagu Yang Paling Sedih Pernah Ku Buat](https://open.spotify.com/track/1auMsAG9X5RSDu8UuJayIs) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO), [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO) | [Mungkin Ini Adalah Lagu Yang Paling Sedih Pernah Ku Buat](https://open.spotify.com/album/3IrwzNwKbQh1tE9ug53hnz) | 3:02 | 2022-10-05 | 2022-12-15 |
 | [Nang](https://open.spotify.com/track/7mDvcKlMxONKaDWgYNIKmX) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq) | [Nang](https://open.spotify.com/album/0WwKzpFVUeGJoRFT8dfPmL) | 3:26 | 2022-05-25 | 2022-08-18 |
 | [Nelangsa](https://open.spotify.com/track/0FqbrObTZcICnGO4zTWT3s) | [Suki Low](https://open.spotify.com/artist/5ZK1YCasWVI9DVQtxLRnYD) | [Nelangsa](https://open.spotify.com/album/5GJDWuQRphjqZwFq048ukk) | 3:59 | 2022-05-25 | 2022-06-01 |

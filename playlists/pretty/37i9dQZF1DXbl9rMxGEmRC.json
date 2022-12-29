@@ -1,12 +1,12 @@
 {
   "description": "A collection of classics and recent tracks from the world of black and dark metal. Cover: Dimmu Borgir",
-  "num_followers": 410550,
+  "num_followers": 410706,
   "original_name": "Black & Dark Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDIyNWYwMWVkZGM1M2QyOWQ4MTBjNTg2NDM3MWY0MjE1",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGVmMmFkMWQ2ODE5OGNhOWQ1ZGE5NzljNzRiNTBmZjg4",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Nemesis Divina",
-        "url": "https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb"
-      },
-      "artists": [
-        {
-          "name": "Satyricon",
-          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
-        }
-      ],
-      "duration_ms": 385413,
-      "name": "Mother North",
-      "url": "https://open.spotify.com/track/79iREiH6mrODItQGLaidt8"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Existence Is Futile",
         "url": "https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 274093,
       "name": "How Many Tears to Nurture a Rose?",
       "url": "https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Nemesis Divina",
+        "url": "https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb"
+      },
+      "artists": [
+        {
+          "name": "Satyricon",
+          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+        }
+      ],
+      "duration_ms": 385413,
+      "name": "Mother North",
+      "url": "https://open.spotify.com/track/79iREiH6mrODItQGLaidt8"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Congelia",
-        "url": "https://open.spotify.com/album/1uvY2dvGnOgnwwpIOn9a34"
-      },
-      "artists": [
-        {
-          "name": "Enslaved",
-          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
-        }
-      ],
-      "duration_ms": 481320,
-      "name": "Congelia",
-      "url": "https://open.spotify.com/track/2oyornhocyqp1XpxsJxIld"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Angels Hung from the Arches of Heaven",
         "url": "https://open.spotify.com/album/3wkROANEE5jyoV1B1usizt"
       },
@@ -767,34 +751,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Annihilation Phenomena",
-        "url": "https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO"
+        "name": "Congelia",
+        "url": "https://open.spotify.com/album/1uvY2dvGnOgnwwpIOn9a34"
       },
       "artists": [
         {
-          "name": "The Last Ten Seconds of Life",
-          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
         }
       ],
-      "duration_ms": 231318,
-      "name": "Annihilation Phenomena",
-      "url": "https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Modern Primitive",
-        "url": "https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88"
-      },
-      "artists": [
-        {
-          "name": "Septicflesh",
-          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Coming Storm",
-      "url": "https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64"
+      "duration_ms": 481320,
+      "name": "Congelia",
+      "url": "https://open.spotify.com/track/2oyornhocyqp1XpxsJxIld"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -831,6 +799,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Modern Primitive",
+        "url": "https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88"
+      },
+      "artists": [
+        {
+          "name": "Septicflesh",
+          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Coming Storm",
+      "url": "https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "The Agony & Ecstasy of Watain",
         "url": "https://open.spotify.com/album/7qmZz6yfRiXAoW4lgOPi4W"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 240880,
       "name": "Ecstasies in night infinite",
       "url": "https://open.spotify.com/track/57LQHgaWbaB02gDFth9in4"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Annihilation Phenomena",
+        "url": "https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO"
+      },
+      "artists": [
+        {
+          "name": "The Last Ten Seconds of Life",
+          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
+        }
+      ],
+      "duration_ms": 231318,
+      "name": "Annihilation Phenomena",
+      "url": "https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Caravan of Broken Ghosts",
-        "url": "https://open.spotify.com/album/75NgJLpx9Sd36o6kzXihOG"
-      },
-      "artists": [
-        {
-          "name": "Darkthrone",
-          "url": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
-        }
-      ],
-      "duration_ms": 473500,
-      "name": "Caravan of Broken Ghosts",
-      "url": "https://open.spotify.com/track/7CYKHsr8Wgx90CyWpHtVzl"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Anthems To The Welkin At Dusk",
         "url": "https://open.spotify.com/album/0PIidVsFr9Oji1Y79jTV9M"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 314906,
       "name": "Ye Entrancemperium",
       "url": "https://open.spotify.com/track/7HmGwZ0HvZIsB90wt3AuDE"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Caravan of Broken Ghosts",
+        "url": "https://open.spotify.com/album/75NgJLpx9Sd36o6kzXihOG"
+      },
+      "artists": [
+        {
+          "name": "Darkthrone",
+          "url": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
+        }
+      ],
+      "duration_ms": 473500,
+      "name": "Caravan of Broken Ghosts",
+      "url": "https://open.spotify.com/track/7CYKHsr8Wgx90CyWpHtVzl"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Faces From Beyond",
-        "url": "https://open.spotify.com/album/07tI8UIDXurBgET99kFZmk"
-      },
-      "artists": [
-        {
-          "name": "Atrocity",
-          "url": "https://open.spotify.com/artist/050NpEYZ5xFUS1BOAZjVmX"
-        }
-      ],
-      "duration_ms": 302318,
-      "name": "Faces From Beyond",
-      "url": "https://open.spotify.com/track/5pMGhbV6EDt9kxxzGZm086"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Rashomon",
         "url": "https://open.spotify.com/album/3iErNnoi1sc1pqKntalRN2"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 454920,
       "name": "Kagutsuchi",
       "url": "https://open.spotify.com/track/33jOwx7sKn4ugMYsGgJG41"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Faces From Beyond",
+        "url": "https://open.spotify.com/album/07tI8UIDXurBgET99kFZmk"
+      },
+      "artists": [
+        {
+          "name": "Atrocity",
+          "url": "https://open.spotify.com/artist/050NpEYZ5xFUS1BOAZjVmX"
+        }
+      ],
+      "duration_ms": 302318,
+      "name": "Faces From Beyond",
+      "url": "https://open.spotify.com/track/5pMGhbV6EDt9kxxzGZm086"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/4qntR4s02MF97EkxAhcdr2"
-      },
-      "artists": [
-        {
-          "name": "1349",
-          "url": "https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT"
-        }
-      ],
-      "duration_ms": 250506,
-      "name": "I Am Abomination",
-      "url": "https://open.spotify.com/track/1SBGE2wrNmiwHnnLSAiegd"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Ecclesia",
         "url": "https://open.spotify.com/album/10CWKHbZuG36qSkRDLBy3q"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 464896,
       "name": "Ecclesia",
       "url": "https://open.spotify.com/track/0ldDRR8LVWKQkAv5th9ZtY"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/4qntR4s02MF97EkxAhcdr2"
+      },
+      "artists": [
+        {
+          "name": "1349",
+          "url": "https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT"
+        }
+      ],
+      "duration_ms": 250506,
+      "name": "I Am Abomination",
+      "url": "https://open.spotify.com/track/1SBGE2wrNmiwHnnLSAiegd"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "A Psylacybic Death",
-        "url": "https://open.spotify.com/album/0ldAuoMKfNhTDZn9lvLDgp"
-      },
-      "artists": [
-        {
-          "name": "Abduction",
-          "url": "https://open.spotify.com/artist/0giVCDcrvEldaPK8aCF1vp"
-        }
-      ],
-      "duration_ms": 428181,
-      "name": "A Psylacybic Death",
-      "url": "https://open.spotify.com/track/3gRVHf7tMrvbAZFMqZIWmD"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Kiss The Goat",
         "url": "https://open.spotify.com/album/5oZgR5zNhoTF4KOeyiDn6v"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 239133,
       "name": "Satan Divine",
       "url": "https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "A Psylacybic Death",
+        "url": "https://open.spotify.com/album/0ldAuoMKfNhTDZn9lvLDgp"
+      },
+      "artists": [
+        {
+          "name": "Abduction",
+          "url": "https://open.spotify.com/artist/0giVCDcrvEldaPK8aCF1vp"
+        }
+      ],
+      "duration_ms": 428181,
+      "name": "A Psylacybic Death",
+      "url": "https://open.spotify.com/track/3gRVHf7tMrvbAZFMqZIWmD"
     },
     {
       "added_at": "2022-12-16 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,759,878 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,760,615 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 | 61 | [Dominicana](https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 4:12 |
 | 62 | [Hay Algo en Ti](https://open.spotify.com/track/15PxHZffHMndHQjmzYuGUv) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 3:52 |
 | 63 | [Quiero Bailar](https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Diva Platinum Edition](https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e) | 3:04 |
-| 64 | [Baila Morena \- Live](https://open.spotify.com/track/6GXtIudxkU3OHFOmd0o613) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Season Finale](https://open.spotify.com/album/6XbbtZmVsxiw6PTpe19dQo) | 2:34 |
-| 65 | [Si No Le Contesto](https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:40 |
+| 64 | [Si No Le Contesto](https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:40 |
+| 65 | [Baila Morena \- Live](https://open.spotify.com/track/6GXtIudxkU3OHFOmd0o613) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Season Finale](https://open.spotify.com/album/6XbbtZmVsxiw6PTpe19dQo) | 2:34 |
 | 66 | [Si Tú La Ves \(feat\. Wisin\)](https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:41 |
 | 67 | [Saoco](https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Sobreviviente](https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh) | 3:04 |
 | 68 | [Mala Conducta \(feat\. Franco El Gorila\)](https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Perreología](https://open.spotify.com/album/4qXNRlaRSR6ps3oyeEcvVk) | 4:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 | 99 | [Si No Cuidas Tu Mujer](https://open.spotify.com/track/40AGTob7V8pCDvvXERrCu3) | [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR) | [12 Discipulos](https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w) | 3:58 |
 | 100 | [Ay Amor \- Reggaeton](https://open.spotify.com/track/4E1z3hsYE4bM1PNBvtAoZP) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Despecho Reggaetón](https://open.spotify.com/album/1clxM59p55Br14SInm4uSI) | 3:53 |
 
-Snapshot ID: `MTY3MDQ1NjczMywwMDAwMDAwMDE1N2Y4ZTM1YTk1N2UxZDA0NmQ4MTZhOTI5YjlhYmNi`
+Snapshot ID: `MTY3MDQ1NjczMywwMDAwMDAwMGQ1Zjc4MGFiNDZmZGI4MDI5NDkyY2JjMjZmOWI1M2E3`

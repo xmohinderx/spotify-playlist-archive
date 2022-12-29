@@ -1,12 +1,12 @@
 {
   "description": "Put a spring in your step with these mood boosting tracks.",
-  "num_followers": 1447909,
+  "num_followers": 1448307,
   "original_name": "Fun Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkzOTQ5MiwwMDAwMDAwMDJhMDEyNzY5M2Y3YWY5Y2RiODQ0MjA5Yzc1NDY4NTgy",
+  "snapshot_id": "MTY3MDkzOTQ5MiwwMDAwMDAwMDZiYTVkNjc5NWVhMmU4YjdlYTFjYmU4MzViOGU0NmJk",
   "tracks": [
     {
       "added_at": "2022-12-13 13:51:32",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-12-13 13:51:32",
       "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
+    },
+    {
+      "added_at": "2022-12-13 13:51:32",
+      "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
-    },
-    {
-      "added_at": "2022-12-13 13:51:32",
-      "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
     },
     {
       "added_at": "2022-12-13 13:51:32",

@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 35729,
+  "num_followers": 35755,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMDg3YzllYmZjOTkxMmM0NjllNThhY2MwYmYyNmEyMDk3",
+  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMGJlYWJjY2VjYmI1ZGU4YWM4NmU5OTQ4ZmI3NjRiOWE4",
   "tracks": [
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "Never Get It Right",
+        "url": "https://open.spotify.com/album/2Mm9b3ZroxmIaDgEZybjhe"
+      },
+      "artists": [
+        {
+          "name": "Ines Rae",
+          "url": "https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Never Get It Right",
+      "url": "https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "Summer Fling",
         "url": "https://open.spotify.com/album/1opDOrtEMWuAiAEl9OI6CE"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Never Get It Right",
-        "url": "https://open.spotify.com/album/2Mm9b3ZroxmIaDgEZybjhe"
-      },
-      "artists": [
-        {
-          "name": "Ines Rae",
-          "url": "https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Never Get It Right",
-      "url": "https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Meet You There",
         "url": "https://open.spotify.com/album/5r66GVAfMVNigkXwPgCu6e"
       },
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "good thing",
-        "url": "https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ"
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/138lSNAApov9p0YikNh5gh"
       },
       "artists": [
         {
-          "name": "emie nathan",
-          "url": "https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB"
+          "name": "RVBY",
+          "url": "https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2"
         }
       ],
-      "duration_ms": 142480,
-      "name": "good thing",
-      "url": "https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP"
+      "duration_ms": 201951,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5qOlWfTdKPafaINlhpVY5V"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/138lSNAApov9p0YikNh5gh"
+        "name": "good thing",
+        "url": "https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ"
       },
       "artists": [
         {
-          "name": "RVBY",
-          "url": "https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2"
+          "name": "emie nathan",
+          "url": "https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB"
         }
       ],
-      "duration_ms": 201951,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/5qOlWfTdKPafaINlhpVY5V"
+      "duration_ms": 142480,
+      "name": "good thing",
+      "url": "https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP"
     },
     {
       "added_at": "2022-10-28 20:58:08",

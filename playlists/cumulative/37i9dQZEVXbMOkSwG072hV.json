@@ -274,6 +274,28 @@
     },
     {
       "album": {
+        "name": "7 Liga\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/0evvuV0Q3BZKfLNwxJIRTL"
+      },
+      "artists": [
+        {
+          "name": "vaqueiro desmantelado",
+          "url": "https://open.spotify.com/artist/60k7um8B3hK7IID8qIZfQs"
+        },
+        {
+          "name": "Edu Matuto",
+          "url": "https://open.spotify.com/artist/0ETDS7UgEhnskP0MD5i7AL"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169555,
+      "name": "7 Liga\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/5TafECxsAuQHec0pbCetnW"
+    },
+    {
+      "album": {
         "name": "A Caminho do Bega",
         "url": "https://open.spotify.com/album/3MNPKL9eM0VsPsd1oc5FQ2"
       },
@@ -311,7 +333,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 111145,
       "name": "A Cole\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5Ezk6ZDIQ5BguYF8kzZmdi"
@@ -3282,6 +3304,24 @@
     },
     {
       "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219668,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
+    },
+    {
+      "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
       },
@@ -5805,7 +5845,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 210440,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0bMVCO35RJiUhAfvFsLjIF"
@@ -11607,7 +11647,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 151944,
       "name": "Neo Thang",
       "url": "https://open.spotify.com/track/4HTGB55yrGZGlTon0irIEb"
@@ -13267,7 +13307,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Perdoa Por Tudo Vida",
       "url": "https://open.spotify.com/track/7zKqmAHGY8zm2UA4wT5ant"
@@ -14931,7 +14971,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 201600,
       "name": "Saquarema",
       "url": "https://open.spotify.com/track/12R6npsSMx8g0k5GN19poM"
@@ -16517,7 +16557,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
@@ -16759,7 +16799,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 219520,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
@@ -17683,7 +17723,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 192320,
       "name": "Tras De M\u00ed",
       "url": "https://open.spotify.com/track/1AO5MeGsWdPLejY47pnYYy"

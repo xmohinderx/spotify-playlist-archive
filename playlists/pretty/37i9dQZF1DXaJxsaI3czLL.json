@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 119059,
+  "num_followers": 119104,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjE1MzIwMCwwMDAwMDAwMDY0YmYzMGYyMjQwOGEwYjdiN2IzOTc5NjMyYzg3NzAw",
+  "snapshot_id": "MTY3MjE1MzIwMCwwMDAwMDAwMDg5ODRjMmM1MDZhZGI0ZWZhMWUwMzkyYTQ5N2Q3YWM1",
   "tracks": [
     {
       "added_at": "2022-12-27 15:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "Acoustic Versions",
-        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
-      },
-      "artists": [
-        {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
-        }
-      ],
-      "duration_ms": 132390,
-      "name": "Midnight Song",
-      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
         "name": "POLY LIFE MULTI SOUL",
         "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 128028,
       "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
       "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
+        "name": "Acoustic Versions",
+        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
+      },
+      "artists": [
+        {
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+        }
+      ],
+      "duration_ms": 132390,
+      "name": "Midnight Song",
+      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
+        "name": "\u65b0\u3057\u3044\u4eba",
+        "url": "https://open.spotify.com/album/75EifDD2I7RqW00QqJOiT8"
+      },
+      "artists": [
+        {
+          "name": "OGRE YOU ASSHOLE",
+          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
+        }
+      ],
+      "duration_ms": 278517,
+      "name": "\u65b0\u3057\u3044\u4eba",
+      "url": "https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
         "name": "Songs of Four Seasons",
         "url": "https://open.spotify.com/album/1sCFYE7ZW7GhWkaKqiU2CS"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 312853,
       "name": "Mori no kotoba",
       "url": "https://open.spotify.com/track/6SFm3HdywAFS4wRM4S5izc"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
-        "name": "Young Love",
-        "url": "https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 294493,
-      "name": "Moon Light Lover",
-      "url": "https://open.spotify.com/track/0Iod4IHv2ZJy4tzxTDIM34"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u65b0\u3057\u3044\u4eba",
-        "url": "https://open.spotify.com/album/75EifDD2I7RqW00QqJOiT8"
+        "name": "Young Love",
+        "url": "https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0"
       },
       "artists": [
         {
-          "name": "OGRE YOU ASSHOLE",
-          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
         }
       ],
-      "duration_ms": 278517,
-      "name": "\u65b0\u3057\u3044\u4eba",
-      "url": "https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd"
+      "duration_ms": 294493,
+      "name": "Moon Light Lover",
+      "url": "https://open.spotify.com/track/0Iod4IHv2ZJy4tzxTDIM34"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
-        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
+        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
       },
       "artists": [
         {
-          "name": "Fuyumi Abe",
-          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
+          "name": "KENTA MAENO",
+          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
         }
       ],
-      "duration_ms": 245746,
-      "name": "\u5e0c\u671b\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
+      "duration_ms": 67203,
+      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
+        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
+        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
       },
       "artists": [
         {
-          "name": "KENTA MAENO",
-          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
+          "name": "Fuyumi Abe",
+          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
         }
       ],
-      "duration_ms": 67203,
-      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
+      "duration_ms": 245746,
+      "name": "\u5e0c\u671b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "eureka",
-        "url": "https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "eureka",
-      "url": "https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
         "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0~beautiful sleep~",
         "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u4e16\u754c\u306f\u3053\u3053\u3067\u56de\u308b\u3088",
-        "url": "https://open.spotify.com/album/4DzFPjfbnCxtrku5WDvt9J"
+        "name": "eureka",
+        "url": "https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ"
       },
       "artists": [
         {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
         }
       ],
-      "duration_ms": 275130,
-      "name": "\u4e16\u754c\u306f\u3053\u3053\u3067\u56de\u308b\u3088",
-      "url": "https://open.spotify.com/track/7vThpShILWq0xIenNi53Va"
+      "duration_ms": 210000,
+      "name": "eureka",
+      "url": "https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -915,34 +899,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "Quai",
-        "url": "https://open.spotify.com/album/6wq3R7atGikH6erhFOvAqm"
+        "name": "\u4e16\u754c\u306f\u3053\u3053\u3067\u56de\u308b\u3088",
+        "url": "https://open.spotify.com/album/4DzFPjfbnCxtrku5WDvt9J"
       },
       "artists": [
         {
-          "name": "SADFRANK",
-          "url": "https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW"
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
         }
       ],
-      "duration_ms": 410761,
-      "name": "Quai",
-      "url": "https://open.spotify.com/track/7pAHrBXNISzLLFiquzlMpb"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
-        "name": "Apartment",
-        "url": "https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Arata",
-          "url": "https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO"
-        }
-      ],
-      "duration_ms": 243846,
-      "name": "Apartment",
-      "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
+      "duration_ms": 275130,
+      "name": "\u4e16\u754c\u306f\u3053\u3053\u3067\u56de\u308b\u3088",
+      "url": "https://open.spotify.com/track/7vThpShILWq0xIenNi53Va"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -979,6 +947,22 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
+        "name": "Apartment",
+        "url": "https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Arata",
+          "url": "https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO"
+        }
+      ],
+      "duration_ms": 243846,
+      "name": "Apartment",
+      "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
         "name": "Retronym",
         "url": "https://open.spotify.com/album/0l7UtNpyBJeATV6nnvdZpj"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 161813,
       "name": "\u5728\u5b85\u30ef\u30eb\u30c4",
       "url": "https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
+        "name": "Quai",
+        "url": "https://open.spotify.com/album/6wq3R7atGikH6erhFOvAqm"
+      },
+      "artists": [
+        {
+          "name": "SADFRANK",
+          "url": "https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW"
+        }
+      ],
+      "duration_ms": 410761,
+      "name": "Quai",
+      "url": "https://open.spotify.com/track/7pAHrBXNISzLLFiquzlMpb"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
-      },
-      "artists": [
-        {
-          "name": "PARK BO GUM",
-          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "All My Love - English Ver.",
-      "url": "https://open.spotify.com/track/56JB3pqUaLaIozQ5j2tD7W"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
         "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
         "url": "https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 457613,
       "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
       "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
+      },
+      "artists": [
+        {
+          "name": "PARK BO GUM",
+          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "All My Love - English Ver.",
+      "url": "https://open.spotify.com/track/56JB3pqUaLaIozQ5j2tD7W"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "Arrows",
-        "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
-      },
-      "artists": [
-        {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        }
-      ],
-      "duration_ms": 266729,
-      "name": "Arrows",
-      "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 233946,
       "name": "\u7720\u308c\u306c\u7f8a - with TENDRE",
       "url": "https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
+        "name": "Arrows",
+        "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        }
+      ],
+      "duration_ms": 266729,
+      "name": "Arrows",
+      "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
     },
     {
       "added_at": "2022-12-27 15:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 菅原圭 / <br/>Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,730 likes - 61 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,736 likes - 61 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 6 | [シューズは脱がないで](https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [シューズは脱がないで](https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ) | 4:08 |
 | 7 | [Maze](https://open.spotify.com/track/7dO0DWNctendV8W3XbRBux) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Time Won't Stop](https://open.spotify.com/album/0rQDHxRhpolHbzQYcB510w) | 5:08 |
 | 8 | [Stay](https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Stay](https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis) | 2:29 |
-| 9 | [暴く春](https://open.spotify.com/track/4CnQzzLlHEezMLqflJpWmS) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [暴く春](https://open.spotify.com/album/2fIYGVS9QPcWS95wSqLdXs) | 3:26 |
+| 9 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 |
 | 10 | [ヨンナ\~](https://open.spotify.com/track/0NY7R1RL9qpQcsk9yTnWQe) | [Leonald](https://open.spotify.com/artist/0NRTDdR3mqDDtBI9rN8rHN), [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j) | [ヨンナ\~](https://open.spotify.com/album/3fCo5HAb77uYrQyaLI3ejr) | 3:44 |
 | 11 | [空っぽ](https://open.spotify.com/track/1VfOJgHWGyXIVcowq3dcJK) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [空っぽ](https://open.spotify.com/album/6gsTB987dJeaTUifVdWbO4) | 4:53 |
 | 12 | [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 60 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 |
 | 61 | [ハナノヨウ](https://open.spotify.com/track/5WwC895TwQsdgxiH9qkuq5) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [ハナノヨウ](https://open.spotify.com/album/1NORsBbP4WjmIBG2P8OsCt) | 3:52 |
 
-Snapshot ID: `MTY3MjE1MzIwMCwwMDAwMDAwMDNmZGUyYzhlMThhYTJhMjY1YjQzYWIwNTRlMWI4NTY2`
+Snapshot ID: `MTY3MjE1MzIwMCwwMDAwMDAwMGUzZDc3ODM0YTBhNjcxZDMxMTgxNGVjM2M2NDhlMzNi`

@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-515 songs - 1 day 9 hr 27 min - [published](https://open.spotify.com/playlist/5hcw9b05MXjlbJWhFDxard)
+516 songs - 1 day 9 hr 31 min - [published](https://open.spotify.com/playlist/5hcw9b05MXjlbJWhFDxard)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [I'm Made Of Wax, Larry, What Are You Made Of?](https://open.spotify.com/track/2dwhns14pjuxxcM5a0eOow) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ) | 3:00 | 2022-01-05 |  |
 | [I'm Not Jesus \(feat\. Corey Taylor\) \- International Version](https://open.spotify.com/track/78MMTLc1W1BjnKS3v9dJnd) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Worlds Collide](https://open.spotify.com/album/0rr0bj60VA1iBM0T6s34mL) | 3:34 | 2022-01-05 | 2022-07-29 |
 | [I'm Not Jesus \- International Version](https://open.spotify.com/track/1JrtC2ubRFV2xB79J3UY1Z) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Worlds Collide](https://open.spotify.com/album/1rcVwAd9FXK9ONouJVeRSF) | 3:33 | 2022-01-05 | 2022-11-20 |
+| [I'm Not Jesus \- International Version](https://open.spotify.com/track/7rCHmESfvRcjqaU7My7ge8) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Worlds Collide](https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ) | 3:34 | 2022-01-05 |  |
 | [If I Were You](https://open.spotify.com/track/6BlDbNUFohjkyNX83dMXaK) | [Janus](https://open.spotify.com/artist/0XHYHd42BDMMDRXHCBgFoO) | [Red Right Return](https://open.spotify.com/album/28NjP8sRaEaf17KMATTRsG) | 3:37 | 2022-04-11 | 2022-05-26 |
 | [If You Only Knew](https://open.spotify.com/track/0CkSF2TAqIu8TJaVwwAOnT) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/320IHgTaLRjvcRhyfmYbk7) | 3:46 | 2022-01-05 | 2022-05-25 |
 | [In Fate's Hands](https://open.spotify.com/track/0r6DsDv0wkIGpVBUqaV15E) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) | 3:29 | 2022-01-05 | 2022-07-16 |
@@ -400,7 +401,7 @@
 | [Since U Been Gone](https://open.spotify.com/track/1HykUKaVU0CEUvv1vLKkXj) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [For Those Who Have Heart Re\-Issue](https://open.spotify.com/album/1tVzHnNzqvnpUgeThbHJF7) | 3:18 | 2022-01-05 | 2022-05-27 |
 | [Since U Been Gone](https://open.spotify.com/track/45oBSaWml0fU1S6qcHcpxF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [For Those Who Have Heart](https://open.spotify.com/album/4HEUcIsYZNkvMWQkIIEJYq) | 3:18 | 2022-01-05 |  |
 | [Slow Hands](https://open.spotify.com/track/7dssvsjRES1eCI8Kf6daFf) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/3x2TOyNsvVSTOKthR4R8oM) | 3:03 | 2022-01-05 | 2022-07-29 |
-| [Slow Hands](https://open.spotify.com/track/1VcIbyyDX8j0GNxSlsRFeJ) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz) | 3:04 | 2022-01-05 |  |
+| [Slow Hands](https://open.spotify.com/track/1VcIbyyDX8j0GNxSlsRFeJ) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz) | 3:04 | 2022-01-05 | 2022-12-29 |
 | [Smile Like You Mean It](https://open.spotify.com/track/3KANrKOFYyAxfjQJHkgBdb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:54 | 2022-01-05 |  |
 | [Smile Like You Mean It](https://open.spotify.com/track/1zfQmBioUdDy9ZhuJP3hA7) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/1ujPmNlTMp41h4EG6OOBGR) | 3:55 | 2022-01-05 | 2022-07-29 |
 | [So Long Goodbye](https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:01 | 2022-01-05 | 2022-06-04 |

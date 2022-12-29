@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 菅原圭 / <br/>Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-590 songs - 1 day 11 hr 40 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+591 songs - 1 day 11 hr 44 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 | 2022-10-11 |  |
 | [REAL U](https://open.spotify.com/track/2JypeIwdyi8h4nPDQW37XZ) | [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [REAL U](https://open.spotify.com/album/1SkiWJuQFETQaarWcCZTqh) | 3:33 | 2022-07-28 | 2022-10-05 |
 | [Recently](https://open.spotify.com/track/5aq0yvoWqGVusrOr8HDtsf) | [ORCALAND](https://open.spotify.com/artist/2tUNHY1YtygK9HsSboP3w8) | [Travel Notes](https://open.spotify.com/album/6SiRvL6UvQ3uw2FvYwDk8W) | 5:23 | 2022-10-25 | 2022-12-07 |
+| [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 | 2022-12-27 |  |
 | [Restart?](https://open.spotify.com/track/64INceHue7dl31QMDLLirn) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Restart?](https://open.spotify.com/album/5fdozRgnGyNfx9PQz5wu3h) | 3:24 | 2022-04-14 | 2022-07-27 |
 | [Right or Wrong](https://open.spotify.com/track/21HHgpVHb0ZSWn3lHtcErK) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [Right or Wrong](https://open.spotify.com/album/6PobaffeeUAAjz4KJUxsnt) | 2:21 | 2022-08-18 | 2022-08-24 |
 | [ripple](https://open.spotify.com/track/3kQMsWayIAqbgRou15Y9Wy) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [ripple](https://open.spotify.com/album/5yN3BNFVlWJLD6x7xYFUYM) | 2:44 | 2022-07-28 | 2022-08-03 |
@@ -522,7 +523,7 @@
 | [星屑ドライブ](https://open.spotify.com/track/4iAxpxyp6daT87wourqX39) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [星屑ドライブ](https://open.spotify.com/album/0ubpJPdKR70Znah6uYigxc) | 4:38 | 2022-04-12 | 2022-04-20 |
 | [春に流されて](https://open.spotify.com/track/6X6VC5EEcUgVsSH99VKWec) | [tokyo lil boy](https://open.spotify.com/artist/1DQ6X369mAKA7zsYDZcA3w) | [情緒ある青春を彼女に捧ぐ](https://open.spotify.com/album/2FPcSqOlEWbk3tfGCgEbiZ) | 4:51 | 2022-09-08 | 2022-11-02 |
 | [普通のロック](https://open.spotify.com/track/3YolTYm3e3Bc23wosdUs70) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [E\-Peanut](https://open.spotify.com/album/1n6UmAxDAo3JMcKhKWcDu6) | 3:20 | 2022-08-30 | 2022-12-07 |
-| [暴く春](https://open.spotify.com/track/4CnQzzLlHEezMLqflJpWmS) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [暴く春](https://open.spotify.com/album/2fIYGVS9QPcWS95wSqLdXs) | 3:26 | 2022-12-27 |  |
+| [暴く春](https://open.spotify.com/track/4CnQzzLlHEezMLqflJpWmS) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [暴く春](https://open.spotify.com/album/2fIYGVS9QPcWS95wSqLdXs) | 3:26 | 2022-12-27 | 2022-12-29 |
 | [曖昧night](https://open.spotify.com/track/6kHB0vXB6m8BmtZYHfNNAj) | [SHISE](https://open.spotify.com/artist/4cEW3r3jrgiGUnIh6ipaAE) | [曖昧night](https://open.spotify.com/album/3Ygqq1nwnFFOQX74J35Puv) | 3:58 | 2022-05-10 | 2022-06-22 |
 | [最低](https://open.spotify.com/track/0qmF7YXfxp15wDexlK1tTt) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [最低](https://open.spotify.com/album/4DV2vgNpPKrd4BS3p2Msb0) | 3:20 | 2022-10-11 | 2022-12-07 |
 | [月](https://open.spotify.com/track/7DrwN98xjUsoLwbfPbnLRf) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [LOOK](https://open.spotify.com/album/1rEYuax28LHBK7HyKwYhOT) | 4:12 | 2022-03-01 | 2022-03-09 |

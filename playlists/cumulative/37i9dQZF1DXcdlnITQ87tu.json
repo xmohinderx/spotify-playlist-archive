@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-12-15",
   "description": "(Listen Genie TV's original drama 'Summer Strike's soundtrack in here!) Genie TV \uc624\ub9ac\uc9c0\ub110 \uc2dc\ub9ac\uc988 '\uc544\ubb34\uac83\ub3c4 \ud558\uace0 \uc2f6\uc9c0 \uc54a\uc544'\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694!",
-  "name": "Summer Strike (\uc544\ubb34\uac83\ub3c4 \ud558\uace0\uc2f6\uc9c0 \uc54a\uc544)",
+  "name": "Summer Strike (\uc544\ubb34\uac83\ub3c4 \ud558\uace0 \uc2f6\uc9c0 \uc54a\uc544)",
   "published_playlist_ids": [],
   "tracks": [
     {
@@ -75,6 +75,42 @@
       "duration_ms": 234506,
       "name": "A Strange Day - Instrumental",
       "url": "https://open.spotify.com/track/39RHZMX3ou1LgBvRPO6ds5"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 10 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0OGWvBjkYVHW9LMtDPdi5p"
+      },
+      "artists": [
+        {
+          "name": "Sunnie",
+          "url": "https://open.spotify.com/artist/0v5xONZJ2N9zcriZXfzFK5"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189200,
+      "name": "Color",
+      "url": "https://open.spotify.com/track/7CgwXjVLZu82aHXCkE6FR7"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 10 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0OGWvBjkYVHW9LMtDPdi5p"
+      },
+      "artists": [
+        {
+          "name": "Sunnie",
+          "url": "https://open.spotify.com/artist/0v5xONZJ2N9zcriZXfzFK5"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189200,
+      "name": "Color - Instrumental",
+      "url": "https://open.spotify.com/track/468NY7aEJGD09WFUwEteJh"
     },
     {
       "album": {
@@ -237,6 +273,42 @@
       "duration_ms": 186013,
       "name": "I See You Like I See the Sun - Instrumental",
       "url": "https://open.spotify.com/track/6BLhiaQyo2VeYJkxyOFnUC"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 11 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS"
+      },
+      "artists": [
+        {
+          "name": "Hwang Inhyeock",
+          "url": "https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254186,
+      "name": "I Will Remember You",
+      "url": "https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 11 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS"
+      },
+      "artists": [
+        {
+          "name": "Hwang Inhyeock",
+          "url": "https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254186,
+      "name": "I Will Remember You - Instrumental",
+      "url": "https://open.spotify.com/track/1OEDvTq8S0ytFdl2CGJBvv"
     },
     {
       "album": {

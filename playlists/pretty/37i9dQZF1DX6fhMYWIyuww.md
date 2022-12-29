@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 
 > Classic soft rock\. For that free and easy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,855 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,016 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 59 | [The Lady Wants to Know](https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0) | [Michael Franks](https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om) | [Sleeping Gypsy](https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry) | 4:45 |
 | 60 | [Get It Right Next Time](https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [Night Owl](https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh) | 4:42 |
 | 61 | [In Your Letter](https://open.spotify.com/track/0udUxLibGsKop4rlmBaVsi) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:16 |
-| 62 | [Love Is the Answer \(Single Version\)](https://open.spotify.com/track/7FM0XCpgR3HMZcwjDo2TlI) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/3oY6Per6dlppqYHahhu1ED) | 4:41 |
+| 62 | [Hot Rod Hearts \- Remastered](https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Robbie Dupree](https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW) | 3:41 |
 | 63 | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 3:17 |
-| 64 | [Hot Rod Hearts \- Remastered](https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Robbie Dupree](https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW) | 3:41 |
+| 64 | [Love Is the Answer \(Single Version\)](https://open.spotify.com/track/7FM0XCpgR3HMZcwjDo2TlI) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/3oY6Per6dlppqYHahhu1ED) | 4:41 |
 | 65 | [Say You'll Be Mine](https://open.spotify.com/track/7ys2QcBgHEIO6tyaRF2nOt) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 2:56 |
 | 66 | [If I Saw You Again](https://open.spotify.com/track/3XJC8vRhbtm3NzHXE1XAta) | [Pages](https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u) | [Pages](https://open.spotify.com/album/1qdncgTUWG6mnVUfTyYdIG) | 3:24 |
 | 67 | [The Nightfly](https://open.spotify.com/track/7icC0mHYpROmIRhpa2DaFC) | [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [The Nightfly](https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8) | 5:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 79 | [Better Love Next Time](https://open.spotify.com/track/2WHTHxUipSqJU9yJRnpO6S) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Greatest Hits](https://open.spotify.com/album/6rZyWDvLwKIkfSZ8qcmmdK) | 3:00 |
 | 80 | [Trying To Reason With Hurricane Season](https://open.spotify.com/track/2aT4FycQXXc4SkD2Sdm9YJ) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [A\-1\-A](https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ) | 4:23 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGFmMzc0MDFmOWMzY2ZiNmY0OTE4MmQ1NGZhZDQ3MThl`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDc0OWRiMzg2MWMwNjQyMTM3NzFiZTI1NjY2ZjQwNWRl`

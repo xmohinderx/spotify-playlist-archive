@@ -1,12 +1,12 @@
 {
   "description": "Turn the energy levels up and join the party wherever you are!",
-  "num_followers": 687369,
+  "num_followers": 687364,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5MDk2NSwwMDAwMDAwMDE5OWRmNGE3YzllMzg3ZjNmNWU2NWUwNDcxNWFhMGIw",
+  "snapshot_id": "MTY2MTE5MDk2NSwwMDAwMDAwMGYwNWFkNjIyOWIzN2Y3MWZkYTgzODY2Yjg1YTNjNWQ1",
   "tracks": [
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Stop This Flame (Celeste x MK)",
-        "url": "https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "Stop This Flame - Celeste x MK",
-      "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Wish You Well",
         "url": "https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 205653,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Stop This Flame (Celeste x MK)",
+        "url": "https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "Stop This Flame - Celeste x MK",
+      "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1907,46 +1907,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Hipcats",
-        "url": "https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ"
-      },
-      "artists": [
-        {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
-        },
-        {
-          "name": "David Penn",
-          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
-        }
-      ],
-      "duration_ms": 129836,
-      "name": "Hipcats",
-      "url": "https://open.spotify.com/track/38HvJkH21S2bRciZHohv68"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
-        "name": "Physical (Remixes)",
-        "url": "https://open.spotify.com/album/7jZt48FNrqTEO8SFaZHwl7"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "Physical - Claptone Remix",
-      "url": "https://open.spotify.com/track/4KKaV1zUcpDecobqLjwIkB"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Good for Me (feat. Anna Straker)",
         "url": "https://open.spotify.com/album/748zysgcKhJBQPJcRAnznX"
       },
@@ -1971,6 +1931,46 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
+        "name": "Physical (Remixes)",
+        "url": "https://open.spotify.com/album/7jZt48FNrqTEO8SFaZHwl7"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Physical - Claptone Remix",
+      "url": "https://open.spotify.com/track/4KKaV1zUcpDecobqLjwIkB"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Hipcats",
+        "url": "https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ"
+      },
+      "artists": [
+        {
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        }
+      ],
+      "duration_ms": 129836,
+      "name": "Hipcats",
+      "url": "https://open.spotify.com/track/38HvJkH21S2bRciZHohv68"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
         "name": "There For You",
         "url": "https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK"
       },
@@ -1991,22 +1991,18 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/1LD7wfM8EYjricnmu1EpWQ"
+        "name": "Night Ends",
+        "url": "https://open.spotify.com/album/6nfOb69by9vWhRZdCiz52P"
       },
       "artists": [
         {
-          "name": "M-22",
-          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
-        },
-        {
-          "name": "Kiara Nelson",
-          "url": "https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa"
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
         }
       ],
-      "duration_ms": 164975,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/6qLkMLUIkdtX34gHF9sPFL"
+      "duration_ms": 163840,
+      "name": "Night Ends",
+      "url": "https://open.spotify.com/track/1jghJYP9CZ5tbkZXNFEq0i"
     }
   ],
   "unique_name": "PARTY MODE",

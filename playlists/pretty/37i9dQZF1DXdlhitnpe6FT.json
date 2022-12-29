@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 144507,
+  "num_followers": 144544,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMDZiMzRjNThlMTMzODc0MDJiMmYzNDZhYjdhMDhhNWQ5",
+  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMDVlNTZlYzQ2ODJlODJmYmFlZTI2OTEzNmQxZmZjY2M4",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -423,22 +423,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Paul Mauriat. Grandes Exitos",
-        "url": "https://open.spotify.com/album/6iQAXag0ioZ8VDguSYvyvP"
-      },
-      "artists": [
-        {
-          "name": "Paul Mauriat",
-          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
-        }
-      ],
-      "duration_ms": 156519,
-      "name": "Love is Blue",
-      "url": "https://open.spotify.com/track/0tS7Mli5NtOcpeCqC25GWd"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "El Condor Pasa",
         "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 140573,
       "name": "Don't Cry for Me, Argentina",
       "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Paul Mauriat. Grandes Exitos",
+        "url": "https://open.spotify.com/album/6iQAXag0ioZ8VDguSYvyvP"
+      },
+      "artists": [
+        {
+          "name": "Paul Mauriat",
+          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
+        }
+      ],
+      "duration_ms": 156519,
+      "name": "Love is Blue",
+      "url": "https://open.spotify.com/track/0tS7Mli5NtOcpeCqC25GWd"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -679,18 +679,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Before the Rain",
-        "url": "https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI"
+        "name": "60 Timeless Classics from the Giants of Traditional Jazz",
+        "url": "https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR"
       },
       "artists": [
         {
-          "name": "Lee Oskar",
-          "url": "https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o"
+          "name": "Chris Barber",
+          "url": "https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU"
+        },
+        {
+          "name": "Monty Sunshine",
+          "url": "https://open.spotify.com/artist/42AJfxnbtIFT4DbZcUf11d"
         }
       ],
-      "duration_ms": 495466,
-      "name": "Before the Rain",
-      "url": "https://open.spotify.com/track/4GzjPsieNA1WCjImEYJvhf"
+      "duration_ms": 164360,
+      "name": "Petite Fleur",
+      "url": "https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -711,22 +715,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "60 Timeless Classics from the Giants of Traditional Jazz",
-        "url": "https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR"
+        "name": "Before the Rain",
+        "url": "https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI"
       },
       "artists": [
         {
-          "name": "Chris Barber",
-          "url": "https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU"
-        },
-        {
-          "name": "Monty Sunshine",
-          "url": "https://open.spotify.com/artist/42AJfxnbtIFT4DbZcUf11d"
+          "name": "Lee Oskar",
+          "url": "https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o"
         }
       ],
-      "duration_ms": 164360,
-      "name": "Petite Fleur",
-      "url": "https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x"
+      "duration_ms": 495466,
+      "name": "Before the Rain",
+      "url": "https://open.spotify.com/track/4GzjPsieNA1WCjImEYJvhf"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -995,22 +995,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Boleros Bonitos",
-        "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Rom\u00e1ntica de La Habana",
-          "url": "https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "La Fiesta Mexicana de Pepe Jaramillo",
         "url": "https://open.spotify.com/album/1TlhMhPjDehaKKimK6BabM"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 111200,
       "name": "Capullito de Alel\u00ed",
       "url": "https://open.spotify.com/track/3A1nSG1uFKrpTkyTFF9cW6"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Boleros Bonitos",
+        "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Rom\u00e1ntica de La Habana",
+          "url": "https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Manolo Sanlucar",
-        "url": "https://open.spotify.com/album/1POsubNNoXHoZPs0Po5Eyn"
-      },
-      "artists": [
-        {
-          "name": "Manolo Sanlucar",
-          "url": "https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "Caballo Negro",
-      "url": "https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "100 All Time Greatest Hits",
         "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 142986,
       "name": "Les Parapluies de Cherbourg",
       "url": "https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Manolo Sanlucar",
+        "url": "https://open.spotify.com/album/1POsubNNoXHoZPs0Po5Eyn"
+      },
+      "artists": [
+        {
+          "name": "Manolo Sanlucar",
+          "url": "https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Caballo Negro",
+      "url": "https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Svezia, Inferno E Paradiso",
-        "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
+        "name": "Look for a Star",
+        "url": "https://open.spotify.com/album/50Xmgxm7zIqyDuEbNCu6s0"
       },
       "artists": [
         {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
         }
       ],
-      "duration_ms": 116559,
-      "name": "Mah N\u00e0 Mah N\u00e0",
-      "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
+      "duration_ms": 135993,
+      "name": "Look for a Star",
+      "url": "https://open.spotify.com/track/3MDPMyycA17IoF6XaC4XIM"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Svezia, Inferno E Paradiso",
+        "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        }
+      ],
+      "duration_ms": 116559,
+      "name": "Mah N\u00e0 Mah N\u00e0",
+      "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Playas de Ensue\u00f1o",
         "url": "https://open.spotify.com/album/31E3FJeD3mPINXJu4kXpVD"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 193213,
       "name": "Playas de Ensue\u00f1o",
       "url": "https://open.spotify.com/track/1IXc0lJmLcPHHrGL9rSWzX"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Blue Navajo",
-        "url": "https://open.spotify.com/album/5KYZtxIJAEFc4ahwgtptQQ"
-      },
-      "artists": [
-        {
-          "name": "Gheorghe Zamfir",
-          "url": "https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT"
-        }
-      ],
-      "duration_ms": 213617,
-      "name": "Blue Navajo",
-      "url": "https://open.spotify.com/track/3aMkSlWZcFMwfXYGIskbkK"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Blue Navajo",
+        "url": "https://open.spotify.com/album/5KYZtxIJAEFc4ahwgtptQQ"
+      },
+      "artists": [
+        {
+          "name": "Gheorghe Zamfir",
+          "url": "https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT"
+        }
+      ],
+      "duration_ms": 213617,
+      "name": "Blue Navajo",
+      "url": "https://open.spotify.com/track/3aMkSlWZcFMwfXYGIskbkK"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Rain Forest",
         "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 145573,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Look for a Star",
-        "url": "https://open.spotify.com/album/50Xmgxm7zIqyDuEbNCu6s0"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 135993,
-      "name": "Look for a Star",
-      "url": "https://open.spotify.com/track/3MDPMyycA17IoF6XaC4XIM"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Bonanza - 50 Fabulous Guitar Favourites",
+        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
+      },
+      "artists": [
+        {
+          "name": "Al Caiola",
+          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
+        }
+      ],
+      "duration_ms": 160679,
+      "name": "Guns of Navarone",
+      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Santo & Johnny",
         "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 116400,
       "name": "Java",
       "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Bonanza - 50 Fabulous Guitar Favourites",
-        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
-      },
-      "artists": [
-        {
-          "name": "Al Caiola",
-          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
-        }
-      ],
-      "duration_ms": 160679,
-      "name": "Guns of Navarone",
-      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
     },
     {
       "added_at": "2020-12-08 19:02:01",

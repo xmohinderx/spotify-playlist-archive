@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joan Manuel Serrat.",
-  "num_followers": 268087,
+  "num_followers": 268267,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDQ1YWMxZGIwNjM1NGQ3MDJkZWZhZmI0ZTc1ZGYxY2Ux",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDc0MzEwYTQwZDQxZTYzNDIwNTA1ZTBjZGI4ZTNjYWU2",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1499,22 +1499,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Amor del Bo",
-        "url": "https://open.spotify.com/album/6KAvzHl4HH1C8SX8iuIHZA"
+        "name": "Mi Peque\u00f1a Historia",
+        "url": "https://open.spotify.com/album/3Z8ODAWZa7IjJkdk8EKgUz"
       },
       "artists": [
         {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        },
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+          "name": "Andr\u00e9s Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
         }
       ],
-      "duration_ms": 139530,
-      "name": "Amor del Bo",
-      "url": "https://open.spotify.com/track/4WeMQWDFxBME5BIyURDhbA"
+      "duration_ms": 237680,
+      "name": "No Saben de Ti",
+      "url": "https://open.spotify.com/track/6Rm7VmumaUGA1dAB2fWqf0"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1535,22 +1531,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Mi Peque\u00f1a Historia",
-        "url": "https://open.spotify.com/album/3Z8ODAWZa7IjJkdk8EKgUz"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "No Saben de Ti",
-      "url": "https://open.spotify.com/track/6Rm7VmumaUGA1dAB2fWqf0"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 365986,
       "name": "Mi Problema",
       "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Amor del Bo",
+        "url": "https://open.spotify.com/album/6KAvzHl4HH1C8SX8iuIHZA"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        },
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "duration_ms": 139530,
+      "name": "Amor del Bo",
+      "url": "https://open.spotify.com/track/4WeMQWDFxBME5BIyURDhbA"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ"
+        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
+        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
         }
       ],
-      "duration_ms": 294095,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT"
+      "duration_ms": 251666,
+      "name": "Solo Pienso en Ti",
+      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
     }
   ],
   "unique_name": "Cantautores",

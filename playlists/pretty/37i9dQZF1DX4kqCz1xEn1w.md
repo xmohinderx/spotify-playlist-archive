@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,560 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,645 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 91 | [Breakthrough Miracle Power](https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Breakthrough Miracle Power / You Are The Lord](https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU) | 5:52 |
 | 92 | [Praise the King](https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [How Great](https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW) | 4:52 |
 | 93 | [Upon Him](https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Upon Him](https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05) | 4:01 |
-| 94 | [The Cup Was Not Removed](https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc) | [Justin Tweito](https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR) | [The Cup Was Not Removed](https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR) | 3:56 |
-| 95 | [How He Loves \- Live](https://open.spotify.com/track/7siTF7GpWKpG0iGpYxgAfS) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [This Is Jesus Culture \(Live\)](https://open.spotify.com/album/2i50gSLJe9ehuabaBwxd0R) | 8:51 |
+| 94 | [How He Loves \- Live](https://open.spotify.com/track/7siTF7GpWKpG0iGpYxgAfS) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [This Is Jesus Culture \(Live\)](https://open.spotify.com/album/2i50gSLJe9ehuabaBwxd0R) | 8:51 |
+| 95 | [The Cup Was Not Removed](https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc) | [Justin Tweito](https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR) | [The Cup Was Not Removed](https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR) | 3:56 |
 | 96 | [Come Holy Spirit \- Live](https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 5:50 |
 | 97 | [Savior Of The World \- Single Version](https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Savior Of The World](https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO) | 4:44 |
 | 98 | [Who Could \(Live\)](https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Faith And Wonder \(Live\)](https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj) | 5:59 |
 | 99 | [You Are The Lord](https://open.spotify.com/track/5XYBrwScp68y8LGo08Na8x) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Breakthrough Miracle Power / You Are The Lord](https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU) | 5:10 |
 | 100 | [Calvary's Cross](https://open.spotify.com/track/76WVzKc2G1HDMkx70U4Gmr) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [This Is Jesus](https://open.spotify.com/album/6ay87bBJ8ybv7xiIj4M0ks) | 5:17 |
 
-Snapshot ID: `MTY1MDE3NTMxNSwwMDAwMDAwMGI4YjlhOGJmYTk2YzcwYzcxMmIyZDg1YTNjNzJhZTU4`
+Snapshot ID: `MTY1MDE3NTMxNSwwMDAwMDAwMDYxYzYwZmQ5NTYyOTZiNWI2MzQ4ZDg3NDNhNmJhNjRk`

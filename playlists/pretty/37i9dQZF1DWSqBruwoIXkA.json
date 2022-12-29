@@ -1,12 +1,12 @@
 {
   "description": "Somehow heartbreak feels good in a place like this. Cover: Taylor Swift",
-  "num_followers": 1333213,
+  "num_followers": 1334691,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjE4MjIyOCwwMDAwMDAwMGRkZTNhZjQ3MDcyZWY0OTBmZDgwMDFiMDYyOThjYWI4",
+  "snapshot_id": "MTY3MjE4MjIyOCwwMDAwMDAwMGIxZjE0ODdiN2JjNTRhYmY5YjQ4NzFiNzBiMzBkZDBh",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Here Comes The Cowboy",
+        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 211140,
+      "name": "Heart To Heart",
+      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 260285,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Here Comes The Cowboy",
-        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 211140,
-      "name": "Heart To Heart",
-      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "October Passed Me By",
-        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "October Passed Me By",
-      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Men On The Moon",
         "url": "https://open.spotify.com/album/1mK3MLTmhxsrOTx7ceJwyr"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 220798,
       "name": "Men On The Moon",
       "url": "https://open.spotify.com/track/164LL9rTyEZ6DF0KMgXxsJ"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "October Passed Me By",
+        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "October Passed Me By",
+      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "feel like shit",
-        "url": "https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 204314,
-      "name": "feel like shit",
-      "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "If I Don't Laugh, I'll Cry",
         "url": "https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb"
       },
@@ -1211,22 +1195,6 @@
       "duration_ms": 198009,
       "name": "If I Don't Laugh, I'll Cry",
       "url": "https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Astronomy",
-        "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 243907,
-      "name": "Astronomy",
-      "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1247,18 +1215,34 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Hurtless",
-        "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
+        "name": "Astronomy",
+        "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 180274,
-      "name": "Hurtless",
-      "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
+      "duration_ms": 243907,
+      "name": "Astronomy",
+      "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "feel like shit",
+        "url": "https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 204314,
+      "name": "feel like shit",
+      "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1275,6 +1259,22 @@
       "duration_ms": 227749,
       "name": "In The Kitchen",
       "url": "https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Hurtless",
+        "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 180274,
+      "name": "Hurtless",
+      "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/6rdVcCcUOkf0UbuEm7i5Tu"
-      },
-      "artists": [
-        {
-          "name": "Ashley Kutcher",
-          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Love You From a Distance",
-      "url": "https://open.spotify.com/track/4bpyaPa1xruVgE2GtsYbIW"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "chaotic",
         "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 178720,
       "name": "chaotic",
       "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/6rdVcCcUOkf0UbuEm7i5Tu"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Love You From a Distance",
+      "url": "https://open.spotify.com/track/4bpyaPa1xruVgE2GtsYbIW"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 189287,
+      "name": "Don't Tell My Mom",
+      "url": "https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "when was it over? (feat. Sam Hunt)",
         "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
@@ -1707,22 +1723,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Everything To Everyone",
-        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 189287,
-      "name": "Don't Tell My Mom",
-      "url": "https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "would you love me now?",
         "url": "https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw"
       },
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "gg bb xx (deluxe)",
-        "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 202202,
-      "name": "the older you get, the less you cry",
-      "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "vaultboy EP",
         "url": "https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 196481,
       "name": "i think i wanna text u",
       "url": "https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "gg bb xx (deluxe)",
+        "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 202202,
+      "name": "the older you get, the less you cry",
+      "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Venting to Strangers",
-        "url": "https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 152437,
-      "name": "Venting to Strangers",
-      "url": "https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Why Am I Like This?",
         "url": "https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 212713,
       "name": "Why Am I Like This?",
       "url": "https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Venting to Strangers",
+        "url": "https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 152437,
+      "name": "Venting to Strangers",
+      "url": "https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "aurora",
-        "url": "https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 213986,
-      "name": "i can't breathe",
-      "url": "https://open.spotify.com/track/1qFMIjTe9esCDiytqUY19t"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Crying Over You",
         "url": "https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 178949,
       "name": "Crying Over You",
       "url": "https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "aurora",
+        "url": "https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 213986,
+      "name": "i can't breathe",
+      "url": "https://open.spotify.com/track/1qFMIjTe9esCDiytqUY19t"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Remember (Versions)",
-        "url": "https://open.spotify.com/album/1W4wUg63K4DeYuXSfp8YDC"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Remember - Acoustic",
-      "url": "https://open.spotify.com/track/1EL27Y8YRofgvgIyhRD5JS"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "We Didn't Even Date",
         "url": "https://open.spotify.com/album/1fbzhxaZrW2EtlUKuHj9Ck"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 222000,
       "name": "glimpse of us",
       "url": "https://open.spotify.com/track/2ssJdfI0u93JYpIrxDmxE6"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Remember (Versions)",
+        "url": "https://open.spotify.com/album/1W4wUg63K4DeYuXSfp8YDC"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Remember - Acoustic",
+      "url": "https://open.spotify.com/track/1EL27Y8YRofgvgIyhRD5JS"
     },
     {
       "added_at": "2022-12-16 05:00:00",

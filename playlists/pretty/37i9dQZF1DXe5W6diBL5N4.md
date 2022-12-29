@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: Stray Kids\(스트레이 키즈\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,293 likes - 147 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,400 likes - 147 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 15 | [Elon Musk](https://open.spotify.com/track/7oih3KQUoOJImDfkrFs1ku) | [Lov3rboi](https://open.spotify.com/artist/3g30Ok78m7rECa0VuoN9e9) | [Elon Musk](https://open.spotify.com/album/5hYLSv0CrAddV2sOXtKV7h) | 1:46 |
 | 16 | [Into the Sky](https://open.spotify.com/track/3jzufQFDbdcMc9e2d0XYmN) | [Floody](https://open.spotify.com/artist/1btrLpznqZabTXLcxUHDUF) | [Trolley](https://open.spotify.com/album/3BywK3MHmDKj1VGuFklFnX) | 4:00 |
 | 17 | [I See You Like I See the Sun](https://open.spotify.com/track/4grbG9wAAoFTbYnDBTkyrc) | [Low\-end project](https://open.spotify.com/artist/5HECc7MQ1IoYk1H8MNrflW) | [Summer Strike, Pt\. 12 \(Original Soundtrack\)](https://open.spotify.com/album/1x1azzo9YyhTc65qCKfEar) | 3:06 |
-| 18 | [Pianissimo \- 2022 Remixed Remastered](https://open.spotify.com/track/4bukywaDtuziUGdNOeMK3o) | [CHERRYFILTER](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Rocksteric](https://open.spotify.com/album/3HWyyy6xnbKLRuLv5skOnJ) | 3:49 |
+| 18 | [Pianissimo \- 2022 Remixed Remastered](https://open.spotify.com/track/4bukywaDtuziUGdNOeMK3o) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Rocksteric](https://open.spotify.com/album/3HWyyy6xnbKLRuLv5skOnJ) | 3:49 |
 | 19 | [Pieces \(2022\)](https://open.spotify.com/track/7FBb9OkuS4JrQN4Hnf3i2z) | [EB](https://open.spotify.com/artist/5dTfHslH6PS97tNNgDwYaC) | [Pieces \(2022\)](https://open.spotify.com/album/2EzLW1HfD6pXwngmIcE34P) | 2:50 |
 | 20 | [On such a wonderful night](https://open.spotify.com/track/3Ueh9WSlKB9pKgNhsmMcRM) | [dawon you](https://open.spotify.com/artist/3sorJaK11BPQosaTaZkuhk) | [On such a wonderful night](https://open.spotify.com/album/5HpaXffkKOfi78iGPG656S) | 3:16 |
 | 21 | [My finale](https://open.spotify.com/track/5SaJdsKgDB7WxEDIETLuic) | [SeungHee](https://open.spotify.com/artist/1kTabwjnM8SrHC9SNQRjZU) | [The Fabulous, Pt\. 3 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1sQk4dmcMGYk4OskjgQlPe) | 3:15 |

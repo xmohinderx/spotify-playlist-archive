@@ -1,12 +1,12 @@
 {
   "description": "Listen to the most streamed tracks from EQUAL Global in 2022, at full volume.",
-  "num_followers": 860951,
+  "num_followers": 860932,
   "original_name": "Top Artists of EQUAL Global 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDY3MmE1YmIyNDI1ZjRhOWZiNjNkM2MxNDUzOTc3OTQ4",
+  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMGMzMTk5YTFhZGUxZDBhNzFjZTQ1MThlMTliNDM0M2Iw",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "\u05e4\u05e0\u05ea\u05e8\u05d4",
-        "url": "https://open.spotify.com/album/25E9FesbHAUYUxUJCswURR"
-      },
-      "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        }
-      ],
-      "duration_ms": 173602,
-      "name": "\u05e4\u05e0\u05ea\u05e8\u05d4",
-      "url": "https://open.spotify.com/track/5A3bEckI7AjWTguGqZOzUm"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Ligo Ligo",
         "url": "https://open.spotify.com/album/1vRQu7kPciIGfVhWABjTnN"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 166000,
       "name": "Ligo Ligo",
       "url": "https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "\u05e4\u05e0\u05ea\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/25E9FesbHAUYUxUJCswURR"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "duration_ms": 173602,
+      "name": "\u05e4\u05e0\u05ea\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/5A3bEckI7AjWTguGqZOzUm"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "\u05d0\u05d9\u05e0\u05d8\u05dc\u05e7\u05d8\u05d5\u05e2\u05e8\u05e1 (Prod. By Triangle)",
-        "url": "https://open.spotify.com/album/5hXvq7DKidrNEns8VZkQLW"
-      },
-      "artists": [
-        {
-          "name": "Odeya",
-          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
-        }
-      ],
-      "duration_ms": 152542,
-      "name": "\u05d0\u05d9\u05e0\u05d8\u05dc\u05e7\u05d8\u05d5\u05e2\u05e8\u05e1 (Prod. By Triangle)",
-      "url": "https://open.spotify.com/track/2XNXcmwubbt8MJYlQRb4V2"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Ne G\u00fczel",
         "url": "https://open.spotify.com/album/5qdprolO1wBPmcMLWV8ZoE"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 169263,
       "name": "Ne G\u00fczel",
       "url": "https://open.spotify.com/track/4QOVWiNQmMhOODibbU3cQw"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "\u05d0\u05d9\u05e0\u05d8\u05dc\u05e7\u05d8\u05d5\u05e2\u05e8\u05e1 (Prod. By Triangle)",
+        "url": "https://open.spotify.com/album/5hXvq7DKidrNEns8VZkQLW"
+      },
+      "artists": [
+        {
+          "name": "Odeya",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        }
+      ],
+      "duration_ms": 152542,
+      "name": "\u05d0\u05d9\u05e0\u05d8\u05dc\u05e7\u05d8\u05d5\u05e2\u05e8\u05e1 (Prod. By Triangle)",
+      "url": "https://open.spotify.com/track/2XNXcmwubbt8MJYlQRb4V2"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Backseat of My Mind",
-        "url": "https://open.spotify.com/album/2hdB4ZjP8tMqYCM6ylx6YU"
-      },
-      "artists": [
-        {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
-        }
-      ],
-      "duration_ms": 210881,
-      "name": "Backseat of My Mind - Radio Edit",
-      "url": "https://open.spotify.com/track/1J4kj8tzo0G55ylWK7IMXL"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Everytime - Spotify Singles",
         "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 170932,
       "name": "lately",
       "url": "https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Backseat of My Mind",
+        "url": "https://open.spotify.com/album/2hdB4ZjP8tMqYCM6ylx6YU"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 210881,
+      "name": "Backseat of My Mind - Radio Edit",
+      "url": "https://open.spotify.com/track/1J4kj8tzo0G55ylWK7IMXL"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Take It or Leave It",
-        "url": "https://open.spotify.com/album/1UPZDcfjJ7M6fQTJkFNxUe"
-      },
-      "artists": [
-        {
-          "name": "Aleyna Tilki",
-          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Take It or Leave It",
-      "url": "https://open.spotify.com/track/1M65QIDUGHX5iccsPZ83hd"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "TSUBASA",
         "url": "https://open.spotify.com/album/6ZRFx0mD4Juzy5QP3Y4o2m"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 227740,
       "name": "TSUBASA",
       "url": "https://open.spotify.com/track/27Taz9Ae2IUhdvJbkiXnn5"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Take It or Leave It",
+        "url": "https://open.spotify.com/album/1UPZDcfjJ7M6fQTJkFNxUe"
+      },
+      "artists": [
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Take It or Leave It",
+      "url": "https://open.spotify.com/track/1M65QIDUGHX5iccsPZ83hd"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "His",
-        "url": "https://open.spotify.com/album/0L58boxRzxjiyKdYmRrI2t"
-      },
-      "artists": [
-        {
-          "name": "Selin",
-          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
-        }
-      ],
-      "duration_ms": 229634,
-      "name": "His",
-      "url": "https://open.spotify.com/track/6bRwh3cskYWuCfzQzpsqmg"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "we could be so electric",
         "url": "https://open.spotify.com/album/08pOwk3KPLWRVRaruuDwgV"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 171000,
       "name": "we could be so electric",
       "url": "https://open.spotify.com/track/5x93hIyimblbepRycF3enM"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "His",
+        "url": "https://open.spotify.com/album/0L58boxRzxjiyKdYmRrI2t"
+      },
+      "artists": [
+        {
+          "name": "Selin",
+          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
+        }
+      ],
+      "duration_ms": 229634,
+      "name": "His",
+      "url": "https://open.spotify.com/track/6bRwh3cskYWuCfzQzpsqmg"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "so far it just sucked",
-        "url": "https://open.spotify.com/album/6NZJZiZtWl4y69GXWDopTT"
-      },
-      "artists": [
-        {
-          "name": "LEEPA",
-          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
-        }
-      ],
-      "duration_ms": 120253,
-      "name": "so far it just sucked",
-      "url": "https://open.spotify.com/track/6YaIvnJ3xDgIleE5m3GAEr"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Al Forga",
         "url": "https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 177388,
       "name": "Al Forga",
       "url": "https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "so far it just sucked",
+        "url": "https://open.spotify.com/album/6NZJZiZtWl4y69GXWDopTT"
+      },
+      "artists": [
+        {
+          "name": "LEEPA",
+          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
+        }
+      ],
+      "duration_ms": 120253,
+      "name": "so far it just sucked",
+      "url": "https://open.spotify.com/track/6YaIvnJ3xDgIleE5m3GAEr"
     },
     {
       "added_at": "2022-11-30 13:46:00",

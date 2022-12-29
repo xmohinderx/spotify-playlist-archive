@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 43169,
+  "num_followers": 43223,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDc2Y2Q4MTJiNGQ1Mzc5ZDAwNDIwMmFmN2QyZTY3ZTM1",
+  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDVlMmMxNDQ0NGRkODI2N2RjNGRjNjMwNzgzNzNmMWI0",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Love's Melody",
-        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 332293,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Just Doing What I do",
         "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 210773,
       "name": "18th & M",
       "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Love's Melody",
+        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 332293,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -567,22 +567,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Keepin' It Real",
-        "url": "https://open.spotify.com/album/1oEzGC5KIwVQ5Zic2EqiTW"
-      },
-      "artists": [
-        {
-          "name": "Joe McBride",
-          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
-        }
-      ],
-      "duration_ms": 301693,
-      "name": "Keepin' It Real",
-      "url": "https://open.spotify.com/track/6tvzrHd7zWzSV93jIG0r4R"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "In the Moment",
         "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 251960,
       "name": "In the Moment",
       "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Keepin' It Real",
+        "url": "https://open.spotify.com/album/1oEzGC5KIwVQ5Zic2EqiTW"
+      },
+      "artists": [
+        {
+          "name": "Joe McBride",
+          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
+        }
+      ],
+      "duration_ms": 301693,
+      "name": "Keepin' It Real",
+      "url": "https://open.spotify.com/track/6tvzrHd7zWzSV93jIG0r4R"
     },
     {
       "added_at": "2020-08-19 19:15:51",

@@ -1,12 +1,12 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 69291,
+  "num_followers": 69355,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NDY2OCwwMDAwMDAwMDU0NmEzYjA1YzA1ZDRjYWVlOTc0MTY5ZTRmZTgwZjRh",
+  "snapshot_id": "MTY1MDE3NDY2OCwwMDAwMDAwMDI3MDU1Y2Q0NjgzNDMzOWI5MTgyZjIxMDRiNzExYjQz",
   "tracks": [
     {
       "added_at": "2022-04-17 05:51:08",
@@ -579,22 +579,18 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Death Was Arrested (feat. Seth Condrey)",
-        "url": "https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr"
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
       "artists": [
         {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 295306,
-      "name": "Death Was Arrested (feat. Seth Condrey)",
-      "url": "https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi"
+      "duration_ms": 327000,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -615,18 +611,22 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+        "name": "Death Was Arrested (feat. Seth Condrey)",
+        "url": "https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
         }
       ],
-      "duration_ms": 327000,
-      "name": "Living Hope",
-      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
+      "duration_ms": 295306,
+      "name": "Death Was Arrested (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 498426,
-      "name": "Break Every Chain - Live",
-      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 242226,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 498426,
+      "name": "Break Every Chain - Live",
+      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
+        "name": "Stars Go Dim",
+        "url": "https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 206648,
+      "name": "You Are Loved",
+      "url": "https://open.spotify.com/track/7M7eanIuxFd9IgaB8rAP7b"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
         "name": "You Hold It All (Live)",
         "url": "https://open.spotify.com/album/7ELf5tQ4o4MQP1d6Ps8t5R"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 328933,
       "name": "Great I Am - Live",
       "url": "https://open.spotify.com/track/3rJAP9G6hjx2kN8Jsvas09"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
-        "name": "Stars Go Dim",
-        "url": "https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 206648,
-      "name": "You Are Loved",
-      "url": "https://open.spotify.com/track/7M7eanIuxFd9IgaB8rAP7b"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1719,18 +1719,26 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Cannons",
-        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        },
+        {
+          "name": "Wonder Grace Gretzinger",
+          "url": "https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD"
         }
       ],
-      "duration_ms": 293720,
-      "name": "Messiah / You're Beautiful",
-      "url": "https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ"
+      "duration_ms": 266826,
+      "name": "Christ The Lord Is with Me (with Amanda Lindsey Cook & Wonder Grace Gretzinger)",
+      "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1755,26 +1763,18 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Forever Amen",
-        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+        "name": "Cannons",
+        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
       },
       "artists": [
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        },
-        {
-          "name": "Wonder Grace Gretzinger",
-          "url": "https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 266826,
-      "name": "Christ The Lord Is with Me (with Amanda Lindsey Cook & Wonder Grace Gretzinger)",
-      "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
+      "duration_ms": 293720,
+      "name": "Messiah / You're Beautiful",
+      "url": "https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Don't Lose Hope",
-        "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 203774,
-      "name": "Grave",
-      "url": "https://open.spotify.com/track/5maAhFnbY2RPPYcaCPB1Tb"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "How Can It Be",
         "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
       },
@@ -1847,6 +1831,38 @@
       "duration_ms": 225240,
       "name": "Power to Redeem (feat. All Sons & Daughters)",
       "url": "https://open.spotify.com/track/5TpThpilfTOSkbCTXkhGsP"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Don't Lose Hope",
+        "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 203774,
+      "name": "Grave",
+      "url": "https://open.spotify.com/track/5maAhFnbY2RPPYcaCPB1Tb"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Chain Breaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 240173,
+      "name": "To the Table",
+      "url": "https://open.spotify.com/track/0qriSYsqivuTCm0J8mYICj"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1875,22 +1891,6 @@
       "duration_ms": 212533,
       "name": "Where You Go I Follow (feat. Pink Sweat$, Chandler Moore & Judah Smith)",
       "url": "https://open.spotify.com/track/4DrBQoFqYm3WTNyJEAkbU9"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
-        "name": "Chain Breaker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 240173,
-      "name": "To the Table",
-      "url": "https://open.spotify.com/track/0qriSYsqivuTCm0J8mYICj"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2007,6 +2007,26 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
+        "name": "Love Has A Name (Studio Version)",
+        "url": "https://open.spotify.com/album/0b527EhU07LSel3Dwc9oMQ"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 263878,
+      "name": "Love Has A Name - Studio Version",
+      "url": "https://open.spotify.com/track/2R73ci2mlkyLfpOwP87bSV"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
         "name": "Citizens",
         "url": "https://open.spotify.com/album/7EtWK30PesO8kiVHoPFVhE"
       },
@@ -2039,26 +2059,6 @@
       "duration_ms": 327400,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
-        "name": "Love Has A Name (Studio Version)",
-        "url": "https://open.spotify.com/album/0b527EhU07LSel3Dwc9oMQ"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 263878,
-      "name": "Love Has A Name - Studio Version",
-      "url": "https://open.spotify.com/track/2R73ci2mlkyLfpOwP87bSV"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2435,18 +2435,18 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
+        "name": "Wearing A Blindfold And Running",
+        "url": "https://open.spotify.com/album/7zripDxuWx37nhLnYDtSoj"
       },
       "artists": [
         {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
         }
       ],
-      "duration_ms": 234748,
-      "name": "Come See (Glory Hallelujah)",
-      "url": "https://open.spotify.com/track/5rDxLru8HN7czVZrw7BzOt"
+      "duration_ms": 281177,
+      "name": "Catch Me",
+      "url": "https://open.spotify.com/track/0Z8HTBvbz5LNLPgkKR82OE"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2467,34 +2467,18 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Wearing A Blindfold And Running",
-        "url": "https://open.spotify.com/album/7zripDxuWx37nhLnYDtSoj"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
       },
       "artists": [
         {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
         }
       ],
-      "duration_ms": 281177,
-      "name": "Catch Me",
-      "url": "https://open.spotify.com/track/0Z8HTBvbz5LNLPgkKR82OE"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
-        "name": "Church Songs",
-        "url": "https://open.spotify.com/album/2n25b8gFJcDKbiXi9t4dP6"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 251546,
-      "name": "Lamb of God",
-      "url": "https://open.spotify.com/track/065JpMm3wBounTRtaoqVyS"
+      "duration_ms": 234748,
+      "name": "Come See (Glory Hallelujah)",
+      "url": "https://open.spotify.com/track/5rDxLru8HN7czVZrw7BzOt"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2511,6 +2495,22 @@
       "duration_ms": 249080,
       "name": "No One Like Our God",
       "url": "https://open.spotify.com/track/0OVsEZ9BLf4zNa4d8OOL3a"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Church Songs",
+        "url": "https://open.spotify.com/album/2n25b8gFJcDKbiXi9t4dP6"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 251546,
+      "name": "Lamb of God",
+      "url": "https://open.spotify.com/track/065JpMm3wBounTRtaoqVyS"
     },
     {
       "added_at": "2022-04-17 05:51:08",

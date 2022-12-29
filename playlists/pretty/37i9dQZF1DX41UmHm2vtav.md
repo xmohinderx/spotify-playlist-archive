@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,838 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,036 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baianá](https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Baianá](https://open.spotify.com/album/4fnmyznELge41MnyNpUp78) | 2:32 |
 | 2 | [Heaven](https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 4:37 |
-| 3 | [Pontos de Exclamação \- Vintage Culture & Future Class Remix](https://open.spotify.com/track/25usEf5iGk9HL0LM9VTxue) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC) | [Pontos de Exclamação \(Vintage Culture & Future Class Remix\)](https://open.spotify.com/album/1ybOW9Fx8sYsrPMBRlQYbY) | 3:38 |
-| 4 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 |
+| 3 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 |
+| 4 | [Pontos de Exclamação \- Vintage Culture & Future Class Remix](https://open.spotify.com/track/25usEf5iGk9HL0LM9VTxue) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC) | [Pontos de Exclamação \(Vintage Culture & Future Class Remix\)](https://open.spotify.com/album/1ybOW9Fx8sYsrPMBRlQYbY) | 3:38 |
 | 5 | [Sou Teu Fã](https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Vitin](https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL) | [Sou Teu Fã](https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd) | 2:50 |
 | 6 | [Ai Ai Ai \- Felguk & Cat Dealers Remix](https://open.spotify.com/track/56yFJewuZr1kKfYu2O35nx) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Ai Ai Ai \(Felguk & Cat Dealers Remix\)](https://open.spotify.com/album/6dxLUe2QiX8NyhJNjcOeoB) | 3:20 |
 | 7 | [Encosta Encosta](https://open.spotify.com/track/010WFdqtiMI2JvKRvZcBhx) | [Lowderz](https://open.spotify.com/artist/1wve9rqgo57ht3WyI6tEiq), [The Pups](https://open.spotify.com/artist/67ZrOqPd1Hn29m4FTOzeyL), [Mc Mascara](https://open.spotify.com/artist/1hZn47PkkXSDml6ablUn1t) | [Encosta Encosta](https://open.spotify.com/album/1D1cKcuhodldAhwE4P5vW5) | 2:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Paradise \- Vintage Culture Remix](https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Paradise \(Vintage Culture Remix\)](https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5) | 4:01 |
 | 70 | [Blind](https://open.spotify.com/track/28byMFpuOmMpEFTl3dBKXT) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Blind](https://open.spotify.com/album/3kh8lb8IZFrdFmXxdEBXDl) | 3:00 |
 
-Snapshot ID: `MTY3MTc2NDQ2MCwwMDAwMDAwMDQxOGE5Y2UwOTAwZDJmYzU3MjA2MDQwNjc3MDMyOWI1`
+Snapshot ID: `MTY3MTc2NDQ2MCwwMDAwMDAwMGZjZjE5NmM4YTA0YTk5NzFiY2M4ZmE0MjZjMzZjNTg1`

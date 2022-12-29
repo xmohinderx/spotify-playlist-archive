@@ -4,7 +4,7 @@
 
 > Iconic instrumentals from the history of Blues.
 
-93 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/1rB5kOejoAbOILEpVBlbXb)
+94 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/1rB5kOejoAbOILEpVBlbXb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Blues for Nothing](https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b) | [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH), [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv), [Steve Stills](https://open.spotify.com/artist/0dfXKGyyW8BPJ4QBS95tMY) | [Super Session \(with Al Kooper & Stephen Stills\)](https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj) | 4:15 | 2022-05-25 |  |
 | [Blues For Otis Rush](https://open.spotify.com/track/1pFnWumJB5ruhvlonhEz7G) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/3U9o8VvSeoHjydNyvoJF9K) | 8:29 | 2022-06-29 | 2022-07-25 |
 | [Blues For Otis Rush](https://open.spotify.com/track/67BXudHoNp6ReHBJcDXOgY) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 8:29 | 2022-11-24 |  |
-| [Blues For The Red Boy](https://open.spotify.com/track/74Z91ZZf0cwGWOVEJQacvA) | [The Todd Rhodes Orchestra](https://open.spotify.com/artist/6NGm0BWqiRAKTXxboM1tfU) | [The King Records R&B Anthology \- Volume 1](https://open.spotify.com/album/1TF4ssAYpS3HCJ2V5MxTOY) | 2:41 | 2022-05-25 |  |
+| [Blues For The Red Boy](https://open.spotify.com/track/74Z91ZZf0cwGWOVEJQacvA) | [The Todd Rhodes Orchestra](https://open.spotify.com/artist/6NGm0BWqiRAKTXxboM1tfU) | [The King Records R&B Anthology \- Volume 1](https://open.spotify.com/album/1TF4ssAYpS3HCJ2V5MxTOY) | 2:41 | 2022-05-25 | 2022-12-29 |
 | [Blues We Like](https://open.spotify.com/track/67nOaC07CjUkWbxnINEH4v) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues On The Bayou](https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r) | 5:06 | 2022-05-25 |  |
 | [Boedo's Blues](https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Boedo's Blues](https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf) | 2:13 | 2022-07-08 |  |
 | [Boogie Albert](https://open.spotify.com/track/54XdAhnIsuW0YevJyI1e1P) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h) | [Room To Move 1969 \- 1974](https://open.spotify.com/album/6YGnkpsMZTH3fMuvhdC3WL) | 2:13 | 2022-05-25 |  |
@@ -101,5 +101,6 @@
 | [Unmilitary Two\-Step](https://open.spotify.com/track/6rkKAYvMwrYUK2Ub1CARFL) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Blueprint \(Remastered 2017\)](https://open.spotify.com/album/31Sza8aKnWhwkUtcBdQfML) | 2:50 | 2022-05-25 |  |
 | [Wham!](https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J) | [Lonnie Mack](https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns) | [For Collectors Only \(The Wham Of That Memphis Man\)](https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v) | 2:12 | 2022-05-25 |  |
 | [Whammer Jammer](https://open.spotify.com/track/6ED55VLiJwnaWEuo45f6MF) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [The Morning After](https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8) | 2:38 | 2022-05-25 |  |
+| [You Don't Know Me](https://open.spotify.com/track/14ZXH12Uk9RJStH5x1RoXT) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Sweet Emma](https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL) | 5:41 | 2022-12-29 |  |
 
 \*This playlist was first scraped on 2022-06-20. Prior content cannot be recovered.

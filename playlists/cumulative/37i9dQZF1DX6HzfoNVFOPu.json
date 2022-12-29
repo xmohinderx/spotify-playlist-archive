@@ -3672,6 +3672,28 @@
     },
     {
       "album": {
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214720,
+      "name": "I'm Not Jesus - International Version",
+      "url": "https://open.spotify.com/track/7rCHmESfvRcjqaU7My7ge8"
+    },
+    {
+      "album": {
         "name": "Red Right Return",
         "url": "https://open.spotify.com/album/28NjP8sRaEaf17KMATTRsG"
       },
@@ -7115,7 +7137,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 184133,
       "name": "Slow Hands",
       "url": "https://open.spotify.com/track/1VcIbyyDX8j0GNxSlsRFeJ"

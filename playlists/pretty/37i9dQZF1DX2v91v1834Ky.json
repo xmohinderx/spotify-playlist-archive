@@ -1,12 +1,12 @@
 {
   "description": "The greatest skating game music from over the years.",
-  "num_followers": 6670,
+  "num_followers": 6752,
   "original_name": "Kickflip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgzNTIzNiwwMDAwMDAwMGJlYzZhYjYwN2FhNGFlNGFmYmM1NTg3NzIwZGZkNGU2",
+  "snapshot_id": "MTY2OTgzNTIzNiwwMDAwMDAwMDJhYWU2NWM0MDQ4YjJmMjI0Mzc1ZTM5N2NlYjYyOWNi",
   "tracks": [
     {
       "added_at": "2022-10-13 17:08:14",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-10-13 17:08:14",
       "album": {
-        "name": "Uptown Top Ranking",
-        "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
-      },
-      "artists": [
-        {
-          "name": "Althea And Donna",
-          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Uptown Top Ranking - Remastered 2001",
-      "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
-    },
-    {
-      "added_at": "2022-10-13 17:08:14",
-      "album": {
         "name": "God's Son",
         "url": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 203000,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/3qRPc4QpHGNwKFAzCdqwxA"
+    },
+    {
+      "added_at": "2022-10-13 17:08:14",
+      "album": {
+        "name": "Uptown Top Ranking",
+        "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
+      },
+      "artists": [
+        {
+          "name": "Althea And Donna",
+          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Uptown Top Ranking - Remastered 2001",
+      "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
     },
     {
       "added_at": "2022-10-13 17:08:14",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-10-13 17:08:14",
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 126520,
-      "name": "You",
-      "url": "https://open.spotify.com/track/71dRBSmaKMdaFZPeZlVzf5"
-    },
-    {
-      "added_at": "2022-10-13 17:08:14",
-      "album": {
         "name": "Sailing The Seas Of Cheese",
         "url": "https://open.spotify.com/album/2sjF68plsvYE7M3FaMf6rD"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 190840,
       "name": "Jerry Was A Race Car Driver",
       "url": "https://open.spotify.com/track/19C0LKY3DCcQtuviPJNy5d"
+    },
+    {
+      "added_at": "2022-10-13 17:08:14",
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 126520,
+      "name": "You",
+      "url": "https://open.spotify.com/track/71dRBSmaKMdaFZPeZlVzf5"
     },
     {
       "added_at": "2022-10-13 17:08:14",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-10-13 17:08:14",
       "album": {
-        "name": "All Hallows EP",
-        "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
+        "name": "The Best Of Goldfinger",
+        "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
       },
       "artists": [
         {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
         }
       ],
-      "duration_ms": 185360,
-      "name": "The Boy Who Destroyed The World",
-      "url": "https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC"
+      "duration_ms": 185600,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
     }
   ],
   "unique_name": "Kickflip",

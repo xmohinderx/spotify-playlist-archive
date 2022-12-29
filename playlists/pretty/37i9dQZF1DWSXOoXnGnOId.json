@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14961,
+  "num_followers": 14970,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDlhYzk1ZjQ5ZTNiOWIyNmE3YWE5MmE5MzRiNzgwODdm",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDUwODRmYjViNmIyNjQ1ZDcwYzVjOTQ4NTc4ZGI5MjQw",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -303,6 +303,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Love Is Killing Me (Helion Remix)",
+        "url": "https://open.spotify.com/album/04ORicH73mtq3y9RUgo6Kk"
+      },
+      "artists": [
+        {
+          "name": "BONNIE X CLYDE",
+          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
+        },
+        {
+          "name": "Helion",
+          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Love Is Killing Me - Helion Remix",
+      "url": "https://open.spotify.com/track/1rtcDdReb05jgxUBLEDL9n"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "By Your Side (feat. Tom Grennan) [Oliver Heldens Remix]",
         "url": "https://open.spotify.com/album/0fWC4Bvc2DNduV9qLKoPZR"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 238064,
       "name": "By Your Side (feat. Tom Grennan) - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/3ZFosXgzvmN6wXs9wTaIxh"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Love Is Killing Me (Helion Remix)",
-        "url": "https://open.spotify.com/album/04ORicH73mtq3y9RUgo6Kk"
-      },
-      "artists": [
-        {
-          "name": "BONNIE X CLYDE",
-          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
-        },
-        {
-          "name": "Helion",
-          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "Love Is Killing Me - Helion Remix",
-      "url": "https://open.spotify.com/track/1rtcDdReb05jgxUBLEDL9n"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1767,6 +1767,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Hadal Ahbek (R3HAB Club Remix)",
+        "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 176343,
+      "name": "Hadal Ahbek - R3HAB Club Remix",
+      "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Underwater (Dombresky Remix)",
         "url": "https://open.spotify.com/album/1nc7oYlY0Dvy5bCOdEzb25"
       },
@@ -1787,26 +1807,6 @@
       "duration_ms": 161500,
       "name": "Underwater - Dombresky Remix",
       "url": "https://open.spotify.com/track/2Dg1l36X48GhvtBAZKna9z"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Hadal Ahbek (R3HAB Club Remix)",
-        "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
-      },
-      "artists": [
-        {
-          "name": "Issam Alnajjar",
-          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 176343,
-      "name": "Hadal Ahbek - R3HAB Club Remix",
-      "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2079,26 +2079,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Rise (twocolors Remix)",
-        "url": "https://open.spotify.com/album/1kwLiKZ1Q7q9WWR6zVzGGA"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Rise - twocolors Remix",
-      "url": "https://open.spotify.com/track/00Q3p30h2z7so7MBzmS3cQ"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Nobody (Devault Remix)",
         "url": "https://open.spotify.com/album/01OOT3N1D5E07vEapwcwDN"
       },
@@ -2147,6 +2127,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Rise (twocolors Remix)",
+        "url": "https://open.spotify.com/album/1kwLiKZ1Q7q9WWR6zVzGGA"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Rise - twocolors Remix",
+      "url": "https://open.spotify.com/track/00Q3p30h2z7so7MBzmS3cQ"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Views of a Room",
         "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
       },
@@ -2163,30 +2163,6 @@
       "duration_ms": 373890,
       "name": "Babel - Maceo Plex Remix",
       "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "My Feelings",
-        "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
-      },
-      "artists": [
-        {
-          "name": "Serhat Durmus",
-          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
-        },
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        },
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
-        }
-      ],
-      "duration_ms": 181922,
-      "name": "My Feelings - Mokita Remix",
-      "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2211,6 +2187,30 @@
       "duration_ms": 203520,
       "name": "Moving Blind - Gorgon City Remix",
       "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "My Feelings",
+        "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
+      },
+      "artists": [
+        {
+          "name": "Serhat Durmus",
+          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
+        },
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 181922,
+      "name": "My Feelings - Mokita Remix",
+      "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
     },
     {
       "added_at": "2021-07-30 04:00:00",

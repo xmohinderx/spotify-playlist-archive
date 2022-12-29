@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 
 > The bluesy side of jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,475 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,538 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 30 | [Blues For Alice](https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN) | [Charlie Parker Quintet](https://open.spotify.com/artist/0EgftqHXtk840HVLdydk5V) | [Swedish Schnapps: The Genius Of Charlie Parker \#8 \(Expanded Edition\)](https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt) | 2:46 |
 | 31 | [Doodlin' \- Remastered](https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 6:45 |
 | 32 | [Ralph J\. Gleason Blues](https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Red's Blues](https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS) | 6:40 |
-| 33 | [Tenor madness](https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Swiss Nights, Vol\. 3](https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4) | 12:42 |
-| 34 | [Ba\-Lue Bolivar Ba\-Lues\-Are](https://open.spotify.com/track/1OjmEyEycmzJK3itBAq8EG) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Ernie Henry](https://open.spotify.com/artist/1kL3usnF0v21VlGzfY8KxR), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Brilliant Corners](https://open.spotify.com/album/5gWF47eGSbv4BOfxoFcQtd) | 13:07 |
+| 33 | [Ba\-Lue Bolivar Ba\-Lues\-Are](https://open.spotify.com/track/1OjmEyEycmzJK3itBAq8EG) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Ernie Henry](https://open.spotify.com/artist/1kL3usnF0v21VlGzfY8KxR), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Brilliant Corners](https://open.spotify.com/album/5gWF47eGSbv4BOfxoFcQtd) | 13:07 |
+| 34 | [Tenor madness](https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Swiss Nights, Vol\. 3](https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4) | 12:42 |
 | 35 | [Blues By Five \- Rudy Van Gelder Remaster](https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Cookin' With The Miles Davis Quintet](https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y) | 9:52 |
 | 36 | [Old Clothes](https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 7:44 |
 | 37 | [The Blues Walk](https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 6:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 49 | [Freight Trane](https://open.spotify.com/track/4AkebkAOIiVfpmQj8LDpAy) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Coltrane '58: The Prestige Recordings](https://open.spotify.com/album/04sQeDrLHPx83hfP9A6S22) | 7:20 |
 | 50 | [Opus De Funk \- Remastered](https://open.spotify.com/track/59SgNbsj3NHKPjMApBmWHU) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver Trio](https://open.spotify.com/album/4Cu57f0WkNAOERhiCxGSSo) | 3:25 |
 
-Snapshot ID: `MTY0ODQ5OTIzMSwwMDAwMDAwMGU1YzQ3YThkZTQ1Mzk5M2M3NDdlZjhmYjUxMzZkYjA4`
+Snapshot ID: `MTY0ODQ5OTIzMSwwMDAwMDAwMDk0NjQ0MDE5ZjRhZGE4Njk3MzNiM2FhNDIzMGRjYjEw`

@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: MD Chefe, DomLaike, Rare G, 4Genesis, Cax Camp",
-  "num_followers": 75514,
+  "num_followers": 75725,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQ2MCwwMDAwMDAwMDE5MjdmZWE1YTlkMzdjN2M4NTBiNjY4MDYzMTZmYjdk",
+  "snapshot_id": "MTY3MTc2NDQ2MCwwMDAwMDAwMGViNTNmZmNhNDNhN2UzOTdmM2E5MTQ1ZmEzZWY4Y2U5",
   "tracks": [
     {
       "added_at": "2022-12-23 03:01:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
-        "name": "Iphone Branco",
-        "url": "https://open.spotify.com/album/6hp21aFf4l4auKtNfgKmU2"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Iphone Branco",
-      "url": "https://open.spotify.com/track/6jxE4XjFVSKF18kfo7FCl9"
-    },
-    {
-      "added_at": "2022-12-23 03:01:00",
-      "album": {
         "name": "Dos Pr\u00e9dios",
         "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 140800,
       "name": "Luxo No Morro",
       "url": "https://open.spotify.com/track/7cAPIqPqmxtcBVvfW6BZkm"
+    },
+    {
+      "added_at": "2022-12-23 03:01:00",
+      "album": {
+        "name": "Iphone Branco",
+        "url": "https://open.spotify.com/album/6hp21aFf4l4auKtNfgKmU2"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Iphone Branco",
+      "url": "https://open.spotify.com/track/6jxE4XjFVSKF18kfo7FCl9"
     },
     {
       "added_at": "2022-12-23 03:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
-        "name": "Aulas e Cursos",
-        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
-      },
-      "artists": [
-        {
-          "name": "DNASTY",
-          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
-        }
-      ],
-      "duration_ms": 213634,
-      "name": "Aulas e Cursos",
-      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
-    },
-    {
-      "added_at": "2022-12-23 03:01:00",
-      "album": {
         "name": "Londres Freestyle",
         "url": "https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 128000,
       "name": "Londres Freestyle",
       "url": "https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr"
+    },
+    {
+      "added_at": "2022-12-23 03:01:00",
+      "album": {
+        "name": "Aulas e Cursos",
+        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
+      },
+      "artists": [
+        {
+          "name": "DNASTY",
+          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
+        }
+      ],
+      "duration_ms": 213634,
+      "name": "Aulas e Cursos",
+      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
     },
     {
       "added_at": "2022-12-23 03:01:00",

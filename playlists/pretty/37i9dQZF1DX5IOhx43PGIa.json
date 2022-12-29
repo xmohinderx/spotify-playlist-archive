@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: RM.",
-  "num_followers": 252711,
+  "num_followers": 252829,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDM3MDgwOCwwMDAwMDAwMGVhMzRmZWFiZmY3NTQ0ZjA3MmI2ZGY4MmJhMGVlMTQ0",
+  "snapshot_id": "MTY3MDM3MDgwOCwwMDAwMDAwMDc5MmI5MjI3NjE0ZjEzYjkwZDM0ODhiNjY0OTE0ZWNm",
   "tracks": [
     {
       "added_at": "2022-12-02 05:01:00",
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/7bz3qPnazPPEJMj2XtNVEd"
     },
     {
-      "added_at": "2022-12-28 01:12:34",
+      "added_at": "2022-12-29 00:50:54",
       "album": {
         "name": "Champagne Talk",
         "url": "https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG"
@@ -723,22 +723,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "VIVID",
-        "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
+        "name": "Xeno",
+        "url": "https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr"
       },
       "artists": [
         {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
         },
         {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 193120,
-      "name": "VIVID",
-      "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
+      "duration_ms": 190946,
+      "name": "Thinking Bout You",
+      "url": "https://open.spotify.com/track/7HJbpVOycx32pDjWvpF9hp"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -759,22 +759,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Xeno",
-        "url": "https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr"
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
       },
       "artists": [
         {
-          "name": "rei brown",
-          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
         },
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
         }
       ],
-      "duration_ms": 190946,
-      "name": "Thinking Bout You",
-      "url": "https://open.spotify.com/track/7HJbpVOycx32pDjWvpF9hp"
+      "duration_ms": 193120,
+      "name": "VIVID",
+      "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "friends",
+        "url": "https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 143181,
+      "name": "friends",
+      "url": "https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Lost At Sea (Illa Illa 2)",
         "url": "https://open.spotify.com/album/4bXCVyrR6VXm1XUx4Ux6Pb"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 205544,
       "name": "Lost At Sea (Illa Illa 2)",
       "url": "https://open.spotify.com/track/7BAhSCJrL3JTdVGFK9hEgh"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "friends",
-        "url": "https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        }
-      ],
-      "duration_ms": 143181,
-      "name": "friends",
-      "url": "https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "There And Back Again",
-        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 174386,
-      "name": "Lost On Me",
-      "url": "https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Good In Me",
         "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 148027,
       "name": "Good In Me",
       "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "There And Back Again",
+        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 174386,
+      "name": "Lost On Me",
+      "url": "https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "I Miss My Friends (feat. Phum Viphurit)",
-        "url": "https://open.spotify.com/album/33HFtu7PiE4xTeV3FFGoOD"
-      },
-      "artists": [
-        {
-          "name": "Valentina Ploy",
-          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
-        },
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "I Miss My Friends (feat. Phum Viphurit)",
-      "url": "https://open.spotify.com/track/6CqB5fiJw1yKnytkAPprxr"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Hello 2.0 (Legends Only) [feat. \u00d8ZI]",
         "url": "https://open.spotify.com/album/7BtzeGPG9d8xWHM5WUlNmZ"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 230475,
       "name": "Hello 2.0 (Legends Only) [feat. \u00d8ZI]",
       "url": "https://open.spotify.com/track/2RKSmt3Dv1d4JFDr55LbWg"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "I Miss My Friends (feat. Phum Viphurit)",
+        "url": "https://open.spotify.com/album/33HFtu7PiE4xTeV3FFGoOD"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "I Miss My Friends (feat. Phum Viphurit)",
+      "url": "https://open.spotify.com/track/6CqB5fiJw1yKnytkAPprxr"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Shade of Yellow",
-        "url": "https://open.spotify.com/album/1Yz6WdcuRxhdHzJG5zmLQZ"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 156963,
-      "name": "Shade of Yellow",
-      "url": "https://open.spotify.com/track/7qHXEShpUpCcSUbgVjEAoQ"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "From You",
         "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 210280,
       "name": "From You",
       "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Shade of Yellow",
+        "url": "https://open.spotify.com/album/1Yz6WdcuRxhdHzJG5zmLQZ"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 156963,
+      "name": "Shade of Yellow",
+      "url": "https://open.spotify.com/track/7qHXEShpUpCcSUbgVjEAoQ"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Lover Like Me",
-        "url": "https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC"
-      },
-      "artists": [
-        {
-          "name": "CL",
-          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
-        }
-      ],
-      "duration_ms": 177845,
-      "name": "Lover Like Me",
-      "url": "https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "House We Share",
         "url": "https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 167453,
       "name": "House We Share",
       "url": "https://open.spotify.com/track/7jrmivOL6T6uIv4Fd0eU8o"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Lover Like Me",
+        "url": "https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC"
+      },
+      "artists": [
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        }
+      ],
+      "duration_ms": 177845,
+      "name": "Lover Like Me",
+      "url": "https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2035,26 +2035,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "THREE IN THE MORNING",
-        "url": "https://open.spotify.com/album/5MSbl628EwzcspxK0IthV8"
-      },
-      "artists": [
-        {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        },
-        {
-          "name": "Cecilia Gault",
-          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "THREE IN THE MORNING",
-      "url": "https://open.spotify.com/track/3huLyepH2dViuUYLhMK1Iy"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Color Me (Feat. CHUNG HA)",
         "url": "https://open.spotify.com/album/1SOyPMNJgR1RtmSJwJtT0b"
       },
@@ -2071,6 +2051,26 @@
       "duration_ms": 216225,
       "name": "Color Me (Feat. CHUNG HA)",
       "url": "https://open.spotify.com/track/0TtH1ocl5B20kKHiqPNELw"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "THREE IN THE MORNING",
+        "url": "https://open.spotify.com/album/5MSbl628EwzcspxK0IthV8"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "Cecilia Gault",
+          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "THREE IN THE MORNING",
+      "url": "https://open.spotify.com/track/3huLyepH2dViuUYLhMK1Iy"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2129,6 +2129,22 @@
       "url": "https://open.spotify.com/track/79bPtuYBpnNJTwCJEVzECO"
     },
     {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "how to love",
+        "url": "https://open.spotify.com/album/6IYXm4IxC9QYNoYGwFIbWD"
+      },
+      "artists": [
+        {
+          "name": "JEN Z",
+          "url": "https://open.spotify.com/artist/1fqQGhjVuevPcROlYKzn4b"
+        }
+      ],
+      "duration_ms": 213033,
+      "name": "how to love",
+      "url": "https://open.spotify.com/track/0yo9larsomF52ozr81jCEm"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Under The Rose",
@@ -2147,22 +2163,6 @@
       "duration_ms": 230842,
       "name": "Me & Mrs. Wong",
       "url": "https://open.spotify.com/track/1f4azUUkHGvH43cbnp1Mca"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
-        "name": "how to love",
-        "url": "https://open.spotify.com/album/6IYXm4IxC9QYNoYGwFIbWD"
-      },
-      "artists": [
-        {
-          "name": "JEN Z",
-          "url": "https://open.spotify.com/artist/1fqQGhjVuevPcROlYKzn4b"
-        }
-      ],
-      "duration_ms": 213033,
-      "name": "how to love",
-      "url": "https://open.spotify.com/track/0yo9larsomF52ozr81jCEm"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "blood lotus diary",
-        "url": "https://open.spotify.com/album/4T5JLOW9gRpehumgIQfzRK"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 196750,
-      "name": "holly's ego",
-      "url": "https://open.spotify.com/track/4Xu8VjkVCix7ypRJWW5OQZ"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "HIDE & SICK",
         "url": "https://open.spotify.com/album/6iNdLokKROwqKnHtgOt3bO"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 205466,
       "name": "HIDE & SICK",
       "url": "https://open.spotify.com/track/5cRbsnOSpH72PKIinDLzfD"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "blood lotus diary",
+        "url": "https://open.spotify.com/album/4T5JLOW9gRpehumgIQfzRK"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 196750,
+      "name": "holly's ego",
+      "url": "https://open.spotify.com/track/4Xu8VjkVCix7ypRJWW5OQZ"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Y2",
-        "url": "https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Make A Move",
-      "url": "https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/6x0uRAJjOAx8BAC60QQHfj"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 168420,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/16k7sLX58uNRKuueVzG6jy"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Y2",
+        "url": "https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Make A Move",
+      "url": "https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2447,26 +2447,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "do it right (feat. Amin\u00e9)",
-        "url": "https://open.spotify.com/album/3n1Yy29B8hAPS3X3K3YGgP"
-      },
-      "artists": [
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "do it right (feat. Amin\u00e9)",
-      "url": "https://open.spotify.com/track/6bKM56cyoz8kjiK7QKQ87i"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Bones & The Boy",
         "url": "https://open.spotify.com/album/3iOJeQg8mGnbKmOlsZtUlT"
       },
@@ -2491,6 +2471,50 @@
       "duration_ms": 151637,
       "name": "If You Leave Me Alone",
       "url": "https://open.spotify.com/track/4BJV20iCiOS0GAETnb94HI"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "do it right (feat. Amin\u00e9)",
+        "url": "https://open.spotify.com/album/3n1Yy29B8hAPS3X3K3YGgP"
+      },
+      "artists": [
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "do it right (feat. Amin\u00e9)",
+      "url": "https://open.spotify.com/track/6bKM56cyoz8kjiK7QKQ87i"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "PLAYTHING",
+        "url": "https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy"
+      },
+      "artists": [
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "PLAYTHING",
+      "url": "https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2527,30 +2551,6 @@
       "duration_ms": 211044,
       "name": "\u9014\u4e2d",
       "url": "https://open.spotify.com/track/6ps7aXKGIUjokiYT7e727f"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "PLAYTHING",
-        "url": "https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy"
-      },
-      "artists": [
-        {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
-        },
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        },
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "PLAYTHING",
-      "url": "https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39"
     },
     {
       "added_at": "2022-11-18 05:00:00",

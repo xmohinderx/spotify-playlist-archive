@@ -1,12 +1,12 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Allison Russell",
-  "num_followers": 46024,
+  "num_followers": 46053,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkzMDQzMCwwMDAwMDAwMDU0Y2NiY2NjYzEzN2U3MDhhNGMxMDhkM2RlM2M4YmYy",
+  "snapshot_id": "MTY1ODkzMDQzMCwwMDAwMDAwMGE5ZTIzYTRkODA3MTdhMjdiMDE1Mjc2YTY1NmE1MTcy",
   "tracks": [
     {
       "added_at": "2022-07-27 14:00:29",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 239001,
-      "name": "Dead of Night",
-      "url": "https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Part Of The Light",
         "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 296386,
       "name": "Such A Simple Thing",
       "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 239001,
+      "name": "Dead of Night",
+      "url": "https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -795,18 +795,22 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+        "name": "A Pillar of Salt",
+        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
       "artists": [
         {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 210426,
-      "name": "Bedrock",
-      "url": "https://open.spotify.com/track/5gzS0JyrF7IHZzMH4rNpoK"
+      "duration_ms": 319053,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -843,22 +847,18 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "A Pillar of Salt",
-        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
       "artists": [
         {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
         }
       ],
-      "duration_ms": 319053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
+      "duration_ms": 210426,
+      "name": "Bedrock",
+      "url": "https://open.spotify.com/track/5gzS0JyrF7IHZzMH4rNpoK"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 254546,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Long Lost",
         "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
       },
       "artists": [
         {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 196266,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
+      "duration_ms": 254546,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1023,6 +1007,22 @@
       "duration_ms": 285644,
       "name": "For Island Fires and Family",
       "url": "https://open.spotify.com/track/6Rk9OCPLRprxsMmYgnU1UF"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Twenty Something",
         "url": "https://open.spotify.com/album/04fOj55fAN5mWhs7DMvNiH"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 267306,
       "name": "Light",
       "url": "https://open.spotify.com/track/0imuQm7CnK74UdorFpC2Eg"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Kitchen Sink",
-        "url": "https://open.spotify.com/album/37dYaICna8tdlgYU7kUz6u"
+        "name": "The Ridge",
+        "url": "https://open.spotify.com/album/0Khj7wOoFouCLBiZqZmu6i"
       },
       "artists": [
         {
-          "name": "Genesis Ritchot",
-          "url": "https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm"
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
         }
       ],
-      "duration_ms": 218368,
-      "name": "Kitchen Sink",
-      "url": "https://open.spotify.com/track/0baEuNfCAnahq2e5PhJPrn"
+      "duration_ms": 336171,
+      "name": "Ballad of a Young Troubadour",
+      "url": "https://open.spotify.com/track/0a2LQtTdkUkrfwNY08glUV"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "The Ridge",
-        "url": "https://open.spotify.com/album/0Khj7wOoFouCLBiZqZmu6i"
+        "name": "Kitchen Sink",
+        "url": "https://open.spotify.com/album/37dYaICna8tdlgYU7kUz6u"
       },
       "artists": [
         {
-          "name": "Julian Taylor",
-          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
+          "name": "Genesis Ritchot",
+          "url": "https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm"
         }
       ],
-      "duration_ms": 336171,
-      "name": "Ballad of a Young Troubadour",
-      "url": "https://open.spotify.com/track/0a2LQtTdkUkrfwNY08glUV"
+      "duration_ms": 218368,
+      "name": "Kitchen Sink",
+      "url": "https://open.spotify.com/track/0baEuNfCAnahq2e5PhJPrn"
     },
     {
       "added_at": "2022-07-27 14:00:29",

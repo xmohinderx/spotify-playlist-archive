@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 57996,
+  "num_followers": 58037,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDBiODNjNmViNDE1YjFmNjE2Njk3ZmVlZjY1ODFjMjlm",
+  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDUxYTczNTllOTlkMGY4NGIxMWRmYjcwYzllZTZmMmMz",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Un Bolero un Vals, Vol. 2",
-        "url": "https://open.spotify.com/album/6QcqMrnNCOFagbX5Xn1Gg4"
-      },
-      "artists": [
-        {
-          "name": "Eva Ayll\u00f3n",
-          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
-        }
-      ],
-      "duration_ms": 307401,
-      "name": "Mi Viejo / Recordando a Mi Padre",
-      "url": "https://open.spotify.com/track/5sK9OW4DCGyfO7uaIR9pJq"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "La Voz Elegante del Bolero",
         "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 163400,
       "name": "Se\u00f1or Abogado",
       "url": "https://open.spotify.com/track/1UAtOGKYcUw9b3Kwq9GMPl"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Un Bolero un Vals, Vol. 2",
+        "url": "https://open.spotify.com/album/6QcqMrnNCOFagbX5Xn1Gg4"
+      },
+      "artists": [
+        {
+          "name": "Eva Ayll\u00f3n",
+          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
+        }
+      ],
+      "duration_ms": 307401,
+      "name": "Mi Viejo / Recordando a Mi Padre",
+      "url": "https://open.spotify.com/track/5sK9OW4DCGyfO7uaIR9pJq"
     },
     {
       "added_at": "2021-12-17 05:01:00",

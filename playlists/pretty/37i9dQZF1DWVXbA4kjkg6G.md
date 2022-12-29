@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Psychedelic beat science.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,043 likes - 75 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,543 likes - 75 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 7 | [Hell Is Round The Corner](https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 3:47 |
 | 8 | [Numb](https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 3:55 |
 | 9 | [Protection](https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Tracey Thorn](https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b) | [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC) | 7:51 |
-| 10 | [Smoke & Mirrors](https://open.spotify.com/track/2C1nOw1nRxJaBWb9I1x05A) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 4:26 |
-| 11 | [Nights Introlude](https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 4:40 |
+| 10 | [Nights Introlude](https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 4:40 |
+| 11 | [Smoke & Mirrors](https://open.spotify.com/track/2C1nOw1nRxJaBWb9I1x05A) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 4:26 |
 | 12 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l) | 6:39 |
 | 13 | [Lonely Soul](https://open.spotify.com/track/2HHC3GxRY2SxqRn6v6TvXX) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Psyence Fiction](https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY) | 8:53 |
 | 14 | [All Mine](https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:00 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 36 | [Chocolate Elvis](https://open.spotify.com/track/2j8H3gIfjeBhB4pfudCBZX) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Opera](https://open.spotify.com/album/6TEEsZodjlgareaeIgBHQC) | 5:02 |
 | 37 | [Unreal](https://open.spotify.com/track/0vkxviQkVKdgxEdmDncedH) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC) | [Psyence Fiction](https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY) | 5:08 |
 | 38 | [In A Beautiful Place Out In The Country](https://open.spotify.com/track/1ilA1w8ewwREeAEHY2rqKa) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe) | 6:07 |
-| 39 | [Revolutionary Woman of The Windmill \- Part Primera La Bandolera Del Molino](https://open.spotify.com/track/1Ia7VpJTEQgWn65WPg0qRE) | [Up, Bustle & Out](https://open.spotify.com/artist/0P8CKxjKGjVnIOOJSJoymP) | [One Colour Just Reflects Another](https://open.spotify.com/album/4DeywfBtRsQFApbOjDHsKt) | 5:40 |
-| 40 | [Stars](https://open.spotify.com/track/5RTi3ClzRwFsso3gfYppHO) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 6:59 |
+| 39 | [Stars](https://open.spotify.com/track/5RTi3ClzRwFsso3gfYppHO) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 6:59 |
+| 40 | [Revolutionary Woman of The Windmill \- Part Primera La Bandolera Del Molino](https://open.spotify.com/track/1Ia7VpJTEQgWn65WPg0qRE) | [Up, Bustle & Out](https://open.spotify.com/artist/0P8CKxjKGjVnIOOJSJoymP) | [One Colour Just Reflects Another](https://open.spotify.com/album/4DeywfBtRsQFApbOjDHsKt) | 5:40 |
 | 41 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
 | 42 | [Spicy Snapper](https://open.spotify.com/track/1eXDhV76Gea8XuPqcAw0s5) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Since Then\. 2017](https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM) | 5:36 |
 | 43 | [The Next Shit](https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [USSR Repertoire / The Theory Of Verticality](https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv) | 2:09 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 49 | [Bug Powder Dust \- Kruder & Dorfmeister Dub](https://open.spotify.com/track/1UMGeDMyMUj2agDjhkUUzx) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Peter Kruder](https://open.spotify.com/artist/47EuUa98YLFZ0nw2bMQKpC), [Richard Dorfmeister](https://open.spotify.com/artist/7kVSO9W0cZoyKBEG5o3E9h) | [Lifestyle2 \- Chill Lounge Vol 1](https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9) | 6:14 |
 | 50 | [Legend of the Golden Snake \- Single Version](https://open.spotify.com/track/1LYMWLIvXHWehNAUUC32rO) | [Depth Charge](https://open.spotify.com/artist/7wFngDXS0agMESGg1qYM4u) | [Spill](https://open.spotify.com/album/49gzntLtRO6MdCYh6YfOfD) | 4:26 |
 | 51 | [Deep Shit, Pt\. 1 & 2](https://open.spotify.com/track/4p2AbJiH4eso5TE3wVqbV4) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:21 |
-| 52 | [Trans Fatty Acid](https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Lamb](https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO) | 7:36 |
-| 53 | [Dark Lady](https://open.spotify.com/track/2eALAfP2PfljNcjlHPXDQY) | [DJ Food](https://open.spotify.com/artist/4NZM5xKuDpGc4vEHDwGO1Q) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:05 |
+| 52 | [Dark Lady](https://open.spotify.com/track/2eALAfP2PfljNcjlHPXDQY) | [DJ Food](https://open.spotify.com/artist/4NZM5xKuDpGc4vEHDwGO1Q) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:05 |
+| 53 | [Trans Fatty Acid](https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Lamb](https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO) | 7:36 |
 | 54 | [What Does Your Soul Look Like \- Pt\. 2](https://open.spotify.com/track/6qN2alQY36EbEjpBhDP9FE) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0) | 13:51 |
 | 55 | [Christiansands](https://open.spotify.com/track/413DSZdM15Uz3oHHLycuKK) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Pre Millennium Tension](https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu) | 3:52 |
 | 56 | [Into the 90's](https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [Natural Born Killa \(2015 Remaster\)](https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS) | 5:21 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 69 | [Mad Blunted Jazz](https://open.spotify.com/track/5DBHf9TJyINVithuciTmic) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 5:10 |
 | 70 | [Black Jesus](https://open.spotify.com/track/6JKFK3xmbsemZvLA40R7KH) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:05 |
 | 71 | [Silver Dawn](https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX) | [Artemis](https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 5:42 |
-| 72 | [Five Days](https://open.spotify.com/track/749wOMW7G4HSApFFRu3JpL) | [Howie B.](https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG) | [My Left Pussyfoot](https://open.spotify.com/album/45tUfsKQT0VmV27YBSgaCt) | 5:22 |
-| 73 | [A Mother \(For Your Mind\)](https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Blow Your Headphones](https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh) | 6:48 |
+| 72 | [A Mother \(For Your Mind\)](https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Blow Your Headphones](https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh) | 6:48 |
+| 73 | [Five Days](https://open.spotify.com/track/749wOMW7G4HSApFFRu3JpL) | [Howie B.](https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG) | [My Left Pussyfoot](https://open.spotify.com/album/45tUfsKQT0VmV27YBSgaCt) | 5:22 |
 | 74 | [City Lights \- City of Starsigns](https://open.spotify.com/track/7w2ETRLrBKR5j8HaWvbKTX) | [Patrick Pulsinger](https://open.spotify.com/artist/3MXePESrFifdxyENQfsaid) | [Dogmatic Sequences, Vol\. 2](https://open.spotify.com/album/0dVkLBFLNIIyOT3kSL0oEi) | 5:58 |
 | 75 | [Long Road](https://open.spotify.com/track/2b1E782QABZaTux77fwlbV) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:01 |
 
-Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMDk0NzA5NjlhZjgzNDNmNThiYjI0NDA3M2M0MTY0NWJk`
+Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMDQ3ZGRiNDI3NTI4MDI0NDU1NWVmYWQxNjI0NTgwZmZm`

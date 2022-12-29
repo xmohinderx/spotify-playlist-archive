@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,112 songs - 2 day 11 hr 27 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+1,113 songs - 2 day 11 hr 30 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Akrapovic](https://open.spotify.com/track/2GJM3nRv8ihs52OsCjjV6j) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [2.7.0 : Château Noir](https://open.spotify.com/album/3EDTWgtPkgHRlTMcLX4cUY) | 3:32 | 2021-03-27 | 2021-03-29 |
 | [Albiceleste](https://open.spotify.com/track/0aNKeqaXgtsWkhnxfkC01l) | [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Memoria](https://open.spotify.com/album/4ocMBARU5In7WQpVoT9OPv) | 3:48 | 2022-01-22 | 2022-01-30 |
 | [All Eyez On Me](https://open.spotify.com/track/4kb2Z4gHhmQTFOfkQiq5DH) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 2:42 | 2021-09-19 | 2021-09-20 |
-| [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-06 |  |
+| [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-06 | 2022-12-29 |
 | [All We Got \(feat\. KIDDO\)](https://open.spotify.com/track/1iAyJBksvAI6DQEnzv8l1E) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [IIII](https://open.spotify.com/album/2QC9gnxGo0MnJ98mLTOf6c) | 3:10 | 2021-03-27\* | 2021-04-09 |
 | [Allez dehors](https://open.spotify.com/track/2YGtFjsTpSrsGb2rQy4ARj) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Allez dehors](https://open.spotify.com/album/6Us6AtFqQORq9wUpHdvbnf) | 2:46 | 2022-08-27 | 2022-10-08 |
 | [Alliance \(feat\. Vald\)](https://open.spotify.com/track/1IPDbkUOROrSUzWzojcfAg) | [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Aimons\-Nous Vivants](https://open.spotify.com/album/74LPtYrPaz5EWAONfcWwby) | 3:38 | 2021-04-11 | 2021-04-13 |
@@ -288,6 +288,7 @@
 | [Dernier Etage](https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tout Droit](https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux) | 3:30 | 2022-03-29 | 2022-04-03 |
 | [Dernier verre](https://open.spotify.com/track/0Vaqh10JzIrxfDCWJXwLa5) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 3:23 | 2021-11-21 | 2021-12-03 |
 | [Derrière nos tours \(feat\. Maes\)](https://open.spotify.com/track/4nOtenqNZNIRYYjBBf8A11) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 3:04 | 2021-09-19 | 2021-09-25 |
+| [Des milliers de je t'aime](https://open.spotify.com/track/1NwjfTd5fsvRFtYGERuKzA) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Chroniques d’un cupidon](https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1) | 3:32 | 2022-12-28 |  |
 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 | 2022-09-10 |  |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-08-12 | 2022-09-11 |
 | [Deux frères](https://open.spotify.com/track/6hzi3AGB39FjxFqcjgbWs7) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Deux frères](https://open.spotify.com/album/2JtKf1aFxqS0M3QIj98nG5) | 4:07 | 2022-05-06 | 2022-07-03 |

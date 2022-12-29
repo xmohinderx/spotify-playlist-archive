@@ -1,12 +1,12 @@
 {
   "description": "New wave took the 70s punk blueprint and ran wild! Cover: Blondie",
-  "num_followers": 783099,
+  "num_followers": 783386,
   "original_name": "Is it New Wave?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3OTAzNjYwMSwwMDAwMDAwMDM1NDYxMmZlZjI0OTJlYzBkYmQ2MzdiNzU3NGM5NjMx",
+  "snapshot_id": "MTU3OTAzNjYwMSwwMDAwMDAwMDk1OTQ1YTE0N2M4ZjFhNDEwN2VlZDE0NTU2OTcwNDRk",
   "tracks": [
     {
       "added_at": "2020-01-14 21:16:41",
@@ -603,22 +603,6 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Drums And Wires",
-        "url": "https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl"
-      },
-      "artists": [
-        {
-          "name": "XTC",
-          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "Making Plans For Nigel",
-      "url": "https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
         "name": "Maxis & Mixes",
         "url": "https://open.spotify.com/album/7aqz20plzZwXVbeed9bkVz"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 281453,
       "name": "99 Red Balloons - Club Mix",
       "url": "https://open.spotify.com/track/4R6oOgh523J4M1I0XYe14f"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Drums And Wires",
+        "url": "https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Making Plans For Nigel",
+      "url": "https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v"
     },
     {
       "added_at": "2020-01-14 21:16:41",

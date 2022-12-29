@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,909 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,965 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 18 | [Nasty Boogie](https://open.spotify.com/track/3rzNjo8hXkNlMRsyl6Vwif) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:10 |
 | 19 | [C.Q\. Boogie](https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd) | [Katie Webster](https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe) | [Two\-Fisted Mama!](https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt) | 2:38 |
 | 20 | [Junco Partner](https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Junco Partner](https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV) | 5:10 |
-| 21 | [The House of Blue Lights](https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA) | [Ella Mae Morse](https://open.spotify.com/artist/0qGFARKf4pfodYjZbj5N4v), [Freddie Slack And His Orchestra](https://open.spotify.com/artist/4sDUl3F44oqvU3YQm8HmBw), [Don Raye](https://open.spotify.com/artist/5UpwoPrXTj5b0kLlg8Sn5X) | [Capitol Collectors Series](https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V) | 2:53 |
-| 22 | [Roll 'Em](https://open.spotify.com/track/0HTkU7FYXrtuBJnbh6MJvb) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Piano](https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv) | 2:53 |
+| 21 | [Roll 'Em](https://open.spotify.com/track/0HTkU7FYXrtuBJnbh6MJvb) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Piano](https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv) | 2:53 |
+| 22 | [The House of Blue Lights](https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA) | [Ella Mae Morse](https://open.spotify.com/artist/0qGFARKf4pfodYjZbj5N4v), [Freddie Slack And His Orchestra](https://open.spotify.com/artist/4sDUl3F44oqvU3YQm8HmBw), [Don Raye](https://open.spotify.com/artist/5UpwoPrXTj5b0kLlg8Sn5X) | [Capitol Collectors Series](https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V) | 2:53 |
 | 23 | [Mac's Boogie](https://open.spotify.com/track/2foLnOSkNrOT27RjE0LygE) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Dr\. John Plays Mac Rebennack The Legendary Sessions V\. 1](https://open.spotify.com/album/2YmByjFIRpY2ZX3c8OHkHF) | 4:01 |
 | 24 | [I Got It \- Remastered](https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Essential Little Richard](https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf) | 2:18 |
 | 25 | [Junco Partner \#2](https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [The Lost Paramount Tapes](https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 49 | [Boogie Woogie \- Mono](https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [New Orleans Piano \(Mono\)](https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv) | 2:40 |
 | 50 | [Killer Miller](https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD) | [Battin' The Boogie](https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6) | 2:21 |
 
-Snapshot ID: `MTY2NTQwNjM2OCwwMDAwMDAwMGQ4MzRjNDk5MWNmMDZkYzFmMjhiM2MwOWI2ZTk2ZGI5`
+Snapshot ID: `MTY2NTQwNjM2OCwwMDAwMDAwMGZhZmJkZTJjZDQzOTBiY2ZmNTJlZGQ4N2Q2MmY3Yzkx`

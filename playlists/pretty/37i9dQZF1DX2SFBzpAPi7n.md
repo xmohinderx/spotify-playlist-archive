@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Cherry Filter\(체리필터\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,447 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,415 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pianissimo \- 2022 Remixed Remastered](https://open.spotify.com/track/4bukywaDtuziUGdNOeMK3o) | [CHERRYFILTER](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Rocksteric](https://open.spotify.com/album/3HWyyy6xnbKLRuLv5skOnJ) | 3:49 |
+| 1 | [Pianissimo \- 2022 Remixed Remastered](https://open.spotify.com/track/4bukywaDtuziUGdNOeMK3o) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Rocksteric](https://open.spotify.com/album/3HWyyy6xnbKLRuLv5skOnJ) | 3:49 |
 | 2 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 |
 | 3 | [Fallen](https://open.spotify.com/track/0jo45PactLXFCw311Xa4gi) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Fallen](https://open.spotify.com/album/2L6Wq8SWyqp11SYcH46Rsp) | 3:38 |
 | 4 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 |

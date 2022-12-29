@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: iri
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,425 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,528 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 23 | [花](https://open.spotify.com/track/44OxrvlXzAao1iIASR8I5j) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [花](https://open.spotify.com/album/3sho9cirh8faBkktavxD18) | 4:52 |
 | 24 | [Letters](https://open.spotify.com/track/27GXDT9uMX6VLcnAYPisMj) | [diue](https://open.spotify.com/artist/0BghUUqZWmXlfXxAZfqkvw), [&mkz](https://open.spotify.com/artist/1n4aHNYirNcTqD074Ml8It) | [Letters](https://open.spotify.com/album/7zAoGrrJwpEd16ACo1SLiF) | 2:06 |
 | 25 | [初恋](https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [初恋 \(2022 Remastering\)](https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl) | 4:42 |
-| 26 | [暴く春](https://open.spotify.com/track/4CnQzzLlHEezMLqflJpWmS) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [暴く春](https://open.spotify.com/album/2fIYGVS9QPcWS95wSqLdXs) | 3:26 |
+| 26 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 |
 | 27 | [スタート](https://open.spotify.com/track/1GIsaJcD5PEc2EOLH3ePpy) | [CAPSULE](https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N) | [メトロパルス](https://open.spotify.com/album/180vwCyLRoHCw1IsusDz3s) | 4:03 |
 | 28 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 |
 | 29 | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/track/3VV4tTyh2wm5e1f3iz7qGR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc), [MELRAW](https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N) | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/album/4I1YDrFEUJO6l0Oy3jsgcR) | 4:45 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 67 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 |
 | 68 | [SECM \(Sausage Egg & Cheese Muffin\)](https://open.spotify.com/track/3Aup2ONzQh3oG2jvrpaOtX) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [Snowdome](https://open.spotify.com/album/37SUGkacnP6YHLqUivxrGY) | 2:12 |
 | 69 | [夏枯れ](https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [夏枯れ](https://open.spotify.com/album/79pypbVZnHtiORB1FlGQFn) | 3:56 |
-| 70 | [Over](https://open.spotify.com/track/1SlL9k10O46PgTQUga0Tu5) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [Over](https://open.spotify.com/album/6ru0CYtnxi3m0qlWlWMEWn) | 3:33 |
+| 70 | [Over](https://open.spotify.com/track/2ReQ5u1eJ9PtBhy2euQCpr) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [Over](https://open.spotify.com/album/17gi4FRPtegnxGxs95C1dR) | 3:33 |
 | 71 | [Mirror](https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Mirror](https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws) | 3:31 |
 | 72 | [Always You](https://open.spotify.com/track/38kfx7lgJFHFxJMAvMMkRy) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Always You](https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD) | 4:04 |
 | 73 | [オアイコ](https://open.spotify.com/track/3E5HwkuvaaW60z6lLHj5D4) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [オアイコ](https://open.spotify.com/album/6Wa6Ga6TaKpFSeFGrVMs0M) | 3:54 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 93 | [予感](https://open.spotify.com/track/4tKrrFD7CQt8fPU7qUmV5E) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [予感](https://open.spotify.com/album/7HFkmbiT8TbVBGKIkAiMLm) | 2:43 |
 | 94 | [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 |
 | 95 | [The Swallow \(feat\. Midories\)](https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [The Swallow \(feat\. Midories\)](https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq) | 3:37 |
-| 96 | [超最悪](https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [超最悪](https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK) | 2:58 |
-| 97 | [ホットミルク](https://open.spotify.com/track/3KbEfn3HkRdKAenSdpzfdj) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ホットミルク](https://open.spotify.com/album/4XuWbqGfKeGBBS1YVeWCxY) | 4:20 |
+| 96 | [ホットミルク](https://open.spotify.com/track/3KbEfn3HkRdKAenSdpzfdj) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ホットミルク](https://open.spotify.com/album/4XuWbqGfKeGBBS1YVeWCxY) | 4:20 |
+| 97 | [超最悪](https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [超最悪](https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK) | 2:58 |
 | 98 | [Bestie](https://open.spotify.com/track/3pkix1zjSHcGJAzKmGUvTo) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Bestie](https://open.spotify.com/album/0McQJu0feRtDeCx0IM6bMg) | 2:49 |
 | 99 | [花火](https://open.spotify.com/track/0lXSxGipkxwFguOY8AoeKs) | [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [花火](https://open.spotify.com/album/71ZX3oj5ZvktSUKVuuavi9) | 4:31 |
-| 100 | [wavy flow](https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [wavy flow](https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo) | 3:25 |
+| 100 | [Victim of Love \- feat\. Taka](https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi), [Taka](https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B) | [LOVE CYCLE](https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK) | 3:55 |
 
-Snapshot ID: `MTY3MjE1MzIwMCwwMDAwMDAwMDViMjE3YjVjMTM5YzYyMDBkNjZlNWI0NTc2YTA1NTRh`
+Snapshot ID: `MTY3MjE1MzIwMCwwMDAwMDAwMDBhZWRkOTcwOTUwNmJiNTJlNzE2YTk0ODA2YjY2M2I0`

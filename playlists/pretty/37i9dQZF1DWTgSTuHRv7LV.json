@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Trueno & JID",
-  "num_followers": 457142,
+  "num_followers": 457197,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTA2MTk3MCwwMDAwMDAwMGM3Y2YzZjBkMTk3ZDNiMWNlNDhmYjEwZWMwMGUzNWUx",
+  "snapshot_id": "MTY3MTA2MTk3MCwwMDAwMDAwMGZlY2E2ZmMyMjcwM2VkNjczZDY1ZmU1YTg5ODA1NDQz",
   "tracks": [
     {
       "added_at": "2022-12-14 23:52:50",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
+        "name": "Problem\u00e1tico",
+        "url": "https://open.spotify.com/album/5e4XIcdU0zAxdqPe4tvcXw"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Problem\u00e1tico",
+      "url": "https://open.spotify.com/track/0ZpFL6klWmBauFySgFgURt"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
         "name": "On The Road (feat. Elpatron970, Felp 22)",
         "url": "https://open.spotify.com/album/2YSdNZSMUEkwSp0vWkuSYh"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 214700,
       "name": "Perico",
       "url": "https://open.spotify.com/track/57LGhr0kY4isaQdv301bg6"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
-        "name": "Problem\u00e1tico",
-        "url": "https://open.spotify.com/album/5e4XIcdU0zAxdqPe4tvcXw"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Problem\u00e1tico",
-      "url": "https://open.spotify.com/track/0ZpFL6klWmBauFySgFgURt"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
-        "name": "Maldad",
-        "url": "https://open.spotify.com/album/3W4doy1Nh9TLVojSVVhzyf"
-      },
-      "artists": [
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 140285,
-      "name": "Maldad",
-      "url": "https://open.spotify.com/track/5zNBzzGYHiPX6KTfoQX7e2"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
         "name": "Socios II",
         "url": "https://open.spotify.com/album/61RLppWoLAO4mG3xBRAOEi"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 233700,
       "name": "Telara\u00f1a",
       "url": "https://open.spotify.com/track/6zG8Z34VFuHOqqr97YBq0Y"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
+        "name": "Maldad",
+        "url": "https://open.spotify.com/album/3W4doy1Nh9TLVojSVVhzyf"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 140285,
+      "name": "Maldad",
+      "url": "https://open.spotify.com/track/5zNBzzGYHiPX6KTfoQX7e2"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
-        "name": "La Nueva Pandemia",
-        "url": "https://open.spotify.com/album/5l3tjSHsjgNudTV5a5Gx07"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "La Nueva Pandemia",
-      "url": "https://open.spotify.com/track/6BCzIewMNsznhUB78Z6gLL"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
         "name": "Manjit 1",
         "url": "https://open.spotify.com/album/3jwk8uhUhfJj56MuBZYBlm"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 170501,
       "name": "Buen Viaje",
       "url": "https://open.spotify.com/track/3Rmu4NKTTjJvScgZaKkMJG"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
+        "name": "La Nueva Pandemia",
+        "url": "https://open.spotify.com/album/5l3tjSHsjgNudTV5a5Gx07"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "La Nueva Pandemia",
+      "url": "https://open.spotify.com/track/6BCzIewMNsznhUB78Z6gLL"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -2231,26 +2231,6 @@
     {
       "added_at": "2022-12-14 23:52:50",
       "album": {
-        "name": "SOMETHING TO PROVE",
-        "url": "https://open.spotify.com/album/2LzskkbNkpnJz1kfBqT5gD"
-      },
-      "artists": [
-        {
-          "name": "Show Hustle",
-          "url": "https://open.spotify.com/artist/5jhytxAupfWWuxCJt5xrAl"
-        },
-        {
-          "name": "Moha The B",
-          "url": "https://open.spotify.com/artist/4E44IDMuWVpcKurInIgtco"
-        }
-      ],
-      "duration_ms": 173750,
-      "name": "SOMETHING TO PROVE",
-      "url": "https://open.spotify.com/track/6w2ApsjOjzr0mBNVp2INPa"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
         "name": "Kevin, Hugo & Jorge",
         "url": "https://open.spotify.com/album/4kzxuzLBkbGGnqeQ3dO8JT"
       },
@@ -2275,6 +2255,26 @@
       "duration_ms": 146622,
       "name": "Kevin, Hugo & Jorge",
       "url": "https://open.spotify.com/track/0tT1SLOTZfEud3LB7JTgxv"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
+        "name": "SOMETHING TO PROVE",
+        "url": "https://open.spotify.com/album/2LzskkbNkpnJz1kfBqT5gD"
+      },
+      "artists": [
+        {
+          "name": "Show Hustle",
+          "url": "https://open.spotify.com/artist/5jhytxAupfWWuxCJt5xrAl"
+        },
+        {
+          "name": "Moha The B",
+          "url": "https://open.spotify.com/artist/4E44IDMuWVpcKurInIgtco"
+        }
+      ],
+      "duration_ms": 173750,
+      "name": "SOMETHING TO PROVE",
+      "url": "https://open.spotify.com/track/6w2ApsjOjzr0mBNVp2INPa"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -2311,6 +2311,22 @@
       "duration_ms": 132680,
       "name": "Cotidiano",
       "url": "https://open.spotify.com/track/7G2pomkPBvmMIzT5H7Pt2v"
+    },
+    {
+      "added_at": "2022-12-14 23:52:50",
+      "album": {
+        "name": "Flight 0006",
+        "url": "https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Flight 0006",
+      "url": "https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9"
     },
     {
       "added_at": "2022-12-14 23:52:50",
@@ -2363,22 +2379,6 @@
       "duration_ms": 212141,
       "name": "Uh yeah",
       "url": "https://open.spotify.com/track/1PaH6xUsycYE68nsXL4j3I"
-    },
-    {
-      "added_at": "2022-12-14 23:52:50",
-      "album": {
-        "name": "Flight 0006",
-        "url": "https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb"
-      },
-      "artists": [
-        {
-          "name": "Flyboiz",
-          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "Flight 0006",
-      "url": "https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9"
     },
     {
       "added_at": "2022-12-14 23:52:50",

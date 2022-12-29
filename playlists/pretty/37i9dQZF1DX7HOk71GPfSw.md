@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,370 likes - 110 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,798 likes - 110 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 62 | [Breathe](https://open.spotify.com/track/174tKf2As3onWW7fycYCXK) | [AViT](https://open.spotify.com/artist/4DLZI7QaVg7mKz0qyDi6Jp) | [Breathe](https://open.spotify.com/album/4TnXvY3zWf5mzTUhbTzDWM) | 3:07 |
 | 63 | [HAHAH](https://open.spotify.com/track/4esa3tKLyvysJpj70fUCyK) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Spiderr](https://open.spotify.com/album/59VjMEiXIOpzLAMAHrLlfj) | 2:16 |
 | 64 | [so different](https://open.spotify.com/track/0dIdygeAOLbVX1dxYhEaJ6) | [cudos](https://open.spotify.com/artist/1MUIsgpeFNcUbM5EXZvsnc), [DEEGAN](https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi) | [so different](https://open.spotify.com/album/7oN0crPnZMnoZDnIR6Cf2K) | 2:37 |
-| 65 | [stay away \- xs edition](https://open.spotify.com/track/4Wx2U1dhzMQBx9LoVSLSXq) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [xs](https://open.spotify.com/artist/0iw8ww6m2qNzlwZa30iDNT) | [stay away](https://open.spotify.com/album/5rKtStwZIclcxCkqoyDlBA) | 3:49 |
+| 65 | [stay away \- xs edition](https://open.spotify.com/track/4Wx2U1dhzMQBx9LoVSLSXq) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [xs](https://open.spotify.com/artist/0iw8ww6m2qNzlwZa30iDNT) | [stay away \(xs edition\)](https://open.spotify.com/album/5rKtStwZIclcxCkqoyDlBA) | 3:49 |
 | 66 | [SOS](https://open.spotify.com/track/6VadjsKC8hvS4E6FQGUKIc) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW), [reefuh](https://open.spotify.com/artist/6ChAy6cuN28SDLsUecubQn) | [SOS](https://open.spotify.com/album/54jXnRNyDwbxJyGXiYUJDv) | 2:22 |
 | 67 | [blow in the wind](https://open.spotify.com/track/4sJGikulSfsE9sSaBR4vKK) | [arkko](https://open.spotify.com/artist/6qEyaO9tfXUuTmBp49zUJR), [reefuh](https://open.spotify.com/artist/6ChAy6cuN28SDLsUecubQn) | [blow in the wind](https://open.spotify.com/album/6qQyiLhCt9romNRH7BsBet) | 2:44 |
 | 68 | [exit life](https://open.spotify.com/track/1YKq9aptgpNiyfoMSWXIFr) | [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [exit life](https://open.spotify.com/album/4uvTUbN7nlJaNzIeXGPVP3) | 1:50 |

@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Naomi Raine",
-  "num_followers": 165550,
+  "num_followers": 165603,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMDViYjYyNDk2NGZkZDgxNzk4MmFjYmY2MmYzMzQ5NDFj",
+  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMDI4NjQ1NjY2NTJhN2M4ZTUwOGNlNTU2ZmZlMmE4NzJm",
   "tracks": [
     {
       "added_at": "2022-07-17 05:38:31",
@@ -735,6 +735,26 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/2VgOOSTalU08LZ8Y3lNBZE"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        },
+        {
+          "name": "BINDANG",
+          "url": "https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW"
+        }
+      ],
+      "duration_ms": 166943,
+      "name": "Raise Me up",
+      "url": "https://open.spotify.com/track/2TBL8zWxryE0tXrQ7SwkQn"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "New Me",
         "url": "https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 382608,
       "name": "Walk With You",
       "url": "https://open.spotify.com/track/1ccvFGOxax5zDNdt8fNZLg"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/2VgOOSTalU08LZ8Y3lNBZE"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        },
-        {
-          "name": "BINDANG",
-          "url": "https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW"
-        }
-      ],
-      "duration_ms": 166943,
-      "name": "Raise Me up",
-      "url": "https://open.spotify.com/track/2TBL8zWxryE0tXrQ7SwkQn"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/1PlYeaM005XFc1ggzEjllS"
-      },
-      "artists": [
-        {
-          "name": "Kevin Downswell",
-          "url": "https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4"
-        }
-      ],
-      "duration_ms": 255579,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/1hCa15BtSKMQGa4iDcnV3S"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Rescue (Reimagined)",
         "url": "https://open.spotify.com/album/022ehc5YpTikEsYXysMeun"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 195679,
       "name": "Rescue (Reimagined)",
       "url": "https://open.spotify.com/track/3WIhBPVP3v9O7rXserceei"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/1PlYeaM005XFc1ggzEjllS"
+      },
+      "artists": [
+        {
+          "name": "Kevin Downswell",
+          "url": "https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4"
+        }
+      ],
+      "duration_ms": 255579,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/1hCa15BtSKMQGa4iDcnV3S"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "GUIDE MY HEART",
-        "url": "https://open.spotify.com/album/7EnV7Wi07R4Vm8T8Gn0iCG"
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/4nYioApK4PisBkfRaXzO36"
       },
       "artists": [
         {
-          "name": "Ben Lawrence",
-          "url": "https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN"
-        },
-        {
-          "name": "JSteph",
-          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
+          "name": "Jimmy McNeal",
+          "url": "https://open.spotify.com/artist/6qAVuHCboewGWzHF0JwYx5"
         }
       ],
-      "duration_ms": 143671,
-      "name": "GUIDE MY HEART",
-      "url": "https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj"
+      "duration_ms": 368026,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/0rTNfHq56NzUNnIwk6zgru"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1711,18 +1707,38 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/4nYioApK4PisBkfRaXzO36"
+        "name": "GUIDE MY HEART",
+        "url": "https://open.spotify.com/album/7EnV7Wi07R4Vm8T8Gn0iCG"
       },
       "artists": [
         {
-          "name": "Jimmy McNeal",
-          "url": "https://open.spotify.com/artist/6qAVuHCboewGWzHF0JwYx5"
+          "name": "Ben Lawrence",
+          "url": "https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN"
+        },
+        {
+          "name": "JSteph",
+          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
         }
       ],
-      "duration_ms": 368026,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/0rTNfHq56NzUNnIwk6zgru"
+      "duration_ms": 143671,
+      "name": "GUIDE MY HEART",
+      "url": "https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "GRACE",
+        "url": "https://open.spotify.com/album/6JzWGtTmJ29ZlAA87eW6Ct"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 255761,
+      "name": "GRACE",
+      "url": "https://open.spotify.com/track/01ioXCMkGpxuKrdEO3TSob"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1747,22 +1763,6 @@
       "duration_ms": 191122,
       "name": "Belongs To You - R&B Remix",
       "url": "https://open.spotify.com/track/66pxUHORGhVzEjvzIAijcq"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "GRACE",
-        "url": "https://open.spotify.com/album/6JzWGtTmJ29ZlAA87eW6Ct"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 255761,
-      "name": "GRACE",
-      "url": "https://open.spotify.com/track/01ioXCMkGpxuKrdEO3TSob"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1831,18 +1831,18 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "you are worth it",
-        "url": "https://open.spotify.com/album/79W3DyH24yVwgL9OV1KTwX"
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
       },
       "artists": [
         {
-          "name": "BigGucciDame",
-          "url": "https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi"
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
         }
       ],
-      "duration_ms": 138139,
-      "name": "you are worth it",
-      "url": "https://open.spotify.com/track/5dpbAmZqwlXwsxL0cKNrHA"
+      "duration_ms": 188133,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
     }
   ],
   "unique_name": "Rhythm & Praise",

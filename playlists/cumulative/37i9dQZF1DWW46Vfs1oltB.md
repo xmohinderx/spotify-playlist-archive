@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> Check out a Jay Park's interview as Clips! Also, check out the top 10 Korean hip\-hop songs selected by The Quiett at the top of the playlist\. \(Cover: The Quiett\) \(더 콰이엇의 인터뷰를 Clips로 확인하세요! 그리고 더 콰이엇이 선정한 한국힙합 10곡을 플레이리스트 최상단에서 확인하세요.\)
+> Check out a Jay Park's interview as Clips! Also, check out the top 10 Korean hip\-hop songs selected by Jay Park at the top of the playlist\. \(Cover: Jay Park\) \(박재범의 인터뷰를 Clips로 확인하세요! 그리고 박재범이 선정한 한국힙합 10곡을 플레이리스트 최상단에서 확인하세요.\)
 
-738 songs - 1 day 16 hr 59 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+739 songs - 1 day 16 hr 59 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [KrOWN \_Paloalto](https://open.spotify.com/track/7hYGG19q8AOJ0w20tPqEgn) | [Paloalto](https://open.spotify.com/artist/5pvgbizg8R3nhrmefYQu2A) | [KrOWN audio liner](https://open.spotify.com/album/1iI4DAyjpQcdsZRdEe0dQp) | 0:02 | 2022-11-07 |  |
 | [KrOWN\_BE'O](https://open.spotify.com/track/3ccEAKaU595SqcS1FQVtqS) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [KrOWN audio liner](https://open.spotify.com/album/4vi9KFaDZgtuUDwvfDMoXq) | 0:01 | 2022-10-04 |  |
 | [KrOWN\_Coogie](https://open.spotify.com/track/49q1mh2OLnGL9mXpzxq41X) | [AOMG](https://open.spotify.com/artist/2bWTeElstVp9PUGLyIU8Uk) | [KrOWN audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 | 2022-09-21 |  |
+| [KrOWN\_Jay Park](https://open.spotify.com/track/4eag7riq6HCiMUNX3B8jL4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [KrOWN Audio liner](https://open.spotify.com/album/54srm6JygaJuyQDCfiYFbm) | 0:01 | 2022-12-28 |  |
 | [KrOWN\_lIlBOI](https://open.spotify.com/track/3Qdm41qaQkvYqL4SBP41fj) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [KrOWN audio liner](https://open.spotify.com/album/7C0wLTmWoth1H3ZCTAVxDf) | 0:04 | 2022-10-19 |  |
 | [KrOWN\_Loco](https://open.spotify.com/track/1o73PCNhaz5VhjNxnrBzef) | [AOMG](https://open.spotify.com/artist/2bWTeElstVp9PUGLyIU8Uk) | [KrOWN audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 | 2022-09-21 |  |
 | [KrOWN\_pH\-1](https://open.spotify.com/track/2bBzD97St8k4eZnyqc3lrT) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [KrOWN Audio liner](https://open.spotify.com/album/6u7MpErvD0bXspFMTI1hMz) | 0:02 | 2022-09-16 |  |

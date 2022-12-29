@@ -1,12 +1,12 @@
 {
   "description": "despacito que no llevamos prisa",
-  "num_followers": 42872,
+  "num_followers": 42913,
   "original_name": "tranquilito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU2MzcyMSwwMDAwMDAwMDQ4MzUxYjJjMDNmY2IyOGM4NmU0M2MwMmRiNDI2MGRi",
+  "snapshot_id": "MTY1OTU2MzcyMSwwMDAwMDAwMDc0NmI1ZTMxM2Y4YzVjNzVlYWM1ZWY4NDA5MDYyYjcy",
   "tracks": [
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/7IN8NKG7hHt2n8qdMbkm22"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 227800,
-      "name": "Sin Esencia - Balada",
-      "url": "https://open.spotify.com/track/17FJkZ5UCQjbEArUZvwd3I"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Ida y Vuelta (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 247786,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/2qOpRaCIXWMr36X9NNrCER"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/7IN8NKG7hHt2n8qdMbkm22"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "Sin Esencia - Balada",
+      "url": "https://open.spotify.com/track/17FJkZ5UCQjbEArUZvwd3I"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Ida y Vuelta (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 303173,
-      "name": "Un Hombre Normal",
-      "url": "https://open.spotify.com/track/2Tf6RcTHD2biAjefUbKrsS"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "No que no",
         "url": "https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 208902,
       "name": "Triste Recuerdo",
       "url": "https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Ida y Vuelta (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 303173,
+      "name": "Un Hombre Normal",
+      "url": "https://open.spotify.com/track/2Tf6RcTHD2biAjefUbKrsS"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X"
-      },
-      "artists": [
-        {
-          "name": "Mau Soles",
-          "url": "https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77"
-        }
-      ],
-      "duration_ms": 216064,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Mis Canciones... Ustedes Y Yo",
         "url": "https://open.spotify.com/album/1IyqrlZOjdiOqFw7732Dfr"
       },
@@ -1675,22 +1659,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Ayer Ped\u00ed",
-        "url": "https://open.spotify.com/album/5sjlh9Z1mXCQLek5NsVc7X"
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X"
       },
       "artists": [
         {
-          "name": "Luis Carlos Monroy",
-          "url": "https://open.spotify.com/artist/5d4WMfgfWrcufKRJLhDIaZ"
-        },
-        {
-          "name": "Victor Garcia",
-          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+          "name": "Mau Soles",
+          "url": "https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77"
         }
       ],
-      "duration_ms": 265913,
-      "name": "Ayer Ped\u00ed",
-      "url": "https://open.spotify.com/track/3E665uWyS30wGSFfqNxNFH"
+      "duration_ms": 216064,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1723,6 +1703,26 @@
       "duration_ms": 238973,
       "name": "Usted",
       "url": "https://open.spotify.com/track/0dLmUxDPXQOJpf89eS6iIb"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Ayer Ped\u00ed",
+        "url": "https://open.spotify.com/album/5sjlh9Z1mXCQLek5NsVc7X"
+      },
+      "artists": [
+        {
+          "name": "Luis Carlos Monroy",
+          "url": "https://open.spotify.com/artist/5d4WMfgfWrcufKRJLhDIaZ"
+        },
+        {
+          "name": "Victor Garcia",
+          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+        }
+      ],
+      "duration_ms": 265913,
+      "name": "Ayer Ped\u00ed",
+      "url": "https://open.spotify.com/track/3E665uWyS30wGSFfqNxNFH"
     },
     {
       "added_at": "2022-08-03 16:09:42",

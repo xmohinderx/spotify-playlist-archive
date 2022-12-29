@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Candy Dulfer",
-  "num_followers": 41459,
+  "num_followers": 41517,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDI3OGI2NDY0ODNiNWRmYWNiYTBmMmFmNzYyMjAzMWE5",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDFkMmI3NzRiZTNmMTQxZjM2MjVjODFmZDU2MDIzMDVh",
   "tracks": [
     {
       "added_at": "2022-05-13 04:02:00",
@@ -397,6 +397,22 @@
       "url": "https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Step to This",
+        "url": "https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Step to This",
+      "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
+    },
+    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "III",
@@ -429,20 +445,20 @@
       "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Step to This",
-        "url": "https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM"
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/1k6SB7PIB74LEoAyeV7uf4"
       },
       "artists": [
         {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+          "name": "David P Stevens",
+          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
         }
       ],
-      "duration_ms": 232146,
-      "name": "Step to This",
-      "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
+      "duration_ms": 230187,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -459,22 +475,6 @@
       "duration_ms": 224237,
       "name": "Change the World",
       "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/1k6SB7PIB74LEoAyeV7uf4"
-      },
-      "artists": [
-        {
-          "name": "David P Stevens",
-          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
-        }
-      ],
-      "duration_ms": 230187,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -513,20 +513,20 @@
       "url": "https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-02-14 15:14:54",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD"
+        "name": "A Midnight Rendezvous",
+        "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
       },
       "artists": [
         {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+          "name": "David Benoit",
+          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
         }
       ],
-      "duration_ms": 261562,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
+      "duration_ms": 237586,
+      "name": "Pioneer Town",
+      "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -545,6 +545,22 @@
       "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
     },
     {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 261562,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
+    },
+    {
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "Crush",
@@ -559,38 +575,6 @@
       "duration_ms": 256708,
       "name": "Crush",
       "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
-    },
-    {
-      "added_at": "2022-02-14 15:14:54",
-      "album": {
-        "name": "A Midnight Rendezvous",
-        "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
-      },
-      "artists": [
-        {
-          "name": "David Benoit",
-          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "Pioneer Town",
-      "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 227369,
-      "name": "One More Night - Single Edit",
-      "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -629,26 +613,6 @@
       "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1JsNa5M9CjJcK56SbXlcsU"
-      },
-      "artists": [
-        {
-          "name": "J. White",
-          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
-        },
-        {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
-        }
-      ],
-      "duration_ms": 264573,
-      "name": "Motor City Moves (feat. Lin Rountree)",
-      "url": "https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Ticket to Pittsburgh",
@@ -673,6 +637,26 @@
       "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
     },
     {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1JsNa5M9CjJcK56SbXlcsU"
+      },
+      "artists": [
+        {
+          "name": "J. White",
+          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
+        },
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        }
+      ],
+      "duration_ms": 264573,
+      "name": "Motor City Moves (feat. Lin Rountree)",
+      "url": "https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Honest",
@@ -687,6 +671,22 @@
       "duration_ms": 374536,
       "name": "Honest",
       "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 227369,
+      "name": "One More Night - Single Edit",
+      "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Hello Beautiful",
-        "url": "https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM"
-      },
-      "artists": [
-        {
-          "name": "Blair Bryant",
-          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
-        }
-      ],
-      "duration_ms": 268538,
-      "name": "Hello Beautiful - radio single",
-      "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "SOLO",
@@ -815,6 +799,22 @@
       "duration_ms": 274096,
       "name": "Busta Move",
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Hello Beautiful",
+        "url": "https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM"
+      },
+      "artists": [
+        {
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
+        }
+      ],
+      "duration_ms": 268538,
+      "name": "Hello Beautiful - radio single",
+      "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
     },
     {
       "added_at": "2022-05-06 04:02:00",

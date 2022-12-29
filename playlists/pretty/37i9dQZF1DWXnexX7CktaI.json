@@ -1,12 +1,12 @@
 {
   "description": "All the jams. Cover: Miguel",
-  "num_followers": 1907609,
+  "num_followers": 1908378,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQzODIyMywwMDAwMDAwMGM2ZDZjMWVhM2U3ZjAwMGU0OTFkMDM3NWYwZTMwNTQ3",
+  "snapshot_id": "MTY3MDQzODIyMywwMDAwMDAwMGE3MzRiZjY3ZDE1NWZkYmZkN2E3M2NjNzU0ZTk4Yjgy",
   "tracks": [
     {
       "added_at": "2022-08-03 15:25:39",
@@ -241,22 +241,6 @@
       "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
     },
     {
-      "added_at": "2022-07-30 03:46:43",
-      "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 102813,
-      "name": "Girl With The Tattoo Enter.lewd",
-      "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
-    },
-    {
       "added_at": "2022-12-07 18:37:03",
       "album": {
         "name": "Collide (feat. Tyga)",
@@ -275,6 +259,22 @@
       "duration_ms": 260169,
       "name": "Collide (feat. Tyga)",
       "url": "https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR"
+    },
+    {
+      "added_at": "2022-07-30 03:46:43",
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 102813,
+      "name": "Girl With The Tattoo Enter.lewd",
+      "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
     },
     {
       "added_at": "2022-07-30 03:34:52",

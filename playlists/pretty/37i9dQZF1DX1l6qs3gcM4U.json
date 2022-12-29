@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Soraia Ramos x Nenny.  ",
-  "num_followers": 150454,
+  "num_followers": 150625,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE0ODgwMCwwMDAwMDAwMGIzODhiYWZlZTY3MDM5M2ExODcyNGQxNDk3ZGU2YWEz",
+  "snapshot_id": "MTY3MTE0ODgwMCwwMDAwMDAwMDE1NjVjMjg1MWU3MjFiOGE0ZTRjMTM4ZTc4MDk2OTc4",
   "tracks": [
     {
       "added_at": "2022-12-09 00:00:00",
@@ -427,26 +427,18 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff"
+        "name": "Dem\u00f3nio da Tarraxinha",
+        "url": "https://open.spotify.com/album/7BGYpyDY0a1pzAW6bqlTTh"
       },
       "artists": [
         {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
         }
       ],
-      "duration_ms": 200598,
-      "name": "Suleban",
-      "url": "https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG"
+      "duration_ms": 217276,
+      "name": "Dem\u00f3nio da Tarraxinha",
+      "url": "https://open.spotify.com/track/2qNtAzgJYODcFPDskUAzE0"
     },
     {
       "added_at": "2022-12-16 00:00:00",
@@ -503,18 +495,26 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Dem\u00f3nio da Tarraxinha",
-        "url": "https://open.spotify.com/album/7BGYpyDY0a1pzAW6bqlTTh"
+        "name": "RED",
+        "url": "https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff"
       },
       "artists": [
         {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 217276,
-      "name": "Dem\u00f3nio da Tarraxinha",
-      "url": "https://open.spotify.com/track/2qNtAzgJYODcFPDskUAzE0"
+      "duration_ms": 200598,
+      "name": "Suleban",
+      "url": "https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Chouchou",
-        "url": "https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2"
-      },
-      "artists": [
-        {
-          "name": "Atim",
-          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
-        },
-        {
-          "name": "Jennifer Dias",
-          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "Chouchou",
-      "url": "https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
         "name": "Tudo de Novo",
         "url": "https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 259333,
       "name": "Tudo de Novo",
       "url": "https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Chouchou",
+        "url": "https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2"
+      },
+      "artists": [
+        {
+          "name": "Atim",
+          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
+        },
+        {
+          "name": "Jennifer Dias",
+          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+        }
+      ],
+      "duration_ms": 183092,
+      "name": "Chouchou",
+      "url": "https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Fala so",
-        "url": "https://open.spotify.com/album/59O63s5iVmOQH7AWS67tqA"
-      },
-      "artists": [
-        {
-          "name": "Atim",
-          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
-        }
-      ],
-      "duration_ms": 206086,
-      "name": "Fala so",
-      "url": "https://open.spotify.com/track/5dCIpLHT7gTABbt7DoWEEk"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
         "name": "Tellin Me Something",
         "url": "https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 167875,
       "name": "Tellin Me Something",
       "url": "https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Fala so",
+        "url": "https://open.spotify.com/album/59O63s5iVmOQH7AWS67tqA"
+      },
+      "artists": [
+        {
+          "name": "Atim",
+          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
+        }
+      ],
+      "duration_ms": 206086,
+      "name": "Fala so",
+      "url": "https://open.spotify.com/track/5dCIpLHT7gTABbt7DoWEEk"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -995,22 +995,18 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Novinha",
-        "url": "https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs"
+        "name": "Desculpa",
+        "url": "https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H"
       },
       "artists": [
         {
-          "name": "Tamyris Moiane",
-          "url": "https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g"
-        },
-        {
-          "name": "Nice Life",
-          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
         }
       ],
-      "duration_ms": 210379,
-      "name": "Novinha",
-      "url": "https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd"
+      "duration_ms": 212504,
+      "name": "Desculpa",
+      "url": "https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -1031,22 +1027,6 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Desculpa",
-        "url": "https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 212504,
-      "name": "Desculpa",
-      "url": "https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
         "name": "Segredo",
         "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 207640,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Novinha",
+        "url": "https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs"
+      },
+      "artists": [
+        {
+          "name": "Tamyris Moiane",
+          "url": "https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g"
+        },
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        }
+      ],
+      "duration_ms": 210379,
+      "name": "Novinha",
+      "url": "https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
+        "name": "Don't Judge Me (Saxo-Kizomba)",
+        "url": "https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C"
+      },
+      "artists": [
+        {
+          "name": "P. Lowe",
+          "url": "https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa"
+        },
+        {
+          "name": "M&n Pro",
+          "url": "https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Don't Judge Me (Saxo-Kizomba)",
+      "url": "https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
         "name": "Africana",
         "url": "https://open.spotify.com/album/17vDciwK52wtjT5rFjmlXt"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 273937,
       "name": "Presa",
       "url": "https://open.spotify.com/track/2pSOoP6FLJWeRBxdvhyvkJ"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "Don't Judge Me (Saxo-Kizomba)",
-        "url": "https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C"
-      },
-      "artists": [
-        {
-          "name": "P. Lowe",
-          "url": "https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa"
-        },
-        {
-          "name": "M&n Pro",
-          "url": "https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Don't Judge Me (Saxo-Kizomba)",
-      "url": "https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Vibra",
-        "url": "https://open.spotify.com/album/3y3l6JbXvuBAKP5TGY7Fu2"
-      },
-      "artists": [
-        {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "SOS MUCCI",
-          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "Vibra",
-      "url": "https://open.spotify.com/track/4Puvx015SEBAgnvPFi3yGq"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
         "name": "Vis\u00e3o",
         "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 214353,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Vibra",
+        "url": "https://open.spotify.com/album/3y3l6JbXvuBAKP5TGY7Fu2"
+      },
+      "artists": [
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "SOS MUCCI",
+          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "Vibra",
+      "url": "https://open.spotify.com/track/4Puvx015SEBAgnvPFi3yGq"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -1279,42 +1279,6 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Jaj\u00e3o (feat. Eddy Flow)",
-        "url": "https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN"
-      },
-      "artists": [
-        {
-          "name": "Master Jake",
-          "url": "https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX"
-        },
-        {
-          "name": "Eddy Flow",
-          "url": "https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi"
-        }
-      ],
-      "duration_ms": 248913,
-      "name": "Jaj\u00e3o (feat. Eddy Flow)",
-      "url": "https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "Me Leva Contigo",
-        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 258324,
-      "name": "Me Leva Contigo",
-      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
         "name": "Mais de Mim",
         "url": "https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi"
       },
@@ -1335,22 +1299,54 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "PAPI",
-        "url": "https://open.spotify.com/album/1pN6zDDiw0bGLgm4xGkbnD"
+        "name": "Me Leva Contigo",
+        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
       },
       "artists": [
         {
-          "name": "Mr. Carly",
-          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
-        },
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 217301,
-      "name": "PAPI",
-      "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
+      "duration_ms": 258324,
+      "name": "Me Leva Contigo",
+      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Mika Mendes",
+        "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        }
+      ],
+      "duration_ms": 283973,
+      "name": "Criola",
+      "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Jaj\u00e3o (feat. Eddy Flow)",
+        "url": "https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN"
+      },
+      "artists": [
+        {
+          "name": "Master Jake",
+          "url": "https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX"
+        },
+        {
+          "name": "Eddy Flow",
+          "url": "https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi"
+        }
+      ],
+      "duration_ms": 248913,
+      "name": "Jaj\u00e3o (feat. Eddy Flow)",
+      "url": "https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -1367,6 +1363,26 @@
       "duration_ms": 166000,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/1pN6zDDiw0bGLgm4xGkbnD"
+      },
+      "artists": [
+        {
+          "name": "Mr. Carly",
+          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 217301,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Mika Mendes",
-        "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        }
-      ],
-      "duration_ms": 283973,
-      "name": "Criola",
-      "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
         "name": "J\u00e1 Deu",
         "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
       },
@@ -1459,18 +1459,22 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Arrepios",
-        "url": "https://open.spotify.com/album/430jQV4UrweqvoV5osODxI"
+        "name": "Sincera",
+        "url": "https://open.spotify.com/album/6azn6TqoR8Uin80ljkqddo"
       },
       "artists": [
         {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        },
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
         }
       ],
-      "duration_ms": 204149,
-      "name": "Arrepios",
-      "url": "https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb"
+      "duration_ms": 187109,
+      "name": "N\u00e3o vai l\u00e1",
+      "url": "https://open.spotify.com/track/1l52eiHWhwnSLfdyqBRAeY"
     }
   ],
   "unique_name": "Dancing Kizomba",

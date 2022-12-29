@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > A collection of the biggest Metal classics of the 90s\. Cover: Deftones
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,157 likes - 150 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,836 likes - 150 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 21 | [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 |
 | 22 | [Nookie](https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 4:49 |
 | 23 | [Blind](https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 4:18 |
-| 24 | [Holy Wars...The Punishment Due \- Remastered 2004](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 |
-| 25 | [No More Tears](https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 7:23 |
+| 24 | [No More Tears](https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 7:23 |
+| 25 | [Holy Wars...The Punishment Due \- Remastered 2004](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 |
 | 26 | [Sober](https://open.spotify.com/track/6DyywdbmTzlmXBzG9ym7Rt) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0) | 5:06 |
 | 27 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 |
 | 28 | [Cemetery Gates](https://open.spotify.com/track/4vJr55lngvhSM8WIh9CjQc) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 7:02 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 126 | [Powertrip](https://open.spotify.com/track/2855a8NCBwEAAdnJftGizK) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 3:31 |
 | 127 | [Good Day To Die](https://open.spotify.com/track/2rKz4ihTRHCD0RpNaO1ANJ) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Force Of Habit \(Reissue\)](https://open.spotify.com/album/4z1C1YmKvYoM7cJysMXo74) | 4:47 |
 | 128 | [Genius](https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51) | [Pitchshifter](https://open.spotify.com/artist/10aXVE8RSUCeMzaFvBnZ2i) | [www.pitchshifter.com](https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun) | 4:06 |
-| 129 | [Empower](https://open.spotify.com/track/6Qq5ajhyDxzrI1dOnfxqWl) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Do We Speak A Dead Language?](https://open.spotify.com/album/70cMua9g0bEyXIMz7yjwGt) | 2:24 |
-| 130 | [Closer](https://open.spotify.com/track/2Mv8In1IykWH5oLDc66PRC) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF) | 6:13 |
+| 129 | [Closer](https://open.spotify.com/track/2Mv8In1IykWH5oLDc66PRC) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF) | 6:13 |
+| 130 | [Empower](https://open.spotify.com/track/6Qq5ajhyDxzrI1dOnfxqWl) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Do We Speak A Dead Language?](https://open.spotify.com/album/70cMua9g0bEyXIMz7yjwGt) | 2:24 |
 | 131 | [Cockroaches](https://open.spotify.com/track/6jIVLU8ewF4pWLojWLUca1) | [Nailbomb](https://open.spotify.com/artist/4Q6EFOghPrRjdwsF4p7Nzm) | [Point Blank](https://open.spotify.com/album/0CcgwAkqiglrLu6lH5lrSU) | 5:10 |
 | 132 | [Disengage the Simulator](https://open.spotify.com/track/28QFCUPIySUkuGHE7C5rlw) | [CKY](https://open.spotify.com/artist/3ZQEU2arcWXSv3oz8hwWBK) | [Camp Kill Yourself, Vol.1](https://open.spotify.com/album/2FnppgYWQ1bzMfdNP8lvDw) | 3:03 |
 | 133 | [Chopped in Half](https://open.spotify.com/track/01cGujYWGF7JchJLSgf6Ta) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Cause of Death \(Reissue\)](https://open.spotify.com/album/79fVRZLnIqS3FytTLfTBT4) | 3:45 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 149 | [Dose \- 2009 Remastered Version](https://open.spotify.com/track/7hljGWJqrNkOMevUVfqRyG) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [The Very Best Things \[1995\-2008\]](https://open.spotify.com/album/1zZEG0uTQhysaaDo8CPzGw) | 3:53 |
 | 150 | [Old](https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:05 |
 
-Snapshot ID: `MTY3MTA1Mzc2MSwwMDAwMDAwMDUxZmZhNDE4ZmE2ZmEyZDk0YzkxN2YwYjg4MjE5Njg1`
+Snapshot ID: `MTY3MTA1Mzc2MSwwMDAwMDAwMGViOTQ4MWQwYzBmZjk0YTljODU5NDVkZGVjYzdlNGZm`

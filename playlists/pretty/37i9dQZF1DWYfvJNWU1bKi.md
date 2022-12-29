@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 
 > The best in romantic tunes from Tamil cinema.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,521 likes - 74 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,062 likes - 74 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

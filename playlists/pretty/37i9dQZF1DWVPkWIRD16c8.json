@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 30123,
+  "num_followers": 30142,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMGQzMjk3YzI2YWFmMWIwYzA5MGI1ZTFkN2E1YTgwZDA5",
+  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMGY4MzJmZDY0MTM1ZDZhNWVmNzBiM2FlNDllNmVjMWY5",
   "tracks": [
     {
       "added_at": "2019-11-20 07:28:20",
@@ -303,22 +303,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/1QcPl6AFNTiczxCuSpOoEM"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 230610,
-      "name": "Time - Edit",
-      "url": "https://open.spotify.com/track/68Vm2W4oURsPV3121vUZgB"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "Love Remains",
         "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 236200,
       "name": "Thy Will",
       "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/1QcPl6AFNTiczxCuSpOoEM"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 230610,
+      "name": "Time - Edit",
+      "url": "https://open.spotify.com/track/68Vm2W4oURsPV3121vUZgB"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -671,6 +671,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/53USszfd58oQk7O2aMa5AB"
+      },
+      "artists": [
+        {
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+        }
+      ],
+      "duration_ms": 244786,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "You Cannot Be Stopped",
         "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 261360,
       "name": "You Cannot Be Stopped",
       "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/53USszfd58oQk7O2aMa5AB"
-      },
-      "artists": [
-        {
-          "name": "Citizen Way",
-          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
-        }
-      ],
-      "duration_ms": 244786,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -927,22 +927,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Wildest Dreams",
-        "url": "https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "When We Fall Apart",
-      "url": "https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "You Got This",
         "url": "https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 194680,
       "name": "You Got This",
       "url": "https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Wildest Dreams",
+        "url": "https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "When We Fall Apart",
+      "url": "https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2"
     },
     {
       "added_at": "2019-11-20 07:28:20",

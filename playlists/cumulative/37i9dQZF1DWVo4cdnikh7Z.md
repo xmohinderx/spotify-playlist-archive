@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Thunivu
 
-416 songs - 1 day 1 hr 49 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
+417 songs - 1 day 1 hr 52 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Tharattu \(From "Kumari"\)](https://open.spotify.com/track/7k87s5AhF97wRn3PCbxOQ4) | [Manikandan Ayyappa](https://open.spotify.com/artist/0DBXdapluRDfEm5NP4USwN), [Jyothish Kassi](https://open.spotify.com/artist/2KympZXpUQGGKB9V0U5ZCg) | [Tharattu \(From "Kumari"\) \- Single](https://open.spotify.com/album/3TJkrT5NAFHCV0uCxLl30g) | 1:50 | 2022-12-13 |  |
 | [The Arabic Lullaby \(Theme Song\) \- From "Agent Kannayiram"](https://open.spotify.com/track/265KETeCFmNcZDuzXdzK3T) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [The Arabic Lullaby \(Theme Song\) \[From "Agent Kannayiram"\]](https://open.spotify.com/album/5f7JV4vYNvYutQGRGDu8uv) | 2:26 | 2022-11-23 |  |
 | [The Devil's Fury \- Gumma Banda Gumma \(From "Vikrant Rona"\) \[TAMIL\]](https://open.spotify.com/track/2NoLWbcEQ1viurcRPX5KZk) | [Anup Bhandari](https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Harshika Devanath](https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [The Devil's Fury \- Gumma Banda Gumma \(From "Vikrant Rona"\) \[TAMIL\]](https://open.spotify.com/album/68x7p0BGFKXNrGSNGMUHBy) | 2:13 | 2022-07-21 | 2022-07-27 |
+| [The Gang Song \(From "Shot Boot 3"\)](https://open.spotify.com/track/0WN6dGR9tvI9cPW0O9G1dR) | [Praniti](https://open.spotify.com/artist/2SrfI49UJd2PEkseov5GSF), [Poovaiyar](https://open.spotify.com/artist/1BEHgakWUnaE0HJCe3qzM6), [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL), [GKB](https://open.spotify.com/artist/748c7ljswxC7ExDdBsGsAj) | [The Gang Song \(From "Shot Boot 3"\) \- Single](https://open.spotify.com/album/22bndq1jeJQDE7SFR0As6n) | 3:08 | 2022-12-28 |  |
 | [The Monster Song \(From "KGF Chapter 2 \- Tamil"\)](https://open.spotify.com/track/5AicrDW9QWF33pMW7NOOTL) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Adithi Sagar](https://open.spotify.com/artist/5PCdrbwPkpjmuZ8OFj2Oa0) | [The Monster Song \(From "KGF Chapter 2 \- Tamil"\)](https://open.spotify.com/album/63xAZTdMvFeuhTaC1DM5be) | 2:46 | 2022-04-26 | 2022-08-03 |
 | [The Suzhal Roar](https://open.spotify.com/track/437vCqn09LFz86Pa0FxCXL) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [The Suzhal Roar](https://open.spotify.com/album/6I1icjXeWonWfckCk6JzBw) | 0:51 | 2022-06-08 | 2022-06-17 |
 | [Thedi Thedi \(From "Maayon \(Tamil\)"\)](https://open.spotify.com/track/5I8YFroEs5JfYf5AsFaUKi) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Thedi Thedi \(From "Maayon \(Tamil\)"\)](https://open.spotify.com/album/2AaJcDwCxhxJC294UFvJB2) | 3:34 | 2022-06-20 | 2022-06-24 |

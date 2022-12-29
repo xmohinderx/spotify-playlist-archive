@@ -3159,6 +3159,24 @@
     {
       "album": {
         "name": "Pavement (Acoustic)",
+        "url": "https://open.spotify.com/album/6EjQOwjTQoiM9X8MW8azuP"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240428,
+      "name": "Pavement (Acoustic)",
+      "url": "https://open.spotify.com/track/6x6aHBeRb6Yy7gU29ctYMy"
+    },
+    {
+      "album": {
+        "name": "Pavement (Acoustic)",
         "url": "https://open.spotify.com/album/7c84hLBvFMTGpCXL0drPB9"
       },
       "artists": [
@@ -4363,7 +4381,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 234000,
       "name": "Violets",
       "url": "https://open.spotify.com/track/6veNr8pvwqdErGuk5xp2Im"

@@ -2,7 +2,7 @@
 
 ### [Open Air](https://open.spotify.com/playlist/37i9dQZF1DWSYVW0BVc4a3)
 
-> Rave worthy melodic techno and house, hand\-curated from Yotto for New Year's Eve
+> Rave worthy melodic techno and house, hand\-curated by Yotto for New Year's Eve
 
 313 songs - 1 day 0 hr 18 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 

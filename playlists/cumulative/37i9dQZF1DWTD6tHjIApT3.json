@@ -6621,10 +6621,32 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 213853,
       "name": "Over",
       "url": "https://open.spotify.com/track/1SlL9k10O46PgTQUga0Tu5"
+    },
+    {
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/17gi4FRPtegnxGxs95C1dR"
+      },
+      "artists": [
+        {
+          "name": "U-Key zone",
+          "url": "https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj"
+        },
+        {
+          "name": "Fumika Sato",
+          "url": "https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213853,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/2ReQ5u1eJ9PtBhy2euQCpr"
     },
     {
       "album": {
@@ -7055,6 +7077,24 @@
       "duration_ms": 283933,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe"
+    },
+    {
+      "album": {
+        "name": "resist",
+        "url": "https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206017,
+      "name": "resist",
+      "url": "https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK"
     },
     {
       "album": {
@@ -9297,7 +9337,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 235773,
       "name": "Victim of Love - feat. Taka",
       "url": "https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED"
@@ -9565,7 +9605,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 205451,
       "name": "wavy flow",
       "url": "https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of"
@@ -16225,7 +16265,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 206017,
       "name": "\u66b4\u304f\u6625",
       "url": "https://open.spotify.com/track/4CnQzzLlHEezMLqflJpWmS"

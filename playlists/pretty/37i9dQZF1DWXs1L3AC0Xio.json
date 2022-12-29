@@ -1,12 +1,12 @@
 {
   "description": "lighters up for these awesome rock ballads.",
-  "num_followers": 637077,
+  "num_followers": 637280,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYxMTYxMiwwMDAwMDAwMDIxYzQ1YjMwNGU3NWExMGVjYjVjNzMwYzA0MmQ5Y2Ez",
+  "snapshot_id": "MTY3MDYxMTYxMiwwMDAwMDAwMDE4NTMzZWU5ZWY0Y2EzNDlhYjdiZGQ2NWJmYmJiNTVj",
   "tracks": [
     {
       "added_at": "2022-10-07 05:00:00",
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY"
     },
     {
-      "added_at": "2022-12-28 01:04:11",
+      "added_at": "2022-12-29 00:15:14",
       "album": {
         "name": "AfterLife",
         "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 260560,
-      "name": "My December",
-      "url": "https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "The Sound of Madness",
         "url": "https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 222200,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/2nBWxgSZ79w9l6t2rUg6pl"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 260560,
+      "name": "My December",
+      "url": "https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/27TPpj59ml6N7las1h696d"
     },
     {
-      "added_at": "2022-12-28 01:04:11",
+      "added_at": "2022-12-29 00:15:14",
       "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D"

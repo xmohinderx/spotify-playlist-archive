@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,886 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,915 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 30 | [Solid Gold Cadillac](https://open.spotify.com/track/1oztW0EFjpj4WSHEf6Jt0b) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Solid Gold Cadillac](https://open.spotify.com/album/6JfB7Xb4Qk8D2Ioas6TYNO) | 3:02 |
 | 31 | [Go Daddy O](https://open.spotify.com/track/2q0gGzRNpYMYjXmMFidK0H) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 3:12 |
 | 32 | [Planet Jive](https://open.spotify.com/track/0P5aqi6J8btRUjZQKnVOst) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Planet Jive](https://open.spotify.com/album/500HHXaBRyYMmNjRJwvZW7) | 3:52 |
-| 33 | [Oo Poppa Do](https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX) | [Lavay Smith & Her Red Hot Skillet Lickers](https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2) | [One Hour Mama](https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk) | 3:13 |
-| 34 | [Mildred, Won't You Behave?](https://open.spotify.com/track/50QVCLA4Qcw04DMKiJtc5M) | [Bill Elliott Swing Orchestra](https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn) | [Calling All Jitterbugs!](https://open.spotify.com/album/0kfpd3xBZlh9hKGuUvDEbI) | 3:43 |
+| 33 | [Mildred, Won't You Behave?](https://open.spotify.com/track/50QVCLA4Qcw04DMKiJtc5M) | [Bill Elliott Swing Orchestra](https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn) | [Calling All Jitterbugs!](https://open.spotify.com/album/0kfpd3xBZlh9hKGuUvDEbI) | 3:43 |
+| 34 | [Oo Poppa Do](https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX) | [Lavay Smith & Her Red Hot Skillet Lickers](https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2) | [One Hour Mama](https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk) | 3:13 |
 | 35 | [Swing Sweet Pussycat](https://open.spotify.com/track/5EK0gbkVLrLtOvwXy7PWEW) | [The Atomic Fireballs](https://open.spotify.com/artist/3gv1hh37jyGKfyAjFvv7No) | [Torch This Place](https://open.spotify.com/album/6oGSFYCtrg0UYAPx7j5x1L) | 3:09 |
 | 36 | [Oak Tree](https://open.spotify.com/track/6vpZcGzUsskAQg6ZerKDu9) | [Alien Fashion Show](https://open.spotify.com/artist/7ib7KxeL61amtEbPFGPk5P) | [Cool Thing](https://open.spotify.com/album/15CTW9TXXjTAKHutxmWXJg) | 4:28 |
 | 37 | [Hey Señorita](https://open.spotify.com/track/6CMDUEtmE7oMea4hBkk57l) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 49 | [Sausage Rock](https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I) | [Four Charms](https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs) | [Flatland Boogie](https://open.spotify.com/album/2PzxIMY0LNu6BLbInjjwhV) | 2:28 |
 | 50 | [Jumptown](https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:40 |
 
-Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMGJkOGQxMmExYzYzODY5NjZjNmIyZWFmZTJhZmRhMjY2`
+Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMGIwMGNlNTAyMzVkZGI3OTQ2YWZiMGYwYTc2NTc2YWEz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 
 > El aderezo que te falta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,701 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,711 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 | 68 | [A Mi Manera](https://open.spotify.com/track/1R0GOPjljIJ997WnDXWW88) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS) | 3:51 |
 | 69 | [Bang! Bang!](https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Wanted Dead Or Alive \(Bang Bang Push Push Push\)](https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H) | 4:06 |
 | 70 | [Toda una vida](https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Las 30 grandes de Chavela Vargas](https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2) | 2:35 |
-| 71 | [Piensa en Mi](https://open.spotify.com/track/4XpEUhAR4n6F85VRx2AoTq) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:27 |
-| 72 | [Elsa](https://open.spotify.com/track/5NKsz3ZklHNHbCVxMHiFU7) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf), [Enrique Delgado](https://open.spotify.com/artist/0FY3Ky0gOI9CatbVuQ5Anx) | [Para Todo el Mundo, Vol\. 2](https://open.spotify.com/album/3SQO9WCqdtEMUclk7oMIT2) | 3:40 |
+| 71 | [Elsa](https://open.spotify.com/track/5NKsz3ZklHNHbCVxMHiFU7) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf), [Enrique Delgado](https://open.spotify.com/artist/0FY3Ky0gOI9CatbVuQ5Anx) | [Para Todo el Mundo, Vol\. 2](https://open.spotify.com/album/3SQO9WCqdtEMUclk7oMIT2) | 3:40 |
+| 72 | [Piensa en Mi](https://open.spotify.com/track/4XpEUhAR4n6F85VRx2AoTq) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:27 |
 | 73 | [Silencio](https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU) | 4:38 |
 | 74 | [\(Poor Mi\) Israelites](https://open.spotify.com/track/53aXCpKRUASUQ8cIDsJ7VN) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Intensified](https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy) | 2:34 |
 | 75 | [Quando você chegar](https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Dois Momentos](https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I) | 3:18 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 | 90 | [Beach Samba](https://open.spotify.com/track/2jCjSJuWQ4GSj9vhrFywDj) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Beach Samba](https://open.spotify.com/album/1nd8Xz8Zh7tZv5EdLbg5nF) | 2:48 |
 | 91 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [S'Imbora \- A História De Wilson Simonal](https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4) | 2:32 |
 | 92 | [Soy Loco Por Ti America \- Remastered 2006](https://open.spotify.com/track/5zitPHwFth0QZji0s7Q9uP) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetano Veloso](https://open.spotify.com/album/3idXLXoZDLQyxAHF97yguf) | 3:43 |
-| 93 | [Hei! Man](https://open.spotify.com/track/1dUK0GBjMRmEdi1NKMr3WE) | [Ave Sangria](https://open.spotify.com/artist/1q3J12DzCpwW0EwLrKlXvC) | [Ave Sangria](https://open.spotify.com/album/2Kds5PBWka7pcAIay7qp6w) | 2:54 |
-| 94 | [Lobo Bobo \(Foolish Wolf\)](https://open.spotify.com/track/5wjEUKBi5gkrrZ6lZxzC5Y) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS) | [Bossa Nova Carlos Lyra](https://open.spotify.com/album/6SkCc0AyioogFxwJwYZUZl) | 1:20 |
-| 95 | [La negra Tomasa](https://open.spotify.com/track/4ruIPaoUI5m32txdjLkpzG) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 3:58 |
-| 96 | [Around the World \(Intro\)](https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c) | [Atom TM](https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL) | [Señor Coconut / Around the World](https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF) | 2:47 |
+| 93 | [Lobo Bobo \(Foolish Wolf\)](https://open.spotify.com/track/5wjEUKBi5gkrrZ6lZxzC5Y) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS) | [Bossa Nova Carlos Lyra](https://open.spotify.com/album/6SkCc0AyioogFxwJwYZUZl) | 1:20 |
+| 94 | [Hei! Man](https://open.spotify.com/track/1dUK0GBjMRmEdi1NKMr3WE) | [Ave Sangria](https://open.spotify.com/artist/1q3J12DzCpwW0EwLrKlXvC) | [Ave Sangria](https://open.spotify.com/album/2Kds5PBWka7pcAIay7qp6w) | 2:54 |
+| 95 | [Around the World \(Intro\)](https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c) | [Atom TM](https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL) | [Señor Coconut / Around the World](https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF) | 2:47 |
+| 96 | [La negra Tomasa](https://open.spotify.com/track/4ruIPaoUI5m32txdjLkpzG) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 3:58 |
 | 97 | [Sweet and Dandy](https://open.spotify.com/track/0vYfDfb2G23BsMfRUybVsD) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:08 |
 | 98 | [Um Abraco No Getz](https://open.spotify.com/track/29v0gMFSZ7VmKXWOdywJck) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 4:23 |
 | 99 | [Tempo de Amor \(Samba do Veloso\)](https://open.spotify.com/track/2mbYdO4VRxK7AKQ2NtxOo1) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr), [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Os Afro\-Sambas](https://open.spotify.com/album/4zyGU4SFL8DEE9Ee9yAjnk) | 4:42 |
 | 100 | [Com qualquer dois mil réis](https://open.spotify.com/track/7x4RlD4cgBUUnxh6k35kaE) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Enciclopédia Musical Brasileira](https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz) | 3:38 |
 
-Snapshot ID: `MTYxNTgyNDI5MywwMDAwMDAwMDVkOWM0YmFlMGI4NWI3NDEwMGFkYTA2OWM2YTg4NTY5`
+Snapshot ID: `MTYxNTgyNDI5MywwMDAwMDAwMDQwYzk0MjhkNTBhY2VlYzlhYTQ4YWY5NDc2OTk1NGQx`

@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-300 songs - 19 hr 31 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
+301 songs - 19 hr 35 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [The Hope for All](https://open.spotify.com/track/6xRhLODIOh065PTQTj9008) | [Soul City Worship](https://open.spotify.com/artist/5LtsEFW2aTWHrlwv5R49pP) | [The Hope for All](https://open.spotify.com/album/6G1ViS0M7AxZ7a3AnICM03) | 4:57 | 2021-12-24 | 2022-07-29 |
 | [The Hope of Christmas](https://open.spotify.com/track/7yZLr0h3ZeFGBnGHLQs4tR) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [The Hope of Christmas](https://open.spotify.com/album/1n9GXp1zRui77yPbTmw9kw) | 3:50 | 2021-12-11 | 2022-12-13 |
 | [The Manger \(with Josh Turner\)](https://open.spotify.com/track/7aKm5vWuizayEDJJSp0OiW) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [The Manger](https://open.spotify.com/album/07eR5Q7zlJXjotNfqekAjH) | 3:49 | 2022-11-26 |  |
-| [The Night Before Christmas](https://open.spotify.com/track/5cHDEz4PT3UtZtWAqKd4JS) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [The Night Before Christmas](https://open.spotify.com/album/7Bav4cBa9NbIYLT3t7cKT8) | 3:40 | 2021-12-11 |  |
+| [The Night Before Christmas](https://open.spotify.com/track/5cHDEz4PT3UtZtWAqKd4JS) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [The Night Before Christmas](https://open.spotify.com/album/7Bav4cBa9NbIYLT3t7cKT8) | 3:40 | 2021-12-11 | 2022-12-29 |
 | [The Prayer](https://open.spotify.com/track/4UcdqtJDDSYToxtsBZzkFX) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 4:21 | 2021-12-11 |  |
 | [The Space Between](https://open.spotify.com/track/6yO3BG2NbFqYkBQRxL506o) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Christmas](https://open.spotify.com/album/1fvAAs4qTKHY1sAq1PvVYy) | 3:51 | 2021-12-11 | 2022-07-27 |
 | [The Wait is Over](https://open.spotify.com/track/45clpYzIdS7Ju6yOSCxkaL) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [The Wait is Over](https://open.spotify.com/album/2Uviy1FsGVVctRmFDH3MbE) | 4:18 | 2022-11-26 |  |
@@ -282,6 +282,7 @@
 | [This Is Christmas](https://open.spotify.com/track/5ZydBDUkvBKXwUmvV3v4mi) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [This Is Christmas](https://open.spotify.com/album/5OhpJQEOrb8Wl0hkv2Wrs7) | 3:30 | 2022-12-11 |  |
 | [This is Christmas](https://open.spotify.com/track/0aolzp37lPqFhB1LBjRmwF) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:20 | 2021-12-24 | 2022-12-22 |
 | [This Is My Son](https://open.spotify.com/track/6SJfeaZlFuWGbpQXCHBJMQ) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [This Is My Son](https://open.spotify.com/album/4BPYMu3NFi2Fh9M1Kw1czK) | 3:52 | 2021-12-24 | 2022-12-09 |
+| [UNEXPECTED KING](https://open.spotify.com/track/10j0mfFINV55qklpdPkuNx) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [UNEXPECTED KING](https://open.spotify.com/album/7JiiLLPbmDA6fAyfmz3uME) | 3:41 | 2022-12-11 |  |
 | [Unto Us](https://open.spotify.com/track/74s6HoDu3xKX8zzk56DYBK) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Unto Us](https://open.spotify.com/album/663RXaFX5ngMLhSFDsjFaR) | 4:03 | 2022-11-26 |  |
 | [Virgin Mary Had One Son](https://open.spotify.com/track/718r6aSGVq5NXy2lP7JS6l) | [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Virgin Mary Had One Son](https://open.spotify.com/album/3dt28d9gqa65F8letCwdBF) | 2:44 | 2021-12-24 | 2022-06-21 |
 | [We Bow](https://open.spotify.com/track/49pJVkJhuISvkHBY65K6RG) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif), [Isa Ma](https://open.spotify.com/artist/0pWvGTyszb31m9wq2cLlJ0), [Astyn Turr](https://open.spotify.com/artist/2By37PSkMs1WNuiTY0CbQl) | [We Bow / Christmas Is Here](https://open.spotify.com/album/5XDAp6GrTOpatrrFuz30HB) | 3:48 | 2022-12-11 |  |

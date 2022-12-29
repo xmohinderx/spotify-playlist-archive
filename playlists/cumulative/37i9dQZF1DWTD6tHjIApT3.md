@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: iri
 
-981 songs - 2 day 16 hr 26 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+983 songs - 2 day 16 hr 33 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,8 @@
 | [Orange soda](https://open.spotify.com/track/5d9feSzjZKMNIHvYVw8jCA) | [RAKURA](https://open.spotify.com/artist/3voKaAQ6dZPw9gMA7KOTcP) | [Orange soda](https://open.spotify.com/album/0KGf5TaOkvc9o2Uu0XUgBa) | 3:41 | 2022-06-14 | 2022-07-07 |
 | [Orgel and Cardboard](https://open.spotify.com/track/3ZDXFkEVwON13qRGxvV02c) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [BURNABLE TRASH](https://open.spotify.com/album/0RAnF4iRwKf6ZZ8PGBxyg3) | 3:48 | 2022-06-28 | 2022-07-27 |
 | [Othello](https://open.spotify.com/track/4TAnJMwy3dFjRMyYsvQ9Fh) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Othello](https://open.spotify.com/album/3i2MhTc7yo7UNtpSSP3Lzp) | 4:29 | 2022-08-02 | 2022-08-24 |
-| [Over](https://open.spotify.com/track/1SlL9k10O46PgTQUga0Tu5) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [Over](https://open.spotify.com/album/6ru0CYtnxi3m0qlWlWMEWn) | 3:33 | 2022-12-27 |  |
+| [Over](https://open.spotify.com/track/1SlL9k10O46PgTQUga0Tu5) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [Over](https://open.spotify.com/album/6ru0CYtnxi3m0qlWlWMEWn) | 3:33 | 2022-12-27 | 2022-12-29 |
+| [Over](https://open.spotify.com/track/2ReQ5u1eJ9PtBhy2euQCpr) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [Over](https://open.spotify.com/album/17gi4FRPtegnxGxs95C1dR) | 3:33 | 2022-12-27 |  |
 | [Overeffective](https://open.spotify.com/track/0sGMXpI3SqATkRTgVd0Ahg) | [yuka\_miii](https://open.spotify.com/artist/2YFLt7kDjLAZ271BrVoOUP) | [Overeffective](https://open.spotify.com/album/7LvPVH9tA4wWjNjycsfHn8) | 4:55 | 2022-07-12 | 2022-07-27 |
 | [Pain](https://open.spotify.com/track/5ut0TnRu9yc6BqZIl6DTvD) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Pain](https://open.spotify.com/album/4eZvJCg17A85m1guu6YCki) | 3:52 | 2022-09-27 | 2022-09-29 |
 | [Pain](https://open.spotify.com/track/63mpq0qgX2kJKKZemv1tVt) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Pain](https://open.spotify.com/album/2rAXWKVVeDpKypdooj43k3) | 3:52 | 2022-09-27 | 2022-10-26 |
@@ -377,6 +378,7 @@
 | [Reality](https://open.spotify.com/track/6NmXOBqYN96jb8qGubot2Z) | [Living Rita](https://open.spotify.com/artist/0ekt0GY3EGCsVugNHfBkHJ) | [Reality](https://open.spotify.com/album/4eEfNctnzXQ0lqKNgjnrw0) | 3:45 | 2022-07-14 | 2022-07-20 |
 | [REFLECTION \(feat\. 中村佳穂\)](https://open.spotify.com/track/0WDhwnZ325K5LUvx1FywgW) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [REFLECTION \(feat\. 中村佳穂\)](https://open.spotify.com/album/13jQMgxK2VECQAxVSz89Ja) | 4:57 | 2022-05-31 | 2022-06-27 |
 | [Rendezvous](https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Rendezvous](https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ) | 4:43 | 2022-11-22 |  |
+| [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 | 2022-12-27 |  |
 | [ride on](https://open.spotify.com/track/7AawKQ42s5gjNXTjFYkXYL) | [Miyuu](https://open.spotify.com/artist/6r5DBRzP1cJGTHrnptDrSR) | [ride on](https://open.spotify.com/album/05IL3ynMadtHGQ46kHonfZ) | 3:40 | 2022-06-16 | 2022-06-18 |
 | [RIDE ON TIME](https://open.spotify.com/track/7maVDaBJBOofiWVjfeJtsD) | [May J.](https://open.spotify.com/artist/7sJzR6n8Buyv45FKrLvZIS) | [May J\. W BEST 2 \-Original & Covers\-](https://open.spotify.com/album/7y8gRNSZB7CrwzTw2deROL) | 5:18 | 2022-11-08 | 2022-11-16 |
 | [Ride your way](https://open.spotify.com/track/1NLnOEx6B0AG4eiUjDLVED) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [Ride your way](https://open.spotify.com/album/0IZKukB93dgMppcVbtjeDr) | 3:58 | 2022-05-31 | 2022-06-18 |
@@ -491,7 +493,7 @@
 | [Unbreak](https://open.spotify.com/track/40sjkmyRhbNVK57s5hIkue) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [Unbreak](https://open.spotify.com/album/68UhGFQqfBsPZlhu4IYkqF) | 3:24 | 2022-05-29 | 2022-07-28 |
 | [Used To Be Mine](https://open.spotify.com/track/0S3m17l6s69nRlENPq2MW4) | [EMMA WAHLIN](https://open.spotify.com/artist/5vLM0jSwj4TMVhnWuocoaD) | [Used To Be Mine](https://open.spotify.com/album/2vwhQOYWpRiBUSjCPPJKDV) | 2:43 | 2022-06-02 | 2022-07-21 |
 | [Uzu](https://open.spotify.com/track/08GT2hFx15OtWBQ1s0PJNN) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8) | [Uzu](https://open.spotify.com/album/2CUfYSaTdq99eLf6MQOEQS) | 3:46 | 2022-05-31 | 2022-06-09 |
-| [Victim of Love \- feat\. Taka](https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi), [Taka](https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B) | [LOVE CYCLE](https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK) | 3:55 | 2022-05-29 | 2022-12-28 |
+| [Victim of Love \- feat\. Taka](https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi), [Taka](https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B) | [LOVE CYCLE](https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK) | 3:55 | 2022-05-29 |  |
 | [VL](https://open.spotify.com/track/2JhIVaurcN0rafi4UR6TH3) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [VL](https://open.spotify.com/album/7AoX5wN5B336nAV9S8gOQM) | 3:03 | 2022-06-21 | 2022-06-29 |
 | [Voice](https://open.spotify.com/track/3kpvLEb1RrLPRwtuzS15u1) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Voice](https://open.spotify.com/album/4klegJeSCAMEI1FjRvPcLs) | 4:41 | 2022-05-29 | 2022-10-28 |
 | [VOWS](https://open.spotify.com/track/5PfcyDudU3anlUOx7dJ9zB) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [VOWS](https://open.spotify.com/album/53bq6nzzOgex7M18gDwKTO) | 4:04 | 2022-06-14 | 2022-07-13 |
@@ -505,7 +507,7 @@
 | [Wave \(Utopia Acoustic Session Ver.\) Feat\. Kazuki Isogai](https://open.spotify.com/track/3QUiyRipjcsvyE8mPU2rF3) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [Wave \(Utopia Acoustic Session Ver.\)](https://open.spotify.com/album/7snwgwAmUIVfirTwWL2CH5) | 3:38 | 2022-12-15 |  |
 | [WAVE OF LUV](https://open.spotify.com/track/3Fn5clpuHqb0bTJZd9xfpo) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [WAVE OF LUV](https://open.spotify.com/album/4g7rIcO104YEdvAw3EuPuA) | 3:12 | 2022-10-25 | 2022-11-02 |
 | [Waver](https://open.spotify.com/track/74y0bBWpiyOoWsB442cniT) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [neon](https://open.spotify.com/album/6MFq8UGpeyZW8dxFR6PNMp) | 4:30 | 2022-06-02 | 2022-07-01 |
-| [wavy flow](https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [wavy flow](https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo) | 3:25 | 2022-06-02 |  |
+| [wavy flow](https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [wavy flow](https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo) | 3:25 | 2022-06-02 | 2022-12-29 |
 | [We Are](https://open.spotify.com/track/0BlScWuZF7uu4bJdt1xEZT) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [We Are](https://open.spotify.com/album/2xtTnFp57oSOS3VWu4w6ob) | 3:33 | 2022-08-23 | 2022-10-19 |
 | [We are](https://open.spotify.com/track/3bfrNRRF94n5zrD0lDOsvk) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [We are](https://open.spotify.com/album/64IjHxJpoN3QeR5OWOanDa) | 3:33 | 2022-08-23 | 2022-08-25 |
 | [We Only Live Once](https://open.spotify.com/track/2TvCPgip8oF2Qk0GuIhLRJ) | [LOVE](https://open.spotify.com/artist/01qky80h3z8t7F1DrDufyu) | [We Only Live Once](https://open.spotify.com/album/3PvpnMnKzHtp7XNYEqgXS1) | 3:31 | 2022-07-26 | 2022-08-03 |
@@ -861,7 +863,7 @@
 | [時をかける少女](https://open.spotify.com/track/7tKXX85MSaVD5ctgS8WelE) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [ToMoYo covers\~原田知世オフィシャル・カバー・アルバム](https://open.spotify.com/album/2jXG91MPq9hN7ZEpdY1w9n) | 3:22 | 2022-11-01 | 2022-12-14 |
 | [時計は眠い](https://open.spotify.com/track/4rkqxglseRrle9pYAw0mdv) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [時計は眠い](https://open.spotify.com/album/7a2bho1Rns2X9K3ec6WBKB) | 4:28 | 2022-12-13 | 2022-12-21 |
 | [暁の鐘](https://open.spotify.com/track/5zR3pYsqJIHobB56klDhA3) | [Chitose Hajime](https://open.spotify.com/artist/0ii3SuIwfRs4pRH2sQ1J0U) | [暁の鐘](https://open.spotify.com/album/2HZl0oEhKALA7gqCQ8GjCN) | 4:04 | 2022-06-07 | 2022-06-15 |
-| [暴く春](https://open.spotify.com/track/4CnQzzLlHEezMLqflJpWmS) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [暴く春](https://open.spotify.com/album/2fIYGVS9QPcWS95wSqLdXs) | 3:26 | 2022-12-27 |  |
+| [暴く春](https://open.spotify.com/track/4CnQzzLlHEezMLqflJpWmS) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [暴く春](https://open.spotify.com/album/2fIYGVS9QPcWS95wSqLdXs) | 3:26 | 2022-12-27 | 2022-12-29 |
 | [月](https://open.spotify.com/track/7DrwN98xjUsoLwbfPbnLRf) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [LOOK](https://open.spotify.com/album/1rEYuax28LHBK7HyKwYhOT) | 4:12 | 2022-06-07 | 2022-07-25 |
 | [月が涙を流す夜](https://open.spotify.com/track/68CMuQlO03vyQrGVNHTle2) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [月が涙を流す夜](https://open.spotify.com/album/7AyOi29A8SRAcDOojIJBCi) | 3:39 | 2022-10-04 | 2022-10-06 |
 | [月に吠える](https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [月に吠える](https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3) | 3:25 | 2022-10-18 | 2022-11-11 |

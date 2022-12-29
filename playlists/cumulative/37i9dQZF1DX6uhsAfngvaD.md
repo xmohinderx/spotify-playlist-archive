@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-324 songs - 20 hr 4 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
+325 songs - 20 hr 8 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Horizonte](https://open.spotify.com/track/5NdXaEThCsw6fUd3BPxEUR) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Horizonte](https://open.spotify.com/album/3mgtCpiMYHkiXve8Wc0yxN) | 4:10 | 2021-03-26 | 2022-06-29 |
 | [House Of Mirrors](https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [House Of Mirrors](https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC) | 3:11 | 2021-09-04 |  |
 | [How](https://open.spotify.com/track/24UzJSXpXqmGXrGjqAOFpY) | [The Analog Girl](https://open.spotify.com/artist/4PK6Yoxg2Ba8C2KQbysQkM) | [How](https://open.spotify.com/album/2nGV3NOhOn3Et78T5GF6VF) | 4:32 | 2021-03-26 | 2022-07-26 |
-| [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/track/4g0ElvVfW24EHPdfWo2I8w) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/album/6ya53tyYpsLogdzeCJdTsL) | 2:59 | 2022-07-06 |  |
+| [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/track/4g0ElvVfW24EHPdfWo2I8w) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/album/6ya53tyYpsLogdzeCJdTsL) | 2:59 | 2022-07-06 | 2022-12-29 |
 | [How Can I Love? \- When I Can't Get Away from You](https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away from You\)](https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q) | 2:59 | 2021-09-23 | 2022-07-29 |
 | [how do you feel](https://open.spotify.com/track/3BMcTB54pN4oZlIIPNxcy1) | [strawbey](https://open.spotify.com/artist/3Ecd4KEdZpKTW8gi3HOmeX) | [play pretend](https://open.spotify.com/album/47wxXFDjvNfaGnMPaxBjT4) | 4:57 | 2020-10-08 | 2022-07-29 |
 | [Hyper\-normal](https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [Hyper\-normal](https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG) | 3:15 | 2021-12-05 | 2022-10-25 |
@@ -300,6 +300,7 @@
 | [TTYL](https://open.spotify.com/track/4FDkX9JD3FzmttdfYI3JvS) | [Morabeza Tobacco](https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7) | [TTYL](https://open.spotify.com/album/4Lu6dGwHb9J0Ys1FlxA7sF) | 3:51 | 2019-11-19\* | 2020-09-19 |
 | [Two Step](https://open.spotify.com/track/1lcL7ccfhuLC1MhmD5ikYG) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Mahjong Room](https://open.spotify.com/album/1NDsNOHUuoVEHUdPIYf46e) | 2:54 | 2022-07-06 |  |
 | [Two Step](https://open.spotify.com/track/3DKMwNvBajXJ6JHhrNEe1j) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Two Step](https://open.spotify.com/album/3xtxnDEFR3S46mKiDowBiB) | 2:55 | 2020-12-22 | 2022-07-29 |
+| [Under the Sea](https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Pearl](https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE) | 3:59 | 2022-07-06 |  |
 | [Under The Sea](https://open.spotify.com/track/7nUGcGf4JiQ1e8Xbsx8DTn) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Under The Sea](https://open.spotify.com/album/7FM6V8sCl1tH7nKyPOo1TR) | 3:59 | 2021-09-23 | 2022-07-29 |
 | [Useless](https://open.spotify.com/track/4IgNtm4lqRQEmykHJJjKOQ) | [tiger bae](https://open.spotify.com/artist/0xH0kox7WzXayqGJRqIvEp) | [Useless](https://open.spotify.com/album/2kv9p5djEXh4d9mJ1QRBsi) | 3:21 | 2022-04-01 | 2022-06-05 |
 | [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 | 2022-02-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Quiet mornings, wake up early and take a moment with nature for a positive start of your day.",
-  "num_followers": 409,
+  "num_followers": 426,
   "original_name": "Early Birds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1Nzg2MCwwMDAwMDAwMDUyM2I4MGY0YThhYzllZmVhNjc5ODUyZDU1YjY1YjRh",
+  "snapshot_id": "MTY2Njk1Nzg2MCwwMDAwMDAwMDgxNTdlYTUzZTkzOTEzN2MwYzc3YzQ2Y2ZlZTdiM2Nj",
   "tracks": [
     {
       "added_at": "2022-10-28 11:51:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-10-28 11:51:00",
       "album": {
-        "name": "Summer Breeze Bird",
-        "url": "https://open.spotify.com/album/4qe0C4jwN9ix2zefirJ3wA"
-      },
-      "artists": [
-        {
-          "name": "Dominica del Foresta",
-          "url": "https://open.spotify.com/artist/0hG7O67NvjLAehkxcJmmJZ"
-        }
-      ],
-      "duration_ms": 123594,
-      "name": "Bird Sounds HD",
-      "url": "https://open.spotify.com/track/4CfWxs2ZmO9H34idCvfnvp"
-    },
-    {
-      "added_at": "2022-10-28 11:51:00",
-      "album": {
         "name": "Birds Of Yosemite",
         "url": "https://open.spotify.com/album/2LtUWs6cBzRe8MXljLmGOu"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 170000,
       "name": "Birds Of Yosemite In The Morning",
       "url": "https://open.spotify.com/track/6mksvvJOSRUfdoYwbfd7R2"
+    },
+    {
+      "added_at": "2022-10-28 11:51:00",
+      "album": {
+        "name": "Summer Breeze Bird",
+        "url": "https://open.spotify.com/album/4qe0C4jwN9ix2zefirJ3wA"
+      },
+      "artists": [
+        {
+          "name": "Dominica del Foresta",
+          "url": "https://open.spotify.com/artist/0hG7O67NvjLAehkxcJmmJZ"
+        }
+      ],
+      "duration_ms": 123594,
+      "name": "Bird Sounds HD",
+      "url": "https://open.spotify.com/track/4CfWxs2ZmO9H34idCvfnvp"
     },
     {
       "added_at": "2022-10-28 11:51:00",

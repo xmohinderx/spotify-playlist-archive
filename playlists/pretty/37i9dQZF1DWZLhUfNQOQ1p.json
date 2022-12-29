@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230807,
+  "num_followers": 230803,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDYyMTRjZGNmOGY0ZTU0MGJjZGRjZTNlMjQ0MjM3NTgy",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDIzN2Y0M2I5MjQ5ZmVkNzgzYTY2ZmVmNmQxYTZkYmRl",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -539,22 +539,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Never Be the Same (Sons Of Maria vs. Agatha Saron)",
-        "url": "https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U"
+        "name": "Voyages",
+        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
       },
       "artists": [
         {
-          "name": "Sons Of Maria",
-          "url": "https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU"
-        },
-        {
-          "name": "Agatha Saron",
-          "url": "https://open.spotify.com/artist/7w6sRUIg45gPBfa6d2vvYO"
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
         }
       ],
-      "duration_ms": 200131,
-      "name": "Never Be the Same",
-      "url": "https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70"
+      "duration_ms": 216104,
+      "name": "Voyages",
+      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -591,18 +587,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Voyages",
-        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
+        "name": "Never Be the Same (Sons Of Maria vs. Agatha Saron)",
+        "url": "https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U"
       },
       "artists": [
         {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+          "name": "Sons Of Maria",
+          "url": "https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU"
+        },
+        {
+          "name": "Agatha Saron",
+          "url": "https://open.spotify.com/artist/7w6sRUIg45gPBfa6d2vvYO"
         }
       ],
-      "duration_ms": 216104,
-      "name": "Voyages",
-      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
+      "duration_ms": 200131,
+      "name": "Never Be the Same",
+      "url": "https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70"
     },
     {
       "added_at": "2021-08-05 09:09:59",

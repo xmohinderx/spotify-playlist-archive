@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: iri",
-  "num_followers": 88425,
+  "num_followers": 88528,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjE1MzIwMCwwMDAwMDAwMDViMjE3YjVjMTM5YzYyMDBkNjZlNWI0NTc2YTA1NTRh",
+  "snapshot_id": "MTY3MjE1MzIwMCwwMDAwMDAwMDBhZWRkOTcwOTUwNmJiNTJlNzE2YTk0ODA2YjY2M2I0",
   "tracks": [
     {
       "added_at": "2022-12-27 15:00:00",
@@ -427,8 +427,8 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u66b4\u304f\u6625",
-        "url": "https://open.spotify.com/album/2fIYGVS9QPcWS95wSqLdXs"
+        "name": "resist",
+        "url": "https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi"
       },
       "artists": [
         {
@@ -437,8 +437,8 @@
         }
       ],
       "duration_ms": 206017,
-      "name": "\u66b4\u304f\u6625",
-      "url": "https://open.spotify.com/track/4CnQzzLlHEezMLqflJpWmS"
+      "name": "resist",
+      "url": "https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1180,7 +1180,7 @@
       "added_at": "2022-12-27 15:00:00",
       "album": {
         "name": "Over",
-        "url": "https://open.spotify.com/album/6ru0CYtnxi3m0qlWlWMEWn"
+        "url": "https://open.spotify.com/album/17gi4FRPtegnxGxs95C1dR"
       },
       "artists": [
         {
@@ -1194,7 +1194,7 @@
       ],
       "duration_ms": 213853,
       "name": "Over",
-      "url": "https://open.spotify.com/track/1SlL9k10O46PgTQUga0Tu5"
+      "url": "https://open.spotify.com/track/2ReQ5u1eJ9PtBhy2euQCpr"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u8d85\u6700\u60aa",
-        "url": "https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK"
-      },
-      "artists": [
-        {
-          "name": "Genie High",
-          "url": "https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB"
-        }
-      ],
-      "duration_ms": 178219,
-      "name": "\u8d85\u6700\u60aa",
-      "url": "https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
         "name": "\u30db\u30c3\u30c8\u30df\u30eb\u30af",
         "url": "https://open.spotify.com/album/4XuWbqGfKeGBBS1YVeWCxY"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 260114,
       "name": "\u30db\u30c3\u30c8\u30df\u30eb\u30af",
       "url": "https://open.spotify.com/track/3KbEfn3HkRdKAenSdpzfdj"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
+        "name": "\u8d85\u6700\u60aa",
+        "url": "https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK"
+      },
+      "artists": [
+        {
+          "name": "Genie High",
+          "url": "https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB"
+        }
+      ],
+      "duration_ms": 178219,
+      "name": "\u8d85\u6700\u60aa",
+      "url": "https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1675,18 +1675,22 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "wavy flow",
-        "url": "https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo"
+        "name": "LOVE CYCLE",
+        "url": "https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK"
       },
       "artists": [
         {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+        },
+        {
+          "name": "Taka",
+          "url": "https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B"
         }
       ],
-      "duration_ms": 205451,
-      "name": "wavy flow",
-      "url": "https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of"
+      "duration_ms": 235773,
+      "name": "Victim of Love - feat. Taka",
+      "url": "https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED"
     }
   ],
   "unique_name": "Women's Voice",

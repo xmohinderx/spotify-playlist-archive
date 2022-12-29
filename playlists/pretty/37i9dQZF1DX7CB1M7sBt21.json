@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 188237,
+  "num_followers": 188242,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGUwMTIzZThkYjQ2MDZmYzNjOGEyODc3OGUwMWJjYmI3",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGI3NDQ2ODQyNGI5OWQ3NDI3YmIxNWQwNDlkYWY4ZmYx",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Take My Breath",
-        "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220196,
-      "name": "Take My Breath - Single Version",
-      "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 144000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Take My Breath",
+        "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220196,
+      "name": "Take My Breath - Single Version",
+      "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 198635,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Bittersweet Symphony",
         "url": "https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 194618,
       "name": "Bittersweet Symphony",
       "url": "https://open.spotify.com/track/0DVNPsfJgMEcP3oLB3xoLf"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 198635,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -879,6 +879,30 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Kernkraft 400 (A Better Day) [MistaJam Remix]",
+        "url": "https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        },
+        {
+          "name": "MistaJam",
+          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
+        }
+      ],
+      "duration_ms": 140078,
+      "name": "Kernkraft 400 (A Better Day) - MistaJam Remix",
+      "url": "https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
       },
@@ -919,30 +943,6 @@
       "duration_ms": 146355,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/1WMCwGfNf4ndXbsvHPVqlh"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Kernkraft 400 (A Better Day) [MistaJam Remix]",
-        "url": "https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        },
-        {
-          "name": "MistaJam",
-          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
-        }
-      ],
-      "duration_ms": 140078,
-      "name": "Kernkraft 400 (A Better Day) - MistaJam Remix",
-      "url": "https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "L\u00c9ON",
+        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 224063,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "You (Topic Remix)",
         "url": "https://open.spotify.com/album/4Ft2rFCFSXB88S7U0vy80Z"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 157160,
       "name": "You - Topic Remix",
       "url": "https://open.spotify.com/track/5bbtc9t6FcerXp732H2XNu"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "L\u00c9ON",
-        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 224063,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 166898,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Sweet & Sour (feat. Lauv & Tyga)",
         "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 163228,
       "name": "Sweet & Sour (feat. Lauv & Tyga)",
       "url": "https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 166898,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Everywhere (feat. Maya Avedis)",
-        "url": "https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8"
-      },
-      "artists": [
-        {
-          "name": "XO Cupid",
-          "url": "https://open.spotify.com/artist/1Fy4Vnoq3HspYLrgEs9VNc"
-        },
-        {
-          "name": "Maya Avedis",
-          "url": "https://open.spotify.com/artist/64msO0RZHKEtUsVvNtOrS4"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Everywhere (feat. Maya Avedis)",
-      "url": "https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "what would you do? (Galantis Remix)",
         "url": "https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 161462,
       "name": "what would you do? - Galantis Remix",
       "url": "https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Everywhere (feat. Maya Avedis)",
+        "url": "https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8"
+      },
+      "artists": [
+        {
+          "name": "XO Cupid",
+          "url": "https://open.spotify.com/artist/1Fy4Vnoq3HspYLrgEs9VNc"
+        },
+        {
+          "name": "Maya Avedis",
+          "url": "https://open.spotify.com/artist/64msO0RZHKEtUsVvNtOrS4"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Everywhere (feat. Maya Avedis)",
+      "url": "https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1631,26 +1631,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Voices In My Head",
-        "url": "https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2"
+        "name": "Dance All Over Me",
+        "url": "https://open.spotify.com/album/2UdthZopBNkIeFXEEUg9sQ"
       },
       "artists": [
         {
-          "name": "Skinny Days",
-          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         },
         {
-          "name": "CLMD",
-          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
-        },
-        {
-          "name": "Slopes",
-          "url": "https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ"
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         }
       ],
-      "duration_ms": 162983,
-      "name": "Voices In My Head",
-      "url": "https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO"
+      "duration_ms": 165120,
+      "name": "Dance All Over Me - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/2GAIcRjMNkAiLaoXbNm0VW"
     }
   ],
   "unique_name": "Peppl\u00e5tar till tr\u00e4ningspasset",

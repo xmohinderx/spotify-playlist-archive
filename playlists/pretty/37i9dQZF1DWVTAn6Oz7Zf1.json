@@ -1,12 +1,12 @@
 {
   "description": "Cerchi energie e buona musica? Prova con la nostra playlist!",
-  "num_followers": 166362,
+  "num_followers": 166360,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE5NzAxOSwwMDAwMDAwMDdkYzA5ZDNlYTA1ZDgyOTdkZDBiNmU3ZTUyYmY1MWQy",
+  "snapshot_id": "MTY3MTE5NzAxOSwwMDAwMDAwMDdmZDdiNDAyMGU4NzBhMDEzMjI5M2M5MzFhZjQ4MzBk",
   "tracks": [
     {
       "added_at": "2022-12-16 13:21:27",
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
     },
     {
-      "added_at": "2022-12-28 00:28:02",
+      "added_at": "2022-12-29 00:12:03",
       "album": {
         "name": "Sunday Night",
         "url": "https://open.spotify.com/album/0P55wyOTaw9K3dkyqsjnoH"
@@ -315,6 +315,26 @@
       "duration_ms": 150131,
       "name": "Sunday Night",
       "url": "https://open.spotify.com/track/7IAFfnLZEm7zPyTBNjjdYb"
+    },
+    {
+      "added_at": "2022-12-16 13:21:27",
+      "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 178809,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O"
     },
     {
       "added_at": "2022-12-16 13:21:27",
@@ -339,26 +359,6 @@
       "duration_ms": 178373,
       "name": "Tick Tock (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
-    },
-    {
-      "added_at": "2022-12-16 13:21:27",
-      "album": {
-        "name": "Never Let You Go",
-        "url": "https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 178809,
-      "name": "Never Let You Go",
-      "url": "https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O"
     },
     {
       "added_at": "2022-12-16 13:21:27",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-12-16 13:21:27",
       "album": {
-        "name": "Hungry (For Love)",
-        "url": "https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "Hungry (For Love)",
-      "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
-    },
-    {
-      "added_at": "2022-12-16 13:21:27",
-      "album": {
         "name": "Diamonds (feat. Aleyna Tilki)",
         "url": "https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 168196,
       "name": "Diamonds (feat. Aleyna Tilki)",
       "url": "https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI"
+    },
+    {
+      "added_at": "2022-12-16 13:21:27",
+      "album": {
+        "name": "Hungry (For Love)",
+        "url": "https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "Hungry (For Love)",
+      "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
     },
     {
       "added_at": "2022-12-16 13:21:27",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-12-16 13:21:27",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
-    },
-    {
-      "added_at": "2022-12-16 13:21:27",
-      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 177213,
       "name": "DNA",
       "url": "https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ"
+    },
+    {
+      "added_at": "2022-12-16 13:21:27",
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
     },
     {
       "added_at": "2022-12-16 13:21:27",
@@ -1619,26 +1619,22 @@
     {
       "added_at": "2022-12-16 13:21:27",
       "album": {
-        "name": "Day N Night",
-        "url": "https://open.spotify.com/album/7qjzUP0zERhX2SCx1EnBQk"
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/1RDus4fqaHwhQzqRiidAEY"
       },
       "artists": [
         {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         },
         {
-          "name": "Black V Neck",
-          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
         }
       ],
-      "duration_ms": 179199,
-      "name": "Day N Night",
-      "url": "https://open.spotify.com/track/3ehuQZkvZVeSgbshFFZKW2"
+      "duration_ms": 198703,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/5w7sO0tWXMmctwKnJZu24v"
     }
   ],
   "unique_name": "Una Carica di Espresso!",

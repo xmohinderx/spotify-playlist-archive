@@ -1,12 +1,12 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 373509,
+  "num_followers": 373669,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY5NDA5MiwwMDAwMDAwMGVkMTc3MDk4YWQ5NTQ3OTA5NTA0MTQyZjE1ZDVmN2I3",
+  "snapshot_id": "MTY3MTY5NDA5MiwwMDAwMDAwMDA2YTJhODBmODE1OGQwNjkzZjA5OTg4ZTliNTA2N2Y5",
   "tracks": [
     {
       "added_at": "2022-12-22 07:28:12",
@@ -175,26 +175,6 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
-        "name": "Can You Hear Me",
-        "url": "https://open.spotify.com/album/2MkCZIFcfWCjsQtdunZrU5"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bradley",
-          "url": "https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 304266,
-      "name": "Can You Hear Me",
-      "url": "https://open.spotify.com/track/049VqBETqY4gIRJuOJyQuF"
-    },
-    {
-      "added_at": "2022-12-22 07:28:12",
-      "album": {
         "name": "Stronger Now",
         "url": "https://open.spotify.com/album/2rE6572rB3fOGktDLQWzdC"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 243366,
       "name": "Perfect Sunday",
       "url": "https://open.spotify.com/track/3y9l6PAbOOGYBH1AY4XaTO"
+    },
+    {
+      "added_at": "2022-12-22 07:28:12",
+      "album": {
+        "name": "Can You Hear Me",
+        "url": "https://open.spotify.com/album/2MkCZIFcfWCjsQtdunZrU5"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bradley",
+          "url": "https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 304266,
+      "name": "Can You Hear Me",
+      "url": "https://open.spotify.com/track/049VqBETqY4gIRJuOJyQuF"
     },
     {
       "added_at": "2022-12-22 07:28:12",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 293533,
+      "name": "Undun",
+      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
+    },
+    {
+      "added_at": "2022-12-22 07:28:12",
+      "album": {
         "name": "Into the Light",
         "url": "https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR"
       },
@@ -511,18 +527,22 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/2HPhFHjp8sp4q06IxjLyxH"
       },
       "artists": [
         {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+          "name": "Chris \"Big Dog\" Davis",
+          "url": "https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
         }
       ],
-      "duration_ms": 293533,
-      "name": "Undun",
-      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
+      "duration_ms": 205733,
+      "name": "It's All Love",
+      "url": "https://open.spotify.com/track/5popJgopB341MpiXxfmFB5"
     },
     {
       "added_at": "2022-12-22 07:28:12",
@@ -559,26 +579,6 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/2HPhFHjp8sp4q06IxjLyxH"
-      },
-      "artists": [
-        {
-          "name": "Chris \"Big Dog\" Davis",
-          "url": "https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "It's All Love",
-      "url": "https://open.spotify.com/track/5popJgopB341MpiXxfmFB5"
-    },
-    {
-      "added_at": "2022-12-22 07:28:12",
-      "album": {
         "name": "Full Tank 2.0",
         "url": "https://open.spotify.com/album/0dHZWw5DjxaAPxvvJUoLfF"
       },
@@ -595,22 +595,6 @@
       "duration_ms": 221186,
       "name": "Rainy Sunday (feat. Paul Jackson Jr.)",
       "url": "https://open.spotify.com/track/4Z3doYsQ7L3o0TPHZhk0vF"
-    },
-    {
-      "added_at": "2022-12-22 07:28:12",
-      "album": {
-        "name": "Forecast",
-        "url": "https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0"
-      },
-      "artists": [
-        {
-          "name": "Jazz Funk Soul",
-          "url": "https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED"
-        }
-      ],
-      "duration_ms": 343213,
-      "name": "Keep Holding On",
-      "url": "https://open.spotify.com/track/4Ld2yBGk0kBJ84sqSmDbq2"
     },
     {
       "added_at": "2022-12-22 07:28:12",
@@ -643,6 +627,22 @@
       "duration_ms": 260746,
       "name": "Lifted",
       "url": "https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg"
+    },
+    {
+      "added_at": "2022-12-22 07:28:12",
+      "album": {
+        "name": "Forecast",
+        "url": "https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0"
+      },
+      "artists": [
+        {
+          "name": "Jazz Funk Soul",
+          "url": "https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED"
+        }
+      ],
+      "duration_ms": 343213,
+      "name": "Keep Holding On",
+      "url": "https://open.spotify.com/track/4Ld2yBGk0kBJ84sqSmDbq2"
     },
     {
       "added_at": "2022-12-22 07:28:12",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
+        "name": "After 8",
+        "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
+      },
+      "artists": [
+        {
+          "name": "Ronny Jordan",
+          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
+        }
+      ],
+      "duration_ms": 252333,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0"
+    },
+    {
+      "added_at": "2022-12-22 07:28:12",
+      "album": {
         "name": "Retro Forward",
         "url": "https://open.spotify.com/album/6cF2eSwNvRcS8K1nYzI0tT"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 238600,
       "name": "Avenue",
       "url": "https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk"
-    },
-    {
-      "added_at": "2022-12-22 07:28:12",
-      "album": {
-        "name": "After 8",
-        "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
-      },
-      "artists": [
-        {
-          "name": "Ronny Jordan",
-          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
-        }
-      ],
-      "duration_ms": 252333,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0"
     },
     {
       "added_at": "2022-12-22 07:28:12",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
-        "name": "Workin'",
-        "url": "https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np"
-      },
-      "artists": [
-        {
-          "name": "Jazz Holdouts",
-          "url": "https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ"
-        }
-      ],
-      "duration_ms": 246024,
-      "name": "Workin'",
-      "url": "https://open.spotify.com/track/73PMlacQVhln12IqZi16ep"
-    },
-    {
-      "added_at": "2022-12-22 07:28:12",
-      "album": {
         "name": "Goin' All Out",
         "url": "https://open.spotify.com/album/119TqT324LissrAdkAKxf9"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 247360,
       "name": "Be Without You",
       "url": "https://open.spotify.com/track/5JQbLxZhpnc1YvLTMKACzy"
+    },
+    {
+      "added_at": "2022-12-22 07:28:12",
+      "album": {
+        "name": "Workin'",
+        "url": "https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np"
+      },
+      "artists": [
+        {
+          "name": "Jazz Holdouts",
+          "url": "https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ"
+        }
+      ],
+      "duration_ms": 246024,
+      "name": "Workin'",
+      "url": "https://open.spotify.com/track/73PMlacQVhln12IqZi16ep"
     },
     {
       "added_at": "2022-12-22 07:28:12",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
+        "name": "Magic Mirror",
+        "url": "https://open.spotify.com/album/3M72Tn1lbyMaP2cBqejV9J"
+      },
+      "artists": [
+        {
+          "name": "Carol Albert",
+          "url": "https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm"
+        }
+      ],
+      "duration_ms": 250790,
+      "name": "Fire & Water",
+      "url": "https://open.spotify.com/track/5qwa2jSG5bf54d8J9MvXcq"
+    },
+    {
+      "added_at": "2022-12-22 07:28:12",
+      "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/5qAM5T1dtZgsbjRJeknBiB"
       },
@@ -959,18 +975,22 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
-        "name": "Magic Mirror",
-        "url": "https://open.spotify.com/album/3M72Tn1lbyMaP2cBqejV9J"
+        "name": "Magic Hour",
+        "url": "https://open.spotify.com/album/5kirzWW6pF16lE8OHhuPiz"
       },
       "artists": [
         {
-          "name": "Carol Albert",
-          "url": "https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm"
+          "name": "Sean U",
+          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
+        },
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
         }
       ],
-      "duration_ms": 250790,
-      "name": "Fire & Water",
-      "url": "https://open.spotify.com/track/5qwa2jSG5bf54d8J9MvXcq"
+      "duration_ms": 255348,
+      "name": "Magic Hour",
+      "url": "https://open.spotify.com/track/1AbQCUGbvIbO2NUen6tVAg"
     },
     {
       "added_at": "2022-12-22 07:28:12",
@@ -1015,42 +1035,6 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
-        "name": "Co-Motion",
-        "url": "https://open.spotify.com/album/5nQi9bFWOclcf9zFzJi1qs"
-      },
-      "artists": [
-        {
-          "name": "Lemek",
-          "url": "https://open.spotify.com/artist/52LGkbSlh5X2HM5hRnL83v"
-        }
-      ],
-      "duration_ms": 247625,
-      "name": "Co-Motion",
-      "url": "https://open.spotify.com/track/7aCzaOsXIRC28tE7bjJ7JK"
-    },
-    {
-      "added_at": "2022-12-22 07:28:12",
-      "album": {
-        "name": "Magic Hour",
-        "url": "https://open.spotify.com/album/5kirzWW6pF16lE8OHhuPiz"
-      },
-      "artists": [
-        {
-          "name": "Sean U",
-          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
-        },
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 255348,
-      "name": "Magic Hour",
-      "url": "https://open.spotify.com/track/1AbQCUGbvIbO2NUen6tVAg"
-    },
-    {
-      "added_at": "2022-12-22 07:28:12",
-      "album": {
         "name": "What You Do To Me",
         "url": "https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV"
       },
@@ -1063,6 +1047,26 @@
       "duration_ms": 297750,
       "name": "What You Do To Me",
       "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
+    },
+    {
+      "added_at": "2022-12-22 07:28:12",
+      "album": {
+        "name": "Encantadora",
+        "url": "https://open.spotify.com/album/20I5nMh0C7vAgyq4IvFFda"
+      },
+      "artists": [
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        },
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Encantadora",
+      "url": "https://open.spotify.com/track/2Yx80wHA3bEfYdDu6bpf3B"
     },
     {
       "added_at": "2022-12-22 07:28:12",
@@ -1103,26 +1107,6 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
-        "name": "Encantadora",
-        "url": "https://open.spotify.com/album/20I5nMh0C7vAgyq4IvFFda"
-      },
-      "artists": [
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        },
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Encantadora",
-      "url": "https://open.spotify.com/track/2Yx80wHA3bEfYdDu6bpf3B"
-    },
-    {
-      "added_at": "2022-12-22 07:28:12",
-      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/7nl0iSPHwSEh0K2q27Ba15"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
-        "name": "Bass Trap",
-        "url": "https://open.spotify.com/album/7wsE5XmD3gfXiitBYGghqM"
+        "name": "Co-Motion",
+        "url": "https://open.spotify.com/album/5nQi9bFWOclcf9zFzJi1qs"
       },
       "artists": [
         {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+          "name": "Lemek",
+          "url": "https://open.spotify.com/artist/52LGkbSlh5X2HM5hRnL83v"
         }
       ],
-      "duration_ms": 282547,
-      "name": "Bass Trap",
-      "url": "https://open.spotify.com/track/7JvhchmlEIuIe3khtfXp3q"
+      "duration_ms": 247625,
+      "name": "Co-Motion",
+      "url": "https://open.spotify.com/track/7aCzaOsXIRC28tE7bjJ7JK"
     },
     {
       "added_at": "2022-12-22 07:28:12",
@@ -1187,6 +1171,22 @@
       "duration_ms": 262640,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/45OtdrQxVv8iG0MAn0OgKk"
+    },
+    {
+      "added_at": "2022-12-22 07:28:12",
+      "album": {
+        "name": "Bass Trap",
+        "url": "https://open.spotify.com/album/7wsE5XmD3gfXiitBYGghqM"
+      },
+      "artists": [
+        {
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+        }
+      ],
+      "duration_ms": 282547,
+      "name": "Bass Trap",
+      "url": "https://open.spotify.com/track/7JvhchmlEIuIe3khtfXp3q"
     },
     {
       "added_at": "2022-12-22 07:28:12",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
+        "name": "Coevolve",
+        "url": "https://open.spotify.com/album/5mqQN2T1lFJJVl0JkUXI5E"
+      },
+      "artists": [
+        {
+          "name": "Kayla Waters",
+          "url": "https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Zephyr",
+      "url": "https://open.spotify.com/track/2vtLNu4chmFJA4PDRXHLti"
+    },
+    {
+      "added_at": "2022-12-22 07:28:12",
+      "album": {
         "name": "The Little Things",
         "url": "https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ"
       },
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
-        "name": "Coevolve",
-        "url": "https://open.spotify.com/album/5mqQN2T1lFJJVl0JkUXI5E"
+        "name": "Stylin'",
+        "url": "https://open.spotify.com/album/042LSaaSuwj4MCZIxDX59c"
       },
       "artists": [
         {
-          "name": "Kayla Waters",
-          "url": "https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA"
+          "name": "Gregory Goodloe",
+          "url": "https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY"
         }
       ],
-      "duration_ms": 293613,
-      "name": "Zephyr",
-      "url": "https://open.spotify.com/track/2vtLNu4chmFJA4PDRXHLti"
+      "duration_ms": 247346,
+      "name": "Stylin'",
+      "url": "https://open.spotify.com/track/40UbNyeFo1F7ETJ4zLi14e"
     },
     {
       "added_at": "2022-12-22 07:28:12",
@@ -1287,22 +1303,6 @@
       "duration_ms": 223473,
       "name": "Blues for Jeff",
       "url": "https://open.spotify.com/track/4Euzf13sMD4iGIMmYxdrlW"
-    },
-    {
-      "added_at": "2022-12-22 07:28:12",
-      "album": {
-        "name": "Stylin'",
-        "url": "https://open.spotify.com/album/042LSaaSuwj4MCZIxDX59c"
-      },
-      "artists": [
-        {
-          "name": "Gregory Goodloe",
-          "url": "https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY"
-        }
-      ],
-      "duration_ms": 247346,
-      "name": "Stylin'",
-      "url": "https://open.spotify.com/track/40UbNyeFo1F7ETJ4zLi14e"
     },
     {
       "added_at": "2022-12-22 07:28:12",
@@ -1359,38 +1359,6 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
-        "name": "Romance the Rain",
-        "url": "https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA"
-      },
-      "artists": [
-        {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
-        }
-      ],
-      "duration_ms": 289356,
-      "name": "Romance The Rain",
-      "url": "https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW"
-    },
-    {
-      "added_at": "2022-12-22 07:28:12",
-      "album": {
-        "name": "The Journey",
-        "url": "https://open.spotify.com/album/7BYmR4CnsUcPtLrUyy5b4H"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 257933,
-      "name": "Say What's on Your Mind",
-      "url": "https://open.spotify.com/track/0JKzJAkRRdqrfT7qjkp9Bx"
-    },
-    {
-      "added_at": "2022-12-22 07:28:12",
-      "album": {
         "name": "Double Vision",
         "url": "https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL"
       },
@@ -1411,6 +1379,22 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
+        "name": "Open Skies",
+        "url": "https://open.spotify.com/album/4RdKMd5Nxe316RTZPzA1CM"
+      },
+      "artists": [
+        {
+          "name": "Gary Metz",
+          "url": "https://open.spotify.com/artist/1U1yKduFJ40wGcQvQ9ZK4g"
+        }
+      ],
+      "duration_ms": 212613,
+      "name": "Open Skies",
+      "url": "https://open.spotify.com/track/0uuGRLt4ZeRI4JLIDw4oEo"
+    },
+    {
+      "added_at": "2022-12-22 07:28:12",
+      "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 215200,
       "name": "Round And Round",
       "url": "https://open.spotify.com/track/4KtQuilZOf6EhdcmqMSLVP"
+    },
+    {
+      "added_at": "2022-12-22 07:28:12",
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/7BYmR4CnsUcPtLrUyy5b4H"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 257933,
+      "name": "Say What's on Your Mind",
+      "url": "https://open.spotify.com/track/0JKzJAkRRdqrfT7qjkp9Bx"
     },
     {
       "added_at": "2022-12-22 07:28:12",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
-        "name": "Open Skies",
-        "url": "https://open.spotify.com/album/4RdKMd5Nxe316RTZPzA1CM"
+        "name": "Romance the Rain",
+        "url": "https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA"
       },
       "artists": [
         {
-          "name": "Gary Metz",
-          "url": "https://open.spotify.com/artist/1U1yKduFJ40wGcQvQ9ZK4g"
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
         }
       ],
-      "duration_ms": 212613,
-      "name": "Open Skies",
-      "url": "https://open.spotify.com/track/0uuGRLt4ZeRI4JLIDw4oEo"
+      "duration_ms": 289356,
+      "name": "Romance The Rain",
+      "url": "https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW"
     },
     {
       "added_at": "2022-12-22 07:28:12",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
-        "name": "Finger Painting",
-        "url": "https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "Let\u2019s Get Serious",
-      "url": "https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm"
-    },
-    {
-      "added_at": "2022-12-22 07:28:12",
-      "album": {
         "name": "The Time Is Now",
         "url": "https://open.spotify.com/album/7DRR47Neht8KT2DvnqDlgE"
       },
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
+        "name": "Fluid",
+        "url": "https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH"
+      },
+      "artists": [
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        }
+      ],
+      "duration_ms": 265875,
+      "name": "Fluid",
+      "url": "https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL"
+    },
+    {
+      "added_at": "2022-12-22 07:28:12",
+      "album": {
         "name": "Soulfully",
         "url": "https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT"
       },
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
-        "name": "Fluid",
-        "url": "https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH"
+        "name": "Finger Painting",
+        "url": "https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM"
       },
       "artists": [
         {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
         }
       ],
-      "duration_ms": 265875,
-      "name": "Fluid",
-      "url": "https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL"
+      "duration_ms": 246546,
+      "name": "Let\u2019s Get Serious",
+      "url": "https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm"
     },
     {
       "added_at": "2022-12-22 07:28:12",
@@ -1575,6 +1575,22 @@
       "duration_ms": 309981,
       "name": "Imagine (Living as One)",
       "url": "https://open.spotify.com/track/5GpFYx5Q5h38LZnDamGBOB"
+    },
+    {
+      "added_at": "2022-12-22 07:28:12",
+      "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/7ghPikFRfeqmMqpQDkwLIZ"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Heading Wes",
+      "url": "https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw"
     },
     {
       "added_at": "2022-12-22 07:28:12",
@@ -1607,22 +1623,6 @@
       "duration_ms": 222747,
       "name": "Gypsy Soul",
       "url": "https://open.spotify.com/track/660TXK5WaAa1YZD2MIY64j"
-    },
-    {
-      "added_at": "2022-12-22 07:28:12",
-      "album": {
-        "name": "Heart To Heart",
-        "url": "https://open.spotify.com/album/7ghPikFRfeqmMqpQDkwLIZ"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Heading Wes",
-      "url": "https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw"
     },
     {
       "added_at": "2022-12-22 07:28:12",
@@ -1675,34 +1675,22 @@
     {
       "added_at": "2022-12-22 07:28:12",
       "album": {
-        "name": "Mr. Kool",
-        "url": "https://open.spotify.com/album/1gkxk0diBxNzEwqOwjiISl"
+        "name": "Deep Blue C",
+        "url": "https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0"
       },
       "artists": [
         {
-          "name": "Jim Richter",
-          "url": "https://open.spotify.com/artist/0NZ0vDGLWAN5RgDz8sJTAC"
+          "name": "Lisa Addeo",
+          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
         },
         {
-          "name": "Chris Otts",
-          "url": "https://open.spotify.com/artist/411efB7y7mz05itJYp0pZZ"
-        },
-        {
-          "name": "Jack Jones",
-          "url": "https://open.spotify.com/artist/1MJs5ZkhogG4lo7yq3cr0l"
-        },
-        {
-          "name": "John Rathbone",
-          "url": "https://open.spotify.com/artist/0ij5DHsvTubb5S6xQ3BKSN"
-        },
-        {
-          "name": "Michael Cornett",
-          "url": "https://open.spotify.com/artist/0vrRGCpdPXGcgQbLa8wSWC"
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
         }
       ],
-      "duration_ms": 269106,
-      "name": "Mr Kool",
-      "url": "https://open.spotify.com/track/5svERXp8eoh8MydumgnC0J"
+      "duration_ms": 266717,
+      "name": "Deep Blue C",
+      "url": "https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k"
     }
   ],
   "unique_name": "Smooth Jazz",

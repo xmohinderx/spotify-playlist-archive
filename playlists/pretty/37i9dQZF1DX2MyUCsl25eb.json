@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 973861,
+  "num_followers": 973822,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDVhYjQ4YWNlMWMxMzc0NjM5ZDBkZDE4MzVjNzJhZTBm",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDQ4MmI1NDQ0MmRkY2M4OWEwMGU1ZjM0NGM3ZmJmYzQz",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/6whql8yh4n96c8Zl4MYkVG"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Baby Why",
-        "url": "https://open.spotify.com/album/0zOk2HI3PFMENdCrYXc3gu"
-      },
-      "artists": [
-        {
-          "name": "Sarah Cothran",
-          "url": "https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G"
-        }
-      ],
-      "duration_ms": 164533,
-      "name": "Baby Why",
-      "url": "https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
@@ -883,6 +867,22 @@
       "duration_ms": 249946,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Baby Why",
+        "url": "https://open.spotify.com/album/0zOk2HI3PFMENdCrYXc3gu"
+      },
+      "artists": [
+        {
+          "name": "Sarah Cothran",
+          "url": "https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G"
+        }
+      ],
+      "duration_ms": 164533,
+      "name": "Baby Why",
+      "url": "https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -949,6 +949,22 @@
       "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
     },
     {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "georgia got colder",
+        "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "georgia",
+      "url": "https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc"
+    },
+    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Sunday Crossword",
@@ -963,22 +979,6 @@
       "duration_ms": 184827,
       "name": "Sunday Crossword",
       "url": "https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Venting to Strangers",
-        "url": "https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 152437,
-      "name": "Venting to Strangers",
-      "url": "https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1013,20 +1013,20 @@
       "url": "https://open.spotify.com/track/3ONe6SKdO3uRrWLsZePF1p"
     },
     {
-      "added_at": "2022-12-02 05:01:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "georgia got colder",
-        "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
+        "name": "Venting to Strangers",
+        "url": "https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz"
       },
       "artists": [
         {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
         }
       ],
-      "duration_ms": 210186,
-      "name": "georgia",
-      "url": "https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc"
+      "duration_ms": 152437,
+      "name": "Venting to Strangers",
+      "url": "https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/35FwQrg7thq6kjrHL01QiJ"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Two Places at Once (Part I)",
-        "url": "https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v"
-      },
-      "artists": [
-        {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
-        }
-      ],
-      "duration_ms": 199395,
-      "name": "Two Places at Once",
-      "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Last Night In The Bittersweet",
@@ -1139,6 +1123,22 @@
       "duration_ms": 262871,
       "name": "Radio",
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Two Places at Once (Part I)",
+        "url": "https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 199395,
+      "name": "Two Places at Once",
+      "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/0AGAaQYL0QtGqQCEvHnqZx"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 187759,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Meet The Moonlight",
@@ -1207,6 +1191,22 @@
       "duration_ms": 305607,
       "name": "Meet The Moonlight",
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 187759,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1225,6 +1225,22 @@
       "url": "https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI"
     },
     {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "The Joy of Music",
+        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Steady Love",
+      "url": "https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI"
+    },
+    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "get over you",
@@ -1239,22 +1255,6 @@
       "duration_ms": 173933,
       "name": "get over you",
       "url": "https://open.spotify.com/track/0CdWAFsKkBMT8N5z0WIE8y"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "18",
-        "url": "https://open.spotify.com/album/7v8cb4h5R8a0i1NzjWLUod"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "18",
-      "url": "https://open.spotify.com/track/54F792TiwJOWmTJpbUqbXu"
     }
   ],
   "unique_name": "Morning Commute",

@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Local Sound",
-  "num_followers": 18479,
+  "num_followers": 18485,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMGY5Mjc1ZmI2OTBmMjk4YTkyYTFlOGM3Njg3YTM0ODI2",
+  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMDgyODA0MTJjYmFkMGZmMDJhZmM2ZjdjMzhmMTRlMGM5",
   "tracks": [
     {
       "added_at": "2019-09-20 18:34:06",
@@ -483,22 +483,6 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "Closer Than a Brother",
-        "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 309354,
-      "name": "Closer Than a Brother",
-      "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/5Q11hlTmOZedl8pEKT4Cbg"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 236880,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/2q0UHOP7ePGLcqjwF9wBSV"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
+        "name": "Closer Than a Brother",
+        "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 309354,
+      "name": "Closer Than a Brother",
+      "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
     },
     {
       "added_at": "2019-09-20 18:34:06",
@@ -983,22 +983,6 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "Lyfe",
-        "url": "https://open.spotify.com/album/6jikiA16rzQPxhWYDSNFc6"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 153260,
-      "name": "Like You",
-      "url": "https://open.spotify.com/track/0iJimXkiYGGh9XuqSFPS9a"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
         "name": "Only Have One",
         "url": "https://open.spotify.com/album/4HvBGoJ0lA4O79qr7zLwQr"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
+        "name": "Lyfe",
+        "url": "https://open.spotify.com/album/6jikiA16rzQPxhWYDSNFc6"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 153260,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/0iJimXkiYGGh9XuqSFPS9a"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
         "name": "Real Friends",
         "url": "https://open.spotify.com/album/5QDk9kUhWdb5GZXzGUItqm"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "rain don't go away",
-        "url": "https://open.spotify.com/album/6WUViwkXBGRcCQfZmTBsyX"
-      },
-      "artists": [
-        {
-          "name": "Danielle Apicella",
-          "url": "https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5"
-        }
-      ],
-      "duration_ms": 237473,
-      "name": "rain don't go away",
-      "url": "https://open.spotify.com/track/0EMWcOUSdDOhJuptb0E04i"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
         "name": "Wherever I Go",
         "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 158280,
       "name": "Weakness",
       "url": "https://open.spotify.com/track/57vFOd9KlCTWpXBgP3jT4M"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
+        "name": "rain don't go away",
+        "url": "https://open.spotify.com/album/6WUViwkXBGRcCQfZmTBsyX"
+      },
+      "artists": [
+        {
+          "name": "Danielle Apicella",
+          "url": "https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5"
+        }
+      ],
+      "duration_ms": 237473,
+      "name": "rain don't go away",
+      "url": "https://open.spotify.com/track/0EMWcOUSdDOhJuptb0E04i"
     },
     {
       "added_at": "2019-09-20 18:34:06",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 
 > Music from the new anime,  <a href="https://chainsawman.dog/">"Chainsaw Man"</a>! /  TVアニメ<a href="https://chainsawman.dog/">『チェンソーマン』</a>のオフィシャルプレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,346 likes - 43 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,669 likes - 43 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 | 11 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 |
 | 12 | [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 |
 | 13 | [バイオレンス](https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [バイオレンス](https://open.spotify.com/album/4ci2aR3GoukVAmJwIfaQ61) | 3:52 |
-| 14 | [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 |
+| 14 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 |
 | 15 | [edge of chainsaw](https://open.spotify.com/track/2fOPkvOguFiHA7CQgZg7N5) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.1 \(Episode 1\-3\)](https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq) | 3:10 |
 | 16 | [the door](https://open.spotify.com/track/2Pb251vvMQD68isjTxGzvL) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.1 \(Episode 1\-3\)](https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq) | 1:45 |
 | 17 | [nail\-biter](https://open.spotify.com/track/08bCmp6IzjTONuQPh1iNJq) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.1 \(Episode 1\-3\)](https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq) | 1:32 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 | 42 | [ave xxxxxx](https://open.spotify.com/track/0LQmCVOwNEOpVFEGGZej2q) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.3 \(Episode 8\-12\)](https://open.spotify.com/album/42DBklX9gmc9g6OQv6YrB4) | 1:19 |
 | 43 | [the end of childhood](https://open.spotify.com/track/6iQSL9OJkreNdlYeDyXaX6) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.3 \(Episode 8\-12\)](https://open.spotify.com/album/42DBklX9gmc9g6OQv6YrB4) | 2:29 |
 
-Snapshot ID: `MTY3MjE1NTAwMCwwMDAwMDAwMDRjZGJhZDdkMmIzOGRkYmEwMTYwZTViNWQzNTg3Njhh`
+Snapshot ID: `MTY3MjE1NTAwMCwwMDAwMDAwMDkyOGVkZmMxYmEzNGUzOTI2ODhhY2ZhZTA2ZTFhYTY4`

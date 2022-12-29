@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Mariah Nala
 
-226 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
+227 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Eu Te Quero \(feat\. Manu Gavassi\) \- Acoustic Version](https://open.spotify.com/track/68qTU56nAFCVOycqBWDzZD) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [Eu Te Quero \(feat\. Manu Gavassi\) \[Acoustic Version\]](https://open.spotify.com/album/0F9fIfl3SGezt2kh373Xqv) | 2:52 | 2022-05-13 | 2022-10-11 |
 | [Eu Vou Chorar Dançando](https://open.spotify.com/track/49JqYb5Vtm42UTrjQI1eTP) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68) | [Eu Vou Chorar Dançando](https://open.spotify.com/album/086wyZc2kXudA59dUTWPVX) | 2:55 | 2022-06-03 | 2022-10-11 |
 | [Existencial](https://open.spotify.com/track/5n6zkfOjjVkQPOhBKGNSAn) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4), [Garcia Gabé](https://open.spotify.com/artist/6fQFOL3N5uANNq4MYEVeGl) | [Existencial](https://open.spotify.com/album/1dLe3d2uFDp4bihR4ZW7XS) | 2:42 | 2022-08-26 |  |
-| [fala \(tô te querendo\)](https://open.spotify.com/track/4PudtxTK0PUuH8FgaRdAW2) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0), [Moons](https://open.spotify.com/artist/5KokGIQH9RETtCjw72hAt0) | [Clara x Sofia x Moons](https://open.spotify.com/album/6oEQCEimNosm8bq8Wq6eed) | 5:04 | 2022-12-09 |  |
+| [fala \(tô te querendo\)](https://open.spotify.com/track/4PudtxTK0PUuH8FgaRdAW2) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0), [Moons](https://open.spotify.com/artist/5KokGIQH9RETtCjw72hAt0) | [Clara x Sofia x Moons](https://open.spotify.com/album/6oEQCEimNosm8bq8Wq6eed) | 5:04 | 2022-12-09 | 2022-12-29 |
 | [Fala Que Me Ama](https://open.spotify.com/track/1sc29bmhIkvxpBmyUsb0u4) | [João Napoli](https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L) | [Fala Que Me Ama / Horas Iguais](https://open.spotify.com/album/2HiSqAMLiPak2Q3d9FuNYy) | 2:26 | 2022-05-13 | 2022-06-15 |
 | [Fantoche \(feat\. Rael\)](https://open.spotify.com/track/5Agr3aG4hjfdnXnH95VrQW) | [Manda](https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Fantoche \(feat\. Rael\)](https://open.spotify.com/album/32c79u3giWB8ZcHLrysxRa) | 3:25 | 2022-06-14 | 2022-06-25 |
 | [Farol](https://open.spotify.com/track/0SrAGHP33iQgFzzCB1ceLF) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Farol](https://open.spotify.com/album/4buQP1YVIhqVBBpyQPhGN5) | 3:09 | 2022-09-23 | 2022-10-15 |
@@ -105,6 +105,7 @@
 | [fico mais leve](https://open.spotify.com/track/5Q2Ao87PW5rxZqF5JCjtk7) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [fico mais leve](https://open.spotify.com/album/1p7gZmejbbMBXt7xMOIwh9) | 2:14 | 2022-05-13 | 2022-06-04 |
 | [Fim do Mundo](https://open.spotify.com/track/6ZIylywjoQtsAbUhvrtwuH) | [Mathias](https://open.spotify.com/artist/2HzSGi7gfIwWf25UmgFe28) | [Fim do Mundo](https://open.spotify.com/album/3cJTbDY2c0qiaUEjshzblz) | 3:00 | 2022-08-01 | 2022-09-03 |
 | [Flores pro inferno](https://open.spotify.com/track/6WRKgKQFhybwMlucl5liHs) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Flores pro inferno](https://open.spotify.com/album/3ZMbYlXfb4zy79Nv6MegvO) | 3:13 | 2022-08-01 | 2022-09-03 |
+| [Flores Que Eu Nunca Dei](https://open.spotify.com/track/1tSRitSlttJ9PGtUz40ZSQ) | [dreko](https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy), [Kyu](https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE) | [Flores Que Eu Nunca Dei](https://open.spotify.com/album/1mM2in7kTBpSLurd8HIjvD) | 3:21 | 2022-12-23 |  |
 | [florescer](https://open.spotify.com/track/09ItS3c6l7OLSyx5xPjEeL) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1), [Agatha](https://open.spotify.com/artist/5EGXi3LtVsybMb4XMnsNjY) | [VIGA](https://open.spotify.com/album/4k62KQIRN4d6Cf8dBFygdO) | 3:42 | 2022-05-13 | 2022-06-04 |
 | [Flutuar \- Acústico](https://open.spotify.com/track/5vy6OsbPW9wYkJjFwUCsZT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [O Melhor de Nós](https://open.spotify.com/album/7hk4rtzUoxkzRMpusuEgEq) | 2:50 | 2022-05-13 | 2022-10-11 |
 | [França \(Papasessions\#10\) \[feat\. L7NNON\]](https://open.spotify.com/track/3CVXpU3Vh3wIcyeNvR3xVq) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ), [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [França \(Papasessions\#10\) \[feat\. L7NNON\]](https://open.spotify.com/album/4KoMHdExjgAnPiEk9bthn0) | 4:54 | 2022-10-28 | 2022-12-24 |

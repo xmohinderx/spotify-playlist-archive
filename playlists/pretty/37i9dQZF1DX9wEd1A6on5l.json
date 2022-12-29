@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 22435,
+  "num_followers": 22492,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTM1NzkyMiwwMDAwMDAwMDQ1MTMwNWZiY2MyYjI1ZmY3YzY4MWIxY2VhMWFmZWJm",
+  "snapshot_id": "MTY3MTM1NzkyMiwwMDAwMDAwMDNlYzJmMGQ4MDc4N2VlNjg1OTBkN2I3YmE1YTE0OWEy",
   "tracks": [
     {
       "added_at": "2022-09-19 07:19:33",
@@ -501,22 +501,6 @@
       "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
     },
     {
-      "added_at": "2022-09-19 07:19:33",
-      "album": {
-        "name": "Bad To Me",
-        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 176850,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
-    },
-    {
       "added_at": "2022-08-18 23:00:00",
       "album": {
         "name": "Electricity",
@@ -551,6 +535,22 @@
       "duration_ms": 156083,
       "name": "Again",
       "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
+    },
+    {
+      "added_at": "2022-09-19 07:19:33",
+      "album": {
+        "name": "Bad To Me",
+        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 176850,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -917,7 +917,7 @@
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
     },
     {
-      "added_at": "2022-12-28 01:31:36",
+      "added_at": "2022-12-29 01:18:17",
       "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
@@ -1193,26 +1193,6 @@
       "url": "https://open.spotify.com/track/2RnkJgwCzgvQU3MUysO1fG"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Second Sermon (Remix)",
-        "url": "https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 194863,
-      "name": "Second Sermon - Remix",
-      "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
-    },
-    {
       "added_at": "2022-09-30 07:00:51",
       "album": {
         "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
@@ -1235,6 +1215,26 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Second Sermon (Remix)",
+        "url": "https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 194863,
+      "name": "Second Sermon - Remix",
+      "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Dada",
         "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
       },
@@ -1247,6 +1247,34 @@
       "duration_ms": 161538,
       "name": "Dada",
       "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Sugarcane (Remix)",
+        "url": "https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 251147,
+      "name": "Sugarcane - Remix",
+      "url": "https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1335,34 +1363,6 @@
       "duration_ms": 144758,
       "name": "Call of Duty",
       "url": "https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Sugarcane (Remix)",
-        "url": "https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 251147,
-      "name": "Sugarcane - Remix",
-      "url": "https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1457,22 +1457,6 @@
       "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
-    },
-    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Bad Girl (feat. Wande Coal & Victony)",
@@ -1495,6 +1479,22 @@
       "duration_ms": 204232,
       "name": "Bad Girl (feat. Wande Coal & Victony)",
       "url": "https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
     },
     {
       "added_at": "2022-10-07 05:54:24",
@@ -1559,22 +1559,18 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "D O D O (Adekunle Gold Version)",
-        "url": "https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo"
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 179884,
-      "name": "D O D O - Adekunle Gold Version",
-      "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
     }
   ],
   "unique_name": "Party Dey!",

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-851 songs - 19 hr 58 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
+852 songs - 19 hr 59 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,7 +464,7 @@
 | [Meadows](https://open.spotify.com/track/053iOzuMkMvARAHcuF6nJx) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Blue](https://open.spotify.com/album/66uTGKCnvVcGTqMDHy439T) | 1:53 | 2022-01-12 |  |
 | [Mellow Out](https://open.spotify.com/track/5nXFVrNi5gAVIZEJWtmlRv) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD), [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Mellow Out](https://open.spotify.com/album/4EsuGhEEaJJ6frGo2co7cS) | 2:17 | 2022-01-12 |  |
 | [Mend](https://open.spotify.com/track/1alybRxBrceYyVpCH0ywif) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Mend](https://open.spotify.com/album/0thoeshRRPrCSqe0W0QF6P) | 2:33 | 2022-01-12 |  |
-| [Mend](https://open.spotify.com/track/20avro99kei7aQ3TBfiYYc) | [Vaudlow](https://open.spotify.com/artist/2j9gr6OvbmDHXnQ1xyk4W0) | [Vaudlow](https://open.spotify.com/album/3X0XhEm6CERPIMvueTHh7z) | 3:37 | 2022-01-12 |  |
+| [Mend](https://open.spotify.com/track/20avro99kei7aQ3TBfiYYc) | [Vaudlow](https://open.spotify.com/artist/2j9gr6OvbmDHXnQ1xyk4W0) | [Vaudlow](https://open.spotify.com/album/3X0XhEm6CERPIMvueTHh7z) | 3:37 | 2022-01-12 | 2022-12-29 |
 | [Mercury](https://open.spotify.com/track/1PnzwzjzVmsNd4RUwNwOoW) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [The Planets](https://open.spotify.com/album/7ljRCBTVAkXyyDmZ2qNOgT) | 1:13 | 2022-01-12 |  |
 | [Mercury River](https://open.spotify.com/track/3ksi9wUM9mO49PY2EcZe9t) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Peace](https://open.spotify.com/album/79RFghU00Bo4qMQOfx8ygk) | 1:04 | 2022-01-12 |  |
 | [Midnight Stroll](https://open.spotify.com/track/6TZBNjdaOW0RVSBi3Ru8Z5) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Midnight Stroll](https://open.spotify.com/album/2SX7eV1M0XWIEoxTGbua68) | 1:51 | 2022-01-12 |  |
@@ -622,6 +622,7 @@
 | [Sacred Moments](https://open.spotify.com/track/2aOx55qOcBK74Sru2ipoGY) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:31 | 2022-01-12 |  |
 | [Sacred Space](https://open.spotify.com/track/5BXXVrHtIcuhXuhpoBgvrb) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Sacred Space](https://open.spotify.com/album/62h6BQjurVHJQWCKSBkPwd) | 2:15 | 2022-01-12 |  |
 | [Sacred Space \- Cello Version](https://open.spotify.com/track/5CbRIJ5tp0uQcwIYKHc5ji) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Silent Conversations](https://open.spotify.com/album/0tp6n3Guc7vHanWP74gKFv) | 2:11 | 2022-01-12 |  |
+| [Sacred Space Lullaby](https://open.spotify.com/track/52D4wc1iiCyhDeqGpvyHWg) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Piano Sleep Music](https://open.spotify.com/album/6AyyuaLstiPUOMvGOfpvjy) | 1:02 | 2022-12-28 |  |
 | [Sadness Appears \- Piano Version](https://open.spotify.com/track/7cMtHtIQpuFRfQUSwWxobH) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Sadness Appears](https://open.spotify.com/album/35N17nElBBi47YLVmI2cOX) | 1:27 | 2022-01-12 |  |
 | [Salvador](https://open.spotify.com/track/0k1PA8kqHD51C49Owjcx5S) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Bagatelles](https://open.spotify.com/album/5NtMEqU7lDZX8d7ODiP4LE) | 2:20 | 2022-01-12 |  |
 | [Saman](https://open.spotify.com/track/2ljwAMOpgxhX0961LmvIm7) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Saman](https://open.spotify.com/album/5TaS5BXeovddAbmeNOcVoG) | 2:15 | 2022-01-12 |  |

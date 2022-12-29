@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 4706,
+  "num_followers": 4707,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjA0Njg5MywwMDAwMDAwMDkzOGU4NTUwNDRmNWZhZmNhNTdiZWQyNDNiMDQ0N2U1",
+  "snapshot_id": "MTY3MjA0Njg5MywwMDAwMDAwMDRmNWRmODA3OWRhYWM0NWE3YTg2M2UwNWIzNGMwNjA3",
   "tracks": [
     {
       "added_at": "2022-12-26 09:28:13",
@@ -651,6 +651,26 @@
     {
       "added_at": "2022-12-26 09:28:13",
       "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/1m8GgkDxECNCVgRTFikwMX"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Kelsey Kuan",
+          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
+        }
+      ],
+      "duration_ms": 192293,
+      "name": "Die For You (feat. Kelsey Kuan)",
+      "url": "https://open.spotify.com/track/7K7Mg9iQ8ZnD5EEwm27gw2"
+    },
+    {
+      "added_at": "2022-12-26 09:28:13",
+      "album": {
         "name": "Kangaroo",
         "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
       },
@@ -663,22 +683,6 @@
       "duration_ms": 225903,
       "name": "Kangaroo",
       "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
-    },
-    {
-      "added_at": "2022-12-26 09:28:13",
-      "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 235693,
-      "name": "Nemo",
-      "url": "https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB"
     },
     {
       "added_at": "2022-12-26 09:28:13",
@@ -699,6 +703,22 @@
     {
       "added_at": "2022-12-26 09:28:13",
       "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 235693,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB"
+    },
+    {
+      "added_at": "2022-12-26 09:28:13",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/2wD9q03no4yJClNcp9HbTZ"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 183281,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3b68cnOtUujowS1vKK7klK"
-    },
-    {
-      "added_at": "2022-12-26 09:28:13",
-      "album": {
-        "name": "Hold tight",
-        "url": "https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        },
-        {
-          "name": "Jaw",
-          "url": "https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn"
-        }
-      ],
-      "duration_ms": 174975,
-      "name": "Hold tight",
-      "url": "https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP"
     },
     {
       "added_at": "2022-12-26 09:28:13",
@@ -755,6 +755,26 @@
     {
       "added_at": "2022-12-26 09:28:13",
       "album": {
+        "name": "Hold tight",
+        "url": "https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        },
+        {
+          "name": "Jaw",
+          "url": "https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn"
+        }
+      ],
+      "duration_ms": 174975,
+      "name": "Hold tight",
+      "url": "https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP"
+    },
+    {
+      "added_at": "2022-12-26 09:28:13",
+      "album": {
         "name": "Sun Dance",
         "url": "https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd"
       },
@@ -771,22 +791,18 @@
     {
       "added_at": "2022-12-26 09:28:13",
       "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/1m8GgkDxECNCVgRTFikwMX"
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
       "artists": [
         {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
-        },
-        {
-          "name": "Kelsey Kuan",
-          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 192293,
-      "name": "Die For You (feat. Kelsey Kuan)",
-      "url": "https://open.spotify.com/track/7K7Mg9iQ8ZnD5EEwm27gw2"
+      "duration_ms": 176759,
+      "name": "20MIN",
+      "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
     },
     {
       "added_at": "2022-12-26 09:28:13",
@@ -807,22 +823,6 @@
       "duration_ms": 226866,
       "name": "Room for You (Feat. 10CM)",
       "url": "https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM"
-    },
-    {
-      "added_at": "2022-12-26 09:28:13",
-      "album": {
-        "name": "24\u2103",
-        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 176759,
-      "name": "20MIN",
-      "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
     },
     {
       "added_at": "2022-12-26 09:28:13",

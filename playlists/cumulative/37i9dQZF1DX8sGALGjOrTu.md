@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8sGALGjOrTu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8sGALGjOrTu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8sGALGjOrTu)
 
-### [Can I scream?](https://open.spotify.com/playlist/37i9dQZF1DX8sGALGjOrTu)
+### [Scream & Shout](https://open.spotify.com/playlist/37i9dQZF1DX8sGALGjOrTu)
 
-> Home of Screamo, Post\-hardcore and all kind of new art for real people\. Yeah! Cover: Thrice
+> Welcome to Post\-Hardcore's pantheon\. Cover: Alexisonfire
 
-187 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/7AabT1bJ1kvk7gPJFBbjjL)
+189 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/7AabT1bJ1kvk7gPJFBbjjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,11 +80,12 @@
 | [I Want To Hear You Sad](https://open.spotify.com/track/6zRpoBAoqOUnkQvrDqSQ4K) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [For All Of This](https://open.spotify.com/album/6u5TTKJnmzV6SDJoh0bmP5) | 3:30 | 2021-12-07 | 2022-07-17 |
 | [I'm Made of Wax, Larry, What Are You Made Of?](https://open.spotify.com/track/1fTNpl2mxqHVlLqRNbyDhR) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/34eR6ev1GGZHmxNTEfRobW) | 3:00 | 2021-12-07 | 2022-07-29 |
 | [I'm Made Of Wax, Larry, What Are You Made Of?](https://open.spotify.com/track/2dwhns14pjuxxcM5a0eOow) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ) | 3:00 | 2021-12-07 | 2022-12-12 |
-| [I'm Not A Thief, I'm A Treasure Hunter](https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A) | [A Skylit Drive](https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9) | [Wires...And The Concept Of Breathing](https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd) | 3:18 | 2021-12-07 |  |
+| [I'm Not A Thief, I'm A Treasure Hunter](https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A) | [A Skylit Drive](https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9) | [Wires...And The Concept Of Breathing](https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd) | 3:18 | 2021-12-07 | 2022-12-29 |
 | [I'm Not A Vampire](https://open.spotify.com/track/7l0Lr7Tl4Gt8hQj4v3rwtf) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [The Drug In Me Is You](https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4) | 3:51 | 2021-12-07 | 2022-12-12 |
 | [I'm Not Okay \(I Promise\)](https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:06 | 2021-12-07 | 2022-12-12 |
 | [If I'm James Dean, You're Audrey Hepburn](https://open.spotify.com/track/1wFRkVclQWfMQQcaVLjmBE) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [With Ears To See And Eyes To Hear](https://open.spotify.com/album/0AMC1Y0J0a5yN7lkOSWrJr) | 3:39 | 2021-12-07 |  |
 | [If You Can't Hang](https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 4:10 | 2021-12-07 |  |
+| [Image Of The Invisible](https://open.spotify.com/track/19XQb9uJRmHwxb0EOVXkvn) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Vheissu](https://open.spotify.com/album/4pwaQ1jEWLrcCvYFDJVWbl) | 4:14 | 2022-12-28 |  |
 | [It's Far Better To Learn](https://open.spotify.com/track/0nQcyybXeatlDXgvQOrT1n) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:54 | 2021-12-07 | 2022-12-13 |
 | [Juneau](https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:36 | 2021-12-07 | 2022-07-02 |
 | [King For A Day](https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:56 | 2021-12-07 |  |
@@ -100,6 +101,7 @@
 | [Medicating](https://open.spotify.com/track/7FTORbr7wFdglftJdbz1dw) | [Boys Night Out](https://open.spotify.com/artist/4wM8eTlGUeleEqowJc2iiZ) | [Trainwreck](https://open.spotify.com/album/1uFmJTSJEEm0mdjDERdg8P) | 4:00 | 2021-12-07 | 2022-07-27 |
 | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:26 | 2021-12-07 | 2022-12-12 |
 | [Mouths Like Sidewinder Missles](https://open.spotify.com/track/0AlCpQIejCPdDNo4TCdVVq) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:44 | 2021-12-07 |  |
+| [Mu Empire](https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 3:44 | 2022-12-28 |  |
 | [My Darkest Hour](https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [The City Sleeps in Flames](https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3) | 3:29 | 2021-12-07 |  |
 | [Nerdy](https://open.spotify.com/track/0bCt5NYTCWKIqtEP2ZcF60) | [Poison The Well](https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx) | [Opposite of December](https://open.spotify.com/album/6VmeNPXuAbUV2YkUiTyfmr) | 2:44 | 2021-12-07 | 2022-07-17 |
 | [New Medicines](https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg) | [Dead Poetic](https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD) | [New Medicines](https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh) | 4:02 | 2021-12-07 |  |
@@ -132,7 +134,7 @@
 | [SECOND & SEBRING](https://open.spotify.com/track/3bdqdxoWXP3z0KuDt0o4Cn) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Of Mice & Men](https://open.spotify.com/album/2YOIrzi5u5xuiGCA7GhCMS) | 3:49 | 2021-12-07 | 2022-12-12 |
 | [Seven Years](https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:12 | 2021-12-07 |  |
 | [Short Stories With Tragic Endings](https://open.spotify.com/track/4eRtGBzP92gjIMOtal2kNB) | [From Autumn To Ashes](https://open.spotify.com/artist/1t0af5EH36iQVJ06XnLDOt) | [Too Bad You're Beautiful](https://open.spotify.com/album/5gZbzZKm0cBUfJwlUErOLm) | 9:25 | 2021-12-07 | 2022-07-29 |
-| [Siberian Kiss \- 2009 Remaster](https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 3:49 | 2022-12-11 |  |
+| [Siberian Kiss \- 2009 Remaster](https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 3:49 | 2022-12-11 | 2022-12-29 |
 | [Sing To Me](https://open.spotify.com/track/1PG3cpjagOotciS60BCy0u) | [Before Their Eyes](https://open.spotify.com/artist/7BewtLSaxtzJjRzPUPnSxp) | [Untouchable](https://open.spotify.com/album/0d29v8i3mBoFkRAdNN4m2K) | 3:03 | 2021-12-07 | 2022-07-26 |
 | [Situations](https://open.spotify.com/track/1Fu9o08qEKVEwzU8siVcig) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Dying Is Your Latest Fashion](https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw) | 3:07 | 2021-12-07 |  |
 | [Smashed Into Pieces](https://open.spotify.com/track/1CKfTyQ4JMJxM9HFlvz187) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [When Broken Is Easily Fixed](https://open.spotify.com/album/3fEej3BLA97fBcKe61PeSc) | 3:42 | 2021-12-07 |  |

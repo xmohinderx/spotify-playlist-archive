@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Nuevo Elemento en portada. ",
-  "num_followers": 124237,
+  "num_followers": 124240,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMGRhOTZiOTE5ODhjMjI4ODcxMWFjMTQ4ODUzMGY3ZmU1",
+  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDFiMDBkOTkyNDc1NjI4NmRhNWU1Njg5YzI1MTg1YmE3",
   "tracks": [
     {
       "added_at": "2022-12-09 06:00:00",
@@ -267,26 +267,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "\u00bfSer\u00e1 Prudente?",
-        "url": "https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "\u00bfSer\u00e1 Prudente?",
-      "url": "https://open.spotify.com/track/7wT5MIjA3LPuRFCt9KOA8M"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Con Un Botecito A Pecho",
         "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 176133,
       "name": "Con Un Botecito A Pecho",
       "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "\u00bfSer\u00e1 Prudente?",
+        "url": "https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "\u00bfSer\u00e1 Prudente?",
+      "url": "https://open.spotify.com/track/7wT5MIjA3LPuRFCt9KOA8M"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -637,6 +637,22 @@
       "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
     },
     {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 198102,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
+    },
+    {
       "added_at": "2022-10-14 05:00:00",
       "album": {
         "name": "Todo Me Recuerda A Ti",
@@ -655,22 +671,6 @@
       "duration_ms": 208106,
       "name": "Todo Me Recuerda A Ti",
       "url": "https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 198102,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1033,20 +1033,20 @@
       "url": "https://open.spotify.com/track/0XNpmYRhxlgC8n7QeuwLTq"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
+      "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Imborrable",
-        "url": "https://open.spotify.com/album/3A5prmtlMcT7DlMjAjTkCY"
+        "name": "Tu Adi\u00f3s Como Tequila (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH"
       },
       "artists": [
         {
-          "name": "Chelo Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z"
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         }
       ],
-      "duration_ms": 192066,
-      "name": "Imborrable",
-      "url": "https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce"
+      "duration_ms": 215487,
+      "name": "Tu Adi\u00f3s Como Tequila - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1081,20 +1081,20 @@
       "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
     },
     {
-      "added_at": "2022-09-23 05:00:00",
+      "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "Tu Adi\u00f3s Como Tequila (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH"
+        "name": "Imborrable",
+        "url": "https://open.spotify.com/album/3A5prmtlMcT7DlMjAjTkCY"
       },
       "artists": [
         {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+          "name": "Chelo Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z"
         }
       ],
-      "duration_ms": 215487,
-      "name": "Tu Adi\u00f3s Como Tequila - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi"
+      "duration_ms": 192066,
+      "name": "Imborrable",
+      "url": "https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce"
     },
     {
       "added_at": "2022-09-23 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2010s. Cover: Chief Keef",
-  "num_followers": 120857,
+  "num_followers": 121059,
   "original_name": "I Love My 2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDM1MzhjOWI0ZDYzMDUwNTEzY2U2MDFmMGViNDMwNzE1",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDgzNWIzOGNjNjdlODM3YTdjYWMxOWM0ZTk3NmUwNjlk",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 255378,
-      "name": "Narcos",
-      "url": "https://open.spotify.com/track/0wbnC9AUenxp613TYaJsGK"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/0hmFRR0pDSZIAvoJqEFSKv"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 329320,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 255378,
+      "name": "Narcos",
+      "url": "https://open.spotify.com/track/0wbnC9AUenxp613TYaJsGK"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1735,18 +1735,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "SATURATION III",
-        "url": "https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0"
+        "name": "Dark Knight Dummo (Feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/0D2ArJUb7VQ2tVmsHZohUZ"
       },
       "artists": [
         {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 273151,
-      "name": "BLEACH",
-      "url": "https://open.spotify.com/track/0dWOFwdXrbBUYqD9DLsoyK"
+      "duration_ms": 256162,
+      "name": "Dark Knight Dummo (Feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/3YeJXuRSNS5FYwOsDu44kD"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1767,22 +1771,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Dark Knight Dummo (Feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/0D2ArJUb7VQ2tVmsHZohUZ"
+        "name": "SATURATION III",
+        "url": "https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
         }
       ],
-      "duration_ms": 256162,
-      "name": "Dark Knight Dummo (Feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/3YeJXuRSNS5FYwOsDu44kD"
+      "duration_ms": 273151,
+      "name": "BLEACH",
+      "url": "https://open.spotify.com/track/0dWOFwdXrbBUYqD9DLsoyK"
     },
     {
       "added_at": "2022-12-16 05:00:00",

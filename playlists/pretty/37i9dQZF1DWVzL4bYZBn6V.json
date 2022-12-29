@@ -1,12 +1,12 @@
 {
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
-  "num_followers": 66856,
+  "num_followers": 66978,
   "original_name": "Gym Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTIxOTY3MywwMDAwMDAwMDcwMjMxNDJlY2ZiZGYyMTZmYWYyNDEzMzNhNTY0MmZm",
+  "snapshot_id": "MTYxOTIxOTY3MywwMDAwMDAwMDgxYTAwYTExODU5N2FkMWVmZjNiNDE4MTdiMWQxYjdl",
   "tracks": [
     {
       "added_at": "2021-04-23 23:14:33",
@@ -867,26 +867,6 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/0IZU361PqM4rU93o9LNoBR"
-      },
-      "artists": [
-        {
-          "name": "Luis JR",
-          "url": "https://open.spotify.com/artist/0z9vGUlGF7lS5px3Y77Mjj"
-        },
-        {
-          "name": "D'ALEX",
-          "url": "https://open.spotify.com/artist/0FE798xrpeoQtmsv8TjvM4"
-        }
-      ],
-      "duration_ms": 216586,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/56cy1gTx6GpTjKBIFGdfe9"
-    },
-    {
-      "added_at": "2021-04-23 23:14:33",
-      "album": {
         "name": "Lost in Your Eyes (Radio Edit) [feat. Norka]",
         "url": "https://open.spotify.com/album/6q13q5axUqE51wN1oB2GIq"
       },
@@ -931,6 +911,26 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/0IZU361PqM4rU93o9LNoBR"
+      },
+      "artists": [
+        {
+          "name": "Luis JR",
+          "url": "https://open.spotify.com/artist/0z9vGUlGF7lS5px3Y77Mjj"
+        },
+        {
+          "name": "D'ALEX",
+          "url": "https://open.spotify.com/artist/0FE798xrpeoQtmsv8TjvM4"
+        }
+      ],
+      "duration_ms": 216586,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/56cy1gTx6GpTjKBIFGdfe9"
+    },
+    {
+      "added_at": "2021-04-23 23:14:33",
+      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1"
       },
@@ -951,26 +951,6 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/4qEQg7gOeQlsp61IjSTQ69"
-      },
-      "artists": [
-        {
-          "name": "Lemarroy",
-          "url": "https://open.spotify.com/artist/0MbIn3hLqEhgj784ocMT1W"
-        },
-        {
-          "name": "Nino Lucarelli",
-          "url": "https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/7uHh8SlhRmPwxmm2jwu4Ph"
-    },
-    {
-      "added_at": "2021-04-23 23:14:33",
-      "album": {
         "name": "Hold My Hand",
         "url": "https://open.spotify.com/album/5DA84BeSN1TYtyk9poJ24C"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 171724,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/0Qi4Xlh524Bj3EPmhwyDux"
+    },
+    {
+      "added_at": "2021-04-23 23:14:33",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/4qEQg7gOeQlsp61IjSTQ69"
+      },
+      "artists": [
+        {
+          "name": "Lemarroy",
+          "url": "https://open.spotify.com/artist/0MbIn3hLqEhgj784ocMT1W"
+        },
+        {
+          "name": "Nino Lucarelli",
+          "url": "https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/7uHh8SlhRmPwxmm2jwu4Ph"
     },
     {
       "added_at": "2021-04-23 23:14:33",

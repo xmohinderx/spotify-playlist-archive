@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-155 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/1xksct4B5bg9jYP5TYccYG)
+156 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/1xksct4B5bg9jYP5TYccYG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Oh My Love](https://open.spotify.com/track/4k5cfX3AIWAHvl0cpCT7XA) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Saint Valentin jazz](https://open.spotify.com/album/3AXIQlRug6iCuHVNlumj9y) | 4:47 | 2022-07-21 | 2022-10-22 |
 | [Once Upon A Summertime](https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 2:47 | 2022-04-13 |  |
 | [Once Upon a Summertime](https://open.spotify.com/track/2JnPEk8BDhOzHeh7kzNfw6) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 4:39 | 2022-04-13 |  |
+| [Only the Lonely](https://open.spotify.com/track/4BJlrxrnHmnUi6DoZHexAc) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB) | [Only the Lonely](https://open.spotify.com/album/2LEdyJtyGv0wVJnwN5S67p) | 3:12 | 2022-12-23 |  |
 | [Peel Me A Grape](https://open.spotify.com/track/5lBhqsWIzC9YtjkDaFsynh) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Scenes](https://open.spotify.com/album/13vOgfmCMpWRzgggSu4Di9) | 5:52 | 2022-04-13 | 2022-07-29 |
 | [Peel Me A Grape](https://open.spotify.com/track/7d78grkC9XhKXKJf44so32) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Scenes](https://open.spotify.com/album/0BY7XVm9kLLwDmQfXFL8G8) | 5:52 | 2022-07-21 | 2022-11-15 |
 | [Perhaps You'll Wonder Why](https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Perhaps You’ll Wonder Why](https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr) | 4:45 | 2022-05-05 |  |
@@ -143,7 +144,7 @@
 | [The Sweetest Sounds](https://open.spotify.com/track/6RU16zKipfEnU5qENAxvBK) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Paco Soto](https://open.spotify.com/artist/5WvleVXgt2bK1LRn1zlp4Q), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5) | [Musa](https://open.spotify.com/album/5jeSkpB4Ntk9q3mt6eNCY0) | 3:01 | 2022-04-13 |  |
 | [The Very Thought of You](https://open.spotify.com/track/0cOY54OpNKZC1lLgdqJCaI) | [Naama Gheber](https://open.spotify.com/artist/1KObvUW72IGgUzVi9oe60n) | [The Very Thought of You](https://open.spotify.com/album/3jYDvk2uAOO4nPrY86a08n) | 3:27 | 2022-09-28 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v) | [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha) | [Coming Forth by Day](https://open.spotify.com/album/3Remng6plhUxCGnBHbQsYU) | 3:50 | 2022-04-13 |  |
-| [There You Are](https://open.spotify.com/track/1g30SgnZXLzcgHj9eVszPs) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [There You Are](https://open.spotify.com/album/12f8nBfTJsR7JYovTWFprd) | 4:16 | 2022-04-13 |  |
+| [There You Are](https://open.spotify.com/track/1g30SgnZXLzcgHj9eVszPs) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [There You Are](https://open.spotify.com/album/12f8nBfTJsR7JYovTWFprd) | 4:16 | 2022-04-13 | 2022-12-29 |
 | [Thunderclouds](https://open.spotify.com/track/2OCV5Cn5DgesacD7ZLL10o) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Thunderclouds](https://open.spotify.com/album/0oTY2QwL9n2OHFEjk4SbSh) | 3:36 | 2022-04-13 | 2022-07-29 |
 | [Thunderclouds](https://open.spotify.com/track/4uskCkze8NPSFfYP8rsZ4T) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Ghost Song](https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ) | 3:36 | 2022-07-21 |  |
 | [Too Late Now](https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy) | [Johanna Pettersson](https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Tomas Sjödell](https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv), [Adam Ross](https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM) | [The Show Must Go On](https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo) | 5:09 | 2022-04-13 |  |

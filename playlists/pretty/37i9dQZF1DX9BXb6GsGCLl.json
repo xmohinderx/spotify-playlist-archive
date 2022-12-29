@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 490413,
+  "num_followers": 490431,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMGI5ZTBkYzgxODA4ZmMzMjg5YzliMjg4YTU5MmE2NGQ2",
+  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMDEyNDMyNDRhYTgwYWMwZTEzYWRjNjM1OWYyYTk1Zjdm",
   "tracks": [
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
+        "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 139809,
+      "name": "Lonely (with Jonas Brothers)",
+      "url": "https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "I Got A Feeling",
         "url": "https://open.spotify.com/album/1RQIpbfwNYLalU8PKNysqt"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 144136,
       "name": "I Got A Feeling",
       "url": "https://open.spotify.com/track/67khZBWjxlHg85xcwdySjS"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
-        "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 139809,
-      "name": "Lonely (with Jonas Brothers)",
-      "url": "https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1583,6 +1583,30 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 160794,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "Do You Dance?",
         "url": "https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0"
       },
@@ -1603,30 +1627,6 @@
       "duration_ms": 211452,
       "name": "Looking For Me",
       "url": "https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Whenever (feat. Conor Maynard)",
-        "url": "https://open.spotify.com/album/5so9rCf7p2L6w6o4KZahE9"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "The Boy Next Door",
-          "url": "https://open.spotify.com/artist/4QfOh8rJ0OddhhXHD5QyWs"
-        },
-        {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Whenever (feat. Conor Maynard)",
-      "url": "https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z"
     }
   ],
   "unique_name": "Powerwalk!",

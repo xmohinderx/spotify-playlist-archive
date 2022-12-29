@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Syria.",
-  "num_followers": 38932,
+  "num_followers": 38966,
   "original_name": "Syria Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODI4Mzc4MywwMDAwMDAwMDNlZGE4YjYyNDc3YzQyYWIwMDVlMjJiYTgxMWMzNzNm",
+  "snapshot_id": "MTY2ODI4Mzc4MywwMDAwMDAwMGEzNTY5MTM2ZTIzYWE2ZDk0NGMxNjMyZjBjMjQwYWQ1",
   "tracks": [
     {
       "added_at": "2022-11-12 20:09:43",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-11-12 20:09:43",
       "album": {
-        "name": "Malak Halle",
-        "url": "https://open.spotify.com/album/1H8pbCWqU3lAmFmktdI3Tz"
-      },
-      "artists": [
-        {
-          "name": "Mais Harb",
-          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
-        }
-      ],
-      "duration_ms": 262601,
-      "name": "Malak Halle",
-      "url": "https://open.spotify.com/track/6uOdpvk7I3RL92xbcbPt6q"
-    },
-    {
-      "added_at": "2022-11-12 20:09:43",
-      "album": {
         "name": "Bass Elak",
         "url": "https://open.spotify.com/album/7cqXpOXV2vUj2CxrYUrZX1"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 361893,
       "name": "Kellon Annek Sa'alouni",
       "url": "https://open.spotify.com/track/0BLeRQzUbGk1j1dddtWHSy"
+    },
+    {
+      "added_at": "2022-11-12 20:09:43",
+      "album": {
+        "name": "Malak Halle",
+        "url": "https://open.spotify.com/album/1H8pbCWqU3lAmFmktdI3Tz"
+      },
+      "artists": [
+        {
+          "name": "Mais Harb",
+          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
+        }
+      ],
+      "duration_ms": 262601,
+      "name": "Malak Halle",
+      "url": "https://open.spotify.com/track/6uOdpvk7I3RL92xbcbPt6q"
     },
     {
       "added_at": "2022-11-12 20:09:43",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-11-12 20:09:43",
       "album": {
-        "name": "Swarat",
-        "url": "https://open.spotify.com/album/2lHuo0CbcdEzTVZNcpk9gE"
-      },
-      "artists": [
-        {
-          "name": "Mais Harb",
-          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Swarat",
-      "url": "https://open.spotify.com/track/6jWQ9vgd089Ayk1uws9Fb3"
-    },
-    {
-      "added_at": "2022-11-12 20:09:43",
-      "album": {
         "name": "Hakyatik Tarab",
         "url": "https://open.spotify.com/album/6n2KNufhAMPBX5mALEEUWb"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 212688,
       "name": "Hakyatik Tarab",
       "url": "https://open.spotify.com/track/6viPKuCOAcEU0cD88CnCuS"
+    },
+    {
+      "added_at": "2022-11-12 20:09:43",
+      "album": {
+        "name": "Alshaela",
+        "url": "https://open.spotify.com/album/7kP3ciU1cgbPbIup4KIqk0"
+      },
+      "artists": [
+        {
+          "name": "Amer Wakka",
+          "url": "https://open.spotify.com/artist/3RTvvsSrGsLIpShyrjGrZb"
+        }
+      ],
+      "duration_ms": 182230,
+      "name": "Alshaela",
+      "url": "https://open.spotify.com/track/6tazOzAb4Z0ocUhOhNrNIy"
     }
   ],
   "unique_name": "Syria Sounds",

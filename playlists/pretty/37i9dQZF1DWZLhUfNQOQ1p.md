@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,807 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,803 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 29 | [It's alright](https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [It's alright](https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML) | 3:16 |
 | 30 | [All Access](https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX) | [Ben Eggs](https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd) | [All Access](https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg) | 3:06 |
 | 31 | [Somebody Else](https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP) | [Zonoma](https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH), [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Somebody Else](https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB) | 3:20 |
-| 32 | [Never Be the Same](https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU), [Agatha Saron](https://open.spotify.com/artist/7w6sRUIg45gPBfa6d2vvYO) | [Never Be the Same \(Sons Of Maria vs\. Agatha Saron\)](https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U) | 3:20 |
+| 32 | [Voyages](https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Voyages](https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG) | 3:36 |
 | 33 | [White Heart Sand](https://open.spotify.com/track/0L0A2JQesE17iqjuEQDfiW) | [Togo Bao](https://open.spotify.com/artist/6iLiH4i8sPHd7x1RvS5Fqn) | [White Heart Sand](https://open.spotify.com/album/5yX6p6KpVVS9iPjWAKFrxd) | 3:48 |
 | 34 | [Lost in Music](https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Lost in Music](https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG) | 3:28 |
-| 35 | [Voyages](https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Voyages](https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG) | 3:36 |
+| 35 | [Never Be the Same](https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU), [Agatha Saron](https://open.spotify.com/artist/7w6sRUIg45gPBfa6d2vvYO) | [Never Be the Same \(Sons Of Maria vs\. Agatha Saron\)](https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U) | 3:20 |
 | 36 | [Sooner Or Later](https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Sooner Or Later](https://open.spotify.com/album/0cqf7LPBl6kQqNOcCjciky) | 2:52 |
 | 37 | [A Little Bit Closer](https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [A Little Bit Closer](https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn) | 2:35 |
 | 38 | [Don't Ever Wonder](https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6) | [Linae](https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4) | [Don't Ever Wonder](https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG) | 2:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 59 | [Follow the Sun](https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [Follow the Sun](https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt) | 4:03 |
 | 60 | [Carneiros Beach](https://open.spotify.com/track/33NG5U8673kHJAS249qbFb) | [Carlos Robalinho](https://open.spotify.com/artist/1lyeueezpzyh7J2w3tMoXO) | [Carneiros Beach](https://open.spotify.com/album/2gwvYh1RlW9TtkmYb2Qtyo) | 3:42 |
 
-Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDYyMTRjZGNmOGY0ZTU0MGJjZGRjZTNlMjQ0MjM3NTgy`
+Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDIzN2Y0M2I5MjQ5ZmVkNzgzYTY2ZmVmNmQxYTZkYmRl`

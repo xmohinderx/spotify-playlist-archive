@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Valdes.
 
-142 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/4BUp4yjqSNj5hKWR44pt15)
+143 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/4BUp4yjqSNj5hKWR44pt15)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Ni Modo](https://open.spotify.com/track/07bx4AFTgpteGlUGl08BhM) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Ni Modo](https://open.spotify.com/album/0KUDLBqDg0mtDAeNFgq203) | 2:15 | 2022-05-20 |  |
 | [Ni Una Cosa Ni la Otra](https://open.spotify.com/track/41qlbgS7KPPiuvJ29pRW6Y) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Ni Una Cosa Ni La Otra](https://open.spotify.com/album/6mRskuWBiKC2L4kHAdsqSX) | 4:31 | 2022-05-20 | 2022-07-16 |
 | [Niña](https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Niña](https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj) | 3:20 | 2022-05-20 |  |
+| [No Te Acerques Tanto a Mí](https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4) | [Margarita Pla](https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii) | [Respirar de Nuevo](https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On) | 4:33 | 2022-11-11 |  |
 | [No Te Puedo Decir Que No](https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [No Te Puedo Decir Que No](https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp) | 3:03 | 2022-05-20 |  |
 | [nomás tú](https://open.spotify.com/track/2QOWWawJs7RLfttH4BXPXa) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [nomás tú](https://open.spotify.com/album/638iojk5ANMxC2zlVcjd16) | 2:37 | 2022-05-20 |  |
 | [Nosotros Dos](https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Nosotros Dos](https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj) | 4:06 | 2022-05-20 |  |
@@ -116,7 +117,7 @@
 | [Postre](https://open.spotify.com/track/1OBjbKYarukVRG2AYqIXsi) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Postre](https://open.spotify.com/album/3ayGisd0er515a1Vq3zhqN) | 3:00 | 2022-05-20 | 2022-12-18 |
 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 | 2022-11-11 |  |
 | [Que Placer](https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Locomotora](https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf) | 3:05 | 2022-11-11 |  |
-| [Quiero Seguir Durmiendo](https://open.spotify.com/track/6vo21NT3rATjoi1ZWtc6sU) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Quiero Seguir Durmiendo](https://open.spotify.com/album/5UJhwNUlF8F9Y4WbRD7MDu) | 2:49 | 2022-05-20 |  |
+| [Quiero Seguir Durmiendo](https://open.spotify.com/track/6vo21NT3rATjoi1ZWtc6sU) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Quiero Seguir Durmiendo](https://open.spotify.com/album/5UJhwNUlF8F9Y4WbRD7MDu) | 2:49 | 2022-05-20 | 2022-12-29 |
 | [Radar](https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58) | 2:42 | 2022-05-20 | 2022-07-16 |
 | [Rara](https://open.spotify.com/track/4nVKNgndC4DezUMjNY3Yvz) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Planes para Hoy](https://open.spotify.com/album/4FdQLnzWnqdUCgNV1qc2Bc) | 4:43 | 2022-05-20 |  |
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2022-05-20 |  |

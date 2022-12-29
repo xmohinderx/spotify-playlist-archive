@@ -1,12 +1,12 @@
 {
   "description": "Set the perfect brunch mood with instrumental and vocal Jazz.",
-  "num_followers": 11019,
+  "num_followers": 11056,
   "original_name": "Brunch Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDdhODIwY2MxZDkzYmFiYmFmZDA5YTcyM2RiNGJhZTlj",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMGJhZTc0NThjMTE3YTMxNjlmNmQxMTMxZDk1MTMzZTgz",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Roll Call",
-        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 407533,
-      "name": "The More I See You - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Jeru",
         "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 332333,
       "name": "Inside Impromptu",
       "url": "https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Roll Call",
+        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 407533,
+      "name": "The More I See You - Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "We Get Requests",
-        "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 160133,
-      "name": "Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/521qezMfJ71NGibQanQvvN"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Explorations [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 213720,
       "name": "How Deep Is The Ocean",
       "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "We Get Requests",
+        "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 160133,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/521qezMfJ71NGibQanQvvN"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Moten Swing",
-      "url": "https://open.spotify.com/track/1haPzI492gIfPLv27qKUHA"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Quiet Kenny",
         "url": "https://open.spotify.com/album/12tlFVNl1jvVru8EtB5HEn"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
       },
       "artists": [
         {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 185800,
-      "name": "Don't Get Around Much Any More",
-      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+      "duration_ms": 172800,
+      "name": "Moten Swing",
+      "url": "https://open.spotify.com/track/1haPzI492gIfPLv27qKUHA"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -467,6 +451,22 @@
       "duration_ms": 304373,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/6uoJ2NJAwM4ypScoRbGZyR"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Don't Get Around Much Any More",
+      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -583,30 +583,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Soular Energy",
-        "url": "https://open.spotify.com/album/35X3ykw0Ysj1Epv9Vx8uo8"
-      },
-      "artists": [
-        {
-          "name": "Ray Brown Trio",
-          "url": "https://open.spotify.com/artist/3kcjzDWaSVR3VqgEIBZIdo"
-        },
-        {
-          "name": "Gene Harris",
-          "url": "https://open.spotify.com/artist/7HZokAjDop6Gjgtghfr8lp"
-        },
-        {
-          "name": "Phil Edwards",
-          "url": "https://open.spotify.com/artist/1L6YiOqUa0q8GJmgF8xqUd"
-        }
-      ],
-      "duration_ms": 345520,
-      "name": "Exactly Like You",
-      "url": "https://open.spotify.com/track/4gogxeItIt50DZFZrzCqqt"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Wrapped Tight",
         "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
       },
@@ -635,6 +611,30 @@
       "duration_ms": 220520,
       "name": "Red Pepper Blues",
       "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Soular Energy",
+        "url": "https://open.spotify.com/album/35X3ykw0Ysj1Epv9Vx8uo8"
+      },
+      "artists": [
+        {
+          "name": "Ray Brown Trio",
+          "url": "https://open.spotify.com/artist/3kcjzDWaSVR3VqgEIBZIdo"
+        },
+        {
+          "name": "Gene Harris",
+          "url": "https://open.spotify.com/artist/7HZokAjDop6Gjgtghfr8lp"
+        },
+        {
+          "name": "Phil Edwards",
+          "url": "https://open.spotify.com/artist/1L6YiOqUa0q8GJmgF8xqUd"
+        }
+      ],
+      "duration_ms": 345520,
+      "name": "Exactly Like You",
+      "url": "https://open.spotify.com/track/4gogxeItIt50DZFZrzCqqt"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Blue Serge",
-        "url": "https://open.spotify.com/album/5i1fTxPtjfONNBEuIStYIM"
+        "name": "Saxophone Supremacy",
+        "url": "https://open.spotify.com/album/2e6azkD3xAzR0bQ8sJHPPb"
       },
       "artists": [
         {
-          "name": "Serge Chaloff",
-          "url": "https://open.spotify.com/artist/1Ic9vseHq7wmDPdsZyjMdv"
+          "name": "Sonny Stitt Quartet",
+          "url": "https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H"
         }
       ],
-      "duration_ms": 335933,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/5KchCZytpApt4oW8f9rkLI"
+      "duration_ms": 230120,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/76mRDTbUFAUyG0yRMzpwwj"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1087,34 +1087,34 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Saxophone Supremacy",
-        "url": "https://open.spotify.com/album/2e6azkD3xAzR0bQ8sJHPPb"
+        "name": "Blue Serge",
+        "url": "https://open.spotify.com/album/5i1fTxPtjfONNBEuIStYIM"
       },
       "artists": [
         {
-          "name": "Sonny Stitt Quartet",
-          "url": "https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H"
+          "name": "Serge Chaloff",
+          "url": "https://open.spotify.com/artist/1Ic9vseHq7wmDPdsZyjMdv"
         }
       ],
-      "duration_ms": 230120,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/76mRDTbUFAUyG0yRMzpwwj"
+      "duration_ms": 335933,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/5KchCZytpApt4oW8f9rkLI"
     },
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Soul Call",
-        "url": "https://open.spotify.com/album/15ccY5H0H0HAVSLRuZwo1S"
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
       },
       "artists": [
         {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 312506,
-      "name": "I'm Just A Lucky So And So",
-      "url": "https://open.spotify.com/track/0ELeaBGn9P1cddgiyz6tEi"
+      "duration_ms": 203000,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/3JKnr1nLxocKNQMpmpAhpt"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
+        "name": "Soul Call",
+        "url": "https://open.spotify.com/album/15ccY5H0H0HAVSLRuZwo1S"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/3JKnr1nLxocKNQMpmpAhpt"
+      "duration_ms": 312506,
+      "name": "I'm Just A Lucky So And So",
+      "url": "https://open.spotify.com/track/0ELeaBGn9P1cddgiyz6tEi"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "The Lionel Hampton Quintet",
+        "url": "https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh"
+      },
+      "artists": [
+        {
+          "name": "Lionel Hampton Quintet",
+          "url": "https://open.spotify.com/artist/6g0oXT50l2WJk1ggy7Hsnd"
+        }
+      ],
+      "duration_ms": 382773,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Buddy And Sweets",
         "url": "https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 204200,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/3V2IgdbFSyoAYBwTujQ7GL"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "The Lionel Hampton Quintet",
-        "url": "https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh"
-      },
-      "artists": [
-        {
-          "name": "Lionel Hampton Quintet",
-          "url": "https://open.spotify.com/artist/6g0oXT50l2WJk1ggy7Hsnd"
-        }
-      ],
-      "duration_ms": 382773,
-      "name": "April In Paris",
-      "url": "https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "The Unforgettable George Shearing",
-        "url": "https://open.spotify.com/album/5qU8e6quy0VHFaTS1S104j"
-      },
-      "artists": [
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 140880,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/6aBJprxtSLncRLIT8FJi28"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "On a Slow Boat to China",
         "url": "https://open.spotify.com/album/1j5TgAZ4Udty6CRgAVYaws"
       },
@@ -1423,6 +1407,42 @@
       "duration_ms": 290040,
       "name": "What Is This Thing Called Love? - Instrumental",
       "url": "https://open.spotify.com/track/1A2ioCDTc0lDVuCUpBwh3v"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "The Unforgettable George Shearing",
+        "url": "https://open.spotify.com/album/5qU8e6quy0VHFaTS1S104j"
+      },
+      "artists": [
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 140880,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/6aBJprxtSLncRLIT8FJi28"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Bags Meets Wes [Keepnews Collection]",
+        "url": "https://open.spotify.com/album/0MRn6bdBb83HGYCssD2Sp3"
+      },
+      "artists": [
+        {
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+        },
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 317413,
+      "name": "S.K.J.",
+      "url": "https://open.spotify.com/track/3cGQV0JaTjzB4nMe9h3oru"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1467,26 +1487,6 @@
       "duration_ms": 561400,
       "name": "Silver's Serenade - 20-Bit Remastering/1997",
       "url": "https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Bags Meets Wes [Keepnews Collection]",
-        "url": "https://open.spotify.com/album/0MRn6bdBb83HGYCssD2Sp3"
-      },
-      "artists": [
-        {
-          "name": "Milt Jackson",
-          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
-        },
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 317413,
-      "name": "S.K.J.",
-      "url": "https://open.spotify.com/track/3cGQV0JaTjzB4nMe9h3oru"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/35GC6fz2v6ZoXcVlKf6BA6"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        }
+      ],
+      "duration_ms": 294973,
+      "name": "The Touch Of Your Lips - Remastered",
+      "url": "https://open.spotify.com/track/3ZTityDuOCHIM7ow7twjmX"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Bond: The Paris Sessions",
         "url": "https://open.spotify.com/album/7Gz8HtQfjCxFNNFD67MuI2"
       },
@@ -1655,8 +1671,8 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Just You, Just Me",
-        "url": "https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN"
+        "name": "Laughin' to Keep From Cryin'",
+        "url": "https://open.spotify.com/album/1oPpesguMVx0RdT77HDsKo"
       },
       "artists": [
         {
@@ -1664,25 +1680,9 @@
           "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
         }
       ],
-      "duration_ms": 208400,
-      "name": "On the Sunny Side of the Street - 2003 Remastered Version",
-      "url": "https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Modern Art",
-        "url": "https://open.spotify.com/album/35GC6fz2v6ZoXcVlKf6BA6"
-      },
-      "artists": [
-        {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
-        }
-      ],
-      "duration_ms": 294973,
-      "name": "The Touch Of Your Lips - Remastered",
-      "url": "https://open.spotify.com/track/3ZTityDuOCHIM7ow7twjmX"
+      "duration_ms": 512266,
+      "name": "Salute To Benny",
+      "url": "https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu"
     },
     {
       "added_at": "2022-12-22 23:00:00",

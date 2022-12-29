@@ -1,12 +1,12 @@
 {
   "description": "The best in Afro Bashment, Afro Swing and all that good stuff. Cover: Kelvyn Boy",
-  "num_followers": 273604,
+  "num_followers": 273699,
   "original_name": "Afro Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTAyOTA3MiwwMDAwMDAwMGU3MjRlY2NmNjU4MWQ3YmJhYWFjYjk3N2U5MGQ5ZDJh",
+  "snapshot_id": "MTY2OTAyOTA3MiwwMDAwMDAwMGM4NWZlZTczNjJkOTc3Mzc2MGFhZmRiN2VlM2YwMDRl",
   "tracks": [
     {
       "added_at": "2022-10-23 18:37:24",
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
     },
     {
-      "added_at": "2022-12-28 00:55:25",
+      "added_at": "2022-12-29 00:40:17",
       "album": {
         "name": "Namek",
         "url": "https://open.spotify.com/album/1VCr5EN02r1K83Mi8vwRO7"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
     },
     {
-      "added_at": "2022-12-28 00:55:25",
+      "added_at": "2022-12-29 00:40:17",
       "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/58mtgcQVZ56NgWHKsN94nD"
     },
     {
-      "added_at": "2022-12-28 00:55:25",
+      "added_at": "2022-12-29 00:40:17",
       "album": {
         "name": "More Love, Less Ego",
         "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
@@ -711,6 +711,42 @@
     {
       "added_at": "2022-10-23 18:37:24",
       "album": {
+        "name": "Kwaku the Traveller",
+        "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 185364,
+      "name": "Kwaku the Traveller",
+      "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
+    },
+    {
+      "added_at": "2022-10-23 18:37:24",
+      "album": {
+        "name": "KOLO (feat. Oxlade)",
+        "url": "https://open.spotify.com/album/4SGcHxa7P2vKHNknKXYRXu"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 168013,
+      "name": "KOLO (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/1UM3RVanAaakxcx9GkfNTL"
+    },
+    {
+      "added_at": "2022-10-23 18:37:24",
+      "album": {
         "name": "We're All Alone In This Together",
         "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
@@ -747,42 +783,6 @@
       "duration_ms": 211050,
       "name": "Cloak & Dagger (feat. J Hus)",
       "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
-    },
-    {
-      "added_at": "2022-10-23 18:37:24",
-      "album": {
-        "name": "Kwaku the Traveller",
-        "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185364,
-      "name": "Kwaku the Traveller",
-      "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
-    },
-    {
-      "added_at": "2022-10-23 18:37:24",
-      "album": {
-        "name": "KOLO (feat. Oxlade)",
-        "url": "https://open.spotify.com/album/4SGcHxa7P2vKHNknKXYRXu"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 168013,
-      "name": "KOLO (feat. Oxlade)",
-      "url": "https://open.spotify.com/track/1UM3RVanAaakxcx9GkfNTL"
     },
     {
       "added_at": "2022-10-23 18:37:24",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-10-23 18:37:24",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "Gal Policy",
+        "url": "https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
         }
       ],
-      "duration_ms": 152692,
-      "name": "Kilometre",
-      "url": "https://open.spotify.com/track/03YUNUpazIbzwqJq2YSBvB"
+      "duration_ms": 136826,
+      "name": "Gal Policy",
+      "url": "https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx"
     }
   ],
   "unique_name": "Afro Bashment",

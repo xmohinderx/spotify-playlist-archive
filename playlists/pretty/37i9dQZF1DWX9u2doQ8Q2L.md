@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,933 likes - 70 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,993 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 15 | [ファミリイ・コンテンツ](https://open.spotify.com/track/67V5axrqkSQF6azx2GNAIj) | [ayU tokiO](https://open.spotify.com/artist/3hu4NDbJsdOALVe4K61lHE) | [ファミリイ・コンテンツ](https://open.spotify.com/album/7DWzRqtaOkiryJLcfVBo2m) | 3:17 |
 | 16 | [Midnight Inclusion](https://open.spotify.com/track/3MqWoxJK7lI4f1o97RChHs) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [Midnight Inclusion](https://open.spotify.com/album/07qpfnsM4dhv0bRUe187Ut) | 3:44 |
 | 17 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
-| 18 | [KANATA HALUKA](https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 5:55 |
-| 19 | [暴く春](https://open.spotify.com/track/4CnQzzLlHEezMLqflJpWmS) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [暴く春](https://open.spotify.com/album/2fIYGVS9QPcWS95wSqLdXs) | 3:26 |
-| 20 | [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 |
+| 18 | [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 |
+| 19 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 |
+| 20 | [KANATA HALUKA](https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 5:55 |
 | 21 | [Akashic World \- SYO VIP Remix](https://open.spotify.com/track/0eWRIHByO3AFYe15XPMjK6) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [SYO](https://open.spotify.com/artist/0tCRCsOhEyiu1oSEE0XfJh) | [Akashic World \(SYO VIP Remix\)](https://open.spotify.com/album/6Mm6I2MriwrnZ8zVrPR2DA) | 3:04 |
 | 22 | [一筋差す](https://open.spotify.com/track/3nUxOIrdcQ63xKVg0PpXzn) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [一筋差す](https://open.spotify.com/album/1GxaPl9ZoBUyicgM43GUUm) | 3:05 |
 | 23 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 |
@@ -66,17 +66,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 56 | [Taxi driver](https://open.spotify.com/track/081aH87V7FfLfGoenHYBQE) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Taxi driver](https://open.spotify.com/album/1JBnoKEtIT5Fc3gJbsiZ5c) | 3:49 |
 | 57 | [friends](https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [friends](https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8) | 3:49 |
 | 58 | [天国にいちばん近い島](https://open.spotify.com/track/67wpz675S04tMcORr36Psb) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [天国にいちばん近い島](https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta) | 4:43 |
-| 59 | [CHILLIN \(feat\. Daichi Yamamoto\)](https://open.spotify.com/track/41tQErMclr6VBRAIsjAuhj) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [CROWS](https://open.spotify.com/album/2D8HpOl0a3Bs2A1iAG0Zyd) | 2:50 |
-| 60 | [blur and flower](https://open.spotify.com/track/69Za0q72RlvUiwaiZkJbEQ) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [点描](https://open.spotify.com/album/4YB963L0XoHhaa6qqOW2Gf) | 4:18 |
+| 59 | [blur and flower](https://open.spotify.com/track/69Za0q72RlvUiwaiZkJbEQ) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [点描](https://open.spotify.com/album/4YB963L0XoHhaa6qqOW2Gf) | 4:18 |
+| 60 | [CHILLIN \(feat\. Daichi Yamamoto\)](https://open.spotify.com/track/41tQErMclr6VBRAIsjAuhj) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [CROWS](https://open.spotify.com/album/2D8HpOl0a3Bs2A1iAG0Zyd) | 2:50 |
 | 61 | [Treasure](https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [SEASONS](https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao) | 4:01 |
 | 62 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 |
-| 63 | [Let Me Feel It](https://open.spotify.com/track/6qpPM5slx9r1m9O8x5ngzs) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Chase After](https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS) | 4:05 |
-| 64 | [ロマンス](https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [ロマンス](https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf) | 3:44 |
-| 65 | [19℃](https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [19℃](https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS) | 4:13 |
-| 66 | [No Pressure](https://open.spotify.com/track/620i08CTZIo1K9ycN144lg) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [No Pressure](https://open.spotify.com/album/57ZF8cCdV6bjk1Eu9Po6oa) | 3:36 |
-| 67 | [HOWL](https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 4:03 |
-| 68 | [プラスティック・ラブ](https://open.spotify.com/track/4wGxmG5XLeSs4EiUzhbOcY) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [プラスティック・ラブ](https://open.spotify.com/album/2sbbdJ8TzA6zdXySG4jpDD) | 5:00 |
-| 69 | [向こうから](https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [向こうから](https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR) | 3:45 |
-| 70 | [Everything With You](https://open.spotify.com/track/1Q6e1o8Dy3H8wG0RGahl2t) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 3:58 |
+| 63 | [Get High](https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Get High](https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK) | 3:40 |
+| 64 | [Let Me Feel It](https://open.spotify.com/track/6qpPM5slx9r1m9O8x5ngzs) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Chase After](https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS) | 4:05 |
+| 65 | [ロマンス](https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [ロマンス](https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf) | 3:44 |
+| 66 | [19℃](https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [19℃](https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS) | 4:13 |
+| 67 | [No Pressure](https://open.spotify.com/track/620i08CTZIo1K9ycN144lg) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [No Pressure](https://open.spotify.com/album/57ZF8cCdV6bjk1Eu9Po6oa) | 3:36 |
+| 68 | [向こうから](https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [向こうから](https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR) | 3:45 |
+| 69 | [HOWL](https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 4:03 |
+| 70 | [プラスティック・ラブ](https://open.spotify.com/track/4wGxmG5XLeSs4EiUzhbOcY) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [プラスティック・ラブ](https://open.spotify.com/album/2sbbdJ8TzA6zdXySG4jpDD) | 5:00 |
 
-Snapshot ID: `MTY3MjE1MzIwMCwwMDAwMDAwMDQ5MWFkM2IzMjEyN2UwODhhYTc0MTAyNjcxMmY2OWM0`
+Snapshot ID: `MTY3MjE1MzIwMCwwMDAwMDAwMDQ0NTkyZDE3NDhlMWQzZGI1ZWQ3NTQ3YjlkMDkyZDA0`

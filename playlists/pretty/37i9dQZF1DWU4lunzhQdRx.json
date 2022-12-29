@@ -1,12 +1,12 @@
 {
   "description": "cry just a little",
-  "num_followers": 46983,
+  "num_followers": 47266,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDZkNWJhNzg0N2FlZmQ3NDY4MDU0NWUxZmM0ZGI2OWY1",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGVmMTg4MTg5ODY2YjU1NzNlNjFiZmM4ZjZhOTMzOGNk",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 234515,
-      "name": "White Horse (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Mr. Misunderstood",
         "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 179346,
       "name": "Record Year",
       "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 234515,
+      "name": "White Horse (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Every Little Thing",
-        "url": "https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 180053,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Four The Record",
         "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 253373,
       "name": "Over You",
       "url": "https://open.spotify.com/track/3fDsErbmOD3TuaSDuxSXav"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Every Little Thing",
+        "url": "https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 180053,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1"
     },
     {
       "added_at": "2022-12-09 05:00:00",

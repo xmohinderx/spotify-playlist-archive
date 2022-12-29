@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 131736,
       "name": "All Day, All Night",
       "url": "https://open.spotify.com/track/0H9PHWhpMI7LEhZu6U9Cfb"
@@ -1269,7 +1269,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 230588,
       "name": "Changed",
       "url": "https://open.spotify.com/track/1eqUhiAigR4rtx5EmZkiNl"
@@ -2408,6 +2408,24 @@
     },
     {
       "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
+    },
+    {
+      "album": {
         "name": "Find a New Woman",
         "url": "https://open.spotify.com/album/0496eUt0NO2J8iTYM92KkK"
       },
@@ -2651,6 +2669,24 @@
       "duration_ms": 279059,
       "name": "GO (Detroit Swindle Remix)",
       "url": "https://open.spotify.com/track/3dBUKgLv3oFrE9kYhboIXm"
+    },
+    {
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207346,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
     },
     {
       "album": {
@@ -3713,7 +3749,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 112066,
       "name": "Jumping Fences",
       "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
@@ -3771,6 +3807,24 @@
       "duration_ms": 186013,
       "name": "Just Go",
       "url": "https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc"
+    },
+    {
+      "album": {
+        "name": "Just Like You Used To",
+        "url": "https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188155,
+      "name": "Just Like You Used To",
+      "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
     },
     {
       "album": {
@@ -4384,6 +4438,24 @@
     },
     {
       "album": {
+        "name": "Love Is The Way",
+        "url": "https://open.spotify.com/album/1WiszSvpOFgvxk1d0pCFMw"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179836,
+      "name": "Love Is The Way",
+      "url": "https://open.spotify.com/track/4Z0aGS1P0KxyPlBpqHpJ0F"
+    },
+    {
+      "album": {
         "name": "Love Survive",
         "url": "https://open.spotify.com/album/4FRWa4MJSeId62zVtrYMQw"
       },
@@ -4889,7 +4961,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
@@ -5357,6 +5429,24 @@
       "duration_ms": 262933,
       "name": "Olha a Pipa",
       "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
+    },
+    {
+      "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221600,
+      "name": "On + Off",
+      "url": "https://open.spotify.com/track/2kvwSbG26eHKUJdvH7DiR2"
     },
     {
       "album": {
@@ -8587,7 +8677,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 211547,
       "name": "You Want the Sun",
       "url": "https://open.spotify.com/track/42K7gCdALsYYyaccZzifzU"

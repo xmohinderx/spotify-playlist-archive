@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Gary Clark Jr.",
-  "num_followers": 138281,
+  "num_followers": 138330,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDQzZGUxZGEyMGIzNmIxZjRkMGMzODMxOTZkYmY0OWEw",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDM3ZTI3MmU0NWQyNTkwMmEwMWM1NWY1NjFhY2YyMmEx",
   "tracks": [
     {
       "added_at": "2022-10-21 04:01:00",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/15vRL4NwrNpgTwFY5rPnNf"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Ballad of a Thin Man",
-        "url": "https://open.spotify.com/album/1UR6yF1dvoYhX3D2koRIzT"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 393586,
-      "name": "Ballad of a Thin Man",
-      "url": "https://open.spotify.com/track/3SFUwGNG1YuyZgBiDbMun6"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Ones to Keep Close",
@@ -773,20 +757,20 @@
       "url": "https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd"
+        "name": "Ballad of a Thin Man",
+        "url": "https://open.spotify.com/album/1UR6yF1dvoYhX3D2koRIzT"
       },
       "artists": [
         {
-          "name": "Chris Leamy",
-          "url": "https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx"
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
         }
       ],
-      "duration_ms": 165954,
-      "name": "Louder",
-      "url": "https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt"
+      "duration_ms": 393586,
+      "name": "Ballad of a Thin Man",
+      "url": "https://open.spotify.com/track/3SFUwGNG1YuyZgBiDbMun6"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -803,6 +787,22 @@
       "duration_ms": 262426,
       "name": "Got Love - Made In Muscle Shoals",
       "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd"
+      },
+      "artists": [
+        {
+          "name": "Chris Leamy",
+          "url": "https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx"
+        }
+      ],
+      "duration_ms": 165954,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt"
     },
     {
       "added_at": "2021-03-26 04:01:00",

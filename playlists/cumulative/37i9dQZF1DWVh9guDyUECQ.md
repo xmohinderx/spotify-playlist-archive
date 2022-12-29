@@ -4,7 +4,7 @@
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-322 songs - 18 hr 58 min - [published](https://open.spotify.com/playlist/6c2GnXTfpCe6c4SEH9u1bm)
+323 songs - 19 hr 1 min - [published](https://open.spotify.com/playlist/6c2GnXTfpCe6c4SEH9u1bm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Canciones Eternas](https://open.spotify.com/track/49RxMW7KwbrboLyEt56dAO) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH) | [Canciones Eternas](https://open.spotify.com/album/7EAeWsQ7Dux4dzVp9ZER7O) | 2:58 | 2022-04-17 | 2022-07-26 |
 | [Cerca de Ti](https://open.spotify.com/track/7mJG1RlCUYhymr8EQ4seX6) | [Purpxse](https://open.spotify.com/artist/6e0WR0AptINhS2PAg6Cbyy) | [Cerca de Ti](https://open.spotify.com/album/47dHYQlmwraMk9OK6TWOZw) | 3:02 | 2021-11-05 | 2022-03-21 |
 | [Champion](https://open.spotify.com/track/05Nv9lIMEtxcKuFoIC3C23) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Peter Metivier](https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg) | [Mi Mundo](https://open.spotify.com/album/1vHnWYTsrwRH1rljc1LuXi) | 2:39 | 2022-04-17 | 2022-08-28 |
+| [Cielo](https://open.spotify.com/track/6hqctfu3b8INEoarQ6GyzP) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Cielo](https://open.spotify.com/album/6QXkdgqP0i3oeA5TVF3zcJ) | 3:13 | 2022-08-27 |  |
 | [Cielo Perdido](https://open.spotify.com/track/1OnJP2Aed5r50I4FXz0TW5) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Cielo Perdido](https://open.spotify.com/album/0Qg8Brq5SedIFFlaMivUPD) | 3:49 | 2021-11-05 | 2022-04-18 |
 | [Coherente](https://open.spotify.com/track/22pj7yWr73ynml9mibAuz8) | [Andrei](https://open.spotify.com/artist/15zhb9j4309wsdKgYHEjk2) | [Coherente](https://open.spotify.com/album/54kl14A4bgyz7Mzga9GZ1l) | 2:57 | 2021-11-05 | 2022-03-18 |
 | [Coherente \- Remix](https://open.spotify.com/track/3fgkDvwdu13ZAPX1G6mIBG) | [Andrei](https://open.spotify.com/artist/15zhb9j4309wsdKgYHEjk2), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Lilo Music](https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd), [River](https://open.spotify.com/artist/0m0a8tOXrM3wJD6IrCuPtg), [Eva Nova 316](https://open.spotify.com/artist/5CbDz8EWLDk7P8xgYBtOD3) | [Coherente \(Remix\)](https://open.spotify.com/album/6erIbMFLSyn6jt5WnJ2D1P) | 3:54 | 2022-04-17 | 2022-07-01 |
@@ -273,7 +274,7 @@
 | [Solo Remix](https://open.spotify.com/track/1A3HgBk9LMQtVdPLvluQaY) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Solo Remix](https://open.spotify.com/album/1m21eOsS6KnTqt8yg2OT0W) | 3:47 | 2021-11-05 | 2022-04-18 |
 | [Somos Las Voces](https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [Somos Las Voces](https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj) | 4:02 | 2022-08-27 |  |
 | [Somos Uno](https://open.spotify.com/track/1uABVd0XV7yZLb3kAHEtUI) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV), [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Somos Uno](https://open.spotify.com/album/7uBOVDAdKIUIw8KpsNAhvJ) | 2:15 | 2022-04-17 |  |
-| [Soy Tan Feliz](https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw), [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db) | [Soy Tan Feliz](https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap) | 4:26 | 2022-04-17 |  |
+| [Soy Tan Feliz](https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw), [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db) | [Soy Tan Feliz](https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap) | 4:26 | 2022-04-17 | 2022-12-29 |
 | [Soy Tu Dios](https://open.spotify.com/track/0sCtR0OUhlcTjJXzxMTECB) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Soy Tu Dios](https://open.spotify.com/album/3B0iu2rLEJiFx1ATTY6W7R) | 3:54 | 2021-11-05 | 2022-04-18 |
 | [Tamos de Fiesta](https://open.spotify.com/track/0ft6Igxvsf1HYVFHDp1aX1) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Tamos de Fiesta](https://open.spotify.com/album/6JCYBeSj1gVZoq0kbrxtao) | 3:18 | 2022-08-27 |  |
 | [TBT](https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y) | [Artury Pepper](https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57), [Coron3l](https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg) | [TBT](https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs) | 3:30 | 2022-04-17 |  |

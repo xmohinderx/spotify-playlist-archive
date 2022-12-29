@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 139894,
+  "num_followers": 139934,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjAyMjU1NCwwMDAwMDAwMGNmMjU4MjZlMzE2ZDdmYTc2Njk0YTJhMTBmMjU3ZDMx",
+  "snapshot_id": "MTY3MjAyMjU1NCwwMDAwMDAwMDE1MzA4NDQ4YWNkYzM1Yzc5NzQ5MzllYmM5NDk4NjZm",
   "tracks": [
     {
       "added_at": "2022-12-26 02:42:34",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 172354,
-      "name": "always",
-      "url": "https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 181622,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
+        "name": "always",
+        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 172354,
+      "name": "always",
+      "url": "https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
-        "name": "at least i look cool",
-        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 171695,
-      "name": "at least i look cool",
-      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
         "name": "Eight",
         "url": "https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
-        "name": "Better Version",
-        "url": "https://open.spotify.com/album/7KG6TtKMZAIPtY1T3ApyeU"
+        "name": "at least i look cool",
+        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
       },
       "artists": [
         {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 215117,
-      "name": "Better Version",
-      "url": "https://open.spotify.com/track/6OYly4TGeYQFNXrt6Qh1JA"
+      "duration_ms": 171695,
+      "name": "at least i look cool",
+      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -1439,6 +1423,22 @@
       "duration_ms": 182857,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/4DwW1HW7iEK7DtUDiSte3X"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
+        "name": "Better Version",
+        "url": "https://open.spotify.com/album/7KG6TtKMZAIPtY1T3ApyeU"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 215117,
+      "name": "Better Version",
+      "url": "https://open.spotify.com/track/6OYly4TGeYQFNXrt6Qh1JA"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
-      },
-      "artists": [
-        {
-          "name": "BV",
-          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
         "name": "Sixteen",
         "url": "https://open.spotify.com/album/5Vg7mzIqprZiIEbmbblZWH"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 210280,
       "name": "From You",
       "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
+      },
+      "artists": [
+        {
+          "name": "BV",
+          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
     },
     {
       "added_at": "2022-12-26 02:42:34",

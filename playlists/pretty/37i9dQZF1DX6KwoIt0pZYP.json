@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 137210,
+  "num_followers": 137388,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEyMDE0MywwMDAwMDAwMDgyMTljYWY0ZjI5YTM1OGI4Y2U5ZmFmYTk2MDA4ZjNj",
+  "snapshot_id": "MTY3MTEyMDE0MywwMDAwMDAwMGIyYWMwYzQ1NzMwNTczNmNkYjU4NWM0M2JkYmQ3ZDU2",
   "tracks": [
     {
       "added_at": "2022-12-15 16:02:23",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-12-15 16:02:23",
       "album": {
+        "name": "confidence in me",
+        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 162151,
+      "name": "confidence in me",
+      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
+    },
+    {
+      "added_at": "2022-12-15 16:02:23",
+      "album": {
         "name": "Nicole",
         "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 182645,
       "name": "you won't be there for me",
       "url": "https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR"
-    },
-    {
-      "added_at": "2022-12-15 16:02:23",
-      "album": {
-        "name": "confidence in me",
-        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 162151,
-      "name": "confidence in me",
-      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
     },
     {
       "added_at": "2022-12-15 16:02:23",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-12-15 16:02:23",
       "album": {
-        "name": "Crush(ed)",
-        "url": "https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 150645,
-      "name": "Miss Me Too",
-      "url": "https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1"
-    },
-    {
-      "added_at": "2022-12-15 16:02:23",
-      "album": {
         "name": "Chilly",
         "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 230000,
       "name": "Chilly",
       "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
+    },
+    {
+      "added_at": "2022-12-15 16:02:23",
+      "album": {
+        "name": "Crush(ed)",
+        "url": "https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 150645,
+      "name": "Miss Me Too",
+      "url": "https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1"
     },
     {
       "added_at": "2022-12-15 16:02:23",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-12-15 16:02:23",
       "album": {
-        "name": "Whiskey Bottle",
-        "url": "https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "Whiskey Bottle",
-      "url": "https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv"
-    },
-    {
-      "added_at": "2022-12-15 16:02:23",
-      "album": {
         "name": "Japan",
         "url": "https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 216299,
       "name": "Japan",
       "url": "https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k"
+    },
+    {
+      "added_at": "2022-12-15 16:02:23",
+      "album": {
+        "name": "Whiskey Bottle",
+        "url": "https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Whiskey Bottle",
+      "url": "https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv"
     },
     {
       "added_at": "2022-12-15 16:02:23",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2022-12-15 16:02:23",
       "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
+        "name": "Summer Is Like a Dream",
+        "url": "https://open.spotify.com/album/7idmlJAWeoa2hk8pU0CIxg"
       },
       "artists": [
         {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
         }
       ],
-      "duration_ms": 133897,
-      "name": "24",
-      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
+      "duration_ms": 170666,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2OqnARPTauGuGFQN1CnEro"
     },
     {
       "added_at": "2022-12-15 16:02:23",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2022-12-15 16:02:23",
       "album": {
-        "name": "Summer Is Like a Dream",
-        "url": "https://open.spotify.com/album/7idmlJAWeoa2hk8pU0CIxg"
+        "name": "24",
+        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
       },
       "artists": [
         {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
         }
       ],
-      "duration_ms": 170666,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/2OqnARPTauGuGFQN1CnEro"
+      "duration_ms": 133897,
+      "name": "24",
+      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
     },
     {
       "added_at": "2022-12-15 16:02:23",
@@ -1399,22 +1399,6 @@
       "duration_ms": 144250,
       "name": "Good For A Time (feat. Bea Lorenzo)",
       "url": "https://open.spotify.com/track/3uan6scrspVI9GQQWdtya2"
-    },
-    {
-      "added_at": "2022-12-15 16:02:23",
-      "album": {
-        "name": "There And Back Again",
-        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 174386,
-      "name": "Lost On Me",
-      "url": "https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc"
     },
     {
       "added_at": "2022-12-15 16:02:23",
@@ -1443,6 +1427,22 @@
       "duration_ms": 148027,
       "name": "Good In Me",
       "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
+    },
+    {
+      "added_at": "2022-12-15 16:02:23",
+      "album": {
+        "name": "There And Back Again",
+        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 174386,
+      "name": "Lost On Me",
+      "url": "https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc"
     },
     {
       "added_at": "2022-12-15 16:02:23",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-12-15 16:02:23",
       "album": {
-        "name": "superficial energy",
-        "url": "https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ"
-      },
-      "artists": [
-        {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
-        }
-      ],
-      "duration_ms": 175674,
-      "name": "superficial energy",
-      "url": "https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5"
-    },
-    {
-      "added_at": "2022-12-15 16:02:23",
-      "album": {
         "name": "the boy",
         "url": "https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 216530,
       "name": "the boy",
       "url": "https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF"
+    },
+    {
+      "added_at": "2022-12-15 16:02:23",
+      "album": {
+        "name": "superficial energy",
+        "url": "https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "duration_ms": 175674,
+      "name": "superficial energy",
+      "url": "https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5"
     },
     {
       "added_at": "2022-12-15 16:02:23",
@@ -1683,18 +1683,22 @@
     {
       "added_at": "2022-12-15 16:02:23",
       "album": {
-        "name": "Crash & Burn",
-        "url": "https://open.spotify.com/album/1YMBzeurg2ACj8eBvardFi"
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
       },
       "artists": [
         {
-          "name": "Francis Karel",
-          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
         }
       ],
-      "duration_ms": 161218,
-      "name": "Crash & Burn",
-      "url": "https://open.spotify.com/track/3XxnocsLBHFAA25FBoFksq"
+      "duration_ms": 183360,
+      "name": "solo",
+      "url": "https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2"
     }
   ],
   "unique_name": "tapioca",

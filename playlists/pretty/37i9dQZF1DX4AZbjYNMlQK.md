@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > ¡Feliz Navidad! Celebra los días festivos con estas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,595 likes - 61 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,563 likes - 61 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 35 | [We're The Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 |
 | 36 | [Solo En Navidad](https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Solo En Navidad](https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs) | 3:11 |
 | 37 | [Al Niño Dios](https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Al Niño Dios](https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo) | 2:33 |
-| 38 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 2:34 |
-| 39 | [Last Christmas \- Versión Español](https://open.spotify.com/track/7kKvFQDrREKrsDc1Dmx3CG) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Last Christmas \(Versión Español\)](https://open.spotify.com/album/76KZzbhufZs8y12v5mBE5w) | 3:21 |
+| 38 | [Last Christmas \- Versión Español](https://open.spotify.com/track/7kKvFQDrREKrsDc1Dmx3CG) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Last Christmas \(Versión Español\)](https://open.spotify.com/album/76KZzbhufZs8y12v5mBE5w) | 3:21 |
+| 39 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 2:34 |
 | 40 | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/track/5ISMjtLXxtXa5mWRQDaZK6) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/album/4uastmbjHgxrGP65Gigd4y) | 3:26 |
 | 41 | [Hallelujah](https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [El Mix\-Tape De Santa](https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a) | 3:22 |
 | 42 | [Holiday](https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Holiday](https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G) | 2:51 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 50 | [Regresé Para Navidad](https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Belu Rodriguez Kuhn](https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN), [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [Regresé Para Navidad](https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe) | 2:47 |
 | 51 | [Navidad En Pr](https://open.spotify.com/track/13mE3Skl0hCb1oigQzobQl) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [Navidad En Pr](https://open.spotify.com/album/7p7YqBXRbW5vEohzUDB6eq) | 4:11 |
 | 52 | [All I Want For Christmas Is You](https://open.spotify.com/track/0KjVUq0RUNrURYShpLtdwq) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [All I Want For Christmas Is You](https://open.spotify.com/album/1VScrppYvea0ZhVxKXiU6V) | 3:29 |
-| 53 | [El Tamborilero](https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [MON SIERRA](https://open.spotify.com/artist/07AkiNkIfcD9XqqmqakiCK) | [Villancicos](https://open.spotify.com/album/0plHwd26dot1EiYNqE1imb) | 4:20 |
-| 54 | [Mi Mejor Regalo](https://open.spotify.com/track/5mlT0dwuKmWnoslcFXRrSa) | [Juan Jose Diaz](https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz), [Victoria Montero](https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Mi Mejor Regalo](https://open.spotify.com/album/50Bt4ZSpTurO3QCBc5a4ad) | 2:57 |
+| 53 | [Mi Mejor Regalo](https://open.spotify.com/track/5mlT0dwuKmWnoslcFXRrSa) | [Juan Jose Diaz](https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz), [Victoria Montero](https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Mi Mejor Regalo](https://open.spotify.com/album/50Bt4ZSpTurO3QCBc5a4ad) | 2:57 |
+| 54 | [El Tamborilero](https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [MON SIERRA](https://open.spotify.com/artist/07AkiNkIfcD9XqqmqakiCK) | [Villancicos](https://open.spotify.com/album/0plHwd26dot1EiYNqE1imb) | 4:20 |
 | 55 | [Nuestra Canción De Navidad](https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nuestra Navidad](https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG) | 3:36 |
 | 56 | [Esta Navidad](https://open.spotify.com/track/4NaX0GnWbYcgTSkmvRLYYC) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Esta Navidad](https://open.spotify.com/album/3vmbZ0rnrXXdv5mhJLfGgQ) | 3:35 |
 | 57 | [ESTE DICIEMBRE](https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [ESTE DICIEMBRE](https://open.spotify.com/album/6Up6WWPwItJ5Ze9BC5yt4w) | 3:02 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 60 | [Para Navidad](https://open.spotify.com/track/7GX2qkdqQmi8rDNkl5terB) | [The Fam](https://open.spotify.com/artist/4vfh2t9u9b9Ekc43M8PcYH) | [Para Navidad](https://open.spotify.com/album/27CeHfJqWFuTSj2IOXCMT2) | 2:57 |
 | 61 | [Mix Navideño](https://open.spotify.com/track/59UYBKR8C6O8aW4bB34JzL) | [Maxi Brito](https://open.spotify.com/artist/1gAwItzJvuDNCkLBeksvqk), [E Negrito](https://open.spotify.com/artist/3cbXGLH5iFcHdxHjoetzuB), [CDI RECORDS S.A.](https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k) | [Mix Navideño](https://open.spotify.com/album/4vrnz7ohoGvbtiBT8cYflV) | 3:19 |
 
-Snapshot ID: `MTY3MTczNDI2OSwwMDAwMDAwMDk4NGY2MDUyNWQ5NGY4YTEzNWE3NzJiYTM0NjYyMDU1`
+Snapshot ID: `MTY3MTczNDI2OSwwMDAwMDAwMDAyYTE0N2Q2MDhiMWRhM2Q1MWY5NDEwMWU4ZmY1YWY3`

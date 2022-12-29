@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,847 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,910 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 48 | [No Mercy In This Land](https://open.spotify.com/track/3nYxmHOm3zQXjSpgYAT2Nn) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [No Mercy In This Land \(Deluxe Edition\)](https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4) | 3:45 |
 | 49 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 |
 | 50 | [Holy Water](https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Things Happen That Way](https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2) | 3:24 |
-| 51 | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2) | 3:08 |
-| 52 | [Real Contender](https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Real Contender](https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9) | 3:21 |
+| 51 | [Real Contender](https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Real Contender](https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9) | 3:21 |
+| 52 | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2) | 3:08 |
 | 53 | [Dry Run](https://open.spotify.com/track/4MGsxGqk5RSuwItODtVsEE) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 3:16 |
 | 54 | [I Know \- 2008 Remaster](https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:47 |
 | 55 | [Does Anybody Know](https://open.spotify.com/track/7HpL4czETBCPqzQhr97eR1) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA) | 3:28 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 90 | [Barefoot In Heaven](https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:30 |
 | 91 | [Country Girl](https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 4:24 |
 | 92 | [Stay Around A Little Longer \(feat\. B.B\. King\)](https://open.spotify.com/track/49xNJS9z0ssQFNPi2oXxXC) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Living Proof](https://open.spotify.com/album/4G9uuVJr2HKndziyWh6wPu) | 5:00 |
-| 93 | [Sunday](https://open.spotify.com/track/6acPKN6yeFBa9vhME9RwIN) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 2:44 |
-| 94 | [Come on Sunshine](https://open.spotify.com/track/3E4fhNu7TbJLrKpbV3yWUp) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Come on Sunshine](https://open.spotify.com/album/7fHZJ4op3XqxSlmuUYoJ4f) | 4:16 |
+| 93 | [Come on Sunshine](https://open.spotify.com/track/3E4fhNu7TbJLrKpbV3yWUp) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Come on Sunshine](https://open.spotify.com/album/7fHZJ4op3XqxSlmuUYoJ4f) | 4:16 |
+| 94 | [Sunday](https://open.spotify.com/track/6acPKN6yeFBa9vhME9RwIN) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 2:44 |
 | 95 | [Let Me Down Easy](https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Let Me Down Easy](https://open.spotify.com/album/05yGqviixZlZrmRiLyz563) | 2:52 |
 | 96 | [I Love Your Rock 'n' Roll](https://open.spotify.com/track/6rBwdTO9YwLm8xzgvdyHIt) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Ride](https://open.spotify.com/album/274mSeGv906bj4ylimeKiW) | 4:14 |
 | 97 | [Ex's House Party](https://open.spotify.com/track/0eTbwl7KzaUDsMwbQCcAcp) | [Elizabeth Moen](https://open.spotify.com/artist/3asn1tEPhRNjVd48GXOo1N) | [Wherever You Aren't](https://open.spotify.com/album/4KwhVr9nLyGgJT2qf54fDc) | 4:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 99 | [Downtown](https://open.spotify.com/track/4dzu4NhhokRDXA8SpR4egQ) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Downtown](https://open.spotify.com/album/0nMJLE97CCbuE9KivHRBle) | 3:42 |
 | 100 | [Honeycomb](https://open.spotify.com/track/6IfSKUayA6YpNLVtfsEDrc) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw) | 2:57 |
 
-Snapshot ID: `MTY3MTYzOTg0OSwwMDAwMDAwMGYyNmVkMmNjMWI3N2U3ZDQ5ZmIxZjJkZjk2YjA0ZDI4`
+Snapshot ID: `MTY3MTYzOTg0OSwwMDAwMDAwMDk4YzIyOGJjN2I4Y2VmN2RmMTY4ZTA2NjY2MzhhZDgw`

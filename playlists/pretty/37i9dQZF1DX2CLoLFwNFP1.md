@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > The hustle king and worldwide multi talent of Korean hip\-hop/r&b.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,874 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,925 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 12 | [Oscar](https://open.spotify.com/track/2Wqnhu5dRQDAQi8Ej6HnVQ) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Golden](https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H1GHR : BLUE TAPE](https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ) | 3:08 |
 | 13 | [Drip \(Feat\. Jay Park\)](https://open.spotify.com/track/2zCXNCWa1RMIHfv0435jhT) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:32 |
 | 14 | [Does She](https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Rouge](https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ) | 3:22 |
-| 15 | [BRB](https://open.spotify.com/track/620yE97rij2snTka7EbKH0) | [H1GHR MUSIC](https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K) | [BRB](https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2) | 5:04 |
-| 16 | [Dedication \(feat\. Jay Park\)](https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Homecoming](https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD) | 2:46 |
+| 15 | [Dedication \(feat\. Jay Park\)](https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Homecoming](https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD) | 2:46 |
+| 16 | [BRB](https://open.spotify.com/track/620yE97rij2snTka7EbKH0) | [H1GHR MUSIC](https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K) | [BRB](https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2) | 5:04 |
 | 17 | [Day Day \(Prod\. By GRAY\)](https://open.spotify.com/track/3i6vV5Z2P9uMlxf8wdm2WK) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Show Me the Money 5 Episode 4](https://open.spotify.com/album/4iSAd5Tg8jNhoRLnZ0Tb0X) | 3:29 |
 | 18 | [Dingo X 쌔끈보이즈 \- 궁금해](https://open.spotify.com/track/00qTDk2XFKM5zgU8cIXotL) | [SGBOYZ](https://open.spotify.com/artist/5PDw41tArOne60p7F4vTtU) | [Dingo X 쌔끈보이즈 \- 궁금해](https://open.spotify.com/album/0IXensrKIZ7dxjoUgx57xb) | 4:16 |
 | 19 | [WATER \(Prod\. by GooseBumps\)](https://open.spotify.com/track/7EBxRB5zybo2zutJuiAwoF) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Woodie Gochild](https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [WATER](https://open.spotify.com/album/1jPLfwzHnBTJIMzrA2lb7y) | 4:22 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 75 | [Replay](https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 2:43 |
 | 76 | [I Don’t Disappoint](https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:30 |
 | 77 | [SOJU \(feat\. 2 Chainz\)](https://open.spotify.com/track/1fRIaQ4nHZF5FybsAsqKZz) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:48 |
-| 78 | [Yacht \(feat\. Vic Mensa\)](https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:18 |
-| 79 | [Sexy 4 Eva](https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:41 |
+| 78 | [Sexy 4 Eva](https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:41 |
+| 79 | [Yacht \(feat\. Vic Mensa\)](https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:18 |
 | 80 | [RUN IT](https://open.spotify.com/track/3sznlAy0sce8la6GVzhnKU) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [RUN IT](https://open.spotify.com/album/7JHRCbkBq50DaM1tBRSa0c) | 3:11 |
 | 81 | [The Truth Is](https://open.spotify.com/track/4EzqNvmGUyGAqiAOivsydr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:56 |
 | 82 | [ENGINE \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [ENGINE](https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 99 | [Ride Me](https://open.spotify.com/track/5ZvRzu5RNxIwvyPGTx8plM) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Evolution](https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4) | 4:00 |
 | 100 | [F\*CKBOY](https://open.spotify.com/track/1ArM8xRbVUdcgvvYyVltGi) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 4:46 |
 
-Snapshot ID: `MTY2NzI3NTM2OCwwMDAwMDAwMGM2OWJiYjBiZTMzYTJiMjUzYjg2NjQzNGU5NjY5YTBj`
+Snapshot ID: `MTY2NzI3NTM2OCwwMDAwMDAwMDQxZmY1ZjAzODAyNDNjMTE1ZmY0YmRlYjllZmRjNWJi`

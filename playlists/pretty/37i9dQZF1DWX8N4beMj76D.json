@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 7864,
+  "num_followers": 7871,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDFkMjA1YWZlM2UxYzcwYTFiNGIwYWNhYTMwNTI5ODE0",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGM1MDFjNTExMGMyNmE2NzcxZjVlYTI2ZjFiZjMwNjE2",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -143,6 +143,26 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "Live In London",
+        "url": "https://open.spotify.com/album/4rgYbbaJOr9fv0MdEcIkIY"
+      },
+      "artists": [
+        {
+          "name": "The Webb Sisters",
+          "url": "https://open.spotify.com/artist/5WVYK25IDrN0y1ExA69Lr7"
+        },
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 322600,
+      "name": "If It Be Your Will (feat. Leonard Cohen) - Live in London",
+      "url": "https://open.spotify.com/track/6MgxI462nuWQkMowINdZkw"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Songs III: Bird on the Water",
         "url": "https://open.spotify.com/album/5Hij7PrKCR3aqxyhuYjFAI"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 334320,
       "name": "Peque\u00f1o Vals Vien\u00e9s",
       "url": "https://open.spotify.com/track/6t2vcP38D08xYdioGyOUC6"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Live In London",
-        "url": "https://open.spotify.com/album/4rgYbbaJOr9fv0MdEcIkIY"
-      },
-      "artists": [
-        {
-          "name": "The Webb Sisters",
-          "url": "https://open.spotify.com/artist/5WVYK25IDrN0y1ExA69Lr7"
-        },
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 322600,
-      "name": "If It Be Your Will (feat. Leonard Cohen) - Live in London",
-      "url": "https://open.spotify.com/track/6MgxI462nuWQkMowINdZkw"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -659,22 +659,18 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Varshons",
-        "url": "https://open.spotify.com/album/22BwjAeaaEiSeJF1EeSMVI"
+        "name": "Tower Of Song - The Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
       },
       "artists": [
         {
-          "name": "The Lemonheads",
-          "url": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X"
-        },
-        {
-          "name": "Liv Tyler",
-          "url": "https://open.spotify.com/artist/5OVn0ENwjLIZbRxVPovVgH"
+          "name": "Martin Gore",
+          "url": "https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F"
         }
       ],
-      "duration_ms": 184146,
-      "name": "Hey, That's No Way To Say Goodbye (feat. Liv Tyler)",
-      "url": "https://open.spotify.com/track/6pT22eHNB4aDW7x5q5j4Um"
+      "duration_ms": 212866,
+      "name": "Coming Back To You",
+      "url": "https://open.spotify.com/track/20kWunnotqJfqz4NmdnleV"
     }
   ],
   "unique_name": "Leonard Cohen: Covered",

@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 188009,
+  "num_followers": 188049,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQ1MTg4MiwwMDAwMDAwMDM0YjliZjI4NDk1YjAwZTNiM2QwZDM3OTNmM2Y0Zjc3",
+  "snapshot_id": "MTY3MTQ1MTg4MiwwMDAwMDAwMDI3NzRlMzc2Y2ZhMTZjZGY2ZWJiYTgxYzE0NDJjM2Yz",
   "tracks": [
     {
       "added_at": "2022-05-11 12:25:18",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Breezin'",
-        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 341733,
-      "name": "Breezin'",
-      "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Ship Ahoy (Expanded Edition)",
         "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 281200,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Breezin'",
+        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 341733,
+      "name": "Breezin'",
+      "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Still Groovin (Remastered)",
+        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Groovin' - Remastered",
+      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 259040,
       "name": "One Hundred Ways",
       "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Still Groovin (Remastered)",
-        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
-      },
-      "artists": [
-        {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Groovin' - Remastered",
-      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 277400,
-      "name": "Let's Wait Awhile",
-      "url": "https://open.spotify.com/track/3333YXdcyths5CB8v28dZj"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "High Crime",
         "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 259532,
       "name": "After All",
       "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 277400,
+      "name": "Let's Wait Awhile",
+      "url": "https://open.spotify.com/track/3333YXdcyths5CB8v28dZj"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/2l5jrbQaw9la2srKsDt7D6"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 255973,
       "name": "Your Smile",
       "url": "https://open.spotify.com/track/7GPd68coLrQ0prQcbceWkG"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "I'm In Love Again",
+        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "If Only You Knew",
+      "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Songs That Made Me Feel",
         "url": "https://open.spotify.com/album/4HxdC77nF9ywR1s1mS4Jk7"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 188440,
       "name": "Come To Me",
       "url": "https://open.spotify.com/track/0YKdx0eEYVJ18peEsgtc2p"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "I'm In Love Again",
-        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "If Only You Knew",
-      "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Do Me Baby",
-        "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
-      },
-      "artists": [
-        {
-          "name": "Meli'sa Morgan",
-          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
-        }
-      ],
-      "duration_ms": 317400,
-      "name": "Do Me Baby",
-      "url": "https://open.spotify.com/track/77Fs4XIB6489MG4cpNwBms"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Instant Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/61CzGFq3xVWqzpv9YwLYRG"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 323986,
       "name": "If This World Were Mine (with Luther Vandross)",
       "url": "https://open.spotify.com/track/3DnJmpSvBNxngDOBeI5U0B"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Do Me Baby",
+        "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
+      },
+      "artists": [
+        {
+          "name": "Meli'sa Morgan",
+          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
+        }
+      ],
+      "duration_ms": 317400,
+      "name": "Do Me Baby",
+      "url": "https://open.spotify.com/track/77Fs4XIB6489MG4cpNwBms"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Alone But Not Alone",
-        "url": "https://open.spotify.com/album/7MRDIQVnFbhULpA3Blil6t"
-      },
-      "artists": [
-        {
-          "name": "Marvin Winans",
-          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Just Don't Wanna Know",
-      "url": "https://open.spotify.com/track/4qawsTQMIjiRZvbJB0vp7i"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Al Wilson",
         "url": "https://open.spotify.com/album/2xrGHzBY0WOamOq7t7mNvR"
       },
@@ -1907,18 +1891,18 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i"
+        "name": "Alone But Not Alone",
+        "url": "https://open.spotify.com/album/7MRDIQVnFbhULpA3Blil6t"
       },
       "artists": [
         {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
         }
       ],
-      "duration_ms": 206053,
-      "name": "When She Was My Girl",
-      "url": "https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8"
+      "duration_ms": 262866,
+      "name": "Just Don't Wanna Know",
+      "url": "https://open.spotify.com/track/4qawsTQMIjiRZvbJB0vp7i"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1939,6 +1923,22 @@
       "duration_ms": 332866,
       "name": "Feel the Fire",
       "url": "https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "When She Was My Girl",
+      "url": "https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1979,26 +1979,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Golden Time Of Day (Remastered)",
-        "url": "https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS"
-      },
-      "artists": [
-        {
-          "name": "Maze",
-          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
-        },
-        {
-          "name": "Frankie Beverly",
-          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
-        }
-      ],
-      "duration_ms": 333666,
-      "name": "Golden Time Of Day - Remastered",
-      "url": "https://open.spotify.com/track/0epdaOT9HBO8Mm7ykRuFpT"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Jewels In The Crown",
         "url": "https://open.spotify.com/album/6D7Bj3IduG7Ikaf5XjOKWi"
       },
@@ -2035,6 +2015,26 @@
       "duration_ms": 395493,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/0PKcHf6NgPitUVFwzKnz3c"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Golden Time Of Day (Remastered)",
+        "url": "https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+        }
+      ],
+      "duration_ms": 333666,
+      "name": "Golden Time Of Day - Remastered",
+      "url": "https://open.spotify.com/track/0epdaOT9HBO8Mm7ykRuFpT"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2375,26 +2375,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Gold - '80s Soul",
-        "url": "https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr"
-      },
-      "artists": [
-        {
-          "name": "Dennis Edwards",
-          "url": "https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp"
-        },
-        {
-          "name": "Siedah Garrett",
-          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
-        }
-      ],
-      "duration_ms": 243480,
-      "name": "Don't Look Any Further - Single Version",
-      "url": "https://open.spotify.com/track/1nrIaUgk4D5gI1yqQcsu3W"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
       },
@@ -2411,6 +2391,26 @@
       "duration_ms": 211346,
       "name": "Dynamite.",
       "url": "https://open.spotify.com/track/5Jg9DV3m2umJpoHXV2e6j8"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Gold - '80s Soul",
+        "url": "https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr"
+      },
+      "artists": [
+        {
+          "name": "Dennis Edwards",
+          "url": "https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp"
+        },
+        {
+          "name": "Siedah Garrett",
+          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
+        }
+      ],
+      "duration_ms": 243480,
+      "name": "Don't Look Any Further - Single Version",
+      "url": "https://open.spotify.com/track/1nrIaUgk4D5gI1yqQcsu3W"
     },
     {
       "added_at": "2022-05-11 12:25:18",

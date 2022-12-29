@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-22",
+      "date_removed": null,
       "duration_ms": 191765,
       "name": "20 Tragos",
       "url": "https://open.spotify.com/track/2kYa0hjcQpLF820AMV2jBt"
@@ -2789,7 +2789,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 230400,
       "name": "Despu\u00e9s de la Playa",
       "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
@@ -3089,7 +3089,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
@@ -6810,6 +6810,24 @@
     },
     {
       "album": {
+        "name": "Los Hombres Tambi\u00e9n Lloran",
+        "url": "https://open.spotify.com/album/6M5S8XlsTmFy7avohunUFJ"
+      },
+      "artists": [
+        {
+          "name": "Juanfran",
+          "url": "https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196083,
+      "name": "Los Hombres Tambi\u00e9n Lloran",
+      "url": "https://open.spotify.com/track/6dHNj0jXwAXvJ5Z97lvbpZ"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -7001,7 +7019,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 226093,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
@@ -7977,7 +7995,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 356044,
       "name": "Nadie Te Ama Como Yo",
       "url": "https://open.spotify.com/track/4KYz9MrUZ7poQtVOroS2UG"
@@ -10101,7 +10119,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-22",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Que te Lleve el Diablo",
       "url": "https://open.spotify.com/track/56L6i2VTmijOWVVkvCd5Bn"
@@ -11435,7 +11453,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-22",
+      "date_removed": null,
       "duration_ms": 169136,
       "name": "Sin Perdon",
       "url": "https://open.spotify.com/track/0b30p2KIjHfdeAK7S9km48"
@@ -11877,7 +11895,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 172235,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
@@ -12175,6 +12193,24 @@
       "duration_ms": 154080,
       "name": "Todos Quieren Fumar",
       "url": "https://open.spotify.com/track/67evfZtBVQaHEyU4nR9qxz"
+    },
+    {
+      "album": {
+        "name": "Toma Sua Safada",
+        "url": "https://open.spotify.com/album/0jirkUGG5hdqTigW7fhHDE"
+      },
+      "artists": [
+        {
+          "name": "Trevizan",
+          "url": "https://open.spotify.com/artist/1x02rzpAk2HC55xZMibJOl"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266855,
+      "name": "Toma Sua Safada",
+      "url": "https://open.spotify.com/track/7BW0s82w2NNwGjkSkZd0lh"
     },
     {
       "album": {

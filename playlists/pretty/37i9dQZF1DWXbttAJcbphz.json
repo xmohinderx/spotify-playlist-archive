@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 2010s. Cover: Summer Walker",
-  "num_followers": 1159142,
+  "num_followers": 1161811,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU3ODE2OSwwMDAwMDAwMGRiNjU2NGY0MGZjYjE1NDhjYzMxMmE2ZDU2YzhiYjhj",
+  "snapshot_id": "MTY2NzU3ODE2OSwwMDAwMDAwMGQ5Yjk4OGIwYjY1NmUyZGU5YzYyYWI1MDRmNWM4Nzlh",
   "tracks": [
     {
       "added_at": "2022-08-17 16:54:52",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 177922,
-      "name": "Godspeed",
-      "url": "https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x"
-    },
-    {
       "added_at": "2022-08-21 23:21:50",
       "album": {
         "name": "Lady Lady",
@@ -855,6 +839,22 @@
       "duration_ms": 301893,
       "name": "Tadow",
       "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 177922,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -1417,22 +1433,6 @@
       "url": "https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "PINK PLANET",
-        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Honesty",
-      "url": "https://open.spotify.com/track/19gCnDoMbugHhF7eMpLpe1"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "Sail Out",
@@ -1449,20 +1449,20 @@
       "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
+      "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Kaleidoscope Dream",
-        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
+        "name": "PINK PLANET",
+        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
         }
       ],
-      "duration_ms": 193146,
-      "name": "Adorn",
-      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
+      "duration_ms": 189000,
+      "name": "Honesty",
+      "url": "https://open.spotify.com/track/19gCnDoMbugHhF7eMpLpe1"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1495,30 +1495,6 @@
       "duration_ms": 212787,
       "name": "I Want You Around",
       "url": "https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "X (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 244226,
-      "name": "New Flame (feat. Usher & Rick Ross)",
-      "url": "https://open.spotify.com/track/3fBbfrWZUuWWrMQXFISr7N"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1563,22 +1539,26 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+        "name": "X (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
       },
       "artists": [
         {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
         }
       ],
-      "duration_ms": 415613,
-      "name": "Girl (feat. KAYTRANADA)",
-      "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
+      "duration_ms": 244226,
+      "name": "New Flame (feat. Usher & Rick Ross)",
+      "url": "https://open.spotify.com/track/3fBbfrWZUuWWrMQXFISr7N"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1595,6 +1575,26 @@
       "duration_ms": 160173,
       "name": "Every Kind Of Way",
       "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 415613,
+      "name": "Girl (feat. KAYTRANADA)",
+      "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 256063,
-      "name": "Boo'd Up",
-      "url": "https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 221093,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 256063,
+      "name": "Boo'd Up",
+      "url": "https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Hive Mind",
-        "url": "https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        }
-      ],
-      "duration_ms": 406466,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "November",
         "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 171818,
       "name": "D'Evils",
       "url": "https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Hive Mind",
+        "url": "https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "duration_ms": 406466,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p"
     },
     {
       "added_at": "2022-08-21 21:13:22",

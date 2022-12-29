@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-609 songs - 1 day 8 hr 19 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+610 songs - 1 day 8 hr 22 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [CHAMPION](https://open.spotify.com/track/2kd7MZ2LjqgEFWhtrLYKxC) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [CHAMPION](https://open.spotify.com/album/4WEHQE9E7Mit4xhiDVelnC) | 3:01 | 2022-01-13 | 2022-04-02 |
 | [Champion](https://open.spotify.com/track/2XvvNyH2WkQjfpdkc8Lf5B) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Champion](https://open.spotify.com/album/6yZ6emVn0iq4PG0pKKymVk) | 3:30 | 2022-11-04 |  |
 | [Change](https://open.spotify.com/track/6CK581mr24h7z7bFpwhHmm) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Change](https://open.spotify.com/album/2hxKPuoKlnH6ZMInQ3Xg9x) | 3:42 | 2021-12-16 | 2022-03-11 |
+| [Circles](https://open.spotify.com/track/2mYTINvwFoJYySe9XQsHkN) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Circles](https://open.spotify.com/album/0fq0sVhYUlFzRCrt2T9AU1) | 2:41 | 2022-12-22 |  |
 | [Closer](https://open.spotify.com/track/6qC839XTjnK0oKUoCDcnkL) | [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke), [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Closer](https://open.spotify.com/album/0Dt2mixDqlbO4xO5QNwTZv) | 3:28 | 2022-09-22 | 2022-10-13 |
 | [Coast \(feat\. Cherrie\)](https://open.spotify.com/track/43bSOU2d9fFauUMbPual0S) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 3:50 | 2021-12-16 | 2022-03-10 |
 | [Cold Shoulder](https://open.spotify.com/track/34snSDVVV1KB4bbTZjIB05) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Cold Shoulder](https://open.spotify.com/album/5gO8l10JAF0ONPQILQNJ0Z) | 3:04 | 2022-05-05 | 2022-07-17 |
@@ -189,7 +190,7 @@
 | [Förlora mig](https://open.spotify.com/track/7LKZIASzyTpIuUiJ6ed2Ra) | [Sebastian Walldén](https://open.spotify.com/artist/6nVppoLxZQC587nnLTQcKx) | [Förlora mig](https://open.spotify.com/album/1ss6cOzXB9SEIPLc4sDtGY) | 2:03 | 2022-05-19 | 2022-07-29 |
 | [Förlorat mot världen](https://open.spotify.com/track/0b7wXTM7SXxES4TicoyWEr) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt \(Kapitel 1\)](https://open.spotify.com/album/3WwG3XxkNpTD59sm4QiyoE) | 3:06 | 2021-12-16 | 2022-03-02 |
 | [Försent för mig](https://open.spotify.com/track/6dX26pB0ZQGZHN0NkWhTMF) | [Leo Berg](https://open.spotify.com/artist/5FUB3v35PcriAp7DWHfQVK) | [Försent för mig](https://open.spotify.com/album/7rXTdoTOtJIXdI6je3y8vp) | 3:08 | 2022-04-28 | 2022-07-14 |
-| [Förstår Det Nu](https://open.spotify.com/track/2HnE1eny50TK0PAm804LDy) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Förstår Det Nu](https://open.spotify.com/album/0bZvMsk9hKtmw91qu6pqMp) | 3:52 | 2022-06-30 |  |
+| [Förstår Det Nu](https://open.spotify.com/track/2HnE1eny50TK0PAm804LDy) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Förstår Det Nu](https://open.spotify.com/album/0bZvMsk9hKtmw91qu6pqMp) | 3:52 | 2022-06-30 | 2022-12-29 |
 | [Ge mig ett tecken](https://open.spotify.com/track/47rIgHqtTANAsbomEMKAZn) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Ge mig ett tecken](https://open.spotify.com/album/6fGHPpUiSpHau74zXUfBza) | 2:54 | 2022-03-10 | 2022-07-29 |
 | [Gemini](https://open.spotify.com/track/12cm3pn2krN7RgN0pLlwtY) | [Sahara Hotnights](https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE) | [Gemini](https://open.spotify.com/album/7GD6EPBfQtoZddrwvQTkmL) | 3:12 | 2022-04-01 | 2022-07-28 |
 | [Generational Love](https://open.spotify.com/track/2qK0gymuVZPpwzA4IeV7mt) | [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [PoP Poetry](https://open.spotify.com/album/37Xup1418QGS4CEFVpsaYu) | 3:18 | 2022-09-22 | 2022-10-07 |

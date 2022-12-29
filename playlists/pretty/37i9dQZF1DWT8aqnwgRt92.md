@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,931 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,385 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 |
+| 1 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 |
 | 2 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
 | 3 | [Love is Show](https://open.spotify.com/track/1wPOJ0SBOqbrs8Zw7wte88) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [高城れに](https://open.spotify.com/artist/2CxNK0ldwLmusTYWs11geL) | [Love is Show](https://open.spotify.com/album/2bcEQN6dTexArpv0SqCpL5) | 4:02 |
 | 4 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 26 | [Love∞Vision](https://open.spotify.com/track/4zABCBtoO0kkvHP31z06AH) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Love∞Vision](https://open.spotify.com/album/3h0iC3RBgWeY02PW8QBleX) | 3:48 |
 | 27 | [トメハネハラウ](https://open.spotify.com/track/2R3Pfcb5loHfNs0FI7RQxY) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [トメハネハラウ](https://open.spotify.com/album/4LvSFjOlrfFOG3K8eFShyb) | 3:56 |
 | 28 | [Make Me the Hunter](https://open.spotify.com/track/7d8XeC5mFXJrFyr6aRu9Zn) | [Ronald\(CV:Makoto Furukawa\)](https://open.spotify.com/artist/7AX80W3bAQAs8YTgo5zQWe) | [TV Anime "The Vampire Dies in No Time" Soundtrack with Character Songs 1](https://open.spotify.com/album/4aBw07Wr3aPxPXXBrZRLRF) | 3:29 |
-| 29 | [云う透り \- Maniac ver.](https://open.spotify.com/track/3Qe02mMZQuCc1hyr71Nd3l) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [云う透り \(Maniac ver.\)](https://open.spotify.com/album/1D6iNejlXLIaqdzpRrhXle) | 1:59 |
+| 29 | [As the Gods Say \- Maniac Ver.](https://open.spotify.com/track/1TqPXOmJzhLLwjgB6CVHU6) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [As the Gods Say \(Maniac Ver.\)](https://open.spotify.com/album/02JA34PUXRpX5EOowhGion) | 1:59 |
 | 30 | [Make Me Feel Better](https://open.spotify.com/track/5FcFqS22vBPbAA3ZwU4bKk) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [My Journey](https://open.spotify.com/album/78xcCfTKnMuCjukZaOayf0) | 4:29 |
 | 31 | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/track/5DAtC0mgP1HUpL9th0e2U9) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc), [小野賢章](https://open.spotify.com/artist/6yg8XM7BirJ6GnfBUt7BUU) | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/album/1TX5uM4HEOIZEzoAOnUagC) | 4:30 |
 | 32 | [FROZEN MIDNIGHT](https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K) | [佐久間貴生](https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp) | [FROZEN MIDNIGHT](https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 79 | [DARLING IN THE NIGHT](https://open.spotify.com/track/7AnMPMbtd3L90yKv9cNyrp) | [七陰](https://open.spotify.com/artist/30xGJe0vTq03OuzcOxY8Ln) | [ENDING THEME FROM TV SERIES ”THE EMINENCE IN SHADOW”](https://open.spotify.com/album/0AngWuk5QRZ3e3tKBXEXAH) | 4:09 |
 | 80 | [夏の雪](https://open.spotify.com/track/4SJnBgbqNliUIfxigwQBcS) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [夏の雪](https://open.spotify.com/album/2O7PwmRoBvdiC6o2VUN5tj) | 4:42 |
 
-Snapshot ID: `MTY3MjE1MzIwMCwwMDAwMDAwMDBiNmNhZjY4MDkwNzE0N2JiMTUzOWZkZTYwNjY1NTZi`
+Snapshot ID: `MTY3MjE1MzIwMCwwMDAwMDAwMDY0MGU0ODA5NWRiNzEwMTEzNDQ1Mjg4NjI3N2UyYjgy`

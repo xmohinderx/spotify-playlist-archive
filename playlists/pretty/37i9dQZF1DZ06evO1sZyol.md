@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sZyol.md) - [plain]
 
 > This is TOOL\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,930 likes - 36 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,018 likes - 36 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sZyol.md) - [plain]
 | 35 | [Cold And Ugly \- Live](https://open.spotify.com/track/7ajn3mKu2DP8CoqzpHEr1d) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 4:09 |
 | 36 | [Jerk\-Off \- Live](https://open.spotify.com/track/3jK6mKpZLZSIPZRNCYIm3Q) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 4:25 |
 
-Snapshot ID: `Mjc4NjkxMjksMDAwMDAwMDBlNDA5NGFjZTRkNDYyNDc4NGQ2YWQ1N2JhZWYxNWM1ZQ==`
+Snapshot ID: `Mjc4NzA2OTQsMDAwMDAwMDBlZDJjZjZjNzcxODQ0YWY1ZjRlNGQ2ZmE1MDUxOGI3MQ==`

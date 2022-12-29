@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 26153,
+  "num_followers": 26179,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMDlhYWU1MzllYjJhOTk4MmFjODBjNDFkZTJiOTRhMjA2",
+  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMDBmYmRmZDk1MDVhOWQ0M2E2Y2EwMjE4NjBmYjIzOTEx",
   "tracks": [
     {
       "added_at": "2022-10-04 14:45:00",
@@ -815,38 +815,6 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "The North Wind",
-        "url": "https://open.spotify.com/album/6JYkxZJniFgYfH7KHmP45r"
-      },
-      "artists": [
-        {
-          "name": "Faten Kanaan",
-          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
-        }
-      ],
-      "duration_ms": 251887,
-      "name": "The North Wind",
-      "url": "https://open.spotify.com/track/4uL4uMUVsxPhleIsq0ijx0"
-    },
-    {
-      "added_at": "2022-10-04 14:45:00",
-      "album": {
-        "name": "Welfare / Practice",
-        "url": "https://open.spotify.com/album/2329qbh46SMwjMuprpj5eE"
-      },
-      "artists": [
-        {
-          "name": "Lucy Liyou",
-          "url": "https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1"
-        }
-      ],
-      "duration_ms": 231731,
-      "name": "How to build an automaton",
-      "url": "https://open.spotify.com/track/2tqrvJPhctmcZmJNZORJU0"
-    },
-    {
-      "added_at": "2022-10-04 14:45:00",
-      "album": {
         "name": "LAYERS",
         "url": "https://open.spotify.com/album/52V08L7diSUAIP9Mt4eXjV"
       },
@@ -879,6 +847,38 @@
       "duration_ms": 400000,
       "name": "Kali",
       "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
+    },
+    {
+      "added_at": "2022-10-04 14:45:00",
+      "album": {
+        "name": "The North Wind",
+        "url": "https://open.spotify.com/album/6JYkxZJniFgYfH7KHmP45r"
+      },
+      "artists": [
+        {
+          "name": "Faten Kanaan",
+          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
+        }
+      ],
+      "duration_ms": 251887,
+      "name": "The North Wind",
+      "url": "https://open.spotify.com/track/4uL4uMUVsxPhleIsq0ijx0"
+    },
+    {
+      "added_at": "2022-10-04 14:45:00",
+      "album": {
+        "name": "Welfare / Practice",
+        "url": "https://open.spotify.com/album/2329qbh46SMwjMuprpj5eE"
+      },
+      "artists": [
+        {
+          "name": "Lucy Liyou",
+          "url": "https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1"
+        }
+      ],
+      "duration_ms": 231731,
+      "name": "How to build an automaton",
+      "url": "https://open.spotify.com/track/2tqrvJPhctmcZmJNZORJU0"
     },
     {
       "added_at": "2022-10-04 14:45:00",

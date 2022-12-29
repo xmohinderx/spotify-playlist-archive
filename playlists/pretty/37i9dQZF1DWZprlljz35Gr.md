@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,637 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,652 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 5 | [Victim](https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD) | [Mblue](https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ) | [Victim](https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9) | 2:52 |
 | 6 | [Paper Trails](https://open.spotify.com/track/1DK2JuYarBeNwcLNPw1Qyo) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Psychic](https://open.spotify.com/album/2Q7l5NR9ZY8gfkkTtBnlBt) | 4:49 |
 | 7 | [Guilty](https://open.spotify.com/track/4KSljblpjITY4IsjkKSqK4) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Wolves](https://open.spotify.com/album/5fOk8YTHdcZrHOhcw4Do5i) | 3:33 |
-| 8 | [I Had a Woman](https://open.spotify.com/track/0Kjik5WcvlKs4zeA6X5Lb6) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG) | [By Any Beats Necessary](https://open.spotify.com/album/1uLnDDuuVBe4IF83db23Ab) | 2:39 |
-| 9 | [A Blues Thang](https://open.spotify.com/track/1xuBWp4HuSE6Yast5lmVPv) | [Basement Freaks](https://open.spotify.com/artist/77OQMkKBvHUwYyRCv6ossJ) | [Funk from the Trunk](https://open.spotify.com/album/3HA988sMUDSHmW0i7L5Wzl) | 3:23 |
+| 8 | [A Blues Thang](https://open.spotify.com/track/1xuBWp4HuSE6Yast5lmVPv) | [Basement Freaks](https://open.spotify.com/artist/77OQMkKBvHUwYyRCv6ossJ) | [Funk from the Trunk](https://open.spotify.com/album/3HA988sMUDSHmW0i7L5Wzl) | 3:23 |
+| 9 | [I Had a Woman](https://open.spotify.com/track/0Kjik5WcvlKs4zeA6X5Lb6) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG) | [By Any Beats Necessary](https://open.spotify.com/album/1uLnDDuuVBe4IF83db23Ab) | 2:39 |
 | 10 | [It's Bad You Know](https://open.spotify.com/track/1AcvqJhm4CXOFJ7INbR5rR) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 4:58 |
 | 11 | [Beauty Beats](https://open.spotify.com/track/0Jk5J9HrDmCEKV7xYmaB6m) | [Beats Antique](https://open.spotify.com/artist/30DZgkaEYdezg2QMrMgrnm) | [Collide](https://open.spotify.com/album/5UPjxVI1xabSZjcRXEpl52) | 3:45 |
 | 12 | [Left Behind](https://open.spotify.com/track/5gSHmVV30dqKESS4nYGpXg) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [Left Behind](https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF) | 3:36 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 44 | [Midnight Dream](https://open.spotify.com/track/0v1JpYiFmnpgbxxzh5Oqul) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Hard Grind](https://open.spotify.com/album/3T2bRUO66PXyXR97uiXQeY) | 4:03 |
 | 45 | [Robot Blues](https://open.spotify.com/track/5BlRXGAtNMv3LzmZfWKyxJ) | [Grand Commander](https://open.spotify.com/artist/7LiOk3poyQ3J06xpFs5n99) | [Robot Blues](https://open.spotify.com/album/66JlUb0UH5CfhSKqY5h4ZC) | 6:20 |
 | 46 | [Why Not?](https://open.spotify.com/track/5ygOxeRiafW51ViBgiXLf8) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Why Not?](https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY) | 3:33 |
-| 47 | [Love Me \- KR3TURE Remix](https://open.spotify.com/track/4eBIob5CXTTQ2PvmeENC0S) | [DJ Taz Rashid](https://open.spotify.com/artist/2XvQyfssNbXYWcOkKaWYlx), [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu) | [High Vibe Remixes, Vol\. 1](https://open.spotify.com/album/3NlmTWejiSpfgnxD7CiVzt) | 3:49 |
-| 48 | [Can't Help Myself \- E\-Z Rollers Remix](https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 12:18 |
+| 47 | [Can't Help Myself \- E\-Z Rollers Remix](https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 12:18 |
+| 48 | [Love Me \- KR3TURE Remix](https://open.spotify.com/track/4eBIob5CXTTQ2PvmeENC0S) | [DJ Taz Rashid](https://open.spotify.com/artist/2XvQyfssNbXYWcOkKaWYlx), [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu) | [High Vibe Remixes, Vol\. 1](https://open.spotify.com/album/3NlmTWejiSpfgnxD7CiVzt) | 3:49 |
 | 49 | [K.I.S.S\. \- Remix](https://open.spotify.com/track/4l5bwvNLoDgCVrlD4nMzsZ) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [Citizens of Boomtown \(Deluxe\)](https://open.spotify.com/album/5twg48xOlAZwZsoPUxbyGm) | 6:01 |
 | 50 | [Hymn For Warriors \(Theme From Wolfgang Wee Uncut\)](https://open.spotify.com/track/6A7nVlQbJwyrPx0w4OrE0t) | [Wolfgang Wee](https://open.spotify.com/artist/1xHOAt9wZzZkPqGEPxUSVV) | [Hymn For Warriors \(Theme From Wolfgang Wee Uncut\)](https://open.spotify.com/album/78Xa03zYJRJK307rN8MuHZ) | 3:58 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDQ1NGY4MGEwYjlmNjRlZTA1N2U3YmE4NmE4MGE4Yjcz`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMGYzNDkzMzgwZjk5ZDE5Mzg1YWIyOWQ3NWZmZDU2NjJm`

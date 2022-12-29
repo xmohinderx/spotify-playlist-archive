@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcdlnITQ87tu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcdlnITQ87tu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcdlnITQ87tu)
 
-### [Summer Strike \(아무것도 하고싶지 않아\)](https://open.spotify.com/playlist/37i9dQZF1DXcdlnITQ87tu)
+### [Summer Strike \(아무것도 하고 싶지 않아\)](https://open.spotify.com/playlist/37i9dQZF1DXcdlnITQ87tu)
 
 > \(Listen Genie TV's original drama 'Summer Strike's soundtrack in here!\) Genie TV 오리지널 시리즈 '아무것도 하고 싶지 않아'의 사운드 트랙들을 감상해보세요!
 
-25 songs - 1 hr 13 min - not published yet
+29 songs - 1 hr 28 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,8 @@
 | [A Slow Summer Song \- Instrumental](https://open.spotify.com/track/2JrqqR1kmz4jsU4Nczbztf) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Summer Strike, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/2U2opwMKa7idAhGo8EZpNW) | 3:42 | 2022-12-14 |  |
 | [A Strange Day](https://open.spotify.com/track/1haYZ64GiDq3vU36S4BZEN) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Summer Strike, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5aDe6PUvWurZOsXZLc4ia8) | 3:54 | 2022-12-14 |  |
 | [A Strange Day \- Instrumental](https://open.spotify.com/track/39RHZMX3ou1LgBvRPO6ds5) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Summer Strike, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5aDe6PUvWurZOsXZLc4ia8) | 3:54 | 2022-12-14 |  |
+| [Color](https://open.spotify.com/track/7CgwXjVLZu82aHXCkE6FR7) | [Sunnie](https://open.spotify.com/artist/0v5xONZJ2N9zcriZXfzFK5) | [Summer Strike, Pt\. 10 \(Original Soundtrack\)](https://open.spotify.com/album/0OGWvBjkYVHW9LMtDPdi5p) | 3:09 | 2022-12-28 |  |
+| [Color \- Instrumental](https://open.spotify.com/track/468NY7aEJGD09WFUwEteJh) | [Sunnie](https://open.spotify.com/artist/0v5xONZJ2N9zcriZXfzFK5) | [Summer Strike, Pt\. 10 \(Original Soundtrack\)](https://open.spotify.com/album/0OGWvBjkYVHW9LMtDPdi5p) | 3:09 | 2022-12-28 |  |
 | [EP1\. Summer Strike](https://open.spotify.com/track/6DmCZeVtjGd0TEYxoVCcNi) | [Summer Strike](https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr) | [EP1\. Summer Strike](https://open.spotify.com/album/2z9Bol38d2aB1KvHr0Tq8e) | 0:25 | 2022-12-14 |  |
 | [EP2\. Summer Strike](https://open.spotify.com/track/7glOIY0v0t9mhuMIL5K3xT) | [Summer Strike](https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr) | [EP2\. Summer Strike](https://open.spotify.com/album/2ZK4i2zK4r0FMb02Borh8k) | 0:25 | 2022-12-19 |  |
 | [EP3\. Summer Strike](https://open.spotify.com/track/2xQuPcEsuHtgmjmnLXRHTA) | [Summer Strike](https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr) | [EP2\. Summer Strike](https://open.spotify.com/album/2ZK4i2zK4r0FMb02Borh8k) | 0:25 | 2022-12-19 |  |
@@ -21,6 +23,8 @@
 | [Hello, Stranger \- Instrumental](https://open.spotify.com/track/6xUba5wbv0FAs6TmAMedQt) | [Kum Junhyeon](https://open.spotify.com/artist/1OFbKzbdQhFvWfqQH8RXNB) | [Summer Strike, Pt\. 9 \(Original Soundtrack\)](https://open.spotify.com/album/52qsYImTDRxS2IVZ5n8rnZ) | 4:24 | 2022-12-19 |  |
 | [I See You Like I See the Sun](https://open.spotify.com/track/4grbG9wAAoFTbYnDBTkyrc) | [Low\-end project](https://open.spotify.com/artist/5HECc7MQ1IoYk1H8MNrflW) | [Summer Strike, Pt\. 12 \(Original Soundtrack\)](https://open.spotify.com/album/1x1azzo9YyhTc65qCKfEar) | 3:06 | 2022-12-26 |  |
 | [I See You Like I See the Sun \- Instrumental](https://open.spotify.com/track/6BLhiaQyo2VeYJkxyOFnUC) | [Low\-end project](https://open.spotify.com/artist/5HECc7MQ1IoYk1H8MNrflW) | [Summer Strike, Pt\. 12 \(Original Soundtrack\)](https://open.spotify.com/album/1x1azzo9YyhTc65qCKfEar) | 3:06 | 2022-12-26 |  |
+| [I Will Remember You](https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Summer Strike, Pt\. 11 \(Original Soundtrack\)](https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS) | 4:14 | 2022-12-28 |  |
+| [I Will Remember You \- Instrumental](https://open.spotify.com/track/1OEDvTq8S0ytFdl2CGJBvv) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Summer Strike, Pt\. 11 \(Original Soundtrack\)](https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS) | 4:14 | 2022-12-28 |  |
 | [I′ll Wait](https://open.spotify.com/track/0GHqJSl06IMIpMnVzZfuJd) | [JIYOON](https://open.spotify.com/artist/519qrDQ4c2KCau2Jm7jTQE) | [Summer Strike, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/5XYEOk4tUO2uGZdRXYw7HL) | 3:37 | 2022-12-14 |  |
 | [I′ll Wait \- Instrumental](https://open.spotify.com/track/6u206oNs5B288CxFrjKfoM) | [JIYOON](https://open.spotify.com/artist/519qrDQ4c2KCau2Jm7jTQE) | [Summer Strike, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/5XYEOk4tUO2uGZdRXYw7HL) | 3:37 | 2022-12-14 |  |
 | [Lover](https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv) | [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [Summer Strike, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW) | 2:55 | 2022-12-14 |  |

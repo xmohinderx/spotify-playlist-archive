@@ -4,11 +4,12 @@
 
 > the beat of your drift
 
-389 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
+390 songs - 15 hr 28 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [120](https://open.spotify.com/track/0FOStZv2hEySMQM3WyvnPh) | [OQTAN](https://open.spotify.com/artist/0sW5E8JJy5gBqGZxDAlS4s) | [120](https://open.spotify.com/album/0PGaDg9t4KUZsV6u3ipQaF) | 1:55 | 2022-10-14 |  |
+| [120](https://open.spotify.com/track/77MTD2S1N2GmiLxYwODXG5) | [f2kh6](https://open.spotify.com/artist/38WmE0nhZTeg85mqWy8api) | [120](https://open.spotify.com/album/0KN1KVsqhqqqA8Qupsjo9X) | 1:55 | 2022-10-14 |  |
+| [120](https://open.spotify.com/track/0FOStZv2hEySMQM3WyvnPh) | [OQTAN](https://open.spotify.com/artist/0sW5E8JJy5gBqGZxDAlS4s) | [120](https://open.spotify.com/album/0PGaDg9t4KUZsV6u3ipQaF) | 1:55 | 2022-10-14 | 2022-12-29 |
 | [6IXSPEED](https://open.spotify.com/track/56Kb55Pzodbj5cGJcyZW1W) | [7oh2](https://open.spotify.com/artist/4YlEogA5055pLDnRxXUXSm) | [6IXSPEED](https://open.spotify.com/album/0AQMdCntMcBFGCNyaZeg7Y) | 2:29 | 2022-01-06 | 2022-07-09 |
 | [9 In My Hand \- Fast and Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5z5UZgDSVbH9VDswlmtBSO) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [9 In My Hand \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/2Hy5ngIePxQLHlQ00iqeBa) | 1:26 | 2022-11-04 | 2022-12-10 |
 | [A Little Story](https://open.spotify.com/track/0BfsBGWWesSZnEwiwu9Nw3) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [A Little Story](https://open.spotify.com/album/4tlq6PXJDEivTW62lPueHO) | 2:03 | 2021-11-12 | 2022-05-14 |

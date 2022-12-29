@@ -1,12 +1,12 @@
 {
   "description": "Oruam e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 169258,
+  "num_followers": 169608,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjE3OTk0OSwwMDAwMDAwMDYzYTIwYjRhZjRjMjlmZTE4NDk1N2U2MDY1MzE4Yjlm",
+  "snapshot_id": "MTY3MjE3OTk0OSwwMDAwMDAwMDgzNzg3NDQ4NmI4MjUwOTc5NjA2ZmIxNGY1ZDUxY2Yx",
   "tracks": [
     {
       "added_at": "2022-12-27 22:25:49",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-12-27 22:25:49",
       "album": {
+        "name": "Quest",
+        "url": "https://open.spotify.com/album/1lOjoZGWkaw4VTp7rvKmNd"
+      },
+      "artists": [
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        }
+      ],
+      "duration_ms": 163339,
+      "name": "Quest",
+      "url": "https://open.spotify.com/track/2JyzrRWYel4FiB7NbJuH7E"
+    },
+    {
+      "added_at": "2022-12-27 22:25:49",
+      "album": {
         "name": "Graja\u00fa Girl",
         "url": "https://open.spotify.com/album/2CBlOL6zNxAHnN8AgoPKNo"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 181960,
       "name": "Graja\u00fa Girl",
       "url": "https://open.spotify.com/track/3vv073E7v6x5QScwohl0lV"
-    },
-    {
-      "added_at": "2022-12-27 22:25:49",
-      "album": {
-        "name": "Quest",
-        "url": "https://open.spotify.com/album/1lOjoZGWkaw4VTp7rvKmNd"
-      },
-      "artists": [
-        {
-          "name": "Nill",
-          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
-        }
-      ],
-      "duration_ms": 163339,
-      "name": "Quest",
-      "url": "https://open.spotify.com/track/2JyzrRWYel4FiB7NbJuH7E"
     },
     {
       "added_at": "2022-12-27 22:25:49",

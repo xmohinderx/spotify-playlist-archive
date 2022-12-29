@@ -1,15 +1,15 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 87092,
+  "num_followers": 87113,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjAyNTQ1NSwwMDAwMDAwMDgxMjFhMjRjMjFhMjdhODQwODU4MTE3MDUzMjJjMTli",
+  "snapshot_id": "MTY3MjAyNTQ1NSwwMDAwMDAwMGM1NzRhOWU5Njg4NzUzZWRkOWViNzhhMzI3MjBhZGQ2",
   "tracks": [
     {
-      "added_at": "2022-12-28 00:58:47",
+      "added_at": "2022-12-29 01:16:49",
       "album": {
         "name": "\u5f88\u60f3\u5f88\u60f3\u4f60 (\u96fb\u8996\u5287\u300a\u6708\u88e1\u9752\u5c71\u6de1\u5982\u756b\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/5WSMqB9fHeEDZ3jQbtHkkG"
@@ -63,22 +63,6 @@
     {
       "added_at": "2022-12-19 06:23:29",
       "album": {
-        "name": "\u60e1\u4f5c\u5287\u4e4b\u543b",
-        "url": "https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Wong",
-          "url": "https://open.spotify.com/artist/3Njp7uhQShnPMdKarS6Vsu"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "\u60e1\u4f5c\u5287",
-      "url": "https://open.spotify.com/track/643hRiTY9vzD6P0cWO8UP3"
-    },
-    {
-      "added_at": "2022-12-19 06:23:29",
-      "album": {
         "name": "\u83ef\u8207\u6d6a\u6f2b",
         "url": "https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 233406,
       "name": "\u60f3\u548c\u4f60\u770b\u4e94\u6708\u7684\u665a\u971e",
       "url": "https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ"
+    },
+    {
+      "added_at": "2022-12-19 06:23:29",
+      "album": {
+        "name": "\u60e1\u4f5c\u5287\u4e4b\u543b",
+        "url": "https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Wong",
+          "url": "https://open.spotify.com/artist/3Njp7uhQShnPMdKarS6Vsu"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "\u60e1\u4f5c\u5287",
+      "url": "https://open.spotify.com/track/643hRiTY9vzD6P0cWO8UP3"
     },
     {
       "added_at": "2022-12-19 06:23:29",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-12-19 06:23:29",
       "album": {
+        "name": "\u561f\u58f0\u540e\u8bf7\u7559\u604b",
+        "url": "https://open.spotify.com/album/4UeNX6glWOvhV0kLV4HCN2"
+      },
+      "artists": [
+        {
+          "name": "Soph T.",
+          "url": "https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP"
+        }
+      ],
+      "duration_ms": 183002,
+      "name": "\u4ed6\u6765\u65f6\u7684\u811a\u6b65",
+      "url": "https://open.spotify.com/track/5D0dp4kKzO4nb3xXqTYCTk"
+    },
+    {
+      "added_at": "2022-12-19 06:23:29",
+      "album": {
         "name": "\u884c\u661f\u6200",
         "url": "https://open.spotify.com/album/49bwNau4JVyFHdPh4iEaaf"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 306877,
       "name": "\u884c\u661f\u6200",
       "url": "https://open.spotify.com/track/5FZj4n2DSe4GE3I2CZg2Qd"
-    },
-    {
-      "added_at": "2022-12-19 06:23:29",
-      "album": {
-        "name": "\u561f\u58f0\u540e\u8bf7\u7559\u604b",
-        "url": "https://open.spotify.com/album/4UeNX6glWOvhV0kLV4HCN2"
-      },
-      "artists": [
-        {
-          "name": "Soph T.",
-          "url": "https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP"
-        }
-      ],
-      "duration_ms": 183002,
-      "name": "\u4ed6\u6765\u65f6\u7684\u811a\u6b65",
-      "url": "https://open.spotify.com/track/5D0dp4kKzO4nb3xXqTYCTk"
     },
     {
       "added_at": "2022-12-19 06:23:29",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-12-19 06:23:29",
       "album": {
-        "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
-        "url": "https://open.spotify.com/album/3dyc0b1Pd7jLhZIgnLpjGF"
-      },
-      "artists": [
-        {
-          "name": "\u7126\u9081\u5947",
-          "url": "https://open.spotify.com/artist/1FyPWrq6lU8yPFM7IXj6oH"
-        }
-      ],
-      "duration_ms": 250857,
-      "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
-      "url": "https://open.spotify.com/track/1VWeBAAUeNWllv1edNggTz"
-    },
-    {
-      "added_at": "2022-12-19 06:23:29",
-      "album": {
         "name": "\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u9047\u89c1\u4f60,\u771f\u9999!\u300b\u7535\u89c6\u5267\u539f\u58f0\u5e26",
         "url": "https://open.spotify.com/album/1K8czXXHMQeE57rqeifxPE"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 188080,
       "name": "\u548c\u4f60\u7684\u5929\u6c14\u603b\u662f\u90a3\u4e48\u597d (\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u9047\u89c1\u4f60,\u771f\u9999!\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/45c6g3bSGtCTmVzZkwc4s9"
+    },
+    {
+      "added_at": "2022-12-19 06:23:29",
+      "album": {
+        "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
+        "url": "https://open.spotify.com/album/3dyc0b1Pd7jLhZIgnLpjGF"
+      },
+      "artists": [
+        {
+          "name": "\u7126\u9081\u5947",
+          "url": "https://open.spotify.com/artist/1FyPWrq6lU8yPFM7IXj6oH"
+        }
+      ],
+      "duration_ms": 250857,
+      "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
+      "url": "https://open.spotify.com/track/1VWeBAAUeNWllv1edNggTz"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

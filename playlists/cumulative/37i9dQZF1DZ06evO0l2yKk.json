@@ -134,6 +134,40 @@
     },
     {
       "album": {
+        "name": "Claro Que Se Puede (Proyecto de Amor)",
+        "url": "https://open.spotify.com/album/1lfaRyGuURjmommrpUxhls"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        },
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        },
+        {
+          "name": "Los Bravos del Norte",
+          "url": "https://open.spotify.com/artist/46XFR4hn1MmBKyvwxxEFFo"
+        },
+        {
+          "name": "Ricky Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/2fN4AmackOjPcaThwvLyy6"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241753,
+      "name": "Claro Que Se Puede! (Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/2V5uUsoAyW9B0IBCZ8Brrp"
+    },
+    {
+      "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
@@ -325,7 +359,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 222266,
       "name": "Espejo De Cantina",
       "url": "https://open.spotify.com/track/02ztB2ejMQ6MHoCorzd2A8"
@@ -415,7 +449,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 199226,
       "name": "La Baraja",
       "url": "https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1"
@@ -595,7 +629,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 193186,
       "name": "Misa De Cuerpo Presente",
       "url": "https://open.spotify.com/track/39jp91yfW61L2bBjpucX1D"

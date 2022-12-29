@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 81675,
+  "num_followers": 81955,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDM4ODA1NCwwMDAwMDAwMDMyZmIwZGI1OWNlYzY4YjM2ZDdlOTQ1NTI1ODAwZGY1",
+  "snapshot_id": "MTY3MDM4ODA1NCwwMDAwMDAwMGYyNTk0ZDBlODliOTAyNTNmMjk3Y2FjNjc2MDg1MmRj",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -767,6 +767,26 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Estaci\u00f3n Esperanza",
+        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 316721,
+      "name": "Estaci\u00f3n Esperanza",
+      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Paloma + Remixes",
         "url": "https://open.spotify.com/album/5LE9oiaGprQqvFtinBA73K"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 506655,
       "name": "Paloma",
       "url": "https://open.spotify.com/track/4lvRuiCSvrrfmnAb4YHZHn"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Estaci\u00f3n Esperanza",
-        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        },
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 316721,
-      "name": "Estaci\u00f3n Esperanza",
-      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -967,38 +967,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Apolinar",
-        "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Temazcal",
-      "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "It All Depends (Aguacate Version)",
-        "url": "https://open.spotify.com/album/6HPPIRAjrwCKnzloCd3PUe"
-      },
-      "artists": [
-        {
-          "name": "Roderic",
-          "url": "https://open.spotify.com/artist/7wSzFq5CoNoCpzazDphDJs"
-        }
-      ],
-      "duration_ms": 416409,
-      "name": "It All Depends - Aguacate Version",
-      "url": "https://open.spotify.com/track/0BOOqxJh6ioHQ1caqztRcQ"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Ch'usay Remixes",
         "url": "https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl"
       },
@@ -1019,18 +987,50 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Cantos de Vision",
-        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
+        "name": "It All Depends (Aguacate Version)",
+        "url": "https://open.spotify.com/album/6HPPIRAjrwCKnzloCd3PUe"
       },
       "artists": [
         {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+          "name": "Roderic",
+          "url": "https://open.spotify.com/artist/7wSzFq5CoNoCpzazDphDJs"
         }
       ],
-      "duration_ms": 329719,
-      "name": "Danza de Vision",
-      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
+      "duration_ms": 416409,
+      "name": "It All Depends - Aguacate Version",
+      "url": "https://open.spotify.com/track/0BOOqxJh6ioHQ1caqztRcQ"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Apolinar",
+        "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
+      },
+      "artists": [
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Temazcal",
+      "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Bennu",
+        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Chapinero",
+      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Bennu",
-        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
+        "name": "Cantos de Vision",
+        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
       },
       "artists": [
         {
-          "name": "Thornato",
-          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
         }
       ],
-      "duration_ms": 222222,
-      "name": "Chapinero",
-      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
+      "duration_ms": 329719,
+      "name": "Danza de Vision",
+      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
     },
     {
       "added_at": "2022-06-15 04:26:09",

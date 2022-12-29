@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-528 songs - 1 day 9 hr 6 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
+529 songs - 1 day 9 hr 10 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Bang Bang](https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:25 | 2022-05-25 |  |
 | [Bath Salts](https://open.spotify.com/track/252T5dAokvMiNzXZchojoH) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 3:59 | 2022-05-25 |  |
 | [Bath Salts](https://open.spotify.com/track/33k68xWHOnL25URDQoXPDU) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/3vqHU45940CTywg4uPCE27) | 3:59 | 2022-05-25 | 2022-07-29 |
-| [Battle Born](https://open.spotify.com/track/3nRanAfF9K36yHWV9sIG9D) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD) | 3:43 | 2022-05-25 |  |
+| [Battle Born](https://open.spotify.com/track/3nRanAfF9K36yHWV9sIG9D) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD) | 3:43 | 2022-05-25 | 2022-12-29 |
 | [Battle Born](https://open.spotify.com/track/7x2gOLBT1ruFBNsxFmddWw) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2](https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS) | 3:43 | 2022-05-25 | 2022-07-29 |
 | [Battle Born](https://open.spotify.com/track/52IbZOn3hSl8OVDms3j78h) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Battle Born](https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx) | 5:13 | 2022-05-25 | 2022-07-29 |
 | [Battle Cry](https://open.spotify.com/track/6SCDzH7OCgpzwCP8yo7HIP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/0Ikw6ho559687KCPbSjr0K) | 4:32 | 2022-05-25 | 2022-07-29 |
@@ -194,6 +194,7 @@
 | [Heaven Nor Hell](https://open.spotify.com/track/2QKYfkH616UOHRQJlxWaVu) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/2gBziT8McYGmC7Vzf4BsK9) | 5:22 | 2022-05-25 | 2022-07-29 |
 | [Heaven Nor Hell](https://open.spotify.com/track/5Hgx4ssabqTTD1fmGFTmi2) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K) | 5:22 | 2022-05-25 |  |
 | [Heavy](https://open.spotify.com/track/7gavDfA7n1kvZYkGpsJmXf) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [The Union](https://open.spotify.com/album/2he1XlHeLAuHY8UUVrbiAa) | 2:50 | 2022-05-25 | 2022-07-29 |
+| [Heavy Is the Head](https://open.spotify.com/track/5GYFgz8QsRssKk2ONcvnpo) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [JEKYLL + HYDE](https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr) | 3:59 | 2022-05-25 |  |
 | [Heavy Is the Head](https://open.spotify.com/track/5rpjEBQVAVKDDIPa5dI37A) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [JEKYLL + HYDE](https://open.spotify.com/album/1xy141zMRluP7YaE94IawT) | 3:59 | 2022-05-25 | 2022-07-29 |
 | [Heavydirtysoul](https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:54 | 2022-05-25 |  |
 | [Helena Beat](https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 4:36 | 2022-05-25 |  |

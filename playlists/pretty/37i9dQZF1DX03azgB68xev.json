@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: The Young Escape",
-  "num_followers": 193155,
+  "num_followers": 193158,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMDAxMzg2NDc4MzJkNzVlODE0ZmI1YjM2ODJiODY4MDM0",
+  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMGUzZjg2NDAwNjJkNjAzYmRkZjdiOWI5ZjYxMmU3NjJj",
   "tracks": [
     {
       "added_at": "2021-10-31 01:51:05",
@@ -527,6 +527,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Soldier On",
+      "url": "https://open.spotify.com/track/7dDP7XYJvV3hi87evYSwz9"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 168000,
       "name": "Close (feat. Steven Furtick)",
       "url": "https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Soldier On",
-      "url": "https://open.spotify.com/track/7dDP7XYJvV3hi87evYSwz9"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -667,18 +667,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+        "name": "Quiet Talk",
+        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
       },
       "artists": [
         {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
         }
       ],
-      "duration_ms": 214866,
-      "name": "Patient",
-      "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
+      "duration_ms": 168000,
+      "name": "Quiet Talk",
+      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -703,6 +703,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Patient",
+      "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
         "name": "All Of My Best Friends",
         "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 185573,
       "name": "Best Friends",
       "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "Quiet Talk",
-        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Quiet Talk",
-      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -815,22 +815,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Fight My Fight For Me",
-        "url": "https://open.spotify.com/album/42phU77ePK7NmZpxSNhHyB"
+        "name": "Stages",
+        "url": "https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2"
       },
       "artists": [
         {
-          "name": "Citizen Way",
-          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
-        },
-        {
-          "name": "Trampolines",
-          "url": "https://open.spotify.com/artist/6aldh6681sMUSZe2CETBh2"
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
         }
       ],
-      "duration_ms": 161323,
-      "name": "Fight My Fight For Me",
-      "url": "https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS"
+      "duration_ms": 188473,
+      "name": "Stages",
+      "url": "https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -875,18 +871,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Stages",
-        "url": "https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2"
+        "name": "Fight My Fight For Me",
+        "url": "https://open.spotify.com/album/42phU77ePK7NmZpxSNhHyB"
       },
       "artists": [
         {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+        },
+        {
+          "name": "Trampolines",
+          "url": "https://open.spotify.com/artist/6aldh6681sMUSZe2CETBh2"
         }
       ],
-      "duration_ms": 188473,
-      "name": "Stages",
-      "url": "https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4"
+      "duration_ms": 161323,
+      "name": "Fight My Fight For Me",
+      "url": "https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "So Alive",
-        "url": "https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 178619,
-      "name": "So Alive",
-      "url": "https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Entre Nubes",
         "url": "https://open.spotify.com/album/33365bfVKn4qAztySXLsBm"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 205706,
       "name": "Influencer",
       "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "So Alive",
+        "url": "https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 178619,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn"
     }
   ],
   "unique_name": "Pop for Life",

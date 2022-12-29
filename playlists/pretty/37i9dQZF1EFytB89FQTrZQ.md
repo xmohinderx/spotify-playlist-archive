@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,148 likes - 258 songs - 14 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,153 likes - 258 songs - 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 95 | [DNA](https://open.spotify.com/track/0FfC67AEwBvtTWWfzzWo0m) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [22 \(Deluxe\)](https://open.spotify.com/album/3d34rQj5U6GoBSr1EqPkPd) | 2:57 |
 | 96 | [HOT](https://open.spotify.com/track/25a7EWpbv4NjeUIP1PN6T1) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [HOT](https://open.spotify.com/album/25stFeSXGr3jAPjDhAFZ3E) | 2:34 |
 | 97 | [Paradise](https://open.spotify.com/track/3u8mSMVk5l74Nq6eHI0thL) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 4:28 |
-| 98 | [Common Emotion \(feat\. MNEK\) \- The Golden Pony Remix](https://open.spotify.com/track/2Uu7xInCLYm2pgjNhBw909) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [The Golden Pony](https://open.spotify.com/artist/4nsYiXTOF3R7mfla5uxrTZ) | [Common Emotion \(feat\. MNEK\) \[Remixes\]](https://open.spotify.com/album/2FA9nxa3KLuiYtkoZj6WPd) | 4:11 |
-| 99 | [Whenever You're Ready](https://open.spotify.com/track/16Km3GR6GYMrIyVPk31DAe) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whenever You're Ready](https://open.spotify.com/album/5oU1HkdGTZ9aKz9FFdiawe) | 3:25 |
+| 98 | [Whenever You're Ready](https://open.spotify.com/track/16Km3GR6GYMrIyVPk31DAe) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whenever You're Ready](https://open.spotify.com/album/5oU1HkdGTZ9aKz9FFdiawe) | 3:25 |
+| 99 | [Common Emotion \(feat\. MNEK\) \- The Golden Pony Remix](https://open.spotify.com/track/2Uu7xInCLYm2pgjNhBw909) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [The Golden Pony](https://open.spotify.com/artist/4nsYiXTOF3R7mfla5uxrTZ) | [Common Emotion \(feat\. MNEK\) \[Remixes\]](https://open.spotify.com/album/2FA9nxa3KLuiYtkoZj6WPd) | 4:11 |
 | 100 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
 | 101 | [Change My Love](https://open.spotify.com/track/5z4G37A29NpXvYVUY8BnZX) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:24 |
 | 102 | [Hold Tight](https://open.spotify.com/track/1MSDYFqzCsVkXAU5BgKs63) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:37 |
@@ -224,8 +224,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 214 | [Obsessive](https://open.spotify.com/track/2yAMjZcxepb11bPIuEJIBq) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Suburb Superhero: The Villain Within](https://open.spotify.com/album/4rRbuLIqkwT2gAMfhKuXNq) | 3:04 |
 | 215 | [I Heard Love](https://open.spotify.com/track/1ZKbC4vkxqFEsWCqKCcJ6y) | [IV Rox](https://open.spotify.com/artist/6r1dwRRUw0Kta4L2r9jE1g), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [I Heard Love](https://open.spotify.com/album/3bfp1AZpIfWWw1cmkbB67h) | 2:42 |
 | 216 | [High](https://open.spotify.com/track/65rSUZKkb2OnQOJhTmq9Qs) | [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho), [Jevon](https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi) | [High](https://open.spotify.com/album/2fUlrZ4s1trBJmugEvpz1u) | 3:45 |
-| 217 | [Skin Deep](https://open.spotify.com/track/0GxWui7IvDrzcbdI4HqYb3) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [The Update](https://open.spotify.com/album/6JYgOftBgWHRATb0Euhuu0) | 4:13 |
-| 218 | [What Is Real Anymore?](https://open.spotify.com/track/7HrsicD1Hcqkw4oQppMvql) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Life In Plastic](https://open.spotify.com/album/6u5RnuC327BY3arCzImhm0) | 3:11 |
+| 217 | [What Is Real Anymore?](https://open.spotify.com/track/7HrsicD1Hcqkw4oQppMvql) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Life In Plastic](https://open.spotify.com/album/6u5RnuC327BY3arCzImhm0) | 3:11 |
+| 218 | [Skin Deep](https://open.spotify.com/track/0GxWui7IvDrzcbdI4HqYb3) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [The Update](https://open.spotify.com/album/6JYgOftBgWHRATb0Euhuu0) | 4:13 |
 | 219 | [Real](https://open.spotify.com/track/7tHFz7X0jTPs3YrvB0ZSlf) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [The Update](https://open.spotify.com/album/6JYgOftBgWHRATb0Euhuu0) | 3:34 |
 | 220 | [Mood](https://open.spotify.com/track/1CM3iPAkh18R4hFtZic86O) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Mood](https://open.spotify.com/album/2SuTPaMTSmZzFKk2btXQuA) | 2:37 |
 | 221 | [BLK MADONNA](https://open.spotify.com/track/4uF3wim4tyomeIiHQ8sGyU) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Access Denied](https://open.spotify.com/album/2iX0UveETkU2Xe1H0Pt9Tv) | 1:48 |
@@ -267,4 +267,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 257 | [Breathe \- Extended Reggaeton Rough Mix](https://open.spotify.com/track/7m7rZmcChdxe3SphKJZtL0) | [Kar Vogue](https://open.spotify.com/artist/1P0BWH63MKkRzVDo6KENaB) | [Big Hits in Reggaeton Mix Vol\. 1](https://open.spotify.com/album/3gIlukVpz1M1t8rBYUBn0t) | 4:32 |
 | 258 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 
-Snapshot ID: `Mjc4Njk4MjUsMDAwMDAwMDBlMmRiMGUyN2YxNmQ0MTk3ZWZiNzEyN2M4OTQwNTljNw==`
+Snapshot ID: `Mjc4NzEyNjUsMDAwMDAwMDAxYWU2ZmNhZjVhZmUyYzI2ODdlMGVjMmY5YWJhMjA4MQ==`

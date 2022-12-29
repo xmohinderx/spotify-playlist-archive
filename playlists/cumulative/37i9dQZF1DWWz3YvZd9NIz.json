@@ -43,7 +43,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 251097,
       "name": "Africa (Shinzo Radio Edit)",
       "url": "https://open.spotify.com/track/3Gnyu3henEnnYl6LeUt2Dj"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 213750,
       "name": "Believer",
       "url": "https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm"
@@ -552,6 +552,36 @@
     },
     {
       "album": {
+        "name": "I'm Good",
+        "url": "https://open.spotify.com/album/6Otf86kS5TF6YbFiOBDWRV"
+      },
+      "artists": [
+        {
+          "name": "DJane HouseKat",
+          "url": "https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx"
+        },
+        {
+          "name": "Earsquaker",
+          "url": "https://open.spotify.com/artist/76bxY8Zg5tjHCWkuRAbOFT"
+        },
+        {
+          "name": "Paul Keen",
+          "url": "https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF"
+        },
+        {
+          "name": "Blaikz",
+          "url": "https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156774,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/1fmErdHuX5yK4AUWwH6v67"
+    },
+    {
+      "album": {
         "name": "Instagram (The Remixes)",
         "url": "https://open.spotify.com/album/154K5houWcuFT0xqGKEMC1"
       },
@@ -621,7 +651,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 180800,
       "name": "Jackie Chan - MANDY Remix",
       "url": "https://open.spotify.com/track/0NtJLfcKJcZpGrguDWCuga"
@@ -697,7 +727,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 203802,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/2cyxZcDi7HB48T8mYZViLv"
@@ -789,7 +819,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 192000,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/5TQZ9gl4c5WLP5RWx6kkr6"
@@ -939,7 +969,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 198045,
       "name": "Pianoman (Hardstyle Remix)",
       "url": "https://open.spotify.com/track/3HipQ7QxF3QD4uqvGnl1p3"
@@ -961,7 +991,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Rainbow In The Sky",
       "url": "https://open.spotify.com/track/0clMW4mz5QaPXURDwkmKJA"
@@ -1211,7 +1241,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 210853,
       "name": "Sweet Caroline",
       "url": "https://open.spotify.com/track/4x2onqROU58WR516xPqqWO"
@@ -1237,7 +1267,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 200800,
       "name": "The Game - Dr. Rude & Lunaticz Remix",
       "url": "https://open.spotify.com/track/6r7Hg5QxLkKTHkbeeHyrAj"
@@ -1255,7 +1285,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 170217,
       "name": "The Ketchup Song (Aserej\u00e9)",
       "url": "https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3"
@@ -1273,10 +1303,32 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 216049,
       "name": "The Wellerman (Sea Shanty)",
       "url": "https://open.spotify.com/track/2TS8X1CY0G0sThZ80PupZ5"
+    },
+    {
+      "album": {
+        "name": "Wake Me Up (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/0KWzjPlv7fx0JOuKrNledF"
+      },
+      "artists": [
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "Patrick Lentz",
+          "url": "https://open.spotify.com/artist/21uICil8mM128FNvcYJDv0"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186400,
+      "name": "Wake Me Up - Hardstyle Remix",
+      "url": "https://open.spotify.com/track/4IaI3OzwnVo6XyooQ0Rua0"
     },
     {
       "album": {
@@ -1295,7 +1347,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 164956,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ"

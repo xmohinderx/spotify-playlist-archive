@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 25281,
+  "num_followers": 25339,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwOTU0MCwwMDAwMDAwMDU5N2UwZjY4NTQxZmNkOGYyZjMyMTNjNDQ3NjE2YWQ4",
+  "snapshot_id": "MTY2NDUwOTU0MCwwMDAwMDAwMGQxYmQ2NjQxNmE3MGYyMTczMWQ2ZWFiODQzODY3ODc3",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -197,22 +197,6 @@
       "url": "https://open.spotify.com/track/3zZWGXbq4ybpt2ux4c0KXV"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "The Nada",
-        "url": "https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 300746,
-      "name": "Guacamole",
-      "url": "https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "RCA 100 A\u00f1os De Musica",
@@ -227,6 +211,22 @@
       "duration_ms": 102200,
       "name": "Palmera",
       "url": "https://open.spotify.com/track/1thsP19THIiLrpxIPqEteA"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "The Nada",
+        "url": "https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 300746,
+      "name": "Guacamole",
+      "url": "https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -549,6 +549,22 @@
       "url": "https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW"
     },
     {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/4ZbQYKush5N6x7Se2GUR3I"
+      },
+      "artists": [
+        {
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Bandolero",
+      "url": "https://open.spotify.com/track/6Ds432SUei6nfYwOl4io93"
+    },
+    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Hang on Little Tomato",
@@ -579,22 +595,6 @@
       "duration_ms": 192293,
       "name": "Pulque para dos",
       "url": "https://open.spotify.com/track/7bj7YpHTPRjeBc6vVtd2Oo"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/4ZbQYKush5N6x7Se2GUR3I"
-      },
-      "artists": [
-        {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Bandolero",
-      "url": "https://open.spotify.com/track/6Ds432SUei6nfYwOl4io93"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -679,22 +679,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Tijuana Sessions Vol. 3",
-        "url": "https://open.spotify.com/album/1mzRcscMBM7SRphpWA6g8T"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Tengo La Voz",
-      "url": "https://open.spotify.com/track/3MVUADKwucn7BoLq73cbE6"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Papayas",
         "url": "https://open.spotify.com/album/2yicqz18D45XpgeHAL2692"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 337391,
       "name": "Papayas",
       "url": "https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Tijuana Sessions Vol. 3",
+        "url": "https://open.spotify.com/album/1mzRcscMBM7SRphpWA6g8T"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Tengo La Voz",
+      "url": "https://open.spotify.com/track/3MVUADKwucn7BoLq73cbE6"
     },
     {
       "added_at": "2022-02-04 19:55:03",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
     },
     {
-      "added_at": "2022-04-19 19:22:36",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Clandestina - Spotify Singles",
-      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Nuevo Son Jarocho",
@@ -791,6 +775,22 @@
       "duration_ms": 262133,
       "name": "La Bruja",
       "url": "https://open.spotify.com/track/4VWPPn68WVGZK2xwDzS9KE"
+    },
+    {
+      "added_at": "2022-04-19 19:22:36",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Clandestina - Spotify Singles",
+      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -957,6 +957,22 @@
       "url": "https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt"
     },
     {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Loca Navidad Latin Rock Vol. 4",
+        "url": "https://open.spotify.com/album/0kDXegd5ADxlS4OhzYhgUX"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Palmar",
+      "url": "https://open.spotify.com/track/7wwHXlNsf2HkaVukGNVy8f"
+    },
+    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Banda de los Muertos",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Loca Navidad Latin Rock Vol. 4",
-        "url": "https://open.spotify.com/album/0kDXegd5ADxlS4OhzYhgUX"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 193626,
-      "name": "Palmar",
-      "url": "https://open.spotify.com/track/7wwHXlNsf2HkaVukGNVy8f"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Xe\u0308e\u0308w (Volumen 1)",
         "url": "https://open.spotify.com/album/1FLTcl9FuzsTLe70AnhSVf"
       },
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/1M2SNsDjSIPRQ5TV0QmLc0"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Curandero",
-        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
-      },
-      "artists": [
-        {
-          "name": "Orkesta Mendoza",
-          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Guajira Guantanamera (Remastered)",
@@ -1055,6 +1039,22 @@
       "duration_ms": 137530,
       "name": "Los tamalitos de Olga - Remastered",
       "url": "https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Curandero",
+        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
+      },
+      "artists": [
+        {
+          "name": "Orkesta Mendoza",
+          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Latin Soul Syndicate",
-        "url": "https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO"
-      },
-      "artists": [
-        {
-          "name": "Latin Soul Syndicate",
-          "url": "https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "Frida Kahlo aka Mamasita",
-      "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "This Is Desmond Dekker (Enhanced Edition)",
         "url": "https://open.spotify.com/album/6zmXwlVf8f9wpC4VEvpVUl"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 209360,
       "name": "Coconut Water",
       "url": "https://open.spotify.com/track/4d1CoRChi1Hi2795N5JB3G"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Latin Soul Syndicate",
+        "url": "https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO"
+      },
+      "artists": [
+        {
+          "name": "Latin Soul Syndicate",
+          "url": "https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "Frida Kahlo aka Mamasita",
+      "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Mujeres con Cajones",
-        "url": "https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz"
-      },
-      "artists": [
-        {
-          "name": "Eva Ayll\u00f3n",
-          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "Fina Estampa",
-      "url": "https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "15 Super Exitos De Lobo Y Melon - Versiones Originales",
         "url": "https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 176733,
       "name": "La Sitiera",
       "url": "https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Mujeres con Cajones",
+        "url": "https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz"
+      },
+      "artists": [
+        {
+          "name": "Eva Ayll\u00f3n",
+          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "Fina Estampa",
+      "url": "https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1489,6 +1489,26 @@
       "url": "https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k"
     },
     {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "The Power of the Latin Music",
+        "url": "https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Quantic and His Combo Barbaro",
+          "url": "https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN"
+        }
+      ],
+      "duration_ms": 283973,
+      "name": "Mambo Los Quantic",
+      "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
+    },
+    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Trio Nuevomexicano",
@@ -1537,24 +1557,20 @@
       "url": "https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
+      "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "The Power of the Latin Music",
-        "url": "https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE"
+        "name": "Dedicated To Nelson",
+        "url": "https://open.spotify.com/album/3RUASfTxsMb16WXKKcue8C"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Quantic and His Combo Barbaro",
-          "url": "https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN"
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
         }
       ],
-      "duration_ms": 283973,
-      "name": "Mambo Los Quantic",
-      "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
+      "duration_ms": 165626,
+      "name": "Mangos",
+      "url": "https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1571,22 +1587,6 @@
       "duration_ms": 259013,
       "name": "Los Sabores Del Porro",
       "url": "https://open.spotify.com/track/7mJ2WDNjByJ1Ncqa8NjRJH"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Dedicated To Nelson",
-        "url": "https://open.spotify.com/album/3RUASfTxsMb16WXKKcue8C"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 165626,
-      "name": "Mangos",
-      "url": "https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1621,6 +1621,22 @@
       "url": "https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh"
     },
     {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Los 22 Grandes \u00c9xitos de P\u00e9rez Prado (Remastered)",
+        "url": "https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "Mar\u00eda Cristina - Remastered",
+      "url": "https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd"
+    },
+    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Songs for Moonlight Swim and Otros Tipos de Ocupaciones",
@@ -1635,22 +1651,6 @@
       "duration_ms": 165800,
       "name": "Allo Mambo",
       "url": "https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "El Brown Recluse",
-        "url": "https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O"
-      },
-      "artists": [
-        {
-          "name": "Charanga Cakewalk",
-          "url": "https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN"
-        }
-      ],
-      "duration_ms": 259746,
-      "name": "Cumbia Pa Modernos",
-      "url": "https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB"
     },
     {
       "added_at": "2022-01-11 03:10:29",

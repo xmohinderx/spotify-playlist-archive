@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-[Spotify](https://open.spotify.com/user/spotify) - 809 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 815 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 23 | [Boss Kalewa](https://open.spotify.com/track/0hWLGhDjvYyXqDfHJstOpb) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Boss Kalewa](https://open.spotify.com/album/3hObipsh4XFmmdFvFKO52w) | 5:23 |
 | 24 | [Nalimwaga](https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nalimwaga](https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97) | 3:44 |
 | 25 | [Ujaulamba](https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Ujaulamba](https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0) | 5:33 |
-| 26 | [We Nani](https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [We Nani](https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0) | 4:14 |
-| 27 | [Umekopwa](https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Umekopwa](https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X) | 4:43 |
+| 26 | [Umekopwa](https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Umekopwa](https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X) | 4:43 |
+| 27 | [We Nani](https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [We Nani](https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0) | 4:14 |
 | 28 | [Jiangalie](https://open.spotify.com/track/6kMV14ic2Rpz4h1k807zyR) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Jiangalie](https://open.spotify.com/album/2ZVwvn2K544UFhLsWyd9CF) | 4:06 |
 | 29 | [Wanga](https://open.spotify.com/track/43LURXlVucl8rSjA8zRjuk) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Wanga](https://open.spotify.com/album/4J7iQKFw84STrI3YKSTTpx) | 4:04 |
 | 30 | [Kamaliza \(feat\. Sholo Mwamba\)](https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T) | [High School](https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu) | 5:08 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 35 | [NINAASILA](https://open.spotify.com/track/6EyFCSjskAxCdtUartv446) | [Duke](https://open.spotify.com/artist/6DnyyK1TL0Lbfrvwz9zeLc), [Kibo Travella](https://open.spotify.com/artist/0LWlOhbVzbmoHTTi4sot50), [Mczo](https://open.spotify.com/artist/1zJfEzj4ITRmpkkAa208Su) | [Pamoja V Sisso \(Singeli Sound\)](https://open.spotify.com/album/0Owu6KAD2puOplJsCeRoSk) | 3:54 |
 | 36 | [Kupendwa Raha](https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Dogo Jully](https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ) | [Kupendwa Raha](https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI) | 5:04 |
 | 37 | [Status](https://open.spotify.com/track/7qk0HfhXHEYQQzoZ6caYQM) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Status](https://open.spotify.com/album/1mt4GI9A1Msw42jevPqCqk) | 4:08 |
-| 38 | [Naijua Iyo](https://open.spotify.com/track/4pQMjjsGtqvLzayIyhValX) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Naijua Iyo](https://open.spotify.com/album/5hFZHndJ4KsuuO8I3BWiuj) | 3:46 |
+| 38 | [Chura Superstar](https://open.spotify.com/track/14xLOCMIFzks6x7H1lTDqg) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Chura Superstar](https://open.spotify.com/album/5M4vDpC8xehFml0hAOXrVi) | 5:49 |
 | 39 | [Sawa Nitaacha](https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Sawa Nitaacha](https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ) | 3:38 |
 | 40 | [Siyo Shida Zangu](https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Siyo Shida Zangu](https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI) | 3:59 |
 | 41 | [Kwampalange](https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi) | [MPM Mshamba](https://open.spotify.com/artist/4goaGLkAElWhEltQeiJmKB), [Mkojani](https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U) | [Kwampalange](https://open.spotify.com/album/04hyzfw6DPX7ueXed6hxB1) | 3:39 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 47 | [Kwanini](https://open.spotify.com/track/1mP3PPtft6EQumpjaj1nmc) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Kwanini](https://open.spotify.com/album/57w4MZxXpYPG5RbjKCaTZA) | 4:35 |
 | 48 | [Natamani](https://open.spotify.com/track/5PY0K1JkB3IbgldFpHiWuM) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Chege](https://open.spotify.com/artist/09ePfLAl1VPyN0NGPiZdCB) | [Natamani](https://open.spotify.com/album/6A8pezWuBNYujOhZhffVmE) | 4:22 |
 | 49 | [Viburi](https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Chief Becka](https://open.spotify.com/artist/34OrNiTDCk4SHF4XUAdsv6) | [Viburi](https://open.spotify.com/album/6cCYWRF4Ye9Kva0iVcK3pk) | 3:21 |
-| 50 | [Chura Superstar](https://open.spotify.com/track/14xLOCMIFzks6x7H1lTDqg) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Chura Superstar](https://open.spotify.com/album/5M4vDpC8xehFml0hAOXrVi) | 5:49 |
+| 50 | [Naijua Iyo](https://open.spotify.com/track/4pQMjjsGtqvLzayIyhValX) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Naijua Iyo](https://open.spotify.com/album/5hFZHndJ4KsuuO8I3BWiuj) | 3:46 |
 
-Snapshot ID: `MTY3MTE5NjUwOCwwMDAwMDAwMDUwYzRhN2VkMzQ2YjhkNjM1ODU4YjJiYzE5ZmFkODU1`
+Snapshot ID: `MTY3MTE5NjUwOCwwMDAwMDAwMDcwNjJhMjMwNzI4M2JlYjQ5MmM5MDJmMjE1OWRjMTdi`

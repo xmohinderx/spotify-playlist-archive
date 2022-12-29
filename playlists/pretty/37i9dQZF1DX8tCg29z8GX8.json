@@ -1,12 +1,12 @@
 {
   "description": "Beat the traffic blues with these killer tunes.",
-  "num_followers": 6779,
+  "num_followers": 6794,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTM1ODQyOSwwMDAwMDAwMDY0YWQ2Mzk4NmQzMThkNTM2NThiNTQ4MjZhYWJhZDc3",
+  "snapshot_id": "MTY3MTM1ODQyOSwwMDAwMDAwMGIyZDA1ZjVhMmU1M2E4MzlhY2ZkMTIxNjFiZGQzOTgz",
   "tracks": [
     {
       "added_at": "2022-06-09 23:00:00",
@@ -153,20 +153,24 @@
       "url": "https://open.spotify.com/track/4lFOrIFSya1i1cBHMUFve8"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Last Last",
-        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
+        "name": "Cough (Odo)",
+        "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
         }
       ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
+      "duration_ms": 176134,
+      "name": "Cough (Odo)",
+      "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -205,24 +209,20 @@
       "url": "https://open.spotify.com/track/3ImDVrkj2jO7QjR2Xw86w3"
     },
     {
-      "added_at": "2022-10-13 23:00:00",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Cough (Odo)",
-        "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
+        "name": "Last Last",
+        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 176134,
-      "name": "Cough (Odo)",
-      "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -239,6 +239,26 @@
       "duration_ms": 297168,
       "name": "JJC",
       "url": "https://open.spotify.com/track/5DuZrfanbwiEtmU7ZDXaX0"
+    },
+    {
+      "added_at": "2022-06-20 06:28:15",
+      "album": {
+        "name": "Buga (Lo Lo Lo)",
+        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 183103,
+      "name": "Buga (Lo Lo Lo)",
+      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -273,6 +293,22 @@
       "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
     },
     {
+      "added_at": "2022-11-25 07:48:15",
+      "album": {
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/3kO5jijVZlEl5KaOKM2ZG0"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI"
+        }
+      ],
+      "duration_ms": 211128,
+      "name": "Enjoyment",
+      "url": "https://open.spotify.com/track/74zNTorpLrsnDUGKxPb0fv"
+    },
+    {
       "added_at": "2022-07-14 23:00:00",
       "album": {
         "name": "Bandana",
@@ -291,22 +327,6 @@
       "duration_ms": 178225,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
-    },
-    {
-      "added_at": "2022-11-25 07:48:15",
-      "album": {
-        "name": "Enjoyment",
-        "url": "https://open.spotify.com/album/3kO5jijVZlEl5KaOKM2ZG0"
-      },
-      "artists": [
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI"
-        }
-      ],
-      "duration_ms": 211128,
-      "name": "Enjoyment",
-      "url": "https://open.spotify.com/track/74zNTorpLrsnDUGKxPb0fv"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -359,26 +379,6 @@
       "duration_ms": 205000,
       "name": "Overloading (OVERDOSE)",
       "url": "https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe"
-    },
-    {
-      "added_at": "2022-06-20 06:28:15",
-      "album": {
-        "name": "Buga (Lo Lo Lo)",
-        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 183103,
-      "name": "Buga (Lo Lo Lo)",
-      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
     },
     {
       "added_at": "2022-11-15 09:19:12",
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
-      "added_at": "2022-09-19 07:20:26",
-      "album": {
-        "name": "Bad To Me",
-        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 176850,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
-    },
-    {
       "added_at": "2022-08-18 23:00:00",
       "album": {
         "name": "Electricity",
@@ -595,6 +579,22 @@
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
+    },
+    {
+      "added_at": "2022-09-19 07:20:26",
+      "album": {
+        "name": "Bad To Me",
+        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 176850,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
     },
     {
       "added_at": "2022-09-30 06:43:32",
@@ -1037,6 +1037,26 @@
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
+      "added_at": "2022-09-09 09:15:38",
+      "album": {
+        "name": "Kolo Kolo",
+        "url": "https://open.spotify.com/album/6o46JSSqZAcJSma0j37t4u"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 195135,
+      "name": "Kolo Kolo",
+      "url": "https://open.spotify.com/track/2RnkJgwCzgvQU3MUysO1fG"
+    },
+    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Black Panther: Wakanda Forever Prologue",
@@ -1057,24 +1077,24 @@
       "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
     },
     {
-      "added_at": "2022-09-09 09:15:38",
+      "added_at": "2022-09-30 06:43:32",
       "album": {
-        "name": "Kolo Kolo",
-        "url": "https://open.spotify.com/album/6o46JSSqZAcJSma0j37t4u"
+        "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
+        "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
       },
       "artists": [
         {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
         }
       ],
-      "duration_ms": 195135,
-      "name": "Kolo Kolo",
-      "url": "https://open.spotify.com/track/2RnkJgwCzgvQU3MUysO1fG"
+      "duration_ms": 189000,
+      "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
+      "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1097,24 +1117,32 @@
       "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
     },
     {
-      "added_at": "2022-09-30 06:43:32",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
-        "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
+        "name": "Sugarcane (Remix)",
+        "url": "https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
         },
         {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
-      "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
+      "duration_ms": 251147,
+      "name": "Sugarcane - Remix",
+      "url": "https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1151,6 +1179,26 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Beggie Beggie",
+      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Water & Garri",
         "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
       },
@@ -1167,22 +1215,6 @@
       "duration_ms": 218130,
       "name": "Somebody\u2019s Son (Ft Brandy)",
       "url": "https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Call of Duty",
-        "url": "https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 144758,
-      "name": "Call of Duty",
-      "url": "https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1217,52 +1249,20 @@
       "url": "https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+        "name": "Call of Duty",
+        "url": "https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Beggie Beggie",
-      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Sugarcane (Remix)",
-        "url": "https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 251147,
-      "name": "Sugarcane - Remix",
-      "url": "https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2"
+      "duration_ms": 144758,
+      "name": "Call of Duty",
+      "url": "https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO"
     },
     {
       "added_at": "2022-11-18 11:43:10",

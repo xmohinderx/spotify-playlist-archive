@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Our editors' picks of the best tracks from Fresh Finds Latin this year\. Cover: Estevie \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,402 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,448 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 26 | [Esto me pertenece](https://open.spotify.com/track/6FKcOmJVNmAq4OsuB4FtLV) | [Dame Area](https://open.spotify.com/artist/1Cmtis0NcKGTvAnovenEJl) | [Esto me pertenece](https://open.spotify.com/album/1a8bUbSRPV96CkxN9zt0R9) | 4:35 |
 | 27 | [Paradoja](https://open.spotify.com/track/3kFy7VWKyPnIv5RAyXNmcz) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl), [Obregøn](https://open.spotify.com/artist/7e5DKM613ys6ekrqyor2oK) | [Paradoja](https://open.spotify.com/album/5bmesQ37gb6KAUadrpsevz) | 3:40 |
 | 28 | [To' Los Días](https://open.spotify.com/track/1wqdPAMMCgkjapI6YEsL0P) | [Matt Louis](https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX) | [To' Los Días](https://open.spotify.com/album/0vWxSxlOr4gstpjfDXp6DI) | 3:38 |
-| 29 | [Money](https://open.spotify.com/track/2e619mb1Ug2Ws7e62vQteT) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Money](https://open.spotify.com/album/4XgcQp5grjwlXpcUrhMw5P) | 2:33 |
-| 30 | [No Aguanto el Calor](https://open.spotify.com/track/2rz22cu4JtOVdNGmPlDq70) | [Lisbon Girls](https://open.spotify.com/artist/6qmPAUC9QRnixgbsQE9Qe3) | [No Aguanto el Calor](https://open.spotify.com/album/3GCeHjcKXUKDNag52Mj9PB) | 3:40 |
+| 29 | [No Aguanto el Calor](https://open.spotify.com/track/2rz22cu4JtOVdNGmPlDq70) | [Lisbon Girls](https://open.spotify.com/artist/6qmPAUC9QRnixgbsQE9Qe3) | [No Aguanto el Calor](https://open.spotify.com/album/3GCeHjcKXUKDNag52Mj9PB) | 3:40 |
+| 30 | [Money](https://open.spotify.com/track/2e619mb1Ug2Ws7e62vQteT) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Money](https://open.spotify.com/album/4XgcQp5grjwlXpcUrhMw5P) | 2:33 |
 | 31 | [Amuleto](https://open.spotify.com/track/59iDxn0HIxHIcTZW4poFj7) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh) | [Amuleto](https://open.spotify.com/album/7uxrgNDgbXTS2RoP81ACqG) | 3:38 |
 | 32 | [VA HABLAR](https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [HUGITO](https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU) | 2:27 |
 | 33 | [Bby Grl](https://open.spotify.com/track/6w0JTilwoLz5xwTWPSeuf0) | [Loui Santana](https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh) | [Bby Grl](https://open.spotify.com/album/43uszYWNYyigwvqIMVulL9) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Me preguntaba](https://open.spotify.com/track/6YG8kAm1kWwLsDY9eTHlUN) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Me preguntaba](https://open.spotify.com/album/61okGT4nZSPCihWVSPztxN) | 3:21 |
 | 50 | [Madrid](https://open.spotify.com/track/1330i3UvrgEgBJXEPPO3ba) | [Jesse Chacón](https://open.spotify.com/artist/55sk6MAN847i5rUk9jpxO3), [DaniDask](https://open.spotify.com/artist/1YIJrMkAoPxii7aNWXQlsd) | [Madrid](https://open.spotify.com/album/7H5rIPaAVi5xBvqcq77a7a) | 2:51 |
 
-Snapshot ID: `MTY2OTgyMjYxNiwwMDAwMDAwMDk5OWNjYTYzMDI3MjQwNjU5Y2MyZTMwNGUyMDE5N2Jm`
+Snapshot ID: `MTY2OTgyMjYxNiwwMDAwMDAwMDNmZTMxMzQwOTM3MWQ5YzE1YTA4NzFlMzA5NjkxMTJi`

@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Michelle BI en portada.",
-  "num_followers": 47204,
+  "num_followers": 47228,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3NTIwMCwwMDAwMDAwMGE5YmM1ZWNkZWY3NmUwOGU1MzNmZTdmODdjZTliZjk1",
+  "snapshot_id": "MTY3MTc3NTIwMCwwMDAwMDAwMDk2YTcwZTQ4OGE5YTMxZjNiN2IyNGEwOTVhZTA5NmVj",
   "tracks": [
     {
       "added_at": "2022-12-23 06:00:00",
@@ -95,38 +95,6 @@
     {
       "added_at": "2022-12-02 06:00:00",
       "album": {
-        "name": "El Black",
-        "url": "https://open.spotify.com/album/5y7iiFh7t47TaaKYKU8pNQ"
-      },
-      "artists": [
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        }
-      ],
-      "duration_ms": 206161,
-      "name": "El Black",
-      "url": "https://open.spotify.com/track/3QjGwE4y7QyF5xYEHfcYtU"
-    },
-    {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "Refuego por Culiacan",
-        "url": "https://open.spotify.com/album/3E0kYtbOyjAPPaSK5G2pY5"
-      },
-      "artists": [
-        {
-          "name": "Ivan Orozco",
-          "url": "https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Refuego por Culiacan",
-      "url": "https://open.spotify.com/track/5KvVBN8WLI8RRy4iryZnMg"
-    },
-    {
-      "added_at": "2022-12-02 06:00:00",
-      "album": {
         "name": "Ando Enfocado",
         "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
       },
@@ -147,6 +115,38 @@
       "duration_ms": 184106,
       "name": "Ando Enfocado",
       "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
+    },
+    {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
+        "name": "Refuego por Culiacan",
+        "url": "https://open.spotify.com/album/3E0kYtbOyjAPPaSK5G2pY5"
+      },
+      "artists": [
+        {
+          "name": "Ivan Orozco",
+          "url": "https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Refuego por Culiacan",
+      "url": "https://open.spotify.com/track/5KvVBN8WLI8RRy4iryZnMg"
+    },
+    {
+      "added_at": "2022-12-02 06:00:00",
+      "album": {
+        "name": "El Black",
+        "url": "https://open.spotify.com/album/5y7iiFh7t47TaaKYKU8pNQ"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "duration_ms": 206161,
+      "name": "El Black",
+      "url": "https://open.spotify.com/track/3QjGwE4y7QyF5xYEHfcYtU"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -473,24 +473,24 @@
       "url": "https://open.spotify.com/track/7xgF8ki6syas9lOkszRPQY"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
+      "added_at": "2022-12-05 23:10:14",
       "album": {
-        "name": "Ya No",
-        "url": "https://open.spotify.com/album/5lsYMgRDUN8OJ2kOtnt8XD"
+        "name": "Tambi\u00e9n Me Llamo Ismael",
+        "url": "https://open.spotify.com/album/18EBLg9eT1VizyqevunXWq"
       },
       "artists": [
         {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
         },
         {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+          "name": "Fraccion EME",
+          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
         }
       ],
-      "duration_ms": 199157,
-      "name": "Ya No",
-      "url": "https://open.spotify.com/track/2ioxOvyD2OAB1FvuE6Whef"
+      "duration_ms": 186624,
+      "name": "Tambi\u00e9n Me Llamo Ismael",
+      "url": "https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD"
     },
     {
       "added_at": "2022-10-07 15:36:37",
@@ -513,6 +513,26 @@
       "url": "https://open.spotify.com/track/0QKF6xXTTPkeKqZBxtkjWh"
     },
     {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Ya No",
+        "url": "https://open.spotify.com/album/5lsYMgRDUN8OJ2kOtnt8XD"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        },
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 199157,
+      "name": "Ya No",
+      "url": "https://open.spotify.com/track/2ioxOvyD2OAB1FvuE6Whef"
+    },
+    {
       "added_at": "2022-11-18 06:00:00",
       "album": {
         "name": "Solo En Navidad",
@@ -529,24 +549,20 @@
       "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
     },
     {
-      "added_at": "2022-12-05 23:10:14",
+      "added_at": "2022-12-09 06:00:00",
       "album": {
-        "name": "Tambi\u00e9n Me Llamo Ismael",
-        "url": "https://open.spotify.com/album/18EBLg9eT1VizyqevunXWq"
+        "name": "Cumbias Light, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
       },
       "artists": [
         {
-          "name": "Legion RG",
-          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
-        },
-        {
-          "name": "Fraccion EME",
-          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 186624,
-      "name": "Tambi\u00e9n Me Llamo Ismael",
-      "url": "https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD"
+      "duration_ms": 162389,
+      "name": "5 Estrellas - En Vivo",
+      "url": "https://open.spotify.com/track/3JoFfvjusTX1Bh29gJHQi9"
     },
     {
       "added_at": "2022-11-18 06:00:00",
@@ -563,22 +579,6 @@
       "duration_ms": 183893,
       "name": "No Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
-    },
-    {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
-        "name": "Cumbias Light, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 162389,
-      "name": "5 Estrellas - En Vivo",
-      "url": "https://open.spotify.com/track/3JoFfvjusTX1Bh29gJHQi9"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -645,22 +645,6 @@
       "url": "https://open.spotify.com/track/5vq80dky9jZf0VJciFK8rt"
     },
     {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "Damas y Placeres",
-        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk"
-    },
-    {
       "added_at": "2022-12-05 23:10:14",
       "album": {
         "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
@@ -675,6 +659,22 @@
       "duration_ms": 187500,
       "name": "Kenwood En Los Radios (En Vivo)",
       "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
+    },
+    {
+      "added_at": "2022-11-18 06:00:00",
+      "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -695,6 +695,26 @@
       "duration_ms": 183501,
       "name": "Manzana en el Mapa",
       "url": "https://open.spotify.com/track/2424oIYpF5JMh65bCu1kAI"
+    },
+    {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
+        "name": "Cu\u00f1ados y Compadres",
+        "url": "https://open.spotify.com/album/1AEo9kTiKt4lUxwNV9gF7c"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Jes\u00fas Ojeda y Sus Parientes",
+          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
+        }
+      ],
+      "duration_ms": 230548,
+      "name": "Cu\u00f1ados y Compadres",
+      "url": "https://open.spotify.com/track/1gkd7OJkmMVNQEEJjFvQLp"
     },
     {
       "added_at": "2022-11-11 06:00:00",
@@ -763,26 +783,6 @@
       "duration_ms": 248117,
       "name": "Eres",
       "url": "https://open.spotify.com/track/1tCJPawEVGoqJJqAKGHKC1"
-    },
-    {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "Cu\u00f1ados y Compadres",
-        "url": "https://open.spotify.com/album/1AEo9kTiKt4lUxwNV9gF7c"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Jes\u00fas Ojeda y Sus Parientes",
-          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
-        }
-      ],
-      "duration_ms": 230548,
-      "name": "Cu\u00f1ados y Compadres",
-      "url": "https://open.spotify.com/track/1gkd7OJkmMVNQEEJjFvQLp"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/4D501jFb5aOvcXal9CWQ5J"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Me Encantas",
-        "url": "https://open.spotify.com/album/5nhMOcUkwPf4kajn0UQIht"
-      },
-      "artists": [
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        }
-      ],
-      "duration_ms": 200882,
-      "name": "Me Encantas",
-      "url": "https://open.spotify.com/track/4nzy7rc0JlsoMVfYBgmybw"
-    },
-    {
       "added_at": "2022-12-23 06:00:00",
       "album": {
         "name": "Peque\u00f1a y Frag\u00edl",
@@ -887,6 +871,22 @@
       "duration_ms": 173837,
       "name": "Peque\u00f1a y Frag\u00edl",
       "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Me Encantas",
+        "url": "https://open.spotify.com/album/5nhMOcUkwPf4kajn0UQIht"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 200882,
+      "name": "Me Encantas",
+      "url": "https://open.spotify.com/track/4nzy7rc0JlsoMVfYBgmybw"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
     },
     {
-      "added_at": "2022-11-11 06:00:00",
-      "album": {
-        "name": "Tiempos de Guerra 2",
-        "url": "https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 171053,
-      "name": "Tiempos de Guerra 2",
-      "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
-    },
-    {
       "added_at": "2022-12-05 23:10:14",
       "album": {
         "name": "Somos de la Mayiza (El Checo)",
@@ -987,6 +971,22 @@
       "duration_ms": 143683,
       "name": "Somos de la Mayiza (El Checo)",
       "url": "https://open.spotify.com/track/2oQ8EAsQ7IjD1wDq9O8r68"
+    },
+    {
+      "added_at": "2022-11-11 06:00:00",
+      "album": {
+        "name": "Tiempos de Guerra 2",
+        "url": "https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 171053,
+      "name": "Tiempos de Guerra 2",
+      "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -1009,6 +1009,22 @@
       "url": "https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE"
     },
     {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
+        "name": "El Flaco",
+        "url": "https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 147957,
+      "name": "El Flaco",
+      "url": "https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q"
+    },
+    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "nuestro amor sacrificado",
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2022-12-23 06:00:00",
       "album": {
-        "name": "El Flaco",
-        "url": "https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd"
+        "name": "El Wizard Es Mi Apodo",
+        "url": "https://open.spotify.com/album/2OGIAIOIwoHrqgD8M0vqOZ"
       },
       "artists": [
         {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 147957,
-      "name": "El Flaco",
-      "url": "https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q"
+      "duration_ms": 194040,
+      "name": "El Wizard Es Mi Apodo",
+      "url": "https://open.spotify.com/track/6P6GsfUCmIjOv6Q2zBI36s"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1075,22 +1091,6 @@
       "duration_ms": 154017,
       "name": "Bajo la Lluv\u00eda",
       "url": "https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4"
-    },
-    {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "El Wizard Es Mi Apodo",
-        "url": "https://open.spotify.com/album/2OGIAIOIwoHrqgD8M0vqOZ"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "El Wizard Es Mi Apodo",
-      "url": "https://open.spotify.com/track/6P6GsfUCmIjOv6Q2zBI36s"
     },
     {
       "added_at": "2022-12-23 06:00:00",

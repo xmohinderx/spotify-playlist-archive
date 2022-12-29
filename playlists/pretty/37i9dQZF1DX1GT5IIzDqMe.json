@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 72858,
+  "num_followers": 72920,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDQ2YzJlOGNiNzc4YTAzZTZhYWE1MGFlMGVmMWFiOTNl",
+  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDE4NWQ3NGI3MzU3NDk4ZTEyN2E5MDVhMDYyYzBmNTA1",
   "tracks": [
     {
       "added_at": "2022-07-22 08:57:48",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
+        "name": "A Walk in the Park",
+        "url": "https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        }
+      ],
+      "duration_ms": 325880,
+      "name": "A Walk in the Park",
+      "url": "https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
         "name": "The Legendary Adventures Of A Filter King",
         "url": "https://open.spotify.com/album/6DoSCkujawZm3BjfqlJrjO"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 422618,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/47L7EinVbbEBraJE0MMnW9"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "A Walk in the Park",
-        "url": "https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        }
-      ],
-      "duration_ms": 325880,
-      "name": "A Walk in the Park",
-      "url": "https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -359,18 +359,18 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Protein Valve EP",
-        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
+        "name": "Azimuth",
+        "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
       },
       "artists": [
         {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+          "name": "Kenny Larkin",
+          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
         }
       ],
-      "duration_ms": 330462,
-      "name": "A.M. Track",
-      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
+      "duration_ms": 341106,
+      "name": "Tedra",
+      "url": "https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Azimuth",
-        "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
+        "name": "Protein Valve EP",
+        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
       },
       "artists": [
         {
-          "name": "Kenny Larkin",
-          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
         }
       ],
-      "duration_ms": 341106,
-      "name": "Tedra",
-      "url": "https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn"
+      "duration_ms": 330462,
+      "name": "A.M. Track",
+      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
     },
     {
       "added_at": "2022-07-22 08:57:48",

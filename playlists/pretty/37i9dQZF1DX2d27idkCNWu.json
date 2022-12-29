@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 256289,
+  "num_followers": 256355,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2Njk3MiwwMDAwMDAwMDhhYTk4ZDM2MTdmZjJlZGI0YWYwYzkwOGU5NzkyNDc3",
+  "snapshot_id": "MTY3MTc2Njk3MiwwMDAwMDAwMDk1MmM4NzliMWY4ZmQyMDNlYmU4MjhhNDQxMWIwN2Zm",
   "tracks": [
     {
       "added_at": "2022-12-23 03:42:52",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 252716,
+      "name": "Exist for Love",
+      "url": "https://open.spotify.com/track/09fAL7YwPV3YzVmQDzLY8d"
+    },
+    {
+      "added_at": "2022-12-23 03:42:52",
+      "album": {
         "name": "Better Part of Me",
         "url": "https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 226146,
       "name": "Better Part of Me",
       "url": "https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN"
-    },
-    {
-      "added_at": "2022-12-23 03:42:52",
-      "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 252716,
-      "name": "Exist for Love",
-      "url": "https://open.spotify.com/track/09fAL7YwPV3YzVmQDzLY8d"
     },
     {
       "added_at": "2022-12-23 03:42:52",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
-        "name": "Live / Unplugged",
-        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "You Learn - Live / Unplugged",
-      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
-    },
-    {
-      "added_at": "2022-12-23 03:42:52",
-      "album": {
         "name": "penhasco. (ac\u00fastico)",
         "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 213934,
       "name": "penhasco. - (ac\u00fastico)",
       "url": "https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj"
+    },
+    {
+      "added_at": "2022-12-23 03:42:52",
+      "album": {
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "You Learn - Live / Unplugged",
+      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
     },
     {
       "added_at": "2022-12-23 03:42:52",
@@ -843,22 +843,18 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
-        "name": "Make Me (Cry) [Acoustic Version]",
-        "url": "https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk"
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 232906,
-      "name": "Make Me (Cry) - Acoustic Version",
-      "url": "https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU"
+      "duration_ms": 246000,
+      "name": "If I Ain't Got You - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
+      "url": "https://open.spotify.com/track/2QcuQQRX2P0bhZcs861SJY"
     },
     {
       "added_at": "2022-12-23 03:42:52",
@@ -879,34 +875,22 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
+        "name": "Make Me (Cry) [Acoustic Version]",
+        "url": "https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "If I Ain't Got You - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
-      "url": "https://open.spotify.com/track/2QcuQQRX2P0bhZcs861SJY"
-    },
-    {
-      "added_at": "2022-12-23 03:42:52",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
-      },
-      "artists": [
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 213542,
-      "name": "More Than Words - Spotify Singles",
-      "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
+      "duration_ms": 232906,
+      "name": "Make Me (Cry) - Acoustic Version",
+      "url": "https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU"
     },
     {
       "added_at": "2022-12-23 03:42:52",
@@ -923,6 +907,22 @@
       "duration_ms": 202482,
       "name": "Stan - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3"
+    },
+    {
+      "added_at": "2022-12-23 03:42:52",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 213542,
+      "name": "More Than Words - Spotify Singles",
+      "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
     },
     {
       "added_at": "2022-12-23 03:42:52",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
-    },
-    {
-      "added_at": "2022-12-23 03:42:52",
-      "album": {
         "name": "Live At AllSaints Studios",
         "url": "https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 218528,
       "name": "Crazy in Love",
       "url": "https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud"
+    },
+    {
+      "added_at": "2022-12-23 03:42:52",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
     },
     {
       "added_at": "2022-12-23 03:42:52",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
-        "name": "Sun Will Shine (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0TCXRPafxQF65CJ5M4e86y"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 215240,
-      "name": "Sun Will Shine - Acoustic Version",
-      "url": "https://open.spotify.com/track/7a5w6S1iiQT6x1AWBVGMHv"
-    },
-    {
-      "added_at": "2022-12-23 03:42:52",
-      "album": {
         "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
         "url": "https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 188527,
       "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
       "url": "https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb"
+    },
+    {
+      "added_at": "2022-12-23 03:42:52",
+      "album": {
+        "name": "Sun Will Shine (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0TCXRPafxQF65CJ5M4e86y"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 215240,
+      "name": "Sun Will Shine - Acoustic Version",
+      "url": "https://open.spotify.com/track/7a5w6S1iiQT6x1AWBVGMHv"
     },
     {
       "added_at": "2022-12-23 03:42:52",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
-        "name": "Unfinished (Acoustic)",
-        "url": "https://open.spotify.com/album/2sixGREINdRrjW0Ug4jDoq"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 247002,
-      "name": "Unfinished - Acoustic",
-      "url": "https://open.spotify.com/track/58c69nIHgrbtwJzaCa4bJL"
-    },
-    {
-      "added_at": "2022-12-23 03:42:52",
-      "album": {
         "name": "FRIENDS (Acoustic)",
         "url": "https://open.spotify.com/album/233AbsgzaS416igerB12cS"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 209434,
       "name": "FRIENDS - Acoustic",
       "url": "https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR"
+    },
+    {
+      "added_at": "2022-12-23 03:42:52",
+      "album": {
+        "name": "Unfinished (Acoustic)",
+        "url": "https://open.spotify.com/album/2sixGREINdRrjW0Ug4jDoq"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 247002,
+      "name": "Unfinished - Acoustic",
+      "url": "https://open.spotify.com/track/58c69nIHgrbtwJzaCa4bJL"
     },
     {
       "added_at": "2022-12-23 03:42:52",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
+        "name": "Our Roots Run Deep (Live)",
+        "url": "https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 535611,
+      "name": "All I Want - Live in Dublin / 2022",
+      "url": "https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV"
+    },
+    {
+      "added_at": "2022-12-23 03:42:52",
+      "album": {
         "name": "Living Without You (Acoustic)",
         "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 187333,
       "name": "Living Without You - Acoustic",
       "url": "https://open.spotify.com/track/6jgDBaX7ZxirvxpvCRpiaN"
-    },
-    {
-      "added_at": "2022-12-23 03:42:52",
-      "album": {
-        "name": "Our Roots Run Deep (Live)",
-        "url": "https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 535611,
-      "name": "All I Want - Live in Dublin / 2022",
-      "url": "https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV"
     },
     {
       "added_at": "2022-12-23 03:42:52",
@@ -1539,30 +1539,6 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
-        "name": "Entrelace",
-        "url": "https://open.spotify.com/album/3SIqwZQQFhhxTHbUHhnxqF"
-      },
-      "artists": [
-        {
-          "name": "Theodoro Nag\u00f4",
-          "url": "https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4"
-        },
-        {
-          "name": "A Timeline",
-          "url": "https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed"
-        },
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "Entrelace",
-      "url": "https://open.spotify.com/track/03XgNXtE6y5xO972gxQl6v"
-    },
-    {
-      "added_at": "2022-12-23 03:42:52",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5qeR1l2kCx9GnJmEHQIOH7"
       },
@@ -1575,6 +1551,22 @@
       "duration_ms": 247346,
       "name": "Tell Me You Love Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7leN3vIDslQwxJehUhrPXJ"
+    },
+    {
+      "added_at": "2022-12-23 03:42:52",
+      "album": {
+        "name": "Daisies (Acoustic)",
+        "url": "https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Daisies - Acoustic",
+      "url": "https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE"
     }
   ],
   "unique_name": "Pop Ac\u00fastico",

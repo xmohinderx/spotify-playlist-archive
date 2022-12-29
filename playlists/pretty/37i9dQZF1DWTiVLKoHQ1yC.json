@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 128280,
+  "num_followers": 128414,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMDZmNzllZDI0Yjc0Mjg5N2FiNTEwZjAzM2YxYjJkZDRj",
+  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMDIyZjU3OWRjM2YyZGYxMjYyZjI1YTU4ZWQzNzIzNDNm",
   "tracks": [
     {
       "added_at": "2022-01-14 10:50:05",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/66F2eP3BZWCmQiycL0trAs"
     },
     {
-      "added_at": "2022-12-28 00:58:25",
+      "added_at": "2022-12-29 00:14:58",
       "album": {
         "name": "Tell Me Why (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
     },
     {
-      "added_at": "2022-12-28 00:58:25",
+      "added_at": "2022-12-29 00:14:58",
       "album": {
         "name": "Tibet",
         "url": "https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK"
@@ -389,20 +389,24 @@
       "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
     },
     {
-      "added_at": "2022-12-28 00:58:25",
+      "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "I Know You",
-        "url": "https://open.spotify.com/album/2CXL7xliVASXyKWYoJfu3Q"
+        "name": "My Stripes",
+        "url": "https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp"
       },
       "artists": [
         {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
         }
       ],
-      "duration_ms": 232131,
-      "name": "I Know You",
-      "url": "https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl"
+      "duration_ms": 267488,
+      "name": "My Stripes",
+      "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -431,26 +435,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "My Stripes",
-        "url": "https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
-        }
-      ],
-      "duration_ms": 267488,
-      "name": "My Stripes",
-      "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Alkantara",
         "url": "https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo"
       },
@@ -465,20 +449,20 @@
       "url": "https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai"
     },
     {
-      "added_at": "2022-01-14 10:50:05",
+      "added_at": "2022-12-29 00:14:58",
       "album": {
-        "name": "Lost Gravity EP",
-        "url": "https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W"
+        "name": "I Know You",
+        "url": "https://open.spotify.com/album/2CXL7xliVASXyKWYoJfu3Q"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
         }
       ],
-      "duration_ms": 305401,
-      "name": "Lost Gravity",
-      "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
+      "duration_ms": 232131,
+      "name": "I Know You",
+      "url": "https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -495,6 +479,22 @@
       "duration_ms": 220493,
       "name": "Clear",
       "url": "https://open.spotify.com/track/2qEUwn7wOYwecjpQbrCvjB"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Lost Gravity EP",
+        "url": "https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 305401,
+      "name": "Lost Gravity",
+      "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ"
     },
     {
-      "added_at": "2022-12-28 00:58:25",
+      "added_at": "2022-12-29 00:14:58",
       "album": {
         "name": "Starz",
         "url": "https://open.spotify.com/album/16zN1g3AqZ38n9FTxViwG9"
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Influence",
-        "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
-      },
-      "artists": [
-        {
-          "name": "Joe Turner",
-          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
-        }
-      ],
-      "duration_ms": 259364,
-      "name": "Influence - Edit",
-      "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Proud",
         "url": "https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 236101,
       "name": "Proud",
       "url": "https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Influence",
+        "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
+      },
+      "artists": [
+        {
+          "name": "Joe Turner",
+          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
+        }
+      ],
+      "duration_ms": 259364,
+      "name": "Influence - Edit",
+      "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
     }
   ],
   "unique_name": "Melodic & Euphoric",

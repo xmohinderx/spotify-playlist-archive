@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-65 songs - 3 hr 7 min - not published yet
+66 songs - 3 hr 11 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Lake Rain With Thunder](https://open.spotify.com/track/4yuc0tswxfh6DgaPTGXnA0) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [The Wet Forest](https://open.spotify.com/album/3lK8bIdeNTajiIBuBW9NP6) | 2:20 | 2022-10-28 |  |
 | [Light And Thunder](https://open.spotify.com/track/7cJ41Y7QPLJiChkVBPcmsS) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 |  |
 | [Light Rain Passing Thunder](https://open.spotify.com/track/5HRrUoj7oj7foIL10JVMu7) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Light Rain Passing Thunder](https://open.spotify.com/album/4U6EdYlsg5cP85xBk7uBdM) | 3:13 | 2022-10-28 |  |
-| [Lit up Sky](https://open.spotify.com/track/7gqGg9Fax0OdHyOcpatuL3) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 | 2022-12-26 |
+| [Lit up Sky](https://open.spotify.com/track/7gqGg9Fax0OdHyOcpatuL3) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 |  |
 | [Luscious Rain](https://open.spotify.com/track/767C8s4KVShgz4r8hqJAd0) | [Harmonious Nature](https://open.spotify.com/artist/334v3jkZ2T1J40I0QGT3rZ) | [Luscious Rain](https://open.spotify.com/album/4HGhxEOSzvVuaXAb39qhkX) | 2:12 | 2022-10-28 |  |
 | [Medium rain, Thunder Threatening](https://open.spotify.com/track/49in3cjv5iMex3ajzSl47a) | [Naturalia](https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7) | [Thunder Experience](https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI) | 3:15 | 2022-10-28 |  |
 | [Mountain Thunderstorm](https://open.spotify.com/track/29XSvNdu4rTuvWgxeiMDM7) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:55 | 2022-12-09 |  |
@@ -41,8 +41,9 @@
 | [Rain with Rolling and Clapping Thunder](https://open.spotify.com/track/4ndtxpFn1DfrKoXwsSnNug) | [In Natura](https://open.spotify.com/artist/0g2QtLAW2w9KQV66KkwOu7) | [ETERNAL RAIN](https://open.spotify.com/album/2cCYxYXcBC89F7cLRT0IXF) | 2:08 | 2022-10-28 |  |
 | [Raining Rolling Thunder](https://open.spotify.com/track/7e3Hn9AFgrZrYgAZMJsvDb) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:42 | 2022-10-28 |  |
 | [Schläfriger Donner](https://open.spotify.com/track/28KswoQztifTUjKJxujGWV) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen über Hamburg](https://open.spotify.com/album/5gJA1OBF1KRxBbu2mfYN0s) | 3:28 | 2022-10-28 |  |
+| [Shelter Rain](https://open.spotify.com/track/2LlSkv5N137jn1rvqs39vA) | [Illustrike](https://open.spotify.com/artist/3fSaLzfLqxs7heaciEryrS) | [Deep Storm](https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7) | 3:37 | 2022-12-09 |  |
 | [Sitting on the Porch During a Thunderstorm](https://open.spotify.com/track/3eauTrySTM6lllpECM7akg) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 2:48 | 2022-10-28 |  |
-| [Sky Full Of Thunder](https://open.spotify.com/track/0ovxaBAfSGc6ZFR2tZPNFG) | [AQUELLE](https://open.spotify.com/artist/6QpxjwGg7Ni071gSexGP0j) | [Sky Full Of Thunder](https://open.spotify.com/album/5QVO59SbLxKz9AZksuijkg) | 3:18 | 2022-10-28 |  |
+| [Sky Full Of Thunder](https://open.spotify.com/track/0ovxaBAfSGc6ZFR2tZPNFG) | [AQUELLE](https://open.spotify.com/artist/6QpxjwGg7Ni071gSexGP0j) | [Sky Full Of Thunder](https://open.spotify.com/album/5QVO59SbLxKz9AZksuijkg) | 3:18 | 2022-10-28 | 2022-12-29 |
 | [Sky Thunder](https://open.spotify.com/track/5QrXyHPlJOtT8quR4URGa7) | [Celestial Noise](https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z) | [Sky Thunder](https://open.spotify.com/album/27Ub2XPbYDlVVnA1zXsz1O) | 2:50 | 2022-10-28 |  |
 | [Sleepy Storm](https://open.spotify.com/track/0gXGs4OoIwCEEDdKCwsOJE) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 | 2022-12-27 |
 | [Soft Rain Carrying Strong Lightnings](https://open.spotify.com/track/0qTxu9veqYjT7qCJJtaMQr) | [Naturalia](https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7) | [Thunder Experience](https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI) | 2:16 | 2022-10-28 |  |
@@ -52,7 +53,7 @@
 | [Storm From The North](https://open.spotify.com/track/6suFVz8lztiEwk7WFcM1TN) | [Stormie](https://open.spotify.com/artist/2brtdNdmDGrLUcEGmE3a8y) | [Storm From The North](https://open.spotify.com/album/1uHb3rCfRwo9UTNKvXt7hd) | 2:44 | 2022-10-28 |  |
 | [Storms a Brewing](https://open.spotify.com/track/0VElp1F9YurCuIl6NhqZc5) | [Stardust Vibes](https://open.spotify.com/artist/1XcbmsczGDkYqrqIy8K89H) | [Storms a Brewing](https://open.spotify.com/album/0usFjvNIwzOiI56FDysgNj) | 3:23 | 2022-10-28 |  |
 | [Stormy Evening](https://open.spotify.com/track/5inqtzm0t2SrR6uMwWXUJp) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Stormy Evening](https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk) | 3:28 | 2022-10-28 |  |
-| [Stormy Harbor In The Evening](https://open.spotify.com/track/7jaUDokJnbVN5tFIUMKRqU) | [The Sound Dome](https://open.spotify.com/artist/4EPb7Ovgubn4doMzl1kdDD) | [Stormy Harbor In The Evening](https://open.spotify.com/album/3DNTEoZRh0Uc08pFo1BNml) | 2:50 | 2022-10-28 |  |
+| [Stormy Harbor In The Evening](https://open.spotify.com/track/7jaUDokJnbVN5tFIUMKRqU) | [The Sound Dome](https://open.spotify.com/artist/4EPb7Ovgubn4doMzl1kdDD) | [Stormy Harbor In The Evening](https://open.spotify.com/album/3DNTEoZRh0Uc08pFo1BNml) | 2:50 | 2022-10-28 | 2022-12-29 |
 | [Stormy Nights](https://open.spotify.com/track/0m2TR5Z8tZxhBT00aNE3iU) | [Chō](https://open.spotify.com/artist/44rsp35dDfvab8zpuNRdyT) | [Tumbling Sky](https://open.spotify.com/album/6CFrtb4oaSVy7o2k8R9la9) | 3:28 | 2022-10-28 |  |
 | [Sturm am Abend](https://open.spotify.com/track/6YgWoAIFPLjOiSo0iilhdA) | [Stormy Zeus](https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r) | [Sturm am Abend](https://open.spotify.com/album/0FkSeQJQw7teDYQyOROUDl) | 2:21 | 2022-11-15 |  |
 | [Sturm und Donner](https://open.spotify.com/track/0GdhZriQakFwHQZTrgoWKd) | [Superystorm](https://open.spotify.com/artist/6RDyztkcUvcpScyVo47ML4) | [Wilder Regen](https://open.spotify.com/album/0cNgvFON65mdd39nfornb9) | 2:56 | 2022-11-15 |  |

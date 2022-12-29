@@ -4,14 +4,14 @@
 
 > Go hard or go home
 
-69 songs - 4 hr 5 min - not published yet
+70 songs - 4 hr 8 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Before I Wake](https://open.spotify.com/track/1E98GLyca4lWhGg0UJjIWE) | [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy), [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Before I Wake](https://open.spotify.com/album/03shY44GfauTzF4uVsDZiV) | 3:01 | 2022-12-08 |  |
 | [Bonkerz](https://open.spotify.com/track/0FaG2Hc9LSFsuChAC0ZZcM) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Bonkerz](https://open.spotify.com/album/5cLA1oOx6ltXJUivbd8Ybs) | 3:10 | 2022-12-08 |  |
 | [Break Free \(Official Decibel Outdoor 2022 Anthem\)](https://open.spotify.com/track/1VtGStey2iPgtZSLHU6sf0) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [ATILAX](https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk) | [Break Free \(Official Decibel Outdoor 2022 Anthem\)](https://open.spotify.com/album/0YzBhIvuaOqtdBsVjmNnDq) | 4:48 | 2022-12-08 |  |
-| [Breaking Boundaries \(The Qontinent Anthem 2022\)](https://open.spotify.com/track/6aQ1baorPslq7nNhyIFsKY) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Breaking Boundaries \(The Qontinent Anthem 2022\)](https://open.spotify.com/album/1K4tPe5ZzHev2av0X3kJ1c) | 4:54 | 2022-12-08 |  |
+| [Breaking Boundaries \(The Qontinent Anthem 2022\)](https://open.spotify.com/track/6aQ1baorPslq7nNhyIFsKY) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Breaking Boundaries \(The Qontinent Anthem 2022\)](https://open.spotify.com/album/1K4tPe5ZzHev2av0X3kJ1c) | 4:54 | 2022-12-08 | 2022-12-29 |
 | [Cello](https://open.spotify.com/track/5T45WCFBRo9d8Yzus9ZAYK) | [Maxtreme](https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j) | [Cello](https://open.spotify.com/album/0EO8XSWJRvJpF68ODjYO1S) | 3:08 | 2022-12-08 | 2022-12-14 |
 | [CLUB BANGER](https://open.spotify.com/track/72j7y7nVfhi69H8X8oRbye) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [CLUB BANGER](https://open.spotify.com/album/2qKRkYCu6GqfL4tcQonqpO) | 3:36 | 2022-12-08 |  |
 | [Come Take My Hand \- Ran\-D Remix](https://open.spotify.com/track/4plFHRIYpyvO46CWG2UMvG) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Come Take My Hand \(Ran\-D Remix\)](https://open.spotify.com/album/06a36yj8fqrm8MUFeI7qO4) | 4:22 | 2022-12-08 |  |
@@ -69,6 +69,7 @@
 | [Thundercloud \(Not Alone\)](https://open.spotify.com/track/5ESMY4YltkVVt6fgCPNOPn) | [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Thundercloud \(Not Alone\)](https://open.spotify.com/album/6AWo8m1dChoaCJUzIicpZw) | 4:09 | 2022-12-15 |  |
 | [Time Machine](https://open.spotify.com/track/24Yh9vNFl3CXhdiRVRNZ7E) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [MC Stretch](https://open.spotify.com/artist/6oIpax63yT9ajyekkcqv0L) | [Time Machine](https://open.spotify.com/album/6poLhdSD49CU6bNffCUFKF) | 3:53 | 2022-12-08 |  |
 | [Together We Grow](https://open.spotify.com/track/0Q9oI3atBARDyEWRr1C2H6) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Together We Grow](https://open.spotify.com/album/6LrvsgRIi1Hy1LBsrrt6rw) | 2:45 | 2022-12-08 |  |
+| [TOUCH IT \(Don't Stop\)](https://open.spotify.com/track/2G5hIhJ61ENNcqUW1n1oTn) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Dynamite](https://open.spotify.com/artist/4yCk57xvx6iOnHerejzV9c), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [TOUCH IT \(Don't Stop\)](https://open.spotify.com/album/0736rP0PqNdxlnJ9khJ55P) | 2:56 | 2022-12-22 |  |
 | [Unite](https://open.spotify.com/track/0EBURzaaZP0wHABAK0KajO) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [Unite](https://open.spotify.com/album/22rdKqGyiQu7oJHtFppjdE) | 3:21 | 2022-12-22 |  |
 | [Unleash The Fire](https://open.spotify.com/track/0jb8dBj7ILjgev8qt0pWrT) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Unleash The Fire](https://open.spotify.com/album/6uCzjve3I6bB3MsxI7AROY) | 4:01 | 2022-12-08 |  |
 | [Unstoppable](https://open.spotify.com/track/06n5WZmsvdDLMgNGjP0nmk) | [Frequencerz](https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s), [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Unstoppable](https://open.spotify.com/album/3MYfHQWGZgHTtF4IG4XRGz) | 3:51 | 2022-12-08 |  |

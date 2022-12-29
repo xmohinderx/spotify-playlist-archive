@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,981 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,071 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 41 | [The Charladies' Ball](https://open.spotify.com/track/2xmbVtHzfnZiSjzYjRliap) | [Tara](https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8) | [Tara: Irish Songs \(Paddy Dreaming\)](https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr) | 3:51 |
 | 42 | [Bogie's Bonny Belle](https://open.spotify.com/track/0AYSKDQCs1RaUQh2iLEXRv) | [Fred Johnston](https://open.spotify.com/artist/5BycsjnT9wUHdGeeBITkbm), [Brid Ni Chathain](https://open.spotify.com/artist/4MB2D4qMgAqlP1VDw0WuuN), [Janet Sutton](https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 3:19 |
 | 43 | [The Blight](https://open.spotify.com/track/2QJUd682LU3QIOYWnBP5gZ) | [Johnny Duhan](https://open.spotify.com/artist/434bJTf7zzYAqnMhWNuAly) | [Flame](https://open.spotify.com/album/73ZcF7Q0qUhj1WQriTv8CC) | 4:11 |
-| 44 | [Naomi Wise](https://open.spotify.com/track/7AEuTfhjVJCX2evvv6tLG3) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 4:41 |
-| 45 | [Mickey Free / The Mountain Road](https://open.spotify.com/track/4sjR31gZhrsxyhDn5S4mNP) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o), [Kevin Glackin](https://open.spotify.com/artist/14uWK6VmfxYwQfJNQxqqEP), [Ronan Browne](https://open.spotify.com/artist/2XDpVHvfdJtLmueBOVcjv1), [Jimmy Fitzgerald](https://open.spotify.com/artist/62QPfGWjtxUmm9G4iACfU8), [Con Ó Drisceoil](https://open.spotify.com/artist/7p2fbihH459PJENgIkCdQX) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 3:55 |
+| 44 | [Mickey Free / The Mountain Road](https://open.spotify.com/track/4sjR31gZhrsxyhDn5S4mNP) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o), [Kevin Glackin](https://open.spotify.com/artist/14uWK6VmfxYwQfJNQxqqEP), [Ronan Browne](https://open.spotify.com/artist/2XDpVHvfdJtLmueBOVcjv1), [Jimmy Fitzgerald](https://open.spotify.com/artist/62QPfGWjtxUmm9G4iACfU8), [Con Ó Drisceoil](https://open.spotify.com/artist/7p2fbihH459PJENgIkCdQX) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 3:55 |
+| 45 | [Naomi Wise](https://open.spotify.com/track/7AEuTfhjVJCX2evvv6tLG3) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 4:41 |
 | 46 | [The Man for Galway / The Rambling Pitchfork](https://open.spotify.com/track/0ekYHUEdwwL9MvzZbw1rxN) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o), [Ronan Browne](https://open.spotify.com/artist/2XDpVHvfdJtLmueBOVcjv1), [Kevin Glackin](https://open.spotify.com/artist/14uWK6VmfxYwQfJNQxqqEP), [Fergus Feely](https://open.spotify.com/artist/5rJeESCXormtjuqBHmE9ni) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 3:57 |
 | 47 | [The Month of January](https://open.spotify.com/track/5NLhEltFqmzlXx6erUdGyj) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 3:42 |
-| 48 | [The Flower of Finea](https://open.spotify.com/track/1HZisJ0NtZbsEE1DZormSp) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 5:42 |
-| 49 | [The Mickey Dam](https://open.spotify.com/track/1fxG0DZhRWopilQu79UMGB) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 2:48 |
+| 48 | [The Mickey Dam](https://open.spotify.com/track/1fxG0DZhRWopilQu79UMGB) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 2:48 |
+| 49 | [The Flower of Finea](https://open.spotify.com/track/1HZisJ0NtZbsEE1DZormSp) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 5:42 |
 | 50 | [Sweet Ballyvaughaan \- Live](https://open.spotify.com/track/4b56EXwD6FWO2MtyHmKB4W) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Sean Tyrrell Live at Greenes](https://open.spotify.com/album/7hwixTHLIB7E0xkw3n3lUV) | 4:08 |
 
-Snapshot ID: `MTYzNDg5NTEwNiwwMDAwMDAwMGVmOWMzZDU2NTk3YWI5Mjg4ZGJiMWFlNmY4ODc2ZTQ0`
+Snapshot ID: `MTYzNDg5NTEwNiwwMDAwMDAwMGZhZjBmOWE2MDlkZjRmYWVhM2VmNzcwYWRhZWZhNTE1`

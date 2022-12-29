@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,379 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,421 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 33 | [Stomp \(Remix\)](https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Essential Kirk Franklin](https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt) | 5:05 |
 | 34 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK) | [Taylor Mosby](https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Breakthrough \(Music From & Inspired By The Motion Picture\)](https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI) | 4:25 |
 | 35 | [Finish Line / Drown \(feat\. T\-Pain, Kirk Franklin, Eryn Allen Kane & Noname\)](https://open.spotify.com/track/2AgnbuzvnfPvq1sAYNB4pj) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 6:46 |
-| 36 | [Revolution](https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 5:37 |
-| 37 | [F.A.V.O.R](https://open.spotify.com/track/7mkUBGYLWcCDO6ypX4ojpj) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:31 |
+| 36 | [F.A.V.O.R](https://open.spotify.com/track/7mkUBGYLWcCDO6ypX4ojpj) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:31 |
+| 37 | [Lean On Me](https://open.spotify.com/track/4IyemaA2yUElYlOiCV1vGC) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 5:09 |
 | 38 | [123 Victory](https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Losing My Religion](https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA) | 3:57 |
 | 39 | [He Reigns / Awesome God](https://open.spotify.com/track/2vWWqwrLHAc1th3bR5O4Uv) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Essential Kirk Franklin](https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt) | 4:26 |
 | 40 | [The Storm Is Over Now](https://open.spotify.com/track/6blSODzePwJZwG8VS3i5nt) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [God's Property from Kirk Franklin's Nu Nation](https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E) | 5:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [Hello God](https://open.spotify.com/track/5vCmQ3GFBY338mNytXxXaB) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Overcomer](https://open.spotify.com/album/6pqXXcSmkHmuODhcFLfNuQ) | 4:19 |
 | 50 | [Can't Nobody \(feat\. Ryan Ofei & Maryanne J\. George\)](https://open.spotify.com/track/6m2L8UyoRjOYDJZ4Hdjcvd) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3) | [Kingdom Book One \(Deluxe\)](https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh) | 5:12 |
 
-Snapshot ID: `Mjc4NjkxMjksMDAwMDAwMDAxMGE2ZGEzZTY3OThiN2FiNThkZjJiZjY5MzBiZDVjOA==`
+Snapshot ID: `Mjc4NzA2OTQsMDAwMDAwMDBlMmIzMWFkNjRhNWRhOGUzMzk5YTEyZWJmNDQ3MjNmZg==`

@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-472 songs - 1 day 2 hr 49 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
+473 songs - 1 day 2 hr 52 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [I'll Be](https://open.spotify.com/track/2WzaAtEyVNK35WE5KHWvTM) | [Hopeful Romantics](https://open.spotify.com/artist/0czxPZ6C9lrClg4WOMaft4) | [I'll Be](https://open.spotify.com/album/2FIbuBHLr07t9GIwVPCeNY) | 3:31 | 2022-07-15 | 2022-08-18 |
 | [I'LL DO ANYTHING FOR YOU BABY](https://open.spotify.com/track/6L9NVTz2Aa9RqrXvzd65Sd) | [Ajotabeats](https://open.spotify.com/artist/4DnUC3By63oj4pjO4EosP6) | [I'LL DO ANYTHING FOR YOU BABY](https://open.spotify.com/album/7Jccxwj1RVjdUJkDbhS7C8) | 3:24 | 2022-01-25 | 2022-07-26 |
 | [I'll Never Love Again](https://open.spotify.com/track/3Iyq9p4jTQCmPXkzCoG0aI) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X) | [Disco's Revenge](https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq) | 2:46 | 2022-02-27 | 2022-07-29 |
-| [Idols](https://open.spotify.com/track/59zvntCUcoxFfFQgiq0s1W) | [Flammy](https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz), [Rugemie](https://open.spotify.com/artist/7nxcpjqOBCI0KPyVkUntUI) | [Idols](https://open.spotify.com/album/5LK3DAyr8xWegy8Ho4dNMA) | 2:25 | 2022-09-16 |  |
+| [Idols](https://open.spotify.com/track/59zvntCUcoxFfFQgiq0s1W) | [Flammy](https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz), [Rugemie](https://open.spotify.com/artist/7nxcpjqOBCI0KPyVkUntUI) | [Idols](https://open.spotify.com/album/5LK3DAyr8xWegy8Ho4dNMA) | 2:25 | 2022-09-16 | 2022-12-29 |
 | [If you want it](https://open.spotify.com/track/3qjIreg2b4kQuuerzpd06w) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [If you want it](https://open.spotify.com/album/6HERkibbnUIpfcL85i0QQW) | 3:40 | 2022-01-25 | 2022-07-29 |
 | [Ilios](https://open.spotify.com/track/1K13SpC4kxmynTS55cYTgd) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Ilios](https://open.spotify.com/album/35BvkgSXwSvLb6yqeCL3Re) | 3:12 | 2022-01-25 | 2022-07-29 |
 | [Immaculate Taste](https://open.spotify.com/track/4zh4poeYcwlL0GesUqx9VM) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Immaculate Taste](https://open.spotify.com/album/27svgZj9bsDWd6wHRS0RHl) | 1:45 | 2022-03-04 | 2022-03-12 |
@@ -435,6 +435,7 @@
 | [Turn\-Based Life](https://open.spotify.com/track/7oSJfFDFuhQoNPDBNNVrfN) | [Vivi Vulture](https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090) | [Turn\-Based Life](https://open.spotify.com/album/2HV4wyhEkOnkgHyNYLMP6h) | 2:41 | 2022-06-08 | 2022-07-27 |
 | [Twin Turbo](https://open.spotify.com/track/5qeaFd8GfM5ZuQEot8GEDj) | [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [Twin Turbo](https://open.spotify.com/album/5xNiwiNcUpxJxFnZzLNu9r) | 2:18 | 2022-04-12 | 2022-07-29 |
 | [Ultra 45 \- Original Mix](https://open.spotify.com/track/6IonlacBpuIywa1oAfEIpq) | [DJ Eq](https://open.spotify.com/artist/7qjJyXnDM4mY6sgIXui7VP) | [Ultra 45](https://open.spotify.com/album/2b2VhI1It0WBr9q0Dzk05F) | 4:52 | 2022-04-12 | 2022-04-28 |
+| [Unlimited](https://open.spotify.com/track/6whYojZCfYHKbmTCwdZQ76) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Now That I Have You](https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4) | 2:54 | 2022-11-04 |  |
 | [Unlimited](https://open.spotify.com/track/7yG4jsZAH8bVIpXfH2VCQJ) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Unlimited](https://open.spotify.com/album/5oaHK8jFDrcFEubxDaeGSp) | 2:54 | 2021-12-08 | 2022-07-29 |
 | [Ur On My Mind](https://open.spotify.com/track/2tuFk4YKtVYASvOAcfgqXA) | [ConsciousThoughts](https://open.spotify.com/artist/7nNml7OiJoyXojuihNAmDu) | [Ur On My Mind](https://open.spotify.com/album/6lGYpZ0Nr8kKsZU3aomp5I) | 4:48 | 2022-04-12 | 2022-04-21 |
 | [uwbfc](https://open.spotify.com/track/2KPmwsBZ8zIbwrPuBHb4YU) | [UniBe@t](https://open.spotify.com/artist/1h9Qvyu1kcChodIA2z04Jg) | [too embarrassed to show my friends my music](https://open.spotify.com/album/45tg7IxtKLRuDRpPNI8lv0) | 3:07 | 2021-12-08 | 2022-04-14 |

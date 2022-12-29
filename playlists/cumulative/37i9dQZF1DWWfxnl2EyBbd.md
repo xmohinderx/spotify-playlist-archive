@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-381 songs - 1 day 7 hr 0 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
+383 songs - 1 day 7 hr 6 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [I'll Tell You When I Understand](https://open.spotify.com/track/0c0dPCcW7KU6SKChawzOCf) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [I'll Tell You When I Understand](https://open.spotify.com/album/1ZHRZhPFBCY3y8cXq1K78l) | 3:06 | 2022-12-01 |  |
 | [I'm Glad There Is You](https://open.spotify.com/track/0nXlU9IfgrhI5tZo3KktvM) | [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi), [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Dave Carpenter](https://open.spotify.com/artist/4m3nck0lOhCa4Pe0BqZ5B2) | [Standards](https://open.spotify.com/album/7LwgjZR50qndbpvS5kSDby) | 5:01 | 2022-02-10 | 2022-11-12 |
 | [I'm Not Myself Anymore](https://open.spotify.com/track/6oSK13LFez9J8gCpGbtMjx) | [Len Stark Band](https://open.spotify.com/artist/4u9GPWB44FwZ76cXVUnuKB) | [I'm Not Myself Anymore](https://open.spotify.com/album/0jYdse5LgBxoVkMF28IaGz) | 5:05 | 2022-11-12 |  |
-| [I've Grown Accustomed to Her Face](https://open.spotify.com/track/6nyRGbArV18zO6WozOBON2) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 4:49 | 2022-02-10 |  |
+| [I've Grown Accustomed to Her Face](https://open.spotify.com/track/6nyRGbArV18zO6WozOBON2) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 4:49 | 2022-02-10 | 2022-12-29 |
 | [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 | 2022-11-12 |  |
 | [If I Should Lose You](https://open.spotify.com/track/4da36q6VCwrg4f5pIYx4uf) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [If I Should Lose You](https://open.spotify.com/album/2rTHaKAdXTq8B4XHmWjI4d) | 5:27 | 2022-02-25 |  |
 | [If You Say Goodbye](https://open.spotify.com/track/2spKTHzzPhXETINp5L43JY) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Don't Leave Me Alone](https://open.spotify.com/album/1dhSMp8BQM346Re594UVIq) | 3:00 | 2022-11-12 |  |
@@ -176,11 +176,12 @@
 | [Jitterbug Waltz](https://open.spotify.com/track/78tkbFOl19X4dd25sxossL) | [Mark Lewandowski](https://open.spotify.com/artist/1R4AQQ9Nmpc45CPW1QaXdo), [Liam Noble](https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N), [Paul Clarvis](https://open.spotify.com/artist/55yNRgOKReYCobfF0JTEKQ) | [Waller](https://open.spotify.com/album/5xUzn9J7eHJOQpQ6bYba8U) | 6:16 | 2022-02-10 | 2022-07-29 |
 | [Johnny Come Lately](https://open.spotify.com/track/7g1qq3AN0siIENRddNSloR) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Johnny Come Lately](https://open.spotify.com/album/0zr4z6oCxAOyJ64x1iBuvi) | 2:55 | 2022-11-12 |  |
 | [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 | 2022-11-12 |  |
+| [Just Friends](https://open.spotify.com/track/2cByyV8EU1bya9sT6BYRuR) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [Just Friends](https://open.spotify.com/album/0UuUidgi3I2YfRwng3Cdhr) | 2:35 | 2022-12-22 |  |
 | [Just Ourselves](https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Just Ourselves](https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB) | 3:48 | 2022-12-01 |  |
 | [Kärlekens ögon](https://open.spotify.com/track/1GxuOHMxyH6DiDdiw6IHEo) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 4:50 | 2022-05-13 | 2022-11-12 |
 | [Kinderblock](https://open.spotify.com/track/0NXCAsU4pdUEpTXWuD1WQe) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Elchin Shirinov](https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9) | [Shifting Sands](https://open.spotify.com/album/4P3X3u2Rmp685DIao3s5Qt) | 5:11 | 2022-05-13 | 2022-05-17 |
 | [Lady Liberty](https://open.spotify.com/track/2HLGg89KyQOlqmaFuOlSwl) | [Lynne Arriale Trio](https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x) | [Chimes of Freedom](https://open.spotify.com/album/1Fq52NWNh9YbQ08M7fitXG) | 5:18 | 2022-02-10 | 2022-11-09 |
-| [Last Call](https://open.spotify.com/track/40VZS93r0MMG6m9K0j7VJ7) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 3:21 | 2022-12-08 |  |
+| [Last Call](https://open.spotify.com/track/40VZS93r0MMG6m9K0j7VJ7) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 3:21 | 2022-12-08 | 2022-12-29 |
 | [Last Time We Kissed](https://open.spotify.com/track/2VKyHhj7QFTyxqOwyde1rS) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 4:14 | 2022-11-24 |  |
 | [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 | 2022-11-12 |  |
 | [Laura](https://open.spotify.com/track/0lBCnUEZ54x5O4YiZQCjcR) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM) | [TRIO](https://open.spotify.com/album/08wqEgpg6llw85TKA3OLAj) | 3:30 | 2022-02-10 | 2022-11-09 |
@@ -389,5 +390,6 @@
 | [You're Just Full of Inspiration](https://open.spotify.com/track/2Y79E6uTFHlZWhF6m2tYyO) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 2:24 | 2022-11-12 |  |
 | [Your Nocturne](https://open.spotify.com/track/4z7bckrpC1Sw5AmqvF6I7f) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time for Ballads \- The Maene Sessions](https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5) | 3:42 | 2022-02-25 | 2022-11-09 |
 | [Zapruder](https://open.spotify.com/track/6xpeoINELbdMBAAD0dxA49) | [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Orange Sea](https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM) | 4:42 | 2022-09-29 | 2022-11-09 |
+| [Últimamente](https://open.spotify.com/track/1BJmiWUEqMx2aqHqfIbeAQ) | [Joanna Mason](https://open.spotify.com/artist/4S1m9Gvs6oH0gHRnpkoAUT) | [Últimamente](https://open.spotify.com/album/0UlBxNwVwKvU30I3RHUlAr) | 3:04 | 2022-12-22 |  |
 
 \*This playlist was first scraped on 2022-02-11. Prior content cannot be recovered.

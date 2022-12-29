@@ -1,12 +1,12 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 12775,
+  "num_followers": 12806,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDY2NDUwMiwwMDAwMDAwMDA4YzRhMTU5NTQ0ZTdjNGM0MjdmMTliZjg1NmU1NzMw",
+  "snapshot_id": "MTYzNDY2NDUwMiwwMDAwMDAwMDBjNGE1NmJmY2Q3NjljMjYzYzRiZjkyOTU2ODA2YzMy",
   "tracks": [
     {
       "added_at": "2021-10-19 17:28:22",
@@ -259,22 +259,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Mentirosa",
-        "url": "https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4"
-      },
-      "artists": [
-        {
-          "name": "Roberto Antonio",
-          "url": "https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx"
-        }
-      ],
-      "duration_ms": 231183,
-      "name": "Noches de Fantasia",
-      "url": "https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Los A\u00f1os Dorados de Sergio Vargas",
         "url": "https://open.spotify.com/album/3B3k2YlC02MqT2t8mkOMQf"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 284866,
       "name": "Si Alg\u00fan D\u00eda la Ves",
       "url": "https://open.spotify.com/track/28rvnECjh1GrqsHKwkDRVi"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Mentirosa",
+        "url": "https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4"
+      },
+      "artists": [
+        {
+          "name": "Roberto Antonio",
+          "url": "https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx"
+        }
+      ],
+      "duration_ms": 231183,
+      "name": "Noches de Fantasia",
+      "url": "https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -483,22 +483,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw"
-      },
-      "artists": [
-        {
-          "name": "Rubby Perez",
-          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
-        }
-      ],
-      "duration_ms": 255120,
-      "name": "Sobrevivire",
-      "url": "https://open.spotify.com/track/1RyrjRUroLjPXeb2wNh9dQ"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/6MSQpN5C6I4Rb0Vec5h2wi"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 265000,
       "name": "Tu Me Vas a Dejar",
       "url": "https://open.spotify.com/track/1xJXSAosZHRwMiaeYxIpyV"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Volando Alto",
+        "url": "https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw"
+      },
+      "artists": [
+        {
+          "name": "Rubby Perez",
+          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
+        }
+      ],
+      "duration_ms": 255120,
+      "name": "Sobrevivire",
+      "url": "https://open.spotify.com/track/1RyrjRUroLjPXeb2wNh9dQ"
     },
     {
       "added_at": "2021-10-19 17:28:22",
