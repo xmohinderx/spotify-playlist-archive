@@ -4,7 +4,7 @@
 
 > Set the mood just right...
 
-282 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/4zTYKLjx7UDt8CxQque0o1)
+283 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/4zTYKLjx7UDt8CxQque0o1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Lust for Delirium](https://open.spotify.com/track/2orT8RBYk5i2ntDEokyhCV) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD) | [Lust for Delirium](https://open.spotify.com/album/3ZSmvouT1RS8vfGpVV6LOw) | 3:18 | 2021-12-10 | 2022-04-21 |
 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 | 2021-12-10 | 2022-04-20 |
 | [Make A Move](https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y2](https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX) | 3:13 | 2022-05-06 | 2022-07-29 |
-| [Maroon](https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:38 | 2022-12-28 |  |
+| [Maroon](https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:38 | 2022-12-28 | 2022-12-30 |
 | [Medallion](https://open.spotify.com/track/7G1z481K0xAULT3eVaaNQD) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Medallion](https://open.spotify.com/album/27EqAknfF83SRTkgPLRgfZ) | 2:29 | 2022-02-04 | 2022-04-20 |
 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-12-10 | 2022-07-29 |
 | [Mine](https://open.spotify.com/track/6tHWl8ows5JOZq9Yfaqn3M) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Mine](https://open.spotify.com/album/5TR37lsXlmSmzFuIcXn5Dp) | 2:13 | 2022-03-25 | 2022-04-18 |
@@ -221,6 +221,7 @@
 | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/album/3bP5HbrQemp8PQS9Z9gnCF) | 3:47 | 2021-12-10 | 2022-07-26 |
 | [Slow Motion \(feat\. JoJo\)](https://open.spotify.com/track/0zgNPimWqPfaqY7yIQIaXd) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Slow Motion \(feat\. JoJo\)](https://open.spotify.com/album/0PmjtfWutKTvMC3mlBYLBg) | 2:56 | 2021-12-10 | 2022-07-29 |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2022-12-09 | 2022-12-29 |
+| [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-12-29 |  |
 | [so into you \- Spotify Singles](https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Spotify Singles](https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR) | 2:53 | 2022-05-20 | 2022-07-29 |
 | [Softly](https://open.spotify.com/track/36Cs04fKrfupan7JZPBCYS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Softly](https://open.spotify.com/album/7N39Fksc732Ab7A6dCqdQW) | 2:53 | 2021-12-10 | 2022-07-25 |
 | [SOMEBODY](https://open.spotify.com/track/0HeiYo9WwMT8ujirrWzarf) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [SOMEBODY](https://open.spotify.com/album/5aGeJx3pPmu3uAiX3tP5D5) | 2:44 | 2021-12-10 | 2022-07-29 |

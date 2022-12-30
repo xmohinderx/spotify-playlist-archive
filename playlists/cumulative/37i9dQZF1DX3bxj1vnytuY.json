@@ -1224,6 +1224,36 @@
     },
     {
       "album": {
+        "name": "Hayasa",
+        "url": "https://open.spotify.com/album/5nHl5etUCu0S9Tum3ocFno"
+      },
+      "artists": [
+        {
+          "name": "DARNO",
+          "url": "https://open.spotify.com/artist/3Rx3ZlDu2q99fQgWBZ298Z"
+        },
+        {
+          "name": "GATA BAND",
+          "url": "https://open.spotify.com/artist/7GdFYG0SCgZnhfnHnIC4Ho"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Monojoke",
+          "url": "https://open.spotify.com/artist/6WtncXp78N12hQFMe0e2fm"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448524,
+      "name": "Hayasa - Monojoke Remix",
+      "url": "https://open.spotify.com/track/64EnP9VqlTUMCNyn9mt6Kx"
+    },
+    {
+      "album": {
         "name": "How long",
         "url": "https://open.spotify.com/album/6gMtzCRhctZHbZy4NAIBMr"
       },
@@ -3209,7 +3239,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 375917,
       "name": "You Need Me (feat. Maxine Ashley & Sun-El Musician)",
       "url": "https://open.spotify.com/track/2ieFaRzeA5yfRjanzaBS8Q"

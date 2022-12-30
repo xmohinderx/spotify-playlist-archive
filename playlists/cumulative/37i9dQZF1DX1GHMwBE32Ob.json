@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 215222,
       "name": "FotiFoyin",
       "url": "https://open.spotify.com/track/2tuUgpT6L9av9kVH2Yhj9I"
@@ -1101,6 +1101,24 @@
       "duration_ms": 208581,
       "name": "PXTA",
       "url": "https://open.spotify.com/track/1D7RpT4p5j72tan4NvEdCY"
+    },
+    {
+      "album": {
+        "name": "PXTA",
+        "url": "https://open.spotify.com/album/7l5tpAs5HtaHTVvSRlypnk"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208581,
+      "name": "PXTA",
+      "url": "https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg"
     },
     {
       "album": {

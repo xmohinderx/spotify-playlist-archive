@@ -4,12 +4,13 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-326 songs - 1 day 5 hr 46 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
+327 songs - 1 day 5 hr 51 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(i am\) here](https://open.spotify.com/track/6pcg56OCArCi2RJFY1Khvn) | [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1) | [\(i am\) here](https://open.spotify.com/album/3UDg4lvnb5fAD88D0L1uYE) | 2:21 | 2022-05-03 |  |
 | [\(i am\) here](https://open.spotify.com/track/32f7Fo5iMUHon398z6P3JK) | [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1) | [\(i am\) here](https://open.spotify.com/album/55Hyob33Ny0evME5BVGOGZ) | 2:21 | 2021-12-08 | 2022-09-17 |
+| [2005 NYE](https://open.spotify.com/track/1rzH1WxcHyLEyBuErJQVO0) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [2005 NYE](https://open.spotify.com/album/1Epdx4Nl1hobUOEnIXGHVl) | 4:47 | 2022-10-28 |  |
 | [2005 NYE](https://open.spotify.com/track/6ezV370O6dVoAf9DtRK4X9) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [2005 NYE](https://open.spotify.com/album/4PPA1thVaDI5MUuRqmNTR9) | 4:47 | 2021-12-08 | 2022-12-26 |
 | [2daBeat](https://open.spotify.com/track/1BpG59DLyW6jZxN2PYiUA3) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Musik 3](https://open.spotify.com/album/7vHtRLKLA8ZkNBN3kNwlT6) | 5:29 | 2022-02-21 |  |
 | [A Distance Inwards](https://open.spotify.com/track/3zPV4wjfvVAkBM1JMHOyFN) | [Fatima Njai](https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS), [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B) | [Brooklyn Zoo](https://open.spotify.com/album/4ngyeGZoZZN0HGC2uwUHDM) | 5:28 | 2021-12-08 | 2022-07-16 |
@@ -247,7 +248,7 @@
 | [Silhouette](https://open.spotify.com/track/0OHMCa0Rkui2VLkQxgVpVs) | [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N), [Sebee](https://open.spotify.com/artist/15eS4ELao0UYSVtHMLlxcq) | [Anjunadeep Explorations 18](https://open.spotify.com/album/5o2l23PO9MXRLLe6Y602CP) | 3:49 | 2021-12-08 |  |
 | [Simply Put](https://open.spotify.com/track/5F8ZtPUBSVjNygbxNfp4vR) | [Bakai](https://open.spotify.com/artist/5O7M8SLNNzWp0TJWufgUxA), [Orah](https://open.spotify.com/artist/4t0cROlLdti1op48QSOHmn) | [Kiwi Daze](https://open.spotify.com/album/2Knyl8PMxuUU2vHI0h9lgx) | 3:24 | 2021-12-08 |  |
 | [Sin City](https://open.spotify.com/track/1YQiIO9Lfx00x2Ce55316v) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Swing Theory EP](https://open.spotify.com/album/6a6PwmzMz6P2T3SZez82Mj) | 6:31 | 2021-12-08 | 2022-07-28 |
-| [Sinuous](https://open.spotify.com/track/6v6YqwH38kDXhTxPHGi1UN) | [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Sinuous EP](https://open.spotify.com/album/0pyomTkFrKNckotPAbWSKw) | 4:09 | 2021-12-08 |  |
+| [Sinuous](https://open.spotify.com/track/6v6YqwH38kDXhTxPHGi1UN) | [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Sinuous EP](https://open.spotify.com/album/0pyomTkFrKNckotPAbWSKw) | 4:09 | 2021-12-08 | 2022-12-30 |
 | [Skyline](https://open.spotify.com/track/6RkBU15iuIWpNA67pL4ZE7) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu) | [Skyline EP](https://open.spotify.com/album/4mDdzRcCfgkleAYlKB17VG) | 8:26 | 2021-12-08 |  |
 | [Sofia's Theme](https://open.spotify.com/track/16qgL8moRXVRZA5K0yU4yZ) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Arum Flowers](https://open.spotify.com/artist/6xeuy9aPzpmF26yefmPjhu) | [Sofia's Theme](https://open.spotify.com/album/2GBTgLWpMzjDS3LPazU8C1) | 5:26 | 2021-12-08 | 2022-07-29 |
 | [Sofia's Theme](https://open.spotify.com/track/6H1qRu7bx0H8MwUHHQQ5P4) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Arum Flowers](https://open.spotify.com/artist/6xeuy9aPzpmF26yefmPjhu) | [Sofia's Theme](https://open.spotify.com/album/0ehVZfAiALYIbzocHRBfpF) | 5:26 | 2022-05-03 |  |

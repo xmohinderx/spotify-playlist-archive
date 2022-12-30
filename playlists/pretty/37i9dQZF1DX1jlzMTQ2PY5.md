@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,224 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,293 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 38 | [The Drift](https://open.spotify.com/track/1JsJnmUKULIbbNy7ePgYD3) | [Javano](https://open.spotify.com/artist/61b5v13hJBQhKlQ5sXMub2) | [The Drift](https://open.spotify.com/album/59Yj6MwubdBXwpNUZLft6W) | 4:51 |
 | 39 | [Constant Reminder](https://open.spotify.com/track/1LbyWN7ws0tQfnGMqAvD55) | [Anile](https://open.spotify.com/artist/4EFQ72yLfJfWI3eEz59fkY), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2) | [Constant Reminder](https://open.spotify.com/album/5SvZ9rfiQaxn0jjIsZhYMv) | 5:38 |
 | 40 | [Be Free](https://open.spotify.com/track/56lz6rWxzgLWYDmGXxkeJB) | [Paper Dragon](https://open.spotify.com/artist/2n6DgOnNnybz75HSSdM7Ai) | [Be Free](https://open.spotify.com/album/3UcwpRzAtmNpWWW5gfJ58s) | 3:51 |
-| 41 | [Blank Pages](https://open.spotify.com/track/5iSyuu9IKtr8VNnyJ3apHE) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Blank Pages](https://open.spotify.com/album/7A8de4GcDNN84SD3xNI75F) | 4:59 |
-| 42 | [Gifted Lover](https://open.spotify.com/track/2xsK1pXFX2Dlx7xH33Tc1N) | [Villem](https://open.spotify.com/artist/3mupfXo95OeusJKhAJVCUf), [Mcleod](https://open.spotify.com/artist/0mEsOKLNGOPE2Zhb6OCYuf), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Better Place EP](https://open.spotify.com/album/0HtD2johjX3h3AgONmmiU0) | 6:01 |
-| 43 | [Inertia](https://open.spotify.com/track/6y52a1OHsJGNyU5qjIghhe) | [Mirrored Theory](https://open.spotify.com/artist/27844MJ5IB1HBPtf5jxuji) | [Inertia](https://open.spotify.com/album/4yX1mfitgmZsCfgq14Phmo) | 3:51 |
-| 44 | [Would You](https://open.spotify.com/track/6L6P4SI85euz5yGQl05Csv) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Gaslight EP](https://open.spotify.com/album/28mx8HZTojPZHHneRMGPCF) | 5:00 |
+| 41 | [Inertia](https://open.spotify.com/track/6y52a1OHsJGNyU5qjIghhe) | [Mirrored Theory](https://open.spotify.com/artist/27844MJ5IB1HBPtf5jxuji) | [Inertia](https://open.spotify.com/album/4yX1mfitgmZsCfgq14Phmo) | 3:51 |
+| 42 | [Blank Pages](https://open.spotify.com/track/5iSyuu9IKtr8VNnyJ3apHE) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Blank Pages](https://open.spotify.com/album/7A8de4GcDNN84SD3xNI75F) | 4:59 |
+| 43 | [Would You](https://open.spotify.com/track/6L6P4SI85euz5yGQl05Csv) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Gaslight EP](https://open.spotify.com/album/28mx8HZTojPZHHneRMGPCF) | 5:00 |
+| 44 | [Gifted Lover](https://open.spotify.com/track/2xsK1pXFX2Dlx7xH33Tc1N) | [Villem](https://open.spotify.com/artist/3mupfXo95OeusJKhAJVCUf), [Mcleod](https://open.spotify.com/artist/0mEsOKLNGOPE2Zhb6OCYuf), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Better Place EP](https://open.spotify.com/album/0HtD2johjX3h3AgONmmiU0) | 6:01 |
 | 45 | [Never Made It](https://open.spotify.com/track/348lckHV37myDPmuxztghP) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ) | [Light Language](https://open.spotify.com/album/179IcSz26HvgzajtOzw3kC) | 4:29 |
 | 46 | [Save Me From You](https://open.spotify.com/track/0JaNMkK1xIuC10SEOqwLT0) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Passage](https://open.spotify.com/album/15P7PptbdFFnrVcP0MwYh6) | 4:01 |
-| 47 | [When the Dawn Breaks](https://open.spotify.com/track/2np1uTXhFOt6q0atgeLDVz) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb) | [When the Dawn Breaks](https://open.spotify.com/album/3e90wdBsVki90Y9paEUS8X) | 4:30 |
-| 48 | [Believe](https://open.spotify.com/track/6G8sFs8Nw2yQ6zHLmSSb7r) | [Malaky](https://open.spotify.com/artist/43DHa7Q1IhECAE5YtN3jHQ) | [Serenity EP](https://open.spotify.com/album/1F5ChgvE0QsH7Pb3ScmYTz) | 4:47 |
+| 47 | [Believe](https://open.spotify.com/track/6G8sFs8Nw2yQ6zHLmSSb7r) | [Malaky](https://open.spotify.com/artist/43DHa7Q1IhECAE5YtN3jHQ) | [Serenity EP](https://open.spotify.com/album/1F5ChgvE0QsH7Pb3ScmYTz) | 4:47 |
+| 48 | [When the Dawn Breaks](https://open.spotify.com/track/2np1uTXhFOt6q0atgeLDVz) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb) | [When the Dawn Breaks](https://open.spotify.com/album/3e90wdBsVki90Y9paEUS8X) | 4:30 |
 | 49 | [Farore](https://open.spotify.com/track/3FKHPk807KtTYigTRBTZZR) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Nymfo](https://open.spotify.com/artist/2Pdhwac5oHsY95PeUq6VBS) | [Farore](https://open.spotify.com/album/1NcOECskAuHYeRlsoJjpR0) | 4:51 |
-| 50 | [Home](https://open.spotify.com/track/7tWBeveDtYJ1UcPlHqwHTi) | [U.V.P](https://open.spotify.com/artist/4vBjqyZSwW1mee1gXfo9Cv) | [Home](https://open.spotify.com/album/5cH6HPAArhqrcjgm8FA2Ok) | 4:22 |
+| 50 | [Sleepless](https://open.spotify.com/track/11jALbqbvABzPKe44hM5KS) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Sleepless](https://open.spotify.com/album/39fPiGhZ4O69w2BOlDrxJb) | 4:37 |
 
-Snapshot ID: `MTY2Njk3NTU5NCwwMDAwMDAwMGQ3MjliM2JmMDkyMGQwMTg5Y2M5NWJhNmM1NzVmNDE4`
+Snapshot ID: `MTY2Njk3NTU5NCwwMDAwMDAwMDAyNGZiYWUzNDMyNDMyYzE1OTU3NWIwNTk2YzJiOTM3`

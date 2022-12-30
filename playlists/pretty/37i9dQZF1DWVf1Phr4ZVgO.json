@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 951934,
+  "num_followers": 952332,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY5NDk3NiwwMDAwMDAwMDJmNWJmYWNjOWU5YmY2YmE0OWU1MDAzOTg5MmY5ZmNi",
+  "snapshot_id": "MTY3MTY5NDk3NiwwMDAwMDAwMGIzMTI3NzFlZTE2MWMyMjc0MTFmMTk5NDhkYjgxNDQ1",
   "tracks": [
     {
       "added_at": "2022-12-22 07:42:56",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-12-22 07:42:56",
       "album": {
-        "name": "The Legendary Bobby Darin",
-        "url": "https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 145933,
-      "name": "More - Remastered 2004",
-      "url": "https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei"
-    },
-    {
-      "added_at": "2022-12-22 07:42:56",
-      "album": {
         "name": "The Complete Commodore Recordings",
         "url": "https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 194573,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg"
+    },
+    {
+      "added_at": "2022-12-22 07:42:56",
+      "album": {
+        "name": "The Legendary Bobby Darin",
+        "url": "https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 145933,
+      "name": "More - Remastered 2004",
+      "url": "https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei"
     },
     {
       "added_at": "2022-12-22 07:42:56",
@@ -695,8 +695,8 @@
     {
       "added_at": "2022-12-22 07:42:56",
       "album": {
-        "name": "Ultimate Sinatra",
-        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+        "name": "Sinatra And Swingin' Brass",
+        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 204146,
-      "name": "Theme From New York, New York",
-      "url": "https://open.spotify.com/track/4ODWgs1CVAZKDbryEodjiz"
+      "duration_ms": 194093,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
     },
     {
       "added_at": "2022-12-22 07:42:56",
@@ -947,18 +947,18 @@
     {
       "added_at": "2022-12-22 07:42:56",
       "album": {
-        "name": "Begin The Beguine",
-        "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb"
       },
       "artists": [
         {
-          "name": "Artie Shaw",
-          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
+          "name": "Buddy Greco",
+          "url": "https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0"
+      "duration_ms": 160773,
+      "name": "My Kind Of Girl",
+      "url": "https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K"
     },
     {
       "added_at": "2022-12-22 07:42:56",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-12-22 07:42:56",
       "album": {
+        "name": "Begin The Beguine",
+        "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
+      },
+      "artists": [
+        {
+          "name": "Artie Shaw",
+          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0"
+    },
+    {
+      "added_at": "2022-12-22 07:42:56",
+      "album": {
         "name": "Jump For Joy",
         "url": "https://open.spotify.com/album/1FfJGpYVPvVx0OEPbMkVqz"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 133813,
       "name": "Ain't We Got Fun",
       "url": "https://open.spotify.com/track/1hqrv4RHtqRres6Szcibvv"
-    },
-    {
-      "added_at": "2022-12-22 07:42:56",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb"
-      },
-      "artists": [
-        {
-          "name": "Buddy Greco",
-          "url": "https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ"
-        }
-      ],
-      "duration_ms": 160773,
-      "name": "My Kind Of Girl",
-      "url": "https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K"
     },
     {
       "added_at": "2022-12-22 07:42:56",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-12-22 07:42:56",
       "album": {
-        "name": "Michael Bubl\u00e9",
-        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/17Syv0SV6ThWwgZM3umr1E"
-    },
-    {
-      "added_at": "2022-12-22 07:42:56",
-      "album": {
         "name": "My One And Only Thrill",
         "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 210693,
       "name": "Baby I'm A Fool",
       "url": "https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr"
+    },
+    {
+      "added_at": "2022-12-22 07:42:56",
+      "album": {
+        "name": "Michael Bubl\u00e9",
+        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/17Syv0SV6ThWwgZM3umr1E"
     },
     {
       "added_at": "2022-12-22 07:42:56",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2022-12-22 07:42:56",
       "album": {
-        "name": "On Your Side",
-        "url": "https://open.spotify.com/album/7ameJ6pSgZagUBgwubwTMq"
+        "name": "Music For Torching",
+        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
       },
       "artists": [
         {
-          "name": "Magnet",
-          "url": "https://open.spotify.com/artist/0aPh6hUf7HfSVXtyxQs9AR"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 277773,
-      "name": "Lay Lady Lay",
-      "url": "https://open.spotify.com/track/5YFlYhVwQNPjy5tmUryDRD"
+      "duration_ms": 243440,
+      "name": "It Had To Be You",
+      "url": "https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf"
     },
     {
       "added_at": "2022-12-22 07:42:56",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2022-12-22 07:42:56",
       "album": {
-        "name": "Music For Torching",
-        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/7ameJ6pSgZagUBgwubwTMq"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Magnet",
+          "url": "https://open.spotify.com/artist/0aPh6hUf7HfSVXtyxQs9AR"
         }
       ],
-      "duration_ms": 243440,
-      "name": "It Had To Be You",
-      "url": "https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf"
+      "duration_ms": 277773,
+      "name": "Lay Lady Lay",
+      "url": "https://open.spotify.com/track/5YFlYhVwQNPjy5tmUryDRD"
     },
     {
       "added_at": "2022-12-22 07:42:56",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-12-22 07:42:56",
       "album": {
-        "name": "Big Band",
-        "url": "https://open.spotify.com/album/3xrL8bvaqzEiCEQ8ioSXzq"
-      },
-      "artists": [
-        {
-          "name": "John Tesh",
-          "url": "https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r"
-        }
-      ],
-      "duration_ms": 263493,
-      "name": "Beyond The Sea",
-      "url": "https://open.spotify.com/track/420JnnbOMAIEyQ4r02E0tR"
-    },
-    {
-      "added_at": "2022-12-22 07:42:56",
-      "album": {
         "name": "Platinum Collection",
         "url": "https://open.spotify.com/album/6oDOhdspMCyj3grZIsUqaT"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 175866,
       "name": "Qu'est-ce que tu crois ?",
       "url": "https://open.spotify.com/track/3wpp9Sk66Onv8Kv42n8KN1"
+    },
+    {
+      "added_at": "2022-12-22 07:42:56",
+      "album": {
+        "name": "Big Band",
+        "url": "https://open.spotify.com/album/3xrL8bvaqzEiCEQ8ioSXzq"
+      },
+      "artists": [
+        {
+          "name": "John Tesh",
+          "url": "https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r"
+        }
+      ],
+      "duration_ms": 263493,
+      "name": "Beyond The Sea",
+      "url": "https://open.spotify.com/track/420JnnbOMAIEyQ4r02E0tR"
     },
     {
       "added_at": "2022-12-22 07:42:56",

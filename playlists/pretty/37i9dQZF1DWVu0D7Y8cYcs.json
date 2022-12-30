@@ -1,12 +1,12 @@
 {
   "description": "Come on, man. Just smile!",
-  "num_followers": 458337,
+  "num_followers": 458420,
   "original_name": "Just Smile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDgxNjYyZWVjYjY1NTk4YzQ2ZmRjNjNmZmUzZGRiNDdh",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMGI3MjA5ZDg4YTMwNWNiNjgwMmQ5YWY4MGM2NTY2NDVm",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Sweet and Dandy",
+        "url": "https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Never Leave",
         "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 196153,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Sweet and Dandy",
-        "url": "https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Pressure Drop",
-      "url": "https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Strictly Roots",
-        "url": "https://open.spotify.com/album/7mWbD91KCO9KGGygDMuBpX"
-      },
-      "artists": [
-        {
-          "name": "Morgan Heritage",
-          "url": "https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1"
-        }
-      ],
-      "duration_ms": 236930,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/69DIpPwfHaO4mwHfn0oNTd"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Dread & Terrible Project - 5th Anniversary (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3T5KaIlXqSnWUlnM99mOjv"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 257194,
       "name": "Jah Is There",
       "url": "https://open.spotify.com/track/05aGKJ2UcIjF9DetAnU0qF"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Strictly Roots",
+        "url": "https://open.spotify.com/album/7mWbD91KCO9KGGygDMuBpX"
+      },
+      "artists": [
+        {
+          "name": "Morgan Heritage",
+          "url": "https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1"
+        }
+      ],
+      "duration_ms": 236930,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/69DIpPwfHaO4mwHfn0oNTd"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -875,26 +875,18 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Sounds of My World",
-        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
+        "name": "Best Of / 20th Century Masters",
+        "url": "https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 225384,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/5rCFLQB74RmHwiDe6YL7qx"
+      "duration_ms": 193480,
+      "name": "Wonderful World, Beautiful People - Single Version",
+      "url": "https://open.spotify.com/track/4GEz5ZGMPcX9OZ5ta0v85e"
     }
   ],
   "unique_name": "Just Smile",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > Check out a Jay Park's interview as Clips! Also, check out the top 10 Korean hip\-hop songs selected by Jay Park at the top of the playlist\. \(Cover: Jay Park\) \(박재범의 인터뷰를 Clips로 확인하세요! 그리고 박재범이 선정한 한국힙합 10곡을 플레이리스트 최상단에서 확인하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,025 likes - 121 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,072 likes - 121 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

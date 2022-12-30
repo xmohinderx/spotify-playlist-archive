@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 119104,
+  "num_followers": 119160,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjE1MzIwMCwwMDAwMDAwMDg5ODRjMmM1MDZhZGI0ZWZhMWUwMzkyYTQ5N2Q3YWM1",
+  "snapshot_id": "MTY3MjE1MzIwMCwwMDAwMDAwMGQ4ZTVlMjc2YTYxNDY4M2ZlODRlZTdkYWMyYmVkYTc5",
   "tracks": [
     {
       "added_at": "2022-12-27 15:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "Hikare Inochi",
-        "url": "https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas"
-      },
-      "artists": [
-        {
-          "name": "Kitri",
-          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Sympathy",
-      "url": "https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
         "name": "KISS IN THE SKY",
         "url": "https://open.spotify.com/album/7BMTvf0xLj0pnzG4FCvFUD"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 322666,
       "name": "\u7720\u308c\u306c\u591c\u306f\u541b\u306e\u305b\u3044",
       "url": "https://open.spotify.com/track/3pIbaGD2BPo1DTUj8Ujlct"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
+        "name": "Hikare Inochi",
+        "url": "https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas"
+      },
+      "artists": [
+        {
+          "name": "Kitri",
+          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u702c\u3068\u702c",
-        "url": "https://open.spotify.com/album/5gWa4l4159qeKUNFDBbmhS"
-      },
-      "artists": [
-        {
-          "name": "\u4e0a\u91ce\u5927\u6a39",
-          "url": "https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF"
-        }
-      ],
-      "duration_ms": 283149,
-      "name": "\u540c\u3058\u6708\u3092\u898b\u3066\u3044\u308b",
-      "url": "https://open.spotify.com/track/1f0WfgZV9JK1k0e8OpyqML"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
         "name": "ohashiTrio best Too",
         "url": "https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 337898,
       "name": "\u8679\u3068\u30ab\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
+        "name": "\u702c\u3068\u702c",
+        "url": "https://open.spotify.com/album/5gWa4l4159qeKUNFDBbmhS"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u91ce\u5927\u6a39",
+          "url": "https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF"
+        }
+      ],
+      "duration_ms": 283149,
+      "name": "\u540c\u3058\u6708\u3092\u898b\u3066\u3044\u308b",
+      "url": "https://open.spotify.com/track/1f0WfgZV9JK1k0e8OpyqML"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "Prescribing The...",
-        "url": "https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat"
+        "name": "\u65b0\u3057\u3044\u4eba",
+        "url": "https://open.spotify.com/album/75EifDD2I7RqW00QqJOiT8"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+          "name": "OGRE YOU ASSHOLE",
+          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
         }
       ],
-      "duration_ms": 287169,
-      "name": "\u82fa",
-      "url": "https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH"
+      "duration_ms": 278517,
+      "name": "\u65b0\u3057\u3044\u4eba",
+      "url": "https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -627,18 +627,34 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u65b0\u3057\u3044\u4eba",
-        "url": "https://open.spotify.com/album/75EifDD2I7RqW00QqJOiT8"
+        "name": "This is music too",
+        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
       },
       "artists": [
         {
-          "name": "OGRE YOU ASSHOLE",
-          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
         }
       ],
-      "duration_ms": 278517,
-      "name": "\u65b0\u3057\u3044\u4eba",
-      "url": "https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd"
+      "duration_ms": 264680,
+      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
+      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
+        "name": "Prescribing The...",
+        "url": "https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat"
+      },
+      "artists": [
+        {
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        }
+      ],
+      "duration_ms": 287169,
+      "name": "\u82fa",
+      "url": "https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -655,22 +671,6 @@
       "duration_ms": 312853,
       "name": "Mori no kotoba",
       "url": "https://open.spotify.com/track/6SFm3HdywAFS4wRM4S5izc"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
-        "name": "This is music too",
-        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 264680,
-      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
-      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "MISSLIM",
-        "url": "https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO"
+        "name": "eureka",
+        "url": "https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ"
       },
       "artists": [
         {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
         }
       ],
-      "duration_ms": 187200,
-      "name": "\u65c5\u7acb\u3064\u79cb",
-      "url": "https://open.spotify.com/track/6hXPsuOa4suL5A6NgdqIEX"
+      "duration_ms": 210000,
+      "name": "eureka",
+      "url": "https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -867,18 +867,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "eureka",
-        "url": "https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ"
+        "name": "MISSLIM",
+        "url": "https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO"
       },
       "artists": [
         {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
         }
       ],
-      "duration_ms": 210000,
-      "name": "eureka",
-      "url": "https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F"
+      "duration_ms": 187200,
+      "name": "\u65c5\u7acb\u3064\u79cb",
+      "url": "https://open.spotify.com/track/6hXPsuOa4suL5A6NgdqIEX"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u4e16\u754c\u306f\u3053\u3053\u3067\u56de\u308b\u3088",
-        "url": "https://open.spotify.com/album/4DzFPjfbnCxtrku5WDvt9J"
+        "name": "Lamp",
+        "url": "https://open.spotify.com/album/4xD9RDDnKrG3MHzvuP0GCd"
       },
       "artists": [
         {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
         }
       ],
-      "duration_ms": 275130,
-      "name": "\u4e16\u754c\u306f\u3053\u3053\u3067\u56de\u308b\u3088",
-      "url": "https://open.spotify.com/track/7vThpShILWq0xIenNi53Va"
+      "duration_ms": 272436,
+      "name": "Lamp",
+      "url": "https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "Lamp",
-        "url": "https://open.spotify.com/album/4xD9RDDnKrG3MHzvuP0GCd"
+        "name": "\u4e16\u754c\u306f\u3053\u3053\u3067\u56de\u308b\u3088",
+        "url": "https://open.spotify.com/album/4DzFPjfbnCxtrku5WDvt9J"
       },
       "artists": [
         {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
         }
       ],
-      "duration_ms": 272436,
-      "name": "Lamp",
-      "url": "https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9"
+      "duration_ms": 275130,
+      "name": "\u4e16\u754c\u306f\u3053\u3053\u3067\u56de\u308b\u3088",
+      "url": "https://open.spotify.com/track/7vThpShILWq0xIenNi53Va"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "Quai",
-        "url": "https://open.spotify.com/album/6wq3R7atGikH6erhFOvAqm"
-      },
-      "artists": [
-        {
-          "name": "SADFRANK",
-          "url": "https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW"
-        }
-      ],
-      "duration_ms": 410761,
-      "name": "Quai",
-      "url": "https://open.spotify.com/track/7pAHrBXNISzLLFiquzlMpb"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
         "name": "\u00ffuni",
         "url": "https://open.spotify.com/album/39r3Q8TGK1I0yXou6dXSIU"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 255448,
       "name": "\u00ffuni",
       "url": "https://open.spotify.com/track/4vvD5OUJZaMThV6X5CvjIS"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
+        "name": "Quai",
+        "url": "https://open.spotify.com/album/6wq3R7atGikH6erhFOvAqm"
+      },
+      "artists": [
+        {
+          "name": "SADFRANK",
+          "url": "https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW"
+        }
+      ],
+      "duration_ms": 410761,
+      "name": "Quai",
+      "url": "https://open.spotify.com/track/7pAHrBXNISzLLFiquzlMpb"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
-        "url": "https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy"
-      },
-      "artists": [
-        {
-          "name": "Naotaro Moriyama",
-          "url": "https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued"
-        }
-      ],
-      "duration_ms": 457613,
-      "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
-      "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 203853,
       "name": "All My Love - English Ver.",
       "url": "https://open.spotify.com/track/56JB3pqUaLaIozQ5j2tD7W"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
+        "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
+        "url": "https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy"
+      },
+      "artists": [
+        {
+          "name": "Naotaro Moriyama",
+          "url": "https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued"
+        }
+      ],
+      "duration_ms": 457613,
+      "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
+      "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"
     },
     {
       "added_at": "2022-12-27 15:00:00",

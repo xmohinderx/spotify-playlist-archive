@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-303 songs - 1 day 4 hr 21 min - [published](https://open.spotify.com/playlist/7jLGWJVis6kZYA0OgqQsb5)
+304 songs - 1 day 4 hr 26 min - [published](https://open.spotify.com/playlist/7jLGWJVis6kZYA0OgqQsb5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Lament](https://open.spotify.com/track/3u5U1SG291e4HfJUm4MMQV) | [Romain Pilon](https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z), [Yoni Zelnik](https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I) | [Lament](https://open.spotify.com/album/6cFgakb3roXl3GgOqr3XHS) | 6:28 | 2022-02-24 |  |
 | [Largo](https://open.spotify.com/track/3AxQSzHc2vYjqMZLyPyy2H) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 4:22 | 2021-04-24 |  |
 | [Let Us Not Forget To Be Kind](https://open.spotify.com/track/6dxX3lE5atGmus7Cax42fL) | [Anthony Fung](https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W), [Roni Eytan](https://open.spotify.com/artist/6AQpvrd4EM7xY2dWW0QAn6) | [What Does it Mean to be Free?](https://open.spotify.com/album/6qFrQ3lMRdKrBwvcIKQQCX) | 5:38 | 2022-05-05 |  |
-| [Life And Death](https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG) | [Into The Silence](https://open.spotify.com/album/71IfxXKpjfjsYRIGaYfdeD) | 9:18 | 2020-05-02\* |  |
+| [Life And Death](https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG) | [Into The Silence](https://open.spotify.com/album/71IfxXKpjfjsYRIGaYfdeD) | 9:18 | 2020-05-02\* | 2022-12-30 |
 | [Lina](https://open.spotify.com/track/2fYcpbTFptY9uRcaY56NRu) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Nadi](https://open.spotify.com/album/3kvzs5jLHsGyDZnz5oAaA4) | 5:38 | 2020-05-02\* | 2021-09-17 |
 | [Links](https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Links](https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn) | 3:52 | 2022-07-21 |  |
 | [Longing](https://open.spotify.com/track/67sVPIVxFU882Z6HpdBjXZ) | [Lukas Wögler Quartett](https://open.spotify.com/artist/5cbn5mT0NrBpqJN0Uad4Nn) | [Alba](https://open.spotify.com/album/3FErjLj1EnVocxXwa6WkBZ) | 8:21 | 2022-09-22 | 2022-11-22 |
@@ -163,6 +163,7 @@
 | [Mashita](https://open.spotify.com/track/2on2XttfSjE4rjGo3xyGVm) | [Mansur Brown](https://open.spotify.com/artist/1ky3oGuE5XOsOzqiFEGwqR) | [Shiroi](https://open.spotify.com/album/4fL2WmOafyMnGU9i7svCLy) | 2:52 | 2020-05-02\* | 2020-05-22 |
 | [Maya](https://open.spotify.com/track/7iB19KaF8Pows0nixti2wo) | [Miroslav Vitous](https://open.spotify.com/artist/0ztzt6g8n0NBcnwMGwMlxD), [Terje Rypdal](https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [To Be Continued](https://open.spotify.com/album/5f9Njurbv0DlHZjq5kEUDm) | 6:17 | 2020-05-08 | 2021-01-31 |
 | [Midnight Mood](https://open.spotify.com/track/1PMdnh8JihyvccTeC16XwB) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Nearness Of You: The Ballad Book](https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY) | 6:23 | 2021-04-19 |  |
+| [Miss B.](https://open.spotify.com/track/1BmYFsBIxIB2mDsIXGlCv7) | [Mu Quintet](https://open.spotify.com/artist/26hCtsfsn4q3v24kGBmlr0) | [Summit](https://open.spotify.com/album/5P1I1tIgkLh6682ZiOtP92) | 4:51 | 2022-12-22 |  |
 | [Misty](https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [This Is Jazz \#14](https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz) | 5:23 | 2022-07-21 |  |
 | [Misty](https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sony Jazz Collection](https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI) | 5:23 | 2020-05-02\* | 2022-07-29 |
 | [Mo' Better Blues \(feat\. Terence Blanchard\)](https://open.spotify.com/track/78P3mF3w6APwFpnd6UFH4J) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [MUSIC FROM MO' BETTER BLUES \(feat\. Terence Blanchard\)](https://open.spotify.com/album/0p9pjx1LrmYBb70ns5lMGz) | 3:38 | 2020-05-02\* | 2022-01-25 |

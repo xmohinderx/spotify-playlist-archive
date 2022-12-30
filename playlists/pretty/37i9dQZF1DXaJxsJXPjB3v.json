@@ -1,12 +1,12 @@
 {
   "description": "Revisit memories and make new ones with the best Kwaito songs ever released. Cover: Spikiri",
-  "num_followers": 21671,
+  "num_followers": 21710,
   "original_name": "Kwaito Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg4Mzk0MCwwMDAwMDAwMDc5MTYxZDE3YjM5OTg4YzNjNzEyZWQ3NjMyOGVhODQx",
+  "snapshot_id": "MTY2Mzg4Mzk0MCwwMDAwMDAwMDFjMWNmODIwNWUyNDEzMDQ0ZDFiYjE0NjkzZWNmNTBj",
   "tracks": [
     {
       "added_at": "2022-04-25 18:44:17",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Bash Mix 2",
-        "url": "https://open.spotify.com/album/3jXFnAfB1GglFH95qcl1vA"
-      },
-      "artists": [
-        {
-          "name": "Chiskop",
-          "url": "https://open.spotify.com/artist/7wTsm3OFBk9W6BwPponZYt"
-        }
-      ],
-      "duration_ms": 243332,
-      "name": "Klaimar",
-      "url": "https://open.spotify.com/track/7yd9B48OQSRTUG2oKEoPXr"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "Waar Was Jy?",
         "url": "https://open.spotify.com/album/51b8gK2d2z0KUHtsnhMbY7"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 229066,
       "name": "Waar Was Jy?",
       "url": "https://open.spotify.com/track/4tdjxGy4a54Hi1fXaDl7Xz"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "Bash Mix 2",
+        "url": "https://open.spotify.com/album/3jXFnAfB1GglFH95qcl1vA"
+      },
+      "artists": [
+        {
+          "name": "Chiskop",
+          "url": "https://open.spotify.com/artist/7wTsm3OFBk9W6BwPponZYt"
+        }
+      ],
+      "duration_ms": 243332,
+      "name": "Klaimar",
+      "url": "https://open.spotify.com/track/7yd9B48OQSRTUG2oKEoPXr"
     },
     {
       "added_at": "2022-04-25 18:44:17",

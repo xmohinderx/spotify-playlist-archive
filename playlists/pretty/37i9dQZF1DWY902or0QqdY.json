@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos que son el curita perfecto para tu coraz\u00f3n. ",
-  "num_followers": 54494,
+  "num_followers": 54555,
   "original_name": "El Club de los Corazones Rotos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMjk4MjU5NywwMDAwMDAwMDhmNTlmMDFkZDU1NzE2MWY4ZWQ2MjYxNTkxYTIzYTFi",
+  "snapshot_id": "MTYxMjk4MjU5NywwMDAwMDAwMDcxNTJjMGI0ODk1MmEwNGM5N2VmNjM3ZWU3YjBkYjNl",
   "tracks": [
     {
       "added_at": "2021-02-10 18:43:17",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "All Out Of Love",
-        "url": "https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 241373,
-      "name": "All Out of Love",
-      "url": "https://open.spotify.com/track/2lmcH6prYo3BlR8LfRUJc3"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
         "name": "Blue Moves",
         "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 228933,
       "name": "Sorry Seems To Be The Hardest Word",
       "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "All Out Of Love",
+        "url": "https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 241373,
+      "name": "All Out of Love",
+      "url": "https://open.spotify.com/track/2lmcH6prYo3BlR8LfRUJc3"
     },
     {
       "added_at": "2021-02-10 18:43:17",

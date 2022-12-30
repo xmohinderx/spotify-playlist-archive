@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Mariah Nala",
-  "num_followers": 414797,
+  "num_followers": 414864,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NjU5NywwMDAwMDAwMGJiZWNkMmEzNTUyZjJmNDYwNDM4NjFhNDQ1NDMxYzdi",
+  "snapshot_id": "MTY3MTc2NjU5NywwMDAwMDAwMGIwYmFjOGZlODM4NjdjNTZlMjI2NjNkNzc2NmE4Njhi",
   "tracks": [
     {
       "added_at": "2022-12-23 03:36:37",
@@ -303,6 +303,26 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
+        "name": "Voc\u00ea nasceu para mudar",
+        "url": "https://open.spotify.com/album/3qWkbSgJ4yK7ZiWpjNaoAt"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 211351,
+      "name": "Voc\u00ea nasceu para mudar",
+      "url": "https://open.spotify.com/track/4lf9x9CfTPSE8MQprQCav9"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
         "name": "Live Sessions",
         "url": "https://open.spotify.com/album/10vWV3vu3aAY0kthCLVQHS"
       },
@@ -315,22 +335,6 @@
       "duration_ms": 188620,
       "name": "Intui\u00e7\u00e3o (Envolvid\u00e3o) - Ao Vivo",
       "url": "https://open.spotify.com/track/3WmCgLfple2ny5iHO3t2Nv"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
-        "name": "Farol das Estrelas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "Farol das Estrelas - Ao Vivo",
-      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -383,22 +387,18 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "Voc\u00ea nasceu para mudar",
-        "url": "https://open.spotify.com/album/3qWkbSgJ4yK7ZiWpjNaoAt"
+        "name": "Farol das Estrelas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
       },
       "artists": [
         {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        },
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 211351,
-      "name": "Voc\u00ea nasceu para mudar",
-      "url": "https://open.spotify.com/track/4lf9x9CfTPSE8MQprQCav9"
+      "duration_ms": 228866,
+      "name": "Farol das Estrelas - Ao Vivo",
+      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "Degrad\u00ea",
-        "url": "https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 206113,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
         "name": "Somos Instantes",
         "url": "https://open.spotify.com/album/50cLjaea6W3hkVgK9nFDuB"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 225877,
       "name": "Somos Instantes",
       "url": "https://open.spotify.com/track/4aPNR8jCTJ4NqEktwxOGn2"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
+        "name": "Degrad\u00ea",
+        "url": "https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 206113,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -711,26 +711,6 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "Adoro Amar Voc\u00ea",
-        "url": "https://open.spotify.com/album/0dMtLl7Qgizyv3ry7MaZVl"
-      },
-      "artists": [
-        {
-          "name": "Daniel",
-          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 273285,
-      "name": "Adoro Amar Voc\u00ea",
-      "url": "https://open.spotify.com/track/1Epc5aVhjQLAfF0tZJnDAZ"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
         "name": "Horizonte",
         "url": "https://open.spotify.com/album/2yfBvpXbJ15VXJSKU6YTJH"
       },
@@ -747,6 +727,46 @@
       "duration_ms": 194315,
       "name": "Horizonte",
       "url": "https://open.spotify.com/track/2BxoVrrBkNMSHDv3IMJSw6"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
+        "name": "Olho de Girassol",
+        "url": "https://open.spotify.com/album/6sFjAGgZMaQTYa4j5OlJhj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Br\u00e1ulio Bessa",
+          "url": "https://open.spotify.com/artist/4G22JHSJnunUt8t3yMt46A"
+        }
+      ],
+      "duration_ms": 194673,
+      "name": "Olho de Girassol",
+      "url": "https://open.spotify.com/track/3s0A8jRhbklln6u5eZFxSX"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
+        "name": "Adoro Amar Voc\u00ea",
+        "url": "https://open.spotify.com/album/0dMtLl7Qgizyv3ry7MaZVl"
+      },
+      "artists": [
+        {
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 273285,
+      "name": "Adoro Amar Voc\u00ea",
+      "url": "https://open.spotify.com/track/1Epc5aVhjQLAfF0tZJnDAZ"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -775,26 +795,6 @@
       "duration_ms": 228693,
       "name": "L\u00e1 Vem A Noite",
       "url": "https://open.spotify.com/track/1Yg5rkFc2XVM6h950xtmsN"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
-        "name": "Olho de Girassol",
-        "url": "https://open.spotify.com/album/6sFjAGgZMaQTYa4j5OlJhj"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Br\u00e1ulio Bessa",
-          "url": "https://open.spotify.com/artist/4G22JHSJnunUt8t3yMt46A"
-        }
-      ],
-      "duration_ms": 194673,
-      "name": "Olho de Girassol",
-      "url": "https://open.spotify.com/track/3s0A8jRhbklln6u5eZFxSX"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -859,6 +859,26 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
+        "name": "Rara",
+        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Santino",
+          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
+        }
+      ],
+      "duration_ms": 197883,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
         "name": "Eu N\u00e3o Ando T\u00e3o Bem Assim",
         "url": "https://open.spotify.com/album/5SDyNbbogMnxYdXw29dijy"
       },
@@ -891,22 +911,18 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "Rara",
-        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
+        "name": "Sorria que Volta",
+        "url": "https://open.spotify.com/album/2V4qg7sNcMllTmLOFpzf7o"
       },
       "artists": [
         {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Santino",
-          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
         }
       ],
-      "duration_ms": 197883,
-      "name": "Rara",
-      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
+      "duration_ms": 141573,
+      "name": "Sorria que Volta",
+      "url": "https://open.spotify.com/track/1PtvbTuhHBw8Mfi9XIIIuC"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -927,22 +943,6 @@
       "duration_ms": 190937,
       "name": "Me Beija",
       "url": "https://open.spotify.com/track/4s5FI0NH6yiJ85tatkCJ8h"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
-        "name": "Sorria que Volta",
-        "url": "https://open.spotify.com/album/2V4qg7sNcMllTmLOFpzf7o"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 141573,
-      "name": "Sorria que Volta",
-      "url": "https://open.spotify.com/track/1PtvbTuhHBw8Mfi9XIIIuC"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "Embriagado de Saudade",
-        "url": "https://open.spotify.com/album/2MgoX7Y7rP0JCb6Q3K5SUX"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
-        }
-      ],
-      "duration_ms": 155250,
-      "name": "Embriagado de Saudade",
-      "url": "https://open.spotify.com/track/5efZJvbyTISLTujhMm3rcR"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
         "name": "Sem Filtro",
         "url": "https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1"
       },
@@ -1143,70 +1127,18 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "CULPADO",
-        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
+        "name": "Embriagado de Saudade",
+        "url": "https://open.spotify.com/album/2MgoX7Y7rP0JCb6Q3K5SUX"
       },
       "artists": [
         {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
         }
       ],
-      "duration_ms": 182933,
-      "name": "CULPADO",
-      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
-        "name": "Doideira",
-        "url": "https://open.spotify.com/album/6911oHZwSo1MXBOhnocMbN"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 157573,
-      "name": "Doideira",
-      "url": "https://open.spotify.com/track/4aodXHEeYiQHyLBc0ElCX3"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
-        "name": "Ano Que Vem",
-        "url": "https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl"
-      },
-      "artists": [
-        {
-          "name": "Flerte Flamingo",
-          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
-        }
-      ],
-      "duration_ms": 179656,
-      "name": "Ano Que Vem",
-      "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
-        "name": "INTENSO",
-        "url": "https://open.spotify.com/album/6BTSt53WQzgxPoAQWX1v6c"
-      },
-      "artists": [
-        {
-          "name": "Davi Bandeira",
-          "url": "https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68"
-        },
-        {
-          "name": "Romero Ferro",
-          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
-        }
-      ],
-      "duration_ms": 188235,
-      "name": "Louco de Amor",
-      "url": "https://open.spotify.com/track/615qyOqm6qXrgVCVBDYCRX"
+      "duration_ms": 155250,
+      "name": "Embriagado de Saudade",
+      "url": "https://open.spotify.com/track/5efZJvbyTISLTujhMm3rcR"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -1231,6 +1163,54 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
+        "name": "Doideira",
+        "url": "https://open.spotify.com/album/6911oHZwSo1MXBOhnocMbN"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 157573,
+      "name": "Doideira",
+      "url": "https://open.spotify.com/track/4aodXHEeYiQHyLBc0ElCX3"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
+        "name": "CULPADO",
+        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "CULPADO",
+      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
+        "name": "Ano Que Vem",
+        "url": "https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl"
+      },
+      "artists": [
+        {
+          "name": "Flerte Flamingo",
+          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
+        }
+      ],
+      "duration_ms": 179656,
+      "name": "Ano Que Vem",
+      "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
         "name": "Miudinho",
         "url": "https://open.spotify.com/album/0iFchnrlmmxgKASQzNz5Ba"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 155798,
       "name": "Miudinho",
       "url": "https://open.spotify.com/track/2A59HbqCzekn6QbepGggfX"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
+        "name": "INTENSO",
+        "url": "https://open.spotify.com/album/6BTSt53WQzgxPoAQWX1v6c"
+      },
+      "artists": [
+        {
+          "name": "Davi Bandeira",
+          "url": "https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68"
+        },
+        {
+          "name": "Romero Ferro",
+          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
+        }
+      ],
+      "duration_ms": 188235,
+      "name": "Louco de Amor",
+      "url": "https://open.spotify.com/track/615qyOqm6qXrgVCVBDYCRX"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "Mais Uma Hist\u00f3ria de Amor",
-        "url": "https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stedile",
-          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "N\u00e3o Sou Boa Com Palavras",
-      "url": "https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
         "name": "Aquino e a Orquestra Invis\u00edvel",
         "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 173880,
       "name": "MTV",
       "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
+        "name": "Mais Uma Hist\u00f3ria de Amor",
+        "url": "https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stedile",
+          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "N\u00e3o Sou Boa Com Palavras",
+      "url": "https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "Outubro",
-        "url": "https://open.spotify.com/album/00JNMDQJR1wOpibAL1PC7F"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 237325,
-      "name": "Outubro",
-      "url": "https://open.spotify.com/track/5hD1qHjBX9SB3Ws6nCEwr5"
-    },
-    {
-      "added_at": "2022-12-23 03:36:37",
-      "album": {
         "name": "Flores Que Eu Nunca Dei",
         "url": "https://open.spotify.com/album/1mM2in7kTBpSLurd8HIjvD"
       },
@@ -1395,18 +1375,22 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "Passa",
-        "url": "https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq"
+        "name": "Outubro",
+        "url": "https://open.spotify.com/album/00JNMDQJR1wOpibAL1PC7F"
       },
       "artists": [
         {
-          "name": "Martins",
-          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
         }
       ],
-      "duration_ms": 176804,
-      "name": "Passa",
-      "url": "https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky"
+      "duration_ms": 237325,
+      "name": "Outubro",
+      "url": "https://open.spotify.com/track/5hD1qHjBX9SB3Ws6nCEwr5"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2022-12-23 03:36:37",
       "album": {
-        "name": "Desajeito",
-        "url": "https://open.spotify.com/album/5Q6Owiw3e0533g0fmhZIBm"
+        "name": "Passa",
+        "url": "https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq"
       },
       "artists": [
         {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+          "name": "Martins",
+          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
         }
       ],
-      "duration_ms": 151384,
-      "name": "Eu Gosto de Voc\u00ea",
-      "url": "https://open.spotify.com/track/6YSRQs68P9ojKJm8YZuw2e"
+      "duration_ms": 176804,
+      "name": "Passa",
+      "url": "https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky"
     },
     {
       "added_at": "2022-12-23 03:36:37",
@@ -1455,6 +1439,22 @@
       "duration_ms": 241920,
       "name": "Tons De Blue - Faixa B\u00f4nus",
       "url": "https://open.spotify.com/track/0ZYkFogckBfd6142gFg3pV"
+    },
+    {
+      "added_at": "2022-12-23 03:36:37",
+      "album": {
+        "name": "Desajeito",
+        "url": "https://open.spotify.com/album/5Q6Owiw3e0533g0fmhZIBm"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Eu Gosto de Voc\u00ea",
+      "url": "https://open.spotify.com/track/6YSRQs68P9ojKJm8YZuw2e"
     }
   ],
   "unique_name": "Pop Leve",

@@ -3362,6 +3362,32 @@
     },
     {
       "album": {
+        "name": "Camisa de Time (Desce S\u00f3 de Label)",
+        "url": "https://open.spotify.com/album/3jhqCIMpu2YIu6hq4dzhPw"
+      },
+      "artists": [
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159111,
+      "name": "Camisa de Time (Desce S\u00f3 de Label)",
+      "url": "https://open.spotify.com/track/5oF3fkS6ZVqmb3W5UJc0s8"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -14971,7 +14997,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 201600,
       "name": "Saquarema",
       "url": "https://open.spotify.com/track/12R6npsSMx8g0k5GN19poM"

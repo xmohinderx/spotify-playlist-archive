@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-390 songs - 15 hr 28 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
+391 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,8 +359,9 @@
 | [Toxic](https://open.spotify.com/track/2mPChVIzI68uupwyAKhDVv) | [SIDRENCHIK](https://open.spotify.com/artist/4u7VPxU2FXLXFJB20hmTAN) | [Toxic](https://open.spotify.com/album/0MOEqFRZJP8tB9ECbbRtE3) | 2:16 | 2022-02-18 | 2022-09-03 |
 | [TRAGEDY](https://open.spotify.com/track/6WOHpwoAUmEdmAKCAT7GUv) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6), [Adam the Shinobi](https://open.spotify.com/artist/6ecMA7zUaPlQT0SknNhknO) | [TRAGEDY](https://open.spotify.com/album/0yto3bDkVpias7s79dqroq) | 2:06 | 2022-07-15 | 2022-08-27 |
 | [TRANSPARENCY](https://open.spotify.com/track/0Y0MMUigsY2PA35bTim0Jd) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH), [finesse scar](https://open.spotify.com/artist/7DDkaJXpWi5fwWeqO2G1jf) | [TRANSPARENCY](https://open.spotify.com/album/7yFU4ETiB48jITB3gDxMRm) | 2:27 | 2022-10-28 | 2022-12-03 |
+| [try again](https://open.spotify.com/track/4G3Bsou1LCoRT7CQISWRtV) | [f2kh6](https://open.spotify.com/artist/38WmE0nhZTeg85mqWy8api) | [try again](https://open.spotify.com/album/0kHd9b3a2uhTvhM8fZc9d8) | 1:52 | 2022-10-28 |  |
 | [Try Again](https://open.spotify.com/track/26gSKAMIFzwMd4htHklFfN) | [Max + Johann](https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3) | [Try Again](https://open.spotify.com/album/1mAJ1htzZKsFXwbcTatxIq) | 2:49 | 2022-10-21 | 2022-10-29 |
-| [Try Again](https://open.spotify.com/track/6hzs9mLhbdG095vRsXlKmg) | [Phonk](https://open.spotify.com/artist/3kXvE7gEBfGkwDaknMngF7) | [Try Again](https://open.spotify.com/album/1sj3hCERNn8GjURtFvAsTE) | 1:52 | 2022-10-28 |  |
+| [Try Again](https://open.spotify.com/track/6hzs9mLhbdG095vRsXlKmg) | [Phonk](https://open.spotify.com/artist/3kXvE7gEBfGkwDaknMngF7) | [Try Again](https://open.spotify.com/album/1sj3hCERNn8GjURtFvAsTE) | 1:52 | 2022-10-28 | 2022-12-30 |
 | [Twilight](https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x) | 1:56 | 2022-02-04 |  |
 | [Twilight](https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu) | 1:56 | 2022-02-04 | 2022-09-23 |
 | [Twister Phonk](https://open.spotify.com/track/4eZ2UOVaWrlR4Yx67ZENfz) | [Pluxry SkUrt](https://open.spotify.com/artist/7sC4fdtZGv8l2x9IKqdG2x) | [Twister Phonk](https://open.spotify.com/album/58uRJmXSA4YZKVpsKtGXtu) | 2:29 | 2022-01-14 | 2022-02-05 |

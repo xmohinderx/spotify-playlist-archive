@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Majur",
-  "num_followers": 329923,
+  "num_followers": 329987,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMDU4MjRlMTdlMTMxNTJjNWIyNjY4Y2NiNmRjZTIwZTA5",
+  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMDQwZDQzYjZhMzY4NmEwZWMwMDhkNTc0MTY0Nzc5Mjcw",
   "tracks": [
     {
       "added_at": "2022-12-16 16:55:05",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-12-16 16:55:05",
       "album": {
-        "name": "Argumento - Spotify Singles",
-        "url": "https://open.spotify.com/album/2XMNn5bkQO21DiVmwSFZ0w"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 203319,
-      "name": "Argumento - Spotify Singles",
-      "url": "https://open.spotify.com/track/7mqKpp6FJBoE0jKkBfRFx2"
-    },
-    {
-      "added_at": "2022-12-16 16:55:05",
-      "album": {
         "name": "Som de Alceu",
         "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 182587,
       "name": "Som de Alceu",
       "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
+    },
+    {
+      "added_at": "2022-12-16 16:55:05",
+      "album": {
+        "name": "Argumento - Spotify Singles",
+        "url": "https://open.spotify.com/album/2XMNn5bkQO21DiVmwSFZ0w"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 203319,
+      "name": "Argumento - Spotify Singles",
+      "url": "https://open.spotify.com/track/7mqKpp6FJBoE0jKkBfRFx2"
     },
     {
       "added_at": "2022-12-16 16:55:05",
@@ -591,26 +591,6 @@
     {
       "added_at": "2022-12-16 16:55:05",
       "album": {
-        "name": "Paula e Bebeto",
-        "url": "https://open.spotify.com/album/0uiSAseDeXMBFIjAUAqQ87"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 191418,
-      "name": "Paula e Bebeto",
-      "url": "https://open.spotify.com/track/62eMpHTC584YQztqxELhmK"
-    },
-    {
-      "added_at": "2022-12-16 16:55:05",
-      "album": {
         "name": "Farol",
         "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 145191,
       "name": "Farol",
       "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
+    },
+    {
+      "added_at": "2022-12-16 16:55:05",
+      "album": {
+        "name": "Paula e Bebeto",
+        "url": "https://open.spotify.com/album/0uiSAseDeXMBFIjAUAqQ87"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 191418,
+      "name": "Paula e Bebeto",
+      "url": "https://open.spotify.com/track/62eMpHTC584YQztqxELhmK"
     },
     {
       "added_at": "2022-12-16 16:55:05",
@@ -795,18 +795,22 @@
     {
       "added_at": "2022-12-16 16:55:05",
       "album": {
-        "name": "Nu Com a Minha M\u00fasica (EP)",
-        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
+        "name": "Dia Branco",
+        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
       },
       "artists": [
         {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
         }
       ],
-      "duration_ms": 283557,
-      "name": "Nu Com a Minha M\u00fasica",
-      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
+      "duration_ms": 147899,
+      "name": "Dia Branco",
+      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
     },
     {
       "added_at": "2022-12-16 16:55:05",
@@ -831,22 +835,18 @@
     {
       "added_at": "2022-12-16 16:55:05",
       "album": {
-        "name": "Dia Branco",
-        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
+        "name": "Nu Com a Minha M\u00fasica (EP)",
+        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
       },
       "artists": [
         {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
         }
       ],
-      "duration_ms": 147899,
-      "name": "Dia Branco",
-      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
+      "duration_ms": 283557,
+      "name": "Nu Com a Minha M\u00fasica",
+      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
     },
     {
       "added_at": "2022-12-16 16:55:05",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-12-16 16:55:05",
       "album": {
-        "name": "Ana Ca\u00f1as Canta Belchior",
-        "url": "https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 322543,
-      "name": "Cora\u00e7\u00e3o Selvagem",
-      "url": "https://open.spotify.com/track/1CJ2c62JnJK3Ax7O2C11vw"
-    },
-    {
-      "added_at": "2022-12-16 16:55:05",
-      "album": {
         "name": "Nu Com a Minha M\u00fasica",
         "url": "https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 216933,
       "name": "Quase um Segundo",
       "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
+    },
+    {
+      "added_at": "2022-12-16 16:55:05",
+      "album": {
+        "name": "Ana Ca\u00f1as Canta Belchior",
+        "url": "https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 322543,
+      "name": "Cora\u00e7\u00e3o Selvagem",
+      "url": "https://open.spotify.com/track/1CJ2c62JnJK3Ax7O2C11vw"
     },
     {
       "added_at": "2022-12-16 16:55:05",
@@ -1297,6 +1297,26 @@
       "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
     },
     {
+      "added_at": "2022-12-30 00:01:19",
+      "album": {
+        "name": "Voa Vagalume",
+        "url": "https://open.spotify.com/album/4FIzrE1QwsiRdtFuq78p2z"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Sater",
+          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
+        },
+        {
+          "name": "Almir Sater",
+          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
+        }
+      ],
+      "duration_ms": 217606,
+      "name": "Voa Vagalume",
+      "url": "https://open.spotify.com/track/6Ni9sKJ0oAnDq1l3zIdX8s"
+    },
+    {
       "added_at": "2022-12-16 16:55:05",
       "album": {
         "name": "Verdade na Fonte",
@@ -1317,43 +1337,7 @@
       "url": "https://open.spotify.com/track/6CJxnUAe55awtxHblQXGML"
     },
     {
-      "added_at": "2022-12-16 16:55:05",
-      "album": {
-        "name": "Purifica\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5bjpYeTq9oxZXSIGChuZRk"
-      },
-      "artists": [
-        {
-          "name": "Mariene De Castro",
-          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
-        }
-      ],
-      "duration_ms": 263488,
-      "name": "Purifica\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/53iCl146CrNjtMR06Dg5mn"
-    },
-    {
-      "added_at": "2022-12-29 00:40:05",
-      "album": {
-        "name": "Voa Vagalume",
-        "url": "https://open.spotify.com/album/4FIzrE1QwsiRdtFuq78p2z"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Sater",
-          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
-        },
-        {
-          "name": "Almir Sater",
-          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
-        }
-      ],
-      "duration_ms": 217606,
-      "name": "Voa Vagalume",
-      "url": "https://open.spotify.com/track/6Ni9sKJ0oAnDq1l3zIdX8s"
-    },
-    {
-      "added_at": "2022-12-29 00:40:05",
+      "added_at": "2022-12-30 00:01:19",
       "album": {
         "name": "A Chuva Sem Gal",
         "url": "https://open.spotify.com/album/6wLGkIhbIdCXVxUSMwQCxx"
@@ -1371,6 +1355,22 @@
       "duration_ms": 224850,
       "name": "A Chuva Sem Gal",
       "url": "https://open.spotify.com/track/51n8FkiDdHnpdCpWceridp"
+    },
+    {
+      "added_at": "2022-12-16 16:55:05",
+      "album": {
+        "name": "Purifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5bjpYeTq9oxZXSIGChuZRk"
+      },
+      "artists": [
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        }
+      ],
+      "duration_ms": 263488,
+      "name": "Purifica\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/53iCl146CrNjtMR06Dg5mn"
     },
     {
       "added_at": "2022-12-16 16:55:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 
 > Music to encourage emotional and physical healing through Reiki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,609 likes - 118 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,810 likes - 118 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 110 | [Somber](https://open.spotify.com/track/1IaWSNyIJgS5I2wG7zmWJJ) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Somber](https://open.spotify.com/album/07nrUzwmwDB4KM1ihnIy8X) | 4:13 |
 | 111 | [Point of Departure](https://open.spotify.com/track/2mR5CtbwYl0hnyNIs5ue7B) | [Anuvida](https://open.spotify.com/artist/2cAY7ix5Q1KkGIHD46ahtG), [Nik Tyndall](https://open.spotify.com/artist/079KP7iub4gzBo3Orbbzmy) | [Reiki Healing Hands](https://open.spotify.com/album/2mzFH1tiasz7velHgJmWW1) | 9:57 |
 | 112 | [A Moment in Life](https://open.spotify.com/track/6d1qM5CPjKzkwuztlawaMY) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [A Moment in Life](https://open.spotify.com/album/1RXC7thGFyEewiMI2ROYsQ) | 2:49 |
-| 113 | [Sol River](https://open.spotify.com/track/3tWTB2s3i76kUkfLeAMV34) | [Moon Dreaming](https://open.spotify.com/artist/4nJRn0hxXlJXyP9heK1nj2) | [Sol River](https://open.spotify.com/album/6HPFUudF3hCQmzjq5l6ktU) | 3:53 |
+| 113 | [Sol River](https://open.spotify.com/track/3tWTB2s3i76kUkfLeAMV34) | [Lunasette](https://open.spotify.com/artist/4llg8iirvoMBMFQHXUkusG) | [Sol River](https://open.spotify.com/album/6HPFUudF3hCQmzjq5l6ktU) | 3:53 |
 | 114 | [A Sense of Touch](https://open.spotify.com/track/2hJRROSh3QFGDCMS7CwGxr) | [Bonum Somno](https://open.spotify.com/artist/0kERbf96dBhKRnHrbQi9Vt) | [Eyes of Eternity](https://open.spotify.com/album/0miQvlVRcf9uFckcIYVozL) | 3:02 |
 | 115 | [Velvetine](https://open.spotify.com/track/4840LfK9NqJAwfFTxJIrz2) | [Goran Solkjær](https://open.spotify.com/artist/4TS76DvkB16Zk3uoOTgByQ) | [Velvetine](https://open.spotify.com/album/1BD35jazKq9rYZlKhoM7xM) | 3:45 |
 | 116 | [Con Ojos Cerrados](https://open.spotify.com/track/0ZM4ZmYetI5obeA6bSyx8C) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Con Ojos Cerrados](https://open.spotify.com/album/3w3zoZE8H5efdPfUv3vt4b) | 3:00 |

@@ -6,6 +6,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Cash Money Records Platinum Hits (Vol. 1)",
+        "url": "https://open.spotify.com/album/4By1wfgOxWYviXNnjMngHi"
+      },
+      "artists": [
+        {
+          "name": "Big Tymers",
+          "url": "https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR"
+        },
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283426,
+      "name": "#1 Stunna",
+      "url": "https://open.spotify.com/track/4ONUK5KjdBBNIyzEVCMPOe"
+    },
+    {
+      "album": {
         "name": "Truthfully Speaking",
         "url": "https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0"
       },
@@ -79,7 +105,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 261986,
       "name": "B R Right (feat. Ludacris)",
       "url": "https://open.spotify.com/track/7iKXO3oCFiiZRniwAJaGa4"
@@ -271,13 +297,35 @@
           "url": "https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA"
         },
         {
+          "name": "Xscape",
+          "url": "https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175893,
+      "name": "Bounce With Me (feat. Xscape) - Edited Album Version",
+      "url": "https://open.spotify.com/track/5jZfGxZDayFA1HzYmyOG3a"
+    },
+    {
+      "album": {
+        "name": "Beware Of Dog",
+        "url": "https://open.spotify.com/album/5KATmrEcK3H89geDdPBzLO"
+      },
+      "artists": [
+        {
+          "name": "Bow Wow",
+          "url": "https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA"
+        },
+        {
           "name": "Snoop Dogg",
           "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 223266,
       "name": "Bow Wow (That's My Name) (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/5nwzfbcg8RPyZB72WwQBWA"
@@ -295,7 +343,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 212440,
       "name": "Bug a Boo (H-Town Screwed Mix)",
       "url": "https://open.spotify.com/track/3iZizHVmWHdaJbvcU65S6x"
@@ -353,7 +401,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 387493,
       "name": "Cha Cha Slide - Original Live Platinum Band Mix",
       "url": "https://open.spotify.com/track/0RC2B9uIITHA0wtDFfQk3K"
@@ -507,10 +555,36 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 301186,
       "name": "Do That... - Main",
       "url": "https://open.spotify.com/track/2UuYX9gpimgG9woC5cnfV9"
+    },
+    {
+      "album": {
+        "name": "Trapped In Crime",
+        "url": "https://open.spotify.com/album/7MDd3o71CPSVTi3F58gWVu"
+      },
+      "artists": [
+        {
+          "name": "C-Murder",
+          "url": "https://open.spotify.com/artist/4135eJjHCRw5SuVzLfzR0x"
+        },
+        {
+          "name": "Magic",
+          "url": "https://open.spotify.com/artist/5RszwcBlHzry6slQ9LRcSw"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225373,
+      "name": "Down For My Niggaz",
+      "url": "https://open.spotify.com/track/6SSJcmQgBEvHqqCivyVfqG"
     },
     {
       "album": {
@@ -770,6 +844,24 @@
     },
     {
       "album": {
+        "name": "Mr Vegas: The Hits",
+        "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211333,
+      "name": "Heads High",
+      "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
       },
@@ -789,6 +881,46 @@
       "duration_ms": 312626,
       "name": "Hit 'Em Up - Single Version",
       "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
+    },
+    {
+      "album": {
+        "name": "The Notorious K.I.M.",
+        "url": "https://open.spotify.com/album/1C3I7LjJaNnY5VQE59iWtb"
+      },
+      "artists": [
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "Sisqo",
+          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "How Many Licks? (feat. Sisqo)",
+      "url": "https://open.spotify.com/track/5jv3QxL0MFswzM1UJ2qQJM"
+    },
+    {
+      "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229826,
+      "name": "Hypnotize - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
     },
     {
       "album": {
@@ -899,6 +1031,28 @@
       "duration_ms": 201813,
       "name": "Indian Flute (feat. Sebastian & Raje Shwari)",
       "url": "https://open.spotify.com/track/2Y28AeUQPTx6UqWJImdPTf"
+    },
+    {
+      "album": {
+        "name": "Vol. 3... Life And Times Of S. Carter",
+        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274160,
+      "name": "Is That Yo Bitch",
+      "url": "https://open.spotify.com/track/5PhUfEu7VYoIFgJQh1KprV"
     },
     {
       "album": {
@@ -1152,6 +1306,32 @@
     },
     {
       "album": {
+        "name": "Money, Power & Respect",
+        "url": "https://open.spotify.com/album/1fkGVz3LWxjax7F0Mrj3f5"
+      },
+      "artists": [
+        {
+          "name": "The LOX",
+          "url": "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+        },
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270493,
+      "name": "Money, Power & Respect (feat. DMX & Lil' Kim)",
+      "url": "https://open.spotify.com/track/3MbBa8FMMgp9D39s7Cozl9"
+    },
+    {
+      "album": {
         "name": "Aaliyah",
         "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
       },
@@ -1163,7 +1343,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 229866,
       "name": "More Than A Woman",
       "url": "https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq"
@@ -1354,6 +1534,32 @@
     },
     {
       "album": {
+        "name": "Quest For Fire: Firestarter Vol. 1",
+        "url": "https://open.spotify.com/album/37hfyOQ5XtPYS3vmKhNXSu"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        },
+        {
+          "name": "Jully Black",
+          "url": "https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd"
+        },
+        {
+          "name": "IRS",
+          "url": "https://open.spotify.com/artist/6JvriP1azOkMgaD2x8l1DF"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279293,
+      "name": "Ol' Time Killin'",
+      "url": "https://open.spotify.com/track/43X3PKoTrWnlwDflqY9fVt"
+    },
+    {
+      "album": {
         "name": "Miss E... So Addictive",
         "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
       },
@@ -1391,7 +1597,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 203786,
       "name": "One, Two Step (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
@@ -1533,7 +1739,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 194293,
       "name": "Put Your Hands Where My Eyes Could See",
       "url": "https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH"
@@ -1551,7 +1757,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 286426,
       "name": "Raise Up",
       "url": "https://open.spotify.com/track/02GwPAncasVL82yC7y2hmN"
@@ -1602,6 +1808,28 @@
     },
     {
       "album": {
+        "name": "State Property",
+        "url": "https://open.spotify.com/album/5HvGCzaasK8eiRtzDoohkv"
+      },
+      "artists": [
+        {
+          "name": "Beanie Sigel",
+          "url": "https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50"
+        },
+        {
+          "name": "Freeway",
+          "url": "https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263186,
+      "name": "Roc The Mic",
+      "url": "https://open.spotify.com/track/5WHAySW7mtAKHsaUh9N1Rr"
+    },
+    {
+      "album": {
         "name": "Let's Get Ready",
         "url": "https://open.spotify.com/album/388lv1ynvLzyJooZsNmf0l"
       },
@@ -1617,6 +1845,24 @@
       "duration_ms": 256973,
       "name": "Shake Ya Ass",
       "url": "https://open.spotify.com/track/1jRzdY7oUBOhrylNtiMtBD"
+    },
+    {
+      "album": {
+        "name": "Simon Says",
+        "url": "https://open.spotify.com/album/2hKCg2JLGtjATrYvpQedT5"
+      },
+      "artists": [
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173159,
+      "name": "Simon Says",
+      "url": "https://open.spotify.com/track/67IvfvAMYQzJEeHopvwMMW"
     },
     {
       "album": {
@@ -1701,7 +1947,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 239786,
       "name": "Take Ya Home",
       "url": "https://open.spotify.com/track/6GdX30E1389PWOcayiiPQE"
@@ -1781,7 +2027,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 253733,
       "name": "Thong Song",
       "url": "https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD"
@@ -1857,7 +2103,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 243733,
       "name": "U Know What's Up (feat. Lisa \"Left Eye\" Lopes)",
       "url": "https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2"
@@ -2143,6 +2389,24 @@
       "duration_ms": 287906,
       "name": "You Owe Me (feat. Ginuwine)",
       "url": "https://open.spotify.com/track/2VqjCBJ4AxpDTrNRKhL0Pw"
+    },
+    {
+      "album": {
+        "name": "Ghetto Fabolous",
+        "url": "https://open.spotify.com/album/6hl66Nlqoeppdm0dRpYA02"
+      },
+      "artists": [
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Young'n",
+      "url": "https://open.spotify.com/track/0jdkdbnRwNVHJQ6zL84pQs"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX62HvDmsP7Md"

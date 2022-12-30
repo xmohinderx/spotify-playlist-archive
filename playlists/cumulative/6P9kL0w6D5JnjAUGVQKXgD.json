@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 198399,
       "name": "(Never Gonna) Be Alone",
       "url": "https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK"
@@ -1631,7 +1631,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 138750,
       "name": "Apple Juice (feat. Carla Monroe) - MOTi Remix",
       "url": "https://open.spotify.com/track/6fIgsZFtGXiIvxb2Y6oCc7"
@@ -2507,6 +2507,28 @@
       "duration_ms": 194761,
       "name": "Believer",
       "url": "https://open.spotify.com/track/1Ckah0ICBG4AoAY0x6LbSF"
+    },
+    {
+      "album": {
+        "name": "Bella Ciao",
+        "url": "https://open.spotify.com/album/5d1XsHb8rXS0LtRMPjVxfX"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172477,
+      "name": "Bella Ciao",
+      "url": "https://open.spotify.com/track/4oXP6haPK2dorhIBHvBgKU"
     },
     {
       "album": {
@@ -4511,6 +4533,24 @@
       "duration_ms": 211666,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/7BPw9h8vCIX94N0rjFU12S"
+    },
+    {
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254871,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
     },
     {
       "album": {
@@ -8311,7 +8351,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 185193,
       "name": "Feel The Vibe",
       "url": "https://open.spotify.com/track/12RAnp0xkdW22UGfgejElE"
@@ -12761,7 +12801,7 @@
       ],
       "date_added": "2020-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 156960,
       "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
       "url": "https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84"
@@ -12849,7 +12889,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 228000,
       "name": "In My Arms",
       "url": "https://open.spotify.com/track/2mdwMr3FpQ333pFs0brbST"
@@ -13161,7 +13201,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Infinity - Dubdogz & Bhaskar Edit",
       "url": "https://open.spotify.com/track/4ekDggjElGJX9kNSOtnbVf"
@@ -13183,7 +13223,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 212280,
       "name": "Infinity 2018",
       "url": "https://open.spotify.com/track/3jaFTrMgWgrY5wZQqJwMKN"
@@ -13311,7 +13351,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-22",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "Instagram DJ",
       "url": "https://open.spotify.com/track/0yjpmYwnCcG3fhw2hZ7z4N"
@@ -15499,7 +15539,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 190955,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4VhdCS7iCaYM81NZaeA72I"
@@ -17313,7 +17353,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 151680,
       "name": "Move",
       "url": "https://open.spotify.com/track/77nsopvS2oakiCcvVZaZLV"
@@ -22279,7 +22319,7 @@
       ],
       "date_added": "2020-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 153600,
       "name": "Say Say Say (Waiting 4 U) - Steff da Campo & 71 Digits Radio Mix",
       "url": "https://open.spotify.com/track/3Ns7GYmCWy4DLI3e6yRE5d"
@@ -24639,7 +24679,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 401815,
       "name": "Sugar Rush",
       "url": "https://open.spotify.com/track/0Rdjv1tZ5TC02GXhRFACcD"
@@ -26087,7 +26127,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-02-01",
+      "date_removed": null,
       "duration_ms": 197227,
       "name": "The World We Left Behind (feat. KARRA)",
       "url": "https://open.spotify.com/track/1tpJ6wdE1jOg8aThxas4oR"
@@ -26695,7 +26735,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-01",
+      "date_removed": null,
       "duration_ms": 174186,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/2WGCtCxVwf1UmnKHA0SxrQ"
@@ -26757,7 +26797,7 @@
       ],
       "date_added": "2020-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 173203,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3A2waEDfZQfl6RNOn8Y1xW"
@@ -28845,7 +28885,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 228188,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/4mr00M5jfoSwK4oCUzCISj"

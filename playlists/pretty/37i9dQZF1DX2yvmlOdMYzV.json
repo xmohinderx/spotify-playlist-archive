@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 829168,
+  "num_followers": 829674,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAyNDg2OCwwMDAwMDAwMDU1ZmU1N2I3OTU2YTQ2NDQxNGZlZTRiNTQzOTFhYTkz",
+  "snapshot_id": "MTY2ODAyNDg2OCwwMDAwMDAwMGRhM2I2YTZhNTI2NTk4MjViYTg4YWZhMDMxYTkxNWM3",
   "tracks": [
     {
       "added_at": "2022-11-09 20:14:28",
@@ -203,26 +203,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Tiffany Gouch\u00e9",
-          "url": "https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Queen Tings",
-      "url": "https://open.spotify.com/track/5tkR9JkBj3Ueeo8W4k8IZD"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Morning Matters",
         "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 227000,
       "name": "Skin Tight (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Tiffany Gouch\u00e9",
+          "url": "https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Queen Tings",
+      "url": "https://open.spotify.com/track/5tkR9JkBj3Ueeo8W4k8IZD"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "Lost In June - EP",
+        "url": "https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 239767,
+      "name": "Heavenly Mother",
+      "url": "https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "Not Waving, But Drowning",
         "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 220401,
       "name": "Desoleil (Brilliant Corners)",
       "url": "https://open.spotify.com/track/5rYTMjVkGioNF4MpSQISlg"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "Lost In June - EP",
-        "url": "https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 239767,
-      "name": "Heavenly Mother",
-      "url": "https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Pronounced McGee",
-        "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 310597,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 201933,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0pMs1gXODWwGQ1pK3qKVtz"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Pronounced McGee",
+        "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 310597,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Travel Light",
-        "url": "https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y"
-      },
-      "artists": [
-        {
-          "name": "Children of Zeus",
-          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
-        }
-      ],
-      "duration_ms": 207987,
-      "name": "Hard Work",
-      "url": "https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Daughter of the Sun",
         "url": "https://open.spotify.com/album/3rQaTiH5vbjKcI0KoL1olN"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 222115,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/3KdqW7vrStW0VIp1Pfk0cq"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Travel Light",
+        "url": "https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y"
+      },
+      "artists": [
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "duration_ms": 207987,
+      "name": "Hard Work",
+      "url": "https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/0tgZwo1Li7rgLBzSEF2eIh"
-      },
-      "artists": [
-        {
-          "name": "Manwolves",
-          "url": "https://open.spotify.com/artist/6RCI4WXRwG9jnRHZgzBYFr"
-        }
-      ],
-      "duration_ms": 239425,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/3u0s2L2nv0gUuDwLlVi4qH"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Honeycomb",
         "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 204324,
       "name": "I'm a Rock",
       "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/0tgZwo1Li7rgLBzSEF2eIh"
+      },
+      "artists": [
+        {
+          "name": "Manwolves",
+          "url": "https://open.spotify.com/artist/6RCI4WXRwG9jnRHZgzBYFr"
+        }
+      ],
+      "duration_ms": 239425,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3u0s2L2nv0gUuDwLlVi4qH"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "Loverboy",
+        "url": "https://open.spotify.com/album/6b4zVp76pVqlDU7WQrho22"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 238122,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/1x9UiIdgnqRr9weFqFD8Pb"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "Lava/Treacle",
         "url": "https://open.spotify.com/album/6jPzSHELKtpjfV9GOnTy1k"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 201253,
       "name": "Lava/Treacle",
       "url": "https://open.spotify.com/track/227jTRlttZd3Qjoe1cdtmb"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "Loverboy",
-        "url": "https://open.spotify.com/album/6b4zVp76pVqlDU7WQrho22"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 238122,
-      "name": "Loverboy",
-      "url": "https://open.spotify.com/track/1x9UiIdgnqRr9weFqFD8Pb"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Demos",
-        "url": "https://open.spotify.com/album/2HatDWFqyd2cFNHX7wX7Yp"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 237405,
-      "name": "Drifty",
-      "url": "https://open.spotify.com/track/3dJSC3yIV69Afxvme5qf5d"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Verbs (feat. Steve Lacy)",
         "url": "https://open.spotify.com/album/7oh3RIfZdxMGTNgkN6HBNB"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 213800,
       "name": "Verbs (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/53cvnLRalWWOb42dcHL0yZ"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Demos",
+        "url": "https://open.spotify.com/album/2HatDWFqyd2cFNHX7wX7Yp"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 237405,
+      "name": "Drifty",
+      "url": "https://open.spotify.com/track/3dJSC3yIV69Afxvme5qf5d"
     },
     {
       "added_at": "2022-11-09 20:14:28",

@@ -2,9 +2,9 @@
 
 ### [Dancehall Station](https://open.spotify.com/playlist/37i9dQZF1DX9QYRS3EMTFh)
 
-> Les hits dancehall du moment\. Photo : Tribal Kush
+> Les hits dancehall du moment\. Photo : Jahyanai
 
-182 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
+183 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Dancehall Wine](https://open.spotify.com/track/1UFUC9QOnQQPf6g5cAdsWX) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Dancehall Wine](https://open.spotify.com/album/5aolARGoUHmdVDWuOQxIjb) | 3:29 | 2022-11-03 | 2022-11-18 |
 | [Dancehall Wine](https://open.spotify.com/track/6ra6I1zN1PXRhTocLdaIfo) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Dancehall Wine](https://open.spotify.com/album/6wW1nEfVxqFVjJpeAXEKQO) | 3:29 | 2022-02-24 | 2022-11-11 |
 | [Don Dadda](https://open.spotify.com/track/211zeYpya3uYHNlFzTKc9v) | [DJ Moiz](https://open.spotify.com/artist/5cjU6BX3PuLO7f510Fa65P), [Leftside](https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr) | [Don Dadda](https://open.spotify.com/album/3dDGAjup8cc6F4Kx6VxzjE) | 2:09 | 2021-12-22 | 2022-03-18 |
-| [Doni Moun Ma](https://open.spotify.com/track/3UeCGsTAIf7lZQevVSJsAk) | [Takana Zion](https://open.spotify.com/artist/53zVWdQS2Crw7SYi28Vamh) | [Doni Moun Ma](https://open.spotify.com/album/6KdHRNDcxS2fJSOjnwJ97r) | 2:40 | 2022-12-08 |  |
+| [Doni Moun Ma](https://open.spotify.com/track/3UeCGsTAIf7lZQevVSJsAk) | [Takana Zion](https://open.spotify.com/artist/53zVWdQS2Crw7SYi28Vamh) | [Doni Moun Ma](https://open.spotify.com/album/6KdHRNDcxS2fJSOjnwJ97r) | 2:40 | 2022-12-08 | 2022-12-30 |
 | [Douce comme l'aloco](https://open.spotify.com/track/12eCla0Dc4Ki5jejarfxVg) | [Yelsha](https://open.spotify.com/artist/5i7fohl7VTuGVVn5o9BXQo), [GO GO GO](https://open.spotify.com/artist/4LahtNGtJiYUVUTw6yjR8f) | [Douce comme l'aloco](https://open.spotify.com/album/2HwyYfkQ3BEaWRmPnVoGZA) | 2:24 | 2022-12-15 |  |
 | [Down](https://open.spotify.com/track/0gGnXH7QOZZEZWfdyCOSri) | [FLAVAONE](https://open.spotify.com/artist/2GFWpFyxWhrhyv7tDM1Hg8), [Leftside](https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr) | [Down](https://open.spotify.com/album/0lEXDwuGHhm6AWWdxc3Uxn) | 2:37 | 2022-01-27 | 2022-05-21 |
 | [drink & smoke](https://open.spotify.com/track/2ELkJexSujeKTkEAJzcKow) | [Daly](https://open.spotify.com/artist/3f9kMCz94xuAamS24WbmGL), [Reyel Ay](https://open.spotify.com/artist/7ArndI9V96Y7AXKQ4O54FH) | [drink & smoke](https://open.spotify.com/album/2u3sxrg3hYMlcUgWBgGO4w) | 3:10 | 2022-12-22 |  |
@@ -169,6 +169,7 @@
 | [Sweet Bounce](https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Sweet Bounce](https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3) | 1:36 | 2022-06-16 | 2022-08-26 |
 | [Take A Shot](https://open.spotify.com/track/1ZwB1v284TPLEc6IU6O01O) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Take A Shot](https://open.spotify.com/album/4q3SkgQNK3BMwEOjFULRql) | 2:32 | 2021-12-22 | 2022-03-11 |
 | [TAPE MEASURE](https://open.spotify.com/track/1cplEBWw9Vft6ibCPSFCxp) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Emancipated](https://open.spotify.com/album/7ce1HCzYF5AMlYsM639YlN) | 2:50 | 2022-08-25 | 2022-10-28 |
+| [Tek Jam](https://open.spotify.com/track/5Z2XXc8L1j6aXXE3ZMaJVF) | [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Tek Jam](https://open.spotify.com/album/4Zk6hph7AuXjcf189rcWXx) | 3:31 | 2022-12-29 |  |
 | [The Harder They Fall](https://open.spotify.com/track/6AxSYAHq0U6fKykB7uScPl) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [The Harder They Fall \(The Motion Picture Soundtrack\)](https://open.spotify.com/album/3whjvbBxG7j2FfTImRdqBw) | 2:48 | 2022-01-06 | 2022-05-13 |
 | [The One](https://open.spotify.com/track/75DRmgr7StSIMJqIDN2jHH) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [The One](https://open.spotify.com/album/2FhG2P32MEmsTHr4t0I7ht) | 2:52 | 2022-11-17 |  |
 | [Throwback \(feat\. Jnr Choi & Blackway\)](https://open.spotify.com/track/5IGJfLJRtJ5GYlQuOi2pBy) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi) | [Throwback \(feat\. Jnr Choi & Blackway\)](https://open.spotify.com/album/1d4aZ0J5JQpUTCr9IH4xkk) | 2:25 | 2022-07-07 | 2022-08-26 |

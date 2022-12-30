@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,838 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,785 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 29 | [I Still Believe In Christmas](https://open.spotify.com/track/61m5ozWPHO2TgxNCdqizvl) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [I Still Believe In Christmas](https://open.spotify.com/album/6G85UPaNcCZ1bELHNzOEIF) | 3:48 |
 | 30 | [God Made A Way](https://open.spotify.com/track/6FRr6Qo9MGvJIPUo15a4ax) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj), [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [God Made A Way](https://open.spotify.com/album/1sHDvHOITzgodxNW43WUtR) | 3:30 |
 | 31 | [The Christmas Song](https://open.spotify.com/track/0C2AvaDXgN5SHi3YOTsV5E) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [The Christmas Song](https://open.spotify.com/album/0cxMc8IiLNNgysi4F9zRxV) | 4:30 |
-| 32 | [He Shall Reign Forevermore](https://open.spotify.com/track/1ygVwpAVFvnkDqxto6eitX) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 2:56 |
-| 33 | [Mary & Joseph](https://open.spotify.com/track/0R1RPMrUi4pNPbI9cLlOc2) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Mary & Joseph](https://open.spotify.com/album/6pPITZmKTHNMS6kf5FV70D) | 4:05 |
+| 32 | [Mary & Joseph](https://open.spotify.com/track/0R1RPMrUi4pNPbI9cLlOc2) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Mary & Joseph](https://open.spotify.com/album/6pPITZmKTHNMS6kf5FV70D) | 4:05 |
+| 33 | [He Shall Reign Forevermore](https://open.spotify.com/track/1ygVwpAVFvnkDqxto6eitX) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 2:56 |
 | 34 | [Make Room \(feat\. Matt Maher\)](https://open.spotify.com/track/2S7l1NX9bWLm0fgg8hhWYR) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [It's Finally Christmas \- EP](https://open.spotify.com/album/6yYrcNXcSslKmDkR2sfm6Q) | 4:26 |
 | 35 | [Christmas Is Here \- Radio Edit](https://open.spotify.com/track/0Z6NbNX43bPaHylvR2yvCV) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Christmas at Home](https://open.spotify.com/album/4KKfJWr1DHk7eM50RzyxQF) | 3:01 |
 | 36 | [This Year For Christmas](https://open.spotify.com/track/19DeHNpOPLVntLXYDxtB02) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas](https://open.spotify.com/album/1TzI5wwnlBtglKMxIW0Bx7) | 3:30 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 89 | [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/5ml63298Svg1LYyZ3W3wjy) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/5t1YZCA2GLWvWfhhFc3Dx6) | 3:01 |
 | 90 | [Noel \- Live](https://open.spotify.com/track/08isGd2M7LhvFIrh4hNwJ7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Adore: Christmas Songs Of Worship \(Deluxe Edition/Live\)](https://open.spotify.com/album/6wOdF5DJPo31iR9b9rEn6o) | 4:17 |
 | 91 | [Star of Wonder \(Radio Mix\)](https://open.spotify.com/track/5Npya8YSjhDnZGWgAkxAbv) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Wake up the World \(Bonus Track Version\)](https://open.spotify.com/album/7tP74b6iPiQQGzUbZks1K0) | 3:07 |
-| 92 | [O Come, O Come Emmanuel](https://open.spotify.com/track/4FcOhKK1tPr1QlT181Yzbi) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Peace On Earth](https://open.spotify.com/album/6AwF2s3lEGd6Mjvu1xy249) | 4:06 |
+| 92 | [Prince Of Heaven](https://open.spotify.com/track/4Ukgts8jEXRnQkC2Qmem6A) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Christmas: The Peace Project](https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o) | 6:12 |
 | 93 | [Into the Silent Night](https://open.spotify.com/track/4iO58g1avsDxYztLwpyCg6) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Into The Silent Night \(Extended\)](https://open.spotify.com/album/72K9NLsisYGlynNMb1ywMB) | 3:18 |
-| 94 | [Prince Of Heaven](https://open.spotify.com/track/4Ukgts8jEXRnQkC2Qmem6A) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Christmas: The Peace Project](https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o) | 6:12 |
-| 95 | [Gloria](https://open.spotify.com/track/4hEybo6zpRz7Tffjfln4xA) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Christmas Sessions](https://open.spotify.com/album/5ekIltuFIN3m09eOBSWpF3) | 4:13 |
-| 96 | [His Name Shall Be](https://open.spotify.com/track/1rhs3UZ8J2xXbrJnbOqRPa) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [These Christmas Lights](https://open.spotify.com/album/5pgUIgHDhjfGe2rGunmU7a) | 5:16 |
+| 94 | [O Come, O Come Emmanuel](https://open.spotify.com/track/4FcOhKK1tPr1QlT181Yzbi) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Peace On Earth](https://open.spotify.com/album/6AwF2s3lEGd6Mjvu1xy249) | 4:06 |
+| 95 | [His Name Shall Be](https://open.spotify.com/track/1rhs3UZ8J2xXbrJnbOqRPa) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [These Christmas Lights](https://open.spotify.com/album/5pgUIgHDhjfGe2rGunmU7a) | 5:16 |
+| 96 | [Gloria](https://open.spotify.com/track/4hEybo6zpRz7Tffjfln4xA) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Christmas Sessions](https://open.spotify.com/album/5ekIltuFIN3m09eOBSWpF3) | 4:13 |
 | 97 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6J2CmPOqOD3Bdi5rf9u4zc) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 4:13 |
 | 98 | [The Prayer](https://open.spotify.com/track/5a92b8VExfvFZIUl2YQwjQ) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [The Prayer](https://open.spotify.com/album/7d1FBSYh0Kl91TJ3Nspaxl) | 4:31 |
 | 99 | [All Glory Be to Christ](https://open.spotify.com/track/02GNfO1O7d0Rx3tGcvfuIP) | [Kings \(MHM\)](https://open.spotify.com/artist/64bkd3Cql2VeQBIfl5tjCC) | [Joy Has Dawned](https://open.spotify.com/album/7jfGMR3tcoRYefoNxst4w8) | 4:06 |
 | 100 | [Before the King](https://open.spotify.com/track/7ncXTtHMsR1BI6GjHG9mxk) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD), [Madison Watkins](https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT) | [Before the King](https://open.spotify.com/album/2h1OcTgV8kOHmgDt9L9iZA) | 4:41 |
 
-Snapshot ID: `MTY3MDcyMjA2MywwMDAwMDAwMGU5OWY5NGNkMzNiMTZkZGU1MDUyY2UxZDIxZDUxNDM0`
+Snapshot ID: `MTY3MDcyMjA2MywwMDAwMDAwMDYwZjFmODQ1MmRjYTIwYTYwYzcyMzQ5OTk5MTJlZDI1`

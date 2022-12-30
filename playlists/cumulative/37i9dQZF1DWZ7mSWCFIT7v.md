@@ -4,7 +4,7 @@
 
 > Laid back electronic soundscapes rooted in experimental and ambient sensibilities.
 
-287 songs - 23 hr 38 min - [published](https://open.spotify.com/playlist/6KKCtKWPCrKLZ3W8ZVtimv)
+288 songs - 23 hr 40 min - [published](https://open.spotify.com/playlist/6KKCtKWPCrKLZ3W8ZVtimv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Aural Drift \- T.Raumschmiere Remix](https://open.spotify.com/track/5f9weZ5oyuZRKA1riM5vpu) | [Martin Merz](https://open.spotify.com/artist/0lIOPkFJhKVldKHdz9zsTb), [T.Raumschmiere](https://open.spotify.com/artist/58ZRFHI9f72MNGA77F6OCA) | [Aural Drift \(T.Raumschmiere Remix\)](https://open.spotify.com/album/1txyyFVgTh2zuMAObmT8W7) | 5:47 | 2022-02-16 |  |
 | [Authenticated Krell](https://open.spotify.com/track/3TTyEO1WFusWo5HaSeokt6) | [Wobbly](https://open.spotify.com/artist/0qNnLmgWCSxj07xjEmz5aN) | [Popular Monitress](https://open.spotify.com/album/1XFvHUAZbwfqsPZZReEVSt) | 3:30 | 2021-10-06 | 2022-07-28 |
 | [Badwater Psalm \- Khotin Remix](https://open.spotify.com/track/5SekNmby1zOV9m9wB2d7ZO) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0), [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Badwater Psalm \(Khotin Remix\)](https://open.spotify.com/album/2ylpTfBEFSetAZHwTT0jIK) | 6:00 | 2021-10-06 | 2022-07-29 |
-| [Badwater Psalm \- Khotin Remix](https://open.spotify.com/track/5g1o2X09PYouRGkp13SaQu) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0), [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Badwater Psalm \(Khotin Remix\)](https://open.spotify.com/album/7KziNRnIuC3gccBpsjS28W) | 6:00 | 2021-10-06 |  |
+| [Badwater Psalm \- Khotin Remix](https://open.spotify.com/track/5g1o2X09PYouRGkp13SaQu) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0), [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Badwater Psalm \(Khotin Remix\)](https://open.spotify.com/album/7KziNRnIuC3gccBpsjS28W) | 6:00 | 2021-10-06 | 2022-12-30 |
 | [Bakehouse 30/6](https://open.spotify.com/track/2RPwNWSHXBBxMoTlTLBnSR) | [Third Space](https://open.spotify.com/artist/4lrrni4g5Ll7Yltviu2JRH), [R\. Rebeiro](https://open.spotify.com/artist/4Ypve6UjlQ7h0mn4RYZu1X) | [Scissor Kick](https://open.spotify.com/album/7likK32KV3yK8grCMicTWQ) | 4:42 | 2022-09-21 | 2022-11-10 |
 | [Be Like Water](https://open.spotify.com/track/2QguXTW3RL8qIsfjwPxAP3) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Be Like Water](https://open.spotify.com/album/4Clt0IUyxEg4Z6rn0W50Ly) | 3:48 | 2021-10-06 | 2022-07-29 |
 | [Bergen](https://open.spotify.com/track/6AhRffpaXubqSn4lHMfmyk) | [Ertoz](https://open.spotify.com/artist/4d7FnTdZG753sLDlnOOzOH) | [Bergen](https://open.spotify.com/album/1iDL1GIkT2T7EkXUwcw7Xy) | 5:50 | 2021-10-06 | 2022-07-26 |
@@ -165,6 +165,7 @@
 | [Morning Sun](https://open.spotify.com/track/1Si3jjKdNox3btMEcfRx0V) | [Below Clouds](https://open.spotify.com/artist/28Ml3ItdZ6mbi1q7X8hvfw) | [Morning Sun](https://open.spotify.com/album/3RRzxZkIeB5CLtTm7Fl2Lv) | 5:42 | 2022-04-12 | 2022-07-29 |
 | [Mountain](https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB) | 2:15 | 2021-10-06 |  |
 | [Muckbirth](https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Muckbirth](https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y) | 3:17 | 2021-10-06 |  |
+| [Nannou \- Mixed](https://open.spotify.com/track/3dgD602JCmRmFm95pOXCtz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Nannou \(Mixed\)](https://open.spotify.com/album/4UiRbLnV7kPBhXhyEnr1S2) | 1:55 | 2022-12-30 |  |
 | [Niffler](https://open.spotify.com/track/1UgC3l3kRvZSj1l94QnJ8b) | [Yilan](https://open.spotify.com/artist/7o1UX2zZS5cu7uwcQ5hVao), [Ren](https://open.spotify.com/artist/7J5Y3wpzYedPu0w7ZMrKgw) | [Suddenly I Am Falling](https://open.spotify.com/album/2BordD7HRLKpTukyPxetBN) | 6:27 | 2021-10-06 | 2022-07-26 |
 | [NLL561606933](https://open.spotify.com/track/1sxkvvUTGKcRoY3IYnKyRb) | [Aleksi Perälä](https://open.spotify.com/artist/3hjBVvW03HcmXfKUipv1Fx) | [Simulation](https://open.spotify.com/album/542oFPILAI1UiGnoHH8XyH) | 4:54 | 2021-10-06 | 2022-07-29 |
 | [NRG Remains](https://open.spotify.com/track/0OsNfb4otfIOdHSUt40ecP) | [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Grial](https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X) | 2:56 | 2021-10-06 | 2022-07-22 |

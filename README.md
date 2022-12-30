@@ -293,6 +293,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [AMAPIANO grooves](/playlists/pretty/37i9dQZF1DX5mILnBJLA26.md)
 - [AMPLIFIKA](/playlists/pretty/37i9dQZF1DX95vhptNy3YE.md)
 - [AMY](/playlists/pretty/3QAT1vJA7CAIHIRP9Gkyqj.md)
+- [AMÉMÉ DJ Mix](/playlists/pretty/37i9dQZF1DX7Wo3VLsu4cA.md)
 - [ANNA's DJ Mix](/playlists/pretty/37i9dQZF1DWSXhGIsh9lqr.md)
 - [API Pride](/playlists/pretty/37i9dQZF1DX7eWGbr5dV3X.md)
 - [APIHM Takeover: Alok Menon](/playlists/pretty/37i9dQZF1DXaBIwevZ5Lux.md)

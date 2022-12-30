@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Moji x Sboy
+> Le meilleur du rap français version cloud\. Photo : So La Lune
 
-126 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
+127 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [DOPE & FLOW](https://open.spotify.com/track/2xEtaNqgy2PogrwrY4GjuJ) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [CITÉS D'OR](https://open.spotify.com/album/0SHzFt4bn69jklshAtcDu3) | 2:46 | 2022-07-14 | 2022-07-29 |
 | [Encre noire](https://open.spotify.com/track/0bk75qIrxgJ0FEGbgOzJUg) | [Seventiine](https://open.spotify.com/artist/6e8flkZ70WOzklwhYol7qA) | [Encre noire](https://open.spotify.com/album/3RVlLLK6BbaGeNZBCAaGjO) | 2:49 | 2022-07-21 | 2022-10-14 |
 | [Energy](https://open.spotify.com/track/3nN9fK77Fd7UvVKngaNSpE) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Émotions éphémères](https://open.spotify.com/album/7Kj4sIbP6sLyLLOVyzpt31) | 2:48 | 2022-07-14 | 2022-07-29 |
+| [Entouré](https://open.spotify.com/track/0QCYP1iOuCR01mwtWkmZSd) | [Kevni](https://open.spotify.com/artist/02WdyNlw433XSxlOPC7FhA) | [Entouré](https://open.spotify.com/album/3yDoo7wmxIX6MRwKSMY2bL) | 3:24 | 2022-12-29 |  |
 | [Et Toi](https://open.spotify.com/track/1dKMbHYfQld5oGdGsKX3nP) | [Rifa](https://open.spotify.com/artist/7syrxKncMH592h3hwq0elv) | [Et Toi](https://open.spotify.com/album/1fYdxA0MikkymfSFfgkFpt) | 3:26 | 2022-12-01 |  |
 | [Exit \#04 \- Stamina](https://open.spotify.com/track/12ToBtXfEzb2rynwmEF7qF) | [Max DLG](https://open.spotify.com/artist/7sI6IzovX4PHV7Lqw9SsCw) | [Exit \#04 \- Stamina](https://open.spotify.com/album/6gvFCctC0yznRQk1EJGMbk) | 3:23 | 2022-09-08 | 2022-11-11 |
 | [Fascinant](https://open.spotify.com/track/0dth6miXmg495OA7IAhQSZ) | [Omar Syco](https://open.spotify.com/artist/64rNevpGXVZnB4ziGC2nHz) | [Fascinant](https://open.spotify.com/album/5PNZdbRpC6mzLSHy2rgjBC) | 2:42 | 2022-11-17 |  |
@@ -53,7 +54,7 @@
 | [FLOKI \- Dysphoria](https://open.spotify.com/track/3vnQXpeuOqmRmYGqX7coFy) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [FLOKI \(Dysphoria\)](https://open.spotify.com/album/0vy4bHNPlmpab87j9X5v2C) | 3:16 | 2022-12-15 |  |
 | [FLOWERS](https://open.spotify.com/track/6tTDh7lYRhLKR7ICg0uzuf) | [Moji x Sboy](https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i) | [FLOWERS](https://open.spotify.com/album/0nCjlr4JE2J1joj6D1S37w) | 2:20 | 2022-10-06 | 2022-12-24 |
 | [Follow me](https://open.spotify.com/track/4e31rlOaeBSQ4lHj3kFzeM) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Follow me](https://open.spotify.com/album/3xR9aS1Ofxxjvm4iNGT1s4) | 2:48 | 2022-10-13 | 2022-12-02 |
-| [GRENADE](https://open.spotify.com/track/0WZ7TQn8MJnzRxKdxWlpdN) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [GRENADE](https://open.spotify.com/album/2CW4ULev9mQurLEpFHdovg) | 2:56 | 2022-07-14 |  |
+| [GRENADE](https://open.spotify.com/track/0WZ7TQn8MJnzRxKdxWlpdN) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [GRENADE](https://open.spotify.com/album/2CW4ULev9mQurLEpFHdovg) | 2:56 | 2022-07-14 | 2022-12-30 |
 | [Gris](https://open.spotify.com/track/3g7084K6EoChR796wdRo0i) | [Efef](https://open.spotify.com/artist/0WkzVE8cmwZsoX60nRJfVc) | [Gris](https://open.spotify.com/album/2NTfLcNxztzpilWFqdTqFh) | 3:03 | 2022-11-17 |  |
 | [Gros mega](https://open.spotify.com/track/1z1kLrnuYTLdXoSKWYE9Fy) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Clairobscur 2](https://open.spotify.com/album/2JlgRagGV3G37C4Db5bPH1) | 2:34 | 2022-07-14 | 2022-12-02 |
 | [GUCCI \(feat\. F430\) \[jet\]](https://open.spotify.com/track/3K88jIpeWTdAQYRyqfitHD) | [S\-Pion](https://open.spotify.com/artist/3lcaxkgcJetq348VioG0s6), [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Solide](https://open.spotify.com/album/0yoNKisaw3XF1u6iDZig6S) | 2:18 | 2022-11-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 2048,
+  "num_followers": 2064,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1NjI3MSwwMDAwMDAwMDVkYzViZDNiOTQ5NTcxNzI5ZWYyZWM3NmE3YWEyMmQ1",
+  "snapshot_id": "MTY2NDY1NjI3MSwwMDAwMDAwMDEwZWM2MjMwZmI5YTM1OGI2YTA5YzBmZWM4NDExZmM5",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -543,26 +543,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Die 4 Respect",
-        "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        }
-      ],
-      "duration_ms": 176043,
-      "name": "Treat Me Right",
-      "url": "https://open.spotify.com/track/1K7fLNnA0T0hotZlJDqr78"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Blessed, I Guess",
         "url": "https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL"
       },
@@ -579,26 +559,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "My Life 4Hunnid",
-        "url": "https://open.spotify.com/album/3g2sgN6wC92EwuEA9hLbH0"
+        "name": "Die 4 Respect",
+        "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
       },
       "artists": [
         {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
         }
       ],
-      "duration_ms": 216953,
-      "name": "Surgery",
-      "url": "https://open.spotify.com/track/3RniWkfPXJGxxM4IeBBRCe"
+      "duration_ms": 176043,
+      "name": "Treat Me Right",
+      "url": "https://open.spotify.com/track/1K7fLNnA0T0hotZlJDqr78"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -623,6 +599,30 @@
       "duration_ms": 189813,
       "name": "I Like (feat. Karlae & Coi Leray)",
       "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "My Life 4Hunnid",
+        "url": "https://open.spotify.com/album/3g2sgN6wC92EwuEA9hLbH0"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 216953,
+      "name": "Surgery",
+      "url": "https://open.spotify.com/track/3RniWkfPXJGxxM4IeBBRCe"
     },
     {
       "added_at": "2022-10-01 20:31:11",

@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 815,
+  "num_followers": 826,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE5NjUwOCwwMDAwMDAwMDcwNjJhMjMwNzI4M2JlYjQ5MmM5MDJmMjE1OWRjMTdi",
+  "snapshot_id": "MTY3MTE5NjUwOCwwMDAwMDAwMGU3NmE1MzZhZjEwODgzMDUzY2EyMzBiMzA5MDI2NmZh",
   "tracks": [
     {
       "added_at": "2022-11-24 20:59:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
-        "name": "Sweet Pain",
-        "url": "https://open.spotify.com/album/7reN9E16zjBQdFnsUJnpbj"
+        "name": "Nikizipata",
+        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
       },
       "artists": [
         {
-          "name": "Kayumba",
-          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 222119,
-      "name": "Nimegonga",
-      "url": "https://open.spotify.com/track/4SeJF14PnQOeCr5OM4Yqwj"
+      "duration_ms": 180000,
+      "name": "Nikizipata",
+      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
     },
     {
       "added_at": "2022-09-01 20:59:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
-        "name": "Nikizipata",
-        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
+        "name": "Sweet Pain",
+        "url": "https://open.spotify.com/album/7reN9E16zjBQdFnsUJnpbj"
       },
       "artists": [
         {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+          "name": "Kayumba",
+          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Nikizipata",
-      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
+      "duration_ms": 222119,
+      "name": "Nimegonga",
+      "url": "https://open.spotify.com/track/4SeJF14PnQOeCr5OM4Yqwj"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -391,6 +391,22 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
+        "name": "Ujaulamba",
+        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 333975,
+      "name": "Ujaulamba",
+      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
         "name": "Hujanikomoa",
         "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 359026,
       "name": "Hujanikomoa",
       "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
-        "name": "Chawa",
-        "url": "https://open.spotify.com/album/3Lh0ZnfFmi3uaGZ4mVjeo7"
-      },
-      "artists": [
-        {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
-        }
-      ],
-      "duration_ms": 254908,
-      "name": "Chawa",
-      "url": "https://open.spotify.com/track/5pLhsPqqPdySGA0nOxkHmO"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
+        "name": "Chawa",
+        "url": "https://open.spotify.com/album/3Lh0ZnfFmi3uaGZ4mVjeo7"
+      },
+      "artists": [
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        }
+      ],
+      "duration_ms": 254908,
+      "name": "Chawa",
+      "url": "https://open.spotify.com/track/5pLhsPqqPdySGA0nOxkHmO"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
         "name": "Nalimwaga",
         "url": "https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 224906,
       "name": "Nalimwaga",
       "url": "https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
-        "name": "Ujaulamba",
-        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 333975,
-      "name": "Ujaulamba",
-      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
-        "name": "Poaa",
-        "url": "https://open.spotify.com/album/4SkM8MD6ClaCC3e8ePKehm"
-      },
-      "artists": [
-        {
-          "name": "Bamba Pana, Makaveli",
-          "url": "https://open.spotify.com/artist/5pNtipGqlJhqyNscXUwaST"
-        }
-      ],
-      "duration_ms": 278233,
-      "name": "Linga Linga - feat. Makaveli",
-      "url": "https://open.spotify.com/track/0SdkwQbcTyK99k3jExpWre"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
         "name": "Sanamu La Michelini",
         "url": "https://open.spotify.com/album/5cKSAOEgMgvIdOmNfOqFWG"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 233866,
       "name": "Sanamu La Michelini",
       "url": "https://open.spotify.com/track/4izbp6tGtMpur0Dw05Wmql"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
+        "name": "Poaa",
+        "url": "https://open.spotify.com/album/4SkM8MD6ClaCC3e8ePKehm"
+      },
+      "artists": [
+        {
+          "name": "Bamba Pana, Makaveli",
+          "url": "https://open.spotify.com/artist/5pNtipGqlJhqyNscXUwaST"
+        }
+      ],
+      "duration_ms": 278233,
+      "name": "Linga Linga - feat. Makaveli",
+      "url": "https://open.spotify.com/track/0SdkwQbcTyK99k3jExpWre"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -687,22 +687,18 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
-        "name": "Status",
-        "url": "https://open.spotify.com/album/1mt4GI9A1Msw42jevPqCqk"
+        "name": "Sawa Nitaacha",
+        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
       },
       "artists": [
         {
-          "name": "Mzee wa Bwax",
-          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
-        },
-        {
-          "name": "Tamimu",
-          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
         }
       ],
-      "duration_ms": 248853,
-      "name": "Status",
-      "url": "https://open.spotify.com/track/7qk0HfhXHEYQQzoZ6caYQM"
+      "duration_ms": 218197,
+      "name": "Sawa Nitaacha",
+      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -719,22 +715,6 @@
       "duration_ms": 349880,
       "name": "Chura Superstar",
       "url": "https://open.spotify.com/track/14xLOCMIFzks6x7H1lTDqg"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
-        "name": "Sawa Nitaacha",
-        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 218197,
-      "name": "Sawa Nitaacha",
-      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -777,6 +757,26 @@
       "url": "https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi"
     },
     {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
+        "name": "Status",
+        "url": "https://open.spotify.com/album/1mt4GI9A1Msw42jevPqCqk"
+      },
+      "artists": [
+        {
+          "name": "Mzee wa Bwax",
+          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
+        },
+        {
+          "name": "Tamimu",
+          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
+        }
+      ],
+      "duration_ms": 248853,
+      "name": "Status",
+      "url": "https://open.spotify.com/track/7qk0HfhXHEYQQzoZ6caYQM"
+    },
+    {
       "added_at": "2022-09-08 20:59:00",
       "album": {
         "name": "Singeli Twista",
@@ -795,6 +795,22 @@
       "duration_ms": 204252,
       "name": "Singeli Twista",
       "url": "https://open.spotify.com/track/1vnuVFj87g3klSEBWkciXV"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
+        "name": "Chura Wangu",
+        "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 187895,
+      "name": "Chura Wangu",
+      "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -831,22 +847,6 @@
       "duration_ms": 211371,
       "name": "Niwataje",
       "url": "https://open.spotify.com/track/7qPJAWnwWTDp5jIe7OXbBP"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
-        "name": "Chura Wangu",
-        "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 187895,
-      "name": "Chura Wangu",
-      "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -927,8 +927,8 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
-        "name": "Naijua Iyo",
-        "url": "https://open.spotify.com/album/5hFZHndJ4KsuuO8I3BWiuj"
+        "name": "Mamu Remix",
+        "url": "https://open.spotify.com/album/0BLcM5UfOvQHCmDTHSfdkK"
       },
       "artists": [
         {
@@ -936,13 +936,13 @@
           "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
         },
         {
-          "name": "Mchina Mweusi",
-          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
+          "name": "Mr Blue",
+          "url": "https://open.spotify.com/artist/6LZKOSFfFwfHgZAYXmbfi9"
         }
       ],
-      "duration_ms": 226560,
-      "name": "Naijua Iyo",
-      "url": "https://open.spotify.com/track/4pQMjjsGtqvLzayIyhValX"
+      "duration_ms": 371880,
+      "name": "Mamu Remix - Remix",
+      "url": "https://open.spotify.com/track/7pzSnR2pGiDsjDjjBYOP7O"
     }
   ],
   "unique_name": "Singeli Sounds",

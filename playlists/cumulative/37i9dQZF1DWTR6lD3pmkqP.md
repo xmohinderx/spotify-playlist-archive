@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-481 songs - 1 day 16 hr 57 min - [published](https://open.spotify.com/playlist/52ZpPLnxkLdZ3FTl62Dt96)
+482 songs - 1 day 17 hr 1 min - [published](https://open.spotify.com/playlist/52ZpPLnxkLdZ3FTl62Dt96)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Hipokryzja](https://open.spotify.com/track/6K5e7uO2mBpEhCRvDC2vLZ) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Kwasy I Zasady](https://open.spotify.com/album/4ifNAcgkbn2z3hFIJsgjEr) | 3:00 | 2022-01-06 |  |
 | [Homecoming](https://open.spotify.com/track/0WvsBl7xLf9Iw8hJDd0Hn7) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Homecoming](https://open.spotify.com/album/6tRERARmJsDqovki0TswC9) | 4:16 | 2021-12-16 | 2022-11-21 |
 | [Homecoming](https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 4:16 | 2022-02-10 |  |
-| [Honey Caturra](https://open.spotify.com/track/4DSNN0ESNucsjPJDUu2Tyr) | [jarjarjr](https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W) | [College Music Presents: Back on Track](https://open.spotify.com/album/4gyR4uReoyljtfVH7VyjL4) | 2:46 | 2022-02-10 |  |
+| [Honey Caturra](https://open.spotify.com/track/4DSNN0ESNucsjPJDUu2Tyr) | [jarjarjr](https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W) | [College Music Presents: Back on Track](https://open.spotify.com/album/4gyR4uReoyljtfVH7VyjL4) | 2:46 | 2022-02-10 | 2022-12-30 |
 | [How Much A Dollar Cost \- Live](https://open.spotify.com/track/7pir7yODG14aokbUa5cKWz) | [R+R=NOW](https://open.spotify.com/artist/6YwDgZxJVXO6N24VU8XMU5) | [How Much A Dollar Cost \(Live\)](https://open.spotify.com/album/3pXaVIbmk9qhjurZy4dP0d) | 4:07 | 2021-12-16 | 2022-07-29 |
 | [How Much A Dollar Cost \- Live](https://open.spotify.com/track/6bXpRiUtGoBG2T4R7nfVXq) | [R+R=NOW](https://open.spotify.com/artist/6YwDgZxJVXO6N24VU8XMU5), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes), [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [R+R=Now Live](https://open.spotify.com/album/5tKVgcTumS8Nz7xSdeWnCv) | 4:07 | 2022-02-10 |  |
 | [Human Nature \(Trio Extension\)](https://open.spotify.com/track/6vT6GhO6th2JE3NBQRlhKL) | [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Stephan Crump](https://open.spotify.com/artist/4nJDD9jIfsXuY93Kvx7bgT), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo) | [Accelerando](https://open.spotify.com/album/2FaaNlVFsJ74lmrOazjZFF) | 9:39 | 2022-04-01 |  |
@@ -468,6 +468,7 @@
 | [Water dance](https://open.spotify.com/track/7EIBAt7FlRV80h3W0QfgEb) | [Why Kai](https://open.spotify.com/artist/7tg5rMAg9EFqGveXIzJyvC) | [Water dance](https://open.spotify.com/album/6tDV1bmn58zifNPb6WbVP4) | 5:41 | 2021-12-16 |  |
 | [We Are Many](https://open.spotify.com/track/5ZlpFprbeqNU8ye8mPomAX) | [Soothsayers](https://open.spotify.com/artist/4iJspDSUsyFWGNada2wdVx) | [We Are Many](https://open.spotify.com/album/70h4SD70wNkNpbPkIG4unt) | 4:41 | 2021-12-16 |  |
 | [We Go Again](https://open.spotify.com/track/1ZuM7USvEryCw7eDwAvhTw) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [We Go Again](https://open.spotify.com/album/4MKG9oZywXfTaITZ9swOB1) | 4:22 | 2021-12-16 | 2022-12-25 |
+| [We Go Again](https://open.spotify.com/track/1wwNaXc795mdzPCeeK3zkp) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Intra\-I](https://open.spotify.com/album/6Px8YAjvVSlADuUJIF4DF6) | 4:22 | 2022-02-10 |  |
 | [We've Landed \- Cool Cats Mix](https://open.spotify.com/track/5nj3HWzjJyyUaC6cmNv1k0) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [We've Landed \(Cool Cats Mix\)](https://open.spotify.com/album/48INAU3B2XSXmn0ncF5b2y) | 4:37 | 2021-12-16 |  |
 | [What Goes Around](https://open.spotify.com/track/4u7AYRHsl7LLbBqgQ6LDtK) | [Dave Holland Quintet](https://open.spotify.com/artist/7cdMZZcvl7T7MqlcE2CF1C) | [Not For Nothin'](https://open.spotify.com/album/06PCUADbEU6XAm9bpZY7zE) | 13:04 | 2022-04-01 | 2022-06-06 |
 | [What's the Matter](https://open.spotify.com/track/2t4Jta1l1mONdzyMAhjvYf) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [What's the Matter](https://open.spotify.com/album/5sqBcX9zowe2A8la0IdQkC) | 2:21 | 2021-12-16 |  |

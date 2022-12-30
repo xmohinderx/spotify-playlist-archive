@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 32687,
+  "num_followers": 32775,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1ODkyMywwMDAwMDAwMGM0MGFkMmFkYmQwZTVlODcxYWRkYTYzNGRlYzAyODE1",
+  "snapshot_id": "MTY3MTU1ODkyMywwMDAwMDAwMDJhMzRhMDBmNmQ5YjM3YWIyNzcxY2JkYzM2NDM5YmNk",
   "tracks": [
     {
       "added_at": "2022-12-20 17:55:23",
@@ -299,22 +299,18 @@
     {
       "added_at": "2022-12-20 17:55:23",
       "album": {
-        "name": "Bluesbreakers",
-        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
+        "name": "The Very Best of Jimmy Reed",
+        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
       },
       "artists": [
         {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
         }
       ],
-      "duration_ms": 147560,
-      "name": "Steppin' Out",
-      "url": "https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0"
+      "duration_ms": 169306,
+      "name": "Shame, Shame, Shame",
+      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
     },
     {
       "added_at": "2022-12-20 17:55:23",
@@ -355,18 +351,22 @@
     {
       "added_at": "2022-12-20 17:55:23",
       "album": {
-        "name": "The Very Best of Jimmy Reed",
-        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
+        "name": "Bluesbreakers",
+        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
       "artists": [
         {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 169306,
-      "name": "Shame, Shame, Shame",
-      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
+      "duration_ms": 147560,
+      "name": "Steppin' Out",
+      "url": "https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0"
     },
     {
       "added_at": "2022-12-20 17:55:23",
@@ -807,18 +807,22 @@
     {
       "added_at": "2022-12-20 17:55:23",
       "album": {
-        "name": "Baby We're Through",
-        "url": "https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU"
+        "name": "Take It Back",
+        "url": "https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL"
       },
       "artists": [
         {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 236543,
-      "name": "Baby We're Through",
-      "url": "https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F"
+      "duration_ms": 335226,
+      "name": "Take It Back",
+      "url": "https://open.spotify.com/track/0EBCSoTMmj0Gf0aOkZ6Hx1"
     }
   ],
   "unique_name": "Upbeat Blues",

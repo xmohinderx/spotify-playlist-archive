@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-852 songs - 19 hr 59 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
+853 songs - 20 hr 0 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,6 +539,7 @@
 | [Peace Is the Only Way](https://open.spotify.com/track/0vJCt2jnOAwSUm5XeEf7PW) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Aura](https://open.spotify.com/album/0FVU6l8yPL1RaowRNaGux0) | 1:37 | 2022-01-20 |  |
 | [Peace on the Water](https://open.spotify.com/track/0SqbAQ3G3BTnOWEurcBDno) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Grateful Hearts](https://open.spotify.com/album/1zFFBWzfLyAI2hesLvb6gV) | 1:32 | 2022-01-20 |  |
 | [Peaceful And Calm](https://open.spotify.com/track/1Rm9wbsq6n8ysupu43ll5p) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Remembering](https://open.spotify.com/album/5qmhssquVh9HVjWh1Y5lA3) | 1:12 | 2022-01-12 |  |
+| [Peaceful Morning Arr\. For Cello And Piano](https://open.spotify.com/track/1cwa6951efu9e3ycXgTy6G) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Peaceful Morning Arr\. For Cello And Piano](https://open.spotify.com/album/0gOZlaugyiY5eJSFbw5WPF) | 1:01 | 2022-12-29 |  |
 | [Peaceful Reflections](https://open.spotify.com/track/15xvoeHUqHkhZOzbylU2g6) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Peaceful Reflections](https://open.spotify.com/album/2kmbTDEENYriN3fuStkIbw) | 1:01 | 2022-11-01 |  |
 | [Peaceful Silence](https://open.spotify.com/track/4vZrqIZc16vNAhhh4uADPu) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Moments](https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm) | 1:05 | 2022-06-01 |  |
 | [Peaceful Solitude](https://open.spotify.com/track/2V8tWQBB9sPCFZ6zbqQdfo) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Solace](https://open.spotify.com/album/4dP9u4vO1TEht5cxYPU2Uw) | 2:06 | 2022-01-12 |  |

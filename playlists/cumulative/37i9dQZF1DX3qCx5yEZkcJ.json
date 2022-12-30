@@ -1000,6 +1000,24 @@
     },
     {
       "album": {
+        "name": "Carol",
+        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
+      },
+      "artists": [
+        {
+          "name": "ord minami",
+          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Carol",
+      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
+    },
+    {
+      "album": {
         "name": "Hot Water",
         "url": "https://open.spotify.com/album/50VJMCS9rTZOHuyXLbLuL9"
       },
@@ -7433,7 +7451,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 169408,
       "name": "Thoughts of Clouds",
       "url": "https://open.spotify.com/track/01VeL36vmXP8bPI4DGiXsN"

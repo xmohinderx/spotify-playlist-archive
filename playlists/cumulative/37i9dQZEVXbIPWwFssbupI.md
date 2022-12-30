@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,113 songs - 2 day 11 hr 30 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+1,114 songs - 2 day 11 hr 34 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -681,6 +681,7 @@
 | [Memories \(feat\. Kid Cudi\) \- 2021 Remix](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Memories \(feat\. Kid Cudi\) \[2021 Remix\]](https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX) | 2:42 | 2021-03-27\* | 2021-04-26 |
 | [Mendosa \(feat\. Ninho\)](https://open.spotify.com/track/2uo8wd7CvYhsSC8ofXp04R) | [Dadinho](https://open.spotify.com/artist/0zw74GbIgk0thLlMGeQV2H), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Omerta](https://open.spotify.com/album/28GB6jft6rgBrjEnpPpc7C) | 2:45 | 2021-06-13 | 2021-06-14 |
 | [Mental d'or et de platine](https://open.spotify.com/track/0RTnQ1qZ9BHGnO9udzdIs5) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 2:37 | 2021-06-27 | 2021-06-28 |
+| [Merci les bleus](https://open.spotify.com/track/0tFY357QKe2GKvjcWA1kxK) | [KABONGO\-DJ](https://open.spotify.com/artist/3hMFSJWyvWxr5XvsCTikVP), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Merci les bleus](https://open.spotify.com/album/3ifVPOJBoE2k6Y93l9Hb3b) | 4:02 | 2022-12-29 |  |
 | [Merry Christmas](https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa) | 3:28 | 2021-12-25 | 2021-12-27 |
 | [Merry Christmas Everyone](https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Merry Christmas Everyone](https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa) | 3:40 | 2022-12-25 | 2022-12-27 |
 | [Meuda](https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 2:32 | 2022-05-28 |  |
@@ -800,7 +801,7 @@
 | [Petit bateau](https://open.spotify.com/track/2Xik8yGpCNj4sNmpyICKjQ) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Arès](https://open.spotify.com/album/0xs4XLhKpleNSEhDCUhKoD) | 3:32 | 2021-10-17 | 2021-10-18 |
 | [Petit frère](https://open.spotify.com/track/5tSjmJiCwaTHCfRsSYpY0w) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 3:10 | 2021-09-19 | 2021-09-21 |
 | [Petrouchka \(feat\. PLK\)](https://open.spotify.com/track/03y045SZqaC94yfXl1cU4E) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Avec le temps](https://open.spotify.com/album/5TE2SiYrwOUejoaU26rcs8) | 3:09 | 2021-06-06 | 2022-01-04 |
-| [Peur \(feat\. Ziak\)](https://open.spotify.com/track/0S1WhhsVn5wxUngCz5TQnE) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Confiance](https://open.spotify.com/album/2w5XgPL3gv0wlbk78SDMkJ) | 3:09 | 2022-11-05 |  |
+| [Peur \(feat\. Ziak\)](https://open.spotify.com/track/0S1WhhsVn5wxUngCz5TQnE) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Confiance](https://open.spotify.com/album/2w5XgPL3gv0wlbk78SDMkJ) | 3:09 | 2022-11-05 | 2022-12-30 |
 | [Peur \(feat\. Ziak\)](https://open.spotify.com/track/7IXQrRgmHxWYWitSlyFY7z) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Peur \(feat\. Ziak\)](https://open.spotify.com/album/5eL561zvNW6ZwbuOxGMSvR) | 3:10 | 2022-09-24 | 2022-11-06 |
 | [Phénomène](https://open.spotify.com/track/51V8bp8ni9xKKwOmwRfAks) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS) | [Kekra](https://open.spotify.com/album/01BiXX7GWR0MKgrbCordRr) | 3:32 | 2021-04-04 | 2021-04-05 |
 | [Pic et pic, alcool et drame](https://open.spotify.com/track/14M6BbiHt2w9KHVvoIUIUF) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 3:16 | 2021-06-27 | 2022-01-30 |

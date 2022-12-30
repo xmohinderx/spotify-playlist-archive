@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Los Eclipses.",
-  "num_followers": 38402,
+  "num_followers": 38467,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDg1NTY3MCwwMDAwMDAwMDgzMjAxMmQ4MzAwMjY5YTgzYjZjNTEyNDIxZDc2Y2Y4",
+  "snapshot_id": "MTY3MDg1NTY3MCwwMDAwMDAwMDc1NjFiZTM1M2JkYzJiZTIzODZhYzdlZjE2ZGU3YjUw",
   "tracks": [
     {
       "added_at": "2022-12-09 21:20:30",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-12-09 21:20:30",
       "album": {
-        "name": "pikito",
-        "url": "https://open.spotify.com/album/33CyjR8qCG48VArrgao5Oz"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 180313,
-      "name": "pikito",
-      "url": "https://open.spotify.com/track/7E8gROr7cN79wbxZ4yqL8Z"
-    },
-    {
-      "added_at": "2022-12-09 21:20:30",
-      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 193429,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "added_at": "2022-12-09 21:20:30",
+      "album": {
+        "name": "pikito",
+        "url": "https://open.spotify.com/album/33CyjR8qCG48VArrgao5Oz"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 180313,
+      "name": "pikito",
+      "url": "https://open.spotify.com/track/7E8gROr7cN79wbxZ4yqL8Z"
     },
     {
       "added_at": "2022-12-09 21:20:30",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-12-09 21:20:30",
       "album": {
-        "name": "Amor Variado",
-        "url": "https://open.spotify.com/album/5MdAMEUoYehho4eyLAkVTX"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 126227,
-      "name": "Espinas De Rosas",
-      "url": "https://open.spotify.com/track/1mOm59T1dzILITuOHfnkp1"
-    },
-    {
-      "added_at": "2022-12-09 21:20:30",
-      "album": {
         "name": "Instintos",
         "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 208723,
       "name": "Instintos",
       "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
+    },
+    {
+      "added_at": "2022-12-09 21:20:30",
+      "album": {
+        "name": "Amor Variado",
+        "url": "https://open.spotify.com/album/5MdAMEUoYehho4eyLAkVTX"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 126227,
+      "name": "Espinas De Rosas",
+      "url": "https://open.spotify.com/track/1mOm59T1dzILITuOHfnkp1"
     },
     {
       "added_at": "2022-12-09 21:20:30",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-12-09 21:20:30",
       "album": {
-        "name": "Lejos",
-        "url": "https://open.spotify.com/album/1IVtRPT0lFcFcxBn9XRWon"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 185445,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/4VTS91UQjtt7A8hJQLE466"
-    },
-    {
-      "added_at": "2022-12-09 21:20:30",
-      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 199672,
       "name": "El After",
       "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
+    },
+    {
+      "added_at": "2022-12-09 21:20:30",
+      "album": {
+        "name": "Lejos",
+        "url": "https://open.spotify.com/album/1IVtRPT0lFcFcxBn9XRWon"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 185445,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/4VTS91UQjtt7A8hJQLE466"
     },
     {
       "added_at": "2022-12-09 21:20:30",
@@ -811,26 +811,6 @@
     {
       "added_at": "2022-12-09 21:20:30",
       "album": {
-        "name": "Curriculum Completo",
-        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        },
-        {
-          "name": "Lautaro Lopez",
-          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
-        }
-      ],
-      "duration_ms": 145401,
-      "name": "Curriculum Completo",
-      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
-    },
-    {
-      "added_at": "2022-12-09 21:20:30",
-      "album": {
         "name": "\u00c1ngel",
         "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 138466,
       "name": "M\u00fasica bailando",
       "url": "https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA"
+    },
+    {
+      "added_at": "2022-12-09 21:20:30",
+      "album": {
+        "name": "Curriculum Completo",
+        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        },
+        {
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+        }
+      ],
+      "duration_ms": 145401,
+      "name": "Curriculum Completo",
+      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
     },
     {
       "added_at": "2022-12-09 21:20:30",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-12-09 21:20:30",
       "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ"
-      },
-      "artists": [
-        {
-          "name": "MOSBI",
-          "url": "https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef"
-        }
-      ],
-      "duration_ms": 239965,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V"
-    },
-    {
-      "added_at": "2022-12-09 21:20:30",
-      "album": {
         "name": "1990",
         "url": "https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 100500,
       "name": "1990",
       "url": "https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz"
+    },
+    {
+      "added_at": "2022-12-09 21:20:30",
+      "album": {
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ"
+      },
+      "artists": [
+        {
+          "name": "MOSBI",
+          "url": "https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef"
+        }
+      ],
+      "duration_ms": 239965,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V"
     },
     {
       "added_at": "2022-12-09 21:20:30",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-12-09 21:20:30",
       "album": {
-        "name": "Moncler",
-        "url": "https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9"
-      },
-      "artists": [
-        {
-          "name": "Ters",
-          "url": "https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB"
-        }
-      ],
-      "duration_ms": 186156,
-      "name": "Moncler",
-      "url": "https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1"
-    },
-    {
-      "added_at": "2022-12-09 21:20:30",
-      "album": {
         "name": "me pongo un poco sad",
         "url": "https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 199357,
       "name": "me pongo un poco sad",
       "url": "https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe"
+    },
+    {
+      "added_at": "2022-12-09 21:20:30",
+      "album": {
+        "name": "Moncler",
+        "url": "https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9"
+      },
+      "artists": [
+        {
+          "name": "Ters",
+          "url": "https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB"
+        }
+      ],
+      "duration_ms": 186156,
+      "name": "Moncler",
+      "url": "https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1"
     },
     {
       "added_at": "2022-12-09 21:20:30",

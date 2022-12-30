@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: MD Chefe, DomLaike, Rare G, 4Genesis, Cax Camp",
-  "num_followers": 75725,
+  "num_followers": 75987,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQ2MCwwMDAwMDAwMGViNTNmZmNhNDNhN2UzOTdmM2E5MTQ1ZmEzZWY4Y2U5",
+  "snapshot_id": "MTY3MTc2NDQ2MCwwMDAwMDAwMGY5NzViMTY1MjRkYTQwNTcyZWM4ZjBkZWYyMWQ1MGY1",
   "tracks": [
     {
       "added_at": "2022-12-23 03:01:00",
@@ -559,6 +559,30 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
+        "name": "Rel\u00f3gio",
+        "url": "https://open.spotify.com/album/5uILYUGi75xEwKeRmieFNN"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "duration_ms": 160796,
+      "name": "Rel\u00f3gio",
+      "url": "https://open.spotify.com/track/6HppJU5SojuWGcQ296a4eb"
+    },
+    {
+      "added_at": "2022-12-23 03:01:00",
+      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -587,30 +611,6 @@
       "duration_ms": 238208,
       "name": "Tropa do Mant\u00e9m",
       "url": "https://open.spotify.com/track/3tpfnn4QoKrkzWW20UKili"
-    },
-    {
-      "added_at": "2022-12-23 03:01:00",
-      "album": {
-        "name": "Rel\u00f3gio",
-        "url": "https://open.spotify.com/album/5uILYUGi75xEwKeRmieFNN"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Hash Produ\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
-        }
-      ],
-      "duration_ms": 160796,
-      "name": "Rel\u00f3gio",
-      "url": "https://open.spotify.com/track/6HppJU5SojuWGcQ296a4eb"
     },
     {
       "added_at": "2022-12-23 03:01:00",
@@ -891,22 +891,18 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
-        "name": "Abusad\u00e3o",
-        "url": "https://open.spotify.com/album/0vlgBzPeKCjpXXVEN2D6a6"
+        "name": "Progresso",
+        "url": "https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN"
       },
       "artists": [
         {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
         }
       ],
-      "duration_ms": 176814,
-      "name": "Abusad\u00e3o",
-      "url": "https://open.spotify.com/track/63jalJVpyyGPYvDuTEaFi9"
+      "duration_ms": 161311,
+      "name": "Progresso",
+      "url": "https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm"
     },
     {
       "added_at": "2022-12-23 03:01:00",
@@ -939,18 +935,22 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
-        "name": "Progresso",
-        "url": "https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN"
+        "name": "Abusad\u00e3o",
+        "url": "https://open.spotify.com/album/0vlgBzPeKCjpXXVEN2D6a6"
       },
       "artists": [
         {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         }
       ],
-      "duration_ms": 161311,
-      "name": "Progresso",
-      "url": "https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm"
+      "duration_ms": 176814,
+      "name": "Abusad\u00e3o",
+      "url": "https://open.spotify.com/track/63jalJVpyyGPYvDuTEaFi9"
     },
     {
       "added_at": "2022-12-23 03:01:00",

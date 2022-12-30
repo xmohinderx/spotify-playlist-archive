@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-221 songs - 11 hr 39 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+222 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Ten More Minutes](https://open.spotify.com/track/3SDTgUXz8m2C2b12L7Q5Cg) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Ten More Minutes](https://open.spotify.com/album/0oRDTDNl1lQgvXamU4WlTk) | 3:42 | 2022-02-03 | 2022-09-15 |
 | [The Feeling](https://open.spotify.com/track/5O3ulpsbyoXtjyVdC7Xip4) | [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [The Feeling](https://open.spotify.com/album/31geBMaHgWPfzWmvGuykNz) | 2:28 | 2022-07-22 |  |
 | [The Garden](https://open.spotify.com/track/1WrSQnq6Y8e6jITQ6gG7Jq) | [Lochlainn](https://open.spotify.com/artist/3wgU0KqfQuUNIjqe2ZjOVh) | [The Garden](https://open.spotify.com/album/4notA2r4MNd7pHSxWPdPEN) | 2:54 | 2022-02-03 |  |
+| [The Other Side](https://open.spotify.com/track/5j661JNn79J2mcNrgZZEfW) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [The Other Side](https://open.spotify.com/album/10i8tgXRPvPt3CXxz4p4KL) | 2:39 | 2022-12-29 |  |
 | [The Path](https://open.spotify.com/track/2ijSdxRsWpBjMpZ7HNQD3U) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw), [Agassi](https://open.spotify.com/artist/6Ts1uqQmSrpQ9YedHKrreu) | [The Path](https://open.spotify.com/album/74bnjTLKVFndWnu0gRASDj) | 4:03 | 2022-06-02 |  |
 | [The Revolution \- Arc North Remix](https://open.spotify.com/track/4tjxa3WaYdgVVfVGzkMWAN) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH) | [The Revolution \(Remixed\)](https://open.spotify.com/album/2GeQ0N4tJLvtpVKLLd2M3g) | 3:10 | 2022-02-03 |  |
 | [There's Nobody Else](https://open.spotify.com/track/3VssPt5F9RG40fyiz56bqo) | [Chris Later](https://open.spotify.com/artist/7kOhsEdKbT5rsDVAShrpmq), [Dany Yeager](https://open.spotify.com/artist/6eNcrRzNwtMcyuW0cfYe5u) | [There's Nobody Else](https://open.spotify.com/album/5cm7dJUDOmP6OfAeQxAGbL) | 2:41 | 2022-02-15 |  |

@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-430 songs - 17 hr 31 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+431 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Candles](https://open.spotify.com/track/4L9NChljxi1xu4NdV0Uruo) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Candles](https://open.spotify.com/album/3M69AADOD8W0LbsG523sfh) | 2:15 | 2020-03-27 | 2022-04-21 |
 | [Cargo Rhodes](https://open.spotify.com/track/0IDEOKzwG6towimLfr8DrX) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Orange](https://open.spotify.com/album/4tqNta7RhK5B5uhizhQ077) | 2:29 | 2022-11-17 |  |
 | [Cargo Rhodes](https://open.spotify.com/track/1MmFMp0sgwl7liFDKJdEyY) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Cargo Rhodes / Deliverance](https://open.spotify.com/album/73wgRhPJUpKXr8k49lHVQy) | 2:29 | 2019-06-14 | 2022-07-29 |
+| [Carol](https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [Carol](https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP) | 2:38 | 2022-12-30 |  |
 | [Carpet](https://open.spotify.com/track/1ibe9CpX8y9Q19ajumNm1Z) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Hot Water](https://open.spotify.com/album/50VJMCS9rTZOHuyXLbLuL9) | 2:22 | 2020-01-14 | 2022-12-13 |
 | [Cenario](https://open.spotify.com/track/7KQGUqom3BIzU0UB8XltUN) | [soho](https://open.spotify.com/artist/5rCxM6JMlwyQ3tuds8DqPR) | [Home Grown](https://open.spotify.com/album/2zWWibkLVYNp39mnQoGMJb) | 2:04 | 2019-05-26\* | 2020-01-14 |
 | [Change](https://open.spotify.com/track/7oD6a9yGIHCqtlqIplK4tN) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [Change](https://open.spotify.com/album/7raWI0KFGJ2nVuUbvCkFus) | 1:48 | 2020-11-06 | 2022-07-28 |
@@ -387,7 +388,7 @@
 | [Think of That \- Instrumental](https://open.spotify.com/track/3yzwrzAd1yVnNDVM8NwffW) | [Diabolic](https://open.spotify.com/artist/32syImTOvzksQre9uRT2L8), [Vanderslice](https://open.spotify.com/artist/2FMhVD7t35JnnqunGMQFBu) | [Collusion \(Instrumentals\)](https://open.spotify.com/album/2InE50zkzgleCZWqrn4S1l) | 3:44 | 2019-05-26\* | 2021-05-25 |
 | [Think Twice \- DJ Muro's KG Mix](https://open.spotify.com/track/6k5UnpuaR89WUyCnnhkFKi) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [DJ Muro](https://open.spotify.com/artist/2okA2rcBiuMIWy2BDZhQxX) | [Think Twice \(DJ Muro's Kg Mix\)](https://open.spotify.com/album/7lYmfIRevpDj4iTdF2DKXM) | 3:51 | 2021-01-21 | 2021-10-14 |
 | [this life](https://open.spotify.com/track/3VAhcUf8nWbHn1ystlrvhI) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [CHRONICLES vol.2](https://open.spotify.com/album/13pH777Tb7RjIcnFQfYmoz) | 1:35 | 2020-06-29 | 2022-06-27 |
-| [Thoughts of Clouds](https://open.spotify.com/track/01VeL36vmXP8bPI4DGiXsN) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Thoughts of Clouds](https://open.spotify.com/album/0tMN2shHPg7egNha9COkPC) | 2:49 | 2022-07-28 |  |
+| [Thoughts of Clouds](https://open.spotify.com/track/01VeL36vmXP8bPI4DGiXsN) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Thoughts of Clouds](https://open.spotify.com/album/0tMN2shHPg7egNha9COkPC) | 2:49 | 2022-07-28 | 2022-12-30 |
 | [Thoughts of Clouds](https://open.spotify.com/track/0HvytyhVaAnNA3rgVPZN1i) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Thoughts of Clouds](https://open.spotify.com/album/3kVJK2FVXrdDbbibOEeTTu) | 2:49 | 2020-08-30 | 2022-07-29 |
 | [Thrift](https://open.spotify.com/track/546ckHBwR7rkFAt0O0innA) | [Lunchmoney](https://open.spotify.com/artist/7JD72qpbmGSp9M0uCLOa3D) | [Thrift](https://open.spotify.com/album/2KydSw7npUyOFJOvgewf44) | 1:22 | 2019-05-26\* | 2021-05-28 |
 | [Tica](https://open.spotify.com/track/0TbP8PMzDHZjf5ocW37yto) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8) | [Tica](https://open.spotify.com/album/5jqy8FPbh0CqaprCgCUcMD) | 2:03 | 2020-07-11 | 2021-12-21 |

@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 213833,
+  "num_followers": 213963,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMGM3YmVlZTNmNmU1NjI1MmNiMjNiYzkwNDM2ZDIyNzMy",
+  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDJiN2VkNDRiMWU2Njc5NjdmODQ0YTFhYWY3YTg1Mzk1",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Redbone",
-        "url": "https://open.spotify.com/album/6lwBWMoBmU8rWn0433yyjT"
-      },
-      "artists": [
-        {
-          "name": "Dontcry",
-          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
-        }
-      ],
-      "duration_ms": 102176,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/7cDlVNC3d0RRW4p2qmiMLm"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Theres Still Us",
         "url": "https://open.spotify.com/album/3YjNmDFxVL4IkODiF0cPwp"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 157384,
       "name": "I'm sorry",
       "url": "https://open.spotify.com/track/7pgneFkR3Vb8Q8J1Nheepd"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Redbone",
+        "url": "https://open.spotify.com/album/6lwBWMoBmU8rWn0433yyjT"
+      },
+      "artists": [
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "duration_ms": 102176,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/7cDlVNC3d0RRW4p2qmiMLm"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Harbor",
+        "url": "https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v"
+      },
+      "artists": [
+        {
+          "name": "Tomppabeats",
+          "url": "https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4"
+        }
+      ],
+      "duration_ms": 91504,
+      "name": "Monday Loop",
+      "url": "https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "Who? (feat. Shiloh Dynasty)",
         "url": "https://open.spotify.com/album/6hS1GnERLOTXde2WYhUzCL"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 157507,
       "name": "Who? (feat. Shiloh Dynasty)",
       "url": "https://open.spotify.com/track/1F0a3Au8NIpoRP7PVdO1YR"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Harbor",
-        "url": "https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v"
-      },
-      "artists": [
-        {
-          "name": "Tomppabeats",
-          "url": "https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4"
-        }
-      ],
-      "duration_ms": 91504,
-      "name": "Monday Loop",
-      "url": "https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Aesthetic Girl",
-        "url": "https://open.spotify.com/album/3QgMgH7PvDaVyRCwjrSJOX"
-      },
-      "artists": [
-        {
-          "name": "Yusei",
-          "url": "https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv"
-        }
-      ],
-      "duration_ms": 258144,
-      "name": "Aesthetic Girl",
-      "url": "https://open.spotify.com/track/0bCgcTDkZ1RhguEeuUhZ9k"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "lovesick",
         "url": "https://open.spotify.com/album/6m0DGPzcCmuFwuqguhcAVg"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 150967,
       "name": "lovesick",
       "url": "https://open.spotify.com/track/1aPsdtJUgzeryfKppuYFGA"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Aesthetic Girl",
+        "url": "https://open.spotify.com/album/3QgMgH7PvDaVyRCwjrSJOX"
+      },
+      "artists": [
+        {
+          "name": "Yusei",
+          "url": "https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv"
+        }
+      ],
+      "duration_ms": 258144,
+      "name": "Aesthetic Girl",
+      "url": "https://open.spotify.com/track/0bCgcTDkZ1RhguEeuUhZ9k"
     }
   ],
   "unique_name": "Aesthetic Lofi",

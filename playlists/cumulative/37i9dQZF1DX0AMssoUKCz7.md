@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-554 songs - 1 day 4 hr 45 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+555 songs - 1 day 4 hr 48 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Kuala Lumpur](https://open.spotify.com/track/2gK4qTOtzYQiiOW6I2bXj8) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Kuala Lumpur](https://open.spotify.com/album/4suO8UXZWFxmqEPtabQrCK) | 3:02 | 2022-05-20 | 2022-11-12 |
 | [Kyoto](https://open.spotify.com/track/6Uk70qpuVpIbJYfpgp7FOv) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Huaraz](https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf) | 5:31 | 2022-04-01 | 2022-07-02 |
 | [Kyoto](https://open.spotify.com/track/4N0UHWYEc1DCn1UcsJtfmx) | [Innocent Panda](https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv) | [Kyoto](https://open.spotify.com/album/0gZioMqEBnE55RyVPeoFrS) | 3:40 | 2022-04-01 | 2022-07-30 |
+| [La Alegria](https://open.spotify.com/track/3FG4LCZZH7QfcuneE9wt1L) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2), [Lindal](https://open.spotify.com/artist/2gvjdkmKWJUbFdmAFBQVeR) | [La Alegria](https://open.spotify.com/album/1vH5vMokULPAClIkKZ5Vzv) | 2:31 | 2022-12-30 |  |
 | [Land Down Under](https://open.spotify.com/track/5bAkVFcWMvxfgJ03rBn38s) | [Chachi](https://open.spotify.com/artist/0mpFXzm8CkqkhvN4PLCYkV), [Paige](https://open.spotify.com/artist/30Pq3e28wKKtHVI28o2oY5) | [Land Down Under](https://open.spotify.com/album/0XywQVB10g0VwSZi9FXLp9) | 3:33 | 2022-01-14 | 2022-04-21 |
 | [Last Night](https://open.spotify.com/track/1hrAQcYSB04pglky6NjYRw) | [Buchs](https://open.spotify.com/artist/0JRjFR8wJVtzTungOU3X6V), [Mallou](https://open.spotify.com/artist/0shRX1S8qo6p32ErP9OWwP) | [Last Night](https://open.spotify.com/album/22ZueslBfEy3Ho2JXsFkRb) | 2:24 | 2022-10-14 |  |
 | [Leave a Smile](https://open.spotify.com/track/2Qp0s8Qr7CMynidI7925H2) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Leave a Smile](https://open.spotify.com/album/4PdWkqJdqKB3arKBSI3qkx) | 2:27 | 2022-07-08 |  |
@@ -387,7 +388,7 @@
 | [Photograph](https://open.spotify.com/track/2bq2Ipl9FvcHHoQlPBPFPw) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Fini](https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx) | [Photograph](https://open.spotify.com/album/67NJrGFImrOr9joaz0GZXG) | 2:54 | 2022-09-23 |  |
 | [Place to Go](https://open.spotify.com/track/65yDkqOYwfkeIQYl8ayAGE) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Place to Go](https://open.spotify.com/album/2GPq2njeplRF9QnuASHO98) | 3:03 | 2022-05-13 | 2022-07-29 |
 | [Praise You \(Chill Mix\) \- Extended Mix](https://open.spotify.com/track/4MQH3f29tWW0P0DE6SgOlb) | [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2), [Michael Meaco](https://open.spotify.com/artist/3k9TFkTMa17cpLQLGKxQXV) | [Praise You](https://open.spotify.com/album/0bbF23nbT2Dexsuiok1Yro) | 3:21 | 2022-01-14 | 2022-05-29 |
-| [Probably Paradise](https://open.spotify.com/track/3ASJqw6Ih1vz1s44j7cPyS) | [Luvine](https://open.spotify.com/artist/4mxVvkFC2mmOJ5QXBdRSDy), [Lisa Rowe](https://open.spotify.com/artist/4WCciDwAfaLXtcH4yjfaDq) | [Probably Paradise](https://open.spotify.com/album/1XPGR76SriABi9I1b794RV) | 2:03 | 2022-06-17 |  |
+| [Probably Paradise](https://open.spotify.com/track/3ASJqw6Ih1vz1s44j7cPyS) | [Luvine](https://open.spotify.com/artist/4mxVvkFC2mmOJ5QXBdRSDy), [Lisa Rowe](https://open.spotify.com/artist/4WCciDwAfaLXtcH4yjfaDq) | [Probably Paradise](https://open.spotify.com/album/1XPGR76SriABi9I1b794RV) | 2:03 | 2022-06-17 | 2022-12-30 |
 | [Problems](https://open.spotify.com/track/3GlJE0D0d8TsmcDLaCpVCq) | [Guille Alvarez](https://open.spotify.com/artist/4fe5ql9g8VB9jiBy37SuLY) | [Problems](https://open.spotify.com/album/1tPnmiEsktiEAVMjruALtI) | 2:37 | 2022-08-12 |  |
 | [Promised Land](https://open.spotify.com/track/7vFdMady6yRx1qxCwselLU) | [Saco](https://open.spotify.com/artist/1LnBqMojv6Dv6DoPWTDSZ7), [Sparkle](https://open.spotify.com/artist/7BeoNJ6WZom7jzqdfTxnV8) | [Promised Land](https://open.spotify.com/album/1tDGyFigNB5DaBFJepjvho) | 2:48 | 2022-06-10 |  |
 | [Pull Me](https://open.spotify.com/track/46QfufNUnY25faVWLkohut) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Pull Me](https://open.spotify.com/album/2r7UMwqqkXaw7n9DWNOpSq) | 2:49 | 2022-09-23 | 2022-12-13 |

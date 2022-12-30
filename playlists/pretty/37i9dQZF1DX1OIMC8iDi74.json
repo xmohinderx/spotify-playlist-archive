@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 872484,
+  "num_followers": 872557,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDEzMGY5ZWZmYzFlZDRhNTEzYWUzMGZjMzBkODIxNGFh",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGZiNDlkZWE1ZGQ5ZDgxZGYyZGI1NzQ4NGRlNjIxZTll",
   "tracks": [
     {
       "added_at": "2022-12-02 15:49:35",
@@ -319,6 +319,26 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
+        "name": "You Do You",
+        "url": "https://open.spotify.com/album/6Tk1TJLX2NJUJ03cjxTykN"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "BabyJake",
+          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
+        }
+      ],
+      "duration_ms": 177658,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/2a7kFbxMwmmZWDvH0JbZFU"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
         "name": "Brighter Future",
         "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 228169,
       "name": "All of Me (feat. Logic, ROZES)",
       "url": "https://open.spotify.com/track/3ISiZ0GzocM9ssIwqRn1AW"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
-        "name": "You Do You",
-        "url": "https://open.spotify.com/album/6Tk1TJLX2NJUJ03cjxTykN"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "BabyJake",
-          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
-        }
-      ],
-      "duration_ms": 177658,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/2a7kFbxMwmmZWDvH0JbZFU"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -435,26 +435,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "Reaper (feat. JID)",
-        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Reaper (feat. JID)",
-      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "Westcoast G-House Compilation",
         "url": "https://open.spotify.com/album/1gAz4AJT5hAhSM86RruUn8"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 192941,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "Reaper (feat. JID)",
+        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Reaper (feat. JID)",
+      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "NO TOMORROW",
-        "url": "https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr"
-      },
-      "artists": [
-        {
-          "name": "bear bear & friends",
-          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
-        },
-        {
-          "name": "Gill Chang",
-          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
-        }
-      ],
-      "duration_ms": 174334,
-      "name": "NO TOMORROW",
-      "url": "https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "High Like This",
         "url": "https://open.spotify.com/album/1AHQrn7hhAuNghkFtCXEnD"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 192725,
       "name": "High Like This",
       "url": "https://open.spotify.com/track/3Ukb1tpAsQOdUSVKAW94Cj"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "NO TOMORROW",
+        "url": "https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr"
+      },
+      "artists": [
+        {
+          "name": "bear bear & friends",
+          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
+        },
+        {
+          "name": "Gill Chang",
+          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
+        }
+      ],
+      "duration_ms": 174334,
+      "name": "NO TOMORROW",
+      "url": "https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "MINDDD",
-        "url": "https://open.spotify.com/album/0cvKa2bC4q7tRP5refuzxq"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        },
-        {
-          "name": "Reo Cragun",
-          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
-        }
-      ],
-      "duration_ms": 121681,
-      "name": "MINDDD",
-      "url": "https://open.spotify.com/track/0nSP6p4IfCI6vIy2KJy13m"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "Dale Vuelta",
         "url": "https://open.spotify.com/album/0qZEnwW3OQTuTqUVQI8ABD"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 180000,
       "name": "Dale Vuelta",
       "url": "https://open.spotify.com/track/40tEZ9JmmfpwMUvG2DYgje"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "MINDDD",
+        "url": "https://open.spotify.com/album/0cvKa2bC4q7tRP5refuzxq"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "duration_ms": 121681,
+      "name": "MINDDD",
+      "url": "https://open.spotify.com/track/0nSP6p4IfCI6vIy2KJy13m"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
+        "name": "Out of Order",
+        "url": "https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "duration_ms": 171884,
+      "name": "Out of Order",
+      "url": "https://open.spotify.com/track/4WVQXOAV6OzmI475ZMpbSa"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
         "name": "It's Our Destiny",
         "url": "https://open.spotify.com/album/7rWG1YdbCUi4Kd47eK3sUF"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 153600,
       "name": "It's Our Destiny",
       "url": "https://open.spotify.com/track/0OijABrqIE3h6iDcDjLagm"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
-        "name": "Out of Order",
-        "url": "https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        }
-      ],
-      "duration_ms": 171884,
-      "name": "Out of Order",
-      "url": "https://open.spotify.com/track/4WVQXOAV6OzmI475ZMpbSa"
     }
   ],
   "unique_name": "Trap Mojito",

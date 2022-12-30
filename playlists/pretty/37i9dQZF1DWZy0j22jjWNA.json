@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 73968,
+  "num_followers": 73994,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDhiYjFkOGMzZjIwNDQ4NTU5NmQyYmQ4NzliYzRkNTVi",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGEzNjU1NzVhZjk4YmIzMmIxNzJhMjViOGY4ODk5ZjYw",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Love? Songs",
+        "url": "https://open.spotify.com/album/0ldCKrt8rkkFzdWRiZHczc"
+      },
+      "artists": [
+        {
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2rBIC9Uc5qZeBjJvWulFTN"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Jacob/HTBY",
         "url": "https://open.spotify.com/album/0N1w3fLvgtLH5h8lduHEVe"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 323076,
       "name": "Spark My Heart",
       "url": "https://open.spotify.com/track/4GkzKZVbwUKW83hKk0MfrA"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Love? Songs",
-        "url": "https://open.spotify.com/album/0ldCKrt8rkkFzdWRiZHczc"
-      },
-      "artists": [
-        {
-          "name": "Jordy Searcy",
-          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/2rBIC9Uc5qZeBjJvWulFTN"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Peopled with Dreams",
-        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
       },
       "artists": [
         {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+          "name": "Aalok Bala",
+          "url": "https://open.spotify.com/artist/5Uu7rkbI8eNOsGWFCp5sSM"
         }
       ],
-      "duration_ms": 234558,
-      "name": "Juggernaut",
-      "url": "https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I"
+      "duration_ms": 201487,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
+        "name": "Peopled with Dreams",
+        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
       },
       "artists": [
         {
-          "name": "Aalok Bala",
-          "url": "https://open.spotify.com/artist/5Uu7rkbI8eNOsGWFCp5sSM"
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
         }
       ],
-      "duration_ms": 201487,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
+      "duration_ms": 234558,
+      "name": "Juggernaut",
+      "url": "https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Wildwood Kin",
+        "url": "https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH"
+      },
+      "artists": [
+        {
+          "name": "Wildwood Kin",
+          "url": "https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B"
+        }
+      ],
+      "duration_ms": 246686,
+      "name": "Wake Up Sleeper",
+      "url": "https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "The One Where I Talk To God",
         "url": "https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 198026,
       "name": "Constellate",
       "url": "https://open.spotify.com/track/7JDpA0WUDhFMb4MEsihv7r"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Wildwood Kin",
-        "url": "https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH"
-      },
-      "artists": [
-        {
-          "name": "Wildwood Kin",
-          "url": "https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B"
-        }
-      ],
-      "duration_ms": 246686,
-      "name": "Wake Up Sleeper",
-      "url": "https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "God Who Sees Me",
+        "url": "https://open.spotify.com/album/0kaaq4b14mpk8kl4H0OUFE"
+      },
+      "artists": [
+        {
+          "name": "The Hedgerow Folk",
+          "url": "https://open.spotify.com/artist/3LBXtcf7iF5hyveaDJolc6"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "God Who Sees Me",
+      "url": "https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Volume II",
         "url": "https://open.spotify.com/album/3AnhIErjnYikodOSJXn7wH"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 308883,
       "name": "Suffering Servant",
       "url": "https://open.spotify.com/track/6wcTnA9oBuaQIB3Ke0Sh9X"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "God Who Sees Me",
-        "url": "https://open.spotify.com/album/0kaaq4b14mpk8kl4H0OUFE"
-      },
-      "artists": [
-        {
-          "name": "The Hedgerow Folk",
-          "url": "https://open.spotify.com/artist/3LBXtcf7iF5hyveaDJolc6"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "God Who Sees Me",
-      "url": "https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL"
     },
     {
       "added_at": "2020-09-04 04:02:00",

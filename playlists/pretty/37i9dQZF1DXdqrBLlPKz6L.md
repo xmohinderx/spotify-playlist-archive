@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Blessd
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,950 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,981 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 32 | [Lastima](https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y) | [Lastima](https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05) | 3:43 |
 | 33 | [¿Que Nalgas Son Esas?](https://open.spotify.com/track/2VkFtqDPapy6UaHARdghVS) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [¿Que Nalgas Son Esas?](https://open.spotify.com/album/6LyOSerd3DNwni2WYl2Qzf) | 2:49 |
 | 34 | [Bon Appétit](https://open.spotify.com/track/1QseGaBHU6q2KRPKEWEVrY) | [Reke](https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4) | [Una Sangre, Vol\. 3: Trapicheando](https://open.spotify.com/album/1ZSf5zV02X8P3Xbj9LcIm2) | 4:09 |
-| 35 | [puta otaku](https://open.spotify.com/track/5UZakxsgKAzTTFCNFDbisw) | [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [puta otaku](https://open.spotify.com/album/7jXPV2VCxH64UDQykpgdOH) | 3:00 |
+| 35 | [puta otaku](https://open.spotify.com/track/5UZakxsgKAzTTFCNFDbisw) | [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Gabio](https://open.spotify.com/artist/3iopgrpFB9slx6nJA6AwHo) | [puta otaku](https://open.spotify.com/album/7jXPV2VCxH64UDQykpgdOH) | 3:00 |
 | 36 | [Hennessy](https://open.spotify.com/track/2Cz3yDcBoePfcJCYdpYZCC) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Apokalypsis](https://open.spotify.com/album/396w1nHvgP7SQvdPq4SZya) | 3:49 |
 | 37 | [Tyqc](https://open.spotify.com/track/4IX9LPTkilIwaVKhCjRofn) | [Cabaio](https://open.spotify.com/artist/0yIYD7cBLd9VdHEUQ0fqAJ) | [Tyqc](https://open.spotify.com/album/6gZ2Fz1C2Pmd91IOyerJIv) | 2:55 |
 | 38 | [Solo](https://open.spotify.com/track/1ZQnUiFdrK4sxIJwBtiU1J) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Homies & Music](https://open.spotify.com/album/7AgLyr8Y97Zik2xfyLx30X) | 3:04 |

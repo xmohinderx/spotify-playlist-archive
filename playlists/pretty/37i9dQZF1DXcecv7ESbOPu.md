@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,190 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,215 likes - 90 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 45 | [Aftershock](https://open.spotify.com/track/6LrXmhxFUQYrydfteEEVLU) | [Elevate Me Later](https://open.spotify.com/artist/2mDDVGhqCMtvsB7VNi1mlU) | [Aftershock](https://open.spotify.com/album/5uUPmZoYGBYMpK0v9uqLNP) | 2:41 |
 | 46 | [Miss You So](https://open.spotify.com/track/3eqrkg1G45fOZpkpVycP6g) | [Honey](https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Miss You So](https://open.spotify.com/album/3MU1Xhjs3yfXtmnlEpDE4L) | 2:48 |
 | 47 | [Solo](https://open.spotify.com/track/4WtWbsUpHCIvSUxFbCfM5m) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Gyan Chappory](https://open.spotify.com/artist/7IFRE8unQCJ6Q2Md2OXtM1) | [Solo](https://open.spotify.com/album/0YOEEfwnc5W2YdcAVXLQHQ) | 2:21 |
-| 48 | [Don't Wanna Leave](https://open.spotify.com/track/4T6eni3G9laFNvFmyMAynb) | [Arinity](https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy), [Robertson](https://open.spotify.com/artist/2EzlZPJxXWKsLlQBJUEw28) | [Don't Wanna Leave](https://open.spotify.com/album/7jlKfBppsAB1382hyfSQ1l) | 3:16 |
+| 48 | [Don't Wanna Leave](https://open.spotify.com/track/4T6eni3G9laFNvFmyMAynb) | [Arinity](https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [Don't Wanna Leave](https://open.spotify.com/album/7jlKfBppsAB1382hyfSQ1l) | 3:16 |
 | 49 | [Goodbyes](https://open.spotify.com/track/1DHwzoo2GUAfctjU497vhe) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf), [Eliine](https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk) | [Goodbyes](https://open.spotify.com/album/4IJjpSxu4082epUefUX7at) | 2:43 |
 | 50 | [Don't Need Your Love](https://open.spotify.com/track/22OV1rtW3Szz4IppbAWbBE) | [Samuel Gstro](https://open.spotify.com/artist/1k4WeqCMi9bZ4W0wek7z26) | [Don't Need Your Love](https://open.spotify.com/album/3yNnn71fZbDZ0tKAYo7g6D) | 2:44 |
 | 51 | [Another Love](https://open.spotify.com/track/2dRZ4AEGmWYS8UfWhMjFmK) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Another Love](https://open.spotify.com/album/2EIEZkw0aspcBBZ1sO4xmt) | 2:41 |

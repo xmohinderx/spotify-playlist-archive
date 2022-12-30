@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
 
-426 songs - 19 hr 48 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+427 songs - 19 hr 50 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,8 @@
 | [TAKEN BACK](https://open.spotify.com/track/4WOKM2f2FgbuLPiEqGSlBi) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [TAKEN BACK](https://open.spotify.com/album/6mQgaTQxOJ8HRFD6kQ46qB) | 2:33 | 2022-02-04 | 2022-05-20 |
 | [Talkin Like](https://open.spotify.com/track/6atDGm94dfeC7qwmL3TFoq) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [Talkin Like](https://open.spotify.com/album/2TcwUosUrtDDQHi50Z1PCU) | 2:34 | 2022-01-14 | 2022-06-04 |
 | [Talladega](https://open.spotify.com/track/2CPKo4glbtzTZHZ9kheUaa) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Talladega](https://open.spotify.com/album/3JuasplCKlqgWKIhVStSWn) | 2:36 | 2021-11-16 | 2022-02-26 |
-| [TARGET](https://open.spotify.com/track/6nr0nVNA2sxEyteGiMKAv6) | [KYDRA](https://open.spotify.com/artist/0oAdWtdDFpCh67Jh0YAxCc) | [BACK HOME](https://open.spotify.com/album/2BcFPLYFI5vRGWDhjyKRGC) | 2:07 | 2022-12-16 |  |
+| [Target](https://open.spotify.com/track/0BISpmx11CA0SK6jMFlFZd) | [Jay Portal](https://open.spotify.com/artist/2mE6lFglCyhkrseEcufU0d) | [Target](https://open.spotify.com/album/538oLJYmSNM6UnVwqPtHgQ) | 2:07 | 2022-12-16 |  |
+| [TARGET](https://open.spotify.com/track/6nr0nVNA2sxEyteGiMKAv6) | [KYDRA](https://open.spotify.com/artist/0oAdWtdDFpCh67Jh0YAxCc) | [BACK HOME](https://open.spotify.com/album/2BcFPLYFI5vRGWDhjyKRGC) | 2:07 | 2022-12-16 | 2022-12-30 |
 | [Teammates](https://open.spotify.com/track/4NJaaIIhzLlzGj4dHMb4FO) | [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT), [Heather Grey](https://open.spotify.com/artist/0NHdHKgWjJriXzzufBwSqE) | [Teammates](https://open.spotify.com/album/04ybMaeuitS4ISlJug42dZ) | 2:24 | 2022-04-15 | 2022-05-20 |
 | [Tell Me Lies](https://open.spotify.com/track/2wgZS1aqzg4vdqpBht7mNJ) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Tell Me Lies](https://open.spotify.com/album/7dAOGlF0pZRCgcMqOIuFzC) | 3:26 | 2021-11-16 | 2022-02-19 |
 | [Tequila](https://open.spotify.com/track/7oIkhniXc7nqFejXFrgM5j) | [Jeffers Insley](https://open.spotify.com/artist/5Kl5hPE1d877AIBR4O0kQ2) | [Tequila](https://open.spotify.com/album/1sroqnaDwtAI3WytaisYBr) | 2:42 | 2022-01-05 | 2022-03-26 |

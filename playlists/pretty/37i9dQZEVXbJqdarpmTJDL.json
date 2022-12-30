@@ -1,35 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Greece.",
-  "num_followers": 81058,
+  "num_followers": 81080,
   "original_name": "Top 50 - Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzI1NTQ1MjQ2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzI1NjI2NDk3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-12-28 12:20:46",
-      "album": {
-        "name": "Bossi Claus",
-        "url": "https://open.spotify.com/album/29Q3pQBRQvZTdJHHADGWOz"
-      },
-      "artists": [
-        {
-          "name": "Bossikan",
-          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
-        },
-        {
-          "name": "Chico Beatz",
-          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Bossi Claus",
-      "url": "https://open.spotify.com/track/6N0PJxd5oBMinXWFYK9zo4"
-    },
-    {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Gagarin",
         "url": "https://open.spotify.com/album/7oc13DbROFU3t7TS7TjVhS"
@@ -53,7 +33,27 @@
       "url": "https://open.spotify.com/track/3qFj5MapvQvQH4u1PIVX9n"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
+      "album": {
+        "name": "Bossi Claus",
+        "url": "https://open.spotify.com/album/29Q3pQBRQvZTdJHHADGWOz"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Chico Beatz",
+          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Bossi Claus",
+      "url": "https://open.spotify.com/track/6N0PJxd5oBMinXWFYK9zo4"
+    },
+    {
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "IPIZME",
         "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/5rrbMbJK3LGzQ6B25aBD2r"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "IPIZME",
         "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
@@ -89,27 +89,7 @@
       "url": "https://open.spotify.com/track/2cXQUlkrLVrfxOJe6wjhJb"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
-      "album": {
-        "name": "Tn",
-        "url": "https://open.spotify.com/album/4WNZOYgf1RiVPPiGTK4eln"
-      },
-      "artists": [
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        },
-        {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        }
-      ],
-      "duration_ms": 148677,
-      "name": "Tn",
-      "url": "https://open.spotify.com/track/3ZBjsEi5IF54yXCizKTNdi"
-    },
-    {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -133,7 +113,27 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
+      "album": {
+        "name": "Tn",
+        "url": "https://open.spotify.com/album/4WNZOYgf1RiVPPiGTK4eln"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        }
+      ],
+      "duration_ms": 148677,
+      "name": "Tn",
+      "url": "https://open.spotify.com/track/3ZBjsEi5IF54yXCizKTNdi"
+    },
+    {
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Mystiko",
         "url": "https://open.spotify.com/album/5ruMMEECIHyMLj2geMcKi3"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/7k2h3IHuFUQLclllRPRKTZ"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Forema",
         "url": "https://open.spotify.com/album/7L0CPtSxiCvErPmV2O0VcA"
@@ -169,47 +169,7 @@
       "url": "https://open.spotify.com/track/2WmQtBy5wG8rdeqYhwljNK"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
-      "album": {
-        "name": "Romeo",
-        "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        },
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        }
-      ],
-      "duration_ms": 175472,
-      "name": "24hrs",
-      "url": "https://open.spotify.com/track/2QDibAx72jveQXPBXOKjx2"
-    },
-    {
-      "added_at": "2022-12-28 12:20:46",
-      "album": {
-        "name": "Dope Sport (Vol. 2)",
-        "url": "https://open.spotify.com/album/73s3tfrxtsG4VoS2d0qDO1"
-      },
-      "artists": [
-        {
-          "name": "HGEMONA$",
-          "url": "https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm"
-        },
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Epiloges - Prod. By Skive",
-      "url": "https://open.spotify.com/track/3vKqBFEJWVtJ4rQQLt3Dbe"
-    },
-    {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "ADRENALINA",
         "url": "https://open.spotify.com/album/5llOuE82CLyPvoW9wzM1pb"
@@ -229,7 +189,27 @@
       "url": "https://open.spotify.com/track/0v4BTk3Vlhmfduww4WFOwA"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
+      "album": {
+        "name": "Romeo",
+        "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "duration_ms": 175472,
+      "name": "24hrs",
+      "url": "https://open.spotify.com/track/2QDibAx72jveQXPBXOKjx2"
+    },
+    {
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "RACKATTACK 2",
         "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
@@ -253,7 +233,7 @@
       "url": "https://open.spotify.com/track/0OyiXp4CdjqOYDSpzgfEx7"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "IPIZME",
         "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
@@ -273,7 +253,7 @@
       "url": "https://open.spotify.com/track/2czUL73B83n4VfVeBEfXCs"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Romeo",
         "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
@@ -297,7 +277,27 @@
       "url": "https://open.spotify.com/track/5btENPtD4TAjRGkC4IXafe"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
+      "album": {
+        "name": "Dope Sport (Vol. 2)",
+        "url": "https://open.spotify.com/album/73s3tfrxtsG4VoS2d0qDO1"
+      },
+      "artists": [
+        {
+          "name": "HGEMONA$",
+          "url": "https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Epiloges - Prod. By Skive",
+      "url": "https://open.spotify.com/track/3vKqBFEJWVtJ4rQQLt3Dbe"
+    },
+    {
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "RACKATTACK 2",
         "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/1OGTkqFF8EmYZvDLuHAXsw"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Gaza",
         "url": "https://open.spotify.com/album/07yBePxzS3yEn1MOOrxu4K"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/0yHkbTORVndswYARPdzteN"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/3HX0kjaTKaBiwaBhlZbGNc"
@@ -361,31 +361,7 @@
       "url": "https://open.spotify.com/track/29kTgA9pGo9RYwhED65ZrS"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
-      "album": {
-        "name": "Apothimeno",
-        "url": "https://open.spotify.com/album/0HCMFcYvI1k7DIRUyvguMS"
-      },
-      "artists": [
-        {
-          "name": "Mente Fuerte",
-          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        },
-        {
-          "name": "Issy Beats",
-          "url": "https://open.spotify.com/artist/6symUxu7p0bp1z4kkyFGk6"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "Apothimeno",
-      "url": "https://open.spotify.com/track/5YxvdEAIKhCAPBZNNPnTGe"
-    },
-    {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Dancer",
         "url": "https://open.spotify.com/album/4BlOpO1r4PS3zQ6pK5Otp1"
@@ -409,7 +385,31 @@
       "url": "https://open.spotify.com/track/24Zq6jOHkjoPOQn42ZyRJs"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
+      "album": {
+        "name": "Apothimeno",
+        "url": "https://open.spotify.com/album/0HCMFcYvI1k7DIRUyvguMS"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        },
+        {
+          "name": "Issy Beats",
+          "url": "https://open.spotify.com/artist/6symUxu7p0bp1z4kkyFGk6"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "Apothimeno",
+      "url": "https://open.spotify.com/track/5YxvdEAIKhCAPBZNNPnTGe"
+    },
+    {
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Erotas",
         "url": "https://open.spotify.com/album/20dFOE5kiBCmzEf0GXrXqu"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/1O4LjNjQxnzqECfTKGkko6"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Crystal",
         "url": "https://open.spotify.com/album/2VZw5kZYY6ssrAlRyHGpcY"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/6XK6R1ir3k0iPkwGbmVIEV"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "CC COMMANDOZ",
         "url": "https://open.spotify.com/album/7rCAtdZaRBIxTyNf7Ovlwu"
@@ -465,23 +465,7 @@
       "url": "https://open.spotify.com/track/2Vm1AL0pK6UIvNEiIBxsj0"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
-      "album": {
-        "name": "LET GO",
-        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 174246,
-      "name": "LET GO",
-      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
-    },
-    {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "El Telephone (Remix)",
         "url": "https://open.spotify.com/album/5OYlXWtC3fZjrfW8pV41ME"
@@ -517,43 +501,23 @@
       "url": "https://open.spotify.com/track/5uKsIyOxbFPop0sZ7LmI9J"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5wnROpYlI0LDF5ctSr7Lpj"
+        "name": "LET GO",
+        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
       },
       "artists": [
         {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        },
-        {
-          "name": "Mike G",
-          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 169351,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/2Rpfa4gDFr3q96himB2c3m"
+      "duration_ms": 174246,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
-      "album": {
-        "name": "UNIQUE",
-        "url": "https://open.spotify.com/album/6DeYijcJrAh9jtJubejjIv"
-      },
-      "artists": [
-        {
-          "name": "Rack",
-          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "UNIQUE",
-      "url": "https://open.spotify.com/track/5Tbuk8Mr01Y53EWmrM7D4r"
-    },
-    {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "IPIZME",
         "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
@@ -577,27 +541,43 @@
       "url": "https://open.spotify.com/track/0C11SdO6nuqHDx230fZ2Gh"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
-        "name": "IPIZME",
-        "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
+        "name": "UNIQUE",
+        "url": "https://open.spotify.com/album/6DeYijcJrAh9jtJubejjIv"
       },
       "artists": [
         {
-          "name": "SIDARTA",
-          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
         }
       ],
-      "duration_ms": 158211,
-      "name": "MON AMIE",
-      "url": "https://open.spotify.com/track/1QphVfogCxCARRZLergCjS"
+      "duration_ms": 160312,
+      "name": "UNIQUE",
+      "url": "https://open.spotify.com/track/5Tbuk8Mr01Y53EWmrM7D4r"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/5wnROpYlI0LDF5ctSr7Lpj"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "duration_ms": 169351,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/2Rpfa4gDFr3q96himB2c3m"
+    },
+    {
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Egw & Esy",
         "url": "https://open.spotify.com/album/1zRXNHNn9OahCcQdhG5zwH"
@@ -617,7 +597,27 @@
       "url": "https://open.spotify.com/track/3N2iBFazoTUIvgcqu2PdDZ"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
+      "album": {
+        "name": "IPIZME",
+        "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "duration_ms": 158211,
+      "name": "MON AMIE",
+      "url": "https://open.spotify.com/track/1QphVfogCxCARRZLergCjS"
+    },
+    {
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Money and Drugs Can't Live In Poverty",
         "url": "https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/61BaxNqs8df4B4Vtndb9DE"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "G Walk",
         "url": "https://open.spotify.com/album/7GVxDeeFP1rDvu47uaYeIb"
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/0cOGWQcGaMe5HsGO9AEw25"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "LIBERTA",
         "url": "https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F"
@@ -681,39 +681,7 @@
       "url": "https://open.spotify.com/track/2oAoWaGzQeq8JMywmukQ8J"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
-      "album": {
-        "name": "To Kserw",
-        "url": "https://open.spotify.com/album/18NI1OeqC1x8W3qaOPGXhu"
-      },
-      "artists": [
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "To Kserw",
-      "url": "https://open.spotify.com/track/3vxOiWJAjI6ZS7zVlL6uT7"
-    },
-    {
-      "added_at": "2022-12-28 12:20:46",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/2pSvQv3awiXJjw1IvSVSTY"
-      },
-      "artists": [
-        {
-          "name": "GMARK",
-          "url": "https://open.spotify.com/artist/1bf3cUHhTcwmhtGWKxLttn"
-        }
-      ],
-      "duration_ms": 203454,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/2Hl382Ahx7IV5i2Qfu5m2Q"
-    },
-    {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Crayon",
         "url": "https://open.spotify.com/album/4nPRQeETNSzXAq0Q97hpla"
@@ -729,51 +697,39 @@
       "url": "https://open.spotify.com/track/3Ih2cQKuXvsKOFlhZAnBDW"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
-        "name": "Sold Out",
-        "url": "https://open.spotify.com/album/0ADZrwmBTPsHIVB6s6Ay94"
+        "name": "To Kserw",
+        "url": "https://open.spotify.com/album/18NI1OeqC1x8W3qaOPGXhu"
       },
       "artists": [
         {
-          "name": "Thug Slime",
-          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
-        },
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Sold Out",
-      "url": "https://open.spotify.com/track/0mc6tED7ojUnim6W9Johm4"
+      "duration_ms": 177000,
+      "name": "To Kserw",
+      "url": "https://open.spotify.com/track/3vxOiWJAjI6ZS7zVlL6uT7"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
-        "name": "Kales Douleies",
-        "url": "https://open.spotify.com/album/5QK1QDrX6wirdg6zJP8buo"
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/2pSvQv3awiXJjw1IvSVSTY"
       },
       "artists": [
         {
-          "name": "RICTA",
-          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
-        },
-        {
-          "name": "Night Grind",
-          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
-        },
-        {
-          "name": "City Center",
-          "url": "https://open.spotify.com/artist/0V0TEffOhc8TSKqNyC0sjr"
+          "name": "GMARK",
+          "url": "https://open.spotify.com/artist/1bf3cUHhTcwmhtGWKxLttn"
         }
       ],
-      "duration_ms": 168387,
-      "name": "Salonikios",
-      "url": "https://open.spotify.com/track/718XWLo3fyDFH5RWp5Q5nN"
+      "duration_ms": 203454,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/2Hl382Ahx7IV5i2Qfu5m2Q"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Beverly Hills",
         "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"
@@ -797,7 +753,51 @@
       "url": "https://open.spotify.com/track/0PUzUn6NlCsVeomsUg9SKx"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
+      "album": {
+        "name": "Sold Out",
+        "url": "https://open.spotify.com/album/0ADZrwmBTPsHIVB6s6Ay94"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Sold Out",
+      "url": "https://open.spotify.com/track/0mc6tED7ojUnim6W9Johm4"
+    },
+    {
+      "added_at": "2022-12-29 10:54:57",
+      "album": {
+        "name": "Kales Douleies",
+        "url": "https://open.spotify.com/album/5QK1QDrX6wirdg6zJP8buo"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        },
+        {
+          "name": "City Center",
+          "url": "https://open.spotify.com/artist/0V0TEffOhc8TSKqNyC0sjr"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Salonikios",
+      "url": "https://open.spotify.com/track/718XWLo3fyDFH5RWp5Q5nN"
+    },
+    {
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Saskepticism Vol. 2",
         "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/27GSRTfL7fEnLAEr3fB5YX"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -841,7 +841,23 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
+      "album": {
+        "name": "Ligo Ligo",
+        "url": "https://open.spotify.com/album/1vRQu7kPciIGfVhWABjTnN"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Ligo Ligo",
+      "url": "https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ"
+    },
+    {
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "ALITHIA",
         "url": "https://open.spotify.com/album/5ZciK7pQkN9IS66i5DgFyR"
@@ -857,7 +873,27 @@
       "url": "https://open.spotify.com/track/61sfFpr4TG2fV9PjQlU6vL"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
+      "album": {
+        "name": "Escapism. (Sped Up)",
+        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
+    },
+    {
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Macarena",
         "url": "https://open.spotify.com/album/3GUaXfPTFlQnur4oWrRoXh"
@@ -881,23 +917,27 @@
       "url": "https://open.spotify.com/track/3jP6Yx6d8608AU4aIRJsE2"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
-        "name": "Ligo Ligo",
-        "url": "https://open.spotify.com/album/1vRQu7kPciIGfVhWABjTnN"
+        "name": "We Came for Love",
+        "url": "https://open.spotify.com/album/4cy5728K4dMttPwd0s3Xyv"
       },
       "artists": [
         {
-          "name": "Anastasia",
-          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+          "name": "Solven",
+          "url": "https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd"
+        },
+        {
+          "name": "Phil Phauler",
+          "url": "https://open.spotify.com/artist/3XxDRDfDWOE0jGCMyqZCuf"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Ligo Ligo",
-      "url": "https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ"
+      "duration_ms": 141500,
+      "name": "We Came for Love",
+      "url": "https://open.spotify.com/track/2kIVmLQVNEeZvcH8ZEZmdJ"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Beverly Hills",
         "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"
@@ -913,7 +953,7 @@
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Bossidonas",
         "url": "https://open.spotify.com/album/6BTux1NBoVY2xl7QGwkOMt"
@@ -937,23 +977,7 @@
       "url": "https://open.spotify.com/track/5tbMaO9qbA9dMQnoOtRAUR"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
-      "album": {
-        "name": "RAININ'",
-        "url": "https://open.spotify.com/album/0eshx2V8i4tQ0BVSijrLFr"
-      },
-      "artists": [
-        {
-          "name": "Kidd",
-          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
-        }
-      ],
-      "duration_ms": 170433,
-      "name": "RAININ'",
-      "url": "https://open.spotify.com/track/3EgEvLrJm4lOj8ngFH1Xfb"
-    },
-    {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "RACKATTACK 2",
         "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
@@ -977,27 +1001,7 @@
       "url": "https://open.spotify.com/track/7I6fZpYaW9BjlXJEKFL1Su"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
-      "album": {
-        "name": "Escapism. (Sped Up)",
-        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
-    },
-    {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Den Exw Sima",
         "url": "https://open.spotify.com/album/0ZAB0aiipoAR13uMikO0Si"
@@ -1021,7 +1025,7 @@
       "url": "https://open.spotify.com/track/0VfJj7Z3IQjF6lh5DhQYTs"
     },
     {
-      "added_at": "2022-12-28 12:20:46",
+      "added_at": "2022-12-29 10:54:57",
       "album": {
         "name": "Beverly Hills",
         "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"

@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-449 songs - 1 day 11 hr 56 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+450 songs - 1 day 12 hr 0 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Blessing day](https://open.spotify.com/track/34ngmxZZkoCX55nepWERjC) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD) | [Blessing day](https://open.spotify.com/album/6EUviBJfmgJuMzxpsPqWi8) | 3:05 | 2022-03-31 | 2022-07-29 |
 | [Blink](https://open.spotify.com/track/7d26IhLPUlL4oncFgsms22) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 4:42 | 2022-04-07 |  |
 | [Blue](https://open.spotify.com/track/0Nkqva5H1flf1JtTPpnE84) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Low Power](https://open.spotify.com/album/5dauiDUmBugERmjvcdwRXz) | 3:59 | 2022-03-30 | 2022-07-17 |
+| [Blue](https://open.spotify.com/track/2riD9ftmTbvDyVCvTxMOxR) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Low Power](https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl) | 3:59 | 2022-12-22 |  |
 | [Blue Fox](https://open.spotify.com/track/7wN13OOw6TPVzgQWqGBykx) | [JPC Percussion Museum](https://open.spotify.com/artist/4DWc88I5cqkxIeIGKacNAq), [Midori Takada](https://open.spotify.com/artist/3fuab64Hf1xiRGocX1sT1n) | [JPC ENSEMBLE COLLECTION Vol.9](https://open.spotify.com/album/2e6voibBUPStD2BdbkgyCM) | 8:18 | 2022-04-07 | 2022-04-16 |
 | [Blue Sky And Yellow Sunflower](https://open.spotify.com/track/6Mk96t3t5qR5YJ8ftCW18V) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Symbol](https://open.spotify.com/album/0ntm3YaiXVkkGitWl2XASV) | 3:59 | 2022-07-28 |  |
 | [blue sky and yellow sunflower](https://open.spotify.com/track/3TSK1p0Vi6utUaMnfDWh7Y) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Symbol](https://open.spotify.com/album/1wvp8g8sgOXVeipPMt0UX4) | 3:59 | 2022-03-31 | 2022-07-24 |
@@ -109,7 +110,7 @@
 | [Double Navaho](https://open.spotify.com/track/43pdpo1Um9hZkwjvgNnldH) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Shuta Hasunuma](https://open.spotify.com/album/32iZzdf1avlA3VDi7EAGe6) | 3:52 | 2022-04-16 | 2022-07-14 |
 | [dream](https://open.spotify.com/track/1LEqpez7JsoFDXF5aK4ltb) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [「寝ても覚めても」 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/3CfCfekfpj9TKeFswtqz6Q) | 1:09 | 2022-03-31 | 2022-07-09 |
 | [Drop](https://open.spotify.com/track/1CS8VwIC7qTwfMhXnX59Ny) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Re:](https://open.spotify.com/album/4Z1jNDMJ1v7O38ZlD5wM90) | 4:52 | 2022-04-26 | 2022-07-29 |
-| [Drop](https://open.spotify.com/track/7KzAclQwJ8fcRL1Da0H1tR) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Re:](https://open.spotify.com/album/7osd9qFNGBJn9rZwaHO04e) | 4:52 | 2022-07-28 |  |
+| [Drop](https://open.spotify.com/track/7KzAclQwJ8fcRL1Da0H1tR) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Re:](https://open.spotify.com/album/7osd9qFNGBJn9rZwaHO04e) | 4:52 | 2022-07-28 | 2022-12-30 |
 | [Ear Dreamin'](https://open.spotify.com/track/2b7h7hMkxj5hDorhGfTGoU) | [Yoshiaki Ochi](https://open.spotify.com/artist/13mbePwXckXt3I7My0oypo) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:45 | 2022-04-07 | 2022-07-25 |
 | [Edo\-Komoriuta](https://open.spotify.com/track/5JMoQNOOAIFv483XaNcR1l) | [Takatoshi Naitoh](https://open.spotify.com/artist/07AgOJBTzaTME2JHI8AmJl) | [Han\-Nya\-En: Music Of The Land Of The Rising Sun](https://open.spotify.com/album/1Z7dqtqirDTB9ZUzY1qh3r) | 3:32 | 2022-04-07 | 2022-07-28 |
 | [Emptiness](https://open.spotify.com/track/5uQohtweBDixJ0GmuLKJ7i) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ) | [Emptiness](https://open.spotify.com/album/55EELqIU4hqYygjsvhBSS4) | 3:36 | 2022-04-07 | 2022-05-12 |

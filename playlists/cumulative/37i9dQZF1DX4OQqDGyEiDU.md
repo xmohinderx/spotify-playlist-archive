@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-447 songs - 1 day 1 hr 55 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
+448 songs - 1 day 1 hr 57 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [/ / // / /](https://open.spotify.com/track/3gCPs1TDRH9v9QlF5h3zD5) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [/ / // / /](https://open.spotify.com/album/1MYxlVGsq3RBe5O3Em3xnz) | 2:13 | 2022-08-11 |  |
 | [1/6 \-out of the gravity\- \(feat\. 初音ミク\) \- LIVE](https://open.spotify.com/track/6W2auQBKTSRwCoXuk8DrHi) | [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [初音ミクシンフォニー〜Miku Symphony 2019 オーケストラ ライブ](https://open.spotify.com/album/6xSAG9LXKgsxm3QDc0L7FS) | 4:25 | 2022-06-30 | 2022-07-05 |
 | [39](https://open.spotify.com/track/5ZVKlvVj2I3uvNPXsQTxAW) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1), [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [39](https://open.spotify.com/album/5kGi7b284QLCIhuwXMHnHf) | 3:39 | 2022-07-14 | 2022-07-19 |
-| [39 Music!](https://open.spotify.com/track/7DZrnvfd78FMJgPYa8FSEy) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [39 Music!](https://open.spotify.com/album/22mBVLZToKGQ2Qc4DN6pPP) | 4:25 | 2022-10-20 |  |
+| [39 Music!](https://open.spotify.com/track/7DZrnvfd78FMJgPYa8FSEy) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [39 Music!](https://open.spotify.com/album/22mBVLZToKGQ2Qc4DN6pPP) | 4:25 | 2022-10-20 | 2022-12-30 |
 | [4BLOOD](https://open.spotify.com/track/6iBHIWfoGePzzfww89m2ST) | [KIRA](https://open.spotify.com/artist/11T32AM3Tp0oYZ3PEWHGLZ), [Hatsune Miku](https://open.spotify.com/artist/2AynL2BUHgIk5ApzFVwDIL) | [4BLOOD](https://open.spotify.com/album/047PvaOzsEUKH0rw40JLIT) | 3:06 | 2022-07-14 | 2022-07-18 |
 | [88☆彡 \(feat\. 初音ミク&KAITO\)](https://open.spotify.com/track/4LDpGNqQdPA0iMxi6n0YVn) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [堀江晶太\(kemu\)](https://open.spotify.com/artist/297rvtL5ZjR4Eu7BgtWrvF) | [88☆彡](https://open.spotify.com/album/7muTAff2RPmFnfLXgI2AJs) | 2:08 | 2022-06-09 | 2022-07-27 |
 | [Ai no Sukima](https://open.spotify.com/track/2shwfq9XQBHMnSnhPOJECa) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd) | [Ai no Sukima](https://open.spotify.com/album/2vSPw6zQcdOEE7QBbbs31V) | 3:39 | 2022-07-14 | 2022-07-19 |
@@ -236,6 +236,7 @@
 | [チチンプイプイ \- Cover](https://open.spotify.com/track/28KRH7HAhLQgVEy7uGF96E) | [あを。](https://open.spotify.com/artist/3vtV5ZBgbq99AAJicqpv7p), [真島ゆろ](https://open.spotify.com/artist/460r2Oaa2Sp7EKP0nds0Ow) | [チチンプイプイ \(Cover\)](https://open.spotify.com/album/5rUHnH2POtLBvcB7XZ6gNR) | 3:06 | 2022-06-09 | 2022-07-29 |
 | [チュルリラ・チュルリラ・ダッダッダ!](https://open.spotify.com/track/0M1JGQcBPw0Wx4HJTYSnAz) | [WADATAKEAKI KurageP](https://open.spotify.com/artist/3N1Bm1zHjxERruWhTsoQXO) | [わたしの未成年観測](https://open.spotify.com/album/49gFmYr9KCdaxCXr2d8HxF) | 3:16 | 2022-06-09 | 2022-07-29 |
 | [チルドレンレコード \- Re:boot](https://open.spotify.com/track/7EgAQ88TKT5HHsYpRThUQc) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [チルドレンレコード \(Re:boot\)](https://open.spotify.com/album/0Kp2uX7B1gdSYcBiL8brMx) | 3:07 | 2022-06-09 | 2022-08-17 |
+| [チーズ](https://open.spotify.com/track/3bjyPSQqaxldKhMQuJ3U5v) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [チーズ](https://open.spotify.com/album/0JQrvuksIwuucJWdGGgOtX) | 2:40 | 2022-12-29 |  |
 | [ツギハギスタッカート](https://open.spotify.com/track/0V7RxFamMkLN6tXR7S2t1W) | [toa](https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b) | [ツギハギスタッカート](https://open.spotify.com/album/334dtoC0dImpN25UZ62DMD) | 4:10 | 2022-06-09 |  |
 | [テオ \(2021\)](https://open.spotify.com/track/0E3EDDVxdSi061upF0jUIl) | [Omoi](https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq) | [テオ \(2021\)](https://open.spotify.com/album/1mQqzQpa72OHnVj1BRAeMG) | 3:29 | 2022-06-09 | 2022-07-29 |
 | [テルミーアンサー \(feat\. 鏡音リン\)](https://open.spotify.com/track/5wKcApvgq2RV0GKRP95sLh) | [kinoshita](https://open.spotify.com/artist/5PBCVNjKu2JDCxHI0WNYa5) | [テルミーアンサー](https://open.spotify.com/album/7yMPyldG6C7odkmS1wURoG) | 3:12 | 2022-06-09 | 2022-07-16 |

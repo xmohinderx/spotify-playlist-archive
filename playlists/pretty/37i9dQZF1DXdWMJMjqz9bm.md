@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,994 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,087 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 52 | [act right](https://open.spotify.com/track/1Xwhdmv9VnPjYL4hAwLQjn) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [act right](https://open.spotify.com/album/66kLoEXcmlSRFkyEwjjpZW) | 3:26 |
 | 53 | [High 4 U](https://open.spotify.com/track/4i4JycD1WDecXoRW5j41Ge) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [High 4 U](https://open.spotify.com/album/2eqnG7Avs0kQlpL3bN93so) | 2:42 |
 | 54 | [1234](https://open.spotify.com/track/4UQPvROrUn90skWOg9TURi) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [1234](https://open.spotify.com/album/3bcd3bKiWvgLgVk8lGux27) | 2:49 |
-| 55 | [TARGET](https://open.spotify.com/track/6nr0nVNA2sxEyteGiMKAv6) | [KYDRA](https://open.spotify.com/artist/0oAdWtdDFpCh67Jh0YAxCc) | [BACK HOME](https://open.spotify.com/album/2BcFPLYFI5vRGWDhjyKRGC) | 2:07 |
+| 55 | [Target](https://open.spotify.com/track/0BISpmx11CA0SK6jMFlFZd) | [Jay Portal](https://open.spotify.com/artist/2mE6lFglCyhkrseEcufU0d) | [Target](https://open.spotify.com/album/538oLJYmSNM6UnVwqPtHgQ) | 2:07 |
 | 56 | [All I Never Wanted](https://open.spotify.com/track/202yaLntC4WM5V7odMhg9z) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu) | [All I Never Wanted](https://open.spotify.com/album/71BkhJrPstzBgz6So9c2sj) | 2:05 |
 | 57 | [Ms\. Poli Sci](https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [Ms\. Poli Sci](https://open.spotify.com/album/7qypqH6zU0ZowehywC9395) | 2:08 |
 | 58 | [Manners](https://open.spotify.com/track/4YnKb0qfI6j56S0UiaewIC) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Manners](https://open.spotify.com/album/2C4Q3GT9PHp3UYIgSNJSVq) | 3:06 |
 | 59 | [rewind](https://open.spotify.com/track/66orvVes79w0dZao9ZIw97) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY), [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [rewind](https://open.spotify.com/album/1bHhbJVvzqeKTKNEK2aU8T) | 2:20 |
 | 60 | [When I Get Lonely](https://open.spotify.com/track/1d4c9HSOY8hy5krzdKxEyh) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [When I Get Lonely](https://open.spotify.com/album/13FMlTKRNL5akAlum5tc5O) | 2:21 |
 
-Snapshot ID: `MTY3MTczMTc4MywwMDAwMDAwMDM2MzdiMGY3ZTMxNTBjZGVmMTg1OGNmM2YwOGY2Yjc4`
+Snapshot ID: `MTY3MTczMTc4MywwMDAwMDAwMGRmODBjNzUyNzJmZjNjODQ5MmRjN2QwMTlhMmYwMWU5`

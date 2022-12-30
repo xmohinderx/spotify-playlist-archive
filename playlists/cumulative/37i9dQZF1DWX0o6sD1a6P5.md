@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> Feel\-good Afropop from Europe and Africa\. Cover: Burna Boy
+> Feel\-good Afropop from Europe and Africa\. Cover: Ayra Starr
 
-277 songs - 14 hr 12 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
+278 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Dans la sauce](https://open.spotify.com/track/0auHcOjJqevDw665HOHpma) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Dans la sauce](https://open.spotify.com/album/3fIp7AU4MqwWu8ABwSbZER) | 2:30 | 2021-12-27 | 2022-03-11 |
 | [Dantsido \(Toc Toc Toc\)](https://open.spotify.com/track/1NUEUFueiCYana070TfNa0) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Dantsido \(Toc Toc Toc\)](https://open.spotify.com/album/708goXDKDeNZQEZfWlgnuX) | 2:34 | 2022-09-15 |  |
 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 | 2022-05-26 | 2022-09-02 |
+| [Dilemme](https://open.spotify.com/track/1yRXFMwYvvoCG6Q2lDngzD) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Dilemme](https://open.spotify.com/album/0DnzM5Uqhf5i6oKsrgY6DM) | 3:04 | 2022-12-29 |  |
 | [Dior](https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:40 | 2022-05-26 | 2022-09-16 |
 | [Dis moi comment.](https://open.spotify.com/track/5ParQEysjL0XuA8a4h32KU) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Dis moi comment.](https://open.spotify.com/album/0BN0n7HO14VvZqwGGkxPyD) | 3:31 | 2021-12-27 | 2022-01-07 |
 | [Dis\-moi oui](https://open.spotify.com/track/2rD8n0QH7ugRyFPQm9hUrD) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Dis\-moi oui](https://open.spotify.com/album/2Pq8jqWjWB4VwMgcFGfjQp) | 3:27 | 2022-05-26 | 2022-07-08 |
@@ -284,6 +285,6 @@
 | [Won Da Mo](https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Won Da Mo](https://open.spotify.com/album/6QwF6NbMHG9BWKNctTw2pC) | 4:07 | 2022-12-01 |  |
 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 | 2022-11-10 |  |
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 | 2022-09-30 |
-| [À distance \- Chokololo](https://open.spotify.com/track/3UFIY9Jv7OdPvqRkzwEfOJ) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF) | [À distance \(Chokololo\)](https://open.spotify.com/album/3SS31nC0avfiusueSnTZdX) | 2:55 | 2022-12-08 |  |
+| [À distance \- Chokololo](https://open.spotify.com/track/3UFIY9Jv7OdPvqRkzwEfOJ) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF) | [À distance \(Chokololo\)](https://open.spotify.com/album/3SS31nC0avfiusueSnTZdX) | 2:55 | 2022-12-08 | 2022-12-30 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

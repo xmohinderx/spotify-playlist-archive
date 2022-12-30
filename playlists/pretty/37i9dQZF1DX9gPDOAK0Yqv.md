@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through melodic techno, featuring hand\-curated tracks from Miss Monique for New Years' Eve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,575 likes - 40 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,038 likes - 40 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Most adored pop hits from the Middle East and North Africa. Cover: Nabil\n",
+  "description": "Most adored pop hits from the Middle East and North Africa. Cover: Ramy Sabry\n",
   "name": "Best of Arab Pop",
   "published_playlist_ids": [
     "3oCJHmm7pEXb9N40JMypnM"
@@ -430,6 +430,24 @@
     },
     {
       "album": {
+        "name": "Cigara",
+        "url": "https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270329,
+      "name": "Cigara",
+      "url": "https://open.spotify.com/track/5YH0SNUHx7P423UiUvB67d"
+    },
+    {
+      "album": {
         "name": "Darhali Galbi",
         "url": "https://open.spotify.com/album/2014sSwnnhZMXV5pMDeiXn"
       },
@@ -621,7 +639,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 185104,
       "name": "Enty Genan",
       "url": "https://open.spotify.com/track/7i5Ud8atK2QZdxgdVLtExX"
@@ -907,7 +925,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 239512,
       "name": "Heya",
       "url": "https://open.spotify.com/track/1FRiynLmE6uEsDayYZflEU"
@@ -1841,6 +1859,24 @@
       "duration_ms": 248784,
       "name": "Yama",
       "url": "https://open.spotify.com/track/2LFXoehu5ZfYXnKob64neu"
+    },
+    {
+      "album": {
+        "name": "Ymken Kher",
+        "url": "https://open.spotify.com/album/21ollpdRxaKYtkDRxq8E7a"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216356,
+      "name": "Ymken Kher",
+      "url": "https://open.spotify.com/track/70pc3FZNGfIHJ2pnU4fJBA"
     },
     {
       "album": {

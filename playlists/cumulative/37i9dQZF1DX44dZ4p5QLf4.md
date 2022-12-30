@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-287 songs - 16 hr 53 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+288 songs - 16 hr 57 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [You](https://open.spotify.com/track/1a8BBaVk79ENCMFU5OdX70) | [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV), [Niké Laos](https://open.spotify.com/artist/2s1srNtreW8p5TYjWQ1VN3) | [You](https://open.spotify.com/album/2zqicKWl6pRGT2M9TnlFkM) | 3:18 | 2022-06-30 |  |
 | [You Comfort Me \(with EARTHGANG\)](https://open.spotify.com/track/516Qt2A8vGrMBaMqafVOEm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [You Comfort Me \(with EARTHGANG\)](https://open.spotify.com/album/5rXXKTYEW34LQHzjUDpqkC) | 3:22 | 2021-12-16 | 2022-10-15 |
 | [You Need it](https://open.spotify.com/track/0PDLe2n2znCZVVR11Wt7CW) | [7AM](https://open.spotify.com/artist/7gvJCmaQhMlqFpXCaz9o3l) | [Relapse](https://open.spotify.com/album/2D3JvRJuW92u7fPfzkqv1a) | 2:39 | 2021-12-16 | 2022-01-26 |
+| [You Never Visit Me](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 | 2022-12-29 |  |
 | [YouMe](https://open.spotify.com/track/2Ny3pgsRBoHuxA1GO8G9BQ) | [Safa Liron](https://open.spotify.com/artist/7DAy6NPOtahk5F2aOgEjZw) | [YouMe](https://open.spotify.com/album/1yoZHPHhjX3vQHKI4xtRvq) | 3:05 | 2021-12-16 | 2022-12-03 |
 | [Your Mind](https://open.spotify.com/track/1HtQWBViM05CjUOaA4AloV) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Your Mind](https://open.spotify.com/album/3W83hrUuMsRyva2PHUVDGs) | 4:19 | 2022-03-10 | 2022-09-23 |
 | [YoYo](https://open.spotify.com/track/04fM1KOXn3p5hbPwNtDSaG) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES](https://open.spotify.com/album/0j55fKR1TUL5qGH5AeQxn8) | 3:05 | 2021-12-16 | 2022-07-07 |

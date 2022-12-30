@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-183 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/4uBQQNerYG4kZFIisnLRm7)
+184 songs - 16 hr 31 min - [published](https://open.spotify.com/playlist/4uBQQNerYG4kZFIisnLRm7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Low Smoulder](https://open.spotify.com/track/7d8ZJaA8vvqu3FoIhGZ73V) | [William Ryan Fritch](https://open.spotify.com/artist/4uKt0y4zMxjivxkjDsT3gl) | [Low Smoulder / Canary](https://open.spotify.com/album/3bUoijDzf8zWf0KfYF1OA1) | 6:26 | 2022-01-21 | 2022-07-29 |
 | [Luna](https://open.spotify.com/track/2MEhiY4t1uYcq1MpkNzvWd) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [Luna](https://open.spotify.com/album/03VL92zMZKklDDcd5Js06l) | 6:06 | 2022-03-11 | 2022-12-28 |
 | [Långt under noll](https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0) | [Snufmumriko](https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn) | [Radio Mnemosyne](https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y) | 6:22 | 2022-03-04 | 2022-07-28 |
+| [Mariupol](https://open.spotify.com/track/7DkH47aURAR2Bbm1j66Km5) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [When We Return to the Sun](https://open.spotify.com/album/1Zn4nlsuoEMfv07ydhkjUx) | 7:05 | 2022-12-20 |  |
 | [Mariupol](https://open.spotify.com/track/7zMZfDDk4r5W1iHIGcWama) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [Mariupol](https://open.spotify.com/album/6dP1JXzSX90FjRiKPFmnew) | 7:05 | 2022-11-11 | 2022-12-16 |
 | [Meet Me At Sachas](https://open.spotify.com/track/6yI4LxYfqXY09ukPhbogkm) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 2:06 | 2022-01-21 |  |
 | [Melancholy Movement](https://open.spotify.com/track/0BGXoqBGIrgT1gjODZ7vrO) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [In Light Of Blues](https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD) | 3:07 | 2022-07-01 |  |
@@ -178,7 +179,7 @@
 | [Unearth](https://open.spotify.com/track/6Xi8YlrC0eGYuyjnJHWUVR) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Fallen](https://open.spotify.com/album/52thnHxyMTyY56yHm8i6Sx) | 5:57 | 2022-01-21 |  |
 | [Untitled, Saturday](https://open.spotify.com/track/1yAG81LXyetlG4yrmowDGn) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB), [deer meadow](https://open.spotify.com/artist/7IjTtPufpIvS5zpffa9FXr) | [In a Sad Red Dusk, We Were Finally Leaving](https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR) | 4:52 | 2022-01-28 | 2022-07-29 |
 | [Vaara](https://open.spotify.com/track/7saUM4eE5H2Ai6c4Ot6Q47) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [Vaara](https://open.spotify.com/album/58BzF0qi2u7FwZlTRsKcG7) | 5:09 | 2022-01-21 |  |
-| [Vanished](https://open.spotify.com/track/2L5heX1aiNXS90ddDcEmx1) | [Sounds M](https://open.spotify.com/artist/2NaVCoohbahnm2WjNXW8Gn) | [Vanished](https://open.spotify.com/album/5Bx2FSekEMhJX6J6jrNOis) | 3:15 | 2022-02-25 |  |
+| [Vanished](https://open.spotify.com/track/2L5heX1aiNXS90ddDcEmx1) | [Sounds M](https://open.spotify.com/artist/2NaVCoohbahnm2WjNXW8Gn) | [Vanished](https://open.spotify.com/album/5Bx2FSekEMhJX6J6jrNOis) | 3:15 | 2022-02-25 | 2022-12-30 |
 | [Vi är överallt](https://open.spotify.com/track/1IMyiFwhS3ZIinvYEp2ivG) | [Orphan Ann](https://open.spotify.com/artist/633FjCdzULVbn0CjE820vK) | [The Practice Of Surrender](https://open.spotify.com/album/5UprmCqRU9acn6C6oITQhL) | 5:00 | 2022-01-21 |  |
 | [Vilja](https://open.spotify.com/track/32CngTyROmI3rQzQly467Z) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Minnesmärke](https://open.spotify.com/album/2xqi6xom8eHt1GyEbidRm1) | 19:08 | 2022-01-21 | 2022-07-29 |
 | [Vow](https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX) | [TDSOM](https://open.spotify.com/artist/3DPfgW4qhyNleslbUz2Efn) | [Vow](https://open.spotify.com/album/3o9XrLC64TF8IjbyuSbmNy) | 3:56 | 2022-03-25 | 2022-07-29 |

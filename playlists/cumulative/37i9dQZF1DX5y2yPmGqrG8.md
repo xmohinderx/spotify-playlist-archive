@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-469 songs - 1 day 20 hr 16 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
+470 songs - 1 day 20 hr 18 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 | 2022-12-16 |  |
 | [11 5 18 2 5 18](https://open.spotify.com/track/6z4gkvnKeiOOjKG6ZN0Zyn) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [11 5 18 2 5 18](https://open.spotify.com/album/4RN4j6MUCjqIIBW5gpWqpy) | 11:39 | 2022-04-14 | 2022-07-21 |
 | [1:17 PM](https://open.spotify.com/track/7sX3ulXwDyyE5q5g8z3yUN) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/4xBGAlIlejqITTgDkOBDIy) | 3:29 | 2021-10-06 | 2022-07-22 |
-| [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 | 2022-12-21 |  |
+| [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 | 2022-12-20 |  |
 | [30](https://open.spotify.com/track/3h9BQoh0mAmm93aHINUprR) | [ed leigh](https://open.spotify.com/artist/2HvZdoZCKiZBlILDLOk0ge) | [millennial falcon \(episode I\)](https://open.spotify.com/album/2a7aAujN1kAEj3KsECBpc8) | 3:14 | 2022-08-03 | 2022-08-24 |
 | [34\-46](https://open.spotify.com/track/5Utgg5uI7sMaYNcw6rLt1x) | [Mark Slater](https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF) | [34\-46](https://open.spotify.com/album/2BNq4qGhepJGroEyfTIJBU) | 4:01 | 2022-02-18 | 2022-07-28 |
 | [A Cat](https://open.spotify.com/track/28SyjgSjrXkge8GBgWxRTd) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Refuge](https://open.spotify.com/album/6gxz2tx0MdfUJAQnWYonpg) | 5:37 | 2022-03-30 | 2022-07-29 |
@@ -275,6 +275,7 @@
 | [Murmur \- Machinefabriek Remix](https://open.spotify.com/track/3sF0muGOQvjsV4ZKLxr7KQ) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Machinefabriek](https://open.spotify.com/artist/4Tzunwe7m9sBMSsmEV49Qo) | [Murmur \(Machinefabriek Remix\)](https://open.spotify.com/album/0ZO7czDtPwdpa76DvMdydf) | 4:01 | 2022-01-13 | 2022-07-28 |
 | [My Attitude My Horoscope](https://open.spotify.com/track/3HOnYG8aNIunYRfifc16GS) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 4:09 | 2021-10-06 | 2022-07-04 |
 | [Myth Machine](https://open.spotify.com/track/5RwtVAXUUAa8O6ypxYmW04) | [Yuta Matsumura](https://open.spotify.com/artist/406gPYJrv2Xq4YRJub1qRa) | [Red Ribbon](https://open.spotify.com/album/17mDWGdTnVS1h7yXMmrxUp) | 4:25 | 2022-09-21 | 2022-10-15 |
+| [Nannou \- Mixed](https://open.spotify.com/track/3dgD602JCmRmFm95pOXCtz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Nannou \(Mixed\)](https://open.spotify.com/album/4UiRbLnV7kPBhXhyEnr1S2) | 1:55 | 2022-12-29 |  |
 | [Near Light](https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ) | 3:28 | 2021-10-06 |  |
 | [Nereus \(Spirits Over the Lake\)](https://open.spotify.com/track/1nEU4BcSMLCIhRK5n3biYz) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv) | [Allegory of Allergies](https://open.spotify.com/album/4eFe4ZdFsQhPBnktKIRn3v) | 15:58 | 2022-03-30 | 2022-06-09 |
 | [Netra ken](https://open.spotify.com/track/7tQcv4sfQdhtTRD1UBfnOa) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV), [Emily Chappell](https://open.spotify.com/artist/3XyVOmYc0lZnIIBpUmfgzr) | [Netra ken](https://open.spotify.com/album/6D9pGRFHcOabkpi0CrDuWp) | 3:14 | 2022-04-22 | 2022-07-26 |
@@ -441,7 +442,7 @@
 | [Unguarded Travelin'](https://open.spotify.com/track/4OYS4H9fVFGK87WtC32qmL) | [Koti6](https://open.spotify.com/artist/0son6uK60FSd5ZlXyKLplp) | [Unguarded Travelin'](https://open.spotify.com/album/1LxN2StJXIuiYLFNvrMv7t) | 2:49 | 2022-02-25 | 2022-09-01 |
 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 | 2022-12-07 |  |
 | [Untitled, Live in Portland](https://open.spotify.com/track/1qJT3z2QI6YC7Txqm6OA2c) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Late Night Tales: Floating Points](https://open.spotify.com/album/1K1xmrnPvQaHAoPrS8GV5t) | 7:03 | 2021-10-06 | 2022-05-29 |
-| [Untravel](https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:51 | 2022-10-14 |  |
+| [Untravel](https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:51 | 2022-10-14 | 2022-12-30 |
 | [Upstairs Flat](https://open.spotify.com/track/7w6GXyNpjmfIL0jGCHyP2Z) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Antidawn EP](https://open.spotify.com/album/7LtQeOwb04n1ovSnFax21b) | 6:07 | 2022-10-14 | 2022-10-28 |
 | [Ursa Major](https://open.spotify.com/track/0wCUvFYNT0vJoDW8ky1WxM) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Ursa Major](https://open.spotify.com/album/0eBBp3GtEsITNPh3NTG00u) | 4:10 | 2021-10-06 | 2022-07-23 |
 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 | 2022-03-30 | 2022-07-12 |

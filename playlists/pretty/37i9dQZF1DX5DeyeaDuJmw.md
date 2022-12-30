@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 
 > Acá hay letra\. Foto: Anuel AA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,071 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,263 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 89 | [Parcera](https://open.spotify.com/track/0oct4TDwzs5eydTdDhCj6M) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Parcera](https://open.spotify.com/album/6GRHOMthTb0HMOZDO26D8j) | 3:33 |
 | 90 | [XULITA \(feat\. Kaydy Cain\)](https://open.spotify.com/track/1HjpnKN5vfceRgV7fa1DJA) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [PERREAMOS?](https://open.spotify.com/album/6F2TAcgZ09A7GjvJTgc8NY) | 3:04 |
 | 91 | [Mala Influencia](https://open.spotify.com/track/28sOLLPgDAdBzDuhkuuLhz) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Mala Influencia](https://open.spotify.com/album/1qb1ja0w8w0m2QYStSs3IA) | 3:14 |
-| 92 | [Deseos](https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Deseos](https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X) | 3:23 |
-| 93 | [PERRO PRIMO \| DJ TAO Turreo Sessions \#2](https://open.spotify.com/track/6jUfeQCpky6IodZg5OcstX) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [PERRO PRIMO \| DJ TAO Turreo Sessions \#2](https://open.spotify.com/album/6ceuNvD4R9AQu0o0JMnUAY) | 2:13 |
-| 94 | [Payaso](https://open.spotify.com/track/44r2HY8ZnKa5gJRqnKw7Sq) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Los Favoritos 2](https://open.spotify.com/album/2TUgzZ8XOE8jm7tDpU4iME) | 3:08 |
-| 95 | [Pikete](https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Pikete](https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd) | 2:33 |
+| 92 | [PERRO PRIMO \| DJ TAO Turreo Sessions \#2](https://open.spotify.com/track/6jUfeQCpky6IodZg5OcstX) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [PERRO PRIMO \| DJ TAO Turreo Sessions \#2](https://open.spotify.com/album/6ceuNvD4R9AQu0o0JMnUAY) | 2:13 |
+| 93 | [Deseos](https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Deseos](https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X) | 3:23 |
+| 94 | [Pikete](https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Pikete](https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd) | 2:33 |
+| 95 | [Payaso](https://open.spotify.com/track/44r2HY8ZnKa5gJRqnKw7Sq) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Los Favoritos 2](https://open.spotify.com/album/2TUgzZ8XOE8jm7tDpU4iME) | 3:08 |
 | 96 | [GOTIKA](https://open.spotify.com/track/4n8gspB9iCAGEja5AUkexK) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [GOTIKA](https://open.spotify.com/album/0MMzgwHbf5tzu5NLqTEof0) | 3:02 |
 | 97 | [Royal Medellin](https://open.spotify.com/track/3x9TgnIE1EbkKXJeIeBxYp) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Amaro](https://open.spotify.com/artist/029uS2pMvwk0TsIUTHkyyw), [Dani y Magneto](https://open.spotify.com/artist/7im3qrPSEoYCVWVThJnzgj) | [Royal Medellin](https://open.spotify.com/album/1BFSWOnfll1HP2s5Ot1pYU) | 3:18 |
 | 98 | [Ansioso](https://open.spotify.com/track/06a9OeSuRhcmlNbNUWHH6i) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Ansioso](https://open.spotify.com/album/7zZ7J62h5Fratub7B28lBT) | 3:07 |
 | 99 | [Antonio](https://open.spotify.com/track/6ySWF4gnL9irO78ddAHQX7) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Antonio](https://open.spotify.com/album/273BcEEtroFzuHpJqvR2DR) | 2:38 |
 | 100 | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/album/0FIqCHhKHDqHd35AvRm8gp) | 3:09 |
 
-Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMDM4ZWE5YWFiNDY1ZGRkY2RkYzE2MjI3YjU3NDhlZjI0`
+Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMGZiNThiMDU4ZmRmYzMzMzZiMTZkZjEwZjc4M2YyNmMw`

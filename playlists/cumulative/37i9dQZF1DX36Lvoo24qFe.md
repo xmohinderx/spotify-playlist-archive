@@ -4,7 +4,7 @@
 
 > The ultimate playlist to water your plants to.
 
-37 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/4qsoHkbHK7hopVKy8mBsRR)
+38 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/4qsoHkbHK7hopVKy8mBsRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Bucktown](https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Dah Shinin'](https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM) | 3:57 | 2021-05-17 |  |
 | [Burning Pile Slowed](https://open.spotify.com/track/2qaJKtEUiWSxX8MfP97LzW) | [YounganYoungan](https://open.spotify.com/artist/7CgEnGp4hEhpLEedNgG2oF) | [Burning Pile Slowed](https://open.spotify.com/album/5t7bAfLepngxW6xsCUCD3s) | 5:27 | 2021-05-17 | 2022-09-28 |
 | [Burning Piles \(Slowed\)](https://open.spotify.com/track/1LXQGofZiVKV1u7FNg6Yfi) | [Tooney Tunes](https://open.spotify.com/artist/6Vve3uh2knAhvVLKa2dvlS) | [Burning Piles \(Slowed\)](https://open.spotify.com/album/07bhsLYSg2xouNnOcSPgPM) | 5:27 | 2021-05-17 | 2022-09-13 |
-| [burning piles \- Slowed](https://open.spotify.com/track/4Nwb63vYtwv8KgVw5LsIW0) | [Tooney Tunes](https://open.spotify.com/artist/6Vve3uh2knAhvVLKa2dvlS) | [burning piles \(Slowed\)](https://open.spotify.com/album/52O3Ty6OQNnOfgLEZhY4RO) | 5:27 | 2021-05-17 |  |
+| [burning piles \- Slowed](https://open.spotify.com/track/4Nwb63vYtwv8KgVw5LsIW0) | [Tooney Tunes](https://open.spotify.com/artist/6Vve3uh2knAhvVLKa2dvlS) | [burning piles \(Slowed\)](https://open.spotify.com/album/52O3Ty6OQNnOfgLEZhY4RO) | 5:27 | 2021-05-17 | 2022-12-30 |
+| [burning piles \- Slowed \- Remix](https://open.spotify.com/track/26b5p4qw9SQxSWN0Bzoak6) | [Muppet DJ](https://open.spotify.com/artist/1xP2Pos7aO9ONLRav8fmny), [SECA Records](https://open.spotify.com/artist/69JEXAvYd8sSMU4li9uSox) | [burning piles \- Slowed \(Remix\)](https://open.spotify.com/album/3tsPgAoL639q9gOZQckv8n) | 5:27 | 2021-05-17 |  |
 | [Cute](https://open.spotify.com/track/3wZfADUvka4MiCnOzo0VQ7) | [Prod by Rose](https://open.spotify.com/artist/6rjf0fjRwaZK37QiKl9uBP) | [Cute](https://open.spotify.com/album/1LSNa2KWIaFcIP3j5uSM0S) | 2:58 | 2021-05-17 | 2022-07-29 |
 | [Cute](https://open.spotify.com/track/5hISAM5pN7ZI4rlyBA4iKM) | [Prod by Rose](https://open.spotify.com/artist/6rjf0fjRwaZK37QiKl9uBP), [Artsounds Chill](https://open.spotify.com/artist/3PV6UfM0IDdUodkwVieIJS) | [Cute](https://open.spotify.com/album/57lPJkjkqRMcWj8KwCwxig) | 2:58 | 2021-05-17 |  |
 | [Foreign Bodies](https://open.spotify.com/track/42kJ4xNjMHEeIuLxfIUOYd) | [Radiation City](https://open.spotify.com/artist/1nlI6sCz1fw135KYwweoCk) | [Animals In The Median](https://open.spotify.com/album/6FJCSBtJHYl1aOXl8iirjz) | 3:57 | 2021-05-17 |  |

@@ -4168,6 +4168,28 @@
     },
     {
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/10i8tgXRPvPt3CXxz4p4KL"
+      },
+      "artists": [
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        },
+        {
+          "name": "CRVN",
+          "url": "https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159545,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/5j661JNn79J2mcNrgZZEfW"
+    },
+    {
+      "album": {
         "name": "The Path",
         "url": "https://open.spotify.com/album/74bnjTLKVFndWnu0gRASDj"
       },

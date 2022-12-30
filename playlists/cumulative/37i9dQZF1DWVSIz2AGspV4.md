@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: محمود التركي
 
-175 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+176 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [7aya](https://open.spotify.com/track/21oCPr9IY0QBcbnVCYnPH9) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe) | [7aya](https://open.spotify.com/album/6KCgOV58KccXLTUfJ7j9wW) | 2:45 | 2021-12-23 | 2022-03-30 |
 | [Aalamiya](https://open.spotify.com/track/2sfGtyULy9LBSWeXrtsAIJ) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Aalamiya](https://open.spotify.com/album/1IBOcEdlFIoCMjPdUZOXOX) | 3:08 | 2021-12-23 | 2022-02-04 |
 | [Abn Al Khain](https://open.spotify.com/track/4fJR2YdREjWfxSYhx9CaC0) | [Ahmed Al Mazen](https://open.spotify.com/artist/1HXNShlKQdmZh5Ih6MtPH4) | [Abn Al Khain](https://open.spotify.com/album/1yJ54uNqTlz0UYzXEIFFYc) | 3:22 | 2021-12-23 | 2022-05-14 |
+| [Abous El Sodfa: Abous El Sodfa](https://open.spotify.com/track/5DGQSn4bSDfXpBBP9LhDya) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Abous El Sodfa](https://open.spotify.com/album/3M2Q05YLGxIUPHVVet0dMX) | 3:53 | 2022-12-29 |  |
 | [Adman](https://open.spotify.com/track/74APeQkjsmOmXgvcnD8ysS) | [Murtadha Adam](https://open.spotify.com/artist/6Tv9HObqiIBWKHhPkaIdt7), [Mahmoud Abdel Karim](https://open.spotify.com/artist/31Oz4j5UvNbWvilTGEdoJa) | [Adman](https://open.spotify.com/album/0AiCaZUwTAmHzc5cXx44Tk) | 2:55 | 2021-12-23 | 2022-03-18 |
 | [Aerif Ealam](https://open.spotify.com/track/3lR76Thi8qiARWyR56fRqf) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Aerif Ealam](https://open.spotify.com/album/6fEb4CMn6M8uqu9SxwFNi3) | 3:12 | 2022-06-07 |  |
 | [Ah Yani](https://open.spotify.com/track/0vMD3NFvruMSROWEhm8756) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Ah Yani](https://open.spotify.com/album/2743kDzwDOEBBeTrSn6h5H) | 3:19 | 2021-12-23 | 2022-05-14 |

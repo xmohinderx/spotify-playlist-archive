@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 48317,
+  "num_followers": 48345,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDc5ZmJiYzZiZmI1OGYyMjc0M2Y3MTU2NTRjYmVhNGNl",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDRiMjVmYTVmM2I4ZmFlNmQ2MzJjMWNmMTEzOGJkNjJm",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Foans",
+        "url": "https://open.spotify.com/album/3TGK3p8EtGd4NeK80rXXWn"
+      },
+      "artists": [
+        {
+          "name": "Foans",
+          "url": "https://open.spotify.com/artist/5MZSJngIq1ppTHcmoLS2zb"
+        }
+      ],
+      "duration_ms": 276115,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/2pRAMwsabRCbF8fnkTlWOF"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Toxic Temptation",
         "url": "https://open.spotify.com/album/2bTmTP8aBsiwY9ibFFtq6e"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 420433,
       "name": "Toxic Temptation - Undercatt Remix",
       "url": "https://open.spotify.com/track/0VKIilt1Z8oJQ7isTytBDc"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Foans",
-        "url": "https://open.spotify.com/album/3TGK3p8EtGd4NeK80rXXWn"
-      },
-      "artists": [
-        {
-          "name": "Foans",
-          "url": "https://open.spotify.com/artist/5MZSJngIq1ppTHcmoLS2zb"
-        }
-      ],
-      "duration_ms": 276115,
-      "name": "Witness",
-      "url": "https://open.spotify.com/track/2pRAMwsabRCbF8fnkTlWOF"
     },
     {
       "added_at": "2022-07-15 17:34:15",

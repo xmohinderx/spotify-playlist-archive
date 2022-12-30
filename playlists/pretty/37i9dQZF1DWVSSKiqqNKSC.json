@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Cover: Celia Cruz",
-  "num_followers": 198502,
+  "num_followers": 198634,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODM3NDY2NiwwMDAwMDAwMDJjN2M0NjEzMWI2OWQ5NTJjZjQ2NDVmNDg5N2FlYTY1",
+  "snapshot_id": "MTU5ODM3NDY2NiwwMDAwMDAwMDhkYzk5MzhkMzE4MDg2Njc3MTYxMjMzMGUyM2Q2MDgz",
   "tracks": [
     {
       "added_at": "2020-08-25 16:57:45",
@@ -315,6 +315,22 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
+        "name": "Me Quedo Contigo",
+        "url": "https://open.spotify.com/album/0wOpfPbmZOoG7Zzfy3k5e6"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "duration_ms": 201231,
+      "name": "Me Quedo Contigo",
+      "url": "https://open.spotify.com/track/2xyxQrfc7ep4n01aYjiOQN"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
         "name": "GUACHINEO (Cubaton - Cuban Reggaeton 2015 - Lo Que Mas Suena En Cuba)",
         "url": "https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc"
       },
@@ -327,6 +343,22 @@
       "duration_ms": 221538,
       "name": "Guachineo",
       "url": "https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 284053,
+      "name": "Luna Negra",
+      "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -375,38 +407,6 @@
       "duration_ms": 284266,
       "name": "Cuba Isla Bella (feat. Gente de Zona, Leoni Torres, Isaac Delgado, Buena Fe, Descemer Bueno, Laritza Bacallao, Waldo Mendoza & Pedrito Martinez)",
       "url": "https://open.spotify.com/track/6T9Cyj2tFiV1epQbQm0Gb2"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 284053,
-      "name": "Luna Negra",
-      "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Me Quedo Contigo",
-        "url": "https://open.spotify.com/album/0wOpfPbmZOoG7Zzfy3k5e6"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        }
-      ],
-      "duration_ms": 201231,
-      "name": "Me Quedo Contigo",
-      "url": "https://open.spotify.com/track/2xyxQrfc7ep4n01aYjiOQN"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -511,22 +511,6 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Reina de la Canci\u00f3n Latina",
-        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
         "name": "Live In The USA",
         "url": "https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 476586,
       "name": "Lola Lola",
       "url": "https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Reina de la Canci\u00f3n Latina",
+        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
+      },
+      "artists": [
+        {
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
     },
     {
       "added_at": "2020-08-25 16:57:45",

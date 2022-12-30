@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-259 songs - 19 hr 19 min - [published](https://open.spotify.com/playlist/4VFlkwzjI7ScFjbEAfcPrl)
+260 songs - 19 hr 24 min - [published](https://open.spotify.com/playlist/4VFlkwzjI7ScFjbEAfcPrl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Morning Moon](https://open.spotify.com/track/4b1cZXkFtOdpZnyU0GfZWm) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Morning Moon](https://open.spotify.com/album/3n781Nd8Ff9001PJNWTuUq) | 5:52 | 2022-03-03 | 2022-11-13 |
 | [Morning Song](https://open.spotify.com/track/29GCaqKf8MDuv6FPeLYD6W) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Uma Elmo](https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts) | 6:55 | 2021-12-17 | 2022-12-04 |
 | [motives](https://open.spotify.com/track/5Uexo5FnxDGXPV9v92y00W) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP), [Eric Vloeimans](https://open.spotify.com/artist/0GJnVOotvnAmZvUYL8Kpmx) | [motives](https://open.spotify.com/album/09YRRKJN5WAhr3KgivvcdW) | 2:22 | 2022-03-31 | 2022-11-11 |
-| [Mógrá](https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8) | [Magnús Jóhann](https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5), [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh) | [Án tillits](https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi) | 2:32 | 2021-12-17 |  |
+| [Mógrá](https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8) | [Magnús Jóhann](https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5), [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh) | [Án tillits](https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi) | 2:32 | 2021-12-17 | 2022-12-30 |
 | [Naima](https://open.spotify.com/track/6N1c9EHlOMHdQ55hmHkhDq) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [Naima](https://open.spotify.com/album/2sSS9Mxw73wnpilrkA4mdJ) | 3:10 | 2022-11-17 |  |
 | [Never Ending January](https://open.spotify.com/track/4L10SBstHivQvkGiPu4FHX) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [Never Ending January](https://open.spotify.com/album/1VY0hkSejVXZ8VDZkMqmSs) | 4:20 | 2022-09-15 | 2022-11-11 |
 | [New Hampshire](https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Almond Joy](https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F) | 3:03 | 2022-11-11 |  |
@@ -262,6 +262,7 @@
 | [Within The Clouds](https://open.spotify.com/track/3jBYV1juzLdoHKzbiy8Kqv) | [John Surman](https://open.spotify.com/artist/5THaOlI8Qr3Za3FD6FnWvK), [Nelson Ayres](https://open.spotify.com/artist/71alvRccPFqQpegAexLBJY), [Rob Waring](https://open.spotify.com/artist/1UeKTQy0g4X4v1Rs1CTLNg) | [Invisible Threads](https://open.spotify.com/album/1ud5Nh8i1Jilsq83DyHTIk) | 4:48 | 2021-12-17 | 2022-11-11 |
 | [Wouldn't It Be Loverly](https://open.spotify.com/track/0cg1zPrF59wB0GibluYlE8) | [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx) | [Songs From Home](https://open.spotify.com/album/2pSI826dRU8Gb5NH7UxSxN) | 6:09 | 2021-12-17 | 2022-10-07 |
 | [Yes to You](https://open.spotify.com/track/59f6KRHixp6XhO0e8LgjmU) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7) | [Cloudland](https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng) | 3:35 | 2022-05-25 | 2022-12-06 |
+| [You Know I Care](https://open.spotify.com/track/0TUwZjN2G4WA8HBwuGNC6J) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [The Deep](https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7) | 4:29 | 2022-12-22 |  |
 | [You Softly Breathe](https://open.spotify.com/track/71sykxrXDUVEDA4TkHeIzh) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [You Softly Breathe](https://open.spotify.com/album/4CQl0m4bI32Ffjbmap9VCI) | 3:16 | 2022-11-17 |  |
 | [You're Good to Me](https://open.spotify.com/track/66pIaEj18uvWZVUdagkzly) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [The End is the Beginning](https://open.spotify.com/album/4DlVzBCQqPnLGCyqCPmx7m) | 3:14 | 2022-11-11 |  |
 | [Zeta](https://open.spotify.com/track/5hS76ESeC9KLWBNhnfzhDM) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [Zeta](https://open.spotify.com/album/3MJmq3oA2Bs8braVIAS2hc) | 3:19 | 2022-10-27 | 2022-12-18 |

@@ -192,6 +192,28 @@
     },
     {
       "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/1ne4G4bXK0eiLTUpbsb9xU"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        },
+        {
+          "name": "\u548c\u7530\u5f18\u6a39",
+          "url": "https://open.spotify.com/artist/3ISeKqB65XZIfHAR9gtLv2"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268133,
+      "name": "Duet! feat. \u548c\u7530\u5f18\u6a39",
+      "url": "https://open.spotify.com/track/1rwzyBNALfHD2uxLmpnTRI"
+    },
+    {
+      "album": {
         "name": "FOLLOW ME UP",
         "url": "https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y"
       },
@@ -739,7 +761,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 228973,
       "name": "\u30c7\u30a3\u30fc\u30bc\u30eb",
       "url": "https://open.spotify.com/track/6Ukab7uqNtX78FPBJOjVMA"

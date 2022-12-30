@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-157 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/0JIQYIs8BcYEYxPxINEZdb)
+158 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/0JIQYIs8BcYEYxPxINEZdb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [highskool](https://open.spotify.com/track/0e6w146xpghQJvTIlSdm3C) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:28 | 2022-06-03 | 2022-06-08 |
 | [Human fever](https://open.spotify.com/track/7kLmCBlcTP2DR5lIiz22e3) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 1:33 | 2022-05-11 | 2022-11-15 |
 | [i \(Feat\. Jung Yup\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:55 | 2022-05-11 |  |
-| [I Get Lifted X Beenzino](https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [WALKIN', Vol\. 1](https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E) | 4:17 | 2022-05-11 |  |
+| [I Get Lifted X Beenzino](https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [WALKIN', Vol\. 1](https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E) | 4:17 | 2022-05-11 | 2022-12-30 |
 | [I Know](https://open.spotify.com/track/1jDHmJvfcfjbOMXRFR98zf) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Shininryu](https://open.spotify.com/album/3QvaB5HzfSEz5yqbNCHtT3) | 3:30 | 2022-07-22 |  |
 | [IAM](https://open.spotify.com/track/37MtyYKxR1UFeueXq85Vag) | [Snacky Chan](https://open.spotify.com/artist/4UTKdKB32XqCsQGLjZEfmw) | [IAM](https://open.spotify.com/album/7oiyuH8OnXLzn1PYBJy1oO) | 3:14 | 2022-05-11 | 2022-07-10 |
 | [ice coffee](https://open.spotify.com/track/0NXN8CNyQOQvZuSuFP75IB) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 2:53 | 2022-07-22 |  |
@@ -137,6 +137,7 @@
 | [Stay Cool](https://open.spotify.com/track/5VVamUjvkKwktZLb0eiXhg) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Stay Cool](https://open.spotify.com/album/1plGNxXixMbIHcM4Lbf88o) | 4:33 | 2022-05-11 | 2022-07-29 |
 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 | 2022-07-22 |  |
 | [SUMMER '21](https://open.spotify.com/track/2Rw5QLA8JRa8JyBGrjcyev) | [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc) | [SUMMER '21](https://open.spotify.com/album/1Jr0pbkeWWmsjgEmh1LWCy) | 3:02 | 2022-05-11 | 2022-07-28 |
+| [Sunday](https://open.spotify.com/track/79slMuiNDsDAUkyaECBcoc) | [BEAT SOMEONE](https://open.spotify.com/artist/5RYJ7hcKqMGA7bPLXN7ouY), [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd) | [Sunday](https://open.spotify.com/album/3SizZnd3U3JAWvgiCiK7ny) | 3:16 | 2022-12-26 |  |
 | [Sunflower Dance \(Feat\. Kebee\) \(Prod\. 216project\)](https://open.spotify.com/track/526ORYv4twK8QIP18Z5156) | [Gun](https://open.spotify.com/artist/5X2qBbPoIF30jC9XZU2QU6) | [Sunflower Dance \(Feat\. Kebee\)](https://open.spotify.com/album/18ee1z3u6oWWVH5eRyUUfT) | 3:30 | 2022-05-11 | 2022-07-28 |
 | [Thank You](https://open.spotify.com/track/3tUs4ckhlaxd5oBjfziABQ) | [Keebomb](https://open.spotify.com/artist/5DUmtdaAb44NZFu0sv0DP7) | [Good Morning](https://open.spotify.com/album/6b4wJXGf9d8tyncSEeRG06) | 2:52 | 2022-05-11 | 2022-07-17 |
 | [the best](https://open.spotify.com/track/14hv5oFtKi8YjyBFWEYb0f) | [Won Jang](https://open.spotify.com/artist/0qygfMwBnBWSto1ty1FmXS) | [The Best](https://open.spotify.com/album/7IcrCpUgjSuVCougQxZWO0) | 3:59 | 2022-05-11 | 2022-07-20 |

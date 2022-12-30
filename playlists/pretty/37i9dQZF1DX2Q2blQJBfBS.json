@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 26207,
+  "num_followers": 26627,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDQ3YjUzMGRiM2FjZDRjM2ZkY2U3YjVkZjRjMjEyYTkw",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDhmMThjZDUxMDcwNTFjMzdmOTE4NGNhOWQ5MjkxOWQy",
   "tracks": [
     {
       "added_at": "2022-05-10 19:26:35",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "The Sun's Tirade",
-        "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        }
-      ],
-      "duration_ms": 232571,
-      "name": "4r Da Squaw",
-      "url": "https://open.spotify.com/track/71lyUtIPCMAYjTwwwxy2jW"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Buttons",
         "url": "https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 228440,
       "name": "Buttons",
       "url": "https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "The Sun's Tirade",
+        "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "duration_ms": 232571,
+      "name": "4r Da Squaw",
+      "url": "https://open.spotify.com/track/71lyUtIPCMAYjTwwwxy2jW"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/6ywnTBL62OTd8HUaztJizb"
     },
     {
-      "added_at": "2022-12-29 01:13:52",
+      "added_at": "2022-12-30 00:59:27",
       "album": {
         "name": "One More",
         "url": "https://open.spotify.com/album/1iplLu9MsH5FMf35L6sZq3"
@@ -779,26 +779,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "God Bless The Child",
-        "url": "https://open.spotify.com/album/4PXGJHjmwPOZjQyCz6tRzE"
-      },
-      "artists": [
-        {
-          "name": "Nick Grant",
-          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
-        },
-        {
-          "name": "Tae Beast",
-          "url": "https://open.spotify.com/artist/4r2BR0weBo7onIaWzsNSOI"
-        }
-      ],
-      "duration_ms": 160879,
-      "name": "FEDS",
-      "url": "https://open.spotify.com/track/0X9tyUxH6fPN0C2BgESONf"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Bread",
         "url": "https://open.spotify.com/album/6HB5Nq7lSjvTs3gJom6BXI"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 175581,
       "name": "Roman Candles (feat. Roc Marciano & Black Thought)",
       "url": "https://open.spotify.com/track/3jj5c4DGogPb9xglsxl4BI"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "God Bless The Child",
+        "url": "https://open.spotify.com/album/4PXGJHjmwPOZjQyCz6tRzE"
+      },
+      "artists": [
+        {
+          "name": "Nick Grant",
+          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
+        },
+        {
+          "name": "Tae Beast",
+          "url": "https://open.spotify.com/artist/4r2BR0weBo7onIaWzsNSOI"
+        }
+      ],
+      "duration_ms": 160879,
+      "name": "FEDS",
+      "url": "https://open.spotify.com/track/0X9tyUxH6fPN0C2BgESONf"
     },
     {
       "added_at": "2022-05-27 13:52:51",
@@ -869,23 +869,7 @@
       "url": "https://open.spotify.com/track/5hbpUs8trEqNLftzB57HZr"
     },
     {
-      "added_at": "2022-05-27 12:00:00",
-      "album": {
-        "name": "Carry Me Home",
-        "url": "https://open.spotify.com/album/1xpKoUZGkJAXmF804iJmTh"
-      },
-      "artists": [
-        {
-          "name": "ZekeUltra",
-          "url": "https://open.spotify.com/artist/66rjQYZAzWZ9n933ytcoTg"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Carry Me Home",
-      "url": "https://open.spotify.com/track/0jQPVM41l6xWzynX7mIflu"
-    },
-    {
-      "added_at": "2022-12-29 01:13:52",
+      "added_at": "2022-12-30 00:59:27",
       "album": {
         "name": "I Turned Myself into Myself",
         "url": "https://open.spotify.com/album/6tmKZYFGFxsZHgJwTeUERQ"
@@ -903,6 +887,22 @@
       "duration_ms": 212979,
       "name": "No Magic No Music",
       "url": "https://open.spotify.com/track/5jpw0BnkTdib2YS0KfCSdz"
+    },
+    {
+      "added_at": "2022-05-27 12:00:00",
+      "album": {
+        "name": "Carry Me Home",
+        "url": "https://open.spotify.com/album/1xpKoUZGkJAXmF804iJmTh"
+      },
+      "artists": [
+        {
+          "name": "ZekeUltra",
+          "url": "https://open.spotify.com/artist/66rjQYZAzWZ9n933ytcoTg"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/0jQPVM41l6xWzynX7mIflu"
     },
     {
       "added_at": "2022-05-13 12:00:00",
@@ -1141,7 +1141,7 @@
       "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
     },
     {
-      "added_at": "2022-12-29 01:13:52",
+      "added_at": "2022-12-30 00:59:27",
       "album": {
         "name": "Narcan",
         "url": "https://open.spotify.com/album/4D1kEyNNQvPZy4sJ3togDl"
@@ -1159,6 +1159,26 @@
       "duration_ms": 116173,
       "name": "Narcan",
       "url": "https://open.spotify.com/track/4AQV6hS4o5XZGBqc3Pps5d"
+    },
+    {
+      "added_at": "2022-07-08 12:00:00",
+      "album": {
+        "name": "Capital Punishment (Explicit Version)",
+        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
+      },
+      "artists": [
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "N.O.R.E.",
+          "url": "https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "You Came Up (feat. Noreaga)",
+      "url": "https://open.spotify.com/track/2uh3tuSkLydG8QpxY4cqgQ"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1197,24 +1217,20 @@
       "url": "https://open.spotify.com/track/32vb0qbbgiZbOkl2N22rIK"
     },
     {
-      "added_at": "2022-07-08 12:00:00",
+      "added_at": "2022-12-30 00:59:27",
       "album": {
-        "name": "Capital Punishment (Explicit Version)",
-        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
+        "name": "YOD Presents: The Shining",
+        "url": "https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM"
       },
       "artists": [
         {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        },
-        {
-          "name": "N.O.R.E.",
-          "url": "https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p"
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
         }
       ],
-      "duration_ms": 234133,
-      "name": "You Came Up (feat. Noreaga)",
-      "url": "https://open.spotify.com/track/2uh3tuSkLydG8QpxY4cqgQ"
+      "duration_ms": 153886,
+      "name": "Here's Johnny",
+      "url": "https://open.spotify.com/track/6cHurzh0uUnafG4HwOpRWK"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1235,22 +1251,6 @@
       "duration_ms": 350400,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/7frJEBqz0olVg8sQpXD5BF"
-    },
-    {
-      "added_at": "2022-12-29 01:13:52",
-      "album": {
-        "name": "YOD Presents: The Shining",
-        "url": "https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        }
-      ],
-      "duration_ms": 153886,
-      "name": "Here's Johnny",
-      "url": "https://open.spotify.com/track/6cHurzh0uUnafG4HwOpRWK"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1297,30 +1297,6 @@
       "url": "https://open.spotify.com/track/5UgkmxdEqJV0WqBVcLmrSG"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "2 P'z In A Pod",
-        "url": "https://open.spotify.com/album/2l1r2KjXbu22wGvNixnlbk"
-      },
-      "artists": [
-        {
-          "name": "Jay Worthy",
-          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "LNDN DRGS",
-          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
-        }
-      ],
-      "duration_ms": 177819,
-      "name": "Vanilla Cream",
-      "url": "https://open.spotify.com/track/12h2DHtHRrxrhe1mc5QmKm"
-    },
-    {
       "added_at": "2022-07-22 04:00:00",
       "album": {
         "name": "Beep",
@@ -1343,6 +1319,30 @@
       "duration_ms": 171219,
       "name": "Beep",
       "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "2 P'z In A Pod",
+        "url": "https://open.spotify.com/album/2l1r2KjXbu22wGvNixnlbk"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "LNDN DRGS",
+          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
+        }
+      ],
+      "duration_ms": 177819,
+      "name": "Vanilla Cream",
+      "url": "https://open.spotify.com/track/12h2DHtHRrxrhe1mc5QmKm"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1453,22 +1453,6 @@
       "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "When Rappers Attack",
-        "url": "https://open.spotify.com/album/5JlBzh8mNPpjSZYkcofV4a"
-      },
-      "artists": [
-        {
-          "name": "Tame One",
-          "url": "https://open.spotify.com/artist/1EoI42jrKtZiXtti5YormP"
-        }
-      ],
-      "duration_ms": 100933,
-      "name": "Slick Talkin'",
-      "url": "https://open.spotify.com/track/61asDMua0oGUCDXOhIsN0u"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Balens Cho (Hot Candles)",
@@ -1483,6 +1467,22 @@
       "duration_ms": 168000,
       "name": "LABOU",
       "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "When Rappers Attack",
+        "url": "https://open.spotify.com/album/5JlBzh8mNPpjSZYkcofV4a"
+      },
+      "artists": [
+        {
+          "name": "Tame One",
+          "url": "https://open.spotify.com/artist/1EoI42jrKtZiXtti5YormP"
+        }
+      ],
+      "duration_ms": 100933,
+      "name": "Slick Talkin'",
+      "url": "https://open.spotify.com/track/61asDMua0oGUCDXOhIsN0u"
     },
     {
       "added_at": "2022-06-24 12:00:00",
@@ -1761,22 +1761,6 @@
       "url": "https://open.spotify.com/track/30jfHyUlszF66IV2xlp8BM"
     },
     {
-      "added_at": "2022-12-29 01:13:52",
-      "album": {
-        "name": "One Man Army",
-        "url": "https://open.spotify.com/album/5r8TqJW9lIFw6easkGvqU0"
-      },
-      "artists": [
-        {
-          "name": "Apathy",
-          "url": "https://open.spotify.com/artist/6fK2hnSgfRPxR6sL975XQS"
-        }
-      ],
-      "duration_ms": 204956,
-      "name": "One Man Army",
-      "url": "https://open.spotify.com/track/6bOQpInkCrN8xixyBv9aG2"
-    },
-    {
       "added_at": "2022-05-20 12:00:00",
       "album": {
         "name": "Hold On",
@@ -1811,6 +1795,22 @@
       "duration_ms": 221029,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/70vNbz9XdqTzDHSh3MILZY"
+    },
+    {
+      "added_at": "2022-12-30 00:59:27",
+      "album": {
+        "name": "One Man Army",
+        "url": "https://open.spotify.com/album/5r8TqJW9lIFw6easkGvqU0"
+      },
+      "artists": [
+        {
+          "name": "Apathy",
+          "url": "https://open.spotify.com/artist/6fK2hnSgfRPxR6sL975XQS"
+        }
+      ],
+      "duration_ms": 204956,
+      "name": "One Man Army",
+      "url": "https://open.spotify.com/track/6bOQpInkCrN8xixyBv9aG2"
     },
     {
       "added_at": "2022-10-29 04:00:00",
@@ -1913,7 +1913,7 @@
       "url": "https://open.spotify.com/track/2HfwP1SaxQTGPwobr06lXP"
     },
     {
-      "added_at": "2022-12-29 01:13:52",
+      "added_at": "2022-12-30 00:59:27",
       "album": {
         "name": "Deutsche Marks 3",
         "url": "https://open.spotify.com/album/7k9IS4gC6f5ERorZ8eScJu"
@@ -1933,22 +1933,6 @@
       "url": "https://open.spotify.com/track/6z6yb0LVcMSuHXS0oCpUvx"
     },
     {
-      "added_at": "2022-10-29 04:00:00",
-      "album": {
-        "name": "The Last Remnants",
-        "url": "https://open.spotify.com/album/2I5gEMVij8Z6mEJlItaTrt"
-      },
-      "artists": [
-        {
-          "name": "Che Noir",
-          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
-        }
-      ],
-      "duration_ms": 152655,
-      "name": "Therapy Session",
-      "url": "https://open.spotify.com/track/3Km9evmYEbOWSoAviuhJNA"
-    },
-    {
       "added_at": "2022-08-12 12:00:00",
       "album": {
         "name": "I'll Fight You",
@@ -1963,6 +1947,30 @@
       "duration_ms": 163058,
       "name": "I'll Fight You",
       "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
+    },
+    {
+      "added_at": "2022-05-13 12:00:00",
+      "album": {
+        "name": "Classic Nuts Vol. 1",
+        "url": "https://open.spotify.com/album/7KaF7n11alFO2bnACY7Ypi"
+      },
+      "artists": [
+        {
+          "name": "The Beatnuts",
+          "url": "https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX"
+        },
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "Cuban Link",
+          "url": "https://open.spotify.com/artist/1ZAujONMGo6GGiHxDQCGeA"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "Off the Books (feat. Big Pun & Cuban Link)",
+      "url": "https://open.spotify.com/track/7bzw2mWw2pPAARJfZoapRN"
     }
   ],
   "unique_name": "The Skate Shop",

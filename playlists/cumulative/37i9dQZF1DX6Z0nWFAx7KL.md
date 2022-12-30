@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-115 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/1BWpzWShYoBy84VHt9IlwY)
+116 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/1BWpzWShYoBy84VHt9IlwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [About You](https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:52 | 2022-09-15 |  |
 | [Afterglow](https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Afterglow](https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG) | 2:32 | 2022-12-22 |  |
 | [All of Me](https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [All of Me](https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu) | 2:41 | 2022-09-15 |  |
+| [All Shook Up](https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [All Shook Up](https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83) | 2:34 | 2022-12-29 |  |
 | [All The Highs \- Slowed](https://open.spotify.com/track/5aiGF3goUtkx6c5vObwEY9) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [All The Highs \(Alternate Versions\)](https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc) | 3:51 | 2022-12-18 |  |
 | [Anything](https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Anything](https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF) | 2:23 | 2022-09-15 |  |
 | [Beautiful](https://open.spotify.com/track/3yj6Hc5nO7t88CUAss0tHH) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Beautiful](https://open.spotify.com/album/1CWzpNbClW9MWEhKcprnHC) | 2:55 | 2022-09-15 | 2022-09-30 |
@@ -90,7 +91,7 @@
 | [Ocean Drive](https://open.spotify.com/track/7lN0cKK4jrnolhjv0myUGm) | [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ), [Manil](https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl) | [Ocean Drive](https://open.spotify.com/album/3vIjOeb2pMV5FfpTk3tOYf) | 2:33 | 2022-09-15 | 2022-12-13 |
 | [On My Mind](https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz) | [Sem Vox](https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45) | [On My Mind](https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS) | 2:35 | 2022-09-15 |  |
 | [One More Night](https://open.spotify.com/track/6ndYXyIxeRv7pS4hHH830J) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [One More Night](https://open.spotify.com/album/1yysGeBcekP8zwh286sr5y) | 2:12 | 2022-11-08 | 2022-11-24 |
-| [Out Of Love](https://open.spotify.com/track/3U4v6cVqZK4mfPas99eT4W) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Out Of Love](https://open.spotify.com/album/0FdPHF3vnJRYVSdn2GxekW) | 2:35 | 2022-09-29 |  |
+| [Out Of Love](https://open.spotify.com/track/3U4v6cVqZK4mfPas99eT4W) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Out Of Love](https://open.spotify.com/album/0FdPHF3vnJRYVSdn2GxekW) | 2:35 | 2022-09-29 | 2022-12-30 |
 | [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 | 2022-09-15 | 2022-09-30 |
 | [Put Your Lips On Mine](https://open.spotify.com/track/3SN5Y2nOIyX8oY6HiFYsSm) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Kimotion](https://open.spotify.com/artist/6X4zocbF8W6mPR9UFIvQ3z), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Put Your Lips On Mine](https://open.spotify.com/album/5OQhMEDQ5iKAZ5mUXtJCf8) | 2:44 | 2022-09-15 |  |
 | [Rebirth](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 4:44 | 2022-09-15 |  |

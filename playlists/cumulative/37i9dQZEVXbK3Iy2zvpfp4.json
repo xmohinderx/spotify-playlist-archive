@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-26",
+      "date_removed": null,
       "duration_ms": 115200,
       "name": "BANKAI",
       "url": "https://open.spotify.com/track/33sPNJZxIi4Qq9jy4rACPJ"
@@ -6001,7 +6001,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 217103,
       "name": "Mentalit\u00e9",
       "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
@@ -6457,7 +6457,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 153417,
       "name": "MONTAGEM CHAPAD\u00c3O DE CRACK - BEAT MATA NOIA",
       "url": "https://open.spotify.com/track/0N79QeEVAKnjLatqFL5N3a"
@@ -6587,6 +6587,24 @@
       "duration_ms": 220096,
       "name": "Musta Been a Ghost",
       "url": "https://open.spotify.com/track/0AZTpwagcDe4nH0mPcnYhS"
+    },
+    {
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/1Tjp6BgHLP9edVLtp8Ze59"
+      },
+      "artists": [
+        {
+          "name": "Ctill",
+          "url": "https://open.spotify.com/artist/47diE7gubS7rniBjkHsQPY"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182961,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/0iSqhiWAE3HsFnceweStpA"
     },
     {
       "album": {
@@ -8010,6 +8028,24 @@
     },
     {
       "album": {
+        "name": "Polozhenie (Night Lovell)",
+        "url": "https://open.spotify.com/album/1yvE4BZmnSe4DQYOBizzJ7"
+      },
+      "artists": [
+        {
+          "name": "darkramex",
+          "url": "https://open.spotify.com/artist/4DmsfcrT1Hj21kFheDrIjs"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178912,
+      "name": "Polozhenie (Night Lovell)",
+      "url": "https://open.spotify.com/track/1QiuOoj2J7JzPqRID19mVQ"
+    },
+    {
+      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/7yePounUspaQfanDsw6nI0"
       },
@@ -8295,7 +8331,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 235555,
       "name": "Ramenez la coupe \u00e0 la maison",
       "url": "https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m"
@@ -8995,7 +9031,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 165428,
       "name": "She's A 10 But...",
       "url": "https://open.spotify.com/track/2DfRgLfkNb8nU1wMcMK0fD"
@@ -11735,7 +11771,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 149333,
       "name": "Zajtra",
       "url": "https://open.spotify.com/track/7FR8mQJc9q5xtWhY6O1m9r"

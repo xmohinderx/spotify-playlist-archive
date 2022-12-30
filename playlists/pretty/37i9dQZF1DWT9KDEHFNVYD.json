@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 7958,
+  "num_followers": 7968,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODgzNTk4NiwwMDAwMDAwMDk1ZDU2NTNiODk1NmYyZWU2YmFlYmJlZTMwNmM5MTE5",
+  "snapshot_id": "MTY2ODgzNTk4NiwwMDAwMDAwMDJhMzBlN2IwNjNmMzFiZjZlMDExODM0ZTIzYjg0YWFh",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -515,22 +515,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "You Look Certain (I\u2019m Not So Sure) [WXAXRXP Session]",
         "url": "https://open.spotify.com/album/3tPGDPk4zOrdlBsuS01jci"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 334979,
       "name": "You Look Certain (I\u2019m Not So Sure) - WXAXRXP Session",
       "url": "https://open.spotify.com/track/691HbefeRbA751TYr9PCGJ"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -647,18 +647,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+        "name": "Love What Survives",
+        "url": "https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit"
       },
       "artists": [
         {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
         }
       ],
-      "duration_ms": 189040,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
+      "duration_ms": 253746,
+      "name": "Audition",
+      "url": "https://open.spotify.com/track/0iXG53cL42szbZuZUGBfXC"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -679,38 +679,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Chinese Restaurant",
-        "url": "https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X"
-      },
-      "artists": [
-        {
-          "name": "Krisma",
-          "url": "https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb"
-        }
-      ],
-      "duration_ms": 329786,
-      "name": "C.Rock",
-      "url": "https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Love What Survives",
-        "url": "https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        }
-      ],
-      "duration_ms": 253746,
-      "name": "Audition",
-      "url": "https://open.spotify.com/track/0iXG53cL42szbZuZUGBfXC"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Murder of the Universe",
         "url": "https://open.spotify.com/album/2y5bwmtV2nSBUrVoWzGXmS"
       },
@@ -727,18 +695,34 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "A Ghost Is Born (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
       "artists": [
         {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 642200,
-      "name": "Spiders (Kidsmoke)",
-      "url": "https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp"
+      "duration_ms": 189040,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Chinese Restaurant",
+        "url": "https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X"
+      },
+      "artists": [
+        {
+          "name": "Krisma",
+          "url": "https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb"
+        }
+      ],
+      "duration_ms": 329786,
+      "name": "C.Rock",
+      "url": "https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -759,6 +743,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "A Ghost Is Born (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 642200,
+      "name": "Spiders (Kidsmoke)",
+      "url": "https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Boxed In",
         "url": "https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 310040,
       "name": "All Your Love is Gone",
       "url": "https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "F\u00fcr mich",
-        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dinger",
-          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
-        }
-      ],
-      "duration_ms": 566520,
-      "name": "F\u00fcr Dich",
-      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
     },
     {
       "added_at": "2022-03-29 02:06:14",
@@ -807,6 +791,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "F\u00fcr mich",
+        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dinger",
+          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
+        }
+      ],
+      "duration_ms": 566520,
+      "name": "F\u00fcr Dich",
+      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Switched On",
         "url": "https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "With Dim Light",
-        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
-      },
-      "artists": [
-        {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
-        }
-      ],
-      "duration_ms": 346883,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Masana Temples",
         "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 220238,
       "name": "Fluffy Kosmisch",
       "url": "https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "With Dim Light",
+        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
+      },
+      "artists": [
+        {
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+        }
+      ],
+      "duration_ms": 346883,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221701,
-      "name": "Asteroid Witch",
-      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Lodger (2017 Remaster)",
         "url": "https://open.spotify.com/album/0S5nxDIEprOH23QeDoMeFK"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Transparent Things",
-        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
       },
       "artists": [
         {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
         }
       ],
-      "duration_ms": 250029,
-      "name": "Conductor 71",
-      "url": "https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz"
+      "duration_ms": 221701,
+      "name": "Asteroid Witch",
+      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
+        "name": "Transparent Things",
+        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
       },
       "artists": [
         {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
         }
       ],
-      "duration_ms": 381868,
-      "name": "The Sound of all Things",
-      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
+      "duration_ms": 250029,
+      "name": "Conductor 71",
+      "url": "https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1063,6 +1047,22 @@
       "duration_ms": 309733,
       "name": "Opa-Loka",
       "url": "https://open.spotify.com/track/3Lr8LULx6VXGqf3FeiVjC0"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "duration_ms": 381868,
+      "name": "The Sound of all Things",
+      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
     },
     {
       "added_at": "2022-08-09 01:36:21",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "void beats/invocation trex",
-        "url": "https://open.spotify.com/album/7vDuLO8bzESr0BF7wWgaPX"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 233903,
-      "name": "melody in high feedback tones",
-      "url": "https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "How To Live",
         "url": "https://open.spotify.com/album/0Dws98dPcBFr4xXKfX57Dg"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 319574,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/5WOAj3m0NWLiteJUEsbdmy"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "void beats/invocation trex",
+        "url": "https://open.spotify.com/album/7vDuLO8bzESr0BF7wWgaPX"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 233903,
+      "name": "melody in high feedback tones",
+      "url": "https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
     },
     {
-      "added_at": "2022-03-18 05:36:55",
-      "album": {
-        "name": "Osa Polar",
-        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
-      },
-      "artists": [
-        {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
-        }
-      ],
-      "duration_ms": 282169,
-      "name": "Osa Polar",
-      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Stars Are the Light",
@@ -1263,6 +1247,22 @@
       "duration_ms": 288031,
       "name": "The World and the Sun",
       "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
+    },
+    {
+      "added_at": "2022-03-18 05:36:55",
+      "album": {
+        "name": "Osa Polar",
+        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "duration_ms": 282169,
+      "name": "Osa Polar",
+      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "A World of Masks",
-        "url": "https://open.spotify.com/album/0R1du3OpntlnAoctD8EL1a"
-      },
-      "artists": [
-        {
-          "name": "The Heliocentrics",
-          "url": "https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv"
-        }
-      ],
-      "duration_ms": 331453,
-      "name": "The Uncertainty Principle",
-      "url": "https://open.spotify.com/track/1KcoD4YKx4uydopVkBqb0Q"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Musik von Harmonia",
         "url": "https://open.spotify.com/album/5uPRvwQy9NmNMeEhgs99bW"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 211013,
       "name": "Dino",
       "url": "https://open.spotify.com/track/4msdGxw6WCALEE00oVOf3V"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "A World of Masks",
+        "url": "https://open.spotify.com/album/0R1du3OpntlnAoctD8EL1a"
+      },
+      "artists": [
+        {
+          "name": "The Heliocentrics",
+          "url": "https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv"
+        }
+      ],
+      "duration_ms": 331453,
+      "name": "The Uncertainty Principle",
+      "url": "https://open.spotify.com/track/1KcoD4YKx4uydopVkBqb0Q"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1777,20 +1777,20 @@
       "url": "https://open.spotify.com/track/6For0xsv97TPl1X1093Lpv"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2021-10-21 19:32:25",
       "album": {
-        "name": "Blood Drums",
-        "url": "https://open.spotify.com/album/1mLFEzALzHJrGQEqwP53Bf"
+        "name": "SGTP",
+        "url": "https://open.spotify.com/album/6pkBLRfLIgSEtaq9BSb5Vm"
       },
       "artists": [
         {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+          "name": "Sgt. Papers",
+          "url": "https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri"
         }
       ],
-      "duration_ms": 139162,
-      "name": "irradiated dream mouth",
-      "url": "https://open.spotify.com/track/54hLH64JLbIPAhD4E9o2vu"
+      "duration_ms": 208784,
+      "name": "\u00c9chale Campe\u00f3n",
+      "url": "https://open.spotify.com/track/5A5jLIwW2aYCLagxpwF6MJ"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1809,20 +1809,20 @@
       "url": "https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e"
     },
     {
-      "added_at": "2021-10-21 19:32:25",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "SGTP",
-        "url": "https://open.spotify.com/album/6pkBLRfLIgSEtaq9BSb5Vm"
+        "name": "Blood Drums",
+        "url": "https://open.spotify.com/album/1mLFEzALzHJrGQEqwP53Bf"
       },
       "artists": [
         {
-          "name": "Sgt. Papers",
-          "url": "https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri"
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
         }
       ],
-      "duration_ms": 208784,
-      "name": "\u00c9chale Campe\u00f3n",
-      "url": "https://open.spotify.com/track/5A5jLIwW2aYCLagxpwF6MJ"
+      "duration_ms": 139162,
+      "name": "irradiated dream mouth",
+      "url": "https://open.spotify.com/track/54hLH64JLbIPAhD4E9o2vu"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "LP",
-        "url": "https://open.spotify.com/album/3WIwlESqNDJjhxuUjLLSUd"
-      },
-      "artists": [
-        {
-          "name": "Holy Fuck",
-          "url": "https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11"
-        }
-      ],
-      "duration_ms": 356720,
-      "name": "The Pulse",
-      "url": "https://open.spotify.com/track/4IZaX9YDhGG9sbZtGDpRLo"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "20.000 \u00c9guas Submarinas",
         "url": "https://open.spotify.com/album/5LVzphBxyTVvgtLDeUtX3E"
       },
@@ -2291,6 +2275,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "LP",
+        "url": "https://open.spotify.com/album/3WIwlESqNDJjhxuUjLLSUd"
+      },
+      "artists": [
+        {
+          "name": "Holy Fuck",
+          "url": "https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11"
+        }
+      ],
+      "duration_ms": 356720,
+      "name": "The Pulse",
+      "url": "https://open.spotify.com/track/4IZaX9YDhGG9sbZtGDpRLo"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Throw Down Bones",
         "url": "https://open.spotify.com/album/33MrXle1z2UahYH4NrFl4w"
       },
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": ">>",
-        "url": "https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7"
-      },
-      "artists": [
-        {
-          "name": "Beak>",
-          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
-        }
-      ],
-      "duration_ms": 375146,
-      "name": "Spinning Top",
-      "url": "https://open.spotify.com/track/2np2IgkTkID6IyHc4pessR"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "A Group Called CoBrA",
         "url": "https://open.spotify.com/album/4sjcbdfcx3yjwHRWpyCWxn"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 273000,
       "name": "F\u00f3rmula",
       "url": "https://open.spotify.com/track/73ubQI2yVmQyVhKFMzEd5J"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": ">>",
+        "url": "https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7"
+      },
+      "artists": [
+        {
+          "name": "Beak>",
+          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
+        }
+      ],
+      "duration_ms": 375146,
+      "name": "Spinning Top",
+      "url": "https://open.spotify.com/track/2np2IgkTkID6IyHc4pessR"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2375,18 +2375,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Turtle Skull",
-        "url": "https://open.spotify.com/album/2kbtjfE3P9Kf4tJS9kLxIL"
+        "name": "Latin",
+        "url": "https://open.spotify.com/album/45nMlmlIPPDVWSCDwdvCB9"
       },
       "artists": [
         {
-          "name": "Turtle Skull",
-          "url": "https://open.spotify.com/artist/128UKyvBiHlCxTKzkwmcK8"
+          "name": "Holy Fuck",
+          "url": "https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11"
         }
       ],
-      "duration_ms": 506573,
-      "name": "Take It or Leave It",
-      "url": "https://open.spotify.com/track/3LOIshI7mOuWUHsjeFqbd5"
+      "duration_ms": 313973,
+      "name": "Silva & Grimes",
+      "url": "https://open.spotify.com/track/7MQ0frhsOQGYv4lHDyGeUi"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2407,18 +2407,34 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Latin",
-        "url": "https://open.spotify.com/album/45nMlmlIPPDVWSCDwdvCB9"
+        "name": "Turtle Skull",
+        "url": "https://open.spotify.com/album/2kbtjfE3P9Kf4tJS9kLxIL"
       },
       "artists": [
         {
-          "name": "Holy Fuck",
-          "url": "https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11"
+          "name": "Turtle Skull",
+          "url": "https://open.spotify.com/artist/128UKyvBiHlCxTKzkwmcK8"
         }
       ],
-      "duration_ms": 313973,
-      "name": "Silva & Grimes",
-      "url": "https://open.spotify.com/track/7MQ0frhsOQGYv4lHDyGeUi"
+      "duration_ms": 506573,
+      "name": "Take It or Leave It",
+      "url": "https://open.spotify.com/track/3LOIshI7mOuWUHsjeFqbd5"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Gnistrande Sn\u00f6",
+        "url": "https://open.spotify.com/album/3TkRl6ngbXSTWdWVP083Bl"
+      },
+      "artists": [
+        {
+          "name": "Astrel K",
+          "url": "https://open.spotify.com/artist/206Opt8XsXddl0GcjHoESx"
+        }
+      ],
+      "duration_ms": 287102,
+      "name": "Gnistrande Sn\u00f6",
+      "url": "https://open.spotify.com/track/6P9zzoMapXXZWPtVsSHYRL"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2439,18 +2455,34 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Gnistrande Sn\u00f6",
-        "url": "https://open.spotify.com/album/3TkRl6ngbXSTWdWVP083Bl"
+        "name": "Blurt + Singles",
+        "url": "https://open.spotify.com/album/0eI7DNGtlzqQfisyB5AJVN"
       },
       "artists": [
         {
-          "name": "Astrel K",
-          "url": "https://open.spotify.com/artist/206Opt8XsXddl0GcjHoESx"
+          "name": "Blurt",
+          "url": "https://open.spotify.com/artist/0dkXwqAwKvZUWBI4C3UNFY"
         }
       ],
-      "duration_ms": 287102,
-      "name": "Gnistrande Sn\u00f6",
-      "url": "https://open.spotify.com/track/6P9zzoMapXXZWPtVsSHYRL"
+      "duration_ms": 411653,
+      "name": "Trees",
+      "url": "https://open.spotify.com/track/563KxKAXHndNrUf5mv3vSY"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Anthem of the Moon",
+        "url": "https://open.spotify.com/album/42V18DJtTkpd9KOwdGZsTQ"
+      },
+      "artists": [
+        {
+          "name": "Oneida",
+          "url": "https://open.spotify.com/artist/6If4kQp0rhfVgAZDNudjjS"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "All Arounder",
+      "url": "https://open.spotify.com/track/12mlu80PHxRpfkBTZaEbvc"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2483,38 +2515,6 @@
       "duration_ms": 276026,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Anthem of the Moon",
-        "url": "https://open.spotify.com/album/42V18DJtTkpd9KOwdGZsTQ"
-      },
-      "artists": [
-        {
-          "name": "Oneida",
-          "url": "https://open.spotify.com/artist/6If4kQp0rhfVgAZDNudjjS"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "All Arounder",
-      "url": "https://open.spotify.com/track/12mlu80PHxRpfkBTZaEbvc"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Blurt + Singles",
-        "url": "https://open.spotify.com/album/0eI7DNGtlzqQfisyB5AJVN"
-      },
-      "artists": [
-        {
-          "name": "Blurt",
-          "url": "https://open.spotify.com/artist/0dkXwqAwKvZUWBI4C3UNFY"
-        }
-      ],
-      "duration_ms": 411653,
-      "name": "Trees",
-      "url": "https://open.spotify.com/track/563KxKAXHndNrUf5mv3vSY"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2661,22 +2661,6 @@
       "url": "https://open.spotify.com/track/5WGmLM0nMtO775vTu7mEvo"
     },
     {
-      "added_at": "2022-05-03 13:26:46",
-      "album": {
-        "name": "How to Live",
-        "url": "https://open.spotify.com/album/5POjcUDNjhhnQB1mLHmbNX"
-      },
-      "artists": [
-        {
-          "name": "Seeland",
-          "url": "https://open.spotify.com/artist/4psDwfD7MEB0bOZkVhUjTy"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "Black Dot, White Spider",
-      "url": "https://open.spotify.com/track/1nFxC87M8SUll6J96Ivdab"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Spiritual",
@@ -2691,6 +2675,22 @@
       "duration_ms": 328491,
       "name": "Spiritual",
       "url": "https://open.spotify.com/track/01GBvr5jhJR4Bdhy9vTTkE"
+    },
+    {
+      "added_at": "2022-05-03 13:26:46",
+      "album": {
+        "name": "How to Live",
+        "url": "https://open.spotify.com/album/5POjcUDNjhhnQB1mLHmbNX"
+      },
+      "artists": [
+        {
+          "name": "Seeland",
+          "url": "https://open.spotify.com/artist/4psDwfD7MEB0bOZkVhUjTy"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "Black Dot, White Spider",
+      "url": "https://open.spotify.com/track/1nFxC87M8SUll6J96Ivdab"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2725,20 +2725,20 @@
       "url": "https://open.spotify.com/track/74i8ZvI8NxVPsCLo55DUeQ"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2022-04-12 01:56:05",
       "album": {
-        "name": "Silver Apples of the Moon",
-        "url": "https://open.spotify.com/album/6Gn0aaXxQIHZPKPpdf6gnR"
+        "name": "#1",
+        "url": "https://open.spotify.com/album/7HDJJWfuhMj1f21CjvbIs7"
       },
       "artists": [
         {
-          "name": "Laika",
-          "url": "https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR"
+          "name": "Escuela de Aviaci\u00f3n",
+          "url": "https://open.spotify.com/artist/2aLFaSGBmtMdrNmbeYmyXN"
         }
       ],
-      "duration_ms": 236640,
-      "name": "Red River",
-      "url": "https://open.spotify.com/track/6ZfAdzf2NIYpqW6US0YyLt"
+      "duration_ms": 226304,
+      "name": "Hogar sin sue\u00f1o",
+      "url": "https://open.spotify.com/track/7cHDpA7nNmD0wrk3KG51pE"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2759,6 +2759,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Silver Apples of the Moon",
+        "url": "https://open.spotify.com/album/6Gn0aaXxQIHZPKPpdf6gnR"
+      },
+      "artists": [
+        {
+          "name": "Laika",
+          "url": "https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR"
+        }
+      ],
+      "duration_ms": 236640,
+      "name": "Red River",
+      "url": "https://open.spotify.com/track/6ZfAdzf2NIYpqW6US0YyLt"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Driving This Road Until Death Sets You Free",
         "url": "https://open.spotify.com/album/5A90lH9RRt5QotLIbY84N1"
       },
@@ -2771,22 +2787,6 @@
       "duration_ms": 345426,
       "name": "Driving This Road Until Death Sets You Free",
       "url": "https://open.spotify.com/track/6P8FNidnNwaKq6SOCJvc4F"
-    },
-    {
-      "added_at": "2022-04-12 01:56:05",
-      "album": {
-        "name": "#1",
-        "url": "https://open.spotify.com/album/7HDJJWfuhMj1f21CjvbIs7"
-      },
-      "artists": [
-        {
-          "name": "Escuela de Aviaci\u00f3n",
-          "url": "https://open.spotify.com/artist/2aLFaSGBmtMdrNmbeYmyXN"
-        }
-      ],
-      "duration_ms": 226304,
-      "name": "Hogar sin sue\u00f1o",
-      "url": "https://open.spotify.com/track/7cHDpA7nNmD0wrk3KG51pE"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2823,54 +2823,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/22D9pZw4hhTceJs1PXNvCU"
-      },
-      "artists": [
-        {
-          "name": "Arik Lau",
-          "url": "https://open.spotify.com/artist/4rz7kEjrjWdjWU19m2MZib"
-        }
-      ],
-      "duration_ms": 265342,
-      "name": "Waiting for the Sun",
-      "url": "https://open.spotify.com/track/2eoH10XUEWtBecxA6HpFDb"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Vitamin C",
-        "url": "https://open.spotify.com/album/0k6PhlLZhRtVTyvpUf15cs"
-      },
-      "artists": [
-        {
-          "name": "Birdy Bardot",
-          "url": "https://open.spotify.com/artist/0fLUN3EcqC9nKhHKYOQ539"
-        }
-      ],
-      "duration_ms": 234011,
-      "name": "Vitamin C",
-      "url": "https://open.spotify.com/track/7FXto7Zpf3ClVRMdQRZwKr"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Lost in Space",
-        "url": "https://open.spotify.com/album/35opvJnSyRlCVsc5P0ZMYh"
-      },
-      "artists": [
-        {
-          "name": "Laika",
-          "url": "https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR"
-        }
-      ],
-      "duration_ms": 323186,
-      "name": "Lower Than Stars",
-      "url": "https://open.spotify.com/track/3mLsvORkCUgi3OARPKUx5m"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Uno de Estos D\u00edas",
         "url": "https://open.spotify.com/album/4bkFmSdZeSN3ZgP8ouFBhU"
       },
@@ -2903,6 +2855,38 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/22D9pZw4hhTceJs1PXNvCU"
+      },
+      "artists": [
+        {
+          "name": "Arik Lau",
+          "url": "https://open.spotify.com/artist/4rz7kEjrjWdjWU19m2MZib"
+        }
+      ],
+      "duration_ms": 265342,
+      "name": "Waiting for the Sun",
+      "url": "https://open.spotify.com/track/2eoH10XUEWtBecxA6HpFDb"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Lost in Space",
+        "url": "https://open.spotify.com/album/35opvJnSyRlCVsc5P0ZMYh"
+      },
+      "artists": [
+        {
+          "name": "Laika",
+          "url": "https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR"
+        }
+      ],
+      "duration_ms": 323186,
+      "name": "Lower Than Stars",
+      "url": "https://open.spotify.com/track/3mLsvORkCUgi3OARPKUx5m"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Investigaciones Sobre Ciclos y Secuencias",
         "url": "https://open.spotify.com/album/6Puex5SRRoPvpvWKZxwlut"
       },
@@ -2915,6 +2899,22 @@
       "duration_ms": 232785,
       "name": "Bot\u00e1nica Aplicada",
       "url": "https://open.spotify.com/track/4ivhPX4n1RiNwkkmO5I5hJ"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Vitamin C",
+        "url": "https://open.spotify.com/album/0k6PhlLZhRtVTyvpUf15cs"
+      },
+      "artists": [
+        {
+          "name": "Birdy Bardot",
+          "url": "https://open.spotify.com/artist/0fLUN3EcqC9nKhHKYOQ539"
+        }
+      ],
+      "duration_ms": 234011,
+      "name": "Vitamin C",
+      "url": "https://open.spotify.com/track/7FXto7Zpf3ClVRMdQRZwKr"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -3081,22 +3081,6 @@
       "url": "https://open.spotify.com/track/3vETfQdOcYmSaYe8Zo8yNH"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Higamos Hogamos",
-        "url": "https://open.spotify.com/album/5hN3Bn8wBFJpTMusU0CWq7"
-      },
-      "artists": [
-        {
-          "name": "Higamos Hogamos",
-          "url": "https://open.spotify.com/artist/0DiNMXqFoSwz5NA8mre686"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "Infinity Plus One",
-      "url": "https://open.spotify.com/track/704eXLJ2a1MNfzF0KHuSg0"
-    },
-    {
       "added_at": "2022-04-26 23:30:30",
       "album": {
         "name": "One Living Genus (Radio Edit)",
@@ -3111,6 +3095,22 @@
       "duration_ms": 531000,
       "name": "One Living Genus - Radio Edit",
       "url": "https://open.spotify.com/track/5FXwxiPP7dDUrYmhkVdpMb"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Higamos Hogamos",
+        "url": "https://open.spotify.com/album/5hN3Bn8wBFJpTMusU0CWq7"
+      },
+      "artists": [
+        {
+          "name": "Higamos Hogamos",
+          "url": "https://open.spotify.com/artist/0DiNMXqFoSwz5NA8mre686"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "Infinity Plus One",
+      "url": "https://open.spotify.com/track/704eXLJ2a1MNfzF0KHuSg0"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -3211,22 +3211,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Plumb",
-        "url": "https://open.spotify.com/album/53yBScfQowE0OjwfUs0lIb"
-      },
-      "artists": [
-        {
-          "name": "Field Music",
-          "url": "https://open.spotify.com/artist/5P1tdwsQdI6z9MXXfmYRDS"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "Just Like Everyone Else",
-      "url": "https://open.spotify.com/track/7JGpBzoinHGOEmZgxQBWIb"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Germinal (Extended Edition)",
         "url": "https://open.spotify.com/album/0xLGYnKzNcvLg6OfFYb049"
       },
@@ -3239,6 +3223,22 @@
       "duration_ms": 201208,
       "name": "Wait",
       "url": "https://open.spotify.com/track/6gNidLFcZTi6Lf5BuKJz81"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Plumb",
+        "url": "https://open.spotify.com/album/53yBScfQowE0OjwfUs0lIb"
+      },
+      "artists": [
+        {
+          "name": "Field Music",
+          "url": "https://open.spotify.com/artist/5P1tdwsQdI6z9MXXfmYRDS"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "Just Like Everyone Else",
+      "url": "https://open.spotify.com/track/7JGpBzoinHGOEmZgxQBWIb"
     },
     {
       "added_at": "2021-07-30 14:56:06",

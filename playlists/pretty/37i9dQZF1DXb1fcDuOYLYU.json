@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Women's History Month with these powerful voices. Cover: Greeicy",
-  "num_followers": 23643,
+  "num_followers": 23688,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMDZmMDg5ODBkYTc3ZmViZTYwZGE0ODc3MWI0NmEzMTc1",
+  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMGM5MzliYjIxMzc3YmRmOGU5NjljODAwYzY0OGJkMGIw",
   "tracks": [
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "Flotando",
+        "url": "https://open.spotify.com/album/5oauhyLdeLTkCcv8bqjjZK"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 242063,
+      "name": "Flotando",
+      "url": "https://open.spotify.com/track/2AoRRax8pJeQEj9nGDUKob"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Aguardiente (Remix)",
         "url": "https://open.spotify.com/album/6MEDIrVfxoDBboJMDjlqvh"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 212413,
       "name": "Soy As\u00ed",
       "url": "https://open.spotify.com/track/2f59UKerWyhPoPkhdozMZM"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Flotando",
-        "url": "https://open.spotify.com/album/5oauhyLdeLTkCcv8bqjjZK"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 242063,
-      "name": "Flotando",
-      "url": "https://open.spotify.com/track/2AoRRax8pJeQEj9nGDUKob"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "NTN",
-        "url": "https://open.spotify.com/album/4aqRx97DXSOUdkT3cRYtrI"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 184336,
-      "name": "NTN",
-      "url": "https://open.spotify.com/track/0LeTs7ArmNbMEoZnJFemWn"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "15",
         "url": "https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 160203,
       "name": "Y T\u00fa No Est\u00e1s - Versi\u00f3n Banda",
       "url": "https://open.spotify.com/track/26Y1kBZAMkH5rGxv5nwfJx"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "NTN",
+        "url": "https://open.spotify.com/album/4aqRx97DXSOUdkT3cRYtrI"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 184336,
+      "name": "NTN",
+      "url": "https://open.spotify.com/track/0LeTs7ArmNbMEoZnJFemWn"
     },
     {
       "added_at": "2022-03-28 14:23:43",

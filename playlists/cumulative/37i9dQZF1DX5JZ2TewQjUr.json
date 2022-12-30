@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Gwenji",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Billy Choi",
   "name": "+852 Rising",
   "published_playlist_ids": [
     "3cSFMATQHJw7Fzc2uC3LB1"
@@ -121,6 +121,24 @@
       "duration_ms": 254609,
       "name": "247",
       "url": "https://open.spotify.com/track/5MvZpSUkVwtWScGm5uJAGA"
+    },
+    {
+      "album": {
+        "name": "96930\u7f85\u74e6\u6d85\u7c73",
+        "url": "https://open.spotify.com/album/1uRs5Z84RzvNZRnGGQ9gWn"
+      },
+      "artists": [
+        {
+          "name": "\u859b\u5fb7\u52c7 Monkey",
+          "url": "https://open.spotify.com/artist/3JwDfxWk8xVPg2ia8CN3MS"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182306,
+      "name": "96930\u7f85\u74e6\u6d85\u7c73",
+      "url": "https://open.spotify.com/track/1gE9ZZdEKULhuzAIk70C68"
     },
     {
       "album": {
@@ -956,6 +974,24 @@
     },
     {
       "album": {
+        "name": "Fall Back to Bed",
+        "url": "https://open.spotify.com/album/5OEo32Wm1ZtWAMuw29R7Ql"
+      },
+      "artists": [
+        {
+          "name": "Charming Way",
+          "url": "https://open.spotify.com/artist/1us1dhuQC9cgSiJT3qEQJb"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221902,
+      "name": "Fall Back to Bed",
+      "url": "https://open.spotify.com/track/1BW0b9QJiuT3V2x9J3IytA"
+    },
+    {
+      "album": {
         "name": "FALLEN",
         "url": "https://open.spotify.com/album/528YTSLjZ9z61w2q21zzuo"
       },
@@ -1250,6 +1286,24 @@
     },
     {
       "album": {
+        "name": "Gigi",
+        "url": "https://open.spotify.com/album/0WnVwquHKlCPWJbZO9upzd"
+      },
+      "artists": [
+        {
+          "name": "Gwenji",
+          "url": "https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250992,
+      "name": "Gigi",
+      "url": "https://open.spotify.com/track/2iIk4RyJRWVa4l0t0fiQWs"
+    },
+    {
+      "album": {
         "name": "Give It Up (Live)",
         "url": "https://open.spotify.com/album/7mOFUTdjtYNv8AkBmV1ZxI"
       },
@@ -1439,6 +1493,24 @@
       "duration_ms": 233750,
       "name": "Here's Hopin'",
       "url": "https://open.spotify.com/track/7bZ8q4lFrzHkkY92VA4smb"
+    },
+    {
+      "album": {
+        "name": "hibernate (draft)",
+        "url": "https://open.spotify.com/album/03fBYQPyVcvYBp9ysYvN5s"
+      },
+      "artists": [
+        {
+          "name": "kan",
+          "url": "https://open.spotify.com/artist/1lBTgx2dax8DTyeZ4URvzZ"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90666,
+      "name": "hibernate (draft)",
+      "url": "https://open.spotify.com/track/6fiIyM18sV5beMMf9eaQ3C"
     },
     {
       "album": {
@@ -1901,6 +1973,28 @@
       "duration_ms": 170932,
       "name": "lately",
       "url": "https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr"
+    },
+    {
+      "album": {
+        "name": "Leave-Taking (feat. Daniel Chu)",
+        "url": "https://open.spotify.com/album/1e1jFXUM49FsaZy09zSDxr"
+      },
+      "artists": [
+        {
+          "name": "WHIZZ",
+          "url": "https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe"
+        },
+        {
+          "name": "Daniel Chu",
+          "url": "https://open.spotify.com/artist/6cE2k1b1Vz0jWil3gChUp2"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "Leave-Taking (feat. Daniel Chu)",
+      "url": "https://open.spotify.com/track/2t1uIVzsYvR0GHXAWd4lLu"
     },
     {
       "album": {
@@ -2616,6 +2710,24 @@
     },
     {
       "album": {
+        "name": "ON MY WAYYY",
+        "url": "https://open.spotify.com/album/7pOuDzFn6miNFa3Ri1qATX"
+      },
+      "artists": [
+        {
+          "name": "ProdiG",
+          "url": "https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164378,
+      "name": "ON MY WAYYY",
+      "url": "https://open.spotify.com/track/3PrffNnl6qw9Wwk5qMLgGt"
+    },
+    {
+      "album": {
         "name": "only u know",
         "url": "https://open.spotify.com/album/5DYBpJHNV9YYVRqRamDRKI"
       },
@@ -2890,6 +3002,24 @@
     },
     {
       "album": {
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/2YTZ1JrnsiUwlXArIQYMje"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Yang",
+          "url": "https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/2SVZHdvZX6wLCufft9ybBZ"
+    },
+    {
+      "album": {
         "name": "S.H.I.T",
         "url": "https://open.spotify.com/album/27pguvAfmV3j5kDAc07XqU"
       },
@@ -3071,6 +3201,24 @@
       "duration_ms": 228661,
       "name": "Skin",
       "url": "https://open.spotify.com/track/6QQ8Kh5B0p6ynMyQ85twG1"
+    },
+    {
+      "album": {
+        "name": "Rainy Days in the Blue Whale",
+        "url": "https://open.spotify.com/album/477KtPkwvfcOTAzHs9pf7q"
+      },
+      "artists": [
+        {
+          "name": "Lester Lam",
+          "url": "https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243124,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/1CwgcuwoetZAczJIeIcvIJ"
     },
     {
       "album": {
@@ -3382,6 +3530,24 @@
     },
     {
       "album": {
+        "name": "Feelings I Wish I Told You",
+        "url": "https://open.spotify.com/album/5khW3QpCxtyAeVfMa1vNRD"
+      },
+      "artists": [
+        {
+          "name": "Thewzy",
+          "url": "https://open.spotify.com/artist/4RU4k4WMO5OtU6zsHHM7Co"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217111,
+      "name": "Sweetest Bubble Love",
+      "url": "https://open.spotify.com/track/1leFRbTWjH5neWNUuOSdc3"
+    },
+    {
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/10YPFcXMzBP9qdC8jEOcpT"
       },
@@ -3563,6 +3729,28 @@
       "duration_ms": 192000,
       "name": "This Is Our Time",
       "url": "https://open.spotify.com/track/53gylyBSKjTAlYQx2OBMol"
+    },
+    {
+      "album": {
+        "name": "TOLD U DAT",
+        "url": "https://open.spotify.com/album/5I874yTOuHrDLcKz8u4PZl"
+      },
+      "artists": [
+        {
+          "name": "Cho Lewis",
+          "url": "https://open.spotify.com/artist/5BaaV8FQjtT55m4zS2FdNa"
+        },
+        {
+          "name": "DatBettie",
+          "url": "https://open.spotify.com/artist/6ISxX5nIpeCWvvkxUihgOB"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78987,
+      "name": "TOLD U DAT",
+      "url": "https://open.spotify.com/track/0CZ8sssUaH57ZOuXl7fhnP"
     },
     {
       "album": {
@@ -4944,6 +5132,28 @@
     },
     {
       "album": {
+        "name": "Flash Fantasy",
+        "url": "https://open.spotify.com/album/6sROpvwy4P8mR276IzcUIg"
+      },
+      "artists": [
+        {
+          "name": "Novel Flash",
+          "url": "https://open.spotify.com/artist/5XYIw1a2PQZH59E7h5XVwx"
+        },
+        {
+          "name": "BMW",
+          "url": "https://open.spotify.com/artist/7cZ5ljacIj0RGAxAjijeqC"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167537,
+      "name": "\u5e74\u8f15\u4fc2\u54aa\u7f6a (feat. BMW)",
+      "url": "https://open.spotify.com/track/4DKP8irqFwltfmHwuHkbOE"
+    },
+    {
+      "album": {
         "name": "\u5eb7\u6cf0\u65c5\u884c\u5718",
         "url": "https://open.spotify.com/album/2RAiaA2aitVPHBp1cNV5yD"
       },
@@ -4981,6 +5191,28 @@
       "duration_ms": 212500,
       "name": "\u5ee2\u4eba",
       "url": "https://open.spotify.com/track/3oQyBul5XtDGNTP0mvcCWQ"
+    },
+    {
+      "album": {
+        "name": "\u6027\u7d93 (Prod. \u5353\u5cf0)",
+        "url": "https://open.spotify.com/album/0HqXFTrL4f0dCjCzgGuLHl"
+      },
+      "artists": [
+        {
+          "name": "Slept Kid",
+          "url": "https://open.spotify.com/artist/411AHO70iqEDqL3ezTF7PP"
+        },
+        {
+          "name": "Salty Chick",
+          "url": "https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136799,
+      "name": "\u6027\u7d93 (Prod. \u5353\u5cf0)",
+      "url": "https://open.spotify.com/track/4HvxmxavpYk5qvNjcU645l"
     },
     {
       "album": {
@@ -5542,6 +5774,24 @@
     },
     {
       "album": {
+        "name": "\u6b7b\ud844\udcc1\u4ed4",
+        "url": "https://open.spotify.com/album/3HuM7AFXmJrz5DT5MtQ3sM"
+      },
+      "artists": [
+        {
+          "name": "Billy Choi",
+          "url": "https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142506,
+      "name": "\u6b7b\ud844\udcc1\u4ed4",
+      "url": "https://open.spotify.com/track/17wMXqTu0krrUIkuzuQZMj"
+    },
+    {
+      "album": {
         "name": "\u6bcf\u7576\u5e7b\u8b8a\u6642",
         "url": "https://open.spotify.com/album/5gJCrDw4K8YxkDyYMmCsld"
       },
@@ -5615,6 +5865,24 @@
       "duration_ms": 252501,
       "name": "\u6ce1\u5f71",
       "url": "https://open.spotify.com/track/1874TiUZ9SPZui9IjDHVaw"
+    },
+    {
+      "album": {
+        "name": "\u6d2a\u6d41\u8774\u8776",
+        "url": "https://open.spotify.com/album/1toBD8ZvYyMiJcrSUiNeT7"
+      },
+      "artists": [
+        {
+          "name": "FIESTER",
+          "url": "https://open.spotify.com/artist/2XFADx63n5mL7ZNnUwX8Aj"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234233,
+      "name": "\u6d2a\u6d41\u8774\u8776",
+      "url": "https://open.spotify.com/track/6bqXklAxAEl0Q5zMxaPDy1"
     },
     {
       "album": {
@@ -5795,6 +6063,24 @@
       "duration_ms": 196635,
       "name": "\u793e\u4ea4\u969c\u7919\u8cfd",
       "url": "https://open.spotify.com/track/0GDzj9jEbtnpzqURgfiIgd"
+    },
+    {
+      "album": {
+        "name": "\u689f",
+        "url": "https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls"
+      },
+      "artists": [
+        {
+          "name": "Novel Fergus",
+          "url": "https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213718,
+      "name": "\u795e\u8a71",
+      "url": "https://open.spotify.com/track/2LghoR88w97O8Szz4AKJWk"
     },
     {
       "album": {

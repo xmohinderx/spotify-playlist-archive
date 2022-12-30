@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 29965,
+  "num_followers": 30026,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQwNjM2OCwwMDAwMDAwMGZhZmJkZTJjZDQzOTBiY2ZmNTJlZGQ4N2Q2MmY3Yzkx",
+  "snapshot_id": "MTY2NTQwNjM2OCwwMDAwMDAwMDlkNzk3YWNlMDMzMzM2YWQ4NWU5YTFmZjJjYTZlZGUw",
   "tracks": [
     {
       "added_at": "2022-07-29 10:36:46",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
-      },
-      "artists": [
-        {
-          "name": "Jools Holland",
-          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "Roll 'Em",
-      "url": "https://open.spotify.com/track/0HTkU7FYXrtuBJnbh6MJvb"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 173293,
       "name": "The House of Blue Lights",
       "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
+      },
+      "artists": [
+        {
+          "name": "Jools Holland",
+          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "Roll 'Em",
+      "url": "https://open.spotify.com/track/0HTkU7FYXrtuBJnbh6MJvb"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "See You Later, Alligator",
-        "url": "https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s"
-      },
-      "artists": [
-        {
-          "name": "Bobby Charles",
-          "url": "https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Later Alligator (See You Later, Alligator)",
-      "url": "https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
         "name": "Piano Brotherhood (feat. Dani Gugolz, Peter M\u00fcller)",
         "url": "https://open.spotify.com/album/2CNgsFsRSxb6Yoo0PaRowl"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 221626,
       "name": "Boogie Woogie Blues",
       "url": "https://open.spotify.com/track/3yJ1aTo6qNkCNfDHiQ2vfX"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
+        "name": "See You Later, Alligator",
+        "url": "https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s"
+      },
+      "artists": [
+        {
+          "name": "Bobby Charles",
+          "url": "https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Later Alligator (See You Later, Alligator)",
+      "url": "https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu"
     },
     {
       "added_at": "2022-07-29 10:36:46",

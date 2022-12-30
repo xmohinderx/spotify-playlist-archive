@@ -4,7 +4,7 @@
 
 > ballon d'or 2023?
 
-742 songs - 1 day 8 hr 54 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+744 songs - 1 day 8 hr 59 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Joker](https://open.spotify.com/track/0g4CTDdkSQ2YbpM8ElnNqg) | [Yocee](https://open.spotify.com/artist/77TzeR7C0uNqn1uBPiqty6) | [Joker](https://open.spotify.com/album/32Lkj8gC7FsN1Gg9Zn2gcS) | 2:56 | 2022-11-10 | 2022-11-25 |
 | [Jungel](https://open.spotify.com/track/1mOHXk057Y2K322MbkB6cW) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Allt jag har](https://open.spotify.com/album/2lC2Ikke3js0INuXJdoKt2) | 3:19 | 2022-05-05 | 2022-05-20 |
 | [K.A.B](https://open.spotify.com/track/0eQnQIkGXKgkRZeWp0tSci) | [Jazlin](https://open.spotify.com/artist/2PXGoeN12YqSbK0fCpSPPl), [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH) | [K.A.B](https://open.spotify.com/album/09ZfS3qdGryVWizzi7dyob) | 3:12 | 2022-01-06 | 2022-03-04 |
+| [KALASH](https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [KALASH](https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f) | 2:10 | 2022-12-29 |  |
 | [Kalejdoskop](https://open.spotify.com/track/1YkRezYJi1XKYmhG1GidUd) | [Erk](https://open.spotify.com/artist/5HhJ4EfjcISuAIPnbz9B3c), [Käp](https://open.spotify.com/artist/13jd8ireAONmQcSDY3cMka), [Trainspotters](https://open.spotify.com/artist/4dq4bHaTzqLMpRwGJFuuxy) | [Northerntörpalisticarportmuzik](https://open.spotify.com/album/3uXQpUeiq0T1HkBG88763T) | 2:40 | 2021-12-16 | 2022-01-07 |
 | [KALLARNA](https://open.spotify.com/track/23QBUPGX3M7NcZZgVncrxT) | [2.clock](https://open.spotify.com/artist/5bEjof3z83fLcU9U56ceXp), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [KALLARNA](https://open.spotify.com/album/71KUyWkzULfQAFhhD22Zlv) | 2:06 | 2022-01-06 | 2022-02-21 |
 | [KAN DU HÖRA MIG](https://open.spotify.com/track/0axiFHTxgJ3lDyOcVUKYHM) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [KAN DU HÖRA MIG](https://open.spotify.com/album/2jyay8R58Y2lf2iwdzyByI) | 2:08 | 2022-05-16 | 2022-06-24 |
@@ -429,6 +430,7 @@
 | [M5](https://open.spotify.com/track/5S3JUCSK7SAkjEW7yoqjlP) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Sin City](https://open.spotify.com/album/6j79aZFeGayGLwBGsAOE2C) | 2:24 | 2022-01-06 | 2022-05-13 |
 | [MAGAZINE](https://open.spotify.com/track/41up0oLKR7aV5FWJcB0Z3F) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [MAGAZINE](https://open.spotify.com/album/6BRicQSOjuznb15diXZ2wD) | 2:37 | 2022-09-08 | 2022-11-04 |
 | [MALI](https://open.spotify.com/track/0zl5Se9SqRZnKANVB4wpvy) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [MALI](https://open.spotify.com/album/5ExBe33jMkl0LupEGyReqK) | 2:34 | 2021-12-16 | 2022-02-11 |
+| [MALIKA](https://open.spotify.com/track/1alOMzTdK2ucKmwbvXwjER) | [PABI](https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8) | [MALIKA](https://open.spotify.com/album/47AllaLHLbTjO6oE6RqFlO) | 2:53 | 2022-12-29 |  |
 | [Mama mia](https://open.spotify.com/track/19GNR6HUUjokoEZ1leN667) | [Nathan K](https://open.spotify.com/artist/0gjoWt9fRKf09gYem1xjn6) | [Mama mia](https://open.spotify.com/album/2EKFssEeg8sl1ct5WET1gb) | 2:29 | 2022-07-14 | 2022-08-05 |
 | [Mami](https://open.spotify.com/track/5y6IzqltRLzH0xYIQ3w87a) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [AMO](https://open.spotify.com/album/0rsdh7RmT619F6n5bwLsGn) | 2:19 | 2022-09-01 | 2022-10-14 |
 | [Mamma \- Radio Edit](https://open.spotify.com/track/2YV3wMymwagiDinVzdOX7p) | [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg) | [Mamma \(Radio Edit\)](https://open.spotify.com/album/5fNMbydvk1nvdXKkXj9dj4) | 2:40 | 2022-04-07 | 2022-05-13 |

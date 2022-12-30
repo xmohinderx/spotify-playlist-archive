@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 22561,
+  "num_followers": 22616,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYzNDI0MywwMDAwMDAwMDBjODA1NzViZmQ2MzM3YjExNDBkZDVlMjY0ZmE2OWJm",
+  "snapshot_id": "MTY1MDYzNDI0MywwMDAwMDAwMGNkNjk4MDc0MzNmMzFhNzc2NWE3ZTJiNTBkMGI2NTFm",
   "tracks": [
     {
       "added_at": "2022-04-22 13:30:43",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 196960,
-      "name": "All Through The Night",
-      "url": "https://open.spotify.com/track/3SzFMhHBt7bw0eS35946N6"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 276693,
       "name": "What Is This Thing Called Love",
       "url": "https://open.spotify.com/track/1ZaytyFQnDuAvGxglzlxfa"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 196960,
+      "name": "All Through The Night",
+      "url": "https://open.spotify.com/track/3SzFMhHBt7bw0eS35946N6"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -339,18 +339,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+        "name": "Mr. Top Hat",
+        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
         }
       ],
-      "duration_ms": 182453,
-      "name": "Miss Otis Regrets (She's Unable To Lunch Today)",
-      "url": "https://open.spotify.com/track/08LWacUp9nuE0TBxNxyGmi"
+      "duration_ms": 177213,
+      "name": "I've Got My Eyes On You",
+      "url": "https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -371,18 +371,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Mr. Top Hat",
-        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
       },
       "artists": [
         {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 177213,
-      "name": "I've Got My Eyes On You",
-      "url": "https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw"
+      "duration_ms": 182453,
+      "name": "Miss Otis Regrets (She's Unable To Lunch Today)",
+      "url": "https://open.spotify.com/track/08LWacUp9nuE0TBxNxyGmi"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
+        "name": "Bobby Short Loves Cole Porter",
+        "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Short",
+          "url": "https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk"
+        }
+      ],
+      "duration_ms": 203533,
+      "name": "You've Got That Thing",
+      "url": "https://open.spotify.com/track/5Wz59yK5Rm056tpvnpLNsM"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
         "name": "Beauty And The Beat! (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/7b4fckolZouZSA2OnnAl5z"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 183266,
       "name": "Do I Love You? - Live In Miami, FL/1959 / Remastered 2002",
       "url": "https://open.spotify.com/track/2CehTPb4F4syASYv3NmLix"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "Bobby Short Loves Cole Porter",
-        "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Short",
-          "url": "https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk"
-        }
-      ],
-      "duration_ms": 203533,
-      "name": "You've Got That Thing",
-      "url": "https://open.spotify.com/track/5Wz59yK5Rm056tpvnpLNsM"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Worktime (RVG)",
-        "url": "https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 369053,
-      "name": "It's All Right With Me",
-      "url": "https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "A Man and His Trombone",
         "url": "https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 168442,
       "name": "Silk Stockings",
       "url": "https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "Worktime (RVG)",
+        "url": "https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 369053,
+      "name": "It's All Right With Me",
+      "url": "https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp"
     },
     {
       "added_at": "2022-04-22 13:30:43",

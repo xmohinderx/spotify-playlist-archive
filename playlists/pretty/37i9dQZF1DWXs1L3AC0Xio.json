@@ -1,12 +1,12 @@
 {
   "description": "lighters up for these awesome rock ballads.",
-  "num_followers": 637280,
+  "num_followers": 637537,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYxMTYxMiwwMDAwMDAwMDE4NTMzZWU5ZWY0Y2EzNDlhYjdiZGQ2NWJmYmJiNTVj",
+  "snapshot_id": "MTY3MDYxMTYxMiwwMDAwMDAwMGEyNjk2ODExYmJlNGMyNjE5MDcwZDAxZTk1MDI3MjE2",
   "tracks": [
     {
       "added_at": "2022-10-07 05:00:00",
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY"
     },
     {
-      "added_at": "2022-12-29 00:15:14",
+      "added_at": "2022-12-30 01:03:49",
       "album": {
         "name": "AfterLife",
         "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/27TPpj59ml6N7las1h696d"
     },
     {
-      "added_at": "2022-12-29 00:15:14",
+      "added_at": "2022-12-30 01:03:49",
       "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D"
@@ -1415,22 +1415,18 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Hear Me Now (feat. DIAMANTE)",
-        "url": "https://open.spotify.com/album/74tazqoF1ry3hGIhXZXKUt"
+        "name": "The Present Is a Foreign Land",
+        "url": "https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi"
       },
       "artists": [
         {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        },
-        {
-          "name": "DIAMANTE",
-          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Hear Me Now (feat. DIAMANTE)",
-      "url": "https://open.spotify.com/track/51qppaTjmtD3fclww1e8W1"
+      "duration_ms": 232181,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/6yq5QzAu9BT4TgkGlmTf1y"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1451,18 +1447,22 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "The Present Is a Foreign Land",
-        "url": "https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi"
+        "name": "Hear Me Now (feat. DIAMANTE)",
+        "url": "https://open.spotify.com/album/74tazqoF1ry3hGIhXZXKUt"
       },
       "artists": [
         {
-          "name": "Deaf Havana",
-          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "DIAMANTE",
+          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
         }
       ],
-      "duration_ms": 232181,
-      "name": "Nevermind",
-      "url": "https://open.spotify.com/track/6yq5QzAu9BT4TgkGlmTf1y"
+      "duration_ms": 219760,
+      "name": "Hear Me Now (feat. DIAMANTE)",
+      "url": "https://open.spotify.com/track/51qppaTjmtD3fclww1e8W1"
     },
     {
       "added_at": "2022-10-07 05:00:00",

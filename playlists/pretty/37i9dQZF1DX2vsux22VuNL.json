@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Cynthia Luz",
-  "num_followers": 244354,
+  "num_followers": 244491,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NjkxNiwwMDAwMDAwMDhlMGJhODllNGVjODIzNjYyZmRiZWYyM2ZhMmQ1OTc3",
+  "snapshot_id": "MTY3MTc2NjkxNiwwMDAwMDAwMGE1ZjY1ZjUzYmJmMjI3N2E2MmNhNmIyZDRmMDlhNmY3",
   "tracks": [
     {
       "added_at": "2022-12-16 03:00:00",
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/7qoIhutxU269Zqo9PG5IOj"
     },
     {
-      "added_at": "2022-12-29 00:25:33",
+      "added_at": "2022-12-30 01:14:09",
       "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/4rYXjKPAqlSR1pieRKXeQ9"
     },
     {
-      "added_at": "2022-12-29 00:25:33",
+      "added_at": "2022-12-30 01:14:09",
       "album": {
         "name": "Org\u00e2nico Ver\u00e3o 2023",
         "url": "https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim"
@@ -607,26 +607,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Domingo",
-        "url": "https://open.spotify.com/album/6MByXphwkArV9VJG0rWmli"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 158625,
-      "name": "Domingo",
-      "url": "https://open.spotify.com/track/5ggmytpfhR9fzn7eKWH2MK"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Melhor Agora",
         "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 226858,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/1TLFwJfrTZgoX4bYWidddd"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Domingo",
+        "url": "https://open.spotify.com/album/6MByXphwkArV9VJG0rWmli"
+      },
+      "artists": [
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 158625,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/5ggmytpfhR9fzn7eKWH2MK"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Vai e Vem",
-        "url": "https://open.spotify.com/album/3vuUwsHvXA6UfOWIIjpBZm"
-      },
-      "artists": [
-        {
-          "name": "Giana",
-          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
-        }
-      ],
-      "duration_ms": 154060,
-      "name": "Vai e Vem",
-      "url": "https://open.spotify.com/track/6dhdxs7ELm5EvlhbV31hJh"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Me Diz Se Vem",
         "url": "https://open.spotify.com/album/2bpBWh3uOTFcjEb5EcPINx"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 177612,
       "name": "Me Diz Se Vem",
       "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Vai e Vem",
+        "url": "https://open.spotify.com/album/3vuUwsHvXA6UfOWIIjpBZm"
+      },
+      "artists": [
+        {
+          "name": "Giana",
+          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
+        }
+      ],
+      "duration_ms": 154060,
+      "name": "Vai e Vem",
+      "url": "https://open.spotify.com/track/6dhdxs7ELm5EvlhbV31hJh"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Marrenta",
-        "url": "https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 167574,
-      "name": "Marrenta",
-      "url": "https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Por Isso Me Liga",
         "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 219168,
       "name": "Por Isso Me Liga",
       "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Marrenta",
+        "url": "https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 167574,
+      "name": "Marrenta",
+      "url": "https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1599,38 +1599,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Sentir Saudade",
-        "url": "https://open.spotify.com/album/3YVXCU8NEDI9GQtk2Eg6NO"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Malcolm VL",
-          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
-        },
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 206451,
-      "name": "Sentir Saudade",
-      "url": "https://open.spotify.com/track/4LuSl1ajXHPZB1gGWQ069n"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Sem Ca\u00f4",
         "url": "https://open.spotify.com/album/6eeSG3JJ6CIfWLzcjQ53yM"
       },
@@ -1667,6 +1635,38 @@
       "duration_ms": 139480,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/14PoamgaKsFiwSlZ0Z2vFl"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Sentir Saudade",
+        "url": "https://open.spotify.com/album/3YVXCU8NEDI9GQtk2Eg6NO"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 206451,
+      "name": "Sentir Saudade",
+      "url": "https://open.spotify.com/track/4LuSl1ajXHPZB1gGWQ069n"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Ca\u00f3tico",
-        "url": "https://open.spotify.com/album/34JUsBa5YJgfglrO4Sum50"
-      },
-      "artists": [
-        {
-          "name": "jay",
-          "url": "https://open.spotify.com/artist/2gqq586gzI7e78XfL1Px3m"
-        },
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
-        }
-      ],
-      "duration_ms": 115545,
-      "name": "Ca\u00f3tico",
-      "url": "https://open.spotify.com/track/4fxeVtur2DaXvvHOk5hUh0"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "O Que Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 176000,
       "name": "O Que Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Ca\u00f3tico",
+        "url": "https://open.spotify.com/album/34JUsBa5YJgfglrO4Sum50"
+      },
+      "artists": [
+        {
+          "name": "jay",
+          "url": "https://open.spotify.com/artist/2gqq586gzI7e78XfL1Px3m"
+        },
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
+        }
+      ],
+      "duration_ms": 115545,
+      "name": "Ca\u00f3tico",
+      "url": "https://open.spotify.com/track/4fxeVtur2DaXvvHOk5hUh0"
     },
     {
       "added_at": "2022-12-16 03:00:00",

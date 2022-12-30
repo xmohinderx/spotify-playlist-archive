@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 81732,
+  "num_followers": 81765,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQwNjcwNSwwMDAwMDAwMGUwZjgxYjZhMzU5MWVlNDIyODY2Y2QzMGI0OTNiZjc2",
+  "snapshot_id": "MTY1NjQwNjcwNSwwMDAwMDAwMGQyYTczNjNiNzdlYzY2YzllNTE2N2U1NzE3NTBmZjUx",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -599,30 +599,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner, R.: Orchestral Highlights From Operas",
-        "url": "https://open.spotify.com/album/4X6uFJUvxxP1RbDmW1oh8T"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        },
-        {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
-        }
-      ],
-      "duration_ms": 740360,
-      "name": "Tannhauser: Venusberg Music",
-      "url": "https://open.spotify.com/track/7dVg4xa3NozZyuBhXkfa94"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Tristan und Isolde",
         "url": "https://open.spotify.com/album/0WhnBDbyzLqYlNn8RZT65H"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 318640,
       "name": "Tristan und Isolde / Act 2: \"O sink hernieder, Nacht der Liebe\"",
       "url": "https://open.spotify.com/track/5tKBByi2iXhWJ0CLouwpvU"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner, R.: Orchestral Highlights From Operas",
+        "url": "https://open.spotify.com/album/4X6uFJUvxxP1RbDmW1oh8T"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "duration_ms": 740360,
+      "name": "Tannhauser: Venusberg Music",
+      "url": "https://open.spotify.com/track/7dVg4xa3NozZyuBhXkfa94"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -919,6 +919,38 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: Siegfried, WWV 86C",
+        "url": "https://open.spotify.com/album/1KWsANADSRtAhadD5UfEA5"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Simon O'Neill",
+          "url": "https://open.spotify.com/artist/3nOe1h9SyhLnFEB5iYlbxw"
+        },
+        {
+          "name": "Heidi Melton",
+          "url": "https://open.spotify.com/artist/2f0QwltMQafffSUcJIN4bS"
+        },
+        {
+          "name": "Hong Kong Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
+        },
+        {
+          "name": "Jaap Van Zweden",
+          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
+        }
+      ],
+      "duration_ms": 406773,
+      "name": "Siegfried, WWV 86C, Act III: Siegfried! Siegfried! Seliger Held!",
+      "url": "https://open.spotify.com/track/2kcP9HDR2cvVZ8VpM87oW8"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Essentials",
         "url": "https://open.spotify.com/album/2J6V4iNZrA2YPl7ZA7H1tf"
       },
@@ -967,38 +999,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Siegfried, WWV 86C",
-        "url": "https://open.spotify.com/album/1KWsANADSRtAhadD5UfEA5"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Simon O'Neill",
-          "url": "https://open.spotify.com/artist/3nOe1h9SyhLnFEB5iYlbxw"
-        },
-        {
-          "name": "Heidi Melton",
-          "url": "https://open.spotify.com/artist/2f0QwltMQafffSUcJIN4bS"
-        },
-        {
-          "name": "Hong Kong Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
-        },
-        {
-          "name": "Jaap Van Zweden",
-          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
-        }
-      ],
-      "duration_ms": 406773,
-      "name": "Siegfried, WWV 86C, Act III: Siegfried! Siegfried! Seliger Held!",
-      "url": "https://open.spotify.com/track/2kcP9HDR2cvVZ8VpM87oW8"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: G\u00f6tterd\u00e4mmerung, WWV 86D",
         "url": "https://open.spotify.com/album/2BwDETrPtINRoAI1aLS26m"
       },
@@ -1019,62 +1019,6 @@
       "duration_ms": 309053,
       "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Prologue: Siegfrieds Rheinfahrt",
       "url": "https://open.spotify.com/track/5ho9ShMe6OLEpJHAR1lUnQ"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Parsifal",
-        "url": "https://open.spotify.com/album/2J8wkK5R3oVrOKnWQVbXCu"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Ren\u00e9 Pape",
-          "url": "https://open.spotify.com/artist/4H643hPA44WZRSbvXiYwQ5"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        },
-        {
-          "name": "Alexei Tanovitski",
-          "url": "https://open.spotify.com/artist/4Pxzsw0pdCfn67bW6bF66D"
-        },
-        {
-          "name": "Mariinsky Orchestra",
-          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
-        },
-        {
-          "name": "Violeta Urmana",
-          "url": "https://open.spotify.com/artist/5HRZLLjW8jC4Kqte3nptim"
-        },
-        {
-          "name": "Evgeny Nikitin",
-          "url": "https://open.spotify.com/artist/54B5CQqpjezJJcYpuslgAX"
-        },
-        {
-          "name": "Mariinsky Children's Chorus",
-          "url": "https://open.spotify.com/artist/7g5bIiGt7w8drBwtBUoXZQ"
-        },
-        {
-          "name": "Mariinsky Chorus",
-          "url": "https://open.spotify.com/artist/2esGRwnpJhd1gztq6qrbpO"
-        },
-        {
-          "name": "Nikolai Putilin",
-          "url": "https://open.spotify.com/artist/0L9FBSnHsitCWR9pfBzzyJ"
-        },
-        {
-          "name": "Gary Lehman",
-          "url": "https://open.spotify.com/artist/1jkXtb0T1H2Zjp9O1WNgaK"
-        }
-      ],
-      "duration_ms": 327135,
-      "name": "Parsifal, WWV 111: Act III, Scene XI, \"Hoechsten Heiles Wunder!\"",
-      "url": "https://open.spotify.com/track/3Ug2qU2ZfQWZpsSK6wQSXj"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1135,6 +1079,62 @@
       "duration_ms": 329146,
       "name": "Tristan und Isolde: Act I Scene 3: O Wunder! Wo hatt' ich die Augen? (Brangane, Tristan)",
       "url": "https://open.spotify.com/track/0spYUmbD692XiXXJvYEmIj"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Parsifal",
+        "url": "https://open.spotify.com/album/2J8wkK5R3oVrOKnWQVbXCu"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Ren\u00e9 Pape",
+          "url": "https://open.spotify.com/artist/4H643hPA44WZRSbvXiYwQ5"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Alexei Tanovitski",
+          "url": "https://open.spotify.com/artist/4Pxzsw0pdCfn67bW6bF66D"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Violeta Urmana",
+          "url": "https://open.spotify.com/artist/5HRZLLjW8jC4Kqte3nptim"
+        },
+        {
+          "name": "Evgeny Nikitin",
+          "url": "https://open.spotify.com/artist/54B5CQqpjezJJcYpuslgAX"
+        },
+        {
+          "name": "Mariinsky Children's Chorus",
+          "url": "https://open.spotify.com/artist/7g5bIiGt7w8drBwtBUoXZQ"
+        },
+        {
+          "name": "Mariinsky Chorus",
+          "url": "https://open.spotify.com/artist/2esGRwnpJhd1gztq6qrbpO"
+        },
+        {
+          "name": "Nikolai Putilin",
+          "url": "https://open.spotify.com/artist/0L9FBSnHsitCWR9pfBzzyJ"
+        },
+        {
+          "name": "Gary Lehman",
+          "url": "https://open.spotify.com/artist/1jkXtb0T1H2Zjp9O1WNgaK"
+        }
+      ],
+      "duration_ms": 327135,
+      "name": "Parsifal, WWV 111: Act III, Scene XI, \"Hoechsten Heiles Wunder!\"",
+      "url": "https://open.spotify.com/track/3Ug2qU2ZfQWZpsSK6wQSXj"
     },
     {
       "added_at": "2022-06-28 08:58:25",

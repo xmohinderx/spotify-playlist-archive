@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002cover: \u66fd\u6839 \u9ebb\u592e",
-  "num_followers": 21161,
+  "num_followers": 21185,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjE1MzIwMCwwMDAwMDAwMDI4MWM3ODViODk2ZmQ1ZWFlODg5ZTAwYzdiNjA0OTY3",
+  "snapshot_id": "MTY3MjE1MzIwMCwwMDAwMDAwMGM3NDNmNTQ3MWVjOTllZTgzODBhZWM4NjEyOWEzZDBj",
   "tracks": [
     {
       "added_at": "2022-12-27 15:00:00",
@@ -599,30 +599,6 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "Calming Influence",
-        "url": "https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ"
-      },
-      "artists": [
-        {
-          "name": "Sara Wakui",
-          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
-        },
-        {
-          "name": "Pecori",
-          "url": "https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t"
-        },
-        {
-          "name": "ODD Foot Works",
-          "url": "https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn"
-        }
-      ],
-      "duration_ms": 288092,
-      "name": "Calming Influence",
-      "url": "https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
         "name": "UNITY",
         "url": "https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 247893,
       "name": "Moonlight Syndrome",
       "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
+        "name": "Calming Influence",
+        "url": "https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        },
+        {
+          "name": "Pecori",
+          "url": "https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t"
+        },
+        {
+          "name": "ODD Foot Works",
+          "url": "https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn"
+        }
+      ],
+      "duration_ms": 288092,
+      "name": "Calming Influence",
+      "url": "https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N"
     },
     {
       "added_at": "2022-12-27 15:00:00",

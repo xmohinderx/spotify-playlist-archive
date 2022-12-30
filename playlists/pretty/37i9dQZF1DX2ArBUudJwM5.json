@@ -1,12 +1,12 @@
 {
   "description": "Las artistas que marcaron el a\u00f1o con Nicki Nicole en portada.",
-  "num_followers": 24402,
+  "num_followers": 24442,
   "original_name": "Lo mejor de EQUAL Argentina 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMDI5OTNmNjNkMjlmMjI4NTU0MzBmMjlhYThmOGE3NzI1",
+  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMDBjZWQzYTNkMmY0ZjYxMWY3YmUxMDA3ZGQyOTQ4OTQ2",
   "tracks": [
     {
       "added_at": "2022-11-30 13:00:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Lo Que Dicen de M\u00ed",
-        "url": "https://open.spotify.com/album/2xh8jQdye3snS91DyUWJjH"
-      },
-      "artists": [
-        {
-          "name": "La China",
-          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
-        }
-      ],
-      "duration_ms": 203049,
-      "name": "Lo Que Dicen de M\u00ed",
-      "url": "https://open.spotify.com/track/7qyAsohYX9IQVCUkzkJ1dY"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Nena Trampa",
         "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 135521,
       "name": "Jefa",
       "url": "https://open.spotify.com/track/1K2h9Y50wXiRsENQHLydZO"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Lo Que Dicen de M\u00ed",
+        "url": "https://open.spotify.com/album/2xh8jQdye3snS91DyUWJjH"
+      },
+      "artists": [
+        {
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
+        }
+      ],
+      "duration_ms": 203049,
+      "name": "Lo Que Dicen de M\u00ed",
+      "url": "https://open.spotify.com/track/7qyAsohYX9IQVCUkzkJ1dY"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Mi Loco Amor",
-        "url": "https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 213705,
-      "name": "Mi Loco Amor",
-      "url": "https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Me Va Muy Bien",
         "url": "https://open.spotify.com/album/6xgKnmMwkoGcG13zn8fZVf"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 141098,
       "name": "Me Va Muy Bien",
       "url": "https://open.spotify.com/track/35PyAwHXwuAzmUAPLEArgy"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Mi Loco Amor",
+        "url": "https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 213705,
+      "name": "Mi Loco Amor",
+      "url": "https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ"
     },
     {
       "added_at": "2022-11-30 13:00:00",

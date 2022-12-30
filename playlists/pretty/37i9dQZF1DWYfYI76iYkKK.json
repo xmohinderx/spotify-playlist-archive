@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 114614,
+  "num_followers": 114634,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTcyNDgwMCwwMDAwMDAwMDdlZmRkZjg4YzI0M2NkMGY3ZTM4NDQ5MWE1ZjUzY2Yw",
+  "snapshot_id": "MTY3MTcyNDgwMCwwMDAwMDAwMDVlZWYxZGYwMjI3NmEyM2I0MjRiMTc2ZjlmZjkzNTU5",
   "tracks": [
     {
       "added_at": "2022-12-22 16:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-12-22 16:00:00",
       "album": {
-        "name": "\u5361\u901a\u4eba\u7269",
-        "url": "https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5"
-      },
-      "artists": [
-        {
-          "name": "EggPlantEgg",
-          "url": "https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "\u65e5\u5e38",
-      "url": "https://open.spotify.com/track/7MLTCVNXFz5SFN84HSqYVg"
-    },
-    {
-      "added_at": "2022-12-22 16:00:00",
-      "album": {
         "name": "\u8fd9\u4e16\u754c\u90a3\u4e48\u591a\u4eba (\u7535\u5f71\u300a\u6211\u8981\u6211\u4eec\u5728\u4e00\u8d77\u300b\u4e3b\u9898\u66f2)",
         "url": "https://open.spotify.com/album/7loUfq99zoKzh5n2g68UkH"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 285833,
       "name": "\u8fd9\u4e16\u754c\u90a3\u4e48\u591a\u4eba - \u7535\u5f71\u300a\u6211\u8981\u6211\u4eec\u5728\u4e00\u8d77\u300b\u4e3b\u9898\u66f2",
       "url": "https://open.spotify.com/track/0CIndp98sle6N5oubW92Jp"
+    },
+    {
+      "added_at": "2022-12-22 16:00:00",
+      "album": {
+        "name": "\u5361\u901a\u4eba\u7269",
+        "url": "https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5"
+      },
+      "artists": [
+        {
+          "name": "EggPlantEgg",
+          "url": "https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "\u65e5\u5e38",
+      "url": "https://open.spotify.com/track/7MLTCVNXFz5SFN84HSqYVg"
     },
     {
       "added_at": "2022-12-22 16:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-12-22 16:00:00",
       "album": {
-        "name": "Remember (\u96fb\u5f71\u300a\u8ddf\u4f60\u8001\u5a46\u53bb\u65c5\u884c\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/7e8UzB4BkYm6cgp1rPlKRW"
-      },
-      "artists": [
-        {
-          "name": "\u5b88\u591c\u4eba",
-          "url": "https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "Remember - \u96fb\u5f71\u300a\u8ddf\u4f60\u8001\u5a46\u53bb\u65c5\u884c\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/4xB7mLuL2HxpU6r8W7ipK6"
-    },
-    {
-      "added_at": "2022-12-22 16:00:00",
-      "album": {
         "name": "\u8b0e\u4e4b\u97f3",
         "url": "https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 301666,
       "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
       "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
+    },
+    {
+      "added_at": "2022-12-22 16:00:00",
+      "album": {
+        "name": "Remember (\u96fb\u5f71\u300a\u8ddf\u4f60\u8001\u5a46\u53bb\u65c5\u884c\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/7e8UzB4BkYm6cgp1rPlKRW"
+      },
+      "artists": [
+        {
+          "name": "\u5b88\u591c\u4eba",
+          "url": "https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "Remember - \u96fb\u5f71\u300a\u8ddf\u4f60\u8001\u5a46\u53bb\u65c5\u884c\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/4xB7mLuL2HxpU6r8W7ipK6"
     },
     {
       "added_at": "2022-12-22 16:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-12-22 16:00:00",
       "album": {
-        "name": "\u597d\u597d\u5c0d\u5f85\u5979",
-        "url": "https://open.spotify.com/album/4rJmTaA232von1xGH17Tsa"
-      },
-      "artists": [
-        {
-          "name": "Rachel Liang",
-          "url": "https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp"
-        }
-      ],
-      "duration_ms": 232017,
-      "name": "\u4f60\u662f\u8aaa\u8b0a\u7684\u4eba",
-      "url": "https://open.spotify.com/track/69OyZ8v2TYJDwcdYLYPSI0"
-    },
-    {
-      "added_at": "2022-12-22 16:00:00",
-      "album": {
         "name": "!!!!",
         "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 216689,
       "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
       "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
+    },
+    {
+      "added_at": "2022-12-22 16:00:00",
+      "album": {
+        "name": "\u597d\u597d\u5c0d\u5f85\u5979",
+        "url": "https://open.spotify.com/album/4rJmTaA232von1xGH17Tsa"
+      },
+      "artists": [
+        {
+          "name": "Rachel Liang",
+          "url": "https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp"
+        }
+      ],
+      "duration_ms": 232017,
+      "name": "\u4f60\u662f\u8aaa\u8b0a\u7684\u4eba",
+      "url": "https://open.spotify.com/track/69OyZ8v2TYJDwcdYLYPSI0"
     },
     {
       "added_at": "2022-12-22 16:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-12-22 16:00:00",
       "album": {
-        "name": "The Joy Of Sorrow",
-        "url": "https://open.spotify.com/album/0xShV7TaXhCZ2WTwwFtwT9"
-      },
-      "artists": [
-        {
-          "name": "\u67ef\u667a\u68e0",
-          "url": "https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd"
-        }
-      ],
-      "duration_ms": 207434,
-      "name": "The Joy Of Sorrow",
-      "url": "https://open.spotify.com/track/78oPAwgoMFL9QxnueTuNwy"
-    },
-    {
-      "added_at": "2022-12-22 16:00:00",
-      "album": {
         "name": "\u53ef\u80fd\u662f\u6bd4\u8f03\u5167\u5411\u800c\u5df2",
         "url": "https://open.spotify.com/album/666sGx1Lrs4viYlxA4EjDN"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 231154,
       "name": "\u53ef\u80fd\u662f\u6bd4\u8f03\u5167\u5411\u800c\u5df2",
       "url": "https://open.spotify.com/track/1gYOBa9nInmoo52hOn4veq"
+    },
+    {
+      "added_at": "2022-12-22 16:00:00",
+      "album": {
+        "name": "The Joy Of Sorrow",
+        "url": "https://open.spotify.com/album/0xShV7TaXhCZ2WTwwFtwT9"
+      },
+      "artists": [
+        {
+          "name": "\u67ef\u667a\u68e0",
+          "url": "https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd"
+        }
+      ],
+      "duration_ms": 207434,
+      "name": "The Joy Of Sorrow",
+      "url": "https://open.spotify.com/track/78oPAwgoMFL9QxnueTuNwy"
     },
     {
       "added_at": "2022-12-22 16:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-12-22 16:00:00",
       "album": {
-        "name": "\u7d66\u5929\u738b\u661f",
-        "url": "https://open.spotify.com/album/4mrjsYBHIsDiYzHrYdxNfY"
-      },
-      "artists": [
-        {
-          "name": "Enno Cheng",
-          "url": "https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ"
-        }
-      ],
-      "duration_ms": 225655,
-      "name": "\u5c31\u7b97\u6211\u653e\u68c4\u4e86\u4e16\u754c",
-      "url": "https://open.spotify.com/track/5U02MVv6SGMigHeyKYC309"
-    },
-    {
-      "added_at": "2022-12-22 16:00:00",
-      "album": {
         "name": "\u76f8\u53cd\u7684\u662f",
         "url": "https://open.spotify.com/album/69yaUTVnjoxtsP7vTXqKxw"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 247324,
       "name": "\u597d\u5f37",
       "url": "https://open.spotify.com/track/4JFZsWTrCwk45XbRioOYiC"
+    },
+    {
+      "added_at": "2022-12-22 16:00:00",
+      "album": {
+        "name": "\u7d66\u5929\u738b\u661f",
+        "url": "https://open.spotify.com/album/4mrjsYBHIsDiYzHrYdxNfY"
+      },
+      "artists": [
+        {
+          "name": "Enno Cheng",
+          "url": "https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ"
+        }
+      ],
+      "duration_ms": 225655,
+      "name": "\u5c31\u7b97\u6211\u653e\u68c4\u4e86\u4e16\u754c",
+      "url": "https://open.spotify.com/track/5U02MVv6SGMigHeyKYC309"
     },
     {
       "added_at": "2022-12-22 16:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-12-22 16:00:00",
       "album": {
-        "name": "\u6211\u88ab\u653e\u4e0a\u5929\u7a7a",
-        "url": "https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y"
-      },
-      "artists": [
-        {
-          "name": "\u5b5f\u6167\u5713",
-          "url": "https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g"
-        }
-      ],
-      "duration_ms": 266085,
-      "name": "\u60f3\u5ff5\u64ec\u4eba\u5316",
-      "url": "https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7"
-    },
-    {
-      "added_at": "2022-12-22 16:00:00",
-      "album": {
         "name": "\u70ba\u4ec0\u9ebc\u53ea\u7559\u4e0b\u6211\u4e00\u500b",
         "url": "https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 226702,
       "name": "\u70ba\u4ec0\u9ebc\u53ea\u7559\u4e0b\u6211\u4e00\u500b",
       "url": "https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR"
+    },
+    {
+      "added_at": "2022-12-22 16:00:00",
+      "album": {
+        "name": "\u6211\u88ab\u653e\u4e0a\u5929\u7a7a",
+        "url": "https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y"
+      },
+      "artists": [
+        {
+          "name": "\u5b5f\u6167\u5713",
+          "url": "https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g"
+        }
+      ],
+      "duration_ms": 266085,
+      "name": "\u60f3\u5ff5\u64ec\u4eba\u5316",
+      "url": "https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7"
     },
     {
       "added_at": "2022-12-22 16:00:00",

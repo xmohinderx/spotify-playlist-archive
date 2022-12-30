@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,938 likes - 60 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,065 likes - 60 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 53 | [Ho Gaya Hai Tujhko To Pyar Sajna](https://open.spotify.com/track/7jV2zwwRKvHoLA8WFr3SCN) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Dilwale Dulhania Le Jayenge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj) | 5:49 |
 | 54 | [Chennai Express](https://open.spotify.com/track/2QDhzCaYd79t3sympjOUQY) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Chennai Express](https://open.spotify.com/album/08hhqmG2yI7741tXn2Zs4g) | 4:43 |
 | 55 | [Chhupana Bhi Nahin Aata](https://open.spotify.com/track/106VQOgiNwarz03Aegj7Yz) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 5:22 |
-| 56 | [Love You Zindagi \(From "Dear Zindagi"\)](https://open.spotify.com/track/0tZMTCvEzXWz7AvjzIPf1H) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Love You Zindagi \(From "Dear Zindagi"\)](https://open.spotify.com/album/5t4bdFFQvLYouhlhgetS8b) | 3:52 |
-| 57 | [Raat Ka Nasha](https://open.spotify.com/track/6c3Q6tMBsqucdb1TpPybGv) | [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Asoka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TTDo2dFKRUioHCPcfPpfz) | 5:14 |
+| 56 | [Raat Ka Nasha](https://open.spotify.com/track/6c3Q6tMBsqucdb1TpPybGv) | [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Asoka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TTDo2dFKRUioHCPcfPpfz) | 5:14 |
+| 57 | [Love You Zindagi \(From "Dear Zindagi"\)](https://open.spotify.com/track/0tZMTCvEzXWz7AvjzIPf1H) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Love You Zindagi \(From "Dear Zindagi"\)](https://open.spotify.com/album/5t4bdFFQvLYouhlhgetS8b) | 3:52 |
 | 58 | [Chaand Taare](https://open.spotify.com/track/0898lqIxzKWzUZxb5zT7C9) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 4:49 |
 | 59 | [Zara Sa Jhoom Loon Main](https://open.spotify.com/track/4AfLtSXcvG8AkfQjDR0gJ1) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Dilwale Dulhania Le Jayenge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj) | 5:53 |
 | 60 | [Mere Mehboob Mere Sanam](https://open.spotify.com/track/1hnLo3D6Hm2H9966DQ89Og) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Duplicate \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0JIO80l5DNOiaBlslwjbFN) | 6:59 |
 
-Snapshot ID: `MTY3MTY5MjI1OSwwMDAwMDAwMGNiY2MyMjFiYzQ4OTFmNjgxOGU3MzdhMmQzOGFjMDIw`
+Snapshot ID: `MTY3MTY5MjI1OSwwMDAwMDAwMDE3ZDliNGU5YjljNDVlMTU5NDg1ZTc3M2Q3M2UwMTJl`

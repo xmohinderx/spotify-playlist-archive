@@ -1,12 +1,12 @@
 {
   "description": "cute moments in fields and on dancefloors #SpotifyWrapped",
-  "num_followers": 6080,
+  "num_followers": 6349,
   "original_name": "dance tracks we hugged our friends to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxOTg1NCwwMDAwMDAwMDUzODAxYWFlMGY4MWI5Nzc5N2IxZDI5N2RhMDkyY2Mw",
+  "snapshot_id": "MTY2OTgxOTg1NCwwMDAwMDAwMDFmOTNhNzU4MDUxZTZhY2VjNjE5NGExMTc5OGU2OGI5",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "What I Breathe",
+        "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 294183,
+      "name": "Love Reigns",
+      "url": "https://open.spotify.com/track/7CGkR8BkFkvzrEXWYWB9gw"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "I Go (Remixes)",
         "url": "https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 329996,
       "name": "I Go - DJ Koze Remix",
       "url": "https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "What I Breathe",
-        "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
-      },
-      "artists": [
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 294183,
-      "name": "Love Reigns",
-      "url": "https://open.spotify.com/track/7CGkR8BkFkvzrEXWYWB9gw"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Endless Sky",
-        "url": "https://open.spotify.com/album/2gudZLuzUEnf5AXljy75vO"
-      },
-      "artists": [
-        {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
-        }
-      ],
-      "duration_ms": 159562,
-      "name": "Endless Sky",
-      "url": "https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 189422,
       "name": "To The Floor",
       "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Endless Sky",
+        "url": "https://open.spotify.com/album/2gudZLuzUEnf5AXljy75vO"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "duration_ms": 159562,
+      "name": "Endless Sky",
+      "url": "https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -903,18 +903,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/5VSjUsRU41obhoHo0ghMO0"
+        "name": "demon time",
+        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
       },
       "artists": [
         {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
         }
       ],
-      "duration_ms": 227603,
-      "name": "A Dedication",
-      "url": "https://open.spotify.com/track/7BijkGObSbahOwYpriNHPh"
+      "duration_ms": 191189,
+      "name": "2gether (with Gretel H\u00e4nlyn)",
+      "url": "https://open.spotify.com/track/1Wqd0R1X1tuVK9FySVyLpt"
     }
   ],
   "unique_name": "dance tracks we hugged our friends to in 2022",

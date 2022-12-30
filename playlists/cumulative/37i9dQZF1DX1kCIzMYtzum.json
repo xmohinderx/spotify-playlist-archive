@@ -1222,6 +1222,28 @@
     },
     {
       "album": {
+        "name": "Dance on My Own (feat. Richard Judge)",
+        "url": "https://open.spotify.com/album/5tJbmHZDu4DJwZrcHBB28s"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Richard Judge",
+          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214838,
+      "name": "Dance on My Own (feat. Richard Judge)",
+      "url": "https://open.spotify.com/track/0pMD1V0QbqSD7RhJmxDDJ9"
+    },
+    {
+      "album": {
         "name": "Dancing Alone",
         "url": "https://open.spotify.com/album/2KlV3JdXb7XIlj78Rdo53i"
       },
@@ -6009,7 +6031,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 251830,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/0PMNxtgeNSmPPp4aiA4T8F"

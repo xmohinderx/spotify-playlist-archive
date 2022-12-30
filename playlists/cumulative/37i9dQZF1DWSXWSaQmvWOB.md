@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-604 songs - 1 day 13 hr 8 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+606 songs - 1 day 13 hr 17 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Daylight](https://open.spotify.com/track/0cVrv8dZAhs19LKGX61EvS) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Daylight](https://open.spotify.com/album/3NdmyGu5zVDaihh0BGFnNx) | 3:52 | 2020-04-24 | 2020-10-09 |
 | [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 | 2022-09-29 |  |
 | [deeper](https://open.spotify.com/track/6sh4ZklLayp1PRAGPq1G2H) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [deeper / stoned love](https://open.spotify.com/album/4AHLaggnEuQA4rbv5xG3hG) | 4:39 | 2022-07-07 | 2022-09-13 |
-| [deeper](https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 4:39 | 2022-09-29 |  |
+| [deeper](https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 4:39 | 2022-09-29 | 2022-12-30 |
 | [Defection](https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW) | 4:05 | 2022-03-10 |  |
 | [Disconnected](https://open.spotify.com/track/0Xa5Jhkcl8pN5sIbrWblD0) | [Bastian Steven](https://open.spotify.com/artist/1WjUPqHiUz3DrX0l1PLsC5) | [Disconnected](https://open.spotify.com/album/0hiNbnGbVRaKBWbNvMlrfV) | 3:43 | 2020-05-15 | 2021-01-09 |
 | [Do Me](https://open.spotify.com/track/2DiFSnACmDmj9ngr1P2oaI) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Wolffpack](https://open.spotify.com/album/6C9fPbGsOHRjXIK5Lzf2cz) | 5:00 | 2021-02-06 | 2021-04-17 |
@@ -216,6 +216,7 @@
 | [Help Yourself](https://open.spotify.com/track/7pDuSAItbSQHp20Bawe1mn) | [ParHasard](https://open.spotify.com/artist/1o1TefZeFfaPOawy5qAuKx) | [Help Yourself](https://open.spotify.com/album/1UXP7UbTGB8uLWy3WVdjub) | 3:15 | 2022-02-10 |  |
 | [Here With Me \(feat\. Anderson .Paak\)](https://open.spotify.com/track/67JwJPsnpTB6jVwXgARZAn) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Good Morning Gorgeous](https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18) | 2:19 | 2022-02-10 | 2022-09-30 |
 | [Hero](https://open.spotify.com/track/2Y61ZvCuuLOhdkgl1B9ekh) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [KIWANUKA](https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ) | 3:19 | 2020-03-25\* | 2020-03-27 |
+| [High or Low](https://open.spotify.com/track/6mQbfAzeqWd1o8D3JuqbJ9) | [Paul van Kessel](https://open.spotify.com/artist/44nMuC7VvLiVjEzdvFEz3k) | [High or Low](https://open.spotify.com/album/63EdOSYMNpe16136WOhc04) | 4:58 | 2022-12-29 |  |
 | [Higher](https://open.spotify.com/track/7KMIMHMUV8kZJmeX8F7zuN) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ), [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Higher](https://open.spotify.com/album/2FGydD8obP61PUKLoFXFL9) | 3:34 | 2021-06-04 | 2022-07-29 |
 | [Hills](https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Hills](https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0) | 3:01 | 2021-12-16 |  |
 | [Hold On](https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Hold On](https://open.spotify.com/album/3WWfApLKg76DOgntZABET6) | 3:23 | 2020-10-30 | 2021-07-02 |
@@ -458,7 +459,7 @@
 | [Side by Side](https://open.spotify.com/track/032JVeAfSSc7XK3bTZqK0z) | [Loren Nine](https://open.spotify.com/artist/5VbFVkVPJOoT0emDWoTaVO) | [Side by Side](https://open.spotify.com/album/5ckS8CEIF5eye3dcnfbd4Y) | 2:23 | 2021-07-30 | 2021-09-24 |
 | [Side By Side](https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [Side By Side](https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg) | 4:16 | 2022-06-20 |  |
 | [Silly Games](https://open.spotify.com/track/2hBO7RrS35vb9hquqrMYWq) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Honey Rum](https://open.spotify.com/album/0t5MuZqfifn8ulqFE39UOK) | 2:59 | 2021-03-06 | 2021-04-17 |
-| [Silver Lining](https://open.spotify.com/track/2lNiHTqGXMDqL1fYtzJJo8) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Silver Lining](https://open.spotify.com/album/2D9q3w8AhX70qOdnfUNHAG) | 3:12 | 2022-01-13 |  |
+| [Silver Lining](https://open.spotify.com/track/2lNiHTqGXMDqL1fYtzJJo8) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Silver Lining](https://open.spotify.com/album/2D9q3w8AhX70qOdnfUNHAG) | 3:12 | 2022-01-13 | 2022-12-30 |
 | [single af](https://open.spotify.com/track/3LcFNj04sHJson5SIrRPAe) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [single af](https://open.spotify.com/album/0NVib4XqpW1Yx4nOtbCDyh) | 3:06 | 2020-11-13 | 2021-05-21 |
 | [Sinner](https://open.spotify.com/track/3qxbVEvpPubsqUP9FdJibk) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Sinner](https://open.spotify.com/album/4UvHnaLqvhudjFOUe8M0Lm) | 2:42 | 2021-02-24 | 2022-01-14 |
 | [Skate](https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Skate](https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo) | 3:23 | 2021-07-31 | 2022-01-28 |
@@ -572,6 +573,7 @@
 | [Wasting My Time](https://open.spotify.com/track/5ad6GD6W5kPo1PFW3ky8Oj) | [Tschax](https://open.spotify.com/artist/5WXZ5w3UQgObwg46o4OoEr), [Jo Le Grelle](https://open.spotify.com/artist/0GdpbpqYd9QLSujQkOsFmp) | [Wasting My Time](https://open.spotify.com/album/0lT02E089Fmh5ohBLma6ry) | 2:29 | 2021-02-28 | 2022-09-23 |
 | [We Don't Funk](https://open.spotify.com/track/3waaRJJlv7BIAxDeq9lCuY) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [We Don't Funk](https://open.spotify.com/album/2u59NynIjtaoYnryhv4HjD) | 2:02 | 2020-03-25\* | 2020-04-12 |
 | [What A Life](https://open.spotify.com/track/5AaA9XKKc7AKL370qVeWQv) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [What A Life](https://open.spotify.com/album/3G6dOOzgGUnq9iR8Ee6vaR) | 3:01 | 2022-02-17 |  |
+| [What Did You Mean by Love?](https://open.spotify.com/track/18NblhNZmwp79duZn3WzFj) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 4:33 | 2022-12-29 |  |
 | [What I Want](https://open.spotify.com/track/6F3XmjeZAABXispoA3Qumm) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 2:58 | 2022-07-14 | 2022-07-29 |
 | [What Is Love?](https://open.spotify.com/track/2JI1Vl5T3MfgyF5vGKYUuG) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Home Cooking](https://open.spotify.com/album/3rcysrlQvRv3kgZR461Lz7) | 2:57 | 2021-12-10 |  |
 | [What It Takes \(feat\. Lauren Daigle\)](https://open.spotify.com/track/6fjzXoKC1ULC660aNq1zOO) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [What It Takes](https://open.spotify.com/album/4GemvvqS3Pl9za8Y3ohghJ) | 3:46 | 2022-04-08 | 2022-07-28 |

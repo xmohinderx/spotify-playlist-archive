@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 44153,
+  "num_followers": 44204,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU0NjUyMywwMDAwMDAwMDZhYzIzOWZlZDU1ZjhhODZjYTQ1YThiMTQ0MjhmMWE0",
+  "snapshot_id": "MTY3MTU0NjUyMywwMDAwMDAwMGQ4MGRlYjQwZTZmZDliZTQ2Y2VkZTI2ZTczNWU4OGFi",
   "tracks": [
     {
       "added_at": "2022-12-02 13:53:26",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "Trust the Universe",
-        "url": "https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme"
-      },
-      "artists": [
-        {
-          "name": "Chama Wijnen",
-          "url": "https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Trust the Universe",
-      "url": "https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66"
-    },
-    {
-      "added_at": "2022-12-02 13:53:26",
-      "album": {
         "name": "Quiet Melodies",
         "url": "https://open.spotify.com/album/2IgwM3tlFn7HtNfvdO6Nmc"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 163800,
       "name": "Quiet Melodies",
       "url": "https://open.spotify.com/track/1GSVC5GkI5L1YbQIBZQHUh"
+    },
+    {
+      "added_at": "2022-12-02 13:53:26",
+      "album": {
+        "name": "Trust the Universe",
+        "url": "https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme"
+      },
+      "artists": [
+        {
+          "name": "Chama Wijnen",
+          "url": "https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Trust the Universe",
+      "url": "https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66"
     },
     {
       "added_at": "2022-12-02 13:53:26",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "Sleep Sequence",
-        "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
-      },
-      "artists": [
-        {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
-        }
-      ],
-      "duration_ms": 203374,
-      "name": "Sleep Sequence",
-      "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
-    },
-    {
-      "added_at": "2022-12-02 13:53:26",
-      "album": {
         "name": "Tokyo Drifting",
         "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 203000,
       "name": "Tokyo Drifting",
       "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
+    },
+    {
+      "added_at": "2022-12-02 13:53:26",
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
+      },
+      "artists": [
+        {
+          "name": "My Arctic Dreams",
+          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
+        }
+      ],
+      "duration_ms": 161012,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
     },
     {
       "added_at": "2022-12-02 13:53:26",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
+        "name": "Sleep Sequence",
+        "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
       },
       "artists": [
         {
-          "name": "My Arctic Dreams",
-          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
         }
       ],
-      "duration_ms": 161012,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
+      "duration_ms": 203374,
+      "name": "Sleep Sequence",
+      "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
     },
     {
       "added_at": "2022-12-02 13:53:26",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "Heavenly",
-        "url": "https://open.spotify.com/album/4aquErMoJ6lr67HTcTMPPB"
-      },
-      "artists": [
-        {
-          "name": "xerLK",
-          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
-        }
-      ],
-      "duration_ms": 178928,
-      "name": "Heavenly",
-      "url": "https://open.spotify.com/track/4TYAkHr7OjLZrERXYmvkAQ"
-    },
-    {
-      "added_at": "2022-12-02 13:53:26",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 170958,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6"
+    },
+    {
+      "added_at": "2022-12-02 13:53:26",
+      "album": {
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/4aquErMoJ6lr67HTcTMPPB"
+      },
+      "artists": [
+        {
+          "name": "xerLK",
+          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
+        }
+      ],
+      "duration_ms": 178928,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/4TYAkHr7OjLZrERXYmvkAQ"
     },
     {
       "added_at": "2022-12-02 13:53:26",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "Repose",
-        "url": "https://open.spotify.com/album/1kWjQNP5T5CsEgbYusdWu2"
+        "name": "Among the Clouds",
+        "url": "https://open.spotify.com/album/1TFakvYLpxWVYHXCAJb0Mh"
       },
       "artists": [
         {
-          "name": "Aerial Love",
-          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
+          "name": "Nimbus Skies",
+          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
         }
       ],
-      "duration_ms": 192187,
-      "name": "Repose",
-      "url": "https://open.spotify.com/track/3IC2C6R4V6iTeHNT9tgLGv"
+      "duration_ms": 173333,
+      "name": "Among the Clouds",
+      "url": "https://open.spotify.com/track/42qLkry21o8EbfaplIw0rR"
     },
     {
       "added_at": "2022-12-02 13:53:26",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "Among the Clouds",
-        "url": "https://open.spotify.com/album/1TFakvYLpxWVYHXCAJb0Mh"
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/4dOgcGc5XdxLPFJydjcyTT"
       },
       "artists": [
         {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Among the Clouds",
-      "url": "https://open.spotify.com/track/42qLkry21o8EbfaplIw0rR"
+      "duration_ms": 191976,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/1R8zuP9stvdMzt4HLMB5E3"
     },
     {
       "added_at": "2022-12-02 13:53:26",
@@ -1067,34 +1067,18 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/4dOgcGc5XdxLPFJydjcyTT"
+        "name": "Capella",
+        "url": "https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE"
       },
       "artists": [
         {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+          "name": "Aerial Love",
+          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
         }
       ],
-      "duration_ms": 191976,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/1R8zuP9stvdMzt4HLMB5E3"
-    },
-    {
-      "added_at": "2022-12-02 13:53:26",
-      "album": {
-        "name": "Oh so Quiet",
-        "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
-      },
-      "artists": [
-        {
-          "name": "The Silent Ocean",
-          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Oh so Quiet",
-      "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
+      "duration_ms": 157402,
+      "name": "Capella",
+      "url": "https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ"
     },
     {
       "added_at": "2022-12-02 13:53:26",
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "Capella",
-        "url": "https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE"
+        "name": "Oh so Quiet",
+        "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
       },
       "artists": [
         {
-          "name": "Aerial Love",
-          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
+          "name": "The Silent Ocean",
+          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
         }
       ],
-      "duration_ms": 157402,
-      "name": "Capella",
-      "url": "https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ"
+      "duration_ms": 190666,
+      "name": "Oh so Quiet",
+      "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
     },
     {
       "added_at": "2022-12-02 13:53:26",
@@ -1147,22 +1131,6 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/74C3kNaZRcrl41ucQVU18M"
-      },
-      "artists": [
-        {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "Deep Blue",
-      "url": "https://open.spotify.com/track/4pm0jhxhcRmHyFhnYOfigu"
-    },
-    {
-      "added_at": "2022-12-02 13:53:26",
-      "album": {
         "name": "Sphere",
         "url": "https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn"
       },
@@ -1175,6 +1143,38 @@
       "duration_ms": 179104,
       "name": "Sphere",
       "url": "https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw"
+    },
+    {
+      "added_at": "2022-12-02 13:53:26",
+      "album": {
+        "name": "Calming Water",
+        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
+      },
+      "artists": [
+        {
+          "name": "Divine Retreat",
+          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
+        }
+      ],
+      "duration_ms": 239353,
+      "name": "Cleansing Raindrops",
+      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
+    },
+    {
+      "added_at": "2022-12-02 13:53:26",
+      "album": {
+        "name": "Repose",
+        "url": "https://open.spotify.com/album/1kWjQNP5T5CsEgbYusdWu2"
+      },
+      "artists": [
+        {
+          "name": "Aerial Love",
+          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "Repose",
+      "url": "https://open.spotify.com/track/3IC2C6R4V6iTeHNT9tgLGv"
     },
     {
       "added_at": "2022-12-02 13:53:26",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "Calming Water",
-        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/74C3kNaZRcrl41ucQVU18M"
       },
       "artists": [
         {
-          "name": "Divine Retreat",
-          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
+          "name": "Nimbus Skies",
+          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
         }
       ],
-      "duration_ms": 239353,
-      "name": "Cleansing Raindrops",
-      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
+      "duration_ms": 184285,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/4pm0jhxhcRmHyFhnYOfigu"
     },
     {
       "added_at": "2022-12-02 13:53:26",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-12-02 13:53:26",
       "album": {
-        "name": "Evening Calm",
-        "url": "https://open.spotify.com/album/1lYuL6PrtYfCWlk26xn0Kj"
-      },
-      "artists": [
-        {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
-        }
-      ],
-      "duration_ms": 158961,
-      "name": "Evening Calm",
-      "url": "https://open.spotify.com/track/23gmdJgMk6hgkrwUsvNjG3"
-    },
-    {
-      "added_at": "2022-12-02 13:53:26",
-      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/7onJu6pkaORhUz9FF7MflA"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 170958,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/2uk6pIi8sz7HOK9BLSRRXH"
+    },
+    {
+      "added_at": "2022-12-02 13:53:26",
+      "album": {
+        "name": "Tangerine Dreams",
+        "url": "https://open.spotify.com/album/2IfctRtqYFXXcUXuYsO8HI"
+      },
+      "artists": [
+        {
+          "name": "Dreamabout",
+          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
+        }
+      ],
+      "duration_ms": 170958,
+      "name": "Tangerine Dreams",
+      "url": "https://open.spotify.com/track/0LXhz2plYEUrE4HFjAASLD"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

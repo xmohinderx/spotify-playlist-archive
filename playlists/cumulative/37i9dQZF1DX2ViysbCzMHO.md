@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-208 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
+209 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Again \- Stripped Bare](https://open.spotify.com/track/1bhOH57HFef45IWSAcqC6G) | [BEXAR](https://open.spotify.com/artist/1GXBaX5YUjOrrXch1sGepn) | [Again \(Stripped Bare\)](https://open.spotify.com/album/0lE5keuEk5Y10vK6fDEIe6) | 2:33 | 2022-07-01 | 2022-08-01 |
 | [All I Know About Girls](https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [All I Know About Girls](https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR) | 2:42 | 2021-12-17 |  |
 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 | 2021-12-17 |  |
+| [All The Time \- Stripped](https://open.spotify.com/track/5szCtOKnYxYxDYadu18QmN) | [David James](https://open.spotify.com/artist/6JKG9xGqoyj7oMHF0ta147) | [MDM Recordings 2022 Wrap Up \- Rarities, Remixes And The Hits](https://open.spotify.com/album/2IrlPDhlLnzh81xWyF1Rcj) | 3:05 | 2022-12-30 |  |
 | [Almost Maybes \- Acoustic](https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes \(Acoustic\)](https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW) | 2:59 | 2021-12-17 |  |
 | [angel](https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:19 | 2021-12-17 | 2022-01-15 |
 | [Another \- Wedding Version](https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Another \(Wedding Version\)](https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd) | 2:51 | 2021-12-17 |  |
@@ -200,7 +201,7 @@
 | [What If I'm Right \(Stripped\)](https://open.spotify.com/track/4VQo86DajWMXAJVkcurzC9) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [What If I'm Right \(Stripped\)](https://open.spotify.com/album/5iSxYZRm5fOnVkO5ZnWnoM) | 2:44 | 2021-12-17 | 2022-07-28 |
 | [What Was I Drinking \- Acoustic](https://open.spotify.com/track/3UnorFmDPHUdLJLo1rk8qz) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [What Was I Drinking \(Acoustic\)](https://open.spotify.com/album/3fMKr62siq96Ig3knG3BMi) | 2:58 | 2022-04-29 | 2022-07-10 |
 | [Where Did We Go? \- Acoustic](https://open.spotify.com/track/40SgaRxSRtapCUkpUAmQy6) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Where Did We Go? \(Acoustic\)](https://open.spotify.com/album/1HpFFDvla4g3V8IxYApOu4) | 2:39 | 2022-04-29 | 2022-07-17 |
-| [While You're Gone \- Acoustic](https://open.spotify.com/track/5a43dOHSt1H6RMqxU9Q5Up) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [While You're Gone \(Acoustic\)](https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k) | 3:39 | 2021-12-17 |  |
+| [While You're Gone \- Acoustic](https://open.spotify.com/track/5a43dOHSt1H6RMqxU9Q5Up) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [While You're Gone \(Acoustic\)](https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k) | 3:39 | 2021-12-17 | 2022-12-30 |
 | [Whiskey \(Acoustic\)](https://open.spotify.com/track/0jZFXHSeY300E9X3Wn3Kma) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Whiskey](https://open.spotify.com/album/44mK7NKStFXVAF5MgIpyaq) | 4:20 | 2021-12-17 | 2022-07-09 |
 | [Whiskey And Rain \- Acoustic](https://open.spotify.com/track/4hpWtPnZHX9xfb1fr8cVVw) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Whiskey And Rain \(Acoustic\)](https://open.spotify.com/album/7AA4SUS9xQx6f4mCxuWWoa) | 3:27 | 2022-01-07 | 2022-10-29 |
 | [Whiskey On You \- Acoustic](https://open.spotify.com/track/5aytw2jhoFTGcTNuzSaaBj) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You \(Acoustic\)](https://open.spotify.com/album/4xvw2MbLOUrJ5xvESdtYvr) | 2:59 | 2022-08-05 |  |

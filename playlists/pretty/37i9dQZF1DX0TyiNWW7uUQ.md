@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 
 > Finest collection of Tamil Music from the past 10 years<br/>Cover : Varisu
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,946 likes - 56 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,768 likes - 56 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 | 18 | [Mayakkama Kalakkama \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/2kOH2QZB7F7I1iVXqwKuBF) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mayakkama Kalakkama \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/30uPDcAcvwpfMV36F2BE2X) | 2:22 |
 | 19 | [Bodhai Kaname \- From "Oh Manapenne"](https://open.spotify.com/track/4qIMmEjV8gaEsfZML9LALx) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Bodhai Kaname \(From "Oh Manapenne"\)](https://open.spotify.com/album/53xK2qW53doSVnfWafunKQ) | 4:21 |
 | 20 | [Vikram \- Title Track](https://open.spotify.com/track/6FQQiTpYnfc5803p84bQp1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:38 |
-| 21 | [Ratchasa Maamaney](https://open.spotify.com/track/26aOnndLckt8uAsk6odL5n) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Palakad Sreeram](https://open.spotify.com/artist/4kFcACv63ngx7w0d5HGeMR), [Mahesh Vinayakram](https://open.spotify.com/artist/3dLyuHSyFYR1OeWA67LBUC) | [Ponniyin Selvan Part\-1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN) | 4:49 |
-| 22 | [Orasaadha \- Madras Gig](https://open.spotify.com/track/7fec0UcxeHVe6kHIez2GSs) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Orasaadha \(Madras Gig\)](https://open.spotify.com/album/1mnPDLW0l0ahapG5OXbgJe) | 3:55 |
+| 21 | [Orasaadha \- Madras Gig](https://open.spotify.com/track/7fec0UcxeHVe6kHIez2GSs) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Orasaadha \(Madras Gig\)](https://open.spotify.com/album/1mnPDLW0l0ahapG5OXbgJe) | 3:55 |
+| 22 | [Ratchasa Maamaney](https://open.spotify.com/track/26aOnndLckt8uAsk6odL5n) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Palakad Sreeram](https://open.spotify.com/artist/4kFcACv63ngx7w0d5HGeMR), [Mahesh Vinayakram](https://open.spotify.com/artist/3dLyuHSyFYR1OeWA67LBUC) | [Ponniyin Selvan Part\-1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN) | 4:49 |
 | 23 | [Sakkarakatti](https://open.spotify.com/track/1PaxAUxLEVpi75l0nDtwu1) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Meesaya Murukku \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6huPBShibyH3IJg5pPv8Bl) | 3:09 |
 | 24 | [Mudhal Nee Mudivum Nee Title Track](https://open.spotify.com/track/4oNVmnywnXguyk76wkMuIb) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Mudhal Nee Mudivum Nee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3r6JhF3T7IkDvhWWJSux9y) | 5:32 |
 | 25 | [Othaiyadi Pathayila](https://open.spotify.com/track/09Z6o1yu596HJAwWZxTz4m) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kanaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5MqnE5fKbjWn25aA091gd0) | 4:09 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 | 55 | [Chellamma](https://open.spotify.com/track/7fdsoKCtpx2hYXDRMoActW) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Doctor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sVOaTioI70p4A36YtSDbY) | 3:56 |
 | 56 | [Dharala Prabhu Title Track](https://open.spotify.com/track/7MtK3lPdVPq2WGO6EWHB9V) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Dharala Prabhu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4O5iuMBSmUXMZIrBgx3LOG) | 3:19 |
 
-Snapshot ID: `MTY3MTc3ODQ4NSwwMDAwMDAwMGRiMGUwZDk2ZDA0ZmExMDMwMDVmMWE3YjliOTA3YmE0`
+Snapshot ID: `MTY3MTc3ODQ4NSwwMDAwMDAwMGI2ZjQ0ZDZiNzdiODNhMmRjZGVjMjA4MTVhYmRhYWFi`

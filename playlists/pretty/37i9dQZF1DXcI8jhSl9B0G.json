@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 69025,
+  "num_followers": 69067,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEzMzUzOSwwMDAwMDAwMDM3YWQwYTkxMDllZjA1NDhmM2Y0MjY2ZDBkNzhmZGUw",
+  "snapshot_id": "MTY3MTEzMzUzOSwwMDAwMDAwMDVjMzEzZGU3YzYxZTA1NTZjZmM2NDJjMjBlNWYwODQ5",
   "tracks": [
     {
       "added_at": "2022-12-15 08:41:30",
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "Simple Question",
-        "url": "https://open.spotify.com/album/5DTdguqtCktqPrnAWSjvRv"
+        "name": "To Enjoy Is the Only Thing",
+        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
       },
       "artists": [
         {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
         }
       ],
-      "duration_ms": 272999,
-      "name": "Simple Question",
-      "url": "https://open.spotify.com/track/7njsVoHUui9rtwEa49qa4f"
+      "duration_ms": 257160,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe"
     },
     {
       "added_at": "2022-12-15 08:41:30",
@@ -775,34 +775,18 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "To Enjoy Is the Only Thing",
-        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
+        "name": "Simple Question",
+        "url": "https://open.spotify.com/album/5DTdguqtCktqPrnAWSjvRv"
       },
       "artists": [
         {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
         }
       ],
-      "duration_ms": 257160,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe"
-    },
-    {
-      "added_at": "2022-12-15 08:41:30",
-      "album": {
-        "name": "What It Means to Be Human",
-        "url": "https://open.spotify.com/album/6M3PByvWK0RdJjRsJYO82q"
-      },
-      "artists": [
-        {
-          "name": "Hayden Calnin",
-          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
-        }
-      ],
-      "duration_ms": 275144,
-      "name": "What It Means to Be Human",
-      "url": "https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8"
+      "duration_ms": 272999,
+      "name": "Simple Question",
+      "url": "https://open.spotify.com/track/7njsVoHUui9rtwEa49qa4f"
     },
     {
       "added_at": "2022-12-15 08:41:30",
@@ -823,18 +807,18 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "The Future of an End",
-        "url": "https://open.spotify.com/album/5L7Kd0h3fC20w2qbg4JXu2"
+        "name": "What It Means to Be Human",
+        "url": "https://open.spotify.com/album/6M3PByvWK0RdJjRsJYO82q"
       },
       "artists": [
         {
-          "name": "Woodlock",
-          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
         }
       ],
-      "duration_ms": 194453,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/6vkGHTJudIfYpkQPqTHS6K"
+      "duration_ms": 275144,
+      "name": "What It Means to Be Human",
+      "url": "https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8"
     },
     {
       "added_at": "2022-12-15 08:41:30",
@@ -851,6 +835,22 @@
       "duration_ms": 258053,
       "name": "Carry You With Me",
       "url": "https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF"
+    },
+    {
+      "added_at": "2022-12-15 08:41:30",
+      "album": {
+        "name": "The Future of an End",
+        "url": "https://open.spotify.com/album/5L7Kd0h3fC20w2qbg4JXu2"
+      },
+      "artists": [
+        {
+          "name": "Woodlock",
+          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/6vkGHTJudIfYpkQPqTHS6K"
     },
     {
       "added_at": "2022-12-15 08:41:30",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "A Song To Be Named",
-        "url": "https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA"
-      },
-      "artists": [
-        {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
-        }
-      ],
-      "duration_ms": 249999,
-      "name": "A Song To Be Named",
-      "url": "https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm"
-    },
-    {
-      "added_at": "2022-12-15 08:41:30",
-      "album": {
         "name": "Half Awake, Half Asleep",
         "url": "https://open.spotify.com/album/7cHSI1g84HZbJ2GwauTahA"
       },
@@ -935,6 +919,38 @@
       "duration_ms": 271790,
       "name": "Paint",
       "url": "https://open.spotify.com/track/5lHA0VtRqd0jsaT46xC3Ae"
+    },
+    {
+      "added_at": "2022-12-15 08:41:30",
+      "album": {
+        "name": "A Song To Be Named",
+        "url": "https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "duration_ms": 249999,
+      "name": "A Song To Be Named",
+      "url": "https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm"
+    },
+    {
+      "added_at": "2022-12-15 08:41:30",
+      "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz"
+      },
+      "artists": [
+        {
+          "name": "Miller Roberts",
+          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
+        }
+      ],
+      "duration_ms": 223445,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM"
     },
     {
       "added_at": "2022-12-15 08:41:30",
@@ -983,22 +999,6 @@
       "duration_ms": 232639,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
-    },
-    {
-      "added_at": "2022-12-15 08:41:30",
-      "album": {
-        "name": "Outside Kinda Kids",
-        "url": "https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji"
-      },
-      "artists": [
-        {
-          "name": "Sam Heselwood",
-          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
-        }
-      ],
-      "duration_ms": 195299,
-      "name": "Outside Kinda Kids",
-      "url": "https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI"
     }
   ],
   "unique_name": "Summer Daze",

@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4979,
+  "num_followers": 4982,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDc0YjQ3MTcyNDJkZDk3ZTBhOWI3MjE3M2YxZjgzMTk3",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDE4ZmE4N2NkZDI2OTUwOWI2OWZiZTQ4YzAwZWFlMmY3",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Diana Ross (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 468640,
+      "name": "Love Hangover",
+      "url": "https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "SEXORCISM",
         "url": "https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 162781,
       "name": "Cum (feat. Iggy Azalea)",
       "url": "https://open.spotify.com/track/2Mf7bd1QURmFyQCZTsMPjI"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Diana Ross (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 468640,
-      "name": "Love Hangover",
-      "url": "https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Supino",
-          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Don Dada",
         "url": "https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb"
       },
@@ -735,18 +719,46 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Leo Mas Presents Mediterraneo",
-        "url": "https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
       },
       "artists": [
         {
-          "name": "La Bellini",
-          "url": "https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB"
+          "name": "Osvaldo Supino",
+          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
         }
       ],
-      "duration_ms": 217584,
-      "name": "Satan in Love",
-      "url": "https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9"
+      "duration_ms": 196721,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "La vita nuova (Remixes)",
+        "url": "https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Daniele Baldelli",
+          "url": "https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7"
+        },
+        {
+          "name": "Marco Dionigi",
+          "url": "https://open.spotify.com/artist/4pUlhZQZrakwDmAbKNIb19"
+        }
+      ],
+      "duration_ms": 385296,
+      "name": "La vita nuova - Daniele Baldelli & Marco Dionigi Remix",
+      "url": "https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -783,30 +795,34 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "La vita nuova (Remixes)",
-        "url": "https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT"
+        "name": "Leo Mas Presents Mediterraneo",
+        "url": "https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp"
       },
       "artists": [
         {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "Daniele Baldelli",
-          "url": "https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7"
-        },
-        {
-          "name": "Marco Dionigi",
-          "url": "https://open.spotify.com/artist/4pUlhZQZrakwDmAbKNIb19"
+          "name": "La Bellini",
+          "url": "https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB"
         }
       ],
-      "duration_ms": 385296,
-      "name": "La vita nuova - Daniele Baldelli & Marco Dionigi Remix",
-      "url": "https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO"
+      "duration_ms": 217584,
+      "name": "Satan in Love",
+      "url": "https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Tocco di Lusso",
+        "url": "https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "duration_ms": 203684,
+      "name": "Tocco di Lusso",
+      "url": "https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -831,22 +847,6 @@
       "duration_ms": 208194,
       "name": "\u00c7a va? Je t\u2019aime! (feat. EMMANUELLE)",
       "url": "https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Tocco di Lusso",
-        "url": "https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV"
-      },
-      "artists": [
-        {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
-        }
-      ],
-      "duration_ms": 203684,
-      "name": "Tocco di Lusso",
-      "url": "https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Nuda",
+        "url": "https://open.spotify.com/album/5q3Qt3eOUcVfSxeeWrVIHs"
+      },
+      "artists": [
+        {
+          "name": "Lilith Primavera",
+          "url": "https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019"
+        },
+        {
+          "name": "La Tosa",
+          "url": "https://open.spotify.com/artist/4ewa6gzbDQiCfDgjVpOGYl"
+        }
+      ],
+      "duration_ms": 196940,
+      "name": "Amami - La Tosa Disco Remix",
+      "url": "https://open.spotify.com/track/17x9hPgr15m3Sfvj2rZjf8"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "Blue Songs",
         "url": "https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P"
       },
@@ -1271,22 +1291,6 @@
       "duration_ms": 186234,
       "name": "Dulce de Leche (feat. M\u00a5SS KETA) - M\u00a5SS KETA remix",
       "url": "https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Radio Whitemary",
-        "url": "https://open.spotify.com/album/11ENaxvYtPvmoMZ2BtGLSK"
-      },
-      "artists": [
-        {
-          "name": "Whitemary",
-          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Chi se ne frega",
-      "url": "https://open.spotify.com/track/6RUaPDMCEVkPgceTNMYJrJ"
     }
   ],
   "unique_name": "Pride Italia",

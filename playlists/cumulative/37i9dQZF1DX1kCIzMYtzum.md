@@ -4,7 +4,7 @@
 
 > Home is where the main stage is\. 💗
 
-347 songs - 18 hr 23 min - [published](https://open.spotify.com/playlist/3QJ3qDsL9JOXl4UUUMkXwN)
+348 songs - 18 hr 27 min - [published](https://open.spotify.com/playlist/3QJ3qDsL9JOXl4UUUMkXwN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Colours](https://open.spotify.com/track/22y2mqIBERBviZF0fa86iw) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1), [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Colours](https://open.spotify.com/album/2tZ2fRh85Fj4cf3HpeCpqs) | 4:28 | 2021-06-02 | 2022-07-03 |
 | [Coming Home](https://open.spotify.com/track/0RHtecK6xMtW7yWgmLmOpQ) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Coming Home](https://open.spotify.com/album/1QxdQYatNANaOMbnWmFw3F) | 3:11 | 2022-03-18 | 2022-04-17 |
 | [Coming Over \- VIP](https://open.spotify.com/track/1p04Tm0c2tnIdgOYIpcioh) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Very Important Music](https://open.spotify.com/album/1hSyRaCKfMvbiTXXtlHW46) | 3:20 | 2021-06-02 | 2022-07-29 |
+| [Dance on My Own \(feat\. Richard Judge\)](https://open.spotify.com/track/0pMD1V0QbqSD7RhJmxDDJ9) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Dance on My Own \(feat\. Richard Judge\)](https://open.spotify.com/album/5tJbmHZDu4DJwZrcHBB28s) | 3:34 | 2022-09-09 |  |
 | [Dancing Alone](https://open.spotify.com/track/7A9y0ywTGS4iPM5huZAhKf) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dancing Alone](https://open.spotify.com/album/2KlV3JdXb7XIlj78Rdo53i) | 2:52 | 2022-03-18 | 2022-04-21 |
 | [Dancing in the Streets](https://open.spotify.com/track/2RyTblYodC8cnGWFxlnSM5) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Dancing in the Streets](https://open.spotify.com/album/17J0kT98HZNfm5OrKcCmBS) | 2:28 | 2022-11-11 |  |
 | [Day & Nite](https://open.spotify.com/track/5fgT3t3IYunBVjKhEzJZv6) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Day & Nite](https://open.spotify.com/album/01rqtg7JizK7VAbzo77Rft) | 2:53 | 2022-05-06 |  |
@@ -275,7 +276,7 @@
 | [Shadows \- Maor Levi Remix](https://open.spotify.com/track/2Nnh8xWKthWo6R8Kh5ZmHx) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV), [Maor Levi](https://open.spotify.com/artist/7iVuXpgNEl87BwdwV1L6he) | [Shadows \(Remixes\)](https://open.spotify.com/album/1R7Zd3GuovbQrWBvpPuR81) | 3:32 | 2021-09-03 | 2022-07-24 |
 | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-05-13 |  |
 | [Shut Up](https://open.spotify.com/track/1hf9Wu2l0XIgAcTZLSAUJe) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:12 | 2022-11-29 |  |
-| [Sideways](https://open.spotify.com/track/0PMNxtgeNSmPPp4aiA4T8F) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4) | [Sideways](https://open.spotify.com/album/06eiw663CL0vHSY7jvtZ3p) | 4:11 | 2021-06-02 |  |
+| [Sideways](https://open.spotify.com/track/0PMNxtgeNSmPPp4aiA4T8F) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4) | [Sideways](https://open.spotify.com/album/06eiw663CL0vHSY7jvtZ3p) | 4:11 | 2021-06-02 | 2022-12-30 |
 | [Silver Lining](https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Silver Lining](https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0) | 2:57 | 2021-06-02 | 2022-07-29 |
 | [So Good](https://open.spotify.com/track/4LajgncdHI6ZdhkoS16gjX) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [So Good](https://open.spotify.com/album/3YIhzVAZTUKLIFDr2WwnOz) | 3:40 | 2022-03-18 | 2022-04-14 |
 | [So Good To Me](https://open.spotify.com/track/3Qt4d1IoO5yhQFAUFsTXSK) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [So Good To Me](https://open.spotify.com/album/3qFfusBUAlH5hfZfm5Kq38) | 3:36 | 2022-04-15 | 2022-07-29 |

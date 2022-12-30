@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-202 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
+203 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Get There](https://open.spotify.com/track/4QzQFNQnwNqmdOKwkfWeTi) | [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS) | [Souvenirs](https://open.spotify.com/album/0762wvRziSk7teli97iy1A) | 4:33 | 2021-10-15 | 2022-01-04 |
 | [Go \(Otik Remix\)](https://open.spotify.com/track/0LF47HeMZteqsbcQRk1hkJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Go \(Otik Remix\)](https://open.spotify.com/album/0ybL4M8dUUD1YaxxUTVUcI) | 4:05 | 2022-07-08 | 2022-08-14 |
 | [Goddess Calling](https://open.spotify.com/track/4npxPQ7jYsO9RL6aN9EDjl) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 7:40 | 2021-10-15 | 2022-01-21 |
-| [Grammar](https://open.spotify.com/track/6GwRMUJIwhTQArxvhoW4wc) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Someone Close](https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc) | 7:41 | 2022-11-11 |  |
+| [Grammar](https://open.spotify.com/track/6GwRMUJIwhTQArxvhoW4wc) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Someone Close](https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc) | 7:41 | 2022-11-11 | 2022-12-30 |
 | [Gripper](https://open.spotify.com/track/1Ic1HKNFUzgomJECOGpg1X) | [Robin Ball](https://open.spotify.com/artist/3BkQkIMX2qIvwRgUQoxk15) | [X To C](https://open.spotify.com/album/7upSj25Yd2zUW2AneFDlfu) | 7:42 | 2021-10-15 | 2022-01-20 |
 | [Harmonic Frequencies](https://open.spotify.com/track/2U2dlU4ELCrmUOnojBsMcT) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/4KI8PM8G8iT5tc2yAz3PBl) | 4:10 | 2021-10-15 | 2022-01-11 |
 | [Head Above The Parakeets](https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC) | 7:16 | 2021-10-15 |  |
@@ -118,6 +118,7 @@
 | [Marzipan Leftlovers \(Ignazz Remix\)](https://open.spotify.com/track/0WMa0q6v76ctwdjI6Ph0ZG) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB), [Ignazz](https://open.spotify.com/artist/19MnaXSqp5A9hlDNrRz8XV) | [Remix EP](https://open.spotify.com/album/3PVDGasKBN3TP516jfu4hr) | 4:18 | 2021-10-15 | 2022-02-10 |
 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 | 2022-04-12 |  |
 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 | 2022-01-12 | 2022-02-15 |
+| [Nannou \- Mixed](https://open.spotify.com/track/3dgD602JCmRmFm95pOXCtz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Nannou \(Mixed\)](https://open.spotify.com/album/4UiRbLnV7kPBhXhyEnr1S2) | 1:55 | 2022-12-29 |  |
 | [Nervelevers](https://open.spotify.com/track/4WkxkJTKEgd7Ast3fiJ0g2) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Nervelevers](https://open.spotify.com/album/0jYSsZrP7JZhn6XmYL8gVb) | 5:29 | 2021-10-15 | 2022-01-20 |
 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 | 2022-02-16 | 2022-06-21 |
 | [One Shy Morning](https://open.spotify.com/track/5qCu4qgbfF0781HAYBNd2z) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [One Shy Morning](https://open.spotify.com/album/4xe8D8bZ84cwgZ6BvTLyJD) | 3:40 | 2021-10-15 | 2022-02-10 |
@@ -132,7 +133,7 @@
 | [Perpetual Motion](https://open.spotify.com/track/05kGKBMBFTpccppj8GdTHH) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Perpetual Motion](https://open.spotify.com/album/54YUMopbV21ClaQ5iGMWHc) | 4:58 | 2021-10-15 | 2022-04-23 |
 | [Persuasion System](https://open.spotify.com/track/12RJmMBPv5onWiQosLJ6ZI) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Persuasion System](https://open.spotify.com/album/2Takb3WbmLXRVvXiFfnjnk) | 3:49 | 2021-10-15 | 2022-03-31 |
 | [Planta Dance](https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Planta Dance](https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv) | 3:06 | 2022-08-03 |  |
-| [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 | 2022-09-30 |  |
+| [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 | 2022-09-30 | 2022-12-30 |
 | [Prometheus](https://open.spotify.com/track/2qNqhFlOdwEA5OMheOrome) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Prometheus](https://open.spotify.com/album/5yiLeekDCLQVR5cx53snW2) | 4:47 | 2021-10-15 | 2022-02-10 |
 | [Promise You'll Haunt Me](https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 6:33 | 2021-10-15 | 2022-01-20 |
 | [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 3:56 | 2021-11-25 | 2022-01-12 |
@@ -208,7 +209,7 @@
 | [XO 4 \- Wolf 1061c](https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF) | [GCOM](https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI) | [E2\-XO](https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd) | 7:55 | 2022-01-12 | 2022-03-12 |
 | [XYZ \- Peel Session](https://open.spotify.com/track/5mzw1OaU80w3IisoXr1Lp7) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [XYZ \(Peel Session\)](https://open.spotify.com/album/4feETXv5AbEIzCj4btSrNG) | 8:03 | 2021-10-15 | 2022-02-10 |
 | [Yelli](https://open.spotify.com/track/2GdD6s2xhZnbj1XmwHYXCW) | [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Yelli](https://open.spotify.com/album/73FKH6CBhiW5tGdaOHKpeg) | 7:03 | 2021-10-15 | 2022-02-10 |
-| [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 | 2022-03-11 | 2022-12-27 |
+| [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 | 2022-03-11 |  |
 | [Yesterday Faded \- Edit](https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf) | 4:02 | 2022-03-11 | 2022-07-29 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

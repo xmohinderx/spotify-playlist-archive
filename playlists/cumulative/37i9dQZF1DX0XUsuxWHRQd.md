@@ -4,7 +4,7 @@
 
 > Music by Drake, 21 Savage, Metro Boomin and Polo G.
 
-1,466 songs - 3 day 3 hr 30 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,467 songs - 3 day 3 hr 35 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -916,6 +916,7 @@
 | [Panini \- DaBaby Remix](https://open.spotify.com/track/4SDgTLDYrJ2UrHbkRkg7MD) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Panini](https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov) | 2:31 | 2019-09-13 | 2019-12-10 |
 | [Pardon \(feat\. Lil Baby\)](https://open.spotify.com/track/5W3z7a1dBlERTBAye0murh) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The L.I.B.R.A.](https://open.spotify.com/album/4ji352J0NHJfD5gHoJa7Oj) | 4:19 | 2020-10-16 | 2021-01-08 |
 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 | 2022-07-08 | 2022-09-03 |
+| [Paris, Tokyo](https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:30 | 2022-12-29 |  |
 | [Part Of The Game \(feat\. NLE Choppa & Rileyy Lanez\)](https://open.spotify.com/track/58u07iWTstIQrxiCM2GuuA) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Rileyy Lanez](https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr) | [Part Of The Game \(feat\. NLE Choppa & Rileyy Lanez\)](https://open.spotify.com/album/4U8n0uEGmEvNu2dzCgG8yv) | 3:05 | 2021-01-08 | 2021-01-15 |
 | [Party Bus](https://open.spotify.com/track/2RPNu8WTEHuInQJqRYDlWA) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Famous Dex](https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Party Bus](https://open.spotify.com/album/6krJbTQFsYKWdXJJa1WCYr) | 4:06 | 2019-07-06 | 2019-08-13 |
 | [Party Girl](https://open.spotify.com/track/5RqR4ZCCKJDcBLIn4sih9l) | [StaySolidRocky](https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ) | [Party Girl](https://open.spotify.com/album/4NPX54YtocHqTOq6yXDEFM) | 2:27 | 2020-05-08 | 2020-07-10 |

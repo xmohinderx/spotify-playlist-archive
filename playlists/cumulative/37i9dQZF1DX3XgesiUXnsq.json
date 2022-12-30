@@ -126,6 +126,40 @@
     },
     {
       "album": {
+        "name": "Phenomenon",
+        "url": "https://open.spotify.com/album/0AJaRBLPuUybHfdJi87GQP"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        {
+          "name": "Cannibus",
+          "url": "https://open.spotify.com/artist/2Pu35Fye4uT4MwwDz7M3lr"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256626,
+      "name": "4,3,2,1",
+      "url": "https://open.spotify.com/track/2jpd11oy0FGFebu6BpKSse"
+    },
+    {
+      "album": {
         "name": "93 'til Infinity",
         "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
       },
@@ -199,7 +233,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 130479,
       "name": "All Caps",
       "url": "https://open.spotify.com/track/21O0XXPEWPtePt5RMY93Ob"
@@ -907,7 +941,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 183633,
       "name": "Check In",
       "url": "https://open.spotify.com/track/4Hpv7FUy6cFLvLR8DSRruJ"
@@ -1271,7 +1305,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 155750,
       "name": "Doin' Right",
       "url": "https://open.spotify.com/track/65ie1NNOukdiXRk2JPc52a"
@@ -3769,7 +3803,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 148693,
       "name": "Quantum Leap",
       "url": "https://open.spotify.com/track/3ujsJyNJl1zxvS4G9JhJtE"
@@ -5060,6 +5094,24 @@
     },
     {
       "album": {
+        "name": "Minimum Wage",
+        "url": "https://open.spotify.com/album/3bcCsYv2H9REKisIx3nJhR"
+      },
+      "artists": [
+        {
+          "name": "Jaypitts",
+          "url": "https://open.spotify.com/artist/2sVOqgur6zP6kXQ4EIv5R0"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166227,
+      "name": "Training Day",
+      "url": "https://open.spotify.com/track/4dzWPWanK5BikJmfzBo6N3"
+    },
+    {
+      "album": {
         "name": "Triple Crown",
         "url": "https://open.spotify.com/album/5CYauBH9oczcr5Lxu2Nebz"
       },
@@ -5546,6 +5598,28 @@
     },
     {
       "album": {
+        "name": "WR-4R (Will Rap 4 Rent)",
+        "url": "https://open.spotify.com/album/6i6vtOOyGNZylwbyIdOTtb"
+      },
+      "artists": [
+        {
+          "name": "Emmitt James",
+          "url": "https://open.spotify.com/artist/0FcsrqYA3XkZ7KLv7KEJBM"
+        },
+        {
+          "name": "GOZ\u00c9",
+          "url": "https://open.spotify.com/artist/5gMDgGFCBNGZZeS6VhfQtc"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189470,
+      "name": "WR-4R (Will Rap 4 Rent)",
+      "url": "https://open.spotify.com/track/0wOityxxfmk1QTDJgbD4mX"
+    },
+    {
+      "album": {
         "name": "Wraith",
         "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
       },
@@ -5627,7 +5701,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 193856,
       "name": "Yesterdays.",
       "url": "https://open.spotify.com/track/6RMPhGmhBkZWlITgD1T0ai"

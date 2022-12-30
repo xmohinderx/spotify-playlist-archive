@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: クレナズム\(Culenasm\)
 
-718 songs - 1 day 22 hr 6 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+720 songs - 1 day 22 hr 15 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1](https://open.spotify.com/track/2XKC1yPYhtI5zPBofGBbzQ) | [MOB CHOIR](https://open.spotify.com/artist/5HZsYhRCMH3zR0yndRcLVw) | [1](https://open.spotify.com/album/2SMgYY7Z70e06DAUNjmYWh) | 3:49 | 2022-10-04 |  |
 | [10月無口な君を忘れる](https://open.spotify.com/track/006u4CXVO2cusq08RrMElQ) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [10月無口な君を忘れる](https://open.spotify.com/album/600Y6vAnetFVK3AghyzSMg) | 5:32 | 2022-07-28 | 2022-12-14 |
 | [13](https://open.spotify.com/track/4KmY60ZsxNTEoOSkPeRG8a) | [Gordon](https://open.spotify.com/artist/4DyaNSFEW5SrLJZLjx738N) | [13](https://open.spotify.com/album/4wlYD5Gtln9OL227a6QtW0) | 4:51 | 2022-05-31 | 2022-07-28 |
+| [134](https://open.spotify.com/track/2erQKQ9fLAq1YGVsuXUMKI) | [マッシュとアネモネ](https://open.spotify.com/artist/1hCMb6ZZq7wlwLouYSgsKj) | [134](https://open.spotify.com/album/2QIk2Fk5jRBTUdCirL3pyt) | 4:53 | 2022-12-29 |  |
 | [14時に待ち合わせ](https://open.spotify.com/track/5hOTUQMs6JEsyNn7Styacf) | [AOI MOMENT](https://open.spotify.com/artist/5A0UkhFr7fmMOKex4nXvfL) | [14時に待ち合わせ](https://open.spotify.com/album/5ez2mlsuhHtJn443pXMT80) | 3:49 | 2022-06-30 | 2022-07-05 |
 | [4x4](https://open.spotify.com/track/07GsJC4CbReS0QjoyZnVL4) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [4x4](https://open.spotify.com/album/0kvc1uSSfXPDOSvmahakb8) | 3:49 | 2022-06-07 | 2022-07-29 |
 | [7.26](https://open.spotify.com/track/4aZaTKNOS8hzT0qhMUJFlb) | [Leica](https://open.spotify.com/artist/1VkUmyetwZ4BRkl1VuMKFG) | [7.26](https://open.spotify.com/album/0j8d37uiEbFp3fzQAFl3d0) | 4:00 | 2022-06-14 | 2022-07-21 |
@@ -29,7 +30,7 @@
 | [Aoihonoo](https://open.spotify.com/track/4BfW34U1yJail0vgm0mMLp) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [Aoihonoo](https://open.spotify.com/album/2tdb1fHEFZiEHSHarnKtrK) | 2:20 | 2022-11-08 | 2022-12-14 |
 | [Aoku Aoku Hikaru feat\. ACANE, nulut](https://open.spotify.com/track/0UGnaxImsUffoaSkND3ueq) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [ACANE](https://open.spotify.com/artist/57G0EZUE9b480atssSdR9D), [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [ULTRAPANIC](https://open.spotify.com/album/6AZiQVTRwnR9UQmUfmMIJz) | 3:47 | 2022-12-08 |  |
 | [Bad Night Vacation](https://open.spotify.com/track/3X2HDWf5nmr2W7R3a5L6AM) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [Bad Night Vacation](https://open.spotify.com/album/0qIXBKlETofgMbzBX31x63) | 3:10 | 2022-06-02 | 2022-06-12 |
-| [bakemono](https://open.spotify.com/track/7B3AVIhaKGybUAYGhcAJnM) | [703goushitsu](https://open.spotify.com/artist/2kgwlK1KWV3bgzT7FsJGoR) | [bakemono](https://open.spotify.com/album/2drQHiNJgtS7QKUpbWUZGg) | 3:18 | 2022-12-13 |  |
+| [bakemono](https://open.spotify.com/track/7B3AVIhaKGybUAYGhcAJnM) | [703goushitsu](https://open.spotify.com/artist/2kgwlK1KWV3bgzT7FsJGoR) | [bakemono](https://open.spotify.com/album/2drQHiNJgtS7QKUpbWUZGg) | 3:18 | 2022-12-13 | 2022-12-30 |
 | [Balloon](https://open.spotify.com/track/18QFpkJFiMBeOBzZMxtV8y) | [Boundary](https://open.spotify.com/artist/7EYH7GNNmSQu0MqLFBupH9) | [Balloon](https://open.spotify.com/album/74C7JKHUV6QsQVK7ZuZRwx) | 3:29 | 2022-08-30 | 2022-09-07 |
 | [Band Music](https://open.spotify.com/track/7dNNG12RobAL4jLXJCYnli) | [the huckleberries](https://open.spotify.com/artist/5EWgOiRmZxdcCQOHyJQmUq) | [Band Music](https://open.spotify.com/album/4mZ5grA9HLvcfF9qgxk1Kg) | 3:33 | 2022-07-07 | 2022-07-09 |
 | [BEER DE GO \(feat.村里杏\)](https://open.spotify.com/track/4wQDpYHC9Bb2hZM2G7OZQj) | [BimBamBoom feat\. 村里杏](https://open.spotify.com/artist/1OkNkh83QRqWYOyfqmC0UZ) | [BEER DE GO](https://open.spotify.com/album/4XzX5SsNlcCGkjg1qapgYd) | 3:48 | 2022-06-02 | 2022-06-05 |
@@ -180,7 +181,7 @@
 | [morninglow](https://open.spotify.com/track/2aZXjw0geMCzrTBv9Z9WvB) | [AFTER SQUALL](https://open.spotify.com/artist/6NmGshcGuIkxttVAsEu8Ns) | [morninglow](https://open.spotify.com/album/50geS4DtoWu5fhI8lpkHar) | 3:50 | 2022-07-14 | 2022-07-19 |
 | [mune ga itai](https://open.spotify.com/track/536FZx9JlrbYDDbGNbLkUp) | [superuwan](https://open.spotify.com/artist/3kWDQ2gwxECBuLi7cSyQTH) | [PEEK\-A\-BOO](https://open.spotify.com/album/60y1SCzUqmL0Mbwh9UQcmi) | 4:10 | 2022-10-04 | 2022-10-12 |
 | [music](https://open.spotify.com/track/1my6WsRdwWkB8rNRL9U0wi) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [music](https://open.spotify.com/album/74f2abiQasJUuM0HlRTjM8) | 3:41 | 2022-05-31 | 2022-09-16 |
-| [My Christmas](https://open.spotify.com/track/7DgCQCALmT9lrG0lqHzX67) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [My Christmas / Dear My Dependence](https://open.spotify.com/album/4lg2LC4SYjgk5IqbUKXGEB) | 3:15 | 2022-12-07 |  |
+| [My Christmas](https://open.spotify.com/track/7DgCQCALmT9lrG0lqHzX67) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [My Christmas / Dear My Dependence](https://open.spotify.com/album/4lg2LC4SYjgk5IqbUKXGEB) | 3:15 | 2022-12-07 | 2022-12-30 |
 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 | 2022-11-01 |  |
 | [Myself](https://open.spotify.com/track/6goPRfxzG4tcPXOf0xcp9w) | [POLTA](https://open.spotify.com/artist/7AcpgsXKOWvTvlYmEJlw6X) | [Myself](https://open.spotify.com/album/7jAjFZgPDcFSvibxfCTSGp) | 3:21 | 2022-06-07 | 2022-07-15 |
 | [NEW ME](https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NEW ME](https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU) | 4:21 | 2022-09-15 |  |
@@ -502,6 +503,7 @@
 | [ミュージック](https://open.spotify.com/track/7cix8xx00wXIvuuWAoI08M) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [ミュージック](https://open.spotify.com/album/0cgxBDktbUNcoCD94TX6pK) | 3:30 | 2022-05-31 | 2022-06-26 |
 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 | 2022-06-02 | 2022-12-14 |
 | [ミルクコーヒー](https://open.spotify.com/track/6q2azHJI820CeEB4bAANIP) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [ミルクコーヒー](https://open.spotify.com/album/5rxI6eWrdgodXZbix1Z7Ad) | 4:12 | 2022-06-02 | 2022-07-11 |
+| [ムゲンライセ](https://open.spotify.com/track/6LGQzoAsFX3lVqdoFk9sa6) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [ムゲンライセ](https://open.spotify.com/album/3UAY8qw0iGV52Jk2b1QvAG) | 3:41 | 2022-12-29 |  |
 | [ムーンドライバー](https://open.spotify.com/track/2t4eYtF4gFF9UcFvDN41Pm) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ムーンドライバー](https://open.spotify.com/album/7da23Lp8vILfquBe5gw1af) | 4:11 | 2022-07-19 | 2022-07-27 |
 | [ムーヴ](https://open.spotify.com/track/2ZZOFbq0vCAYSJKnZ6u5ld) | [青い](https://open.spotify.com/artist/7KFqxwEis6G5L0yAYqYrXe) | [ムーヴ](https://open.spotify.com/album/5I6fiujXDmKXJLvU8wBpJy) | 3:24 | 2022-09-27 | 2022-11-02 |
 | [メイ](https://open.spotify.com/track/02gB1gWn7Gbs9oySId5Jso) | [SOM4LI](https://open.spotify.com/artist/7DT4fNnvRM3afyDfwm3hof) | [メイ](https://open.spotify.com/album/51gJqL941ZUIQhrH6OZJ3u) | 2:53 | 2022-08-17 | 2022-08-24 |

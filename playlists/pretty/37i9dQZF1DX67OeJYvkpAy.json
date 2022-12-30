@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 81309,
+  "num_followers": 81372,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDk1Mzc0ZDc3NmM4OTZhYzE1Y2IzNGVkMjVjODBiNzBl",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDNkNjA3ZTE4OWZjNDNiZGZhZWY3YmE1OWZhZWQ2ZDlk",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "In The Loop",
-        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
-      },
-      "artists": [
-        {
-          "name": "DC",
-          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
-        }
-      ],
-      "duration_ms": 195933,
-      "name": "Paro(noia)",
-      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Broken Hearted Crook",
         "url": "https://open.spotify.com/album/4uUlH56l3S2AehDBiFiVjP"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 168182,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/4SyXN06wxmCIulGCXSud0c"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "In The Loop",
+        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
+      },
+      "artists": [
+        {
+          "name": "DC",
+          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
+        }
+      ],
+      "duration_ms": 195933,
+      "name": "Paro(noia)",
+      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Can\u2019t Feel My Face",
-        "url": "https://open.spotify.com/album/1GtsUPgOszu46D4XeSfnr9"
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/4XeVz88NHvjEJHq65gYsnb"
       },
       "artists": [
         {
-          "name": "French The Kid",
-          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
         }
       ],
-      "duration_ms": 162751,
-      "name": "Can\u2019t Feel My Face",
-      "url": "https://open.spotify.com/track/58soKhQRucM4TZa4fpKfxY"
+      "duration_ms": 128261,
+      "name": "18+",
+      "url": "https://open.spotify.com/track/5KO7ewKFToXht9LbQDLPW5"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/4XeVz88NHvjEJHq65gYsnb"
-      },
-      "artists": [
-        {
-          "name": "Arz",
-          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
-        }
-      ],
-      "duration_ms": 128261,
-      "name": "18+",
-      "url": "https://open.spotify.com/track/5KO7ewKFToXht9LbQDLPW5"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "No Pain",
         "url": "https://open.spotify.com/album/3neEYpzdx056vivkqTKYlQ"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Can\u2019t Feel My Face",
+        "url": "https://open.spotify.com/album/1GtsUPgOszu46D4XeSfnr9"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "duration_ms": 162751,
+      "name": "Can\u2019t Feel My Face",
+      "url": "https://open.spotify.com/track/58soKhQRucM4TZa4fpKfxY"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "One Pop",
         "url": "https://open.spotify.com/album/4T9g1LO1TxjclRuejUVawP"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 184320,
       "name": "One Pop",
       "url": "https://open.spotify.com/track/7Eb5AWWwaTIJnxhjsAGN92"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "One Mic Freestyle (S3-EP1)",
+        "url": "https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 121624,
+      "name": "One Mic Freestyle (S3-EP1)",
+      "url": "https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -803,22 +819,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Rise Above Hate",
-        "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
-      },
-      "artists": [
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        }
-      ],
-      "duration_ms": 112043,
-      "name": "SS Interlude",
-      "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Deeper Than Drill",
         "url": "https://open.spotify.com/album/1tSvHyoAQUPXrzbBdzBIAA"
       },
@@ -835,18 +835,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "One Mic Freestyle (S3-EP1)",
-        "url": "https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe"
+        "name": "Rise Above Hate",
+        "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
       },
       "artists": [
         {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
         }
       ],
-      "duration_ms": 121624,
-      "name": "One Mic Freestyle (S3-EP1)",
-      "url": "https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP"
+      "duration_ms": 112043,
+      "name": "SS Interlude",
+      "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/21yWDNOLIhn37Kd6UtYua4"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/48oASW55itK9LQ5YFVSna4"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Love, Eternity & Faith",
         "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 160490,
       "name": "Venting",
       "url": "https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/21yWDNOLIhn37Kd6UtYua4"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/48oASW55itK9LQ5YFVSna4"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "High on Love",
+        "url": "https://open.spotify.com/album/5DJTixdrcHHAbzbnYzCE26"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 181044,
+      "name": "High on Love",
+      "url": "https://open.spotify.com/track/2zZUvshFMhGN6QmnOUqMJI"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "High (All The Time)",
         "url": "https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 203964,
       "name": "Lies",
       "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "High on Love",
-        "url": "https://open.spotify.com/album/5DJTixdrcHHAbzbnYzCE26"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 181044,
-      "name": "High on Love",
-      "url": "https://open.spotify.com/track/2zZUvshFMhGN6QmnOUqMJI"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/0aqCew5VjHvRiY6wOUNaA0"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 207307,
+      "name": "Meaning Of Love",
+      "url": "https://open.spotify.com/track/2uFwT6AZgwj8xjJHfTon66"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 169714,
       "name": "More",
       "url": "https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Better Than Me",
-        "url": "https://open.spotify.com/album/2nt2URWLUB0tMiNOpdVjsp"
-      },
-      "artists": [
-        {
-          "name": "KS",
-          "url": "https://open.spotify.com/artist/5DKEV4yJBpfHWFoqzSpNzU"
-        }
-      ],
-      "duration_ms": 146729,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/4TJRhzksocpuGeNh8qJFT8"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1323,22 +1323,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Is it too much? (Pray things change)",
-        "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
+        "name": "Better Than Me",
+        "url": "https://open.spotify.com/album/2nt2URWLUB0tMiNOpdVjsp"
       },
       "artists": [
         {
-          "name": "G!ft",
-          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
-        },
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4"
+          "name": "KS",
+          "url": "https://open.spotify.com/artist/5DKEV4yJBpfHWFoqzSpNzU"
         }
       ],
-      "duration_ms": 171678,
-      "name": "Is it too much? (Pray things change)",
-      "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
+      "duration_ms": 146729,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/4TJRhzksocpuGeNh8qJFT8"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1359,18 +1355,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/0aqCew5VjHvRiY6wOUNaA0"
+        "name": "Is it too much? (Pray things change)",
+        "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
       },
       "artists": [
         {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+          "name": "G!ft",
+          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
+        },
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4"
         }
       ],
-      "duration_ms": 207307,
-      "name": "Meaning Of Love",
-      "url": "https://open.spotify.com/track/2uFwT6AZgwj8xjJHfTon66"
+      "duration_ms": 171678,
+      "name": "Is it too much? (Pray things change)",
+      "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1403,6 +1403,22 @@
       "duration_ms": 199799,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "She Comes & Goes",
+        "url": "https://open.spotify.com/album/0jsWbLeChDHLiQVyqI3jUY"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/64ouLp8HmGoKawnFAmcGeR"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "I Thought I'd Die In Your Arms",
-        "url": "https://open.spotify.com/album/335rKXLWPEDRkmtjDjLgeA"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 176680,
-      "name": "I Thought I'd Die In Your Arms",
-      "url": "https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "One Mic",
         "url": "https://open.spotify.com/album/0WjAPpOCAJlotirvomOlrS"
       },
@@ -1591,38 +1591,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Who Am I?(I Dont Know)",
-        "url": "https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "Who Am I?(I Dont Know)",
-      "url": "https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "She Comes & Goes",
-        "url": "https://open.spotify.com/album/0jsWbLeChDHLiQVyqI3jUY"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/64ouLp8HmGoKawnFAmcGeR"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/5geYrrlo5OEZ4ImHAgcHd5"
       },
@@ -1635,6 +1603,22 @@
       "duration_ms": 133090,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/5857X0HSQoIMW8mdJKhDVA"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Who Am I?(I Dont Know)",
+        "url": "https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Who Am I?(I Dont Know)",
+      "url": "https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1687,6 +1671,22 @@
       "duration_ms": 150884,
       "name": "I Wanna Start My Life Again",
       "url": "https://open.spotify.com/track/0KooKH1oKoOho3w9kyG9PP"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "I Thought I'd Die In Your Arms",
+        "url": "https://open.spotify.com/album/1faQu8qGIL4XNZHno11AuF"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "I Thought I'd Die In Your Arms",
+      "url": "https://open.spotify.com/track/6Us2o4FMWMwRdWfSCUsWvv"
     }
   ],
   "unique_name": "lofi rap",

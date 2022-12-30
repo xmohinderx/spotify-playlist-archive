@@ -4,7 +4,7 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-67 songs - 3 hr 43 min - not published yet
+68 songs - 3 hr 45 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Rain, Rain](https://open.spotify.com/track/4Dvyyfa93OpZeJ3XgvS84I) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Good Dog, Happy Man](https://open.spotify.com/album/4ICZxA4JmNgkrjT9d30TJX) | 2:45 | 2022-10-13 |  |
 | [Red Sails in the Sunset](https://open.spotify.com/track/04ri8jkQTdZu3zu8ZbKZE8) | [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf), [John Pizzarelli Trio](https://open.spotify.com/artist/11elWakIc74gxcI5tftMKc) | [For Centennial Reasons: 100 Year Salute to Nat King Cole](https://open.spotify.com/album/0w7OS1dHGc86hVVuVC5y0S) | 3:20 | 2022-10-13 |  |
 | [Responsibilities](https://open.spotify.com/track/1Dx14n9PXzZ94BdZ8EUuHR) | [Affe Reidhoff](https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0) | [Commitments](https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st) | 4:26 | 2022-10-13 |  |
+| [Satin Doll](https://open.spotify.com/track/2gLre4glCEpcNC0jxQzGaX) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Satin Doll](https://open.spotify.com/album/6NmACvVbLu1hgvQcaFiW2V) | 2:14 | 2022-12-29 |  |
 | [Send In The Clowns](https://open.spotify.com/track/3kdtKIAtbPAxQvalOD7kO6) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 2:46 | 2022-10-13 |  |
 | [Send In The Clowns](https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:59 | 2022-10-13 |  |
 | [Shenandoah](https://open.spotify.com/track/1jzpB4HeNMkAgb2SjJbE5B) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Best Jazz Guitarists](https://open.spotify.com/album/4ahmB62pU2kxrpiMvOUhjz) | 1:46 | 2022-10-13 |  |

@@ -1606,6 +1606,24 @@
     },
     {
       "album": {
+        "name": "When We Return to the Sun",
+        "url": "https://open.spotify.com/album/1Zn4nlsuoEMfv07ydhkjUx"
+      },
+      "artists": [
+        {
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425642,
+      "name": "Mariupol",
+      "url": "https://open.spotify.com/track/7DkH47aURAR2Bbm1j66Km5"
+    },
+    {
+      "album": {
         "name": "Mariupol",
         "url": "https://open.spotify.com/album/6dP1JXzSX90FjRiKPFmnew"
       },
@@ -3267,7 +3285,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 195500,
       "name": "Vanished",
       "url": "https://open.spotify.com/track/2L5heX1aiNXS90ddDcEmx1"

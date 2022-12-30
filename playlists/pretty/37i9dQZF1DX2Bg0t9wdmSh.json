@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 1691,
+  "num_followers": 1706,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMGMwOWMyOGNkZDMyZmZjYmNhN2NmZDU1OWI5NDA0ZWZh",
+  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMDAxYzFmZmZmODU0Zjk1YWIzOGY4OTQ4ZTFmY2Y3ZmJi",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -583,6 +583,30 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Stay Down (with 6LACK & Young Thug)",
+        "url": "https://open.spotify.com/album/6sj2rIjEotPclHMD1w3pZU"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 169330,
+      "name": "Stay Down (with 6LACK & Young Thug)",
+      "url": "https://open.spotify.com/track/5PrUgp50eMSlL8oCF1tkQX"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Throat Baby (Go Baby) (with DaBaby & City Girls) [Remix]",
         "url": "https://open.spotify.com/album/7CaoMilK1vM4KvbbvRVggD"
       },
@@ -619,30 +643,6 @@
       "duration_ms": 144047,
       "name": "B*tch From Da Souf",
       "url": "https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Stay Down (with 6LACK & Young Thug)",
-        "url": "https://open.spotify.com/album/6sj2rIjEotPclHMD1w3pZU"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 169330,
-      "name": "Stay Down (with 6LACK & Young Thug)",
-      "url": "https://open.spotify.com/track/5PrUgp50eMSlL8oCF1tkQX"
     },
     {
       "added_at": "2022-10-01 16:09:56",

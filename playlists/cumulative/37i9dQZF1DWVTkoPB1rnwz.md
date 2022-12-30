@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-275 songs - 15 hr 48 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
+276 songs - 15 hr 54 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Le danseur dans la boîte](https://open.spotify.com/track/0vGbsSDK7St7mNqbs19nUC) | [Isaac Symonds](https://open.spotify.com/artist/7mvHnjqntcNNecYAHHbdM2), [Yaehsun](https://open.spotify.com/artist/2EzEflueqj8hSyiCNSTxbB), [Camille Paquette\-Roy](https://open.spotify.com/artist/1pVlFqIC1hmzaUf9UPIpFZ) | [Natura Sophia](https://open.spotify.com/album/1m9tfsXeu1A6GOh7lzVphq) | 4:58 | 2021-10-16 | 2022-07-29 |
 | [Life Tools](https://open.spotify.com/track/1UnID8JHQyfGHZhX8mTkOz) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Life Tools](https://open.spotify.com/album/38hMfjKQMQTUYpbtku1KRK) | 1:44 | 2021-10-16 | 2022-08-09 |
 | [Light](https://open.spotify.com/track/3is4aHMSpsFnrDx0btsuEW) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/7zCzUUixLiKDCNcoHfVkd0) | 1:50 | 2021-10-16 | 2022-11-19 |
-| [Light](https://open.spotify.com/track/4oFJKYQ32w0jIMXwYBWg4i) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/2cIwdGl2fnwNFqnpQlKdem) | 1:50 | 2021-10-16 |  |
+| [Light](https://open.spotify.com/track/4oFJKYQ32w0jIMXwYBWg4i) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/2cIwdGl2fnwNFqnpQlKdem) | 1:50 | 2021-10-16 | 2022-12-30 |
 | [Lilac](https://open.spotify.com/track/0Ymu1QBwxsXpwsLdxWBRtA) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/4lqw1wICfF7tNfVjj3TPgX) | 2:40 | 2021-10-16 | 2022-07-29 |
 | [Lilac](https://open.spotify.com/track/1o6NbOV0dqkjeaXFiTMJOO) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/7s9B2fGXMeIgYEnoHxrzWN) | 2:40 | 2021-10-16 |  |
 | [Lithe](https://open.spotify.com/track/5tFLJyoBQkbIFz3YZ2SfF5) | [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Blizz](https://open.spotify.com/album/6rzMe09QPlvWFvW1hhrxS9) | 5:28 | 2022-11-25 |  |
@@ -149,6 +149,7 @@
 | [Lonely](https://open.spotify.com/track/77Gt9f138HG8AEN8IoTrnu) | [Hyperparadise](https://open.spotify.com/artist/4uajeI5EPh9v3im2UwQH5s) | [Midnight Thoughts](https://open.spotify.com/album/7BJriCkxc7S82hL3T0qtxf) | 3:12 | 2021-10-16 | 2022-10-22 |
 | [Louie's Lullaby](https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Pause](https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP) | 2:51 | 2021-10-16 |  |
 | [Making Gardens Out of Silence](https://open.spotify.com/track/1WqVCOMjOOWjamob3A2DsK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 8:21 | 2022-11-18 |  |
+| [Marginalia \#119](https://open.spotify.com/track/3gOEYrmxejidBqgxgeTpJ0) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#119](https://open.spotify.com/album/31TDrtEsbcHHJNnZ9IWOB9) | 6:09 | 2022-12-30 |  |
 | [Mariposas](https://open.spotify.com/track/5z8GDA5pxCUPLtNY7ykAqw) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Mutaciones](https://open.spotify.com/album/5Dhc2E7m1T2e7gRzBtdRTg) | 3:44 | 2021-10-16 |  |
 | [Marshmallow](https://open.spotify.com/track/6N2yBySX0VhCVlVHKngirs) | [The Sweet Enoughs](https://open.spotify.com/artist/04nWjOBHWrVkvyjK4PXRNy) | [Marshmallow](https://open.spotify.com/album/79tfjRNKLemO4c2dNXqJFR) | 3:55 | 2021-12-07 |  |
 | [Meadows](https://open.spotify.com/track/1jIeBRTPTM94g9DRmxwtDY) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [Chillhop Essentials Spring 2019](https://open.spotify.com/album/1vV4Hl5uDdMtKdKChSkjLG) | 2:30 | 2021-10-16 |  |
@@ -210,7 +211,7 @@
 | [Shuswap Lake](https://open.spotify.com/track/65QjGjNoFbSEza40LZbgYW) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/2ZhUnjUD0SS43j555ve3VO) | 2:53 | 2022-11-25 |  |
 | [Silent, Again](https://open.spotify.com/track/1y2VUlqdTglajvnqfWlTNr) | [bonsai2004](https://open.spotify.com/artist/4dadbZwGXdRXe17zBigfoO) | [Silent, Again](https://open.spotify.com/album/61wpNCObeDn2KQimfYGtR4) | 2:04 | 2021-10-16 | 2022-07-27 |
 | [simbiosis](https://open.spotify.com/track/50oogoHC2e9HDCFxw1oB7G) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [simbiosis](https://open.spotify.com/album/3RK6NpoByT63TvTZO1k9RY) | 3:36 | 2021-10-16 | 2022-07-29 |
-| [Sinharaja Rain Forest](https://open.spotify.com/track/0Mw0pFOPi8bl3XfyifwUvw) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Sinharaja Rain Forest](https://open.spotify.com/album/0cW23AQ5uuPAdP5B7RycMY) | 2:09 | 2021-10-16 | 2022-12-22 |
+| [Sinharaja Rain Forest](https://open.spotify.com/track/0Mw0pFOPi8bl3XfyifwUvw) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Sinharaja Rain Forest](https://open.spotify.com/album/0cW23AQ5uuPAdP5B7RycMY) | 2:09 | 2021-10-16 |  |
 | [Sinú](https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6) | [Nodes](https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv) | [Pantano Lontano](https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE) | 5:41 | 2021-10-16 |  |
 | [Sistine \(Plucks\)](https://open.spotify.com/track/6HmtbuPgCApFCDKPmciwAq) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 3:29 | 2021-10-16 | 2022-07-22 |
 | [Sisu](https://open.spotify.com/track/3uQ33vLHvYhUC5EJvd4RuK) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sisu](https://open.spotify.com/album/5fDif78W0imKj7ZVnsEjGP) | 2:33 | 2021-10-16 |  |
@@ -271,7 +272,7 @@
 | [VOL 5 ITEM 63](https://open.spotify.com/track/4L23VDH0RmDbFyY0kEJd2z) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Pareidolia Catalog, Vols\. 5\-8](https://open.spotify.com/album/0AwvcCx7JroXjnosnDnJGV) | 2:12 | 2022-08-31 | 2022-09-17 |
 | [wading through the wetlands](https://open.spotify.com/track/41DB59gjQcplKWlQPI89lt) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ) | [mudflat hikers](https://open.spotify.com/album/3sFJdoo3cHihNzJtPEaOHw) | 2:44 | 2021-10-16 | 2022-11-17 |
 | [wading through the wetlands](https://open.spotify.com/track/70s82y5YSYOsLhlQnZNh1E) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ) | [mudflat hikers](https://open.spotify.com/album/5unmEFWv7YiVMV39friIJY) | 2:44 | 2021-10-16 | 2022-07-28 |
-| [Waiting for You](https://open.spotify.com/track/6zfJirLNG7uyh9R3k1NKOF) | [Beatsloth](https://open.spotify.com/artist/2mNGmwkYJOW9hqFf3BJRQn) | [Waiting for You](https://open.spotify.com/album/11jtUQ6GkxorADe9g3c5hM) | 2:00 | 2022-11-18 |  |
+| [Waiting for You](https://open.spotify.com/track/6zfJirLNG7uyh9R3k1NKOF) | [Beatsloth](https://open.spotify.com/artist/2mNGmwkYJOW9hqFf3BJRQn) | [Waiting for You](https://open.spotify.com/album/11jtUQ6GkxorADe9g3c5hM) | 2:00 | 2022-11-18 | 2022-12-30 |
 | [We](https://open.spotify.com/track/22SzEhlJaen0MCdlOJ2aLe) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [The Sky Sings Its Chorus \(For Us Alone\) \[Pt .1\]](https://open.spotify.com/album/4FQr3OeU7tQKO8h1g8QiI2) | 2:35 | 2021-10-16 | 2022-07-29 |
 | [We](https://open.spotify.com/track/5tMwIq5wvUARN4NOuB2XLW) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [For Us Alone](https://open.spotify.com/album/5qLvjzYlOPBWcoGXH7bUSo) | 2:35 | 2021-10-16 |  |
 | [when the leaves come falling down](https://open.spotify.com/track/1wtrm5eTeRfEXyJNF4Low1) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [her](https://open.spotify.com/album/1vRcYipEq8fJeeHGldHiFa) | 2:01 | 2021-10-16 |  |

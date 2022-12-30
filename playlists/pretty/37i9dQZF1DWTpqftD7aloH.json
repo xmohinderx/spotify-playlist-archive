@@ -1,12 +1,12 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.",
-  "num_followers": 221019,
+  "num_followers": 221426,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NjQ5NSwwMDAwMDAwMDhhMDBhYTRiYTE3OTVjNmFkYjY4MjkyNWQxY2M1OWJh",
+  "snapshot_id": "MTY3MDU2NjQ5NSwwMDAwMDAwMGIyZTliNGI3MzYzZDdjY2Q4OWVhOGRiYTlmMjExZjdk",
   "tracks": [
     {
       "added_at": "2022-12-09 06:14:55",
@@ -79,6 +79,22 @@
     {
       "added_at": "2022-12-09 06:14:55",
       "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S"
+      },
+      "artists": [
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 423173,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q"
+    },
+    {
+      "added_at": "2022-12-09 06:14:55",
+      "album": {
         "name": "T\u00e1 Chorando Por Qu\u00ea?",
         "url": "https://open.spotify.com/album/7eZ3qo42FAWFHue9UkuHv5"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 214445,
       "name": "T\u00e1 Chorando Por Qu\u00ea?",
       "url": "https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE"
-    },
-    {
-      "added_at": "2022-12-09 06:14:55",
-      "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S"
-      },
-      "artists": [
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 423173,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q"
     },
     {
       "added_at": "2022-12-09 06:14:55",
@@ -543,18 +543,22 @@
     {
       "added_at": "2022-12-09 06:14:55",
       "album": {
-        "name": "Samuel Messias (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6TtTqrCRMPuSOpVUDlNSeX"
+        "name": "A B\u00ean\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6Q9PrTuJMZuKgjtQMm8RR4"
       },
       "artists": [
         {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 391720,
-      "name": "Todavia Me Alegrarei (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3AH9Eok8N2BIGNUNBg1APv"
+      "duration_ms": 357160,
+      "name": "A B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1evlfCwP69atq9ahcTggiu"
     },
     {
       "added_at": "2022-12-09 06:14:55",
@@ -575,22 +579,18 @@
     {
       "added_at": "2022-12-09 06:14:55",
       "album": {
-        "name": "A B\u00ean\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6Q9PrTuJMZuKgjtQMm8RR4"
+        "name": "Samuel Messias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6TtTqrCRMPuSOpVUDlNSeX"
       },
       "artists": [
         {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
         }
       ],
-      "duration_ms": 357160,
-      "name": "A B\u00ean\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1evlfCwP69atq9ahcTggiu"
+      "duration_ms": 391720,
+      "name": "Todavia Me Alegrarei (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3AH9Eok8N2BIGNUNBg1APv"
     },
     {
       "added_at": "2022-12-09 06:14:55",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-12-09 06:14:55",
       "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/2qPWe6Pl4Xh6L58ooHfXDm"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "Way Maker - Single Version",
-      "url": "https://open.spotify.com/track/0H4BGX7L8UfoD0g4wgXd0D"
-    },
-    {
-      "added_at": "2022-12-09 06:14:55",
-      "album": {
         "name": "Bright Faith Bold Future",
         "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 234731,
       "name": "Yes I Will",
       "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"
+    },
+    {
+      "added_at": "2022-12-09 06:14:55",
+      "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/2qPWe6Pl4Xh6L58ooHfXDm"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Way Maker - Single Version",
+      "url": "https://open.spotify.com/track/0H4BGX7L8UfoD0g4wgXd0D"
     },
     {
       "added_at": "2022-12-09 06:14:55",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-12-09 06:14:55",
       "album": {
+        "name": "Saudade, Vol. 1",
+        "url": "https://open.spotify.com/album/7AJY52qnMHN6z1xn1F0isE"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 220616,
+      "name": "Mesmo Sem Entender",
+      "url": "https://open.spotify.com/track/5A2PGUJvo4euS7n6Bu6C9u"
+    },
+    {
+      "added_at": "2022-12-09 06:14:55",
+      "album": {
         "name": "Girassol",
         "url": "https://open.spotify.com/album/3NpsEXK612BTwLLIFQECxO"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 224725,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj"
-    },
-    {
-      "added_at": "2022-12-09 06:14:55",
-      "album": {
-        "name": "Saudade, Vol. 1",
-        "url": "https://open.spotify.com/album/7AJY52qnMHN6z1xn1F0isE"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 220616,
-      "name": "Mesmo Sem Entender",
-      "url": "https://open.spotify.com/track/5A2PGUJvo4euS7n6Bu6C9u"
     },
     {
       "added_at": "2022-12-09 06:14:55",
@@ -967,26 +967,6 @@
     {
       "added_at": "2022-12-09 06:14:55",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 411000,
-      "name": "So Will I (100 Billion X)",
-      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
-    },
-    {
-      "added_at": "2022-12-09 06:14:55",
-      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/7MRDs01RHDgPcEq4PbLQLX"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 522461,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/7mwHk3vhKoVuzJxPFCjoRY"
+    },
+    {
+      "added_at": "2022-12-09 06:14:55",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 411000,
+      "name": "So Will I (100 Billion X)",
+      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
     },
     {
       "added_at": "2022-12-09 06:14:55",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-12-09 06:14:55",
       "album": {
-        "name": "Casa De Deus",
-        "url": "https://open.spotify.com/album/2ZYiW69PA1iRSCPGNcoLPm"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "Me Ajude A Melhorar",
-      "url": "https://open.spotify.com/track/63ZKT26bj7ni15pl3MGMpU"
-    },
-    {
-      "added_at": "2022-12-09 06:14:55",
-      "album": {
         "name": "Advogado Fiel",
         "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 288995,
       "name": "Sou Humano",
       "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
+    },
+    {
+      "added_at": "2022-12-09 06:14:55",
+      "album": {
+        "name": "Casa De Deus",
+        "url": "https://open.spotify.com/album/2ZYiW69PA1iRSCPGNcoLPm"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Me Ajude A Melhorar",
+      "url": "https://open.spotify.com/track/63ZKT26bj7ni15pl3MGMpU"
     },
     {
       "added_at": "2022-12-09 06:14:55",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-12-09 06:14:55",
       "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 198140,
+      "name": "Known",
+      "url": "https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X"
+    },
+    {
+      "added_at": "2022-12-09 06:14:55",
+      "album": {
         "name": "Um Refr\u00e3o Pra Sua Alma",
         "url": "https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 256023,
       "name": "Um Refr\u00e3o Pra Sua Alma",
       "url": "https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx"
-    },
-    {
-      "added_at": "2022-12-09 06:14:55",
-      "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 198140,
-      "name": "Known",
-      "url": "https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X"
     },
     {
       "added_at": "2022-12-09 06:14:55",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-12-09 06:14:55",
       "album": {
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 227369,
+      "name": "Hino da Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/2MHtGSaW12T738131nTj0d"
+    },
+    {
+      "added_at": "2022-12-09 06:14:55",
+      "album": {
         "name": "Come\u00e7o, Meio e Fim / Mais Perto Quero Estar (Ao Vivo)",
         "url": "https://open.spotify.com/album/2kxUqW58yhbbbep56nBy1E"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 337840,
       "name": "Come\u00e7o, Meio e Fim / Mais Perto Quero Estar - Ao Vivo",
       "url": "https://open.spotify.com/track/2IFCM9E7M0AnBwyWXM5Not"
-    },
-    {
-      "added_at": "2022-12-09 06:14:55",
-      "album": {
-        "name": "Com Muito Louvor",
-        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 227369,
-      "name": "Hino da Vit\u00f3ria",
-      "url": "https://open.spotify.com/track/2MHtGSaW12T738131nTj0d"
     },
     {
       "added_at": "2022-12-09 06:14:55",
@@ -1431,18 +1431,22 @@
     {
       "added_at": "2022-12-09 06:14:55",
       "album": {
-        "name": "Palavras",
-        "url": "https://open.spotify.com/album/1sQrDiL3Fh8ZBa0AlqcoAG"
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 264693,
-      "name": "Palavras",
-      "url": "https://open.spotify.com/track/31tZBMILhUQPwPDEMrQg3Z"
+      "duration_ms": 242401,
+      "name": "Famous For (I Believe)",
+      "url": "https://open.spotify.com/track/2RuUAwOz2vyArTaiMQUL7j"
     },
     {
       "added_at": "2022-12-09 06:14:55",
@@ -1467,26 +1471,6 @@
     {
       "added_at": "2022-12-09 06:14:55",
       "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 242401,
-      "name": "Famous For (I Believe)",
-      "url": "https://open.spotify.com/track/2RuUAwOz2vyArTaiMQUL7j"
-    },
-    {
-      "added_at": "2022-12-09 06:14:55",
-      "album": {
         "name": "Compromisso",
         "url": "https://open.spotify.com/album/7IS8jD2ml760J58TRu2M9w"
       },
@@ -1503,22 +1487,6 @@
     {
       "added_at": "2022-12-09 06:14:55",
       "album": {
-        "name": "Me Leva Pra Casa",
-        "url": "https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD"
-      },
-      "artists": [
-        {
-          "name": "Israel Subira",
-          "url": "https://open.spotify.com/artist/40jSo4jgm07gMbHPJWnaFU"
-        }
-      ],
-      "duration_ms": 465885,
-      "name": "Me Leva Pra Casa",
-      "url": "https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T"
-    },
-    {
-      "added_at": "2022-12-09 06:14:55",
-      "album": {
         "name": "Livres ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1nOKQhet5BeWlwtzkNbc8C"
       },
@@ -1531,6 +1499,38 @@
       "duration_ms": 447843,
       "name": "Lindo \u00c9s + S\u00f3 Quero Ver Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/35IN0nKkbuQh4DMxIv4R1E"
+    },
+    {
+      "added_at": "2022-12-09 06:14:55",
+      "album": {
+        "name": "Palavras",
+        "url": "https://open.spotify.com/album/1sQrDiL3Fh8ZBa0AlqcoAG"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 264693,
+      "name": "Palavras",
+      "url": "https://open.spotify.com/track/31tZBMILhUQPwPDEMrQg3Z"
+    },
+    {
+      "added_at": "2022-12-09 06:14:55",
+      "album": {
+        "name": "Me Leva Pra Casa",
+        "url": "https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD"
+      },
+      "artists": [
+        {
+          "name": "Israel Subira",
+          "url": "https://open.spotify.com/artist/40jSo4jgm07gMbHPJWnaFU"
+        }
+      ],
+      "duration_ms": 465885,
+      "name": "Me Leva Pra Casa",
+      "url": "https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T"
     },
     {
       "added_at": "2022-12-09 06:14:55",

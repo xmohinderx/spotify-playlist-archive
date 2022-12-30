@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,724,586 likes - 100 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,738,564 likes - 100 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 74 | [God's Revenge](https://open.spotify.com/track/7x3SAQDjvfr7is2O4xZZ4u) | [Feerix](https://open.spotify.com/artist/3pCsoptVyteSgucFwAXpUM) | [God's Revenge](https://open.spotify.com/album/66yvaJzhUa8Jrzg0TSUkuL) | 2:04 |
 | 75 | [DARK LADY](https://open.spotify.com/track/15kFp3rOPgHSogMHLon1bC) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [DARK LADY](https://open.spotify.com/album/2NAj0uSRZPtvuuT3z6KoOk) | 2:23 |
 | 76 | [Massacre](https://open.spotify.com/track/17PIQKvMfby1GmaB8PcM80) | [CREEPYMANE](https://open.spotify.com/artist/4iS0O9GXC7newvIHGqgaEz) | [Massacre](https://open.spotify.com/album/40zEdByivwv75b9JCg0SN4) | 1:40 |
-| 77 | [Try Again](https://open.spotify.com/track/6hzs9mLhbdG095vRsXlKmg) | [Phonk](https://open.spotify.com/artist/3kXvE7gEBfGkwDaknMngF7) | [Try Again](https://open.spotify.com/album/1sj3hCERNn8GjURtFvAsTE) | 1:52 |
+| 77 | [try again](https://open.spotify.com/track/4G3Bsou1LCoRT7CQISWRtV) | [f2kh6](https://open.spotify.com/artist/38WmE0nhZTeg85mqWy8api) | [try again](https://open.spotify.com/album/0kHd9b3a2uhTvhM8fZc9d8) | 1:52 |
 | 78 | [Twilight](https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x) | 1:56 |
 | 79 | [PARANOIA](https://open.spotify.com/track/5L5p2rCrrqXKLdK4mTXpAt) | [Mista Playa](https://open.spotify.com/artist/1HKnpKgZV66Fo0wLW9K25i) | [PARANOIA](https://open.spotify.com/album/1aktZT8x9yyZ3z8Y3H0gul) | 1:56 |
 | 80 | [SLAUGHTER HOUSE](https://open.spotify.com/track/512GmOfa7bOg5IJcrVHMdy) | [Phonkha](https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU), [zecki](https://open.spotify.com/artist/3hmaJ9tTvaDVTrJyHPO9T0) | [SLAUGHTER HOUSE](https://open.spotify.com/album/74VzeE1hiSnr1P2SsQ2m0L) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [DAMAGE](https://open.spotify.com/track/2YSm6BI1oDJwBayq3ey1QG) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DAMAGE](https://open.spotify.com/album/3ZBmbk49nEavSEHQ1ZZyv7) | 2:21 |
 | 100 | [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 |
 
-Snapshot ID: `MTY3MTc3Njc0OCwwMDAwMDAwMDc4MWE4M2YzMzAzZDQ0M2NhOTZmZTYzOTc1MWEyYmNh`
+Snapshot ID: `MTY3MTc3Njc0OCwwMDAwMDAwMDg4MjI4MTcxYjkwMDQ2OTk1NzllZjhlNGIzZjNiNzI2`

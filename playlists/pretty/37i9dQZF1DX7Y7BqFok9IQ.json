@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Gary Clark Jr.",
-  "num_followers": 138330,
+  "num_followers": 138379,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDM3ZTI3MmU0NWQyNTkwMmEwMWM1NWY1NjFhY2YyMmEx",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGMxNzkwMDMyOGEzZDdkYjU0YzVjZGVhMTc2NjY4N2U3",
   "tracks": [
     {
       "added_at": "2022-10-21 04:01:00",
@@ -393,42 +393,6 @@
       "url": "https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Good for Sumthin'",
-        "url": "https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "Zakk Wylde",
-          "url": "https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny"
-        }
-      ],
-      "duration_ms": 326013,
-      "name": "Steep Climb",
-      "url": "https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Blak and Blu (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 324786,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
-    },
-    {
       "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Wicked Girl",
@@ -447,6 +411,42 @@
       "duration_ms": 208000,
       "name": "Wicked Girl",
       "url": "https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Blak and Blu (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 324786,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Good for Sumthin'",
+        "url": "https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "Zakk Wylde",
+          "url": "https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny"
+        }
+      ],
+      "duration_ms": 326013,
+      "name": "Steep Climb",
+      "url": "https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -545,22 +545,6 @@
       "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Truth Be Told EP",
-        "url": "https://open.spotify.com/album/3sKN3K3rG2nvkwhtkmLYVR"
-      },
-      "artists": [
-        {
-          "name": "Cam Cole",
-          "url": "https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S"
-        }
-      ],
-      "duration_ms": 166862,
-      "name": "Truth Be Told",
-      "url": "https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl"
-    },
-    {
       "added_at": "2021-02-26 05:01:00",
       "album": {
         "name": "Bones Owens",
@@ -591,6 +575,22 @@
       "duration_ms": 201803,
       "name": "Nothing But The Blues",
       "url": "https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Truth Be Told EP",
+        "url": "https://open.spotify.com/album/3sKN3K3rG2nvkwhtkmLYVR"
+      },
+      "artists": [
+        {
+          "name": "Cam Cole",
+          "url": "https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S"
+        }
+      ],
+      "duration_ms": 166862,
+      "name": "Truth Be Told",
+      "url": "https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR"
     },
     {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "Sugar and Spice",
-        "url": "https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL"
-      },
-      "artists": [
-        {
-          "name": "Jocelyn & Chris Arndt",
-          "url": "https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R"
-        }
-      ],
-      "duration_ms": 214921,
-      "name": "Sugar and Spice",
-      "url": "https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "El Dorado",
@@ -721,20 +705,20 @@
       "url": "https://open.spotify.com/track/15vRL4NwrNpgTwFY5rPnNf"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
+      "added_at": "2021-06-18 04:01:00",
       "album": {
-        "name": "Ones to Keep Close",
-        "url": "https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0"
+        "name": "Sugar and Spice",
+        "url": "https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL"
       },
       "artists": [
         {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+          "name": "Jocelyn & Chris Arndt",
+          "url": "https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R"
         }
       ],
-      "duration_ms": 196843,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
+      "duration_ms": 214921,
+      "name": "Sugar and Spice",
+      "url": "https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9"
     },
     {
       "added_at": "2021-03-05 05:01:00",
@@ -755,6 +739,22 @@
       "duration_ms": 203099,
       "name": "Click Click Domino (feat. Marcus King)",
       "url": "https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Ones to Keep Close",
+        "url": "https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 196843,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd"
-      },
-      "artists": [
-        {
-          "name": "Chris Leamy",
-          "url": "https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx"
-        }
-      ],
-      "duration_ms": 165954,
-      "name": "Louder",
-      "url": "https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt"
-    },
-    {
       "added_at": "2021-03-26 04:01:00",
       "album": {
         "name": "Heavy Shoes",
@@ -819,6 +803,22 @@
       "duration_ms": 206618,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd"
+      },
+      "artists": [
+        {
+          "name": "Chris Leamy",
+          "url": "https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx"
+        }
+      ],
+      "duration_ms": 165954,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt"
     }
   ],
   "unique_name": "Modern Blues Rock",

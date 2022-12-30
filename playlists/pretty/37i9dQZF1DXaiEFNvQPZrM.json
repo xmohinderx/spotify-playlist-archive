@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 617026,
+  "num_followers": 617493,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDliNWFkZjI3MzFlZDlhNTE2OTJmMjU0NWMyOTI5YTI3",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGU5ZDViN2M3ZDlmODE1MDk0ZTU5ZmRiMjg2YzQ2YWUy",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "On the Other Hand - All the Number Ones",
-        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "If I Didn't Have You",
-      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "The Deana Carter Collection",
         "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 290466,
       "name": "Strawberry Wine",
       "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "On the Other Hand - All the Number Ones",
+        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "If I Didn't Have You",
+      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Haunted Heart",
-        "url": "https://open.spotify.com/album/30ORdfQ1Movxqmpf3qkrMQ"
-      },
-      "artists": [
-        {
-          "name": "Sammy Kershaw",
-          "url": "https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Queen Of My Double Wide Trailer",
-      "url": "https://open.spotify.com/track/3Wz9Fm9ZyhpaRGxMlSR5G4"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Put Yourself In My Place",
         "url": "https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 239173,
       "name": "Maybe It Was Memphis",
       "url": "https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Haunted Heart",
+        "url": "https://open.spotify.com/album/30ORdfQ1Movxqmpf3qkrMQ"
+      },
+      "artists": [
+        {
+          "name": "Sammy Kershaw",
+          "url": "https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Queen Of My Double Wide Trailer",
+      "url": "https://open.spotify.com/track/3Wz9Fm9ZyhpaRGxMlSR5G4"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1575,38 +1575,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Texas to Tennessee",
-        "url": "https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Catching Up With An Ol' Memory",
-      "url": "https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Little Miss Saturday Night",
-        "url": "https://open.spotify.com/album/2vJcuEOjHFf1aKFMvhDj6j"
-      },
-      "artists": [
-        {
-          "name": "Drew Parker",
-          "url": "https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ"
-        }
-      ],
-      "duration_ms": 200438,
-      "name": "Little Miss Saturday Night",
-      "url": "https://open.spotify.com/track/5MF7WqDx40eGewUkrPiigs"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -1635,6 +1603,38 @@
       "duration_ms": 142840,
       "name": "Loose Change",
       "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Little Miss Saturday Night",
+        "url": "https://open.spotify.com/album/2vJcuEOjHFf1aKFMvhDj6j"
+      },
+      "artists": [
+        {
+          "name": "Drew Parker",
+          "url": "https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ"
+        }
+      ],
+      "duration_ms": 200438,
+      "name": "Little Miss Saturday Night",
+      "url": "https://open.spotify.com/track/5MF7WqDx40eGewUkrPiigs"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Texas to Tennessee",
+        "url": "https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Catching Up With An Ol' Memory",
+      "url": "https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw"
     }
   ],
   "unique_name": "Traditional Country",
