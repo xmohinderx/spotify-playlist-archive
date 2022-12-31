@@ -4,7 +4,7 @@
 
 > Take another hit.
 
-116 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/4WAHWXqbl799pc8cRS91Pp)
+117 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/4WAHWXqbl799pc8cRS91Pp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Guestlist](https://open.spotify.com/track/46yplRp7xn26QkDe8AdgaB) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Guestlist](https://open.spotify.com/album/5D89rT4XKSkoOCLJewdiB4) | 3:54 | 2022-07-28 | 2022-11-29 |
 | [Habiba \(feat\. Tawsen\)](https://open.spotify.com/track/4mCkHTkDfG4GG29cd7nrT5) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Habiba \(feat\. Tawsen\)](https://open.spotify.com/album/7gAjCKK7SJMIYLxYGDUEUM) | 3:14 | 2022-07-28 |  |
 | [Habibi \- Albanian Remix](https://open.spotify.com/track/2sHYMLUd4nVLxHPKY05Ein) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [DJ Gimi\-O](https://open.spotify.com/artist/5lU3mLIonARnLpRtp5f77M) | [Habibi \(Albanian Remix\)](https://open.spotify.com/album/3WOsyRdlR3qA5BhKW3Ffkj) | 2:09 | 2022-07-28 | 2022-12-14 |
+| [Hands Up \(feat\. Dopebwoy\)](https://open.spotify.com/track/4SG0taCeFyMRCk1B2oPJ9R) | [Kevcody](https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hands Up \(feat\. Dopebwoy\)](https://open.spotify.com/album/48xPTdsbfEwQcuJ3FIHNpn) | 2:38 | 2022-12-30 |  |
 | [Hate You, I Love You](https://open.spotify.com/track/6ZLc2SAYbyqXTH4pZOfYVL) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Hate You, I Love You](https://open.spotify.com/album/3MEz34mMadTHxqUvEF1HFH) | 2:36 | 2022-07-28 |  |
 | [Hello Mate](https://open.spotify.com/track/76F7T5zPxdpcPndQNs2dQU) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Hello Mate](https://open.spotify.com/album/0WLtXpCoQXJBoWmtcRkmKX) | 3:12 | 2022-07-28 | 2022-10-03 |
 | [Ik Hoor Je \(feat\. DYSTINCT, Ashafar & YAM\)](https://open.spotify.com/track/5iFafkYn5bkfvvSunovtFa) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Ik Hoor Je \(feat\. DYSTINCT, Ashafar & YAM\)](https://open.spotify.com/album/1iwqMi7GLvb1Ox6MdSHdKI) | 3:35 | 2022-07-28 |  |

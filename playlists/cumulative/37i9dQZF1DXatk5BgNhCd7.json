@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 139125,
       "name": "Adios",
       "url": "https://open.spotify.com/track/3pnFrkpYdQCNhGXQHUg718"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 208197,
       "name": "Besos Y Cerezas",
       "url": "https://open.spotify.com/track/70ZkmRFoohGrEeIC37C90L"
@@ -2447,7 +2447,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 264900,
       "name": "C\u00f3mo No Amarte",
       "url": "https://open.spotify.com/track/3I7RZ8jbuzNTLTFal2kEbb"
@@ -3201,6 +3201,24 @@
       "duration_ms": 158471,
       "name": "El Da\u00f1o",
       "url": "https://open.spotify.com/track/2o288iPlKB6iy9YJA8bCGi"
+    },
+    {
+      "album": {
+        "name": "El Delicioso",
+        "url": "https://open.spotify.com/album/735dT67U3yVyifgdBt23tL"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168320,
+      "name": "El Delicioso",
+      "url": "https://open.spotify.com/track/4WezbJ9xkqP0mKm1rVBa7N"
     },
     {
       "album": {
@@ -5867,7 +5885,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 237137,
       "name": "Las De Juan Luis",
       "url": "https://open.spotify.com/track/1XbQijcQQD4vAAnAEoSllZ"
@@ -6005,6 +6023,28 @@
       "duration_ms": 337832,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/0cq1QraEvfYY4lwlNMyhHp"
+    },
+    {
+      "album": {
+        "name": "Llorar\u00e1s M\u00e1s de 10 Veces",
+        "url": "https://open.spotify.com/album/5NmYayaP0sr0anmXO9D8hz"
+      },
+      "artists": [
+        {
+          "name": "Nico Mattioli",
+          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210357,
+      "name": "Llorar\u00e1s M\u00e1s de 10 Veces",
+      "url": "https://open.spotify.com/track/10VUJfqV8GGuJovH0x9Q4e"
     },
     {
       "album": {
@@ -6363,7 +6403,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 191624,
       "name": "Mal Paso",
       "url": "https://open.spotify.com/track/3ATLzTXk6FB0oSpEF0agQX"
@@ -6483,7 +6523,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 175959,
       "name": "Mam\u00e1 Mam\u00e1",
       "url": "https://open.spotify.com/track/7eFGshFhHKeZ2LgEoiWQ5F"
@@ -6559,7 +6599,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 168376,
       "name": "Mar\u00eda La Celosa",
       "url": "https://open.spotify.com/track/1nNoRIDoMBVqRJJ2yRSIXT"
@@ -6925,6 +6965,28 @@
       "duration_ms": 241291,
       "name": "Mi Amor Se Fue Contigo",
       "url": "https://open.spotify.com/track/4ZTxOpTN9AOqWHP7bl7vGU"
+    },
+    {
+      "album": {
+        "name": "Mi Cucharita",
+        "url": "https://open.spotify.com/album/3eoDkbEiOlezj3MiUhiwSk"
+      },
+      "artists": [
+        {
+          "name": "Fede Rojas",
+          "url": "https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe"
+        },
+        {
+          "name": "Farovi",
+          "url": "https://open.spotify.com/artist/3xxTHOKHoKoGOVgk1xPUxq"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119894,
+      "name": "Mi Cucharita",
+      "url": "https://open.spotify.com/track/2Slbi6aG8Mr6ZiwgdLz0uM"
     },
     {
       "album": {
@@ -9207,7 +9269,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 269062,
       "name": "Que Manera De Quererte",
       "url": "https://open.spotify.com/track/4fxCThGryzRzAt0E7r5R9Z"
@@ -9589,6 +9651,28 @@
       "duration_ms": 231889,
       "name": "Regresa A Mi",
       "url": "https://open.spotify.com/track/7J4jCJQLwObDSPAnBotNZe"
+    },
+    {
+      "album": {
+        "name": "Reina Latina",
+        "url": "https://open.spotify.com/album/0QAenedNgDM6a79RornoJf"
+      },
+      "artists": [
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        },
+        {
+          "name": "Sabor Colombiano",
+          "url": "https://open.spotify.com/artist/3STzZtLOqavgxKWD6Ea1xV"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247175,
+      "name": "Reina Latina",
+      "url": "https://open.spotify.com/track/27eTsigMdAmNtYqXazWgMx"
     },
     {
       "album": {

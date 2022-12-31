@@ -2,7 +2,7 @@
 
 ### [Semangat Pagi](https://open.spotify.com/playlist/37i9dQZF1DX6wbVzPMSvwH)
 
-> Sarapan sesuap semangat bersama lagu\-lagu dari Spotify.
+> Awali tahunmu dengan lagu\-lagu yang memuatmu bersemangat!
 
 71 songs - 4 hr 28 min - not published yet
 

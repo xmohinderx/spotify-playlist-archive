@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YZ4PsjwoRNK0UBOTjrxGsA\" > Odumodublvck </a> ",
-  "num_followers": 13717,
+  "num_followers": 13760,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTM1NzczOSwwMDAwMDAwMDlmNjJlMTgxNzk0MmUzODU3YmFjNzc1ODRiMmQ0NTk2",
+  "snapshot_id": "MTY3MTM1NzczOSwwMDAwMDAwMDU4YmFkZmI5NTU2NDA2MDEwYjE3Y2I4ZDZhNTU3ZDFm",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -567,22 +567,26 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Shakara",
-        "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
+        "name": "Green With Envy",
+        "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
       },
       "artists": [
         {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
         },
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 200869,
-      "name": "Shakara",
-      "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
+      "duration_ms": 216013,
+      "name": "Who's True",
+      "url": "https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr"
     },
     {
       "added_at": "2022-12-02 04:54:11",
@@ -611,26 +615,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Green With Envy",
-        "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
+        "name": "Shakara",
+        "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
       },
       "artists": [
         {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
         },
         {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 216013,
-      "name": "Who's True",
-      "url": "https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr"
+      "duration_ms": 200869,
+      "name": "Shakara",
+      "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1309,6 +1309,26 @@
       "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
     },
     {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Ikebe",
+        "url": "https://open.spotify.com/album/4Aqq7G5GPVE3yuqfcAfVek"
+      },
+      "artists": [
+        {
+          "name": "DJ Madengo",
+          "url": "https://open.spotify.com/artist/0tfwCQAV8i4yWS9ZEPZ1QF"
+        },
+        {
+          "name": "Terri",
+          "url": "https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "Ikebe",
+      "url": "https://open.spotify.com/track/1nY20bUipcz6HfDpkQj8f0"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Crown Of Clay",
@@ -1347,26 +1367,6 @@
       "duration_ms": 151048,
       "name": "Rap Jesu",
       "url": "https://open.spotify.com/track/7j8WXEaW42vHouOocKCiF9"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Ikebe",
-        "url": "https://open.spotify.com/album/4Aqq7G5GPVE3yuqfcAfVek"
-      },
-      "artists": [
-        {
-          "name": "DJ Madengo",
-          "url": "https://open.spotify.com/artist/0tfwCQAV8i4yWS9ZEPZ1QF"
-        },
-        {
-          "name": "Terri",
-          "url": "https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "Ikebe",
-      "url": "https://open.spotify.com/track/1nY20bUipcz6HfDpkQj8f0"
     },
     {
       "added_at": "2022-06-09 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "100% British - 100% R&B. Cover: Pip Millett",
-  "num_followers": 112258,
+  "num_followers": 112320,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjU1Njc4MywwMDAwMDAwMDVjMzFiYjkzZWI4OTI3OTI5YTQzYzBlNWYxMWM3YTg3",
+  "snapshot_id": "MTY2NjU1Njc4MywwMDAwMDAwMDU3NjBlMzJkOGI3MjVjYTY4YjA2ZmU4ODAxYWQ1MTQ1",
   "tracks": [
     {
       "added_at": "2022-07-17 14:39:33",
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R"
     },
     {
-      "added_at": "2022-12-30 01:30:58",
+      "added_at": "2022-12-31 01:23:19",
       "album": {
         "name": "Cardboard Box",
         "url": "https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
     },
     {
-      "added_at": "2022-12-30 01:30:58",
+      "added_at": "2022-12-31 01:23:19",
       "album": {
         "name": "When Everything Is Better, I'll Let You Know",
         "url": "https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
     },
     {
-      "added_at": "2022-12-30 01:30:58",
+      "added_at": "2022-12-31 01:23:19",
       "album": {
         "name": "Not My Job",
         "url": "https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3"
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-07-17 14:39:33",
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 217718,
-      "name": "I Might Be In Love With You",
-      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
-    },
-    {
-      "added_at": "2022-07-17 14:39:33",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 339906,
       "name": "Don't Let Me Fall",
       "url": "https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3"
+    },
+    {
+      "added_at": "2022-07-17 14:39:33",
+      "album": {
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 217718,
+      "name": "I Might Be In Love With You",
+      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
     },
     {
       "added_at": "2022-07-17 14:39:33",
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/3OUWfEsfqSmlEY2oNDN6Iu"
     },
     {
-      "added_at": "2022-12-30 01:30:58",
+      "added_at": "2022-12-31 01:23:19",
       "album": {
         "name": "DEH DEH",
         "url": "https://open.spotify.com/album/6Tbw38wfTTtHxspqGrdr5w"
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-07-17 14:39:33",
       "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/4aRr37KCSr88qfFrnJYCZx"
-      },
-      "artists": [
-        {
-          "name": "Zion Foster",
-          "url": "https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6"
-        }
-      ],
-      "duration_ms": 179258,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/2RC3TbzlpR5lpzODqOUQfL"
-    },
-    {
-      "added_at": "2022-07-17 14:39:33",
-      "album": {
         "name": "Untidy Soul",
         "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 205775,
       "name": "Still Broke (feat. Keyon Harrold)",
       "url": "https://open.spotify.com/track/6jeP9JMozdxrVzvVXp6FKj"
+    },
+    {
+      "added_at": "2022-07-17 14:39:33",
+      "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/4aRr37KCSr88qfFrnJYCZx"
+      },
+      "artists": [
+        {
+          "name": "Zion Foster",
+          "url": "https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6"
+        }
+      ],
+      "duration_ms": 179258,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/2RC3TbzlpR5lpzODqOUQfL"
     },
     {
       "added_at": "2022-07-17 14:39:33",
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/4T4YHAdlrEzL5Jsb1XnbGA"
     },
     {
-      "added_at": "2022-12-30 01:30:58",
+      "added_at": "2022-12-31 01:23:19",
       "album": {
         "name": "Ebbs and Flows",
         "url": "https://open.spotify.com/album/6ymZzUwgOwGaevvamG568v"
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-07-17 14:39:33",
       "album": {
-        "name": "Serial",
-        "url": "https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 227535,
-      "name": "Serial",
-      "url": "https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb"
-    },
-    {
-      "added_at": "2022-07-17 14:39:33",
-      "album": {
         "name": "Dingaling",
         "url": "https://open.spotify.com/album/5aMRGlhrRsaVUIL25FRYsJ"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 200800,
       "name": "Dingaling",
       "url": "https://open.spotify.com/track/1upqTfjNfblLHKqasQAPc0"
+    },
+    {
+      "added_at": "2022-07-17 14:39:33",
+      "album": {
+        "name": "Serial",
+        "url": "https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 227535,
+      "name": "Serial",
+      "url": "https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb"
     },
     {
       "added_at": "2022-07-17 14:39:33",

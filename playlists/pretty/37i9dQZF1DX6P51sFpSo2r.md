@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 
 > The perfect mix between old\-school and modern Metalcore\. Cover: A7X
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,173 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,543 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 | 22 | [Man on Fire](https://open.spotify.com/track/2LHtWEncuemszNBtrMfvII) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Runes](https://open.spotify.com/album/5AzPojyZHvcdcx6c9O9vmo) | 4:01 |
 | 23 | [Almost Easy](https://open.spotify.com/track/0DkmhHO4yyqCJFjosmmWPU) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 3:54 |
 | 24 | [The Sinner](https://open.spotify.com/track/4SAeLRKTvdvEKUvpYIoBzT) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [The Hollow](https://open.spotify.com/album/59fpw1PC2LgFYS0Hmn4zm3) | 4:02 |
-| 25 | [These Colours Don't Run](https://open.spotify.com/track/1DaQfWfIHy7XWLTS8g6ptc) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker](https://open.spotify.com/album/088xyqoXNKBTNIuIgpai6q) | 4:01 |
+| 25 | [These Colours Don't Run](https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 4:01 |
 | 26 | [Dying in Your Arms](https://open.spotify.com/track/2nuA1esWzYEgnfQ4DpsSsm) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 2:53 |
 | 27 | [Born To Lose](https://open.spotify.com/track/4WsQCb1Atrhbb2I78hHCNG) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Dead Throne](https://open.spotify.com/album/4iYkAfmG9mB9whqxDEPgfI) | 3:04 |
 | 28 | [My Will Be Done](https://open.spotify.com/track/76u2aab2a33Ohs7dOKoUOa) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [The March](https://open.spotify.com/album/708sfirbWrGGssUqiq8Gie) | 3:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 | 59 | [Moral Eclipse](https://open.spotify.com/track/0pcOFA9Nw7QYW8G5sqGIWk) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Until Your Heart Stops](https://open.spotify.com/album/4uEbn5VjsqdbBQoMCI01Pl) | 2:05 |
 | 60 | [Caboose](https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw) | [Snapcase](https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W) | [Progression Through Unlearning](https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu) | 2:33 |
 
-Snapshot ID: `MTY2OTE1MTQ0NCwwMDAwMDAwMDdjYjc5ZjI2ZTYyMTBiZGUxMTBkNDA3Zjk4YmMyODky`
+Snapshot ID: `MTY2OTE1MTQ0NCwwMDAwMDAwMDhkMmZjMTU2M2NlOWNhY2ExMmMxYjlkMWQwZWUwZTA2`

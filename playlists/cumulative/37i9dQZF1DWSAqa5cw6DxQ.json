@@ -210,6 +210,24 @@
     },
     {
       "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/0AChUaHjN3SbGsBf68Awll"
+      },
+      "artists": [
+        {
+          "name": "Zane Cassidy",
+          "url": "https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109377,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/0ebnYLExhairdQKLJGRgDb"
+    },
+    {
+      "album": {
         "name": "Yoga Meditation",
         "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
       },
@@ -351,6 +369,24 @@
       "duration_ms": 124989,
       "name": "Beyond the Horizon",
       "url": "https://open.spotify.com/track/1i1H08SnaptEAMlZcESXL8"
+    },
+    {
+      "album": {
+        "name": "Blue Depths",
+        "url": "https://open.spotify.com/album/44NPPHtkt0LzfAkAqGQoLB"
+      },
+      "artists": [
+        {
+          "name": "Voyage Control",
+          "url": "https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214721,
+      "name": "Blue Depths",
+      "url": "https://open.spotify.com/track/1rLeCtjTSyVONLUcAen2ZZ"
     },
     {
       "album": {
@@ -689,7 +725,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 193714,
       "name": "Green Hills",
       "url": "https://open.spotify.com/track/7CMjapGW35s2nSmXO8mB6W"
@@ -1543,6 +1579,24 @@
       "duration_ms": 338325,
       "name": "Sail Away",
       "url": "https://open.spotify.com/track/6mamgQsrc9tFBXAEaOqa1Y"
+    },
+    {
+      "album": {
+        "name": "Sense Of Purpose",
+        "url": "https://open.spotify.com/album/7M8AAxi71Aw8Igk5DoRTwL"
+      },
+      "artists": [
+        {
+          "name": "Samaneh Awad",
+          "url": "https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137865,
+      "name": "Sense Of Purpose",
+      "url": "https://open.spotify.com/track/1BvhFvVFE0crj3NwwUp1ov"
     },
     {
       "album": {

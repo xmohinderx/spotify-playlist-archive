@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,766 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,761 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 64 | [Go Tell](https://open.spotify.com/track/32u9xTZ9N9fJX9mMNymVhx) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [A Timeless Christmas](https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8) | 5:24 |
 | 65 | [Away In A Manger \- His Gift Version](https://open.spotify.com/track/00RtAVdwxMbzkGAClFmZpo) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [His Gift](https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd) | 4:24 |
 | 66 | [Silver Bells](https://open.spotify.com/track/21vPbghHpjCwafsiFEdJuN) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Family Christmas](https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh) | 3:03 |
-| 67 | [Jesus What a Wonderful Child](https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC) | [Dottie Peoples](https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb) | [Christmas With Dottie](https://open.spotify.com/album/6fgwFXYGyJ6XgCtxCjLKJU) | 4:15 |
-| 68 | [What Child Is This?](https://open.spotify.com/track/76DWigqwydczFqlnEPB7Bf) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Holiday Love: The Rebirth](https://open.spotify.com/album/6ZrPBCoj4N9621iaZ4tuOI) | 2:52 |
+| 67 | [What Child Is This?](https://open.spotify.com/track/76DWigqwydczFqlnEPB7Bf) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Holiday Love: The Rebirth](https://open.spotify.com/album/6ZrPBCoj4N9621iaZ4tuOI) | 2:52 |
+| 68 | [Jesus What a Wonderful Child](https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC) | [Dottie Peoples](https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb) | [Christmas With Dottie](https://open.spotify.com/album/6fgwFXYGyJ6XgCtxCjLKJU) | 4:15 |
 | 69 | [It's Christmas Time](https://open.spotify.com/track/5uDhl3gqNb5HcqlgUIJTFk) | [Juanita Bynum](https://open.spotify.com/artist/7s6c1gQXQCakbFxmgKAQDV) | [Christmas at Home with Juanita Bynum](https://open.spotify.com/album/08EkN3rQ57rdy1IoKCR8HN) | 5:03 |
 | 70 | [His Name Is Jesus](https://open.spotify.com/track/2kqPEt1i8GxrBdTC0xpbFL) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Fred Hammond Christmas..\. Just Remember](https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9) | 4:32 |
 | 71 | [Mary Did You Know](https://open.spotify.com/track/2ROTDFwYPHaf1xlEWVVOta) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Gospel Heritage Christmas Vol\. 2](https://open.spotify.com/album/401xeKiJnhyWCWDLdca40p) | 3:00 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 92 | [Little Drummer Boy](https://open.spotify.com/track/5Xlqkwclz9W9aW8yeles2Q) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Holiday Love Sounds of Christmas](https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs) | 2:46 |
 | 93 | [What Child Is This](https://open.spotify.com/track/3lcGSSpKMK42flmisBIgwC) | [Q Parker](https://open.spotify.com/artist/0uqnxM3Rns1qIVpZheidd4) | [Black Nativity: A Gospel Christmas Musical Experience](https://open.spotify.com/album/0YNDjOd9X8zQatXKeBxH2X) | 3:14 |
 | 94 | [It’s Christmas Day](https://open.spotify.com/track/55HGuPjF900qc1E3nTHPzQ) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [A Charles Jenkins Christmas](https://open.spotify.com/album/2cBqPDfPm945PP4fHQ9QDs) | 3:14 |
-| 95 | [All About Christ](https://open.spotify.com/track/4ALHLGk4L3iJ1FsaHbnQWu) | [Jevon Brock and Restoration](https://open.spotify.com/artist/1HUj4pDexJbZLp2D8s9zBr) | [All About Christ](https://open.spotify.com/album/3rmvbkeXmb9eTQOj26Hg6t) | 3:21 |
-| 96 | [After The Storm](https://open.spotify.com/track/3C5eYTXWmOaT2KIHOdkv12) | [Rhyan LaMarr](https://open.spotify.com/artist/6A3QksApu0ujMIvMN7GMFu), [KC Wavey](https://open.spotify.com/artist/2RN3JaT1xIMrhl7rCoGWzV), [Jack Red](https://open.spotify.com/artist/1HbPqATzBps9D95NuvlA9k) | [A Red Guerrilla CHRISTmas, Vol\. 2](https://open.spotify.com/album/6a4PIxgqppsT0bgOTMe3ca) | 4:21 |
+| 95 | [After The Storm](https://open.spotify.com/track/3C5eYTXWmOaT2KIHOdkv12) | [Rhyan LaMarr](https://open.spotify.com/artist/6A3QksApu0ujMIvMN7GMFu), [KC Wavey](https://open.spotify.com/artist/2RN3JaT1xIMrhl7rCoGWzV), [Jack Red](https://open.spotify.com/artist/1HbPqATzBps9D95NuvlA9k) | [A Red Guerrilla CHRISTmas, Vol\. 2](https://open.spotify.com/album/6a4PIxgqppsT0bgOTMe3ca) | 4:21 |
+| 96 | [All About Christ](https://open.spotify.com/track/4ALHLGk4L3iJ1FsaHbnQWu) | [Jevon Brock and Restoration](https://open.spotify.com/artist/1HUj4pDexJbZLp2D8s9zBr) | [All About Christ](https://open.spotify.com/album/3rmvbkeXmb9eTQOj26Hg6t) | 3:21 |
 | 97 | [Glory To The Lamb](https://open.spotify.com/track/3DeqedtaqSp4TDnYD5VXcy) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Joy To The World](https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK) | 5:40 |
 | 98 | [No Christmas Without You](https://open.spotify.com/track/6BWDAG7jAXf6ZWRakQdKjn) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Presents The Family, No Christmas Without You](https://open.spotify.com/album/4INLEQC6BDLqHaCwoP8xY6) | 4:21 |
 | 99 | [Christmas Is](https://open.spotify.com/track/27Eci1q6LObKgx6wL0u0tM) | [Babbie Mason](https://open.spotify.com/artist/50D6dchvbbHfDJJrPc31Lw) | [Comfort and Joy](https://open.spotify.com/album/0awWnYlgaVcJ9KWQdYcis1) | 3:50 |
 | 100 | [The First Noel](https://open.spotify.com/track/3j4soLmqnjVevHHTUpnbJT) | [Virtue](https://open.spotify.com/artist/3YXPy18rDwhGJdBjnpYGpa) | [The Real Meaning Of Christmas Volume 2](https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM) | 4:24 |
 
-Snapshot ID: `MTY3MDcxOTMwNiwwMDAwMDAwMDRjNzkyZjYxNzEzZjg5ZWJlMzk0MGM1NzY3NDVhMjA5`
+Snapshot ID: `MTY3MDcxOTMwNiwwMDAwMDAwMGJjNjE1ZDg3NGJmZDYxOGU0NTg3ZmI0NWJlMTQwNDUw`

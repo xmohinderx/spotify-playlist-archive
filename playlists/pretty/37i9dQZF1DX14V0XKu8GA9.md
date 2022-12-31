@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop in the U.S\. Cover: MoneySign Suede
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,188 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,222 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 32 | [Heartless](https://open.spotify.com/track/5LjyYOewMVX59gPXvHKdxo) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Heartless](https://open.spotify.com/album/5y30KHVGp4rVHme0Fq17Df) | 2:40 |
 | 33 | [Out the box](https://open.spotify.com/track/5CGvEttERyveT4Y2nAbR4m) | [Jali$co](https://open.spotify.com/artist/7Kygh8W8b3jq0rnIQ1Go83), [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip) | [Out the box](https://open.spotify.com/album/513vPe74h6Yv44fK34CZIy) | 2:23 |
 | 34 | [Survive](https://open.spotify.com/track/6JeyCrsUywsYqcjReSjyUW) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [Survive](https://open.spotify.com/album/70njJX3KGL7RClV9L7mHcw) | 2:34 |
-| 35 | [Pistol Packin](https://open.spotify.com/track/6Cel5MA3hUownZYYp13pO6) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Parkside Baby](https://open.spotify.com/album/40xueAJsLMp79qy7VqLz2P) | 2:03 |
+| 35 | [Ghetto Birds & Thugs](https://open.spotify.com/track/4IiXLK78ssJpAj3VZLC9uY) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [Ghetto Birds & Thugs](https://open.spotify.com/album/3b3FoQ8WMEt3Dw0E4bS9GL) | 2:50 |
 | 36 | [Still Cried](https://open.spotify.com/track/1UE784i65b9PaYr9jY9AwY) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Young KB](https://open.spotify.com/artist/63yoDocflvqmwUtC72RQ7G) | [Still Cried](https://open.spotify.com/album/2UXZsZFHF2NaPN3csCFfEd) | 2:31 |
-| 37 | [Ghetto Birds & Thugs](https://open.spotify.com/track/4IiXLK78ssJpAj3VZLC9uY) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [Ghetto Birds & Thugs](https://open.spotify.com/album/3b3FoQ8WMEt3Dw0E4bS9GL) | 2:50 |
+| 37 | [Pistol Packin](https://open.spotify.com/track/6Cel5MA3hUownZYYp13pO6) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Parkside Baby](https://open.spotify.com/album/40xueAJsLMp79qy7VqLz2P) | 2:03 |
 | 38 | [Dead Homies](https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Dead Homies](https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY) | 2:52 |
 | 39 | [Bag Talk](https://open.spotify.com/track/7zcFDW8HxWlL7abAPMko1d) | [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Bag Talk](https://open.spotify.com/album/39Js0SBbu12ZEUFaHDGI2v) | 2:21 |
 | 40 | [Rich $outh Sider](https://open.spotify.com/track/1eScTpjsghD4Ppsi7hLD0w) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [Gangsta Movie](https://open.spotify.com/album/6vcgchG3L9ZrE3RZaXrcHX) | 2:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 79 | [100 bars](https://open.spotify.com/track/71r7LCCewLhjx9eCNol4UB) | [Doeboi909](https://open.spotify.com/artist/1fEMhYVIObipE7MEYEoZvG) | [100 bars](https://open.spotify.com/album/4mZtzr9g4MZYOb9ZlzuKDz) | 5:21 |
 | 80 | [Over](https://open.spotify.com/track/5gKqjYmPYaXn7ebiWBGRDw) | [Aj Hernz](https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm), [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj) | [Over](https://open.spotify.com/album/1tQHY2Lypwqhhfgp1lxA6j) | 2:23 |
 
-Snapshot ID: `MTY2NzUwNDM4OSwwMDAwMDAwMDZmZjY2YmRmMDM5MWQwNDgxMWQ1NzIzZDhiYzYzNzli`
+Snapshot ID: `MTY2NzUwNDM4OSwwMDAwMDAwMGUxMjRjM2NkZWUyN2U2NDM4NGYwMWE1NThmZDBjNDdh`

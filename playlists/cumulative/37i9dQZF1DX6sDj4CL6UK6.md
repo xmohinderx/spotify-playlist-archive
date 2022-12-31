@@ -4,7 +4,7 @@
 
 > 'Mali' is on the cover of IndiEnglish\. Stream now!
 
-140 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
+141 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Shot of Alcohol](https://open.spotify.com/track/5RjOdVrGkXEo1hEaAlHgq4) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Prateek Kuhad](https://open.spotify.com/album/2XgppkF85xmQ2zCUqpuCjb) | 2:48 | 2022-03-25 |  |
 | [Alive With You](https://open.spotify.com/track/2olspTlBoEJZvoDDMEEKtz) | [Ribhavv](https://open.spotify.com/artist/01nF5O4sTf8RDuec39ZPnp) | [Alive With You](https://open.spotify.com/album/0TOntj1DBUeTOitcPD6Yj0) | 3:12 | 2022-03-25 | 2022-04-06 |
 | [All I Need](https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:33 | 2022-05-20 |  |
+| [Alone](https://open.spotify.com/track/4BgqcNagTLKAge26kgyBnv) | [Simba Sing](https://open.spotify.com/artist/7Dn0LHcvgOdA2lcsHwmWcj) | [Alone](https://open.spotify.com/album/0PCAqc7wXGiphch4QcnKZS) | 3:12 | 2022-12-30 |  |
 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 | 2022-04-08 |  |
 | [Angel](https://open.spotify.com/track/3fiJON79NQ5PfWniQ6EK3i) | [Prabhtoj Singh](https://open.spotify.com/artist/78XtO5iHFCF6gSqWV18AWA), [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF) | [Angel](https://open.spotify.com/album/0TbvqQkBA8c5zrkpXNOn7G) | 3:06 | 2022-09-02 |  |
 | [Around you](https://open.spotify.com/track/3yxInFvUf3YkNbqt4UTPNZ) | [Kaxi](https://open.spotify.com/artist/2Aaz4mQGMr0iuyBE2lcfxn) | [Around you](https://open.spotify.com/album/7dhNRW5oEv6WCdRcaA3XDm) | 3:33 | 2022-03-25 | 2022-04-06 |

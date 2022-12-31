@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h06zz0VktL.md) - [plain]
 
 > All E.L.F's go to playlist! "The Road : Celebration \- The 11th Album Vol.2"\. is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,112 likes - 138 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,185 likes - 138 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

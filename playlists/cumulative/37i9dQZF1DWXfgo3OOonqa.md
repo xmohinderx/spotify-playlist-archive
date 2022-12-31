@@ -4,7 +4,7 @@
 
 > ballon d'or 2023?
 
-744 songs - 1 day 8 hr 59 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+745 songs - 1 day 9 hr 2 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Driftiga](https://open.spotify.com/track/09OCtDA2eE8bqeRs0fZZfw) | [Mokke](https://open.spotify.com/artist/1miuiUk8Xya3zRHZzqAYAW), [Biggie Juke](https://open.spotify.com/artist/1iFBAUJba6rHRgFNOJYUDD) | [GRB](https://open.spotify.com/album/0orGUBP7Q6gtmXyijYRB6g) | 2:50 | 2022-05-05 | 2022-06-03 |
 | [Du & jag](https://open.spotify.com/track/1GPWWJOl7bAU4zSjLTeH7e) | [PABI](https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8) | [Du & jag](https://open.spotify.com/album/68kyp45qkQ0RIS9mFeBaRy) | 3:01 | 2022-10-27 | 2022-11-25 |
 | [Du får mig](https://open.spotify.com/track/6LGjSLD0gcXEi4DzAI7wya) | [Rabih](https://open.spotify.com/artist/7csUmA0B0QLB1n2WRXZzSu), [H.Z](https://open.spotify.com/artist/3ekfbuDGLeHUqN8G2tSE94) | [Du får mig](https://open.spotify.com/album/3gjMCZCPopnqwgtbMHd9fN) | 2:07 | 2022-09-15 | 2022-09-21 |
+| [Du måste veta](https://open.spotify.com/track/17Tszh9t40UEgHXAf8V2VI) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6), [Mona Masrour](https://open.spotify.com/artist/087cmrx63FD1wMFuYBN9gt), [AIVA](https://open.spotify.com/artist/07ogFFhRxjjGsPHfq4dSQb) | [Du måste veta](https://open.spotify.com/album/7LsEOHQrPXwQfFAyBOrFQT) | 3:01 | 2022-12-31 |  |
 | [DUBBELT](https://open.spotify.com/track/6ucH6MDH2YJSEWsmWn7TPd) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [DUBBELT](https://open.spotify.com/album/1kCuWYeT82ozXFOVsPonRk) | 2:38 | 2022-10-06 | 2022-12-09 |
 | [Dubbla Skift](https://open.spotify.com/track/2HDawpoqiyFWzIHxw0hWNQ) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Dubbla Skift](https://open.spotify.com/album/0DjFmrjVMGhr6ujxp9VqSB) | 2:30 | 2022-02-17 | 2022-05-06 |
 | [Dum](https://open.spotify.com/track/1PcFYA0p9UxvQkLe18s8gz) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan \(Deluxe\)](https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt) | 2:13 | 2022-10-13 |  |

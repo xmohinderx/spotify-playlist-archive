@@ -1105,7 +1105,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 242400,
       "name": "Binbo\u011fa",
       "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
@@ -7887,7 +7887,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 205067,
       "name": "Starry Nights",
       "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
@@ -8126,6 +8126,24 @@
     },
     {
       "album": {
+        "name": "Tayyara Warak (Habibi Funk 026)",
+        "url": "https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t"
+      },
+      "artists": [
+        {
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168097,
+      "name": "Tayyara Warak",
+      "url": "https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd"
+    },
+    {
+      "album": {
         "name": "Good Evening Black Buddha",
         "url": "https://open.spotify.com/album/3rbpuBfLjoR2bdXMEt3s3W"
       },
@@ -8163,6 +8181,28 @@
       "duration_ms": 172787,
       "name": "Teen Etus",
       "url": "https://open.spotify.com/track/0CEslFNe6rY0pmHaksb9vW"
+    },
+    {
+      "album": {
+        "name": "Brazil is my land",
+        "url": "https://open.spotify.com/album/2A79rk8kBWAMoOfN3bXzbd"
+      },
+      "artists": [
+        {
+          "name": "Jupiter & Okwess",
+          "url": "https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/7ovyivTojS7zbQoM4ymrm0"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142492,
+      "name": "Telejayi (Heavy Baile Remix)",
+      "url": "https://open.spotify.com/track/67nZx73Q8eQenpnx2rPUkP"
     },
     {
       "album": {

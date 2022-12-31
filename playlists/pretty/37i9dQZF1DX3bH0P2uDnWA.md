@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,833 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,997 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 31 | [Take You Right Back](https://open.spotify.com/track/56O8jHWDc5Y2oBUKByKA1M) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Take You Right Back](https://open.spotify.com/album/0EHomYzyqS2xlUCWT1hTvz) | 2:51 |
 | 32 | [Mais Non \- 1920 Version](https://open.spotify.com/track/5OeflTgTzyBrdLxJQtcn0c) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [Mais Non \(1920 Version\)](https://open.spotify.com/album/1WnrAf1vekSKVzhUUiixzO) | 3:11 |
 | 33 | [Still Dancing](https://open.spotify.com/track/39R88egli2YgXq1omv1Io7) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Still Dancing](https://open.spotify.com/album/6eOQ7cXX85wKgIx5S69Ma3) | 3:18 |
-| 34 | [Love!](https://open.spotify.com/track/6FU64m12iYGoyhPcFddZCZ) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Love!](https://open.spotify.com/album/73yHKsQVjzgJLgm7htHtWU) | 3:04 |
-| 35 | [Demon Kitty Rag \- Electro Swing Version](https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR) | [Tori & Dean](https://open.spotify.com/artist/4YjNLeVeRmLimuQeY412jX) | [Demon Kitty Rag \(Electro Swing Version\)](https://open.spotify.com/album/7hyb5bepcY7rlOoG6RV9rJ) | 3:35 |
+| 34 | [Demon Kitty Rag \- Electro Swing Version](https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR) | [Tori & Dean](https://open.spotify.com/artist/4YjNLeVeRmLimuQeY412jX) | [Demon Kitty Rag \(Electro Swing Version\)](https://open.spotify.com/album/7hyb5bepcY7rlOoG6RV9rJ) | 3:35 |
+| 35 | [Love!](https://open.spotify.com/track/6FU64m12iYGoyhPcFddZCZ) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Love!](https://open.spotify.com/album/73yHKsQVjzgJLgm7htHtWU) | 3:04 |
 | 36 | [Back in Time](https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [Karina Kappel](https://open.spotify.com/artist/31ufWigY0fDQ8p8EJxvaGH) | [Back in Time](https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw) | 3:18 |
 | 37 | [Mambo Rap](https://open.spotify.com/track/14RrzxMs07EhE8bUso5Pso) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Mambo Rap](https://open.spotify.com/album/1WqRiGdw8QFI9yMVqDCEQF) | 3:23 |
 | 38 | [Boring 20s](https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01) | [Tamela D'Amico](https://open.spotify.com/artist/7GBJeLHS04OjBvxpGMFXYo), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Boring 20s](https://open.spotify.com/album/2AqxV8iRa5sCwT1DHNpcDg) | 2:50 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 42 | [Brass Devil](https://open.spotify.com/track/4xbXOQPA963yrJXksBPt51) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Brass Devil](https://open.spotify.com/album/4uV6i7Odkg83F6muILQnFO) | 3:52 |
 | 43 | [Extra Fries](https://open.spotify.com/track/556y7EL1trkqGtevzn8684) | [The Fly Guy Five](https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8) | [Merry\-Go\-Round\-And\-Round](https://open.spotify.com/album/3yXw16nAl3qa0f4egmHdXd) | 2:00 |
 | 44 | [Pack Up The Louie \- Caravan Palace Remix](https://open.spotify.com/track/6D53OoZpbzuBwwgGrT8FOP) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm), [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [The Shocking Miss Emerald The Remixes](https://open.spotify.com/album/7tBy0oYjfzgquWCaqU8xEx) | 3:27 |
-| 45 | [Parla più piano / In cerca di te \- Electro Swing Mix](https://open.spotify.com/track/4sCDNKD8Q3J5Wr5kzSgC5H) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Free Shots](https://open.spotify.com/artist/7FetKvEtXNVgZc8PpxYtVf) | [Parla più piano / In cerca di te](https://open.spotify.com/album/4xwyeSNYVMkK8o1V2JtBO3) | 2:48 |
+| 45 | [Glam \- Electro\-swing Remix](https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR) | [Dimie Cat](https://open.spotify.com/artist/0LUkZYSaO60vSGVxgZM5PI) | [Glam! \- Single](https://open.spotify.com/album/7z35Jlg8WYcek0lb1N49h9) | 3:07 |
 | 46 | [Trouble](https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf) | [Trouble](https://open.spotify.com/album/065YosCANMb3iddT5Dv53h) | 3:15 |
-| 47 | [Glam \- Electro\-swing Remix](https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR) | [Dimie Cat](https://open.spotify.com/artist/0LUkZYSaO60vSGVxgZM5PI) | [Glam! \- Single](https://open.spotify.com/album/7z35Jlg8WYcek0lb1N49h9) | 3:07 |
-| 48 | [What Lana Says](https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [What Lana Says](https://open.spotify.com/album/0bgECObKJgewcwX2Vt7vGC) | 4:39 |
-| 49 | [The Cat Came Back \- Bdd Remix Edit](https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX) | [Luca Lento](https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh), [Bdd](https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY) | [The Cat Came Back](https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx) | 2:53 |
+| 47 | [Parla più piano / In cerca di te \- Electro Swing Mix](https://open.spotify.com/track/4sCDNKD8Q3J5Wr5kzSgC5H) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Free Shots](https://open.spotify.com/artist/7FetKvEtXNVgZc8PpxYtVf) | [Parla più piano / In cerca di te](https://open.spotify.com/album/4xwyeSNYVMkK8o1V2JtBO3) | 2:48 |
+| 48 | [The Cat Came Back \- Bdd Remix Edit](https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX) | [Luca Lento](https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh), [Bdd](https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY) | [The Cat Came Back](https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx) | 2:53 |
+| 49 | [What Lana Says](https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [What Lana Says](https://open.spotify.com/album/0bgECObKJgewcwX2Vt7vGC) | 4:39 |
 | 50 | [Crazy Out There](https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Crazy Out There](https://open.spotify.com/album/1UJ4lKzqAo1Aevsohhen0l) | 3:14 |
 | 51 | [Get This \(Bang Bang\)](https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [Get This \(Bang Bang\)](https://open.spotify.com/album/4W2pWGsNTTLkbMtSEOi4CW) | 3:45 |
 | 52 | [Ponder \- Betty Booom Remix](https://open.spotify.com/track/0tFzgPOxtXFNScRZ6ePrg8) | [Marina & The Kats](https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg), [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [Ponder \(Betty Booom Remix\)](https://open.spotify.com/album/3glSK3ZZ9cn74XCkJpSzME) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 74 | [Big Blue Swing](https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Big Blue Swing](https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7) | 3:47 |
 | 75 | [Dizzy Street](https://open.spotify.com/track/3OPqj5jqd5hkOU0rvZDXCl) | [The Swing Bot](https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b) | [Dizzy Street](https://open.spotify.com/album/6kmaz5dSu6zmn7DQHXCIgP) | 3:25 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGQ2ZjI5NTA3OGJjMmE0YzU3MDM0YWU4Njk4MjhhN2E2`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGMwYzVmNDNkOWJiZjA4M2ZkOWQ1NDZhNTI0YTNhZDIx`

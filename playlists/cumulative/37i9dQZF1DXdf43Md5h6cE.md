@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-108 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
+110 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Horizon](https://open.spotify.com/track/5WgwDJDSy2nxuV3iHlMXS4) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Compassberg](https://open.spotify.com/album/3r8FRtio1GfcpTW70YDt97) | 4:05 | 2022-05-19 |  |
 | [Hypnos](https://open.spotify.com/track/4ZQAfZLXmoAgzFWoM4anUS) | [RELAX WORLD](https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx) | [Dream Vibes](https://open.spotify.com/album/3UIy1t5U2AUDF22IvmKuPD) | 3:48 | 2022-12-20 |  |
 | [illusions](https://open.spotify.com/track/698R7hMTRpd8ZfxJN6PkyM) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [illusions](https://open.spotify.com/album/0Y7P4AdRAfhZXGDJOD6Gl5) | 3:43 | 2022-09-30 |  |
+| [Immersed In Dreams](https://open.spotify.com/track/1zv82sM9K7nEGh2aJ71r7b) | [Heart 2 Heart Relaxing Music](https://open.spotify.com/artist/5z0DWZhG5UimahCQNsszXe) | [Immersed In Dreams](https://open.spotify.com/album/3PrhDThftipDfJZO203rmH) | 2:25 | 2022-12-30 |  |
 | [in motion](https://open.spotify.com/track/1SJAJFXAh3qMeVcMfRXrWa) | [Ann Annie](https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG) | [wander into](https://open.spotify.com/album/7rn87vOFTsDSk64o8gbL21) | 3:57 | 2022-05-19 |  |
 | [Inner Illumination](https://open.spotify.com/track/5QEIM4Ut4qiu2cRlqzT1xR) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inner Illumination](https://open.spotify.com/album/6t2Gp4obISbu6ji2svw4Wb) | 3:42 | 2022-09-23 |  |
 | [Inner Space](https://open.spotify.com/track/7HkAMBIhGt1LszaMZqIfNf) | [Sleepsleeprepeat](https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR), [Soular Child](https://open.spotify.com/artist/0UUiNe399XY6xl116DbUOn) | [Inner Space](https://open.spotify.com/album/5W1vYzWtA5v7qCBnWTg9rL) | 2:16 | 2022-05-19 |  |
@@ -111,6 +112,7 @@
 | [Treasure](https://open.spotify.com/track/6sgxMkvgsSjpHc9kdECxoC) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Framed Space: Selected Works 2014\-2017](https://open.spotify.com/album/1hOdkJC3mrDganKOFFjUWu) | 5:39 | 2022-05-19 | 2022-11-23 |
 | [Unpacked](https://open.spotify.com/track/12XBxkyD9xTjxWawn0o31Z) | [Moving Gradients](https://open.spotify.com/artist/1MQW3gElFwQAw90LNwaFNy) | [Unpacked](https://open.spotify.com/album/1Jo4vSCOYpYYslXc1jvE0n) | 2:47 | 2022-05-19 | 2022-10-20 |
 | [Unpacked](https://open.spotify.com/track/42ZuxJ7oNK1pzdyAlfA9aQ) | [Moving Gradients](https://open.spotify.com/artist/1MQW3gElFwQAw90LNwaFNy) | [Dream Escape](https://open.spotify.com/album/0pwvAzTU1nq61P5PKmOY4o) | 2:47 | 2022-10-14 |  |
+| [Visionary Dream](https://open.spotify.com/track/6UTc4IzOaeCIFFTjc49Mni) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Visionary Dream](https://open.spotify.com/album/0jEBTemH7rAFee2ruX4WMY) | 3:28 | 2022-12-30 |  |
 | [watching the stars \(Slowed + Reverb\)](https://open.spotify.com/track/6V3bFXfMuKX7xJ3v2ate2J) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [watching the stars \(Remixes\)](https://open.spotify.com/album/7tVjWJao2UMh0kluQBHVPy) | 1:57 | 2022-09-12 |  |
 | [We Don't Like You](https://open.spotify.com/track/08cdH83ZfXtkGphVBTmDEa) | [Andrew Land](https://open.spotify.com/artist/20DtfXEcnCgoWY9b35nPXk) | [We Don't Like You](https://open.spotify.com/album/6YYArKrqw0tL9cG1y0Mr65) | 4:58 | 2022-07-08 |  |
 | [Weightless Part 1](https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 8:06 | 2022-05-19 |  |

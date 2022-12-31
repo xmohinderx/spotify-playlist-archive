@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-644 songs - 1 day 14 hr 4 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
+645 songs - 1 day 14 hr 6 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [An Thần](https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [An Thần](https://open.spotify.com/album/1GZA9k0UojVkU7KFoVVRlC) | 2:54 | 2021-10-23 | 2022-07-13 |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2021-09-17 | 2022-08-04 |
 | [Anh Chua Thuong Em Den Vay Dau](https://open.spotify.com/track/78mj7RcaCM5lnectJluav8) | [Inkle](https://open.spotify.com/artist/77G2RfyKEaiPfCIoBnceND) | [Anh Chua Thuong Em Den Vay Dau](https://open.spotify.com/album/35ptNNjMlGUKC2g1rj1UFQ) | 4:27 | 2022-11-29 | 2022-12-02 |
-| [Anh Nhớ Ra \(feat\. TRANG\)](https://open.spotify.com/track/7eDrdQ7PK9Xm1CZCKWsgmH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:36 | 2022-09-14 |  |
+| [Anh Nhớ Ra \(feat\. TRANG\)](https://open.spotify.com/track/7eDrdQ7PK9Xm1CZCKWsgmH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:36 | 2022-09-14 | 2022-12-31 |
 | [Anh Tự Do Nhưng Cô Đơn](https://open.spotify.com/track/5NxZpeMGUQ5T5At5xZM5Hf) | [Trung Quân](https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q) | [Anh Tự Do Nhưng Cô Đơn](https://open.spotify.com/album/3bvrwbi7mFIqOa8XvYTA2L) | 5:15 | 2022-11-12 | 2022-11-18 |
 | [Anh đánh rơi người yêu](https://open.spotify.com/track/074ZzFyAvexkC3IWB2E6kK) | [Trần Quang Ngọc](https://open.spotify.com/artist/7z7klQ25fMHE7bzum1FUj6) | [Tha Thứ](https://open.spotify.com/album/78lyVQwepXvsjb4ZDzwkAc) | 3:27 | 2022-12-02 | 2022-12-06 |
 | [Anh Đánh Rơi Người Yêu Này](https://open.spotify.com/track/0Nz6SyAceTkTy4lCDgqFJ7) | [Andiez](https://open.spotify.com/artist/0tBmmwc8j8zbJxISwdsvjA), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Anh Đánh Rơi Người Yêu Này](https://open.spotify.com/album/5uucqP2OHCCloq5bf9AiAG) | 3:37 | 2022-11-19 |  |
@@ -167,6 +167,7 @@
 | [DNA \- Pedal 2 LA Mix](https://open.spotify.com/track/0RFxljd297sk7sKm5ZDD5J) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:07 | 2022-03-02 | 2022-03-04 |
 | [Don't \(feat\. RM\)](https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC) | [eAeon](https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Fragile](https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h) | 3:25 | 2021-11-16 | 2021-11-17 |
 | [Don't Break My Heart](https://open.spotify.com/track/04Mm3BineGdy0oNv8NivQT) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [Don't Break My Heart](https://open.spotify.com/album/2hkI3qSjmZ8bbhuTs3sBmG) | 3:57 | 2022-03-16 | 2022-06-01 |
+| [don't côi](https://open.spotify.com/track/2FjjM4a4ISKFqC3sMfIj9j) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [don't côi](https://open.spotify.com/album/3JeTYaj3xCIbtgrealOMJM) | 2:26 | 2022-12-30 |  |
 | [Dope](https://open.spotify.com/track/4IzofHMmUybZv3myzHlZE7) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment In Life, Pt.1](https://open.spotify.com/album/0RUpRgzRLBBAtYPubSTeHI) | 4:00 | 2021-10-19 | 2021-10-20 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2022-01-22 |  |
 | [double take](https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax) | 2:51 | 2021-05-21 | 2021-10-27 |

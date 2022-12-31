@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,158 likes - 138 songs - 7 hr 53 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,158 likes - 139 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,5 +146,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 136 | [Lucky Ones](https://open.spotify.com/track/10G56Sctj9tU3njUO8HtK0) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Lucky Ones](https://open.spotify.com/album/3OZBx7xEhKo0ZQuNGBhLiD) | 3:25 |
 | 137 | [Supersonic](https://open.spotify.com/track/1L6uwcEQ8YCP0ri17FoaBu) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Stephen Geisler](https://open.spotify.com/artist/6jdC0EtYmY3QXcf5bejYGC) | [Over, All Again](https://open.spotify.com/album/40nko6Eyb5xslxASKBapny) | 3:26 |
 | 138 | [Pragmatica](https://open.spotify.com/track/4CRIvwzEP4uxqn6uDHWbrS) | [Dull Reality](https://open.spotify.com/artist/0MQQCmEALPoYI6rEYKCiXL) | [Pragmatica](https://open.spotify.com/album/6avpFSjEDoBZHQF4XdXCND) | 4:23 |
+| 139 | [PCH \(Pretty Cold Heart\) \- Owen Jackson Remix](https://open.spotify.com/track/6ERM3XDlUMaSH7JpJSOkZI) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP), [Owen Jackson](https://open.spotify.com/artist/347KlGBJCJgTkbYL7ygkJq) | [Heartbreak County, Vol\. 2 \(Remix Pack\)](https://open.spotify.com/album/5J5GdWxNopj6y7Sf4iIqDA) | 3:41 |
 
-Snapshot ID: `MTAxMTAsODQ3ZmFhZTRjZWJhMjNiNTAyYmJlZGJmOGE3OTI2ZjU4MzI4OTFiZA==`
+Snapshot ID: `MTAxMTEsN2UwM2I3YzA2YmJjZTBkYTVhZGI3MWZmMDA4YWJmZjI2OGE0ZWY3Mw==`

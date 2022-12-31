@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-555 songs - 1 day 4 hr 48 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+556 songs - 1 day 4 hr 50 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Cut Your Teeth \- Kygo Remix](https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Cut Your Teeth \(Kygo Remix\)](https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h) | 6:39 | 2022-01-14 | 2022-09-24 |
 | [Dancer \(Kygo Remix\)](https://open.spotify.com/track/7ctdCk91bL7jjDx3hmbB5z) | [Didrik Thulin](https://open.spotify.com/artist/2vRK8tYkzMBcd6YD67EA77) | [Dancer \(Kygo Remix\)](https://open.spotify.com/album/74QHgMykIYrqokOQAuIUAY) | 6:34 | 2022-01-14 | 2022-04-09 |
 | [Dancing with a Ghost](https://open.spotify.com/track/5Tazqnb1XlUaG49jlOf8bB) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Dancing with a Ghost](https://open.spotify.com/album/3Mt2TpYN932IIhiQMgbGVa) | 2:50 | 2022-09-09 | 2022-11-20 |
+| [Dancing with The Moon](https://open.spotify.com/track/5irDsMKJAVAMTbTC8NChLy) | [Unora](https://open.spotify.com/artist/16GPibtrbZlX1tGTV6UUJr), [Aurila](https://open.spotify.com/artist/7fnWIKvy9XWyBINYeKETSL) | [Dancing with The Moon](https://open.spotify.com/album/34JlS2Y5xQnaE6YuYVSaop) | 2:08 | 2022-12-09 |  |
 | [Dangerous](https://open.spotify.com/track/6LHvM6g4TD9ugyYs4CKwyc) | [Antoine Chambe](https://open.spotify.com/artist/5DIQ8PaQ21m4G3ao0JG84N), [Lucas Cozy](https://open.spotify.com/artist/4CLnVttsdDWEBtNJrTFN47) | [Riverside](https://open.spotify.com/album/1wl6LlP6gh7byEPdI3oGxk) | 3:32 | 2022-06-03 | 2022-07-28 |
 | [Days Go By](https://open.spotify.com/track/23EsgI4ZCW4ONfbFgyVjbl) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Days Go By](https://open.spotify.com/album/1U2nDCVDwxBfq0rZQpI3Ax) | 2:39 | 2022-04-01 |  |
 | [Did You Know](https://open.spotify.com/track/6ovG9hWIxh9t9hMjjeofLY) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Did You Know](https://open.spotify.com/album/5jZort4N3u6JTedNEYVuFg) | 2:56 | 2022-04-01 | 2022-12-24 |
@@ -137,7 +138,7 @@
 | [Fade Away](https://open.spotify.com/track/6yGafCLQo7XjTr6eatEhNS) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [Jessica Hart](https://open.spotify.com/artist/41WPcAIdEkYBBn9lfiD6us) | [Fade Away](https://open.spotify.com/album/7453KE569DhKAIsAFgGCDi) | 3:44 | 2022-10-14 | 2022-10-20 |
 | [Fade Into Darkness](https://open.spotify.com/track/2MP2r9xNcvNmGCDJDCriu4) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB) | [Fade Into Darkness](https://open.spotify.com/album/63tZ4KGiLkwp2kDgMfXePx) | 3:31 | 2022-04-01 |  |
 | [Fall At Your Feet](https://open.spotify.com/track/69lKbD1RGW41qnsksqtMuq) | [Lucy Neville](https://open.spotify.com/artist/0bq4n0hc3bUfuqIFU79sBC) | [Fall At Your Feet](https://open.spotify.com/album/3NT7QaUJUgaZb5HBlcXEpv) | 3:22 | 2022-01-14 | 2022-05-14 |
-| [Falling Fire](https://open.spotify.com/track/4oHR6G7xfAqn0fL63QREbF) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Falling Fire](https://open.spotify.com/album/4AKB3lrLFQFpw8h2tM6wRm) | 3:28 | 2022-01-14 |  |
+| [Falling Fire](https://open.spotify.com/track/4oHR6G7xfAqn0fL63QREbF) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Falling Fire](https://open.spotify.com/album/4AKB3lrLFQFpw8h2tM6wRm) | 3:28 | 2022-01-14 | 2022-12-31 |
 | [Falling For You \(feat\. Jordan Grace\)](https://open.spotify.com/track/77VDh4qkhreJw2Y5fEA7vO) | [Siks](https://open.spotify.com/artist/0m6mgQ6oL0vNUXCuwjOmxY), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Falling For You \(feat\. Jordan Grace\)](https://open.spotify.com/album/6r8enUYxEhVniaJXE6Jr5m) | 2:33 | 2022-07-15 | 2022-07-28 |
 | [False Alarm](https://open.spotify.com/track/5jJnlACnwFvyqNXmUZu8Nd) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [False Alarm](https://open.spotify.com/album/4DaPH54g5t1hUjkQZoYgQ5) | 3:44 | 2022-01-14 | 2022-04-20 |
 | [Fast Car](https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Fast Car](https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ) | 3:32 | 2022-01-14 | 2022-04-21 |

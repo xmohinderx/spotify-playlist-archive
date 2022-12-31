@@ -980,6 +980,24 @@
     },
     {
       "album": {
+        "name": "At Dawn",
+        "url": "https://open.spotify.com/album/2cFSXGvptNABPXffNEm7yY"
+      },
+      "artists": [
+        {
+          "name": "Emelie Kindh",
+          "url": "https://open.spotify.com/artist/0ETSxbDRiOKTTDyzlFMzmp"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114745,
+      "name": "At Dawn",
+      "url": "https://open.spotify.com/track/3sXpdvzLk3dsop4otSaeJV"
+    },
+    {
+      "album": {
         "name": "At Night I Fly",
         "url": "https://open.spotify.com/album/6U0puq2gcRqfDper0juJzK"
       },
@@ -1175,6 +1193,24 @@
       "duration_ms": 254117,
       "name": "Autonomous Prospect",
       "url": "https://open.spotify.com/track/3Y2OkyO2dpNCAPb9z8lFhm"
+    },
+    {
+      "album": {
+        "name": "Avori",
+        "url": "https://open.spotify.com/album/4pWrxItDLygNwhM6pHIgeO"
+      },
+      "artists": [
+        {
+          "name": "Mirova",
+          "url": "https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171419,
+      "name": "Avori",
+      "url": "https://open.spotify.com/track/2Fq3ZwxleE9ahYEAvcZSji"
     },
     {
       "album": {

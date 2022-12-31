@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaXB8fQg7xif.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaXB8fQg7xif) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaXB8fQg7xif)
 
-### [Dance Party](https://open.spotify.com/playlist/37i9dQZF1DXaXB8fQg7xif)
+### [New Year's Eve Dance Party](https://open.spotify.com/playlist/37i9dQZF1DXaXB8fQg7xif)
 
-> <a href="spotify:genre:edm\_dance">Move</a> your feet!
+> <a href="spotify:genre:edm\_dance">Move</a> your feet! It's New Year's Eve!
 
-824 songs - 1 day 21 hr 37 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
+825 songs - 1 day 21 hr 39 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,7 +355,7 @@
 | [I Love You \- CID Remix](https://open.spotify.com/track/5GrUWIm6FMdtqaLYTqW5yh) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [I Love You \(CID Remix\)](https://open.spotify.com/album/23cJBxx1WN89hFUkCu2xUl) | 2:36 | 2020-05-22\* | 2021-12-21 |
 | [I Need A Painkiller](https://open.spotify.com/track/6K43zu0UqLQSj3T6nNOeH5) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Butter Rush](https://open.spotify.com/artist/4qfT9FLvhtokwy0BGlEVQo) | [I Need A Painkiller \(Armand Van Helden Vs\. Butter Rush\)](https://open.spotify.com/album/0dTCxYvPkt9AbZ3oqHI2CJ) | 3:15 | 2020-05-22\* | 2020-09-06 |
 | [I Want You](https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T) | 3:39 | 2022-07-14 | 2022-08-11 |
-| [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 | 2022-12-14 |  |
+| [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 | 2022-12-14 | 2022-12-31 |
 | [I Want You](https://open.spotify.com/track/70hYJ2B7d72XKbXEBiYS5R) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/7DuiGBRQXN6grfcmxzZ01L) | 3:39 | 2022-06-17 | 2022-07-13 |
 | [I Was Made](https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Le Pedre](https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE) | [I Was Made](https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV) | 2:35 | 2020-12-27 | 2022-07-02 |
 | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B) | 2:37 | 2022-05-13 |  |
@@ -470,6 +470,7 @@
 | [Manhattan \- Radio Edit](https://open.spotify.com/track/0tK9k8TUYQV3cNaHy2gXc1) | [Milk Bar](https://open.spotify.com/artist/3ZatYZZhvH2o4HRygCKKkm), [Santarini](https://open.spotify.com/artist/14d6nE7MibDr4qowJUHVC5), [Antonio Contino](https://open.spotify.com/artist/139Prz1nuGrDD33Oa09Q0z) | [Manhattan](https://open.spotify.com/album/0MWlNFKdgbzwC0PIjLb1Av) | 2:53 | 2020-05-22\* | 2022-04-21 |
 | [Marching Band](https://open.spotify.com/track/2kpOZP2szJea4TExBH2DJu) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Marching Band](https://open.spotify.com/album/0dLUc1NOmR5ka8tqnaFYJk) | 3:13 | 2022-04-01 | 2022-07-29 |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2021-03-08 | 2022-12-15 |
+| [Marianela \(Que Pasa\)](https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Marianela \(Que Pasa\)](https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0) | 2:25 | 2022-12-30 |  |
 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 | 2022-07-14 |  |
 | [Me & U \(feat\. Kelsey\)](https://open.spotify.com/track/45iBqrcycpuwrqxbTEyLGa) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Kelsey](https://open.spotify.com/artist/1hr92eQ2ZzoZHa6aUeIye5) | [Me & U \(feat\. Kelsey\)](https://open.spotify.com/album/28LlrkMOdET1kQfi6RP7HO) | 3:30 | 2020-12-29 | 2021-01-07 |
 | [Meet Again](https://open.spotify.com/track/0RBabLLjDBWUResDuvf24V) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Meet Again](https://open.spotify.com/album/1tpjTLdjuiLlokIPtN9faZ) | 3:41 | 2020-10-13 | 2021-10-16 |

@@ -4,7 +4,7 @@
 
 > Long and constant \- lose yourself in the sustain.
 
-178 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/7nhVz0B4W46kGNWnN6asrC)
+179 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/7nhVz0B4W46kGNWnN6asrC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Ashes](https://open.spotify.com/track/2m1XpzhxIr7l7dEyrYX5dQ) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:03 | 2022-07-08 |  |
 | [At the End, Together](https://open.spotify.com/track/11oUBFnSMCqqv2PWaEEm0m) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB), [deer meadow](https://open.spotify.com/artist/7IjTtPufpIvS5zpffa9FXr) | [In a Sad Red Dusk, We Were Finally Leaving](https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR) | 7:21 | 2022-05-25 |  |
 | [Atmosphere](https://open.spotify.com/track/0Tb0yPFftPTvr7miqHBXQB) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Ambient Darkness](https://open.spotify.com/album/2qGhUp8s8keuGo985t52Xd) | 3:39 | 2022-07-08 |  |
+| [Before the Arctic Wind Returns](https://open.spotify.com/track/6SS17aFeaNZugLIGpVTeAz) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY) | [Sceneries](https://open.spotify.com/album/4kI9YUQifb51tnR2s7EJsr) | 6:09 | 2022-12-30 |  |
 | [Blanket](https://open.spotify.com/track/1hvmvvfhkDM01DZW3Ouzrh) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [How Much Time it is Between You and Me?](https://open.spotify.com/album/3f5TwahHoUqJVnNrhp68Mm) | 6:00 | 2022-05-25 | 2022-07-24 |
 | [Blanket](https://open.spotify.com/track/3yN1isCiYLgoihgq5FYoGM) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [How Much Time it is Between You and Me?](https://open.spotify.com/album/2MqJM7oZ4FOCowQORhfBKc) | 6:00 | 2022-07-08 |  |
 | [Blood Rainbow](https://open.spotify.com/track/1vOKECbjDJzzPi17GWo0DZ) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Harmony in Ultraviolet](https://open.spotify.com/album/1U5x6wQtMJtbwM3NZRSvKT) | 4:06 | 2022-05-25 | 2022-11-25 |
@@ -57,7 +58,7 @@
 | [Dark Motive](https://open.spotify.com/track/02S9ssx1zhXx6aHQqdDFmg) | [Paul Whitehead](https://open.spotify.com/artist/4TaIAHSrmJz39bSLfzH5KG), [Dom Kane](https://open.spotify.com/artist/36VhFXGlahmuSAXdr7SVCP) | [Dark Analogue Drones](https://open.spotify.com/album/2617v2UbZZLDniFrmSBaKU) | 2:48 | 2022-11-24 |  |
 | [Dark Motive](https://open.spotify.com/track/3cxtmbowjyyyx9usby1Bym) | [Paul Whitehead](https://open.spotify.com/artist/4TaIAHSrmJz39bSLfzH5KG), [Dom Kane](https://open.spotify.com/artist/36VhFXGlahmuSAXdr7SVCP) | [Dark Analogue Drones](https://open.spotify.com/album/37TPBwpuEhTp9zWwH0XGGt) | 2:48 | 2022-05-25 | 2022-07-29 |
 | [Dark Nails](https://open.spotify.com/track/2DtBlBP2Kw4T5ov7BjZO8U) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Dark Nails](https://open.spotify.com/album/5es5EDRuCLdsT6dD5uZjXg) | 10:30 | 2022-05-25 |  |
-| [Darkened Valley Lullaby](https://open.spotify.com/track/7GDbjLB0JxUt6f7nl2GBBO) | [Devin Sarno](https://open.spotify.com/artist/6H0BGNsWkD3AZNqJ3dEHPI) | [Evocation](https://open.spotify.com/album/1QPetxI3eJ5u6RdcKqsgfJ) | 5:12 | 2022-05-25 |  |
+| [Darkened Valley Lullaby](https://open.spotify.com/track/7GDbjLB0JxUt6f7nl2GBBO) | [Devin Sarno](https://open.spotify.com/artist/6H0BGNsWkD3AZNqJ3dEHPI) | [Evocation](https://open.spotify.com/album/1QPetxI3eJ5u6RdcKqsgfJ) | 5:12 | 2022-05-25 | 2022-12-31 |
 | [Diamond Nights](https://open.spotify.com/track/0uK78BIKDhjAN6p78vBycJ) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Eyes Like Angels](https://open.spotify.com/album/3peNyjBArdVRwfMNCY5UOP) | 5:56 | 2022-05-25 |  |
 | [Distant \- Drone Mix](https://open.spotify.com/track/0MAhzaMVquiCYKzmhydblv) | [CALM TRANSMISSIONS](https://open.spotify.com/artist/60LEwqfO4hiuirXepr8MXX) | [Distant \(Drone Mix\)](https://open.spotify.com/album/5w07cL98KrOheroP153LSq) | 4:23 | 2022-05-25 | 2022-12-21 |
 | [DRAHTKURBEL](https://open.spotify.com/track/3euqW42c6yR3DP4GgIIwpE) | [Eckert & Hagen](https://open.spotify.com/artist/7sstIzjbXHYkMO1HpLVlrq), [No Bloom Now](https://open.spotify.com/artist/4woc6oFscmJHwXGCubSvrH) | [DRAHTKURBEL](https://open.spotify.com/album/5CTHrftpTIpWpUj6vifWW9) | 4:48 | 2022-05-25 | 2022-11-25 |

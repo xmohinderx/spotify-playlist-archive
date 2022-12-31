@@ -1407,7 +1407,7 @@
     {
       "album": {
         "name": "Let's Call It Love",
-        "url": "https://open.spotify.com/album/59vsEGJiHPbbySFipoLcuO"
+        "url": "https://open.spotify.com/album/7fq2mXAXaSfgnvuc9CqiMR"
       },
       "artists": [
         {
@@ -1422,6 +1422,28 @@
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 140952,
+      "name": "Let's Call It Love",
+      "url": "https://open.spotify.com/track/07TKDT070EpnvDSS0yhZdD"
+    },
+    {
+      "album": {
+        "name": "Let's Call It Love",
+        "url": "https://open.spotify.com/album/59vsEGJiHPbbySFipoLcuO"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Mary Jensen",
+          "url": "https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
       "duration_ms": 140952,
       "name": "Let's Call It Love",
       "url": "https://open.spotify.com/track/3i7Uzo6SN9Gk5vnEvAsy4C"
@@ -1811,10 +1833,36 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 213333,
       "name": "Once Again (FOVOS Remix)",
       "url": "https://open.spotify.com/track/7lecNF0Xhqb6GoyHDqjQwg"
+    },
+    {
+      "album": {
+        "name": "Once Again (FOVOS Remix)",
+        "url": "https://open.spotify.com/album/2JUWPyPMStjSsIx5oNHJOO"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        },
+        {
+          "name": "FOVOS",
+          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Once Again - FOVOS Remix",
+      "url": "https://open.spotify.com/track/4kUhdlpiBjnN9fyNyQdX19"
     },
     {
       "album": {

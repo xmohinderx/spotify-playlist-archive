@@ -4,7 +4,7 @@
 
 > The perfect mix between old\-school and modern Metalcore\. Cover: A7X
 
-76 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/1h5wDS63ZREiQ4twmmpOgS)
+77 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/1h5wDS63ZREiQ4twmmpOgS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [The End of Heartache](https://open.spotify.com/track/2nUy0ifVE7UwtOK4rugFsP) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [The End of Heartache \(Special Edition\)](https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V) | 4:58 | 2022-01-17 |  |
 | [The Sinner](https://open.spotify.com/track/4SAeLRKTvdvEKUvpYIoBzT) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [The Hollow](https://open.spotify.com/album/59fpw1PC2LgFYS0Hmn4zm3) | 4:02 | 2022-01-17 |  |
 | [The Worst Is yet to Come](https://open.spotify.com/track/3T8WTbGrVFWI2eWrDqylTI) | [Still Remains](https://open.spotify.com/artist/1vqMfm7uSTpqRUeV1iQPPp) | [Of Love And Lunacy](https://open.spotify.com/album/6QiKYJ1Fa3n5wE8viOyRea) | 3:50 | 2022-01-17 |  |
-| [These Colours Don't Run](https://open.spotify.com/track/1DaQfWfIHy7XWLTS8g6ptc) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker](https://open.spotify.com/album/088xyqoXNKBTNIuIgpai6q) | 4:01 | 2022-01-17 |  |
+| [These Colours Don't Run](https://open.spotify.com/track/1DaQfWfIHy7XWLTS8g6ptc) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker](https://open.spotify.com/album/088xyqoXNKBTNIuIgpai6q) | 4:01 | 2022-01-17 | 2022-12-31 |
+| [These Colours Don't Run](https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 4:01 | 2022-11-22 |  |
 | [Tower of Snakes](https://open.spotify.com/track/2PGuGQrxGVMl1tFAgqCvfC) | [Eighteen Visions](https://open.spotify.com/artist/1KcePrJuVbBv9SyqCEpdPb) | [Obsession](https://open.spotify.com/album/1d4qOPcYpX3g2ta8JSyf6s) | 3:38 | 2022-10-25 |  |
 | [Two Weeks](https://open.spotify.com/track/0XT70Wk9pP8JZkmJhfntuL) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Overcome](https://open.spotify.com/album/5Idfe5SehEAZ9uyv9fSKu1) | 4:17 | 2022-01-17 |  |
 | [Unholy Confessions](https://open.spotify.com/track/20g7z9R1wjE7EtVnB7XEjS) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/4A6vIZBEKEAGoBsaWAZ0ck) | 4:43 | 2022-01-17 | 2022-07-29 |

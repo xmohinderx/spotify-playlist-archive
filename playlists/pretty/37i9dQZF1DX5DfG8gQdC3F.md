@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 ### [New Music Friday Canada](https://open.spotify.com/playlist/37i9dQZF1DX5DfG8gQdC3F)
 
-> New music from KILLY \(pictured\), Ava Max, Bailey Zimmerman, Damso, and more!
+> New Music Friday will return in Canada on 1/6/23 – Happy New Year! Listen to music from KILLY \(pictured\), Ava Max, Bailey Zimmerman, Damso, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,710 likes - 61 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,734 likes - 61 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 60 | [She Don't Wanna Talk](https://open.spotify.com/track/2Of1FPGtBIZ7XFDOxTzDdS) | [Hey Damian!](https://open.spotify.com/artist/332FeKtYNS9dPXR8SE2amj) | [She Don't Wanna Talk](https://open.spotify.com/album/5D3Og795pQlmc8wzTXt9cy) | 2:38 |
 | 61 | [JOY \(God Only Knows\)](https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(God Only Knows\)](https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU) | 4:26 |
 
-Snapshot ID: `MTY3MTgxODE2OCwwMDAwMDAwMDQ3ZjViNjY4NjVmYjUxMzYwMjU1NmI5ZDIwMzNlMTI5`
+Snapshot ID: `MTY3MjM3NjQwMCwwMDAwMDAwMDZkZGJiY2IwMDk0MzRkZjhlMmNjOWJmZjQzNGIxYTNl`

@@ -4,11 +4,12 @@
 
 > Ambient drone to make you feel weightless.
 
-182 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+183 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [396 Hz Open Mind](https://open.spotify.com/track/2IDuOFkmxNV2Udp8p8oEf7) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [396 Hz Soundscapes for Mindfulness](https://open.spotify.com/album/3iA0cOUPyMJDONnUYlTLsQ) | 2:38 | 2022-05-25 |  |
+| [852 Hz Inner Peace](https://open.spotify.com/track/54wmUJNPXM8OiOcPcbmzhH) | [Deep Motions](https://open.spotify.com/artist/5nkmvFGIaDVINeAqIVEEJC) | [Inner Peace](https://open.spotify.com/album/6Iv6r0sYftuDawl7IE66vX) | 2:48 | 2022-12-30 |  |
 | [A Dover Find](https://open.spotify.com/track/3Msms0f4RJkKykOZ7Zmpfl) | [Seascape Legends](https://open.spotify.com/artist/1vwgUTET0ehuy4bqjY6EzM) | [Caruaru](https://open.spotify.com/album/5cQCtz9OSqRgy95RyORLEb) | 4:02 | 2021-11-10 |  |
 | [A Sleepless Night](https://open.spotify.com/track/4H7oCuiiPH6gQTKfoBR9eo) | [Ella Ravn](https://open.spotify.com/artist/0EcHhtv02X5sMmofhqQo3c) | [A Sleepless Night](https://open.spotify.com/album/2e26oolMJM3ijJsrnqXZ8u) | 3:19 | 2021-11-10 |  |
 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 | 2021-11-10 |  |
@@ -188,7 +189,7 @@
 | [Wood Siding Railway Station](https://open.spotify.com/track/5ixnYv40UHrZQIuqNlOJl0) | [Baroque Modernist](https://open.spotify.com/artist/5uXsIKri6D2vNv9V1EdGet) | [Pristina](https://open.spotify.com/album/5qcBhbgv4r3UeJAOQKCHuf) | 3:12 | 2021-11-10 |  |
 | [Wu Wei](https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Wu Wei](https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW) | 2:49 | 2022-09-13 |  |
 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 | 2022-03-17 |  |
-| [Zero Gravity](https://open.spotify.com/track/7hhB3DTBQSHLvfO9RvyZxf) | [Matooma](https://open.spotify.com/artist/7MWB4y39Fn6YnVIyxdv77K) | [Deep Space](https://open.spotify.com/album/3FVqVMyRxBxo3k3zbjvOaL) | 3:05 | 2021-11-10 |  |
+| [Zero Gravity](https://open.spotify.com/track/7hhB3DTBQSHLvfO9RvyZxf) | [Matooma](https://open.spotify.com/artist/7MWB4y39Fn6YnVIyxdv77K) | [Deep Space](https://open.spotify.com/album/3FVqVMyRxBxo3k3zbjvOaL) | 3:05 | 2021-11-10 | 2022-12-31 |
 | [zítra](https://open.spotify.com/track/0Lrwxgacqe283eVOdhlMkh) | [petr pechal](https://open.spotify.com/artist/2m2Gdx0nH8UftnqxbQG3Nr) | [zítra](https://open.spotify.com/album/6ITVzWnfKRbUOWAhu5yEq4) | 3:47 | 2021-11-10 |  |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

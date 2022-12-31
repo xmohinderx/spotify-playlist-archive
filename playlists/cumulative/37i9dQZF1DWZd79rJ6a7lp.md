@@ -4,7 +4,7 @@
 
 > Gentle ambient piano to help you fall asleep.
 
-743 songs - 1 day 13 hr 31 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
+745 songs - 1 day 13 hr 36 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2022-03-15 |  |
 | [A Silent Moon](https://open.spotify.com/track/4j4ZWRfaWnFou23po51hpn) | [Atmosferion](https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc) | [A Silent Moon](https://open.spotify.com/album/614CGNxEe7t1cwpRQjit8H) | 3:08 | 2022-11-11 |  |
 | [A Solid State](https://open.spotify.com/track/0j7itsX7DkAsHJQQGL4XJe) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [A Solid State](https://open.spotify.com/album/31b43Zr4Eb7nNEnsX6GywM) | 2:53 | 2021-10-30 | 2022-01-29 |
+| [A World Above](https://open.spotify.com/track/7x9bH00ovSbLyTMvsyvWNd) | [Lluvia Green](https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW) | [A World Above](https://open.spotify.com/album/6Tsuaro1rdAFo4QuNjzOX0) | 2:06 | 2022-12-30 |  |
 | [Above The Sky](https://open.spotify.com/track/1HyF8oeszW3S6jH06da7kc) | [Indecent Sound](https://open.spotify.com/artist/32Ha8UYomRzgQyLqzYvOu7) | [Above The Sky](https://open.spotify.com/album/6UUZM30QvIYy5ocP6AMb5N) | 3:10 | 2020-10-20\* | 2021-05-04 |
 | [Acércate](https://open.spotify.com/track/6cCJLQydZi0hOugxKQPZUZ) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Acércate](https://open.spotify.com/album/3eukHG5mbRadhylbLUSHU9) | 3:13 | 2020-11-21 | 2021-10-06 |
 | [Acronychal](https://open.spotify.com/track/6qFQbumQEjkxZxSOyTBAum) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Acronychal](https://open.spotify.com/album/4Oon0mZGnEJO8EVlJ8XiDu) | 2:29 | 2020-10-20\* | 2020-12-12 |
@@ -344,6 +345,7 @@
 | [Infinity](https://open.spotify.com/track/7j0rOyP9heljOUoUuFTr1Z) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Infinity](https://open.spotify.com/album/3YPKwO0fyF9cXrmDvrIUtb) | 3:23 | 2020-10-20\* | 2021-05-04 |
 | [Inhibitions](https://open.spotify.com/track/1aCZehILgQ3QzHAFOdrKxb) | [Luna Lighthouse](https://open.spotify.com/artist/0KftcGoIddoUYb1ftCc3nJ) | [Stalagmites](https://open.spotify.com/album/7L3u0suSeyv5WJxCL5Nyn7) | 4:06 | 2020-10-20\* | 2020-12-12 |
 | [Inner Cease](https://open.spotify.com/track/5FEqM4v1VJkQyr2N57g8Y1) | [John Mountain](https://open.spotify.com/artist/4sbCVTblkJHrssuZ904lBB) | [Inner Cease](https://open.spotify.com/album/0f1BfaqaEf9Ni1dPbBgD5D) | 3:11 | 2020-10-20\* | 2020-12-12 |
+| [Inside The Wave](https://open.spotify.com/track/7u6NFtytPfiVDK5txIpHvd) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [The Deep](https://open.spotify.com/album/7x78Dxtt8fpbFbLfSMM2bR) | 2:26 | 2022-12-30 |  |
 | [Interstellar](https://open.spotify.com/track/6DLx436guAqpJ8piBZyXqC) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Chasma](https://open.spotify.com/album/61Y2geXoBdrrPvE3IJcB9W) | 2:30 | 2022-04-07 |  |
 | [Interstellar](https://open.spotify.com/track/4MGGK38wotU544Uq9ouZvW) | [Escape Velocity](https://open.spotify.com/artist/2tb72keD7ZfOudHYldg84Z) | [Trojan](https://open.spotify.com/album/2zXu0weQP2kQktWq6UmMJJ) | 3:09 | 2020-10-20\* | 2020-12-12 |
 | [Into the light](https://open.spotify.com/track/0Vjq9kVZr61LfZMcVYAbxS) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Into the light](https://open.spotify.com/album/1HiaSBHNeRFfMPO2sbG1Id) | 2:26 | 2022-08-23 |  |

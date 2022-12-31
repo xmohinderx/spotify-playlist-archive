@@ -1,12 +1,12 @@
 {
   "description": "Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies\u2014it\u2019s an example of how music really can bring us all together. (Includes the 2021 &amp; 2020 editions + bonus tracks)",
-  "num_followers": 102146,
+  "num_followers": 102154,
   "original_name": "Barack Obama\u2019s Summer Playlist 2022",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "Mzk0NCw4NjQ4OTFkMDliMzgyNDNlNjM0N2NiZTQzOWM2YWYyNjMwNTNjMjUw",
+  "snapshot_id": "Mzk1MyxhM2U4YWIxNDUyMmRmMDc1MjA2Yjg3Y2NhMzlmODk4M2UyNTU4OWFl",
   "tracks": [
     {
       "added_at": "2022-08-10 13:59:43",
@@ -1545,6 +1545,22 @@
       "url": "https://open.spotify.com/track/4KYqGXuVYwhpfsFATIXuP7"
     },
     {
+      "added_at": "2022-12-30 18:15:06",
+      "album": {
+        "name": "Live a Little",
+        "url": "https://open.spotify.com/album/10VliHm0DyEPve1iHZC0gy"
+      },
+      "artists": [
+        {
+          "name": "Akash",
+          "url": "https://open.spotify.com/artist/66T1y32NNXOz51okoaSu6v"
+        }
+      ],
+      "duration_ms": 155519,
+      "name": "Sea in Me",
+      "url": "https://open.spotify.com/track/3YTNqDvizWh4DjFKBphYCU"
+    },
+    {
       "added_at": "2022-12-30 01:08:27",
       "album": {
         "name": "80 Fenway",
@@ -2961,118 +2977,6 @@
       "url": "https://open.spotify.com/track/1jQpoZAhmWIQ5zXbBYVc1I"
     },
     {
-      "added_at": "2022-12-09 01:26:06",
-      "album": {
-        "name": "Miri",
-        "url": "https://open.spotify.com/album/5eqWUgzhKa7vWBSS6PhM8f"
-      },
-      "artists": [
-        {
-          "name": "GhostPuma",
-          "url": "https://open.spotify.com/artist/1BmPfFMOPZNX3LTFgbWz5O"
-        }
-      ],
-      "duration_ms": 118378,
-      "name": "Miri",
-      "url": "https://open.spotify.com/track/4OyHHvXkiGbAjsq43iFXmL"
-    },
-    {
-      "added_at": "2022-12-09 01:29:10",
-      "album": {
-        "name": "Old Trees",
-        "url": "https://open.spotify.com/album/7F28svlGfNeCX4TAGNkS0G"
-      },
-      "artists": [
-        {
-          "name": "Altona",
-          "url": "https://open.spotify.com/artist/6bIGCSD9GJsQU2KrkLJWl1"
-        }
-      ],
-      "duration_ms": 205370,
-      "name": "Old Trees",
-      "url": "https://open.spotify.com/track/1UkK8PMCog5uTwfvPArRUt"
-    },
-    {
-      "added_at": "2022-12-09 01:29:44",
-      "album": {
-        "name": "You Like to Play with Fire",
-        "url": "https://open.spotify.com/album/5AnrmlVlBpOeDUm5hgyffn"
-      },
-      "artists": [
-        {
-          "name": "Tea Janee",
-          "url": "https://open.spotify.com/artist/2y8YKDHxaZvnrVXFDClXnt"
-        }
-      ],
-      "duration_ms": 173195,
-      "name": "You Like to Play with Fire",
-      "url": "https://open.spotify.com/track/464m8uPkWScmviDsDwHQcg"
-    },
-    {
-      "added_at": "2022-12-09 01:30:26",
-      "album": {
-        "name": "Here Between",
-        "url": "https://open.spotify.com/album/6YobaSE6AX9L6NGW0jXMJr"
-      },
-      "artists": [
-        {
-          "name": "Eric Bolton",
-          "url": "https://open.spotify.com/artist/7MesUgS9kmfcTyWC52K2iY"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "World of Dreams",
-      "url": "https://open.spotify.com/track/32aBRCsqe7gJWmCAWmKbZC"
-    },
-    {
-      "added_at": "2022-12-09 01:25:53",
-      "album": {
-        "name": "Thunderhead",
-        "url": "https://open.spotify.com/album/0LcI4O7Zn6bGrg55fSavVj"
-      },
-      "artists": [
-        {
-          "name": "Paul Spring",
-          "url": "https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew"
-        }
-      ],
-      "duration_ms": 226201,
-      "name": "Thunderhead",
-      "url": "https://open.spotify.com/track/6yivu7IE6Qc8WYNovbIqd6"
-    },
-    {
-      "added_at": "2022-12-09 01:29:26",
-      "album": {
-        "name": "Flower",
-        "url": "https://open.spotify.com/album/7tF4SlJfRqeYsdoA0q4Pf1"
-      },
-      "artists": [
-        {
-          "name": "Adom",
-          "url": "https://open.spotify.com/artist/5cp4XJR0TgFBtT5jbHk1Dl"
-        }
-      ],
-      "duration_ms": 171695,
-      "name": "Flower",
-      "url": "https://open.spotify.com/track/49r8KQDs5IkIxs10tTBfY2"
-    },
-    {
-      "added_at": "2022-12-09 01:28:58",
-      "album": {
-        "name": "My Gut",
-        "url": "https://open.spotify.com/album/5uTlBOB0DdYkBpicQPEW2M"
-      },
-      "artists": [
-        {
-          "name": "Ark White",
-          "url": "https://open.spotify.com/artist/0T9bXazaIkt3kOSTPpCFUe"
-        }
-      ],
-      "duration_ms": 247326,
-      "name": "My Gut",
-      "url": "https://open.spotify.com/track/1vnRZVQEEOXxWph57js5OP"
-    },
-    {
       "added_at": "2022-12-11 17:44:47",
       "album": {
         "name": "Time",
@@ -3259,22 +3163,6 @@
       "duration_ms": 124689,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/3xYosaleOoOjwZ5v8Ltzte"
-    },
-    {
-      "added_at": "2022-12-09 01:26:39",
-      "album": {
-        "name": "Awake at Night",
-        "url": "https://open.spotify.com/album/7fILg3GvodYhc4g4ikR9px"
-      },
-      "artists": [
-        {
-          "name": "Andrea Ward",
-          "url": "https://open.spotify.com/artist/6sjgxFt0GBLijQ1OIqP0eh"
-        }
-      ],
-      "duration_ms": 165657,
-      "name": "Awake at Night",
-      "url": "https://open.spotify.com/track/2ER60vkC8mHQUsGbClc1if"
     },
     {
       "added_at": "2022-12-08 17:46:42",

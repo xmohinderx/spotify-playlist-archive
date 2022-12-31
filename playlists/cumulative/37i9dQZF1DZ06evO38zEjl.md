@@ -4,10 +4,11 @@
 
 > This is Jon Hassell\. The essential tracks, all in one playlist.
 
-81 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/5utu6NSDQOYS6yo7sj1Zvx)
+82 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/5utu6NSDQOYS6yo7sj1Zvx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Like\) Warriors Everywhere \(Courage\)](https://open.spotify.com/track/4NFTr6KZ3HGVVhCXmNu6Hm) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Farafina](https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL) | [Flash of the Spirit](https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0) | 4:43 | 2022-12-30 |  |
 | [Abu Gil \- Live](https://open.spotify.com/track/3X0BvVXZ5Xpx0oPN0di5yO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 13:04 | 2022-05-30 | 2022-09-30 |
 | [Adios Saturn](https://open.spotify.com/track/3qT7EXtReLltWcnlpsYaur) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8) | 1:57 | 2022-10-18 |  |
 | [Air](https://open.spotify.com/track/5ocNutZquWbyiajH4MJQ9s) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 5:20 | 2022-05-29 | 2022-12-30 |
@@ -50,7 +51,7 @@
 | [Last Night The Moon Came](https://open.spotify.com/track/7EVB8TpxzTh6llHIcPANAi) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 11:15 | 2022-05-29 |  |
 | [Light On Water \- Live](https://open.spotify.com/track/6A3NOW4IW0NtAKavtXeu6W) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 7:59 | 2022-05-29 | 2022-10-11 |
 | [Lunar](https://open.spotify.com/track/2s9A9QkP6poey6gfYdTeJF) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 6:32 | 2022-05-30 |  |
-| [Maarifa Street](https://open.spotify.com/track/1eL6wpxyDb1Wt7kgV8yNoE) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 7:09 | 2022-05-29 |  |
+| [Maarifa Street](https://open.spotify.com/track/1eL6wpxyDb1Wt7kgV8yNoE) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 7:09 | 2022-05-29 | 2022-12-31 |
 | [Manga Scene](https://open.spotify.com/track/2RHtLQ1gxmqL6kCBvY4mlH) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9) | 5:44 | 2022-05-29 |  |
 | [Miracle Steps](https://open.spotify.com/track/2q6MuQKOrsSwGwGViknzLy) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 4:21 | 2022-05-29 |  |
 | [Moons Of Titan](https://open.spotify.com/track/6czIMGJni7jAuZP2OFEsel) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 4:18 | 2022-05-29 |  |

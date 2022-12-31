@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: W.M.L \(李杰明\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,022 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,020 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 38 | [地獄列車](https://open.spotify.com/track/3Q0QnTfzM7n2kcquxEHOUY) | [HONEY BѦDGER](https://open.spotify.com/artist/4DBoWboxnMFCM1ZrblEWOb), [ODen](https://open.spotify.com/artist/3ChyhdoslVl8V08MKbPmoX), [Phero Void](https://open.spotify.com/artist/3NF7WXmGC8BYlqci4OTAi7) | [地獄列車](https://open.spotify.com/album/0Dg59oq4yk7CUcy61umYw2) | 3:28 |
 | 39 | [Work](https://open.spotify.com/track/3N0srZgpRLSY2ziJ1FsJh9) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [Work](https://open.spotify.com/album/3iFMz768dCGwpWGfzECGx9) | 2:46 |
 | 40 | [天空](https://open.spotify.com/track/49iabktBcTDXW0cXBzty4q) | [1CEKary](https://open.spotify.com/artist/7iBigCucv9mcL34HlQCaq6), [Vansdaddy](https://open.spotify.com/artist/2yeiR78Ih0Unrsp06GxhWx) | [KIANA的预言](https://open.spotify.com/album/1KIh7lk5glgMpbPpbYn8FP) | 2:55 |
-| 41 | [有病的孩子](https://open.spotify.com/track/2UzbJ33Xf8VPwGZGQhWUk8) | [HomeRich](https://open.spotify.com/artist/4GtW6FVTo4AlQRzVMgexJF) | [溫柔的怪物](https://open.spotify.com/album/5j8KBkwSdWQRBkAiJDWskT) | 2:58 |
+| 41 | [有病的孩子](https://open.spotify.com/track/3Rw0p8UchPvD9KvCaVZWR7) | [HomeRich](https://open.spotify.com/artist/4GtW6FVTo4AlQRzVMgexJF) | [溫柔的怪物](https://open.spotify.com/album/0274UBkVeUtM3SBj94H0E6) | 2:58 |
 | 42 | [等不来花开](https://open.spotify.com/track/7gjY6M2FUM81zfQYchkxYj) | [pro](https://open.spotify.com/artist/0V5ml5BXpBsP9btn2N80I8) | [等不来花开](https://open.spotify.com/album/1prwuiyQ5BSK1Nn3gFZyiV) | 2:32 |
 | 43 | [烏有](https://open.spotify.com/track/1jKJOUckSjJxQYf8Fdhxrf) | [同理 Zunya](https://open.spotify.com/artist/3tsoImRDSW4JEcL2CdIUmo) | [同理](https://open.spotify.com/album/4nT7s21AuoufYR4FcLqvKR) | 2:58 |
 | 44 | [Through The Night](https://open.spotify.com/track/3vnPw6ErvNgjYpwaEACaex) | [Keev](https://open.spotify.com/artist/2KS5HYsDqrlhrMDLcxWoAK), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [Through The Night](https://open.spotify.com/album/1C9RdQieUsv3B1L5NUjYjv) | 2:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 79 | [狗影忍者](https://open.spotify.com/track/4bSAqNvKf5yr5IWCgpcu4H) | [潮州土狗](https://open.spotify.com/artist/7jMy8JE32Ck096LLh6Hy4L) | [狗狗歷險記](https://open.spotify.com/album/0wTxAffsRai0vNjP78USVf) | 1:55 |
 | 80 | [yoxi有喜](https://open.spotify.com/track/5lxg0athNn6ZWOX7lPS3M2) | [YoungLee](https://open.spotify.com/artist/37SCZVt9ssGoiuzN972Vud) | [yoxi有喜](https://open.spotify.com/album/4uP9dvAKRio2Lik113FUFC) | 1:46 |
 
-Snapshot ID: `MTY3MjAxODAyNSwwMDAwMDAwMDAzOGIyZDNhYzAxOWQ1NTVjZDliOThlZDAzNjdlMzVk`
+Snapshot ID: `MTY3MjAxODAyNSwwMDAwMDAwMDM2MjY2NmQ4MWZkZjUyOTdiODJjYjU4YzJkZWFlNGIz`

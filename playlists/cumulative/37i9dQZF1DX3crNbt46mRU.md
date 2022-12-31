@@ -4,7 +4,7 @@
 
 > This week's top new releases.
 
-4,669 songs - 9 day 22 hr 13 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+4,671 songs - 9 day 22 hr 18 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,7 +594,8 @@
 | [Blow It Up](https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb) | [Blow It Up](https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9) | 3:01 | 2022-10-27 | 2022-11-04 |
 | [Blow Out My Candle](https://open.spotify.com/track/1cK0KFqlnTQC6oqPh3CXt2) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Blow Out My Candle](https://open.spotify.com/album/2bc0REgbhglGuJH3Mt4hmk) | 2:59 | 2022-06-02 | 2022-06-10 |
 | [Blow The Roof \(with Kasbo & EVAN GIIA\)](https://open.spotify.com/track/6sooxXwLEwh812Ve4L5ovr) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Blow The Roof \(with Kasbo & EVAN GIIA\)](https://open.spotify.com/album/3wsZl7oZ9obf53nPRj6FaA) | 3:04 | 2022-02-17 | 2022-02-25 |
-| [Blow Ur Mind](https://open.spotify.com/track/57IfpZ8nWydC9ZXQIbx0Ab) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Hedara](https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm) | [Blow Ur Mind](https://open.spotify.com/album/4ckn4K7SLP2mlSUpbE471i) | 2:49 | 2022-12-29 |  |
+| [Blow Ur Mind](https://open.spotify.com/track/47ZtMQwbGGL5A3sqwSBj81) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Hedara](https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm) | [Blow Ur Mind](https://open.spotify.com/album/2HGo8LkjznUCqzPiXdVicR) | 2:49 | 2022-12-29 |  |
+| [Blow Ur Mind](https://open.spotify.com/track/57IfpZ8nWydC9ZXQIbx0Ab) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Hedara](https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm) | [Blow Ur Mind](https://open.spotify.com/album/4ckn4K7SLP2mlSUpbE471i) | 2:49 | 2022-12-29 | 2022-12-31 |
 | [Blud](https://open.spotify.com/track/4WyBhfEMgG29ePvhenX9LY) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [Blud](https://open.spotify.com/album/5jr5lyYJjT9mcrW1vEQn8l) | 2:32 | 2022-06-23 | 2022-07-01 |
 | [Blue](https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Blue](https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL) | 3:16 | 2022-10-13 | 2022-10-21 |
 | [Blue](https://open.spotify.com/track/7uhaG1MmBzH5KU6X0TMNBJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Blue](https://open.spotify.com/album/4c8A95egg8m0QCgWYxGisw) | 3:27 | 2022-10-20 | 2022-10-28 |
@@ -2389,7 +2390,8 @@
 | [Let You Go](https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:54 | 2022-03-03 | 2022-03-11 |
 | [Let You Go](https://open.spotify.com/track/2Ml0Ag2xyqSWPuMT44HJCb) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [Let You Go](https://open.spotify.com/album/2lRTTDqPMOVs385LMZJdRy) | 2:41 | 2022-08-18 | 2022-08-26 |
 | [Let You Go](https://open.spotify.com/track/4YydHoIzabGxMvVnh6FaTA) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Let You Go](https://open.spotify.com/album/6HIGa89voop7TxtKLYcuDK) | 3:52 | 2022-02-17 | 2022-02-25 |
-| [Let's Call It Love](https://open.spotify.com/track/3i7Uzo6SN9Gk5vnEvAsy4C) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Let's Call It Love](https://open.spotify.com/album/59vsEGJiHPbbySFipoLcuO) | 2:20 | 2022-12-29 |  |
+| [Let's Call It Love](https://open.spotify.com/track/07TKDT070EpnvDSS0yhZdD) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Let's Call It Love](https://open.spotify.com/album/7fq2mXAXaSfgnvuc9CqiMR) | 2:20 | 2022-12-29 |  |
+| [Let's Call It Love](https://open.spotify.com/track/3i7Uzo6SN9Gk5vnEvAsy4C) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Let's Call It Love](https://open.spotify.com/album/59vsEGJiHPbbySFipoLcuO) | 2:20 | 2022-12-29 | 2022-12-31 |
 | [Let's Go](https://open.spotify.com/track/6aAK61IxawCj1Z7rNUxVlG) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [Let's Go](https://open.spotify.com/album/0d7A66OUJAg0OXNa8RzEYb) | 2:44 | 2022-06-23 | 2022-07-01 |
 | [Let's Go Party](https://open.spotify.com/track/7yMcsosEysZ9WTHg5bi7a8) | [Sofia Martynova](https://open.spotify.com/artist/6ORFM5Wkds7DpdDgcTseb6) | [Let's Go Party](https://open.spotify.com/album/5jPwCtEwg2lhezJ7TFIJfT) | 2:55 | 2022-08-25 | 2022-09-02 |
 | [Let's Leave](https://open.spotify.com/track/7pgDx26ZSbadWvbBdGwLuv) | [TAY\-LAH](https://open.spotify.com/artist/1MSXbdDPfEXEmYxjdvRsBJ) | [Let's Leave](https://open.spotify.com/album/0zquDMei682fo2KfL6XBIH) | 2:35 | 2022-05-12 | 2022-05-20 |

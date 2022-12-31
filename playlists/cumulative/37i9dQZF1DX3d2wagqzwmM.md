@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds, hand\-curated by Hardwell for New Years' Eve.
 
-263 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
+264 songs - 14 hr 23 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [OH GOSH](https://open.spotify.com/track/3Uhi1s7IsK0uxtmuFO0ELa) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE \(Deluxe Edition\)](https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX) | 4:29 | 2022-12-27 |  |
 | [Old School](https://open.spotify.com/track/71Sz7c0myBEu1h0pxy9xHU) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC), [Skylights](https://open.spotify.com/artist/0VPaO0vsoT2SrBFGTkvZOd), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Old School](https://open.spotify.com/album/6YuBMPHdINEax8Te6XxtnH) | 3:03 | 2022-04-21 | 2022-07-26 |
 | [Ole Ole](https://open.spotify.com/track/0ULUQNsWHyA6kjZMrf5wQ7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Arrow](https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa) | [Ole Ole](https://open.spotify.com/album/4RnYmvLt3wAc5ifPhiivjV) | 2:36 | 2022-10-14 | 2022-12-28 |
-| [Once Again \(FOVOS Remix\)](https://open.spotify.com/track/7lecNF0Xhqb6GoyHDqjQwg) | [Dillion Francis](https://open.spotify.com/artist/0uSkTGSOlf95KOOsMa1H4Q), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Once Again \(Remixes\)](https://open.spotify.com/album/6FrZQaBXw0FUePDriWQrA9) | 3:33 | 2022-12-29 |  |
+| [Once Again \(FOVOS Remix\)](https://open.spotify.com/track/7lecNF0Xhqb6GoyHDqjQwg) | [Dillion Francis](https://open.spotify.com/artist/0uSkTGSOlf95KOOsMa1H4Q), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Once Again \(Remixes\)](https://open.spotify.com/album/6FrZQaBXw0FUePDriWQrA9) | 3:33 | 2022-12-29 | 2022-12-31 |
+| [Once Again \- FOVOS Remix](https://open.spotify.com/track/4kUhdlpiBjnN9fyNyQdX19) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Once Again \(FOVOS Remix\)](https://open.spotify.com/album/2JUWPyPMStjSsIx5oNHJOO) | 3:33 | 2022-12-29 |  |
 | [Out Of My Mind](https://open.spotify.com/track/2wSudk1Z9HMdPNrWnwu6mc) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Out Of My Mind](https://open.spotify.com/album/2TbwXR0NgqoHoHjorIX3s5) | 3:00 | 2022-04-14 | 2022-07-29 |
 | [P.R.O.G.](https://open.spotify.com/track/4dpNQuxo6xz66pDsvtUR4j) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [P.R.O.G.](https://open.spotify.com/album/2pYk1rLEFSKdJLd67mdIAd) | 2:58 | 2022-08-18 | 2022-09-19 |
 | [PACMAN](https://open.spotify.com/track/0V0FJBR8xhhMuirhRY15we) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [PACMAN](https://open.spotify.com/album/78smiyLXB1YjwnTSZ2U6jB) | 3:52 | 2022-06-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Our editors' picks of the best tracks from Fresh Finds Rock this year\. Cover: Gretyl Hänlyn \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,991 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,026 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 71 | [The Strangest Thing](https://open.spotify.com/track/7sumQuqsfJOuQERyfDq6FP) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Homeschool: Book II](https://open.spotify.com/album/5c7spvnif2WCfBfUArnKgz) | 4:13 |
 | 72 | [Love In This Modern World](https://open.spotify.com/track/32pUQu730pVx6N4bPSfP2N) | [The Roly Mo](https://open.spotify.com/artist/02JXI2IvA33cpqKhC4I9ZT) | [Love In This Modern World](https://open.spotify.com/album/78qR302ZP1WtPN7twfzTe3) | 2:35 |
 | 73 | [Pretty Lies](https://open.spotify.com/track/1M0L4ZEquOtj8HXnI9arlD) | [Yoza](https://open.spotify.com/artist/2kRAvabCuU4rJiV6Lw5SFT) | [Pretty Lies](https://open.spotify.com/album/0U6Nt5e2EKALbTI2REdRIC) | 2:13 |
-| 74 | [Headspace](https://open.spotify.com/track/4tY0EKwHcKv09vUMkx02vz) | [Indio Ink](https://open.spotify.com/artist/3MVjv7zc6tJHPV057Oid1T) | [Headspace](https://open.spotify.com/album/2kvx7Aa5PNKke0VyZmccio) | 3:16 |
+| 74 | [Headspace](https://open.spotify.com/track/4tY0EKwHcKv09vUMkx02vz) | [Indio Downey](https://open.spotify.com/artist/1KTM0UKpVn91mU6LlVa7Tm) | [Headspace](https://open.spotify.com/album/2kvx7Aa5PNKke0VyZmccio) | 3:16 |
 | 75 | [Over & Out](https://open.spotify.com/track/76M5por1Z1EIqZQ3K0fA1X) | [Pile of Love](https://open.spotify.com/artist/60iCPCyahHaVV4TvJBD6mL) | [Over & Out](https://open.spotify.com/album/1sikjvOUTHaQYcoPUjC3me) | 2:44 |
 | 76 | [Madame Murder](https://open.spotify.com/track/1HmmDJEt7WGyoeH1klXECt) | [Camp Blu](https://open.spotify.com/artist/6ABdWlgN5QfjDsCacBn6Nt) | [Madame Murder](https://open.spotify.com/album/0BkUR07xOGWSjhIgslJdxZ) | 3:10 |
 | 77 | [Waste My Revenge](https://open.spotify.com/track/3dUv1yfwnILmDct5WlQGiN) | [The Thing With Feathers](https://open.spotify.com/artist/3fJAImowfWb7c7e2Fy6hUF) | [Waste My Revenge \(Explicit\)](https://open.spotify.com/album/3P7gy8CWDSEJSNAs2KzSgc) | 3:42 |

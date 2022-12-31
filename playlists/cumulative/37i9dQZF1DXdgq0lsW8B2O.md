@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2\. Satz: Gewitter \(Energy Rise \- Energy Collaps\)](https://open.spotify.com/track/5rlG4Fnws22Ecu6aXctE33) | [Klaus Schulze](https://open.spotify.com/artist/3U2U4TR03ZuStsizrv0EJB) | [Irrlicht \(Remastered 2017\)](https://open.spotify.com/album/6G1eYsIgEbtpXIDFQqIYUb) | 5:38 | 2021-12-23 |  |
+| [2\. Satz: Gewitter \(Energy Rise \- Energy Collaps\)](https://open.spotify.com/track/5rlG4Fnws22Ecu6aXctE33) | [Klaus Schulze](https://open.spotify.com/artist/3U2U4TR03ZuStsizrv0EJB) | [Irrlicht \(Remastered 2017\)](https://open.spotify.com/album/6G1eYsIgEbtpXIDFQqIYUb) | 5:38 | 2021-12-23 | 2022-12-31 |
 | [2/1 \- Remastered 2004](https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 8:54 | 2021-12-23 |  |
 | [2/2 \- Remastered 2004](https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 9:38 | 2021-12-23 |  |
 | [Ahoi](https://open.spotify.com/track/13CJ6xGmEhTyMkFBQVGimJ) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik Von Harmonia](https://open.spotify.com/album/4rfEDCRHa4TR9EtjHJpWge) | 5:13 | 2021-12-23 | 2022-07-29 |

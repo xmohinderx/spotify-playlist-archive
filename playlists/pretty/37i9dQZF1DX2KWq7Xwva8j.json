@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Judeline",
-  "num_followers": 20368,
+  "num_followers": 20374,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYzMDY4MywwMDAwMDAwMDM2OGI3ODJkNjMwNzFiYTZhZjkwNWJkNGRiMDk1ZTM5",
+  "snapshot_id": "MTY3MTYzMDY4MywwMDAwMDAwMGZiOGZkYzlhMTdlYzUyYjZiMmE3ZDI1NmY4NWUwYzg4",
   "tracks": [
     {
       "added_at": "2022-12-21 13:50:37",
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/63Tbdp0N66oYehT5YNhjDP"
     },
     {
-      "added_at": "2022-12-30 01:17:35",
+      "added_at": "2022-12-31 00:50:41",
       "album": {
         "name": "Desastre de persona",
         "url": "https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo"
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-12-21 13:50:37",
       "album": {
+        "name": "Indie esperanzador",
+        "url": "https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 170285,
+      "name": "Indie esperanzador",
+      "url": "https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH"
+    },
+    {
+      "added_at": "2022-12-21 13:50:37",
+      "album": {
         "name": "No Llores (feat. Alice Wonder)",
         "url": "https://open.spotify.com/album/2NlrMp7I85XX6HdkFJmJBM"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 218119,
       "name": "No Llores (feat. Alice Wonder)",
       "url": "https://open.spotify.com/track/78LUKLAVTjqQEf7f6b0PXg"
-    },
-    {
-      "added_at": "2022-12-21 13:50:37",
-      "album": {
-        "name": "Indie esperanzador",
-        "url": "https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 170285,
-      "name": "Indie esperanzador",
-      "url": "https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH"
     },
     {
       "added_at": "2022-12-21 13:50:37",
@@ -439,6 +439,26 @@
     {
       "added_at": "2022-12-21 13:50:37",
       "album": {
+        "name": "Mientras Ando",
+        "url": "https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        },
+        {
+          "name": "Belicemanu",
+          "url": "https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Me lo kiero imaginar",
+      "url": "https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9"
+    },
+    {
+      "added_at": "2022-12-21 13:50:37",
+      "album": {
         "name": "100tas / Nunca",
         "url": "https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 141800,
       "name": "C\u00f3mo Me Voy A Olvidar",
       "url": "https://open.spotify.com/track/1ZH9wiMYy0OG6uclWuQz5l"
-    },
-    {
-      "added_at": "2022-12-21 13:50:37",
-      "album": {
-        "name": "Mientras Ando",
-        "url": "https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        },
-        {
-          "name": "Belicemanu",
-          "url": "https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Me lo kiero imaginar",
-      "url": "https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9"
     },
     {
       "added_at": "2022-12-21 13:50:37",

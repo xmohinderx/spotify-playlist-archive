@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > back to black 🖤
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,747 likes - 632 songs - 1 day 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,206 likes - 632 songs - 1 day 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

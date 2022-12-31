@@ -4,7 +4,7 @@
 
 > Screaming, crying, throwing up!  If you like this, you'll love  <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\.  Cover: Enisa
 
-380 songs - 19 hr 38 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
+381 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [24H](https://open.spotify.com/track/5cCasykCztP1ZRVxAcAGXu) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/4Z49iUB2QmUAvMPIss85vb) | 2:57 | 2022-06-03 | 2022-08-24 |
 | [911](https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:52 | 2022-08-12 | 2022-12-24 |
 | [A Driver Saved My Night](https://open.spotify.com/track/4e64oQwdgwUUADrC26DCdI) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 2:47 | 2022-05-06 | 2022-08-06 |
-| [A Hundred Years of Winter \- F9 Remix \- Edit](https://open.spotify.com/track/4DC2gOWfeLMAErZnXNWhLJ) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7), [F9](https://open.spotify.com/artist/06YCghSIoWClH6feWUOzkY) | [Platinum Collection](https://open.spotify.com/album/6RsefRivaKdO1XgeRfIUHv) | 3:40 | 2022-12-23 |  |
+| [A Hundred Years of Winter \- F9 Remix \- Edit](https://open.spotify.com/track/4DC2gOWfeLMAErZnXNWhLJ) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7), [F9](https://open.spotify.com/artist/06YCghSIoWClH6feWUOzkY) | [Platinum Collection](https://open.spotify.com/album/6RsefRivaKdO1XgeRfIUHv) | 3:40 | 2022-12-23 | 2022-12-31 |
 | [Abracadabra](https://open.spotify.com/track/6afv05TNOInabonuY1OkbU) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [Halloqveen](https://open.spotify.com/album/3g3P8dofBdBkEioDroTO2H) | 2:26 | 2022-02-15 | 2022-06-25 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-24 | 2022-12-24 |
 | [Ain't Seen Nothing Yet](https://open.spotify.com/track/1eBBnwbleqZvZjfCAbRlkn) | [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf) | [Ain't Seen Nothing Yet](https://open.spotify.com/album/3LcVbnZA14ci52Oc7yzyQH) | 2:26 | 2022-05-20 | 2022-07-09 |
@@ -111,6 +111,7 @@
 | [Don't Pray For Me](https://open.spotify.com/track/224OSwGKSUAKEH730rmLg2) | [Eline Noelia](https://open.spotify.com/artist/2SS1QCUXo3gFSnJwF8D4Vl) | [Don't Pray For Me](https://open.spotify.com/album/5HLYMV9AApImlATNqKbNlY) | 3:25 | 2022-07-31 |  |
 | [Don't Rain on My Parade](https://open.spotify.com/track/3qaMDTwoBvdrxYvwgr9bgs) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp), [New Broadway Cast of Funny Girl](https://open.spotify.com/artist/46lhCwPnvFpOdmVBfDFdB9) | [Funny Girl \(New Broadway Cast Recording\)](https://open.spotify.com/album/44jNMYeyAJstThz75DDsFW) | 2:38 | 2022-11-18 | 2022-12-03 |
 | [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 | 2022-05-27 | 2022-08-27 |
+| [Drown Us Out](https://open.spotify.com/track/7Jfz5QUZE8T6ZRrNfAO04V) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Drown Us Out](https://open.spotify.com/album/7cVVLx6eUOcKPU9dKs7axq) | 3:16 | 2022-12-30 |  |
 | [Dumb](https://open.spotify.com/track/3WDyQV8e7Jo8ADMDIUZEqT) | [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Dumb](https://open.spotify.com/album/5Xc7SZi7EuNczZ1TU0gvfd) | 2:18 | 2022-12-02 |  |
 | [Everybody Wants It](https://open.spotify.com/track/088lc5Y2AY6pQw6PG2Gm9X) | [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg), [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU) | [Everybody Wants It](https://open.spotify.com/album/2W6n5qvGnLQjSZuvIfb85T) | 3:24 | 2022-07-08 | 2022-09-03 |
 | [Everybody’s Gay](https://open.spotify.com/track/5uhaFPXTIG06S9Hb2c5tsT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:35 | 2022-07-15 | 2022-09-17 |

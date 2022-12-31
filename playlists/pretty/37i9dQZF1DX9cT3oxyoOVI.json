@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music in 2022",
-  "num_followers": 22650,
+  "num_followers": 23455,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDEyZmNmNGY3MWFhMWNlMDY5ZGJkYWFiYjFjOTZmMjUw",
+  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMGJkM2JmZWQyNWEyMmJiOWMwMjE1YWU3NTM3NjFhZmU2",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -375,6 +375,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "DMZ",
         "url": "https://open.spotify.com/album/0k7dBuSv2qW747vD7XGGEr"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 218080,
       "name": "This fffire - New Version",
       "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
     },
     {
       "added_at": "2022-11-30 13:46:00",

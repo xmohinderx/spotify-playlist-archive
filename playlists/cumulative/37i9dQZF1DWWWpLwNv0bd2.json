@@ -1326,6 +1326,24 @@
     },
     {
       "album": {
+        "name": "Michael (Tamil)",
+        "url": "https://open.spotify.com/album/2tJGXw75Kp0tIjHaQMRxmg"
+      },
+      "artists": [
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226745,
+      "name": "Nee Podhum Enaku",
+      "url": "https://open.spotify.com/track/0keacEbOTL9vbcRR0EmRYi"
+    },
+    {
+      "album": {
         "name": "Neethanadi (From \"Enna Solla Pogirai\")",
         "url": "https://open.spotify.com/album/0WtJQoUW14v8LbJNb4yIJg"
       },
@@ -1601,6 +1619,28 @@
       "duration_ms": 370769,
       "name": "Paathi Nee Paathi Naan (From \"Nitham Oru Vaanam\")",
       "url": "https://open.spotify.com/track/670iKfSnpak9BdFsrArKSB"
+    },
+    {
+      "album": {
+        "name": "Raangi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/20nZf9JmukKgEA5dlqiYED"
+      },
+      "artists": [
+        {
+          "name": "C. Sathya",
+          "url": "https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Paniththuli",
+      "url": "https://open.spotify.com/track/4kAPPLHQaAzKBjhgURUYKL"
     },
     {
       "album": {

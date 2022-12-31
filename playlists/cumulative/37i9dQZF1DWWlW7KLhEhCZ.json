@@ -726,6 +726,40 @@
     },
     {
       "album": {
+        "name": "Assalto",
+        "url": "https://open.spotify.com/album/42JnLjq3XfmvhACxRWDAON"
+      },
+      "artists": [
+        {
+          "name": "MaskOG",
+          "url": "https://open.spotify.com/artist/5gEMsCVLZaZu59v53dKfVZ"
+        },
+        {
+          "name": "OG L",
+          "url": "https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6"
+        },
+        {
+          "name": "Dardengo",
+          "url": "https://open.spotify.com/artist/0Pi1TPqChRnaXBDqKIkVxE"
+        },
+        {
+          "name": "DaFran\u00e7a",
+          "url": "https://open.spotify.com/artist/2V4G3cFRwJpGpO27YJQ4cK"
+        },
+        {
+          "name": "Sub 741",
+          "url": "https://open.spotify.com/artist/19yQBVjpaxRZNzfrVch5Hr"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147764,
+      "name": "Assalto",
+      "url": "https://open.spotify.com/track/1pcyFDBn5BY653heqtLXqw"
+    },
+    {
+      "album": {
         "name": "Astuto",
         "url": "https://open.spotify.com/album/4zeQkW65jvnmsfEDqzyTQF"
       },
@@ -749,7 +783,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 161653,
       "name": "Astuto",
       "url": "https://open.spotify.com/track/63sPP1OdWygy1B5cpLyKvA"
@@ -1384,6 +1418,28 @@
     },
     {
       "album": {
+        "name": "Bolando Planos",
+        "url": "https://open.spotify.com/album/2pJ1qLw7bHRcDYfub815Nw"
+      },
+      "artists": [
+        {
+          "name": "Vinta",
+          "url": "https://open.spotify.com/artist/5xcDWx5ijKmZyxlgbtcK0C"
+        },
+        {
+          "name": "Dj Nando",
+          "url": "https://open.spotify.com/artist/6zLxMmshd50T4lPewpA78W"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126724,
+      "name": "Bolando Planos",
+      "url": "https://open.spotify.com/track/0fsVijIFub7LD7D0xTSidg"
+    },
+    {
+      "album": {
         "name": "Borrachinha",
         "url": "https://open.spotify.com/album/6kSDT5F9LfEoQ431GWC9Jc"
       },
@@ -1905,7 +1961,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 223302,
       "name": "Cart\u00e3o Black",
       "url": "https://open.spotify.com/track/3Y6Xp7qXQdCbJHeJYjRbES"
@@ -2031,7 +2087,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 158117,
       "name": "Cheia de Marra",
       "url": "https://open.spotify.com/track/5X4hH95ldp2660RESHzIao"
@@ -2161,7 +2217,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 209032,
       "name": "Contagem",
       "url": "https://open.spotify.com/track/1yGKbakTOI42EMvvWVtqQH"
@@ -2405,6 +2461,32 @@
       "duration_ms": 176302,
       "name": "Culpa",
       "url": "https://open.spotify.com/track/1FmcDuK4BmnUZ0rXDFsJbX"
+    },
+    {
+      "album": {
+        "name": "C\u00e2mera Lenta",
+        "url": "https://open.spotify.com/album/5Oy4G1EdIll43luIaoP15U"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Capellary",
+          "url": "https://open.spotify.com/artist/2Gv5fOKrK4BnAhVZu4FfFN"
+        },
+        {
+          "name": "WENDELHIT",
+          "url": "https://open.spotify.com/artist/48T7hXvFu12hXxvbdhPSnw"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "C\u00e2mera Lenta",
+      "url": "https://open.spotify.com/track/444bswRyJmyDODddD2ZZcr"
     },
     {
       "album": {
@@ -2851,6 +2933,28 @@
       "duration_ms": 274054,
       "name": "Detectou",
       "url": "https://open.spotify.com/track/6AWiKOTGiyJmpNgHXlNLwX"
+    },
+    {
+      "album": {
+        "name": "Detroit Freestyle",
+        "url": "https://open.spotify.com/album/2neZ2JGOj5ZZva0CiJHJsn"
+      },
+      "artists": [
+        {
+          "name": "Ventu075",
+          "url": "https://open.spotify.com/artist/0CMaseo8fq9V9CKn0h2zqf"
+        },
+        {
+          "name": "DJ Wkilla",
+          "url": "https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104004,
+      "name": "Detroit Freestyle",
+      "url": "https://open.spotify.com/track/3Nb5qMVDMXhQcu1Xaf8142"
     },
     {
       "album": {
@@ -5125,7 +5229,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 192000,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/2PrmOi0KeJrCCcW7FaR2zd"
@@ -5261,7 +5365,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 114784,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/4TrKCg0oc48gSXKJLnblmK"
@@ -5405,6 +5509,28 @@
       "duration_ms": 155980,
       "name": "Lazer",
       "url": "https://open.spotify.com/track/3FGWV83KRKa0rBESLDXtDp"
+    },
+    {
+      "album": {
+        "name": "Lean",
+        "url": "https://open.spotify.com/album/2fCs6TpalfYboKjcK6bcWY"
+      },
+      "artists": [
+        {
+          "name": "Riketa",
+          "url": "https://open.spotify.com/artist/5UIGzgzyF7nG4TByzqq8Ki"
+        },
+        {
+          "name": "Almir delas",
+          "url": "https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132187,
+      "name": "Lean",
+      "url": "https://open.spotify.com/track/7u2PxvQ9n3KRxsbM08cdot"
     },
     {
       "album": {
@@ -7797,7 +7923,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 166285,
       "name": "PIQUENIQUE",
       "url": "https://open.spotify.com/track/3BifZAlWNIT3vtMZQJ6zSe"
@@ -9292,6 +9418,32 @@
     },
     {
       "album": {
+        "name": "Skittles",
+        "url": "https://open.spotify.com/album/1Ys6Najm94MKEYDsFzdtqh"
+      },
+      "artists": [
+        {
+          "name": "COTA",
+          "url": "https://open.spotify.com/artist/7u1IM9x4Ph8OzXjaWv71LP"
+        },
+        {
+          "name": "Cami Sayuri",
+          "url": "https://open.spotify.com/artist/1b5emuoCTxMJ5gCvnUz8iQ"
+        },
+        {
+          "name": "Gusta Rhymes",
+          "url": "https://open.spotify.com/artist/1qcSFxuqXPGVwYkKqgOzgA"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158762,
+      "name": "Skittles",
+      "url": "https://open.spotify.com/track/6mZsjp28pweapZaI10oLYW"
+    },
+    {
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/3nlUeA6lVyITHomNs29RLa"
       },
@@ -9329,6 +9481,24 @@
       "duration_ms": 200191,
       "name": "Sobe Desce",
       "url": "https://open.spotify.com/track/4YgiUcXdg5QQlabdnGgpQe"
+    },
+    {
+      "album": {
+        "name": "SOBRENATURAL",
+        "url": "https://open.spotify.com/album/2CJ5Vpgc8ibMiu0gchg4uL"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "SOBRENATURAL",
+      "url": "https://open.spotify.com/track/3QncTbkiAhGomFf0KHaqlf"
     },
     {
       "album": {

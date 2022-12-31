@@ -3429,7 +3429,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 149500,
       "name": "Grand - TroyBoi Remix",
       "url": "https://open.spotify.com/track/4CzvdvPAiMCyxQunCKtQHC"
@@ -5441,6 +5441,28 @@
       "duration_ms": 222957,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/2duyHVCqcaX2FSwjzuZijF"
+    },
+    {
+      "album": {
+        "name": "Made You Look (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/3LsHvwXaJGjAyAwWawRPZ2"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Made You Look - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/5ZU8mWLqPz8KqBe6bXqrPe"
     },
     {
       "album": {

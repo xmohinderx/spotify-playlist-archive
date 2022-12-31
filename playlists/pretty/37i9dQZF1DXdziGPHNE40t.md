@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,326 likes - 185 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,529 likes - 185 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 184 | [For All We Know](https://open.spotify.com/track/6GE5NlqY4yH8IRNR9lI713) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [For All We Know](https://open.spotify.com/album/5a4E0wrOuPoGYqTSDEktLQ) | 4:24 |
 | 185 | [I Can’t Get Started](https://open.spotify.com/track/3lHeTorlEnYb3icowpiDiR) | [Elton Willis Trio](https://open.spotify.com/artist/3dnm59R1zLsrNl8wXA9Aui) | [I Can’t Get Started](https://open.spotify.com/album/4biFCrWFx9nlHAauPuKUGv) | 4:24 |
 
-Snapshot ID: `MTY3MTc1MDAwMCwwMDAwMDAwMGY3YjE4ZTgyNDEyZjNhNmQ5NjEwMDU0Y2NiMDhiYWEx`
+Snapshot ID: `MTY3MjM4NzE1OSwwMDAwMDAwMDlkZWNkZjcwZGRhOTJmOWE2MTVjNWVmZmUxOTQ0NDMz`

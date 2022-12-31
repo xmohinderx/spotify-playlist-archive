@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 13259,
+  "num_followers": 13286,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEzMjQ4MSwwMDAwMDAwMDY1ODA5MmQ5YmEyOGI5NTA5YzkxZDE1YzFmOTRkZjA1",
+  "snapshot_id": "MTY2NTEzMjQ4MSwwMDAwMDAwMGZhZmNlMjEzNzI5MDgzMzk4MTkzOTE1NzBmYWI0ZWQ2",
   "tracks": [
     {
       "added_at": "2022-10-07 08:48:01",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
-        "name": "Monterey Concerts",
-        "url": "https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 605400,
-      "name": "Walkin' With Wally - live",
-      "url": "https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ"
-    },
-    {
-      "added_at": "2022-10-07 08:48:01",
-      "album": {
         "name": "Gettin' Together!",
         "url": "https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 416866,
       "name": "Gettin' Together [Original Take]",
       "url": "https://open.spotify.com/track/78kfNNgqKksRDd9Qr6usSX"
+    },
+    {
+      "added_at": "2022-10-07 08:48:01",
+      "album": {
+        "name": "Monterey Concerts",
+        "url": "https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 605400,
+      "name": "Walkin' With Wally - live",
+      "url": "https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ"
     },
     {
       "added_at": "2022-10-07 08:48:01",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
-        "name": "Shorty Rodgers Courts The Count",
-        "url": "https://open.spotify.com/album/79crFBHL0AC42MEgShce76"
-      },
-      "artists": [
-        {
-          "name": "Shorty Rogers",
-          "url": "https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN"
-        }
-      ],
-      "duration_ms": 262967,
-      "name": "Swingin' The Blues",
-      "url": "https://open.spotify.com/track/316FxiYEDzyHI4OMBuXC8l"
-    },
-    {
-      "added_at": "2022-10-07 08:48:01",
-      "album": {
         "name": "Stan Getz At The Shrine",
         "url": "https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 523426,
       "name": "We'll Be Together Again",
       "url": "https://open.spotify.com/track/3fysSRqg0huNQnjCUS0zo3"
+    },
+    {
+      "added_at": "2022-10-07 08:48:01",
+      "album": {
+        "name": "East Coast Jazz, Vol. 1 (Remastered 2013)",
+        "url": "https://open.spotify.com/album/3Y8mMZZSCCC5S41t0URMnZ"
+      },
+      "artists": [
+        {
+          "name": "Bobby Scott",
+          "url": "https://open.spotify.com/artist/43B662mnCJQuYtIRACBHKD"
+        }
+      ],
+      "duration_ms": 227287,
+      "name": "Moon Tan",
+      "url": "https://open.spotify.com/track/3vJ8Cik37ahoPCs1WyJEfh"
     }
   ],
   "unique_name": "West Coast Jazz",

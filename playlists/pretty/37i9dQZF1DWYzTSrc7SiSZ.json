@@ -1,13 +1,29 @@
 {
   "description": "Get the chill vibes going and flowing. Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 641151,
+  "num_followers": 641223,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg3ODM0OCwwMDAwMDAwMGVmNTMxZjlmYWUwNDNjOWY0MDc0YTQyOWY2MDFlMTQ4",
+  "snapshot_id": "MTY3MjQyOTc0MywwMDAwMDAwMGY5ZGExM2RjYzQzODBjOThjMTVkZTFmODZlY2NjOTg3",
   "tracks": [
+    {
+      "added_at": "2022-12-30 19:19:22",
+      "album": {
+        "name": "pa quererte",
+        "url": "https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "pa quererte",
+      "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
+    },
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
@@ -23,38 +39,6 @@
       "duration_ms": 160421,
       "name": "Baila Pa Mi",
       "url": "https://open.spotify.com/track/2GS9AEoOjgbztBfIbCJ2mr"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
-        "name": "Paralizado",
-        "url": "https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Paralizado",
-      "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "D\u00f3nde est\u00e1s?",
-      "url": "https://open.spotify.com/track/7co0Cq8pS4hCTDydkMGHus"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -147,6 +131,22 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "D\u00f3nde est\u00e1s?",
+      "url": "https://open.spotify.com/track/7co0Cq8pS4hCTDydkMGHus"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9"
       },
@@ -191,6 +191,26 @@
       "duration_ms": 179393,
       "name": "Plegarias - Ac\u00fastico Premios Gardel 2020",
       "url": "https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC"
+    },
+    {
+      "added_at": "2022-12-30 18:26:19",
+      "album": {
+        "name": "Chimbo",
+        "url": "https://open.spotify.com/album/5XRQrTcMUREddc69cWGtzn"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 182089,
+      "name": "Chimbo",
+      "url": "https://open.spotify.com/track/2MRbBjUXWrouk36b55vipO"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -243,6 +263,22 @@
       "duration_ms": 147761,
       "name": "ojitos caramelo",
       "url": "https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF"
+    },
+    {
+      "added_at": "2022-12-30 19:49:03",
+      "album": {
+        "name": "Fui Yo",
+        "url": "https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "duration_ms": 184827,
+      "name": "Fui Yo",
+      "url": "https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -519,22 +555,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Cafeliko",
-        "url": "https://open.spotify.com/album/02qmYpNbxlf8EFAzHQTK4x"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 126984,
-      "name": "Cafeliko",
-      "url": "https://open.spotify.com/track/0mzvDQW1IgLuXAwD5YMN6i"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "Wu Wu",
         "url": "https://open.spotify.com/album/7aDQ1gXdQHozrUv1EAkdj0"
       },
@@ -567,6 +587,22 @@
       "duration_ms": 185800,
       "name": "El D\u00eda Que Me Odies",
       "url": "https://open.spotify.com/track/1IHNLb1RVACKjuYMXUtMo8"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "Cafeliko",
+        "url": "https://open.spotify.com/album/02qmYpNbxlf8EFAzHQTK4x"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 126984,
+      "name": "Cafeliko",
+      "url": "https://open.spotify.com/track/0mzvDQW1IgLuXAwD5YMN6i"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -635,18 +671,18 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Soy capaz",
-        "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
+        "name": "Paralizado",
+        "url": "https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 205452,
-      "name": "Soy capaz",
-      "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
+      "duration_ms": 187933,
+      "name": "Paralizado",
+      "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -663,6 +699,22 @@
       "duration_ms": 199280,
       "name": "DOLORES",
       "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "Soy capaz",
+        "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 205452,
+      "name": "Soy capaz",
+      "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -715,22 +767,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Pajaritos",
-        "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 144300,
-      "name": "Pajaritos",
-      "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "Handful of Water",
         "url": "https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N"
       },
@@ -743,6 +779,22 @@
       "duration_ms": 151746,
       "name": "Handful of Water",
       "url": "https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "Pajaritos",
+        "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 144300,
+      "name": "Pajaritos",
+      "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -839,6 +891,38 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
+        "name": "Diecis\u00e9is",
+        "url": "https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ"
+      },
+      "artists": [
+        {
+          "name": "Tiare",
+          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
+        }
+      ],
+      "duration_ms": 212452,
+      "name": "Cardenalito",
+      "url": "https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/2fAyJFdEdonWHxZBEBhqHl"
       },
@@ -879,38 +963,6 @@
       "duration_ms": 144255,
       "name": "cuarto pa' las doce",
       "url": "https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
-        "name": "Diecis\u00e9is",
-        "url": "https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ"
-      },
-      "artists": [
-        {
-          "name": "Tiare",
-          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
-        }
-      ],
-      "duration_ms": 212452,
-      "name": "Cardenalito",
-      "url": "https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1139,6 +1191,22 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
         "name": "Refugio",
         "url": "https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc"
       },
@@ -1171,22 +1239,6 @@
       "duration_ms": 174000,
       "name": "Guitarra",
       "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
-        }
-      ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1487,22 +1539,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "GOTEO",
-        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 230540,
-      "name": "MI TODO",
-      "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "Ll\u00e9vate",
         "url": "https://open.spotify.com/album/50o7453bYYgKKkbr4CreN3"
       },
@@ -1519,6 +1555,38 @@
       "duration_ms": 170487,
       "name": "Ll\u00e9vate",
       "url": "https://open.spotify.com/track/6cpGWvX109d5I9Cx13sPMy"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "GOTEO",
+        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 230540,
+      "name": "MI TODO",
+      "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
+        "url": "https://open.spotify.com/album/6mLHr5VJvRSzQIHCCH0FIh"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
+      "url": "https://open.spotify.com/track/2toa7OfO590nOAZxWMO3cB"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1575,22 +1643,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "No Te Pude Soltar",
-        "url": "https://open.spotify.com/album/4YJJwMucL3nteBymNw1cc4"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 164683,
-      "name": "No Te Pude Soltar",
-      "url": "https://open.spotify.com/track/6b8FXDatwJCnc5jZ4RfMz8"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "Iridiscente",
         "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
       },
@@ -1603,6 +1655,22 @@
       "duration_ms": 180320,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "No Te Pude Soltar",
+        "url": "https://open.spotify.com/album/4YJJwMucL3nteBymNw1cc4"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 164683,
+      "name": "No Te Pude Soltar",
+      "url": "https://open.spotify.com/track/6b8FXDatwJCnc5jZ4RfMz8"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1623,22 +1691,6 @@
       "duration_ms": 181443,
       "name": "Promesa",
       "url": "https://open.spotify.com/track/7xEN9p3spnvGC891587UOO"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
-        "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
-        "url": "https://open.spotify.com/album/6mLHr5VJvRSzQIHCCH0FIh"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
-      "url": "https://open.spotify.com/track/2toa7OfO590nOAZxWMO3cB"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1695,6 +1747,22 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
+        "name": "Reconciliados",
+        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
+      },
+      "artists": [
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Reconciliados",
+      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
         "name": "Despecho Nuevo",
         "url": "https://open.spotify.com/album/0rbz1GmxsruvzYckQhcK73"
       },
@@ -1711,22 +1779,6 @@
       "duration_ms": 217638,
       "name": "Despecho Nuevo",
       "url": "https://open.spotify.com/track/1bjbn61QLOt2sf96LE55Ng"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
-        "name": "Reconciliados",
-        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
-      },
-      "artists": [
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Reconciliados",
-      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1815,22 +1867,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Memento",
-        "url": "https://open.spotify.com/album/0uhQr2Rh3VkMpjx8CF8pbb"
-      },
-      "artists": [
-        {
-          "name": "Jona Camacho",
-          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
-        }
-      ],
-      "duration_ms": 174259,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/0rmqnho8rZSEJCqeBDPMmT"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "La Espa\u00f1ola",
         "url": "https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64"
       },
@@ -1843,6 +1879,22 @@
       "duration_ms": 170743,
       "name": "Me Quiere No Me Quiere",
       "url": "https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "Memento",
+        "url": "https://open.spotify.com/album/0uhQr2Rh3VkMpjx8CF8pbb"
+      },
+      "artists": [
+        {
+          "name": "Jona Camacho",
+          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
+        }
+      ],
+      "duration_ms": 174259,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/0rmqnho8rZSEJCqeBDPMmT"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1879,22 +1931,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Vuelvo a M\u00ed",
-        "url": "https://open.spotify.com/album/6AL35H5gM4P2y6774XmQ5Y"
-      },
-      "artists": [
-        {
-          "name": "Nana Mendoza",
-          "url": "https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA"
-        }
-      ],
-      "duration_ms": 289677,
-      "name": "Volar",
-      "url": "https://open.spotify.com/track/6JsI9FfeTLUFsK08WitciR"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "Muy Muy Chico",
         "url": "https://open.spotify.com/album/5WtH2m7dznijnLcQokkdGh"
       },
@@ -1907,6 +1943,22 @@
       "duration_ms": 132567,
       "name": "Muy Muy Chico",
       "url": "https://open.spotify.com/track/2UjxHjT2OQEffK5RsN4DSK"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "Vuelvo a M\u00ed",
+        "url": "https://open.spotify.com/album/6AL35H5gM4P2y6774XmQ5Y"
+      },
+      "artists": [
+        {
+          "name": "Nana Mendoza",
+          "url": "https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA"
+        }
+      ],
+      "duration_ms": 289677,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/6JsI9FfeTLUFsK08WitciR"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -2015,6 +2067,22 @@
       "duration_ms": 210007,
       "name": "Desnudate",
       "url": "https://open.spotify.com/track/4D5StAEmonAUjt9zYl2Wgf"
+    },
+    {
+      "added_at": "2022-12-30 18:59:12",
+      "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/3Q7g2iBYVBDOghZcNOuVK0"
+      },
+      "artists": [
+        {
+          "name": "Marval",
+          "url": "https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM"
+        }
+      ],
+      "duration_ms": 238021,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/6o1lbf1Y5zdZfhhdloOgKZ"
     },
     {
       "added_at": "2022-10-27 13:45:48",

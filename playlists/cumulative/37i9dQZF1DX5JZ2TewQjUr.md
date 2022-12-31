@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Billy Choi
 
-359 songs - 20 hr 22 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
+361 songs - 20 hr 28 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [SUNSET OT](https://open.spotify.com/track/0vpgRYCvQ4z7ZzCHRXyLKL) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [SUNSET OT](https://open.spotify.com/album/0B5stl19RIi6oIeWoiSidx) | 3:26 | 2022-05-26 | 2022-06-10 |
 | [Sway Away](https://open.spotify.com/track/2lZlk0IZvi3ywkOyEDECyM) | [Tomii Chan](https://open.spotify.com/artist/3agBVXHUmEfqP2IHLa9y14) | [Grow](https://open.spotify.com/album/1et4LPyDPAAdlHhyfydzDH) | 3:26 | 2022-05-26 | 2022-09-09 |
 | [Sweetest Bubble Love](https://open.spotify.com/track/1leFRbTWjH5neWNUuOSdc3) | [Thewzy](https://open.spotify.com/artist/4RU4k4WMO5OtU6zsHHM7Co) | [Feelings I Wish I Told You](https://open.spotify.com/album/5khW3QpCxtyAeVfMa1vNRD) | 3:37 | 2022-12-29 |  |
+| [TAITAI \(太太\)](https://open.spotify.com/track/7Gt2XwekPAYXZW79aU835U) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [TAITAI \(太太\)](https://open.spotify.com/album/2TWcKtOpTtyUOjzK9K98EQ) | 3:18 | 2022-12-29 |  |
 | [Take Me Back](https://open.spotify.com/track/1ezPtg7OOklRD4b3KY9osM) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [Take Me Back](https://open.spotify.com/album/10YPFcXMzBP9qdC8jEOcpT) | 3:55 | 2022-06-02 | 2022-09-09 |
 | [Talking to You](https://open.spotify.com/track/5zxPEIu4SAsmYYaygyxzjf) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [Talking to You](https://open.spotify.com/album/0HvlM2fAW2M6nxFZ7HWKqD) | 3:19 | 2022-07-28 | 2022-11-04 |
 | [That's ok](https://open.spotify.com/track/3RINdYUikBUKApA7U0uiIU) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [Purple Heart](https://open.spotify.com/album/27FcEUK2T1DWv0IYOzW3JW) | 3:14 | 2022-05-26 | 2022-07-29 |
@@ -204,6 +205,7 @@
 | [the world is coming to an end](https://open.spotify.com/track/04u0czCxTt1vRve8X8IuKb) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [the world is coming to an end](https://open.spotify.com/album/3YIpYfQ6CbfJT0eUunUwMP) | 3:55 | 2022-06-24 | 2022-09-09 |
 | [The World Kills a Girl](https://open.spotify.com/track/2josvKor08XNPnvlQNONeq) | [Gordon Ho](https://open.spotify.com/artist/1k0HqYv6UVaBu3spRZcSTn) | [To the Passed, Passing, and Yet to Pass](https://open.spotify.com/album/1qrItkwGmtom9t4NacrNwg) | 4:00 | 2022-08-11 | 2022-11-04 |
 | [This Is Our Time](https://open.spotify.com/track/53gylyBSKjTAlYQx2OBMol) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [This Is Our Time](https://open.spotify.com/album/43glLAVF68qBfkxbGn6LRZ) | 3:12 | 2022-09-08 |  |
+| [Time Travel To The Past](https://open.spotify.com/track/4Zrh9tdKD89hS4vBtQynn6) | [Nj Ho](https://open.spotify.com/artist/25GIEfY5XJejZgXcfvtj7m) | [Time Travel To The Past](https://open.spotify.com/album/3EYe76GzcTuIlPIujo7WaE) | 2:19 | 2022-12-29 |  |
 | [TOLD U DAT](https://open.spotify.com/track/0CZ8sssUaH57ZOuXl7fhnP) | [Cho Lewis](https://open.spotify.com/artist/5BaaV8FQjtT55m4zS2FdNa), [DatBettie](https://open.spotify.com/artist/6ISxX5nIpeCWvvkxUihgOB) | [TOLD U DAT](https://open.spotify.com/album/5I874yTOuHrDLcKz8u4PZl) | 1:18 | 2022-12-29 |  |
 | [Tomorrow Night](https://open.spotify.com/track/0wjwkMnKqV1DpoeWcXOgi5) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [FM 74.2](https://open.spotify.com/album/14adeW4GHg9BuX4XhtkbVC) | 3:50 | 2022-10-13 |  |
 | [TRIPPIN](https://open.spotify.com/track/5Zl1z10YibqcrDQhAeAYKw) | [MADBOII](https://open.spotify.com/artist/0s2AsEGVMp2h3Zbq9F7SrQ) | [TRIPPIN](https://open.spotify.com/album/7vNjpeuMAm22fVx44bqGZC) | 2:42 | 2022-05-26 | 2022-06-10 |

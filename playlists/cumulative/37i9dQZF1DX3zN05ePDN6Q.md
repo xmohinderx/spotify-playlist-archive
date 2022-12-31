@@ -4,7 +4,7 @@
 
 > Tem rap nacional e muito boom bap na área\. Foto: Uterço
 
-236 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/6ZXp32ynoQutshWQJNTjS2)
+237 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/6ZXp32ynoQutshWQJNTjS2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Flow Toledo](https://open.spotify.com/track/1mg6nNSLiAdxQpFbPyuAHP) | [DTPK Crew](https://open.spotify.com/artist/7uypB2Jna7hO5DjXvty0v8), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H), [Dj Mic](https://open.spotify.com/artist/037328J8EatrGSSDZpGABw) | [Flow Toledo](https://open.spotify.com/album/2LdvHmyiKdBzQgrZk6Yc1v) | 2:46 | 2022-09-30 | 2022-10-08 |
 | [Fluxo](https://open.spotify.com/track/0Aa21a0sLo6te4TmE3FTpX) | [Zilladxg](https://open.spotify.com/artist/1zMi1PM04eQnew4H8wQ8nV) | [A Melhor Hora É Agora](https://open.spotify.com/album/4TNlLlo6EKvnhrqRY66a47) | 2:24 | 2022-03-18 | 2022-05-14 |
 | [Fod4ss3!](https://open.spotify.com/track/4MrQVwBNenqev0z6jim2P6) | [Mc Kautry](https://open.spotify.com/artist/25YDuXAL1J5Y8mxN0ZR5gM) | [Fod4ss3!](https://open.spotify.com/album/0CzhkGrG6SWRbF8Dg3EeMk) | 3:51 | 2022-10-28 |  |
+| [Foda\-Se](https://open.spotify.com/track/6NLoLuQ8b7eL2fKmQDhLsr) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Foda\-Se](https://open.spotify.com/album/7G77Ar8JpUC8tx86N9ccJF) | 2:03 | 2022-12-30 |  |
 | [Fogo](https://open.spotify.com/track/4gJyFa0TVQAJSl5unvL50x) | [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX), [Nego Max](https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8), [Dropallien](https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD) | [Fogo](https://open.spotify.com/album/1JypFrtNwLcMEl2Tq1jZ9H) | 3:43 | 2022-07-08 | 2022-08-06 |
 | [Foi Mal Aí](https://open.spotify.com/track/5OoHKyFa8khX9XCeI8aGkt) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Não Me Leve a Mal](https://open.spotify.com/album/2YUDMOSRfyydUqGykgTeF1) | 2:54 | 2022-03-18 | 2022-04-09 |
 | [Forja](https://open.spotify.com/track/2mzctyCwTS7CKXC3RP4QXf) | [LetoDie](https://open.spotify.com/artist/2JFpfD9p2vTjRCH8XLeO0l) | [Forja](https://open.spotify.com/album/0sI4CDAdcaGF1lSvyTQwyd) | 2:58 | 2022-05-27 | 2022-10-15 |
@@ -125,7 +126,7 @@
 | [Medicina Viva](https://open.spotify.com/track/3aMfjvMIGd6rBJMnfCRRJA) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1), [Vitor Sagaz](https://open.spotify.com/artist/5863y51Ta6yMVMzDueOei3) | [Medicina Viva](https://open.spotify.com/album/4pES8tMgYutLCA1YlQnvjZ) | 3:20 | 2022-11-18 | 2022-12-03 |
 | [Melhor Que Ontem](https://open.spotify.com/track/5C1X9UxsnagxubGSrZ1zMH) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Melhor Que Ontem](https://open.spotify.com/album/3z75GAmcVXisxqwnQod4EM) | 3:19 | 2022-08-05 |  |
 | [Melô do Caiçara \- Echorec Face Remix](https://open.spotify.com/track/0gFBeGJXLYO6dI1AJN49pf) | [Radiola Santa Rosa](https://open.spotify.com/artist/54X71c7GFBwZBjs9Vpn3kT), [Marco Nalesso](https://open.spotify.com/artist/2jf7oikxl4waFeQM6Ioy8T), [Echorec Face](https://open.spotify.com/artist/5OLf7uWDivetbilF2FldVg) | [Melô do Caiçara](https://open.spotify.com/album/1OGCB8h81ZV4CZPYP6JjTs) | 3:15 | 2022-04-08 | 2022-04-29 |
-| [Mesma Confecção](https://open.spotify.com/track/7tc73pstdmItIt7ZpNyUDc) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Mesma Confecção](https://open.spotify.com/album/2Ljbm8oTvrklyWsGRfdVXa) | 3:54 | 2022-12-16 |  |
+| [Mesma Confecção](https://open.spotify.com/track/7tc73pstdmItIt7ZpNyUDc) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Mesma Confecção](https://open.spotify.com/album/2Ljbm8oTvrklyWsGRfdVXa) | 3:54 | 2022-12-16 | 2022-12-31 |
 | [Mesmo Que Demore](https://open.spotify.com/track/6o3Zp5Khl1zGD2pd8ba5Xf) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Mesmo Que Demore](https://open.spotify.com/album/6XG1oTFNh8dbvAFniA6ll1) | 2:28 | 2022-05-27 | 2022-07-09 |
 | [Minha História](https://open.spotify.com/track/5sBkSctwO5z0rQdKfWrbeH) | [Tivityn](https://open.spotify.com/artist/17eBIeZfCeaETi2IgqQlxE) | [Único](https://open.spotify.com/album/3NuYLeZjzwlYr0t9Y9L8zH) | 3:25 | 2022-03-18 | 2022-06-04 |
 | [Monólogo](https://open.spotify.com/track/12gq7G3vaOaqmgenVBkl9O) | [Cassol](https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu) | [Monólogo](https://open.spotify.com/album/1F94TfsNYPARsdjJB5zCFW) | 5:15 | 2022-04-15 | 2022-08-27 |

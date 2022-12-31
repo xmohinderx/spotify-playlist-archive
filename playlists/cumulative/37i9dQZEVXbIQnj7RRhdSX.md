@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,064 songs - 2 day 6 hr 48 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
+1,065 songs - 2 day 6 hr 52 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [CRUDELIA \- I nervi](https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:50 | 2022-09-26 | 2022-12-25 |
 | [CRY LATER \(feat\. Sfera Ebbasta & Luchè\)](https://open.spotify.com/track/6rY8VQS4hEgdG3OqKd9lBJ) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [VIRUS](https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU) | 2:54 | 2022-01-15 | 2022-02-04 |
 | [CUORE DOLLARI \(64 Bars\)](https://open.spotify.com/track/2V7EiDaryzD6FP9q9mnJfb) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [Red Bull 64 Bars, The Album](https://open.spotify.com/album/3W0Np6mQAbBH3IpuZJj5po) | 2:22 | 2021-05-30 | 2021-06-04 |
-| [Cup](https://open.spotify.com/track/5tZLWsGOFHRBxZ96ZRe67z) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:47 | 2022-11-26 |  |
+| [Cup](https://open.spotify.com/track/5tZLWsGOFHRBxZ96ZRe67z) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:47 | 2022-11-26 | 2022-12-31 |
 | [D10S \(feat\. Elisa\)](https://open.spotify.com/track/2szh2UCdEhLQjXLjDG8DQB) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 3:49 | 2022-04-02 | 2022-04-06 |
 | [Damerino \(feat\. Taxi B\)](https://open.spotify.com/track/6cijWtR2c5UzbRqZ9X3mrw) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [OCEANO PARADISO](https://open.spotify.com/album/2uopesg6vZ52owGKMTBl9m) | 2:21 | 2021-10-17 | 2021-10-18 |
 | [Dancing On Dangerous \(feat\. Sofía Reyes\)](https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Dancing On Dangerous \(feat\. Sofía Reyes\)](https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z) | 2:04 | 2021-06-16 | 2021-08-29 |
@@ -635,6 +635,7 @@
 | [Millevoci](https://open.spotify.com/track/2Jn6Aiv9uOkNcPa1kHNCpc) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Millevoci](https://open.spotify.com/album/4azqvj4Ltqi9InIvlXMLDY) | 3:02 | 2021-10-27 | 2021-11-14 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-18 |  |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-12-25 | 2022-12-28 |
+| [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-12-30 |  |
 | [Mohicani \(feat\. Baby K\)](https://open.spotify.com/track/5Wml9i3afqwcm8UNDD1GXw) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6), [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Mohicani \(feat\. Baby K\)](https://open.spotify.com/album/0pLyIpDKGpjC7SdWoiPYcP) | 2:51 | 2021-06-13 | 2021-09-22 |
 | [molecole \(interlude\)](https://open.spotify.com/track/7vsofh7bdDeL0n0lodFiCi) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:05 | 2022-10-01 | 2022-10-17 |
 | [MOLOTOV](https://open.spotify.com/track/6SQmh0L5icrThwGDTeLkg1) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:40 | 2022-04-09 |  |

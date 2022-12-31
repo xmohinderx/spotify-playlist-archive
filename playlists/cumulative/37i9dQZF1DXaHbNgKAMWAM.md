@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-205 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
+206 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [I love you more than me](https://open.spotify.com/track/44TKhC1koCNrslLPmGKu4A) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [We Are Family](https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq) | 4:11 | 2022-05-11 | 2022-07-15 |
 | [I LUV U \(with Mirani\)](https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [I LUV U \(with Mirani\)](https://open.spotify.com/album/0qEIU0KfIbHijGpo2GkaG1) | 3:55 | 2022-07-08 |  |
 | [I only see you in my eyes \(Feat\. Dearming\)](https://open.spotify.com/track/4hKo4JNEFy9jdhTkICIoM7) | [Espresso](https://open.spotify.com/artist/6MqxpdnAX09GQsbhc0bvrZ), [Dearming](https://open.spotify.com/artist/1Zs3RqrUagA8l69VbL5aJx) | [I only see you in my eyes \(Feat\. Dearming\)](https://open.spotify.com/album/71nlsWdYk92IePIZcKF7M3) | 3:01 | 2022-05-11 | 2022-07-28 |
-| [I Will Be By Your Side](https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Korean Odyssey \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP) | 4:04 | 2022-05-11 |  |
+| [I Will Be By Your Side](https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Korean Odyssey \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP) | 4:04 | 2022-05-11 | 2022-12-31 |
 | [I'll be by your side, you'll be by my side \(Feat\. Morning Coffee\)](https://open.spotify.com/track/7ihmKfltRTBX5Ol48V3XEX) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [morning coffee](https://open.spotify.com/artist/0LHfA50RG8DSCk4divJea4) | [I'll be by your side, you'll be by my side](https://open.spotify.com/album/0qm1jTUO7eC2Qg4gNiCPoT) | 3:21 | 2022-06-09 | 2022-07-28 |
 | [I'm drunk on you on a summer night](https://open.spotify.com/track/64F34hLrNjNeNPuS9hKQjL) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [I'm drunk on you on a summer night](https://open.spotify.com/album/1pyBzHIa2PT0Ff9pjQyRpC) | 3:32 | 2022-07-08 | 2022-07-16 |
 | [I'm In Love](https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I'm In Love](https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF) | 3:17 | 2022-05-11 |  |
@@ -128,6 +128,7 @@
 | [One Fine Summer Day!](https://open.spotify.com/track/7x2htaI0yOv0q0OBAsJD8n) | [Dazzling Jihye](https://open.spotify.com/artist/5T6o5MUD02GoAhKjiJgCgB) | [One Fine Summer Day!](https://open.spotify.com/album/2eYcMwJAHkQqeAjMoljLld) | 4:08 | 2022-06-09 | 2022-06-13 |
 | [Only You](https://open.spotify.com/track/74KMxlbgchM6CxjMEFwKs0) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [Only You](https://open.spotify.com/album/6OAjhnf8LCuUvUElAdEf6w) | 3:10 | 2022-06-20 | 2022-07-01 |
 | [ONLY YOU](https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 2:57 | 2022-05-11 |  |
+| [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 | 2022-12-26 |  |
 | [Our Cinema \#1 \- Someone Special](https://open.spotify.com/track/5ZDyD7L5khCYry5X8JAb9s) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Cinema \#1 \- Someone Special](https://open.spotify.com/album/1xn2D8pK6x33cOM8jXKlzS) | 3:21 | 2022-05-11 | 2022-07-21 |
 | [Our Love is Great](https://open.spotify.com/track/6dO3kF1ZoKmybXyjSL3OmL) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 4:08 | 2022-05-11 | 2022-11-02 |
 | [Our Season](https://open.spotify.com/track/0AZS7hgLM2Iv69X1ZfKebV) | [JAECHAN](https://open.spotify.com/artist/2ggXDRbe4d24r7MD54kVbE) | [SPRING \(Original Soundtrack from Watcha's original show 'Our Season: Spring with Park Jae Chan'\)](https://open.spotify.com/album/0FHf6xPUIGsnYwxOhCuhzP) | 3:50 | 2022-08-01 | 2022-12-13 |

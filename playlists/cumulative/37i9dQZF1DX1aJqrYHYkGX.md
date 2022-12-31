@@ -4,7 +4,7 @@
 
 > Gentle, relaxing music from around the globe.
 
-81 songs - 5 hr 40 min - not published yet
+82 songs - 5 hr 43 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Let The Wind Take You Higher](https://open.spotify.com/track/3IhFAFYI4C9Bx7aw2JZzuC) | [Slow World](https://open.spotify.com/artist/7IU3IM27vQRYGiBvEkyhti) | [Let The Wind Take You Higher](https://open.spotify.com/album/3Y6EsItm1SQf05fBB3Kred) | 4:37 | 2022-08-10 |  |
 | [Lluvia de Encanto](https://open.spotify.com/track/7vXsY08n2RnBL2PaFnZh7a) | [Renzo Zong](https://open.spotify.com/artist/6wdEQYkry4yDmHKsU6ZcNn) | [Meseta de Encanto](https://open.spotify.com/album/2Hh6EEccjOfzxvuHnTQsZI) | 3:08 | 2022-08-10 |  |
 | [Luna](https://open.spotify.com/track/79uv8ef1XXdmMz4fbC4bFx) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1), [John Stubberfield](https://open.spotify.com/artist/77ze7bd3cvDho2XbA7t8yg), [Martin Entwistle](https://open.spotify.com/artist/5F2HOKGYHiZ0ideI9s52yU) | [Carter Jason: Eclipse](https://open.spotify.com/album/0OksXOwEMDQKSZkPlwXtik) | 6:01 | 2022-08-10 |  |
-| [Mazaj 2](https://open.spotify.com/track/0Apk8HMrMQKMMt941I5Dmk) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY), [Jérémy Marais](https://open.spotify.com/artist/1qpdOXTXq5wQm3ev30RbqQ), [Imroel\-Quays](https://open.spotify.com/artist/2XwZ9QnaodqmkrJbanvvir) | [Mazaj \(Vibe\)](https://open.spotify.com/album/5bwzIamwrEoWR3IdbTfYKO) | 3:28 | 2022-08-10 |  |
+| [Mazaj 2](https://open.spotify.com/track/0Apk8HMrMQKMMt941I5Dmk) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY), [Jérémy Marais](https://open.spotify.com/artist/1qpdOXTXq5wQm3ev30RbqQ), [Imroel\-Quays](https://open.spotify.com/artist/2XwZ9QnaodqmkrJbanvvir) | [Mazaj \(Vibe\)](https://open.spotify.com/album/5bwzIamwrEoWR3IdbTfYKO) | 3:28 | 2022-08-10 | 2022-12-31 |
+| [Mazaj 2](https://open.spotify.com/track/7k3n7vPc9C5SpUBbEhYCEe) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY), [Jérémy Marais](https://open.spotify.com/artist/1qpdOXTXq5wQm3ev30RbqQ), [Imroel\-Quays](https://open.spotify.com/artist/2XwZ9QnaodqmkrJbanvvir) | [Mazaj \(Vibe\)](https://open.spotify.com/album/2Lzv8I1ojDganSCmRb3hCz) | 3:28 | 2022-08-10 |  |
 | [Meditation Forest](https://open.spotify.com/track/0qXYVxXhJNSsaHsc6hp4dQ) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Meditation Forest](https://open.spotify.com/album/6QRHCMnxBoh7XSQ8JXGD49) | 4:09 | 2022-08-10 |  |
 | [Milena's Theme \(Duduk\)](https://open.spotify.com/track/290GVez1qXhK2Dmx9JIauj) | [Mandala Ohm](https://open.spotify.com/artist/7DxNYkd18YNFvJnVJ8tSPu) | [Milena's Theme \(Duduk\)](https://open.spotify.com/album/1VfvW4Pw4IQECc9nsWTo1Q) | 3:20 | 2022-08-10 |  |
 | [Morning Healing](https://open.spotify.com/track/5y391bgrSpwr54n5Xwr2z6) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:12 | 2022-08-10 |  |

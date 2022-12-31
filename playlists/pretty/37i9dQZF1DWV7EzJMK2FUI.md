@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 969,628 likes - 450 songs - 1 day 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 971,281 likes - 450 songs - 1 day 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -459,4 +459,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 449 | [You Don't Know What Love Is](https://open.spotify.com/track/6rLVGBoRQecxIEjucWATyT) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Close To You](https://open.spotify.com/album/5PgvEwIDiR27lQvF5ktALF) | 7:08 |
 | 450 | [Blue in Green](https://open.spotify.com/track/36cspwQPiIL9ElURDU7bGX) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Blue in Green](https://open.spotify.com/album/1gFhq2ad0vX0D3MyxG3Kqq) | 3:49 |
 
-Snapshot ID: `MTY3MTc1MDA2MCwwMDAwMDAwMGRjZWRhYTY1NGFlNGE3Y2RhZDk2NjA5MGYzMjQ2Yzdi`
+Snapshot ID: `MTY3MjM4NzE4MCwwMDAwMDAwMDdkMDU5MzFjM2Q3MjhjMmIyOTE3Y2M0YmExODBmMjFj`

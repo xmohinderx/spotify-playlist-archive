@@ -1430,6 +1430,24 @@
     },
     {
       "album": {
+        "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/1d8NwbMFmKF9jRnV4vDa81"
+      },
+      "artists": [
+        {
+          "name": "Tikos",
+          "url": "https://open.spotify.com/artist/2cFXG0m3aAeTHtfxT1p684"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155281,
+      "name": "Ferona",
+      "url": "https://open.spotify.com/track/6gTj9ziamEC4GY9EqfzFKD"
+    },
+    {
+      "album": {
         "name": "Finalement",
         "url": "https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H"
       },
@@ -2039,6 +2057,24 @@
       "duration_ms": 189750,
       "name": "Lacuna",
       "url": "https://open.spotify.com/track/6ugfn14Y2aS1loWCWh1APM"
+    },
+    {
+      "album": {
+        "name": "Lagoom",
+        "url": "https://open.spotify.com/album/0qMrCPIHj6jnFJkhPodqiC"
+      },
+      "artists": [
+        {
+          "name": "Harvey Lanza",
+          "url": "https://open.spotify.com/artist/6gbF9RxLqZUcMD39LLySqh"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Lagoom",
+      "url": "https://open.spotify.com/track/4WBSK6p3BjyUJQ0hmyKdQM"
     },
     {
       "album": {

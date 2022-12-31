@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: KILLY",
+  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: DillanPonders",
   "name": "Northern Bars",
   "published_playlist_ids": [
     "42ubhhnACTiunpws137UPH"
@@ -1457,7 +1457,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 154666,
       "name": "Betta",
       "url": "https://open.spotify.com/track/3LmgLtW5dqdo7uhTNzFih8"
@@ -2062,6 +2062,28 @@
     },
     {
       "album": {
+        "name": "Buddy",
+        "url": "https://open.spotify.com/album/6FKcmAZd12976GvGnPIyMS"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117939,
+      "name": "Buddy",
+      "url": "https://open.spotify.com/track/5GZp8q9eZ9qn0TSwAayT1o"
+    },
+    {
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/2kX23j2gb8cqi1SZa8uV7G"
       },
@@ -2209,6 +2231,28 @@
       "duration_ms": 158296,
       "name": "Can't Sleep",
       "url": "https://open.spotify.com/track/7pIuaEr0lSrSyrU2kUaCaL"
+    },
+    {
+      "album": {
+        "name": "Album Mode Vol. 2",
+        "url": "https://open.spotify.com/album/5QumuLrX6eJBkQKINgH9KH"
+      },
+      "artists": [
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        },
+        {
+          "name": "BVB",
+          "url": "https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165200,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/35ZhlhMWsp9l6PGsJ6mFVR"
     },
     {
       "album": {
@@ -3667,7 +3711,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 116427,
       "name": "Dubber Don",
       "url": "https://open.spotify.com/track/6r4zXQH5vOCiAlAt4IDwlq"
@@ -4223,7 +4267,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 178285,
       "name": "Feel Me",
       "url": "https://open.spotify.com/track/0609dNB3q6PfPQgfvssFZ4"
@@ -4753,6 +4797,24 @@
       "duration_ms": 145066,
       "name": "FRIENDS WITH BENEFITS",
       "url": "https://open.spotify.com/track/61YQhIUW8I32js56e7v3Gh"
+    },
+    {
+      "album": {
+        "name": "FRIENDS WITH BENEFITS",
+        "url": "https://open.spotify.com/album/5sgmRV61BfjPTxrfAT1M1i"
+      },
+      "artists": [
+        {
+          "name": "Un!dentified",
+          "url": "https://open.spotify.com/artist/4vPqYPVLwUrooOL3Pylp8Q"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210030,
+      "name": "FRIENDS WITH BENEFITS",
+      "url": "https://open.spotify.com/track/1k9puNuyLTBiolt56JdP0N"
     },
     {
       "album": {
@@ -8015,7 +8077,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 180027,
       "name": "Monopoly",
       "url": "https://open.spotify.com/track/2uEYMGlmvdRrBuAFIZr7pQ"
@@ -9894,6 +9956,24 @@
     },
     {
       "album": {
+        "name": "Prayers II",
+        "url": "https://open.spotify.com/album/6Pg7fw0l1ZnwOR5M1okL1H"
+      },
+      "artists": [
+        {
+          "name": "Realcityfame",
+          "url": "https://open.spotify.com/artist/5aGiv8WaosuW2FA3CQyul3"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157884,
+      "name": "Prayers II",
+      "url": "https://open.spotify.com/track/0bgJdz4jkW43hrjm5WK5VY"
+    },
+    {
+      "album": {
         "name": "The Empty Seven 2",
         "url": "https://open.spotify.com/album/77KlcxdbWhCSD0sn9lFFJm"
       },
@@ -10469,6 +10549,24 @@
       "duration_ms": 175412,
       "name": "roadman freestyle",
       "url": "https://open.spotify.com/track/1NmP1UKYWdEZ2fvPt4Kz47"
+    },
+    {
+      "album": {
+        "name": "RockStar",
+        "url": "https://open.spotify.com/album/0kyP78vWouTqZhU1yvnxK4"
+      },
+      "artists": [
+        {
+          "name": "Casper TNG",
+          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118622,
+      "name": "RockStar",
+      "url": "https://open.spotify.com/track/6ncKbzURoZg50Aks9D0JDz"
     },
     {
       "album": {
@@ -12441,7 +12539,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 205719,
       "name": "Trip House 3",
       "url": "https://open.spotify.com/track/2B9YHX2K1vjHCAb1fTUJXK"
@@ -12673,7 +12771,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 149395,
       "name": "Two 2 Tango",
       "url": "https://open.spotify.com/track/1K5p2pGNeKIGKC2uUODoW6"
@@ -12837,6 +12935,24 @@
       "duration_ms": 209326,
       "name": "Vince Carter",
       "url": "https://open.spotify.com/track/7FcxQ0Vo80VLmj2bbI4PDu"
+    },
+    {
+      "album": {
+        "name": "Bandemic",
+        "url": "https://open.spotify.com/album/4ATOnKifRIXgxxpWYCPEoU"
+      },
+      "artists": [
+        {
+          "name": "Burna Bandz",
+          "url": "https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158807,
+      "name": "W Da Vybz",
+      "url": "https://open.spotify.com/track/7lJC0cgNbkVAOH136SKYfD"
     },
     {
       "album": {

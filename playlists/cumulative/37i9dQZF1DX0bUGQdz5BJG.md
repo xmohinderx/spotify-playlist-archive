@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Ella Langley
 
-976 songs - 2 day 4 hr 12 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
+978 songs - 2 day 4 hr 18 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [History Repeats](https://open.spotify.com/track/0ucLZT4jED0aWgnIAiRbvn) | [Josh Gracin](https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm) | [History Repeats](https://open.spotify.com/album/6ohj3dFAJb2R2HlEwQPtjH) | 3:46 | 2022-08-05 | 2022-10-15 |
 | [Hits Me Like](https://open.spotify.com/track/0H6MQm8mfv52DvwqL80fb8) | [Brandt Carmichael](https://open.spotify.com/artist/65HDAlEXHrIu7e5ago87Ar) | [Hits Me Like](https://open.spotify.com/album/4B8KhzjsKnflBoC8DmtxtM) | 2:38 | 2022-09-16 |  |
 | [Hitting Your Friends Up](https://open.spotify.com/track/5uMFM4LAGy1rcgS9YrVTgq) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Hitting Your Friends Up](https://open.spotify.com/album/2a1MSTd8WxHLkAaPFGL7YJ) | 3:10 | 2022-08-05 | 2022-10-01 |
-| [Hold My Halo](https://open.spotify.com/track/0JFNEmvxVfMOV8HsICZkOj) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:26 | 2022-12-02 |  |
+| [Hold My Halo](https://open.spotify.com/track/0JFNEmvxVfMOV8HsICZkOj) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:26 | 2022-12-02 | 2022-12-31 |
 | [Hold My Halo](https://open.spotify.com/track/3GfARtnRJcsM5JTrpVAunR) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/0ZCiHJtfke9bvbl9U62lrf) | 3:26 | 2022-11-18 | 2022-12-03 |
 | [Hold My Halo](https://open.spotify.com/track/4moFjUlJwvPBPi72q6TTxk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/6yU8DaNYX5E9BPKYfh5wUY) | 3:26 | 2022-10-28 | 2022-11-25 |
 | [Hold My Horses](https://open.spotify.com/track/5QYiLeppgdyv2cPyrHbpSk) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/12AadhpVQyHQTDiZ0UWbPd) | 3:00 | 2022-06-03 | 2022-06-25 |
@@ -546,6 +546,7 @@
 | [Me Myself and Why](https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Me Myself and Why](https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR) | 3:33 | 2022-03-04 | 2022-04-09 |
 | [Memory to Drown](https://open.spotify.com/track/6hbJ8k0m9r5o3joqgsVRVq) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Memory to Drown](https://open.spotify.com/album/06CNL14Rqc6VkSLJeFoFWO) | 3:35 | 2022-02-04 | 2022-04-09 |
 | [Mess This Up](https://open.spotify.com/track/7FdTCgQypaNWEbaibxmylA) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [Mess This Up](https://open.spotify.com/album/2q7oVBF3JgL4dvw36C51wK) | 3:07 | 2022-01-14 | 2022-03-12 |
+| [Middle Finger \- Spotify Singles](https://open.spotify.com/track/5CR5wpp6rjMiePZyrj81e9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 2:36 | 2022-12-30 |  |
 | [Midnight Crisis](https://open.spotify.com/track/7xIfvgLl8E4UGE8BAt0oA3) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Midnight Crisis](https://open.spotify.com/album/640Piuf9BkOLph0xUd98tc) | 3:23 | 2022-09-30 | 2022-11-19 |
 | [Midnight On A Map Dot](https://open.spotify.com/track/3QoAp1I1ISwXRe8NxRdBnw) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Midnight On A Map Dot](https://open.spotify.com/album/3WXWicIsTxzGytDUE4nEnT) | 2:37 | 2022-09-16 |  |
 | [Mile a Minute](https://open.spotify.com/track/3ZId83LVU8njcHXP8ZiMvr) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Mile a Minute](https://open.spotify.com/album/1XyZaEQP7xLclmVg5ni3fk) | 3:15 | 2022-08-19 |  |
@@ -658,6 +659,7 @@
 | [Placeholder](https://open.spotify.com/track/3aoa7CcYtxfOPlpQXYgEni) | [Kaylin Roberson](https://open.spotify.com/artist/0AywuUmKBjTTsU4ZrVf7JS) | [Placeholder](https://open.spotify.com/album/3yGAGNTHVCEND1cNiIPZZr) | 3:44 | 2022-09-30 |  |
 | [Play Ball](https://open.spotify.com/track/5CTDvtk1JHrGEygDfx5Dml) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:27 | 2022-09-30 |  |
 | [Port City](https://open.spotify.com/track/2xtyduCtx4uPVxksiSYSjj) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Port City](https://open.spotify.com/album/4D56Jhz6zigKLQ3Y1WYuSz) | 3:50 | 2022-03-18 | 2022-06-04 |
+| [Postcard \- worktape](https://open.spotify.com/track/6DO4I0PxDLBX1tadzjFOjI) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['22 Tapes](https://open.spotify.com/album/4s9EMhGHuQDf7DRNt8r49h) | 3:28 | 2022-12-30 |  |
 | [Power of a Woman](https://open.spotify.com/track/36moAQD9LDhjSgY9s3nRCi) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Power of a Woman](https://open.spotify.com/album/3FcSdxsfK2bPO6wuiE05Xy) | 3:20 | 2021-12-31 | 2022-02-26 |
 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-11 | 2022-03-26 |
 | [Pretender](https://open.spotify.com/track/6i9i5sHbcx26OwmevtJ4fE) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Pretender](https://open.spotify.com/album/53MtlUwcJ9hfT0H3kzQYuL) | 3:20 | 2022-02-04 | 2022-04-02 |

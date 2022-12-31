@@ -3279,7 +3279,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 149932,
       "name": "Inalcanzable",
       "url": "https://open.spotify.com/track/1YscXjm7Is99GXDkxVDCkn"
@@ -3437,6 +3437,24 @@
       "duration_ms": 190300,
       "name": "Jugando Con la Cura",
       "url": "https://open.spotify.com/track/0jTo2RvIT7pgyTtKtFEFhK"
+    },
+    {
+      "album": {
+        "name": "Juqueando",
+        "url": "https://open.spotify.com/album/59p1PfGyRrCgeHtCuqDxGP"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Juqueando",
+      "url": "https://open.spotify.com/track/252ZimoPcGSFYaS6TfjBEG"
     },
     {
       "album": {
@@ -5389,7 +5407,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 217674,
       "name": "Panas",
       "url": "https://open.spotify.com/track/0pw3Dd2IECWlyljlK94yYc"
@@ -6085,6 +6103,36 @@
       "duration_ms": 172400,
       "name": "Que Raro",
       "url": "https://open.spotify.com/track/3ojvSojw2CF9fQDoAfAqJG"
+    },
+    {
+      "album": {
+        "name": "QUE VAMO HACER",
+        "url": "https://open.spotify.com/album/109mh3p0iUwkwgqN13sF73"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Dayme y El High",
+          "url": "https://open.spotify.com/artist/4JreHVYyb6GqE2BU03Kx96"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212420,
+      "name": "QUE VAMO HACER",
+      "url": "https://open.spotify.com/track/7iDD6EPPrKYGcvabJhbGX6"
     },
     {
       "album": {

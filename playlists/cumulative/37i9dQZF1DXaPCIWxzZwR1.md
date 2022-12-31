@@ -2,7 +2,7 @@
 
 ### [Pop Sauce](https://open.spotify.com/playlist/37i9dQZF1DXaPCIWxzZwR1)
 
-> next gen pop cover: Conan Gray
+> next gen pop cover: Sabrina Carpenter
 
 1,270 songs - 2 day 13 hr 46 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 

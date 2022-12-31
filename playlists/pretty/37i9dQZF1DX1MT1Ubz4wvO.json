@@ -1,13 +1,77 @@
 {
-  "description": "Todas las semanas los nuevos lanzamientos de Rock en espa\u00f1ol, con LA \u00c9LITE en portada.",
-  "num_followers": 37262,
+  "description": "Todas las semanas los nuevos lanzamientos de Rock en espa\u00f1ol, con Telebit en portada.",
+  "num_followers": 37278,
   "original_name": "Novedades Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc4OTU3MSwwMDAwMDAwMDcyMjY5NjU3NTc0MGU2ZjQ3NWZiNjgxODdmMTlkYTEy",
+  "snapshot_id": "MTY3MjM4MDU0MCwwMDAwMDAwMDgxMDQxOTk1Yzk1ZTNhZGZjYmZiZmI1OWY0ZGI5YTk0",
   "tracks": [
+    {
+      "added_at": "2022-12-30 06:09:00",
+      "album": {
+        "name": "Cronopaisajes - EP",
+        "url": "https://open.spotify.com/album/2lTbNjxusc20TmIZ6DGfJo"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "duration_ms": 188641,
+      "name": "Inalacanzable",
+      "url": "https://open.spotify.com/track/4l0QVLmd1kFzP9hA6L0mJV"
+    },
+    {
+      "added_at": "2022-12-30 06:09:00",
+      "album": {
+        "name": "En Las Calles",
+        "url": "https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        }
+      ],
+      "duration_ms": 161230,
+      "name": "En Las Calles",
+      "url": "https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5"
+    },
+    {
+      "added_at": "2022-12-30 06:09:00",
+      "album": {
+        "name": "Flor de ceibo",
+        "url": "https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV"
+      },
+      "artists": [
+        {
+          "name": "Don Osvaldo",
+          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
+        }
+      ],
+      "duration_ms": 128597,
+      "name": "Caer",
+      "url": "https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm"
+    },
+    {
+      "added_at": "2022-12-30 06:09:00",
+      "album": {
+        "name": "Poniente (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7IZUILLpY4ho94148ai5QI"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "Se\u00f1ales - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0dQv32aSIEcqwKZeBfO0bH"
+    },
     {
       "added_at": "2022-12-23 06:00:00",
       "album": {
@@ -27,26 +91,6 @@
       "duration_ms": 115782,
       "name": "Transpotting",
       "url": "https://open.spotify.com/track/0lmOqQyyBqZxssCbxG2M7Z"
-    },
-    {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "Ni\u00f1os Perdidos",
-        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        },
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 159781,
-      "name": "Ni\u00f1os Perdidos",
-      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -775,42 +819,6 @@
     {
       "added_at": "2022-12-23 06:00:00",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2rEk2sckp6Vi2nhS9FGCmD"
-      },
-      "artists": [
-        {
-          "name": "May Sunday",
-          "url": "https://open.spotify.com/artist/08SkBrVjxq80ivZKnGh1LE"
-        },
-        {
-          "name": "Say Ocean",
-          "url": "https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9"
-        }
-      ],
-      "duration_ms": 188678,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/6hY045OkoL8chOl9N5OhNw"
-    },
-    {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "Desde Casa (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1sZ0TP6nRg1YwB7z09tVl0"
-      },
-      "artists": [
-        {
-          "name": "QBO",
-          "url": "https://open.spotify.com/artist/7LPSpoCg3XmYjYtdZxFodd"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Vuelve A Mi - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/66130HnZrDALO2jrCILoV9"
-    },
-    {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
         "name": "Lo Personal Vol 3 \"Oye Tu\"",
         "url": "https://open.spotify.com/album/5SYqKNODofugNkGA0EY3wA"
       },
@@ -847,26 +855,6 @@
       "duration_ms": 311658,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/4O9F84MTaD7R9Vs3E9f10C"
-    },
-    {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "Lapeste",
-        "url": "https://open.spotify.com/album/6cPThDDpJEvAyuqeRlqZgN"
-      },
-      "artists": [
-        {
-          "name": "Pollo Bruxo",
-          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
-        },
-        {
-          "name": "LaPeste",
-          "url": "https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl"
-        }
-      ],
-      "duration_ms": 270428,
-      "name": "Todo el D\u00eda de Hoy",
-      "url": "https://open.spotify.com/track/2bNZpngzQy9PfdwUWtv7yS"
     }
   ],
   "unique_name": "Novedades Rock",

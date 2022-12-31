@@ -4,7 +4,7 @@
 
 > Are you a day 1 fan of your favourite rapper? Prove it!\. Rap UK Day 1 Club has just launched\. <a href='https://day1club\-uk.byspotify.com/'>Check it out.</a>
 
-1,254 songs - 2 day 16 hr 29 min - [published](https://open.spotify.com/playlist/5FuQUpQ2GSOITS1tCcS7A2)
+1,255 songs - 2 day 16 hr 32 min - [published](https://open.spotify.com/playlist/5FuQUpQ2GSOITS1tCcS7A2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [BABA \(Toma Tussi\)](https://open.spotify.com/track/5ZRM9cNzt2CS9eZyzEyRtZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [BABA \(Toma Tussi\)](https://open.spotify.com/album/1r9EOOBPe9kHk4NibkZcmK) | 2:00 | 2022-05-27 | 2022-09-16 |
 | [Baby](https://open.spotify.com/track/3W7ML7M75Voo30imYBX2Xl) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Baby](https://open.spotify.com/album/4ltwzVv222nOkWIQikfhyW) | 3:03 | 2020-05-30 | 2020-07-18 |
 | [Baby](https://open.spotify.com/track/3pudQCMnsFGwOElTZmuml8) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Baby](https://open.spotify.com/album/4ag07Nbz1xUcFWU17JNh1r) | 2:57 | 2022-03-11 | 2022-05-20 |
-| [Back 2 Back](https://open.spotify.com/track/0uLpfJcZI1EtlzppUGnTV2) | [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc) | [Back 2 Back](https://open.spotify.com/album/22Mx8pkKmkrjtyvt0I5P7A) | 2:59 | 2022-11-25 |  |
+| [Back 2 Back](https://open.spotify.com/track/0uLpfJcZI1EtlzppUGnTV2) | [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc) | [Back 2 Back](https://open.spotify.com/album/22Mx8pkKmkrjtyvt0I5P7A) | 2:59 | 2022-11-25 | 2022-12-31 |
+| [Back 2 Back](https://open.spotify.com/track/5UzOk0wwCvIEeXicuPKKrD) | [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc) | [Back 2 Back](https://open.spotify.com/album/3krb1YSfDC4DODb6J1mz3m) | 2:59 | 2022-12-16 |  |
 | [Back 2 Back](https://open.spotify.com/track/4o48inbA3UIzhN6bXmw7mq) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT), [Dirtbike Lb](https://open.spotify.com/artist/3LxQ9uN2B3DAn7riENlpcQ), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Cold Feet](https://open.spotify.com/album/4PoW2QPYyGG7KqLYffTtym) | 3:08 | 2022-10-13 |  |
 | [Back In Blood](https://open.spotify.com/track/2lqFZ1vSoo1kp0SAGTnIIu) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Back In Blood](https://open.spotify.com/album/2y27yWhhQKER6WpYQBgb9s) | 2:55 | 2021-08-20 | 2021-12-20 |
 | [Back to Basics](https://open.spotify.com/track/7bb2iBhmeQeggAe623m6FY) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Back to Basics](https://open.spotify.com/album/3TLBa9ZgL9Ka58oXvQPk2Q) | 3:17 | 2021-01-23 | 2021-03-19 |

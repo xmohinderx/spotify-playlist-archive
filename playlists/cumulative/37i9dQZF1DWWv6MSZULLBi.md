@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Ten Kills the Pack
 
-268 songs - 16 hr 1 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+269 songs - 16 hr 4 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Every Beginning Ends](https://open.spotify.com/track/7lagLMBTqqOkta5eqRfNXc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 2:30 | 2022-08-26 | 2022-10-06 |
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-05-13 | 2022-07-09 |
 | [Everyday Sunflower](https://open.spotify.com/track/2wdIXkZ4nFlaYbzvifuAp1) | [Jason Collett](https://open.spotify.com/artist/4uuXjSga3HgpAETXd0UpxW) | [Everyday Sunflower](https://open.spotify.com/album/6xlZH4sV5XGl17TMKezsrp) | 2:50 | 2022-09-23 |  |
-| [Explain It](https://open.spotify.com/track/59UjcIXiJJ3nb2kIRrSxzR) | [Katherine Fischer](https://open.spotify.com/artist/4JeHckTNyuauGu638Tz6no) | [Great Loves](https://open.spotify.com/album/1A4GYBkNOSdadRNkpGwufs) | 3:27 | 2022-11-25 |  |
+| [Explain It](https://open.spotify.com/track/59UjcIXiJJ3nb2kIRrSxzR) | [Katherine Fischer](https://open.spotify.com/artist/4JeHckTNyuauGu638Tz6no) | [Great Loves](https://open.spotify.com/album/1A4GYBkNOSdadRNkpGwufs) | 3:27 | 2022-11-25 | 2022-12-31 |
+| [Explain It](https://open.spotify.com/track/7HUmzWxcmldnjewITpD5xb) | [Katherine Fischer](https://open.spotify.com/artist/4JeHckTNyuauGu638Tz6no) | [Great Loves](https://open.spotify.com/album/1R4eaekeqqTTCMCxKEsQuV) | 3:27 | 2022-12-23 |  |
 | [Fables \- The Garden Version](https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Fables \(The Garden Version\)](https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s) | 2:56 | 2022-05-13 | 2022-10-01 |
 | [Faded Like A Feeling](https://open.spotify.com/track/3EdDIJmkL63TgqZUXTZmVp) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Faded Like A Feeling](https://open.spotify.com/album/5MAsi8cTi6hxEhkQckX1nh) | 3:22 | 2022-08-26 |  |
 | [Fast Car](https://open.spotify.com/track/5SLwFfhLzD8ekzhIaeQkej) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [living room sessions 2](https://open.spotify.com/album/3LJZtEJFAbw8SFdANQ2C9X) | 2:15 | 2022-07-22 | 2022-09-17 |

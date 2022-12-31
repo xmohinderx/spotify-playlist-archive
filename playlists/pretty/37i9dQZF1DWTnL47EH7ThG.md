@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,705 likes - 162 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,742 likes - 162 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 14 | [Stumble](https://open.spotify.com/track/3D0ZLuFDCA1ILyXQYlMqZ9) | [Bonjay](https://open.spotify.com/artist/12Jc0PCNtdYxqlBev0EqGJ) | [Broughtupsy](https://open.spotify.com/album/6p8iYdmqXyxJJMg70dfVF5) | 3:22 |
 | 15 | [Bad Bitch Steppin'](https://open.spotify.com/track/0eypKYioaRK2I7MbuoVodD) | [Vanessa Tha Finessa](https://open.spotify.com/artist/7d55wy6vEfabtFevi23pZt) | [Bad Bitch Steppin'](https://open.spotify.com/album/5Soc1AAa7FuzEa4Xw8sxiL) | 1:24 |
 | 16 | [Back](https://open.spotify.com/track/0b2DJdxxgtgNGAbgHElCID) | [Skodi](https://open.spotify.com/artist/3BkUIA9Gj05fOc3rw4iug0) | [Corner Store Chronicles: The Prequel](https://open.spotify.com/album/5QMniu0AZ6OoULArBEVOAP) | 3:24 |
-| 17 | [SUMN LIKE THIS](https://open.spotify.com/track/2BhB2u9hxOX2ploipaG6fo) | [The Bleus](https://open.spotify.com/artist/1ZlFxR76M4IgjEKFgLkMDI), [Likkle Slave](https://open.spotify.com/artist/4bXgFNLNlTtUUo3MTyRcuj) | [SUMN LIKE THIS](https://open.spotify.com/album/2DTeCIjA7XkhMAuBBrTt9u) | 2:23 |
+| 17 | [SUMN LIKE THIS](https://open.spotify.com/track/2BhB2u9hxOX2ploipaG6fo) | [The Bleus](https://open.spotify.com/artist/1ZlFxR76M4IgjEKFgLkMDI), [Likkle Slave](https://open.spotify.com/artist/5TQX9jI6jo0GYhnx0dluOL) | [SUMN LIKE THIS](https://open.spotify.com/album/2DTeCIjA7XkhMAuBBrTt9u) | 2:23 |
 | 18 | [Munchies](https://open.spotify.com/track/6KwliIK6KXwVLY6TKOkOOx) | [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Munchies](https://open.spotify.com/album/5genJf5NzSsmOEeVCpzIiM) | 2:37 |
 | 19 | [TOPIC](https://open.spotify.com/track/6ho5I49ybvEwuMmmUGDGLv) | [YUNGCYBERPRINCESS](https://open.spotify.com/artist/1s8CGPUhqhhH9UkNoK9TGZ), [Threat333](https://open.spotify.com/artist/0PgVYTmSgUexalwckcBVuL) | [TOPIC](https://open.spotify.com/album/6W6LAS9Qo1AdwzjB7xeMxq) | 1:14 |
 | 20 | [W4TN](https://open.spotify.com/track/49Ho47D2uHc3eYqTcwNHRb) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [W4TN](https://open.spotify.com/album/3dLaZiheWAG3mmBBDP0z1u) | 2:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: MOTi
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,565 likes - 101 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,589 likes - 101 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 10 | [Revolution](https://open.spotify.com/track/1vlnbR9iKNLCAlEDNSBrxj) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Revolution](https://open.spotify.com/album/6A1uNJqYuAhldH89hy70od) | 4:07 |
 | 11 | [Need Me Right](https://open.spotify.com/track/6bGTVNNA07wWwyPFPa7PyD) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Need Me Right](https://open.spotify.com/album/6lkMuhT1CneIWN1wCnOGLM) | 2:24 |
 | 12 | [Ecstasy Of Soul](https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Ecstasy Of Soul](https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8) | 3:58 |
-| 13 | [Once Again \(FOVOS Remix\)](https://open.spotify.com/track/7lecNF0Xhqb6GoyHDqjQwg) | [Dillion Francis](https://open.spotify.com/artist/0uSkTGSOlf95KOOsMa1H4Q), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Once Again \(Remixes\)](https://open.spotify.com/album/6FrZQaBXw0FUePDriWQrA9) | 3:33 |
+| 13 | [Once Again \- FOVOS Remix](https://open.spotify.com/track/4kUhdlpiBjnN9fyNyQdX19) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Once Again \(FOVOS Remix\)](https://open.spotify.com/album/2JUWPyPMStjSsIx5oNHJOO) | 3:33 |
 | 14 | [Call On Me \(with Tove Lo\) \- SG's Dub Edit](https://open.spotify.com/track/4cAESz6WLbrrpTvR3Confo) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Call On Me \(with Tove Lo\) \[SG's Dub Edit\]](https://open.spotify.com/album/2Vv75hiDNkC3Te9FEUMRIC) | 5:49 |
 | 15 | [Fade to Black](https://open.spotify.com/track/3DS6zUDAm3X8F6kiGaFfWL) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ) | [Fade to Black](https://open.spotify.com/album/2Yu80Mqn0x1Y5F6X1rTqwv) | 2:56 |
 | 16 | [When I Talk](https://open.spotify.com/track/0u0oY2WuHC8B22p5nF8qsU) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY) | [When I Talk](https://open.spotify.com/album/6bREBgVcyfqjAAXjB5qtET) | 3:27 |
 | 17 | [All My Life](https://open.spotify.com/track/0jeQjDHdozuRY721J3tC7v) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [All My Life](https://open.spotify.com/album/2acfiOFZjpCjIPMBxlOhH2) | 3:12 |
 | 18 | [How I Like It](https://open.spotify.com/track/1sJ4nhnygOzSqDXqObbweD) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY) | [How I Like It](https://open.spotify.com/album/3bYHBEbMs2B0v3uadisq4C) | 3:11 |
-| 19 | [Let's Call It Love](https://open.spotify.com/track/3i7Uzo6SN9Gk5vnEvAsy4C) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Let's Call It Love](https://open.spotify.com/album/59vsEGJiHPbbySFipoLcuO) | 2:20 |
+| 19 | [Let's Call It Love](https://open.spotify.com/track/07TKDT070EpnvDSS0yhZdD) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Let's Call It Love](https://open.spotify.com/album/7fq2mXAXaSfgnvuc9CqiMR) | 2:20 |
 | 20 | [Surrender \(feat\. YOU\)](https://open.spotify.com/track/4v0SRIKcYUkNYhK2zLA6nf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ÜHÜ](https://open.spotify.com/artist/0kX81k87cBgYN7KffDI3fC), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Surrender \(feat\. YOU\)](https://open.spotify.com/album/6CeALTTb9SCKKEIzaQC8xl) | 3:33 |
 | 21 | [Fall](https://open.spotify.com/track/1fWajvu9AQXNGdJ0MQy9px) | [Nath Jennings](https://open.spotify.com/artist/6VyWntyyQMV73bhRTTGFAN), [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s) | [Fall](https://open.spotify.com/album/58TwMbtESzN2vI7VoeIVpE) | 2:31 |
 | 22 | [Watermelon Sugar \- Cover](https://open.spotify.com/track/1UgI6nIlNxNdcuRwqPFdKB) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Eluera](https://open.spotify.com/artist/7kvqbETQGxrUmRBEl6l10Q), [XD Project](https://open.spotify.com/artist/1zAuJhsIowtEsUZykFuaKM) | [Watermelon Sugar \(Cover\)](https://open.spotify.com/album/79Ye4k4S2pNh53dw4h30SD) | 2:43 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 100 | [Sweater Weather](https://open.spotify.com/track/5gsAsuO9RFQsDkjhFdlLiI) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Sweater Weather](https://open.spotify.com/album/4ysN6BnZo6SBSyViWddtWX) | 2:54 |
 | 101 | [Disco Treats](https://open.spotify.com/track/4ADUECqx9JpXNDlXNjDffF) | [SCNDL](https://open.spotify.com/artist/3Y7sK4nACC8R7WwAUUumCL) | [Disco Treats](https://open.spotify.com/album/5ZhoyjkDSHATbZ98mESbuy) | 2:48 |
 
-Snapshot ID: `MTY3MjMxODgwMCwwMDAwMDAwMDc1OGMxMWM4ZWQyZjRlNTUwZDMwOGUzNzJhNTBmNzEw`
+Snapshot ID: `MTY3MjMxODgwMCwwMDAwMDAwMGQ1MzIwMmE4ODJkMjRlODlkOTRlNWQ1Yzc2ZTE2YzA0`

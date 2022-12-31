@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-274 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
+276 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Eyes of Redemption](https://open.spotify.com/track/4sgncJrSzijkzs0oEEyOcn) | [Dolores Fernel](https://open.spotify.com/artist/6eKcmeh4aN49TVfRmNI3cw) | [Eyes of Redemption](https://open.spotify.com/album/1fhB9ZPMq9JfSIEq0RSR17) | 3:03 | 2021-12-10 |  |
 | [Farewell](https://open.spotify.com/track/40f4bFrEnG7TBLD7FFRqQj) | [Echo River](https://open.spotify.com/artist/1ytRxYe87vfftgDbZ9kGw8) | [Farewell](https://open.spotify.com/album/1my794VFq7X6XdvC7TGOKo) | 3:17 | 2021-12-10 |  |
 | [Farley](https://open.spotify.com/track/0Ct6WKA4XqXRFdFn2BFkxD) | [Evie Belcher](https://open.spotify.com/artist/502tjyEpMzN9vPl8nFYAmf) | [Farley](https://open.spotify.com/album/1Q8KGe7VcZMT20bTPqWZtR) | 3:26 | 2021-12-10 |  |
+| [Ferona](https://open.spotify.com/track/6gTj9ziamEC4GY9EqfzFKD) | [Tikos](https://open.spotify.com/artist/2cFXG0m3aAeTHtfxT1p684) | [Where I Belong](https://open.spotify.com/album/1d8NwbMFmKF9jRnV4vDa81) | 2:35 | 2022-12-30 |  |
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2021-12-10 |  |
 | [Fireplace](https://open.spotify.com/track/6zO5kSbABJPDnMTMkbRGsG) | [Sam Sandro](https://open.spotify.com/artist/0oOXxPFTxaSLUB9cmMXyIE) | [Ballroom](https://open.spotify.com/album/6UsoKe7yyuSBvWyW5FlyKw) | 2:40 | 2021-12-10 |  |
 | [First Bridge](https://open.spotify.com/track/09g7JMQLhGPspMm1hfeqCc) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Bridge](https://open.spotify.com/album/7Gs6ZfwzjlcnXfcCfeykSL) | 2:08 | 2021-12-10 | 2022-09-03 |
@@ -121,6 +122,7 @@
 | [La Femme Soleil](https://open.spotify.com/track/3ZGqYamRfdQJ1lcQa27gHj) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [La Femme Soleil](https://open.spotify.com/album/7JJm1cAkINxVcYS1q1h146) | 2:40 | 2021-12-10 | 2022-09-03 |
 | [La Lumière En Toi](https://open.spotify.com/track/1E52SbUzjtkuYvDfqTExoc) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [La Lumière En Toi](https://open.spotify.com/album/0u2uEOgnKOIPqyndWu4Erc) | 1:57 | 2021-12-10 |  |
 | [Lacuna](https://open.spotify.com/track/6ugfn14Y2aS1loWCWh1APM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Lacuna](https://open.spotify.com/album/6cfCcvxN1aCYWgkl5H1YSB) | 3:09 | 2021-12-10 |  |
+| [Lagoom](https://open.spotify.com/track/4WBSK6p3BjyUJQ0hmyKdQM) | [Harvey Lanza](https://open.spotify.com/artist/6gbF9RxLqZUcMD39LLySqh) | [Lagoom](https://open.spotify.com/album/0qMrCPIHj6jnFJkhPodqiC) | 2:51 | 2022-12-30 |  |
 | [Laikas Miega](https://open.spotify.com/track/3ABUiqt1HJUiDMYp3PnTWp) | [Andris Vestiena](https://open.spotify.com/artist/5AgZ4H1tJPzHJ983xZyU0G) | [Laikas Miega](https://open.spotify.com/album/73ptqEIMKkiLTK3wZBBomt) | 2:45 | 2021-12-10 |  |
 | [Lake Oconee](https://open.spotify.com/track/4LsVIfwWMLq7e1qpE5WCUH) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [What If...](https://open.spotify.com/album/664RRHVUge3S0HEuGAZvK6) | 4:18 | 2021-12-10 |  |
 | [Late Tuesday](https://open.spotify.com/track/1VbQwnVubzySFLf4c8EUi5) | [Nima de Bekker](https://open.spotify.com/artist/0GE3bhLvDxx4CD0qHNZQzJ) | [Late Tuesday](https://open.spotify.com/album/6ZjJ032BraQV8KxxjRcfyL) | 1:34 | 2021-12-10 |  |

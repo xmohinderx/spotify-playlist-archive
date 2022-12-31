@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 24363,
+  "num_followers": 24391,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMGRkNWU0MWJiMzlmMWE4MzU2ZGIzNWMwMGZjYjkwNDhi",
+  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDVjYmQ0MDE2ZDVhZWE1MDcxNjJmY2E1YTM1NTgwMTFm",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Pare Cochero",
+        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
+      },
+      "artists": [
+        {
+          "name": "La Gloria Matancera",
+          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Con la Punta del Pie",
+      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Colores",
         "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 186693,
       "name": "Arco\u00edris",
       "url": "https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Pare Cochero",
-        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
-      },
-      "artists": [
-        {
-          "name": "La Gloria Matancera",
-          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Con la Punta del Pie",
-      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Reggaetonista Salsaton (Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen)",
-        "url": "https://open.spotify.com/album/5U8TwxqlnkjcWw14Svv3Bs"
-      },
-      "artists": [
-        {
-          "name": "KYEN?ES?",
-          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        }
-      ],
-      "duration_ms": 157522,
-      "name": "Reggaetonista Salsaton (Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen)",
-      "url": "https://open.spotify.com/track/2jjS5j292q9RoNwNXNRM6x"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Brindemos por Ellas",
         "url": "https://open.spotify.com/album/5Yxk0RoPNkJAp4wGWQrFv2"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 219000,
       "name": "Brindemos por Ellas",
       "url": "https://open.spotify.com/track/1QBlf7g1RiNr2oGajY0lo6"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Reggaetonista Salsaton (Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen)",
+        "url": "https://open.spotify.com/album/5U8TwxqlnkjcWw14Svv3Bs"
+      },
+      "artists": [
+        {
+          "name": "KYEN?ES?",
+          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "duration_ms": 157522,
+      "name": "Reggaetonista Salsaton (Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen)",
+      "url": "https://open.spotify.com/track/2jjS5j292q9RoNwNXNRM6x"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -2103,26 +2103,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Otra Botella",
-        "url": "https://open.spotify.com/album/1x1l4HTXeFzxKcRovL23h3"
-      },
-      "artists": [
-        {
-          "name": "Victor & Gabo",
-          "url": "https://open.spotify.com/artist/1jF1NAxfzCf1PeWzmVvqsx"
-        },
-        {
-          "name": "Itzza Primera",
-          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
-        }
-      ],
-      "duration_ms": 166037,
-      "name": "Otra Botella",
-      "url": "https://open.spotify.com/track/7B6aEwgsjVLGrXn11mbyRe"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Suelta",
         "url": "https://open.spotify.com/album/0a75xzDuN6WBePejRqxLTZ"
       },
@@ -2139,6 +2119,26 @@
       "duration_ms": 204419,
       "name": "Luna",
       "url": "https://open.spotify.com/track/5Pdw0kGwWndeTsbOfVrv3r"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Otra Botella",
+        "url": "https://open.spotify.com/album/1x1l4HTXeFzxKcRovL23h3"
+      },
+      "artists": [
+        {
+          "name": "Victor & Gabo",
+          "url": "https://open.spotify.com/artist/1jF1NAxfzCf1PeWzmVvqsx"
+        },
+        {
+          "name": "Itzza Primera",
+          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
+        }
+      ],
+      "duration_ms": 166037,
+      "name": "Otra Botella",
+      "url": "https://open.spotify.com/track/7B6aEwgsjVLGrXn11mbyRe"
     },
     {
       "added_at": "2022-08-31 07:37:37",

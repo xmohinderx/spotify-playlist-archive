@@ -4,11 +4,11 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Pitty, Nando Reis
 
-262 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
+263 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(De\)Compondo](https://open.spotify.com/track/4XoZgHircnTj5lssYHZuCH) | [HOZE](https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB) | [\(De\)Compondo](https://open.spotify.com/album/3Q4UvfGokdFcKVxtRA24xn) | 3:44 | 2022-01-14 |  |
+| [\(De\)Compondo](https://open.spotify.com/track/4XoZgHircnTj5lssYHZuCH) | [HOZE](https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB) | [\(De\)Compondo](https://open.spotify.com/album/3Q4UvfGokdFcKVxtRA24xn) | 3:44 | 2022-01-14 | 2022-12-31 |
 | [3x4](https://open.spotify.com/track/1yJoc6Njyss9p4dV3uVVqB) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [3x4](https://open.spotify.com/album/0RLW1QCz5QJf7TsbTBpbtW) | 4:07 | 2022-04-01 |  |
 | [A Dança do Zumbi](https://open.spotify.com/track/50TDFbEa54FuDXJN8bVX88) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK), [Jonnata Doll e os Garotos Solventes](https://open.spotify.com/artist/3DHVqqLBXA0dtRkBT2UGrP) | [A Dança do Zumbi](https://open.spotify.com/album/6gREtJ5C3QRq5zwCCBqrLn) | 2:21 | 2022-05-13 | 2022-05-20 |
 | [A Lanterna](https://open.spotify.com/track/61xLUyCTm7FVbzQUO7ihg6) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [A Lanterna](https://open.spotify.com/album/2wv7RXiKwdUu4si362Dj3P) | 1:35 | 2022-01-14 |  |
@@ -67,6 +67,7 @@
 | [CÉUMITÉRIO](https://open.spotify.com/track/0KW0jKVnoOWCuEpJBqoFWI) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [CÉUMITÉRIO](https://open.spotify.com/album/5R9UWzUQZFgjbDELvZTVSI) | 3:23 | 2022-01-14 | 2022-04-02 |
 | [Dançar](https://open.spotify.com/track/2JG7LWyNbkzm7GPRf3iXoC) | [Meu Funeral](https://open.spotify.com/artist/6GEXLxhbbkxEeYkL9sl64X), [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts) | [Dançar](https://open.spotify.com/album/564oeyEGIGpUB3ooaeb0ee) | 2:33 | 2022-01-14 | 2022-02-26 |
 | [Deixar Viver](https://open.spotify.com/track/62mO6x70dol2LOiTGR8GvK) | [Daniel Siebert](https://open.spotify.com/artist/1FXr5LmmIsKw0CvMP9OgR4), [Marilice Caldart](https://open.spotify.com/artist/1880UjmsktmnsggwPbpC4Y) | [Deixar Viver](https://open.spotify.com/album/38lIRym65wLQtPHIN5Z9lO) | 4:22 | 2022-01-14 | 2022-12-17 |
+| [Depois de Ver \- Ao Vivo](https://open.spotify.com/track/23BfTfhdUBjjV8g9uhsRXx) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [BONUS LIVE \(Ao Vivo\)](https://open.spotify.com/album/3OMNvKQ04zUJXEksCqmE71) | 3:58 | 2022-12-30 |  |
 | [Depois Que a Guerra Terminou](https://open.spotify.com/track/7HusYomLBNS718cT4jpDNG) | [Gustavo Kaly](https://open.spotify.com/artist/2APbW9Syz4fKotQHXryChK), [wander wildner](https://open.spotify.com/artist/3kkd2ywd7eR5uPocPzTwFE) | [Depois Que a Guerra Terminou](https://open.spotify.com/album/5ql0LSgUlMUCRAqxt6yLA7) | 2:04 | 2022-04-01 | 2022-04-09 |
 | [DESCANSA](https://open.spotify.com/track/3w0DZSyTT18YbE2UeneB7j) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [DESCANSA](https://open.spotify.com/album/3cXIRdtQDTqWNNWOQl0hvU) | 2:49 | 2022-03-04 | 2022-04-16 |
 | [Dia 14, Pt\. 2](https://open.spotify.com/track/6PYmytp7n49OwoC6T2gsuj) | [Lemak](https://open.spotify.com/artist/1DCcKAbUBRbTURZ6x8A7qx) | [Dia 14, Pt\. 2](https://open.spotify.com/album/597wL7HG0FMUntbLLM9ZGp) | 3:28 | 2022-01-14 |  |

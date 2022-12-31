@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 14520,
+  "num_followers": 14528,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDY4ZGYzZGFhZTgwYmQxMjQ4NTMxMWMxNGFiMmJkZGNh",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDZiZmVkZTc3MGE1MjI1MWYxOTMwOGExNDhlMzY3MDlk",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -119,22 +119,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Rom\u00e1ntica Milonguera",
-        "url": "https://open.spotify.com/album/4W4hc8GZG12mLZY9s93fvf"
-      },
-      "artists": [
-        {
-          "name": "Rom\u00e1ntica Milonguera",
-          "url": "https://open.spotify.com/artist/2yN99QuwGDm319KHi1aSeY"
-        }
-      ],
-      "duration_ms": 197026,
-      "name": "Poema",
-      "url": "https://open.spotify.com/track/1idKcTuIojEwcXXn0DyfTu"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Tango Agazapado",
         "url": "https://open.spotify.com/album/77XCoZdCX5SzH3acwEKraZ"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 224720,
       "name": "Juguete Rabioso",
       "url": "https://open.spotify.com/track/5z5c1TQrW8Cwm4m2VnGztj"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Rom\u00e1ntica Milonguera",
+        "url": "https://open.spotify.com/album/4W4hc8GZG12mLZY9s93fvf"
+      },
+      "artists": [
+        {
+          "name": "Rom\u00e1ntica Milonguera",
+          "url": "https://open.spotify.com/artist/2yN99QuwGDm319KHi1aSeY"
+        }
+      ],
+      "duration_ms": 197026,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/1idKcTuIojEwcXXn0DyfTu"
     },
     {
       "added_at": "2022-07-08 03:00:00",

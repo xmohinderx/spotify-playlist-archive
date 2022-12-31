@@ -4,7 +4,7 @@
 
 > Hits e clássicos para jogar sua energia lá em cima!
 
-145 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/07zdgoDKJ8jxaVLlbQqEma)
+146 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/07zdgoDKJ8jxaVLlbQqEma)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,11 +15,12 @@
 | [A Voz E O Violão](https://open.spotify.com/track/3PX5eDiq4yOCeryQg5FcFr) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [A Voz E O Violão](https://open.spotify.com/album/6gEnotCkoJLErkbEpoqkmk) | 3:23 | 2021-07-02 | 2022-07-29 |
 | [Adrenalizou](https://open.spotify.com/track/5e6zVhxswg8mULigBD4chY) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Adrenalizou](https://open.spotify.com/album/1b6w24ON5t9sEslhNdpjQf) | 2:57 | 2021-07-02 | 2022-07-29 |
 | [Ai, Ai, Ai...](https://open.spotify.com/track/6IvKz4Ax11LsLA0X0bPkqD) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Sim](https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC) | 4:12 | 2021-07-02 | 2022-07-29 |
-| [All About That Bass](https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:07 | 2021-07-02 |  |
+| [All About That Bass](https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:07 | 2021-07-02 | 2022-12-31 |
 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 | 2021-07-02 |  |
 | [Além do Horizonte](https://open.spotify.com/track/42rMA2pfIu7J6a80nODfAn) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Até Onde Vai](https://open.spotify.com/album/3GiJagG5k5VmCMoVxnFs0F) | 4:36 | 2021-07-02 | 2022-07-29 |
 | [Amei Te Ver](https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 4:17 | 2021-07-02 | 2022-07-29 |
 | [American Boy](https://open.spotify.com/track/22UDw8rSfLbUsaAGTXQ4Z8) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/5y4Ikuc4sLtNOpanoKKqwo) | 4:44 | 2021-07-02 | 2022-12-01 |
+| [American Boy](https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0) | 4:44 | 2021-07-02 |  |
 | [Anna Júlia](https://open.spotify.com/track/0aASUtDb1N96NJDwmWj5Gf) | [Los Hermanos](https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6) | [Los Hermanos](https://open.spotify.com/album/5cZ2ehOhB8ZQ0yCHJZyhlh) | 3:32 | 2021-07-02 | 2022-07-29 |
 | [Asas](https://open.spotify.com/track/6LFAmpzXbWQEx0NWondpSM) | [Maskavo](https://open.spotify.com/artist/4wvAGBushcLkCZ1lEZsYMf) | [Asas](https://open.spotify.com/album/3BFgwNvG7pwnuygH1mzcOv) | 3:48 | 2021-07-02 | 2022-07-29 |
 | [Assim Caminha a Humanidade](https://open.spotify.com/track/18Lb0yf7HlgETLgfaBG6eV) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Assim Caminha A Humanidade](https://open.spotify.com/album/5xLq20kfwGv54nW7VcGkXb) | 3:28 | 2021-07-02 | 2022-07-29 |

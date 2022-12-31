@@ -1,13 +1,29 @@
 {
-  "description": "The best new tracks every week. Cover: Barrie\n",
-  "num_followers": 1254844,
+  "description": "The best new tracks every week. Cover: Cuco\n",
+  "num_followers": 1254901,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTgyNDA2OSwwMDAwMDAwMDcyM2RlNDUxOWE1MWRlYjI4NmM0NGUwNGU4OGM0ODYx",
+  "snapshot_id": "MTY3MjM3NjQwMCwwMDAwMDAwMDk2ZDJhYTcxMmM4MDM2MzA0ZjZhMGI2MGY2MjIzYWQx",
   "tracks": [
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "First Of The Year",
+        "url": "https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 170873,
+      "name": "First Of The Year",
+      "url": "https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6"
+    },
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 132817,
       "name": "Doesn't Really Matter",
       "url": "https://open.spotify.com/track/2lu9ElghP2Z0IB0FB6vXAG"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Maya",
+        "url": "https://open.spotify.com/album/3L9E8GtsdPSOIyqISsq3Qr"
+      },
+      "artists": [
+        {
+          "name": "Tobias Dray",
+          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
+        }
+      ],
+      "duration_ms": 207955,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Tooth ache",
+        "url": "https://open.spotify.com/album/46MRaX1aQ4aoIAL3l3rft3"
+      },
+      "artists": [
+        {
+          "name": "Lucys",
+          "url": "https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI"
+        }
+      ],
+      "duration_ms": 146144,
+      "name": "Tooth ache",
+      "url": "https://open.spotify.com/track/6TJyjEq0Y1pSnHosXLcU5d"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -41,20 +89,84 @@
       "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
     },
     {
-      "added_at": "2022-12-23 04:00:00",
+      "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Wet Cement (Live from Harlem - Take One)",
-        "url": "https://open.spotify.com/album/0Rpc3fQexSfegjqzzmG7nv"
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/08w80ZQxYfFGVrT5p7F8xU"
       },
       "artists": [
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Wet Cement - Live from Harlem - Take One",
-      "url": "https://open.spotify.com/track/0ZPBCHwfNlYQ3FptzH4nnp"
+      "duration_ms": 156711,
+      "name": "200 Miles",
+      "url": "https://open.spotify.com/track/3n6EREqKsbmZHelpBrvLIr"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Today (can't help but cry)",
+        "url": "https://open.spotify.com/album/71HtRi6nvIXWQgrgnfz0kb"
+      },
+      "artists": [
+        {
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "Today (can't help but cry)",
+      "url": "https://open.spotify.com/track/34uL0b0ekds3vN3jgfpsqS"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "nye",
+        "url": "https://open.spotify.com/album/15FxNcBVCF6nvwCh1QXWGi"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "duration_ms": 46733,
+      "name": "nye",
+      "url": "https://open.spotify.com/track/37qbW7zT6E5OdRCt17qwwF"
+    },
+    {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "You Won't",
+        "url": "https://open.spotify.com/album/6JR0yX7Orycek9RVRUFyH2"
+      },
+      "artists": [
+        {
+          "name": "Marko",
+          "url": "https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5"
+        }
+      ],
+      "duration_ms": 175918,
+      "name": "You Won't",
+      "url": "https://open.spotify.com/track/3KqTfgqq5Y7LO2MABzz8el"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Time for Us",
+        "url": "https://open.spotify.com/album/4JcSjLfUjY6LztBzcuMpAb"
+      },
+      "artists": [
+        {
+          "name": "meija",
+          "url": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Time for Us",
+      "url": "https://open.spotify.com/track/4okLa1YwLP17AN4l2horn3"
     },
     {
       "added_at": "2022-12-23 19:34:29",
@@ -77,20 +189,84 @@
       "url": "https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Today (can't help but cry)",
-        "url": "https://open.spotify.com/album/71HtRi6nvIXWQgrgnfz0kb"
+        "name": "Tear It Apart",
+        "url": "https://open.spotify.com/album/7gSRTvnzdzujSgkhJMUjuY"
       },
       "artists": [
         {
-          "name": "Gretel H\u00e4nlyn",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+          "name": "Lazylazy",
+          "url": "https://open.spotify.com/artist/1TPIf8I6WXXXIRjjSWYiuD"
         }
       ],
-      "duration_ms": 252631,
-      "name": "Today (can't help but cry)",
-      "url": "https://open.spotify.com/track/34uL0b0ekds3vN3jgfpsqS"
+      "duration_ms": 219959,
+      "name": "Tear It Apart",
+      "url": "https://open.spotify.com/track/564EdN2zwo3VzYiMwfnedc"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "I'm Not Ok",
+        "url": "https://open.spotify.com/album/00vDBfnMWFibWlxn8tnaBy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Fullam",
+          "url": "https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw"
+        }
+      ],
+      "duration_ms": 292142,
+      "name": "I'm Not Ok",
+      "url": "https://open.spotify.com/track/3IlIMC0YPARZVADNcP2wwn"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "i don't want to die when i'm with you",
+        "url": "https://open.spotify.com/album/0AQ5e35I6qLTvBZe1h7qBQ"
+      },
+      "artists": [
+        {
+          "name": "WOAH",
+          "url": "https://open.spotify.com/artist/2ED7Zy3i2EuO2L2g2zMoWH"
+        }
+      ],
+      "duration_ms": 235128,
+      "name": "i don't want to die when i'm with you",
+      "url": "https://open.spotify.com/track/1NHdE49HwBPXwy7L1FlIj8"
+    },
+    {
+      "added_at": "2022-12-23 04:00:00",
+      "album": {
+        "name": "Wet Cement (Live from Harlem - Take One)",
+        "url": "https://open.spotify.com/album/0Rpc3fQexSfegjqzzmG7nv"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Wet Cement - Live from Harlem - Take One",
+      "url": "https://open.spotify.com/track/0ZPBCHwfNlYQ3FptzH4nnp"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Leave me alone, dont make me feel alone",
+        "url": "https://open.spotify.com/album/63zV5Yq69hhLICEG0Z5nw9"
+      },
+      "artists": [
+        {
+          "name": "Zav",
+          "url": "https://open.spotify.com/artist/4AeyEdwyfBTZWaqMK31Suc"
+        }
+      ],
+      "duration_ms": 128048,
+      "name": "Leave me alone, dont make me feel alone",
+      "url": "https://open.spotify.com/track/6FXUASuOx7NwQqpOavR8op"
     },
     {
       "added_at": "2022-12-23 04:00:00",
@@ -123,22 +299,6 @@
       "duration_ms": 170826,
       "name": "My Skin",
       "url": "https://open.spotify.com/track/4Ezw6WOStpZON6GrbVxLyu"
-    },
-    {
-      "added_at": "2022-12-23 04:00:00",
-      "album": {
-        "name": "You Won't",
-        "url": "https://open.spotify.com/album/6JR0yX7Orycek9RVRUFyH2"
-      },
-      "artists": [
-        {
-          "name": "Marko",
-          "url": "https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5"
-        }
-      ],
-      "duration_ms": 175918,
-      "name": "You Won't",
-      "url": "https://open.spotify.com/track/3KqTfgqq5Y7LO2MABzz8el"
     },
     {
       "added_at": "2022-12-16 05:00:00",

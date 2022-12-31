@@ -10816,6 +10816,28 @@
     },
     {
       "album": {
+        "name": "F\u00e1bulas",
+        "url": "https://open.spotify.com/album/7wSqqyepUFtfkyaSMNvcv7"
+      },
+      "artists": [
+        {
+          "name": "Todos Me Caen Bien",
+          "url": "https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb"
+        },
+        {
+          "name": "m4nu",
+          "url": "https://open.spotify.com/artist/0pUoGGZ9vPDFfGCXFwkucv"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254524,
+      "name": "F\u00e1bula de la Monta\u00f1a",
+      "url": "https://open.spotify.com/track/0kAvQ4Y9u9D1kqAF6PqRDM"
+    },
+    {
+      "album": {
         "name": "F\u00e1cil",
         "url": "https://open.spotify.com/album/7BIVHxWqlfiM7eDIQlCg8g"
       },
@@ -21533,7 +21555,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 235832,
       "name": "Pendant",
       "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"

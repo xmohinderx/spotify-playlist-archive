@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 853818,
+  "num_followers": 854662,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDg0MzI0NiwwMDAwMDAwMDFjZmNiZDkyNjdjY2UyZDM2ZjZlMGFmYjZiMjhlY2Iy",
+  "snapshot_id": "MTY3MDg0MzI0NiwwMDAwMDAwMDg1NDhiYmE1ZTE4Yjg1MDNiNGViMDNlMjliZjA1MDFi",
   "tracks": [
     {
       "added_at": "2022-09-22 10:17:42",
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/1hUD0aBTicbHb5G3p5P79e"
     },
     {
-      "added_at": "2022-12-30 01:03:04",
+      "added_at": "2022-12-31 00:36:02",
       "album": {
         "name": "Bleed American (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Stay With Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
         "name": "Us and Them (Deluxe Edition)",
         "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 202080,
       "name": "Save Me - Acoustic",
       "url": "https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Stay With Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/4sNbnjnqIKkT16XuUtwU88"
     },
     {
-      "added_at": "2022-12-30 01:03:04",
+      "added_at": "2022-12-31 00:36:02",
       "album": {
         "name": "Teenage Dirtbag 2020 / Mope",
         "url": "https://open.spotify.com/album/0lCvikSjJ1QwvHRTfDEs16"

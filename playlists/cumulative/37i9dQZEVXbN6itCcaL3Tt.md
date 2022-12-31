@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-938 songs - 2 day 0 hr 36 min - [published](https://open.spotify.com/playlist/5wOvQVaAfTjuYNJ4iSoX3S)
+939 songs - 2 day 0 hr 39 min - [published](https://open.spotify.com/playlist/5wOvQVaAfTjuYNJ4iSoX3S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [BŁĄD W SYMULACJI](https://open.spotify.com/track/1PWk4dgJhx5BbzBJxX9Oh8) | [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0), [Pako](https://open.spotify.com/artist/3xLiWZ3znvRdfD3Xv3bjIt), [BAHsick](https://open.spotify.com/artist/0TuA7E5H4nlEtWvpXSr7uv) | [BŁĄD W SYMULACJI](https://open.spotify.com/album/641IacAURXU6OOvAZcGYWn) | 3:47 | 2022-10-12 | 2022-10-23 |
 | [Cake](https://open.spotify.com/track/2us9hMvNxq041NlYfsb7EJ) | [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [2K](https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR) | [DZIARMA](https://open.spotify.com/album/3M2jL4tMc6m3aIFYm7MpAk) | 3:06 | 2021-12-12 | 2021-12-13 |
 | [California](https://open.spotify.com/track/2nFaT0t36H6UX3wN3Vxvjm) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [Rockstar](https://open.spotify.com/album/4WQA0C2nwJvBMTdsjf5JOm) | 3:12 | 2021-05-03 | 2022-10-04 |
+| [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 | 2022-12-30 |  |
 | [Carol of the Bells](https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI) | [Mykola Dmytrovych Leontovych](https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 1:25 | 2022-12-25 | 2022-12-27 |
 | [Casting](https://open.spotify.com/track/19AEobuUpiSHbK2iGSrXZw) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [Casting](https://open.spotify.com/album/1EYZcMbSrfPSeEy32lXJC9) | 2:55 | 2022-01-28 | 2022-01-31 |
 | [CATALINA](https://open.spotify.com/track/6JaBDI7rqyHE0lGbpZrHMK) | [2115](https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [RODZINNY BIZNES](https://open.spotify.com/album/1GabBOxzyUPjkELZE0b3HS) | 3:00 | 2022-12-18 | 2022-12-24 |
@@ -753,7 +754,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-12-07 | 2022-12-29 |
 | [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-09-03 | 2022-12-02 |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-22 | 2022-10-29 |
-| [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-02 |  |
+| [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-02 | 2022-12-31 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-14 | 2022-03-24 |
 | [Solitaire](https://open.spotify.com/track/69JzboWpuDGMhwKuryut8F) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [Hulanki](https://open.spotify.com/album/14pj6NqyPu4yQ7H1FsgoZM) | 2:54 | 2021-09-26 | 2021-09-27 |
 | [Sonic Skit](https://open.spotify.com/track/5d2lkJfRpza95F0c1ZhTfX) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [PRODUKT47](https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn) | 1:03 | 2022-06-11 | 2022-06-18 |

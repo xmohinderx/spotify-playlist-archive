@@ -124,6 +124,24 @@
     },
     {
       "album": {
+        "name": "1000 Reasons",
+        "url": "https://open.spotify.com/album/7pl00j0x6ZdGcYGUSioCdR"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154821,
+      "name": "1000 Reasons",
+      "url": "https://open.spotify.com/track/0dupI7MHvlSXuIHH2YXWHC"
+    },
+    {
+      "album": {
         "name": "1000 Tears",
         "url": "https://open.spotify.com/album/1GeOaXdpEL6mksQ0ELEnCT"
       },
@@ -3104,6 +3122,24 @@
     },
     {
       "album": {
+        "name": "BAD TIME GOOD TIME",
+        "url": "https://open.spotify.com/album/41DUptL82OsBL8A1nNHUKE"
+      },
+      "artists": [
+        {
+          "name": "Laura Marano",
+          "url": "https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194501,
+      "name": "BAD TIME GOOD TIME",
+      "url": "https://open.spotify.com/track/4Hl8wmrubcVKUVqC3OagaP"
+    },
+    {
+      "album": {
         "name": "Ballerina",
         "url": "https://open.spotify.com/album/4NpgESP5KvrF7vXl2XgJBj"
       },
@@ -3687,7 +3723,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 245866,
       "name": "Being Human",
       "url": "https://open.spotify.com/track/3yM2e28db23X8w3P0YG33p"
@@ -3817,6 +3853,24 @@
       "duration_ms": 117473,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/4m2Fep3UwjUkUTJ4KPnJZ0"
+    },
+    {
+      "album": {
+        "name": "Best Friends to Lovers",
+        "url": "https://open.spotify.com/album/28M65scqDcwxudYvIUcwbU"
+      },
+      "artists": [
+        {
+          "name": "Yael Danon",
+          "url": "https://open.spotify.com/artist/7ovOh90N4ZI0IyrTaOefw5"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Best Friends to Lovers",
+      "url": "https://open.spotify.com/track/55M5xYQsmCjDattyW0ObCI"
     },
     {
       "album": {
@@ -5920,6 +5974,24 @@
     },
     {
       "album": {
+        "name": "can't say goodbye",
+        "url": "https://open.spotify.com/album/0NV1aiCYnjqbJTPpytd1KY"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108483,
+      "name": "can't say goodbye",
+      "url": "https://open.spotify.com/track/4Y5LCWJIbyX5lm5Y5nqhoN"
+    },
+    {
+      "album": {
         "name": "Thorns EP",
         "url": "https://open.spotify.com/album/090fcD0E5Uzxil8i71xBrf"
       },
@@ -6245,6 +6317,24 @@
       "duration_ms": 173214,
       "name": "Caught Up (with Olivia O'Brien)",
       "url": "https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1"
+    },
+    {
+      "album": {
+        "name": "Cautiously Optimistic",
+        "url": "https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145674,
+      "name": "Cautiously Optimistic",
+      "url": "https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2"
     },
     {
       "album": {
@@ -6617,7 +6707,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 189969,
       "name": "christopher street",
       "url": "https://open.spotify.com/track/6V8qSQ7na1atg4V8iR1e2x"
@@ -7139,7 +7229,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 232733,
       "name": "Common Denominator",
       "url": "https://open.spotify.com/track/1mTOWJsgiqMnpZJMOynPgA"
@@ -8637,7 +8727,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 198990,
       "name": "Delilah (pull me out of this) - Acoustic",
       "url": "https://open.spotify.com/track/2cvxgzEDS9JJlSzchrUzxf"
@@ -10903,7 +10993,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 121597,
       "name": "Everything Is Nothing",
       "url": "https://open.spotify.com/track/0Uk4Vl90h4B217sWhXJeIf"
@@ -11676,6 +11766,24 @@
     },
     {
       "album": {
+        "name": "Final Words",
+        "url": "https://open.spotify.com/album/6eEpX0je2ssmyK4tCz5yuA"
+      },
+      "artists": [
+        {
+          "name": "Tyrer",
+          "url": "https://open.spotify.com/artist/7frgKOQYzrHKVG7Zqemwi6"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198290,
+      "name": "Final Words",
+      "url": "https://open.spotify.com/track/3xCQm0IjOiATbchhnupmSY"
+    },
+    {
+      "album": {
         "name": "High School Musical: The Musical: The Series Season 3 (Episode 1) [From \"High School Musical: The Musical: The Series (Season 3)\"]",
         "url": "https://open.spotify.com/album/6lKBnP2FxDAFxUHVIxuvDC"
       },
@@ -11969,6 +12077,24 @@
       "duration_ms": 217226,
       "name": "Fool's Paradise",
       "url": "https://open.spotify.com/track/6i1oDAyk0Yf1vYGZdRVEjI"
+    },
+    {
+      "album": {
+        "name": "For an Evening",
+        "url": "https://open.spotify.com/album/0auzW0Fo22oIXe48MAnZsW"
+      },
+      "artists": [
+        {
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255666,
+      "name": "For an Evening",
+      "url": "https://open.spotify.com/track/2ry3JuCKfudzLz0TUeQPgp"
     },
     {
       "album": {
@@ -12769,7 +12895,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 210186,
       "name": "georgia",
       "url": "https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc"
@@ -13649,7 +13775,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 157678,
       "name": "Good Company",
       "url": "https://open.spotify.com/track/0bs4c6mFxhNMqQvOjv4vR3"
@@ -13935,7 +14061,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 303544,
       "name": "Gothic Babe Tendencies (feat. blackbear)",
       "url": "https://open.spotify.com/track/3l207IhDzpcRe5MlgNM7ZX"
@@ -14296,6 +14422,24 @@
     },
     {
       "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/7rQjX2ZepaAedLLcl4Fah6"
+      },
+      "artists": [
+        {
+          "name": "Loren Gray",
+          "url": "https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193833,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/4hrhbBDsHsyPRlRmAhr0B7"
+    },
+    {
+      "album": {
         "name": "Guitars and Drugs",
         "url": "https://open.spotify.com/album/1HTGmS5myekLKaz6nxls7V"
       },
@@ -14585,6 +14729,24 @@
       "duration_ms": 159117,
       "name": "Happiness 4 Dummies",
       "url": "https://open.spotify.com/track/0WKZtlkkgK44fVSrP75EO2"
+    },
+    {
+      "album": {
+        "name": "Happy Birthday!",
+        "url": "https://open.spotify.com/album/3H423tiQDa9vhLs8DizhF7"
+      },
+      "artists": [
+        {
+          "name": "Stalking Gia",
+          "url": "https://open.spotify.com/artist/3VTJqPiHqHHIrx1FL7avMY"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155935,
+      "name": "Happy Birthday!",
+      "url": "https://open.spotify.com/track/4ODk3dsfaU05R0XZfUeECB"
     },
     {
       "album": {
@@ -17958,6 +18120,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Be with You",
+        "url": "https://open.spotify.com/album/7ATki1nJUJkaG7rpnVBJJy"
+      },
+      "artists": [
+        {
+          "name": "Chris James",
+          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182343,
+      "name": "I Wanna Be with You",
+      "url": "https://open.spotify.com/track/48UdFbDtRRYSvk0L8GCZyC"
+    },
+    {
+      "album": {
         "name": "I Wanna Feel Good",
         "url": "https://open.spotify.com/album/1s6h54FeQ45AQ9l7xOHnuO"
       },
@@ -19107,6 +19287,28 @@
       "duration_ms": 146769,
       "name": "indieedgycool",
       "url": "https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/7y6oATKlbKFNs8PQT1MpqU"
+      },
+      "artists": [
+        {
+          "name": "MOONZz",
+          "url": "https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab"
+        },
+        {
+          "name": "Aaron Taos",
+          "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150371,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/3dDfVmRywNtwB7flbTicZ6"
     },
     {
       "album": {
@@ -21115,7 +21317,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 149727,
       "name": "Let Me Down (with Chelsea Cutler)",
       "url": "https://open.spotify.com/track/0ulm3WgGZsMAgwwv0Zg00W"
@@ -23572,6 +23774,24 @@
     },
     {
       "album": {
+        "name": "Maya",
+        "url": "https://open.spotify.com/album/3L9E8GtsdPSOIyqISsq3Qr"
+      },
+      "artists": [
+        {
+          "name": "Tobias Dray",
+          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207955,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu"
+    },
+    {
+      "album": {
         "name": "Maybe Tomorrow",
         "url": "https://open.spotify.com/album/0VJ6OQhnO7yJtYOz5Sxol1"
       },
@@ -24227,6 +24447,28 @@
       "duration_ms": 220953,
       "name": "Modern Love",
       "url": "https://open.spotify.com/track/7f9K6fJcvBVcati3SivAPW"
+    },
+    {
+      "album": {
+        "name": "why not us",
+        "url": "https://open.spotify.com/album/4Ivk5W6s5LtR5klO5u98Ry"
+      },
+      "artists": [
+        {
+          "name": "Skeez",
+          "url": "https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG"
+        },
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182539,
+      "name": "Modest",
+      "url": "https://open.spotify.com/track/7MXChMwOQfLuF5Ma5nFDaO"
     },
     {
       "album": {
@@ -25905,7 +26147,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 139315,
       "name": "No Longer Lovers",
       "url": "https://open.spotify.com/track/6DykI3K2Ib9BC1E9JgaSoE"
@@ -27623,7 +27865,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 120545,
       "name": "P.O.S.",
       "url": "https://open.spotify.com/track/3H88XHhVp3GUJ2C3ZuSf2U"
@@ -29357,7 +29599,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 165563,
       "name": "Reality Television",
       "url": "https://open.spotify.com/track/5AA7wTk7aLkHg9JstMideg"
@@ -29682,6 +29924,24 @@
     },
     {
       "album": {
+        "name": "ride",
+        "url": "https://open.spotify.com/album/482gmWwjsBiasgZmP9V76B"
+      },
+      "artists": [
+        {
+          "name": "Eden Elf",
+          "url": "https://open.spotify.com/artist/0S9wI9ZGeEwgNmVC61utdR"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219972,
+      "name": "ride",
+      "url": "https://open.spotify.com/track/2I3gPgCpZJ3KCMyc94H4ds"
+    },
+    {
+      "album": {
         "name": "Digital Dreamscape (Deluxe)",
         "url": "https://open.spotify.com/album/1sZfrNrXrkhxjAXcRHEFHQ"
       },
@@ -29953,6 +30213,24 @@
       "duration_ms": 151500,
       "name": "ROOM FOR 2",
       "url": "https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR"
+    },
+    {
+      "album": {
+        "name": "room number",
+        "url": "https://open.spotify.com/album/48Sn84Qf5HfcmSVm0Arsxd"
+      },
+      "artists": [
+        {
+          "name": "contradash",
+          "url": "https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133539,
+      "name": "room number",
+      "url": "https://open.spotify.com/track/5Ab46BxMyCvRecfIjH25rK"
     },
     {
       "album": {
@@ -31921,7 +32199,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 179106,
       "name": "Skeleton Key",
       "url": "https://open.spotify.com/track/3cUcHmvK9cYmOzJsa6BjXu"
@@ -32960,6 +33238,24 @@
     },
     {
       "album": {
+        "name": "Sorry?",
+        "url": "https://open.spotify.com/album/1Nxkgmf6OJimRlpeVdMz03"
+      },
+      "artists": [
+        {
+          "name": "Hila",
+          "url": "https://open.spotify.com/artist/5108Veq1Ds8wvXbOvm37k0"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222701,
+      "name": "Sorry?",
+      "url": "https://open.spotify.com/track/3TVHf2iC4sIdhYT6dTNPv7"
+    },
+    {
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/4oW03FMm0t1yYIa0RjBl12"
       },
@@ -33539,7 +33835,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 175328,
       "name": "Still Life (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/3p4N6mBFv42M8dI8SUoPre"
@@ -33777,7 +34073,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 178912,
       "name": "Suckerpunch",
       "url": "https://open.spotify.com/track/0v3N6CXe66fR56ft39WL5b"
@@ -34009,7 +34305,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 222529,
       "name": "Sunny D",
       "url": "https://open.spotify.com/track/6RfuWRctUik5CiwnIajDVB"
@@ -34927,7 +35223,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 115340,
       "name": "Test 11",
       "url": "https://open.spotify.com/track/62YozTRFiYMmqXzk1VAeMh"
@@ -36397,6 +36693,24 @@
       "duration_ms": 188915,
       "name": "To You",
       "url": "https://open.spotify.com/track/1E3kZm0hRvK0UnxIhUMRnW"
+    },
+    {
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS"
+      },
+      "artists": [
+        {
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222253,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/0rkOrVDaEZFjYh0s2ncz3l"
     },
     {
       "album": {
@@ -38185,6 +38499,24 @@
       "duration_ms": 156585,
       "name": "watch me miss (feat. Jomie)",
       "url": "https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0"
+    },
+    {
+      "album": {
+        "name": "Watch Me Stand Out",
+        "url": "https://open.spotify.com/album/1EwRJ3HnBWmCC3qUjN3vqA"
+      },
+      "artists": [
+        {
+          "name": "Club Yoko",
+          "url": "https://open.spotify.com/artist/3kcV06zLtzUXC1p43aO5DJ"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Watch Me Stand Out",
+      "url": "https://open.spotify.com/track/0y10Vb0edPNHpZpSNbjsor"
     },
     {
       "album": {
@@ -40385,7 +40717,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 199240,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/63f61B8JBXiBE3O10tONIj"

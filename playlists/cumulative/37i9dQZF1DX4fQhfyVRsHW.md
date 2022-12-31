@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-124 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
+125 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Embrace the Light](https://open.spotify.com/track/09U502UKKVz6OtWUidPyf1) | [Doosi](https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP) | [Embrace the Light](https://open.spotify.com/album/4O6JKe83iRSaZRKvXurpqG) | 3:06 | 2022-05-25 |  |
 | [Equilibrio Chakra](https://open.spotify.com/track/6FXUg0x7gz4uCGzS87ujtJ) | [Best Harmony](https://open.spotify.com/artist/1DDYlvXBDsH6Js1b4fEaTM) | [Sonidos Tibetanos para Meditar \- Cuencos Tibetanos y Musica Asiatica](https://open.spotify.com/album/2Xp8zVzp2wJ8eozu66VFyv) | 4:59 | 2022-05-25 | 2022-07-29 |
 | [Equilibrio Chakra](https://open.spotify.com/track/6dKCIy6fyTBMpwmEFT22D1) | [Best Harmony](https://open.spotify.com/artist/1DDYlvXBDsH6Js1b4fEaTM) | [Musica Relajante y Sonidos Naturales para Aliviar el Estres](https://open.spotify.com/album/6jxGBEYYWB4Zj4oaJ5mdrg) | 4:59 | 2022-10-21 | 2022-11-13 |
-| [Equilibrio Chakra](https://open.spotify.com/track/7cF8QHf8cg5FTsLfBpP9GC) | [Estudio Hermoso](https://open.spotify.com/artist/0LMY7yPx2Zd0re2pemRckc) | [Estudio Fácil y Rápido: Sonidos de la Naturaleza para Concentrarse, Aprendizaje Pacífico](https://open.spotify.com/album/2emD2J6rVK0PearatKIG19) | 4:59 | 2022-07-22 |  |
+| [Equilibrio Chakra](https://open.spotify.com/track/7cF8QHf8cg5FTsLfBpP9GC) | [Estudio Hermoso](https://open.spotify.com/artist/0LMY7yPx2Zd0re2pemRckc) | [Estudio Fácil y Rápido: Sonidos de la Naturaleza para Concentrarse, Aprendizaje Pacífico](https://open.spotify.com/album/2emD2J6rVK0PearatKIG19) | 4:59 | 2022-07-22 | 2022-12-31 |
 | [Equilibrium](https://open.spotify.com/track/1ZcQnf6WQyZK3kl3rSsd0m) | [Alina Hill](https://open.spotify.com/artist/2Ok5dXrKJa8fs1vSoOMHlQ) | [Equilibrium](https://open.spotify.com/album/6wIxeFFgRbTgKQXuvUnny3) | 3:06 | 2022-05-25 |  |
 | [Espira Naturesque](https://open.spotify.com/track/4rpZd4h0WnZqDr67kLE3KR) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Espira](https://open.spotify.com/album/2lnksrCViusZPlkyVbxDJJ) | 3:20 | 2022-05-25 |  |
 | [Essence](https://open.spotify.com/track/5k4d2aTb3iv6SyPFM2ThRt) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Essence](https://open.spotify.com/album/5OAJ05tD9LeiJTAUcThnUL) | 3:45 | 2022-05-25 |  |
@@ -123,6 +123,7 @@
 | [The Loneliest Curtain](https://open.spotify.com/track/5uv1fBhVNeMReRAEls2SPg) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [The Loneliest Curtain](https://open.spotify.com/album/5uUMZoJVLSxgo8SEPDn2BF) | 2:10 | 2022-05-25 |  |
 | [The Lonely Ride](https://open.spotify.com/track/2sYuq6n08j87xIi7FnKw5q) | [Aran Belle](https://open.spotify.com/artist/7vBevoeKoG6b09kZzUWdpN) | [The Lonely Ride](https://open.spotify.com/album/2jkZVUzPGxsvgGymz20jVq) | 2:07 | 2022-05-25 |  |
 | [The Mystic](https://open.spotify.com/track/4VRUjbRwcIcYgzQFneOyft) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [The Mystic](https://open.spotify.com/album/4gVE8JNTygjutVCrGgTEPp) | 2:55 | 2022-05-25 |  |
+| [The Wonder of Nature](https://open.spotify.com/track/5Ib96cyGrJO5UCHepKSwge) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Bridge of Life](https://open.spotify.com/album/4nJofJQsYmbn5Hr4VYhKCU) | 2:54 | 2022-12-30 |  |
 | [Uferlos](https://open.spotify.com/track/1f2o75H7I9RgWzf076ZVzQ) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Uferlos](https://open.spotify.com/album/1zJ3zOQa4YXNn2yf89D0rN) | 3:26 | 2022-05-25 |  |
 | [Underwater Dreams](https://open.spotify.com/track/5hXdhKr9aa6O9tJbXJXphA) | [Silver Blue Moon](https://open.spotify.com/artist/0Nhbspw23XX6i6EsnkP0pX) | [Underwater Dreams](https://open.spotify.com/album/1fqf2kxSls8sPND15hCgsH) | 3:33 | 2022-05-25 |  |
 | [Vila](https://open.spotify.com/track/2M78TKNx5DGgXKfCPTHIXK) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Vila](https://open.spotify.com/album/2OraxQTVImlSvRdxIhgR84) | 3:20 | 2022-05-25 |  |

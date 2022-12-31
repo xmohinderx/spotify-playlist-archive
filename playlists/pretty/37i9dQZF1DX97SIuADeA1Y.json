@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 281102,
+  "num_followers": 281222,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE5NzQ4MCwwMDAwMDAwMGM0YWQ2NTQzMzk4ZmY2YTdhNjBjYzY0ZGExOTUxMTgx",
+  "snapshot_id": "MTY3MjQwNTIwMCwwMDAwMDAwMDZkNjc4M2Y1OGMzNWVmYWIwYjk4OTVlOGNmMmY4ODQ1",
   "tracks": [
     {
       "added_at": "2022-12-16 13:31:20",
@@ -27,6 +27,26 @@
       "duration_ms": 144000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
+    },
+    {
+      "added_at": "2022-12-31 01:12:08",
+      "album": {
+        "name": "Shake That",
+        "url": "https://open.spotify.com/album/2SYED5j8wPKjVW5cviH4qN"
+      },
+      "artists": [
+        {
+          "name": "Gang Speed",
+          "url": "https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv"
+        },
+        {
+          "name": "Treetalk",
+          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
+        }
+      ],
+      "duration_ms": 179801,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/1BrIZsDXewY03c9BUY4Rn9"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -111,6 +131,30 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
+        "name": "Gangsta's Paradise",
+        "url": "https://open.spotify.com/album/5miAnRqv7eWbmgY4nK7jU9"
+      },
+      "artists": [
+        {
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+        },
+        {
+          "name": "Bodybangers",
+          "url": "https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA"
+        },
+        {
+          "name": "Lotus",
+          "url": "https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b"
+        }
+      ],
+      "duration_ms": 168300,
+      "name": "Gangsta's Paradise",
+      "url": "https://open.spotify.com/track/6Cm7r5U5igaAnwKOWjFhTq"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/6fN9aKsrArw37XP4Wdiiw6"
       },
@@ -155,30 +199,6 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "Gangsta's Paradise",
-        "url": "https://open.spotify.com/album/5miAnRqv7eWbmgY4nK7jU9"
-      },
-      "artists": [
-        {
-          "name": "Coolio",
-          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
-        },
-        {
-          "name": "Bodybangers",
-          "url": "https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA"
-        },
-        {
-          "name": "Lotus",
-          "url": "https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b"
-        }
-      ],
-      "duration_ms": 168300,
-      "name": "Gangsta's Paradise",
-      "url": "https://open.spotify.com/track/6Cm7r5U5igaAnwKOWjFhTq"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
         "name": "Boots",
         "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
       },
@@ -213,6 +233,26 @@
       "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
     },
     {
+      "added_at": "2022-12-31 01:12:08",
+      "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+        }
+      ],
+      "duration_ms": 160849,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
+    },
+    {
       "added_at": "2022-12-16 13:31:20",
       "album": {
         "name": "Slap House Party",
@@ -227,58 +267,6 @@
       "duration_ms": 165428,
       "name": "Drunk in Love",
       "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
-        "name": "Living Like",
-        "url": "https://open.spotify.com/album/2QyT0J5VlJUFKPK8nlmKKh"
-      },
-      "artists": [
-        {
-          "name": "Badscandal",
-          "url": "https://open.spotify.com/artist/29kaubgb6Esvwu0idVndGy"
-        },
-        {
-          "name": "DJ DimixeR",
-          "url": "https://open.spotify.com/artist/4ct46r2TLbnm4Hw3jGQEok"
-        },
-        {
-          "name": "PACANI",
-          "url": "https://open.spotify.com/artist/2nxv5w3WmZvpfg3VAhAfxY"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "Living Like",
-      "url": "https://open.spotify.com/track/2tyeaJEKz1urxPgFBPZpuJ"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/3Ip5Hu617beWtwIrO9v97a"
-      },
-      "artists": [
-        {
-          "name": "Blaze U",
-          "url": "https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1"
-        },
-        {
-          "name": "Viktoria Vane",
-          "url": "https://open.spotify.com/artist/79dlbfHIQnyxL71jvyQw4J"
-        },
-        {
-          "name": "Damon Paul",
-          "url": "https://open.spotify.com/artist/1oCUBnT304Iyc95vKgjyj0"
-        },
-        {
-          "name": "Beccy",
-          "url": "https://open.spotify.com/artist/67XcyPV0HME7hw7ATGpk5J"
-        }
-      ],
-      "duration_ms": 120585,
-      "name": "Killing Me Softly",
-      "url": "https://open.spotify.com/track/46vvP61lftD3CERdB3Y5yA"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -305,6 +293,22 @@
       "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
     },
     {
+      "added_at": "2022-12-31 01:12:08",
+      "album": {
+        "name": "Lust",
+        "url": "https://open.spotify.com/album/1a0tiOO2ge9jZYYCCFEHrg"
+      },
+      "artists": [
+        {
+          "name": "Scott Rill",
+          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/5w9jjuwPjcE3JbrKySYhFM"
+    },
+    {
       "added_at": "2022-12-16 13:31:20",
       "album": {
         "name": "Touch",
@@ -319,30 +323,6 @@
       "duration_ms": 144677,
       "name": "Touch",
       "url": "https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
-        "name": "Lady",
-        "url": "https://open.spotify.com/album/3S8f5GXk7reT5IFw6XjRBl"
-      },
-      "artists": [
-        {
-          "name": "LANN\u00c9",
-          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
-        },
-        {
-          "name": "Giorgio Gee",
-          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
-        },
-        {
-          "name": "Scott Rill",
-          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
-        }
-      ],
-      "duration_ms": 155267,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/5MZtSCAvjvCoUbJ0a9ljum"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -371,26 +351,26 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "Under the Influence",
-        "url": "https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx"
+        "name": "Lady",
+        "url": "https://open.spotify.com/album/3S8f5GXk7reT5IFw6XjRBl"
       },
       "artists": [
         {
-          "name": "Krmoni",
-          "url": "https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz"
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
         },
         {
-          "name": "Coffeeshop",
-          "url": "https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC"
+          "name": "Giorgio Gee",
+          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
         },
         {
-          "name": "Tommy Rage",
-          "url": "https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3"
+          "name": "Scott Rill",
+          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
         }
       ],
-      "duration_ms": 165853,
-      "name": "Under the Influence",
-      "url": "https://open.spotify.com/track/6nbVuVm0K2Rg4RSkuY63hr"
+      "duration_ms": 155267,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/5MZtSCAvjvCoUbJ0a9ljum"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -567,26 +547,6 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "Mistakes",
-        "url": "https://open.spotify.com/album/3U16S348ETHW0DTPeM9Pp0"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 153719,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/0RvQLK3wSHhRuC55sjxeSQ"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
         "name": "Somebody To Love",
         "url": "https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc"
       },
@@ -615,6 +575,30 @@
       "duration_ms": 189543,
       "name": "Twinkle Twinkle",
       "url": "https://open.spotify.com/track/7oIN5Dc6kaetarZgBvII8H"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
+        "name": "Under the Influence",
+        "url": "https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx"
+      },
+      "artists": [
+        {
+          "name": "Krmoni",
+          "url": "https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz"
+        },
+        {
+          "name": "Coffeeshop",
+          "url": "https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC"
+        },
+        {
+          "name": "Tommy Rage",
+          "url": "https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Under the Influence",
+      "url": "https://open.spotify.com/track/6nbVuVm0K2Rg4RSkuY63hr"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -695,6 +679,26 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
+        "name": "I'm Okay",
+        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        }
+      ],
+      "duration_ms": 151723,
+      "name": "I'm Okay",
+      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
         "name": "Shooting Darts (with R3HAB & Prezioso)",
         "url": "https://open.spotify.com/album/27b3Ufr52LTyphs8s3PEZB"
       },
@@ -715,26 +719,6 @@
       "duration_ms": 152903,
       "name": "Shooting Darts (with R3HAB & Prezioso)",
       "url": "https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
-        "name": "I'm Okay",
-        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "OBS",
-          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
-        }
-      ],
-      "duration_ms": 151723,
-      "name": "I'm Okay",
-      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
     },
     {
       "added_at": "2022-12-16 13:31:20",

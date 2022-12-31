@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 245080,
+  "num_followers": 245137,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGRjNGVmZDIzYTg1MmFjYzQ1YWQ4YWJmNmIyZDVlMjhh",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGUwMGRiMmZkODZkYTgxZTAxMGVhNzBjM2FlNGFiOTY4",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -99,22 +99,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Every High",
-        "url": "https://open.spotify.com/album/31uk6I84Dt62kKgEOhIDfl"
-      },
-      "artists": [
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Every High",
-      "url": "https://open.spotify.com/track/7kzz52nsw2wy0LPQ84ynHE"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Theres Still Us",
         "url": "https://open.spotify.com/album/3YjNmDFxVL4IkODiF0cPwp"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 157384,
       "name": "I'm sorry",
       "url": "https://open.spotify.com/track/7pgneFkR3Vb8Q8J1Nheepd"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Every High",
+        "url": "https://open.spotify.com/album/31uk6I84Dt62kKgEOhIDfl"
+      },
+      "artists": [
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Every High",
+      "url": "https://open.spotify.com/track/7kzz52nsw2wy0LPQ84ynHE"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -423,6 +423,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Ayahuasca",
+        "url": "https://open.spotify.com/album/6g9UQ5hfoMEecRQwhnyqo6"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/6zUi8XppfhPn8xmi4przSg"
+        }
+      ],
+      "duration_ms": 508601,
+      "name": "Ayahuasca",
+      "url": "https://open.spotify.com/track/1MKS0c8KhGm84hQcYlzFtv"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Unusable Love",
         "url": "https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 281110,
       "name": "I'm Right Here",
       "url": "https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Ayahuasca",
-        "url": "https://open.spotify.com/album/6g9UQ5hfoMEecRQwhnyqo6"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/6zUi8XppfhPn8xmi4przSg"
-        }
-      ],
-      "duration_ms": 508601,
-      "name": "Ayahuasca",
-      "url": "https://open.spotify.com/track/1MKS0c8KhGm84hQcYlzFtv"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -547,6 +547,26 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Woodstock (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        }
+      ],
+      "duration_ms": 194434,
+      "name": "Feel It Still - Medasin Remix",
+      "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Cycle",
         "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 153700,
       "name": "After the Tone with Lossapardo",
       "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Woodstock (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Medasin",
-          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
-        }
-      ],
-      "duration_ms": 194434,
-      "name": "Feel It Still - Medasin Remix",
-      "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
     },
     {
       "added_at": "2018-12-11 21:12:31",

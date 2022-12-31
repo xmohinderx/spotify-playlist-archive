@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: MD Chefe, DomLaike, Rare G, 4Genesis, Cax Camp
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,987 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,272 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 43 | [Contando Dinheiro](https://open.spotify.com/track/1jeg6gX21ljllOryvi9SJh) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [Intocável](https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw) | 2:54 |
 | 44 | [OUTRO PATAMAR](https://open.spotify.com/track/48zE1jY1K1oqjpD3G6UGfH) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [OUTRO PATAMAR](https://open.spotify.com/album/1nb3EIZXO75bxWDz0Agxfo) | 3:26 |
 | 45 | [Melhor Gestão](https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Melhor Gestão](https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT) | 3:26 |
-| 46 | [Tô Mudado](https://open.spotify.com/track/2rM4PoRWLhbqRaPnqvi9i3) | [Max Único](https://open.spotify.com/artist/3BBE6ygahYvS36yLUe6Lhh), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [Versátil](https://open.spotify.com/album/74KJcP4LVjg2E3X8yoFX6o) | 2:16 |
-| 47 | [Meu Carro na Pista](https://open.spotify.com/track/0K9HKdZMguk6mQI8YIYBlK) | [DANK](https://open.spotify.com/artist/7tDjxyXj7EWdnnpAVwr2zM), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Meu Carro na Pista](https://open.spotify.com/album/2v9St64Ky2ag2jZ5JLgPZV) | 2:24 |
-| 48 | [Rajadão](https://open.spotify.com/track/7jmuBk1yOqprmak8PCgd1t) | [Jhow](https://open.spotify.com/artist/53lrUpwDAdUp9ix7Xotwgy), [DreamHou$e](https://open.spotify.com/artist/6tWD8u5kp6Fab82ziFL3mH), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Rajadão](https://open.spotify.com/album/6GsFdEZ4cKfrZLSp7U4Cbk) | 2:36 |
+| 46 | [Meu Carro na Pista](https://open.spotify.com/track/0K9HKdZMguk6mQI8YIYBlK) | [DANK](https://open.spotify.com/artist/7tDjxyXj7EWdnnpAVwr2zM), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Meu Carro na Pista](https://open.spotify.com/album/2v9St64Ky2ag2jZ5JLgPZV) | 2:24 |
+| 47 | [Rajadão](https://open.spotify.com/track/7jmuBk1yOqprmak8PCgd1t) | [Jhow](https://open.spotify.com/artist/53lrUpwDAdUp9ix7Xotwgy), [DreamHou$e](https://open.spotify.com/artist/6tWD8u5kp6Fab82ziFL3mH), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Rajadão](https://open.spotify.com/album/6GsFdEZ4cKfrZLSp7U4Cbk) | 2:36 |
+| 48 | [Da Cor do Pecado](https://open.spotify.com/track/5j3E6bblO7ImykVbDa2FfU) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0), [NaldimNaVoz](https://open.spotify.com/artist/3GTZrcrvwcZUVFxDUt3KU0) | [Da Cor do Pecado](https://open.spotify.com/album/5hD4TEdWvWfOFPgPVIf6CT) | 2:36 |
 | 49 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |
 | 50 | [Estilo Brasileiro](https://open.spotify.com/track/1cetHcFTKiY11MaJ4Q76dC) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Estilo Brasileiro](https://open.spotify.com/album/4FBzCPShhOsh7RBIc0ofkX) | 2:01 |
 
-Snapshot ID: `MTY3MTc2NDQ2MCwwMDAwMDAwMGY5NzViMTY1MjRkYTQwNTcyZWM4ZjBkZWYyMWQ1MGY1`
+Snapshot ID: `MTY3MjM2OTI2MCwwMDAwMDAwMDE4ZDVhMDYzYWU1ZDdjZGYyNGU3ZGI0OTg4Y2RjYWUx`

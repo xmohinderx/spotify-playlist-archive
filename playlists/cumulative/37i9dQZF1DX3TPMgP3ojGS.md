@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,621 songs - 3 day 1 hr 5 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,622 songs - 3 day 1 hr 7 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1147,7 +1147,7 @@
 | [Rue de Rivoli](https://open.spotify.com/track/2QdIzYZgex1rqQ2OjA2LTb) | [Francine Leblanc](https://open.spotify.com/artist/3ua2qjBzlY2IDpjWQJA8Uy) | [Rue de Rivoli](https://open.spotify.com/album/5bExtKRwzIRQh9ozDlLSbn) | 2:09 | 2021-03-06\* | 2022-04-18 |
 | [Rues de Flavigny](https://open.spotify.com/track/1Ozxe6DIFd6e6qTPvv8M40) | [Caroline Collette](https://open.spotify.com/artist/2BGDPQmQ1UAeMbQSKpGm8V) | [Rues de Flavigny](https://open.spotify.com/album/5QHQ8nu9QhbcAkJ2I7IRWi) | 2:57 | 2021-03-20 | 2022-04-01 |
 | [Ruiseñor](https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Khione](https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51) | 2:59 | 2022-12-27 |  |
-| [Rêvasser](https://open.spotify.com/track/2rBLJwsNjWvSx0yVAQLc3B) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Rêvasser](https://open.spotify.com/album/0xnlKa5rkGsf3r93ULxb3l) | 3:29 | 2022-12-24 |  |
+| [Rêvasser](https://open.spotify.com/track/2rBLJwsNjWvSx0yVAQLc3B) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Rêvasser](https://open.spotify.com/album/0xnlKa5rkGsf3r93ULxb3l) | 3:29 | 2022-12-24 | 2022-12-31 |
 | [Rêverie, L\. 68](https://open.spotify.com/track/5IzY73gAigNjKuGIFQQm3g) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [François\-Joël Thiollier](https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM) | [Art & Music: Degas – Music of His Time](https://open.spotify.com/album/4lEJwhXrs0rjhIfN3f77pc) | 4:23 | 2021-03-10 | 2021-03-11 |
 | [Rêves d'éternité](https://open.spotify.com/track/013h40ZaPMhd98D3SCqrjC) | [Amélie Chantal](https://open.spotify.com/artist/5zuXGJ6hQt9pckfi7JOLVO) | [Rêves d'éternité](https://open.spotify.com/album/45b289J4ODP1WeI9RYjgjR) | 1:56 | 2021-04-06 | 2022-04-15 |
 | [Rêves dans la nuit](https://open.spotify.com/track/6ymh2bWqGE8PBs2oDEZzQ9) | [Chantal Serville](https://open.spotify.com/artist/6urCvaK0qMGvUeXpXleWIw) | [Rêves dans la nuit](https://open.spotify.com/album/4ojJHTOYusAqh2MvIuiwYF) | 2:52 | 2021-08-09 | 2022-05-22 |
@@ -1249,6 +1249,7 @@
 | [Soirée Chorale](https://open.spotify.com/track/58IwKBN3bFuJwub5Z5TaGO) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Soirée Chorale](https://open.spotify.com/album/2aIxLvoCk2Br7q9kPCSkY6) | 2:16 | 2022-06-14 | 2022-07-08 |
 | [Sol Lucet](https://open.spotify.com/track/5xK6Cl0JX7aKAuNEzFhyRn) | [Melanie Brown](https://open.spotify.com/artist/5pxml4hhSFevcsonpJOIgp) | [Sol Lucet](https://open.spotify.com/album/2Cgbz7Tw2GWOMtkoPPz2p7) | 3:48 | 2022-04-14 | 2022-04-16 |
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2022-12-24 |  |
+| [Solace](https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Solace](https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB) | 2:31 | 2022-12-31 |  |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-02-01 | 2022-02-06 |
 | [Solitaire](https://open.spotify.com/track/4YMvriirsclBSASn6serSA) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Solitaire](https://open.spotify.com/album/3Ji3wmlRwoq8eCnOR8uXpS) | 3:04 | 2021-03-16 | 2021-03-17 |
 | [Solitaire](https://open.spotify.com/track/7jYOivheBtZYcsnJhQOMXT) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Solitaire](https://open.spotify.com/album/0pJKEJHiWZfkESbo8slz54) | 1:54 | 2021-03-17 | 2022-04-11 |

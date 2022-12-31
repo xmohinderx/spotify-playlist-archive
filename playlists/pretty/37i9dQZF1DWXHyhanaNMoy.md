@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Alleen maar motion en good vibes\. Cover: Lani Manila
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,361 likes - 77 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,396 likes - 77 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Robotica \(Remix\) \[feat\. Kilate Tesla, Ozin & Riverali\]](https://open.spotify.com/track/2pBfF9Prcj3RTrsS8NyMJd) | [Lani Manila](https://open.spotify.com/artist/0g7NWpl1IogB4zosDPZ4Eu), [Ozin](https://open.spotify.com/artist/3VY9hWsvkxG3zzfoS72U93), [Riverali](https://open.spotify.com/artist/2hjZB2EP4nefXJMwahLPKx), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [Robotica \(Remix\) \[feat\. Ozin, Riverali & Kilate Tesla\]](https://open.spotify.com/album/2EVwPA5Os9FtUTn2v1t6Kv) | 2:24 |
-| 2 | [Hands Up \(feat\. Dopebwoy\)](https://open.spotify.com/track/4SG0taCeFyMRCk1B2oPJ9R) | [Kevcody](https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hands Up \(feat\. Dopebwoy\)](https://open.spotify.com/album/48xPTdsbfEwQcuJ3FIHNpn) | 2:38 |
+| 1 | [Hands Up \(feat\. Dopebwoy\)](https://open.spotify.com/track/4SG0taCeFyMRCk1B2oPJ9R) | [Kevcody](https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hands Up \(feat\. Dopebwoy\)](https://open.spotify.com/album/48xPTdsbfEwQcuJ3FIHNpn) | 2:38 |
+| 2 | [Robotica \(Remix\) \[feat\. Kilate Tesla, Ozin & Riverali\]](https://open.spotify.com/track/2pBfF9Prcj3RTrsS8NyMJd) | [Lani Manila](https://open.spotify.com/artist/0g7NWpl1IogB4zosDPZ4Eu), [Ozin](https://open.spotify.com/artist/3VY9hWsvkxG3zzfoS72U93), [Riverali](https://open.spotify.com/artist/2hjZB2EP4nefXJMwahLPKx), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [Robotica \(Remix\) \[feat\. Ozin, Riverali & Kilate Tesla\]](https://open.spotify.com/album/2EVwPA5Os9FtUTn2v1t6Kv) | 2:24 |
 | 3 | [HUSHPUPPI](https://open.spotify.com/track/4nOQ63NPZPwjzrxOhWWsbc) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV) | [HUSHPUPPI](https://open.spotify.com/album/78YcPlRbdI4vjWII938QdH) | 3:45 |
 | 4 | [Stars](https://open.spotify.com/track/62pSIMezFKYK2UxQHmCE4g) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Stars](https://open.spotify.com/album/7DAvYht3wOOdf81NY8J9vu) | 2:54 |
 | 5 | [U'r Bad](https://open.spotify.com/track/6fJmOSkPSqTETDvBFyiyXb) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [Dopeman](https://open.spotify.com/artist/3uPMES49lCQUHHnCaWaeLr) | [U'r Bad](https://open.spotify.com/album/5U9wRqpFlPI7qENyw9vHfX) | 2:26 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 76 | [Vibes](https://open.spotify.com/track/5hbAKbh48v9iCdA8BRTJ5i) | [Delaysa Nachia](https://open.spotify.com/artist/75bNGUcZ7ASiJbN8OQYcYK), [Shae](https://open.spotify.com/artist/27b1mFxIR6qs1xqoTsATPn), [Ritchy E](https://open.spotify.com/artist/0cVPixUuBpPqbhDFqExNjX) | [Vibes](https://open.spotify.com/album/701ZrEwpgFDJZxN8Vjh6y8) | 2:20 |
 | 77 | [No Time](https://open.spotify.com/track/3LDGbBBS3Pg9NIBIz531Zr) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl), [Cané](https://open.spotify.com/artist/5fCEdL4vmhOgT1d4wNmfSZ) | [No Time](https://open.spotify.com/album/0p2QHdJOsDXWzzbTsaZDhR) | 3:18 |
 
-Snapshot ID: `MTY3MjM1NDgwMCwwMDAwMDAwMDUyMGIxYWE5ZTQzNGVkM2VhZDgwNzlmMzY1MjIxMjU2`
+Snapshot ID: `MTY3MjM5MDUyOSwwMDAwMDAwMGY3Nzg3OTIwZDY0N2VmYTQ4YWZkMzliZmUzMTUyNTVj`

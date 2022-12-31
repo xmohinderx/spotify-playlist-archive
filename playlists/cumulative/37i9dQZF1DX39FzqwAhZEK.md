@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-320 songs - 16 hr 6 min - [published](https://open.spotify.com/playlist/4Os8nBg7RzVXxd5ntvlDFA)
+321 songs - 16 hr 8 min - [published](https://open.spotify.com/playlist/4Os8nBg7RzVXxd5ntvlDFA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Avalon](https://open.spotify.com/track/74jYXkRRf8m5VQnLYgOYRp) | [Dusted Leaves](https://open.spotify.com/artist/2lafEMDMFf6veTCoXrZZko) | [Avalon](https://open.spotify.com/album/7ixFUk4SnrsRaRl5H6CYvJ) | 3:03 | 2022-07-05 |  |
 | [Awakening](https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 2:37 | 2022-07-05 |  |
 | [Awareness](https://open.spotify.com/track/0dLx19Zx9t4VaXoGTI5tZe) | [Calma](https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT) | [Essence](https://open.spotify.com/album/7vCCiQEhbRVYNOCsUraYlI) | 4:11 | 2022-07-05 |  |
+| [Ayunan](https://open.spotify.com/track/7sKHxAlAL7yvXMqCQyOLLK) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Faedah](https://open.spotify.com/album/1tR8nFFyDf0jgyxRlcVAYi) | 2:15 | 2022-12-30 |  |
 | [Bell Elegy](https://open.spotify.com/track/5zbBg6rseGwpYoxSiyF8uw) | [Gadaragh](https://open.spotify.com/artist/2htCgKICdd3y3WpVjh5hyR) | [Bell Elegy](https://open.spotify.com/album/1elXWAea1IOK6ZmlK9ovXz) | 1:57 | 2022-07-05 |  |
 | [Between the Floating Mist](https://open.spotify.com/track/1ECVGziI63ZGz779wfbvHW) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Between the Floating Mist](https://open.spotify.com/album/1IiKjh1hkDGzEV8xR8HiHk) | 2:59 | 2022-07-05 |  |
 | [Between the Floating Mist](https://open.spotify.com/track/2onHlrzBTERSDk1BJhQu6Y) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Between the Floating Mist](https://open.spotify.com/album/3ZhHzKQmAvyiTVs6QHehJQ) | 2:59 | 2022-07-05 | 2022-07-29 |
@@ -269,7 +270,7 @@
 | [Solmization \- 528Hz](https://open.spotify.com/track/0PBeh1YEfaYyZEk0CvqZdl) | [Jonathan Dorjee](https://open.spotify.com/artist/1yxN1A5zsJCnmAvXM41959) | [Solmization \- 528Hz](https://open.spotify.com/album/3HCsnYDEk62epUuxXjOlHs) | 2:44 | 2022-09-30 |  |
 | [Something Sends Me to Sleep](https://open.spotify.com/track/0yBUFL9DZRhhg18XuaaJ3S) | [Aquarium Haze](https://open.spotify.com/artist/2F5h2SNluMoGRPAeBh2068) | [Something Sends Me to Sleep](https://open.spotify.com/album/4CfXMmmghsc1QOFPKwGIGL) | 2:12 | 2022-07-05 | 2022-07-29 |
 | [Something Sends Me to Sleep](https://open.spotify.com/track/1I2tHQMHfV5KtBMC9dTnDt) | [Aquarium Haze](https://open.spotify.com/artist/2F5h2SNluMoGRPAeBh2068) | [Something Sends Me to Sleep](https://open.spotify.com/album/311TXrzxWXdItV2U9EWX6d) | 2:12 | 2022-07-05 |  |
-| [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 | 2022-07-05 |  |
+| [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 | 2022-07-05 | 2022-12-31 |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2SxhgBSJw4BULcHrCmFWw7) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Sometimes He's In My Dreams](https://open.spotify.com/album/4pZGZPG7oUqZm2vjHZsnhl) | 3:46 | 2022-07-05 | 2022-07-29 |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/6MF9MOj2rtphVAXhfVO8Ow) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Sometimes He's In My Dreams](https://open.spotify.com/album/4i3kM8TgMmAxQhSN91yI39) | 3:46 | 2022-10-21 | 2022-11-13 |
 | [Somewhere Over the Rainbow](https://open.spotify.com/track/0It9AcywNp2Cj7pi3UIfsd) | [Dusted Leaves](https://open.spotify.com/artist/2lafEMDMFf6veTCoXrZZko) | [Somewhere Over the Rainbow](https://open.spotify.com/album/2883QYz0LAFMGpNOXHi89R) | 2:35 | 2022-07-05 |  |

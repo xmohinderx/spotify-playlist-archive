@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > The Bollywood crooner's best songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,877 likes - 83 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,630 likes - 83 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 38 | [Dil Hi Toh Hai](https://open.spotify.com/track/0hpP2fBridGH2Bq6qmg9LM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Dil Hi Toh Hai \(From "The Sky Is Pink"\)](https://open.spotify.com/album/3KXFgTmP1RwCF2G181ip3B) | 4:40 |
 | 39 | [Agar Tum Saath Ho](https://open.spotify.com/track/3hkC9EHFZNQPXrtl8WPHnX) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tamasha](https://open.spotify.com/album/2CUXo26JAWIbQx0EVMnjpA) | 5:41 |
 | 40 | [Humdard](https://open.spotify.com/track/1OEmd2iXU8pWG7CrKNpGUg) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ek Villain](https://open.spotify.com/album/3EkmvTqyKrnMw1WiVpsSwF) | 4:20 |
-| 41 | [Phir Bhi Tumko Chaahunga](https://open.spotify.com/track/35P2Xal9x3GAdOHytyEUFe) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Half Girlfriend](https://open.spotify.com/album/3aeT26ypiF8fCWImdu0cGs) | 5:51 |
+| 41 | [Phir Bhi Tumko Chaahunga](https://open.spotify.com/track/35P2Xal9x3GAdOHytyEUFe) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Half Girlfriend \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aeT26ypiF8fCWImdu0cGs) | 5:51 |
 | 42 | [Hamari Adhuri Kahani \(Title Track\)](https://open.spotify.com/track/3HiobOOpSpMsi95WBKPBYk) | [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Hamari Adhuri Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sVzilmsqYcLMYw2gtvoZM) | 6:38 |
 | 43 | [Sanam Re](https://open.spotify.com/track/0CVfovmUv7BnemOyTtOcbL) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sanam Re](https://open.spotify.com/album/5xP2I1UDXhE7D4GpMOoZY9) | 5:08 |
 | 44 | [Naina](https://open.spotify.com/track/0Yld4eVEV6rBvpijVU2s6l) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dangal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xK8rPlzF8LDHIIVYsDJUD) | 3:45 |

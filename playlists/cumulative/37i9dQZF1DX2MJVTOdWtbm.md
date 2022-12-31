@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior H
 
-217 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/6BABfI7FRig6PawzmBqz25)
+218 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/6BABfI7FRig6PawzmBqz25)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Boy Bye](https://open.spotify.com/track/4UXa5BATRTsItTcsfORZ19) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Boy Bye](https://open.spotify.com/album/602PyshhadPHOGAVKubrnC) | 2:46 | 2022-02-11 | 2022-05-20 |
 | [BRILLANDO](https://open.spotify.com/track/6Pgpz1HnBgELh3Nda9DiGO) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [BRILLANDO](https://open.spotify.com/album/3ugkFiTU61sbcgD6V0eROP) | 3:05 | 2022-02-11 | 2022-03-03 |
 | [BUENOS AIRES](https://open.spotify.com/track/2my7K20Fv5OtE27cjG9sfu) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 4:00 | 2022-02-11 | 2022-03-05 |
-| [Butterfly](https://open.spotify.com/track/3UqhjhMekGBxHoJI1AWPdx) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Butterfly](https://open.spotify.com/album/1Jrsb1j2AqUHGq0fzVtvRW) | 3:08 | 2022-07-08 |  |
+| [Butterfly](https://open.spotify.com/track/3UqhjhMekGBxHoJI1AWPdx) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Butterfly](https://open.spotify.com/album/1Jrsb1j2AqUHGq0fzVtvRW) | 3:08 | 2022-07-08 | 2022-12-31 |
 | [C.A.T.](https://open.spotify.com/track/11glgfo3N4w5QKuUJKLnzH) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK), [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [C.A.T.](https://open.spotify.com/album/1Vj9qMFet03QxbDwdptIms) | 3:16 | 2022-02-11 | 2022-09-07 |
 | [Cabrón](https://open.spotify.com/track/3s7va3f0Sxww7MgvqUpThW) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Cabrón](https://open.spotify.com/album/0WYn2pJadzB9tiWzC4svkf) | 2:59 | 2022-12-06 |  |
 | [CARACOL](https://open.spotify.com/track/4OE47kOc5ugkSGFn5tyuFo) | [Priscila Félix](https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI) | [CARACOL](https://open.spotify.com/album/681fae6BbavlsSjLEW0096) | 3:24 | 2022-09-06 | 2022-12-07 |
@@ -153,6 +153,7 @@
 | [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 | 2022-02-11 | 2022-03-12 |
 | [NQSTA](https://open.spotify.com/track/1h2tfXtkM7UiXP4Leq9Bvu) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [NQSTA](https://open.spotify.com/album/2vX2gLMycyORhu96EEWqi0) | 3:04 | 2022-02-11 | 2022-05-17 |
 | [Nubes](https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR) | 2:54 | 2022-02-11 | 2022-09-07 |
+| [NUDE](https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [NUDE](https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP) | 2:55 | 2022-12-30 |  |
 | [nuestra historia](https://open.spotify.com/track/66gTt3LAz9w8Xlrlj3zoJU) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [coffee & a cig](https://open.spotify.com/album/4NefaGha9X5oeSKH2UHG1d) | 4:01 | 2022-02-11 | 2022-07-27 |
 | [Odiame o Quiereme](https://open.spotify.com/track/1rLwwHaXkZUOBQU1vd2pPt) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Odiame o Quiereme](https://open.spotify.com/album/0cMIt86ttp5wqaYlhlk83N) | 4:34 | 2022-02-11 | 2022-05-20 |
 | [Ojos Tristes \(feat\. Karin B.\)](https://open.spotify.com/track/4LyInTQ5BgnQuDud2JAUdf) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Karin B.](https://open.spotify.com/artist/0bjRjeUe0JxWX6s8sxnZsc) | [Ojos Tristes \(feat\. Karin B.\)](https://open.spotify.com/album/2pyPc0slNJ0OLxrN3owx9E) | 3:38 | 2022-02-11 | 2022-09-07 |

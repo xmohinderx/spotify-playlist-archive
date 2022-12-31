@@ -2,7 +2,7 @@
 
 ### [Off Broadway](https://open.spotify.com/playlist/37i9dQZF1DWZs0W69wXP5G)
 
-> Everything Broadway\-adjacent\. Cover: H.E.R\. & Josh Groban
+> Everything Broadway\-adjacent\. Cover: Matilda
 
 96 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/3a6QDi9Fpx4195yiMPoXKx)
 

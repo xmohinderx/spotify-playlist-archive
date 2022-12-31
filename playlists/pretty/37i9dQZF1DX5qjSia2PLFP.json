@@ -1,13 +1,45 @@
 {
   "description": "New music breaking waves. ",
-  "num_followers": 21121,
+  "num_followers": 21131,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2ODkzMywwMDAwMDAwMGQyOGFmNDk0ZjViMzY1Y2JmNjIyM2VhZTcyNWQ3Mjg2",
+  "snapshot_id": "MTY3MjQyNTM0MiwwMDAwMDAwMDNkYzNiMDM3OWJhMDMwN2FmZDU3YTQ3ZmFhODYzNTIw",
   "tracks": [
+    {
+      "added_at": "2022-12-30 13:44:04",
+      "album": {
+        "name": "End of Discussion",
+        "url": "https://open.spotify.com/album/4Ggdjb8Ube0rnfJyaJC3US"
+      },
+      "artists": [
+        {
+          "name": "T Clipse",
+          "url": "https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW"
+        }
+      ],
+      "duration_ms": 85677,
+      "name": "End of Discussion",
+      "url": "https://open.spotify.com/track/6uiXDPUMlKQjsUOZVVco8g"
+    },
+    {
+      "added_at": "2022-12-30 13:44:04",
+      "album": {
+        "name": "2daside",
+        "url": "https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 137706,
+      "name": "2daside",
+      "url": "https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8"
+    },
     {
       "added_at": "2022-12-16 05:35:33",
       "album": {
@@ -831,206 +863,6 @@
       "duration_ms": 161107,
       "name": "QuikkSkope (feat. DC The Don)",
       "url": "https://open.spotify.com/track/5Kvs2iitHuGu1PCaJESZJS"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "Good Movie",
-        "url": "https://open.spotify.com/album/2REajdJ8KOaR8Vm2Zx8UXM"
-      },
-      "artists": [
-        {
-          "name": "Pi\u2019erre Bourne",
-          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
-        }
-      ],
-      "duration_ms": 185140,
-      "name": "Good Movie",
-      "url": "https://open.spotify.com/track/3UZdSNMSGjZM5GuGuqB5ff"
-    },
-    {
-      "added_at": "2022-08-05 06:20:49",
-      "album": {
-        "name": "JUST SAY THAT (Remix) (feat. Quavo & GloRilla)",
-        "url": "https://open.spotify.com/album/4YaTl6b04ax8sSywFGcrPC"
-      },
-      "artists": [
-        {
-          "name": "Duke Deuce",
-          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 278443,
-      "name": "JUST SAY THAT (Remix) (feat. Quavo & GloRilla)",
-      "url": "https://open.spotify.com/track/3g9CkAfcdZlBhoLvJqIRGc"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "ME FIRST - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4xULzJV1dGpBSFI2au8Fdg"
-      },
-      "artists": [
-        {
-          "name": "Kari Faux",
-          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "ME FIRST - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/27r0boXgMC64byb513mJNu"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/5n3FPfLJXtdDTYplGuj7JO"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 160154,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/7j2k5JHS33pKmDMIGEmfuU"
-    },
-    {
-      "added_at": "2022-08-19 06:43:13",
-      "album": {
-        "name": "COINCIDENCE",
-        "url": "https://open.spotify.com/album/6yhxvEpEU3smpzc3RrWJa6"
-      },
-      "artists": [
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        }
-      ],
-      "duration_ms": 123346,
-      "name": "COINCIDENCE",
-      "url": "https://open.spotify.com/track/6MFk8Dw2VnvweH2E46cjEv"
-    },
-    {
-      "added_at": "2022-08-19 06:43:13",
-      "album": {
-        "name": "Neva Goin Broke",
-        "url": "https://open.spotify.com/album/4rUicHcb8xZS9zuyVlPZrd"
-      },
-      "artists": [
-        {
-          "name": "$ir Abe",
-          "url": "https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8"
-        }
-      ],
-      "duration_ms": 80312,
-      "name": "Neva Goin Broke",
-      "url": "https://open.spotify.com/track/25n2o2iXsML4I0xIAFOINj"
-    },
-    {
-      "added_at": "2022-08-12 07:04:57",
-      "album": {
-        "name": "Immaculate",
-        "url": "https://open.spotify.com/album/26keyzFJ18ax1zFybUPOHg"
-      },
-      "artists": [
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "Immaculate",
-      "url": "https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/1MqcGz8uF79zpVcH75JH19"
-      },
-      "artists": [
-        {
-          "name": "Savannah R\u00e9",
-          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
-        }
-      ],
-      "duration_ms": 177396,
-      "name": "Closure",
-      "url": "https://open.spotify.com/track/1OcnAp6rB3ZbQbXw1ncAI3"
-    },
-    {
-      "added_at": "2022-08-12 07:04:57",
-      "album": {
-        "name": "803MAYJOR VOL. 1",
-        "url": "https://open.spotify.com/album/1dlNnLmFEu4gzUpT2ob5qp"
-      },
-      "artists": [
-        {
-          "name": "Aaron May",
-          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
-        }
-      ],
-      "duration_ms": 80883,
-      "name": "WILD WILD WEST",
-      "url": "https://open.spotify.com/track/0XorGtwWuDhvbjbqNVxQXY"
-    },
-    {
-      "added_at": "2022-08-12 07:04:57",
-      "album": {
-        "name": "DIAMOND DALLAS.",
-        "url": "https://open.spotify.com/album/5bWtO72zAGUbqaWOuK0zcl"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 168117,
-      "name": "DIAMOND DALLAS.",
-      "url": "https://open.spotify.com/track/0hZAwaGhANCzy84BJHtILG"
-    },
-    {
-      "added_at": "2022-08-12 07:04:57",
-      "album": {
-        "name": "Arrogant",
-        "url": "https://open.spotify.com/album/1oDxRgxS0Bj7atLNd7E7dr"
-      },
-      "artists": [
-        {
-          "name": "Saint\u00e9",
-          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
-        }
-      ],
-      "duration_ms": 145777,
-      "name": "Arrogant",
-      "url": "https://open.spotify.com/track/6fugJLhec4sxCmooCeklD9"
-    },
-    {
-      "added_at": "2022-08-19 06:43:13",
-      "album": {
-        "name": "C BOTH SIDES",
-        "url": "https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "CYCLOPS",
-      "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
     }
   ],
   "unique_name": "Ripple Effect",

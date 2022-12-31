@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-127 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
+130 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,8 +98,11 @@
 | [Raah Piya](https://open.spotify.com/track/0ixfdWFlkqjbgTRsCLm7cQ) | [Pakshee](https://open.spotify.com/artist/6UP5gZf6GHQRegEkCDQMvh) | [Pakshee](https://open.spotify.com/album/3si2hUnaDjTT9MslMfZEjB) | 7:04 | 2022-05-17 |  |
 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 | 2022-05-17 |  |
 | [Raanjhanaa](https://open.spotify.com/track/2EM5e2WiPfjKS3BK0JrzIH) | [Rudra Majumder](https://open.spotify.com/artist/6JblbbuaCCT2CHWDlbtDXM), [Biyas Sarkar](https://open.spotify.com/artist/2WCEJe0EyzzXUmsqejOcGt) | [Raanjhanaa](https://open.spotify.com/album/3FJWP2lkzVIX5jbsabqOuX) | 2:50 | 2022-12-19 |  |
+| [Raga Bageshri \(Feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/76VdHPvjGgWEj3xEMdTsWn) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/7y6F9TOumHwynqFGhh6CP6) | 38:31 | 2022-12-30 |  |
 | [Raga Hamsdhwani](https://open.spotify.com/track/7jtMQFKfAq1C9qPHJzMgfz) | [Utsav Lal](https://open.spotify.com/artist/4Pcg6hzSg5EesPpNIbyYKd) | [Piano Moods of Indian Ragas](https://open.spotify.com/album/6H4RCbPplqiFEDKrhKtcFL) | 13:01 | 2022-05-17 | 2022-07-29 |
 | [Raga Hamsdhwani](https://open.spotify.com/track/1H7V3AzrqHvO5wnP4AcUw1) | [Utsav Lal](https://open.spotify.com/artist/4Pcg6hzSg5EesPpNIbyYKd) | [Piano Moods of Indian Ragas](https://open.spotify.com/album/0w5TiC3gMe2m69oUsMskrC) | 13:01 | 2022-07-12 |  |
+| [Raga Maru Bihag \(Feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/61U7jgeV7GNT2E0VNmikEt) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/7y6F9TOumHwynqFGhh6CP6) | 14:15 | 2022-12-30 |  |
+| [Raga Shyam Kalyan \(Feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/3XrktIs9yT571rKQYs7DJg) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/7y6F9TOumHwynqFGhh6CP6) | 26:00 | 2022-12-30 |  |
 | [Ras Ke Bhare](https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Ras Ke Bhare](https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9) | 3:53 | 2022-12-01 |  |
 | [Rasiya](https://open.spotify.com/track/3HFJPw9sU2Ks2290Rlt3tU) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [World Music By Indian Maestros](https://open.spotify.com/album/4PBgCpCGwiiLE8xZrOdXH2) | 5:38 | 2022-05-17 | 2022-07-29 |
 | [Rasiya](https://open.spotify.com/track/4GdSydpo68O9XnTnnmSntO) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:38 | 2022-07-12 |  |

@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-217 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+218 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [She Won't Answer](https://open.spotify.com/track/3bTIRTkQ3QtGkjyumsIJNS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [My Brilliant Friend, Season 2 \(TV Series Soundtrack\)](https://open.spotify.com/album/6c3eJ2tcnkLN1BuJpjtRit) | 2:35 | 2021-12-20 | 2022-07-09 |
 | [She\-Hulk: Attorney at Law \- From "She\-Hulk: Attorney at Law"](https://open.spotify.com/track/2k2qC3o7QLhVzJXi8DxJ2t) | [Amie Doherty](https://open.spotify.com/artist/093nXwEUtY8TBTtZb9IVrf) | [She\-Hulk: Attorney at Law](https://open.spotify.com/album/5JEi65NMKgJYr0To6e2Qq9) | 2:25 | 2022-08-19 |  |
 | [Shield of Pain \- from "Spider\-Man: No Way Home" Soundtrack](https://open.spotify.com/track/6JZvhoSW7sq6OYhmxbT8o3) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: No Way Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL) | 4:51 | 2021-12-20 |  |
+| [Song of the Seven \(From the Netflix Series "The Witcher: Blood Origin"\)](https://open.spotify.com/track/6h1nuPZk9fQjjgKEuiRJOf) | [Joey Batey](https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc), [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [Song of the Seven \(From the Netflix Series "The Witcher: Blood Origin"\)](https://open.spotify.com/album/13TT6VTNXuprXHRP6JpUXD) | 3:47 | 2022-12-30 |  |
 | [Songbird](https://open.spotify.com/track/0THP4cEeW6UVKD6qwEvM8a) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Songbird \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6fdqh3bXxcPVyFa7JvdBIy) | 4:44 | 2021-12-20 | 2022-08-20 |
 | [Spiral](https://open.spotify.com/track/1dUJRgcJtUxNfTWVEkshUb) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Way Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4TJtPWRuD0m4brMRz8wi5P) | 2:53 | 2021-12-20 | 2022-07-09 |
 | [Stop Right Now](https://open.spotify.com/track/4KvN5TDHEndfgy1EX7Bipj) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Good House \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hTXpOtf4EgnyR7ZeqNpy1) | 2:05 | 2022-09-30 |  |

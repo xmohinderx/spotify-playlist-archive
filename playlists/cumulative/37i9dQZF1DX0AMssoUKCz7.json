@@ -2078,6 +2078,28 @@
     },
     {
       "album": {
+        "name": "Dancing with The Moon",
+        "url": "https://open.spotify.com/album/34JlS2Y5xQnaE6YuYVSaop"
+      },
+      "artists": [
+        {
+          "name": "Unora",
+          "url": "https://open.spotify.com/artist/16GPibtrbZlX1tGTV6UUJr"
+        },
+        {
+          "name": "Aurila",
+          "url": "https://open.spotify.com/artist/7fnWIKvy9XWyBINYeKETSL"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Dancing with The Moon",
+      "url": "https://open.spotify.com/track/5irDsMKJAVAMTbTC8NChLy"
+    },
+    {
+      "album": {
         "name": "Riverside",
         "url": "https://open.spotify.com/album/1wl6LlP6gh7byEPdI3oGxk"
       },
@@ -2753,7 +2775,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 208576,
       "name": "Falling Fire",
       "url": "https://open.spotify.com/track/4oHR6G7xfAqn0fL63QREbF"

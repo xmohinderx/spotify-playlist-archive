@@ -1,15 +1,15 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Mingginyu(\ubc0d\uae30\ub274)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 416937,
+  "num_followers": 417181,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjMwNjAyNCwwMDAwMDAwMDQ5MWM1MThiM2NlZTEwYjJmNGQxMDdjM2RiODViMWJl",
+  "snapshot_id": "MTY3MjMwNjAyNCwwMDAwMDAwMDgwODRhNDlhNDMxNzM0ZWNiYTY4MjY2ZmFhYWJmZDUy",
   "tracks": [
     {
-      "added_at": "2022-12-30 01:36:59",
+      "added_at": "2022-12-31 01:26:27",
       "album": {
         "name": "Dear My All",
         "url": "https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur"
     },
     {
-      "added_at": "2022-12-30 01:36:59",
+      "added_at": "2022-12-31 01:26:27",
       "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/0dJPpSDTcdzFcqs0tO2Nu2"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6ufG57VUdOTV9OBh7Uvs0v"
     },
     {
-      "added_at": "2022-12-30 01:36:59",
+      "added_at": "2022-12-31 01:26:27",
       "album": {
         "name": "BABEL",
         "url": "https://open.spotify.com/album/3CApRJRL9vFGado5MZCExF"
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-12-21 09:26:07",
       "album": {
-        "name": "5.1",
-        "url": "https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "Winter Breath",
-      "url": "https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC"
-    },
-    {
-      "added_at": "2022-12-21 09:26:07",
-      "album": {
         "name": "A Call from My Dream",
         "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 255297,
       "name": "A Call from My Dream",
       "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
+    },
+    {
+      "added_at": "2022-12-21 09:26:07",
+      "album": {
+        "name": "5.1",
+        "url": "https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 232893,
+      "name": "Winter Breath",
+      "url": "https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC"
     },
     {
       "added_at": "2022-12-21 09:26:07",

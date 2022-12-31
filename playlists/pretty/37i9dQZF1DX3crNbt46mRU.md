@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,246 likes - 61 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,273 likes - 61 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Let's Call It Love](https://open.spotify.com/track/3i7Uzo6SN9Gk5vnEvAsy4C) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Let's Call It Love](https://open.spotify.com/album/59vsEGJiHPbbySFipoLcuO) | 2:20 |
+| 1 | [Let's Call It Love](https://open.spotify.com/track/07TKDT070EpnvDSS0yhZdD) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Let's Call It Love](https://open.spotify.com/album/7fq2mXAXaSfgnvuc9CqiMR) | 2:20 |
 | 2 | [VIJA VIJA](https://open.spotify.com/track/1VcHYhlqqEDdN2D2sumdWo) | [DJ Gimi\-O](https://open.spotify.com/artist/5lU3mLIonARnLpRtp5f77M), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [VIJA VIJA](https://open.spotify.com/album/5kgFnxgr9spGsh6EJzMZpT) | 2:33 |
 | 3 | [Fade to Black](https://open.spotify.com/track/3DS6zUDAm3X8F6kiGaFfWL) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ) | [Fade to Black](https://open.spotify.com/album/2Yu80Mqn0x1Y5F6X1rTqwv) | 2:56 |
 | 4 | [I Wanna Be with You](https://open.spotify.com/track/48UdFbDtRRYSvk0L8GCZyC) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [I Wanna Be with You](https://open.spotify.com/album/7ATki1nJUJkaG7rpnVBJJy) | 3:02 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 8 | [Alone](https://open.spotify.com/track/151RPoWoVDVV9WKNqOq0oS) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [Alone](https://open.spotify.com/album/6PKxZA8GRTAMPPEATm7Xk5) | 2:52 |
 | 9 | [RHYTHM OF MY LIFE](https://open.spotify.com/track/7JA1uUtLhPQjRBAIR0GPfW) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [RHYTHM OF MY LIFE](https://open.spotify.com/album/53FiVbWLsZqRlBEVa7EsG4) | 1:58 |
 | 10 | [Head Held High](https://open.spotify.com/track/1MnTcyXc7vcPVgstIWAQCd) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre) | 3:16 |
-| 11 | [Blow Ur Mind](https://open.spotify.com/track/57IfpZ8nWydC9ZXQIbx0Ab) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Hedara](https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm) | [Blow Ur Mind](https://open.spotify.com/album/4ckn4K7SLP2mlSUpbE471i) | 2:49 |
+| 11 | [Blow Ur Mind](https://open.spotify.com/track/47ZtMQwbGGL5A3sqwSBj81) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Hedara](https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm) | [Blow Ur Mind](https://open.spotify.com/album/2HGo8LkjznUCqzPiXdVicR) | 2:49 |
 | 12 | [Torpedo](https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Torpedo](https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t) | 4:00 |
 | 13 | [Free](https://open.spotify.com/track/6G8S7nEHC8NqL3mZmvCmwU) | [Glimmer of Blooms](https://open.spotify.com/artist/5Ha7OvvalK4moJei0zEKg6) | [Free](https://open.spotify.com/album/6yG6pLMM62bFqa9VVhJM6B) | 2:43 |
 | 14 | [BAD TIME GOOD TIME](https://open.spotify.com/track/4Hl8wmrubcVKUVqC3OagaP) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [BAD TIME GOOD TIME](https://open.spotify.com/album/41DUptL82OsBL8A1nNHUKE) | 3:14 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 60 | [Southern Comfort](https://open.spotify.com/track/1v4mO5YklWTQPA4DRieSAs) | [Bluey Robinson](https://open.spotify.com/artist/4JgCtSrKUJB4UT9MUoPSo6) | [Southern Comfort](https://open.spotify.com/album/3ZZveIivszyrCv2BfNR6bx) | 3:41 |
 | 61 | [Stuck](https://open.spotify.com/track/6prXEKSoRVUGMknxdvu75N) | [Alex Angelo](https://open.spotify.com/artist/6BnmXRCOnTy4iTBlbsgZ5J) | [Stuck](https://open.spotify.com/album/7JT8FCfoT89EuFCJh5BKZn) | 3:33 |
 
-Snapshot ID: `MTY3MjM1NDg2MCwwMDAwMDAwMGE1YmNiMjdhNWUyMGRhZGE4NmFhZThhMGY5MWVmMGM3`
+Snapshot ID: `MTY3MjM1NDg2MCwwMDAwMDAwMDFjOTlmOGQ5NzEyNmYwYjE2ZmVjOWNiMmY0YWVmMzIx`

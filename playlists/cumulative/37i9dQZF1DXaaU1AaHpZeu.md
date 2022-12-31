@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. En portada: Alice Wonder.
 
-1,588 songs - 3 day 17 hr 59 min - [published](https://open.spotify.com/playlist/4uzGNQNgXu38vLEswPLS4u)
+1,589 songs - 3 day 18 hr 3 min - [published](https://open.spotify.com/playlist/4uzGNQNgXu38vLEswPLS4u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,6 +570,7 @@
 | [Fumar en el Cine](https://open.spotify.com/track/4U4gAOrhVCaCz1qdV4cT5z) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9), [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl) | [Fumar en el Cine](https://open.spotify.com/album/3U1fAnbdelWZ3dKxCISPvr) | 3:20 | 2022-08-05 | 2022-08-13 |
 | [Futuro](https://open.spotify.com/track/0Iy5ch0aOA23yB2uJmDxB6) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK), [Erik Urano](https://open.spotify.com/artist/4UGlbaxTr9BPv4YLD6iWRN) | [Futuro](https://open.spotify.com/album/5KanJA2tWvePFLLzHDZjbL) | 3:50 | 2022-10-21 | 2022-10-29 |
 | [Fábula](https://open.spotify.com/track/46pgEJWIkehX8CiRb5rioV) | [Nicolás Carou](https://open.spotify.com/artist/7Eo1djl0eJ1czhXpME4Dhp), [Wen](https://open.spotify.com/artist/1gPjLXy387NEzeZZGGx45q) | [Fábula](https://open.spotify.com/album/7rfE359Bc2KGku2qRl7Uio) | 4:30 | 2022-04-08 | 2022-04-16 |
+| [Fábula de la Montaña](https://open.spotify.com/track/0kAvQ4Y9u9D1kqAF6PqRDM) | [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb), [m4nu](https://open.spotify.com/artist/0pUoGGZ9vPDFfGCXFwkucv) | [Fábulas](https://open.spotify.com/album/7wSqqyepUFtfkyaSMNvcv7) | 4:14 | 2022-12-30 |  |
 | [Fácil](https://open.spotify.com/track/3Ym9jqHDaDdootm1kKJIzL) | [Abbacook](https://open.spotify.com/artist/11teMrCZ2iEch5ufwIlKz5) | [Fácil](https://open.spotify.com/album/7BIVHxWqlfiM7eDIQlCg8g) | 2:42 | 2022-07-01 | 2022-07-09 |
 | [Fórceps](https://open.spotify.com/track/4JIChZSFHDoZ8QQRWBLId7) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb) | [Fórceps](https://open.spotify.com/album/4FnVr99cJ1l1PZZqV3dEdy) | 4:05 | 2022-08-05 | 2022-08-13 |
 | [Galante Corazón](https://open.spotify.com/track/2mG4CEkRYS7dEvslD73x0V) | [Cheba Blendl](https://open.spotify.com/artist/2nkIAHjL2bO81sBUg9w8iU) | [Galante Corazón](https://open.spotify.com/album/0UTlBdvRoyxgPUKwKvkkF9) | 3:49 | 2022-09-02 | 2022-09-10 |
@@ -1129,7 +1130,7 @@
 | [Pedazo de Cielo](https://open.spotify.com/track/0BwmQzBb4aZyJpTSb3gvrH) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Pedazo de Cielo](https://open.spotify.com/album/3GpV6vyK5tlNLo9Ih8zcUG) | 3:29 | 2022-12-09 | 2022-12-24 |
 | [Pedestal](https://open.spotify.com/track/7p4QEB7iXuOG7Zomx9WMqn) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Pedestal](https://open.spotify.com/album/2IsAYh8idgFVFh9ZeJ1Yu6) | 3:28 | 2022-09-02 | 2022-09-17 |
 | [Pena Niña](https://open.spotify.com/track/0qMd7sstiIRGmoq9sA2H9n) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo), [Noah Blanco](https://open.spotify.com/artist/6hvHgeAdTGsFMPm5NJM2Ve) | [Pena Niña](https://open.spotify.com/album/2xTU74AiMIMdyk8UzNx9TH) | 2:48 | 2022-05-13 | 2022-05-20 |
-| [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 | 2022-12-09 |  |
+| [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 | 2022-12-09 | 2022-12-31 |
 | [Pensamientos](https://open.spotify.com/track/1gV85meLWo6kDR78DhVl9p) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Edoardo Leds](https://open.spotify.com/artist/5z2v7F21UQXrFvKjrvXOqf), [Champ Jr.](https://open.spotify.com/artist/4VQ1gn6ljyT8pVQKjZbgRr) | [Pensamientos](https://open.spotify.com/album/40DH5E7Qxv3Z2hDcvyf1kw) | 3:15 | 2022-06-24 | 2022-07-02 |
 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 | 2022-11-11 | 2022-11-26 |
 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 | 2022-07-29 | 2022-08-06 |

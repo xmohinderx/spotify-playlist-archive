@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 ### [Off Broadway](https://open.spotify.com/playlist/37i9dQZF1DWZs0W69wXP5G)
 
-> Everything Broadway\-adjacent\. Cover: H.E.R\. & Josh Groban
+> Everything Broadway\-adjacent\. Cover: Matilda
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,971 likes - 82 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,071 likes - 82 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Belle](https://open.spotify.com/track/1SSyCUkZvRADNdol04UqmE) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Rizwan Manji](https://open.spotify.com/artist/4mz7AGZHijxHC1fc6bGfYn) | [Beauty and the Beast: A 30th Celebration \(Original Soundtrack\)](https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N) | 5:18 |
-| 2 | [Therapy](https://open.spotify.com/track/1iFgG6BeEPTbXsAok6zYxR) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 2:44 |
-| 3 | [Revolting Children](https://open.spotify.com/track/6n9rNjFkKNnY18EqFVvAvt) | [Charlie Hodson\-Prior](https://open.spotify.com/artist/4LEQzEfPRz1VQt4q1B7tZF), [Meesha Garbett](https://open.spotify.com/artist/6NZst2OKvVaEoYRpQfeIr4), [Liberty Greig](https://open.spotify.com/artist/51nzPODa7jqt9JK1U2FME4), [The Cast of Roald Dahl's Matilda The Musical](https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf) | [Roald Dahl's Matilda The Musical \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo) | 2:54 |
+| 1 | [Revolting Children](https://open.spotify.com/track/6n9rNjFkKNnY18EqFVvAvt) | [Charlie Hodson\-Prior](https://open.spotify.com/artist/4LEQzEfPRz1VQt4q1B7tZF), [Meesha Garbett](https://open.spotify.com/artist/6NZst2OKvVaEoYRpQfeIr4), [Liberty Greig](https://open.spotify.com/artist/51nzPODa7jqt9JK1U2FME4), [The Cast of Roald Dahl's Matilda The Musical](https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf) | [Roald Dahl's Matilda The Musical \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo) | 2:54 |
+| 2 | [Belle](https://open.spotify.com/track/1SSyCUkZvRADNdol04UqmE) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Rizwan Manji](https://open.spotify.com/artist/4mz7AGZHijxHC1fc6bGfYn) | [Beauty and the Beast: A 30th Celebration \(Original Soundtrack\)](https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N) | 5:18 |
+| 3 | [Therapy](https://open.spotify.com/track/1iFgG6BeEPTbXsAok6zYxR) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 2:44 |
 | 4 | [The Witches Are Back](https://open.spotify.com/track/6SWxJnEL4PgRySciwic4N3) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W), [Sarah Jessica Parker](https://open.spotify.com/artist/07fyshwD6z8kprzXN7hQYH), [Kathy Najimy](https://open.spotify.com/artist/1JdX5huLHgBUAHTNinXnN5) | [Hocus Pocus 2 \(Original Soundtrack\)](https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED) | 1:44 |
 | 5 | [Since U Been Gone \- Juliet’s Version](https://open.spotify.com/track/1ADlPE9dCt0Gajze5L7a75) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Lorna Courtney](https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap) | [& Juliet \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD) | 2:49 |
 | 6 | [Gaston](https://open.spotify.com/track/166GvTGtUQyLy4J52yaQnv) | [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Rizwan Manji](https://open.spotify.com/artist/4mz7AGZHijxHC1fc6bGfYn) | [Beauty and the Beast: A 30th Celebration \(Original Soundtrack\)](https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N) | 3:41 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 81 | [Only Us \(with Dan + Shay\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Only Us \(From The “Dear Evan Hansen” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5j1dWzKgecz37sV0sedDwF) | 3:45 |
 | 82 | [New York Lonely Boy](https://open.spotify.com/track/21LzxdHPxlWGdcUH6FfBow) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Girls5eva \(Music From The Peacock Original Series\)](https://open.spotify.com/album/6IxbJg2NoDKjxxza4uJjgU) | 2:34 |
 
-Snapshot ID: `MTY3MTIyODUyMCwwMDAwMDAwMDdkMjVhZGU2MGU2YTAyYTM5MzYwMzJiOGYyODZlYTY5`
+Snapshot ID: `MTY3MjM4Mzc2NywwMDAwMDAwMDgwNWUxMTI1ODI1NDRmYTZhMjYxMTg5ZDk0NDMyMTcy`

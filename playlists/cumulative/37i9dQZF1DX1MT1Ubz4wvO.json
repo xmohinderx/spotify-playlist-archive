@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Todas las semanas los nuevos lanzamientos de Rock en espa\u00f1ol, con LA \u00c9LITE en portada.",
+  "description": "Todas las semanas los nuevos lanzamientos de Rock en espa\u00f1ol, con Telebit en portada.",
   "name": "Novedades Rock",
   "published_playlist_ids": [
     "1BUAq3Aj6U4yuWSfhY1mrl"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 188678,
       "name": "24/7",
       "url": "https://open.spotify.com/track/6hY045OkoL8chOl9N5OhNw"
@@ -1583,6 +1583,24 @@
       "duration_ms": 237290,
       "name": "Cada Vez M\u00e1s Lejos",
       "url": "https://open.spotify.com/track/6DHRJvJA3ZsqWKihlWRQ3C"
+    },
+    {
+      "album": {
+        "name": "Flor de ceibo",
+        "url": "https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV"
+      },
+      "artists": [
+        {
+          "name": "Don Osvaldo",
+          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128597,
+      "name": "Caer",
+      "url": "https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm"
     },
     {
       "album": {
@@ -3540,6 +3558,24 @@
     },
     {
       "album": {
+        "name": "En Las Calles",
+        "url": "https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161230,
+      "name": "En Las Calles",
+      "url": "https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5"
+    },
+    {
+      "album": {
         "name": "En Setiembre Fuiste M\u00eda",
         "url": "https://open.spotify.com/album/1JMij5w1yy7l07YG6ieyAB"
       },
@@ -5061,6 +5097,24 @@
       "duration_ms": 231735,
       "name": "Ilusionismo",
       "url": "https://open.spotify.com/track/0MvfYreR1vSHyRmST7pLcO"
+    },
+    {
+      "album": {
+        "name": "Cronopaisajes - EP",
+        "url": "https://open.spotify.com/album/2lTbNjxusc20TmIZ6DGfJo"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188641,
+      "name": "Inalacanzable",
+      "url": "https://open.spotify.com/track/4l0QVLmd1kFzP9hA6L0mJV"
     },
     {
       "album": {
@@ -7691,7 +7745,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 159781,
       "name": "Ni\u00f1os Perdidos",
       "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
@@ -10262,6 +10316,24 @@
     },
     {
       "album": {
+        "name": "Poniente (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7IZUILLpY4ho94148ai5QI"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194906,
+      "name": "Se\u00f1ales - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0dQv32aSIEcqwKZeBfO0bH"
+    },
+    {
+      "album": {
         "name": "Se\u00f1or Perfecto",
         "url": "https://open.spotify.com/album/5MPosrZGKg8LKYMJOvoWzd"
       },
@@ -11103,7 +11175,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 270428,
       "name": "Todo el D\u00eda de Hoy",
       "url": "https://open.spotify.com/track/2bNZpngzQy9PfdwUWtv7yS"
@@ -12093,7 +12165,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 187500,
       "name": "Vuelve A Mi - Ac\u00fastico",
       "url": "https://open.spotify.com/track/66130HnZrDALO2jrCILoV9"

@@ -1,12 +1,12 @@
 {
   "description": "Keep your focus and drown out distracting sounds with white noise from the oceans.",
-  "num_followers": 673,
+  "num_followers": 714,
   "original_name": "White Waves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTIxNTMwNywwMDAwMDAwMDNhZjUzYmJjZmU0OGIyYTQ5OWJjODI5ZGY1YmU1YWE2",
+  "snapshot_id": "MTY2OTIxNTMwNywwMDAwMDAwMGRlZGU3MjU3NTE4OTNlODQ1YTQ5NTcyYmQxMWE2NTVl",
   "tracks": [
     {
       "added_at": "2022-11-23 14:55:07",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-11-23 14:55:07",
       "album": {
-        "name": "Ocean Sounds",
-        "url": "https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D"
-      },
-      "artists": [
-        {
-          "name": "Natural Sample Makers",
-          "url": "https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA"
-        }
-      ],
-      "duration_ms": 113812,
-      "name": "Waves: Tranquility Touch",
-      "url": "https://open.spotify.com/track/2PX3JsYV9ndh0ICsS9uCwg"
-    },
-    {
-      "added_at": "2022-11-23 14:55:07",
-      "album": {
         "name": "Stormy Beach Waves",
         "url": "https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 130061,
       "name": "Stormy Beach Waves",
       "url": "https://open.spotify.com/track/5MOt0d6iCGy8x0tWqDjNuF"
+    },
+    {
+      "added_at": "2022-11-23 14:55:07",
+      "album": {
+        "name": "Ocean Sounds",
+        "url": "https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D"
+      },
+      "artists": [
+        {
+          "name": "Natural Sample Makers",
+          "url": "https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA"
+        }
+      ],
+      "duration_ms": 113812,
+      "name": "Waves: Tranquility Touch",
+      "url": "https://open.spotify.com/track/2PX3JsYV9ndh0ICsS9uCwg"
     },
     {
       "added_at": "2022-11-23 14:55:07",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-11-23 14:55:07",
       "album": {
-        "name": "Crashing Ocean Waves",
-        "url": "https://open.spotify.com/album/23is2ikMTPfqd5ASwbCvkB"
-      },
-      "artists": [
-        {
-          "name": "EarthMovies",
-          "url": "https://open.spotify.com/artist/3T3jDhDfzFEBtXWcPNKqNe"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Crashing Ocean Waves",
-      "url": "https://open.spotify.com/track/2Nyt4vYufF0RUrTSyDsRqu"
-    },
-    {
-      "added_at": "2022-11-23 14:55:07",
-      "album": {
         "name": "Summer Ocean Waves",
         "url": "https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 165500,
       "name": "Summer Ocean Waves",
       "url": "https://open.spotify.com/track/6jg9qbDWnKh9FvZjWUpQ76"
+    },
+    {
+      "added_at": "2022-11-23 14:55:07",
+      "album": {
+        "name": "Crashing Ocean Waves",
+        "url": "https://open.spotify.com/album/23is2ikMTPfqd5ASwbCvkB"
+      },
+      "artists": [
+        {
+          "name": "EarthMovies",
+          "url": "https://open.spotify.com/artist/3T3jDhDfzFEBtXWcPNKqNe"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Crashing Ocean Waves",
+      "url": "https://open.spotify.com/track/2Nyt4vYufF0RUrTSyDsRqu"
     },
     {
       "added_at": "2022-11-23 14:55:07",
@@ -843,34 +843,18 @@
     {
       "added_at": "2022-11-23 14:55:07",
       "album": {
-        "name": "Crashing Ocean Waves",
-        "url": "https://open.spotify.com/album/23is2ikMTPfqd5ASwbCvkB"
+        "name": "Summer Ocean Waves",
+        "url": "https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT"
       },
       "artists": [
         {
-          "name": "EarthMovies",
-          "url": "https://open.spotify.com/artist/3T3jDhDfzFEBtXWcPNKqNe"
+          "name": "Hello Soundz",
+          "url": "https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Watching Heavy Ocean Waves",
-      "url": "https://open.spotify.com/track/0eyBqBpSrc7XNnQfW8pvCk"
-    },
-    {
-      "added_at": "2022-11-23 14:55:07",
-      "album": {
-        "name": "Luscious Waves",
-        "url": "https://open.spotify.com/album/4h9XHDPN6L0AFyomHKjis8"
-      },
-      "artists": [
-        {
-          "name": "Focus 365",
-          "url": "https://open.spotify.com/artist/3zMGPjG6X1Rw0JGeBOoEV2"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Luscious Waves",
-      "url": "https://open.spotify.com/track/7DuENdWAHfixMKYqEObGPx"
+      "duration_ms": 176000,
+      "name": "Rolling Waves and Rockpools",
+      "url": "https://open.spotify.com/track/1db2CHgoX19tKKu2p8Zbu2"
     },
     {
       "added_at": "2022-11-23 14:55:07",
@@ -891,6 +875,22 @@
     {
       "added_at": "2022-11-23 14:55:07",
       "album": {
+        "name": "Luscious Waves",
+        "url": "https://open.spotify.com/album/4h9XHDPN6L0AFyomHKjis8"
+      },
+      "artists": [
+        {
+          "name": "Focus 365",
+          "url": "https://open.spotify.com/artist/3zMGPjG6X1Rw0JGeBOoEV2"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Luscious Waves",
+      "url": "https://open.spotify.com/track/7DuENdWAHfixMKYqEObGPx"
+    },
+    {
+      "added_at": "2022-11-23 14:55:07",
+      "album": {
         "name": "Ocean Waves Volume 2",
         "url": "https://open.spotify.com/album/1UIjE0VjMi2pvv8GP2EzpR"
       },
@@ -903,38 +903,6 @@
       "duration_ms": 158830,
       "name": "Windy Beach 3",
       "url": "https://open.spotify.com/track/7ge6TRJoEc97N5Aa3rS59U"
-    },
-    {
-      "added_at": "2022-11-23 14:55:07",
-      "album": {
-        "name": "Pieces of Paradise (Nature)",
-        "url": "https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ"
-      },
-      "artists": [
-        {
-          "name": "Earth Alliance",
-          "url": "https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Sandy Gulf (Ocean)",
-      "url": "https://open.spotify.com/track/19fsuPH0RsbaPJ1VQ586CM"
-    },
-    {
-      "added_at": "2022-11-23 14:55:07",
-      "album": {
-        "name": "Summer Ocean Waves",
-        "url": "https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT"
-      },
-      "artists": [
-        {
-          "name": "Hello Soundz",
-          "url": "https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Rolling Waves and Rockpools",
-      "url": "https://open.spotify.com/track/1db2CHgoX19tKKu2p8Zbu2"
     },
     {
       "added_at": "2022-11-23 14:55:07",
@@ -955,18 +923,50 @@
     {
       "added_at": "2022-11-23 14:55:07",
       "album": {
-        "name": "Waves For Sleeping",
-        "url": "https://open.spotify.com/album/1iOxi5K0NRnew8562HF8zx"
+        "name": "Crashing Ocean Waves",
+        "url": "https://open.spotify.com/album/23is2ikMTPfqd5ASwbCvkB"
       },
       "artists": [
         {
-          "name": "Gnees Early Waves",
-          "url": "https://open.spotify.com/artist/7HWzEstD6nTbL0iiKjMu7s"
+          "name": "EarthMovies",
+          "url": "https://open.spotify.com/artist/3T3jDhDfzFEBtXWcPNKqNe"
         }
       ],
-      "duration_ms": 155337,
-      "name": "Waves After Midnight",
-      "url": "https://open.spotify.com/track/1Zj4Br0NYdvldwqS2vPXOJ"
+      "duration_ms": 160000,
+      "name": "Watching Heavy Ocean Waves",
+      "url": "https://open.spotify.com/track/0eyBqBpSrc7XNnQfW8pvCk"
+    },
+    {
+      "added_at": "2022-11-23 14:55:07",
+      "album": {
+        "name": "Summer Ocean Waves",
+        "url": "https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT"
+      },
+      "artists": [
+        {
+          "name": "Hello Soundz",
+          "url": "https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT"
+        }
+      ],
+      "duration_ms": 119374,
+      "name": "Heavy Ocean Waves",
+      "url": "https://open.spotify.com/track/0AX42EvX4TiCnlEOf2Vm5G"
+    },
+    {
+      "added_at": "2022-11-23 14:55:07",
+      "album": {
+        "name": "Pieces of Paradise (Nature)",
+        "url": "https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ"
+      },
+      "artists": [
+        {
+          "name": "Earth Alliance",
+          "url": "https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Sandy Gulf (Ocean)",
+      "url": "https://open.spotify.com/track/19fsuPH0RsbaPJ1VQ586CM"
     }
   ],
   "unique_name": "White Waves",

@@ -1,12 +1,12 @@
 {
   "description": "The latest, greatest soundtracks from the big and small screen.",
-  "num_followers": 180888,
+  "num_followers": 181023,
   "original_name": "Soundtracked",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2ODAwMCwwMDAwMDAwMGYzOGY4NzhlNGZjMDg4NWYwYmY5N2JlZTE4N2M1NmMw",
+  "snapshot_id": "MTY3MjM3MjgwMCwwMDAwMDAwMDEzYjQ3NzM4NDBiNjQ1MWQ3YWMwOGYzOTE2ODFiNzNj",
   "tracks": [
     {
       "added_at": "2022-12-23 04:00:00",
@@ -55,6 +55,26 @@
       "duration_ms": 69893,
       "name": "Wednesday Main Titles",
       "url": "https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6"
+    },
+    {
+      "added_at": "2022-12-30 04:00:00",
+      "album": {
+        "name": "Song of the Seven (From the Netflix Series \"The Witcher: Blood Origin\")",
+        "url": "https://open.spotify.com/album/13TT6VTNXuprXHRP6JpUXD"
+      },
+      "artists": [
+        {
+          "name": "Joey Batey",
+          "url": "https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc"
+        },
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "duration_ms": 227162,
+      "name": "Song of the Seven (From the Netflix Series \"The Witcher: Blood Origin\")",
+      "url": "https://open.spotify.com/track/6h1nuPZk9fQjjgKEuiRJOf"
     },
     {
       "added_at": "2022-12-23 04:00:00",

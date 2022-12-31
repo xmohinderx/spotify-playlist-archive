@@ -4,7 +4,7 @@
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-244 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/2kyJb17WIqLunrqe9YytYt)
+245 songs - 18 hr 52 min - [published](https://open.spotify.com/playlist/2kyJb17WIqLunrqe9YytYt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Con el Agua y el Jabón](https://open.spotify.com/track/1VeE2eQetaWW9OYtXBjv1l) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Dos X Uno](https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN) | 4:19 | 2019-09-09 | 2022-07-25 |
 | [Con el Agua y el Jabón \(En Vivo\)](https://open.spotify.com/track/39iwcYBNRMWekv9PFEEAC4) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Dos X Uno](https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN) | 5:06 | 2019-09-09 | 2022-07-26 |
 | [Consejo a las Mujeres](https://open.spotify.com/track/34iX8GBGXa89VA2PbmK1IS) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Grandes Exitos](https://open.spotify.com/album/0JO10CGBRTo4nhCvaoTgJy) | 3:32 | 2019-09-09 | 2022-07-25 |
-| [Consejo a las Mujeres](https://open.spotify.com/track/6thw9YnuxjfJ49RwxblhVK) | [Blas Duran & Los Peluches](https://open.spotify.com/artist/6jFSCQZgMqVX3kxScYXyvG) | [El Consejo a Las Mujeres](https://open.spotify.com/album/6NaONUmS8MxCbzCD6fqyd7) | 3:33 | 2019-09-09 |  |
+| [Consejo a las Mujeres](https://open.spotify.com/track/6thw9YnuxjfJ49RwxblhVK) | [Blas Duran & Los Peluches](https://open.spotify.com/artist/6jFSCQZgMqVX3kxScYXyvG) | [El Consejo a Las Mujeres](https://open.spotify.com/album/6NaONUmS8MxCbzCD6fqyd7) | 3:33 | 2019-09-09 | 2022-12-31 |
 | [Consejo de Mujer](https://open.spotify.com/track/7B2XcYGbd6aMYghDpZIBlq) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj) | [Tipicazos](https://open.spotify.com/album/5tIuwjIPjjZ5PdnFGtTPjs) | 3:31 | 2019-09-09 | 2022-07-29 |
 | [Corazón Bendito](https://open.spotify.com/track/04rYPqyScxUnYSV2K3W0UW) | [Francisco Ulloa](https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw) | [Sabor Criollo \(Música Típica\)](https://open.spotify.com/album/0tst9q40oqCAzUuvOF38vy) | 4:22 | 2019-09-09 | 2022-07-26 |
 | [Cuando Volveras](https://open.spotify.com/track/6TcrExP8tPoHHiKP07k67r) | [Krisspy](https://open.spotify.com/artist/5EG8kX3NJR8Az7XKu4Czu7) | [El Bombazo Tipico](https://open.spotify.com/album/4MuSBTg9lWtOjLeoBZWRfe) | 5:43 | 2019-09-09 | 2022-07-28 |
@@ -153,6 +153,7 @@
 | [La Pava](https://open.spotify.com/track/24LhlltPQjE5EMCmRTWQzt) | [Tatico](https://open.spotify.com/artist/06szOvix5Fvf3lGkERzGI4) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 2:51 | 2019-09-09 | 2022-07-27 |
 | [La Pava](https://open.spotify.com/track/6EYmqkj3o78oX29YF5FOyl) | [Tatico](https://open.spotify.com/artist/06szOvix5Fvf3lGkERzGI4) | [Sabor Criollo \(Música Típica\)](https://open.spotify.com/album/0tst9q40oqCAzUuvOF38vy) | 2:51 | 2019-09-09 | 2022-07-12 |
 | [La Pava](https://open.spotify.com/track/7dwqCe1TRY8pUG3HIgjzdm) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Consagración de Cariño](https://open.spotify.com/album/4eUT2dtQUXBoBF0GxhTxFE) | 2:51 | 2019-09-09 | 2022-11-25 |
+| [La Pava](https://open.spotify.com/track/2NjlBCWu91w1DPNb7jPb15) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Consagración de Cariño](https://open.spotify.com/album/785ylApcbHMfJ6nzmBumvv) | 2:52 | 2019-09-09 |  |
 | [La Pava](https://open.spotify.com/track/5MFurpjWaE0RP7O5fpxkNz) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Lo Mejor](https://open.spotify.com/album/023zve01lZHkCgbqesOjSg) | 2:53 | 2019-09-09 | 2022-07-16 |
 | [La Pava](https://open.spotify.com/track/5Tw1y1ChGIp8lzJdJXuYrW) | [Tatico Henríquez](https://open.spotify.com/artist/1nEsnDQcktK5SB4ZKAezYM) | [A Llorar Mis Penas](https://open.spotify.com/album/09Q6xLmKJy7UKFi4U3LF6R) | 2:52 | 2019-09-09 | 2022-12-17 |
 | [La Pava](https://open.spotify.com/track/2PaI6XS5ytj6fVMx3VCsH7) | [Wilman Peña](https://open.spotify.com/artist/4ZCt8TwKamzijlmkvHxuKH), [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Qué Linda](https://open.spotify.com/album/6fCoSrjnnmEpkej8iiyiox) | 6:09 | 2019-09-09 | 2022-07-27 |

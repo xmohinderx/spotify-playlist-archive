@@ -1,12 +1,12 @@
 {
   "description": "Le cin\u00e9ma \u00e7a s'\u00e9coute aussi.",
-  "num_followers": 50058,
+  "num_followers": 50084,
   "original_name": "Bandes Originales & Pop Corn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMDIwZTcwNjQ4OTRlYmI2NmQ3YTdmMmNiOWMyZWQzNmYx",
+  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMDAzNzkxZDNjYTEzNGQ1NjU2ZDQ3MGQ1NjEyYzVhYmJl",
   "tracks": [
     {
       "added_at": "2022-09-07 09:54:53",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
-      "added_at": "2022-12-30 01:28:19",
+      "added_at": "2022-12-31 00:30:13",
       "album": {
         "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
@@ -453,6 +453,22 @@
       "url": "https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5"
     },
     {
+      "added_at": "2022-12-31 00:30:13",
+      "album": {
+        "name": "The White Lotus: Season 2 (Soundtrack from the HBO\u00ae Original Series)",
+        "url": "https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ"
+      },
+      "artists": [
+        {
+          "name": "Cristobal Tapia De Veer",
+          "url": "https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR"
+        }
+      ],
+      "duration_ms": 98440,
+      "name": "Renaissance (Main Title Theme) - from \"The White Lotus: Season 2\"",
+      "url": "https://open.spotify.com/track/2wXFOd5lYZH3Hiuw1oAYGt"
+    },
+    {
       "added_at": "2022-09-07 09:54:53",
       "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
@@ -471,22 +487,6 @@
       "duration_ms": 290333,
       "name": "(I've Had) The Time Of My Life - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/6W7ztLBiRzBN46ZaPAcQ0F"
-    },
-    {
-      "added_at": "2022-12-30 01:28:19",
-      "album": {
-        "name": "The White Lotus: Season 2 (Soundtrack from the HBO\u00ae Original Series)",
-        "url": "https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ"
-      },
-      "artists": [
-        {
-          "name": "Cristobal Tapia De Veer",
-          "url": "https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR"
-        }
-      ],
-      "duration_ms": 98440,
-      "name": "Renaissance (Main Title Theme) - from \"The White Lotus: Season 2\"",
-      "url": "https://open.spotify.com/track/2wXFOd5lYZH3Hiuw1oAYGt"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Ghostbusters (Original Motion Picture Soundtrack) [2016]",
-        "url": "https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 245253,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
         "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 208694,
       "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
       "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Ghostbusters (Original Motion Picture Soundtrack) [2016]",
+        "url": "https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 245253,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/6Dc2tCivms1s2X9myWe4ni"
     },
     {
-      "added_at": "2022-12-30 01:28:19",
+      "added_at": "2022-12-31 00:30:13",
       "album": {
         "name": "Red Rose Speedway (Archive Collection)",
         "url": "https://open.spotify.com/album/1RzrSgWinUzgsnw3oQDXOy"
@@ -635,22 +635,6 @@
       "duration_ms": 192773,
       "name": "Live And Let Die - 2018 Remaster",
       "url": "https://open.spotify.com/track/0VV8wkOM4w78A2OHZOTzNP"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -707,6 +691,22 @@
       "duration_ms": 159430,
       "name": "Burn Butcher Burn - from \"The Witcher: Season 2\" Soundtrack",
       "url": "https://open.spotify.com/track/6Hp57iv0VLGgmWyOFx8iUm"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1"
     },
     {
-      "added_at": "2022-12-30 01:28:19",
+      "added_at": "2022-12-31 00:30:13",
       "album": {
         "name": "The Spy Who Loved Me",
         "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
+        "name": "The Youth Of Today",
+        "url": "https://open.spotify.com/album/2fzSaL01wmGVH2W1moTcCs"
+      },
+      "artists": [
+        {
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+        }
+      ],
+      "duration_ms": 204222,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
         "name": "Once Upon a Time in the West (Original Motion Picture Soundtrack) [Remastered]",
         "url": "https://open.spotify.com/album/1mLXrA8oEtzeH6D45Zx4Bt"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 310013,
       "name": "Twin Peaks Theme - Instrumental",
       "url": "https://open.spotify.com/track/7FO7BolIZsl1o8DDSjeOph"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "The Youth Of Today",
-        "url": "https://open.spotify.com/album/2fzSaL01wmGVH2W1moTcCs"
-      },
-      "artists": [
-        {
-          "name": "Musical Youth",
-          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
-        }
-      ],
-      "duration_ms": 204222,
-      "name": "Pass The Dutchie",
-      "url": "https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1357,7 +1357,7 @@
       "url": "https://open.spotify.com/track/2IAQnOWKWjj1iA166KznVd"
     },
     {
-      "added_at": "2022-12-30 01:28:19",
+      "added_at": "2022-12-31 00:30:13",
       "album": {
         "name": "Let Me Sing and I'm Happy",
         "url": "https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5"
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
+        "name": "AVATAR Music From The Motion Picture Music Composed and Conducted by James Horner",
+        "url": "https://open.spotify.com/album/1H81jGoWeLI8ufq42GfDPn"
+      },
+      "artists": [
+        {
+          "name": "James Horner",
+          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+        }
+      ],
+      "duration_ms": 198080,
+      "name": "Climbing up \"Iknimaya - The Path to Heaven\"",
+      "url": "https://open.spotify.com/track/15KqdThHtueKDitVDzKNkF"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
         "name": "The Virgin Suicides (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY"
       },
@@ -1577,20 +1593,20 @@
       "url": "https://open.spotify.com/track/1xvtgNKtzZwOeLDkxgMzav"
     },
     {
-      "added_at": "2022-09-07 09:54:53",
+      "added_at": "2022-12-31 00:30:13",
       "album": {
-        "name": "AVATAR Music From The Motion Picture Music Composed and Conducted by James Horner",
-        "url": "https://open.spotify.com/album/1H81jGoWeLI8ufq42GfDPn"
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth"
       },
       "artists": [
         {
-          "name": "James Horner",
-          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+          "name": "Fabrizio De Andr\u00e9",
+          "url": "https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm"
         }
       ],
-      "duration_ms": 198080,
-      "name": "Climbing up \"Iknimaya - The Path to Heaven\"",
-      "url": "https://open.spotify.com/track/15KqdThHtueKDitVDzKNkF"
+      "duration_ms": 154493,
+      "name": "Spiritual",
+      "url": "https://open.spotify.com/track/7bUsesodBH1tITKTFXWK9k"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1607,22 +1623,6 @@
       "duration_ms": 130933,
       "name": "The Danish Girl",
       "url": "https://open.spotify.com/track/02gNzeeffcCXtx9qL39qHj"
-    },
-    {
-      "added_at": "2022-12-30 01:28:19",
-      "album": {
-        "name": "Volume 1",
-        "url": "https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio De Andr\u00e9",
-          "url": "https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "Spiritual",
-      "url": "https://open.spotify.com/track/7bUsesodBH1tITKTFXWK9k"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "The Grand Budapest Hotel (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6IV7472Hni7A1ENilCManS"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Desplat",
-          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "Mr. Moustafa",
-      "url": "https://open.spotify.com/track/1uNhvxpkPrNHUNfeclo6xD"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Belle-Issima! Sweet Memories\u2026",
         "url": "https://open.spotify.com/album/49lt16ScZyPFZtrT6U8w9m"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 179173,
       "name": "Iko Iko",
       "url": "https://open.spotify.com/track/0sXuP9uIFdL9AQbMGhRTIG"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Nocturnal Animals (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3i5Qw5hFvhY9Zms1gPVVkW"
+      },
+      "artists": [
+        {
+          "name": "Abel Korzeniowski",
+          "url": "https://open.spotify.com/artist/5RGAUCWFZyymaMSAZJeice"
+        }
+      ],
+      "duration_ms": 175706,
+      "name": "Wayward Sisters",
+      "url": "https://open.spotify.com/track/0d0oCKpagxERDFdn0jxrcj"
     }
   ],
   "unique_name": "Bandes Originales & Pop Corn",

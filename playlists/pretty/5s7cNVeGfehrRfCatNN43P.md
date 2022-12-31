@@ -4,23 +4,17 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,464 likes - 14 songs - 53 min 28 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,466 likes - 8 songs - 23 min 52 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dancing’s Done](https://open.spotify.com/track/06yG42F8p8l621YLki0rp2) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Dancing's Done](https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7) | 2:46 |
-| 2 | [Drum](https://open.spotify.com/track/759Qc9P8jWrRw4huLXWGQS) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:34 |
-| 3 | [Flatline](https://open.spotify.com/track/3MjQJPIyioqyzfBnolwGhQ) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:53 |
-| 4 | [Love Me Hard](https://open.spotify.com/track/10XF4kqTkPmSdYFYzGeT7s) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:42 |
-| 5 | [Summer of '99](https://open.spotify.com/track/6p6o9f6CEb2JtIOte7lPdL) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:58 |
-| 6 | [Boys](https://open.spotify.com/track/4IYk5ESCDyErbN4jRPVBPq) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:05 |
-| 7 | [Metal Heart](https://open.spotify.com/track/3asnWJHU4cNIP5bgGd64NI) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 4:25 |
-| 8 | [Beat Is Gone](https://open.spotify.com/track/4regwk9c129vAstvDcTmfj) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 4:29 |
-| 9 | [No Regrets](https://open.spotify.com/track/0VaEOReEngMRFhUFOIQcAs) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 4:01 |
-| 10 | [Today](https://open.spotify.com/track/0rkOrVDaEZFjYh0s2ncz3l) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:42 |
-| 11 | [Victory](https://open.spotify.com/track/2zsbc8inHb2ehEskRuU3J7) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:12 |
-| 12 | [I'm Alright](https://open.spotify.com/track/0bGS851JgP0O5PXzNXzEcr) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 4:04 |
-| 13 | [I Lay Down](https://open.spotify.com/track/141e0reRfyYtcyITYUUe48) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 4:08 |
-| 14 | [Back in the Day](https://open.spotify.com/track/6jMMbLB1WdaiqHBseiP7Eg) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 4:23 |
+| 1 | [BAD TIME GOOD TIME](https://open.spotify.com/track/4Hl8wmrubcVKUVqC3OagaP) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [BAD TIME GOOD TIME](https://open.spotify.com/album/41DUptL82OsBL8A1nNHUKE) | 3:14 |
+| 2 | [Drown Us Out](https://open.spotify.com/track/7Jfz5QUZE8T6ZRrNfAO04V) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Drown Us Out](https://open.spotify.com/album/7cVVLx6eUOcKPU9dKs7axq) | 3:16 |
+| 3 | [You Know I'm No Good](https://open.spotify.com/track/1ldziXsMfXPgE0Yb7jGivM) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p), [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [You Know I'm No Good](https://open.spotify.com/album/4XBLNYOCbyRZBRcyI0A1Bh) | 3:04 |
+| 4 | [Happy Birthday!](https://open.spotify.com/track/4ODk3dsfaU05R0XZfUeECB) | [Stalking Gia](https://open.spotify.com/artist/3VTJqPiHqHHIrx1FL7avMY) | [Happy Birthday!](https://open.spotify.com/album/3H423tiQDa9vhLs8DizhF7) | 2:35 |
+| 5 | [Head Held High](https://open.spotify.com/track/1MnTcyXc7vcPVgstIWAQCd) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre) | 3:16 |
+| 6 | [TUKI](https://open.spotify.com/track/4XMFcpYgm58mW2OK1MfR9z) | [Sofía Martín](https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus) | [TUKI](https://open.spotify.com/album/26z9OtSE7kqWDvR1u1Briv) | 2:33 |
+| 7 | [See You In My Dreams](https://open.spotify.com/track/5yqsHTPNMjiZP8LO7ZgnDY) | [Kat Leon](https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF) | [See You In My Dreams](https://open.spotify.com/album/1pKVuSFvPP17CaqkSekcLQ) | 3:34 |
+| 8 | [Stranger Things](https://open.spotify.com/track/64AEcuPgXGM5eJ2v6zX64u) | [Alex Ender](https://open.spotify.com/artist/4tVEnDtBhp4mjGvkgXlp1d), [Salta](https://open.spotify.com/artist/6u0Si1eLLr4jtzX2ZTQIFj) | [Stranger Things](https://open.spotify.com/album/45J2ukiJfU3WrFz01sBgk1) | 2:16 |
 
-Snapshot ID: `MjQ2OCwwYWM4NzExNWJmOGQ1Y2QzYjRjZDJkOGFhOGFkYjIwZjIxZGRjZGNi`
+Snapshot ID: `MjQ3MCw2MTY0ZWU3YWNkYjNhZmEwMTlmZjZmOGI5MDJhODhlMzFkM2Q1MmYx`

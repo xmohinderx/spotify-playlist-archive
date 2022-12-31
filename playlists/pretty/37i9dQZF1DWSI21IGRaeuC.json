@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 12910,
+  "num_followers": 12946,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDRhNzA0Zjk2NzQ2YzU4ZTgwOGI0OWZmMjc0NzBkNTJl",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDFlZjhhOThkZjU5ZmFhNjhmMGY3MmIxZjY2MzNlNWFk",
   "tracks": [
     {
       "added_at": "2022-10-12 18:33:51",
@@ -405,6 +405,22 @@
       "url": "https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6"
     },
     {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Whispers In The Wind",
+        "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "duration_ms": 368852,
+      "name": "Whispers In The Wind",
+      "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Sete (Carlita Remix)",
@@ -431,22 +447,6 @@
       "duration_ms": 222438,
       "name": "Sete - Carlita Remix",
       "url": "https://open.spotify.com/track/1N3bxA8qfSfaaPnsG3PGe0"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Whispers In The Wind",
-        "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        }
-      ],
-      "duration_ms": 368852,
-      "name": "Whispers In The Wind",
-      "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -857,40 +857,20 @@
       "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-06-03 18:11:27",
       "album": {
-        "name": "So Sweet (Matthias Tanzmann Remix)",
-        "url": "https://open.spotify.com/album/5hOWFQMBcssUJsnTAt7lr5"
+        "name": "Hydroponic EP",
+        "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
       },
       "artists": [
         {
           "name": "Dennis Cruz",
           "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        },
-        {
-          "name": "Matthias Tanzmann",
-          "url": "https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK"
         }
       ],
-      "duration_ms": 333026,
-      "name": "So Sweet - Matthias Tanzmann Remix",
-      "url": "https://open.spotify.com/track/0KBOVJnMYY8bgqrfzuAIG5"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "The True Secrets",
-        "url": "https://open.spotify.com/album/2l6O4WOV5Y6LceGjdsEX7i"
-      },
-      "artists": [
-        {
-          "name": "Daniel Levak",
-          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
-        }
-      ],
-      "duration_ms": 384115,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/6hqwG0LqDmEgsAQvaIF945"
+      "duration_ms": 434000,
+      "name": "Hydroponic",
+      "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -911,6 +891,22 @@
       "duration_ms": 233333,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "The True Secrets",
+        "url": "https://open.spotify.com/album/2l6O4WOV5Y6LceGjdsEX7i"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "duration_ms": 384115,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/6hqwG0LqDmEgsAQvaIF945"
     },
     {
       "added_at": "2022-06-24 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1N4LABjaIvi.md) - [plain]
 
 > Todo lo nuevo y lo esencial de Luciano en una sola lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,478 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,561 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -260,6 +260,24 @@
     },
     {
       "album": {
+        "name": "A World Above",
+        "url": "https://open.spotify.com/album/6Tsuaro1rdAFo4QuNjzOX0"
+      },
+      "artists": [
+        {
+          "name": "Lluvia Green",
+          "url": "https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126799,
+      "name": "A World Above",
+      "url": "https://open.spotify.com/track/7x9bH00ovSbLyTMvsyvWNd"
+    },
+    {
+      "album": {
         "name": "Above The Sky",
         "url": "https://open.spotify.com/album/6UUZM30QvIYy5ocP6AMb5N"
       },
@@ -6069,6 +6087,24 @@
       "duration_ms": 191630,
       "name": "Inner Cease",
       "url": "https://open.spotify.com/track/5FEqM4v1VJkQyr2N57g8Y1"
+    },
+    {
+      "album": {
+        "name": "The Deep",
+        "url": "https://open.spotify.com/album/7x78Dxtt8fpbFbLfSMM2bR"
+      },
+      "artists": [
+        {
+          "name": "Eoforwine",
+          "url": "https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146680,
+      "name": "Inside The Wave",
+      "url": "https://open.spotify.com/track/7u6NFtytPfiVDK5txIpHvd"
     },
     {
       "album": {

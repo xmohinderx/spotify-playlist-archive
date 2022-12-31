@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Billkin
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,484 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,676 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 2 | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/track/15MIlusZDUVhN1jZ84OyDA) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/album/0hyMlYAOfsCJrTnHSM2eHj) | 3:53 |
 | 3 | [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/track/1af2PmV5gQRWELZmVrjNMQ) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/album/4NFDAt3VZrqAVgAR8SpltV) | 4:26 |
 | 4 | [น่ารักชิบปุ๋ง Feat.SPRITE](https://open.spotify.com/track/6I3Y2cxdvLVZeLRVoB3aVG) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [น่ารักชิบปุ๋ง Feat.SPRITE](https://open.spotify.com/album/2bAeenjgVDSwCpEWEcnsbJ) | 3:36 |
-| 5 | [ไม่มีกั๊กหรอก \(Unlimited\)](https://open.spotify.com/track/4rU6bimKj6hJFFKRd3iiGz) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7), [54 Entertainment Trainees](https://open.spotify.com/artist/6douJMquLUNMd7wp0P1esZ) | [ไม่มีกั๊กหรอก \(Unlimited\)](https://open.spotify.com/album/5EpuJLJG6Y9oiN037ZKzye) | 3:31 |
-| 6 | [FIRE BOY](https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [FIRE BOY](https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux) | 2:49 |
+| 5 | [FIRE BOY](https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [FIRE BOY](https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux) | 2:49 |
+| 6 | [ไม่มีกั๊กหรอก \(Unlimited\)](https://open.spotify.com/track/4rU6bimKj6hJFFKRd3iiGz) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7), [54 Entertainment Trainees](https://open.spotify.com/artist/6douJMquLUNMd7wp0P1esZ) | [ไม่มีกั๊กหรอก \(Unlimited\)](https://open.spotify.com/album/5EpuJLJG6Y9oiN037ZKzye) | 3:31 |
 | 7 | [ไม่เป็นไรมั้ง \- Original Soundtrack From "วุ่นรักนักจิ้น Why You Y Me?](https://open.spotify.com/track/1pxrSbfXB51N5WRoSHZAX5) | [Jump Pisitpol](https://open.spotify.com/artist/7nbtiYrwbJ3mJXaSdZwnmD) | [ไม่เป็นไรมั้ง \(Original Soundtrack From "วุ่นรักนักจิ้น Why You Y Me?\)](https://open.spotify.com/album/2SqMKNybQ7DV7hJ0gqwn5R) | 3:41 |
 | 8 | [น้อมรับคำทำนาย \- THE SUN](https://open.spotify.com/track/7yRaBXZzpWLAnW57MeVts5) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [น้อมรับคำทำนาย \(THE SUN\)](https://open.spotify.com/album/2GwiR97NrF1ZzADeuJpLHd) | 3:37 |
 | 9 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 59 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 |
 | 60 | [วัดปะหล่ะ? \(TEST ME\)](https://open.spotify.com/track/4m72K740TLVYovBWJmTTt3) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [The First Album](https://open.spotify.com/album/1QSQt7RmnYE2s0IMWxKG5q) | 3:40 |
 
-Snapshot ID: `MTY3MTgwMzIwOCwwMDAwMDAwMDU1NGZjYmU0YTZlN2U0M2RkODFkNzM3MDhiNDc0ZDll`
+Snapshot ID: `MTY3MjQxNTE1MSwwMDAwMDAwMGZkZjE0ZDJjOTUwYzYyNTI5OGY4NzFiOTAyMTI0YWU5`

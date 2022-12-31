@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Tuyo
 
-305 songs - 17 hr 28 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+306 songs - 17 hr 31 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Apesar de Tudo](https://open.spotify.com/track/6AaxbPmGQXFSKvp2VCfHp6) | [AREN](https://open.spotify.com/artist/31QiBU59hNzPdCfPpRXykC), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Apesar de Tudo](https://open.spotify.com/album/0auf950HkV7rfUgEMG93pm) | 2:44 | 2022-09-23 |  |
 | [Aqueles Homens](https://open.spotify.com/track/546dLtXOOsyvEN6jBJSqYz) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK), [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL) | [Aqueles Homens](https://open.spotify.com/album/3UHBNu5gqCpsLJsKG6J7gH) | 4:43 | 2022-06-24 |  |
 | [arão](https://open.spotify.com/track/2xNMHYgUHDjLzo5ipgeTt9) | [gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [zera](https://open.spotify.com/album/5hKzinFoIFHtvIK8EeWUVU) | 4:21 | 2022-06-17 | 2022-07-02 |
+| [As Viagens Inimagináveis de Priska](https://open.spotify.com/track/3AZQGrhcQMegphm79hMgt8) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [As Viagens Inimagináveis de Priska](https://open.spotify.com/album/4jyLacgXK5jTHmMk0EQ2vM) | 2:59 | 2022-12-30 |  |
 | [Até A Noite Acabar](https://open.spotify.com/track/3mXRBKMajSreOWvtpUsmQw) | [Breno Branches](https://open.spotify.com/artist/7hTaRYWtNlp0VOxkbKhUGj) | [Transitar](https://open.spotify.com/album/6seVRIB5FtjQkx79j29on1) | 3:51 | 2022-11-04 | 2022-12-10 |
 | [Até Meu Violão](https://open.spotify.com/track/47T54qbp9SreG2h7RBaMEG) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [No Reino Dos Afetos](https://open.spotify.com/album/2arek67vZ8dshMyO3U4gLH) | 2:49 | 2022-07-01 | 2022-08-13 |
 | [Aulus](https://open.spotify.com/track/7KtPb4RSS9YCDsBE8WTbl8) | [Maré Tardia](https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i) | [Aulus](https://open.spotify.com/album/3pqnkMtRDxT20PGZV4BPPI) | 4:14 | 2022-01-14 | 2022-06-04 |

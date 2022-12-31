@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-372 songs - 19 hr 31 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
+373 songs - 19 hr 34 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Al Vanda](https://open.spotify.com/track/157498zKslcWTRJGqzx3ad) | [Natana Bach](https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4) | [Al Vanda](https://open.spotify.com/album/184oRUumTGWbZjRSM6EV7C) | 2:27 | 2022-09-30 |  |
 | [Align](https://open.spotify.com/track/5Nawyr4KZXikRk0ULZyBOY) | [Mark Watson](https://open.spotify.com/artist/6vUk8SMonemgCpxqUhYzlv) | [Align](https://open.spotify.com/album/3wkDTcaSDlCjoJ26BMucVD) | 3:35 | 2022-11-11 |  |
 | [Alleviation](https://open.spotify.com/track/6hz5qA35YWENEvi1qlb9xt) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Alleviation](https://open.spotify.com/album/5peWe4tisKmGmYXfymYHgS) | 3:28 | 2022-05-26 |  |
+| [Altitude](https://open.spotify.com/track/5VpRhHsT7DhWRyzLq40dRw) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Altitude](https://open.spotify.com/album/4Wv2qeeio7rqXy3jPZuHuf) | 3:45 | 2022-12-30 |  |
 | [Amygdala](https://open.spotify.com/track/5921nMZXq52f54Jv57BE80) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Soulythical](https://open.spotify.com/album/30Vh9X9ijMHyg7lcpoejNK) | 3:38 | 2022-05-26 |  |
 | [Andare Lentamente](https://open.spotify.com/track/5foXZOVwYZ9Xs0P61JHHqF) | [Spacious Minds](https://open.spotify.com/artist/1Whq2mxIJ5AjZWxQY19S7V) | [Andare Lentamente](https://open.spotify.com/album/0fjDEGWTfCMf9B9mnjgENQ) | 2:26 | 2022-05-26 |  |
 | [anhelo](https://open.spotify.com/track/7dgNKgQTOXvDyL4oX1xrZ3) | [Ezechiel Almonte](https://open.spotify.com/artist/0v5fZ2O6PA8HBHeiIALNx9) | [anhelo](https://open.spotify.com/album/5CYhPhBDl0VX9OdvUto91Q) | 3:32 | 2022-05-26 |  |
@@ -129,7 +130,7 @@
 | [Final Feliz](https://open.spotify.com/track/27LnREBusAgOoIreyVaOgL) | [Shah Feryan](https://open.spotify.com/artist/2k3wtmQ6gYbYAS7Mrv7wKx) | [Focus Forward](https://open.spotify.com/album/01Eil5njhrUuhnMV685rCR) | 3:00 | 2022-05-26 |  |
 | [Finally At Ease](https://open.spotify.com/track/4HJJh915LuQpMjEO0tFwhx) | [Molecular Clouds](https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc) | [Finally At Ease](https://open.spotify.com/album/0e7VPn87No5P1c1RGLUGYu) | 2:40 | 2022-05-26 |  |
 | [Finding Solitude](https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Finding Solitude](https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7) | 2:33 | 2022-05-26 |  |
-| [Fjords](https://open.spotify.com/track/0un2LnKNOVlm3SOyqM2gTM) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Fjords](https://open.spotify.com/album/0QlljBesjW5xU2bYMz1oux) | 3:33 | 2022-05-26 |  |
+| [Fjords](https://open.spotify.com/track/0un2LnKNOVlm3SOyqM2gTM) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Fjords](https://open.spotify.com/album/0QlljBesjW5xU2bYMz1oux) | 3:33 | 2022-05-26 | 2022-12-31 |
 | [Fleeting](https://open.spotify.com/track/0AyqTD2FRAUQxTCLP0X886) | [Maximilian Zapdo](https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc) | [Illusive](https://open.spotify.com/album/13oIzXa4Zd1CI8YqEKgR71) | 3:01 | 2022-12-09 |  |
 | [Flor Espina](https://open.spotify.com/track/166sXNEu8LOKQeMmqWo7SA) | [Iridaceae Fields](https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1) | [Flor Espina](https://open.spotify.com/album/6BOeH3ak5BXocqzHkDq9fL) | 2:35 | 2022-09-30 |  |
 | [Flow State](https://open.spotify.com/track/3pUQApLLT0iAnxGbe1IC8q) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Flow State](https://open.spotify.com/album/2JgRSgWb6qxviNI3SN0B6W) | 2:37 | 2022-10-14 |  |
@@ -167,7 +168,7 @@
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2022-05-26 |  |
 | [Incognito](https://open.spotify.com/track/5o8wzFKWubYHioQh5j5c5O) | [Maddox JR](https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr) | [Incognito](https://open.spotify.com/album/0xkI27l9SAdUOq3UIGmoJT) | 3:37 | 2022-05-26 |  |
 | [Infinities](https://open.spotify.com/track/5985uWNOMmxrzAvvWaxT0t) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Infinities](https://open.spotify.com/album/5Sonpi8gWOXu02oZdxSees) | 3:23 | 2022-05-26 | 2022-08-16 |
-| [Infinity](https://open.spotify.com/track/0H523FQxptvl0r8JuphNIK) | [Dreemst8s](https://open.spotify.com/artist/2y2SdxeVrDBaFgPx2WYhCN) | [Infinity](https://open.spotify.com/album/7ryCu7JGp3QkBI0Ghy3Xdx) | 3:14 | 2022-05-26 |  |
+| [Infinity](https://open.spotify.com/track/0H523FQxptvl0r8JuphNIK) | [Dreemst8s](https://open.spotify.com/artist/2y2SdxeVrDBaFgPx2WYhCN) | [Infinity](https://open.spotify.com/album/7ryCu7JGp3QkBI0Ghy3Xdx) | 3:14 | 2022-05-26 | 2022-12-31 |
 | [Interpretations](https://open.spotify.com/track/6PIbpT7ray6ixif2v6RIIa) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [Whisper of the Pines](https://open.spotify.com/album/4s6a8srmUVV3FBbhNIdqTj) | 2:37 | 2022-05-26 |  |
 | [Into Some Spirit World](https://open.spotify.com/track/0vrzuqnRLa6icpqTHp9ifS) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Mend](https://open.spotify.com/album/4YBtOJTZx52vGVcI7Nkuss) | 3:04 | 2022-07-22 |  |
 | [Into Some Spirit World](https://open.spotify.com/track/2SmpFBzYbSUeWo5UzQam0j) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Mend](https://open.spotify.com/album/5HLBAmCpz97MDLIlGZkJ5T) | 3:04 | 2022-05-26 | 2022-07-29 |
@@ -188,7 +189,7 @@
 | [Liberation](https://open.spotify.com/track/5t4VSTxtgOvcAsk5FcKnh7) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Eternal Self](https://open.spotify.com/album/79CUupsxoVX30cRSdKJJWQ) | 2:43 | 2022-05-26 |  |
 | [Light](https://open.spotify.com/track/0peYIO0XdyvdK2znrrH3ys) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Light](https://open.spotify.com/album/2MCEhwQ8lurgvTkZ7WMrjI) | 2:49 | 2022-09-02 |  |
 | [Light Wings](https://open.spotify.com/track/35InIo8y15nRhxFhXlE9KG) | [Darlan Vado](https://open.spotify.com/artist/5V2NXfQ1354qTgxy8r00kl) | [Light Wings](https://open.spotify.com/album/6YKV9jMAqOso3QRCsVwmC2) | 2:24 | 2022-05-26 |  |
-| [Little Nocturne](https://open.spotify.com/track/0kCPKFSme4AMah0o6CJMPz) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Siesta](https://open.spotify.com/album/4e1cIbl8RzlZTekDctsAwm) | 1:38 | 2022-05-26 |  |
+| [Little Nocturne](https://open.spotify.com/track/0kCPKFSme4AMah0o6CJMPz) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Siesta](https://open.spotify.com/album/4e1cIbl8RzlZTekDctsAwm) | 1:38 | 2022-05-26 | 2022-12-31 |
 | [Lonley Sea](https://open.spotify.com/track/2C0yGv2SPRTfb0O6FMIEb5) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Lonley Sea](https://open.spotify.com/album/5bwGcChnF5bLKfOZISQ5u9) | 3:30 | 2022-05-26 |  |
 | [Lost at Sea](https://open.spotify.com/track/13TlLMjvV0pZqBF7DKIs94) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Wandering the Coast](https://open.spotify.com/album/2ufoGt7vrupWII9nAa2pfa) | 3:12 | 2022-05-26 |  |
 | [Lost In Thought](https://open.spotify.com/track/22vY259m2QQnjxjhW3cabS) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 1:55 | 2022-11-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 584541,
+  "num_followers": 584713,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYyNTY3OCwwMDAwMDAwMDdjMmU4MTExZWU1OTc1NTI4OTI0ZTJmNjNjMWIwMWVj",
+  "snapshot_id": "MTY3MTYyNTY3OCwwMDAwMDAwMDg5YzcwMDgyNThlY2U3NDQ1MWM3YjYwODE0ZjA5ODA1",
   "tracks": [
     {
       "added_at": "2022-11-21 12:26:20",
@@ -67,22 +67,6 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
-        "name": "Krieg Und Frieden",
-        "url": "https://open.spotify.com/album/73XaqJnXTtEF39anv29yrm"
-      },
-      "artists": [
-        {
-          "name": "Die Firma",
-          "url": "https://open.spotify.com/artist/32iYExttk1mlpOmY7gCqk3"
-        }
-      ],
-      "duration_ms": 206560,
-      "name": "Die Eine 2005",
-      "url": "https://open.spotify.com/track/3jd4ya9vCwExxTVOjPcqsf"
-    },
-    {
-      "added_at": "2022-11-21 12:26:20",
-      "album": {
         "name": "Raop",
         "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 172208,
       "name": "Easy",
       "url": "https://open.spotify.com/track/063ltSmgXNffmgYxippeke"
+    },
+    {
+      "added_at": "2022-11-21 12:26:20",
+      "album": {
+        "name": "Krieg Und Frieden",
+        "url": "https://open.spotify.com/album/73XaqJnXTtEF39anv29yrm"
+      },
+      "artists": [
+        {
+          "name": "Die Firma",
+          "url": "https://open.spotify.com/artist/32iYExttk1mlpOmY7gCqk3"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Die Eine 2005",
+      "url": "https://open.spotify.com/track/3jd4ya9vCwExxTVOjPcqsf"
     },
     {
       "added_at": "2022-11-21 12:26:20",

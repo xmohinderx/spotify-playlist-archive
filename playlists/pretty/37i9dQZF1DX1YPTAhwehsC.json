@@ -1,29 +1,13 @@
 {
   "description": "Up and down I-95. Cover: DD Osama",
-  "num_followers": 430115,
+  "num_followers": 430283,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjIwMzMzMCwwMDAwMDAwMGZjMDM2NWU2YjY3ZGExYzM3MzZjNWFjYzA3MzI1Y2Uw",
+  "snapshot_id": "MTY3MjM3NjQwMCwwMDAwMDAwMDFiZTFmMGYxZmRmYjRmOGRjMjMzZDRhNzJhZThjNjVi",
   "tracks": [
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
-    },
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
@@ -39,22 +23,6 @@
       "duration_ms": 127397,
       "name": "Letter 2 Notti",
       "url": "https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "No Passes",
-        "url": "https://open.spotify.com/album/7vjMD8VhqQU7Yy6hS1Fm22"
-      },
-      "artists": [
-        {
-          "name": "Bizzy Banks",
-          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
-        }
-      ],
-      "duration_ms": 160993,
-      "name": "No Passes",
-      "url": "https://open.spotify.com/track/0BQ2Rl5wkrg9fLVDHexi1K"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -77,26 +45,26 @@
       "url": "https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/3RbYFBgKVIg8m2TNxEL9sq"
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
       },
       "artists": [
         {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 122718,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/66BoIQExCIsSmJ6H5zZTZg"
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
       },
       "artists": [
         {
@@ -104,41 +72,9 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 157800,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "JUST FRIENDS ?",
-        "url": "https://open.spotify.com/album/7Mr6MY1YddBuV6C8ULWFax"
-      },
-      "artists": [
-        {
-          "name": "Eem Triplin",
-          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
-        }
-      ],
-      "duration_ms": 163892,
-      "name": "JUST FRIENDS ?",
-      "url": "https://open.spotify.com/track/7ppUTKvokd4vQ68TNAxuZk"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 144594,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX"
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2022-12-09 06:09:21",
@@ -161,6 +97,86 @@
       "url": "https://open.spotify.com/track/4bgfOF85wLRLtVtDeuwlNH"
     },
     {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "#NeverDrinkingAgain",
+        "url": "https://open.spotify.com/album/0LTBVBoCdL2FSGJIPvqKc8"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "#NeverDrinkingAgain",
+      "url": "https://open.spotify.com/track/6V6qKLDO7jSA4Vh6tDfScL"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "JUST FRIENDS ?",
+        "url": "https://open.spotify.com/album/7Mr6MY1YddBuV6C8ULWFax"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "duration_ms": 163892,
+      "name": "JUST FRIENDS ?",
+      "url": "https://open.spotify.com/track/7ppUTKvokd4vQ68TNAxuZk"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "No Passes",
+        "url": "https://open.spotify.com/album/7vjMD8VhqQU7Yy6hS1Fm22"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        }
+      ],
+      "duration_ms": 160993,
+      "name": "No Passes",
+      "url": "https://open.spotify.com/track/0BQ2Rl5wkrg9fLVDHexi1K"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/3RbYFBgKVIg8m2TNxEL9sq"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "duration_ms": 122718,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/66BoIQExCIsSmJ6H5zZTZg"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 144594,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "One Mic, One Gun",
@@ -179,6 +195,22 @@
       "duration_ms": 169693,
       "name": "One Mic, One Gun",
       "url": "https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "2daside",
+        "url": "https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 137706,
+      "name": "2daside",
+      "url": "https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -237,6 +269,38 @@
       "url": "https://open.spotify.com/track/1Pgu551wrKnGA82NiytP9G"
     },
     {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Black Roses",
+        "url": "https://open.spotify.com/album/4qySraSpgdcfXi2myE1iqn"
+      },
+      "artists": [
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        }
+      ],
+      "duration_ms": 151088,
+      "name": "Black Roses",
+      "url": "https://open.spotify.com/track/2PPJUlUBAL8idHI0V79U2B"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Shittin' Me",
+        "url": "https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 144729,
+      "name": "Shittin' Me",
+      "url": "https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz"
+    },
+    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Slime-U-Out (feat. 21 Savage)",
@@ -257,36 +321,20 @@
       "url": "https://open.spotify.com/track/73q28ToK6IQpMoE9w4c7Qm"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
+      "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Shittin' Me",
-        "url": "https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6"
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 144729,
-      "name": "Shittin' Me",
-      "url": "https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Black Roses",
-        "url": "https://open.spotify.com/album/4qySraSpgdcfXi2myE1iqn"
-      },
-      "artists": [
-        {
-          "name": "J.I the Prince of N.Y",
-          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
-        }
-      ],
-      "duration_ms": 151088,
-      "name": "Black Roses",
-      "url": "https://open.spotify.com/track/2PPJUlUBAL8idHI0V79U2B"
+      "duration_ms": 157800,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
     },
     {
       "added_at": "2022-12-09 05:07:45",
@@ -331,6 +379,22 @@
       "duration_ms": 189426,
       "name": "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff)",
       "url": "https://open.spotify.com/track/3SsJ17EnPIu1B4GZshqjIS"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Telfy",
+        "url": "https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo"
+      },
+      "artists": [
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        }
+      ],
+      "duration_ms": 187376,
+      "name": "Telfy",
+      "url": "https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -675,22 +739,6 @@
       "duration_ms": 145007,
       "name": "PSA feat. Kyle Richh",
       "url": "https://open.spotify.com/track/0LHzdbZcQxANth09pZzeRn"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1107,22 +1155,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Telfy",
-        "url": "https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo"
-      },
-      "artists": [
-        {
-          "name": "Maiya The Don",
-          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
-        }
-      ],
-      "duration_ms": 187376,
-      "name": "Telfy",
-      "url": "https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "SHMURDAGOTCASH",
         "url": "https://open.spotify.com/album/6pVmb48rNvKkQHN0KUPTy1"
       },
@@ -1379,26 +1411,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Mask Up",
-        "url": "https://open.spotify.com/album/7EI5fjyeXgatNs7kQkPOSU"
-      },
-      "artists": [
-        {
-          "name": "Neek Bucks",
-          "url": "https://open.spotify.com/artist/43khwEflLhLeFZ6gx8QIzc"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 135384,
-      "name": "Mask Up",
-      "url": "https://open.spotify.com/track/11tJmNYTvo3DSZdk1Q7mAI"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Al Pacino",
         "url": "https://open.spotify.com/album/4c7QeDvdFGVHfe4Q4igrO3"
       },
@@ -1599,22 +1611,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "For U I Wait",
-        "url": "https://open.spotify.com/album/4EWKUi80vCkFRIP2kAAG6H"
-      },
-      "artists": [
-        {
-          "name": "Ciggy Blacc",
-          "url": "https://open.spotify.com/artist/0IN0wP9ki18ys6EW4OtoQJ"
-        }
-      ],
-      "duration_ms": 125793,
-      "name": "For U I Wait",
-      "url": "https://open.spotify.com/track/2GRVU7KutSHfakWuk0lnIL"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Blitz (with Sada Baby)",
         "url": "https://open.spotify.com/album/415gGbwqoetwQZLL68gjew"
       },
@@ -1635,22 +1631,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Started",
-        "url": "https://open.spotify.com/album/6Sgf8YkooBgXIMxrGVb6Jb"
-      },
-      "artists": [
-        {
-          "name": "Connie Diiamond",
-          "url": "https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK"
-        }
-      ],
-      "duration_ms": 165405,
-      "name": "Started",
-      "url": "https://open.spotify.com/track/2hI0o8DTlizL7NMKsbJ0YS"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Punch Me In",
         "url": "https://open.spotify.com/album/01q79PFHq4WmrCek7xDnxH"
       },
@@ -1663,22 +1643,6 @@
       "duration_ms": 120000,
       "name": "Punch Me In",
       "url": "https://open.spotify.com/track/7xf2UVEG08JHdBjaeU6qEE"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Sandbox",
-        "url": "https://open.spotify.com/album/4XH6r97ff6p58FGNxexSBy"
-      },
-      "artists": [
-        {
-          "name": "Free Party",
-          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
-        }
-      ],
-      "duration_ms": 217031,
-      "name": "Sandbox",
-      "url": "https://open.spotify.com/track/5FpA9VUCUquTkHPpn5Uaiq"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1879,26 +1843,6 @@
       "duration_ms": 173164,
       "name": "Make It Lit",
       "url": "https://open.spotify.com/track/17UlPmEGyHxCC3BMRv9Kel"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Are You Home Yet?",
-        "url": "https://open.spotify.com/album/6wnJD95wjo8PWzQBmJm9qs"
-      },
-      "artists": [
-        {
-          "name": "Doley Bernays",
-          "url": "https://open.spotify.com/artist/16WMnfMmfhqT4XWD9bkPch"
-        },
-        {
-          "name": "Highklass Gangsta",
-          "url": "https://open.spotify.com/artist/1BZmD4pqeJnlQE2UryyySd"
-        }
-      ],
-      "duration_ms": 245052,
-      "name": "Home When Im Not Home/Gangsta P's Outro",
-      "url": "https://open.spotify.com/track/5DtZzv4y638cD4Ti85VJgA"
     }
   ],
   "unique_name": "State of Mind",

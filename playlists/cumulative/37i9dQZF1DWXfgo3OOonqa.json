@@ -3894,6 +3894,32 @@
     },
     {
       "album": {
+        "name": "Du m\u00e5ste veta",
+        "url": "https://open.spotify.com/album/7LsEOHQrPXwQfFAyBOrFQT"
+      },
+      "artists": [
+        {
+          "name": "Elias Abbas",
+          "url": "https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6"
+        },
+        {
+          "name": "Mona Masrour",
+          "url": "https://open.spotify.com/artist/087cmrx63FD1wMFuYBN9gt"
+        },
+        {
+          "name": "AIVA",
+          "url": "https://open.spotify.com/artist/07ogFFhRxjjGsPHfq4dSQb"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181938,
+      "name": "Du m\u00e5ste veta",
+      "url": "https://open.spotify.com/track/17Tszh9t40UEgHXAf8V2VI"
+    },
+    {
+      "album": {
         "name": "DUBBELT",
         "url": "https://open.spotify.com/album/1kCuWYeT82ozXFOVsPonRk"
       },

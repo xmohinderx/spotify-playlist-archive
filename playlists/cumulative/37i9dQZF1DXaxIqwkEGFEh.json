@@ -3399,7 +3399,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 170722,
       "name": "For Certain (feat. BIG30)",
       "url": "https://open.spotify.com/track/6Zdsdkz51wy9dwtzKaalPt"
@@ -7623,7 +7623,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 144065,
       "name": "No Kizzy",
       "url": "https://open.spotify.com/track/0hDxLP8ThPji6I53tI2JFa"
@@ -8345,7 +8345,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 157639,
       "name": "Pain & Strife (feat. Offset)",
       "url": "https://open.spotify.com/track/5sER6mjVIHvloVenvFbgT1"
@@ -9940,6 +9940,24 @@
     },
     {
       "album": {
+        "name": "Score Or Die",
+        "url": "https://open.spotify.com/album/181lAFIxJUTVwxU244eJs8"
+      },
+      "artists": [
+        {
+          "name": "Rundown Choppaboy",
+          "url": "https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163872,
+      "name": "Score Or Die",
+      "url": "https://open.spotify.com/track/6VLv4EhaNR5SRfVEpleoWs"
+    },
+    {
+      "album": {
         "name": "It's Almost Dry",
         "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
       },
@@ -10674,6 +10692,24 @@
     },
     {
       "album": {
+        "name": "Specialty",
+        "url": "https://open.spotify.com/album/3IV5khV7VfuX3DCnIMF8ZQ"
+      },
+      "artists": [
+        {
+          "name": "Billacheck",
+          "url": "https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112133,
+      "name": "Specialty",
+      "url": "https://open.spotify.com/track/6wVm22yQR2vux6aLz4MLp4"
+    },
+    {
+      "album": {
         "name": "Spin",
         "url": "https://open.spotify.com/album/3piLGbmbR9tgpX7va0IBWB"
       },
@@ -10955,7 +10991,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 160446,
       "name": "Steppin On Sh!t",
       "url": "https://open.spotify.com/track/3bQptfCFF8jbspDdlMyDQU"
@@ -11035,6 +11071,24 @@
       "duration_ms": 178413,
       "name": "Straight To It (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/4RaV9tFFV7R04lglRhgg5O"
+    },
+    {
+      "album": {
+        "name": "Section 8",
+        "url": "https://open.spotify.com/album/2LfW10BGK43jwbCKcKzmRZ"
+      },
+      "artists": [
+        {
+          "name": "Wam SpinThaBin",
+          "url": "https://open.spotify.com/artist/1vljqWKOCEBTIA9mhCaCCt"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181883,
+      "name": "Stranger Things",
+      "url": "https://open.spotify.com/track/1J5RGNDATwSxoWZz5nSUDS"
     },
     {
       "album": {

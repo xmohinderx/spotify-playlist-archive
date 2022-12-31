@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 
 > Gentle, relaxing music from around the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,616 likes - 81 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,796 likes - 81 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 52 | [Cool Waters](https://open.spotify.com/track/5nqQPIr2wSch2IxoMB3XkS) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Whispering Sea](https://open.spotify.com/album/1g1n2CZK0Vl7LFozMjDJcZ) | 4:38 |
 | 53 | [Rain](https://open.spotify.com/track/2Anfmyv68X4WBjVQt96mrv) | [Gary Stroutsos](https://open.spotify.com/artist/6koxUF41S16a1rmvjG44re), [David Revelli](https://open.spotify.com/artist/4CfRGPcxwo3KV4Q5U0CJ0M) | [Night Chants: Native American Flute](https://open.spotify.com/album/0dsG8miQjj8S6DuhWpfvVt) | 4:01 |
 | 54 | [Peaceful Hang Drum & Birdsong](https://open.spotify.com/track/4QAsHrYGR3RMonfSPI8gI5) | [Kirk Monteux Mysoftmusic](https://open.spotify.com/artist/5rammAFayWNzDxoBMeLzlZ) | [Peaceful Hang Drum & Birdsong](https://open.spotify.com/album/0HockDqiNjTfypIXqrZilM) | 4:16 |
-| 55 | [Mazaj 2](https://open.spotify.com/track/0Apk8HMrMQKMMt941I5Dmk) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY), [Jérémy Marais](https://open.spotify.com/artist/1qpdOXTXq5wQm3ev30RbqQ), [Imroel\-Quays](https://open.spotify.com/artist/2XwZ9QnaodqmkrJbanvvir) | [Mazaj \(Vibe\)](https://open.spotify.com/album/5bwzIamwrEoWR3IdbTfYKO) | 3:28 |
+| 55 | [Mazaj 2](https://open.spotify.com/track/7k3n7vPc9C5SpUBbEhYCEe) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY), [Jérémy Marais](https://open.spotify.com/artist/1qpdOXTXq5wQm3ev30RbqQ), [Imroel\-Quays](https://open.spotify.com/artist/2XwZ9QnaodqmkrJbanvvir) | [Mazaj \(Vibe\)](https://open.spotify.com/album/2Lzv8I1ojDganSCmRb3hCz) | 3:28 |
 | 56 | [Lament](https://open.spotify.com/track/14hn4Wvb8wI9ofZKvCNh1S) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Lament](https://open.spotify.com/album/2bKDm2fRBR09ufadW2mCSY) | 5:11 |
 | 57 | [Distance](https://open.spotify.com/track/4cXRe000LxbchXggA2TlrU) | [Oceans Cry](https://open.spotify.com/artist/174Q4UvaXNdNt4KSRrglKi) | [Distance](https://open.spotify.com/album/6idMBEpMSoVX44nJb5jtIW) | 3:56 |
 | 58 | [Peace and Quiet](https://open.spotify.com/track/6fKAXHHXXu0IrgNbOASoFS) | [Zen Atlas](https://open.spotify.com/artist/6KjzMG22RTsrSCmy71Ok0N) | [Peace and Quiet](https://open.spotify.com/album/1VA2ltU2TnJ3uAFpXG1DZ0) | 3:30 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 80 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/6LX4pC94OndpQwepyNdqZ7) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 5:59 |
 | 81 | [Still Moment](https://open.spotify.com/track/2vAqcKkTSGUAkpu2kRKorM) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 5:43 |
 
-Snapshot ID: `MTY2MDEzMTYyMiwwMDAwMDAwMDE1YmNhZDNmNmUwZGU2YjdlYzg0ZTEzOGNhMTZjZDBh`
+Snapshot ID: `MTY2MDEzMTYyMiwwMDAwMDAwMDYxMWEyMWQ2YzQ0Yzk3OTBjZGNhNDEyMTBlYzQwMzE5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Barto neem Nuwe Afrikaans oor met sy gunsteling treffers vir jou Nuwe Jaar jol\. Cover: <a href="https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=9uWP9TUzQzmD6y60qBaG\-w">Barto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,546 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,606 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

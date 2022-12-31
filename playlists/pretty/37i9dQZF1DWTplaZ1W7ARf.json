@@ -1,53 +1,13 @@
 {
   "description": "Neighborhood Storytellers. Cover: Rich Homie Quan",
-  "num_followers": 54162,
+  "num_followers": 54184,
   "original_name": "Street Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDZiMWE3YTU5ZDU5ZWQwODM0ZjEwMTBiYzNkODcwNjAy",
+  "snapshot_id": "MTY3MjM3NjQwMCwwMDAwMDAwMGQ2YjBiMmJmYTBlYjI5MzVmMDllNjYyYjNjYmNlZTA5",
   "tracks": [
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "The Main Bird",
-        "url": "https://open.spotify.com/album/4HWgWGP0wqldO7kuOGVkEo"
-      },
-      "artists": [
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 192078,
-      "name": "Rich And Dangerous",
-      "url": "https://open.spotify.com/track/1kgPrqOpwzDDdvufXCksaq"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Lil Durk Presents: Loyal Bros 2",
-        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Esparo",
-          "url": "https://open.spotify.com/artist/5ZPKRdlxEfhf3p48Fmk8tS"
-        },
-        {
-          "name": "Booka600",
-          "url": "https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ"
-        }
-      ],
-      "duration_ms": 157135,
-      "name": "Please Breathe",
-      "url": "https://open.spotify.com/track/62ImrXs50nRmDyg1lAsE8W"
-    },
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
@@ -115,6 +75,30 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Esparo",
+          "url": "https://open.spotify.com/artist/5ZPKRdlxEfhf3p48Fmk8tS"
+        },
+        {
+          "name": "Booka600",
+          "url": "https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ"
+        }
+      ],
+      "duration_ms": 157135,
+      "name": "Please Breathe",
+      "url": "https://open.spotify.com/track/62ImrXs50nRmDyg1lAsE8W"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Da Rant",
         "url": "https://open.spotify.com/album/53jD3cyaN4StX9Vo0EV4dw"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 172987,
       "name": "WIN 4 LOSIN (with Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/104Z44ugOYxbw2RzGBWZPn"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "The Main Bird",
+        "url": "https://open.spotify.com/album/4HWgWGP0wqldO7kuOGVkEo"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 192078,
+      "name": "Rich And Dangerous",
+      "url": "https://open.spotify.com/track/1kgPrqOpwzDDdvufXCksaq"
     },
     {
       "added_at": "2022-11-19 22:29:46",
@@ -291,6 +291,26 @@
       "duration_ms": 181499,
       "name": "Better Days 2 (Pain In The Ghetto)",
       "url": "https://open.spotify.com/track/2KQrHFHMLiToEoSyNCyCkQ"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "State of Emergency",
+        "url": "https://open.spotify.com/album/5ieJkFRIUKmwu4ltjL5fC5"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 166830,
+      "name": "Patience (feat. NoCap)",
+      "url": "https://open.spotify.com/track/2KUoS9OMlDLszLly6JcJGi"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -907,26 +927,6 @@
       "duration_ms": 230016,
       "name": "Love is...",
       "url": "https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Borderline (feat. EST Gee)",
-        "url": "https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD"
-      },
-      "artists": [
-        {
-          "name": "Shy Glizzy",
-          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 171996,
-      "name": "Borderline (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd"
     }
   ],
   "unique_name": "Street Soul",

@@ -1,12 +1,12 @@
 {
-  "description": "New England music breaking waves. Cover, Hennessy",
-  "num_followers": 1202,
+  "description": "New England music breaking waves. Cover, Meech",
+  "num_followers": 1204,
   "original_name": "Ripple Effect: New England",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAxNzI1NywwMDAwMDAwMDZhNjZmYjhmYzYyZjlmZDQxNTNkNTdkMjIwNGIyZWRk",
+  "snapshot_id": "MTY3MjQwOTAwNSwwMDAwMDAwMGJlNTk3ZjljMzFmYTI2ZTliYzQ3MGNjNTRmZGQ5YWM0",
   "tracks": [
     {
       "added_at": "2022-12-02 21:40:57",
@@ -20,9 +20,77 @@
           "url": "https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW"
         }
       ],
-      "duration_ms": 169412,
-      "name": "Switching Places",
-      "url": "https://open.spotify.com/track/4b9lcB5dhuborp1CQQtYVX"
+      "duration_ms": 173000,
+      "name": "She Can't",
+      "url": "https://open.spotify.com/track/79MnkyodPbTCrjS1oOmNt7"
+    },
+    {
+      "added_at": "2022-12-30 14:03:25",
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/0mkbBsGw5eG8k1lBSadgRi"
+      },
+      "artists": [
+        {
+          "name": "San\u00e7a",
+          "url": "https://open.spotify.com/artist/1DSFf0RnfYrtNr0eKndzzc"
+        },
+        {
+          "name": "Alexandr.",
+          "url": "https://open.spotify.com/artist/7wFVW6p9SoSyeAtdLSPzp7"
+        }
+      ],
+      "duration_ms": 220586,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/5xnVj7t6Nvc1J42fC5Fyef"
+    },
+    {
+      "added_at": "2022-12-30 14:03:25",
+      "album": {
+        "name": "Girl on Rhode",
+        "url": "https://open.spotify.com/album/5NHhAlpHoZPWzhEbg7nMga"
+      },
+      "artists": [
+        {
+          "name": "Lily Rayne",
+          "url": "https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa"
+        }
+      ],
+      "duration_ms": 107636,
+      "name": "Leave the Party",
+      "url": "https://open.spotify.com/track/4tFF4rUola2OtZbesM6PFo"
+    },
+    {
+      "added_at": "2022-12-30 14:03:25",
+      "album": {
+        "name": "AND SOON",
+        "url": "https://open.spotify.com/album/4fIRYkHAwXFuBu4jhdUPwW"
+      },
+      "artists": [
+        {
+          "name": "Luke Bar$",
+          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
+        }
+      ],
+      "duration_ms": 105600,
+      "name": "AND SOON",
+      "url": "https://open.spotify.com/track/2MG6HlcjrozHZgnNC0ic2i"
+    },
+    {
+      "added_at": "2022-12-30 14:03:25",
+      "album": {
+        "name": "End of Discussion",
+        "url": "https://open.spotify.com/album/4Ggdjb8Ube0rnfJyaJC3US"
+      },
+      "artists": [
+        {
+          "name": "T Clipse",
+          "url": "https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW"
+        }
+      ],
+      "duration_ms": 85677,
+      "name": "End of Discussion",
+      "url": "https://open.spotify.com/track/6uiXDPUMlKQjsUOZVVco8g"
     },
     {
       "added_at": "2022-12-02 21:40:57",
@@ -49,6 +117,22 @@
       "url": "https://open.spotify.com/track/3luKbicsES7gnLnEGng1yg"
     },
     {
+      "added_at": "2022-12-30 14:03:25",
+      "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/6Sj1wSGDehk5Ok1qE3rnQW"
+      },
+      "artists": [
+        {
+          "name": "Meech",
+          "url": "https://open.spotify.com/artist/6QAA99qGQqfOu3U8mlt32g"
+        }
+      ],
+      "duration_ms": 150047,
+      "name": "28",
+      "url": "https://open.spotify.com/track/1twKDUOnBLyUu9sZl4pAwy"
+    },
+    {
       "added_at": "2022-12-02 21:40:57",
       "album": {
         "name": "SHOTS! (WITH DENZEL CURRY)",
@@ -69,20 +153,40 @@
       "url": "https://open.spotify.com/track/01Oeql41yunzKzHyIfBWmr"
     },
     {
-      "added_at": "2022-12-02 21:40:57",
+      "added_at": "2022-12-30 14:03:25",
       "album": {
-        "name": "Proper Finessments",
-        "url": "https://open.spotify.com/album/5tQurF5nC0kX2iiyggwTaJ"
+        "name": "Tangerine (feat. Brooklyn Nicole)",
+        "url": "https://open.spotify.com/album/2usXtxQxFrhDWkX7L3OLMa"
       },
       "artists": [
         {
-          "name": "Jefe Replay",
-          "url": "https://open.spotify.com/artist/10YCtOrm7mmH4F1nVXP2Sg"
+          "name": "Jae Lynx",
+          "url": "https://open.spotify.com/artist/03lamRtaO7ZuCSn2qFfmMN"
+        },
+        {
+          "name": "Brooklyn Nicole",
+          "url": "https://open.spotify.com/artist/5bCJ4KeIRQV6M4QrcOvpKW"
         }
       ],
-      "duration_ms": 185364,
-      "name": "Foreign Exchange",
-      "url": "https://open.spotify.com/track/3XZ7gUANI9BW2gjpi68uIR"
+      "duration_ms": 128054,
+      "name": "Tangerine (feat. Brooklyn Nicole)",
+      "url": "https://open.spotify.com/track/3Gwzt4riQagh0mKz1j5ERq"
+    },
+    {
+      "added_at": "2022-12-30 14:03:25",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/3OLd7wJp5pxxggJQBDu72k"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/10RmUrJ28kkj7XgekcfZpc"
     },
     {
       "added_at": "2022-12-02 21:40:57",
@@ -115,22 +219,6 @@
       "duration_ms": 210933,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/6PGQMtYwFqt5VzVhRmPV9u"
-    },
-    {
-      "added_at": "2022-12-02 21:40:57",
-      "album": {
-        "name": "Time Revealed",
-        "url": "https://open.spotify.com/album/1s3eyEhXxazd3sNV2Hgjv6"
-      },
-      "artists": [
-        {
-          "name": "HENNESSY",
-          "url": "https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "She Can't",
-      "url": "https://open.spotify.com/track/79MnkyodPbTCrjS1oOmNt7"
     },
     {
       "added_at": "2022-12-02 21:40:57",
@@ -187,22 +275,6 @@
       "duration_ms": 135211,
       "name": "Ready 4 Anything",
       "url": "https://open.spotify.com/track/2Ydl5VPrkqqFHMzYRO7EuM"
-    },
-    {
-      "added_at": "2022-12-02 21:40:57",
-      "album": {
-        "name": "Time Revealed",
-        "url": "https://open.spotify.com/album/1s3eyEhXxazd3sNV2Hgjv6"
-      },
-      "artists": [
-        {
-          "name": "HENNESSY",
-          "url": "https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW"
-        }
-      ],
-      "duration_ms": 231828,
-      "name": "All For Nothing",
-      "url": "https://open.spotify.com/track/1FJ684PyHP16CRAowyVTt1"
     },
     {
       "added_at": "2022-10-25 18:05:16",
@@ -377,40 +449,20 @@
       "url": "https://open.spotify.com/track/1IoUc7el8qPFVFOC5jSfl7"
     },
     {
-      "added_at": "2022-10-25 18:05:16",
+      "added_at": "2022-12-30 14:03:25",
       "album": {
-        "name": "Can't Let You Go",
-        "url": "https://open.spotify.com/album/3hNiQ6sCsxdTsnE3I8B2jL"
+        "name": "Focused",
+        "url": "https://open.spotify.com/album/6CQ61LaJ7nsF75QzH3DgVj"
       },
       "artists": [
         {
-          "name": "HENNESSY",
-          "url": "https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW"
+          "name": "Jaalid",
+          "url": "https://open.spotify.com/artist/4QQoaNNSe8oYAxjCsB59fg"
         }
       ],
-      "duration_ms": 141166,
-      "name": "Can't Let You Go",
-      "url": "https://open.spotify.com/track/2QKtxGVgEcIuR6l1MBH3Db"
-    },
-    {
-      "added_at": "2022-12-02 21:40:57",
-      "album": {
-        "name": "Blame (remix)",
-        "url": "https://open.spotify.com/album/2VwiW1og1PvSiCRTO3738f"
-      },
-      "artists": [
-        {
-          "name": "Asia Graves",
-          "url": "https://open.spotify.com/artist/7IXjTY5he0UiFRy4LXhJaG"
-        },
-        {
-          "name": "PxRRY",
-          "url": "https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE"
-        }
-      ],
-      "duration_ms": 187512,
-      "name": "Blame (remix)",
-      "url": "https://open.spotify.com/track/7rDh77xaoPnophuvAYfANm"
+      "duration_ms": 158976,
+      "name": "Focused",
+      "url": "https://open.spotify.com/track/0pNFccJI57vkf5HAMgABHe"
     },
     {
       "added_at": "2022-04-15 08:01:02",
@@ -455,30 +507,6 @@
       "duration_ms": 175572,
       "name": "Punish It (with Kenzo Balla & Zazu Babii)",
       "url": "https://open.spotify.com/track/3Q92WXFhCkzGBBgJfobh7z"
-    },
-    {
-      "added_at": "2022-10-25 18:05:16",
-      "album": {
-        "name": "Fun Ride",
-        "url": "https://open.spotify.com/album/7xFLKp4DEWnAkpnAoMJ7oN"
-      },
-      "artists": [
-        {
-          "name": "I.V.",
-          "url": "https://open.spotify.com/artist/5uVyNaEDJENiuKlE5wqpD0"
-        },
-        {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        },
-        {
-          "name": "16yrold",
-          "url": "https://open.spotify.com/artist/1TlOcOaTgKTolKfAUeMHgM"
-        }
-      ],
-      "duration_ms": 145475,
-      "name": "Fun Ride",
-      "url": "https://open.spotify.com/track/6odnQEHPyQnbwJcoxknc0Y"
     },
     {
       "added_at": "2022-12-02 21:40:57",
@@ -549,20 +577,20 @@
       "url": "https://open.spotify.com/track/2DAWd9getY6cG4mpUOBdt4"
     },
     {
-      "added_at": "2022-12-02 21:40:57",
+      "added_at": "2022-12-30 14:03:25",
       "album": {
-        "name": "Born 2 Ball",
-        "url": "https://open.spotify.com/album/3TfAqPj5jVtzwGXK71YfS0"
+        "name": "Get The Gat",
+        "url": "https://open.spotify.com/album/48THGiijGql0YItnekn1C8"
       },
       "artists": [
         {
-          "name": "Kealen Ives",
-          "url": "https://open.spotify.com/artist/7cT3GDK4WNe5ObGzdUbGds"
+          "name": "Luke Bar$",
+          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
         }
       ],
-      "duration_ms": 152256,
-      "name": "For Your Love",
-      "url": "https://open.spotify.com/track/0JLZELX39f1hT2zQ86rqNK"
+      "duration_ms": 132017,
+      "name": "Get The Gat",
+      "url": "https://open.spotify.com/track/1CF9GDLrtXbmGxJiXRiZqn"
     },
     {
       "added_at": "2022-10-25 18:05:16",
@@ -581,20 +609,44 @@
       "url": "https://open.spotify.com/track/4bM2rImmM5cM34Ibzv11cS"
     },
     {
-      "added_at": "2022-07-18 21:17:51",
+      "added_at": "2022-12-30 14:03:25",
       "album": {
-        "name": "Girl on Rhode",
-        "url": "https://open.spotify.com/album/5NHhAlpHoZPWzhEbg7nMga"
+        "name": "Tears At My Door",
+        "url": "https://open.spotify.com/album/73mq8Q0tIOQ8tlfWGOKRfL"
       },
       "artists": [
         {
-          "name": "Lily Rayne",
-          "url": "https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa"
+          "name": "Nyce Hitz",
+          "url": "https://open.spotify.com/artist/7E7gGJ4hAftdA2KwiUW4TT"
+        },
+        {
+          "name": "Tye Cooper",
+          "url": "https://open.spotify.com/artist/22T9IoG6irjUof5gzBK8kE"
         }
       ],
-      "duration_ms": 107636,
-      "name": "Leave the Party",
-      "url": "https://open.spotify.com/track/4tFF4rUola2OtZbesM6PFo"
+      "duration_ms": 231081,
+      "name": "Tears At My Door",
+      "url": "https://open.spotify.com/track/1gi4IwXjio2b7rabdSbrgq"
+    },
+    {
+      "added_at": "2022-12-30 14:03:25",
+      "album": {
+        "name": "Time Revealed",
+        "url": "https://open.spotify.com/album/1s3eyEhXxazd3sNV2Hgjv6"
+      },
+      "artists": [
+        {
+          "name": "HENNESSY",
+          "url": "https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW"
+        },
+        {
+          "name": "Storm Ford",
+          "url": "https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2"
+        }
+      ],
+      "duration_ms": 151579,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/0b0ZGaHZoPC5dcrsjnDu08"
     },
     {
       "added_at": "2022-09-30 22:42:10",
@@ -611,22 +663,6 @@
       "duration_ms": 182857,
       "name": "By Now",
       "url": "https://open.spotify.com/track/29bVVMiVYtBoDhV56nQuyR"
-    },
-    {
-      "added_at": "2022-10-25 18:05:16",
-      "album": {
-        "name": "PORTAL",
-        "url": "https://open.spotify.com/album/5NB9B6DnDWSfr4VOSueGH6"
-      },
-      "artists": [
-        {
-          "name": "JORD4NEVERDIED",
-          "url": "https://open.spotify.com/artist/2UPrUSRrUq2ZNSN7kiQFD6"
-        }
-      ],
-      "duration_ms": 146739,
-      "name": "FALL2DEEP",
-      "url": "https://open.spotify.com/track/5XazvF0wTZqPzUjQNMbWqf"
     },
     {
       "added_at": "2022-02-18 22:25:03",
@@ -893,26 +929,10 @@
       "url": "https://open.spotify.com/track/69pzcNpanhADxvrySSBRfG"
     },
     {
-      "added_at": "2022-12-02 21:40:57",
+      "added_at": "2022-12-30 14:03:25",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/05DPzSkBCG7Xd9wn6yiOXv"
-      },
-      "artists": [
-        {
-          "name": "Theo Martins",
-          "url": "https://open.spotify.com/artist/0tjTmItQq8Eo1hsVvOf83D"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Stark and Undeniable Realization",
-      "url": "https://open.spotify.com/track/7cogdr4qLJrwDQ1mUnI4PM"
-    },
-    {
-      "added_at": "2022-10-25 18:05:16",
-      "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/6802nQBWrbQvbJbwLzpxwR"
+        "name": "Don't You Want a Dance",
+        "url": "https://open.spotify.com/album/7JhYplmnPrrC41tOPRGiIi"
       },
       "artists": [
         {
@@ -920,9 +940,9 @@
           "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
         }
       ],
-      "duration_ms": 206582,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/6P1Yp094OOI7CWjXKG7f2C"
+      "duration_ms": 124705,
+      "name": "Don't You Want a Dance",
+      "url": "https://open.spotify.com/track/6QjNAhZeUolYYMmRcCrZOz"
     }
   ],
   "unique_name": "Ripple Effect: New England",

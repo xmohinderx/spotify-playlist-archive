@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,525 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,589 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 |
-| 2 | [hate me](https://open.spotify.com/track/1Trna2zgrXLnIMGoZepn3X) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [hate me](https://open.spotify.com/album/4BgqPDBaoMCyzIreCad3ep) | 2:37 |
-| 3 | [Those Three Words](https://open.spotify.com/track/46oWdPcyZ3IyUfd4Kb0sG2) | [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [Those Three Words](https://open.spotify.com/album/54HN5wbo5TEEjLwgdAXBzO) | 3:08 |
-| 4 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 |
-| 5 | [is he home](https://open.spotify.com/track/1No4W6uo6pUCRSFStiRdie) | [ELZON](https://open.spotify.com/artist/53cD57n62ilGY3YHSyvjSN) | [is he home](https://open.spotify.com/album/37qmVhSYCgWDRepkYr9feI) | 2:22 |
-| 6 | [Pressure](https://open.spotify.com/track/6nrvIIOUmYydHeN8oSGOW5) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Ultraviolet](https://open.spotify.com/album/5g5HcmYzRNykfx3Hce5X45) | 3:34 |
-| 7 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 |
-| 8 | [TRY](https://open.spotify.com/track/3iPDlqw1GoVtteiioGVg7d) | [Green](https://open.spotify.com/artist/5QZhUdqvTEGnKNLVBTbFSY), [THERAY](https://open.spotify.com/artist/1GwzIyvtDBIcWPtHKxfofd) | [TRY](https://open.spotify.com/album/4HV0D0lw4AzBIYxknQv2tF) | 3:34 |
-| 9 | [Do Me Right](https://open.spotify.com/track/419qEKI3RalGHPVzEDQeNY) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Still Blue](https://open.spotify.com/album/5NVdE7fnUNSfJ7Taka31IF) | 3:25 |
-| 10 | [PICK YOUR POISON \(feat\. Stormzy\)](https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:44 |
-| 11 | [@me](https://open.spotify.com/track/6skug6ULgAufRG35n6SgIi) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [@me](https://open.spotify.com/album/5DS8PrqGptm1Fes5NX7wrs) | 1:45 |
-| 12 | [Goodbye 2022 \(feat\. J.O.Y\)](https://open.spotify.com/track/3xmGR655IjSCH5oFcMmdBS) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Goodbye 2022](https://open.spotify.com/album/5kTSDjeJ7RErbxbA3rLfn8) | 3:02 |
-| 13 | [white](https://open.spotify.com/track/0wxpTeDCewMoDP7dOajNOZ) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [wintersleep](https://open.spotify.com/album/4C5gO2JIA6lAPuutccSApg) | 3:00 |
+| 1 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 |
+| 2 | [101](https://open.spotify.com/track/6DqaDchUydHe8upf4F59os) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Playlist 2](https://open.spotify.com/album/5hNnV6eRN7XatL7GgPRTHw) | 2:40 |
+| 3 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 |
+| 4 | [Romantic Pt\. II](https://open.spotify.com/track/1GM7j1nwUstl4cNoiYZOsg) | [ZUHAIR](https://open.spotify.com/artist/3uaX4vj7m3bkWhcY9xooJ6), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Romantic Pt\. II](https://open.spotify.com/album/4sj9tPkP7qKwKzaxRdaOKz) | 2:42 |
+| 5 | [Those Three Words](https://open.spotify.com/track/46oWdPcyZ3IyUfd4Kb0sG2) | [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [Those Three Words](https://open.spotify.com/album/54HN5wbo5TEEjLwgdAXBzO) | 3:08 |
+| 6 | [On Me](https://open.spotify.com/track/4Uy5ad1pgqpEn6kueATOom) | [EMIRI](https://open.spotify.com/artist/4OUaS7JvEZiUh0ZGfBYOef) | [On Me](https://open.spotify.com/album/6Cc4wEZx1uxQmCfw921zqy) | 3:24 |
+| 7 | [hate me](https://open.spotify.com/track/1Trna2zgrXLnIMGoZepn3X) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [hate me](https://open.spotify.com/album/4BgqPDBaoMCyzIreCad3ep) | 2:37 |
+| 8 | [is he home](https://open.spotify.com/track/1No4W6uo6pUCRSFStiRdie) | [ELZON](https://open.spotify.com/artist/53cD57n62ilGY3YHSyvjSN) | [is he home](https://open.spotify.com/album/37qmVhSYCgWDRepkYr9feI) | 2:22 |
+| 9 | [Pressure](https://open.spotify.com/track/6nrvIIOUmYydHeN8oSGOW5) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Ultraviolet](https://open.spotify.com/album/5g5HcmYzRNykfx3Hce5X45) | 3:34 |
+| 10 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 |
+| 11 | [TRY](https://open.spotify.com/track/3iPDlqw1GoVtteiioGVg7d) | [Green](https://open.spotify.com/artist/5QZhUdqvTEGnKNLVBTbFSY), [THERAY](https://open.spotify.com/artist/1GwzIyvtDBIcWPtHKxfofd) | [TRY](https://open.spotify.com/album/4HV0D0lw4AzBIYxknQv2tF) | 3:34 |
+| 12 | [@me](https://open.spotify.com/track/6skug6ULgAufRG35n6SgIi) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [@me](https://open.spotify.com/album/5DS8PrqGptm1Fes5NX7wrs) | 1:45 |
+| 13 | [Goodbye 2022 \(feat\. J.O.Y\)](https://open.spotify.com/track/3xmGR655IjSCH5oFcMmdBS) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Goodbye 2022](https://open.spotify.com/album/5kTSDjeJ7RErbxbA3rLfn8) | 3:02 |
 | 14 | [A Friend](https://open.spotify.com/track/6nlR5KZygfAXcwUH96kONw) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [A Friend](https://open.spotify.com/album/6vJJQBcmrKG3hX5iU8Idaq) | 3:20 |
 | 15 | [Like No One's Done](https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Like No One's Done](https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ) | 3:55 |
 | 16 | [almond eyes](https://open.spotify.com/track/0UQqXykR504ftBmPR2XlwM) | [Clavita](https://open.spotify.com/artist/3J6rkpg316KEM3dvDsizb7) | [almond eyes](https://open.spotify.com/album/0bwBVQwy1TgmqkRt3Wuib0) | 3:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 79 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 |
 | 80 | [BEAUTiFUL](https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BEAUTiFUL](https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy) | 3:32 |
 
-Snapshot ID: `MTY3MTcyNTM5NCwwMDAwMDAwMGZkMDQ4ZmM3ZjE4YWU5ZDU3MzFiZmRhNzcwZjM2NzI5`
+Snapshot ID: `MTY3MjM5MjE3NCwwMDAwMDAwMDIzMGJjYjcyM2U0YmE0Mjk1OWI5NzZjYWVjMzIzYTMz`

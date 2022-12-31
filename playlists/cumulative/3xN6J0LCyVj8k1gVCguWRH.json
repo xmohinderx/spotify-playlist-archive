@@ -2479,7 +2479,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 165657,
       "name": "Awake at Night",
       "url": "https://open.spotify.com/track/2ER60vkC8mHQUsGbClc1if"
@@ -11235,7 +11235,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 171695,
       "name": "Flower",
       "url": "https://open.spotify.com/track/49r8KQDs5IkIxs10tTBfY2"
@@ -20925,7 +20925,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 118378,
       "name": "Miri",
       "url": "https://open.spotify.com/track/4OyHHvXkiGbAjsq43iFXmL"
@@ -21827,7 +21827,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 247326,
       "name": "My Gut",
       "url": "https://open.spotify.com/track/1vnRZVQEEOXxWph57js5OP"
@@ -23561,7 +23561,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 205370,
       "name": "Old Trees",
       "url": "https://open.spotify.com/track/1UkK8PMCog5uTwfvPArRUt"
@@ -27409,6 +27409,24 @@
       "duration_ms": 164601,
       "name": "se me agotaron las l\u00e1grimas",
       "url": "https://open.spotify.com/track/1LRKAq0FjFz7wM8UH7tPLp"
+    },
+    {
+      "album": {
+        "name": "Live a Little",
+        "url": "https://open.spotify.com/album/10VliHm0DyEPve1iHZC0gy"
+      },
+      "artists": [
+        {
+          "name": "Akash",
+          "url": "https://open.spotify.com/artist/66T1y32NNXOz51okoaSu6v"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155519,
+      "name": "Sea in Me",
+      "url": "https://open.spotify.com/track/3YTNqDvizWh4DjFKBphYCU"
     },
     {
       "album": {
@@ -32061,7 +32079,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 226201,
       "name": "Thunderhead",
       "url": "https://open.spotify.com/track/6yivu7IE6Qc8WYNovbIqd6"
@@ -35709,7 +35727,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 272466,
       "name": "World of Dreams",
       "url": "https://open.spotify.com/track/32aBRCsqe7gJWmCAWmKbZC"
@@ -36271,7 +36289,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 173195,
       "name": "You Like to Play with Fire",
       "url": "https://open.spotify.com/track/464m8uPkWScmviDsDwHQcg"

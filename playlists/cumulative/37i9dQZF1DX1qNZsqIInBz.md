@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-116 songs - 5 hr 15 min - not published yet
+118 songs - 5 hr 21 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,19 +30,21 @@
 | [Cyanide](https://open.spotify.com/track/2FqBlSZxiRuxjgQcMvQAUP) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Cyanide](https://open.spotify.com/album/1AlwyKku3ObMAl0jkz8Qwf) | 2:57 | 2022-10-10 |  |
 | [Dark Mercer](https://open.spotify.com/track/3TX53IyZvSsjYzZrmHQdI1) | [5l33p](https://open.spotify.com/artist/1JjSBnVH2QnmXFBmaIGdjq) | [Dark Mercer](https://open.spotify.com/album/6GMEh5mGT9CVyXO3TFo8EU) | 2:38 | 2022-11-11 |  |
 | [Desolation 2](https://open.spotify.com/track/5YQV3dcbq48zCmofyOSzcJ) | [CREEPYMANE](https://open.spotify.com/artist/4iS0O9GXC7newvIHGqgaEz) | [Desolation 2](https://open.spotify.com/album/0xMdm6pqSb4FKXUhI6iAa1) | 1:32 | 2022-10-10 |  |
+| [DIFFERENT NOISE](https://open.spotify.com/track/7trpmghODldJXyjV7uQJT9) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [DIFFERENT NOISE](https://open.spotify.com/album/7h9E0lJnkFzjSllB4zp1Uy) | 2:43 | 2022-12-30 |  |
 | [DREAM ABOUT YOU](https://open.spotify.com/track/69Jde9lxc16qGyG5iYncuW) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or), [GTM](https://open.spotify.com/artist/2U79YzoLgxZrBbxzrg5l1S) | [DREAM ABOUT YOU](https://open.spotify.com/album/7sYf0ltOhxs3Zy9uMn7cb5) | 2:48 | 2022-10-10 |  |
 | [Dream Road](https://open.spotify.com/track/006xxgBdSswgtgXOks59u4) | [81an](https://open.spotify.com/artist/2jQ3SyqsblMmflFJCRr5dn), [ALan](https://open.spotify.com/artist/4nDKlmTjgg1o8PriTk0Wma), [ISHNLV](https://open.spotify.com/artist/5qZzS4qbriUwGeqoj8U1p3) | [Dream Road](https://open.spotify.com/album/0tpavY1s1hchFwtCC93tHN) | 3:03 | 2022-11-18 |  |
 | [Dream Space](https://open.spotify.com/track/4wHkfOTO5XpTrVn1bHxR18) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Dream Space](https://open.spotify.com/album/0jGdCBBF1Khors1eyML58X) | 2:51 | 2022-10-10 |  |
 | [Eclipse](https://open.spotify.com/track/6nnmaoO5YcqsmSHjgNZG86) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [Eclipse](https://open.spotify.com/album/2oMbcfB4qteV4Wbu7sNVAM) | 2:53 | 2022-10-10 | 2022-12-10 |
 | [EMPHASIS](https://open.spotify.com/track/33wy9ENUVmxzSVUuMFCKD3) | [Lxght ライト](https://open.spotify.com/artist/1jRut00RsTU5L8nJ7imTr9), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [EMPHASIS](https://open.spotify.com/album/5uc8aObzf0BH3nkv9wbSy1) | 3:14 | 2022-12-16 | 2022-12-24 |
 | [End of the World](https://open.spotify.com/track/0rRJNSrFPmOPZJRmdQbciH) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [End of the World](https://open.spotify.com/album/4EBa1AFntytE0kwgUes6n6) | 2:44 | 2022-10-10 |  |
-| [End of the World \- Slowed](https://open.spotify.com/track/7gCzXPNidSb1BSSdrbQ7VR) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [End of the World \(Slowed\)](https://open.spotify.com/album/0j1BNnTDgLqQtn9wuxyZFj) | 3:03 | 2022-10-10 |  |
+| [End of the World \- Slowed](https://open.spotify.com/track/7gCzXPNidSb1BSSdrbQ7VR) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [End of the World \(Slowed\)](https://open.spotify.com/album/0j1BNnTDgLqQtn9wuxyZFj) | 3:03 | 2022-10-10 | 2022-12-31 |
 | [ENDLESS VOID](https://open.spotify.com/track/1ZzxutGot8uQzdvtwZnqhz) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7) | [ENDLESS VOID](https://open.spotify.com/album/5PsqDyjDE9FPUkQgWNwv56) | 2:22 | 2022-10-10 |  |
 | [EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI) | [DVRKLXGHT](https://open.spotify.com/artist/4tfNkqJHj0rmRuERAZJDxf) | [EUPHORIA](https://open.spotify.com/album/1t32gKI0EhGB4z5hnwKjSs) | 3:03 | 2022-10-10 |  |
 | [EUPHORIA SECRET](https://open.spotify.com/track/29aUIAviBlcr0yuIAjuzNn) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [EUPHORIA SECRET](https://open.spotify.com/album/7zmGPpqRqLeH5MFUdGb7n4) | 2:19 | 2022-10-10 |  |
 | [EXIST](https://open.spotify.com/track/6SqUoYtpsmaFhSU3TnUVtT) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [vvpskvd.](https://open.spotify.com/artist/4HrUqrQRBMyLml2vQmggKA) | [EXIST](https://open.spotify.com/album/5iDNw2t9CGE9rTlRe3VpL9) | 3:03 | 2022-10-10 |  |
 | [Faith](https://open.spotify.com/track/4XwbUt1ryz68nbLdBD9dqs) | [STXRZ](https://open.spotify.com/artist/64IEvdOG2d4FAHDR4pNYQ4) | [Faith](https://open.spotify.com/album/3q6Ulf0dRhKrLd5P3cwfYl) | 2:05 | 2022-10-10 |  |
 | [Farewell](https://open.spotify.com/track/3QXLbx8kUNmcbWd1XhNJD4) | [ZXNTURY](https://open.spotify.com/artist/4ACYlsx2wt3mQ2syiTo6AK), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7), [FXLLEN WXRRIOR](https://open.spotify.com/artist/4O4tXxjzXrk06o08zTBVAL) | [Farewell](https://open.spotify.com/album/4i7eb70VPiIHWU7EEDNmIn) | 2:31 | 2022-10-10 |  |
+| [FIREFLIES](https://open.spotify.com/track/3om71PaqkmHXuxQ5d3Hxjk) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy), [Steveruu](https://open.spotify.com/artist/4NOFcRCgjvnRy8nKVGUM0L) | [FIREFLIES](https://open.spotify.com/album/5t94V0MZ61yjI0lt1sJUcP) | 2:43 | 2022-12-30 |  |
 | [flashback](https://open.spotify.com/track/6LK0dja7B2ibVgwZhVDvTw) | [Eyez Hate U](https://open.spotify.com/artist/0dIUq8UqtoJF5T7Lt3MxBT) | [flashback](https://open.spotify.com/album/7ExcQWKeWVTTA7UPQh3lXn) | 3:16 | 2022-10-10 |  |
 | [Frequency](https://open.spotify.com/track/5IgpVvg68WGQQPVto0hyZF) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Frequency](https://open.spotify.com/album/5J9yN6EzsaAa2SeW91H4c9) | 2:30 | 2022-10-10 |  |
 | [Galaxy](https://open.spotify.com/track/7vbKIia4KB5vWcWpPypPBr) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Strange](https://open.spotify.com/album/4QTBGcS5DSCe6N3RTNixsN) | 2:56 | 2022-10-10 |  |
@@ -115,7 +117,7 @@
 | [The Creeps](https://open.spotify.com/track/4ZeHPxe1QYjYWWGC06gZ2P) | [GWRZTRMNR](https://open.spotify.com/artist/5mqGv6vgs3ZMJbbBOvWtQi) | [The Creeps](https://open.spotify.com/album/23TDQRMfrMD0W4nTiB1EuD) | 2:25 | 2022-11-18 |  |
 | [This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI) | [my!lane](https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or) | [Sakura's Shadows](https://open.spotify.com/album/2Ve9vOvILPIDomVfrFr4bH) | 2:43 | 2022-10-10 |  |
 | [Tokyo Night](https://open.spotify.com/track/5om4dKxQi2NztFha8FOYbl) | [STXRZ](https://open.spotify.com/artist/64IEvdOG2d4FAHDR4pNYQ4) | [Tokyo Night](https://open.spotify.com/album/1ayeDxvVIdrqPVHToyZa4h) | 2:02 | 2022-10-10 | 2022-12-03 |
-| [UNDERWORLD](https://open.spotify.com/track/6vJVpxuHoWs3dmjYXyjfyW) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [UNDERWORLD](https://open.spotify.com/album/5ZZ4QO3bzFBOG2Gdy4eidW) | 2:10 | 2022-10-10 |  |
+| [UNDERWORLD](https://open.spotify.com/track/6vJVpxuHoWs3dmjYXyjfyW) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [UNDERWORLD](https://open.spotify.com/album/5ZZ4QO3bzFBOG2Gdy4eidW) | 2:10 | 2022-10-10 | 2022-12-31 |
 | [UNREQUITED LOVE](https://open.spotify.com/track/6ggG03IXJujvzWX7SShGtG) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [UNREQUITED LOVE](https://open.spotify.com/album/5C8w6NNouScjByKvjMkjic) | 2:30 | 2022-10-10 |  |
 | [UTOPIA](https://open.spotify.com/track/6Lbn2QM3tyxPj4fQsCU0mk) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [UTOPIA](https://open.spotify.com/album/5aF2aTHcRscFUK1OaCLtGF) | 2:17 | 2022-12-16 |  |
 | [Void](https://open.spotify.com/track/1tZMS81fc3APyMkU14cTWk) | [SOULIFY](https://open.spotify.com/artist/4jnJA6v62HXFktScoZQHIw), [crier](https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl) | [Void](https://open.spotify.com/album/3afCmbwcfdCYouUXV04xTO) | 2:38 | 2022-10-10 |  |

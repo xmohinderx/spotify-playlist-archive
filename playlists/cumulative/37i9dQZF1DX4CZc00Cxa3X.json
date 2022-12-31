@@ -1487,7 +1487,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 422407,
       "name": "Lil Bub's Story",
       "url": "https://open.spotify.com/track/6910PssSMId7YtYot1aI43"
@@ -2497,6 +2497,24 @@
       "duration_ms": 124733,
       "name": "Sparrow Arc Tall",
       "url": "https://open.spotify.com/track/3iaMYZGYYQNHQ8CzsbNV1O"
+    },
+    {
+      "album": {
+        "name": "Sphere",
+        "url": "https://open.spotify.com/album/6f1IdXeR63Q4jkvzDojC2w"
+      },
+      "artists": [
+        {
+          "name": "Headphone Activist",
+          "url": "https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172591,
+      "name": "Sphere",
+      "url": "https://open.spotify.com/track/0VK4bArF8c44yZbo5T0Kji"
     },
     {
       "album": {

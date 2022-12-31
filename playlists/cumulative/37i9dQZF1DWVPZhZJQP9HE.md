@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-291 songs - 17 hr 21 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+292 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Nanba Vaa](https://open.spotify.com/track/3G0YAgG4LtEAWAv9QclhuD) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Nanba Vaa](https://open.spotify.com/album/2TjB7GUK7CFNKvCanqQaCn) | 1:00 | 2022-11-24 |  |
 | [Natpin Isai \- From "Little Hearts"](https://open.spotify.com/track/0fAojxSG8hxnCuXymFSfo5) | [Jerome J Mathew](https://open.spotify.com/artist/7eUPwX3WsPTEJFM02h2wO4), [Mark Lloyd](https://open.spotify.com/artist/3wLpdkhH3j4bLLmtUcxICR) | [Natpin Isai \(From "Little Hearts"\)](https://open.spotify.com/album/113qUh3AA4t0GYvMh2CktQ) | 3:41 | 2022-08-01 |  |
 | [Nee Enakke](https://open.spotify.com/track/6QER3bYuutzU6AzUMVjEsa) | [Karthik Rk](https://open.spotify.com/artist/2xDMtjAA117jAB1DOO6np4), [Arun Rathor](https://open.spotify.com/artist/4CBF6drrY0At3ZQVex2Q6M) | [Nee Enakke](https://open.spotify.com/album/7bLtF1WVmJzCXlPOuLRtJd) | 3:18 | 2022-10-18 | 2022-11-17 |
+| [Nee Oli](https://open.spotify.com/track/5ZrQwvzjmKWnrG1bKk4t13) | [Amrit Ramnath](https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm) | [Nee Oli](https://open.spotify.com/album/4aF2eczsQ9eLheYM79lew6) | 3:50 | 2022-12-30 |  |
 | [Nee Podhum Anbe \(Original Soundtrack\)](https://open.spotify.com/track/6PoOgECgWgrFTYdjj94igE) | [Vandana Mazan](https://open.spotify.com/artist/67snLh57JOf5wtRMBaJwmv) | [Nee Podhum Anbe \(Original Soundtrack\)](https://open.spotify.com/album/4oDpsTrs9f4fsybucaxDKU) | 5:17 | 2022-05-27 | 2022-06-17 |
 | [Neeya Neeya](https://open.spotify.com/track/57ppMpz7qTjj3FtHxYlloe) | [K L Revanth](https://open.spotify.com/artist/3FGLO2665aCenkZD9vF1eB), [Juvin Jonix](https://open.spotify.com/artist/0Yxtk271vmZRIajIjR1aHv), [Anandita Krishanan](https://open.spotify.com/artist/71y2TPjvA0Am5wCCN52vEN) | [Neeya Neeya](https://open.spotify.com/album/3jo91pT0NEfhdYNtSe9Z5p) | 3:50 | 2022-09-27 | 2022-10-14 |
 | [Neeye](https://open.spotify.com/track/10pQAPHnkCXsN3i6Ur1Ue8) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Prasad Mahadev](https://open.spotify.com/artist/4d4itLWsTshSfFSrba1AR2), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Neeye](https://open.spotify.com/album/3pnvov3dH9shA0n6ddOy8R) | 3:07 | 2022-09-27 | 2022-11-17 |

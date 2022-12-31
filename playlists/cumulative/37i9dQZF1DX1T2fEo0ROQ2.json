@@ -368,6 +368,24 @@
     },
     {
       "album": {
+        "name": "Altitude",
+        "url": "https://open.spotify.com/album/4Wv2qeeio7rqXy3jPZuHuf"
+      },
+      "artists": [
+        {
+          "name": "Yves Alija",
+          "url": "https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225011,
+      "name": "Altitude",
+      "url": "https://open.spotify.com/track/5VpRhHsT7DhWRyzLq40dRw"
+    },
+    {
+      "album": {
         "name": "Soulythical",
         "url": "https://open.spotify.com/album/30Vh9X9ijMHyg7lcpoejNK"
       },
@@ -2197,7 +2215,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 213889,
       "name": "Fjords",
       "url": "https://open.spotify.com/track/0un2LnKNOVlm3SOyqM2gTM"
@@ -2881,7 +2899,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 194062,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/0H523FQxptvl0r8JuphNIK"
@@ -3259,7 +3277,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 98012,
       "name": "Little Nocturne",
       "url": "https://open.spotify.com/track/0kCPKFSme4AMah0o6CJMPz"

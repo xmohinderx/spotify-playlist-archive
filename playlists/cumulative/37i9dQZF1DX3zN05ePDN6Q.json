@@ -1972,6 +1972,32 @@
     },
     {
       "album": {
+        "name": "Foda-Se",
+        "url": "https://open.spotify.com/album/7G77Ar8JpUC8tx86N9ccJF"
+      },
+      "artists": [
+        {
+          "name": "Sid",
+          "url": "https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q"
+        },
+        {
+          "name": "Hiosaki",
+          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
+        },
+        {
+          "name": "Teo Guedx",
+          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Foda-Se",
+      "url": "https://open.spotify.com/track/6NLoLuQ8b7eL2fKmQDhLsr"
+    },
+    {
+      "album": {
         "name": "Fogo",
         "url": "https://open.spotify.com/album/1JypFrtNwLcMEl2Tq1jZ9H"
       },
@@ -2809,7 +2835,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 234832,
       "name": "Mesma Confec\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7tc73pstdmItIt7ZpNyUDc"

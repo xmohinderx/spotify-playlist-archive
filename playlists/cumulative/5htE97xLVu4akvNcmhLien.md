@@ -4,7 +4,7 @@
 
 > 
 
-682 songs - 1 day 15 hr 45 min - [published](https://open.spotify.com/playlist/2UMGRcA8g2GR51ovhUeUhT)
+684 songs - 1 day 15 hr 50 min - [published](https://open.spotify.com/playlist/2UMGRcA8g2GR51ovhUeUhT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,6 +633,7 @@
 | [Tremendo Culo](https://open.spotify.com/track/3mHp3tO8mHZba2cnqpkGFh) | [Jack Sparou](https://open.spotify.com/artist/20RIcfQp2hgScs3bbLEqIW) | [Reggaeton Total](https://open.spotify.com/album/68LQeqQ9mkI1SGlcyo0NAX) | 2:55 | 2017-09-09 |  |
 | [Trofeo](https://open.spotify.com/track/4d2xH6EHSOycRY4BjOTKel) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:26 | 2020-09-15 |  |
 | [TU AMIGA \(with Justin Quiles & Dylan Fuentes feat\. Lennox & Llane\)](https://open.spotify.com/track/0LUpKcgDmq08XoS4nSjIde) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Lennox](https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON](https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN) | 3:52 | 2020-03-24 |  |
+| [TU AMOR \| E7](https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TU AMOR \| E7](https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX) | 2:33 | 2022-12-30 |  |
 | [Tu Arreglapenas](https://open.spotify.com/track/01M85JZm3JMyHrWzvkfO5X) | [La Reserva](https://open.spotify.com/artist/0rWuEmTI7yoSjjN6TT1Pkg) | [Tu Arreglapenas](https://open.spotify.com/album/4auE3dgMJmfaMBsWUQ0hnS) | 2:28 | 2017-09-09 |  |
 | [Tu Eres Un Bom Bom \- Remix](https://open.spotify.com/track/2635EEV2Oi6wg6GV2TPYVx) | [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Tu Eres Un Bom Bom \(Remix\)](https://open.spotify.com/album/6uRdoaFp80JGKKPnHpJjOk) | 2:53 | 2020-05-04 |  |
 | [Tu Foto](https://open.spotify.com/track/0Szp49tpFasIjX04Mcsydp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tu Foto](https://open.spotify.com/album/3NzslyWsrSJXTNNZbQMBWS) | 3:13 | 2017-09-09 |  |
@@ -690,5 +691,6 @@
 | [Zum Zum](https://open.spotify.com/track/7lEhOiFtcLXY4P7cuTKuQ8) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Zum Zum](https://open.spotify.com/album/126REka6HCyui9eyfn3i9j) | 3:55 | 2020-09-15 |  |
 | [¿Qué Ha Pasao'?](https://open.spotify.com/track/2zkVH2daHyjS51g7PRJFDn) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [¿Qué Ha Pasao'?](https://open.spotify.com/album/2KSuEqdiRePWkHU15Q9KH6) | 3:18 | 2019-10-10 |  |
 | [Árabe](https://open.spotify.com/track/58qmrrvUkA09szrox83VDp) | [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Árabe](https://open.spotify.com/album/0K0tY5rT2eaWWWFXb4oNJv) | 3:07 | 2018-11-23 |  |
+| [Éxtasis](https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Éxtasis](https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451) | 3:11 | 2022-12-30 |  |
 
 \*This playlist was first scraped on 2020-08-20. Prior content cannot be recovered.

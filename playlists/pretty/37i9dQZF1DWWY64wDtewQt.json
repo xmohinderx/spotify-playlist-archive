@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 3738564,
+  "num_followers": 3753858,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3Njc0OCwwMDAwMDAwMDg4MjI4MTcxYjkwMDQ2OTk1NzllZjhlNGIzZjNiNzI2",
+  "snapshot_id": "MTY3MjM3NjQ2MCwwMDAwMDAwMGNhMzdiZmE4YjYzNzNlNGI3YTZhNzZhNmEwYzRmYzhj",
   "tracks": [
     {
       "added_at": "2022-05-20 10:12:52",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
+      "added_at": "2022-10-14 08:20:18",
+      "album": {
+        "name": "GigaChad Theme (Phonk House Version)",
+        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
+      },
+      "artists": [
+        {
+          "name": "g3ox_em",
+          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
+        }
+      ],
+      "duration_ms": 146274,
+      "name": "GigaChad Theme - Phonk House Version",
+      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
+    },
+    {
       "added_at": "2022-12-16 08:06:05",
       "album": {
         "name": "Fast & Furious: Drift Tape (Phonk Vol 1)",
@@ -73,36 +89,44 @@
       "url": "https://open.spotify.com/track/7mtsigBhtzIJ8e4XsfpMkI"
     },
     {
-      "added_at": "2022-12-23 06:25:48",
+      "added_at": "2022-08-19 05:11:18",
       "album": {
-        "name": "DANSE MACABRE",
-        "url": "https://open.spotify.com/album/4rt9mCmqQVEqwjnfvy4njR"
+        "name": "SHADOW",
+        "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
       },
       "artists": [
         {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+          "name": "ONIMXRU",
+          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
+        },
+        {
+          "name": "SMITHMANE",
+          "url": "https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG"
         }
       ],
-      "duration_ms": 129229,
-      "name": "DANSE MACABRE",
-      "url": "https://open.spotify.com/track/6WsmflGCwkuqed92TBOUPu"
+      "duration_ms": 162041,
+      "name": "SHADOW",
+      "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
     },
     {
-      "added_at": "2022-10-14 08:20:18",
+      "added_at": "2022-12-30 05:01:00",
       "album": {
-        "name": "GigaChad Theme (Phonk House Version)",
-        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
+        "name": "GHOST!",
+        "url": "https://open.spotify.com/album/0qyg64j2PFVSfTgsE0VRe3"
       },
       "artists": [
         {
-          "name": "g3ox_em",
-          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
+          "name": "phonk.me",
+          "url": "https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A"
+        },
+        {
+          "name": "KIIXSHI",
+          "url": "https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh"
         }
       ],
-      "duration_ms": 146274,
-      "name": "GigaChad Theme - Phonk House Version",
-      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
+      "duration_ms": 231704,
+      "name": "GHOST!",
+      "url": "https://open.spotify.com/track/4uLe9sk4nymENqN4RHbFIQ"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -141,24 +165,40 @@
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
     },
     {
-      "added_at": "2022-08-19 05:11:18",
+      "added_at": "2022-10-14 08:20:18",
       "album": {
-        "name": "SHADOW",
-        "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
+        "name": "DEMONS IN MY SOUL",
+        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
       },
       "artists": [
         {
-          "name": "ONIMXRU",
-          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
+          "name": "SCXR SOUL",
+          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
         },
         {
-          "name": "SMITHMANE",
-          "url": "https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG"
+          "name": "Sx1nxwy",
+          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
         }
       ],
-      "duration_ms": 162041,
-      "name": "SHADOW",
-      "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
+      "duration_ms": 120593,
+      "name": "DEMONS IN MY SOUL",
+      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
+    },
+    {
+      "added_at": "2022-12-23 06:25:48",
+      "album": {
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/4rt9mCmqQVEqwjnfvy4njR"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "DANSE MACABRE",
+      "url": "https://open.spotify.com/track/6WsmflGCwkuqed92TBOUPu"
     },
     {
       "added_at": "2022-11-25 09:20:44",
@@ -191,26 +231,6 @@
       "duration_ms": 171384,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
-    },
-    {
-      "added_at": "2022-10-14 08:20:18",
-      "album": {
-        "name": "DEMONS IN MY SOUL",
-        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
-      },
-      "artists": [
-        {
-          "name": "SCXR SOUL",
-          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
-        },
-        {
-          "name": "Sx1nxwy",
-          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
-        }
-      ],
-      "duration_ms": 120593,
-      "name": "DEMONS IN MY SOUL",
-      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
     },
     {
       "added_at": "2022-05-20 10:12:52",
@@ -263,6 +283,26 @@
       "duration_ms": 133565,
       "name": "Live Another Day",
       "url": "https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7"
+    },
+    {
+      "added_at": "2022-12-30 05:01:00",
+      "album": {
+        "name": "DXMINXS",
+        "url": "https://open.spotify.com/album/0tnSfIXvlRZAeowgRCX5Iw"
+      },
+      "artists": [
+        {
+          "name": "TWISTED",
+          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
+        },
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        }
+      ],
+      "duration_ms": 176913,
+      "name": "DXMINXS",
+      "url": "https://open.spotify.com/track/2mruPq4Gcx8tPpkQawsrbl"
     },
     {
       "added_at": "2022-06-10 07:37:37",
@@ -333,26 +373,6 @@
       "url": "https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65"
     },
     {
-      "added_at": "2022-11-18 07:52:46",
-      "album": {
-        "name": "PHONK CLUB",
-        "url": "https://open.spotify.com/album/2cJa6cqxo5ZcJWstZbjylz"
-      },
-      "artists": [
-        {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
-        },
-        {
-          "name": "EL$E",
-          "url": "https://open.spotify.com/artist/36zaLvAR3hvPMtlSqgQs2i"
-        }
-      ],
-      "duration_ms": 116767,
-      "name": "FIGHT CLUB",
-      "url": "https://open.spotify.com/track/2KOR0FNI6I9OgSH0w59oCI"
-    },
-    {
       "added_at": "2022-11-11 07:32:56",
       "album": {
         "name": "Scopin",
@@ -387,6 +407,26 @@
     {
       "added_at": "2022-11-18 07:52:46",
       "album": {
+        "name": "PHONK CLUB",
+        "url": "https://open.spotify.com/album/2cJa6cqxo5ZcJWstZbjylz"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        },
+        {
+          "name": "EL$E",
+          "url": "https://open.spotify.com/artist/36zaLvAR3hvPMtlSqgQs2i"
+        }
+      ],
+      "duration_ms": 116767,
+      "name": "FIGHT CLUB",
+      "url": "https://open.spotify.com/track/2KOR0FNI6I9OgSH0w59oCI"
+    },
+    {
+      "added_at": "2022-11-18 07:52:46",
+      "album": {
         "name": "S1KE",
         "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
       },
@@ -399,6 +439,26 @@
       "duration_ms": 114666,
       "name": "S1KE",
       "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
+    },
+    {
+      "added_at": "2022-12-30 05:01:00",
+      "album": {
+        "name": "VEHEMENTS",
+        "url": "https://open.spotify.com/album/0EAQoYXub3nuDe1Ptkh0Qi"
+      },
+      "artists": [
+        {
+          "name": "XO1",
+          "url": "https://open.spotify.com/artist/7IVPJk3I9EYRxUliaCy876"
+        },
+        {
+          "name": "mawrody",
+          "url": "https://open.spotify.com/artist/1uCmweOZb3HqHZylECtbz3"
+        }
+      ],
+      "duration_ms": 147969,
+      "name": "VEHEMENTS",
+      "url": "https://open.spotify.com/track/0mNbESRpFYMbBkuSOXK8T1"
     },
     {
       "added_at": "2022-09-02 08:01:31",
@@ -421,22 +481,6 @@
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
     },
     {
-      "added_at": "2022-12-09 08:15:38",
-      "album": {
-        "name": "RITUAL",
-        "url": "https://open.spotify.com/album/43nEXegWvPFJ1xDk2toTnI"
-      },
-      "artists": [
-        {
-          "name": "Phonk Killer",
-          "url": "https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC"
-        }
-      ],
-      "duration_ms": 103070,
-      "name": "RITUAL",
-      "url": "https://open.spotify.com/track/1VvldVWHEtvwzKlGx8ahOg"
-    },
-    {
       "added_at": "2021-07-02 08:33:01",
       "album": {
         "name": "Close Eyes",
@@ -453,22 +497,6 @@
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
-      "added_at": "2022-12-23 06:25:48",
-      "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/1HFaXg8WdveqgHIZXEK4Mz"
-      },
-      "artists": [
-        {
-          "name": "Sabuze",
-          "url": "https://open.spotify.com/artist/2u8F3wXa6IjZM3sVTwQLag"
-        }
-      ],
-      "duration_ms": 104956,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/2EIzEw3TdQ30XDSmD3R9bT"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Why Not",
@@ -483,6 +511,26 @@
       "duration_ms": 165000,
       "name": "Why Not",
       "url": "https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP"
+    },
+    {
+      "added_at": "2022-11-18 07:52:46",
+      "album": {
+        "name": "Phonk Drift",
+        "url": "https://open.spotify.com/album/4wTUsg32G9PscOlpHDV1B5"
+      },
+      "artists": [
+        {
+          "name": "V\u00d8J",
+          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+        },
+        {
+          "name": "Lastfragment",
+          "url": "https://open.spotify.com/artist/0prNIqZMr1aog4xj7qQo1A"
+        }
+      ],
+      "duration_ms": 121417,
+      "name": "Phonk Drift",
+      "url": "https://open.spotify.com/track/16nj3NeIiDUCRrdZmi7jmm"
     },
     {
       "added_at": "2022-12-09 08:15:38",
@@ -503,6 +551,26 @@
       "duration_ms": 86160,
       "name": "classical phonk",
       "url": "https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl"
+    },
+    {
+      "added_at": "2022-11-18 07:52:46",
+      "album": {
+        "name": "PSYCHO CRUISE",
+        "url": "https://open.spotify.com/album/2F3yPhrN0gUj5O5lORwMu6"
+      },
+      "artists": [
+        {
+          "name": "ONIMXRU",
+          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
+        },
+        {
+          "name": "STRAWANGLE",
+          "url": "https://open.spotify.com/artist/4o5PswOvXGSq0y5BqZTR9n"
+        }
+      ],
+      "duration_ms": 151213,
+      "name": "PSYCHO CRUISE",
+      "url": "https://open.spotify.com/track/1tkHHqMZaVoNtQvC32Om8X"
     },
     {
       "added_at": "2022-12-09 08:15:38",
@@ -541,24 +609,36 @@
       "url": "https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK"
     },
     {
-      "added_at": "2022-11-18 07:52:46",
+      "added_at": "2022-12-09 08:15:38",
       "album": {
-        "name": "PSYCHO CRUISE",
-        "url": "https://open.spotify.com/album/2F3yPhrN0gUj5O5lORwMu6"
+        "name": "RITUAL",
+        "url": "https://open.spotify.com/album/43nEXegWvPFJ1xDk2toTnI"
       },
       "artists": [
         {
-          "name": "ONIMXRU",
-          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
-        },
-        {
-          "name": "STRAWANGLE",
-          "url": "https://open.spotify.com/artist/4o5PswOvXGSq0y5BqZTR9n"
+          "name": "Phonk Killer",
+          "url": "https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC"
         }
       ],
-      "duration_ms": 151213,
-      "name": "PSYCHO CRUISE",
-      "url": "https://open.spotify.com/track/1tkHHqMZaVoNtQvC32Om8X"
+      "duration_ms": 103070,
+      "name": "RITUAL",
+      "url": "https://open.spotify.com/track/1VvldVWHEtvwzKlGx8ahOg"
+    },
+    {
+      "added_at": "2021-05-12 14:02:59",
+      "album": {
+        "name": "Phonky Town",
+        "url": "https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI"
+      },
+      "artists": [
+        {
+          "name": "PlayaPhonk",
+          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
+        }
+      ],
+      "duration_ms": 141343,
+      "name": "Phonky Town",
+      "url": "https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv"
     },
     {
       "added_at": "2022-09-23 07:48:31",
@@ -575,6 +655,22 @@
       "duration_ms": 142940,
       "name": "WAKE UP!",
       "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"
+    },
+    {
+      "added_at": "2022-12-09 08:15:38",
+      "album": {
+        "name": "Flare",
+        "url": "https://open.spotify.com/album/0UlezwwW4xMVnoRycJUWCu"
+      },
+      "artists": [
+        {
+          "name": "Hensonn",
+          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
+        }
+      ],
+      "duration_ms": 151971,
+      "name": "Flare",
+      "url": "https://open.spotify.com/track/3hzelPptWzx0OrSDTyIuuy"
     },
     {
       "added_at": "2022-09-16 05:48:48",
@@ -613,6 +709,22 @@
       "url": "https://open.spotify.com/track/55YAkx2jKPnFRqSUsldyxr"
     },
     {
+      "added_at": "2022-04-06 13:12:47",
+      "album": {
+        "name": "Disaster",
+        "url": "https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag"
+      },
+      "artists": [
+        {
+          "name": "KSLV Noh",
+          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
+        }
+      ],
+      "duration_ms": 84138,
+      "name": "Disaster",
+      "url": "https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx"
+    },
+    {
       "added_at": "2022-12-16 08:06:05",
       "album": {
         "name": "DESTRUCTION",
@@ -631,6 +743,54 @@
       "duration_ms": 133503,
       "name": "DESTRUCTION",
       "url": "https://open.spotify.com/track/2YiYHqoSQNAwVnRpxLwTJr"
+    },
+    {
+      "added_at": "2022-12-23 06:25:48",
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/1HFaXg8WdveqgHIZXEK4Mz"
+      },
+      "artists": [
+        {
+          "name": "Sabuze",
+          "url": "https://open.spotify.com/artist/2u8F3wXa6IjZM3sVTwQLag"
+        }
+      ],
+      "duration_ms": 104956,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/2EIzEw3TdQ30XDSmD3R9bT"
+    },
+    {
+      "added_at": "2022-09-02 08:01:31",
+      "album": {
+        "name": "|BONKERS|",
+        "url": "https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr"
+      },
+      "artists": [
+        {
+          "name": "staplegun",
+          "url": "https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI"
+        }
+      ],
+      "duration_ms": 212335,
+      "name": "|BONKERS|",
+      "url": "https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS"
+    },
+    {
+      "added_at": "2022-12-30 05:01:00",
+      "album": {
+        "name": "SATISFACTION",
+        "url": "https://open.spotify.com/album/3D4LxVyKnsNuSCRSd6N52g"
+      },
+      "artists": [
+        {
+          "name": "OXXXIDE",
+          "url": "https://open.spotify.com/artist/3pAEadIxg8RlAQoDmpNqKS"
+        }
+      ],
+      "duration_ms": 118400,
+      "name": "SATISFACTION",
+      "url": "https://open.spotify.com/track/0Xjcrr9FPy3ZrNk5sPlndU"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -669,56 +829,20 @@
       "url": "https://open.spotify.com/track/24HvJre1s9gcYsgm5kV3Wz"
     },
     {
-      "added_at": "2022-12-09 08:15:38",
+      "added_at": "2022-12-23 06:25:48",
       "album": {
-        "name": "Flare",
-        "url": "https://open.spotify.com/album/0UlezwwW4xMVnoRycJUWCu"
+        "name": "TOTALITARIANISM II",
+        "url": "https://open.spotify.com/album/0AAFX4cROdvFNGxJfNaj9B"
       },
       "artists": [
         {
-          "name": "Hensonn",
-          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
+          "name": "STAYSOLD",
+          "url": "https://open.spotify.com/artist/2217gZ1hgFCeaDXFrYrjeL"
         }
       ],
-      "duration_ms": 151971,
-      "name": "Flare",
-      "url": "https://open.spotify.com/track/3hzelPptWzx0OrSDTyIuuy"
-    },
-    {
-      "added_at": "2022-04-06 13:12:47",
-      "album": {
-        "name": "Disaster",
-        "url": "https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag"
-      },
-      "artists": [
-        {
-          "name": "KSLV Noh",
-          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
-        }
-      ],
-      "duration_ms": 84138,
-      "name": "Disaster",
-      "url": "https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx"
-    },
-    {
-      "added_at": "2022-11-18 07:52:46",
-      "album": {
-        "name": "Phonk Drift",
-        "url": "https://open.spotify.com/album/4wTUsg32G9PscOlpHDV1B5"
-      },
-      "artists": [
-        {
-          "name": "V\u00d8J",
-          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
-        },
-        {
-          "name": "Lastfragment",
-          "url": "https://open.spotify.com/artist/0prNIqZMr1aog4xj7qQo1A"
-        }
-      ],
-      "duration_ms": 121417,
-      "name": "Phonk Drift",
-      "url": "https://open.spotify.com/track/16nj3NeIiDUCRrdZmi7jmm"
+      "duration_ms": 143865,
+      "name": "TOTALITARIANISM II",
+      "url": "https://open.spotify.com/track/5Z8h5Uh2f7KI35PT88fUuw"
     },
     {
       "added_at": "2022-12-16 08:06:05",
@@ -757,22 +881,6 @@
       "url": "https://open.spotify.com/track/3XOcTnIA8aGpil8h76eH7N"
     },
     {
-      "added_at": "2022-09-02 08:01:31",
-      "album": {
-        "name": "|BONKERS|",
-        "url": "https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr"
-      },
-      "artists": [
-        {
-          "name": "staplegun",
-          "url": "https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI"
-        }
-      ],
-      "duration_ms": 212335,
-      "name": "|BONKERS|",
-      "url": "https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS"
-    },
-    {
       "added_at": "2022-12-23 06:25:48",
       "album": {
         "name": "GEMS",
@@ -791,22 +899,6 @@
       "duration_ms": 148285,
       "name": "WAVESTAR",
       "url": "https://open.spotify.com/track/1bw61wr9TDCRtCMeBX3Ml3"
-    },
-    {
-      "added_at": "2021-05-12 14:02:59",
-      "album": {
-        "name": "Phonky Town",
-        "url": "https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI"
-      },
-      "artists": [
-        {
-          "name": "PlayaPhonk",
-          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
-        }
-      ],
-      "duration_ms": 141343,
-      "name": "Phonky Town",
-      "url": "https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -871,22 +963,6 @@
       "duration_ms": 120435,
       "name": "Diamond Drift",
       "url": "https://open.spotify.com/track/39JwMiZTMfb9tMRBZl7wxA"
-    },
-    {
-      "added_at": "2022-12-23 06:25:48",
-      "album": {
-        "name": "TOTALITARIANISM II",
-        "url": "https://open.spotify.com/album/0AAFX4cROdvFNGxJfNaj9B"
-      },
-      "artists": [
-        {
-          "name": "STAYSOLD",
-          "url": "https://open.spotify.com/artist/2217gZ1hgFCeaDXFrYrjeL"
-        }
-      ],
-      "duration_ms": 143865,
-      "name": "TOTALITARIANISM II",
-      "url": "https://open.spotify.com/track/5Z8h5Uh2f7KI35PT88fUuw"
     },
     {
       "added_at": "2022-11-25 09:20:44",
@@ -1005,26 +1081,6 @@
       "url": "https://open.spotify.com/track/6XPPKm74soYRwfXT12ne0q"
     },
     {
-      "added_at": "2022-12-16 08:06:05",
-      "album": {
-        "name": "ANIME PHONK",
-        "url": "https://open.spotify.com/album/4folnJtcs3iTd5kNMOLoZU"
-      },
-      "artists": [
-        {
-          "name": "FanEOne",
-          "url": "https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT"
-        },
-        {
-          "name": "Little Trouble",
-          "url": "https://open.spotify.com/artist/10gnuyThMyXu9EAoUKJAvS"
-        }
-      ],
-      "duration_ms": 172956,
-      "name": "ANIME PHONK",
-      "url": "https://open.spotify.com/track/4Pj6Z9svyUSVNVPECGh4Fy"
-    },
-    {
       "added_at": "2022-11-11 07:32:56",
       "album": {
         "name": "Moment",
@@ -1117,22 +1173,6 @@
       "url": "https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh"
     },
     {
-      "added_at": "2022-11-11 07:32:56",
-      "album": {
-        "name": "SHE IS HYPERACTIVE",
-        "url": "https://open.spotify.com/album/68xuQrNQIlzH0vgMDjYjNH"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 137931,
-      "name": "SHE IS HYPERACTIVE",
-      "url": "https://open.spotify.com/track/4cx8mRVCvqGM5XiktQedCJ"
-    },
-    {
       "added_at": "2022-10-07 05:58:55",
       "album": {
         "name": "Poltergeist",
@@ -1211,6 +1251,26 @@
       "duration_ms": 140160,
       "name": "INCOMING",
       "url": "https://open.spotify.com/track/4h3KlpOEXS6FxIpab6EKlf"
+    },
+    {
+      "added_at": "2022-12-16 08:06:05",
+      "album": {
+        "name": "ANIME PHONK",
+        "url": "https://open.spotify.com/album/4folnJtcs3iTd5kNMOLoZU"
+      },
+      "artists": [
+        {
+          "name": "FanEOne",
+          "url": "https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT"
+        },
+        {
+          "name": "Little Trouble",
+          "url": "https://open.spotify.com/artist/10gnuyThMyXu9EAoUKJAvS"
+        }
+      ],
+      "duration_ms": 172956,
+      "name": "ANIME PHONK",
+      "url": "https://open.spotify.com/track/4Pj6Z9svyUSVNVPECGh4Fy"
     },
     {
       "added_at": "2022-11-11 07:32:56",
@@ -1339,38 +1399,6 @@
       "duration_ms": 143467,
       "name": "DARK LADY",
       "url": "https://open.spotify.com/track/15kFp3rOPgHSogMHLon1bC"
-    },
-    {
-      "added_at": "2022-09-30 07:31:37",
-      "album": {
-        "name": "Massacre",
-        "url": "https://open.spotify.com/album/40zEdByivwv75b9JCg0SN4"
-      },
-      "artists": [
-        {
-          "name": "CREEPYMANE",
-          "url": "https://open.spotify.com/artist/4iS0O9GXC7newvIHGqgaEz"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "Massacre",
-      "url": "https://open.spotify.com/track/17PIQKvMfby1GmaB8PcM80"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "try again",
-        "url": "https://open.spotify.com/album/0kHd9b3a2uhTvhM8fZc9d8"
-      },
-      "artists": [
-        {
-          "name": "f2kh6",
-          "url": "https://open.spotify.com/artist/38WmE0nhZTeg85mqWy8api"
-        }
-      ],
-      "duration_ms": 112796,
-      "name": "try again",
-      "url": "https://open.spotify.com/track/4G3Bsou1LCoRT7CQISWRtV"
     },
     {
       "added_at": "2022-02-04 20:08:15",
@@ -1535,22 +1563,6 @@
       "duration_ms": 195714,
       "name": "RAGNAROK",
       "url": "https://open.spotify.com/track/1sWb35nydLCjD71JGURDEv"
-    },
-    {
-      "added_at": "2022-10-14 08:20:18",
-      "album": {
-        "name": "120",
-        "url": "https://open.spotify.com/album/0KN1KVsqhqqqA8Qupsjo9X"
-      },
-      "artists": [
-        {
-          "name": "f2kh6",
-          "url": "https://open.spotify.com/artist/38WmE0nhZTeg85mqWy8api"
-        }
-      ],
-      "duration_ms": 115000,
-      "name": "120",
-      "url": "https://open.spotify.com/track/77MTD2S1N2GmiLxYwODXG5"
     },
     {
       "added_at": "2022-05-13 04:02:00",

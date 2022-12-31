@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-511 songs - 1 day 5 hr 3 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+516 songs - 1 day 5 hr 14 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Catch a Breath](https://open.spotify.com/track/4XVFa7MhMILscQRd2MmreO) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Catch a Breath](https://open.spotify.com/album/2PPerclhpHwTZ08iASsku1) | 3:36 | 2022-01-28 |  |
 | [Catching Fireflies](https://open.spotify.com/track/7f50pSASvBKK8aNR4IiSKp) | [The Soul's Release](https://open.spotify.com/artist/16SfNGKDSxXGOzIkFH7SEI) | [Where the Trees Are Painted White \- EP](https://open.spotify.com/album/7rRN14zlGaBlArcZ1Vl3RS) | 5:47 | 2019-05-26\* | 2019-06-19 |
 | [Centasphere](https://open.spotify.com/track/66moRq1v80qKGkwxuPwUYM) | [Nexterday Visitors](https://open.spotify.com/artist/4HpTEzHjNdwpdffaxTZSsr) | [Centasphere](https://open.spotify.com/album/0vXRHCarBO8xnjDbNarADJ) | 3:04 | 2020-12-11 | 2021-09-21 |
+| [center of mass](https://open.spotify.com/track/6opcJWSYfidSOyn8bQlTlK) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [center of mass](https://open.spotify.com/album/3rGLQVlXpRq8IFjMaszvW5) | 2:24 | 2022-12-30 |  |
 | [Change Of Tides](https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Change Of Tides](https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53) | 2:58 | 2022-02-25 |  |
 | [Chasing Love](https://open.spotify.com/track/5HCMc28iow2u67EgxHejfZ) | [Mondbery](https://open.spotify.com/artist/3Ao4LdOPmNHIsDq8Y5gTmh) | [Chasing Love](https://open.spotify.com/album/3r9LKZab8u1XmEJbxQjSjV) | 2:11 | 2019-06-19\* |  |
 | [Chasing Tides](https://open.spotify.com/track/41niA9BIBT3GBJODEWicuP) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Chasing Tides](https://open.spotify.com/album/4HJMXBtyX7oHWzE1O0y3bw) | 2:28 | 2022-08-05 |  |
@@ -215,6 +216,7 @@
 | [In A Week Or Two](https://open.spotify.com/track/1Tqt1u2aFYDBCMxxJRiM0f) | [Isaak Young](https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo) | [In A Week Or Two](https://open.spotify.com/album/5P3AhzhWwh2YIPnBLJ5rpa) | 2:30 | 2022-08-05 |  |
 | [In Collusion with the Waves](https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [The Ever Shifting Fields](https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL) | 4:37 | 2019-05-26\* | 2020-08-07 |
 | [In Due Time](https://open.spotify.com/track/2bMSh7BYTXtL5h3dGJlfl7) | [Broken Legacy](https://open.spotify.com/artist/3hG7itMdTJT8vc0JYh771M) | [In Due Time](https://open.spotify.com/album/3Za90yziagraFC8KY8u5Mj) | 2:46 | 2022-10-15 |  |
+| [In Due Time](https://open.spotify.com/track/433T7mnFe3pkrTZfnYtq7A) | [Tall Towers](https://open.spotify.com/artist/2cJFgnxR5epddHrdwxNPvw) | [The Hideout](https://open.spotify.com/album/7Jz7LKyufYL6fPRRkaUe3F) | 2:15 | 2022-12-30 |  |
 | [In Every Heartbeat](https://open.spotify.com/track/5OqkQteQRQBSZeQXBbY7a6) | [Axione](https://open.spotify.com/artist/29wsDWZgbwNUfV26q33dmC) | [In Every Heartbeat](https://open.spotify.com/album/3tcB4ANe71Utx6e1hsPdjb) | 2:42 | 2022-01-19 |  |
 | [In Search of Wonder](https://open.spotify.com/track/3BLMQuMGnw4MZr4CtcdNFf) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Departure Lounge](https://open.spotify.com/album/1L14xBM4jEKPRItVqzj0ok) | 4:16 | 2019-07-31 | 2019-09-11 |
 | [In the Beginning of Time](https://open.spotify.com/track/5I9kd3U6qhnuO3WWX5Le8l) | [Of Water](https://open.spotify.com/artist/0vrr0Uu8SDXaogmsFovyC2) | [In the Beginning of Time](https://open.spotify.com/album/5U2pbbuxFkngsYbbuIlzk5) | 3:11 | 2021-07-30 |  |
@@ -233,7 +235,7 @@
 | [Just Look at You](https://open.spotify.com/track/62X7ld1sa8RHl4zRtSvfHf) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [432 Water Crystals](https://open.spotify.com/album/6jSQXGouXgIfiwa9icJO68) | 3:07 | 2020-04-13 |  |
 | [Kaolnite](https://open.spotify.com/track/4fItBSHKBcgKWixN1Idie5) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Kaolnite](https://open.spotify.com/album/4ZPUoevTs8TL3qSTYoiV5N) | 3:00 | 2019-09-11 |  |
 | [Kohobodi Boy](https://open.spotify.com/track/4x4uXEc4LzgBMNu1MJGz6Y) | [Daniel Kadawatha](https://open.spotify.com/artist/2eDGCAUPtznGnGKQ2uP3GZ) | [Kohobodi Boy](https://open.spotify.com/album/0YERkukeb7sLlqtGQT2XYj) | 2:43 | 2019-07-31 | 2021-09-14 |
-| [L'anniversaire](https://open.spotify.com/track/237AfZdkhsFMTS2mbafjpG) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [L'anniversaire](https://open.spotify.com/album/4UTG7PJPrKlkQ38hBHpm5Q) | 2:45 | 2019-06-19\* |  |
+| [L'anniversaire](https://open.spotify.com/track/237AfZdkhsFMTS2mbafjpG) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [L'anniversaire](https://open.spotify.com/album/4UTG7PJPrKlkQ38hBHpm5Q) | 2:45 | 2019-06-19\* | 2022-12-31 |
 | [La Luz](https://open.spotify.com/track/6iQ6AKHlGjQTrpZIqfOtyK) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Chapter I](https://open.spotify.com/album/4lGIi8xhiVxxvpYmuXW2WD) | 5:03 | 2019-12-11 | 2020-10-27 |
 | [Landing Cliffs](https://open.spotify.com/track/5tigkMHCUbLCxRTrlozt6F) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Wilderness](https://open.spotify.com/album/79X3DX8IqI3jZXQvsrFiDV) | 6:17 | 2019-05-26\* | 2019-06-19 |
 | [Las Violetas](https://open.spotify.com/track/0e6hnhvUX5KpXdemJtdkuk) | [Alleppey](https://open.spotify.com/artist/5y5DjELIetxaGHNn5hGSnW) | [Barrio Jardín](https://open.spotify.com/album/1fJnDh8SkX2yKI0Cgh9ycR) | 2:53 | 2020-12-11 | 2021-12-23 |
@@ -308,6 +310,7 @@
 | [Now It's Over\. Now I'm Awake.](https://open.spotify.com/track/1Ho9GnoEXLcl60ZmdOfxzQ) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/1AXGMY5gO4VvCefch2R8oh) | 2:20 | 2019-05-26\* | 2020-08-07 |
 | [Numb](https://open.spotify.com/track/1UxbOJn4xayygB84FgRDLS) | [Lacy Magic](https://open.spotify.com/artist/2otMr0SVaBIHvh5sDBkk0k) | [Numb](https://open.spotify.com/album/3Xb4DfU9NUNCwyBhIwrmrv) | 3:23 | 2019-06-19\* | 2019-06-27 |
 | [Nuraghe](https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraghe](https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4) | 2:30 | 2022-05-19 |  |
+| [Nuraxi](https://open.spotify.com/track/0jgfH1TWoXIC0Qk5x0Uerw) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraxi](https://open.spotify.com/album/793eb06JG2yOu3V1i9Z5MZ) | 1:43 | 2022-12-30 |  |
 | [Observations From A Faraway Place](https://open.spotify.com/track/5H14dJbhKeaU1ffTMmIGJi) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:22 | 2019-06-19\* |  |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/4hxbBi3XqJgowkTxyQwMeq) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/0RGI3UG8SabiVYyEJqGYSj) | 5:44 | 2019-05-26\* | 2019-06-19 |
 | [October Skies](https://open.spotify.com/track/1YU1xwcePnMHo0H5MI9gtm) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 2:55 | 2019-06-19\* | 2022-07-29 |
@@ -367,6 +370,7 @@
 | [Schloss](https://open.spotify.com/track/07EmFV0AOKNsbtNonzmMJj) | [Elmau Dunkel](https://open.spotify.com/artist/6mzee09oEU916FziuofHI8) | [Schloss](https://open.spotify.com/album/2jC3UanKu2eDP00OoWu2Rz) | 3:42 | 2019-06-19\* | 2021-11-19 |
 | [Sea of Tranquility](https://open.spotify.com/track/5ggOjNoVdy0O24g98rkms7) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Above The Clouds](https://open.spotify.com/album/6Sjxd5p5VEM0Mj6FnhqPpP) | 2:55 | 2019-06-19\* | 2021-09-14 |
 | [Searching In The Night](https://open.spotify.com/track/3hPRkKFO5mIflYwDjicJ4U) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [Return To Sender](https://open.spotify.com/album/06kQMPdWAKrS3ANHVZx27b) | 3:16 | 2022-11-18 |  |
+| [Second Chances](https://open.spotify.com/track/7IbbjapJhOwteSxyMjWOLB) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [Second Chances](https://open.spotify.com/album/6jagxBtyd6IAKLIy9E0wwc) | 2:40 | 2022-12-30 |  |
 | [Seeming](https://open.spotify.com/track/1AzBMkqhcv8KKyCYc2A1C2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Veriditas](https://open.spotify.com/album/3QTsU264hhPO4cEOrHrZC0) | 2:35 | 2022-07-27 |  |
 | [Seeming](https://open.spotify.com/track/62rlNsIU6VgkRCSqH4BKEu) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Seeming](https://open.spotify.com/album/7HM9J3O7WjqVeGwxS7Do3n) | 2:35 | 2019-06-19\* | 2022-07-29 |
 | [Selfless](https://open.spotify.com/track/06rxdrloI554XAu02s1RaM) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Selfless](https://open.spotify.com/album/3IraToCy1gXM0Si13GErD1) | 3:00 | 2019-06-27 | 2020-06-19 |
@@ -431,6 +435,7 @@
 | [The Light of Day](https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [The Light of Day](https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71) | 2:47 | 2019-06-19\* | 2021-09-14 |
 | [the light of day](https://open.spotify.com/track/0gDMSJ8JtTjnAnROaM4L9w) | [Imala Zir](https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo) | [the light of day](https://open.spotify.com/album/3OsB2G6NwObtL0CLG8rkW7) | 3:23 | 2022-11-11 |  |
 | [The Meaning](https://open.spotify.com/track/4XBdcBdB8cIlJIipHbTd7G) | [Fondur](https://open.spotify.com/artist/13HVLXNw3aIkcbo354xEcS) | [The Meaning](https://open.spotify.com/album/6R8HbHMhZq7h4LgxIQ5OeD) | 3:18 | 2022-04-14 |  |
+| [The Object at Hand](https://open.spotify.com/track/0sm2PC8NP8L0J2sxPJwKvA) | [Joy Parade](https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o) | [The Object at Hand](https://open.spotify.com/album/7ia9ZV8dzAXkjI2KQjY9Wh) | 2:19 | 2022-12-30 |  |
 | [The Outlook](https://open.spotify.com/track/58BB8I0IO8pxDkwuwWyEdw) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [The Outlook](https://open.spotify.com/album/4hoEgPCfFsv0fr9F5gkZ3t) | 2:58 | 2021-12-22 |  |
 | [The Plains of Dover](https://open.spotify.com/track/3ExU31i7Fh2vbhB1DzM1Gr) | [Ceilidh](https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg) | [The Plains of Dover](https://open.spotify.com/album/0aA4oMl9Ggfh4ZyvjM2fMM) | 3:11 | 2019-05-26\* | 2020-08-07 |
 | [The Powers Of The Universe](https://open.spotify.com/track/15sQ657gDj93yUN2MTl0qU) | [Of Water](https://open.spotify.com/artist/0vrr0Uu8SDXaogmsFovyC2) | [Beyond Exploding Stars](https://open.spotify.com/album/1eiqm039IN4hvY85s8VgQP) | 3:58 | 2019-05-26\* | 2020-08-07 |

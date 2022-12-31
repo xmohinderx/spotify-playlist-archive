@@ -4,7 +4,7 @@
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: W.M.L \(李杰明\)
 
-419 songs - 21 hr 51 min - [published](https://open.spotify.com/playlist/291lRyJLRS6L2qu4DuC54F)
+420 songs - 21 hr 54 min - [published](https://open.spotify.com/playlist/291lRyJLRS6L2qu4DuC54F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,8 @@
 | [是你.](https://open.spotify.com/track/3fiXwwPL7cUvD7BqkHdN0J) | [政学Zed\-X](https://open.spotify.com/artist/7DAjUaK40De066EOFR6fxB) | [是你.](https://open.spotify.com/album/46mCiXY4QlWCV2q34BQlG9) | 1:35 | 2022-12-12 |  |
 | [是我不該牽起你的手](https://open.spotify.com/track/1xg8LOhqs1iIAgyOYPt7kY) | [Coy6oi](https://open.spotify.com/artist/3UN0S5PuO1xQtE9P9XJ2TV) | [是我不該牽起你的手](https://open.spotify.com/album/33zwEqAK2bGsNSukt3xLai) | 3:01 | 2022-05-09 | 2022-05-17 |
 | [暮](https://open.spotify.com/track/2JIAQ1zwbrOj1yDOLo8Jtn) | [那吾克熱\-NW](https://open.spotify.com/artist/2xbV452k0SC2JZJDtm7mqK) | [暮](https://open.spotify.com/album/5VfxNdDHAy6QiugFfARgft) | 2:41 | 2022-09-26 | 2022-10-11 |
-| [有病的孩子](https://open.spotify.com/track/2UzbJ33Xf8VPwGZGQhWUk8) | [HomeRich](https://open.spotify.com/artist/4GtW6FVTo4AlQRzVMgexJF) | [溫柔的怪物](https://open.spotify.com/album/5j8KBkwSdWQRBkAiJDWskT) | 2:58 | 2022-12-05 |  |
+| [有病的孩子](https://open.spotify.com/track/2UzbJ33Xf8VPwGZGQhWUk8) | [HomeRich](https://open.spotify.com/artist/4GtW6FVTo4AlQRzVMgexJF) | [溫柔的怪物](https://open.spotify.com/album/5j8KBkwSdWQRBkAiJDWskT) | 2:58 | 2022-12-05 | 2022-12-31 |
+| [有病的孩子](https://open.spotify.com/track/3Rw0p8UchPvD9KvCaVZWR7) | [HomeRich](https://open.spotify.com/artist/4GtW6FVTo4AlQRzVMgexJF) | [溫柔的怪物](https://open.spotify.com/album/0274UBkVeUtM3SBj94H0E6) | 2:58 | 2022-12-26 |  |
 | [未来列车](https://open.spotify.com/track/2HERazy75RbPj0xy1KukDg) | [Zenii](https://open.spotify.com/artist/3ZrPAxv2Tv9BIsAUHPdBTU) | [未来列车](https://open.spotify.com/album/5NQ45wZSihuPYG9iXE7VB4) | 2:40 | 2022-04-04 | 2022-04-18 |
 | [未知計劃](https://open.spotify.com/track/2eQkGRQETPeXoIyRy1QSQO) | [劉雨昕](https://open.spotify.com/artist/3lxD7OESQHk5ESvrad8IGg) | [未知計劃](https://open.spotify.com/album/3HZfoO7DIMl90L2jdr3mYc) | 2:55 | 2022-03-28 | 2022-04-18 |
 | [末日將至](https://open.spotify.com/track/5otwDaLBDibSpQpjOlzxAs) | [小王子](https://open.spotify.com/artist/7fVfDPQNxwLJT9ryj2kMvI) | [末日將至](https://open.spotify.com/album/0sSVqUgqbmnfZ2xPG8gJe7) | 3:36 | 2022-12-26 |  |

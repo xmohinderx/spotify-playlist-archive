@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-242 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
+244 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [432hz Sea of Fog](https://open.spotify.com/track/6sV4fBPsUMAiEIygFXViK1) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Healing Sounds from the Middle East](https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn) | 3:54 | 2021-12-17 |  |
 | [Above The Trees](https://open.spotify.com/track/4qzxepc9e8IRuqmknRIeAN) | [Ashagen](https://open.spotify.com/artist/65JkSnMfywXP7I1Xuk1XFp) | [Above The Trees](https://open.spotify.com/album/2fsy6gg50jg2yqzDUHYkyX) | 3:23 | 2022-03-04 |  |
 | [Above The Trees](https://open.spotify.com/track/6vUWjoUSF92bxEXheAQwPg) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Above The Trees](https://open.spotify.com/album/5A02FmfjCW12ChMUxc3PXn) | 3:16 | 2022-02-16 |  |
+| [Aerial Flow \- Meditation](https://open.spotify.com/track/0qqvlSXjz8XXwjsXGAuPwh) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Aerial Flow](https://open.spotify.com/album/5ds4gdwtnC4xVusJb6MLBx) | 4:03 | 2022-12-30 |  |
 | [Ambi Sant](https://open.spotify.com/track/6V8Nug0E9yzNkPVqwNhdXQ) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Ambi Sant](https://open.spotify.com/album/4qHJC9flkExlbRs27mOEwy) | 3:37 | 2022-11-22 |  |
 | [Ambient Music \(Nature Forest Sounds\)](https://open.spotify.com/track/3pxMXATLgnbCt9mK8Ulrtw) | [Calm Singing Birds Zone](https://open.spotify.com/artist/5nbveUkwrp4g0mfa55UXC8) | [Relaxing Music: Morning Birds Songs, Peaceful Afternoon in the Forest, Ambient Nature Sounds to Reduce Stress and Well Being](https://open.spotify.com/album/077MhCgyK7kVk76I5WD6qZ) | 3:51 | 2021-12-17 |  |
 | [Ambient Nature Sleep Sounds, Pt\. 5](https://open.spotify.com/track/2HNic458YbLZgKaamovCwl) | [Sleepy Times](https://open.spotify.com/artist/2tZbAzQxbp2fvMbVR9glOT), [The Sleep Specialist](https://open.spotify.com/artist/4xmdicsQgSblXPxoPEVn8a), [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Ambient Nature \(Sleep & Mindfulness\)](https://open.spotify.com/album/05S6rm65838FvoSNEiKBnI) | 2:14 | 2021-12-17 |  |
@@ -115,6 +116,7 @@
 | [Liquid Universe](https://open.spotify.com/track/6sSm3zcLb30wXnIvx19lnG) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Liquid Universe](https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq) | 2:58 | 2021-12-17 |  |
 | [Lofi Ocean Waves](https://open.spotify.com/track/24Vfojoe6FGWq32gPh6bTX) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [Mijas](https://open.spotify.com/album/28JTLLbs086Y9R3LN1d3Qd) | 3:49 | 2021-12-17 |  |
 | [Lonesome By The Creek](https://open.spotify.com/track/5e3AJCNGfSqbuHiG96xLln) | [LUCCI](https://open.spotify.com/artist/7sOL3G4nJz0wDXnkOWKOEf) | [As Beautiful As You Are](https://open.spotify.com/album/4D8S8sIpWEgZX56W9Pzjvu) | 3:48 | 2021-12-17 |  |
+| [Lotus \(Meditation\)](https://open.spotify.com/track/3KwankFLnPiRwQwpm9ahiz) | [SleepTherapy](https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv) | [Lotus](https://open.spotify.com/album/06e01uHxoJ85tzTPt14SvJ) | 5:37 | 2022-12-30 |  |
 | [Luna's Longing](https://open.spotify.com/track/70WbmXp6u9PawfFv5kXBeK) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Luna's Longing](https://open.spotify.com/album/5QxbhzC2Y8g4PZoboGyqGk) | 3:02 | 2021-12-17 |  |
 | [Magnetic Dream](https://open.spotify.com/track/3c3p7n6aV4hHIV4L01dU9c) | [Ripple Tone](https://open.spotify.com/artist/5mE7YYrMNSHnSSXv8BEqOW) | [Night Sky](https://open.spotify.com/album/7ICgkdDIk75pUuu8dK0xLq) | 4:14 | 2021-12-17 |  |
 | [Mane Fluctus](https://open.spotify.com/track/15CHR9OtnnMp4bS2qhN47G) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:40 | 2022-02-01 |  |

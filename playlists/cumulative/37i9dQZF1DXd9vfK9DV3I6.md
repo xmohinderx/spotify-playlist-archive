@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-228 songs - 16 hr 56 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
+229 songs - 17 hr 1 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Roots](https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [Roots LP](https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR) | 2:58 | 2020-10-18\* |  |
 | [Route 55](https://open.spotify.com/track/2EzwcoyoFof9Vp2IOAajrp) | [Mr Oasis](https://open.spotify.com/artist/3arKqyvmf9PeoHKISoOUex) | [Route 55](https://open.spotify.com/album/1iXUuIQpSnzUZcSUGRvjgR) | 4:38 | 2020-10-18\* |  |
 | [S'Hab Music \- Remix](https://open.spotify.com/track/4xdxHhXHuv3fd9JqWD31kT) | [N'gaous](https://open.spotify.com/artist/3elGJmjs2B8neAS8asJWjF), [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [S'Hab N'gaous](https://open.spotify.com/album/4N3HHOQkNSMq9oACJDqAKP) | 2:28 | 2020-10-18\* | 2021-05-28 |
-| [Sahara](https://open.spotify.com/track/0Rxy7OTbF4qa7zaVrk2b8l) | [SLH](https://open.spotify.com/artist/6yLqIVQgDKG5uQ454fPsj0), [F.I.D.](https://open.spotify.com/artist/6MlNFQkUS24vx0YMH20JW0) | [Sahara](https://open.spotify.com/album/0WmME87pq6EEJUOQJ2R9b7) | 5:31 | 2020-10-18\* |  |
+| [Sahara](https://open.spotify.com/track/0Rxy7OTbF4qa7zaVrk2b8l) | [SLH](https://open.spotify.com/artist/6yLqIVQgDKG5uQ454fPsj0), [F.I.D.](https://open.spotify.com/artist/6MlNFQkUS24vx0YMH20JW0) | [Sahara](https://open.spotify.com/album/0WmME87pq6EEJUOQJ2R9b7) | 5:31 | 2020-10-18\* | 2022-12-31 |
 | [Sahra On The Moon](https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA), [Feras Naddaf](https://open.spotify.com/artist/1DXyrlrEPGitPShvpLJd2b) | [Sahra On The Moon](https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7) | 2:39 | 2022-02-24 |  |
 | [Sakaratou Achiqin](https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP), [Mawal Lotfi](https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda) | [Sakaratou Achiqin](https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh) | 2:19 | 2020-10-18\* |  |
 | [Salat Ala Nabina \- Radio Edit](https://open.spotify.com/track/34v65aJB2ELQx3vpegUxb1) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Salat Ala Nabina](https://open.spotify.com/album/2kGHqtp9WEhUeYrCQjjzDq) | 3:38 | 2020-10-18\* |  |
@@ -235,6 +235,7 @@
 | [Zagora](https://open.spotify.com/track/4ePH0udOkmmaS6CEASnj7N) | [So Dubbed](https://open.spotify.com/artist/7iIpChHfPHBIC5Yzt32xse), [Ravin](https://open.spotify.com/artist/3HCPQCRWBlwDmunTTzn3bb) | [Zagora](https://open.spotify.com/album/4zNoZkafLXtBaFAHG8i5u4) | 5:25 | 2022-06-27 | 2022-12-13 |
 | [Zamen \- Amine K Remix](https://open.spotify.com/track/3z9c90mEZypec8OYZGCAdr) | [Mario Bazouri](https://open.spotify.com/artist/1PW4Ka7Ui6PzpbWtxUI2k5), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Sultan \(Inc\. Derun & Amine K Remix\)](https://open.spotify.com/album/13z2xBt6SaIvrkWtnOrp0G) | 6:51 | 2020-10-18\* | 2022-11-13 |
 | [Zid Lmel](https://open.spotify.com/track/3sqQqUMYB5HqyzIE9XRcyp) | [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn), [Maalem Hammam](https://open.spotify.com/artist/29PS9kUTTCcpFIKaP9DAx2) | [Healing Rituals](https://open.spotify.com/album/4e7kuCNjfnklXTS1dsR53y) | 7:50 | 2020-10-18\* | 2022-06-29 |
+| [ZMAN](https://open.spotify.com/track/0Nr4L8pTEp0K9JxKLnXOSz) | [OSENS](https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 4:51 | 2022-12-13 |  |
 | [Детство \(Jad Halal Remix\)](https://open.spotify.com/track/2WilwAlTwOerWnvg6iYsPI) | [Rauf](https://open.spotify.com/artist/3p9D7WV7zSXawXq8qzSZLt), [Faik](https://open.spotify.com/artist/2QaHcHzbIucoNA73CkRaF2), [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Детство \(Jad Halal Remix\)](https://open.spotify.com/album/4Lp4X2wQn6Ly27v85Vg7GB) | 3:11 | 2020-10-18\* | 2021-03-30 |
 
 \*This playlist was first scraped on 2020-10-18. Prior content cannot be recovered.

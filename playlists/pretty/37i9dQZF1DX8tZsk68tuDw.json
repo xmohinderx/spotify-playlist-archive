@@ -1,12 +1,12 @@
 {
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Yotto.",
-  "num_followers": 2009106,
+  "num_followers": 2009301,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMGFiYzNiYmZhN2QzODAxZjQ4YWMyMDAxZDlhNjMwNmJm",
+  "snapshot_id": "MTY3MjM3NjQwMCwwMDAwMDAwMGM0NjI0OWE0NzU3MTBhY2E3MWU0ODFkZDhkOTg2M2E0",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -139,6 +139,22 @@
       "duration_ms": 224274,
       "name": "Transmission - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/6A1uNJqYuAhldH89hy70od"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 247404,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/1vlnbR9iKNLCAlEDNSBrxj"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -293,6 +309,30 @@
       "url": "https://open.spotify.com/track/0zZrLMx6G1U2nvmFGnSSSr"
     },
     {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Picture",
+        "url": "https://open.spotify.com/album/5Y86auMfgcbLbCKFfVh4hq"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Picture",
+      "url": "https://open.spotify.com/track/1sAyfWbmgrT7HganHgLSYQ"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Roller Coaster",
@@ -441,6 +481,26 @@
       "url": "https://open.spotify.com/track/1Roz7FfvXU50hWjdjEPvDo"
     },
     {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/6mmn7jfpcywESxR333ZiHT"
+      },
+      "artists": [
+        {
+          "name": "Lian Gold",
+          "url": "https://open.spotify.com/artist/5NgAdRVBzrOLKRQ8RRvBx4"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/6HEz9BelSfuZjheXhSrBM9"
+        }
+      ],
+      "duration_ms": 267692,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/2eH4IlhZXAkInRTu9NfyfK"
+    },
+    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "Only You",
@@ -509,6 +569,30 @@
       "url": "https://open.spotify.com/track/3ekMDfXCRTwlXXtfxwA0jP"
     },
     {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Guddi Riddim",
+        "url": "https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        },
+        {
+          "name": "Nooran Sisters",
+          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Guddi Riddim",
+      "url": "https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Drifting Away",
@@ -547,6 +631,30 @@
       "duration_ms": 157972,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/7pWLqM4gqXzUfxdk87TuX4"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/4uT5hURMpTckmBqEKs040D"
+      },
+      "artists": [
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        },
+        {
+          "name": "Pupa Nas T",
+          "url": "https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy"
+        },
+        {
+          "name": "Denise Belfon",
+          "url": "https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/0NFchYXJVNxHb693dpIs0t"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1009,22 +1117,6 @@
       "url": "https://open.spotify.com/track/2OVKwL3wYbbaKjGTCKS0Cc"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 221669,
-      "name": "Resonate",
-      "url": "https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "KILO",
@@ -1337,22 +1429,6 @@
       "url": "https://open.spotify.com/track/6o2SK2MyeOBoqvSA6iAY2a"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Forte",
-        "url": "https://open.spotify.com/album/3DbbEUCzn198WFMjdbIVrz"
-      },
-      "artists": [
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        }
-      ],
-      "duration_ms": 230790,
-      "name": "Forte",
-      "url": "https://open.spotify.com/track/2CSneRO5qx2XF7st3k9x0D"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Somebody",
@@ -1419,38 +1495,6 @@
       "duration_ms": 192755,
       "name": "Higher Than You",
       "url": "https://open.spotify.com/track/4S6M5BQxrpP9pRQIBpVzxP"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Apollo EP",
-        "url": "https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 392709,
-      "name": "Missing Channel - Original Mix",
-      "url": "https://open.spotify.com/track/1Hs5l7PHbZ0LZAZfAUw1bZ"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "hace ejercicios",
-        "url": "https://open.spotify.com/album/4QFKs1Wn1pVxUXuXPrkQH4"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        }
-      ],
-      "duration_ms": 460813,
-      "name": "Hace Ejercicios",
-      "url": "https://open.spotify.com/track/7K8hVSM4s25QKgyyioLWTP"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1539,22 +1583,6 @@
       "duration_ms": 187251,
       "name": "Freefall (feat. Moxie Knox) - Edit",
       "url": "https://open.spotify.com/track/5imVAY20zvISpCoBuoeqZ2"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/7iEmfai44TVKtcTu2N03mc"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 421818,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/5bAmqp96l9YO7V8LW5sUjZ"
     }
   ],
   "unique_name": "Dance Rising",

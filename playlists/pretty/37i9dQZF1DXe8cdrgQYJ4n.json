@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 9540,
+  "num_followers": 9566,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjA0Njg1MCwwMDAwMDAwMDkwMGZiMzJkMDlmYzIzZWJjOTIxMTJlN2VkZmNkZTI3",
+  "snapshot_id": "MTY3MjA0Njg1MCwwMDAwMDAwMDBjZTBmOWU1YzNjNmFiYjhjNGMxNjY4ZDEwMzQzZmRj",
   "tracks": [
     {
       "added_at": "2022-12-26 09:27:30",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-12-26 09:27:30",
       "album": {
+        "name": "\uc6b0\ub9ac \uac19\uc740 \uc0ac\ub78c\ub4e4 People like us",
+        "url": "https://open.spotify.com/album/2vJ9k7X0Bv1H6WgzSWFdTH"
+      },
+      "artists": [
+        {
+          "name": "Lee go do",
+          "url": "https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "\uc6b0\ub9ac \uac19\uc740 \uc0ac\ub78c\ub4e4 People like us",
+      "url": "https://open.spotify.com/track/7pzn1IRBE4m2Cwod1f2RqI"
+    },
+    {
+      "added_at": "2022-12-26 09:27:30",
+      "album": {
         "name": "Last Days",
         "url": "https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 232480,
       "name": "Solo (Feat. Alex)",
       "url": "https://open.spotify.com/track/3kVPDzRJKBVeqepc439JtZ"
-    },
-    {
-      "added_at": "2022-12-26 09:27:30",
-      "album": {
-        "name": "\uc6b0\ub9ac \uac19\uc740 \uc0ac\ub78c\ub4e4 People like us",
-        "url": "https://open.spotify.com/album/2vJ9k7X0Bv1H6WgzSWFdTH"
-      },
-      "artists": [
-        {
-          "name": "Lee go do",
-          "url": "https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "\uc6b0\ub9ac \uac19\uc740 \uc0ac\ub78c\ub4e4 People like us",
-      "url": "https://open.spotify.com/track/7pzn1IRBE4m2Cwod1f2RqI"
     },
     {
       "added_at": "2022-12-26 09:27:30",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-12-26 09:27:30",
       "album": {
+        "name": "Are you in there",
+        "url": "https://open.spotify.com/album/3He9aN5L7rSUjACZlrGI4J"
+      },
+      "artists": [
+        {
+          "name": "Lee go do",
+          "url": "https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm"
+        }
+      ],
+      "duration_ms": 158213,
+      "name": "Are you in there",
+      "url": "https://open.spotify.com/track/4XuHctz1O5BCamhBb7IJfL"
+    },
+    {
+      "added_at": "2022-12-26 09:27:30",
+      "album": {
         "name": "So What",
         "url": "https://open.spotify.com/album/5aVi44dgMvYWOUL59ZzBKl"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 113346,
       "name": "LEGO(Let's Go)",
       "url": "https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM"
-    },
-    {
-      "added_at": "2022-12-26 09:27:30",
-      "album": {
-        "name": "Tang Tang!",
-        "url": "https://open.spotify.com/album/0K7e3vLuZqHDkBGrD2KMAF"
-      },
-      "artists": [
-        {
-          "name": "Arttichoke",
-          "url": "https://open.spotify.com/artist/2d50bxrNeeo226v4VaEje9"
-        }
-      ],
-      "duration_ms": 150226,
-      "name": "I\u2019ll just smile",
-      "url": "https://open.spotify.com/track/3yQDvoUWr6e3cY5R1dBzzG"
     }
   ],
   "unique_name": "I'M FINE, SOLO. AND U?",

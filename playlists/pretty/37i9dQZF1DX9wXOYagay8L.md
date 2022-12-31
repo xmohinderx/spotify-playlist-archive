@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=\_1tjXUnTS2CRapuxEexbmA">Msaki</a> and <a href="https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65?si=FlqIEG2USBCH2hQnLNMxew">Tubatsi Mpho Moloi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,507 likes - 40 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,604 likes - 40 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 39 | [Dear My Love](https://open.spotify.com/track/3fRbiyjVveNHksnKq5r7B1) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc), [Xowla](https://open.spotify.com/artist/08ejcjfMzbGwiK9MVslxc5) | [Dear My Love](https://open.spotify.com/album/3ClCqeqqxUjeUOBndoPmlu) | 4:28 |
 | 40 | [Ngzok'nik'uthando \(Radio Edit\)](https://open.spotify.com/track/0bMHwf7X5H7IG9jaSM9xEm) | [Rethabile Khumalo](https://open.spotify.com/artist/79b9O9C4dZhszxkYiaysUV) | [Ngzok'nik'uthando](https://open.spotify.com/album/36iqSxDSF001SVG7zSs4ZI) | 4:20 |
 
-Snapshot ID: `MTY3MTE0MTU0MCwwMDAwMDAwMGVkN2JmY2ZiMTNhNzZlNmIzNTI3YzhiMjljNWY2YzU2`
+Snapshot ID: `MTY3MjQwOTQyOCwwMDAwMDAwMGEyMzUyNTM4MWUyNmQ2Y2M0NTBmNGE4MDg0M2U5NGUx`
