@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 108185,
+  "num_followers": 108241,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDkzMjEwOSwwMDAwMDAwMGY2YmE5NjYyYzBkM2IyZjMxZWVjMzFiYmRjMjJiYjI2",
+  "snapshot_id": "MTY0MDkzMjEwOSwwMDAwMDAwMDA4Njg2OTJjODczMmZkNjI4YTVkNmQyZmRhMTdhNmY4",
   "tracks": [
     {
       "added_at": "2021-12-31 06:28:29",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Revival (Live)",
-        "url": "https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "Way Truth Life - Live",
-      "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Yes He Does",
         "url": "https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 206606,
       "name": "Yes He Does",
       "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Revival (Live)",
+        "url": "https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "Way Truth Life - Live",
+      "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Won't Look Back",
-        "url": "https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Won't Look Back",
-      "url": "https://open.spotify.com/track/5E6upbmm2f8pFJQj6kbz9P"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Won't Let Me Go",
         "url": "https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 197675,
       "name": "Won't Let Me Go",
       "url": "https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Won't Look Back",
+        "url": "https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Won't Look Back",
+      "url": "https://open.spotify.com/track/5E6upbmm2f8pFJQj6kbz9P"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -863,18 +863,22 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Majesty",
-        "url": "https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM"
+        "name": "Worship: The Remix Project, Vol. 3",
+        "url": "https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ"
       },
       "artists": [
         {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+          "name": "Reyer",
+          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
+        },
+        {
+          "name": "Skye Reedy",
+          "url": "https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R"
         }
       ],
-      "duration_ms": 500000,
-      "name": "Majesty",
-      "url": "https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW"
+      "duration_ms": 236025,
+      "name": "The Blessing - Reyer Remix",
+      "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -899,22 +903,18 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Worship: The Remix Project, Vol. 3",
-        "url": "https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ"
+        "name": "Majesty",
+        "url": "https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM"
       },
       "artists": [
         {
-          "name": "Reyer",
-          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
-        },
-        {
-          "name": "Skye Reedy",
-          "url": "https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R"
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
         }
       ],
-      "duration_ms": 236025,
-      "name": "The Blessing - Reyer Remix",
-      "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"
+      "duration_ms": 500000,
+      "name": "Majesty",
+      "url": "https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -935,18 +935,18 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
+        "name": "Easy Never Needed You",
+        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
       },
       "artists": [
         {
-          "name": "Joel Vaughn",
-          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
         }
       ],
-      "duration_ms": 218200,
-      "name": "More Than Good Enough",
-      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
+      "duration_ms": 206960,
+      "name": "Right Where You Want Me",
+      "url": "https://open.spotify.com/track/2gKLC4heAhc1awumKkTqfA"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -967,6 +967,22 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "More Than Good Enough",
+      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
         "name": "I Feel Good About It",
         "url": "https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 223000,
       "name": "I Feel Good About It",
       "url": "https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Easy Never Needed You",
-        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
-      },
-      "artists": [
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "Right Where You Want Me",
-      "url": "https://open.spotify.com/track/2gKLC4heAhc1awumKkTqfA"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Motion Worship",
-        "url": "https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R"
-      },
-      "artists": [
-        {
-          "name": "Motion Worship",
-          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
-        }
-      ],
-      "duration_ms": 226568,
-      "name": "Freedom Wild",
-      "url": "https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Love Running Wild",
         "url": "https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 201371,
       "name": "I Belong to You",
       "url": "https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Motion Worship",
+        "url": "https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R"
+      },
+      "artists": [
+        {
+          "name": "Motion Worship",
+          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
+        }
+      ],
+      "duration_ms": 226568,
+      "name": "Freedom Wild",
+      "url": "https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Jesus Is The Key",
-        "url": "https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L"
-      },
-      "artists": [
-        {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
-        }
-      ],
-      "duration_ms": 389187,
-      "name": "Jesus Is The Key",
-      "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Through People Like Me",
         "url": "https://open.spotify.com/album/2PGA9JQPteU2VQFGiqmADr"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 194493,
       "name": "To Get To Me",
       "url": "https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Jesus Is The Key",
+        "url": "https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L"
+      },
+      "artists": [
+        {
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+        }
+      ],
+      "duration_ms": 389187,
+      "name": "Jesus Is The Key",
+      "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
     },
     {
       "added_at": "2021-12-31 06:28:29",

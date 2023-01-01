@@ -4,7 +4,7 @@
 
 > <a href="https://www.instagram.com/pxssypalace/?hl=en">Pxssy Palace</a> creates a safe space for queer womxn, trans, non\-binary and intersex people of colour with their London\-based club night\. This is their sound of Pride.
 
-56 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/513tfrlbDdecPO8RvqG20y)
+57 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/513tfrlbDdecPO8RvqG20y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Tight Up \(feat\. Red Rat\)](https://open.spotify.com/track/0rIZGjN9oQTyAwByKpeGBf) | [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO), [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Tight Up \(feat\. Red Rat\)](https://open.spotify.com/album/4atPUp52kt5lL8tKZcwFmx) | 3:21 | 2021-06-01 |  |
 | [U Up? \- AARRT REMIX](https://open.spotify.com/track/2v15GZ2UiU9mRNJfArgrEP) | [GLOR1A](https://open.spotify.com/artist/2Xf1wbdyd9UKB8TFt95LTK), [AARRT](https://open.spotify.com/artist/2TPkFt5zQibuoXjqVQolAD) | [OUT Remix](https://open.spotify.com/album/25w7dcHXmJsLq7hYX5utPr) | 4:15 | 2021-06-01 |  |
 | [UCKERS](https://open.spotify.com/track/1tZAEXxVr3W1XHPQZslOEI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [UCKERS](https://open.spotify.com/album/3WG0rNIPHZAaFyVm77bKaM) | 1:55 | 2021-06-01 |  |
-| [Venom](https://open.spotify.com/track/4WaaWczlVb1UJ24LILsR4C) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Venom](https://open.spotify.com/album/3h7qY0r0PNgNUS838NqgGv) | 2:34 | 2021-06-01 |  |
+| [Venom](https://open.spotify.com/track/2tHdQjwO5zN86MLF7ZtU1X) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:34 | 2021-06-01 |  |
+| [Venom](https://open.spotify.com/track/4WaaWczlVb1UJ24LILsR4C) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Venom](https://open.spotify.com/album/3h7qY0r0PNgNUS838NqgGv) | 2:34 | 2021-06-01 | 2023-01-01 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

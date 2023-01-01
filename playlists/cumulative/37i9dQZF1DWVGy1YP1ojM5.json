@@ -682,6 +682,24 @@
     },
     {
       "album": {
+        "name": "ELEVATION",
+        "url": "https://open.spotify.com/album/0S9DWXx2fextbZkqM9Xp5J"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224622,
+      "name": "Dirty",
+      "url": "https://open.spotify.com/track/0WVQchechJX4c0BXp8bHpv"
+    },
+    {
+      "album": {
         "name": "Based On A Feeling",
         "url": "https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2"
       },
@@ -1931,7 +1949,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 174306,
       "name": "PERSIAN RUGS",
       "url": "https://open.spotify.com/track/02UJ1sCanP94fS2MdsWafh"
@@ -2351,7 +2369,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 360493,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/3V5I90jseccXcK4MGC1gqr"
@@ -2609,7 +2627,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 200223,
       "name": "Too Deep",
       "url": "https://open.spotify.com/track/3uSSjnDMmoyERaAK9KvpJR"
@@ -2768,6 +2786,28 @@
     },
     {
       "album": {
+        "name": "Drunken Wordz Sober Thoughtz",
+        "url": "https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv"
+      },
+      "artists": [
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185753,
+      "name": "Wet Dreamz",
+      "url": "https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB"
+    },
+    {
+      "album": {
         "name": "Body (EP)",
         "url": "https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p"
       },
@@ -2855,7 +2895,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 212880,
       "name": "Wus Good / Curious",
       "url": "https://open.spotify.com/track/2ekdnv2xVIyAdG3ySoDDeY"

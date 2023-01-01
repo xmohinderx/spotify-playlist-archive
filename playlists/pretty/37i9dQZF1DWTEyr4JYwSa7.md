@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,166 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,163 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 91 | [Christmas Kisses](https://open.spotify.com/track/5LG0ZOxFnRrkib5uVzbBEi) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Christmas Kisses](https://open.spotify.com/album/1aMr2tXEiiY6VfR0JhLoxP) | 3:27 |
 | 92 | [Le bonhomme de neige](https://open.spotify.com/track/45IFGd75CJNQmkA5KZqhvf) | [Fernand Gignac](https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2) | [Noël en famille avec Fernand Gignac](https://open.spotify.com/album/0nk2eojsQE0RQ3RvfHAadZ) | 2:05 |
 | 93 | [L'enfant au tambour](https://open.spotify.com/track/4jtna43xiyQKSghOBwh0l8) | [Johanne Blouin](https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd) | [Sainte Nuit](https://open.spotify.com/album/3DCGt7eg6TFrAa5tVf9zja) | 2:54 |
-| 94 | [Noël c'est toi](https://open.spotify.com/track/4rG6whNnK2TY2OZ042G5XY) | [Marie Eve Janvier](https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch), [Jean\-François Breau](https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu) | [Noël à deux](https://open.spotify.com/album/0r6b4y7D20hyhozvOci7nv) | 3:23 |
-| 95 | [Fa La La](https://open.spotify.com/track/7CjvhcsLdCtR1CtLTLLd0f) | [Bündock](https://open.spotify.com/artist/7I7WZG8yRVDD5nTxDRUhFD) | [Joyeux Noël](https://open.spotify.com/album/2OlKZ24ZW2kOwZz4Xd3zio) | 2:16 |
+| 94 | [Fa La La](https://open.spotify.com/track/7CjvhcsLdCtR1CtLTLLd0f) | [Bündock](https://open.spotify.com/artist/7I7WZG8yRVDD5nTxDRUhFD) | [Joyeux Noël](https://open.spotify.com/album/2OlKZ24ZW2kOwZz4Xd3zio) | 2:16 |
+| 95 | [Noël c'est toi](https://open.spotify.com/track/4rG6whNnK2TY2OZ042G5XY) | [Marie Eve Janvier](https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch), [Jean\-François Breau](https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu) | [Noël à deux](https://open.spotify.com/album/0r6b4y7D20hyhozvOci7nv) | 3:23 |
 | 96 | [Noël tout blanc \- Décembre : le Noël de Québec Issime](https://open.spotify.com/track/4jnuZMjF2nvBWTdA3MtTbX) | [Québec Issime](https://open.spotify.com/artist/7gtD7XIKiUOORajXTt6bO7), [Marc\-André Fortin](https://open.spotify.com/artist/2DwEhYCcTcVbqoSFwaxuhI), [Alexandre Lapointe](https://open.spotify.com/artist/04mRH0TRHwKcPf5PxqJBfO), [Natalie Byrns](https://open.spotify.com/artist/3oztZVgQ27wNBMDttJskLO), [Les Enfants de Décembre](https://open.spotify.com/artist/4oPfByw3kxFBch8bD3cjAI) | [Noël tout blanc \(feat\. Marc\-André Fortin, Alexandre Lapointe, Natalie Byrns, Les Enfants de Décembre\) \[Décembre : le Noël de Québec Issime\]](https://open.spotify.com/album/1ZEK98TTUoRKnmMFYpF6wQ) | 3:09 |
-| 97 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
-| 98 | [Please Come Home For Christmas](https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Please Come Home For Christmas](https://open.spotify.com/album/12uSasNKEymdQOcsxGiWBr) | 2:59 |
+| 97 | [Please Come Home For Christmas](https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Please Come Home For Christmas](https://open.spotify.com/album/12uSasNKEymdQOcsxGiWBr) | 2:59 |
+| 98 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
 | 99 | [Noël à Jérusalem](https://open.spotify.com/track/1Plw3Q3u83XBDH6Z2uSt79) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Noël avec Jireh Gospel Choir](https://open.spotify.com/album/3nR7D8rkYHXIQG80R3EpFf) | 3:53 |
 | 100 | [À la fin décembre](https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV) | [Lydia&Sebastien](https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse) | [À la fin décembre](https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3) | 3:09 |
 
-Snapshot ID: `MTY3MTc1MTc0OCwwMDAwMDAwMDZjYzgwOWJmNzYxNTI5OTc0MjQ0YTAzNTYyZDJlZWM2`
+Snapshot ID: `MTY3MTc1MTc0OCwwMDAwMDAwMGYwMGVmZjUwNzZhYjIyYTlmZGY1MjZkNzYzYzUwMjRl`

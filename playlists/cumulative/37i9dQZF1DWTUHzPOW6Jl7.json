@@ -2295,10 +2295,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 202661,
       "name": "Not Nice",
       "url": "https://open.spotify.com/track/4STaHtfguDMkWbPEo6Fwcx"
+    },
+    {
+      "album": {
+        "name": "Love My 10's R&B",
+        "url": "https://open.spotify.com/album/40K3sTELcbfeib4OrPd2rw"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202661,
+      "name": "Not Nice",
+      "url": "https://open.spotify.com/track/4k45t4xh3k9JZ8qtqwGfyB"
     },
     {
       "album": {

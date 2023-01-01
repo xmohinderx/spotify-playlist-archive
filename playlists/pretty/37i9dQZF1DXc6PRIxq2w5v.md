@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,741 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,824 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 35 | [Chamada Perdida](https://open.spotify.com/track/7BmMRC47OA2nmrXWUbVnUD) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Chamada Perdida](https://open.spotify.com/album/7DZThcuPneAoEFfyk4As9O) | 2:38 |
 | 36 | [Não Se Trata de Mim](https://open.spotify.com/track/4rjuNb4lymltkPuQifQPK2) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb) | [Não Se Trata de Mim](https://open.spotify.com/album/5nQbJHAdRpGpuZLVBdnP3y) | 3:17 |
 | 37 | [Ele É Deus Em Mim](https://open.spotify.com/track/2VOh7QzZkz6PwPBPcK1Hr3) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Kivitz](https://open.spotify.com/artist/7sua8S5Zjhkru2Ma50lfHL) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 4:54 |
-| 38 | [Desilusões](https://open.spotify.com/track/1F4PqJexlZ6A92ZVUeaMc9) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Desilusões](https://open.spotify.com/album/5O7lHnbVs8HaS88T7ME2LB) | 2:30 |
-| 39 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
+| 38 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
+| 39 | [Desilusões](https://open.spotify.com/track/1F4PqJexlZ6A92ZVUeaMc9) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Desilusões](https://open.spotify.com/album/5O7lHnbVs8HaS88T7ME2LB) | 2:30 |
 | 40 | [Pedra](https://open.spotify.com/track/6sjh2JLz8A7x70M2LcVGWO) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Pedra](https://open.spotify.com/album/1PeuH7zChJkNCw4AL6zd9w) | 3:10 |
 | 41 | [Além](https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Notas de um Coração Amado](https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6) | 2:13 |
 | 42 | [Imersum](https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Imersum](https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ) | 2:50 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 64 | [Nome Sobre Todo Nome](https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Nome Sobre Todo Nome](https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj) | 2:13 |
 | 65 | [O Preço](https://open.spotify.com/track/75ElCpWWG587b1qVhW4uun) | [C\. Braga](https://open.spotify.com/artist/5vatyKN28NkojtJkfg9fTp), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [O Preço](https://open.spotify.com/album/4dpgxFCXibZZsHqZhc07yU) | 3:22 |
 | 66 | [Aliança](https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Fala pra eles que é o Felipin](https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB) | 2:59 |
-| 67 | [Vai Mudar](https://open.spotify.com/track/1q6OSrmIVmh5gOm7iGu2IJ) | [Fabão MC](https://open.spotify.com/artist/7brrQUJkLSTzfWltuszqDQ), [Isaque Music](https://open.spotify.com/artist/3GFM05r9qhxQZ4iYAS5MQe), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Vai Mudar](https://open.spotify.com/album/78s4csR8NETKObiZTMkvXJ) | 3:47 |
-| 68 | [Cheio do Espírito Santo](https://open.spotify.com/track/2yuM2qhkW13CVMPWW8c0jf) | [Cleiton santos oficial](https://open.spotify.com/artist/3LOINHULPooxh22mXKegOR), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Cheio do Espírito Santo](https://open.spotify.com/album/0iOqipP12CUEjs6kxcou3b) | 3:59 |
+| 67 | [Cheio do Espírito Santo](https://open.spotify.com/track/2yuM2qhkW13CVMPWW8c0jf) | [Cleiton santos oficial](https://open.spotify.com/artist/3LOINHULPooxh22mXKegOR), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Cheio do Espírito Santo](https://open.spotify.com/album/0iOqipP12CUEjs6kxcou3b) | 3:59 |
+| 68 | [Vai Mudar](https://open.spotify.com/track/1q6OSrmIVmh5gOm7iGu2IJ) | [Fabão MC](https://open.spotify.com/artist/7brrQUJkLSTzfWltuszqDQ), [Isaque Music](https://open.spotify.com/artist/3GFM05r9qhxQZ4iYAS5MQe), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Vai Mudar](https://open.spotify.com/album/78s4csR8NETKObiZTMkvXJ) | 3:47 |
 | 69 | [Palavras Tem Poder](https://open.spotify.com/track/1dUF1jMNL4deMXvQ32aMWO) | [BB Rocha](https://open.spotify.com/artist/0EZQjfQIj9nhFgTFYHvXCp) | [Palavras Tem Poder](https://open.spotify.com/album/2hytBe2NaIGE6pmBjxOJWh) | 1:45 |
 | 70 | [Vivo pela Fé](https://open.spotify.com/track/0TMDB1AaYHs9oPhIh3KRQR) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Kael](https://open.spotify.com/artist/2REBelsnF968ZaU1llcjiN), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Vivo pela Fé](https://open.spotify.com/album/7mII8uafIEJ5gzObNp2EZ3) | 2:17 |
 
-Snapshot ID: `MTY3MDU2Njk0MywwMDAwMDAwMGNiZDQ1YjFmZTcyOWRlZTk0Zjc2YWI2M2FmODdhMTc5`
+Snapshot ID: `MTY3MDU2Njk0MywwMDAwMDAwMGVmZjk3MDZjYzk4OTQ0MWVmNGQxOTgwMWQwMzM0NTZi`

@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Bettye LaVette",
-  "num_followers": 6248,
+  "num_followers": 6256,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGUwOTBhMTM3Y2IzNmU3NTc3MWE1NzRhZmVjZTk5NzBk",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGEyZjVhOTNmNDJiNjc2OTRlNGU5ODNmYTUxMjcyYTU1",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/64NtFAXA4Ko81zOpX5IYKA"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Man Of My Word",
-        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
-      },
-      "artists": [
-        {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
-        }
-      ],
-      "duration_ms": 252906,
-      "name": "It Ain't The Same Thing",
-      "url": "https://open.spotify.com/track/0t1AarE0wigd1nKtNJ6yng"
-    },
-    {
       "added_at": "2021-04-23 04:01:00",
       "album": {
         "name": "Fire It Up",
@@ -479,6 +463,22 @@
       "duration_ms": 222620,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/4eWh67wskXcVPXFdSSlrQS"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Man Of My Word",
+        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "duration_ms": 252906,
+      "name": "It Ain't The Same Thing",
+      "url": "https://open.spotify.com/track/0t1AarE0wigd1nKtNJ6yng"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Miss Lavelle",
+        "url": "https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB"
+      },
+      "artists": [
+        {
+          "name": "Lavelle White",
+          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "Yes, I've Been Crying",
+      "url": "https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Leaving Mood",
         "url": "https://open.spotify.com/album/4YBT9ZGhAe1vHUEEvt16kX"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 213920,
       "name": "Earnestine",
       "url": "https://open.spotify.com/track/7Jxp79DHtduKJ7YPo4lDaC"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Miss Lavelle",
-        "url": "https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB"
-      },
-      "artists": [
-        {
-          "name": "Lavelle White",
-          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "Yes, I've Been Crying",
-      "url": "https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues Keep Knockin'",
-        "url": "https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz"
+        "name": "I've Got My Own Hell To Raise",
+        "url": "https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC"
       },
       "artists": [
         {
-          "name": "Trudy Lynn",
-          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
         }
       ],
-      "duration_ms": 194933,
-      "name": "One Monkey Don't Stop No Show",
-      "url": "https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne"
+      "duration_ms": 206466,
+      "name": "On The Surface",
+      "url": "https://open.spotify.com/track/0qQTdGIA3YPcC1L3kaJpm4"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "I've Got My Own Hell To Raise",
-        "url": "https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC"
+        "name": "Blues Keep Knockin'",
+        "url": "https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz"
       },
       "artists": [
         {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+          "name": "Trudy Lynn",
+          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
         }
       ],
-      "duration_ms": 206466,
-      "name": "On The Surface",
-      "url": "https://open.spotify.com/track/0qQTdGIA3YPcC1L3kaJpm4"
+      "duration_ms": 194933,
+      "name": "One Monkey Don't Stop No Show",
+      "url": "https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Sitting on Top of the Blues",
-        "url": "https://open.spotify.com/album/2Kf9UPahXKB2vrPUcw7M10"
+        "name": "Hit That Thing",
+        "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
       },
       "artists": [
         {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+          "name": "Bobby Wayne",
+          "url": "https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA"
         }
       ],
-      "duration_ms": 243044,
-      "name": "You Got the Goods on You",
-      "url": "https://open.spotify.com/track/5ad6BP0tSKEHMC2fOStbdj"
+      "duration_ms": 437360,
+      "name": "Whisper Away",
+      "url": "https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -807,18 +807,38 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hit That Thing",
-        "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
+        "name": "Sitting on Top of the Blues",
+        "url": "https://open.spotify.com/album/2Kf9UPahXKB2vrPUcw7M10"
       },
       "artists": [
         {
-          "name": "Bobby Wayne",
-          "url": "https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA"
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
         }
       ],
-      "duration_ms": 437360,
-      "name": "Whisper Away",
-      "url": "https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX"
+      "duration_ms": 243044,
+      "name": "You Got the Goods on You",
+      "url": "https://open.spotify.com/track/5ad6BP0tSKEHMC2fOStbdj"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "This Time For Real",
+        "url": "https://open.spotify.com/album/749QhTw8T5oHNNZ3MigsLQ"
+      },
+      "artists": [
+        {
+          "name": "Billy Price",
+          "url": "https://open.spotify.com/artist/509o7Fm0youPHjgcq5nCRI"
+        },
+        {
+          "name": "Otis Clay",
+          "url": "https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Going to the Shack",
+      "url": "https://open.spotify.com/track/7Edg1SdyEws5DfX5FEkME2"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -855,26 +875,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "This Time For Real",
-        "url": "https://open.spotify.com/album/749QhTw8T5oHNNZ3MigsLQ"
-      },
-      "artists": [
-        {
-          "name": "Billy Price",
-          "url": "https://open.spotify.com/artist/509o7Fm0youPHjgcq5nCRI"
-        },
-        {
-          "name": "Otis Clay",
-          "url": "https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Going to the Shack",
-      "url": "https://open.spotify.com/track/7Edg1SdyEws5DfX5FEkME2"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Talkin' About Chicago",
         "url": "https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 271426,
       "name": "Sweet Dynamite!",
       "url": "https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Black Market",
-        "url": "https://open.spotify.com/album/1dkyqTdqIGnNc9etO4EroD"
-      },
-      "artists": [
-        {
-          "name": "Ellis Hooks",
-          "url": "https://open.spotify.com/artist/34kbTdkDg4bV3RbJ4sf9ru"
-        }
-      ],
-      "duration_ms": 196493,
-      "name": "You Push Me to My Limit",
-      "url": "https://open.spotify.com/track/30FExzMY0ImrM8Rt80b4jF"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -923,18 +907,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Right On Time!",
-        "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
+        "name": "Black Market",
+        "url": "https://open.spotify.com/album/1dkyqTdqIGnNc9etO4EroD"
       },
       "artists": [
         {
-          "name": "Little Buster & the Soul Brothers",
-          "url": "https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs"
+          "name": "Ellis Hooks",
+          "url": "https://open.spotify.com/artist/34kbTdkDg4bV3RbJ4sf9ru"
         }
       ],
-      "duration_ms": 256466,
-      "name": "Engines And Wings",
-      "url": "https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl"
+      "duration_ms": 196493,
+      "name": "You Push Me to My Limit",
+      "url": "https://open.spotify.com/track/30FExzMY0ImrM8Rt80b4jF"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -987,6 +971,22 @@
       "duration_ms": 320666,
       "name": "On The Drift",
       "url": "https://open.spotify.com/track/5IlAb89iBEgBzd27yyQLOX"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Right On Time!",
+        "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
+      },
+      "artists": [
+        {
+          "name": "Little Buster & the Soul Brothers",
+          "url": "https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Engines And Wings",
+      "url": "https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl"
     }
   ],
   "unique_name": "Soul Blues",

@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1524272,
+  "num_followers": 1525180,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4NTI3NywwMDAwMDAwMGFhNjQxYjhhMzRkMzVjYWFjNDVkMjdiY2JlNzdmMDM1",
+  "snapshot_id": "MTY2OTM4NTI3NywwMDAwMDAwMDdkMzkwYmI4NjkwOTA5NmI4YTViNDE1ZTBhYmQ1MTRk",
   "tracks": [
     {
       "added_at": "2022-11-17 09:29:18",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+        "name": "Make Yourself",
+        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
       "artists": [
         {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
         }
       ],
-      "duration_ms": 223893,
-      "name": "7 Words",
-      "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
+      "duration_ms": 223746,
+      "name": "Pardon Me",
+      "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
-        "name": "Make Yourself",
-        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
       "artists": [
         {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 223746,
-      "name": "Pardon Me",
-      "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
+      "duration_ms": 223893,
+      "name": "7 Words",
+      "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
-        "name": "Godsmack",
-        "url": "https://open.spotify.com/album/1w7vC8hjYXhK1fS5cM2fUM"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/6PHn6aXuM2FkzonGWJxY28"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
         "name": "Two",
         "url": "https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 213000,
       "name": "Wait",
       "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
+        "name": "Godsmack",
+        "url": "https://open.spotify.com/album/1w7vC8hjYXhK1fS5cM2fUM"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/6PHn6aXuM2FkzonGWJxY28"
     },
     {
       "added_at": "2022-11-17 09:29:18",

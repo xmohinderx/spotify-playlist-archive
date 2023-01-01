@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 
 > That fuzzy, noisy punk\-blues hybrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,287 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,301 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 25 | [Thunderbird ESQ](https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 2:18 |
 | 26 | [Like That](https://open.spotify.com/track/0MqI4KwV5TMSO6rIhe2f3w) | [Mr\. Airplane Man](https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP) | [Moanin'](https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7) | 3:08 |
 | 27 | [Promise Me \- Remastered 2020](https://open.spotify.com/track/620oK7tMifgGBddA6gsGli) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love \(Remastered 2020\)](https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu) | 2:37 |
-| 28 | [Do the Milkshake](https://open.spotify.com/track/0NlwS6WOV4gfDRXTFBGNlR) | [Oblivians](https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi) | [Popular Favorites](https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M) | 5:19 |
-| 29 | [Rock & Roll Nurse](https://open.spotify.com/track/4LSmyBPIS2d9vGjsI9omRn) | [Compulsive Gamblers](https://open.spotify.com/artist/2aSQWCI5yCT8lHd7Mf9irY) | [Crystal Gazing Luck Amazing](https://open.spotify.com/album/09WsnxNzAYqmMhqcIshVZP) | 4:10 |
+| 28 | [Rock & Roll Nurse](https://open.spotify.com/track/4LSmyBPIS2d9vGjsI9omRn) | [Compulsive Gamblers](https://open.spotify.com/artist/2aSQWCI5yCT8lHd7Mf9irY) | [Crystal Gazing Luck Amazing](https://open.spotify.com/album/09WsnxNzAYqmMhqcIshVZP) | 4:10 |
+| 29 | [Do the Milkshake](https://open.spotify.com/track/0NlwS6WOV4gfDRXTFBGNlR) | [Oblivians](https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi) | [Popular Favorites](https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M) | 5:19 |
 | 30 | [Sweat](https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Orange](https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH) | 3:06 |
 | 31 | [Early in the Morning](https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 2:40 |
 | 32 | [When You Touch Me](https://open.spotify.com/track/6QfyJdy9eO3WiAL65VQP8D) | [Reigning Sound](https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t) | [Too Much Guitar](https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 49 | [\(Sometimes You Got to Be\) Gentle](https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Midnight Soul Serenade](https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS) | 3:27 |
 | 50 | [Preaching the Blues](https://open.spotify.com/track/4qZrZqBRq0tAKJ3wE3Az3A) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love](https://open.spotify.com/album/3OrGW7wRB8dIZ8EYrAkkWW) | 3:59 |
 
-Snapshot ID: `MTY0ODQ5ODQ5OCwwMDAwMDAwMDdmNDljZTk0MWMyYTlmYTU2OGIwYTllYWQ2YWJjNTkw`
+Snapshot ID: `MTY0ODQ5ODQ5OCwwMDAwMDAwMDFkNWE4Y2ZmMmU5YTFiZGE2ODZkNTk5NTU0YmIwY2I2`

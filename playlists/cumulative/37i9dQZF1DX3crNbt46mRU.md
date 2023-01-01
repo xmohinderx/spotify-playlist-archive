@@ -4,7 +4,7 @@
 
 > This week's top new releases.
 
-4,671 songs - 9 day 22 hr 18 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+4,672 songs - 9 day 22 hr 21 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4596,6 +4596,7 @@
 | [XTINA](https://open.spotify.com/track/5zythbdfvVlhqEvvmFRQay) | [GINI](https://open.spotify.com/artist/6TBAZHXDXBywvVgYyQ8aCQ) | [XTINA](https://open.spotify.com/album/1HaPQRPeKFrZD6oS0iVyUY) | 2:59 | 2022-05-05 | 2022-05-13 |
 | [Xundheit](https://open.spotify.com/track/00fiYUHIrKOSIOauDjSnml) | [LCone](https://open.spotify.com/artist/10fua9lLREs5JISPcCyyJn), [Jule X](https://open.spotify.com/artist/1TSeKOGQXY1ERc745kFTJ0) | [EPone 2](https://open.spotify.com/album/5ooO6Ea3R8B1aGA7KXXFvi) | 2:27 | 2022-09-29 | 2022-10-07 |
 | [YA ALBI](https://open.spotify.com/track/64HBlqzGR00SiYIK1iYVux) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [YA ALBI](https://open.spotify.com/album/4vrAe01SrULmWUutTrROVl) | 2:27 | 2022-08-12 | 2022-08-19 |
+| [Yeah Hoe](https://open.spotify.com/track/6AH6xjU0eeQBD6v7ERqY7V) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Yeah Hoe](https://open.spotify.com/album/5KZ9tODFrHk8rKKj5sYpCt) | 2:44 | 2022-12-29 |  |
 | [Years](https://open.spotify.com/track/50FG4fd4Unx6OswxEwHmFX) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Identity Crisis](https://open.spotify.com/album/2wbMJYLxgXALMVJWy7m98T) | 2:56 | 2022-05-05 | 2022-05-13 |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-10 | 2022-06-17 |
 | [Yo Por Ti](https://open.spotify.com/track/31K3OZBhZqnulRkp7QsQPt) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sofía Martín](https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus) | [Yo Por Ti](https://open.spotify.com/album/7aEWCJNQbxmJTNF5VSUvIO) | 2:32 | 2022-06-16 | 2022-06-24 |

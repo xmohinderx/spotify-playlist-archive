@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 43313,
+  "num_followers": 43349,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDQ2OTVjYmZlMmI4MDZjMjM2ZTlmMmYwNjU4MWIxOGNj",
+  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDg4ZDNhYmNhMWNlMTdjMGI5NWJiMDllNzVmMDA1MTVk",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -347,22 +347,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 270773,
-      "name": "Who's That Lady",
-      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Just Chillin'",
         "url": "https://open.spotify.com/album/7K2ByqRePgiW7yQAE3dsjt"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 239333,
       "name": "I Still Believe",
       "url": "https://open.spotify.com/track/6dcNq7ZdQMG5ucQeuTZcWd"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 270773,
+      "name": "Who's That Lady",
+      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -535,22 +535,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 238293,
-      "name": "Night Rider",
-      "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "The Sax Pack",
         "url": "https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Keepin' It Real",
-        "url": "https://open.spotify.com/album/1oEzGC5KIwVQ5Zic2EqiTW"
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF"
       },
       "artists": [
         {
-          "name": "Joe McBride",
-          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
         }
       ],
-      "duration_ms": 301693,
-      "name": "Keepin' It Real",
-      "url": "https://open.spotify.com/track/6tvzrHd7zWzSV93jIG0r4R"
+      "duration_ms": 238293,
+      "name": "Night Rider",
+      "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -595,6 +579,22 @@
       "duration_ms": 251960,
       "name": "In the Moment",
       "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Keepin' It Real",
+        "url": "https://open.spotify.com/album/1oEzGC5KIwVQ5Zic2EqiTW"
+      },
+      "artists": [
+        {
+          "name": "Joe McBride",
+          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
+        }
+      ],
+      "duration_ms": 301693,
+      "name": "Keepin' It Real",
+      "url": "https://open.spotify.com/track/6tvzrHd7zWzSV93jIG0r4R"
     },
     {
       "added_at": "2020-08-19 19:15:51",

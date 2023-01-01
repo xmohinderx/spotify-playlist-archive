@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-490 songs - 1 day 4 hr 27 min - [published](https://open.spotify.com/playlist/5aOC3Wi6MSjtqKeAIF8G0z)
+491 songs - 1 day 4 hr 30 min - [published](https://open.spotify.com/playlist/5aOC3Wi6MSjtqKeAIF8G0z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [All Good](https://open.spotify.com/track/32pVxiyqfsKKoZMEyF9WDn) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [All Good](https://open.spotify.com/album/7riCFI1z2nb9zmHGOnIpqb) | 2:32 | 2021-08-04 | 2022-09-03 |
 | [All Loved Out](https://open.spotify.com/track/2OfE3gVO974f6Vm9wqltl9) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [All Loved Out](https://open.spotify.com/album/4oIPuDWO9l0MhjZKQJfeEm) | 3:36 | 2022-03-11 | 2022-07-29 |
 | [All of It, Again](https://open.spotify.com/track/0OdzIwQTj4BRGaQ7yfvJ6i) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [All of It, Again](https://open.spotify.com/album/5VQjDyJ416TBS2g8ESxZAI) | 4:03 | 2022-03-18 | 2022-04-20 |
-| [All That's Left Of Me Is You](https://open.spotify.com/track/22ms1Z1Vjd89qpZsNGJvB8) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Theo Katzman](https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya) | [All That's Left Of Me Is You](https://open.spotify.com/album/52qyhBBYQadIVGztGAhge9) | 2:52 | 2022-12-16 |  |
+| [All That's Left Of Me Is You](https://open.spotify.com/track/22ms1Z1Vjd89qpZsNGJvB8) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Theo Katzman](https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya) | [All That's Left Of Me Is You](https://open.spotify.com/album/52qyhBBYQadIVGztGAhge9) | 2:52 | 2022-12-16 | 2023-01-01 |
+| [All That’s Left of Me Is You](https://open.spotify.com/track/54Aa3U7MwohGZz56LMi0Ng) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Theo Katzman](https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:52 | 2022-12-16 |  |
 | [All the Debts I Owe](https://open.spotify.com/track/6255IIBwKySv6RYrOeHfQh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/4bYZ9xpRDgpOn6qUWLngTr) | 3:13 | 2021-08-04 | 2022-03-28 |
 | [All The Way Over](https://open.spotify.com/track/0AGAaQYL0QtGqQCEvHnqZx) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [All The Way Over](https://open.spotify.com/album/4zzRDfFoxSdriNk7cBAE20) | 3:08 | 2022-11-04 |  |
 | [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 | 2021-08-04 | 2022-09-03 |
@@ -279,7 +280,7 @@
 | [Look Over My Shoulder](https://open.spotify.com/track/5pVX2A5DLqQfNrpUdRw306) | [Karen Elson](https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k) | [Green](https://open.spotify.com/album/7xQTGR29x2BzB1zYniXIan) | 2:26 | 2022-05-04 | 2022-05-07 |
 | [Love Affair](https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5) | 3:10 | 2021-08-05 | 2022-09-03 |
 | [Love is a Liar](https://open.spotify.com/track/1uMX5OUtpvy8eBALNQpw5x) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Love is a Liar](https://open.spotify.com/album/7c0crwrrBQxu6Y7hCvPhs0) | 3:01 | 2022-08-12 | 2022-08-20 |
-| [Love Me Like That](https://open.spotify.com/track/4iAIwW9LIaRc0elSN0EX5Z) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Love Me Like That](https://open.spotify.com/album/5IXVmq7591VkI4Yy4xw33g) | 2:19 | 2022-12-09 | 2022-12-17 |
+| [Love Me Like That](https://open.spotify.com/track/4iAIwW9LIaRc0elSN0EX5Z) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Love Me Like That](https://open.spotify.com/album/5IXVmq7591VkI4Yy4xw33g) | 2:19 | 2022-12-09 |  |
 | [Love on the Weekend](https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:32 | 2021-08-04 | 2022-04-02 |
 | [Lovesick](https://open.spotify.com/track/5op34xwSJ2jKWq2nbDPFVn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Off The Ground](https://open.spotify.com/album/6JVabF7u0lubMct7BDUCRT) | 4:35 | 2022-09-02 | 2022-09-10 |
 | [Lovesong](https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lovesong](https://open.spotify.com/album/6grV1LAfe5fUZ04vSexZtb) | 4:05 | 2022-05-27 | 2022-06-04 |
@@ -463,7 +464,7 @@
 | [We'll Be Alright](https://open.spotify.com/track/6klNPAhUTmsYNlWbOyVbsy) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [We’ll Be Alright](https://open.spotify.com/album/7kpo8rHIFoa15JMwzxBDdf) | 3:53 | 2021-08-04 | 2022-05-21 |
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-05-20 |  |
 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 | 2022-05-06 | 2022-10-15 |
-| [What A Convincing Illusion](https://open.spotify.com/track/0xErGPogrWKGjWI1bEMLaV) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Golden Age](https://open.spotify.com/album/1UlArx9Z3TTgNGwOQ2yubC) | 3:17 | 2022-08-12 |  |
+| [What A Convincing Illusion](https://open.spotify.com/track/0xErGPogrWKGjWI1bEMLaV) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Golden Age](https://open.spotify.com/album/1UlArx9Z3TTgNGwOQ2yubC) | 3:17 | 2022-08-12 | 2023-01-01 |
 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 | 2022-10-22 |
 | [What Does Sorry Mean](https://open.spotify.com/track/0hRCg9wtCKF0NhTrogZ6qF) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [What Does Sorry Mean](https://open.spotify.com/album/1fH8s1jiVXfxVB9WkdzzXf) | 3:01 | 2022-09-09 | 2022-09-17 |
 | [What I Get for Loving You](https://open.spotify.com/track/1Yp36OdGRGxo5FOGvKrNFd) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [What I Get for Loving You](https://open.spotify.com/album/5rDXynhwvYoIHdqoTmcQRC) | 3:04 | 2022-08-05 | 2022-09-10 |

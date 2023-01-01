@@ -4,7 +4,7 @@
 
 > 100% British \- 100% R&B\. Cover: Pip Millett
 
-65 songs - 3 hr 42 min - not published yet
+66 songs - 3 hr 44 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [On God!](https://open.spotify.com/track/3AcH92WhF4cBsbUvoDgu30) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Fool Me Once](https://open.spotify.com/album/15moNc4Pg5E1qXrXHM2WNl) | 3:21 | 2022-07-17 |  |
 | [Over You](https://open.spotify.com/track/1Ndba1dqYEiS2KvIG9M2Fr) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Access Denied](https://open.spotify.com/album/2iX0UveETkU2Xe1H0Pt9Tv) | 3:12 | 2022-07-17 |  |
 | [Paper Thin](https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:58 | 2022-07-17 |  |
+| [Pressure](https://open.spotify.com/track/4DixBDzCcjzWHICnRw4FGy) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Pressure](https://open.spotify.com/album/0rs6VQv68DHwRGCkN1DlPO) | 2:38 | 2022-07-17 |  |
 | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm) | 3:26 | 2022-07-17 |  |
 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 | 2022-07-17 |  |
 | [Serial](https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Serial](https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2) | 3:47 | 2022-07-17 |  |
@@ -63,7 +64,7 @@
 | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/track/6jeP9JMozdxrVzvVXp6FKj) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:25 | 2022-07-17 |  |
 | [Strange How Good Things Change](https://open.spotify.com/track/0zS1iD37gmxzffMH11vqf7) | [Elli Ingram](https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB) | [Strange How Good Things Change](https://open.spotify.com/album/431GIE38nppu1zGX5EXJUj) | 3:21 | 2022-07-17 |  |
 | [Stupid People](https://open.spotify.com/track/5g80aGSWaxJJk9DhAQvthJ) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Stupid People](https://open.spotify.com/album/4wb5WR7sbsDkDJ8hlefgGG) | 3:09 | 2022-07-17 |  |
-| [Summer In December](https://open.spotify.com/track/7GSUwQm6X7KbQq7hvdJyXB) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Summer In December](https://open.spotify.com/album/0xKdmcCJcz5ByeOvRedaQO) | 2:57 | 2022-07-17 |  |
+| [Summer In December](https://open.spotify.com/track/7GSUwQm6X7KbQq7hvdJyXB) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Summer In December](https://open.spotify.com/album/0xKdmcCJcz5ByeOvRedaQO) | 2:57 | 2022-07-17 | 2023-01-01 |
 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 | 2022-07-17 |  |
 | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA) | 2:52 | 2022-07-17 |  |
 | [The Good](https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:29 | 2022-07-17 |  |

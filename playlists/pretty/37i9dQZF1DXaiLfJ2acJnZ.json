@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 35864,
+  "num_followers": 35876,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMGRkNWIwOWI2NjlmOGM5MWIyNDU4YjFjZmFhZTg5ZDcw",
+  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMGQxOTljOWI3ODhkMWI5ZGVhYTY4NGU0MjNhMTRmY2Vj",
   "tracks": [
     {
       "added_at": "2022-10-28 20:58:08",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "duration_ms": 164202,
+      "name": "imagine",
+      "url": "https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
         "url": "https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 213571,
       "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
       "url": "https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP"
-      },
-      "artists": [
-        {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        }
-      ],
-      "duration_ms": 164202,
-      "name": "imagine",
-      "url": "https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Sister Ray",
-        "url": "https://open.spotify.com/album/1hvYAoC2BdhbvLwj0EIADJ"
-      },
-      "artists": [
-        {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
-        }
-      ],
-      "duration_ms": 219865,
-      "name": "Sister Ray",
-      "url": "https://open.spotify.com/track/3sl0kzHFwrFESmiqB9yqfO"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Never Get It Right",
         "url": "https://open.spotify.com/album/2Mm9b3ZroxmIaDgEZybjhe"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 200626,
       "name": "Never Get It Right",
       "url": "https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Sister Ray",
+        "url": "https://open.spotify.com/album/1hvYAoC2BdhbvLwj0EIADJ"
+      },
+      "artists": [
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+        }
+      ],
+      "duration_ms": 219865,
+      "name": "Sister Ray",
+      "url": "https://open.spotify.com/track/3sl0kzHFwrFESmiqB9yqfO"
     },
     {
       "added_at": "2022-10-28 20:58:08",

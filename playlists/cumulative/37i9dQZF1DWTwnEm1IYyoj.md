@@ -2,7 +2,7 @@
 
 ### [Soft Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DWTwnEm1IYyoj)
 
-> Listen to easy songs from your favorite artists! Cover: John Legend
+> Warm familiar pop you know and love\. Cover: John Legend
 
 366 songs - 22 hr 51 min - [published](https://open.spotify.com/playlist/7Bn49z5p4CqoX5mpg2CICH)
 

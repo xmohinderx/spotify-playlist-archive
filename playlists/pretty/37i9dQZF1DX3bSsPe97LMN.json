@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Michelle BI en portada.",
-  "num_followers": 47265,
+  "num_followers": 47287,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3NTIwMCwwMDAwMDAwMGQzMWRlOTgwMjQwZWQ3NjkzZjYxNmE0MTZjY2FmYzYy",
+  "snapshot_id": "MTY3MTc3NTIwMCwwMDAwMDAwMGQzNWY3ZGI2ZTVkZTRhZmQ0NTFiMjdlN2I3MDUxMjRk",
   "tracks": [
     {
       "added_at": "2022-12-23 06:00:00",
@@ -133,6 +133,22 @@
       "url": "https://open.spotify.com/track/5KvVBN8WLI8RRy4iryZnMg"
     },
     {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Eres Ese Algo",
+      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
+    },
+    {
       "added_at": "2022-12-02 06:00:00",
       "album": {
         "name": "Malas Rachas (En Vivo)",
@@ -153,22 +169,6 @@
       "url": "https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp"
     },
     {
-      "added_at": "2022-12-02 06:00:00",
-      "album": {
-        "name": "El Black",
-        "url": "https://open.spotify.com/album/5y7iiFh7t47TaaKYKU8pNQ"
-      },
-      "artists": [
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        }
-      ],
-      "duration_ms": 206161,
-      "name": "El Black",
-      "url": "https://open.spotify.com/track/3QjGwE4y7QyF5xYEHfcYtU"
-    },
-    {
       "added_at": "2022-12-23 06:00:00",
       "album": {
         "name": "En Vivo",
@@ -185,20 +185,20 @@
       "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
     },
     {
-      "added_at": "2022-12-23 06:00:00",
+      "added_at": "2022-12-02 06:00:00",
       "album": {
-        "name": "Al Derecho Y Al Reverso",
-        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+        "name": "El Black",
+        "url": "https://open.spotify.com/album/5y7iiFh7t47TaaKYKU8pNQ"
       },
       "artists": [
         {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
         }
       ],
-      "duration_ms": 173586,
-      "name": "Eres Ese Algo",
-      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
+      "duration_ms": 206161,
+      "name": "El Black",
+      "url": "https://open.spotify.com/track/3QjGwE4y7QyF5xYEHfcYtU"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw"
     },
     {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "Por Ti - Spotify Singles",
-        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Por Ti - Spotify Singles",
-      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
-    },
-    {
       "added_at": "2022-12-09 06:00:00",
       "album": {
         "name": "Cumbias Light, Vol. 1 (En Vivo)",
@@ -471,6 +455,22 @@
       "duration_ms": 162389,
       "name": "5 Estrellas - En Vivo",
       "url": "https://open.spotify.com/track/3JoFfvjusTX1Bh29gJHQi9"
+    },
+    {
+      "added_at": "2022-11-18 06:00:00",
+      "album": {
+        "name": "Por Ti - Spotify Singles",
+        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Por Ti - Spotify Singles",
+      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
     },
     {
-      "added_at": "2022-12-02 06:00:00",
-      "album": {
-        "name": "Nivelado",
-        "url": "https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF"
-      },
-      "artists": [
-        {
-          "name": "Nivel Codiciado",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 248117,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/1tCJPawEVGoqJJqAKGHKC1"
-    },
-    {
       "added_at": "2022-11-11 06:00:00",
       "album": {
         "name": "Sigo De Pie (En Vivo)",
@@ -799,6 +783,22 @@
       "duration_ms": 200187,
       "name": "Sigo De Pie (En Vivo)",
       "url": "https://open.spotify.com/track/6pfeP7bnHMVECOWiAR12n3"
+    },
+    {
+      "added_at": "2022-12-02 06:00:00",
+      "album": {
+        "name": "Nivelado",
+        "url": "https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF"
+      },
+      "artists": [
+        {
+          "name": "Nivel Codiciado",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 248117,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/1tCJPawEVGoqJJqAKGHKC1"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -905,10 +905,10 @@
       "url": "https://open.spotify.com/track/0YkJpBbsTm7oY7jfqrFZ6A"
     },
     {
-      "added_at": "2022-12-05 23:10:14",
+      "added_at": "2022-12-23 06:00:00",
       "album": {
-        "name": "Se Alborotaron Los Guachos",
-        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
+        "name": "El Flaco",
+        "url": "https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
         }
       ],
-      "duration_ms": 164022,
-      "name": "Se Alborotaron Los Guachos - En Vivo",
-      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
+      "duration_ms": 147957,
+      "name": "El Flaco",
+      "url": "https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -1005,10 +1005,10 @@
       "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
     },
     {
-      "added_at": "2022-12-23 06:00:00",
+      "added_at": "2022-12-05 23:10:14",
       "album": {
-        "name": "El Flaco",
-        "url": "https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd"
+        "name": "Se Alborotaron Los Guachos",
+        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
       },
       "artists": [
         {
@@ -1016,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
         }
       ],
-      "duration_ms": 147957,
-      "name": "El Flaco",
-      "url": "https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q"
+      "duration_ms": 164022,
+      "name": "Se Alborotaron Los Guachos - En Vivo",
+      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-12-09 06:00:00",
       "album": {
-        "name": "En Cada Trago",
-        "url": "https://open.spotify.com/album/49t2X1qvhPB5BthXTg6ujN"
-      },
-      "artists": [
-        {
-          "name": "Bajo Perfil",
-          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
-        }
-      ],
-      "duration_ms": 172645,
-      "name": "En Cada Trago",
-      "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
-    },
-    {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
         "name": "No Hay Pedo Hay Peda",
         "url": "https://open.spotify.com/album/1LCAjw1LW3nWqJmgPR8JqT"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 240000,
       "name": "No Hay Pedo Hay Peda",
       "url": "https://open.spotify.com/track/76ZtbyTDsdwMkIjvz1Z2sX"
+    },
+    {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "En Cada Trago",
+        "url": "https://open.spotify.com/album/49t2X1qvhPB5BthXTg6ujN"
+      },
+      "artists": [
+        {
+          "name": "Bajo Perfil",
+          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
+        }
+      ],
+      "duration_ms": 172645,
+      "name": "En Cada Trago",
+      "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
     },
     {
       "added_at": "2022-09-23 19:34:49",

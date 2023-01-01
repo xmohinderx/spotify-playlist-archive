@@ -4,7 +4,7 @@
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-199 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/1UgxtLr4GKJDtfVaD2Kqru)
+200 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/1UgxtLr4GKJDtfVaD2Kqru)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,8 @@
 | [What A Lie](https://open.spotify.com/track/1VI7GQmBBgdslV3tQRvsRD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [What A Lie](https://open.spotify.com/album/3YYUucEXwtTJC0FWcpqrB4) | 3:48 | 2022-04-22 | 2022-06-18 |
 | [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/2rXEvLUrJergtH0iQnyr29) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/album/5soGYnfqSGI3S1vOHDG9xe) | 3:08 | 2022-02-25 | 2022-05-22 |
 | [What Would You Do? \(R&B Remix\)](https://open.spotify.com/track/5caYUeSUoPB6nEcuOjVyXm) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [What Would You Do? \(R&B Remix\)](https://open.spotify.com/album/4wDXA7ivD2je1xRuP4hKgp) | 2:35 | 2022-05-06 | 2022-05-14 |
-| [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/track/2HI6OFcMNUyS0IEwp4hffV) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/album/38mJ5vtciV1TV9xrD1qy4L) | 3:39 | 2022-09-30 |  |
+| [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/track/2HI6OFcMNUyS0IEwp4hffV) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/album/38mJ5vtciV1TV9xrD1qy4L) | 3:39 | 2022-09-30 | 2023-01-01 |
+| [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:39 | 2022-12-30 |  |
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-03-18 |  |
 | [What’s Yo Phone Number / Telephone \- Medley / Ghost Of Screw Mix](https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:10 | 2022-02-25 |  |
 | [Yamz](https://open.spotify.com/track/0IQ3KOas5wGRregqoMb9HF) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Yamz](https://open.spotify.com/album/5BICne3tfhmbtGhJ01vgyJ) | 4:05 | 2022-02-25 | 2022-03-26 |

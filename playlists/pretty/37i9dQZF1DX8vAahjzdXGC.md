@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: ATEEZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,908 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,915 likes - 55 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 32 | [wait.](https://open.spotify.com/track/78Th4cT1tR277M7iiQmv7b) | [Icebox](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [nateli](https://open.spotify.com/artist/1DCZyNPLSPO7adhzk388oS) | [wait.](https://open.spotify.com/album/5CxHl5N0JJsYazJAc7MDAq) | 3:20 |
 | 33 | [Buddy](https://open.spotify.com/track/5GZp8q9eZ9qn0TSwAayT1o) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Buddy](https://open.spotify.com/album/6FKcmAZd12976GvGnPIyMS) | 1:57 |
 | 34 | [Torpedo](https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Torpedo](https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t) | 4:00 |
-| 35 | [Modest](https://open.spotify.com/track/7MXChMwOQfLuF5Ma5nFDaO) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [why not us](https://open.spotify.com/album/4Ivk5W6s5LtR5klO5u98Ry) | 3:02 |
+| 35 | [Modest](https://open.spotify.com/track/7MXChMwOQfLuF5Ma5nFDaO) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu), [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG) | [why not us?](https://open.spotify.com/album/4Ivk5W6s5LtR5klO5u98Ry) | 3:02 |
 | 36 | [Romantic Pt\. II](https://open.spotify.com/track/1GM7j1nwUstl4cNoiYZOsg) | [ZUHAIR](https://open.spotify.com/artist/3uaX4vj7m3bkWhcY9xooJ6), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Romantic Pt\. II](https://open.spotify.com/album/4sj9tPkP7qKwKzaxRdaOKz) | 2:42 |
 | 37 | [I Wanna Be with You](https://open.spotify.com/track/48UdFbDtRRYSvk0L8GCZyC) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [I Wanna Be with You](https://open.spotify.com/album/7ATki1nJUJkaG7rpnVBJJy) | 3:02 |
 | 38 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 3:53 |

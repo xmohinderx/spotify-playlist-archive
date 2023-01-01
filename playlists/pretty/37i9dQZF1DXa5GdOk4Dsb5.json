@@ -1,12 +1,12 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 80536,
+  "num_followers": 80724,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNTgzNiwwMDAwMDAwMDQ0ZGVmZmE3OWEzOGY4ZGY0ZjFhYjc1NTg1NDEwMzQ4",
+  "snapshot_id": "MTY3MjQyNTgzNiwwMDAwMDAwMGFmZDVkZDgzZDRhNTliNmZhYjk3OTdiY2QyZDY5ODE0",
   "tracks": [
     {
       "added_at": "2022-12-30 18:43:56",
@@ -135,6 +135,22 @@
     {
       "added_at": "2022-12-30 18:43:56",
       "album": {
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
+    },
+    {
+      "added_at": "2022-12-30 18:43:56",
+      "album": {
         "name": "Solita (En Vivo)",
         "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 186360,
       "name": "El Precio De La Soledad",
       "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
-    },
-    {
-      "added_at": "2022-12-30 18:43:56",
-      "album": {
-        "name": "No Se Va (En Vivo)",
-        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va - En Vivo",
-      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
       "added_at": "2022-12-30 18:43:56",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2022-12-30 18:43:56",
       "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 180165,
+      "name": "Muri\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n"
+    },
+    {
+      "added_at": "2022-12-30 18:43:56",
+      "album": {
         "name": "Usted No Me Olvida (Remix)",
         "url": "https://open.spotify.com/album/0HqOs4dPfChJGiUSxxGiex"
       },
@@ -1495,38 +1511,6 @@
     {
       "added_at": "2022-12-30 18:43:56",
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 180165,
-      "name": "Muri\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n"
-    },
-    {
-      "added_at": "2022-12-30 18:43:56",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/1cmMx3igYIJLCYC1Wk8iwl"
-      },
-      "artists": [
-        {
-          "name": "Fernando Burbano",
-          "url": "https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6"
-        }
-      ],
-      "duration_ms": 211539,
-      "name": "Ahora Que Puedo",
-      "url": "https://open.spotify.com/track/6w9WA6rcQWqB7eNqzPDa9n"
-    },
-    {
-      "added_at": "2022-12-30 18:43:56",
-      "album": {
         "name": "Lo Mejor de Luis Alberto Posada",
         "url": "https://open.spotify.com/album/3yQhYntonhb4OUcsgVXaTZ"
       },
@@ -1539,22 +1523,6 @@
       "duration_ms": 209867,
       "name": "El Precio de Tu Error",
       "url": "https://open.spotify.com/track/7o1ATOKBoL3oM4M7SzKpc4"
-    },
-    {
-      "added_at": "2022-12-30 18:43:56",
-      "album": {
-        "name": "No Pongan Esas Canciones",
-        "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 197819,
-      "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
-      "url": "https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4"
     },
     {
       "added_at": "2022-12-30 18:43:56",
@@ -1575,6 +1543,22 @@
       "duration_ms": 145500,
       "name": "Te Quedaste Casi A Nada (En Vivo)",
       "url": "https://open.spotify.com/track/5S7aouHg7cUJf97oxMZzLk"
+    },
+    {
+      "added_at": "2022-12-30 18:43:56",
+      "album": {
+        "name": "No Pongan Esas Canciones",
+        "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 197819,
+      "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
+      "url": "https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4"
     },
     {
       "added_at": "2022-12-30 18:43:56",
@@ -1611,6 +1595,26 @@
     {
       "added_at": "2022-12-30 18:43:56",
       "album": {
+        "name": "La Conquista",
+        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 186378,
+      "name": "La Conquista",
+      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
+    },
+    {
+      "added_at": "2022-12-30 18:43:56",
+      "album": {
         "name": "El Rey del Despecho - Internacional",
         "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
       },
@@ -1643,26 +1647,6 @@
     {
       "added_at": "2022-12-30 18:43:56",
       "album": {
-        "name": "La Conquista",
-        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        },
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 186378,
-      "name": "La Conquista",
-      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
-    },
-    {
-      "added_at": "2022-12-30 18:43:56",
-      "album": {
         "name": "La Voz Popular de Am\u00e9rica",
         "url": "https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 214306,
       "name": "Si Se Fue, Se Fue",
       "url": "https://open.spotify.com/track/6WTF798e9hxNDWj95ISu5e"
+    },
+    {
+      "added_at": "2022-12-30 18:43:56",
+      "album": {
+        "name": "Pa' las Que Sea",
+        "url": "https://open.spotify.com/album/4mimxigIakTiCKteQndKk5"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Gutierrez",
+          "url": "https://open.spotify.com/artist/7syZwIuF9tAkKQxNQLCosV"
+        }
+      ],
+      "duration_ms": 259004,
+      "name": "Pa' las Que Sea",
+      "url": "https://open.spotify.com/track/52tnYQ8WVvTAfSE14QfP26"
     },
     {
       "added_at": "2022-12-30 18:43:56",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2022-12-30 18:43:56",
       "album": {
+        "name": "Pipe Bueno",
+        "url": "https://open.spotify.com/album/7pbGiwOwBbQrmvPgXyRbgd"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 202631,
+      "name": "No voy a Morir",
+      "url": "https://open.spotify.com/track/5r8gJHyLCAwbzLB9RxnkIZ"
+    },
+    {
+      "added_at": "2022-12-30 18:43:56",
+      "album": {
         "name": "Bendecida",
         "url": "https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0"
       },
@@ -1731,34 +1747,18 @@
     {
       "added_at": "2022-12-30 18:43:56",
       "album": {
-        "name": "Pa' las Que Sea",
-        "url": "https://open.spotify.com/album/4mimxigIakTiCKteQndKk5"
+        "name": "Borrachera",
+        "url": "https://open.spotify.com/album/3aIAwEKpL6WOcw6MTQPIlG"
       },
       "artists": [
         {
-          "name": "Jimmy Gutierrez",
-          "url": "https://open.spotify.com/artist/7syZwIuF9tAkKQxNQLCosV"
+          "name": "Jhon Alex Casta\u00f1o",
+          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
         }
       ],
-      "duration_ms": 259004,
-      "name": "Pa' las Que Sea",
-      "url": "https://open.spotify.com/track/52tnYQ8WVvTAfSE14QfP26"
-    },
-    {
-      "added_at": "2022-12-30 18:43:56",
-      "album": {
-        "name": "Pipe Bueno",
-        "url": "https://open.spotify.com/album/7pbGiwOwBbQrmvPgXyRbgd"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        }
-      ],
-      "duration_ms": 202631,
-      "name": "No voy a Morir",
-      "url": "https://open.spotify.com/track/5r8gJHyLCAwbzLB9RxnkIZ"
+      "duration_ms": 151267,
+      "name": "Borrachera",
+      "url": "https://open.spotify.com/track/2KVKplB0WPQhg27jhTpS3T"
     }
   ],
   "unique_name": "Rancheras, Despecho & Licor",

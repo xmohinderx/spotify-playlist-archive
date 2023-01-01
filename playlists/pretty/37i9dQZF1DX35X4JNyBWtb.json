@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 555272,
+  "num_followers": 556032,
   "original_name": "Energy Booster: Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc5MzIwMCwwMDAwMDAwMGU3ZWEwZDgyNDEyZjVlY2QxZjRiY2EyNGFkNDk1ZjE3",
+  "snapshot_id": "MTY3MTc5MzIwMCwwMDAwMDAwMDg4NWYwZmRkZTFkOGNlMjA1NzQzMWY4ODlmNmM1ZDFh",
   "tracks": [
     {
       "added_at": "2022-12-23 11:00:00",
@@ -343,22 +343,22 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
+        "name": "Destination Calabria",
+        "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
       },
       "artists": [
         {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
         },
         {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
         }
       ],
-      "duration_ms": 163216,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
+      "duration_ms": 223111,
+      "name": "Destination Calabria - Radio Edit",
+      "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -399,22 +399,22 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Destination Calabria",
-        "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
       },
       "artists": [
         {
-          "name": "Alex Gaudino",
-          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
         },
         {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
         }
       ],
-      "duration_ms": 223111,
-      "name": "Destination Calabria - Radio Edit",
-      "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h"
+      "duration_ms": 163216,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Off Of My Mind",
-        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 164739,
-      "name": "Off Of My Mind",
-      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "Head & Heart (feat. MNEK) [Ti\u00ebsto Remix]",
         "url": "https://open.spotify.com/album/1UK3zb3VPzjcTT9MBN9mAa"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 124778,
       "name": "Head & Heart (feat. MNEK) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/1ohLQfIwj9NUN7e5UKeDl9"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
+        "name": "Off Of My Mind",
+        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 164739,
+      "name": "Off Of My Mind",
+      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "All Stars",
-        "url": "https://open.spotify.com/album/0QmyqQAPTLxNCs6qya9CSa"
-      },
-      "artists": [
-        {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        },
-        {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "All Stars",
-      "url": "https://open.spotify.com/track/26haJjtanhamtf25RXH0MO"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "Snacks",
         "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
       },
@@ -1647,6 +1627,26 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
+        "name": "All Stars",
+        "url": "https://open.spotify.com/album/0QmyqQAPTLxNCs6qya9CSa"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "All Stars",
+      "url": "https://open.spotify.com/track/26haJjtanhamtf25RXH0MO"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -1663,18 +1663,22 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Astronomia (Never Go Home)",
-        "url": "https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq"
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
       },
       "artists": [
         {
-          "name": "Tony Igy",
-          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Bryn Christopher",
+          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
         }
       ],
-      "duration_ms": 156888,
-      "name": "Astronomia - Never Go Home",
-      "url": "https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"
+      "duration_ms": 202213,
+      "name": "Sweet Lovin' - Radio Edit",
+      "url": "https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -1699,22 +1703,18 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+        "name": "Astronomia (Never Go Home)",
+        "url": "https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Bryn Christopher",
-          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
+          "name": "Tony Igy",
+          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
         }
       ],
-      "duration_ms": 202213,
-      "name": "Sweet Lovin' - Radio Edit",
-      "url": "https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2"
+      "duration_ms": 156888,
+      "name": "Astronomia - Never Go Home",
+      "url": "https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
+        "name": "Squid Game (Let's Play)",
+        "url": "https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Squid Game (Let's Play)",
+      "url": "https://open.spotify.com/track/75pquWTQ3292AqzMsaik85"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
         "name": "Sweet but Psycho (The Remixes)",
         "url": "https://open.spotify.com/album/5wYR3in9srVuVeDajc7KeL"
       },
@@ -2015,18 +2031,22 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Squid Game (Let's Play)",
-        "url": "https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk"
+        "name": "Love Myself (Remixes)",
+        "url": "https://open.spotify.com/album/5l8kcjMNlOAjrkit7Uuc1x"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Ian Spurrier",
+          "url": "https://open.spotify.com/artist/7iwj95h4rLKDyJO8w1LHRM"
         }
       ],
-      "duration_ms": 152380,
-      "name": "Squid Game (Let's Play)",
-      "url": "https://open.spotify.com/track/75pquWTQ3292AqzMsaik85"
+      "duration_ms": 221720,
+      "name": "Love Myself - KREAM Remix",
+      "url": "https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2047,26 +2067,6 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
-        "name": "Love Myself (Remixes)",
-        "url": "https://open.spotify.com/album/5l8kcjMNlOAjrkit7Uuc1x"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        },
-        {
-          "name": "Ian Spurrier",
-          "url": "https://open.spotify.com/artist/7iwj95h4rLKDyJO8w1LHRM"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "Love Myself - KREAM Remix",
-      "url": "https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2195,26 +2195,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Feel Again, Pt. 2",
-        "url": "https://open.spotify.com/album/3dEp3i7jIlR5VtsOlMhi3Q"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 148095,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/1UktZnwuS1reRmRtli8QS9"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "Native",
         "url": "https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF"
       },
@@ -2231,6 +2211,26 @@
       "duration_ms": 214813,
       "name": "If I Lose Myself - Alesso vs OneRepublic",
       "url": "https://open.spotify.com/track/1hZk9dktp4yRFTm0TrycuH"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
+        "name": "Feel Again, Pt. 2",
+        "url": "https://open.spotify.com/album/3dEp3i7jIlR5VtsOlMhi3Q"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 148095,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/1UktZnwuS1reRmRtli8QS9"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2539,6 +2539,26 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 160183,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
         "name": "I'm Blue (Club Mixes)",
         "url": "https://open.spotify.com/album/785itgCjNtYOiRpu1SIDoo"
       },
@@ -2595,26 +2615,6 @@
       "duration_ms": 175305,
       "name": "Can't Come To The Phone",
       "url": "https://open.spotify.com/track/0I5pVidtNjNXeaqHnwhrva"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 160183,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2735,26 +2735,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Quechua",
-        "url": "https://open.spotify.com/album/7Atryywqgrc2WRwFOw6RFq"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        },
-        {
-          "name": "Thomas Gold",
-          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
-        }
-      ],
-      "duration_ms": 179090,
-      "name": "Quechua",
-      "url": "https://open.spotify.com/track/0vQdNTM18KusMJJrXWXDAy"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "Leave The World Behind",
         "url": "https://open.spotify.com/album/5t99JSRaTDLRx2EDWxHlkM"
       },
@@ -2783,6 +2763,26 @@
       "duration_ms": 161718,
       "name": "Leave The World Behind - Radio Edit",
       "url": "https://open.spotify.com/track/25ZEYUgCJyf3gRxkqYbkIc"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
+        "name": "Quechua",
+        "url": "https://open.spotify.com/album/7Atryywqgrc2WRwFOw6RFq"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        }
+      ],
+      "duration_ms": 179090,
+      "name": "Quechua",
+      "url": "https://open.spotify.com/track/0vQdNTM18KusMJJrXWXDAy"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2827,26 +2827,6 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
-        "name": "Drop It",
-        "url": "https://open.spotify.com/album/50BqATA6XSJtAsXQpsHRIi"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Drop It",
-      "url": "https://open.spotify.com/track/6BwN05qKw4Q8bNoq3rYuz7"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
         "name": "You Make Me Feel",
         "url": "https://open.spotify.com/album/5BwmV3PN9DS5Yvx8En57as"
       },
@@ -2863,6 +2843,26 @@
       "duration_ms": 203909,
       "name": "You Make Me Feel",
       "url": "https://open.spotify.com/track/4z2ZZU3skkejktx83PbKiR"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
+        "name": "Drop It",
+        "url": "https://open.spotify.com/album/50BqATA6XSJtAsXQpsHRIi"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Drop It",
+      "url": "https://open.spotify.com/track/6BwN05qKw4Q8bNoq3rYuz7"
     },
     {
       "added_at": "2022-12-23 11:00:00",
@@ -2939,6 +2939,26 @@
     {
       "added_at": "2022-12-23 11:00:00",
       "album": {
+        "name": "Intoxicated (Radio Edit)",
+        "url": "https://open.spotify.com/album/0vI4F2iMd1CM9Jw9WQuJyN"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        }
+      ],
+      "duration_ms": 159560,
+      "name": "Intoxicated - Radio Edit",
+      "url": "https://open.spotify.com/track/0dbQ4h3cs8QE5fOPMYdDrX"
+    },
+    {
+      "added_at": "2022-12-23 11:00:00",
+      "album": {
         "name": "Call Me Papi (feat. Dawty Music)",
         "url": "https://open.spotify.com/album/55BZcxEj7gn6yx7WIxZJgx"
       },
@@ -2959,26 +2979,6 @@
       "duration_ms": 140631,
       "name": "Call Me Papi (feat. Dawty Music)",
       "url": "https://open.spotify.com/track/0FXEr1tdiBcLsnLSG8ol2l"
-    },
-    {
-      "added_at": "2022-12-23 11:00:00",
-      "album": {
-        "name": "Intoxicated (Radio Edit)",
-        "url": "https://open.spotify.com/album/0vI4F2iMd1CM9Jw9WQuJyN"
-      },
-      "artists": [
-        {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        },
-        {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
-        }
-      ],
-      "duration_ms": 159560,
-      "name": "Intoxicated - Radio Edit",
-      "url": "https://open.spotify.com/track/0dbQ4h3cs8QE5fOPMYdDrX"
     },
     {
       "added_at": "2022-12-23 11:00:00",

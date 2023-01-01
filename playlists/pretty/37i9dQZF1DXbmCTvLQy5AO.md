@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 
 > Empowered rhymes and vibes\. Cover: Lil Nas X
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,124 likes - 74 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,483 likes - 74 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 | 10 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 |
 | 11 | [Diamond Life](https://open.spotify.com/track/7Lo4APQfv1mbPJirw9AYwQ) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Diamond Life](https://open.spotify.com/album/30oWzHzHyEmHKnPPDYeR7G) | 3:07 |
 | 12 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 |
-| 13 | [Venom](https://open.spotify.com/track/4WaaWczlVb1UJ24LILsR4C) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Venom](https://open.spotify.com/album/3h7qY0r0PNgNUS838NqgGv) | 2:34 |
+| 13 | [Venom](https://open.spotify.com/track/2tHdQjwO5zN86MLF7ZtU1X) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:34 |
 | 14 | [LGBT](https://open.spotify.com/track/2PSuZ7k5bBmhkuH5vbfFPc) | [Deebo2x](https://open.spotify.com/artist/0hyMnB9nY24uy6Pc3NtKXO) | [LGBT](https://open.spotify.com/album/1rAo1kxsd4R89TWJnMVxqn) | 3:12 |
 | 15 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 |
 | 16 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 | 73 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 |
 | 74 | [Burning](https://open.spotify.com/track/5UCL0TZACi3cgVaIPs0UVm) | [Mista Strange](https://open.spotify.com/artist/6f2OiLi5ws1F1xkHgjDPBX) | [Strange Faces](https://open.spotify.com/album/5myzv5MVvDrFji6BKIVbzS) | 3:45 |
 
-Snapshot ID: `MTY2ODQzNzg4MiwwMDAwMDAwMDg5ODA0ZTRmMjg5MjEzYmNkOGFmYTEwOTFiNzkzZTg5`
+Snapshot ID: `MTY2ODQzNzg4MiwwMDAwMDAwMDdjYzI0YjlkMTRkODc2ODBmYjg2OGI2YzdjZTY4MmUx`

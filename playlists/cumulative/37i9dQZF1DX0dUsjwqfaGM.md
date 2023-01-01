@@ -4,7 +4,7 @@
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: GREY D
 
-44 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/2s99wOe5KkDPtODdly2OIW)
+45 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/2s99wOe5KkDPtODdly2OIW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Got You](https://open.spotify.com/track/28mj6cmfJWSxOCdeNRbyWw) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Got You](https://open.spotify.com/album/3UjnX1grSaDSrfGG4NWaM2) | 4:25 | 2022-09-09 |  |
 | [GPS](https://open.spotify.com/track/7mSXu1Q76JGPLYolCKp3Xw) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [LostOwl](https://open.spotify.com/artist/2nO3NsrkKhV3cBI7X1wYbb), [Nam Ngo](https://open.spotify.com/artist/5rEpvWrgw0tvax27frKVlH) | [GPS](https://open.spotify.com/album/1dabh9kedSOCHQSXE1cYsN) | 3:59 | 2022-09-09 |  |
 | [Hennesy \- Acoustic Version](https://open.spotify.com/track/5eEBWObr9qNmFoPs2t8ifh) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:27 | 2022-09-09 |  |
-| [Hoàng Hôn](https://open.spotify.com/track/0AFGP6yJiakwce0evtrbxd) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Hoàng Hôn](https://open.spotify.com/album/3Q7A5892DvFaMdONpVhc9k) | 4:10 | 2022-09-09 |  |
+| [Hoàng Hôn](https://open.spotify.com/track/0AFGP6yJiakwce0evtrbxd) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Hoàng Hôn](https://open.spotify.com/album/3Q7A5892DvFaMdONpVhc9k) | 4:10 | 2022-09-09 | 2023-01-01 |
+| [Hoàng Hôn](https://open.spotify.com/track/0GdrFeLGWjlEcAfoQEMXH5) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Hoàng Hôn](https://open.spotify.com/album/20l0aOMxX0YDZq1bBCuoU6) | 4:10 | 2022-11-25 |  |
 | [HUNGOVER \(feat\. Vũ Cát Tường\)](https://open.spotify.com/track/5cxX6mL978HKzOMcGqKD8v) | [MINH](https://open.spotify.com/artist/0RzxSfLRSQmRJ3fFabRMsT), [Vu Cat Tuong](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Hungover \(feat\. Vũ Cát Tường\)](https://open.spotify.com/album/4y3eau8LhHk8VDoDWB7HWQ) | 5:29 | 2022-10-14 |  |
 | [Hãy Để Chúng Ta Được Có Thêm Thời Gian](https://open.spotify.com/track/1BL5MlpmXKaFrK04HaCw3d) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk), [Tez](https://open.spotify.com/artist/1yWLf9thhwjqScDt6Az4Z9) | [Hãy Để Chúng Ta Được Có Thêm Thời Gian](https://open.spotify.com/album/4tjAKvxiGK7nv1TfDz9aIi) | 3:43 | 2022-09-09 |  |
 | [Hãy Để Chúng Ta Được Có Thêm Thời Gian \- Acoustic Version](https://open.spotify.com/track/1IuQ1QnMRuISpiS7BMjpS7) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:51 | 2022-09-09 |  |

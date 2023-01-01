@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-144 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/1au5JWSCrn3UaaowOXJ7pG)
+145 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/1au5JWSCrn3UaaowOXJ7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [How Far Will I Go](https://open.spotify.com/track/5DbaHzbL6yNvDweTMwDsjE) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [How Far Will I Go](https://open.spotify.com/album/01dPukYevifXCAoCg1iLP3) | 4:10 | 2021-11-25 |  |
 | [How Will I Know \(arr\. piano\)](https://open.spotify.com/track/5pT81cp8OK5FuACexrkgC1) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [How Will I Know \(arr\. piano\)](https://open.spotify.com/album/0C9p3l8YDqEC8G5UYilo8F) | 3:38 | 2021-11-25 |  |
 | [Human Nature \(Arr\. R\. Boyd & L\. Metcalf for Cello & Guitar\)](https://open.spotify.com/track/3aMagwbjbBUakRbCCt542s) | [Steve Porcaro](https://open.spotify.com/artist/6uJ8A4c1Z4FbHUTdhHm5dn), [Boyd Meets Girl](https://open.spotify.com/artist/5jRlTeRHOKRs7a9vPwMEPR) | [Boyd Meets Girl](https://open.spotify.com/album/1M2ZlMDGp4yjl9hzPX4Eyk) | 2:42 | 2021-11-25 |  |
-| [Hurt](https://open.spotify.com/track/5ssa7x1KD6XqPVqhwVgnA0) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/451tLMhR2ySWscHJiWQXs6) | 6:12 | 2021-11-25 |  |
+| [Hurt](https://open.spotify.com/track/0WLROcssjMREbas0oDpFkA) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/3hV5sj8yGvFHtEkdeJ95yH) | 6:12 | 2022-11-25 |  |
+| [Hurt](https://open.spotify.com/track/5ssa7x1KD6XqPVqhwVgnA0) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/451tLMhR2ySWscHJiWQXs6) | 6:12 | 2021-11-25 | 2023-01-01 |
 | [I'm Yours \- Piano Version](https://open.spotify.com/track/0MXyCz754IFkMZq1I4BVaO) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/01u4d96EWX1Xk1NLtQhZNC) | 3:02 | 2022-11-25 |  |
 | [I'm Yours \- Piano Version](https://open.spotify.com/track/4NqDMiBF4yLwdfJ6BDDdx2) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/50x1Jf4aVOOvpHQ2fxe71B) | 3:02 | 2022-02-25 | 2022-12-24 |
 | [Imagine / What a Wonderful World](https://open.spotify.com/track/5peB51NBGxDU6whmNsK6yV) | [Christine Brown](https://open.spotify.com/artist/3iS3pfptgdjssIOuuTJith) | [Imagine What a Wonderful World](https://open.spotify.com/album/2cIcC7qsQf3Nzo6mpZQoYC) | 4:54 | 2021-11-25 |  |

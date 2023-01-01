@@ -4,7 +4,7 @@
 
 > Inspired by African drums\. Cover: Popcaan 🇯🇲
 
-317 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/3Nva1foeKA4kN9RYANT1NX)
+318 songs - 16 hr 9 min - [published](https://open.spotify.com/playlist/3Nva1foeKA4kN9RYANT1NX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,8 @@
 | [Toxique](https://open.spotify.com/track/5iOqSItx90udNnb61yWt6M) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3) | [Toxique](https://open.spotify.com/album/4JFsnQN0r0JxAIIA9CdIL0) | 2:30 | 2022-06-10 | 2022-07-02 |
 | [TRUCK RIDDIM \(feat\. BEAM\)](https://open.spotify.com/track/7kaNSzp7gVRFoxEmE42IU9) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [TRUCK RIDDIM \(feat\. BEAM\)](https://open.spotify.com/album/7pMzHtdqbu6HGHp30GNp54) | 2:08 | 2022-05-27 |  |
 | [TSUNAMI](https://open.spotify.com/track/10hI8LNwmWn1wc6lRQssTL) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv) | [TSUNAMI](https://open.spotify.com/album/0Ej9cypwgZRyE5EATB4MTV) | 3:24 | 2022-05-27 | 2022-07-09 |
-| [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:19 | 2022-11-11 |  |
+| [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:19 | 2022-11-11 | 2023-01-01 |
+| [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:19 | 2022-12-30 |  |
 | [U Dun Kno](https://open.spotify.com/track/5H3AQ4v1WWmEZSXWIlRIAJ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [U Dun Kno](https://open.spotify.com/album/6KCkU1XDPaZZf6e8w8Ig8n) | 2:26 | 2022-11-18 |  |
 | [Ubumnandi \(feat\. Nia Pearl & MDU a.k.a TRP\)](https://open.spotify.com/track/5ADJ5bKQxtLI8z1XWeQuRD) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Nia Pearl](https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK), [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR) | [KOA II Part 1](https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q) | 6:24 | 2022-06-17 | 2022-07-09 |
 | [Vawulence](https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Vawulence](https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq) | 3:10 | 2022-11-25 |  |

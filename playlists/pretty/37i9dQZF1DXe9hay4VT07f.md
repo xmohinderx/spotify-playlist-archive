@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,950 likes - 79 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,229 likes - 79 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 |
-| 2 | [Skeleton Cartier](https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ) | 3:41 |
+| 2 | [Skeleton Cartier](https://open.spotify.com/track/0ONJRBtjpdlfvyz1jJFHUp) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/1Ei9rdh0ZaUuNjPpFpXwS9) | 3:41 |
 | 3 | [I Got 5 On It](https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG) | [Luniz](https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x), [Michael Marshall](https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn) | [Operation Stackola](https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb) | 4:13 |
 | 4 | [Gyal You A Party Animal](https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You A Party Animal](https://open.spotify.com/album/0eCvXdGhFxgjB4yyDEHoff) | 3:34 |
 | 5 | [Welcome To Jamrock](https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 3:33 |
-| 6 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
-| 7 | [Hold You \- Hold Yuh](https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Hold You](https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe) | 3:53 |
+| 6 | [Hold You \- Hold Yuh](https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Hold You](https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe) | 3:53 |
+| 7 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
 | 8 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 |
 | 9 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 |
 | 10 | [Mi Nuh Know](https://open.spotify.com/track/77jt9bt0fTtc1Aw1CGT3ji) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Mi Nuh Know](https://open.spotify.com/album/2vp0eSTrV1ywAaM40SQmr2) | 2:26 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 44 | [Ghetto Story](https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:11 |
 | 45 | [Bad Man Forward](https://open.spotify.com/track/1KW6PVabkLbthK4y0sPX5a) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Bad Man Forward, Bad Man Pull Up](https://open.spotify.com/album/4pWeMGhrk1bvKE3Od3jePT) | 3:15 |
 | 46 | [Drinking Rum](https://open.spotify.com/track/0xezj8YX96S7m4fCDwCIoJ) | [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Future Fambo](https://open.spotify.com/artist/6iGnMrpoPy3fPn2JwawcUI) | [One Day Riddim](https://open.spotify.com/album/5PkIgWAMxMDiDv1jrzkqgm) | 2:15 |
-| 47 | [Party Hard](https://open.spotify.com/track/0S0qKgHu2CCL3MjPo3HMl5) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 3:38 |
-| 48 | [I Am Blessed](https://open.spotify.com/track/1gpA7IZTNvrL6DUuc4qDPx) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [I Am Blessed](https://open.spotify.com/album/2OBChPG9zg8lu4XL3UgY0A) | 3:08 |
+| 47 | [I Am Blessed](https://open.spotify.com/track/1gpA7IZTNvrL6DUuc4qDPx) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [I Am Blessed](https://open.spotify.com/album/2OBChPG9zg8lu4XL3UgY0A) | 3:08 |
+| 48 | [Party Hard](https://open.spotify.com/track/0S0qKgHu2CCL3MjPo3HMl5) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 3:38 |
 | 49 | [Levels](https://open.spotify.com/track/1rfANUAbPjPZhRUIz5uj7h) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Levels](https://open.spotify.com/album/4eSSKHuHQj7SaH45cPSrSk) | 2:56 |
 | 50 | [Nuh Linga](https://open.spotify.com/track/1XDu72IZMRTO2gDPaMydXE) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Dance & Sweep! \- Adventures Of The Energy God](https://open.spotify.com/album/1h6idb5MNxRtSz4EWsMe84) | 2:08 |
 | 51 | [21 Seconds \- 12" Version](https://open.spotify.com/track/5S9810AEDRnVQovixcU2h4) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [21 Seconds](https://open.spotify.com/album/14JDv6HjaV7RLkeXbs8XOe) | 4:54 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 78 | [Original Nuttah](https://open.spotify.com/track/53mh7POQqTXj2Cfh7phP5b) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Uk Apache](https://open.spotify.com/artist/0YE17nrGKTk37bcKpKVUvi) | [Original Nuttah](https://open.spotify.com/album/3z68B1FAnvehe5zSdLhNCO) | 5:12 |
 | 79 | [Do You Mind](https://open.spotify.com/track/2nQ5CtkYZ2ufJNP3C4BL0I) | [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Best in '09](https://open.spotify.com/album/0zoxOALXc0b2mKAtlSyBQe) | 1:28 |
 
-Snapshot ID: `MTY2MjcyNTA3MywwMDAwMDAwMDA2NzE2OTllOGE3MmZkZjVkMTdlNzcwNWFhOTJlODZm`
+Snapshot ID: `MTY2MjcyNTA3MywwMDAwMDAwMGJkNjM4NmIxMTVlZTMxYWM4NGQ1NDQ2ZTczMjQ1NGIy`

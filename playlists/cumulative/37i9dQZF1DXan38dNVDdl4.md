@@ -4,7 +4,7 @@
 
 > The best in new & current Dancehall\. Cover: WSTRN
 
-177 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/06Owom4tM3pY6z1utpLRaA)
+179 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/06Owom4tM3pY6z1utpLRaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [She Like It](https://open.spotify.com/track/6ikuCgXyPxtPJ6lNQGHYeC) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [She Like It](https://open.spotify.com/album/5ASoS2Mwr5ljrRx8hJ3ZR5) | 2:23 | 2022-07-29 | 2022-09-10 |
 | [Shift Change](https://open.spotify.com/track/3bYl5cRjl1Sw1Xs8XYAwB1) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Shift Change](https://open.spotify.com/album/6e9xVV7RqG7PjC8XTs72Lj) | 2:57 | 2022-07-29 | 2022-09-10 |
 | [Silence](https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Forever](https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq) | 3:35 | 2022-03-04 |  |
-| [Skeleton Cartier](https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ) | 3:41 | 2022-03-04 |  |
+| [Skeleton Cartier](https://open.spotify.com/track/0ONJRBtjpdlfvyz1jJFHUp) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/1Ei9rdh0ZaUuNjPpFpXwS9) | 3:41 | 2022-09-09 |  |
+| [Skeleton Cartier](https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ) | 3:41 | 2022-03-04 | 2023-01-01 |
 | [So Me Stay](https://open.spotify.com/track/0S8VgLfuZwWJMGXUBJXlEy) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [So Me Stay](https://open.spotify.com/album/4F7todLkxPeG4KjupkQSMQ) | 2:38 | 2022-06-17 |  |
 | [Sorry](https://open.spotify.com/track/0lpBRGQCaWT1PJQb36AEEO) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS) | [I Am Great](https://open.spotify.com/album/6i3SZiuix81nwtdGQ6Yh0r) | 3:25 | 2022-03-21 | 2022-11-12 |
 | [Sorry](https://open.spotify.com/track/3M9SdslKjGgu18LtRPiCBA) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS) | [I Am Great](https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz) | 3:25 | 2022-09-09 |  |
@@ -168,7 +169,8 @@
 | [Top Prize](https://open.spotify.com/track/4Ku4NfHQafSvZXW0kme5KJ) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/0ilTzFiPldFMIxfRNDFOxq) | 3:12 | 2021-12-20 | 2022-11-12 |
 | [Top Tier](https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Top Tier](https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC) | 2:21 | 2022-03-02 |  |
 | [Travel Safe \(with Chronic Law\)](https://open.spotify.com/track/6KDmeN7ZoDtmee8h6BeiIq) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Melody](https://open.spotify.com/album/3oXVoYCkJbjZE632mfnSG7) | 2:41 | 2021-12-20 | 2022-03-22 |
-| [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:19 | 2021-12-20 |  |
+| [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:19 | 2021-12-20 | 2023-01-01 |
+| [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:19 | 2022-09-09 |  |
 | [Ultimate](https://open.spotify.com/track/2nNSQOyX7zG1EceT9An0xH) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 2:59 | 2021-12-20 | 2022-09-10 |
 | [Vanish](https://open.spotify.com/track/3TIz9Qnye8YoUN4H3tKlj4) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 2:46 | 2022-07-29 | 2022-09-10 |
 | [Verified Choppa 2](https://open.spotify.com/track/7HrHYsLaa8JHY9S7EETKfb) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Verified Choppa 2](https://open.spotify.com/album/3kdeQrwrOoiN3UGtB5B9gp) | 2:18 | 2022-03-02 | 2022-07-29 |

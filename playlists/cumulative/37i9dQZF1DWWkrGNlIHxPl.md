@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Saint Levant
 
-222 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
+223 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [slip](https://open.spotify.com/track/3VEltwNocXM7dVGSdkAs7A) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [slip](https://open.spotify.com/album/4FYt2ycWupuX8zePf7Ps1g) | 3:03 | 2021-12-16 | 2022-03-30 |
 | [SOLD](https://open.spotify.com/track/4hMcamMdjiJmZ3thozEqOR) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [SOLD](https://open.spotify.com/album/2FZStBhAxT7X2hJaPsUXDm) | 2:38 | 2022-08-04 |  |
 | [Somewave](https://open.spotify.com/track/5UdK4jJ7qcY8wU4d9kpits) | [Zeyada](https://open.spotify.com/artist/2UJIKiHl019qoazIKbax7D) | [Somewave](https://open.spotify.com/album/6JH0QKxS6ygJqS3zTsoiHk) | 3:01 | 2021-12-16 | 2022-06-07 |
-| [Stars Align \(with Drake\)](https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 4:20 | 2021-12-16 |  |
+| [Stars Align](https://open.spotify.com/track/6isRn13M76FHcFFefJwSUj) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Attention \- R&B Favourites](https://open.spotify.com/album/4HendAoi1Gnkm8O4Q0rQ8P) | 4:20 | 2022-12-15 |  |
+| [Stars Align \(with Drake\)](https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 4:20 | 2021-12-16 | 2023-01-01 |
 | [Stay With Me](https://open.spotify.com/track/2AvO9mnoHTP8HYWlhdr5lZ) | [Faydee](https://open.spotify.com/artist/5v7efr4mqt3RQxkT0Mmh5g) | [Stay With Me](https://open.spotify.com/album/5o6vVz0YWB9d6ywjttH6XZ) | 2:59 | 2021-12-16 | 2022-12-08 |
 | [Stories](https://open.spotify.com/track/6EnWKtxRzUIeXTQLhCYI2X) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [Stories](https://open.spotify.com/album/4xVlft0ERbRUNHT4ahNheZ) | 2:58 | 2022-08-02 | 2022-12-08 |
 | [Styla Jamaiki](https://open.spotify.com/track/1ontuN6ddlysEYXzoYkLID) | [ARXP Cartel](https://open.spotify.com/artist/62rWseD8dlUp2w77shBrD1), [Eslam Jawaad](https://open.spotify.com/artist/3y7vb47gzj692Slqa8cKbv), [Seidosimba](https://open.spotify.com/artist/0IYctk4zZNrGlxLmWgQ88H), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Styla Jamaiki](https://open.spotify.com/album/601BizZRIf2pr5QsnR6gDA) | 4:05 | 2022-06-23 |  |

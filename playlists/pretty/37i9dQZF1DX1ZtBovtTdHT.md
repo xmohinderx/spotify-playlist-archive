@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,261 likes - 82 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,387 likes - 82 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 16 | [The Riddle](https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV) | 4:45 |
 | 17 | [Touch Me](https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw) | [Rui Da Silva](https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v) | [Produced & Remixed](https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI) | 8:35 |
 | 18 | [The Launch \- Radio Edit](https://open.spotify.com/track/6FP4peicCGnib7asns71fs) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [The Launch](https://open.spotify.com/album/2mf2kFapmGUkmAVWvjjzr0) | 3:40 |
-| 19 | [On The Beach \- Mauro Picotto's CRW Remix](https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [CRW](https://open.spotify.com/artist/14tToftzUXlFOnrR5ojQxu) | [On The Beach](https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9) | 3:17 |
-| 20 | [On The Move](https://open.spotify.com/track/5G976RmOXLKXedSWAe21N6) | [Barthezz](https://open.spotify.com/artist/2ikrIhCYSKmzCgWb9EM3aT) | [On The Move](https://open.spotify.com/album/76kravzo4UMKQE6Vs112Ai) | 3:36 |
+| 19 | [On The Move](https://open.spotify.com/track/5G976RmOXLKXedSWAe21N6) | [Barthezz](https://open.spotify.com/artist/2ikrIhCYSKmzCgWb9EM3aT) | [On The Move](https://open.spotify.com/album/76kravzo4UMKQE6Vs112Ai) | 3:36 |
+| 20 | [On The Beach \- Mauro Picotto's CRW Remix](https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [CRW](https://open.spotify.com/artist/14tToftzUXlFOnrR5ojQxu) | [On The Beach](https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9) | 3:17 |
 | 21 | [Because The Night \(Radio Edit\)](https://open.spotify.com/track/46T7WAIHdt9v6xsqtWU6CH) | [Jan Wayne](https://open.spotify.com/artist/57QfQOhi7oyPiscoWfUSeC) | [Back Again!](https://open.spotify.com/album/5JQuXobnpxRkqE1jovr1N9) | 3:33 |
 | 22 | [L'amour Toujours \(Small Mix\)](https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujour](https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP) | 4:02 |
 | 23 | [Will I Ever](https://open.spotify.com/track/7FpkmUt2H3Mf9TVEGHkUpk) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:14 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 31 | [Saltwater](https://open.spotify.com/track/05c4AAJKIulqI8vQQ41Rch) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv) | [Twenty](https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh) | 3:22 |
 | 32 | [Universal Nation \- Radio Edit](https://open.spotify.com/track/6mRj9RSLe4RU1vWarhxDnG) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [A State Of Trance 600](https://open.spotify.com/album/62lXAqif61gAUTTDtBgGQY) | 3:45 |
 | 33 | [Insomnia \- Radio Edit](https://open.spotify.com/track/7gWc0QEt2hoIkMv3XxPY1T) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:33 |
-| 34 | [Gouryella](https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4) | [Gouryella](https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki) | [Gouryella](https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL) | 3:37 |
-| 35 | [It's A Fine Day](https://open.spotify.com/track/3jjhHmTYb7t0mFCTiDg0Kg) | [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Swipe Me](https://open.spotify.com/album/2gHDTP5A75V7oGRtwqIOWN) | 3:52 |
+| 34 | [It's A Fine Day](https://open.spotify.com/track/3jjhHmTYb7t0mFCTiDg0Kg) | [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Swipe Me](https://open.spotify.com/album/2gHDTP5A75V7oGRtwqIOWN) | 3:52 |
+| 35 | [Gouryella](https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4) | [Gouryella](https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki) | [Gouryella](https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL) | 3:37 |
 | 36 | [You](https://open.spotify.com/track/6bzK2GKOYigsZIcjic64pa) | [La Cream](https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc) | [Sound & Vision](https://open.spotify.com/album/5bufgo4oxHsA6FygJvKFFG) | 3:07 |
 | 37 | [Bellissima \- Radio Edit](https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [Ten Top10 90s Hits](https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz) | 3:14 |
 | 38 | [1998 \- Paul van Dyk Remix](https://open.spotify.com/track/72lRA680a5ZWu0l14phseH) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [1998](https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq) | 3:30 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 54 | [Airwave \- Album Cut](https://open.spotify.com/track/06h6Y3nklQ8NgRwemZlQDS) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Symsonic](https://open.spotify.com/album/6P7JbeaSgpo5XdLzXmin1z) | 4:59 |
 | 55 | [The Ride](https://open.spotify.com/track/0cWSMnw5SX1ItDdQzBe51E) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [The Ultimate Ride](https://open.spotify.com/album/5XbDQJJx1vai2UQBG1SKYb) | 4:08 |
 | 56 | [Follow Me \- Lange's Club Mix](https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [The Morrighan](https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S) | [I Believe / Follow Me](https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv) | 6:32 |
-| 57 | [Time Is The Healer \- Armin van Buuren Remix](https://open.spotify.com/track/1AVoSeGyzqbS6qMOw4EFmO) | [Riva](https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP) | [A State Of Trance Classics, Vol\. 6 \(Bonus Best Ever Edition\)](https://open.spotify.com/album/6u5Q7kNzIlLo2lwkCwrhWg) | 7:55 |
+| 57 | [Be Cool \- Radio Edit](https://open.spotify.com/track/2Qzq9wJtrEYdWgxXiUFjsP) | [Paffendorf](https://open.spotify.com/artist/6ncUTZAXal93c05AUvr94d) | [Planet Dance](https://open.spotify.com/album/2N7bn0chb5HOeYzq1fvw5P) | 3:32 |
 | 58 | [Paradoxx \- Original Album Version](https://open.spotify.com/track/5qF7pHGeAns5TtLZDMLJ2F) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Special Edition\)](https://open.spotify.com/album/0O4qBIZ7IKKuPzLftLxA92) | 3:57 |
-| 59 | [Be Cool \- Radio Edit](https://open.spotify.com/track/2Qzq9wJtrEYdWgxXiUFjsP) | [Paffendorf](https://open.spotify.com/artist/6ncUTZAXal93c05AUvr94d) | [Planet Dance](https://open.spotify.com/album/2N7bn0chb5HOeYzq1fvw5P) | 3:32 |
+| 59 | [Time Is The Healer \- Armin van Buuren Remix](https://open.spotify.com/track/1AVoSeGyzqbS6qMOw4EFmO) | [Riva](https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP) | [A State Of Trance Classics, Vol\. 6 \(Bonus Best Ever Edition\)](https://open.spotify.com/album/6u5Q7kNzIlLo2lwkCwrhWg) | 7:55 |
 | 60 | [Anglia](https://open.spotify.com/track/1x6L3Khb0mdYrT7WP0mp05) | [Out Of Grace](https://open.spotify.com/artist/1K1PVQs3jikxllrn5lS9Xi) | [50 Best Trance Hits Ever](https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW) | 3:26 |
 | 61 | [Raindrops \- Radio Edit](https://open.spotify.com/track/5harK7MSbeedWxAekeBqGZ) | [Stunt](https://open.spotify.com/artist/2thOenzsesBQDJxkDkMUGI) | [Raindrops](https://open.spotify.com/album/5iefIjpSiQUki0ZqWse3hS) | 3:34 |
 | 62 | [Cream \- Radio Edit](https://open.spotify.com/track/2yxVVo6w8es8K3k0WGH4Zu) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [In Da Mix \(Super Deluxe Edition\)](https://open.spotify.com/album/6IKcZW1oukGGs6KoY7GNxB) | 3:16 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 81 | [Resurection \(Radio Edit\)](https://open.spotify.com/track/3ijxShVha6D2BS4biQWfo5) | [PPK](https://open.spotify.com/artist/6kGGvTWOWaF26tZF5hy19z) | [Resurection Legacy](https://open.spotify.com/album/2CvJkjqqEq0iG3yywrokNg) | 3:16 |
 | 82 | [Will I \(Extended Mix\)](https://open.spotify.com/track/1FLZTa9FqdMOAi3HL5q0SJ) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ) | [Cantaditas De Luxe Vol.2](https://open.spotify.com/album/0sW0as9QkiOIcN9VUrrgcI) | 6:30 |
 
-Snapshot ID: `MTY1NDg2MjUwOCwwMDAwMDAwMGUyNTgxZWFhZTAwODBiYWEwYmFjMzcwZWNiZTU3MTZi`
+Snapshot ID: `MTY1NDg2MjUwOCwwMDAwMDAwMGFmNTU1YTMzMjIwM2M1NzYyMTM1ODRiMmU4NWE5ODZl`

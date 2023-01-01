@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: July Talk
 
-847 songs - 2 day 2 hr 6 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+848 songs - 2 day 2 hr 9 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 | 2022-09-23 | 2022-10-15 |
 | [All Night Long](https://open.spotify.com/track/2ZMuOq3HOG8dMcQY7B1Mfl) | [Michael Rault](https://open.spotify.com/artist/1bcztlEOrJIIfLbUIKQY6O) | [Michael Rault](https://open.spotify.com/album/6imNcgzicJUb3nPHL1vr1X) | 4:12 | 2022-06-10 | 2022-07-30 |
 | [All Roads](https://open.spotify.com/track/2bbkQoF99vgiXdkKQo0mHA) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [All Roads](https://open.spotify.com/album/1wlb3EzPVN4A7h6bx2gyWL) | 3:37 | 2022-10-07 | 2022-10-29 |
-| [All That's Left Of Me Is You](https://open.spotify.com/track/22ms1Z1Vjd89qpZsNGJvB8) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Theo Katzman](https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya) | [All That's Left Of Me Is You](https://open.spotify.com/album/52qyhBBYQadIVGztGAhge9) | 2:52 | 2022-12-16 |  |
+| [All That's Left Of Me Is You](https://open.spotify.com/track/22ms1Z1Vjd89qpZsNGJvB8) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Theo Katzman](https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya) | [All That's Left Of Me Is You](https://open.spotify.com/album/52qyhBBYQadIVGztGAhge9) | 2:52 | 2022-12-16 | 2023-01-01 |
+| [All That’s Left of Me Is You](https://open.spotify.com/track/54Aa3U7MwohGZz56LMi0Ng) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Theo Katzman](https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:52 | 2022-12-16 |  |
 | [All The Things I Couldn't Say To You](https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [All The Things I Couldn't Say To You](https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK) | 4:24 | 2022-11-18 |  |
 | [All You Do](https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All You Do](https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd) | 4:28 | 2022-08-27 | 2022-11-12 |
 | [All Your Love](https://open.spotify.com/track/0w8k35No8HKAUoyKLMxXIY) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Ghost Woman](https://open.spotify.com/album/1IppLCNz2mhbYU52JBuIui) | 2:53 | 2022-07-01 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 
 > Soulful Hindi songs for your nostalgic journey
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,046 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,301 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 | 8 | [Kabhi Kabhi Mere Dil Mein \- Duet](https://open.spotify.com/track/418v2RdbaHUOdWJt5AzOMP) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Kabhi Kabhie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4PAxacBYgofqgtorH5y3BA) | 4:58 |
 | 9 | [O Mere Dil Ke Chain \(From "Mere Jeevan Saathi"\)](https://open.spotify.com/track/71hanKncfyBt0Yi66LRUYm) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Krazy Kishore](https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx) | 4:33 |
 | 10 | [Likhe Jo Khat Tujhe \(From "Kanyadaan"\)](https://open.spotify.com/track/2QduffmP1CwjJ6kAA5hkUk) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Memoirically \- Mohammed Rafi](https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej) | 4:33 |
-| 11 | [Pyar Hua Iqrar Hua \(From "Shree 420"\)](https://open.spotify.com/track/4GnWuUsBp9PoWIiigz8DUb) | [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 4:20 |
-| 12 | [Tum Itna Jo Muskura Rahe Ho](https://open.spotify.com/track/4SVLJYv9gJQgFhtJdW3TEX) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 5:21 |
+| 11 | [Tum Itna Jo Muskura Rahe Ho](https://open.spotify.com/track/4SVLJYv9gJQgFhtJdW3TEX) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 5:21 |
+| 12 | [Pyar Hua Iqrar Hua \(From "Shree 420"\)](https://open.spotify.com/track/4GnWuUsBp9PoWIiigz8DUb) | [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 4:20 |
 | 13 | [Bade Achhe Lagte Hain](https://open.spotify.com/track/6KI66HzKaCOvfvLenuf0JQ) | [Amit Kumar](https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC) | [Balika Badhu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ENk87mIL6K5JEj9iQvKyo) | 5:12 |
 | 14 | [Main Pal Do Pal Ka Shair Hoon](https://open.spotify.com/track/3P30d9Ayuy7IW88RvAvFMl) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Kabhi Kabhie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4PAxacBYgofqgtorH5y3BA) | 3:24 |
 | 15 | [Do Lafzon Ki Hai Dil Ki Kahani \- Asha Bhosle](https://open.spotify.com/track/72B7rdPUVvEbap8RvIQbVk) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [The Great Gambler](https://open.spotify.com/album/5ySk8K15eNgQVTCKhpb42c) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 | 49 | [Yeh Jo Mohabbat Hai](https://open.spotify.com/track/5r1BxH58zZpdj51nVRXb2o) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Kati Patang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OwB3P97qeFzhDQYYHy5uv) | 4:07 |
 | 50 | [Mere Mehboob Qayamat Hogi, Pt\. 1 \(From "Mr\. X in Bombay"\)](https://open.spotify.com/track/0us929HY2oacANZERkLkUL) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Krazy Kishore](https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx) | 3:48 |
 
-Snapshot ID: `MTY0MTM1NjI1MSwwMDAwMDAwMDM1MzE3MDIzOWU0OTI5NDJlYWQzMWU2M2NhMzIyYzc2`
+Snapshot ID: `MTY0MTM1NjI1MSwwMDAwMDAwMDc0OTBjZDI4ZTdkMmU1Yjk1OGU5MWQxYmYxMDRlNGM4`

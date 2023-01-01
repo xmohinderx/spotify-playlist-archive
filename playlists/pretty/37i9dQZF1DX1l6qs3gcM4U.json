@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Soraia Ramos x Nenny.  ",
-  "num_followers": 150919,
+  "num_followers": 151065,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE0ODgwMCwwMDAwMDAwMDRlODMyZjAzYzFiMTU0MjUzZjcyZTg1YjQ1OTNjMDg3",
+  "snapshot_id": "MTY3MTE0ODgwMCwwMDAwMDAwMDBkNjVhOGM1NmFiNWVhMDcyYTAzYWM3YjgyNzRlMmRh",
   "tracks": [
     {
       "added_at": "2022-12-09 00:00:00",
@@ -99,6 +99,42 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
+        "name": "Dando Love",
+        "url": "https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 182173,
+      "name": "Dando Love",
+      "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Homem Que \u00c9 Homem",
+        "url": "https://open.spotify.com/album/3da7ZdV8PajvULvHWlVCYU"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 216868,
+      "name": "Homem Que \u00c9 Homem",
+      "url": "https://open.spotify.com/track/7KeFg6QHNBmANqLu3N0kYh"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
         "name": "Versos & Poesias #4: C\u00e9u Azul",
         "url": "https://open.spotify.com/album/0RuuM2yV5MrV0b4JtcrRxk"
       },
@@ -143,42 +179,6 @@
       "duration_ms": 366394,
       "name": "Versos & Poesias #4: C\u00e9u Azul",
       "url": "https://open.spotify.com/track/3VPdA0kcMEOiOq5Pk1oOul"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "Homem Que \u00c9 Homem",
-        "url": "https://open.spotify.com/album/3da7ZdV8PajvULvHWlVCYU"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 216868,
-      "name": "Homem Que \u00c9 Homem",
-      "url": "https://open.spotify.com/track/7KeFg6QHNBmANqLu3N0kYh"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "Dando Love",
-        "url": "https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 182173,
-      "name": "Dando Love",
-      "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Chouchou",
-        "url": "https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2"
-      },
-      "artists": [
-        {
-          "name": "Atim",
-          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
-        },
-        {
-          "name": "Jennifer Dias",
-          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "Chouchou",
-      "url": "https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
         "name": "Pak\u00e9",
         "url": "https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 220645,
       "name": "Pak\u00e9",
       "url": "https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Chouchou",
+        "url": "https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2"
+      },
+      "artists": [
+        {
+          "name": "Atim",
+          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
+        },
+        {
+          "name": "Jennifer Dias",
+          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+        }
+      ],
+      "duration_ms": 183092,
+      "name": "Chouchou",
+      "url": "https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Novinha",
-        "url": "https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs"
-      },
-      "artists": [
-        {
-          "name": "Tamyris Moiane",
-          "url": "https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g"
-        },
-        {
-          "name": "Nice Life",
-          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
-        }
-      ],
-      "duration_ms": 210379,
-      "name": "Novinha",
-      "url": "https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
         "name": "The Gentleman",
         "url": "https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 206367,
       "name": "Spadja P\u00e9",
       "url": "https://open.spotify.com/track/77GqJV1VlOmOYuiKKOsSR1"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Novinha",
+        "url": "https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs"
+      },
+      "artists": [
+        {
+          "name": "Tamyris Moiane",
+          "url": "https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g"
+        },
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        }
+      ],
+      "duration_ms": 210379,
+      "name": "Novinha",
+      "url": "https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Teu Ego",
-        "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
-      },
-      "artists": [
-        {
-          "name": "Ivan Alekxei",
-          "url": "https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC"
-        },
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "Teu Ego",
-      "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
         "name": "Don't Judge Me (Saxo-Kizomba)",
         "url": "https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 296000,
       "name": "Don't Judge Me (Saxo-Kizomba)",
       "url": "https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Teu Ego",
+        "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
+      },
+      "artists": [
+        {
+          "name": "Ivan Alekxei",
+          "url": "https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC"
+        },
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 286093,
+      "name": "Teu Ego",
+      "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Vibra",
-        "url": "https://open.spotify.com/album/3y3l6JbXvuBAKP5TGY7Fu2"
-      },
-      "artists": [
-        {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "SOS MUCCI",
-          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "Vibra",
-      "url": "https://open.spotify.com/track/4Puvx015SEBAgnvPFi3yGq"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
         "name": "Perigosa (feat. Anselmo Ralph)",
         "url": "https://open.spotify.com/album/4qqYgCeX9DdyG9Seds57QX"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 228666,
       "name": "Fica Parado (feat. C4 Pedro)",
       "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Vibra",
+        "url": "https://open.spotify.com/album/3y3l6JbXvuBAKP5TGY7Fu2"
+      },
+      "artists": [
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "SOS MUCCI",
+          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "Vibra",
+      "url": "https://open.spotify.com/track/4Puvx015SEBAgnvPFi3yGq"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
+        "name": "J\u00e1 N\u00e3o Sei",
+        "url": "https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 261115,
+      "name": "J\u00e1 N\u00e3o Sei",
+      "url": "https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
         "name": "PAPI",
         "url": "https://open.spotify.com/album/1pN6zDDiw0bGLgm4xGkbnD"
       },
@@ -1387,6 +1407,26 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
+        "name": "Sincera",
+        "url": "https://open.spotify.com/album/6azn6TqoR8Uin80ljkqddo"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        },
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 187109,
+      "name": "N\u00e3o vai l\u00e1",
+      "url": "https://open.spotify.com/track/1l52eiHWhwnSLfdyqBRAeY"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
         "name": "Saudades",
         "url": "https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO"
       },
@@ -1399,26 +1439,6 @@
       "duration_ms": 249497,
       "name": "Saudades",
       "url": "https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "J\u00e1 N\u00e3o Sei",
-        "url": "https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        },
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 261115,
-      "name": "J\u00e1 N\u00e3o Sei",
-      "url": "https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -1455,26 +1475,6 @@
       "duration_ms": 202397,
       "name": "Sinto Falta",
       "url": "https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "Sincera",
-        "url": "https://open.spotify.com/album/6azn6TqoR8Uin80ljkqddo"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
-        },
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 187109,
-      "name": "N\u00e3o vai l\u00e1",
-      "url": "https://open.spotify.com/track/1l52eiHWhwnSLfdyqBRAeY"
     }
   ],
   "unique_name": "Dancing Kizomba",

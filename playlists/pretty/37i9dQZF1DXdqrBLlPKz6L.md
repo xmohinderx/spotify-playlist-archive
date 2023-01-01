@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Blessd
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,014 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,038 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 8 | [28](https://open.spotify.com/track/3CNAh2F7pfyUu7KAEYHtMl) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [The Love & Sex Tape \(Deluxe Edition\)](https://open.spotify.com/album/0C3ZDkBKTqGvwZzqaZMigT) | 3:20 |
 | 9 | [Party Trippy \(feat\. Totoy El Frio\)](https://open.spotify.com/track/1UP8LOk66LufjRtBBEZtGL) | [DJ Maff](https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Party Trippy \(feat\. Totoy El Frio\)](https://open.spotify.com/album/75BqSoSbTrDofWH3MIKgXN) | 3:21 |
 | 10 | [Llanogrande](https://open.spotify.com/track/19j1aiX1XtvV1rjQiB0xnI) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Llanogrande](https://open.spotify.com/album/4erHmgwHrYipv67oz7EEhz) | 3:16 |
-| 11 | [Ko](https://open.spotify.com/track/0MtnjoP0LbTNncaOqmtV7t) | [Tezzel](https://open.spotify.com/artist/25wbr3tsglSoeDK40ockmT), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kapla](https://open.spotify.com/artist/6phuupLjcsUnYgRrY7BHSd), [Lil Dripavelli](https://open.spotify.com/artist/3p0i4P61vcbJpf3V8dcs1f) | [Ko](https://open.spotify.com/album/7HufcKIHl9VuzhTO8TeInt) | 4:09 |
+| 11 | [Ko](https://open.spotify.com/track/0MtnjoP0LbTNncaOqmtV7t) | [Tezzel](https://open.spotify.com/artist/25wbr3tsglSoeDK40ockmT), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kapla](https://open.spotify.com/artist/11kWakFrrHou9H4TCt16yD), [Lil Dripavelli](https://open.spotify.com/artist/3p0i4P61vcbJpf3V8dcs1f) | [Ko](https://open.spotify.com/album/7HufcKIHl9VuzhTO8TeInt) | 4:09 |
 | 12 | [EL INCA](https://open.spotify.com/track/3dbSd2j3p9XWqI1VqfOyh7) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [EL INCA](https://open.spotify.com/album/0NVqJU1egg3BuAtRyxUvz0) | 3:32 |
 | 13 | [La Movie](https://open.spotify.com/track/5vXtCT27kRaDJASx4HNlGO) | [Dani Torres](https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR) | [La Movie](https://open.spotify.com/album/3uSH8eA5bgrPCHLCBTRGss) | 4:24 |
 | 14 | [Flor de Loto](https://open.spotify.com/track/4lS5OOqQzyQDDR0g1EmcdK) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Flor de Loto](https://open.spotify.com/album/1zdtga77ItleW98WqnrX0m) | 2:06 |

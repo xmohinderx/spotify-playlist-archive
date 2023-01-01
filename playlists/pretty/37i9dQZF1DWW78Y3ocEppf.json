@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: PARTYNEXTDOOR",
-  "num_followers": 38520,
+  "num_followers": 38541,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDY2ZGFkZjM1YjVhMzQ3ZWQwZGE4NmU2MmM3MzU0ZGE4",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDViMGE3ZjExNmQxMzRkOTM2ZDcyOTIyYWYwNGViYjIw",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
     },
     {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "You Never Visit Me",
+        "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "You Never Visit Me",
+      "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
+    },
+    {
       "added_at": "2022-10-14 05:33:57",
       "album": {
         "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
@@ -643,22 +659,6 @@
       "duration_ms": 153735,
       "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "You Never Visit Me",
-        "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "You Never Visit Me",
-      "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -929,26 +929,6 @@
       "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Hello Poison",
-        "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
-      },
-      "artists": [
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Bad Idea (feat. Blxst)",
-      "url": "https://open.spotify.com/track/0igni3l2TL5YMWiTa2b1Qb"
-    },
-    {
       "added_at": "2022-08-26 04:41:34",
       "album": {
         "name": "Love Quotes",
@@ -985,6 +965,26 @@
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Hello Poison",
+        "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Bad Idea (feat. Blxst)",
+      "url": "https://open.spotify.com/track/0igni3l2TL5YMWiTa2b1Qb"
+    },
+    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Marigold",
@@ -1003,26 +1003,6 @@
       "duration_ms": 205479,
       "name": "Such A Thing",
       "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Breezy",
-        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "Closure (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/4QZlnnZzr2ikWn4jdiyFfk"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1055,6 +1035,26 @@
       "duration_ms": 214138,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/6nrvIIOUmYydHeN8oSGOW5"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "Closure (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/4QZlnnZzr2ikWn4jdiyFfk"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1109,20 +1109,24 @@
       "url": "https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
+      "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Irresponsible",
-        "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
+        "name": "KIKI",
+        "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
       },
       "artists": [
         {
           "name": "Kiana Led\u00e9",
           "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 192545,
-      "name": "Irresponsible",
-      "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
+      "duration_ms": 242400,
+      "name": "Forfeit. (ft. Lucky Daye)",
+      "url": "https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1"
     },
     {
       "added_at": "2022-09-23 04:09:12",
@@ -1265,24 +1269,20 @@
       "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "KIKI",
-        "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
+        "name": "Irresponsible",
+        "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
       },
       "artists": [
         {
           "name": "Kiana Led\u00e9",
           "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 242400,
-      "name": "Forfeit. (ft. Lucky Daye)",
-      "url": "https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1"
+      "duration_ms": 192545,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1405,24 +1405,20 @@
       "url": "https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn"
     },
     {
-      "added_at": "2022-09-30 04:04:59",
+      "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "What's Up (feat. Jagged Edge)",
-        "url": "https://open.spotify.com/album/38mJ5vtciV1TV9xrD1qy4L"
+        "name": "Feelings 4 You",
+        "url": "https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx"
       },
       "artists": [
         {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        },
-        {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
         }
       ],
-      "duration_ms": 219729,
-      "name": "What's Up (feat. Jagged Edge)",
-      "url": "https://open.spotify.com/track/2HI6OFcMNUyS0IEwp4hffV"
+      "duration_ms": 256202,
+      "name": "Feelings 4 You",
+      "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -1439,22 +1435,6 @@
       "duration_ms": 165813,
       "name": "Countless Times",
       "url": "https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Feelings 4 You",
-        "url": "https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 256202,
-      "name": "Feelings 4 You",
-      "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
     },
     {
       "added_at": "2022-10-14 05:33:57",
@@ -1487,22 +1467,6 @@
       "duration_ms": 184586,
       "name": "Crazy Down",
       "url": "https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx"
-    },
-    {
-      "added_at": "2022-09-30 04:04:59",
-      "album": {
-        "name": "If I Get Caught",
-        "url": "https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 186114,
-      "name": "If I Get Caught",
-      "url": "https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1557,22 +1521,6 @@
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "SCORPIO MOON - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1rqrKsQxo2QEjN4IwW0bbc"
-      },
-      "artists": [
-        {
-          "name": "Phabo",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 175522,
-      "name": "SCORPIO MOON - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6D1FytV3a4tYR6O8Q2w83z"
-    },
-    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Cold Toronto",
@@ -1587,6 +1535,22 @@
       "duration_ms": 157808,
       "name": "Fell Asleep",
       "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "SCORPIO MOON - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1rqrKsQxo2QEjN4IwW0bbc"
+      },
+      "artists": [
+        {
+          "name": "Phabo",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "SCORPIO MOON - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6D1FytV3a4tYR6O8Q2w83z"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1621,6 +1585,22 @@
       "url": "https://open.spotify.com/track/3xJphVAHpi2IyWV030jJ6A"
     },
     {
+      "added_at": "2022-10-14 05:33:57",
+      "album": {
+        "name": "I Think I Do",
+        "url": "https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 142438,
+      "name": "I Think I Do",
+      "url": "https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Late Night",
@@ -1639,22 +1619,6 @@
       "duration_ms": 158228,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/3wieNkso3b4ctBodn0xUlQ"
-    },
-    {
-      "added_at": "2022-10-14 05:33:57",
-      "album": {
-        "name": "I Think I Do",
-        "url": "https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 142438,
-      "name": "I Think I Do",
-      "url": "https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1731,6 +1695,38 @@
       "duration_ms": 194679,
       "name": "Don't You Know",
       "url": "https://open.spotify.com/track/5FAQkTyzcSraGEQORCmhaz"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "No Drama",
+        "url": "https://open.spotify.com/album/0i7WmU3wYCP6DL0Mybqwda"
+      },
+      "artists": [
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "No Drama",
+      "url": "https://open.spotify.com/track/5S7LgarbUuknrVO2gFkhtT"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "flora + fana",
+        "url": "https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 169579,
+      "name": "BAD bad",
+      "url": "https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck"
     }
   ],
   "unique_name": "Some Kinda Way",

@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 63907,
+  "num_followers": 64039,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1MTU4MCwwMDAwMDAwMDU4MzMxZDY4ZDFjN2Q4ODczM2I0MWU2YjRhMmIzOGEy",
+  "snapshot_id": "MTY3MTU1MTU4MCwwMDAwMDAwMGVjYzZkNTY5OWRmMmI5ZjU2MjAxMzgzYWNjY2Q5NThk",
   "tracks": [
     {
       "added_at": "2022-12-20 15:53:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-12-20 15:53:00",
       "album": {
-        "name": "Woman Across The River",
-        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 270600,
-      "name": "Help Me Through The Day",
-      "url": "https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G"
-    },
-    {
-      "added_at": "2022-12-20 15:53:00",
-      "album": {
         "name": "Bad Mouthin'",
         "url": "https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 223800,
       "name": "Heartbreak Hotel",
       "url": "https://open.spotify.com/track/5KbTAN3GgXJCvBySnOZrih"
+    },
+    {
+      "added_at": "2022-12-20 15:53:00",
+      "album": {
+        "name": "Woman Across The River",
+        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 270600,
+      "name": "Help Me Through The Day",
+      "url": "https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G"
     },
     {
       "added_at": "2022-12-20 15:53:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-12-20 15:53:00",
       "album": {
-        "name": "Big City Blues",
-        "url": "https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl"
-      },
-      "artists": [
-        {
-          "name": "John Hammond",
-          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Midnight Hour Blues",
-      "url": "https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M"
-    },
-    {
-      "added_at": "2022-12-20 15:53:00",
-      "album": {
         "name": "Major League Blues",
         "url": "https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 320000,
       "name": "Here in the Delta",
       "url": "https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi"
+    },
+    {
+      "added_at": "2022-12-20 15:53:00",
+      "album": {
+        "name": "Big City Blues",
+        "url": "https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl"
+      },
+      "artists": [
+        {
+          "name": "John Hammond",
+          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Midnight Hour Blues",
+      "url": "https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M"
     },
     {
       "added_at": "2022-12-20 15:53:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-12-20 15:53:00",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB"
-      },
-      "artists": [
-        {
-          "name": "Robben Ford",
-          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
-        }
-      ],
-      "duration_ms": 293851,
-      "name": "Blues For Lonnie Johnson",
-      "url": "https://open.spotify.com/track/16GxUULZcIsEiXGd3mOGaF"
-    },
-    {
-      "added_at": "2022-12-20 15:53:00",
-      "album": {
         "name": "For Blind Willie",
         "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 361970,
       "name": "Lord I Just Can't Keep from Crying",
       "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
+    },
+    {
+      "added_at": "2022-12-20 15:53:00",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        }
+      ],
+      "duration_ms": 293851,
+      "name": "Blues For Lonnie Johnson",
+      "url": "https://open.spotify.com/track/16GxUULZcIsEiXGd3mOGaF"
     },
     {
       "added_at": "2022-12-20 15:53:00",

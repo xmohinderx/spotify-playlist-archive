@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luísa Sonza com Xamã, MC Cabelinho, Clayton & Romário e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,813,319 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,813,815 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 31 | [Chave de Ouro](https://open.spotify.com/track/43VCnHOV0TmLn9IdjjaaJN) | [Mc Bruninho da Praia](https://open.spotify.com/artist/7579yDSrhA6ZAArOo7m6UT), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [MC Lon](https://open.spotify.com/artist/5FeGhv7je3hPQi2TLslPIl) | [Chave de Ouro](https://open.spotify.com/album/1NlBHIPtNFv4zEakn32POV) | 6:34 |
 | 32 | [Paraíso Tropical 3](https://open.spotify.com/track/1aGFBYrWGHTBzkVlAZvfm5) | [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN) | [Paraíso Tropical 3](https://open.spotify.com/album/1yG3V90FwQzFuy8RPxtNmO) | 6:36 |
 | 33 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 |
-| 34 | [Modest](https://open.spotify.com/track/7MXChMwOQfLuF5Ma5nFDaO) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [why not us](https://open.spotify.com/album/4Ivk5W6s5LtR5klO5u98Ry) | 3:02 |
+| 34 | [Modest](https://open.spotify.com/track/7MXChMwOQfLuF5Ma5nFDaO) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu), [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG) | [why not us?](https://open.spotify.com/album/4Ivk5W6s5LtR5klO5u98Ry) | 3:02 |
 | 35 | [Alone](https://open.spotify.com/track/151RPoWoVDVV9WKNqOq0oS) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [Alone](https://open.spotify.com/album/6PKxZA8GRTAMPPEATm7Xk5) | 2:52 |
 | 36 | [BLACKOUT](https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [BLACKOUT](https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5) | 3:03 |
 | 37 | [Surrender \(feat\. YOU\)](https://open.spotify.com/track/4v0SRIKcYUkNYhK2zLA6nf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ÜHÜ](https://open.spotify.com/artist/0kX81k87cBgYN7KffDI3fC), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Surrender \(feat\. YOU\)](https://open.spotify.com/album/6CeALTTb9SCKKEIzaQC8xl) | 3:33 |

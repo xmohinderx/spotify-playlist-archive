@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > Time to rave again.
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,326 likes - 70 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,873 likes - 70 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 31 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 |
 | 32 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 |
 | 33 | [Vodka & Orange](https://open.spotify.com/track/3xv8dKKfN1WjhGnsFhn9TC) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Vodka & Orange EP](https://open.spotify.com/album/0DzRyBfMWMQZa1AtsF7PY0) | 7:19 |
-| 34 | [Vommuli](https://open.spotify.com/track/0P3Sfu8JGonAXzPyjAf6RU) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Vommuli](https://open.spotify.com/album/4UPeZ2BiTHtX5sQ2XhURQL) | 3:52 |
-| 35 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 |
+| 34 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 |
+| 35 | [Vommuli](https://open.spotify.com/track/0P3Sfu8JGonAXzPyjAf6RU) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Vommuli](https://open.spotify.com/album/4UPeZ2BiTHtX5sQ2XhURQL) | 3:52 |
 | 36 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 |
 | 37 | [Haute Definition](https://open.spotify.com/track/5ogJoH7CMHtyxIsxExxm4B) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Dissidænce Episode 1](https://open.spotify.com/album/3x4w1TdlWi3d81ibVmR4Lj) | 3:58 |
-| 38 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 |
+| 38 | [NYWTF feat\. Mikhail Beltran \- Edit](https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Mikhail Beltran](https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9) | [NYWTF](https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj) | 3:04 |
 | 39 | [Himmelblau](https://open.spotify.com/track/6ZRwn9JqdtRQyrHT0tKIgy) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Never Stop Dancing](https://open.spotify.com/album/6YoPT7n9LXQpOlvTjpQtCC) | 8:13 |
-| 40 | [Moving On](https://open.spotify.com/track/0LJ33gGNQlxoLJlOsZLGNE) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/1ggOs7osv7Gtv6w5Pf9rwl) | 3:25 |
-| 41 | [NYWTF feat\. Mikhail Beltran \- Edit](https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Mikhail Beltran](https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9) | [NYWTF](https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj) | 3:04 |
+| 40 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 |
+| 41 | [Moving On](https://open.spotify.com/track/0LJ33gGNQlxoLJlOsZLGNE) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/1ggOs7osv7Gtv6w5Pf9rwl) | 3:25 |
 | 42 | [Give It 2 Me](https://open.spotify.com/track/6dugYhVnZ66nGsVTngBsOx) | [Michael Feel & Aleco](https://open.spotify.com/artist/3pN7a2O9TGJDoqeXVOsRni) | [Give It 2 Me](https://open.spotify.com/album/5DBn0yHAfqjKtIaENF0CJR) | 4:11 |
 | 43 | [The Church](https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [The Church](https://open.spotify.com/album/7B1zROmTZS3MZ2QmtLyV6W) | 7:20 |
 | 44 | [Chaos](https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [혼돈 과 질서](https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7) | 8:48 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 50 | [Something Was Missing \- PARIS Remix](https://open.spotify.com/track/0B4XSKCFYzkfLXdX5cHE41) | [Tornado Club](https://open.spotify.com/artist/5nLy3XRESMbvo6XguDGES3), [PARIS](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N) | [Something Was Missing \(PARIS Remix\)](https://open.spotify.com/album/25IgyccLzfoOzT0SwBn43v) | 4:39 |
 | 51 | [Greece 2000 \- Sean Finn Radio Edit](https://open.spotify.com/track/1vq73Rln9fEonO77ju3ZfV) | [Sean Finn](https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS), [No Hopes](https://open.spotify.com/artist/4eRfkq2oGeOhnEEndl184K) | [Greece 2000 \(Radio Edits\)](https://open.spotify.com/album/2feiIM0a2Cgd9cEjE3mfhA) | 2:55 |
 | 52 | [Heaven \- Oliver Schories Club Mix](https://open.spotify.com/track/2ZtjuNdPKbiRlxCAm7J8Tt) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [Heaven \(Oliver Schories Club Mix\)](https://open.spotify.com/album/2n0qGGx3bVrgRBTu3P3Stn) | 3:45 |
-| 53 | [Golden State](https://open.spotify.com/track/0WRZuBaMDMw7qmwBeqX1jI) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Golden State](https://open.spotify.com/album/5bPmTN4p8RGeQjQv2iTPv5) | 2:55 |
-| 54 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 |
+| 53 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 |
+| 54 | [Golden State](https://open.spotify.com/track/0WRZuBaMDMw7qmwBeqX1jI) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Golden State](https://open.spotify.com/album/5bPmTN4p8RGeQjQv2iTPv5) | 2:55 |
 | 55 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
 | 56 | [Silence & Secrets \- Adriatique Remix](https://open.spotify.com/track/5twGTwrfKmxSc21cTGNPNn) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Silence & Secrets \(Adriatique Remix\)](https://open.spotify.com/album/0Y0xhBcScceez0FfDnap8p) | 7:21 |
 | 57 | [Go \- Anfisa Letyago Remix](https://open.spotify.com/track/6UFcxC1P9Dr5q9vYjGT5A7) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Go \(Anfisa Letyago Remix\)](https://open.spotify.com/album/3iHg6AnbZx5YM2Q2cXWno3) | 5:38 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [Confide \(Contour 1\)](https://open.spotify.com/track/6GbgqFsJbytKNRlmcZIHqL) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Contour](https://open.spotify.com/album/7MvFbkm0nHFPin4SYkiOIY) | 6:41 |
 | 70 | [Other Side](https://open.spotify.com/track/6pZVmX53ZAFis8ambncbZj) | [Binaryh](https://open.spotify.com/artist/7zw8gWmNncuk2QZHIc70So), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Sensitivity Spirals](https://open.spotify.com/album/0WN8HExI3A6hQCmFEOlXsx) | 6:56 |
 
-Snapshot ID: `MTY3MjQyMjE5NCwwMDAwMDAwMDNhYTZkNmJkYjYzYTc4NTRjZmZhOTllMmMyY2Q4NWI4`
+Snapshot ID: `MTY3MjQyMjE5NCwwMDAwMDAwMDU0NTAxOGI0ZWQ0ODE5NzVjMTBkNGE2ZmM1YzVkMTU0`

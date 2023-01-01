@@ -4,7 +4,7 @@
 
 > האמנית הישראליות שהאזנו להן בפול ווליום ב\-2022\. קאבר: נונו
 
-231 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/2e4OmeRUwQvswEW0cNS2Ew)
+232 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/2e4OmeRUwQvswEW0cNS2Ew)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,8 @@
 | [תמונה](https://open.spotify.com/track/5WabBQzAXfPTfQRgeVl4zT) | [Maya Johanna](https://open.spotify.com/artist/2pgAILWtXXJqguZ19FoDtl) | [תמונה](https://open.spotify.com/album/34c59VGaTme36d0cMKr5hg) | 4:14 | 2022-10-04 | 2022-12-01 |
 | [תמיד לקום](https://open.spotify.com/track/4AAuvzavD6WJd8HQCWKThQ) | [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g) | [תמיד לקום](https://open.spotify.com/album/7pakfv1C5q4zVN3JjYW8M7) | 3:10 | 2022-04-05 | 2022-08-03 |
 | [תן לי קצת זמן](https://open.spotify.com/track/5L3XWHzsFgEo9fiNZUy8qf) | [Sabbo](https://open.spotify.com/artist/1Le4RKC0GO8sD4cRxmqlgp), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [תן לי קצת זמן](https://open.spotify.com/album/4ZSRMtMx3b3uEx0qhA9QZi) | 3:46 | 2022-09-06 | 2022-12-01 |
-| [תנשום](https://open.spotify.com/track/5DOhmogkcBGrS8CDZk2Nzh) | [Nasrin Kadri](https://open.spotify.com/artist/6kKweapGufuHSv5CXVURim), [Eden Daniel Gabay](https://open.spotify.com/artist/5LzEiWU95pAzkx7wXQu3So) | [תנשום](https://open.spotify.com/album/6W2kLsIvhNqxDJq4nkDfgI) | 2:19 | 2022-11-30 |  |
+| [תנשום](https://open.spotify.com/track/5DOhmogkcBGrS8CDZk2Nzh) | [Nasrin Kadri](https://open.spotify.com/artist/6kKweapGufuHSv5CXVURim), [Eden Daniel Gabay](https://open.spotify.com/artist/5LzEiWU95pAzkx7wXQu3So) | [תנשום](https://open.spotify.com/album/6W2kLsIvhNqxDJq4nkDfgI) | 2:19 | 2022-11-30 | 2023-01-01 |
+| [תנשום](https://open.spotify.com/track/5mTIOVKg2fi8noMDI08yoF) | [Nasrin Kadri](https://open.spotify.com/artist/6kKweapGufuHSv5CXVURim), [Eden Daniel Gabay](https://open.spotify.com/artist/5LzEiWU95pAzkx7wXQu3So) | [תנשום](https://open.spotify.com/album/6H9UpQUorpiYMzDBH50mjc) | 2:19 | 2022-11-30 |  |
 | [תפילי עליי געגוע](https://open.spotify.com/track/3Xq5ayTa5Y5ioTAowvBgQO) | [Tamar Yahalomy](https://open.spotify.com/artist/25r2nGCH8YzS92nePwePjD) | [תפילי עליי געגוע](https://open.spotify.com/album/5uYvR1Er5PRYn3lyHoNQYc) | 2:59 | 2022-03-08 | 2022-10-05 |
 | [תקפצו לי](https://open.spotify.com/track/0cPx0S4t90ZuPEs8Zt8wyu) | [הדר פרג'ון](https://open.spotify.com/artist/6MjdGFM41dTrcBfxgwK7Xh) | [תקפצו לי](https://open.spotify.com/album/4NlUVgKbRVJqiB7QQqxK12) | 2:54 | 2022-10-04 | 2022-12-01 |
 | [תשבור לי ת'לב](https://open.spotify.com/track/2wJCZ42C6XY9DpP8IlO9OU) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [תשבור לי ת'לב](https://open.spotify.com/album/3qssblj6zx6jKQ8wDsZb1W) | 3:07 | 2022-02-01 | 2022-04-06 |

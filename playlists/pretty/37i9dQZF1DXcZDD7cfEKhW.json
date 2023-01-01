@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Sam Smith & Kim Petras",
-  "num_followers": 3352054,
+  "num_followers": 3352591,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM3NjQwMCwwMDAwMDAwMGYxNmI4ODliYzA3OGY3NTYxMjliNWUxMTNhYTM0NjYw",
+  "snapshot_id": "MTY3MjM3NjQwMCwwMDAwMDAwMGNiYWM5N2E0YjZjNTBlZTQyNjBlODE5YzBkZDgzNzcw",
   "tracks": [
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1055,30 +1055,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "edamame (feat. Rich Brian) [Diplo Remix]",
-        "url": "https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 175309,
-      "name": "edamame (feat. Rich Brian) - Diplo Remix",
-      "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
         "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
       },
@@ -1099,6 +1075,30 @@
       "duration_ms": 176000,
       "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
       "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "edamame (feat. Rich Brian) [Diplo Remix]",
+        "url": "https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 175309,
+      "name": "edamame (feat. Rich Brian) - Diplo Remix",
+      "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
+        "name": "Summertime Sadness (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 265997,
+      "name": "Summertime - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
         "name": "Left and Right (feat. Jung Kook of BTS) [Galantis Remix]",
         "url": "https://open.spotify.com/album/4AyXQkbDTENUceOPTPWdwD"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 165269,
       "name": "Left and Right (feat. Jung Kook of BTS) - Galantis Remix",
       "url": "https://open.spotify.com/track/7twpmDySuCWpASRjWVEdnJ"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "Summertime Sadness (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 265997,
-      "name": "Summertime - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1339,6 +1339,30 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
+        "name": "Don't Leave Me Lonely (feat. Elley Duh\u00e9) [Felix Jaehn Happy Rave Mix]",
+        "url": "https://open.spotify.com/album/5M3YqVjk1HX7crUZMQwg9O"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Don't Leave Me Lonely (feat. Elley Duh\u00e9) [Felix Jaehn Happy Rave Mix]",
+      "url": "https://open.spotify.com/track/4tvEEOn0swSHPHOifOb8x4"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
         "name": "CAN'T TOUCH THIS (R3HAB Remix)",
         "url": "https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC"
       },
@@ -1399,30 +1423,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Don't Leave Me Lonely (feat. Elley Duh\u00e9) [Felix Jaehn Happy Rave Mix]",
-        "url": "https://open.spotify.com/album/5M3YqVjk1HX7crUZMQwg9O"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Don't Leave Me Lonely (feat. Elley Duh\u00e9) [Felix Jaehn Happy Rave Mix]",
-      "url": "https://open.spotify.com/track/4tvEEOn0swSHPHOifOb8x4"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "Moth To A Flame (Adriatique Remix)",
         "url": "https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC"
       },
@@ -1447,30 +1447,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Steal My Clothes",
-        "url": "https://open.spotify.com/album/0Avx0lSSSHNdu5poOJRAzz"
-      },
-      "artists": [
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Steal My Clothes (ft. Bea Miller) \u2013 LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/6Esm09YZlCd58xR08xT021"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "By Your Side (feat. Tom Grennan) [Oliver Heldens Remix]",
         "url": "https://open.spotify.com/album/0fWC4Bvc2DNduV9qLKoPZR"
       },
@@ -1491,6 +1467,30 @@
       "duration_ms": 238064,
       "name": "By Your Side (feat. Tom Grennan) - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/3ZFosXgzvmN6wXs9wTaIxh"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Steal My Clothes",
+        "url": "https://open.spotify.com/album/0Avx0lSSSHNdu5poOJRAzz"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Steal My Clothes (ft. Bea Miller) \u2013 LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/6Esm09YZlCd58xR08xT021"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1667,30 +1667,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Why Can't You Wait (3LAU Remix)",
-        "url": "https://open.spotify.com/album/1nUpGyJyMaqU9fL5qEG3eI"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        }
-      ],
-      "duration_ms": 221612,
-      "name": "Why Can't You Wait - 3LAU Remix",
-      "url": "https://open.spotify.com/track/6KXmKsgyW8EtRHlMk1ehKi"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "Deep Down (feat. Never Dull) [Nathan Dawe Remix]",
         "url": "https://open.spotify.com/album/0pTxtBYmfKmTqlMdJkQOhx"
       },
@@ -1719,6 +1695,30 @@
       "duration_ms": 166463,
       "name": "Deep Down (feat. Never Dull) - Nathan Dawe Remix",
       "url": "https://open.spotify.com/track/6Ku2dAf2mm5ne7tT7QUbdF"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Why Can't You Wait (3LAU Remix)",
+        "url": "https://open.spotify.com/album/1nUpGyJyMaqU9fL5qEG3eI"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        }
+      ],
+      "duration_ms": 221612,
+      "name": "Why Can't You Wait - 3LAU Remix",
+      "url": "https://open.spotify.com/track/6KXmKsgyW8EtRHlMk1ehKi"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "High (Don Diablo Remix)",
-        "url": "https://open.spotify.com/album/7prx1EAmK2zsdvABzohj6p"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 241904,
-      "name": "High - Don Diablo Remix",
-      "url": "https://open.spotify.com/track/6c2NgGHj1PxDhpkbx4d5nO"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "I Got A Feeling (James Hype Remix)",
         "url": "https://open.spotify.com/album/7uegIm3LnOTWk7QGgs9qiC"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 161257,
       "name": "I Got A Feeling - James Hype Remix",
       "url": "https://open.spotify.com/track/4SYbdrmyDpCvWkoC4skk5z"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "High (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/7prx1EAmK2zsdvABzohj6p"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 241904,
+      "name": "High - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/6c2NgGHj1PxDhpkbx4d5nO"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1907,30 +1907,6 @@
       "duration_ms": 189143,
       "name": "So Good - Jax Jones Remix",
       "url": "https://open.spotify.com/track/5K2wtWyngZwbkrvqHc1YM8"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "Drop A Bomb (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/6U2Rfs6iffPRcCZcWumT9R"
-      },
-      "artists": [
-        {
-          "name": "Riotron",
-          "url": "https://open.spotify.com/artist/6oW4zCSDSA4RTCwFpatN3k"
-        },
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Drop A Bomb - R3HAB Remix",
-      "url": "https://open.spotify.com/track/2eGOvaIoQBi2nEF908wqDm"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -2003,6 +1979,30 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
+        "name": "Drop A Bomb (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/6U2Rfs6iffPRcCZcWumT9R"
+      },
+      "artists": [
+        {
+          "name": "Riotron",
+          "url": "https://open.spotify.com/artist/6oW4zCSDSA4RTCwFpatN3k"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Drop A Bomb - R3HAB Remix",
+      "url": "https://open.spotify.com/track/2eGOvaIoQBi2nEF908wqDm"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
         "name": "Late Night Feels (\u00d6wnboss Remix)",
         "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
       },
@@ -2023,30 +2023,6 @@
       "duration_ms": 190800,
       "name": "Late Night Feels (\u00d6wnboss Remix)",
       "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "Discoteca (Deorro Remix)",
-        "url": "https://open.spotify.com/album/4hbQnVsOamBrrAhYFzw4Fj"
-      },
-      "artists": [
-        {
-          "name": "IAmChino",
-          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 190312,
-      "name": "Discoteca (Deorro Remix)",
-      "url": "https://open.spotify.com/track/5tCSY4kKx54ly2kdJuHUpq"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -2075,6 +2051,30 @@
       "duration_ms": 191612,
       "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
       "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Discoteca (Deorro Remix)",
+        "url": "https://open.spotify.com/album/4hbQnVsOamBrrAhYFzw4Fj"
+      },
+      "artists": [
+        {
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 190312,
+      "name": "Discoteca (Deorro Remix)",
+      "url": "https://open.spotify.com/track/5tCSY4kKx54ly2kdJuHUpq"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -2215,26 +2215,22 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Don\u2019t Wake Me Up (Sevenn Remix)",
-        "url": "https://open.spotify.com/album/4CI8CduQt7feuYZeSyTuZi"
+        "name": "Grand (TroyBoi Remix)",
+        "url": "https://open.spotify.com/album/2znOF5q6Bc0BK7krFhUknf"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         },
         {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
         }
       ],
-      "duration_ms": 236065,
-      "name": "Don\u2019t Wake Me Up - Sevenn Remix",
-      "url": "https://open.spotify.com/track/6k5vdsmeY5yFWLcKhMBIsN"
+      "duration_ms": 149500,
+      "name": "Grand - TroyBoi Remix",
+      "url": "https://open.spotify.com/track/4CzvdvPAiMCyxQunCKtQHC"
     }
   ],
   "unique_name": "Pop Remix",

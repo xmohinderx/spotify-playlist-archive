@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > q q eh birimbola?
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,069 likes - 69 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,764 likes - 69 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

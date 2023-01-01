@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Las artistas que marcaron el año con Mon Laferte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,814 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,818 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 18 | [Qué Tal](https://open.spotify.com/track/10yYzYZwIaZhBLvUt7oMPh) | [Amara Ignacia](https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa) | [Qué Tal](https://open.spotify.com/album/4ygfd1lPGeyflD5NtWR8AT) | 2:59 |
 | 19 | [Stefany](https://open.spotify.com/track/2itkoR7NhZ71ORPGweN2WS) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Saito ape](https://open.spotify.com/artist/0panVaEhbJCPqIRJfLuwap) | [Stefany](https://open.spotify.com/album/74vpSPUywXW5tWyCz7WWYx) | 3:43 |
 | 20 | [Castillo de Cristal](https://open.spotify.com/track/6EKbtOGBq4tSpn8CkoDUoq) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Vida Tan Bonita](https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C) | 2:47 |
-| 21 | [Me Atrapo](https://open.spotify.com/track/5mb7wNPBlEzCnZmEYYk4wy) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 4:10 |
-| 22 | [KATANA](https://open.spotify.com/track/5JkPjSbLQDkyXWei94y0x5) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Los Reyes Del Parque](https://open.spotify.com/artist/1b7hyZ1cAfabiMqIx72gzR) | [KATANA](https://open.spotify.com/album/5OOFz37iRTtEwoYYf2bMbg) | 1:33 |
+| 21 | [KATANA](https://open.spotify.com/track/5JkPjSbLQDkyXWei94y0x5) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Los Reyes Del Parque](https://open.spotify.com/artist/1b7hyZ1cAfabiMqIx72gzR) | [KATANA](https://open.spotify.com/album/5OOFz37iRTtEwoYYf2bMbg) | 1:33 |
+| 22 | [Me Atrapo](https://open.spotify.com/track/5mb7wNPBlEzCnZmEYYk4wy) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 4:10 |
 | 23 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
 | 24 | [Detonación \- Remix](https://open.spotify.com/track/6uuXd49EnESdqwsvBp6JNc) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Rey Secreto](https://open.spotify.com/album/0uvDf9ljskD5hI9XxvBIJI) | 3:52 |
 | 25 | [A la Primera](https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [De Canciones Tristes y Otras Sutilezas](https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Te Vi](https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2) | [Te Vi](https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm) | 3:27 |
 | 50 | [Música \- Quadman Remix](https://open.spotify.com/track/1tsOfeJb5PliHGBP4adsmD) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Quadman](https://open.spotify.com/artist/4pIRnTXA6rcHUXbdS7uxuE) | [La Mar \(Remixes\)](https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O) | 6:15 |
 
-Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMGQyZGNmNWFlNzgxNzgwZmQzNTZjMmE5MTIyNzlmNWQy`
+Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMDg0OWEzMGY3YmQzOGVjYTYwNDM3OWQ1NDlkODNiMTM0`

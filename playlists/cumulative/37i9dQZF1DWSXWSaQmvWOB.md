@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-606 songs - 1 day 13 hr 17 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+607 songs - 1 day 13 hr 21 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,8 @@
 | [Never Compare](https://open.spotify.com/track/0pYZTaQQkoCvrwWfSm06yM) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Never Compare](https://open.spotify.com/album/5bbIWUjCwwxvwAujZ8u26I) | 4:27 | 2021-01-09 | 2022-01-28 |
 | [Never Forget My Love](https://open.spotify.com/track/63KVRfA7COiRBVnZAfbPxU) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Never Forget My Love](https://open.spotify.com/album/0oiVII3rwv5bEyIZM234Z4) | 3:41 | 2021-12-01 | 2022-12-03 |
 | [Never Gonna Let You Go](https://open.spotify.com/track/0BQwE7H3Xt5PudqGjDGQq7) | [The HamilTones](https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs) | [Watch The Tones \(The B Side\)](https://open.spotify.com/album/2EdpSqWymYdbGYyGAskKmZ) | 3:51 | 2020-03-25\* | 2020-10-30 |
-| [New Guru](https://open.spotify.com/track/7MV4NBFotO3y7Bpo9S6I2Y) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [New Guru](https://open.spotify.com/album/3GcUSJfHkUDGlrN94sC5CF) | 3:24 | 2022-12-08 |  |
+| [New Guru](https://open.spotify.com/track/1iDxNtb7jleE8GqD4m81dA) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 3:24 | 2022-12-29 |  |
+| [New Guru](https://open.spotify.com/track/7MV4NBFotO3y7Bpo9S6I2Y) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [New Guru](https://open.spotify.com/album/3GcUSJfHkUDGlrN94sC5CF) | 3:24 | 2022-12-08 | 2023-01-01 |
 | [Next To You](https://open.spotify.com/track/3iMJbAaMEEAuq6IyTffTz8) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Next To You](https://open.spotify.com/album/4e1HlR812DhUkqoKJtjwoQ) | 3:35 | 2020-03-25\* | 2020-07-03 |
 | [No More You And I](https://open.spotify.com/track/2KnncJKBh0I3AgzhLRWNvn) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [No More You And I](https://open.spotify.com/album/1efl69CoDyrQoo9oiM90SD) | 3:44 | 2021-12-01 | 2022-01-14 |
 | [No Reply](https://open.spotify.com/track/2VbNBhOi7n7WX1yCVfy77I) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [No Reply](https://open.spotify.com/album/5yMxPV2nkSUlpzLfm2q0VJ) | 2:57 | 2021-02-24 | 2021-08-03 |

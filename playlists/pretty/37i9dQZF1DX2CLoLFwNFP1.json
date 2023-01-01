@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 11022,
+  "num_followers": 11071,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzI3NTM2OCwwMDAwMDAwMGU3Mzg2ZGJhZWEwNzJmMTkxYzM5MmQ5NGI5OTJmYzFk",
+  "snapshot_id": "MTY2NzI3NTM2OCwwMDAwMDAwMDM3OTQ2YjM2ZWM5Mzk4ODY3OWU4NDJlZTRjM2M4NmNl",
   "tracks": [
     {
       "added_at": "2022-11-01 04:02:48",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 209633,
+      "name": "\uacc1\uc5d0 \uc788\uc5b4\uc8fc\uae38",
+      "url": "https://open.spotify.com/track/0nHB8bNZtg3BuAkWr7uJNc"
+    },
+    {
+      "added_at": "2022-11-01 04:02:48",
+      "album": {
         "name": "ALL IN",
         "url": "https://open.spotify.com/album/4Pe85vc4NSIC9Y9adjmNA5"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 225026,
       "name": "ALL IN (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/586VUZmfGAEjeHkIPHwy3p"
-    },
-    {
-      "added_at": "2022-11-01 04:02:48",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 209633,
-      "name": "\uacc1\uc5d0 \uc788\uc5b4\uc8fc\uae38",
-      "url": "https://open.spotify.com/track/0nHB8bNZtg3BuAkWr7uJNc"
     },
     {
       "added_at": "2022-11-01 04:02:48",
@@ -1742,11 +1742,15 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Sexy 4 Eva",
-      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
+      "duration_ms": 198893,
+      "name": "Yacht (feat. Vic Mensa)",
+      "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
     },
     {
       "added_at": "2022-11-01 04:02:48",
@@ -1758,15 +1762,11 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
         }
       ],
-      "duration_ms": 198893,
-      "name": "Yacht (feat. Vic Mensa)",
-      "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
+      "duration_ms": 221693,
+      "name": "Sexy 4 Eva",
+      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
     },
     {
       "added_at": "2022-11-01 04:02:48",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDhmOGE0ZmUwYzY4OTMwODljZWM3YzJkYzFiZjA0YmMx",
+  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDIyYjQzNzNlZjhhODVjZDlmNWIwNDUzOTIzOGZkMzNk",
   "tracks": [
     {
       "added_at": "2022-12-16 03:00:00",
@@ -371,18 +371,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Lo Bueno De Morir De Amor",
-        "url": "https://open.spotify.com/album/5fhVKI6cdwPMic00HDME23"
+        "name": "El As de Espadas",
+        "url": "https://open.spotify.com/album/0oWW1AYG83mNnjWtt1DHUa"
       },
       "artists": [
         {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+          "name": "Los Mox!",
+          "url": "https://open.spotify.com/artist/3vOhBYpEKYtJhZcQWh0Q4Q"
         }
       ],
-      "duration_ms": 240666,
-      "name": "Lo Bueno De Morir De Amor",
-      "url": "https://open.spotify.com/track/6JOCmBTgT16HhWTMQheAPF"
+      "duration_ms": 153906,
+      "name": "El As de Espadas",
+      "url": "https://open.spotify.com/track/3ThndZ3i2hOcp54n87h4xc"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -403,18 +403,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "El As de Espadas",
-        "url": "https://open.spotify.com/album/0oWW1AYG83mNnjWtt1DHUa"
+        "name": "Lo Bueno De Morir De Amor",
+        "url": "https://open.spotify.com/album/5fhVKI6cdwPMic00HDME23"
       },
       "artists": [
         {
-          "name": "Los Mox!",
-          "url": "https://open.spotify.com/artist/3vOhBYpEKYtJhZcQWh0Q4Q"
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 153906,
-      "name": "El As de Espadas",
-      "url": "https://open.spotify.com/track/3ThndZ3i2hOcp54n87h4xc"
+      "duration_ms": 240666,
+      "name": "Lo Bueno De Morir De Amor",
+      "url": "https://open.spotify.com/track/6JOCmBTgT16HhWTMQheAPF"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -527,26 +527,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Resiste M\u00e1s Que Yo",
-        "url": "https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        },
-        {
-          "name": "Denisse Malebr\u00e1n",
-          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
-        }
-      ],
-      "duration_ms": 359233,
-      "name": "Resiste M\u00e1s Que Yo",
-      "url": "https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Mientras Duermes",
         "url": "https://open.spotify.com/album/5Gv3HrGr085Rv4Fc2uuMm3"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 219610,
       "name": "Mientras Duermes",
       "url": "https://open.spotify.com/track/1HZNMsGylrBnAuHkRMLl8O"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Resiste M\u00e1s Que Yo",
+        "url": "https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        },
+        {
+          "name": "Denisse Malebr\u00e1n",
+          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
+        }
+      ],
+      "duration_ms": 359233,
+      "name": "Resiste M\u00e1s Que Yo",
+      "url": "https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "De Polic\u00eda a Ladr\u00f3n",
-        "url": "https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6"
-      },
-      "artists": [
-        {
-          "name": "Lanza Internacional",
-          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
-        }
-      ],
-      "duration_ms": 192646,
-      "name": "De Polic\u00eda a Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Carne (En vivo)",
         "url": "https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Rocanrol de los Misterios",
-        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
+        "name": "De Polic\u00eda a Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6"
       },
       "artists": [
         {
-          "name": "Congreso",
-          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
+          "name": "Lanza Internacional",
+          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
         }
       ],
-      "duration_ms": 259329,
-      "name": "Rocanrol de los Misterios",
-      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
+      "duration_ms": 192646,
+      "name": "De Polic\u00eda a Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -743,6 +727,42 @@
       "duration_ms": 220616,
       "name": "Rebeli\u00f3n del Rock",
       "url": "https://open.spotify.com/track/25yT6XXsMludDfgMqViX7Y"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Rocanrol de los Misterios",
+        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
+      },
+      "artists": [
+        {
+          "name": "Congreso",
+          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
+        }
+      ],
+      "duration_ms": 259329,
+      "name": "Rocanrol de los Misterios",
+      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Lo Comido y Lo Bailado",
+        "url": "https://open.spotify.com/album/61CtpH0g7Q4Vr4Tr6O1rLh"
+      },
+      "artists": [
+        {
+          "name": "Juanito Ayala",
+          "url": "https://open.spotify.com/artist/4Wy8CFlIS11ODC9wVKBSz4"
+        },
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 189568,
+      "name": "El Vaiv\u00e9n",
+      "url": "https://open.spotify.com/track/5aIrqFydkhSU25u6OQLRdT"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -783,46 +803,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Lo Comido y Lo Bailado",
-        "url": "https://open.spotify.com/album/61CtpH0g7Q4Vr4Tr6O1rLh"
-      },
-      "artists": [
-        {
-          "name": "Juanito Ayala",
-          "url": "https://open.spotify.com/artist/4Wy8CFlIS11ODC9wVKBSz4"
-        },
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 189568,
-      "name": "El Vaiv\u00e9n",
-      "url": "https://open.spotify.com/track/5aIrqFydkhSU25u6OQLRdT"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Fuego y Mar",
-        "url": "https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ"
-      },
-      "artists": [
-        {
-          "name": "Jawar",
-          "url": "https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS"
-        },
-        {
-          "name": "Todos Me Caen Bien",
-          "url": "https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb"
-        }
-      ],
-      "duration_ms": 224096,
-      "name": "Fuego y Mar",
-      "url": "https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Camino a Casa",
         "url": "https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 281037,
       "name": "Privado",
       "url": "https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Fuego y Mar",
+        "url": "https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ"
+      },
+      "artists": [
+        {
+          "name": "Jawar",
+          "url": "https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS"
+        },
+        {
+          "name": "Todos Me Caen Bien",
+          "url": "https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb"
+        }
+      ],
+      "duration_ms": 224096,
+      "name": "Fuego y Mar",
+      "url": "https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1011,8 +1011,8 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Por 30 M\u00e1s",
-        "url": "https://open.spotify.com/album/3oiaJo9mvrGq1oIbwCfXwh"
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/0qiw6d8nhwseYuRY0EvmFi"
       },
       "artists": [
         {
@@ -1020,25 +1020,9 @@
           "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
         }
       ],
-      "duration_ms": 184517,
-      "name": "Culpa",
-      "url": "https://open.spotify.com/track/6EOfFnTp6FX4RgUrVTNRq9"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Libido",
-        "url": "https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Tyrana",
-          "url": "https://open.spotify.com/artist/4bigYnJG2Ifdeuc6DRSPMu"
-        }
-      ],
-      "duration_ms": 175114,
-      "name": "Libido",
-      "url": "https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm"
+      "duration_ms": 232106,
+      "name": "Lo Que Haces",
+      "url": "https://open.spotify.com/track/7C2tPKyTYSc8QHuow8nOrt"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1055,6 +1039,22 @@
       "duration_ms": 287671,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/3yIxTNMdFmzBHFszi9Muju"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Libido",
+        "url": "https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Tyrana",
+          "url": "https://open.spotify.com/artist/4bigYnJG2Ifdeuc6DRSPMu"
+        }
+      ],
+      "duration_ms": 175114,
+      "name": "Libido",
+      "url": "https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/0qiw6d8nhwseYuRY0EvmFi"
+        "name": "Por 30 M\u00e1s",
+        "url": "https://open.spotify.com/album/3oiaJo9mvrGq1oIbwCfXwh"
       },
       "artists": [
         {
@@ -1108,9 +1108,9 @@
           "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
         }
       ],
-      "duration_ms": 232106,
-      "name": "Lo Que Haces",
-      "url": "https://open.spotify.com/track/7C2tPKyTYSc8QHuow8nOrt"
+      "duration_ms": 184517,
+      "name": "Culpa",
+      "url": "https://open.spotify.com/track/6EOfFnTp6FX4RgUrVTNRq9"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
-        "url": "https://open.spotify.com/album/4Y6QBvjiKF6D7TapNyWJxd"
+        "name": "Clavelito Ant\u00e1rtico",
+        "url": "https://open.spotify.com/album/3VrIHqJEqLI27Yd86wF2Oj"
       },
       "artists": [
         {
-          "name": "Aguaturbia",
-          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
+          "name": "Hijo de Ladr\u00f3n",
+          "url": "https://open.spotify.com/artist/2X4WeD7RHacya71SNgMWgM"
         }
       ],
-      "duration_ms": 277849,
-      "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
-      "url": "https://open.spotify.com/track/6ctn61QsvvmiXSl5EafPLc"
+      "duration_ms": 321972,
+      "name": "Clavelito Ant\u00e1rtico",
+      "url": "https://open.spotify.com/track/2X2FciR0lbbWcJUof3R8rw"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Clavelito Ant\u00e1rtico",
-        "url": "https://open.spotify.com/album/3VrIHqJEqLI27Yd86wF2Oj"
-      },
-      "artists": [
-        {
-          "name": "Hijo de Ladr\u00f3n",
-          "url": "https://open.spotify.com/artist/2X4WeD7RHacya71SNgMWgM"
-        }
-      ],
-      "duration_ms": 321972,
-      "name": "Clavelito Ant\u00e1rtico",
-      "url": "https://open.spotify.com/track/2X2FciR0lbbWcJUof3R8rw"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "7 Mares",
         "url": "https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 258331,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
+        "url": "https://open.spotify.com/album/4Y6QBvjiKF6D7TapNyWJxd"
+      },
+      "artists": [
+        {
+          "name": "Aguaturbia",
+          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
+        }
+      ],
+      "duration_ms": 277849,
+      "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
+      "url": "https://open.spotify.com/track/6ctn61QsvvmiXSl5EafPLc"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Gris",
-        "url": "https://open.spotify.com/album/06S8bPjcB55y7YomGYHVCm"
-      },
-      "artists": [
-        {
-          "name": "Carga4",
-          "url": "https://open.spotify.com/artist/7oLFGxYGGi5T5iHABngpBM"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Gris",
-      "url": "https://open.spotify.com/track/3Rt94RtEaG0Er5fuq9mHRe"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Loumania",
         "url": "https://open.spotify.com/album/3nzWHNbkQZq5nF4QlI9OP8"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Como te amo (Radio Edit)",
-        "url": "https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV"
+        "name": "Gris",
+        "url": "https://open.spotify.com/album/06S8bPjcB55y7YomGYHVCm"
       },
       "artists": [
         {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+          "name": "Carga4",
+          "url": "https://open.spotify.com/artist/7oLFGxYGGi5T5iHABngpBM"
         }
       ],
-      "duration_ms": 176471,
-      "name": "Como te amo - Radio Edit",
-      "url": "https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE"
+      "duration_ms": 212680,
+      "name": "Gris",
+      "url": "https://open.spotify.com/track/3Rt94RtEaG0Er5fuq9mHRe"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Como te amo (Radio Edit)",
+        "url": "https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV"
+      },
+      "artists": [
+        {
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+        }
+      ],
+      "duration_ms": 176471,
+      "name": "Como te amo - Radio Edit",
+      "url": "https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Las Balas",
         "url": "https://open.spotify.com/album/6RQrXELYuwBV5kLVqzoez8"
       },
@@ -1323,26 +1323,6 @@
       "duration_ms": 229829,
       "name": "Las Balas",
       "url": "https://open.spotify.com/track/3XTUDJ6KL5UMBLyKVDoL0Q"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Fuerzas Que Retroceden",
-        "url": "https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE"
-      },
-      "artists": [
-        {
-          "name": "Mowat",
-          "url": "https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua"
-        },
-        {
-          "name": "Colombina Parra",
-          "url": "https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk"
-        }
-      ],
-      "duration_ms": 231403,
-      "name": "Fuerzas Que Retroceden",
-      "url": "https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1375,6 +1355,26 @@
       "duration_ms": 315241,
       "name": "Volver",
       "url": "https://open.spotify.com/track/3x39YiMOzzkcEDg4FDZVEk"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Fuerzas Que Retroceden",
+        "url": "https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE"
+      },
+      "artists": [
+        {
+          "name": "Mowat",
+          "url": "https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua"
+        },
+        {
+          "name": "Colombina Parra",
+          "url": "https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk"
+        }
+      ],
+      "duration_ms": 231403,
+      "name": "Fuerzas Que Retroceden",
+      "url": "https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "El \u00daltimo Hombre",
-        "url": "https://open.spotify.com/album/1eAxuEL8CwlTyoQCHN56oG"
+        "name": "Y Es Verdad",
+        "url": "https://open.spotify.com/album/1StejThSepSyQ6158JaC4Z"
       },
       "artists": [
         {
-          "name": "J\u00fcrgensen",
-          "url": "https://open.spotify.com/artist/3aa7GJeuK2umr3aA4SGPeG"
+          "name": "Los Necesarios",
+          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
         }
       ],
-      "duration_ms": 179330,
-      "name": "El \u00daltimo Hombre",
-      "url": "https://open.spotify.com/track/3ktAEb2vExKXKIYEasqNZB"
+      "duration_ms": 220236,
+      "name": "Y Es Verdad",
+      "url": "https://open.spotify.com/track/61l0LK7CU4fzifB7nUPKoI"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1475,18 +1475,34 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Y Es Verdad",
-        "url": "https://open.spotify.com/album/1StejThSepSyQ6158JaC4Z"
+        "name": "Mar\u00eda Luc\u00eda (Live)",
+        "url": "https://open.spotify.com/album/5em6cQH7GLLUhOtSLkIN8T"
       },
       "artists": [
         {
-          "name": "Los Necesarios",
-          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
+          "name": "Ignacio Arocena",
+          "url": "https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9"
         }
       ],
-      "duration_ms": 220236,
-      "name": "Y Es Verdad",
-      "url": "https://open.spotify.com/track/61l0LK7CU4fzifB7nUPKoI"
+      "duration_ms": 315475,
+      "name": "Mar\u00eda Luc\u00eda - Live",
+      "url": "https://open.spotify.com/track/1PRs9Gh428DviHvAiH70Ma"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "El \u00daltimo Hombre",
+        "url": "https://open.spotify.com/album/1eAxuEL8CwlTyoQCHN56oG"
+      },
+      "artists": [
+        {
+          "name": "J\u00fcrgensen",
+          "url": "https://open.spotify.com/artist/3aa7GJeuK2umr3aA4SGPeG"
+        }
+      ],
+      "duration_ms": 179330,
+      "name": "El \u00daltimo Hombre",
+      "url": "https://open.spotify.com/track/3ktAEb2vExKXKIYEasqNZB"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1507,34 +1523,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Mar\u00eda Luc\u00eda (Live)",
-        "url": "https://open.spotify.com/album/5em6cQH7GLLUhOtSLkIN8T"
+        "name": "Una Vez Mas",
+        "url": "https://open.spotify.com/album/18JA74xCkntmJ6NSs6jRAF"
       },
       "artists": [
         {
-          "name": "Ignacio Arocena",
-          "url": "https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9"
+          "name": "Los Necesarios",
+          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
         }
       ],
-      "duration_ms": 315475,
-      "name": "Mar\u00eda Luc\u00eda - Live",
-      "url": "https://open.spotify.com/track/1PRs9Gh428DviHvAiH70Ma"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Dignidad",
-        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
-      },
-      "artists": [
-        {
-          "name": "La M\u00f3rbida",
-          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
-        }
-      ],
-      "duration_ms": 248747,
-      "name": "Dignidad",
-      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
+      "duration_ms": 221723,
+      "name": "Una Vez Mas",
+      "url": "https://open.spotify.com/track/5OQ8yGmz8V3McEoInZPmBC"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1551,6 +1551,22 @@
       "duration_ms": 219979,
       "name": "Vamos!",
       "url": "https://open.spotify.com/track/2bxaZPSCzC8wBN8JauKkor"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Dignidad",
+        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
+      },
+      "artists": [
+        {
+          "name": "La M\u00f3rbida",
+          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
+        }
+      ],
+      "duration_ms": 248747,
+      "name": "Dignidad",
+      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Una Vez Mas",
-        "url": "https://open.spotify.com/album/18JA74xCkntmJ6NSs6jRAF"
-      },
-      "artists": [
-        {
-          "name": "Los Necesarios",
-          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
-        }
-      ],
-      "duration_ms": 221723,
-      "name": "Una Vez Mas",
-      "url": "https://open.spotify.com/track/5OQ8yGmz8V3McEoInZPmBC"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Sofrito",
         "url": "https://open.spotify.com/album/5TH4Gp9Zne4iSgbhPu4Lgh"
       },
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Solo Humanos",
-        "url": "https://open.spotify.com/album/5UxyHRIZnHbOeQNYNBFvVe"
+        "name": "Destino Final",
+        "url": "https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY"
       },
       "artists": [
         {
-          "name": "Los Insolentes",
-          "url": "https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc"
+          "name": "Aut\u00f3ctonos de Ninguna Parte",
+          "url": "https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN"
         }
       ],
-      "duration_ms": 224464,
-      "name": "Solo Humanos",
-      "url": "https://open.spotify.com/track/7fpw9e5SwHgS0EZqz9qoE4"
+      "duration_ms": 329875,
+      "name": "Destino Final",
+      "url": "https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR"
     },
     {
       "added_at": "2022-12-16 03:00:00",

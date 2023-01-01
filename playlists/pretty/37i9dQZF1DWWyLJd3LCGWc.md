@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 
 > <a href="https://www.instagram.com/pxssypalace/?hl=en">Pxssy Palace</a> creates a safe space for queer womxn, trans, non\-binary and intersex people of colour with their London\-based club night\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,677 likes - 46 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,687 likes - 46 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 | 29 | [Bashiri](https://open.spotify.com/track/52shYYi6lVYuGy1jFNCkgK) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Bashiri](https://open.spotify.com/album/4rxGDBJaJlQacS7KFvBKCu) | 3:19 |
 | 30 | [U Up? \- AARRT REMIX](https://open.spotify.com/track/2v15GZ2UiU9mRNJfArgrEP) | [GLOR1A](https://open.spotify.com/artist/2Xf1wbdyd9UKB8TFt95LTK), [AARRT](https://open.spotify.com/artist/2TPkFt5zQibuoXjqVQolAD) | [OUT Remix](https://open.spotify.com/album/25w7dcHXmJsLq7hYX5utPr) | 4:15 |
 | 31 | [Promiscuous Motive](https://open.spotify.com/track/7hICqTvF8m3qTwhb2TRv0z) | [Josiane Lessard](https://open.spotify.com/artist/3Tk1foMYTxY3UrltXs9tIY) | [Promiscuous Motive](https://open.spotify.com/album/4ca5ocfUvFVOoOvq1iglev) | 8:37 |
-| 32 | [Venom](https://open.spotify.com/track/4WaaWczlVb1UJ24LILsR4C) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Venom](https://open.spotify.com/album/3h7qY0r0PNgNUS838NqgGv) | 2:34 |
+| 32 | [Venom](https://open.spotify.com/track/2tHdQjwO5zN86MLF7ZtU1X) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:34 |
 | 33 | [Sleeping With the Enemy](https://open.spotify.com/track/0ISoKjo9JVUB97JMgygRZP) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e), [Kindora](https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN) | [The Bastard Tape, Vol\. 1](https://open.spotify.com/album/2N2geXZotNXw4nqi2bk00J) | 3:49 |
 | 34 | [Rules](https://open.spotify.com/track/0deRYerzqm24qPzwlyL2qz) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e) | [Glow Kit: Blk Girl](https://open.spotify.com/album/335O1cKVTvMpNv8tHJTyTW) | 3:54 |
 | 35 | [Jimmy](https://open.spotify.com/track/60r0mEqH580d1kYWGeEpwM) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:29 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 | 45 | [Bling Bling](https://open.spotify.com/track/62NhZM0i7RrAThbBmb2vsQ) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Satisfaction Guaranteed](https://open.spotify.com/album/1LGNcwOY4Ro9eEDJwohBez) | 2:45 |
 | 46 | [IN THE AIR](https://open.spotify.com/track/63Nh9nDjrK0YB3BaMDN9v6) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [CRY 4 HELP](https://open.spotify.com/album/3a9TkAd9pVKebwqaGrQw0n) | 4:21 |
 
-Snapshot ID: `MTYyMjU0MzA0MSwwMDAwMDAwMDliYTcyOWYwOTAwZDlmMmE3MDgxNGJkYTMwMjc1NTky`
+Snapshot ID: `MTYyMjU0MzA0MSwwMDAwMDAwMDA4ZjMwZTljZGU4MDBhY2FjOTQwZTNjZDdlNmRiODI1`

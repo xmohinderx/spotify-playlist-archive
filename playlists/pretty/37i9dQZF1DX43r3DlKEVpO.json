@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 60702,
+  "num_followers": 60719,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDM1NTNkNjY2MmQyOWM2N2MwMzEzNjhkMDFiZWJiMmVj",
+  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDRkMzFhODljMTFiY2QxYmVkMjljM2U3Y2U2YTVjZjZl",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Falso Brilhante",
-        "url": "https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 261600,
-      "name": "Como Nossos Pais",
-      "url": "https://open.spotify.com/track/2ZC8sdv4Kvuql7Q9T8Agzv"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Zenyatta Mondatta (Remastered 2003)",
         "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 247293,
       "name": "De Do Do Do, De Da Da Da",
       "url": "https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Falso Brilhante",
+        "url": "https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 261600,
+      "name": "Como Nossos Pais",
+      "url": "https://open.spotify.com/track/2ZC8sdv4Kvuql7Q9T8Agzv"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -815,26 +815,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Elis & Tom",
-        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 233544,
-      "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Yellow Submarine Songtrack",
         "url": "https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 172906,
       "name": "Stop! In The Name Of Love - Single Version",
       "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 233544,
+      "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt"
     },
     {
       "added_at": "2022-06-07 14:45:28",
@@ -931,26 +931,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Elis & Tom",
-        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 214366,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Uns",
         "url": "https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3"
       },
@@ -963,22 +943,6 @@
       "duration_ms": 292306,
       "name": "Voce E Linda - Remixed Original Album",
       "url": "https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Realce",
-        "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 226640,
-      "name": "Toda Menina Baiana",
-      "url": "https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1019,6 +983,42 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Realce",
+        "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 226640,
+      "name": "Toda Menina Baiana",
+      "url": "https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 214366,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Abra\u00e7ar e Agradecer (Ao Vivo)",
         "url": "https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS"
       },
@@ -1047,6 +1047,22 @@
       "duration_ms": 244178,
       "name": "Voc\u00ea",
       "url": "https://open.spotify.com/track/5c12DVTlsyFbxmysLw0Vll"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "It's Now or Never",
+      "url": "https://open.spotify.com/track/1XunTmhOcj3xwh4b8P3isX"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Elvis 30 #1 Hits",
-        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "It's Now or Never",
-      "url": "https://open.spotify.com/track/1XunTmhOcj3xwh4b8P3isX"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Yellow Submarine Songtrack",
         "url": "https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE"
       },
@@ -1163,22 +1163,6 @@
       "duration_ms": 196706,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 260133,
-      "name": "Divino Maravilhoso",
-      "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1215,6 +1199,22 @@
       "duration_ms": 141773,
       "name": "Jo\u00e3o E Maria",
       "url": "https://open.spotify.com/track/0XI3xzi3W1sBDfri2FKtj9"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 260133,
+      "name": "Divino Maravilhoso",
+      "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Rio Revisited",
-        "url": "https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Samba Do Aviao - Live",
-      "url": "https://open.spotify.com/track/3qhAqp4xBxqg8zEAFmcXmF"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Sorte",
         "url": "https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 212866,
       "name": "You're The First, The Last, My Everything",
       "url": "https://open.spotify.com/track/6kOjNVGh1Gapc7224d20Ym"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Rio Revisited",
+        "url": "https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Samba Do Aviao - Live",
+      "url": "https://open.spotify.com/track/3qhAqp4xBxqg8zEAFmcXmF"
     },
     {
       "added_at": "2022-06-07 14:45:28",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/5tt394udRU89Pn2s3qPGaQ"
     },
     {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Nao Identificado",
-      "url": "https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi"
-    },
-    {
       "added_at": "2022-06-07 14:45:28",
       "album": {
         "name": "Moleque Dudu",
@@ -1507,6 +1491,22 @@
       "duration_ms": 179120,
       "name": "O Mar Serenou",
       "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Nao Identificado",
+      "url": "https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Bicho",
+        "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 436720,
+      "name": "Odara - Remix",
+      "url": "https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Elis Regina",
         "url": "https://open.spotify.com/album/4huMvebKxtKXAm51LCfOoC"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 162400,
       "name": "Tiro Ao \u00c1lvaro",
       "url": "https://open.spotify.com/track/2sLvYnCS3S8klPvZGXGic2"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Bicho",
-        "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 436720,
-      "name": "Odara - Remix",
-      "url": "https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O"
     },
     {
       "added_at": "2021-08-18 22:14:03",

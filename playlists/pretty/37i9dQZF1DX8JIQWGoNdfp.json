@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 7578,
+  "num_followers": 7660,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY3NTQ4MywwMDAwMDAwMDQxMzkxYzM1YzM3MTJkZDA4MzQ1MGEwNWE1MzA2Njg4",
+  "snapshot_id": "MTY2NDY3NTQ4MywwMDAwMDAwMDQ3ODQ0OGNmMjBlYWFjZjNmMTU5MGRjZDFlZmYwNjVj",
   "tracks": [
     {
       "added_at": "2022-10-02 01:51:23",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Tyrese",
-        "url": "https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        }
-      ],
-      "duration_ms": 290600,
-      "name": "Sweet Lady",
-      "url": "https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
         "name": "Baduizm",
         "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 386626,
       "name": "Next Lifetime",
       "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "Tyrese",
+        "url": "https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        }
+      ],
+      "duration_ms": 290600,
+      "name": "Sweet Lady",
+      "url": "https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 430800,
-      "name": "Untitled (How Does It Feel)",
-      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
         "name": "If I Ever Fall In Love",
         "url": "https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 189026,
       "name": "If I Ever Fall In Love",
       "url": "https://open.spotify.com/track/1jCsCYgzQQHk3bDJDuFbNi"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 430800,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
     },
     {
       "added_at": "2022-10-02 01:51:23",

@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Against The Current
 
-870 songs - 1 day 22 hr 24 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+871 songs - 1 day 22 hr 27 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Cult](https://open.spotify.com/track/42VEP8qv16ffoRKHcgUYYj) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Cult](https://open.spotify.com/album/4L4UaXxbqEB5NxBk6qaFtx) | 3:13 | 2021-12-10 | 2022-06-24 |
 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 | 2022-09-09 |  |
 | [Cursive](https://open.spotify.com/track/2qMJb05RCtQAO3OdoqxEMH) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Happy Never After](https://open.spotify.com/album/2SmBv7YTCsWRzlMcsp18he) | 2:55 | 2022-10-07 | 2022-12-22 |
+| [Cursive](https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Happy Never After](https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL) | 2:55 | 2022-12-02 |  |
 | [CYAN1DE \(feat\. Pete Wentz\)](https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Pete Wentz](https://open.spotify.com/artist/6eNCYcluBDxyf0kkn4j7rD) | [CYAN1DE \(feat\. Pete Wentz\)](https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR) | 3:51 | 2022-11-04 |  |
 | [D.E.A.D!](https://open.spotify.com/track/15OzbEtsa84wwohAPrqERa) | [Maggie Cassidy](https://open.spotify.com/artist/7B99QVNBpkSQa93242sJWu) | [D.E.A.D!](https://open.spotify.com/album/2VmPEru0nk8o9cm5alkLH4) | 3:05 | 2021-12-10 | 2022-07-01 |
 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 | 2022-11-04 |  |
@@ -552,7 +553,7 @@
 | [Numb Without You](https://open.spotify.com/track/22aSl53GhZ1y0R4neQ11pd) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [You Are OK](https://open.spotify.com/album/0DRUOQBsax8QLUVctbEIAT) | 3:32 | 2021-12-10 | 2022-06-08 |
 | [October Forever](https://open.spotify.com/track/0jXWHgBV8o9XJjBqTAOLal) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [October Forever](https://open.spotify.com/album/0gI8bB60XLjJWKPC2bWtcS) | 4:11 | 2021-12-10 |  |
 | [Oh Sh!t](https://open.spotify.com/track/0Bk4UjGoO5RLjPnGq19lw5) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I) | [Oh Sh!t](https://open.spotify.com/album/2wkX6PQGxNyh7uCgHsL8Ov) | 3:06 | 2021-12-10 | 2022-06-24 |
-| [Ohio is for Lovers](https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Ohio is for Lovers](https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331) | 3:52 | 2021-12-10 |  |
+| [Ohio is for Lovers](https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Ohio is for Lovers](https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331) | 3:52 | 2021-12-10 | 2023-01-01 |
 | [Oldest Daughter](https://open.spotify.com/track/2xnpoelpkXaxbtS5lHEHIi) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Oldest Daughter](https://open.spotify.com/album/0fSbo7YSSjigl9A125Uxhv) | 3:19 | 2022-04-29 | 2022-06-25 |
 | [On and On](https://open.spotify.com/track/7DYErczlfk5d4xu6GZA5EM) | [A Story Told](https://open.spotify.com/artist/0kMSrud2q1lDBgp43LwU54) | [On and On](https://open.spotify.com/album/6NLYwsuguHKLAwCdeddq7a) | 3:26 | 2021-12-10 | 2022-07-27 |
 | [One For The Rocks And One For The Scary](https://open.spotify.com/track/0hSSJl2mThXCJPHMI5MIrb) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [One For The Rocks And One For The Scary](https://open.spotify.com/album/4KRZ7aHBCjuyK9leF5tMRp) | 4:03 | 2021-12-10 | 2022-07-28 |

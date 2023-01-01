@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 108 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 16 | [Bang Bang](https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Bang Bang](https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi) | 3:07 |
 | 17 | [Amen \(feat\. Timaya\)](https://open.spotify.com/track/126nB4UhmyQ6d35khxQQ2i) | [Splendid](https://open.spotify.com/artist/2OogZdzhF6Z9rSC6jUg8nU), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Dance, Vol\. 1](https://open.spotify.com/album/1TqeVetMJteizoDDEIZDqw) | 4:01 |
 | 18 | [Gbagam \(feat\. Deettii & Phyno\)](https://open.spotify.com/track/2T7w6niKZZ3pQWR8MxwGim) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Deettii](https://open.spotify.com/artist/22B60sKa0PpmhadrNHuyJD), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Gbagam \(feat\. Deettii & Phyno\)](https://open.spotify.com/album/08OTfvY73KcSjiflKgiv3R) | 3:07 |
-| 19 | [My Body](https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Solidstar](https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq) | 3:38 |
-| 20 | [Appreciation \(feat\. 2face\)](https://open.spotify.com/track/2Cic7igD3PiuXlqaEqjKWo) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [2Face](https://open.spotify.com/artist/1jluLAiBpHzUX4DlOxOfU3) | [Appreciation \(feat\. 2face\)](https://open.spotify.com/album/6fRbhhodwDnrh76bc6g3VL) | 2:54 |
+| 19 | [Appreciation \(feat\. 2face\)](https://open.spotify.com/track/2Cic7igD3PiuXlqaEqjKWo) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [2Face](https://open.spotify.com/artist/1jluLAiBpHzUX4DlOxOfU3) | [Appreciation \(feat\. 2face\)](https://open.spotify.com/album/6fRbhhodwDnrh76bc6g3VL) | 2:54 |
+| 20 | [My Body](https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Solidstar](https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq) | 3:38 |
 | 21 | [Mind over Matter \(feat\. D'banj\)](https://open.spotify.com/track/0O7UTuyxkoqTreqgognjvR) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [Mind over Matter \(feat\. D'banj\)](https://open.spotify.com/album/460k6hSGCoT3Ml8dopaCVk) | 3:10 |
 | 22 | [Iberibe](https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:19 |
 | 23 | [Malonogede](https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Terry G](https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 49 | [Bam Bam](https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Bam Bam](https://open.spotify.com/album/1wpspq0ag31exULhDaG16S) | 3:40 |
 | 50 | [Alkayida](https://open.spotify.com/track/0tXjdxP16Xee1wBNo9CZCK) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Alkayida](https://open.spotify.com/album/09V8ahQAvn922cCNx6iJ0a) | 3:39 |
 
-Snapshot ID: `Mjc4NzM1MTksMDAwMDAwMDAyYmVjMjYzNjlhMmI5OTk2NTliNWE3MTU4NmYyOTQxMw==`
+Snapshot ID: `Mjc4NzQ5MDAsMDAwMDAwMDA4ZDY2MWY1NGMxYzdlNThlMjI4NGFkZjExYTA2NTA0ZQ==`

@@ -1862,6 +1862,24 @@
     },
     {
       "album": {
+        "name": "Mysterious Shapes and Remembered Rhythms",
+        "url": "https://open.spotify.com/album/0Hq25reNy7WC2ubWOoKwjP"
+      },
+      "artists": [
+        {
+          "name": "Ian Hawgood",
+          "url": "https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Life Lived in the Echoes of Emptiness",
+      "url": "https://open.spotify.com/track/4lx6thZ1sT0Nrv6XopvpyY"
+    },
+    {
+      "album": {
         "name": "Light Years Away",
         "url": "https://open.spotify.com/album/3E6VGi3MXsZUXJGE95Li55"
       },
@@ -2969,7 +2987,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 408000,
       "name": "The Last Island",
       "url": "https://open.spotify.com/track/6aPXHiku7le4AwOI3tqesR"

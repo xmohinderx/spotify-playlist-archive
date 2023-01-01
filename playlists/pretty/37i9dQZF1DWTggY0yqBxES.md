@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: BROCKHAMPTON
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,770 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,028 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 28 | [Snake](https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:24 |
 | 29 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
 | 30 | [HOT PLANET](https://open.spotify.com/track/5DgL7Iz88RjLTYv0llQREe) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [I'M GOOD, HBU?](https://open.spotify.com/album/2uu0WGNU7qSTfhhEMcY3aM) | 3:23 |
-| 31 | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90) | [Dot Da Genius](https://open.spotify.com/artist/6fXcsuCIKZIeY11ylb8hsw), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/album/1PzjrzWkqJHdLjJ6SH4Gae) | 3:05 |
-| 32 | [For The Squadron](https://open.spotify.com/track/1Am6QnI4dZi0bkXeJXwW6P) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [For The Squadron](https://open.spotify.com/album/5G34PSaRGTFhZZWuznAXGI) | 3:08 |
+| 31 | [For The Squadron](https://open.spotify.com/track/1Am6QnI4dZi0bkXeJXwW6P) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [For The Squadron](https://open.spotify.com/album/5G34PSaRGTFhZZWuznAXGI) | 3:08 |
+| 32 | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90) | [Dot Da Genius](https://open.spotify.com/artist/6fXcsuCIKZIeY11ylb8hsw), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/album/1PzjrzWkqJHdLjJ6SH4Gae) | 3:05 |
 | 33 | [Wimbledon](https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Wimbledon](https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m) | 2:22 |
 | 34 | [Flowers](https://open.spotify.com/track/5IX0QZ6B7dgur3SUg7v3oO) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Flowers](https://open.spotify.com/album/3eAGjyRLCiqf7Iwtgm6WDa) | 3:13 |
 | 35 | [Willing To Trust \(with Ty Dolla $ign\)](https://open.spotify.com/track/6TQs1M73R9aPqjqWvbNu22) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Willing To Trust](https://open.spotify.com/album/2JjCiFis8TPrbTGCoK7T61) | 4:42 |
 | 36 | [Suicide](https://open.spotify.com/track/3WYuIKvTLWbv8IwFNakmo5) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Suicide](https://open.spotify.com/album/4rx5wKkcvknXEV7IZzNhUs) | 3:44 |
 | 37 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 |
-| 38 | [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/track/2qUPj0b3PYLJJoscQvhMUr) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/album/16yQV8L8zdacH4xEjbODda) | 3:12 |
-| 39 | [Dear Life](https://open.spotify.com/track/5A9ctbShMyrhJqLqW0G1lB) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Dear Life](https://open.spotify.com/album/6DoMHHNrKIdY1716LUmdfZ) | 2:33 |
+| 38 | [Dear Life](https://open.spotify.com/track/5A9ctbShMyrhJqLqW0G1lB) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Dear Life](https://open.spotify.com/album/6DoMHHNrKIdY1716LUmdfZ) | 2:33 |
+| 39 | [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/track/2qUPj0b3PYLJJoscQvhMUr) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/album/16yQV8L8zdacH4xEjbODda) | 3:12 |
 | 40 | [Love Dangerous](https://open.spotify.com/track/0au2kiNmJzy0DvmYQFmBgV) | [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD) | [Love Dangerous](https://open.spotify.com/album/1xk59XxM4AQCcSJxwIK7S9) | 2:44 |
 | 41 | [Moonshooter](https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Moonshooter](https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb) | 3:02 |
 | 42 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 1:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 49 | [Ce Soir](https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Ce Soir](https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl) | 2:42 |
 | 50 | [Meaningless](https://open.spotify.com/track/3iXr4JLYecnraGnwGBFHPr) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Non\-Perishable](https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M) | 2:36 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDkyYTlmYWExZWI0YmExNmMzMmM5OWJkNGYzYmI0MDBj`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDNjZWE4NTg3MTllN2E4ZWJjMTg2MjU3YzViYmMyY2Vk`

@@ -1,12 +1,12 @@
 {
   "description": "soundtracking your ex calling/nothing's working/existential crisis",
-  "num_followers": 51995,
+  "num_followers": 52003,
   "original_name": "mercury in retrograde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg3Mzc1OSwwMDAwMDAwMGI3ZDhjYWY2ODhjYTUwMDg0YjQwYWI3ZjBhMTE4YzUz",
+  "snapshot_id": "MTY2Mzg3Mzc1OSwwMDAwMDAwMGIxMmQ5YWVkZmEyMDM1MmIzOTUwMmNhZTA0NmIwYjZm",
   "tracks": [
     {
       "added_at": "2022-09-22 19:09:19",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-09-22 19:09:19",
       "album": {
-        "name": "j's lullaby (darlin' i'd wait for you)",
-        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 290132,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
-    },
-    {
-      "added_at": "2022-09-22 19:09:19",
-      "album": {
         "name": "It Was Good Until It Wasn't",
         "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 168182,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
+    },
+    {
+      "added_at": "2022-09-22 19:09:19",
+      "album": {
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
       "added_at": "2022-09-22 19:09:19",

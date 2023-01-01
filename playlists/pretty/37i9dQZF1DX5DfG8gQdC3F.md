@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New Music Friday will return in Canada on 1/6/23 – Happy New Year! Listen to music from KILLY \(pictured\), Ava Max, Bailey Zimmerman, Damso, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,734 likes - 61 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,752 likes - 61 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 17 | [You Won't](https://open.spotify.com/track/3KqTfgqq5Y7LO2MABzz8el) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [You Won't](https://open.spotify.com/album/6JR0yX7Orycek9RVRUFyH2) | 2:55 |
 | 18 | [Good Enough](https://open.spotify.com/track/5ubhHVO4Zk3Z5rEc067YBB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Good Enough](https://open.spotify.com/album/5a79iYbVq5Gpor4febLhQP) | 3:08 |
 | 19 | [Writing My Wrongs](https://open.spotify.com/track/1yXCWJQfYF8ff7XcUzwcCy) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death \(Deluxe\)](https://open.spotify.com/album/4iGNig0GVOAe6wsQXEJVfl) | 2:35 |
-| 20 | [Simple Step](https://open.spotify.com/track/1ZxKAa2SpjE8LYn71betqw) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Simple Step](https://open.spotify.com/album/4tS7sn9J7Go6VWzexjaMyf) | 2:45 |
+| 20 | [Simple Step](https://open.spotify.com/track/2D3UoXaFRyCP9trM5LtWQ5) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:45 |
 | 21 | [Billie](https://open.spotify.com/track/0AKpIDr4aCRTQY8ebSlbes) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Billie](https://open.spotify.com/album/2sorTEePV03yWplyfjgs8e) | 2:42 |
 | 22 | [You're My Winter](https://open.spotify.com/track/5u6vKboXSgqGxh7dCWy6tQ) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Songs I Wish I Wrote](https://open.spotify.com/album/7nkoBpcjx1dmXS8yRCqMUS) | 3:36 |
 | 23 | [Drunk Tank](https://open.spotify.com/track/4NZmBeRHvRSl79EkOj3pBH) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Man Makes Plans](https://open.spotify.com/album/4EoRSfnvTlf6iofV9L23PC) | 2:49 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 60 | [She Don't Wanna Talk](https://open.spotify.com/track/2Of1FPGtBIZ7XFDOxTzDdS) | [Hey Damian!](https://open.spotify.com/artist/332FeKtYNS9dPXR8SE2amj) | [She Don't Wanna Talk](https://open.spotify.com/album/5D3Og795pQlmc8wzTXt9cy) | 2:38 |
 | 61 | [JOY \(God Only Knows\)](https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(God Only Knows\)](https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU) | 4:26 |
 
-Snapshot ID: `MTY3MjM3NjQwMCwwMDAwMDAwMDZkZGJiY2IwMDk0MzRkZjhlMmNjOWJmZjQzNGIxYTNl`
+Snapshot ID: `MTY3MjM3NjQwMCwwMDAwMDAwMDI5MDk0MmY4ZmExMzgyZDQ1ZTE4OGUxZDEwMjdjZmEw`

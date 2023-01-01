@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > Essential kids songs to add to your family's collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,422 likes - 114 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,425 likes - 114 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 |
 | 2 | [Revolting Children](https://open.spotify.com/track/6n9rNjFkKNnY18EqFVvAvt) | [Charlie Hodson\-Prior](https://open.spotify.com/artist/4LEQzEfPRz1VQt4q1B7tZF), [Meesha Garbett](https://open.spotify.com/artist/6NZst2OKvVaEoYRpQfeIr4), [Liberty Greig](https://open.spotify.com/artist/51nzPODa7jqt9JK1U2FME4), [The Cast of Roald Dahl's Matilda The Musical](https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf) | [Roald Dahl's Matilda The Musical \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo) | 2:54 |
-| 3 | [Earworm](https://open.spotify.com/track/6rp0Q5ptNjERiSPe4yATSl) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Earworm](https://open.spotify.com/album/0GBVpcsUU2nzeOLHQ0sirl) | 2:24 |
+| 3 | [Earworm](https://open.spotify.com/track/3cc1BbtqEBbmBvXcmqdwBa) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:24 |
 | 4 | [What Goes Around](https://open.spotify.com/track/2lf81JXzjoJ9oRvBmC23OV) | [The Relative Minors](https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId) | [The Full Circle](https://open.spotify.com/album/60ghiOTP0JVoCg8lvnd9P3) | 2:14 |
 | 5 | [Burpin' Bob the Surfin' Frog](https://open.spotify.com/track/3Sjc0K3ehe7lXPzDKKelWM) | [Wonderpop](https://open.spotify.com/artist/7iwQIhCOCbBS67PPd6UI9f) | [Volume 1](https://open.spotify.com/album/6bHKc2iHJjQ2KKDtxNlJcC) | 1:22 |
 | 6 | [Seize the Day](https://open.spotify.com/track/1Z50yf31NWbFy1WYChOTTf) | [Jazzy Ash](https://open.spotify.com/artist/5zToXUC9I6HoncynKnRMhJ), [Mil's Trills](https://open.spotify.com/artist/2FEJYbtk6YLtBXrTRUpIAj) | [Good Foot](https://open.spotify.com/album/5MW5jSzYtbdDxAdjbYmOin) | 2:39 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 113 | [Aster & Goldenrod](https://open.spotify.com/track/0tfWVCen9NARGqo6KSkmW5) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 3:29 |
 | 114 | [It's You I Like](https://open.spotify.com/track/3fwCUXBe36JmB8AP89KFd0) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: SLEEP](https://open.spotify.com/album/0nEw5zT6pJke7ivN6qnoXn) | 1:37 |
 
-Snapshot ID: `MTY3MDU4NjY5MywwMDAwMDAwMGMxZWI1OWExMWI3ZGRlMTA3NmM0NzJkMzFlNDg1ZWUx`
+Snapshot ID: `MTY3MDU4NjY5MywwMDAwMDAwMGQwYmRiNTgxNWE4ZDc3YmZiY2E2MGE0MjI3YjUzYzdi`

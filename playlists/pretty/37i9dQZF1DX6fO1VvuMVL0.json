@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 44024,
+  "num_followers": 44111,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc0NTkxOCwwMDAwMDAwMGNlY2UwMDIzZmEwZTc5OTFlY2ZiNjdkMjk3MmY4YWZl",
+  "snapshot_id": "MTY2Mzc0NTkxOCwwMDAwMDAwMGY0NzE1MmYzZGJkODkwODRlZTEyNzkxYTAzMmUyZmMw",
   "tracks": [
     {
       "added_at": "2022-09-21 07:38:38",
@@ -395,6 +395,26 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
+        "name": "West Coast Live",
+        "url": "https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 727266,
+      "name": "Darn That Dream - Live At The Tiffany Club, Los Angeles, CA., 1954",
+      "url": "https://open.spotify.com/track/6VQDwRTDemiSXkRiNawCYL"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
         "name": "Jazz Impressions Of Japan",
         "url": "https://open.spotify.com/album/7tOQ0wZyrxr2fqWTO6n8M7"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 906386,
       "name": "How Deep Is The Ocean",
       "url": "https://open.spotify.com/track/7y7M0Qd8r37uhLLScSQUyB"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
-        "name": "West Coast Live",
-        "url": "https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 727266,
-      "name": "Darn That Dream - Live At The Tiffany Club, Los Angeles, CA., 1954",
-      "url": "https://open.spotify.com/track/6VQDwRTDemiSXkRiNawCYL"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -547,18 +547,22 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "The Steamer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
+        "name": "Picture Of Heath",
+        "url": "https://open.spotify.com/album/7gGl026dNLosYhDnHcCIgO"
       },
       "artists": [
         {
-          "name": "Stan Getz Quartet",
-          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 390666,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
+      "duration_ms": 385666,
+      "name": "For Miles And Miles",
+      "url": "https://open.spotify.com/track/3xHZQmEwgrLTQv2b6vTYPC"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -599,22 +603,18 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "Picture Of Heath",
-        "url": "https://open.spotify.com/album/7gGl026dNLosYhDnHcCIgO"
+        "name": "The Steamer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Stan Getz Quartet",
+          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
         }
       ],
-      "duration_ms": 385666,
-      "name": "For Miles And Miles",
-      "url": "https://open.spotify.com/track/3xHZQmEwgrLTQv2b6vTYPC"
+      "duration_ms": 390666,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -839,6 +839,42 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
+        "name": "The Ivory Hunters",
+        "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
+      },
+      "artists": [
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 446066,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
+        "name": "Fontessa",
+        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 288106,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
         "name": "The Complete Argo Mercury Sessions",
         "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
       },
@@ -871,42 +907,6 @@
       "duration_ms": 614533,
       "name": "It Had To Be You - Live At The Half Note, NYC, 1959",
       "url": "https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
-        "name": "Fontessa",
-        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
-        "name": "The Ivory Hunters",
-        "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
-      },
-      "artists": [
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 446066,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "West Coast Jazz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
         "name": "Django (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 192800,
       "name": "The Queen's Fancy",
       "url": "https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
+        "name": "West Coast Jazz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
+        "name": "Django (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "One Bass Hit",
+      "url": "https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
         "name": "The Teddy Charles Tentet",
         "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "Django (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "One Bass Hit",
-      "url": "https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
         "name": "4 to Go!",
         "url": "https://open.spotify.com/album/5Za3xlEz6bE0ELBf1EjdAQ"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "Take Ten",
-        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 366173,
-      "name": "Nancy",
-      "url": "https://open.spotify.com/track/2J5Q8XYnCwDVyTazuCu9VG"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
         "name": "Coolin'",
         "url": "https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 463346,
       "name": "The Eagle Flies",
       "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
+        "name": "Take Ten",
+        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 366173,
+      "name": "Nancy",
+      "url": "https://open.spotify.com/track/2J5Q8XYnCwDVyTazuCu9VG"
     },
     {
       "added_at": "2022-09-21 07:38:38",

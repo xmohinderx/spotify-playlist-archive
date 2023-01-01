@@ -4,7 +4,7 @@
 
 > Mode: Turnt
 
-435 songs - 21 hr 10 min - [published](https://open.spotify.com/playlist/4kpao04ICD5V1vC3V1tB9I)
+436 songs - 21 hr 13 min - [published](https://open.spotify.com/playlist/4kpao04ICD5V1vC3V1tB9I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [BLUE CHEESE](https://open.spotify.com/track/3nCFlJCqsz1TpxxcVLfAIc) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [BLUE CHEESE](https://open.spotify.com/album/0a2eLkT3GCdWKr6gK0xVtB) | 3:02 | 2022-01-14 | 2022-02-19 |
 | [Blue Emerald \(feat.Young Thug\)](https://open.spotify.com/track/1BDIduGYgALDwOjkmjIjZe) | [Rich Gang](https://open.spotify.com/artist/6h2J3dxLnTyURwIUBumKog), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Blue Emerald](https://open.spotify.com/album/4RYm1rNLj2ATcaOmyjQAgH) | 2:26 | 2021-11-03\* | 2021-12-04 |
 | [Blue Notes 2 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/488HG8lR11JswT2YgcWGRB) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blue Notes 2 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/3QvNSOIhsgI8od9CMLbMye) | 3:50 | 2021-11-03\* | 2021-12-11 |
-| [Body & A Face](https://open.spotify.com/track/1P4mE8Lw6qTm85UGhlbwgh) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Body & A Face](https://open.spotify.com/album/0CXroMh9bBWpGVFyqstJP7) | 2:39 | 2022-09-09 |  |
+| [Body & A Face](https://open.spotify.com/track/1P4mE8Lw6qTm85UGhlbwgh) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Body & A Face](https://open.spotify.com/album/0CXroMh9bBWpGVFyqstJP7) | 2:39 | 2022-09-09 | 2023-01-01 |
+| [Body & a Face](https://open.spotify.com/track/3l3EUEFbs6a0mFu8SoTE8Z) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Her \- All Rap](https://open.spotify.com/album/23SSynUBT4TdXQY92w3F8O) | 2:39 | 2022-12-30 |  |
 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 | 2022-06-10 | 2022-07-09 |
 | [Bout A Million \(feat\. 42 Dugg & 21 Savage\)](https://open.spotify.com/track/4LaGu95Ui2s4vprSQYWUAZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:23 | 2021-09-03 | 2022-02-26 |
 | [Bout U](https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bout U](https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX) | 2:39 | 2022-10-07 | 2022-10-22 |

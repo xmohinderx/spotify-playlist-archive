@@ -1774,6 +1774,28 @@
     },
     {
       "album": {
+        "name": "Z\u0142ote Przeboje",
+        "url": "https://open.spotify.com/album/1i5VBPXZXvvE2BTCumVAW1"
+      },
+      "artists": [
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        },
+        {
+          "name": "Miszel",
+          "url": "https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153201,
+      "name": "Bajlando",
+      "url": "https://open.spotify.com/track/5fxFhJyveLasVUfuHf6lYP"
+    },
+    {
+      "album": {
         "name": "EXTRAVAGANZA",
         "url": "https://open.spotify.com/album/0p4dp2ioreo7WaZJudIfr5"
       },
@@ -7045,7 +7067,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -8075,7 +8097,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 197837,
       "name": "Jeszcze B\u0119dzie Pi\u0119knie",
       "url": "https://open.spotify.com/track/0IANgBgdiyhHg0gXdN8zdW"
@@ -9405,7 +9427,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 147374,
       "name": "kupi\u0107 jej gaz czy torebk\u0119?",
       "url": "https://open.spotify.com/track/1J3rvvPqfplUP3w1y9y8In"
@@ -9847,7 +9869,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
@@ -11929,7 +11951,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 251500,
       "name": "najlepszy dzie\u0144 w moim \u017cyciu",
       "url": "https://open.spotify.com/track/1U5tyGeq6tFW6WNTmPluvx"
@@ -15271,10 +15293,32 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 146378,
       "name": "Pronto",
       "url": "https://open.spotify.com/track/0fBPKnBDw1oSVfu816eyUk"
+    },
+    {
+      "album": {
+        "name": "Z\u0142ote Przeboje",
+        "url": "https://open.spotify.com/album/1i5VBPXZXvvE2BTCumVAW1"
+      },
+      "artists": [
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        },
+        {
+          "name": "Miszel",
+          "url": "https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146378,
+      "name": "Pronto",
+      "url": "https://open.spotify.com/track/46KrcgLn015ammHqC8FWsw"
     },
     {
       "album": {
@@ -17083,7 +17127,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 193475,
       "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
       "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
@@ -20825,7 +20869,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 146269,
       "name": "Z\u0142ote Tarasy",
       "url": "https://open.spotify.com/track/0dorKIz071s55Jy0zxb4aW"

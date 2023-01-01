@@ -1,12 +1,12 @@
 {
   "description": "Bienvenidxs al mundo del bellaqueo, con Uzielito Mix.",
-  "num_followers": 4831,
+  "num_followers": 4835,
   "original_name": "Reggaet\u00f3n Bellakoso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjMzNjIxMywwMDAwMDAwMDU4NmMyYWRkZjVjNTk4YmVhMDQ0NTc0MDI0ZTI1MzJk",
+  "snapshot_id": "MTY3MjMzNjIxMywwMDAwMDAwMGY1YzA1OTM1MzcyOThiMTcwYWI0MWVlZDZlZjI1NmM5",
   "tracks": [
     {
       "added_at": "2022-12-16 21:19:46",
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/3jY5L0b40kAQArQbTnay9c"
     },
     {
-      "added_at": "2022-12-31 00:54:40",
+      "added_at": "2023-01-01 01:06:44",
       "album": {
         "name": "G Low Kitty",
         "url": "https://open.spotify.com/album/6IvwdLnra2eCGtQnCYIXTN"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/5Jje7hHdmWhn6eIaNqrnvv"
     },
     {
-      "added_at": "2022-12-31 00:54:40",
+      "added_at": "2023-01-01 01:06:44",
       "album": {
         "name": "Diablita",
         "url": "https://open.spotify.com/album/3DNDZXGyrTKdSH6hbvsntK"
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-12-16 21:19:46",
       "album": {
+        "name": "Sueltate el Dembow",
+        "url": "https://open.spotify.com/album/19REskE6qmcBnveMqcIQx7"
+      },
+      "artists": [
+        {
+          "name": "DJ Cobra Monterrey",
+          "url": "https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p"
+        }
+      ],
+      "duration_ms": 183171,
+      "name": "Sueltate el Dembow",
+      "url": "https://open.spotify.com/track/6lW3Zxh9wBch3cNrTMicSq"
+    },
+    {
+      "added_at": "2022-12-16 21:19:46",
+      "album": {
         "name": "Flow Soltera",
         "url": "https://open.spotify.com/album/1i8qCWW4j4DuS60X8VyAqy"
       },
@@ -923,38 +939,6 @@
     {
       "added_at": "2022-12-16 21:19:46",
       "album": {
-        "name": "Sueltate el Dembow",
-        "url": "https://open.spotify.com/album/19REskE6qmcBnveMqcIQx7"
-      },
-      "artists": [
-        {
-          "name": "DJ Cobra Monterrey",
-          "url": "https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p"
-        }
-      ],
-      "duration_ms": 183171,
-      "name": "Sueltate el Dembow",
-      "url": "https://open.spotify.com/track/6lW3Zxh9wBch3cNrTMicSq"
-    },
-    {
-      "added_at": "2022-12-16 21:19:46",
-      "album": {
-        "name": "Goldi Buena",
-        "url": "https://open.spotify.com/album/7mCziNGhAO2XFa0HwgZNSq"
-      },
-      "artists": [
-        {
-          "name": "B.OG",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 194680,
-      "name": "Goldi Buena",
-      "url": "https://open.spotify.com/track/0yKV1lGKbIOmWUDOoEu7PE"
-    },
-    {
-      "added_at": "2022-12-16 21:19:46",
-      "album": {
         "name": "Melocoton",
         "url": "https://open.spotify.com/album/0S2Xg135JIHyQuPudBAAQ6"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 195944,
       "name": "Melocoton",
       "url": "https://open.spotify.com/track/0Ix9XHG0Zkydd6zTJwQvwF"
+    },
+    {
+      "added_at": "2022-12-16 21:19:46",
+      "album": {
+        "name": "Goldi Buena",
+        "url": "https://open.spotify.com/album/7mCziNGhAO2XFa0HwgZNSq"
+      },
+      "artists": [
+        {
+          "name": "B.OG",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "duration_ms": 194680,
+      "name": "Goldi Buena",
+      "url": "https://open.spotify.com/track/0yKV1lGKbIOmWUDOoEu7PE"
     },
     {
       "added_at": "2022-12-16 21:19:46",
@@ -999,8 +999,8 @@
     {
       "added_at": "2022-12-16 21:19:46",
       "album": {
-        "name": "Contra la Pared",
-        "url": "https://open.spotify.com/album/1Dj6HcOXpEDTtCMOZ7LVks"
+        "name": "A Mover Ese Booty (feat. n-Yel)",
+        "url": "https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A"
       },
       "artists": [
         {
@@ -1008,13 +1008,13 @@
           "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
         },
         {
-          "name": "City Lights",
-          "url": "https://open.spotify.com/artist/1LmRtLEIqkkFfvMaLxbJ5a"
+          "name": "Nyel",
+          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
         }
       ],
-      "duration_ms": 177506,
-      "name": "Contra la Pared",
-      "url": "https://open.spotify.com/track/1AOJGa2b29LokEYqaaHWyg"
+      "duration_ms": 157347,
+      "name": "A Mover Ese Booty (feat. n-Yel)",
+      "url": "https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j"
     },
     {
       "added_at": "2022-12-16 21:19:46",

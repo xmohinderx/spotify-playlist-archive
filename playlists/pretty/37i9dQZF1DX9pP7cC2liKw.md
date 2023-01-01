@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,532 likes - 70 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,811 likes - 70 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 48 | [Pájaro Cenzontle](https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:40 |
 | 49 | [Carnavalera](https://open.spotify.com/track/2qyyS2lOdC7oxZDQ7tCuY0) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Carnavalera](https://open.spotify.com/album/2nlKetdWi0Kc4RU1Xe5SPb) | 3:47 |
 | 50 | [Jardines](https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED) | 4:46 |
-| 51 | [Manos](https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1) | [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT) | [Ojos](https://open.spotify.com/album/0nt8pOx5bT4aU24zQ5RW9v) | 5:10 |
-| 52 | [Paso a Huella \- Captain Planet Remix](https://open.spotify.com/track/157GatsyJwcoaLGDD43duL) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Ch'usay Remixes](https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl) | 3:27 |
+| 51 | [Paso a Huella \- Captain Planet Remix](https://open.spotify.com/track/157GatsyJwcoaLGDD43duL) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Ch'usay Remixes](https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl) | 3:27 |
+| 52 | [Manos](https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1) | [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT) | [Ojos](https://open.spotify.com/album/0nt8pOx5bT4aU24zQ5RW9v) | 5:10 |
 | 53 | [It All Depends \- Aguacate Version](https://open.spotify.com/track/0BOOqxJh6ioHQ1caqztRcQ) | [Roderic](https://open.spotify.com/artist/7wSzFq5CoNoCpzazDphDJs) | [It All Depends \(Aguacate Version\)](https://open.spotify.com/album/6HPPIRAjrwCKnzloCd3PUe) | 6:56 |
-| 54 | [Temazcal](https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Apolinar](https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U) | 4:11 |
-| 55 | [Chapinero](https://open.spotify.com/track/004JVePzMr05q3vP462QPa) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Bennu](https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo) | 3:42 |
+| 54 | [Chapinero](https://open.spotify.com/track/004JVePzMr05q3vP462QPa) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Bennu](https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo) | 3:42 |
+| 55 | [Temazcal](https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Apolinar](https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U) | 4:11 |
 | 56 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 |
 | 57 | [Danza de Vision](https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Cantos de Vision](https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5) | 5:29 |
 | 58 | [Teu Sorriso \- Jex Opolis Remix](https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8) | [Paraíso](https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0), [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Claremont 56: 10 Years, Pt\. 1](https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP) | 7:09 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 62 | [1542](https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Xaxoeira](https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi) | 5:47 |
 | 63 | [Turn Around](https://open.spotify.com/track/3C8jZgiUP0pP1l58837NzH) | [Rampue](https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv) | [Turn Around](https://open.spotify.com/album/7LiFR5PvKfWfQ7qzYpU25u) | 7:17 |
 | 64 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 |
-| 65 | [El pavo real](https://open.spotify.com/track/3nXscmWolUwx0VlMZNy8i7) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [La Estrella](https://open.spotify.com/album/4AYABoXRLfI7j1FsSrYTEk) | 3:28 |
-| 66 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 |
-| 67 | [Tecolotin](https://open.spotify.com/track/3RvzGjAhYiOGNFToYyIdTH) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes \(Deluxe Edition\)](https://open.spotify.com/album/0Gk9ZPx40L9vCMS2okBUTZ) | 4:22 |
-| 68 | [La Frontera](https://open.spotify.com/track/7lcLZXcsDQmCLBzFjZZ3nF) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Jallalla](https://open.spotify.com/album/5GgPj1eGdTFiZefQYEPqOi) | 5:40 |
+| 65 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 |
+| 66 | [Tecolotin](https://open.spotify.com/track/3RvzGjAhYiOGNFToYyIdTH) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes \(Deluxe Edition\)](https://open.spotify.com/album/0Gk9ZPx40L9vCMS2okBUTZ) | 4:22 |
+| 67 | [La Frontera](https://open.spotify.com/track/7lcLZXcsDQmCLBzFjZZ3nF) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Jallalla](https://open.spotify.com/album/5GgPj1eGdTFiZefQYEPqOi) | 5:40 |
+| 68 | [El pavo real](https://open.spotify.com/track/3nXscmWolUwx0VlMZNy8i7) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [La Estrella](https://open.spotify.com/album/4AYABoXRLfI7j1FsSrYTEk) | 3:28 |
 | 69 | [Humano \- El Búho Remix](https://open.spotify.com/track/507fmh8Qx1LfKff6h57moj) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/3YmXLGfXziIb8W6loQuskm) | 4:35 |
 | 70 | [Charango Dub](https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Charango Dub](https://open.spotify.com/album/1L7MABgdSg4VF8VjYoySmU) | 4:44 |
 
-Snapshot ID: `MTY3MDM4ODA1NCwwMDAwMDAwMDA5YzRmN2M1M2ZmZjQ0NjcwMjRkNTM5NWY1YjQ5ZmU1`
+Snapshot ID: `MTY3MDM4ODA1NCwwMDAwMDAwMDBhODMyYTMxYjBkN2RkMDcwMDE0YzQ4NDljNGQzNTY4`

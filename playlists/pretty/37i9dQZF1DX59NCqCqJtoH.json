@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1085842,
+  "num_followers": 1086365,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczNjE1NCwwMDAwMDAwMDU3ZjJhZGVlZmZkNDNlMzVlYzViOTQ0YTEzYmU2M2Ni",
+  "snapshot_id": "MTY3MTczNjE1NCwwMDAwMDAwMDg0MWQzNjNhNDMwN2IxNjAyYmMzYmEzMTY2MWNhYjAw",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Long Way Down (Deluxe)",
-        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Heal",
-      "url": "https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Long Way Down (Deluxe)",
+        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -765,6 +765,22 @@
       "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
     },
     {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Pendant",
+        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 235832,
+      "name": "Pendant",
+      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
+    },
+    {
       "added_at": "2022-11-22 19:39:39",
       "album": {
         "name": "Sonder",
@@ -795,22 +811,6 @@
       "duration_ms": 131437,
       "name": "this body means nothing to me",
       "url": "https://open.spotify.com/track/2zQQai9nqofvLZ703t0Jxi"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Pendant",
-        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 235832,
-      "name": "Pendant",
-      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
     },
     {
       "added_at": "2022-12-22 19:09:14",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "i'd rather be alone",
-        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
-      },
-      "artists": [
-        {
-          "name": "boodahki",
-          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
-        }
-      ],
-      "duration_ms": 142940,
-      "name": "i'd rather be alone",
-      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "JAMIE",
         "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 302000,
       "name": "Darling",
       "url": "https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "i'd rather be alone",
+        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
+      },
+      "artists": [
+        {
+          "name": "boodahki",
+          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
+        }
+      ],
+      "duration_ms": 142940,
+      "name": "i'd rather be alone",
+      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 160506,
+      "name": "minor",
+      "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Elsewhere",
         "url": "https://open.spotify.com/album/1gGfFfbRfgFUdEt0moggLS"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 168974,
       "name": "Think About U (feat. Joji)",
       "url": "https://open.spotify.com/track/4yakjUoss5rjOdPWQ8mW6Q"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 160506,
-      "name": "minor",
-      "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Don't Leave, Don't Go / Bleed",
-        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 184242,
-      "name": "Don't Leave, Don't Go",
-      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 168960,
       "name": "Idea of Her",
       "url": "https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Don't Leave, Don't Go / Bleed",
+        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 184242,
+      "name": "Don't Leave, Don't Go",
+      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1649,20 +1649,20 @@
       "url": "https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "The Family",
-        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
+        "name": "grim",
+        "url": "https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55"
       },
       "artists": [
         {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+          "name": "sadeyes",
+          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
         }
       ],
-      "duration_ms": 87040,
-      "name": "My American Life",
-      "url": "https://open.spotify.com/track/2GtvxN6tjbqxPZKRNZcJ7x"
+      "duration_ms": 134885,
+      "name": "fragment",
+      "url": "https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1685,20 +1685,20 @@
       "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "grim",
-        "url": "https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55"
+        "name": "The Family",
+        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
       },
       "artists": [
         {
-          "name": "sadeyes",
-          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
         }
       ],
-      "duration_ms": 134885,
-      "name": "fragment",
-      "url": "https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl"
+      "duration_ms": 87040,
+      "name": "My American Life",
+      "url": "https://open.spotify.com/track/2GtvxN6tjbqxPZKRNZcJ7x"
     }
   ],
   "unique_name": "idk.",

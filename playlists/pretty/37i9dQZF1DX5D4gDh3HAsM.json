@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 522584,
+  "num_followers": 522450,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGZmYTlhZGU1Y2UyN2FhNDBlMzUxNGM4OTQ2MmFkZmJm",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDliMDQzY2RlN2QxMjg2NTBiN2JhNzcwNDE0ZjIxNTRh",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Holiday For Swing!",
-        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 154080,
-      "name": "Little Jack Frost Get Lost",
-      "url": "https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "The Decca Singles 1949-1958",
         "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 174893,
       "name": "Christmas In New Orleans",
       "url": "https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Holiday For Swing!",
+        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 154080,
+      "name": "Little Jack Frost Get Lost",
+      "url": "https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9"
     }
   ],
   "unique_name": "Christmas Jazz",

@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 188167,
+  "num_followers": 188255,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQ1MTg4MiwwMDAwMDAwMDBiNWVmNTVjNmNkYWEwY2FlMTYzYjhhOTFkOTExNjNm",
+  "snapshot_id": "MTY3MTQ1MTg4MiwwMDAwMDAwMGM1NzIwZDQyNDEwMTExZmYwYjM5ODkxNGVhMWYzNzQ5",
   "tracks": [
     {
       "added_at": "2022-05-11 12:25:18",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Cooleyhighharmony (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 351466,
-      "name": "End Of The Road",
-      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 290573,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Cooleyhighharmony (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 351466,
+      "name": "End Of The Road",
+      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Where There's Smoke...",
+        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 215386,
       "name": "Baby, Come To Me",
       "url": "https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Where There's Smoke...",
-        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 352920,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 222253,
-      "name": "Wonderful Tonight",
-      "url": "https://open.spotify.com/track/5hBEqzQ2az9kDXRXJTDCZw"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Spinners",
         "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 249733,
       "name": "Could It Be I'm Falling in Love",
       "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 222253,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/5hBEqzQ2az9kDXRXJTDCZw"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Jarreau",
+        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Mornin'",
+      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 259040,
       "name": "One Hundred Ways",
       "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Jarreau",
-        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Mornin'",
-      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "I'm In Love Again",
+        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "If Only You Knew",
+      "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Songs That Made Me Feel",
         "url": "https://open.spotify.com/album/4HxdC77nF9ywR1s1mS4Jk7"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 188440,
       "name": "Come To Me",
       "url": "https://open.spotify.com/track/0YKdx0eEYVJ18peEsgtc2p"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "I'm In Love Again",
-        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "If Only You Knew",
-      "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1823,18 +1823,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Do Me Baby",
-        "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
+        "name": "A Woman Needs Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/38993ejU6at3J4b0fxIien"
       },
       "artists": [
         {
-          "name": "Meli'sa Morgan",
-          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        },
+        {
+          "name": "Raydio",
+          "url": "https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR"
         }
       ],
-      "duration_ms": 317400,
-      "name": "Do Me Baby",
-      "url": "https://open.spotify.com/track/77Fs4XIB6489MG4cpNwBms"
+      "duration_ms": 249053,
+      "name": "A Woman Needs Love (Just Like You Do)",
+      "url": "https://open.spotify.com/track/0DEwNI2DgasX1eprqCivJk"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1855,22 +1859,18 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "A Woman Needs Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/38993ejU6at3J4b0fxIien"
+        "name": "Do Me Baby",
+        "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
       },
       "artists": [
         {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        },
-        {
-          "name": "Raydio",
-          "url": "https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR"
+          "name": "Meli'sa Morgan",
+          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
         }
       ],
-      "duration_ms": 249053,
-      "name": "A Woman Needs Love (Just Like You Do)",
-      "url": "https://open.spotify.com/track/0DEwNI2DgasX1eprqCivJk"
+      "duration_ms": 317400,
+      "name": "Do Me Baby",
+      "url": "https://open.spotify.com/track/77Fs4XIB6489MG4cpNwBms"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Alone But Not Alone",
-        "url": "https://open.spotify.com/album/7MRDIQVnFbhULpA3Blil6t"
-      },
-      "artists": [
-        {
-          "name": "Marvin Winans",
-          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Just Don't Wanna Know",
-      "url": "https://open.spotify.com/track/4qawsTQMIjiRZvbJB0vp7i"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 206053,
       "name": "When She Was My Girl",
       "url": "https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Alone But Not Alone",
+        "url": "https://open.spotify.com/album/7MRDIQVnFbhULpA3Blil6t"
+      },
+      "artists": [
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Just Don't Wanna Know",
+      "url": "https://open.spotify.com/track/4qawsTQMIjiRZvbJB0vp7i"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Black Diamond (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 200174,
-      "name": "Heaven Help",
-      "url": "https://open.spotify.com/track/4X574HplOe89kLaj4a4Cnq"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 316893,
       "name": "You Know How to Make Me Feel so Good (feat. Sharon Paige)",
       "url": "https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Black Diamond (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 200174,
+      "name": "Heaven Help",
+      "url": "https://open.spotify.com/track/4X574HplOe89kLaj4a4Cnq"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Color Rit (Remastered)",
-        "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
-      },
-      "artists": [
-        {
-          "name": "Lee Ritenour",
-          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "I Can\u2019t Let Go - Remastered",
-      "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Love's Theme: The Best Of The 20th Century Records Singles",
         "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 239600,
       "name": "September When I First Met You - Single Version",
       "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Color Rit (Remastered)",
+        "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
+      },
+      "artists": [
+        {
+          "name": "Lee Ritenour",
+          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "I Can\u2019t Let Go - Remastered",
+      "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "So Full Of Love",
-        "url": "https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 333453,
-      "name": "Cry Together",
-      "url": "https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "The Masters Series: Mellow Groove",
         "url": "https://open.spotify.com/album/4T9c1w0NNJ4RC60igvEo1m"
       },
@@ -2291,6 +2275,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "So Full Of Love",
+        "url": "https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 333453,
+      "name": "Cry Together",
+      "url": "https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug"
       },
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/6ZAjdkKHnWLdpL1deFXajO"
-      },
-      "artists": [
-        {
-          "name": "Bebe & Cece Winans",
-          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "Close to You",
-      "url": "https://open.spotify.com/track/2VUsmzlxjarwAVMCI2bm9x"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "The Manhattans (Expanded Version)",
         "url": "https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 181306,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/31S04SZjQCMUTEIF9PWIEp"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/6ZAjdkKHnWLdpL1deFXajO"
+      },
+      "artists": [
+        {
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "Close to You",
+      "url": "https://open.spotify.com/track/2VUsmzlxjarwAVMCI2bm9x"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "There's No Me Without You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6nGP2C8BMkIqnVyPzXSUFr"
-      },
-      "artists": [
-        {
-          "name": "The Manhattans",
-          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "Wish That You Were Mine",
-      "url": "https://open.spotify.com/track/19mXqYcLHY716cN53T1d1E"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Gold - '80s Soul",
         "url": "https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 301000,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "There's No Me Without You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6nGP2C8BMkIqnVyPzXSUFr"
+      },
+      "artists": [
+        {
+          "name": "The Manhattans",
+          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "Wish That You Were Mine",
+      "url": "https://open.spotify.com/track/19mXqYcLHY716cN53T1d1E"
     },
     {
       "added_at": "2022-05-11 12:25:18",

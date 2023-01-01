@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 658677,
+  "num_followers": 658823,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDMyMWM4MzdjOWI0NjJiMjJmZjM3M2FjNTIyMmI4N2U2",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDE4OTlmMmNjNmI1MDE1YWYyMzUyODljN2ZiMzM2ZjRi",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "You Are My Sunshine (with Chris Stapleton)",
         "url": "https://open.spotify.com/album/54kotVHAZQwTephMgbuMjH"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/31b6H6nChYUmNbW1yZQHYs"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Into The Mystic",
-        "url": "https://open.spotify.com/album/1cOvG9S55TwHWIRvqVmKWO"
-      },
-      "artists": [
-        {
-          "name": "Andy Kong",
-          "url": "https://open.spotify.com/artist/0Qrp8cpHBz47dbOyPfzzhP"
-        }
-      ],
-      "duration_ms": 168354,
-      "name": "Into The Mystic",
-      "url": "https://open.spotify.com/track/5YyEXkW5W3XBDmTYdvKfTE"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 229574,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Into The Mystic",
+        "url": "https://open.spotify.com/album/1cOvG9S55TwHWIRvqVmKWO"
+      },
+      "artists": [
+        {
+          "name": "Andy Kong",
+          "url": "https://open.spotify.com/artist/0Qrp8cpHBz47dbOyPfzzhP"
+        }
+      ],
+      "duration_ms": 168354,
+      "name": "Into The Mystic",
+      "url": "https://open.spotify.com/track/5YyEXkW5W3XBDmTYdvKfTE"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Tribute To (Reissue)",
-        "url": "https://open.spotify.com/album/0t7vqfhPuV8Zqs3l2G7lxA"
-      },
-      "artists": [
-        {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
-        }
-      ],
-      "duration_ms": 213013,
-      "name": "My Sweet Lord",
-      "url": "https://open.spotify.com/track/6R5OmhK7k3kLCBpF7ZsRBS"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Vignettes",
         "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 256798,
       "name": "My City of Ruins",
       "url": "https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Tribute To (Reissue)",
+        "url": "https://open.spotify.com/album/0t7vqfhPuV8Zqs3l2G7lxA"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "duration_ms": 213013,
+      "name": "My Sweet Lord",
+      "url": "https://open.spotify.com/track/6R5OmhK7k3kLCBpF7ZsRBS"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Delta Tour EP (Live)",
-        "url": "https://open.spotify.com/album/4DNU3xDmnwdwNoep47QR22"
+        "name": "Have A Little Faith In Me",
+        "url": "https://open.spotify.com/album/1PtoVjKtDnOq817SFuQtY3"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
         }
       ],
-      "duration_ms": 359691,
-      "name": "With a Little Help from My Friends - Live From London",
-      "url": "https://open.spotify.com/track/3X7xrRkcn6VwmvFDhor91i"
+      "duration_ms": 222600,
+      "name": "Have A Little Faith In Me",
+      "url": "https://open.spotify.com/track/3quCjFNuNRh2UR7D9CYWgU"
     }
   ],
   "unique_name": "Classic Covers",

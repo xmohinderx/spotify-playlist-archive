@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for working or studying.
 
-259 songs - 19 hr 4 min - [published](https://open.spotify.com/playlist/2tOQPPwScgMTueE1ReWTmP)
+260 songs - 19 hr 8 min - [published](https://open.spotify.com/playlist/2tOQPPwScgMTueE1ReWTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [I'll Tell You When I Understand](https://open.spotify.com/track/0c0dPCcW7KU6SKChawzOCf) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [I'll Tell You When I Understand](https://open.spotify.com/album/1ZHRZhPFBCY3y8cXq1K78l) | 3:06 | 2022-12-08 |  |
 | [I'm Not Myself Anymore](https://open.spotify.com/track/6oSK13LFez9J8gCpGbtMjx) | [Len Stark Band](https://open.spotify.com/artist/4u9GPWB44FwZ76cXVUnuKB) | [I'm Not Myself Anymore](https://open.spotify.com/album/0jYdse5LgBxoVkMF28IaGz) | 5:05 | 2022-11-11 | 2022-11-22 |
 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/6nyRGbArV18zO6WozOBON2) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 4:49 | 2021-12-16 | 2022-11-11 |
-| [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 | 2022-11-11 |  |
+| [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 | 2022-11-11 | 2023-01-01 |
 | [If Ever I Would Leave You \- Remasted 1998/ Rudy Van Gelder Edition](https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Una Mas](https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy) | 5:09 | 2021-12-16 | 2022-11-11 |
 | [Ill Wind](https://open.spotify.com/track/4BPd4Z916ZXnm8oXNqHxZg) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Cornbread](https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ) | 7:59 | 2021-12-16 | 2022-11-11 |
 | [Imagination](https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Imagination](https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx) | 4:33 | 2022-12-01 |  |
@@ -158,6 +158,7 @@
 | [Misty](https://open.spotify.com/track/75KRlncgTKRWd9CjqPZgcx) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [The Original Misty](https://open.spotify.com/album/1JEUXW6lRtV3j8WGXwroNn) | 2:49 | 2021-12-16 | 2022-09-22 |
 | [Misty](https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [This Is Jazz \#14](https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz) | 5:23 | 2022-06-29 | 2022-11-11 |
 | [Misty](https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sony Jazz Collection](https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI) | 5:23 | 2021-12-16 | 2022-07-29 |
+| [Molly's theme](https://open.spotify.com/track/7r5XG6Ko5PsiSext5v0vyO) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Molly's theme](https://open.spotify.com/album/28OqRj89nMCysbF2EANXej) | 3:52 | 2022-12-22 |  |
 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-11-11 |  |
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-11-11 |  |
 | [My Conception](https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [My Conception](https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ) | 4:44 | 2021-12-16 | 2022-11-11 |

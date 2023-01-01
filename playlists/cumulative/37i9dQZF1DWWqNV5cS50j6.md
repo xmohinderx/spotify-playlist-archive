@@ -4,7 +4,7 @@
 
 > BROCKHAMPTON makes anti pop.
 
-1,231 songs - 2 day 11 hr 31 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,232 songs - 2 day 11 hr 33 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Centauri](https://open.spotify.com/track/2gRRFco9B1M912c7wX5Nhg) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Xeno](https://open.spotify.com/album/3coE5Zmvd7zx2LYX6tIkOV) | 2:35 | 2022-07-08 | 2022-10-13 |
 | [Centauri](https://open.spotify.com/track/2soNYlAgFhZ5o0p04xjcj3) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Xeno](https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr) | 2:35 | 2022-10-25 | 2022-10-29 |
 | [Chandelier](https://open.spotify.com/track/5H8jHmABa01Y7RSL8tejgh) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Chandelier](https://open.spotify.com/album/5KFOZx4trm0m4BPQ2HzrZ1) | 3:09 | 2021-08-06 | 2021-09-03 |
-| [CHANGE THE CHANNEL](https://open.spotify.com/track/7jCwlREfUpw0NCIU23hMhx) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [CHANGE THE CHANNEL](https://open.spotify.com/album/2Gl4wXz0O0MOGAAWyEHfs6) | 2:35 | 2020-10-16 |  |
+| [CHANGE THE CHANNEL](https://open.spotify.com/track/7jCwlREfUpw0NCIU23hMhx) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [CHANGE THE CHANNEL](https://open.spotify.com/album/2Gl4wXz0O0MOGAAWyEHfs6) | 2:35 | 2020-10-16 | 2023-01-01 |
 | [changes](https://open.spotify.com/track/3fuaISGMWzSNjkcdeUJUb9) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast DELUXE](https://open.spotify.com/album/6LDit3vNb3nWRCNza4IfHj) | 2:04 | 2022-01-28 | 2022-03-01 |
 | [Charmander](https://open.spotify.com/track/4Aocy7YAyOYf5YHj18Vfj3) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:11 | 2022-02-28 | 2022-04-05 |
 | [Charmander](https://open.spotify.com/track/4NP3gHruXgIo4YSJSNDRBz) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Charmander](https://open.spotify.com/album/5Cy8xrlkPh9lR5XolUM0QE) | 2:11 | 2021-11-05 | 2022-03-01 |
@@ -549,6 +549,7 @@
 | [If I Could Hold Your Soul](https://open.spotify.com/track/5QDjiZPJosipiZ8VZEMWXq) | [Cities Aviv](https://open.spotify.com/artist/4m0HRALRlPxbZp5SwvktFX) | [If I Could Hold Your Soul](https://open.spotify.com/album/39m6U4CrVMRxfHqcbqYTKS) | 1:47 | 2022-05-09 | 2022-06-11 |
 | [ifhy](https://open.spotify.com/track/01yiSZ6GzLj5YxGv02IrNd) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [ifhy](https://open.spotify.com/album/3LQvpJQg1IyRqKQGkVYlM7) | 2:49 | 2020-11-13 | 2021-10-12 |
 | [ignorance is bliss](https://open.spotify.com/track/4nC2R5thxOEUfcEQ5a0q3B) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [ignorance is bliss](https://open.spotify.com/album/2l2OLcnXmhvxmQG9MWksXI) | 2:54 | 2022-04-21 | 2022-05-12 |
+| [ihy](https://open.spotify.com/track/40zIP85t03fk8iHAlmzmtt) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [rave](https://open.spotify.com/album/1ysVukRMORU8J6Cpympwgw) | 2:50 | 2022-11-30 |  |
 | [ihy](https://open.spotify.com/track/6Zdr62QDnRlN2wh1ruFUeO) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [rave](https://open.spotify.com/album/00K2bUoUO3r54vyX6fB0qx) | 2:50 | 2022-11-11 | 2022-12-01 |
 | [ill be okay](https://open.spotify.com/track/2AhAfOSQs8IC7EbTZPNb3j) | [Billy Marchiafava](https://open.spotify.com/artist/27foDL8SBDLivhZNlDsAza) | [ill be okay](https://open.spotify.com/album/0COpjPbB6G8M3ccw6U9wLJ) | 2:31 | 2022-07-01 | 2022-08-06 |
 | [IM NOT IN THE MOOD](https://open.spotify.com/track/2bgJYesakxwKgSnBGqj5aC) | [Colby Lafayette](https://open.spotify.com/artist/5D28O29XHRpautDpiaha2K) | [IM NOT IN THE MOOD](https://open.spotify.com/album/7ovhGKFKoPgSGwSNX8HOiJ) | 3:24 | 2020-10-13\* | 2021-02-13 |

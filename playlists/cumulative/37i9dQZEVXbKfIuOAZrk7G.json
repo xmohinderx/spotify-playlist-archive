@@ -1248,6 +1248,24 @@
     },
     {
       "album": {
+        "name": "Asiwaju",
+        "url": "https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Asiwaju",
+      "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
+    },
+    {
+      "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
@@ -6776,6 +6794,24 @@
     },
     {
       "album": {
+        "name": "Give It To Me (TikTok) (Remix)",
+        "url": "https://open.spotify.com/album/5TFGWVkpLUO22vriADgKLo"
+      },
+      "artists": [
+        {
+          "name": "Splice Records",
+          "url": "https://open.spotify.com/artist/2ZADLHKIfy45s3KdoA6Jn5"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172160,
+      "name": "Give It To Me (TikTok) - Remix",
+      "url": "https://open.spotify.com/track/2RQOyTK7GG9HQMruQXS7wP"
+    },
+    {
+      "album": {
         "name": "Give It To Me (Remix)",
         "url": "https://open.spotify.com/album/3bqPkfqc4dMwmdyxIESBEf"
       },
@@ -7567,6 +7603,24 @@
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "album": {
+        "name": "Homebrew 6",
+        "url": "https://open.spotify.com/album/2WwR1ynGzdFY4WDmm0p5PW"
+      },
+      "artists": [
+        {
+          "name": "The Fables",
+          "url": "https://open.spotify.com/artist/6m7YfL6SLo94WxTEXHVaFN"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165280,
+      "name": "Heave Away",
+      "url": "https://open.spotify.com/track/2YnYkMnSOC4z9bWjriZH3t"
     },
     {
       "album": {
@@ -13415,7 +13469,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 171000,
       "name": "Out Of Nowhere",
       "url": "https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt"
@@ -14441,7 +14495,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 235555,
       "name": "Ramenez la coupe \u00e0 la maison",
       "url": "https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m"
@@ -16205,7 +16259,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-26",
+      "date_removed": null,
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
@@ -20107,7 +20161,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 165457,
       "name": "Wintering",
       "url": "https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN"
@@ -20267,7 +20321,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 164629,
       "name": "WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1",
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"

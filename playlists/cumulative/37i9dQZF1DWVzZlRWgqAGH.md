@@ -4,7 +4,7 @@
 
 > 🧈 Smooth joints\. Cover: Masego
 
-776 songs - 1 day 21 hr 55 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+777 songs - 1 day 21 hr 58 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [25](https://open.spotify.com/track/77tTklVhbUpmuGRku51lYA) | [Fieh](https://open.spotify.com/artist/0KmBIwN1qmQbXpR4wtJX88) | [25](https://open.spotify.com/album/2iw9E5L5poVGJ5yorqbWGc) | 4:30 | 2019-09-29\* | 2019-12-13 |
 | [2Personal](https://open.spotify.com/track/2HQBtqstdRExrUEztGizXe) | [Raheaven](https://open.spotify.com/artist/4lXm6ZMmiF65lvSDAqQvY6) | [2Personal](https://open.spotify.com/album/5GaK5ZjDkSEJg14sMkcHNK) | 2:57 | 2020-10-30 | 2020-12-01 |
 | [3 on E](https://open.spotify.com/track/48Iq6k1seDMe2LprI8zKu0) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [The Joy of Music, the Job of Real Estate](https://open.spotify.com/album/4EyXFhtdGeaIGh5i5IkBtv) | 2:57 | 2020-04-03 | 2020-05-22 |
-| [3 Words \(feat\. Leven Kali\)](https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Law of Automata: Valid](https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN) | 3:20 | 2021-04-19 |  |
+| [3 Words \(feat\. Leven Kali\)](https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Law of Automata: Valid](https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN) | 3:20 | 2021-04-19 | 2023-01-01 |
 | [400 Years](https://open.spotify.com/track/0sZKyCleaIoLu9sHF4TIKj) | [Reginald Omas Mamode IV](https://open.spotify.com/artist/7fwMK3Ri8BjvsBajiUt8dS) | [400 Years](https://open.spotify.com/album/1UmLReSNuRIZuRum093wiu) | 3:12 | 2020-09-25 | 2022-06-13 |
 | [5 Minutes](https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [5 Minutes](https://open.spotify.com/album/50m0nBNNmLRfgF9DXtUSeL) | 3:15 | 2022-10-07 |  |
 | [7AM](https://open.spotify.com/track/0Shb8sVrjQPtKjMx0697vo) | [Raheaven](https://open.spotify.com/artist/4lXm6ZMmiF65lvSDAqQvY6) | [7AM](https://open.spotify.com/album/5xNhZtBcftRipgqH8PHZHQ) | 2:58 | 2020-09-04 | 2020-12-18 |
@@ -269,6 +269,7 @@
 | [fxck it then](https://open.spotify.com/track/6C6CivPw9ew0qPgvvbSloL) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [fxck it then](https://open.spotify.com/album/5kNYmUqBUNBOvYhV6YqKhC) | 2:15 | 2021-02-25 | 2021-03-22 |
 | [Garage Rooftop](https://open.spotify.com/track/1dekstoglmqX3fq3K42sux) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment](https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz) | 4:24 | 2020-12-11 | 2021-01-23 |
 | [GEEKIN](https://open.spotify.com/track/2AdcAJUXNrvgKEdIEbXVy8) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [GEEKIN](https://open.spotify.com/album/5mmKNEoVu2DMJwMqPz1e4h) | 2:37 | 2021-10-10 | 2022-12-24 |
+| [GEEKIN](https://open.spotify.com/track/7kKjzWv2H6qnNDKJuerf1e) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [GEEKIN'](https://open.spotify.com/album/4QynZKICiI8JjZZAScjJBx) | 2:37 | 2022-12-30 |  |
 | [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 | 2022-10-14 | 2022-11-19 |
 | [Get It Right](https://open.spotify.com/track/1u7WUgn5x2NySXESi7aLQX) | [REMI](https://open.spotify.com/artist/5t69dnux4K2vcJO4VjS39q), [Sensible J](https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U), [Jace XL](https://open.spotify.com/artist/3rZ0D1eTJ7qUfu5LqxXpSM) | [Get It Right / Elevate](https://open.spotify.com/album/5tiNRaFSzq2FreVcRJCWjC) | 3:27 | 2020-03-18 | 2020-04-24 |
 | [Get Sun \(feat\. Arthur Verocai\) \- Pocket Size Radio Edit](https://open.spotify.com/track/0xXis9GsPdbB1aBwlFRfV9) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Get Sun \(feat\. Arthur Verocai\)](https://open.spotify.com/album/4voG9BTFD0GrLyKpEKdBSX) | 4:40 | 2021-03-20 | 2022-07-29 |

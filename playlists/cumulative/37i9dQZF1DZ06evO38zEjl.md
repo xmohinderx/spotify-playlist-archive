@@ -4,11 +4,11 @@
 
 > This is Jon Hassell\. The essential tracks, all in one playlist.
 
-82 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/5utu6NSDQOYS6yo7sj1Zvx)
+83 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/5utu6NSDQOYS6yo7sj1Zvx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Like\) Warriors Everywhere \(Courage\)](https://open.spotify.com/track/4NFTr6KZ3HGVVhCXmNu6Hm) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Farafina](https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL) | [Flash of the Spirit](https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0) | 4:43 | 2022-12-30 |  |
+| [\(Like\) Warriors Everywhere \(Courage\)](https://open.spotify.com/track/4NFTr6KZ3HGVVhCXmNu6Hm) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Farafina](https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL) | [Flash of the Spirit](https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0) | 4:43 | 2022-12-30 | 2023-01-01 |
 | [Abu Gil \- Live](https://open.spotify.com/track/3X0BvVXZ5Xpx0oPN0di5yO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 13:04 | 2022-05-30 | 2022-09-30 |
 | [Adios Saturn](https://open.spotify.com/track/3qT7EXtReLltWcnlpsYaur) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8) | 1:57 | 2022-10-18 |  |
 | [Air](https://open.spotify.com/track/5ocNutZquWbyiajH4MJQ9s) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 5:20 | 2022-05-29 | 2022-12-30 |
@@ -62,6 +62,7 @@
 | [Ondas Do Mar De Vigo](https://open.spotify.com/track/79JXjJ4YPgLlgJEJ9BJ9Wd) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Amina Alaoui](https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 4:30 | 2022-10-12 |  |
 | [Open Secret \(Paris\)](https://open.spotify.com/track/2oNjchovVMPVouByxj0Zfv) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 11:47 | 2022-08-27 | 2022-10-08 |
 | [Out Pours \(Kongo\) Blue \[Prayer\]](https://open.spotify.com/track/1GEjkGIXfNLZpV4XINVy94) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Farafina](https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL) | [Flash of the Spirit](https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0) | 7:14 | 2022-07-29 | 2022-07-31 |
+| [Parasol Blanc, pt\. 2](https://open.spotify.com/track/1VeMQPvEgDpbmszWba9vIR) | [Hadouk Trio](https://open.spotify.com/artist/6LGJztKkpc9F9yNpPSh8Js), [Didier Malherbe](https://open.spotify.com/artist/29ZPj7LSaUStGFCPyivcOl), [Loy Ehrlich](https://open.spotify.com/artist/1Y21TMXwcmh3J7ScCMRQdH), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Utopies](https://open.spotify.com/album/5P3rzTOomkM7iFV1uRDHy7) | 3:33 | 2022-12-31 |  |
 | [Passage D.E.](https://open.spotify.com/track/20CaaX6tsB7XeuThOZjNgk) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 5:25 | 2022-05-29 |  |
 | [Pastorale Vassant](https://open.spotify.com/track/7429GeBCGutDEUPy1L4Uv4) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9) | 3:59 | 2022-05-29 |  |
 | [Picnic](https://open.spotify.com/track/1VCvYkf9BjcXlAXzBCSALt) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9) | 5:58 | 2022-05-30 | 2022-10-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: GREY D
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,499 likes - 43 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,501 likes - 43 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 14 | [Lại Gần Và Để Anh Ôm Em Lâu Hơn \- Acoustic Version](https://open.spotify.com/track/2RG8uz3hvNVAlVvzhVufhi) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:24 |
 | 15 | [Summer Night](https://open.spotify.com/track/7k7wieI5FG61ZARVV5OT7z) | [Xuân Nghi](https://open.spotify.com/artist/09TbfG9329V26zqpb7IQT5) | [Summer Night](https://open.spotify.com/album/5Cskl93giLfcuwEJzKlvFw) | 2:51 |
 | 16 | [Thành Phố Đêm](https://open.spotify.com/track/5DAFdVmVwj2dFddjHSdDQk) | [Khải](https://open.spotify.com/artist/2YJjdbWUlFUPMyveMVft5k), [da/md](https://open.spotify.com/artist/3rfioXxHtUmA66MpuKdozJ) | [Thành Phố Đêm](https://open.spotify.com/album/2IJtIuvzoJdAp45m7oWwUp) | 3:10 |
-| 17 | [Hoàng Hôn](https://open.spotify.com/track/0AFGP6yJiakwce0evtrbxd) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Hoàng Hôn](https://open.spotify.com/album/3Q7A5892DvFaMdONpVhc9k) | 4:10 |
+| 17 | [Hoàng Hôn](https://open.spotify.com/track/0GdrFeLGWjlEcAfoQEMXH5) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Hoàng Hôn](https://open.spotify.com/album/20l0aOMxX0YDZq1bBCuoU6) | 4:10 |
 | 18 | [CHẮC LÀ SAY ÒI](https://open.spotify.com/track/798WQMqGeOrfTFepsCF3r7) | [Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0), [Max Benderz](https://open.spotify.com/artist/0ZDirTwCdmoL4RpbXxiRvj) | [CHẮC LÀ SAY ÒI](https://open.spotify.com/album/6BJ9LUWp8AqbKahQ0TnUZk) | 3:24 |
 | 19 | [MOT NGUOI VI EM](https://open.spotify.com/track/6lmJXxTcLTe6bdgwSfTqhO) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [MOT NGUOI VI EM](https://open.spotify.com/album/4RdYWBn5Vw5SOYH0A30v1u) | 3:30 |
 | 20 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 42 | [Obsessed](https://open.spotify.com/track/1uCmkKTV9aiMZrVJm1zDoT) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Obsessed](https://open.spotify.com/album/6PiV1ByuZd4o8HUwI83yav) | 2:28 |
 | 43 | [STAY FOR A WHILE](https://open.spotify.com/track/3krMz49aQyQny6U65HNHvA) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7) | [STAY FOR A WHILE](https://open.spotify.com/album/3kaF1ubPMNkq47EkGptClH) | 3:47 |
 
-Snapshot ID: `MTY2OTM1Nzg5NSwwMDAwMDAwMDFkOWIwNTY5MTYwNGQxY2VhMDhkZTBiOThiMzMwMmNm`
+Snapshot ID: `MTY2OTM1Nzg5NSwwMDAwMDAwMGM3NDg1YjkwZGQwZGIxYWY5ZWJkYzIwNjIxYzhkZjRi`

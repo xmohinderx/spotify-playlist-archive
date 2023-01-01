@@ -547,6 +547,24 @@
     {
       "album": {
         "name": "Calm Water",
+        "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
+      },
+      "artists": [
+        {
+          "name": "Elise Bordeaux",
+          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260729,
+      "name": "Calm Water",
+      "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
+    },
+    {
+      "album": {
+        "name": "Calm Water",
         "url": "https://open.spotify.com/album/3slPGMMjH6yTnbbJ0yYv8l"
       },
       "artists": [
@@ -557,7 +575,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 260729,
       "name": "Calm Water",
       "url": "https://open.spotify.com/track/3VHj17DOjq1Yf89SCPK0Nj"

@@ -4,13 +4,14 @@
 
 > Most adored pop hits from the Middle East and North Africa\. Cover: Ramy Sabry
 
-114 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/3oCJHmm7pEXb9N40JMypnM)
+115 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/3oCJHmm7pEXb9N40JMypnM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:00](https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [00:00](https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD) | 3:58 | 2022-10-24 |  |
 | [10 Oloub](https://open.spotify.com/track/2M4RHWLlXJbvfGrS9owX38) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [10 Oloub](https://open.spotify.com/album/7dEBbH37LFkUQupc4pcTiN) | 3:29 | 2022-05-04 |  |
 | [3 Sneen](https://open.spotify.com/track/6ZddaoTZy0vqf4vTmqUbJs) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [3 Sneen](https://open.spotify.com/album/6IOqUxSF8Il0r0aXFTt4rt) | 3:01 | 2022-05-04 | 2022-06-19 |
+| [3asal Ya Nas](https://open.spotify.com/track/6N7OyyrRQRMiVaUzDh9RiP) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3asal Ya Nas](https://open.spotify.com/album/4PukzqTnEoXMAd2VwEooNb) | 3:04 | 2022-12-31 |  |
 | [Aala Shanak](https://open.spotify.com/track/32fN22RlrQRRCH59Y80eSB) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 3:14 | 2022-10-24 |  |
 | [Adda El Kalam](https://open.spotify.com/track/4IMYgmXkjzzOmbDNbQZnVe) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Adda El Kalam](https://open.spotify.com/album/20mYdMqyWHW5TiQwhB8FKC) | 3:32 | 2022-05-04 | 2022-07-15 |
 | [Agaby](https://open.spotify.com/track/3nkxT86Yig9jbqxfPj8aEz) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX), [Tooma](https://open.spotify.com/artist/06DFi3gbAAErstJENtIa5z) | [Agaby](https://open.spotify.com/album/6tJgJlVAZD9fom15faEf1y) | 3:51 | 2022-05-04 | 2022-07-15 |
@@ -37,7 +38,7 @@
 | [Ebn Nas](https://open.spotify.com/track/1sLwnaIL9PbN9Yph20LGLH) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Ebn Nas](https://open.spotify.com/album/7MAkAuUFAz87CMf0p6rXMv) | 3:19 | 2022-05-04 | 2022-07-15 |
 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 | 2022-05-04 |  |
 | [El Hob Dayaani](https://open.spotify.com/track/1d8a7PXLEjkTtEuz5hWuv2) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [El Hob Dayaani](https://open.spotify.com/album/4GQkyZMC7NjgtfMwdIkWrs) | 3:10 | 2022-05-04 | 2022-07-12 |
-| [Elly Yemshy 3ady](https://open.spotify.com/track/1Qh8KVerk8wYXVmRWw51Xe) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Elly Yemshy 3ady](https://open.spotify.com/album/3dYZ5ljeUeYlADvkX5V6b8) | 4:40 | 2022-05-04 |  |
+| [Elly Yemshy 3ady](https://open.spotify.com/track/1Qh8KVerk8wYXVmRWw51Xe) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Elly Yemshy 3ady](https://open.spotify.com/album/3dYZ5ljeUeYlADvkX5V6b8) | 4:40 | 2022-05-04 | 2023-01-01 |
 | [ElNafkha ElKadabah](https://open.spotify.com/track/6VaT4hvY4DvVFNx0apik5F) | [Ali Kakooli](https://open.spotify.com/artist/44Hq31Jx9di0TFPsmU6et9) | [ElNafkha ElKadabah](https://open.spotify.com/album/16LTHZWQIVx9ZJOxwcqHsC) | 3:46 | 2022-05-04 |  |
 | [Enta Al Saadah](https://open.spotify.com/track/2dN3NBI4cvTmexGsgDfbf7) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Enta Al Saadah](https://open.spotify.com/album/2qoGdlzf9IbzBzXIhWiQ9a) | 3:48 | 2022-05-04 | 2022-07-07 |
 | [Enta Zaalan Meni](https://open.spotify.com/track/2AGHWbmR6YAgJJ8fXy4o3G) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [Enta Zaalan Meni](https://open.spotify.com/album/0Uynztqh75HbmBU9obrLh7) | 3:38 | 2022-05-04 | 2022-06-12 |

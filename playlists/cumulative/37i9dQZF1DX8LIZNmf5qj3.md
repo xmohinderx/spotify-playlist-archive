@@ -4,7 +4,7 @@
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Lucky Daye
 
-53 songs - 2 hr 59 min - not published yet
+54 songs - 3 hr 3 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Sweet Distraction](https://open.spotify.com/track/6oYDza5APcRR4c8w1WEAml) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Sweet Distraction](https://open.spotify.com/album/6dEK6JiVB7DoalHiMayTsb) | 2:51 | 2022-12-22 |  |
 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/47ssddfj7Ug6hO9Ol2AXGu) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Tell Me It's Over](https://open.spotify.com/album/2VgQZ6hNhTXWaZdNbuULe3) | 4:41 | 2022-12-22 |  |
 | [upside down](https://open.spotify.com/track/5oGkMpnqbW4q5f5xyKDFVe) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0), [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [upside down](https://open.spotify.com/album/4CFZaJdDSXfW7TuZyW5P11) | 4:23 | 2022-12-22 | 2022-12-29 |
-| [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/track/2HI6OFcMNUyS0IEwp4hffV) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/album/38mJ5vtciV1TV9xrD1qy4L) | 3:39 | 2022-12-22 |  |
+| [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/track/2HI6OFcMNUyS0IEwp4hffV) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/album/38mJ5vtciV1TV9xrD1qy4L) | 3:39 | 2022-12-22 | 2023-01-01 |
+| [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:39 | 2022-12-28 |  |
 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 | 2022-12-22 |  |
 | [With U](https://open.spotify.com/track/4CbhyOcjZPwxBab6In7wrj) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [With U](https://open.spotify.com/album/7MfesF2IgQtb2dUefA9MH6) | 3:39 | 2022-12-22 |  |
 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 | 2022-12-22 |  |

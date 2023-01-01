@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 8484,
+  "num_followers": 8491,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDczZGExOTIyNzk3NmMzZGViM2ZlNDYxNjI4MzlhNmZj",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGRmMjI3YzlmNjU4OWNiZjFjMzM4N2I1ODY0NDY1NTli",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -335,58 +335,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "King Bubba Mashup Volume 1",
-        "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        },
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "Monster Winer",
-      "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Split in De Middle",
-        "url": "https://open.spotify.com/album/7ewwmtn3lhROcG8wvT5Zh4"
-      },
-      "artists": [
-        {
-          "name": "Freezy",
-          "url": "https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Split in De Middle",
-      "url": "https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Famalay",
         "url": "https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q"
       },
@@ -407,6 +355,58 @@
       "duration_ms": 199020,
       "name": "Famalay",
       "url": "https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "King Bubba Mashup Volume 1",
+        "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        },
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 159013,
+      "name": "Monster Winer",
+      "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 175187,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Split in De Middle",
+        "url": "https://open.spotify.com/album/7ewwmtn3lhROcG8wvT5Zh4"
+      },
+      "artists": [
+        {
+          "name": "Freezy",
+          "url": "https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Split in De Middle",
+      "url": "https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -963,6 +963,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Stink Behavior",
+        "url": "https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8"
+      },
+      "artists": [
+        {
+          "name": "Teddy Rhymez",
+          "url": "https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Stink Behavior",
+      "url": "https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Baby Bells Riddim",
         "url": "https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 227356,
       "name": "Who Pay!? (Big Bumpa) [feat. Salty & Sekon Sta]",
       "url": "https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Stink Behavior",
-        "url": "https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8"
-      },
-      "artists": [
-        {
-          "name": "Teddy Rhymez",
-          "url": "https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Stink Behavior",
-      "url": "https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Bus a Wine",
-        "url": "https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        },
-        {
-          "name": "Fay-Ann Lyons",
-          "url": "https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Bus a Wine",
-      "url": "https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Stage Gone Bad",
         "url": "https://open.spotify.com/album/7u4TbngsJ9JaETb6M6wKEe"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 193893,
       "name": "Stage Gone Bad",
       "url": "https://open.spotify.com/track/0W8TTEoiyHqvp0ENoTjfRy"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Bus a Wine",
+        "url": "https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        },
+        {
+          "name": "Fay-Ann Lyons",
+          "url": "https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd"
+        }
+      ],
+      "duration_ms": 183050,
+      "name": "Bus a Wine",
+      "url": "https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp"
     },
     {
       "added_at": "2022-02-24 18:00:00",

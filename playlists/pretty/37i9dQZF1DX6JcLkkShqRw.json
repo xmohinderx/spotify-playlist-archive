@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con Tunechikidd, ITHAN NY & Nickoog Clk.",
-  "num_followers": 282299,
+  "num_followers": 282413,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMDY3ZTkxYTdmN2I5OTk5NGZkYmNiMzU0YzAyZTU2OGY3",
+  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMDc4MGM1YzYzYjA4ODQ3NzkwYjliMzA2ZmM0Mzc5ZThl",
   "tracks": [
     {
       "added_at": "2022-12-02 03:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "Una Noche en Medell\u00edn",
+        "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Una Noche en Medell\u00edn",
+      "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "Duki: Bzrp Music Sessions, Vol. 50",
         "url": "https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 221303,
       "name": "Duki: Bzrp Music Sessions, Vol. 50",
       "url": "https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "Una Noche en Medell\u00edn",
-        "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Una Noche en Medell\u00edn",
-      "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -351,26 +351,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "A Veces (feat. Feid)",
-        "url": "https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 191555,
-      "name": "A Veces (feat. Feid)",
-      "url": "https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "ULTRA SOLO",
         "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 227220,
       "name": "ULTRA SOLO",
       "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "A Veces (feat. Feid)",
+        "url": "https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 191555,
+      "name": "A Veces (feat. Feid)",
+      "url": "https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -1951,6 +1951,26 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "Ta' Soltera",
+        "url": "https://open.spotify.com/album/0LxYrwfjziIbRD55pEIwXc"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 195172,
+      "name": "Ta' Soltera",
+      "url": "https://open.spotify.com/track/48D3hmwzP6UiJa4jj6tR8y"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "Sauce",
         "url": "https://open.spotify.com/album/4IyK5fI53khDkKDc3i6h0b"
       },
@@ -1975,26 +1995,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Ta' Soltera",
-        "url": "https://open.spotify.com/album/0LxYrwfjziIbRD55pEIwXc"
-      },
-      "artists": [
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 195172,
-      "name": "Ta' Soltera",
-      "url": "https://open.spotify.com/track/48D3hmwzP6UiJa4jj6tR8y"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "Me Voy Contigo",
         "url": "https://open.spotify.com/album/3yRpvjQhjb8KBIxJB88GAh"
       },
@@ -2011,6 +2011,30 @@
       "duration_ms": 198556,
       "name": "Me Voy Contigo",
       "url": "https://open.spotify.com/track/5VSAcJtB7PlXO3cwC4vjom"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "Mi Waxita",
+        "url": "https://open.spotify.com/album/1o8ifDcbijqGFTgzfx0min"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Izahn",
+          "url": "https://open.spotify.com/artist/0kqEGkfZl82GmTSR6jVCSk"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "duration_ms": 218006,
+      "name": "Mi Waxita",
+      "url": "https://open.spotify.com/track/3NW1FV4c9UNsPLkFOqTfF5"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -2043,30 +2067,6 @@
       "duration_ms": 241224,
       "name": "Flaytiando",
       "url": "https://open.spotify.com/track/7ccoyhNAr3OY5IQsvpQnck"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "Mi Waxita",
-        "url": "https://open.spotify.com/album/1o8ifDcbijqGFTgzfx0min"
-      },
-      "artists": [
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        },
-        {
-          "name": "Izahn",
-          "url": "https://open.spotify.com/artist/0kqEGkfZl82GmTSR6jVCSk"
-        },
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 218006,
-      "name": "Mi Waxita",
-      "url": "https://open.spotify.com/track/3NW1FV4c9UNsPLkFOqTfF5"
     },
     {
       "added_at": "2022-12-02 03:00:00",

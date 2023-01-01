@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del Rock en Espa\u00f1ol. Cover: Wiplash",
-  "num_followers": 277094,
+  "num_followers": 277123,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNjMwMiwwMDAwMDAwMDcwNWVjNmZkY2I3NGY4MDAzYWY0MTNmN2NlYzJkODMy",
+  "snapshot_id": "MTY3MjQyNjMwMiwwMDAwMDAwMDAzY2M4YjU2ODczMzZlYjg0YmZkYjE3NGVkZWRiYjIw",
   "tracks": [
     {
       "added_at": "2022-12-30 18:51:42",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-12-30 18:51:42",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 211204,
-      "name": "No Te Imagin\u00e1s",
-      "url": "https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf"
-    },
-    {
-      "added_at": "2022-12-30 18:51:42",
-      "album": {
         "name": "Todo est\u00e1 bien",
         "url": "https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 376123,
       "name": "Todo est\u00e1 bien",
       "url": "https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv"
+    },
+    {
+      "added_at": "2022-12-30 18:51:42",
+      "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 211204,
+      "name": "No Te Imagin\u00e1s",
+      "url": "https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf"
     },
     {
       "added_at": "2022-12-30 18:51:42",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-12-30 18:51:42",
       "album": {
-        "name": "Hijos del Sol",
-        "url": "https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq"
-      },
-      "artists": [
-        {
-          "name": "Los Cogelones",
-          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Danza de Sol",
-      "url": "https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH"
-    },
-    {
-      "added_at": "2022-12-30 18:51:42",
-      "album": {
         "name": "Ni\u00f1os Perdidos",
         "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2022-12-30 18:51:42",
       "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/40ablOkksXy9AgUsOHxhrm"
+        "name": "Hijos del Sol",
+        "url": "https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq"
       },
       "artists": [
         {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+          "name": "Los Cogelones",
+          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
         }
       ],
-      "duration_ms": 203892,
-      "name": "Fuera de Lugar",
-      "url": "https://open.spotify.com/track/0JgwKmhObrOlQfRXgJf1c4"
+      "duration_ms": 190640,
+      "name": "Danza de Sol",
+      "url": "https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH"
     },
     {
       "added_at": "2022-12-30 18:51:42",
@@ -839,6 +823,22 @@
       "duration_ms": 211699,
       "name": "La Nieve",
       "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
+    },
+    {
+      "added_at": "2022-12-30 18:51:42",
+      "album": {
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/40ablOkksXy9AgUsOHxhrm"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "duration_ms": 203892,
+      "name": "Fuera de Lugar",
+      "url": "https://open.spotify.com/track/0JgwKmhObrOlQfRXgJf1c4"
     }
   ],
   "unique_name": "Rock Total",

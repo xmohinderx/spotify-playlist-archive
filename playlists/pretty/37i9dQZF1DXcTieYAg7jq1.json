@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: WILSN",
-  "num_followers": 402547,
+  "num_followers": 402571,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDgxOTM1MmJlNDk5YzcxZTVhOTEwYzY2Y2I0OTNmZTI5",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDJmYmE3MWJkZWUwNDk1YmVmYjJkODc1MmVkYzBhYTgx",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -817,6 +817,22 @@
       "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
     },
     {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 238613,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "ALPHA",
@@ -835,22 +851,6 @@
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 238613,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Black Is Golden",
-        "url": "https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK"
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
       "artists": [
         {
-          "name": "Wyn Starks",
-          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 184848,
-      "name": "Dancing My Way",
-      "url": "https://open.spotify.com/track/2t8bKoVLWfyPVAybGJqc8u"
+      "duration_ms": 181535,
+      "name": "I Don't Wanna Lie",
+      "url": "https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+        "name": "Black Is Golden",
+        "url": "https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK"
       },
       "artists": [
         {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+          "name": "Wyn Starks",
+          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
         }
       ],
-      "duration_ms": 181535,
-      "name": "I Don't Wanna Lie",
-      "url": "https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK"
+      "duration_ms": 184848,
+      "name": "Dancing My Way",
+      "url": "https://open.spotify.com/track/2t8bKoVLWfyPVAybGJqc8u"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1317,6 +1317,22 @@
       "url": "https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "California Wine",
+        "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
+      },
+      "artists": [
+        {
+          "name": "Quinn Devlin",
+          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
+        }
+      ],
+      "duration_ms": 187231,
+      "name": "California Wine",
+      "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
+    },
+    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Angels & Queens - Part I",
@@ -1347,22 +1363,6 @@
       "duration_ms": 186818,
       "name": "Pantone 17 13 30",
       "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "California Wine",
-        "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
-      },
-      "artists": [
-        {
-          "name": "Quinn Devlin",
-          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
-        }
-      ],
-      "duration_ms": 187231,
-      "name": "California Wine",
-      "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1561,22 +1561,6 @@
       "url": "https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "KIWANUKA",
-        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Final Days",
-      "url": "https://open.spotify.com/track/4CJiAsRwM7MaCgWlnFaSRz"
-    },
-    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "WTSDG (with Alessia Cara)",
@@ -1595,6 +1579,22 @@
       "duration_ms": 244013,
       "name": "Wtsdg (with Alessia Cara)",
       "url": "https://open.spotify.com/track/45Dhc9gFBVFwaxSgzBd7Lo"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "KIWANUKA",
+        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Final Days",
+      "url": "https://open.spotify.com/track/4CJiAsRwM7MaCgWlnFaSRz"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1701,6 +1701,26 @@
       "url": "https://open.spotify.com/track/4ESI02gRSgi4HlZMH0JDyF"
     },
     {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Catch My Wave",
+        "url": "https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo"
+      },
+      "artists": [
+        {
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "Catch My Wave",
+      "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "WE ARE (The Deluxe Edition)",
@@ -1723,26 +1743,6 @@
       "duration_ms": 223815,
       "name": "ADULTHOOD",
       "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Catch My Wave",
-        "url": "https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo"
-      },
-      "artists": [
-        {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        }
-      ],
-      "duration_ms": 194386,
-      "name": "Catch My Wave",
-      "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
     }
   ],
   "unique_name": "Retro Pop",

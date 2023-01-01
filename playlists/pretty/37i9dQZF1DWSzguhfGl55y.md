@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,713 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,891 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 11 | [Kokaina](https://open.spotify.com/track/0bAgUuRXs3q359aMIMrKdu) | [Miami Yacine](https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB) | [Casia Deluxe](https://open.spotify.com/album/03kquvjDEXJugsDtZ2pPA8) | 3:21 |
 | 12 | [Augen auf](https://open.spotify.com/track/3nAJAotlLWvmSWHQ05D2ma) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich & meine Maske \(Premium Version\)](https://open.spotify.com/album/0fQtAAJlHLf5DQZJBVRt7t) | 3:50 |
 | 13 | [Kids \(2 Finger an den Kopf\)](https://open.spotify.com/track/6lxTIMeCLEkj48TlCRG3XX) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [Zum Glück in die Zukunft II](https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT) | 3:49 |
-| 14 | [Ahnma](https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Advanced Chemistry](https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI) | 4:13 |
-| 15 | [An Tagen wie diesen](https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH), [Pascal Finkenauer](https://open.spotify.com/artist/3uc18KTx2wsLk11fOtavsT) | [Am Wasser gebaut](https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg) | 4:01 |
+| 14 | [An Tagen wie diesen](https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH), [Pascal Finkenauer](https://open.spotify.com/artist/3uc18KTx2wsLk11fOtavsT) | [Am Wasser gebaut](https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg) | 4:01 |
+| 15 | [Ahnma](https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Advanced Chemistry](https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI) | 4:13 |
 | 16 | [Ein Affe und ein Pferd](https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Ganz Oben \(Mixtape\)](https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk) | 3:45 |
 | 17 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 |
-| 18 | [Du bist Boss](https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [King](https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v) | 2:43 |
+| 18 | [Oh Jonny](https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Wir Kinder vom Bahnhof Soul \(Re\-Release\)](https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i) | 3:39 |
 | 19 | [Bilder im Kopf](https://open.spotify.com/track/3AzVdNe7tCYbjjRzQyVLbN) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [\#Beste](https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE) | 3:58 |
-| 20 | [Oh Jonny](https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Wir Kinder vom Bahnhof Soul \(Re\-Release\)](https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i) | 3:39 |
+| 20 | [Du bist Boss](https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [King](https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v) | 2:43 |
 | 21 | [Urlaub fürs Gehirn](https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Urlaub fürs Gehirn](https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR) | 4:01 |
 | 22 | [OMG!](https://open.spotify.com/track/6ngfhauAytTZsaQgZyJIeK) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [Zum Glück in die Zukunft II](https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT) | 3:49 |
 | 23 | [Für immer jung](https://open.spotify.com/track/3tv1DRqL9KRuIUawu6eYG0) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S), [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Heavy Metal Payback](https://open.spotify.com/album/3m1BhLKInOY8Rrs4R6STQz) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Eines Tages \(feat\. Cassandra Steen\) \- Single Edit](https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU) | [Azad](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Cassandra Steen](https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr) | [Game Over](https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU) | 3:41 |
 | 50 | [Hey Du!](https://open.spotify.com/track/2SOimocBwo8MH6KKPlwi7x) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Aggro Berlin](https://open.spotify.com/album/1oUbKEimVzsvNablbLWxsr) | 4:10 |
 
-Snapshot ID: `MTY3MTYyNTY3OCwwMDAwMDAwMDg5YzcwMDgyNThlY2U3NDQ1MWM3YjYwODE0ZjA5ODA1`
+Snapshot ID: `MTY3MTYyNTY3OCwwMDAwMDAwMDMxODk2NTBkNjQ0NjJiYjQ3YTdmMDNhMWFjMTRiNGRh`

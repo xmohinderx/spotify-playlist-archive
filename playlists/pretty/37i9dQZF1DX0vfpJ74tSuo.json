@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 48369,
+  "num_followers": 48469,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYzOTg0MiwwMDAwMDAwMGQ4OTg2YzY5MWFmYzZiMWEzNDZlMTA0Zjk3M2UxM2Vk",
+  "snapshot_id": "MTY3MTYzOTg0MiwwMDAwMDAwMGZmMzkwNTc4NDBmYTBjODc2Y2NkZTAyZWZkODkxNTI1",
   "tracks": [
     {
       "added_at": "2022-12-21 16:24:02",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
         "name": "The Very Best of Jimmy Reed",
         "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 144426,
       "name": "Baby What You Want Me To Do",
       "url": "https://open.spotify.com/track/05oMNN5Rbv6rVqyFFG9uTl"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 247373,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "Mississippi Blues",
-        "url": "https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 152076,
-      "name": "Jumper Hanging Out On the Line",
-      "url": "https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
         "name": "Discover",
         "url": "https://open.spotify.com/album/2A6HIKxsKtWuUhsqJzdzJl"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
+        "name": "Mississippi Blues",
+        "url": "https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 152076,
+      "name": "Jumper Hanging Out On the Line",
+      "url": "https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
         "name": "Rediscovered",
         "url": "https://open.spotify.com/album/7563JyVKfAPqonIxfTuU1p"
       },
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "Elementary Doctor Watson",
-        "url": "https://open.spotify.com/album/21k6Gb6ldqVsUfWY9culSS"
-      },
-      "artists": [
-        {
-          "name": "Doc & Merle Watson",
-          "url": "https://open.spotify.com/artist/7GekK1oMVU35jfChgIP2PU"
-        }
-      ],
-      "duration_ms": 207387,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/6XqtE6pjFSJV3dC7Qlr0t0"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
         "name": "Alabama Blues!",
         "url": "https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 194373,
       "name": "Alabama Blues",
       "url": "https://open.spotify.com/track/21EwgINgOx9iiYo7Sj1HCM"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
+        "name": "Elementary Doctor Watson",
+        "url": "https://open.spotify.com/album/21k6Gb6ldqVsUfWY9culSS"
+      },
+      "artists": [
+        {
+          "name": "Doc & Merle Watson",
+          "url": "https://open.spotify.com/artist/7GekK1oMVU35jfChgIP2PU"
+        }
+      ],
+      "duration_ms": 207387,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/6XqtE6pjFSJV3dC7Qlr0t0"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 339600,
-      "name": "One Room Country Shack",
-      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
         "name": "His Best",
         "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 229200,
       "name": "Ooh Baby",
       "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 339600,
+      "name": "One Room Country Shack",
+      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 176001,
+      "name": "The Dolls Are Sleeping",
+      "url": "https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
         "name": "The Natch'l Blues",
         "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
       },
@@ -959,18 +975,18 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+        "name": "Blues Kingpins",
+        "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
       },
       "artists": [
         {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 176001,
-      "name": "The Dolls Are Sleeping",
-      "url": "https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho"
+      "duration_ms": 179813,
+      "name": "Rock Me Baby",
+      "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -1003,22 +1019,6 @@
       "duration_ms": 294032,
       "name": "Walking My Troubles Away",
       "url": "https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
-        "name": "Blues Kingpins",
-        "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 179813,
-      "name": "Rock Me Baby",
-      "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "Love Transcends",
-        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
-      },
-      "artists": [
-        {
-          "name": "Jackie Venson",
-          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
-        }
-      ],
-      "duration_ms": 258696,
-      "name": "Rollin' On (Acoustic)",
-      "url": "https://open.spotify.com/track/2lFGq1alf0bQKUx3uoTA4Z"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
         "name": "Letter from Bluewater Man",
         "url": "https://open.spotify.com/album/3iTXLRbWXRvuNgfJPkoMOh"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 144000,
       "name": "Letter from Bluewater Man",
       "url": "https://open.spotify.com/track/5jl5jAMyWpkR4lEkAGnTXX"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
+        "name": "Love Transcends",
+        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
+      },
+      "artists": [
+        {
+          "name": "Jackie Venson",
+          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
+        }
+      ],
+      "duration_ms": 258696,
+      "name": "Rollin' On (Acoustic)",
+      "url": "https://open.spotify.com/track/2lFGq1alf0bQKUx3uoTA4Z"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "Avalon Blues",
-        "url": "https://open.spotify.com/album/5Er6ubiIavSvQNQI5cwXYm"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 263306,
-      "name": "Avalon Blues",
-      "url": "https://open.spotify.com/track/2LMHSxhp5CahCt9DJVLX0F"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
         "name": "Skip James Live Vol. 2 Bloomington 1968 Part 1",
         "url": "https://open.spotify.com/album/6IRognnWLde4YVlhYVwTvM"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 143673,
       "name": "Crow Jane",
       "url": "https://open.spotify.com/track/4VWlYHwHZkBQbyV7wWeaDe"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
+        "name": "Avalon Blues",
+        "url": "https://open.spotify.com/album/5Er6ubiIavSvQNQI5cwXYm"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 263306,
+      "name": "Avalon Blues",
+      "url": "https://open.spotify.com/track/2LMHSxhp5CahCt9DJVLX0F"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
+        "name": "Complete Studio Recordings",
+        "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Pay Day",
+      "url": "https://open.spotify.com/track/29Q6NQ4WsPYTsZ8nhdAhfo"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
         "name": "The Juice",
         "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
       },
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "Complete Studio Recordings",
-        "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Pay Day",
-      "url": "https://open.spotify.com/track/29Q6NQ4WsPYTsZ8nhdAhfo"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
         "name": "Outdated Emotion",
         "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
       },
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 267512,
-      "name": "Only Porter at the Station",
-      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
         "name": "Global Griot",
         "url": "https://open.spotify.com/album/2GraWMDrJYtWr4VbOGKwT3"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 151403,
       "name": "Brazos River Blues",
       "url": "https://open.spotify.com/track/0mhROANTkoXNVe3fF5DDPi"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 267512,
+      "name": "Only Porter at the Station",
+      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
+        "name": "Complete Studio Recordings",
+        "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 175933,
+      "name": "I'm Satisfied",
+      "url": "https://open.spotify.com/track/6YWXv1B0n4jktNLb6LJ2QN"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
         "name": "Presenting Robert Nighthawk",
         "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 164213,
       "name": "The Moon Is Rising",
       "url": "https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Fussin' and Fightin' (Blues)",
-      "url": "https://open.spotify.com/track/479M29eunSUcosQ608slSc"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -1555,38 +1555,18 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "Alaska Blue",
-        "url": "https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq"
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
       },
       "artists": [
         {
-          "name": "Barry Mcloughlin",
-          "url": "https://open.spotify.com/artist/2QZ7RuIJkak04FNwfoUs7d"
-        },
-        {
-          "name": "Chris Kramer",
-          "url": "https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ"
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
         }
       ],
-      "duration_ms": 173688,
-      "name": "Alaska Blue",
-      "url": "https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
-        "name": "Complete Studio Recordings",
-        "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 175933,
-      "name": "I'm Satisfied",
-      "url": "https://open.spotify.com/track/6YWXv1B0n4jktNLb6LJ2QN"
+      "duration_ms": 180066,
+      "name": "Fussin' and Fightin' (Blues)",
+      "url": "https://open.spotify.com/track/479M29eunSUcosQ608slSc"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -1603,6 +1583,26 @@
       "duration_ms": 134333,
       "name": "Mashing Rain",
       "url": "https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
+        "name": "Alaska Blue",
+        "url": "https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq"
+      },
+      "artists": [
+        {
+          "name": "Barry Mcloughlin",
+          "url": "https://open.spotify.com/artist/2QZ7RuIJkak04FNwfoUs7d"
+        },
+        {
+          "name": "Chris Kramer",
+          "url": "https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ"
+        }
+      ],
+      "duration_ms": 173688,
+      "name": "Alaska Blue",
+      "url": "https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ"
     },
     {
       "added_at": "2022-12-21 16:24:02",

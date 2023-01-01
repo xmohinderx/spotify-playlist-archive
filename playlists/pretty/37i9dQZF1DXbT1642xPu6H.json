@@ -1,12 +1,12 @@
 {
   "description": "Pura m\u00fasica fresca para vibrar en cualquier momento de la semana.",
-  "num_followers": 334035,
+  "num_followers": 334075,
   "original_name": "Buen Vibe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjMzNTkzMCwwMDAwMDAwMDMzNzRiYjMxYTM2Yjk5MmEyNTFlY2Q5Mzk0N2U4MGQ1",
+  "snapshot_id": "MTY3MjMzNTkzMCwwMDAwMDAwMDFiYTQ1OGExN2U4ZmNlODE4ZTNjOTZlODczM2YzYTU1",
   "tracks": [
     {
       "added_at": "2022-11-09 01:39:12",
@@ -915,26 +915,6 @@
     {
       "added_at": "2022-10-12 15:34:17",
       "album": {
-        "name": "Sigue/Forever My Love",
-        "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "Sigue",
-      "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
-    },
-    {
-      "added_at": "2022-10-12 15:34:17",
-      "album": {
         "name": "ELEVATION",
         "url": "https://open.spotify.com/album/1jH4f6N9caSeq3VwwtTHLn"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 194437,
       "name": "DON'T YOU WORRY",
       "url": "https://open.spotify.com/track/0YJW8OXw8G1xDfkzaID3vv"
+    },
+    {
+      "added_at": "2022-10-12 15:34:17",
+      "album": {
+        "name": "Sigue/Forever My Love",
+        "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "Sigue",
+      "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
     },
     {
       "added_at": "2022-10-12 15:34:17",

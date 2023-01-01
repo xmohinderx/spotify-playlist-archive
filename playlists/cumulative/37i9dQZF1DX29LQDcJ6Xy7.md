@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal – fresh and old tunes\. Cover: Rammstein
 
-192 songs - 13 hr 41 min - [published](https://open.spotify.com/playlist/2pW8HvIBAmpjMrb0I9AKFn)
+193 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/2pW8HvIBAmpjMrb0I9AKFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Into the Void](https://open.spotify.com/track/2zAAXQbzIB5e2VpBiGI8SI) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 5:16 | 2022-10-21 |  |
 | [Into the Void](https://open.spotify.com/track/3rz3sJDO0t0sTqaN2cAood) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Into the Void](https://open.spotify.com/album/1qqlfNmX52dUuFFtrO7i05) | 5:16 | 2022-07-01 | 2022-07-29 |
 | [Into the Void](https://open.spotify.com/track/6Q12JjOHsE9kTGVshxrm3F) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Into the Void](https://open.spotify.com/album/3ij353MTGCDCftSBF9GLVm) | 5:16 | 2022-07-01 | 2022-10-17 |
-| [Into the Void \- HARD BOX Remix](https://open.spotify.com/track/1QZWJcDtvPASvWbHMFEG7N) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [Hard Box](https://open.spotify.com/artist/5Eo9seYhBF9X41GH6KqOo3) | [Into the Void \(HARD BOX Remix\)](https://open.spotify.com/album/5e6b6x3x10PzgUdwFBml39) | 3:39 | 2022-12-16 |  |
+| [Into the Void \- HARD BOX Remix](https://open.spotify.com/track/1QZWJcDtvPASvWbHMFEG7N) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [Hard Box](https://open.spotify.com/artist/5Eo9seYhBF9X41GH6KqOo3) | [Into the Void \(HARD BOX Remix\)](https://open.spotify.com/album/5e6b6x3x10PzgUdwFBml39) | 3:39 | 2022-12-16 | 2023-01-01 |
+| [Into the Void \- HARD BOX Remix](https://open.spotify.com/track/4gmrTnVyc2Ud9KMWnl05Fh) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [Hard Box](https://open.spotify.com/artist/5Eo9seYhBF9X41GH6KqOo3) | [Into the Void \(Remix Contest Compilation\)](https://open.spotify.com/album/456DhMrNFieRfFOI8R4p18) | 3:39 | 2022-12-16 |  |
 | [ISN’T EVERYONE](https://open.spotify.com/track/7Kx1m2vb4QPgHKVKvpvrFv) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:14 | 2022-09-16 |  |
 | [Jagdzeit](https://open.spotify.com/track/1mTCbTpcM1nKkH0wGf70Zq) | [Megaherz](https://open.spotify.com/artist/4tM8qmqg5cEZPHNLNQwHeb) | [Götterdämmerung](https://open.spotify.com/album/4JL1w8tZb0C07FcLYQROra) | 4:18 | 2022-07-01 |  |
 | [Jesus Built My Hotrod](https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 4:52 | 2022-07-01 |  |

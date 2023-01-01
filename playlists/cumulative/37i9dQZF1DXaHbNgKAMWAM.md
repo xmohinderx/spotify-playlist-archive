@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-206 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
+207 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [DATE](https://open.spotify.com/track/6QBLkeLbQ7zvQ0WuHesn1d) | [SEONGRI](https://open.spotify.com/artist/3lKRDSj7o3AtOKSVPEhe3Z) | [DATE](https://open.spotify.com/album/5BUwBTVvhJuMm2PJSKQxcu) | 3:36 | 2022-06-09 | 2022-07-10 |
 | [Dear My Winter](https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Dear My Winter](https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN) | 3:20 | 2022-12-13 |  |
 | [Dear.](https://open.spotify.com/track/5Hwo3p2oT7RaHXlY0Ks1ZV) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Dear.](https://open.spotify.com/album/6k8MPTcvl25jtS2GKu6GpA) | 3:53 | 2022-05-11 | 2022-07-24 |
-| [Dearest \(feat\. Sllo\)](https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Sllo](https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc) | [Dearest \(feat\. Sllo\)](https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ) | 2:47 | 2022-05-11 |  |
+| [Dearest \(feat\. Sllo\)](https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Sllo](https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc) | [Dearest \(feat\. Sllo\)](https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ) | 2:47 | 2022-05-11 | 2023-01-01 |
 | [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 | 2022-05-11 | 2022-07-27 |
 | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 | 2022-07-08 |  |
 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 | 2022-06-09 |  |
@@ -169,6 +169,7 @@
 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 | 2022-05-11 | 2022-08-05 |
 | [The Best Present \(Prod\. by PSY\)](https://open.spotify.com/track/12nafIbZ2LAVfht3WMy33b) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [The Best Present](https://open.spotify.com/album/5IhMtglLwKtJWeHCz4KcA4) | 3:59 | 2022-05-11 | 2022-07-21 |
 | [The Love](https://open.spotify.com/track/6XTTvNy1FG2kqTkTf41lTF) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [The Love](https://open.spotify.com/album/1retTjvT8CC2hzab0L2crW) | 3:30 | 2022-08-12 | 2022-11-01 |
+| [THE MIRACLE](https://open.spotify.com/track/3FGhoG7s17n1VfDZfCFLQp) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Reborn Rich \(Original Soundtrack\), Pt\. 6](https://open.spotify.com/album/3YinMIPjIc3hIdxsG9dZv6) | 4:17 | 2022-12-26 |  |
 | [The Night](https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Encounter \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ) | 3:41 | 2022-07-08 |  |
 | [The Night](https://open.spotify.com/track/4J9rYQeCN7kNDlaAKLWmQ8) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Encounter \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/4OPs1ewSg1KJOFzeMNKllB) | 3:41 | 2022-05-11 | 2022-07-29 |
 | [The One I Love](https://open.spotify.com/track/3yWyzP3pL3a0sd774Z63Lx) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Jang Beom June 1st Album](https://open.spotify.com/album/107fG3CrNpvCVaFp9unNpG) | 4:41 | 2022-05-11 | 2022-07-21 |

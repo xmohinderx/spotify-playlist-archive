@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,059 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,027 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 21 | [Someday at Christmas](https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 3:02 |
 | 22 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
 | 23 | [Sleigh Ride](https://open.spotify.com/track/3KHCV3XwRnNQrcM1jXHl1g) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Sleigh Ride \(Remixes\)](https://open.spotify.com/album/1PmqStRSXXG1rC7SotPbK1) | 3:44 |
-| 24 | [Love You More At Christmas Time](https://open.spotify.com/track/76jef0QPcSa0tY1Vu8ekhv) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Love You More At Christmas Time](https://open.spotify.com/album/5W8s1TYePfVqbIQcWQHAye) | 3:25 |
-| 25 | [Peppermint Tea](https://open.spotify.com/track/3MR4LAkDi5tY9mYl6QqzUZ) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Peppermint Tea](https://open.spotify.com/album/390kChxmDD7GIjAgvbHXfW) | 3:09 |
+| 24 | [Peppermint Tea](https://open.spotify.com/track/3MR4LAkDi5tY9mYl6QqzUZ) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Peppermint Tea](https://open.spotify.com/album/390kChxmDD7GIjAgvbHXfW) | 3:09 |
+| 25 | [Love You More At Christmas Time](https://open.spotify.com/track/76jef0QPcSa0tY1Vu8ekhv) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Love You More At Christmas Time](https://open.spotify.com/album/5W8s1TYePfVqbIQcWQHAye) | 3:25 |
 | 26 | [I Can Hardly Wait 'Til Christmas](https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Home For Christmas](https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw) | 4:47 |
 | 27 | [What Christmas Means to Me \- from "The Best Man Holiday Original Motion Picture Soundtrack"](https://open.spotify.com/track/6fjsIxSPXnOjQleb11AYNU) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 2:24 |
 | 28 | [Angels We Have Heard On High](https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 4:27 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 38 | [I Want To Come Home For Christmas](https://open.spotify.com/track/4QnmL9qudlFqNHJWGbFdXP) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Another Kind Of Christmas](https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe) | 3:40 |
 | 39 | [This Christmas](https://open.spotify.com/track/721Z5ii3hik988t1ixcDJc) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [This Christmas](https://open.spotify.com/album/23jUzlbMdbzQEEUyJgQbl8) | 4:02 |
 | 40 | [What Child Is This?](https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [Star Bright](https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df) | 3:52 |
-| 41 | [Winter Wonderland](https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Christmas With Babyface](https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK) | 3:13 |
-| 42 | [Let It Snow](https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Christmas Soul 2020](https://open.spotify.com/album/2HV3jydrtlPP5QcltzokYd) | 2:34 |
+| 41 | [Let It Snow](https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Christmas Soul 2020](https://open.spotify.com/album/2HV3jydrtlPP5QcltzokYd) | 2:34 |
+| 42 | [Winter Wonderland](https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Christmas With Babyface](https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK) | 3:13 |
 | 43 | [Winter Wonderland \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/28cTgrTZZChH8qO2fvm6my) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles \- Holiday](https://open.spotify.com/album/1KXfyj4DeQVABeUTKxnBfG) | 3:38 |
 | 44 | [Give Love On Christmas Day](https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:54 |
 | 45 | [Christmas Time Is Here](https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Snowflakes](https://open.spotify.com/album/5iUvnkcBLlxrrdPsx4zwmu) | 4:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 74 | [Someday At Christmas](https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ) | [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [Someday At Christmas](https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq) | 3:23 |
 | 75 | [Home On Christmas](https://open.spotify.com/track/0TmMJK8wPVDdP8HcQhbnSm) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Home On Christmas](https://open.spotify.com/album/4vuJvR0EOuGKC2PnUojAuv) | 2:32 |
 
-Snapshot ID: `MTY3MTE2OTg0MywwMDAwMDAwMDUzZTgzYTQ0NDI0Mjk5YzgyNzMxMzg0YWYzOTZjMmJi`
+Snapshot ID: `MTY3MTE2OTg0MywwMDAwMDAwMGU3NjM5M2Y3ZDdiM2FiNTRlZTY0ZDQ2NjE2OWQwZjdm`

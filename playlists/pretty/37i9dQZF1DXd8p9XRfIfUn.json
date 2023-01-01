@@ -1,32 +1,28 @@
 {
   "description": "Lo mejor de la nueva. Foto: Montano, Totoy El Frio",
-  "num_followers": 61240,
+  "num_followers": 61260,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjA2MCwwMDAwMDAwMGY1M2U3MmM0N2MxZTNlMzA5MDIzOGQ1ZTY5YTBjN2Rh",
+  "snapshot_id": "MTY3MDU2MjA2MCwwMDAwMDAwMGI0MjJjYWY2ZDYxYjkwMTI4NzU4OGIxNWRhNmIwZWFi",
   "tracks": [
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
         }
       ],
-      "duration_ms": 232496,
-      "name": "Una Vez",
-      "url": "https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj"
+      "duration_ms": 153062,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -51,18 +47,22 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
-      "duration_ms": 176142,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
+      "duration_ms": 232496,
+      "name": "Una Vez",
+      "url": "https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -87,18 +87,18 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Gatita",
-        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
       },
       "artists": [
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 153062,
-      "name": "Gatita",
-      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
+      "duration_ms": 176142,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
         "name": "Prendete",
         "url": "https://open.spotify.com/album/67hhoyM7eneAydp5kzrzeq"
       },
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
         "name": "N\u00facleo",
         "url": "https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 197312,
       "name": "Codigo Secreto",
       "url": "https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
-        "name": "Mala Memoria",
-        "url": "https://open.spotify.com/album/5iWTg6nuWpFtk5BuLi9yXA"
-      },
-      "artists": [
-        {
-          "name": "West Blanco",
-          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "Mala Memoria",
-      "url": "https://open.spotify.com/track/1XgZiDNjSDSP6ySC3tp8wj"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -1147,6 +1131,22 @@
       "duration_ms": 156096,
       "name": "Full Pioli (feat. Best)",
       "url": "https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
+        "name": "Mala Memoria",
+        "url": "https://open.spotify.com/album/5iWTg6nuWpFtk5BuLi9yXA"
+      },
+      "artists": [
+        {
+          "name": "West Blanco",
+          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "Mala Memoria",
+      "url": "https://open.spotify.com/track/1XgZiDNjSDSP6ySC3tp8wj"
     },
     {
       "added_at": "2022-12-09 05:01:00",

@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-171 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
+172 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Compatíveis](https://open.spotify.com/track/1aU7gyz1DIjJVYpib4YB0K) | [Tieijci](https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH), [Tee Ace](https://open.spotify.com/artist/7lzzQfG4iVb0d42Iggw1cV) | [Compatíveis](https://open.spotify.com/album/2ZJqFPzJCEEF4TCRSzOwuG) | 2:34 | 2022-12-02 | 2022-12-24 |
 | [Conquista Mundo](https://open.spotify.com/track/52Zd6OI7ypoK9D27dSsjHT) | [Mulatoh Prod](https://open.spotify.com/artist/3rpJhMe1y5yfFyuSIWP2zR), [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST), [Akapta G](https://open.spotify.com/artist/7qrgEKJaQNUpmWxIjfnopY) | [Conquista Mundo](https://open.spotify.com/album/3xbeCkmXaHf17iAXIByf6M) | 2:32 | 2022-10-13 | 2022-11-11 |
 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 | 2022-07-07 |  |
-| [Cupid](https://open.spotify.com/track/23WXbyhKyMT8dowZx3Bu7I) | [King Cizzy](https://open.spotify.com/artist/3ZTBddrm597Yp0BM5aLLUN) | [Cupid](https://open.spotify.com/album/4MUjU07dZASo1tDM1MDGY6) | 2:56 | 2022-12-23 |  |
+| [Cupid](https://open.spotify.com/track/23WXbyhKyMT8dowZx3Bu7I) | [King Cizzy](https://open.spotify.com/artist/3ZTBddrm597Yp0BM5aLLUN) | [Cupid](https://open.spotify.com/album/4MUjU07dZASo1tDM1MDGY6) | 2:56 | 2022-12-23 | 2023-01-01 |
 | [Curvas](https://open.spotify.com/track/6qyEXFoHVLdKmM2gNLGfnW) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv), [Jotta R](https://open.spotify.com/artist/0u2OA1XApgS4rozZ1iWTRZ) | [Curvas](https://open.spotify.com/album/2dZGlThlyesP83r0z5bVXu) | 4:20 | 2022-07-07 | 2022-08-19 |
 | [Céu No Quarto](https://open.spotify.com/track/7qocYaIQY1ToJnbK7pj8fN) | [Walter 4reignr](https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt) | [Céu No Quarto](https://open.spotify.com/album/1iQArK8itENXTXgexkZwDd) | 2:38 | 2022-12-23 |  |
 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 | 2022-07-07 |  |
@@ -166,6 +166,7 @@
 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 | 2022-07-07 |  |
 | [Time](https://open.spotify.com/track/327d58CiAlFKwANkMW1cKC) | [Dvk](https://open.spotify.com/artist/0BbxfukSeIodPyKQJXhawB) | [Cupid](https://open.spotify.com/album/6TiiajhnvtKkjXVhxWkPz1) | 3:29 | 2022-12-02 | 2022-12-03 |
 | [Toque](https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Toque](https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC) | 3:16 | 2022-10-13 |  |
+| [Toxic](https://open.spotify.com/track/5y5whWaKrsHfPstxEvSRXo) | [DX](https://open.spotify.com/artist/0omUGjQF2J7gdIUaJqlnzR) | [Toxic](https://open.spotify.com/album/2sfSoDqx6QohDOVG7mmV0f) | 2:22 | 2022-12-23 |  |
 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 | 2022-07-07 |  |
 | [Tudo Mudou](https://open.spotify.com/track/2XfGBVchQoNXdxmiZTnhSP) | [Marcelo](https://open.spotify.com/artist/4vtDYMpNi4ZFBGjOie9rwM), [URG](https://open.spotify.com/artist/7kKEaWgCxK4lLwnrmsDZDL) | [Tudo Mudou](https://open.spotify.com/album/3rbUeYAIbQZnNJkEsia5kY) | 3:52 | 2022-09-29 | 2022-10-14 |
 | [Tuesday: Procrastinar](https://open.spotify.com/track/2DjWrLCGdic0K5tl5bXffg) | [Alkinoos](https://open.spotify.com/artist/1tUvSyqscXOmXVYu40hCv0) | [Week](https://open.spotify.com/album/5PlTGcP8Wp4S29t08wzTDj) | 2:59 | 2022-08-18 | 2022-08-22 |

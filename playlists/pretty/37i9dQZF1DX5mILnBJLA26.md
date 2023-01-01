@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 ### [AMAPIANO grooves](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Celebrating the new year with an expensive music mix by the legend <a href="https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v?si=\-67vqDUYSwCGJk\_73lApbw">Kelvin Momo</a>.
+> Celebrating the new year with an expensive music mix by the legend <a href="https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v?si=\-67vqDUYSwCGJk\_73lApbw">Kelvin Momo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,676 likes - 50 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,578 likes - 50 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Song Cry](https://open.spotify.com/track/4TqVIgEPZ8ObQXSYPbXvZj) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Mhaw Keys](https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK) | [Ivy League](https://open.spotify.com/album/3H2eycTSwpPa0mGpacbyn6) | 6:51 |
 | 50 | [Phase 5 \(Main Mix\)](https://open.spotify.com/track/0rtXhWV2XlxzKXpVCCSvc1) | [Kwiish SA](https://open.spotify.com/artist/2J1TbsWFTYT0LHNSX897xS), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM) | [UMSHISO \(Main Mix\)](https://open.spotify.com/album/27yGuVsECTyIyZzJ9Pyd0A) | 7:26 |
 
-Snapshot ID: `MTY3MjQzNzU0MCwwMDAwMDAwMGQwZTQzOWU1YzRhNzQ2YjYxMzQ5MDQxMDU5MzlmN2Q1`
+Snapshot ID: `MTY3MjQ4MDc4NSwwMDAwMDAwMGZhZGI0ZjZmNDk1MGQ3NDJjYThlZjU0YTM0NWVkNzI0`

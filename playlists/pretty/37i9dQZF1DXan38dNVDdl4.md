@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The best in new & current Dancehall\. Cover: WSTRN
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,680 likes - 68 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,739 likes - 68 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 38 | [Humans](https://open.spotify.com/track/5EHhAc5KT0VsHMBwogVXtw) | [Nation Boss](https://open.spotify.com/artist/7I6r8LoL1vyeiUOAudYu4P), [Troublemekka](https://open.spotify.com/artist/1e2IViEWclFirkU6YbG7cE) | [Humans](https://open.spotify.com/album/16Ry7ztMf39OJNYHkJzcQv) | 2:35 |
 | 39 | [Born Fighter](https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Born Fighter](https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc) | 3:28 |
 | 40 | [Bitcoin](https://open.spotify.com/track/6wximh7UUXaridTcdnGzNo) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [TroyBoss](https://open.spotify.com/artist/2mjMr4WZPRQHSJSBtAUyfr) | [Bitcoin](https://open.spotify.com/album/2Xfm6HJSoCwVmeTcJHIQQp) | 3:16 |
-| 41 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:19 |
+| 41 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:19 |
 | 42 | [Weh mi Duh](https://open.spotify.com/track/2jGf0v0szuFhG3sxxdi7gF) | [$wizzz](https://open.spotify.com/artist/2O6ph9RDudyvAR4Gj6VDoE) | [Weh mi Duh](https://open.spotify.com/album/64jNld1WXafJSnaAvRCaff) | 2:43 |
 | 43 | [I Am](https://open.spotify.com/track/2XPIIi8TnoZMMzBE5RNOAm) | [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39), [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0) | [I Am](https://open.spotify.com/album/3yG8BUXM4bnQ8pH3KgHS2G) | 2:40 |
 | 44 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 |
@@ -70,11 +70,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 60 | [Top Tier](https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Top Tier](https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC) | 2:21 |
 | 61 | [Paranoid](https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Rygin King](https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr) | [I Am Great](https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz) | 3:07 |
 | 62 | [Riches Wii a Pree](https://open.spotify.com/track/70sylDX7oTLfSyqPepXnn4) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Riches Wii a Pree](https://open.spotify.com/album/25IgvW1IMpamtzY5ID4dhD) | 3:06 |
-| 63 | [Skeleton Cartier](https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ) | 3:41 |
+| 63 | [Skeleton Cartier](https://open.spotify.com/track/0ONJRBtjpdlfvyz1jJFHUp) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/1Ei9rdh0ZaUuNjPpFpXwS9) | 3:41 |
 | 64 | [Clutcha](https://open.spotify.com/track/0jHfKDP1LfRrEmazuothw6) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C), [Northside Media](https://open.spotify.com/artist/6rh7bHX839FxEEXlxJApWB) | [Clutcha](https://open.spotify.com/album/3an36gbtylm5YkyliMqGIK) | 2:35 |
 | 65 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 |
 | 66 | [Ambala](https://open.spotify.com/track/35k0jeXz6vwKCasj2cRkSE) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Ambala](https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm) | 2:22 |
 | 67 | [Money & Done \- Remix](https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Money & Done \(Remix\)](https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO) | 2:40 |
 | 68 | [Sorry](https://open.spotify.com/track/3M9SdslKjGgu18LtRPiCBA) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS) | [I Am Great](https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz) | 3:25 |
 
-Snapshot ID: `MTY2MjcyODI2MSwwMDAwMDAwMDZjMTFhZjMyNzhmM2NiODI2MjlkNDY2ODk4YWUwMGQ3`
+Snapshot ID: `MTY2MjcyODI2MSwwMDAwMDAwMGQ4NDc5ZDY4Mjk1ZDJjMDg2ZjQyMDAzNDNmMTZiMDI2`

@@ -1,12 +1,12 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. Foto: The Cure",
-  "num_followers": 129090,
+  "num_followers": 129226,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0MzU1MiwwMDAwMDAwMGQ5ZTUxYTg5YjZiYjlmMDkxZGQ1MTc4MjA0ODA5M2I2",
+  "snapshot_id": "MTY1NjY0MzU1MiwwMDAwMDAwMDg2OGFkYzkyZGEyODJhZWQ5NTBhYmExNGUyZDRhYzZj",
   "tracks": [
     {
       "added_at": "2022-05-30 14:46:37",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 382373,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/0q1exbzIDRxqJ6VUKH3seg"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Burning Down the House / I Get Wild / Wild Gravity",
         "url": "https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ"
       },
@@ -603,18 +587,34 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Fragile (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
       "artists": [
         {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 510573,
-      "name": "Roundabout - 2003 Remaster",
-      "url": "https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN"
+      "duration_ms": 382373,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/0q1exbzIDRxqJ6VUKH3seg"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "The Best Of Cutting Crew",
+        "url": "https://open.spotify.com/album/6P6YSjfWz53suf41Bqt9BH"
+      },
+      "artists": [
+        {
+          "name": "Cutting Crew",
+          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "(I Just) Died In Your Arms",
+      "url": "https://open.spotify.com/track/0YPXkQthLWrhNGoKTbwCJ8"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -651,18 +651,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "The Best Of Cutting Crew",
-        "url": "https://open.spotify.com/album/6P6YSjfWz53suf41Bqt9BH"
+        "name": "Fragile (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG"
       },
       "artists": [
         {
-          "name": "Cutting Crew",
-          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
         }
       ],
-      "duration_ms": 278626,
-      "name": "(I Just) Died In Your Arms",
-      "url": "https://open.spotify.com/track/0YPXkQthLWrhNGoKTbwCJ8"
+      "duration_ms": 510573,
+      "name": "Roundabout - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN"
     },
     {
       "added_at": "2021-09-28 03:14:02",

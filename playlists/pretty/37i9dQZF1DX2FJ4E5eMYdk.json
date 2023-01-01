@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 126727,
+  "num_followers": 126782,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDc2ZDA0ZDBmZjk4MTk2YzE0YjM1NzJlZTk0Y2U1OGY5",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDZlNzllNTY3MzRjY2I5MGVmOTI2NjFhOWE3ZmE5NjM3",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "The Unseen In Between",
-        "url": "https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570"
-      },
-      "artists": [
-        {
-          "name": "Steve Gunn",
-          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
-        }
-      ],
-      "duration_ms": 310360,
-      "name": "New Moon",
-      "url": "https://open.spotify.com/track/0ZWliPPI1OGqhcDSBJUHim"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Mangy Love",
         "url": "https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 254541,
       "name": "Opposite House",
       "url": "https://open.spotify.com/track/2XpsvLcddOSFanKBCZCEBR"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "The Unseen In Between",
+        "url": "https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570"
+      },
+      "artists": [
+        {
+          "name": "Steve Gunn",
+          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
+        }
+      ],
+      "duration_ms": 310360,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/0ZWliPPI1OGqhcDSBJUHim"
     },
     {
       "added_at": "2022-07-22 04:00:00",

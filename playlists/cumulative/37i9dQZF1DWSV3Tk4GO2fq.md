@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1950s.
 
-295 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/0KP8tMIBjL4MwHe5MXMJNh)
+296 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/0KP8tMIBjL4MwHe5MXMJNh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [I've Got You Under My Skin \- Remastered 1998](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 3:43 | 2021-04-28 |  |
 | [In The Still of the Night](https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [For Collectors Only](https://open.spotify.com/album/2ITzRNAK93yj5T5I7zB0I6) | 3:07 | 2022-06-09 |  |
 | [Isn't This A Lovely Day?](https://open.spotify.com/track/3dm6E1Dl2EdEB4GO1PMBR4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella & Louis \(Classics International Version\)](https://open.spotify.com/album/2gL5uUab5439mDFvHnBtVb) | 6:14 | 2021-04-28 | 2022-02-28 |
-| [Isn't This A Lovely Day?](https://open.spotify.com/track/7paEvsQ08LWCV8Agvo9CWa) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 6:17 | 2022-06-09 |  |
+| [Isn't This A Lovely Day?](https://open.spotify.com/track/7paEvsQ08LWCV8Agvo9CWa) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 6:17 | 2022-06-09 | 2023-01-01 |
 | [It Doesn't Matter Anymore](https://open.spotify.com/track/7KGbqCYWaXdJxhsuilkcwF) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [20 Golden Greats: Buddy Holly Lives](https://open.spotify.com/album/3oU3OPTKI0JfsVunkeODJE) | 2:04 | 2021-04-28 | 2022-07-29 |
 | [It's All In The Game](https://open.spotify.com/track/65DHarvIY5nZ57ZcgTxx75) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [True 50's love](https://open.spotify.com/album/1bYAKB9rFvAJNwR7XDyN5Y) | 2:38 | 2021-04-28 | 2022-07-29 |
 | [It's All In The Game](https://open.spotify.com/track/2lmPUdIdzlFH64PWJrw6Zb) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [It’s All In The Game: The Best Of Tommy Edwards](https://open.spotify.com/album/1r5eluEOlo6G5UW3Pf3ZZR) | 2:39 | 2022-06-09 |  |
@@ -249,6 +249,7 @@
 | [Sweet Little Sixteen](https://open.spotify.com/track/1gU6T4sESXRt6RC2ufSqDf) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [The Best Of Chuck Berry \(Chunky Repackaged\)](https://open.spotify.com/album/3j70UxCvWwoWDsjm1TbWKj) | 3:10 | 2021-04-28 | 2022-07-29 |
 | [Teach Me Tonight](https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 2:47 | 2021-04-28 |  |
 | [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 | 2022-06-09 |  |
+| [Tennessee Waltz](https://open.spotify.com/track/0CtbDuvvGLTLSFQ3GcQgEk) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [The Patti Page Collection: The Mercury Years, Volume 1](https://open.spotify.com/album/6UoTP4eval115JObrelnEr) | 3:02 | 2022-06-09 |  |
 | [Tennessee Waltz](https://open.spotify.com/track/7t8Tzd9FqVz2asFMCL0HpZ) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Rockin' Gals Of The 1950's](https://open.spotify.com/album/27lZJLd8V0j7jQdmQ7ZNx4) | 3:03 | 2021-04-28 | 2022-07-29 |
 | [Tennessee Waltz](https://open.spotify.com/track/0BHroBUvBAp561BYqC9LRK) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Golden Hits](https://open.spotify.com/album/2N4F5xwzFeVoJ5fF10Pv0P) | 3:05 | 2022-06-09 | 2022-11-18 |
 | [Tequila \(Original\)](https://open.spotify.com/track/14bUqUj1EUnQabWeAqnj39) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Tequila](https://open.spotify.com/album/2NJ4uQ6j4wASjGpGFc0m3C) | 2:10 | 2022-06-09 |  |

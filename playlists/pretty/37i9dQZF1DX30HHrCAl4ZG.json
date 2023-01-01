@@ -1,12 +1,12 @@
 {
   "description": "The pulse of new indie rock. Featuring new music by Yot Club.",
-  "num_followers": 839793,
+  "num_followers": 839756,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2MzIwMCwwMDAwMDAwMDcxYWE0MjZjMTlmNDhiYmIzOGE1YmY4MjQ5OThiYjhj",
+  "snapshot_id": "MTY3MTE2MzIwMCwwMDAwMDAwMDFiNDc0NTVjMzRiYzNiMjU0NTMxYTU3MGNjMGZhYWIy",
   "tracks": [
     {
       "added_at": "2022-12-14 15:18:49",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-12-14 15:18:49",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 248243,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
-    },
-    {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
         "name": "Eyez",
         "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 220533,
       "name": "Eyez",
       "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
+    },
+    {
+      "added_at": "2022-12-14 15:18:49",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 248243,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-12-14 15:18:49",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
-      },
-      "artists": [
-        {
-          "name": "Carlie Hanson",
-          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
-        }
-      ],
-      "duration_ms": 128906,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
-    },
-    {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
         "name": "Lying Through Their Teeth",
         "url": "https://open.spotify.com/album/2v0B167eqQ3tplIIk7ZK24"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2022-12-14 15:18:49",
       "album": {
-        "name": "Just Before The Morning",
-        "url": "https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x"
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
       },
       "artists": [
         {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
         }
       ],
-      "duration_ms": 214497,
-      "name": "Just Before The Morning",
-      "url": "https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD"
+      "duration_ms": 128906,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -799,6 +783,22 @@
       "duration_ms": 161040,
       "name": "Violent",
       "url": "https://open.spotify.com/track/6WbzgXBdZZPV2Zfpy7rHsA"
+    },
+    {
+      "added_at": "2022-12-14 15:18:49",
+      "album": {
+        "name": "Just Before The Morning",
+        "url": "https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 214497,
+      "name": "Just Before The Morning",
+      "url": "https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD"
     },
     {
       "added_at": "2022-12-14 15:18:49",

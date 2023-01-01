@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,657 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,694 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 14 | [Weren't We Fools](https://open.spotify.com/track/7sjpQN1cFB9ExK6JiLKBQ7) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:49 |
 | 15 | [Night and Day \- Take 1](https://open.spotify.com/track/0tFX3mUraX85YPzTwEHWs4) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 2:57 |
 | 16 | [What Is This Thing Called Love](https://open.spotify.com/track/1ZaytyFQnDuAvGxglzlxfa) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 4:36 |
-| 17 | [All Through The Night](https://open.spotify.com/track/3SzFMhHBt7bw0eS35946N6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:16 |
-| 18 | [Experiment](https://open.spotify.com/track/70bVc4i0Z1WBwCpJ8IvxmB) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 2:32 |
+| 17 | [Experiment](https://open.spotify.com/track/70bVc4i0Z1WBwCpJ8IvxmB) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 2:32 |
+| 18 | [All Through The Night](https://open.spotify.com/track/3SzFMhHBt7bw0eS35946N6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:16 |
 | 19 | [In the Still of the Night](https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [The Definitive Collection](https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7) | 2:45 |
 | 20 | [Begin The Beguine \- Alternate Take](https://open.spotify.com/track/48Q8ER4XOaE4r00bjRxT9r) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 6:15 |
 | 21 | [I've Got My Eyes On You](https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 2:57 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 41 | [When Love Comes Around](https://open.spotify.com/track/1BQBbjtCNK1z7ejXRYASii) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [Plays Cole Porter Love Songs](https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q) | 5:15 |
 | 42 | [I Concentrate On You](https://open.spotify.com/track/1iuRx4tqMLsTro33oQwwsX) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Astaire Story](https://open.spotify.com/album/48u8T69QYtvg6edsQtgYXV) | 2:44 |
 | 43 | [Who Wants To Be A Millionaire](https://open.spotify.com/track/6OMMZBlodSQh14cyBxSNZ3) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Celeste Holm](https://open.spotify.com/artist/6hDtmqaHJfVhDj48VTtWeb) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:07 |
-| 44 | [Goodbye Little Dream, Goodbye](https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [Easy To Love: The Songs Of Cole Porter](https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q) | 3:09 |
-| 45 | [From This Moment On \- 1955 Version](https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [An Evening With Anita O'Day](https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig) | 3:13 |
+| 44 | [From This Moment On \- 1955 Version](https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [An Evening With Anita O'Day](https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig) | 3:13 |
+| 45 | [Goodbye Little Dream, Goodbye](https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [Easy To Love: The Songs Of Cole Porter](https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q) | 3:09 |
 | 46 | [Too Darn Hot](https://open.spotify.com/track/6hY98FQBkn7yb0UjaneOOg) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Marty Paich Orchestra](https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p) | [Mel Torme: Swings Shubert Alley](https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE) | 2:48 |
 | 47 | [Paris Loves Lovers](https://open.spotify.com/track/5jDN0wdmd3AcunXBceqmDO) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Carole Richards](https://open.spotify.com/artist/05D7eSjISFRSkreseiUx5k) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 2:43 |
 | 48 | [Rosalie](https://open.spotify.com/track/2UmU67sj5MlaohEIWZv6zv) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 74 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
 | 75 | [Ours](https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:49 |
 
-Snapshot ID: `MTY1MDYzNDI0MywwMDAwMDAwMDA4NDE5OTQ0NTVmOTQ4MjRkYzM2OTI0NDQ5MzQ2YTQw`
+Snapshot ID: `MTY1MDYzNDI0MywwMDAwMDAwMDIwMGY1MjZhYjVkNDliZjg2N2IxMjZlYTM3OGE3Yzhi`

@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-431 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+432 songs - 17 hr 37 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Blingblingbling](https://open.spotify.com/track/35qlk8sTjO4xHAVilmMjli) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Paths](https://open.spotify.com/album/2G2msv2JnORLxq0EDlv7Ch) | 1:44 | 2019-05-26\* | 2020-03-27 |
 | [Blue and Green](https://open.spotify.com/track/5kJAk6KD2SH3Dz8K3EfIhc) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Colors](https://open.spotify.com/album/3Oez1z22gULW1pAYTCkINr) | 2:54 | 2019-05-26\* | 2021-10-16 |
 | [Bopatron](https://open.spotify.com/track/0nyKpt36pWK435Sa7LKk6P) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/4ElIeFUepcchZx9vj6HCzO) | 3:16 | 2022-07-28 | 2022-12-01 |
+| [Bopatron](https://open.spotify.com/track/3VYPsUPZMaf6lYOFoYwoB6) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/2Ghoxbvga4VuaGzBTcEVHg) | 3:16 | 2022-12-01 |  |
 | [Bopatron](https://open.spotify.com/track/3wmzPOq6M32euNqqOVd0eb) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/5C43Ud4wj7T3TYbS7LpKh2) | 3:16 | 2019-05-26\* | 2022-07-23 |
 | [Boston \(Instrumental\)](https://open.spotify.com/track/215zB0CsvAcVNF9d44yyyd) | [Edo\. G](https://open.spotify.com/artist/2Gqm7yhAbk4RYHefVHFMPL), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [My Own Worst Enemy \(Deluxe\)](https://open.spotify.com/album/0b1qkXG0gkPogImzF4oQQH) | 3:16 | 2019-05-26\* | 2020-01-14 |
 | [Brazilian Lady](https://open.spotify.com/track/3yossuLGsxiJnvoOFrs1CH) | [Dibia$E](https://open.spotify.com/artist/21H0kHbS41lECHguMnjGpb) | [Cakeology](https://open.spotify.com/album/5R1w2n83qusxH7Ay92KUJb) | 2:50 | 2019-05-26\* | 2020-01-14 |
@@ -201,7 +202,7 @@
 | [Lamp2](https://open.spotify.com/track/2bcNi4Nwygqo1G9zbSKhTi) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/0Sbup43SbFLVctcQd0L4fi) | 3:18 | 2022-07-28 |  |
 | [Lamp2](https://open.spotify.com/track/5cT5aaRfRRkF9xPk7LcBt2) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/5qFp5leDuFDeTNplGB7I9L) | 3:18 | 2022-02-03 | 2022-07-29 |
 | [Lanai Gardens](https://open.spotify.com/track/1El1ynnuq0aBHj6cfr83ew) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Transit](https://open.spotify.com/album/6OwYJoEWZUhTuYsTBr9SD6) | 2:17 | 2019-06-14 | 2019-08-13 |
-| [Late Trains](https://open.spotify.com/track/7JQt4KO35aSwLQSlaSRsdY) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Late Trains](https://open.spotify.com/album/2RQtx9HPPtCPJPqUb1I3yJ) | 3:19 | 2020-12-11 |  |
+| [Late Trains](https://open.spotify.com/track/7JQt4KO35aSwLQSlaSRsdY) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Late Trains](https://open.spotify.com/album/2RQtx9HPPtCPJPqUb1I3yJ) | 3:19 | 2020-12-11 | 2023-01-01 |
 | [Laverne](https://open.spotify.com/track/0pYdhNukjrkpBWdq75GXSm) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Moose Dawa](https://open.spotify.com/artist/4iLyC66mfowfMoMtmbsDUb) | [Birds of a Feather, Vol\. 1](https://open.spotify.com/album/65kDeUOJ7UAXQJtdmXYtT5) | 1:55 | 2019-05-26\* | 2019-06-15 |
 | [Legacy](https://open.spotify.com/track/2Ba2yo38eh6atKPDdaYZRM) | [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh), [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Legacy](https://open.spotify.com/album/7D0dE3E7LTaPe6WcZheWQI) | 2:01 | 2019-07-26 | 2022-04-20 |
 | [Legend \- Instrumental](https://open.spotify.com/track/4D6ODloEcphnoSF33TF9L3) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Legend \(Instrumental\)](https://open.spotify.com/album/4ChW17PKiVa3twCaWcimzA) | 3:38 | 2022-01-27 | 2022-07-29 |

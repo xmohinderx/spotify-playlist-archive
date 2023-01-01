@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > LGBTQ+ artists and allies join this fiesta\. <br/>Cover: Nicole Zignago
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,894 likes - 130 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,890 likes - 130 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,17 +64,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 54 | [Solita](https://open.spotify.com/track/555ix1gW9A1QtXoVfCPbfB) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Solita](https://open.spotify.com/album/1SvuC2OLkAJnuNhZNDohIR) | 2:57 |
 | 55 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
 | 56 | [La Buena Vida](https://open.spotify.com/track/47bzJjh9bAbo3s3NHSK4r8) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:17 |
-| 57 | [50ft.](https://open.spotify.com/track/1wiphSU5URcMkpMoGK5mFO) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [50ft.](https://open.spotify.com/album/029JHv262PSXojxqywHDwr) | 3:05 |
-| 58 | [On The Floor](https://open.spotify.com/track/3STTVKfJGTdhbg5aLppEzX) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [LOVE? \(Deluxe Edition\)](https://open.spotify.com/album/2l8HCTHlnWSUwK47umlJ2C) | 4:44 |
+| 57 | [On The Floor](https://open.spotify.com/track/3STTVKfJGTdhbg5aLppEzX) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [LOVE? \(Deluxe Edition\)](https://open.spotify.com/album/2l8HCTHlnWSUwK47umlJ2C) | 4:44 |
+| 58 | [50ft.](https://open.spotify.com/track/1wiphSU5URcMkpMoGK5mFO) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [50ft.](https://open.spotify.com/album/029JHv262PSXojxqywHDwr) | 3:05 |
 | 59 | [Eternamente Bella](https://open.spotify.com/track/0WZqP2WahJbKURqUK3fBPk) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Eternamente Bella](https://open.spotify.com/album/1PhIfhQdduYiD72UKXIot9) | 3:26 |
 | 60 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 |
 | 61 | [Follow Me](https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav) | 2:57 |
 | 62 | [Mequetrefe](https://open.spotify.com/track/6RJiY28t9jWpdy1JkUhNgK) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:20 |
 | 63 | [Electrica](https://open.spotify.com/track/37rWH6oWKMq8JTadyzmbNG) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [rosmailin wa](https://open.spotify.com/artist/3XlmlCduqAlfsTPNAR0zIK) | [Electrica](https://open.spotify.com/album/2lj326xftmGNvaG0sEwX0U) | 2:05 |
-| 64 | [El Momento](https://open.spotify.com/track/3YlFNZ4iquJHPX6scKROns) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [La Gran Esfera](https://open.spotify.com/album/5f1cJH6cg1uxKKkQDPOfvh) | 4:30 |
-| 65 | [Me, Myself](https://open.spotify.com/track/3GCPuPA5qv2kjLw0PAVgQH) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 |
-| 66 | [Aquí Estoy](https://open.spotify.com/track/465cCQFJkrfroDREqB7sej) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Monstruo](https://open.spotify.com/album/5SGrWFF8xTjF4BTK8K6zCt) | 2:34 |
-| 67 | [Lento \(feat\. Pabllo Vittar\) \[Brabo Remix\]](https://open.spotify.com/track/3BvwBnmbsKs7dBkU6PKBrT) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Brabo](https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT) | [Lento \(feat\. Pabllo Vittar\) \[Brabo Remix\]](https://open.spotify.com/album/4TJKo4PqnHVgwXmqgf5RYK) | 2:54 |
+| 64 | [Lento \(feat\. Pabllo Vittar\) \[Brabo Remix\]](https://open.spotify.com/track/3BvwBnmbsKs7dBkU6PKBrT) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Brabo](https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT) | [Lento \(feat\. Pabllo Vittar\) \[Brabo Remix\]](https://open.spotify.com/album/4TJKo4PqnHVgwXmqgf5RYK) | 2:54 |
+| 65 | [El Momento](https://open.spotify.com/track/3YlFNZ4iquJHPX6scKROns) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [La Gran Esfera](https://open.spotify.com/album/5f1cJH6cg1uxKKkQDPOfvh) | 4:30 |
+| 66 | [Me, Myself](https://open.spotify.com/track/3GCPuPA5qv2kjLw0PAVgQH) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 |
+| 67 | [Aquí Estoy](https://open.spotify.com/track/465cCQFJkrfroDREqB7sej) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Monstruo](https://open.spotify.com/album/5SGrWFF8xTjF4BTK8K6zCt) | 2:34 |
 | 68 | [Amar Así](https://open.spotify.com/track/4e6eL4Iv54MzHC6Ce9lL5C) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Ayo](https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB) | 3:57 |
 | 69 | [Bailando](https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando](https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY) | 3:07 |
 | 70 | [Cicatrices](https://open.spotify.com/track/7dC3AUYIYAJTCk5n2AkfJV) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Cicatrices](https://open.spotify.com/album/7lpn9dwub9H2eRq2PoYBIe) | 3:10 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 129 | [Shutup](https://open.spotify.com/track/4teYxzh9n4jVpwzL9EQlp2) | [LoMaasBello](https://open.spotify.com/artist/4q1yvWG9gjwwUM0Z51sIMK) | [Shutup](https://open.spotify.com/album/6DkNaHrTgYNr6WJqTWHOb4) | 3:12 |
 | 130 | [Luces](https://open.spotify.com/track/5ZbZqPiTSQJzKvkMHyZoYi) | [ARIA](https://open.spotify.com/artist/6W4UUzoroQt4P9pjHnauHt), [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j) | [Luces](https://open.spotify.com/album/1fTA11dukn2IrHiFyNb3qD) | 3:26 |
 
-Snapshot ID: `MTY1NzA0ODgwNCwwMDAwMDAwMGQyNTJlMmUwMWJjZDAzMDMyMDU2YWZkYmNlMzQ3OWNh`
+Snapshot ID: `MTY1NzA0ODgwNCwwMDAwMDAwMDM4MDdjMTFjNWY5Mjg3MWJkNTNmODlmMzUyMzVkZDkw`

@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 655687,
+  "num_followers": 655812,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgwMDAwMiwwMDAwMDAwMDM1NTVhYjk2ZTNlOTAyYTU3NWU1YjdmNzM4MmQ1ZDRk",
+  "snapshot_id": "MTY2NjgwMDAwMiwwMDAwMDAwMDQ1MzFiZGUzMDczMTcyMzI4NGE4ZjUzNjE1MDE1NjUw",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Big Brother & The Holding Company",
         "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 152733,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/4HljoGSCvaFsesUZWpb2mK"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Fleet Foxes",
-        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 208973,
-      "name": "Tiger Mountain Peasant Song",
-      "url": "https://open.spotify.com/track/74TdnqQ0JlIcHBwdSAATiw"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Lightning Of July",
         "url": "https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 176666,
       "name": "Lightning Of July",
       "url": "https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 208973,
+      "name": "Tiger Mountain Peasant Song",
+      "url": "https://open.spotify.com/track/74TdnqQ0JlIcHBwdSAATiw"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "The Waterfall II",
+        "url": "https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 277093,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Shakey Graves And The Horse He Rode In On (Nobody's Fool and The Donor Blues EP)",
         "url": "https://open.spotify.com/album/5ZetO1qY0okdczkZzAQEBL"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 312066,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "The Waterfall II",
-        "url": "https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 277093,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Mother\u2019s Milk",
-        "url": "https://open.spotify.com/album/3lf8jM9HzVHrL9RI0JNWsz"
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
       },
       "artists": [
         {
-          "name": "Clean Cut Kid",
-          "url": "https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb"
+          "name": "Smog",
+          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
         }
       ],
-      "duration_ms": 229666,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/5HheAgHugjc04e0YOt4OIE"
+      "duration_ms": 185800,
+      "name": "Let's Move To The Country",
+      "url": "https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
+        "name": "Mother\u2019s Milk",
+        "url": "https://open.spotify.com/album/3lf8jM9HzVHrL9RI0JNWsz"
       },
       "artists": [
         {
-          "name": "Smog",
-          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
+          "name": "Clean Cut Kid",
+          "url": "https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb"
         }
       ],
-      "duration_ms": 185800,
-      "name": "Let's Move To The Country",
-      "url": "https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7"
+      "duration_ms": 229666,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/5HheAgHugjc04e0YOt4OIE"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Swimmer",
-        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Swimmer",
-      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "House We Share",
         "url": "https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 167453,
       "name": "House We Share",
       "url": "https://open.spotify.com/track/7jrmivOL6T6uIv4Fd0eU8o"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Swimmer",
+        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Swimmer",
+      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
     },
     {
       "added_at": "2022-10-07 04:00:00",

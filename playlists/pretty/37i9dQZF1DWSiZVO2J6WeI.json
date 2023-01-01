@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 723345,
+  "num_followers": 723606,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQxOTk5MSwwMDAwMDAwMGIwMDhkOWM2NDkwNzkzMDNlM2U0ZTU0MDlkNDgyMjcy",
+  "snapshot_id": "MTY3MjQxOTk5MSwwMDAwMDAwMDg2Mzg0N2ExYTdkZTEzZTU1Njg1YzZlNWQ0MGYxNTQ3",
   "tracks": [
     {
       "added_at": "2022-12-30 17:06:30",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Nasal Bones",
-        "url": "https://open.spotify.com/album/0VQEEw2XIiA8DsfCoj2t3y"
-      },
-      "artists": [
-        {
-          "name": "Sigmund Clyde",
-          "url": "https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Carnivoran",
-      "url": "https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
         "name": "Through The Mist",
         "url": "https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 162000,
       "name": "Through The Mist",
       "url": "https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
+        "name": "Nasal Bones",
+        "url": "https://open.spotify.com/album/0VQEEw2XIiA8DsfCoj2t3y"
+      },
+      "artists": [
+        {
+          "name": "Sigmund Clyde",
+          "url": "https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Carnivoran",
+      "url": "https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Phaedra",
-        "url": "https://open.spotify.com/album/2N8X9XdiZrkxLRX7snQcpp"
-      },
-      "artists": [
-        {
-          "name": "Arlette Leduc",
-          "url": "https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Phaedra",
-      "url": "https://open.spotify.com/track/6GEYh8JguL5MIh5Uz5h0zL"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
         "name": "Laze",
         "url": "https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 205333,
       "name": "Stillness",
       "url": "https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
+        "name": "Phaedra",
+        "url": "https://open.spotify.com/album/2N8X9XdiZrkxLRX7snQcpp"
+      },
+      "artists": [
+        {
+          "name": "Arlette Leduc",
+          "url": "https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Phaedra",
+      "url": "https://open.spotify.com/track/6GEYh8JguL5MIh5Uz5h0zL"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Axiom",
-        "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
-      },
-      "artists": [
-        {
-          "name": "Olivier Lupin",
-          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "Perception",
-      "url": "https://open.spotify.com/track/43uAtp536KbblbYD1K6h99"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
         "name": "Make It Last",
         "url": "https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 174500,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
+        "name": "Axiom",
+        "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
+      },
+      "artists": [
+        {
+          "name": "Olivier Lupin",
+          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/43uAtp536KbblbYD1K6h99"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Everything is Different",
-        "url": "https://open.spotify.com/album/4mPGHru1buIU18RXBhJbzX"
-      },
-      "artists": [
-        {
-          "name": "Nadia Pugh",
-          "url": "https://open.spotify.com/artist/6FPNWbIpDzyIeOMFdAQXL6"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Everything is Different",
-      "url": "https://open.spotify.com/track/2ELGnSdAgGJ39GcymZPUdO"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
         "name": "Cloudbed",
         "url": "https://open.spotify.com/album/08x5iDmr1p2Zz1BsdS6riL"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 163437,
       "name": "Cloudbed",
       "url": "https://open.spotify.com/track/70mSPwqD1Eomu03nAMA7v6"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
+        "name": "Everything is Different",
+        "url": "https://open.spotify.com/album/4mPGHru1buIU18RXBhJbzX"
+      },
+      "artists": [
+        {
+          "name": "Nadia Pugh",
+          "url": "https://open.spotify.com/artist/6FPNWbIpDzyIeOMFdAQXL6"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Everything is Different",
+      "url": "https://open.spotify.com/track/2ELGnSdAgGJ39GcymZPUdO"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
+        "name": "Evolving",
+        "url": "https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "duration_ms": 194919,
+      "name": "Evolving",
+      "url": "https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
         "name": "Sv\u00e4var Fritt",
         "url": "https://open.spotify.com/album/66t57sgwrX5Nz1gAtsvIfu"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 184018,
       "name": "Sv\u00e4var Fritt",
       "url": "https://open.spotify.com/track/659cjc6eOg0WCNDaQR4M2v"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
-        "name": "Distant Memories Of You",
-        "url": "https://open.spotify.com/album/49AtpvtKhANqidVRLFIgTK"
-      },
-      "artists": [
-        {
-          "name": "Mutant Melodies",
-          "url": "https://open.spotify.com/artist/6O0e9FFocYLN5RQV3fwWXw"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Silent Whispers",
-      "url": "https://open.spotify.com/track/4zXfPzjyYjS59WBpaBJSbs"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Evolving",
-        "url": "https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc"
+        "name": "Distant Memories Of You",
+        "url": "https://open.spotify.com/album/49AtpvtKhANqidVRLFIgTK"
       },
       "artists": [
         {
-          "name": "Astral Wonder",
-          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+          "name": "Mutant Melodies",
+          "url": "https://open.spotify.com/artist/6O0e9FFocYLN5RQV3fwWXw"
         }
       ],
-      "duration_ms": 194919,
-      "name": "Evolving",
-      "url": "https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA"
+      "duration_ms": 144000,
+      "name": "Silent Whispers",
+      "url": "https://open.spotify.com/track/4zXfPzjyYjS59WBpaBJSbs"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Tallkrona",
-        "url": "https://open.spotify.com/album/7jMitu4DgKeE4o1twxUhyz"
-      },
-      "artists": [
-        {
-          "name": "Luna S.",
-          "url": "https://open.spotify.com/artist/3BJukNbWQs003mF3vawn5v"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Tallkrona",
-      "url": "https://open.spotify.com/track/0SY2SUY5MH7SYd4TTIzgfJ"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
         "name": "Penumbra",
         "url": "https://open.spotify.com/album/73cVroAiJKnizesgutD6Qw"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 260038,
       "name": "Penumbra",
       "url": "https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
+        "name": "Tallkrona",
+        "url": "https://open.spotify.com/album/7jMitu4DgKeE4o1twxUhyz"
+      },
+      "artists": [
+        {
+          "name": "Luna S.",
+          "url": "https://open.spotify.com/artist/3BJukNbWQs003mF3vawn5v"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Tallkrona",
+      "url": "https://open.spotify.com/track/0SY2SUY5MH7SYd4TTIzgfJ"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Gemstones, Vol. 6",
-        "url": "https://open.spotify.com/album/4ca7z1pgOg98DEiailChTn"
-      },
-      "artists": [
-        {
-          "name": "Crystal Fragments",
-          "url": "https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM"
-        }
-      ],
-      "duration_ms": 156057,
-      "name": "Quartz",
-      "url": "https://open.spotify.com/track/6fEgQLmEhvE5Y04aldWGyd"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/1FZsNcXvdtMK6VnZUYEWRZ"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 168000,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/796V9eHMoj2rmZnVuxWly8"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
+        "name": "Gemstones, Vol. 6",
+        "url": "https://open.spotify.com/album/4ca7z1pgOg98DEiailChTn"
+      },
+      "artists": [
+        {
+          "name": "Crystal Fragments",
+          "url": "https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM"
+        }
+      ],
+      "duration_ms": 156057,
+      "name": "Quartz",
+      "url": "https://open.spotify.com/track/6fEgQLmEhvE5Y04aldWGyd"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
+        "name": "Rest Now",
+        "url": "https://open.spotify.com/album/3uOInfWGtt8LoCC9AcPSW7"
+      },
+      "artists": [
+        {
+          "name": "Gemma Casimaty",
+          "url": "https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Rest Now",
+      "url": "https://open.spotify.com/track/30l9Arlh15ewEk4KxmSlSp"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
         "name": "In a Charming Dream",
         "url": "https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 194655,
       "name": "You've Sent Me Peace",
       "url": "https://open.spotify.com/track/7hcd0ME4AKAS230Yv1Xa1X"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
-        "name": "Atmospheres For Yoga And Meditation",
-        "url": "https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8"
-      },
-      "artists": [
-        {
-          "name": "Sweet Dreamer",
-          "url": "https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Equilibrium - Loopable with No Fade",
-      "url": "https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Rest Now",
-        "url": "https://open.spotify.com/album/3uOInfWGtt8LoCC9AcPSW7"
+        "name": "Atmospheres For Yoga And Meditation",
+        "url": "https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8"
       },
       "artists": [
         {
-          "name": "Gemma Casimaty",
-          "url": "https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC"
+          "name": "Sweet Dreamer",
+          "url": "https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Rest Now",
-      "url": "https://open.spotify.com/track/30l9Arlh15ewEk4KxmSlSp"
+      "duration_ms": 174000,
+      "name": "Equilibrium - Loopable with No Fade",
+      "url": "https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Jubran's Lake (432hz)",
-        "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Jubran's Lake (432hz) - No Ambience",
-      "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
         "name": "Cygnus A",
         "url": "https://open.spotify.com/album/0D4vISbqnNZPeEl9lEN2Dc"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "The Birth of Solitude",
-        "url": "https://open.spotify.com/album/6NJcJj1yGCs08pnlJgjwpk"
+        "name": "Jubran's Lake (432hz)",
+        "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
       },
       "artists": [
         {
-          "name": "Lei Chini",
-          "url": "https://open.spotify.com/artist/5EbnxTdPMZFVLDh810uYj5"
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
         }
       ],
-      "duration_ms": 114949,
-      "name": "The Birth of Solitude",
-      "url": "https://open.spotify.com/track/463ddcbIg2jpNkk8JoVmJQ"
+      "duration_ms": 240000,
+      "name": "Jubran's Lake (432hz) - No Ambience",
+      "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -1675,6 +1659,22 @@
       "duration_ms": 188108,
       "name": "Slumber",
       "url": "https://open.spotify.com/track/2kLz6daV1GOseCfsNcpRWV"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
+        "name": "The Birth of Solitude",
+        "url": "https://open.spotify.com/album/6NJcJj1yGCs08pnlJgjwpk"
+      },
+      "artists": [
+        {
+          "name": "Lei Chini",
+          "url": "https://open.spotify.com/artist/5EbnxTdPMZFVLDh810uYj5"
+        }
+      ],
+      "duration_ms": 114949,
+      "name": "The Birth of Solitude",
+      "url": "https://open.spotify.com/track/463ddcbIg2jpNkk8JoVmJQ"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/2DeTdg5j8vYfMQuAoE98Lu"
-      },
-      "artists": [
-        {
-          "name": "Jaime Jacobs",
-          "url": "https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Continuum",
-      "url": "https://open.spotify.com/track/47SCFkfGQMmdewkOywWxqC"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
         "name": "Nuee",
         "url": "https://open.spotify.com/album/2A87JyHOupQKp7kbWllfdz"
       },
@@ -1759,34 +1743,18 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Bela adormecida",
-        "url": "https://open.spotify.com/album/68lqrfMKELldWPve5nu9he"
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/2DeTdg5j8vYfMQuAoE98Lu"
       },
       "artists": [
         {
-          "name": "Solid\u00e3o",
-          "url": "https://open.spotify.com/artist/2BeDT71gJ5Qecfvu8v0aEV"
+          "name": "Jaime Jacobs",
+          "url": "https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx"
         }
       ],
-      "duration_ms": 145475,
-      "name": "Bela adormecida",
-      "url": "https://open.spotify.com/track/1S252DWEYC5Fy7WfwFeRZF"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
-        "name": "Understanding Yourself",
-        "url": "https://open.spotify.com/album/6QRXv3tItnPqmqwDeWStrZ"
-      },
-      "artists": [
-        {
-          "name": "Mikael Arvo",
-          "url": "https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C"
-        }
-      ],
-      "duration_ms": 228961,
-      "name": "Deep Contemplation",
-      "url": "https://open.spotify.com/track/4FmtDJ462G7hEWMbATTLLm"
+      "duration_ms": 165000,
+      "name": "Continuum",
+      "url": "https://open.spotify.com/track/47SCFkfGQMmdewkOywWxqC"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -1807,6 +1775,22 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
+        "name": "Understanding Yourself",
+        "url": "https://open.spotify.com/album/6QRXv3tItnPqmqwDeWStrZ"
+      },
+      "artists": [
+        {
+          "name": "Mikael Arvo",
+          "url": "https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C"
+        }
+      ],
+      "duration_ms": 228961,
+      "name": "Deep Contemplation",
+      "url": "https://open.spotify.com/track/4FmtDJ462G7hEWMbATTLLm"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
         "name": "Alcyone",
         "url": "https://open.spotify.com/album/3ucA44AcStyBbX26Wl9HVl"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 236124,
       "name": "Alcyone",
       "url": "https://open.spotify.com/track/26DkvMBCB3RouU5R8psVXY"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
+        "name": "Bela adormecida",
+        "url": "https://open.spotify.com/album/68lqrfMKELldWPve5nu9he"
+      },
+      "artists": [
+        {
+          "name": "Solid\u00e3o",
+          "url": "https://open.spotify.com/artist/2BeDT71gJ5Qecfvu8v0aEV"
+        }
+      ],
+      "duration_ms": 145475,
+      "name": "Bela adormecida",
+      "url": "https://open.spotify.com/track/1S252DWEYC5Fy7WfwFeRZF"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
+        "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
+        "url": "https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb"
+      },
+      "artists": [
+        {
+          "name": "Hana Maldonado",
+          "url": "https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK"
+        }
+      ],
+      "duration_ms": 217250,
+      "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
+      "url": "https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
         "name": "Determination",
         "url": "https://open.spotify.com/album/1cB2QlGYVGTHeqNuibnlHt"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 160695,
       "name": "Resonatic",
       "url": "https://open.spotify.com/track/4dBLdbunzf7DmpKpH4Yokj"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
-        "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
-        "url": "https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb"
-      },
-      "artists": [
-        {
-          "name": "Hana Maldonado",
-          "url": "https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK"
-        }
-      ],
-      "duration_ms": 217250,
-      "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
-      "url": "https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Luminescent",
-        "url": "https://open.spotify.com/album/64UGm861qokqOZbmpjR6du"
-      },
-      "artists": [
-        {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Luminescent",
-      "url": "https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
         "name": "Beneath",
         "url": "https://open.spotify.com/album/20q3qgJ9BdF0Ik2XfQSjCF"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 152357,
       "name": "Beneath",
       "url": "https://open.spotify.com/track/1757oARz2SdORUSsihHuKo"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
+        "name": "Luminescent",
+        "url": "https://open.spotify.com/album/64UGm861qokqOZbmpjR6du"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Luminescent",
+      "url": "https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Through it All",
-        "url": "https://open.spotify.com/album/4mbpx3mS53pVlUAhSZKmUt"
-      },
-      "artists": [
-        {
-          "name": "Iselinn",
-          "url": "https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV"
-        }
-      ],
-      "duration_ms": 186559,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
         "name": "Sea Angel",
         "url": "https://open.spotify.com/album/4q4aGzy6knPh2apjwaFDQY"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 208701,
       "name": "Sea Angel",
       "url": "https://open.spotify.com/track/2ZC9pIlwUXquQDWRcsCtKp"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
+        "name": "Through it All",
+        "url": "https://open.spotify.com/album/4mbpx3mS53pVlUAhSZKmUt"
+      },
+      "artists": [
+        {
+          "name": "Iselinn",
+          "url": "https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV"
+        }
+      ],
+      "duration_ms": 186559,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -2127,6 +2127,22 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/5trElQZuKLwOrsrmaDFFyN"
+      },
+      "artists": [
+        {
+          "name": "Mindland",
+          "url": "https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/6G9CeRGryVV0ZX60fkMEeO"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
         "name": "Sphere",
         "url": "https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m"
       },
@@ -2159,38 +2175,6 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Vincible",
-        "url": "https://open.spotify.com/album/2gElzA8obHtMwl3FlYLBQD"
-      },
-      "artists": [
-        {
-          "name": "Tech Guru",
-          "url": "https://open.spotify.com/artist/6HWoxr5odNX04juRVTyw1q"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Vincible",
-      "url": "https://open.spotify.com/track/4oeOk10qaT2s2jR04dyiPT"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/5trElQZuKLwOrsrmaDFFyN"
-      },
-      "artists": [
-        {
-          "name": "Mindland",
-          "url": "https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/6G9CeRGryVV0ZX60fkMEeO"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
         "name": "inteira",
         "url": "https://open.spotify.com/album/6aL6SraoK8X0ZmXQg1YBvp"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 169424,
       "name": "inteira",
       "url": "https://open.spotify.com/track/6lkVud7wBdmLPYOKFisPB0"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
+        "name": "Vincible",
+        "url": "https://open.spotify.com/album/2gElzA8obHtMwl3FlYLBQD"
+      },
+      "artists": [
+        {
+          "name": "Tech Guru",
+          "url": "https://open.spotify.com/artist/6HWoxr5odNX04juRVTyw1q"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Vincible",
+      "url": "https://open.spotify.com/track/4oeOk10qaT2s2jR04dyiPT"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/3NdcsDmGYs9Xa3L4D5Re33"
-      },
-      "artists": [
-        {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
-        }
-      ],
-      "duration_ms": 260560,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/5pJiOBUlMmk3dv1kx2rqPu"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
         "name": "Close To Sleep",
         "url": "https://open.spotify.com/album/5Af16QhTTGy7uenrj8cAIK"
       },
@@ -2431,18 +2415,18 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Bright Morning",
-        "url": "https://open.spotify.com/album/0TaZGDp9e9UfjpmrmTKRNb"
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/3NdcsDmGYs9Xa3L4D5Re33"
       },
       "artists": [
         {
-          "name": "Eline Moss",
-          "url": "https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA"
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
         }
       ],
-      "duration_ms": 204923,
-      "name": "Bright Morning",
-      "url": "https://open.spotify.com/track/7tXgHTkGacOBktzEMsqvbv"
+      "duration_ms": 260560,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/5pJiOBUlMmk3dv1kx2rqPu"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -2459,6 +2443,22 @@
       "duration_ms": 224119,
       "name": "Crystalline",
       "url": "https://open.spotify.com/track/6s3ZhNJV4B4ayF99A1NyaR"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
+        "name": "Bright Morning",
+        "url": "https://open.spotify.com/album/0TaZGDp9e9UfjpmrmTKRNb"
+      },
+      "artists": [
+        {
+          "name": "Eline Moss",
+          "url": "https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA"
+        }
+      ],
+      "duration_ms": 204923,
+      "name": "Bright Morning",
+      "url": "https://open.spotify.com/track/7tXgHTkGacOBktzEMsqvbv"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/3NdcsDmGYs9Xa3L4D5Re33"
-      },
-      "artists": [
-        {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Echoes - Stripped",
-      "url": "https://open.spotify.com/track/0NaLeSHFWST2SVryqm1Gqn"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
         "name": "Constelaciones",
         "url": "https://open.spotify.com/album/0f3JsS5uJrWYW8gINPLSe1"
       },
@@ -2539,6 +2523,22 @@
       "duration_ms": 220286,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/0REl0m4yaSf1YJFFU5M3Q7"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/3NdcsDmGYs9Xa3L4D5Re33"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 219642,
+      "name": "Echoes - Stripped",
+      "url": "https://open.spotify.com/track/0NaLeSHFWST2SVryqm1Gqn"
     },
     {
       "added_at": "2022-12-30 17:06:30",
@@ -2591,6 +2591,22 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
+        "name": "Ich W\u00fcnsche",
+        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
+      },
+      "artists": [
+        {
+          "name": "Nils Schreiber",
+          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
+        }
+      ],
+      "duration_ms": 179727,
+      "name": "Unendlich",
+      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
+    },
+    {
+      "added_at": "2022-12-30 17:06:30",
+      "album": {
         "name": "Elevated Pastures",
         "url": "https://open.spotify.com/album/6ikmItGf76ftAlNgeNlEVm"
       },
@@ -2623,34 +2639,18 @@
     {
       "added_at": "2022-12-30 17:06:30",
       "album": {
-        "name": "Thought Braid",
-        "url": "https://open.spotify.com/album/1thP89pu4PbDQVHaLdCtqd"
+        "name": "Into Gratitude",
+        "url": "https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS"
       },
       "artists": [
         {
-          "name": "Mia Radcliffe",
-          "url": "https://open.spotify.com/artist/34dREKRtx0bIdYuFrPQYMK"
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
         }
       ],
-      "duration_ms": 204500,
-      "name": "Thought Braid",
-      "url": "https://open.spotify.com/track/6OEWFhKeGxMpujRH4VBUZK"
-    },
-    {
-      "added_at": "2022-12-30 17:06:30",
-      "album": {
-        "name": "Ich W\u00fcnsche",
-        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
-      },
-      "artists": [
-        {
-          "name": "Nils Schreiber",
-          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
-        }
-      ],
-      "duration_ms": 179727,
-      "name": "Unendlich",
-      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
+      "duration_ms": 187636,
+      "name": "Into Gratitude - Stripped",
+      "url": "https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU"
     }
   ],
   "unique_name": "Dreamy Vibes",

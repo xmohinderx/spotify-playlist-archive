@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 35620,
+  "num_followers": 35686,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTIxOTg5NiwwMDAwMDAwMDEyMTk2NTJkOGE1MzBhYjU1MDFlMzEzZDhjODM1Mjc3",
+  "snapshot_id": "MTY0MTIxOTg5NiwwMDAwMDAwMDcyMmIyODNkODI2ODUxODI1ZTkwYmEzZjcyYzk2MTM4",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -203,6 +203,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Little Neon Limelight",
+        "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 239881,
+      "name": "Sedona",
+      "url": "https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 415613,
       "name": "Girl (feat. KAYTRANADA)",
       "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Little Neon Limelight",
-        "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 239881,
-      "name": "Sedona",
-      "url": "https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 224061,
-      "name": "Love Like Ghosts",
-      "url": "https://open.spotify.com/track/4UGoW08gaqIEWNTam1UNen"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Sound & Color (Deluxe)",
         "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 182466,
       "name": "Sound & Color",
       "url": "https://open.spotify.com/track/26HaY4D7AV0gVxmkz11bIz"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 224061,
+      "name": "Love Like Ghosts",
+      "url": "https://open.spotify.com/track/4UGoW08gaqIEWNTam1UNen"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Sound & Color (Deluxe)",
+        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 268853,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Every Open Eye",
         "url": "https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 187720,
       "name": "Lampshades on Fire",
       "url": "https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Sound & Color (Deluxe)",
-        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 268853,
-      "name": "This Feeling",
-      "url": "https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG"
-      },
-      "artists": [
-        {
-          "name": "Chromatics",
-          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
-        }
-      ],
-      "duration_ms": 224527,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Sound & Color (Deluxe)",
         "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 232530,
       "name": "Don't Wanna Fight",
       "url": "https://open.spotify.com/track/4gm6JpO3YOcogcjdtPqHWK"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "duration_ms": 224527,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq"
     },
     {
       "added_at": "2021-09-14 05:14:45",

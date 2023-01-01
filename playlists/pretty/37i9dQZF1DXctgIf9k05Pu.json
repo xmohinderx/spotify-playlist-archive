@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 214085,
+  "num_followers": 214174,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDliNzUwMWQyZWI5ZjcyNDhjMWFmNjcyMzU2NDdlNmUw",
+  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDI3NmY4OGY3MzI4NWY2NDY2OWE5Mzc5MTU5Mjc1N2Y3",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "lovesick",
+        "url": "https://open.spotify.com/album/6m0DGPzcCmuFwuqguhcAVg"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "lovesick",
+      "url": "https://open.spotify.com/track/1aPsdtJUgzeryfKppuYFGA"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "Summer Picnic",
         "url": "https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 68571,
       "name": "waking up in the park",
       "url": "https://open.spotify.com/track/278zobyI14d3iaE39jGfHM"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "lovesick",
-        "url": "https://open.spotify.com/album/6m0DGPzcCmuFwuqguhcAVg"
-      },
-      "artists": [
-        {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "lovesick",
-      "url": "https://open.spotify.com/track/1aPsdtJUgzeryfKppuYFGA"
     },
     {
       "added_at": "2022-02-02 00:21:48",

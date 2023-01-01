@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Cassiane, Fernanda Brum
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,046 likes - 75 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,102 likes - 75 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 52 | [O Bom Pastor](https://open.spotify.com/track/7djOFQprGO89J8o6OTFEzf) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [O Bom Pastor](https://open.spotify.com/album/1c61juuE8iKDkl5XSlInd7) | 5:23 |
 | 53 | [És Tudo](https://open.spotify.com/track/03z3mYVTDYDKwKamZzyGKj) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [És Tudo](https://open.spotify.com/album/19Y22lkGCbo2gDuFuC3t4k) | 4:57 |
 | 54 | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN) | 4:01 |
-| 55 | [Acalma](https://open.spotify.com/track/2DdQXkkf5y4kuNAhPTMO09) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Acalma](https://open.spotify.com/album/2OEpzKL5wIriq3VfQLVPts) | 4:56 |
-| 56 | [Raridade \(Ao Vivo\)](https://open.spotify.com/track/2j5ZnD3cpAvVpxduF0PmvG) | [Aline Souza](https://open.spotify.com/artist/0BHCwfUMWR6sfefxO9H0rI), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Raridade \(Ao Vivo\)](https://open.spotify.com/album/15ICKAPYvESqJvrlRkmdpv) | 3:48 |
+| 55 | [Raridade \(Ao Vivo\)](https://open.spotify.com/track/2j5ZnD3cpAvVpxduF0PmvG) | [Aline Souza](https://open.spotify.com/artist/0BHCwfUMWR6sfefxO9H0rI), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Raridade \(Ao Vivo\)](https://open.spotify.com/album/15ICKAPYvESqJvrlRkmdpv) | 3:48 |
+| 56 | [Acalma](https://open.spotify.com/track/2DdQXkkf5y4kuNAhPTMO09) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Acalma](https://open.spotify.com/album/2OEpzKL5wIriq3VfQLVPts) | 4:56 |
 | 57 | [Volta Logo](https://open.spotify.com/track/2E1rgYpkQmjzt5u5HxifOI) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Volta Logo](https://open.spotify.com/album/1XFxMlalgElHzBJIoa6R2o) | 4:38 |
 | 58 | [Teu Falar \- Ao Vivo](https://open.spotify.com/track/77FLekaTNuBaH84ZQX2dzU) | [Gislaine Rodrigues](https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/5SAP9wOXqQ16J393goGNBi) | 6:20 |
 | 59 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 62 | [Santo Deus](https://open.spotify.com/track/6KDtAwxswJk1Dlgsh1OeMO) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Santo Deus](https://open.spotify.com/album/0NedMizI3Pz45rtvlrVhWj) | 5:57 |
 | 63 | [Oh Quão Lindo Esse Nome É \- Ao Vivo](https://open.spotify.com/track/3FvKZvKIvjicD6K9CUpawq) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Oh Quão Lindo Esse Nome É \(Ao Vivo\)](https://open.spotify.com/album/1Qc5BQBQYbmBNUDX8tWNgt) | 7:39 |
 | 64 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 |
-| 65 | [Deus dos Meus Pais](https://open.spotify.com/track/3w4BjjmRtTCq9Ilt4ecEwG) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Deus dos Meus Pais](https://open.spotify.com/album/4OQVoMAoy1boe5FYUVNA3t) | 4:36 |
-| 66 | [Minha Canção \- Ao Vivo](https://open.spotify.com/track/3bFmokoHKRZkGyRfDKXxsp) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Minha Canção \(Ao Vivo\)](https://open.spotify.com/album/3ODJ6TFqGPeNNY3MEoVjT4) | 5:02 |
+| 65 | [Minha Canção \- Ao Vivo](https://open.spotify.com/track/3bFmokoHKRZkGyRfDKXxsp) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Minha Canção \(Ao Vivo\)](https://open.spotify.com/album/3ODJ6TFqGPeNNY3MEoVjT4) | 5:02 |
+| 66 | [Deus dos Meus Pais](https://open.spotify.com/track/3w4BjjmRtTCq9Ilt4ecEwG) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Deus dos Meus Pais](https://open.spotify.com/album/4OQVoMAoy1boe5FYUVNA3t) | 4:36 |
 | 67 | [100% Homem, 100% Deus \- Ao Vivo](https://open.spotify.com/track/1MKh99as2azJTRC43Yi6Zu) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [100% Homem, 100% Deus \(Ao Vivo\)](https://open.spotify.com/album/6LHyXTUDHlGbrfbFuOl2HT) | 4:34 |
 | 68 | [Escreve \(Ao Vivo\)](https://open.spotify.com/track/7qOdt38keNGu7OP7PGm8Wn) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Escreve / Enquanto Eu Chorava / Não é Tarde \(Ao Vivo\)](https://open.spotify.com/album/652u9uBuyxXqpSBwjgAnC2) | 4:19 |
 | 69 | [Montanha \(Sometimes It Takes a Mountain\)](https://open.spotify.com/track/3D5QYKG4NHLImvL51wzrxb) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K) | [Montanha](https://open.spotify.com/album/4Uw611r2Ytu58b1VzjNRXY) | 4:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 74 | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/track/6KH0A2ktOEZ5iF82Zhgf9o) | [Manú Paiva](https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER) | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/album/3xbFeQp4PVjFC4gWAyhpec) | 4:16 |
 | 75 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 6:24 |
 
-Snapshot ID: `MTY3MTIxMzQ4NSwwMDAwMDAwMDI2ZjZmMWE0OGZmMDE0MDIwOWVlZTMxY2Q2YWNkYjVh`
+Snapshot ID: `MTY3MTIxMzQ4NSwwMDAwMDAwMDQ2ZTRhM2Y3MGU2N2FkNGZhZWViNWU5OWRkY2FiMDQz`

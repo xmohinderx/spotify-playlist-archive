@@ -91308,6 +91308,24 @@
     },
     {
       "album": {
+        "name": "Yeah Hoe",
+        "url": "https://open.spotify.com/album/5KZ9tODFrHk8rKKj5sYpCt"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164643,
+      "name": "Yeah Hoe",
+      "url": "https://open.spotify.com/track/6AH6xjU0eeQBD6v7ERqY7V"
+    },
+    {
+      "album": {
         "name": "Identity Crisis",
         "url": "https://open.spotify.com/album/2wbMJYLxgXALMVJWy7m98T"
       },

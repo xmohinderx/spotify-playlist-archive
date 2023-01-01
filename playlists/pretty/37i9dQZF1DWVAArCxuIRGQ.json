@@ -1,12 +1,12 @@
 {
   "description": "A sizzling hot soundtrack for your sunshine social.",
-  "num_followers": 575625,
+  "num_followers": 575647,
   "original_name": "Summer BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI5NTM5MCwwMDAwMDAwMDYwNjc1MDkyNjRlZDY1ZDE2ZjMzYzNjZWY2NmI5Y2Qy",
+  "snapshot_id": "MTY1NzI5NTM5MCwwMDAwMDAwMDYxM2JlMGJiZTRhYjlmNjYxYjRjMGYwODlmNTgwMDc0",
   "tracks": [
     {
       "added_at": "2022-07-08 15:49:50",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "Everybody Loves The Sunshine (Reissue)",
-        "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers Ubiquity",
-          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
-        }
-      ],
-      "duration_ms": 239666,
-      "name": "Everybody Loves The Sunshine",
-      "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
-    },
-    {
-      "added_at": "2022-07-08 15:49:50",
-      "album": {
         "name": "Innervisions",
         "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
       },
@@ -1091,18 +1075,34 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "Night Nurse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx"
+        "name": "Everybody Loves The Sunshine (Reissue)",
+        "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
       },
       "artists": [
         {
-          "name": "Gregory Isaacs",
-          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
+          "name": "Roy Ayers Ubiquity",
+          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
         }
       ],
-      "duration_ms": 249533,
-      "name": "Night Nurse",
-      "url": "https://open.spotify.com/track/4DQttwipnILl88cru3BRZx"
+      "duration_ms": 239666,
+      "name": "Everybody Loves The Sunshine",
+      "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
+    },
+    {
+      "added_at": "2022-07-08 15:49:50",
+      "album": {
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "Club Tropicana",
+      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
     },
     {
       "added_at": "2022-07-08 15:49:50",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
+        "name": "Night Nurse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx"
       },
       "artists": [
         {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+          "name": "Gregory Isaacs",
+          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
         }
       ],
-      "duration_ms": 265600,
-      "name": "Club Tropicana",
-      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
+      "duration_ms": 249533,
+      "name": "Night Nurse",
+      "url": "https://open.spotify.com/track/4DQttwipnILl88cru3BRZx"
     },
     {
       "added_at": "2022-07-08 15:49:50",

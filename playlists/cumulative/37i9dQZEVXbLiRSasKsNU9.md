@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,083 songs - 2 day 10 hr 32 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+1,084 songs - 2 day 10 hr 35 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) | 3:35 | 2022-03-29 | 2022-04-13 |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-01-27 | 2022-03-09 |
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2022-11-29 | 2022-12-08 |
+| [Give It To Me \(TikTok\) \- Remix](https://open.spotify.com/track/2RQOyTK7GG9HQMruQXS7wP) | [Splice Records](https://open.spotify.com/artist/2ZADLHKIfy45s3KdoA6Jn5) | [Give It To Me \(TikTok\) \(Remix\)](https://open.spotify.com/album/5TFGWVkpLUO22vriADgKLo) | 2:52 | 2022-12-31 |  |
 | [Give It To Me \- Remix](https://open.spotify.com/track/0QKhC7BGbjb38EsW8Dgm5r) | [Muppet DJ](https://open.spotify.com/artist/1xP2Pos7aO9ONLRav8fmny), [SECA Records](https://open.spotify.com/artist/69JEXAvYd8sSMU4li9uSox) | [Give It To Me \(Remix\)](https://open.spotify.com/album/3bqPkfqc4dMwmdyxIESBEf) | 2:51 | 2022-12-23 | 2022-12-31 |
 | [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-09-11 | 2022-10-05 |
 | [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 | 2022-02-26 | 2022-06-01 |
@@ -518,7 +519,7 @@
 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 | 2022-11-29 |  |
 | [KAWAII](https://open.spotify.com/track/46AX8pgh331m7C7q2t9Jra) | [Tatarka](https://open.spotify.com/artist/6AskOVL13sRjMWnL45lxp0) | [GOLDEN FLOWER](https://open.spotify.com/album/7iUuXpOPDfKXT5DwelKQpz) | 2:07 | 2022-04-15 | 2022-05-08 |
 | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 | 2022-08-09 | 2022-09-19 |
-| [Kho Gaye](https://open.spotify.com/track/2QophXhN2Ls2URfoPmiviC) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Mismatched](https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 3:17 | 2022-11-16 |  |
+| [Kho Gaye](https://open.spotify.com/track/2QophXhN2Ls2URfoPmiviC) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Mismatched](https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 3:17 | 2022-11-16 | 2023-01-01 |
 | [Kho Gaye](https://open.spotify.com/track/5iaKalECn9aYPfh9w07yOX) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Mismatched](https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/2bJRbj971pXenefii5i3mY) | 3:17 | 2022-11-02 | 2022-11-17 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-11-08 | 2022-12-08 |
 | [Komuram Bheemudo \(From "RRR"\)](https://open.spotify.com/track/7G8LfMpY6TGN9dbZ9m0Jdd) | [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Komuram Bheemudo \(From "RRR"\)](https://open.spotify.com/album/6es8wELOWESpxXxfsOmd0l) | 4:14 | 2022-04-02 | 2022-04-05 |

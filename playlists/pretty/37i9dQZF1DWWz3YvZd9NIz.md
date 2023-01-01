@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,951 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,054 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 38 | [Blah Blah Blah \- Zany Remix](https://open.spotify.com/track/6Q9tqkD827DTEsAySwW0og) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Zany](https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO) | [Blah Blah Blah \(Remixes\)](https://open.spotify.com/album/2JMGLki9XYrFTCJEBM6VoG) | 2:32 |
 | 39 | [Smells Like Teen Spirit](https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Smells Like Teen Spirit](https://open.spotify.com/album/2KvMTlgk0LrWqgtqQAcMvS) | 3:31 |
 | 40 | [Rhythm Of The Night](https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Rhythm Of The Night](https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE) | 3:10 |
-| 41 | [Superstring \- Aftershock Remix](https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Superstring \(Aftershock Remix\)](https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y) | 2:24 |
-| 42 | [Bella Ciao](https://open.spotify.com/track/0aSdsoufzNzGKFkRTkBYzM) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Bella Ciao](https://open.spotify.com/album/1l2IEJRSiiM8dyo9bzMYDY) | 3:18 |
+| 41 | [Bella Ciao](https://open.spotify.com/track/0aSdsoufzNzGKFkRTkBYzM) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Bella Ciao](https://open.spotify.com/album/1l2IEJRSiiM8dyo9bzMYDY) | 3:18 |
+| 42 | [Superstring \- Aftershock Remix](https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Superstring \(Aftershock Remix\)](https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y) | 2:24 |
 | 43 | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/track/0drhA9z3U2NUoF3dM4WeQT) | [Topmodelz](https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/album/2J1RBk0GRZbCekoI1E0fO4) | 3:22 |
 | 44 | [Believer](https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Believer](https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv) | 3:33 |
 | 45 | [The Wellerman \(Sea Shanty\)](https://open.spotify.com/track/2TS8X1CY0G0sThZ80PupZ5) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Wellerman \(Sea Shanty\)](https://open.spotify.com/album/1c5f9Qa41aKzuko7bNsxJW) | 3:36 |
-| 46 | [Rainbow In The Sky](https://open.spotify.com/track/0clMW4mz5QaPXURDwkmKJA) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Ingrid Simons](https://open.spotify.com/artist/5nMlO8ar6S3oqX1ncLombX) | [Rainbow In The Sky](https://open.spotify.com/album/53SIt0wrmoBP4wCBGciGQ7) | 2:44 |
-| 47 | [Wake Me Up \- Hardstyle Remix](https://open.spotify.com/track/4IaI3OzwnVo6XyooQ0Rua0) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Patrick Lentz](https://open.spotify.com/artist/21uICil8mM128FNvcYJDv0) | [Wake Me Up \(Hardstyle Remix\)](https://open.spotify.com/album/0KWzjPlv7fx0JOuKrNledF) | 3:06 |
+| 46 | [Wake Me Up \- Hardstyle Remix](https://open.spotify.com/track/4IaI3OzwnVo6XyooQ0Rua0) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Patrick Lentz](https://open.spotify.com/artist/21uICil8mM128FNvcYJDv0) | [Wake Me Up \(Hardstyle Remix\)](https://open.spotify.com/album/0KWzjPlv7fx0JOuKrNledF) | 3:06 |
+| 47 | [Rainbow In The Sky](https://open.spotify.com/track/0clMW4mz5QaPXURDwkmKJA) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Ingrid Simons](https://open.spotify.com/artist/5nMlO8ar6S3oqX1ncLombX) | [Rainbow In The Sky](https://open.spotify.com/album/53SIt0wrmoBP4wCBGciGQ7) | 2:44 |
 | 48 | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3) | [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/5IqL7tTITGxUmCpIVxa1eZ) | 2:50 |
 | 49 | [I'm Good](https://open.spotify.com/track/1fmErdHuX5yK4AUWwH6v67) | [DJane HouseKat](https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx), [Earsquaker](https://open.spotify.com/artist/76bxY8Zg5tjHCWkuRAbOFT), [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [Blaikz](https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde) | [I'm Good](https://open.spotify.com/album/6Otf86kS5TF6YbFiOBDWRV) | 2:36 |
 | 50 | [Africa \(Shinzo Radio Edit\)](https://open.spotify.com/track/3Gnyu3henEnnYl6LeUt2Dj) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Nick Skitz](https://open.spotify.com/artist/0b56YzqAu22jh2CDUYvbbx), [Shinzo](https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv) | [Africa \(The Remixes\)](https://open.spotify.com/album/339hhBU7RbxyYhXVfXBagi) | 4:11 |
 
-Snapshot ID: `MTY3MjM1NDgwMCwwMDAwMDAwMGFlNGRhZmI1MGQxN2E5NGY4ZDExM2ZiZDk1ODYyMGVj`
+Snapshot ID: `MTY3MjM1NDgwMCwwMDAwMDAwMDQ1MWU3NzI2MTc2ZTQ1ZGQ3MWI2ZGY1NGUyOTQ2ZjFk`

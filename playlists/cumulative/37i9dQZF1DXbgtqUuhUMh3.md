@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Abeer Nehme
 
-364 songs - 21 hr 21 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+365 songs - 21 hr 24 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Abu 3ntr](https://open.spotify.com/track/4udzViP9ZtbBlCLkFLlj53) | [ŁOAY](https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz), [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Abu 3ntr](https://open.spotify.com/album/1ua6NcTfZN5Bgu2TYelucN) | 3:33 | 2021-12-23 | 2022-03-01 |
 | [Action](https://open.spotify.com/track/42oyB4eDAiU4hxis698Glb) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [Action](https://open.spotify.com/album/5lHKqYoOrYfvWPDPKNDyh9) | 2:46 | 2022-09-20 | 2022-10-07 |
 | [Ad Ay Sa’ab \(El Choclo\)](https://open.spotify.com/track/3uWb9pRy167A3QgCMcAUwH) | [Ángel Gregorio Villoldos](https://open.spotify.com/artist/3Qk0GyKffDb9elY6DLYsrG), [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh) | [Ad Ay Sa’ab \(El Choclo\)](https://open.spotify.com/album/4qp6sN0NNxCdU9adjDXVKZ) | 2:44 | 2022-07-15 | 2022-09-26 |
+| [Aezerouni](https://open.spotify.com/track/11baN3TyznC1nY9Lw2tPG4) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Aezerouni](https://open.spotify.com/album/0qdcpe5wD6AP9bkGm5VF0I) | 3:41 | 2022-12-22 |  |
 | [Afa](https://open.spotify.com/track/61sFahxJGZjEQgASy45VTX) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [Afa](https://open.spotify.com/album/01QAkV39wYAMuyj0qdBBC5) | 2:36 | 2022-09-08 |  |
 | [Aghani Al Shouk](https://open.spotify.com/track/1PIY3wA0hx41XwMntL34zb) | [Hasnaa](https://open.spotify.com/artist/2DnWkyy7jNoREYG8z3eHui) | [Aghani Al Shouk](https://open.spotify.com/album/4um9Pt1IpTm2GhV9yRs2DC) | 3:18 | 2021-12-23 | 2022-02-19 |
 | [Aheb Essmi](https://open.spotify.com/track/1feBcyeSIn8G7yyitzKlM2) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Aheb Essmi](https://open.spotify.com/album/0q0d5bsNYPXmxtvR0P2Q0y) | 3:38 | 2022-10-13 |  |
@@ -330,7 +331,7 @@
 | [زدني](https://open.spotify.com/track/3E1tVxMoF3w8oHGdG6i3J5) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [زدني](https://open.spotify.com/album/0AaafNn1A6tpN9D7Zw8euK) | 5:21 | 2022-08-19 |  |
 | [زعلانة من نفسي](https://open.spotify.com/track/6rPJBLRp8R0b3aQyb73wsr) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [زعلانة من نفسي](https://open.spotify.com/album/0uQIyzQ7u48jrBVQwFclUE) | 4:14 | 2021-12-23 | 2022-03-02 |
 | [زهرة رمان](https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0) | [Soukayna Jamali](https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap) | [زهرة رمان](https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf) | 3:26 | 2021-12-23 | 2022-03-02 |
-| [سم فالكاندي](https://open.spotify.com/track/4a1H8Ni8GBvFLgTY3VPmkN) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/22Qv0jVskmMZerbetTKYmh) | 2:27 | 2022-09-22 |  |
+| [سم فالكاندي](https://open.spotify.com/track/4a1H8Ni8GBvFLgTY3VPmkN) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/22Qv0jVskmMZerbetTKYmh) | 2:27 | 2022-09-22 | 2023-01-01 |
 | [سم فالكاندي](https://open.spotify.com/track/6eAxR7gY30dCryenLq0WDS) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7ojSmQcXWruyeYQqlf71OX) | 2:27 | 2022-08-04 | 2022-08-28 |
 | [سم فالكاندي](https://open.spotify.com/track/7qk1ioFJUp5wNzPtSvi2E3) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7j5yTR9UnX8gVfOJ8OdqCo) | 2:27 | 2022-08-25 | 2022-09-11 |
 | [سولفت لأمي](https://open.spotify.com/track/6BfRyMh46F5cA3gkgyfh5u) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سولفت لأمي](https://open.spotify.com/album/4i19VcPBc8ufEIsIyFwY5j) | 2:29 | 2021-12-30 | 2022-03-01 |

@@ -4,7 +4,7 @@
 
 > Para ahogar las penas en el fondo de una botella.
 
-293 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/3TYdhPxDiPoy7PDMRCl5B2)
+294 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/3TYdhPxDiPoy7PDMRCl5B2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Acá Entre Nos](https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:15 | 2022-06-08 |  |
 | [Adicta al Dolor](https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [Adicta al Dolor](https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL) | 2:53 | 2022-06-08 |  |
 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 | 2022-06-08 | 2022-12-31 |
-| [Ahora Que Puedo](https://open.spotify.com/track/6w9WA6rcQWqB7eNqzPDa9n) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/1cmMx3igYIJLCYC1Wk8iwl) | 3:31 | 2022-06-08 |  |
+| [Ahora Que Puedo](https://open.spotify.com/track/6w9WA6rcQWqB7eNqzPDa9n) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/1cmMx3igYIJLCYC1Wk8iwl) | 3:31 | 2022-06-08 | 2023-01-01 |
 | [Ahora Que Puedo](https://open.spotify.com/track/7DORW8QrHvQ1wIIhuHUqXW) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Ahora Que Puedo \(El Príncipe de la Canción Popular\)](https://open.spotify.com/album/71CKMLBCappyNVjjv1i5U0) | 3:36 | 2022-06-08 | 2022-07-26 |
 | [Ahora Resulta \(Censurada\)](https://open.spotify.com/track/3HzlInOauyJkowUbveDaZD) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 3:25 | 2022-06-08 | 2022-07-29 |
 | [Alguien Me Gusta](https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Alguien Me Gusta](https://open.spotify.com/album/79WB96tQV9vPJ920cbneZ9) | 2:48 | 2022-06-08 |  |
@@ -40,6 +40,7 @@
 | [Bello Espejismo](https://open.spotify.com/track/1lqlcijet7KsBKET8l0XvQ) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Bello Espejismo](https://open.spotify.com/album/3CIcsPXUoRGakH0Q3xrNT4) | 3:20 | 2022-06-08 | 2022-07-28 |
 | [Bendecida](https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Bendecida](https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0) | 3:10 | 2022-06-08 |  |
 | [Besos En Guerra](https://open.spotify.com/track/2jx4sXXb3eFH5NjsWgxm62) | [Dictado](https://open.spotify.com/artist/63lBUBggyKgjjZHsAxR3Tp) | [Dictado \(En Vivo\)](https://open.spotify.com/album/54aJmBef4WwpQfDxYNBoJF) | 3:22 | 2022-12-30 |  |
+| [Borrachera](https://open.spotify.com/track/2KVKplB0WPQhg27jhTpS3T) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Borrachera](https://open.spotify.com/album/3aIAwEKpL6WOcw6MTQPIlG) | 2:31 | 2022-12-30 |  |
 | [Borracho Te Llamo](https://open.spotify.com/track/2glKw8DFggAL2LQNaNrJVu) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Borracho Te Llamo](https://open.spotify.com/album/626eYK9xICSOIAqDFgODZR) | 2:28 | 2022-06-08 | 2022-07-29 |
 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 | 2022-06-08 |  |
 | [Bájale](https://open.spotify.com/track/1LOLsJKiqBjgVg0HWAcfpF) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:42 | 2022-12-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring hand\-curated tracks from HoneyLuv for New Years' Eve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,913 likes - 68 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,011 likes - 68 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

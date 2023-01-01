@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,922 likes - 93 songs - 4 hr 58 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,921 likes - 93 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Modest](https://open.spotify.com/track/7MXChMwOQfLuF5Ma5nFDaO) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [why not us](https://open.spotify.com/album/4Ivk5W6s5LtR5klO5u98Ry) | 3:02 |
+| 1 | [Modest](https://open.spotify.com/track/7MXChMwOQfLuF5Ma5nFDaO) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu), [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG) | [why not us?](https://open.spotify.com/album/4Ivk5W6s5LtR5klO5u98Ry) | 3:02 |
 | 2 | [Prague](https://open.spotify.com/track/5wv5S85hL6ZWSglUvBESMJ) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Prague](https://open.spotify.com/album/5ErvLAoAruWhuaR20mwQPC) | 3:07 |
 | 3 | [See No Evil \(Run It Up\)](https://open.spotify.com/track/1wt7HcNT5DR8YgBVXMRKYc) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [See No Evil \(Run It Up\)](https://open.spotify.com/album/2DTEmJeCiNYpSXFJ8LYTgj) | 2:41 |
-| 4 | [If I Was A Cowboy \- Stripped](https://open.spotify.com/track/4qy9dgg6QG5x06SrO8EiFW) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [If I Was A Cowboy \(Stripped\)](https://open.spotify.com/album/2JItzQixJgQFywAvEbhXBu) | 3:24 |
+| 4 | [If I Was A Cowboy \- Stripped](https://open.spotify.com/track/4qy9dgg6QG5x06SrO8EiFW) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [If I Was A Cowboy \(Stripped\)](https://open.spotify.com/album/2JItzQixJgQFywAvEbhXBu) | 3:23 |
 | 5 | [Tangerine](https://open.spotify.com/track/2gjgyE4MuXhSKsJmxzs1HF) | [Kweku Collins](https://open.spotify.com/artist/2SPt3i9sJKS1qiMQQQr9LS) | [Tangerine](https://open.spotify.com/album/1oMvwMIGzSR7CdElD3oK2C) | 2:23 |
 | 6 | [Ski Trip](https://open.spotify.com/track/66uplMFfrTOXEg7yIaclTk) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [Ski Trip](https://open.spotify.com/album/5kgvLzREOpVSYSG86kauFk) | 2:46 |
 | 7 | [INFINITE](https://open.spotify.com/track/1yg9AHUzXGYyxJRHQ7Mn5u) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [INFINITE](https://open.spotify.com/album/1AJ3YB7lJ9Z5SrIavCtXUb) | 2:47 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Insomnium
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,423 likes - 49 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,518 likes - 49 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 7 | [Pillars of Serpents](https://open.spotify.com/track/42ASpTtai1npURX7qDsteD) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Pillars of Serpents](https://open.spotify.com/album/1HTbINeUUGe8pmHyxZyb5Y) | 5:37 |
 | 8 | [Malicious Sukkubus](https://open.spotify.com/track/6u0NRvczjUzBIaEeWEzOcc) | [Atrocity](https://open.spotify.com/artist/050NpEYZ5xFUS1BOAZjVmX), [Elina Siirala](https://open.spotify.com/artist/6AEq0leC9g7XTUp3Z7tUlp), [Zoë Marie Federoff](https://open.spotify.com/artist/0B8xFjzuA1tZ6nmnKSzVG7) | [Malicious Sukkubus](https://open.spotify.com/album/2k9C5MwKo4tklKfnpcD3Ix) | 6:35 |
 | 9 | [Caravans to the Outer Worlds \- Live from the Otherworldly Big Band Experience](https://open.spotify.com/track/7J0XcpGlsBFDDRuOoFjb59) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Caravans to the Outer Worlds \(Live from the Otherworldly Big Band Experience\)](https://open.spotify.com/album/5YDLol4ZewCcHraYE5gyqi) | 6:10 |
-| 10 | [Into the Void \- HARD BOX Remix](https://open.spotify.com/track/1QZWJcDtvPASvWbHMFEG7N) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [Hard Box](https://open.spotify.com/artist/5Eo9seYhBF9X41GH6KqOo3) | [Into the Void \(HARD BOX Remix\)](https://open.spotify.com/album/5e6b6x3x10PzgUdwFBml39) | 3:39 |
-| 11 | [\(Not\) Enough \- Instrumental](https://open.spotify.com/track/1Q2REDsklSmlqul6bUW9Dl) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF) | [\(Not\) Enough\) \[Instrumental\]](https://open.spotify.com/album/3Hm6P0W1rHazeOImIwlHMq) | 4:22 |
+| 10 | [Into the Void \- HARD BOX Remix](https://open.spotify.com/track/4gmrTnVyc2Ud9KMWnl05Fh) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [Hard Box](https://open.spotify.com/artist/5Eo9seYhBF9X41GH6KqOo3) | [Into the Void \(Remix Contest Compilation\)](https://open.spotify.com/album/456DhMrNFieRfFOI8R4p18) | 3:39 |
+| 11 | [\(Not\) Enough \- Instrumental](https://open.spotify.com/track/5NmgOKqA9vuzZFJpXBtGxb) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF) | [APOPHYSITIS \(Deluxe Edition\)](https://open.spotify.com/album/1NmwTrpGmEeX6s1fkgwtB7) | 4:22 |
 | 12 | [Majesty](https://open.spotify.com/track/5o9LbFRtoxDRXiJdlPOXSy) | [Morgan Thomaso](https://open.spotify.com/artist/79VoWRyWV2e3rTHm1fb6N0), [Victor Borba](https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF), [Hugo Bringart](https://open.spotify.com/artist/6BZE9AyYDPkfejgH7c4DJs), [Cartoon Theory](https://open.spotify.com/artist/4UPSjbEaWn0LrLoF4f8ipX) | [Majesty](https://open.spotify.com/album/4gosCMpbomQ5OGjbnqeiUn) | 4:41 |
 | 13 | [Brace For The Freight Train](https://open.spotify.com/track/26btbtylTH8l0Dc1y9OJcY) | [Dagames](https://open.spotify.com/artist/6O2VM2aM7KwyDIJ4VvAbYx) | [Brace For The Freight Train](https://open.spotify.com/album/6A0rTUAmil48dIP6c5ZF7Z) | 4:33 |
 | 14 | [WWE: Shatter \(Bray Wyatt\)](https://open.spotify.com/track/4S8RzeHLdmpFc8ohVomQFd) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [WWE: Shatter \(Bray Wyatt\)](https://open.spotify.com/album/1NIc3seb1B4KXDZRh3NRRx) | 4:33 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 48 | [ASHES](https://open.spotify.com/track/5z8yjg9jCYjeHWrG2eKYDc) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [DEADGIRL](https://open.spotify.com/album/48CPMZleL4rHMqtQN5opuV) | 2:25 |
 | 49 | [Call of the North](https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t) | 6:24 |
 
-Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDIzNjY1ZDY2ZTYwMDQyMzhlOWIwZDI5NjViNmQyOWQ4`
+Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDlhNjY5NzEyNWYwNmY3NDM3ZjRlMzhiNGUzOGVlMDRj`

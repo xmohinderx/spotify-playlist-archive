@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/zackbia/\">Zack Bia</a>",
-  "num_followers": 1119,
+  "num_followers": 1121,
   "original_name": "Zack Bia's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0NTg3NywwMDAwMDAwMGJkY2FkYjRmNGI5OGVkZDc0ZjhlMDU1MWE3YjhlM2I4",
+  "snapshot_id": "MTY2NDY0NTg3NywwMDAwMDAwMDVlOTcxZGRiNzgwYTY0ZmY1OTExNjdiZmE5YWY4M2Fk",
   "tracks": [
     {
       "added_at": "2022-10-01 17:37:57",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "LIVE.LOVE.A$AP",
-        "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1bjTEsJdDdbuA5JsdRRxhP"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 129479,
       "name": "LOVE YOU BETTER",
       "url": "https://open.spotify.com/track/40zU9RnT0liuXMjornRlhn"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "LIVE.LOVE.A$AP",
+        "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1bjTEsJdDdbuA5JsdRRxhP"
     },
     {
       "added_at": "2022-10-01 17:37:57",

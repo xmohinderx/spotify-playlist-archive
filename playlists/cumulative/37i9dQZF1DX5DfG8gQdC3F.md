@@ -4,7 +4,7 @@
 
 > New Music Friday will return in Canada on 1/6/23 – Happy New Year! Listen to music from KILLY \(pictured\), Ava Max, Bailey Zimmerman, Damso, and more.
 
-5,191 songs - 11 day 12 hr 39 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
+5,192 songs - 11 day 12 hr 41 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4024,7 +4024,8 @@
 | [Silver Lining](https://open.spotify.com/track/1yLYOqEaafdA6LzWpfzFIL) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Silver Lining](https://open.spotify.com/album/2OieKLUZmHUcwMqtLpHoBg) | 3:39 | 2022-06-03 | 2022-06-11 |
 | [Silver Tongues](https://open.spotify.com/track/1nMglHq7NFuRLmKizMQajB) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Silver Tongues](https://open.spotify.com/album/1uGtR2fbkl45slG5OyUtPt) | 3:25 | 2022-11-11 | 2022-11-19 |
 | [SIMPLE](https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [SIMPLE](https://open.spotify.com/album/6nfwaflmUX1fWLwY0abYxF) | 2:34 | 2022-10-14 | 2022-10-22 |
-| [Simple Step](https://open.spotify.com/track/1ZxKAa2SpjE8LYn71betqw) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Simple Step](https://open.spotify.com/album/4tS7sn9J7Go6VWzexjaMyf) | 2:45 | 2022-12-23 |  |
+| [Simple Step](https://open.spotify.com/track/1ZxKAa2SpjE8LYn71betqw) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Simple Step](https://open.spotify.com/album/4tS7sn9J7Go6VWzexjaMyf) | 2:45 | 2022-12-23 | 2023-01-01 |
+| [Simple Step](https://open.spotify.com/track/2D3UoXaFRyCP9trM5LtWQ5) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:45 | 2022-12-30 |  |
 | [SIMPLY THE BEST](https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [SIMPLY THE BEST](https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ) | 3:56 | 2022-10-28 | 2022-11-05 |
 | [Sin Fin](https://open.spotify.com/track/3qaHzxjNtFU7QiEuhGx70x) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Sin Fin](https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l) | 3:54 | 2022-09-02 | 2022-09-10 |
 | [Sin Novia](https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sin Novia](https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl) | 3:08 | 2022-08-05 | 2022-08-13 |

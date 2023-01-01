@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Ash Grunwald
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,360 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,428 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 8 | [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 |
 | 9 | [Can't Stop The Bleeding \(feat\. Gary Clark Jr\. & Gramatik\)](https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Can't Stop The Bleeding \(feat\. Gary Clark Jr\. & Gramatik\)](https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B) | 4:38 |
 | 10 | [The Ballad of Johnny](https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1) | 2:53 |
-| 11 | [Satellite Man](https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th) | [Satellite and the Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [Satellite Man](https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO) | 3:00 |
-| 12 | [Too Bad](https://open.spotify.com/track/0UxhRgcEhJdGkuLRKXbdHN) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Desert Dreams](https://open.spotify.com/album/71OHum7ucyhzFO7QnLiEhj) | 3:10 |
+| 11 | [Too Bad](https://open.spotify.com/track/0UxhRgcEhJdGkuLRKXbdHN) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Desert Dreams](https://open.spotify.com/album/71OHum7ucyhzFO7QnLiEhj) | 3:10 |
+| 12 | [Satellite Man](https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th) | [Satellite and the Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [Satellite Man](https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO) | 3:00 |
 | 13 | [Five Dollars](https://open.spotify.com/track/4m0zS8ogujtTiLcAwCmHFT) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Five Dollars](https://open.spotify.com/album/6qjPSLr8oJHocV9Mt6Ax0m) | 3:08 |
 | 14 | [Big Boy](https://open.spotify.com/track/3n8HMjq9XEllt8kyD1JGBy) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Choke Cherry Tree](https://open.spotify.com/album/2H6mfUMvRacDoPtgbcbqkR) | 3:03 |
 | 15 | [Pearl Cadillac \(feat\. Andra Day\)](https://open.spotify.com/track/5fcisGWiGPqr3hkPy0h1mr) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Pearl Cadillac \(feat\. Andra Day\)](https://open.spotify.com/album/5uVl49FsC9vFHCxNT2zoiJ) | 3:30 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 42 | [Come On](https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Come On](https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX) | 3:45 |
 | 43 | [Chocolate Samurai](https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Chocolate Samurai](https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX) | 4:55 |
 | 44 | [Can't Nobody Stop Us](https://open.spotify.com/track/3vYpSRPpjAa6meFbsFyCv1) | [Bhi Bhiman](https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C) | [Peace of Mind](https://open.spotify.com/album/1zVOWqWdzJILGp06SBmTel) | 3:14 |
-| 45 | [Don't Say Goodbye](https://open.spotify.com/track/3vOtFfShTAHO2OMvv7GUxE) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 3:11 |
-| 46 | [Nothing but a Cliché](https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [The Difference Between Me & You](https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G) | 4:01 |
-| 47 | [Bottom Shelf Gin](https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Bottom Shelf Gin](https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC) | 3:02 |
+| 45 | [Nothing but a Cliché](https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [The Difference Between Me & You](https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G) | 4:01 |
+| 46 | [Bottom Shelf Gin](https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Bottom Shelf Gin](https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC) | 3:02 |
+| 47 | [Don't Say Goodbye](https://open.spotify.com/track/3vOtFfShTAHO2OMvv7GUxE) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 3:11 |
 | 48 | [Them That Matter Don't Mind](https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 2:49 |
 | 49 | [Reaching](https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Reaching](https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ) | 3:15 |
 | 50 | [29 Gold Stars](https://open.spotify.com/track/054GuU4u3vY4b5bkU8K9eH) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [Demons](https://open.spotify.com/album/6QxlINdqOdpp8FfWJrnzOj) | 2:25 |
 
-Snapshot ID: `MTY2MTk3NTU4OCwwMDAwMDAwMGM3NDJhMGY0MjkzOTEyZmExMjJhY2VmMjVlMzRjYmIy`
+Snapshot ID: `MTY2MTk3NTU4OCwwMDAwMDAwMDYxMmI1YTBjNzA1Zjc3MzEzYzgwNTcwMzRlOWRmMDZm`

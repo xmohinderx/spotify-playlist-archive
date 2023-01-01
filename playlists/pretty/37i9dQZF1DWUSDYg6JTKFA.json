@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 129783,
+  "num_followers": 129861,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NTUxNTA5NiwwMDAwMDAwMGRkZjUzMDQ5ZDNlZjE0NDdmMGZhMjI3N2UxZmZlZThm",
+  "snapshot_id": "MTU5NTUxNTA5NiwwMDAwMDAwMDkxNjlkNTkxOTAwNWYxY2Y3OWVhMzA0M2ZkMWY3MGQ0",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -515,6 +515,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "The Altar and The Door",
+        "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "East To West",
+      "url": "https://open.spotify.com/track/1wV6lCsV2PCeVZlyGTkVPt"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "Christmas: The Peace Project",
         "url": "https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 274386,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "The Altar and The Door",
-        "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "East To West",
-      "url": "https://open.spotify.com/track/1wV6lCsV2PCeVZlyGTkVPt"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -735,22 +735,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Tremble",
-        "url": "https://open.spotify.com/album/666rMVpgsHjVdU4OMbstAz"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "Tremble",
-      "url": "https://open.spotify.com/track/5yNffCuv0YGOgRazVMfEP6"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Out Of The Dark",
         "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 244360,
       "name": "Bleed The Same",
       "url": "https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Tremble",
+        "url": "https://open.spotify.com/album/666rMVpgsHjVdU4OMbstAz"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/5yNffCuv0YGOgRazVMfEP6"
     },
     {
       "added_at": "2020-07-23 14:38:16",

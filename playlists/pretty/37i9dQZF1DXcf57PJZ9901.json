@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2010s.",
-  "num_followers": 71932,
+  "num_followers": 72009,
   "original_name": "10s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDUyNSwwMDAwMDAwMGVkOGZmMjY3M2ZmNmYwNDk1MWJmNDFjZTJjMmQwMTM2",
+  "snapshot_id": "MTY2ODcwMDUyNSwwMDAwMDAwMGM3MTkzMDllNTUxNzA1YTRlYzVkNzljOTkwM2M0Y2M4",
   "tracks": [
     {
       "added_at": "2022-03-28 15:29:17",
@@ -385,22 +385,6 @@
       "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
     },
     {
-      "added_at": "2021-10-14 05:16:33",
-      "album": {
-        "name": "Everyday Life",
-        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 257546,
-      "name": "Champion Of The World",
-      "url": "https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN"
-    },
-    {
       "added_at": "2020-12-08 17:53:04",
       "album": {
         "name": "Love on the Weekend",
@@ -415,6 +399,22 @@
       "duration_ms": 212626,
       "name": "Love on the Weekend",
       "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
+    },
+    {
+      "added_at": "2021-10-14 05:16:33",
+      "album": {
+        "name": "Everyday Life",
+        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 257546,
+      "name": "Champion Of The World",
+      "url": "https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN"
     },
     {
       "added_at": "2020-12-08 17:53:04",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/0vicQm86o7GnT42GdG34sA"
     },
     {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "The Flood (Deluxe Reissue)",
-        "url": "https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "When You Can't Sleep At Night",
-      "url": "https://open.spotify.com/track/42i1pGtSyPVXNX71oW8dyg"
-    },
-    {
       "added_at": "2022-05-04 15:00:00",
       "album": {
         "name": "Strangeland",
@@ -751,6 +735,22 @@
       "duration_ms": 218840,
       "name": "Sovereign Light Caf\u00e9",
       "url": "https://open.spotify.com/track/38v9pKVik1eEJhpSuh97oc"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "The Flood (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "When You Can't Sleep At Night",
+      "url": "https://open.spotify.com/track/42i1pGtSyPVXNX71oW8dyg"
     },
     {
       "added_at": "2020-12-08 17:53:04",
@@ -849,6 +849,22 @@
       "url": "https://open.spotify.com/track/2tXtxbJra1MIJxkWrD1xTd"
     },
     {
+      "added_at": "2022-05-04 15:00:00",
+      "album": {
+        "name": "Strangeland (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3nwyEcUG2j9CXV7qY1BhVr"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Silenced By The Night",
+      "url": "https://open.spotify.com/track/6ovxhuEp4zsnJLvNKnQiBL"
+    },
+    {
       "added_at": "2021-10-14 05:16:33",
       "album": {
         "name": "Miracle Pill",
@@ -881,22 +897,6 @@
       "url": "https://open.spotify.com/track/3raHUAfQyQ7Gv8yK62AVhV"
     },
     {
-      "added_at": "2022-05-04 15:00:00",
-      "album": {
-        "name": "Strangeland (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3nwyEcUG2j9CXV7qY1BhVr"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Silenced By The Night",
-      "url": "https://open.spotify.com/track/6ovxhuEp4zsnJLvNKnQiBL"
-    },
-    {
       "added_at": "2020-12-08 17:53:04",
       "album": {
         "name": "The Ride",
@@ -915,6 +915,22 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
+        "name": "Songs Of Innocence",
+        "url": "https://open.spotify.com/album/45Ec0wYJ7npo6lXH4GWmxz"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 226763,
+      "name": "Song For Someone",
+      "url": "https://open.spotify.com/track/6PmvNS601Mcd2H0UcqMWb0"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
         "name": "Everything This Way",
         "url": "https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 261024,
       "name": "Flying High Falling Low",
       "url": "https://open.spotify.com/track/5ompsQEJ93uy0YGCgANzBI"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "Landlady",
-      "url": "https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO"
     },
     {
       "added_at": "2020-12-08 17:53:04",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "Landlady",
+      "url": "https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 257173,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/1qvToOLpOdxoxmEyebs0Wi"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "Songs Of Innocence",
-        "url": "https://open.spotify.com/album/45Ec0wYJ7npo6lXH4GWmxz"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 226763,
-      "name": "Song For Someone",
-      "url": "https://open.spotify.com/track/6PmvNS601Mcd2H0UcqMWb0"
     },
     {
       "added_at": "2022-01-05 10:28:40",

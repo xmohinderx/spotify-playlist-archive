@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-306 songs - 17 hr 38 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
+307 songs - 17 hr 43 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Fin de Semana \- Acústico](https://open.spotify.com/track/0elyc56ZNt08SLbg6m3y0B) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Fin de Semana \(Acústico\)](https://open.spotify.com/album/2sDPTOHNSGI8rNW1dp7LE9) | 2:30 | 2021-12-09 |  |
 | [Flotando \(Acústico\)](https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Flotando \(Acústico\)](https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh) | 4:16 | 2021-12-09 |  |
 | [Fuji](https://open.spotify.com/track/1s1XgeIjN3tyyuduv3VhRU) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Frontera / Fuji](https://open.spotify.com/album/2ZUxEEF8UXDzh0OgEJwylB) | 4:38 | 2021-12-09 | 2022-12-22 |
+| [Fuji](https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Frontera / Fuji](https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr) | 4:38 | 2022-12-30 |  |
 | [gaita zuliana](https://open.spotify.com/track/0BvtrXTAW2Fg9eadf3UVLa) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [gaita zuliana](https://open.spotify.com/album/12Jdu8PKHKS5lq1JKMqBki) | 3:08 | 2021-12-09 |  |
 | [Gameboi](https://open.spotify.com/track/221fy9rovP31zQCzebODNm) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Gameboi](https://open.spotify.com/album/4wigi1XdN1aJZx4T3HCXnv) | 3:46 | 2022-05-14 |  |
 | [Gameboi](https://open.spotify.com/track/6T1N9aCrsS2l3JjxsuQVLt) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Gameboi](https://open.spotify.com/album/1kUBTtTL0GjLBTGWq1GkZd) | 3:46 | 2021-12-09 | 2022-05-05 |
@@ -232,7 +233,7 @@
 | [Pellízquenme](https://open.spotify.com/track/01GkH9n3MLf606vcWddYl9) | [Jafú](https://open.spotify.com/artist/30xVFd5hiy33d6mrczbNzZ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [1995](https://open.spotify.com/album/0PKs87i37uUK6kuDWnWCYg) | 3:23 | 2022-05-14 |  |
 | [Pelo Rojo](https://open.spotify.com/track/0qIMvQqkARENwEmau3CnRW) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Pelo Rojo](https://open.spotify.com/album/2V1QKcqfCa0jzkACA6PcLe) | 3:30 | 2021-12-09 | 2022-07-24 |
 | [Piensa en Mí](https://open.spotify.com/track/5tjWzp9GGEvAlLFRs1X9Gi) | [Cheo](https://open.spotify.com/artist/1WiBb0a97UEVV2Dz4RhJ74), [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Piensa en Mí](https://open.spotify.com/album/5JSMMDCaa0XQLPVNykJQnH) | 2:26 | 2022-04-07 | 2022-04-20 |
-| [Por Ti](https://open.spotify.com/track/1vJg0bCR0zESD3fgUcKnwb) | [Lucía Fernanda](https://open.spotify.com/artist/75xX5rWpgqwJmIPSsCVe9A), [Rocco S](https://open.spotify.com/artist/5SQjmqdfpyXNNsc9aCBrwx) | [Por Ti](https://open.spotify.com/album/6uFCl5fPaP6UmP1cW8nNtQ) | 2:42 | 2021-12-09 |  |
+| [Por Ti](https://open.spotify.com/track/1vJg0bCR0zESD3fgUcKnwb) | [Lucía Fernanda](https://open.spotify.com/artist/75xX5rWpgqwJmIPSsCVe9A), [Rocco S](https://open.spotify.com/artist/5SQjmqdfpyXNNsc9aCBrwx) | [Por Ti](https://open.spotify.com/album/6uFCl5fPaP6UmP1cW8nNtQ) | 2:42 | 2021-12-09 | 2023-01-01 |
 | [Por Verte Llegar](https://open.spotify.com/track/6p6kREqbuJLlZiv86td57b) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Todo Da Vueltas](https://open.spotify.com/album/3japeSKHpX7ialXmToKWhX) | 3:32 | 2021-12-09 | 2022-07-29 |
 | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt) | 2:55 | 2021-12-09 |  |
 | [Péndulo \(feat\. Juan Pablo Vega\)](https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:05 | 2021-12-09 |  |

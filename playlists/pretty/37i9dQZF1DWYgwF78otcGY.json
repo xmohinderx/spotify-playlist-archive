@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 24444,
+  "num_followers": 24471,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDVlYzA0NTMzNjc1ZDVlNmI2ZGViY2JhOWVkYzZhNzI3",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMGM0YjVjZjM2MTY4OGNkNzA2N2ZiYTU5ZTBjYmFmNGIx",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -299,22 +299,18 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "X My Heart",
-        "url": "https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd"
+        "name": "En helt vanlig Svensson",
+        "url": "https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO"
       },
       "artists": [
         {
-          "name": "Jan Johansen",
-          "url": "https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf"
-        },
-        {
-          "name": "Pernilla Wahlgren",
-          "url": "https://open.spotify.com/artist/4tUajUzujJgjYQ6mMbsMRf"
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/4oOULCfbuFxwC1Bv2PSR7F"
         }
       ],
-      "duration_ms": 174733,
-      "name": "Let Your Spirit Fly",
-      "url": "https://open.spotify.com/track/1k8Licv2jaRTbRtAbJZ3In"
+      "duration_ms": 194933,
+      "name": "(Du \u00e4r s\u00e5) Yeah Yeah, Wow Wow",
+      "url": "https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -335,18 +331,22 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "En helt vanlig Svensson",
-        "url": "https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO"
+        "name": "X My Heart",
+        "url": "https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd"
       },
       "artists": [
         {
-          "name": "Martin",
-          "url": "https://open.spotify.com/artist/4oOULCfbuFxwC1Bv2PSR7F"
+          "name": "Jan Johansen",
+          "url": "https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf"
+        },
+        {
+          "name": "Pernilla Wahlgren",
+          "url": "https://open.spotify.com/artist/4tUajUzujJgjYQ6mMbsMRf"
         }
       ],
-      "duration_ms": 194933,
-      "name": "(Du \u00e4r s\u00e5) Yeah Yeah, Wow Wow",
-      "url": "https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio"
+      "duration_ms": 174733,
+      "name": "Let Your Spirit Fly",
+      "url": "https://open.spotify.com/track/1k8Licv2jaRTbRtAbJZ3In"
     },
     {
       "added_at": "2019-02-28 12:57:58",

@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs. Cover: Nat King Cole",
-  "num_followers": 153457,
+  "num_followers": 153816,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM4NzU1MiwwMDAwMDAwMGQ5NDNjZmJiZGExMWM2MTlkNjgzYzFkZmYwNTBmYzcy",
+  "snapshot_id": "MTY3MjM4NzU1MiwwMDAwMDAwMDQ0YmRjMTcyMGZiODQ0NGE1ZmQ4ZDA0M2ZjNDJhOTI0",
   "tracks": [
     {
       "added_at": "2022-12-30 08:05:52",
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-12-30 08:05:52",
       "album": {
+        "name": "Sinatra And Swingin' Brass",
+        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
+    },
+    {
+      "added_at": "2022-12-30 08:05:52",
+      "album": {
         "name": "Ella Fitzgerald Sings The Jerome Kern Songbook",
         "url": "https://open.spotify.com/album/5h4aTZVRSMxo9JzQojpUSx"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 195666,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/5gPetRvxQKyOjjwZX1dzbt"
-    },
-    {
-      "added_at": "2022-12-30 08:05:52",
-      "album": {
-        "name": "Sinatra And Swingin' Brass",
-        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
     },
     {
       "added_at": "2022-12-30 08:05:52",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-12-30 08:05:52",
       "album": {
-        "name": "Julie Is Her Name",
-        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "Can't Help Lovin' That Man",
-      "url": "https://open.spotify.com/track/2qf5Xr89ShgSu1up0xQmLt"
-    },
-    {
-      "added_at": "2022-12-30 08:05:52",
-      "album": {
         "name": "Lush Life",
         "url": "https://open.spotify.com/album/29hewcqIIQfEFYlghRWYD2"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 239266,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/35jMzVgRFxGkSg7N0ZMVTw"
+    },
+    {
+      "added_at": "2022-12-30 08:05:52",
+      "album": {
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "Can't Help Lovin' That Man",
+      "url": "https://open.spotify.com/track/2qf5Xr89ShgSu1up0xQmLt"
     },
     {
       "added_at": "2022-12-30 08:05:52",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-12-30 08:05:52",
       "album": {
-        "name": "I Feel a Song Coming On: Lost Radio Recordings",
-        "url": "https://open.spotify.com/album/3pTvid1kfdxgbJA6GlLj0F"
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
       },
       "artists": [
         {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 167723,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/2ecdYdhDTfQ3P9rGQzFVi5"
+      "duration_ms": 150720,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6"
     },
     {
       "added_at": "2022-12-30 08:05:52",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2022-12-30 08:05:52",
       "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+        "name": "I Feel a Song Coming On: Lost Radio Recordings",
+        "url": "https://open.spotify.com/album/3pTvid1kfdxgbJA6GlLj0F"
       },
       "artists": [
         {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
         }
       ],
-      "duration_ms": 150720,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6"
+      "duration_ms": 167723,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/2ecdYdhDTfQ3P9rGQzFVi5"
     },
     {
       "added_at": "2022-12-30 08:05:52",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-12-30 08:05:52",
       "album": {
-        "name": "Sings The Music Of Cole Porter",
-        "url": "https://open.spotify.com/album/7FyTUyjduHNUKGU1uTbvak"
+        "name": "Unforgettable Songs",
+        "url": "https://open.spotify.com/album/2fQ1l3sqcSzYfB0i6V6v6d"
       },
       "artists": [
         {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 232226,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0iYxYs1kiiStzdaK29yHP2"
+      "duration_ms": 133680,
+      "name": "Our Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4W2LV899ys1sJTTlu40EPh"
     },
     {
       "added_at": "2022-12-30 08:05:52",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2022-12-30 08:05:52",
       "album": {
-        "name": "Unforgettable Songs",
-        "url": "https://open.spotify.com/album/2fQ1l3sqcSzYfB0i6V6v6d"
+        "name": "Sings The Music Of Cole Porter",
+        "url": "https://open.spotify.com/album/7FyTUyjduHNUKGU1uTbvak"
       },
       "artists": [
         {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
         }
       ],
-      "duration_ms": 133680,
-      "name": "Our Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4W2LV899ys1sJTTlu40EPh"
+      "duration_ms": 232226,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0iYxYs1kiiStzdaK29yHP2"
     },
     {
       "added_at": "2022-12-30 08:05:52",

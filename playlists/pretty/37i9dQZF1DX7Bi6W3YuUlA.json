@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
-  "num_followers": 4436,
+  "num_followers": 4451,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc2NzM4OSwwMDAwMDAwMDI4ZmI1NGM3MzRkZGUyZmIwMDIxODQ3Yjg1NDhkMjI5",
+  "snapshot_id": "MTY2ODc2NzM4OSwwMDAwMDAwMGI3ODNjNWJmOGExMDBjYjRlZmVkYTZjNmRjNWQ2Y2Y5",
   "tracks": [
     {
       "added_at": "2022-11-18 10:29:49",
@@ -635,42 +635,6 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "in my head.",
-        "url": "https://open.spotify.com/album/0CyVubSqlA6nLuwwEFEt01"
-      },
-      "artists": [
-        {
-          "name": "tylerhateslife",
-          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "in my head.",
-      "url": "https://open.spotify.com/track/7aGqOgnbBv83EB3zre98FC"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
-        "name": "Any Attack",
-        "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 113051,
-      "name": "Any Attack",
-      "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
         "name": "Respect My Team",
         "url": "https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe"
       },
@@ -695,18 +659,38 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "burn for u",
-        "url": "https://open.spotify.com/album/3G42vqO6lmiKRTiBVVnx1g"
+        "name": "Any Attack",
+        "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
       },
       "artists": [
         {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
         }
       ],
-      "duration_ms": 125566,
-      "name": "burn for u",
-      "url": "https://open.spotify.com/track/08irXCG7gXLeufqcZtT7mh"
+      "duration_ms": 113051,
+      "name": "Any Attack",
+      "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "in my head.",
+        "url": "https://open.spotify.com/album/0CyVubSqlA6nLuwwEFEt01"
+      },
+      "artists": [
+        {
+          "name": "tylerhateslife",
+          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
+        }
+      ],
+      "duration_ms": 203478,
+      "name": "in my head.",
+      "url": "https://open.spotify.com/track/7aGqOgnbBv83EB3zre98FC"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -723,6 +707,22 @@
       "duration_ms": 206560,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/2pOzcg0ID39t34si3387GC"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "burn for u",
+        "url": "https://open.spotify.com/album/3G42vqO6lmiKRTiBVVnx1g"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        }
+      ],
+      "duration_ms": 125566,
+      "name": "burn for u",
+      "url": "https://open.spotify.com/track/08irXCG7gXLeufqcZtT7mh"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "Lord Knows",
-        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 182508,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
         "name": "CATFISH",
         "url": "https://open.spotify.com/album/2a9DwZ7PIgBX9sV956vyID"
       },
@@ -1071,22 +1055,6 @@
       "duration_ms": 168250,
       "name": "CATFISH",
       "url": "https://open.spotify.com/track/6tSD4UimW65YowULzt7eSz"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
-        "name": "Pray for Me",
-        "url": "https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 165532,
-      "name": "Pray for Me",
-      "url": "https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1111,22 +1079,34 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "Thanks In Advance",
-        "url": "https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH"
+        "name": "Pray for Me",
+        "url": "https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H"
       },
       "artists": [
         {
-          "name": "Evan Ford",
-          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
-        },
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
         }
       ],
-      "duration_ms": 141176,
-      "name": "Thanks In Advance",
-      "url": "https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz"
+      "duration_ms": 165532,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "Lord Knows",
+        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 182508,
+      "name": "Lord Knows",
+      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1143,6 +1123,26 @@
       "duration_ms": 144021,
       "name": "It Could Be Worse",
       "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "Thanks In Advance",
+        "url": "https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH"
+      },
+      "artists": [
+        {
+          "name": "Evan Ford",
+          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
+        },
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "Thanks In Advance",
+      "url": "https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "KIDS",
-        "url": "https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh"
-      },
-      "artists": [
-        {
-          "name": "WHATUPRG",
-          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
-        }
-      ],
-      "duration_ms": 133021,
-      "name": "KIDS",
-      "url": "https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
         "name": "Ram in the Bush",
         "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 148754,
       "name": "Ram in the Bush",
       "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "KIDS",
+        "url": "https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh"
+      },
+      "artists": [
+        {
+          "name": "WHATUPRG",
+          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
+        }
+      ],
+      "duration_ms": 133021,
+      "name": "KIDS",
+      "url": "https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "Major Moves",
-        "url": "https://open.spotify.com/album/5oqZoHiDMif50YtaUs5sBz"
-      },
-      "artists": [
-        {
-          "name": "Konata Small",
-          "url": "https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ"
-        }
-      ],
-      "duration_ms": 250285,
-      "name": "Die Empty",
-      "url": "https://open.spotify.com/track/6sHj4isyrw1d5hlgEnvALC"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
         "name": "JUDAS",
         "url": "https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 100587,
       "name": "ICE COLD",
       "url": "https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "Major Moves",
+        "url": "https://open.spotify.com/album/5oqZoHiDMif50YtaUs5sBz"
+      },
+      "artists": [
+        {
+          "name": "Konata Small",
+          "url": "https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ"
+        }
+      ],
+      "duration_ms": 250285,
+      "name": "Die Empty",
+      "url": "https://open.spotify.com/track/6sHj4isyrw1d5hlgEnvALC"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
+        "name": "Ficky Ficky",
+        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 104147,
+      "name": "Ficky Ficky",
+      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
         "name": "BLESSINGS",
         "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
       },
@@ -1631,18 +1647,18 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "Ficky Ficky",
-        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
+        "name": "Nino Brown",
+        "url": "https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6"
       },
       "artists": [
         {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
         }
       ],
-      "duration_ms": 104147,
-      "name": "Ficky Ficky",
-      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
+      "duration_ms": 144093,
+      "name": "Nino Brown",
+      "url": "https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "Nino Brown",
-        "url": "https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 144093,
-      "name": "Nino Brown",
-      "url": "https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
         "name": "A Beautiful Revolution (Pt 1)",
         "url": "https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh"
       },
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
+        "name": "Woosah",
+        "url": "https://open.spotify.com/album/6dHdewGLzf3DS7IzYMQ3lX"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 157753,
+      "name": "Woosah",
+      "url": "https://open.spotify.com/track/0E1kivol5RnT49KmePFnYc"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
         "name": "Chokehold",
         "url": "https://open.spotify.com/album/7FUSpmEDLyQlhvtDT2v5sE"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 134123,
       "name": "Chokehold",
       "url": "https://open.spotify.com/track/4zSSSXwurah8BSvbKlH5vc"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
-        "name": "Woosah",
-        "url": "https://open.spotify.com/album/6dHdewGLzf3DS7IzYMQ3lX"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 157753,
-      "name": "Woosah",
-      "url": "https://open.spotify.com/track/0E1kivol5RnT49KmePFnYc"
     },
     {
       "added_at": "2022-11-18 10:29:49",

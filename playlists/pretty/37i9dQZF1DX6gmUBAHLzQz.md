@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 
 > Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. トップアイドルを目指す少女達の物語、<a href="http://www.aikatsu.net/01/">アイカツ！</a>の煌めく世界へ。\(C\)BNP/BANDAI, DENTSU, TV TOKYO
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,026 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,027 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 46 | [stranger alien](https://open.spotify.com/track/3brEBiNJ2l6bwKRTbRXG0e) | [ふうり・ゆな from STAR☆ANIS](https://open.spotify.com/artist/2ZsTyDZDZtDiAe0gdNrUwb) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 4:42 |
 | 47 | [ひとりじゃない! \- あいね & みお ver.](https://open.spotify.com/track/66ITNhiFXDfXRZh33dWO7p) | [あいね from BEST FRIENDS!](https://open.spotify.com/artist/3V19PPW9AbnRrNHQMmwAw3), [みお from BEST FRIENDS!](https://open.spotify.com/artist/7yCtHmaXb2JMePfcu2Vj67) | [アイカツ!シリーズ 10th Anniversary Album Vol.02「Pure Sweet Harmony」](https://open.spotify.com/album/0s4s4OoWbvfLgiCnp07JAZ) | 4:01 |
 | 48 | [アイドル活動! \- \(Ver\. Rock\)](https://open.spotify.com/track/0yhm2K9LZ1xibh8xGV7DNZ) | [わか・ふうり from STAR☆ANIS](https://open.spotify.com/artist/0PZJ3espREBVEYDIypZoBI) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS5](https://open.spotify.com/album/6IgXVSugxE7VjOSLgqG7hm) | 3:55 |
-| 49 | [放課後ポニーテール](https://open.spotify.com/track/3xiGIhBilgostXej4XQXdm) | [れみ from STAR☆ANIS](https://open.spotify.com/artist/52g1qfRaPKmk3L4CTEH7Ec) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 4:32 |
-| 50 | [Passion flower](https://open.spotify.com/track/0pHogoLzFML9lvNt9djEeX) | [みほ・もな from AIKATSU☆STARS!](https://open.spotify.com/artist/4G8qvuUPtCtS7N5lh8ff6T) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS10](https://open.spotify.com/album/2dfuyEpPYmfXIF5CPerVFn) | 4:38 |
+| 49 | [エメラルドの魔法](https://open.spotify.com/track/1JXAl9MwdtZ7BslRGnha5w) | [もな・るか from AIKATSU☆STARS!](https://open.spotify.com/artist/1LhrSnQQWTEvZ5AhqFUoGc) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS9](https://open.spotify.com/album/32XLP5WOPpnRg24tRlV2Mt) | 4:14 |
+| 50 | [放課後ポニーテール](https://open.spotify.com/track/3xiGIhBilgostXej4XQXdm) | [れみ from STAR☆ANIS](https://open.spotify.com/artist/52g1qfRaPKmk3L4CTEH7Ec) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 4:32 |
 
-Snapshot ID: `MTY1ODg1MjIxNiwwMDAwMDAwMDA2ZWE0YjBlNTdmOGEyODA5ZjRhNDBiYzUxZmEzYTU3`
+Snapshot ID: `MTY1ODg1MjIxNiwwMDAwMDAwMDBmM2JmNGUxZjUwY2M2MmU1MDhmMDAzZTgwY2RjNjIw`

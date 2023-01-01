@@ -4,11 +4,12 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: مُسلِم
 
-282 songs - 16 hr 29 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+283 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [369](https://open.spotify.com/track/2OdI0PsoOfmYDpL82pa70r) | [Bushra](https://open.spotify.com/artist/2X14AwILJGdfg4YoiWOKra) | [369](https://open.spotify.com/album/3e2NSVt6UDn8J4stYPA5eT) | 4:08 | 2022-11-10 |  |
+| [3asal Ya Nas](https://open.spotify.com/track/6N7OyyrRQRMiVaUzDh9RiP) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3asal Ya Nas](https://open.spotify.com/album/4PukzqTnEoXMAd2VwEooNb) | 3:04 | 2022-12-31 |  |
 | [3ian](https://open.spotify.com/track/75s0cYrICLds4ADWnnmfS5) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [3ian](https://open.spotify.com/album/7kzXCUdoekQE4zfFycSa8Z) | 3:29 | 2022-01-20 | 2022-04-08 |
 | [7eneely](https://open.spotify.com/track/0fwo1BAS6r2Ktn2Hl31JDL) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [7eneely](https://open.spotify.com/album/1bqyHkdwTZYoxJYPaCoaqC) | 2:21 | 2022-08-22 | 2022-11-11 |
 | [A'al Hady](https://open.spotify.com/track/5A0UZewaFMomZezPF9ueqS) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [A'al Hady](https://open.spotify.com/album/7yrfJY21d4aleDkGyiTHsz) | 3:13 | 2022-08-23 | 2022-11-18 |
@@ -44,7 +45,7 @@
 | [B3edt](https://open.spotify.com/track/0eMjsK29gmH9QwuPXoVQtG) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [B3edt](https://open.spotify.com/album/4HATYluFrW4xQFt6pLMlbR) | 2:04 | 2022-04-28 | 2022-08-09 |
 | [Ba2eit Ghareeb](https://open.spotify.com/track/4h6PHa9gi5gH35AP4Pll1u) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [Ba2eit Ghareeb](https://open.spotify.com/album/1mlnwGPLhtTHhYGI1mpmkG) | 3:18 | 2022-11-24 |  |
 | [Ba3d Fatra](https://open.spotify.com/track/6NpgIEuoXTpUz68mVPk1Ty) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Ba3d Fatra](https://open.spotify.com/album/5fyH1zkFx6QNiypRw1hm5a) | 3:15 | 2022-07-20 | 2022-10-14 |
-| [Ba3ona](https://open.spotify.com/track/3cTHKSIx90nhqaW1BnxpuM) | [Ahmed Elshobokshy](https://open.spotify.com/artist/5hXVuAmFV4ql8M4BmIZBmP), [Bloka](https://open.spotify.com/artist/1iGaZoy10Y66Q7S5HcEoLp) | [Ba3ona](https://open.spotify.com/album/5qmayXOO5eminy7h12pLZ7) | 2:57 | 2022-10-10 |  |
+| [Ba3ona](https://open.spotify.com/track/3cTHKSIx90nhqaW1BnxpuM) | [Ahmed Elshobokshy](https://open.spotify.com/artist/5hXVuAmFV4ql8M4BmIZBmP), [Bloka](https://open.spotify.com/artist/1iGaZoy10Y66Q7S5HcEoLp) | [Ba3ona](https://open.spotify.com/album/5qmayXOO5eminy7h12pLZ7) | 2:57 | 2022-10-10 | 2023-01-01 |
 | [BALALEEN](https://open.spotify.com/track/1K6ekZzDLpket1RXwLb7t4) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [shendy](https://open.spotify.com/artist/7ANuJkzC0NE6lAK5itx0Dx) | [Balaleen](https://open.spotify.com/album/37UynY0uK4f0M9tRKcfubi) | 2:48 | 2022-06-02 | 2022-08-24 |
 | [Banady 3alek](https://open.spotify.com/track/61sfLiMRUTWLCpsKfbf0Jy) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Banady 3alek](https://open.spotify.com/album/5fwF3SwuQicnvFxYGBPbNt) | 4:09 | 2022-03-03 | 2022-06-29 |
 | [Baseeb El Donia](https://open.spotify.com/track/441kvK0iZMdhGy2peaAaqC) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Baseeb El Donia](https://open.spotify.com/album/3HDTqcv00LpIwQEys88c0Z) | 3:21 | 2022-06-02 | 2022-08-24 |

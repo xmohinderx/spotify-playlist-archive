@@ -2559,10 +2559,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 200888,
       "name": "Take The Risk",
       "url": "https://open.spotify.com/track/4sK7NBL0YVl9fTHrVAYaNi"
+    },
+    {
+      "album": {
+        "name": "Take The Risk",
+        "url": "https://open.spotify.com/album/3xmYrVJwdA922UfaEbiWGW"
+      },
+      "artists": [
+        {
+          "name": "OB",
+          "url": "https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200888,
+      "name": "Take The Risk",
+      "url": "https://open.spotify.com/track/6PrlW3ixvblqC6gLCDMAOH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\.  Cover: ATEEZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,149 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,150 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 29 | [Buddy](https://open.spotify.com/track/5GZp8q9eZ9qn0TSwAayT1o) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Buddy](https://open.spotify.com/album/6FKcmAZd12976GvGnPIyMS) | 1:57 |
 | 30 | [Torpedo](https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Torpedo](https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t) | 4:00 |
 | 31 | [First Of The Year](https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [First Of The Year](https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86) | 2:50 |
-| 32 | [Modest](https://open.spotify.com/track/7MXChMwOQfLuF5Ma5nFDaO) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [why not us](https://open.spotify.com/album/4Ivk5W6s5LtR5klO5u98Ry) | 3:02 |
+| 32 | [Modest](https://open.spotify.com/track/7MXChMwOQfLuF5Ma5nFDaO) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu), [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG) | [why not us?](https://open.spotify.com/album/4Ivk5W6s5LtR5klO5u98Ry) | 3:02 |
 | 33 | [Romantic Pt\. II](https://open.spotify.com/track/1GM7j1nwUstl4cNoiYZOsg) | [ZUHAIR](https://open.spotify.com/artist/3uaX4vj7m3bkWhcY9xooJ6), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Romantic Pt\. II](https://open.spotify.com/album/4sj9tPkP7qKwKzaxRdaOKz) | 2:42 |
 | 34 | [I Wanna Be with You](https://open.spotify.com/track/48UdFbDtRRYSvk0L8GCZyC) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [I Wanna Be with You](https://open.spotify.com/album/7ATki1nJUJkaG7rpnVBJJy) | 3:02 |
 | 35 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 3:53 |

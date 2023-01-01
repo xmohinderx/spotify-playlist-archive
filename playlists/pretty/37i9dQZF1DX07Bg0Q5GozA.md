@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > <a href="spotify:artist:4AQrqVz6BYwy29iMxcGtx7">Roosevelt</a>  is taking over the playlist with a New Year's Eve party set!
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,574 likes - 75 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,298 likes - 75 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

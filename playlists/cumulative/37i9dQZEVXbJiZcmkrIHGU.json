@@ -14343,7 +14343,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 165800,
       "name": "Kernkraft 400 (A Better Day)",
       "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
@@ -20201,7 +20201,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 192506,
       "name": "Nur f\u00fcr Dich",
       "url": "https://open.spotify.com/track/7y2CanQNBGTd7EVJy80hLC"
@@ -22592,6 +22592,28 @@
     },
     {
       "album": {
+        "name": "RHYTHM OF MY LIFE",
+        "url": "https://open.spotify.com/album/53FiVbWLsZqRlBEVa7EsG4"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118328,
+      "name": "RHYTHM OF MY LIFE",
+      "url": "https://open.spotify.com/track/7JA1uUtLhPQjRBAIR0GPfW"
+    },
+    {
+      "album": {
         "name": "Riba",
         "url": "https://open.spotify.com/album/6V80YarHDHc4FRYEuis31m"
       },
@@ -22633,7 +22655,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
@@ -24711,7 +24733,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 173423,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/6kvW6EI5UuqCmlp7L7HD9O"
@@ -28139,6 +28161,28 @@
       "duration_ms": 164801,
       "name": "Vigilante Shit",
       "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
+    },
+    {
+      "album": {
+        "name": "VIJA VIJA",
+        "url": "https://open.spotify.com/album/5kgFnxgr9spGsh6EJzMZpT"
+      },
+      "artists": [
+        {
+          "name": "DJ Gimi-O",
+          "url": "https://open.spotify.com/artist/5lU3mLIonARnLpRtp5f77M"
+        },
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153773,
+      "name": "VIJA VIJA",
+      "url": "https://open.spotify.com/track/1VcHYhlqqEDdN2D2sumdWo"
     },
     {
       "album": {

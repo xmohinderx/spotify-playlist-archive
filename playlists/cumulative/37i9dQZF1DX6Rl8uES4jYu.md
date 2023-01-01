@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-335 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/6m1PHyWl3TleEAbVrZjEhd)
+336 songs - 19 hr 5 min - [published](https://open.spotify.com/playlist/6m1PHyWl3TleEAbVrZjEhd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Don't Trip](https://open.spotify.com/track/1fWJ5Q2o5XJDO7aaoEEln3) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Don't Trip](https://open.spotify.com/album/6bncnRFItEWzbdaXwurKhe) | 3:00 | 2022-04-15 | 2022-07-29 |
 | [Don’t Care](https://open.spotify.com/track/327XHz25Jg8Ib5O3qcYdGU) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Quality Over Opinion](https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7) | 5:22 | 2022-10-14 |  |
 | [Dynamite](https://open.spotify.com/track/5J4CkTyZitaJ0L0X5kSoJr) | [Jackson Breit](https://open.spotify.com/artist/4Y6wyjvVZtxzzXILoDEulZ), [Carneyval](https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ), [Alex Ghenea](https://open.spotify.com/artist/1mGISDumAyOoK6epKA8gq1) | [Dynamite](https://open.spotify.com/album/33lLqNPDlSDWWbnEFFPgja) | 2:56 | 2021-09-21 | 2022-06-15 |
-| [Earworm](https://open.spotify.com/track/6rp0Q5ptNjERiSPe4yATSl) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Earworm](https://open.spotify.com/album/0GBVpcsUU2nzeOLHQ0sirl) | 2:24 | 2022-12-02 |  |
+| [Earworm](https://open.spotify.com/track/3cc1BbtqEBbmBvXcmqdwBa) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:24 | 2022-12-02 |  |
+| [Earworm](https://open.spotify.com/track/6rp0Q5ptNjERiSPe4yATSl) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Earworm](https://open.spotify.com/album/0GBVpcsUU2nzeOLHQ0sirl) | 2:24 | 2022-12-02 | 2023-01-01 |
 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2022-04-22 |  |
 | [Easy](https://open.spotify.com/track/2ipglkB6dSUbv9yePOI5r9) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Who?](https://open.spotify.com/album/0B6zhl08QLXwQg2eBXofCx) | 2:58 | 2022-04-22 | 2022-07-29 |
 | [Electric](https://open.spotify.com/track/1ixBWXSofFhf5Oa9GdoF4O) | [Madison Watkins](https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT) | [Electric](https://open.spotify.com/album/6lSKp6TouQtfZAduv7gLaj) | 2:53 | 2022-09-02 | 2022-09-10 |

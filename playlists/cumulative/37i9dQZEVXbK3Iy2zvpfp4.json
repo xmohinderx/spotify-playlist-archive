@@ -1429,7 +1429,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
@@ -3187,7 +3187,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
@@ -3739,6 +3739,24 @@
       "duration_ms": 196162,
       "name": "Gin",
       "url": "https://open.spotify.com/track/2sDjhPlr7bLi7teo8o9CaP"
+    },
+    {
+      "album": {
+        "name": "Give It To Me (TikTok) (Remix)",
+        "url": "https://open.spotify.com/album/5TFGWVkpLUO22vriADgKLo"
+      },
+      "artists": [
+        {
+          "name": "Splice Records",
+          "url": "https://open.spotify.com/artist/2ZADLHKIfy45s3KdoA6Jn5"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172160,
+      "name": "Give It To Me (TikTok) - Remix",
+      "url": "https://open.spotify.com/track/2RQOyTK7GG9HQMruQXS7wP"
     },
     {
       "album": {
@@ -4993,7 +5011,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 283493,
       "name": "J\u2019comprends pas",
       "url": "https://open.spotify.com/track/1CxtymiucDK0AB9vgGZ6q2"
@@ -6590,7 +6608,7 @@
     },
     {
       "album": {
-        "name": "\u0422\u044b \u0438 \u042f (TikTok Remix)",
+        "name": "My Love",
         "url": "https://open.spotify.com/album/1Tjp6BgHLP9edVLtp8Ze59"
       },
       "artists": [
@@ -6659,7 +6677,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 226932,
       "name": "My Swisher Sweet, But My Sig Sauer",
       "url": "https://open.spotify.com/track/1xIibyoUvyxwoNqx8quHSz"
@@ -8039,7 +8057,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 178912,
       "name": "Polozhenie (Night Lovell)",
       "url": "https://open.spotify.com/track/1QiuOoj2J7JzPqRID19mVQ"
@@ -8331,7 +8349,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 235555,
       "name": "Ramenez la coupe \u00e0 la maison",
       "url": "https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m"
@@ -8853,7 +8871,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 133846,
       "name": "Se Voce Nao Quer Passa a Vez",
       "url": "https://open.spotify.com/track/7snnTlaWaN39nfN1PhUaT8"
@@ -10925,7 +10943,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
@@ -11177,7 +11195,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 188695,
       "name": "V\u0161ade",
       "url": "https://open.spotify.com/track/52Ti1NmPqg616YOG6vHqb0"
@@ -11271,7 +11289,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 120428,
       "name": "WASTE",
       "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
@@ -11517,7 +11535,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 273499,
       "name": "Wild Flower (with youjeen)",
       "url": "https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF"

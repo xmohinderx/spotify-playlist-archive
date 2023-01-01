@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האמנית הישראליות שהאזנו להן בפול ווליום ב\-2022\. קאבר: נונו
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,322 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,347 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 40 | [Lost Love](https://open.spotify.com/track/0Ve71xgj2V425wVyLQ0G1Y) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Lost Love](https://open.spotify.com/album/55mRI2DFGTWBFWWPlxkadC) | 3:40 |
 | 41 | [הארץ המובטחת](https://open.spotify.com/track/2pEgCKfTEcOcl0Fw96jVex) | [Aya Zahavi Feiglin](https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2) | [הארץ המובטחת](https://open.spotify.com/album/4dfrLoP4ewNRQPLbpyGpZo) | 4:13 |
 | 42 | [כמו שאני](https://open.spotify.com/track/63dUCpX5wpsCsEZ83C1aUi) | [Maya Dadon](https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG) | [חוץ ממך](https://open.spotify.com/album/4P8ClljYc0ABC9cDVJAxHF) | 3:22 |
-| 43 | [תנשום](https://open.spotify.com/track/5DOhmogkcBGrS8CDZk2Nzh) | [Nasrin Kadri](https://open.spotify.com/artist/6kKweapGufuHSv5CXVURim), [Eden Daniel Gabay](https://open.spotify.com/artist/5LzEiWU95pAzkx7wXQu3So) | [תנשום](https://open.spotify.com/album/6W2kLsIvhNqxDJq4nkDfgI) | 2:19 |
+| 43 | [תנשום](https://open.spotify.com/track/5mTIOVKg2fi8noMDI08yoF) | [Nasrin Kadri](https://open.spotify.com/artist/6kKweapGufuHSv5CXVURim), [Eden Daniel Gabay](https://open.spotify.com/artist/5LzEiWU95pAzkx7wXQu3So) | [תנשום](https://open.spotify.com/album/6H9UpQUorpiYMzDBH50mjc) | 2:19 |
 | 44 | [שוב אני נשברת](https://open.spotify.com/track/6Ojfi0IzZmhLMiB2vlQFw5) | [הגר יפת](https://open.spotify.com/artist/0yuzd9F7msg9MS8MTzQOmy) | [שוב אני נשברת](https://open.spotify.com/album/4s7kjM04yER66jhUtg5LT5) | 3:16 |
 | 45 | [אבא](https://open.spotify.com/track/0yaSrsHZHXZFBoTtz7XO1p) | [Dikla](https://open.spotify.com/artist/02XPYZHiiXvgdluCi3Esxg) | [אבא](https://open.spotify.com/album/1ew1zAoIFHlgGiu5Cpmkd0) | 2:58 |
 | 46 | [לבה](https://open.spotify.com/track/5eRLUDkuZmM81JdB6xjGeV) | [Coral Bismuth](https://open.spotify.com/artist/4HHSTY3bNxoprZF3vJ8gLE) | [שירי רחוב](https://open.spotify.com/album/6w7zgx1vayDs9nstbNXAY4) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 49 | [Life](https://open.spotify.com/track/6yMbbEPCNZKoF4pCBcWaB1) | [Mika Sade](https://open.spotify.com/artist/0kROWsDsrudeisdMchbraW) | [Life](https://open.spotify.com/album/0LCNicVq6K4AwT8fOrMKRv) | 2:50 |
 | 50 | [שרק תחייך](https://open.spotify.com/track/7vn9SIc4NraLuIMzUeCK2o) | [Yuval Dayan](https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA) | [שרק תחייך](https://open.spotify.com/album/07tEZylbG1KjXkvzsRnLqb) | 3:16 |
 
-Snapshot ID: `MTY2OTgxMjMwMSwwMDAwMDAwMDUxNzhhODVhZGY1Njg1NzUwYjEzNmE3ZDk3ODk4YmIy`
+Snapshot ID: `MTY2OTgxMjMwMSwwMDAwMDAwMDc0MjUwYmJhYjk0OWEwMWY4OGJhZGY3NzYzZjI3MDQ1`

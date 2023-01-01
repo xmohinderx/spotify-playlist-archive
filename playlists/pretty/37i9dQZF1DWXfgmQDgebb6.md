@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Miso\(미소\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,901 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,916 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 35 | [Even When I Smile](https://open.spotify.com/track/48QPNybu3JkiUfCwG11Moq) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Even When I Smile](https://open.spotify.com/album/7n8sQzaxWJdHZJtpMrPTsE) | 3:36 |
 | 36 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 |
 | 37 | [yayou hoi](https://open.spotify.com/track/72uerGsS3eLO72OU4fZLjj) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [yayou hoi](https://open.spotify.com/album/1tnFNHePi4sCzUWPXSRFrD) | 3:08 |
-| 38 | [Muse](https://open.spotify.com/track/4mt7tW8sKu4Ns0yMIVsrIn) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 2:55 |
-| 39 | [Rehab](https://open.spotify.com/track/4Uuw8zkh8pesHx3FaEDNQo) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [Rehab](https://open.spotify.com/album/7shV9Ltl8Cd7yjQgARX6J6) | 3:05 |
+| 38 | [Rehab](https://open.spotify.com/track/4Uuw8zkh8pesHx3FaEDNQo) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [Rehab](https://open.spotify.com/album/7shV9Ltl8Cd7yjQgARX6J6) | 3:05 |
+| 39 | [Muse](https://open.spotify.com/track/4mt7tW8sKu4Ns0yMIVsrIn) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 2:55 |
 | 40 | [HUGS](https://open.spotify.com/track/583rLTKKTkwEuCj0Gri6RP) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [HUGS](https://open.spotify.com/album/6xnmgnvEcwAHXYQpVw7yRl) | 3:44 |
 | 41 | [Golden Mulan](https://open.spotify.com/track/3TyqYJXhWkEhSsewdc0XEF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [SPACE TALK](https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1) | 1:48 |
 | 42 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
-| 43 | [New](https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [CINEMA](https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx) | 3:02 |
-| 44 | [Fish](https://open.spotify.com/track/2j0KG4o1xokrWOzKUyUkSh) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:00 |
+| 43 | [Fish](https://open.spotify.com/track/2j0KG4o1xokrWOzKUyUkSh) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:00 |
+| 44 | [New](https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [CINEMA](https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx) | 3:02 |
 | 45 | [khalifa \(feat\. Young B\)](https://open.spotify.com/track/5mx7sc6BpA9Laq011CirUX) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Jazzy Moon](https://open.spotify.com/artist/3S9b8WTUFIMJy2nFgU6a3x), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [fxxk u](https://open.spotify.com/album/7LV5SIBe5THK0xdfYOvLYh) | 4:49 |
-| 46 | [redify](https://open.spotify.com/track/06uxQr4WOTGeeIYT0JLenZ) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [redify](https://open.spotify.com/album/3wPQLCMUHmLMWl7E7Jmlhi) | 2:28 |
-| 47 | [Bright \(feat\. sogumm & BewhY\)](https://open.spotify.com/track/0VqsjJaNYLTYi1WOGvUNN6) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Bright \(feat\. sogumm & BewhY\)](https://open.spotify.com/album/4HBgkLANnwyEfDO19oY7SJ) | 3:33 |
+| 46 | [Bright \(feat\. sogumm & BewhY\)](https://open.spotify.com/track/0VqsjJaNYLTYi1WOGvUNN6) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Bright \(feat\. sogumm & BewhY\)](https://open.spotify.com/album/4HBgkLANnwyEfDO19oY7SJ) | 3:33 |
+| 47 | [redify](https://open.spotify.com/track/06uxQr4WOTGeeIYT0JLenZ) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [redify](https://open.spotify.com/album/3wPQLCMUHmLMWl7E7Jmlhi) | 2:28 |
 | 48 | [OUTGROWN](https://open.spotify.com/track/6qNFeGOQt4gj57V4B2b6WW) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 4:16 |
 | 49 | [Fake LoVe \(feat\. Claire Hau\)](https://open.spotify.com/track/24BJ7cqVoBLXFfIe7R9X1W) | [ruask](https://open.spotify.com/artist/24VMMQuEZ0nt3KTTaM6CTQ), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Fake LoVe](https://open.spotify.com/album/1l1wS8OLuIasXzMZwDcKxk) | 2:45 |
 | 50 | [GGOOM \(feat\. Jvcki Wai\)](https://open.spotify.com/track/5A5BNPzrLuPZROBKVS03GL) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [SPACE TALK](https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1) | 2:39 |
 
-Snapshot ID: `MTY3MTQyNjIzMywwMDAwMDAwMDVjNDZiNzM4MDIyOGNkZTI2ODFmMjRlYWE4NDBiNmYz`
+Snapshot ID: `MTY3MTQyNjIzMywwMDAwMDAwMDFmZWU2YTk0OGFjNjE5NTNlOTc5Y2Y5OWZmNGZlZmI0`

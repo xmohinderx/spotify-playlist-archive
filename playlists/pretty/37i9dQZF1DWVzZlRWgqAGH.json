@@ -1,12 +1,12 @@
 {
   "description": "\ud83e\uddc8 Smooth joints. Cover: Masego",
-  "num_followers": 766516,
+  "num_followers": 766739,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM3NjQwMCwwMDAwMDAwMDZlYjczNTEzYmI5Mjg2ZWNkZDRkNDI4MTk1ZTczMjUy",
+  "snapshot_id": "MTY3MjM3NjQwMCwwMDAwMDAwMDUyM2FlNjFjMTQ4ZmZkOWJiMWIwOWM5N2FlNjgyMzUx",
   "tracks": [
     {
       "added_at": "2022-12-30 05:00:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Therapy pt. 2 [Feat. Mac Miller]",
-        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 202225,
-      "name": "Therapy pt. 2 [Feat. Mac Miller]",
-      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 203240,
       "name": "Hu Man",
       "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Summer Madness",
-        "url": "https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 201917,
-      "name": "Summer Madness",
-      "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "So Sunshine",
         "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 136007,
       "name": "So",
       "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Summer Madness",
+        "url": "https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 201917,
+      "name": "Summer Madness",
+      "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1187,26 +1187,18 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "The Seed",
-        "url": "https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE"
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/1Ez1yDVUqoT3HuUtiZuThL"
       },
       "artists": [
         {
-          "name": "Aron",
-          "url": "https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr"
-        },
-        {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        },
-        {
-          "name": "Quintin Gulledge",
-          "url": "https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf"
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
         }
       ],
-      "duration_ms": 312341,
-      "name": "Soul Caliber",
-      "url": "https://open.spotify.com/track/5F6RAwXNcvQ8Y42YzP4ppU"
+      "duration_ms": 154768,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1247,18 +1239,26 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Problems",
-        "url": "https://open.spotify.com/album/1Ez1yDVUqoT3HuUtiZuThL"
+        "name": "The Seed",
+        "url": "https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE"
       },
       "artists": [
         {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+          "name": "Aron",
+          "url": "https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr"
+        },
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        },
+        {
+          "name": "Quintin Gulledge",
+          "url": "https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf"
         }
       ],
-      "duration_ms": 154768,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX"
+      "duration_ms": 312341,
+      "name": "Soul Caliber",
+      "url": "https://open.spotify.com/track/5F6RAwXNcvQ8Y42YzP4ppU"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "LET IT RAIN EP",
-        "url": "https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D"
+        "name": "She Loves Me",
+        "url": "https://open.spotify.com/album/5GH9G6VBA5d291GurowMvb"
       },
       "artists": [
         {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
         }
       ],
-      "duration_ms": 203064,
-      "name": "TEARS OF JOY",
-      "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
+      "duration_ms": 205986,
+      "name": "She Loves Me",
+      "url": "https://open.spotify.com/track/0p2GBILactIaeRXc4LTyRf"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "She Loves Me",
-        "url": "https://open.spotify.com/album/5GH9G6VBA5d291GurowMvb"
+        "name": "LET IT RAIN EP",
+        "url": "https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D"
       },
       "artists": [
         {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
         }
       ],
-      "duration_ms": 205986,
-      "name": "She Loves Me",
-      "url": "https://open.spotify.com/track/0p2GBILactIaeRXc4LTyRf"
+      "duration_ms": 203064,
+      "name": "TEARS OF JOY",
+      "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
+        "name": "Dos Uvas",
+        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Dos Uvas",
+      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
         "name": "Shout Out! To Freedom...",
         "url": "https://open.spotify.com/album/58jh2fv0ZWkGTNzQ1O7Tsq"
       },
@@ -1615,18 +1631,22 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Dos Uvas",
-        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
+        "name": "Grey Doubt",
+        "url": "https://open.spotify.com/album/3UTSxCYSRe6B9MO2EtHMHW"
       },
       "artists": [
         {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+          "name": "The Colours That Rise",
+          "url": "https://open.spotify.com/artist/3DQd0TSC3qhevX7nb00xCV"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 209280,
-      "name": "Dos Uvas",
-      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
+      "duration_ms": 204005,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/0PWtb8aCf6vVudatSVUSst"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1647,26 +1667,6 @@
       "duration_ms": 188200,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "Grey Doubt",
-        "url": "https://open.spotify.com/album/3UTSxCYSRe6B9MO2EtHMHW"
-      },
-      "artists": [
-        {
-          "name": "The Colours That Rise",
-          "url": "https://open.spotify.com/artist/3DQd0TSC3qhevX7nb00xCV"
-        },
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 204005,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/0PWtb8aCf6vVudatSVUSst"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "5 Minutes",
-        "url": "https://open.spotify.com/album/50m0nBNNmLRfgF9DXtUSeL"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "5 Minutes",
-      "url": "https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "Groove",
         "url": "https://open.spotify.com/album/6afCdV55pGn89LiZkplhGY"
       },
@@ -1755,6 +1739,22 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
+        "name": "5 Minutes",
+        "url": "https://open.spotify.com/album/50m0nBNNmLRfgF9DXtUSeL"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "5 Minutes",
+      "url": "https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
         "name": "My Sunrise",
         "url": "https://open.spotify.com/album/41DDrrOZ4v37TFAyXNgaf6"
       },
@@ -1767,6 +1767,22 @@
       "duration_ms": 189333,
       "name": "My Sunrise",
       "url": "https://open.spotify.com/track/5YNqZH6TOzS2DkqxLKbwQT"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "At First Light",
+        "url": "https://open.spotify.com/album/79tpuDKAhZgKTwv2OE6kPM"
+      },
+      "artists": [
+        {
+          "name": "Lynda Dawn",
+          "url": "https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM"
+        }
+      ],
+      "duration_ms": 217089,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/4hPWChBkg8QvI1kTTkEO08"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1787,18 +1803,22 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "At First Light",
-        "url": "https://open.spotify.com/album/79tpuDKAhZgKTwv2OE6kPM"
+        "name": "GEEKIN'",
+        "url": "https://open.spotify.com/album/4QynZKICiI8JjZZAScjJBx"
       },
       "artists": [
         {
-          "name": "Lynda Dawn",
-          "url": "https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM"
+          "name": "MIA GLADSTONE",
+          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
+        },
+        {
+          "name": "Ciscero",
+          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
         }
       ],
-      "duration_ms": 217089,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/4hPWChBkg8QvI1kTTkEO08"
+      "duration_ms": 157921,
+      "name": "GEEKIN",
+      "url": "https://open.spotify.com/track/7kKjzWv2H6qnNDKJuerf1e"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1879,26 +1899,6 @@
       "duration_ms": 177653,
       "name": "No Reply",
       "url": "https://open.spotify.com/track/3K7WdPYz7vcHMCsyBjK9vL"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "Law of Automata: Valid",
-        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
-      },
-      "artists": [
-        {
-          "name": "High Klassified",
-          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "3 Words (feat. Leven Kali)",
-      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
     }
   ],
   "unique_name": "BUTTER",

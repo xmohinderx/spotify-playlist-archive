@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-629 songs - 1 day 14 hr 46 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
+630 songs - 1 day 14 hr 50 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Cold Water](https://open.spotify.com/track/4esmMZzUcSw6cgd8WbSOgi) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Kyle Nachtigal](https://open.spotify.com/artist/55dWGlPHFYuBbQYZQlSaKY) | [Cold Water](https://open.spotify.com/album/0MVvWDGTxhdNV1KcwmUoyO) | 3:01 | 2022-06-10 |  |
 | [Color of the Blues \(feat\. Susan Tedeschi\)](https://open.spotify.com/track/3PD8oSUFfmtPTz7Xm5uTN4) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Color of the Blues \(feat\. Susan Tedeschi\)](https://open.spotify.com/album/0nlgiEuFFxXlc5vlDL3gr0) | 2:54 | 2022-06-10 | 2022-06-15 |
 | [Come As You Are](https://open.spotify.com/track/2BPmo2L5bYVS5SmpOTcfyF) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Come As You Are](https://open.spotify.com/album/4375fZFM49wOvF4BvU1jfv) | 2:45 | 2021-10-20 |  |
+| [Come Together](https://open.spotify.com/track/6FfE10CNarokEyIGxWhz2g) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pandora's Box](https://open.spotify.com/album/2nnVKqFPutI1hZpBPf20X6) | 3:44 | 2022-06-10 |  |
 | [Come Together](https://open.spotify.com/track/5OkZtvqYLkgy5ri5Ms6WBz) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith's Greatest Hits](https://open.spotify.com/album/6IXRrteQyjBXc40XlIhnD3) | 3:44 | 2022-06-10 | 2022-12-11 |
 | [Complicated](https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Complicated](https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ) | 3:09 | 2022-06-10 |  |
 | [Cotton Eye Joe](https://open.spotify.com/track/4rCRwhChsap3aLxRQQ5jgh) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Covers, Ch\. 1](https://open.spotify.com/album/1rrhJksiU70SoQKseCPYn5) | 2:39 | 2021-10-20 | 2022-07-27 |
@@ -207,7 +208,7 @@
 | [From Me To You](https://open.spotify.com/track/4XyrKa4r49DjoF9qeaueFw) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/7kLwwQ9CM82o3IZ5K9pNRQ) | 1:57 | 2021-10-20 | 2022-07-29 |
 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 | 2022-06-10 |  |
 | [Gentle on My Mind](https://open.spotify.com/track/4TOuD1BPV4WJ4JM0Qt1kDq) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Shine A Light: Field Recordings from the Great American Railroad](https://open.spotify.com/album/1M6N0Ejr1EUcRXhDT5Jtw6) | 3:39 | 2021-10-20 | 2022-07-29 |
-| [Gentle on My Mind](https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Shine a Light: Field Recordings from the Great American Railroad](https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz) | 3:39 | 2022-06-10 |  |
+| [Gentle on My Mind](https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Shine a Light: Field Recordings from the Great American Railroad](https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz) | 3:39 | 2022-06-10 | 2023-01-01 |
 | [Gentle on My Mind](https://open.spotify.com/track/2nX2TPYt4QOuRdCfbPFq9o) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE), [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Dear John](https://open.spotify.com/album/5tRGxNTSlav2KGfMrRN1L6) | 5:52 | 2021-10-20 | 2022-07-13 |
 | [Get the Party Started](https://open.spotify.com/track/3LlgsIbOqTtprc126KZamL) | [Damien Rice & Lisa Hannigan](https://open.spotify.com/artist/2MpJlnK5inYLCJNGOrg9zL) | [Even Better Than The Real Thing Vol\. 1](https://open.spotify.com/album/6ktSxmIxQ4G7uKevdk3DPG) | 3:08 | 2021-10-20 | 2022-07-15 |
 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 | 2021-10-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,025 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,383 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 13 | [Fearless](https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Fearless](https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72) | 2:20 |
 | 14 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 |
 | 15 | [Fire](https://open.spotify.com/track/31OGLSOWrnr6ufgKHq23Sl) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Matisse](https://open.spotify.com/artist/23htNRZZo1AaSgRb8ZULJV) | [Fire](https://open.spotify.com/album/53PK2MPBcD2Z3umLA3DhX3) | 4:20 |
-| 16 | [Children](https://open.spotify.com/track/1K6gyNdEjiap8P5IBELG6t) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Children](https://open.spotify.com/album/3VHyFwqhGMqx4BlQ3fmchL) | 3:24 |
-| 17 | [Keep Crashing](https://open.spotify.com/track/3w752Se1mkiTtMqAeoli1y) | [Ruzer](https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq) | [Keep Crashing](https://open.spotify.com/album/4tjTuXsc7Icjn6hg9JZyOg) | 2:58 |
+| 16 | [Keep Crashing](https://open.spotify.com/track/3w752Se1mkiTtMqAeoli1y) | [Ruzer](https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq) | [Keep Crashing](https://open.spotify.com/album/4tjTuXsc7Icjn6hg9JZyOg) | 2:58 |
+| 17 | [Children](https://open.spotify.com/track/1K6gyNdEjiap8P5IBELG6t) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Children](https://open.spotify.com/album/3VHyFwqhGMqx4BlQ3fmchL) | 3:24 |
 | 18 | [Dreams](https://open.spotify.com/track/7HOeuULGsJMkZ20gZlrMZr) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm) | [Dreams](https://open.spotify.com/album/1RccSdAkSfnHnNLC05Z7xi) | 3:08 |
 | 19 | [Holding On](https://open.spotify.com/track/4iBXsLZwRBV2qwiz29s5by) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn) | [Holding On](https://open.spotify.com/album/4KLxuKqdInrzo8HEPGUgTo) | 2:44 |
 | 20 | [Lions \- VIP](https://open.spotify.com/track/5nDxkmW3YrWh6KfSMXcIKQ) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Lions \(VIP\)](https://open.spotify.com/album/11yUbbKozNofq5fixsJnPh) | 4:39 |
-| 21 | [where r u](https://open.spotify.com/track/6OiOs0sxOk3vxuEjFBwAhn) | [Kill Paris](https://open.spotify.com/artist/6BNaPZdAIZAJnbgJRiZz2w) | [where r u](https://open.spotify.com/album/2F2609uOxkhgnd6OysbbU4) | 3:14 |
-| 22 | [Open Spaces](https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Open Spaces](https://open.spotify.com/album/7mBvMl2VpFS77P9nfY3gUt) | 3:26 |
+| 21 | [Open Spaces](https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Open Spaces](https://open.spotify.com/album/7mBvMl2VpFS77P9nfY3gUt) | 3:26 |
+| 22 | [where r u](https://open.spotify.com/track/6OiOs0sxOk3vxuEjFBwAhn) | [Kill Paris](https://open.spotify.com/artist/6BNaPZdAIZAJnbgJRiZz2w) | [where r u](https://open.spotify.com/album/2F2609uOxkhgnd6OysbbU4) | 3:14 |
 | 23 | [Keep Up The Pace](https://open.spotify.com/track/359dqboVug8CoRUE8WNVGf) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Keep Up The Pace](https://open.spotify.com/album/5ZQxUv5wcWLpobKa9lIPc4) | 3:12 |
 | 24 | [Change Us](https://open.spotify.com/track/6SfsL6v65hiJwS0clxWsw5) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Jack Dawson](https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx) | [Change Us](https://open.spotify.com/album/2aHsYsKRe868FXbHlo9WZu) | 2:51 |
 | 25 | [Rain God](https://open.spotify.com/track/7prqZ9Le5L0z6DRYcnhghP) | [Dawn Wall](https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO) | [Rain God](https://open.spotify.com/album/58VdvkSadgJzRY7CX9qj1Y) | 4:27 |
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 30 | [Feel Alive](https://open.spotify.com/track/40w9Ww6zBhxQ7WZz2owEwX) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Feel Alive](https://open.spotify.com/album/45j86M3d2PYo2trc8MoEW3) | 4:08 |
 | 31 | [BARRICADE](https://open.spotify.com/track/4AIzFOYepFcCxtyejppv6C) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [BARRICADE](https://open.spotify.com/album/04Eqt1g20KVoSB4Xif8Frq) | 3:20 |
 | 32 | [Take You Down](https://open.spotify.com/track/4bJpdznQXEeRE1xrn69nMU) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Take You Down / Melange](https://open.spotify.com/album/0cBF66VT43qWDEKFQ7qjOq) | 3:43 |
-| 33 | [Believer](https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Believer](https://open.spotify.com/album/09539Dh2pzs6OmoWsXFtFH) | 3:38 |
-| 34 | [Reviver \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/0LAOGIAFvEnMnzrO5oaAb5) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Reviver \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/08fGtbr8PDy84u2KRrNuXS) | 4:06 |
-| 35 | [Real](https://open.spotify.com/track/10ln7FMO9lBbSBR5P2btE7) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9) | [Real](https://open.spotify.com/album/6TMNSDP3qAOI8Vz9SgPK9p) | 4:46 |
-| 36 | [Feed The Addiction](https://open.spotify.com/track/1nqUi4wKalk5jFoFfQET2n) | [ILS](https://open.spotify.com/artist/5IS3dbDJPbnJBUEjQdJhPF) | [Bohemia](https://open.spotify.com/album/14Nq4D67l9s1biXa9t575G) | 4:38 |
+| 33 | [Real](https://open.spotify.com/track/10ln7FMO9lBbSBR5P2btE7) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9) | [Real](https://open.spotify.com/album/6TMNSDP3qAOI8Vz9SgPK9p) | 4:46 |
+| 34 | [Believer](https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Believer](https://open.spotify.com/album/09539Dh2pzs6OmoWsXFtFH) | 3:38 |
+| 35 | [Feed The Addiction](https://open.spotify.com/track/1nqUi4wKalk5jFoFfQET2n) | [ILS](https://open.spotify.com/artist/5IS3dbDJPbnJBUEjQdJhPF) | [Bohemia](https://open.spotify.com/album/14Nq4D67l9s1biXa9t575G) | 4:38 |
+| 36 | [Reviver \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/0LAOGIAFvEnMnzrO5oaAb5) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Reviver \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/08fGtbr8PDy84u2KRrNuXS) | 4:06 |
 | 37 | [Overdrive](https://open.spotify.com/track/3zSiHJI0ZCidNR8ygDXQGh) | [Protostar](https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH), [Emma McGann](https://open.spotify.com/artist/7i99rgVJyrVbho0pfVUtzF) | [Overdrive](https://open.spotify.com/album/09r2n9j4tHxMPuCXYdzXBG) | 3:51 |
 | 38 | [MAKE A MOVE](https://open.spotify.com/track/3iXf7W37Yetv36gTgDlZ93) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Make A Move](https://open.spotify.com/album/7y82PxGmIMKNyCmZvRbqIa) | 3:46 |
 | 39 | [Gang](https://open.spotify.com/track/1HYIxT29a0gtzhqGjVQule) | [Phil Gonzo](https://open.spotify.com/artist/5MOUpeSR9eHImHFNg78RCU) | [Gang](https://open.spotify.com/album/644tRu2KsOn25hE87qFsEf) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 49 | [Climax](https://open.spotify.com/track/4kAKNNDn9SJu97NQ9vuMik) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [Climax](https://open.spotify.com/album/5HuiKWU9kTp3H4hE4m4UVQ) | 4:29 |
 | 50 | [I don't give a Fuck](https://open.spotify.com/track/7dicq7Osp4mJvqRRFg4EOY) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [NICESKEIK](https://open.spotify.com/artist/4yP08tX8zhyAQLFZDLLA6D) | [I don't give a Fuck](https://open.spotify.com/album/3qC18tclXE1DFHzQKqTRAM) | 2:17 |
 
-Snapshot ID: `MTY3MDYwNTc0MCwwMDAwMDAwMDUyZmU1OGVhZDRhZTc1MGY5N2I1YzU4ZWMyYWRjNmU5`
+Snapshot ID: `MTY3MDYwNTc0MCwwMDAwMDAwMDQ3OGMyODczZWMyOWFiNjkzNjkwY2Q3MWE1MDJhZDM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > The final NMF of 2022! Cover: Rae Sremmurd
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,027,976 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,028,463 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 28 | [Jim Carrey](https://open.spotify.com/track/5JgcAYwVcuINiKTJOytDZs) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Jim Carrey](https://open.spotify.com/album/1cfamXX0FYqLfmQjM5PjRK) | 3:23 |
 | 29 | [Oma](https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Oma](https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX) | 3:18 |
 | 30 | [Happy Birthday!](https://open.spotify.com/track/4ODk3dsfaU05R0XZfUeECB) | [Stalking Gia](https://open.spotify.com/artist/3VTJqPiHqHHIrx1FL7avMY) | [Happy Birthday!](https://open.spotify.com/album/3H423tiQDa9vhLs8DizhF7) | 2:35 |
-| 31 | [Modest](https://open.spotify.com/track/7MXChMwOQfLuF5Ma5nFDaO) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [why not us](https://open.spotify.com/album/4Ivk5W6s5LtR5klO5u98Ry) | 3:02 |
+| 31 | [Modest](https://open.spotify.com/track/7MXChMwOQfLuF5Ma5nFDaO) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu), [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG) | [why not us?](https://open.spotify.com/album/4Ivk5W6s5LtR5klO5u98Ry) | 3:02 |
 | 32 | [room number](https://open.spotify.com/track/5Ab46BxMyCvRecfIjH25rK) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [room number](https://open.spotify.com/album/48Sn84Qf5HfcmSVm0Arsxd) | 2:13 |
 | 33 | [1000 Reasons](https://open.spotify.com/track/0dupI7MHvlSXuIHH2YXWHC) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [1000 Reasons](https://open.spotify.com/album/7pl00j0x6ZdGcYGUSioCdR) | 2:34 |
 | 34 | [can't say goodbye](https://open.spotify.com/track/4Y5LCWJIbyX5lm5Y5nqhoN) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [can't say goodbye](https://open.spotify.com/album/0NV1aiCYnjqbJTPpytd1KY) | 1:48 |

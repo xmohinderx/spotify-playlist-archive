@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421365,
+  "num_followers": 421369,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3OTMxNywwMDAwMDAwMDQ0ZTUwZGUxMzUyMjVjMDc3YjM1NjZkZGE3MTQzMDFj",
+  "snapshot_id": "MTY2NTc3OTMxNywwMDAwMDAwMGU0NjhmZGI2ZmJiMzdlMjY1YjA1M2Y3ZTExOTM5OGEx",
   "tracks": [
     {
       "added_at": "2022-10-14 20:28:37",
@@ -351,30 +351,6 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
-        "name": "Desligado",
-        "url": "https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC"
-      },
-      "artists": [
-        {
-          "name": "Yago Oproprio",
-          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
-        },
-        {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        },
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
-        }
-      ],
-      "duration_ms": 122777,
-      "name": "Desligado",
-      "url": "https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
         "name": "Maresia",
         "url": "https://open.spotify.com/album/0LeTsEVvfdJ86Hi7uE7CxK"
       },
@@ -399,6 +375,30 @@
       "duration_ms": 144553,
       "name": "Maresia",
       "url": "https://open.spotify.com/track/14MmpI6ZOB9QaetEIPSzqB"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
+        "name": "Desligado",
+        "url": "https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC"
+      },
+      "artists": [
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
+        }
+      ],
+      "duration_ms": 122777,
+      "name": "Desligado",
+      "url": "https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
+        "name": "vc \u00e9 msm t\u00e3o melhor que eu?",
+        "url": "https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 209520,
+      "name": "vc \u00e9 msm t\u00e3o melhor que eu?",
+      "url": "https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
         "name": "P90",
         "url": "https://open.spotify.com/album/6bemhnTC1gXKmGhuYOtVJz"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 123383,
       "name": "P90",
       "url": "https://open.spotify.com/track/43ZNwGCrC4ZD5e0DGGMbvV"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
-        "name": "vc \u00e9 msm t\u00e3o melhor que eu?",
-        "url": "https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 209520,
-      "name": "vc \u00e9 msm t\u00e3o melhor que eu?",
-      "url": "https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -847,6 +847,26 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
+        "name": "Eu e Eu",
+        "url": "https://open.spotify.com/album/57reovruZNtvzzhjkwsDj9"
+      },
+      "artists": [
+        {
+          "name": "Vitor e Luan",
+          "url": "https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 162799,
+      "name": "Eu e Eu",
+      "url": "https://open.spotify.com/track/7DETyuwRe61Ab57w90dJ37"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
         "name": "SIM SIM SIM",
         "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 303550,
       "name": "Baile de M\u00e1scaras (Recarnaval)",
       "url": "https://open.spotify.com/track/7M8ufi5rmgnWpJfPidV4g8"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
-        "name": "Eu e Eu",
-        "url": "https://open.spotify.com/album/57reovruZNtvzzhjkwsDj9"
-      },
-      "artists": [
-        {
-          "name": "Vitor e Luan",
-          "url": "https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 162799,
-      "name": "Eu e Eu",
-      "url": "https://open.spotify.com/track/7DETyuwRe61Ab57w90dJ37"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
+        "name": "BXD IN JAZZ",
+        "url": "https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 173147,
+      "name": "Meu Grande Amor",
+      "url": "https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
         "name": "Encruzilhada",
         "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 151374,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/7pkFFPkSYa9JJY9dvZDjoc"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
-        "name": "BXD IN JAZZ",
-        "url": "https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 173147,
-      "name": "Meu Grande Amor",
-      "url": "https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ"
     },
     {
       "added_at": "2022-10-14 20:28:37",

@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Louis Cole
 
-257 songs - 15 hr 16 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+258 songs - 15 hr 19 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [My Kinda Love](https://open.spotify.com/track/4N9Zjl1E4QLDrLnDslJkdO) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj), [rynjae](https://open.spotify.com/artist/5IZyhABCE3PaMrBL14PNKM) | [My Kinda Love](https://open.spotify.com/album/7uF4FtmG3tHDW7ChMu0nFo) | 3:24 | 2021-07-23 | 2022-10-22 |
 | [Mélange](https://open.spotify.com/track/3KSJHjEiC5G0xcYEGr9oLU) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Mélange](https://open.spotify.com/album/70ayx5Ku8J56Hw12VhrQ34) | 2:54 | 2021-07-16 | 2022-08-27 |
 | [New Best Friend](https://open.spotify.com/track/21BjaubQRpZ4RybrI0NUyY) | [Juliette Reilly](https://open.spotify.com/artist/2HR1xMXsvA2zBfiiADeZo7), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [New Best Friend](https://open.spotify.com/album/1s5PZnVIPIyo1BMz5tqgYY) | 2:36 | 2022-02-25 |  |
-| [New Guru](https://open.spotify.com/track/7MV4NBFotO3y7Bpo9S6I2Y) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [New Guru](https://open.spotify.com/album/3GcUSJfHkUDGlrN94sC5CF) | 3:24 | 2022-12-09 |  |
+| [New Guru](https://open.spotify.com/track/1iDxNtb7jleE8GqD4m81dA) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 3:24 | 2022-12-09 |  |
+| [New Guru](https://open.spotify.com/track/7MV4NBFotO3y7Bpo9S6I2Y) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [New Guru](https://open.spotify.com/album/3GcUSJfHkUDGlrN94sC5CF) | 3:24 | 2022-12-09 | 2023-01-01 |
 | [No Apologies](https://open.spotify.com/track/34xXBHLrnUS2QzE6J5Et8G) | [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX) | [No Apologies](https://open.spotify.com/album/3lmXNWYkfVeHb6hDQlzRf3) | 2:38 | 2021-05-21 | 2022-01-29 |
 | [No ID](https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [No ID](https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd) | 3:11 | 2022-01-28 | 2022-12-03 |
 | [Olive](https://open.spotify.com/track/0Vixvjts9iR4NWI7jV3HXr) | [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Olive](https://open.spotify.com/album/3FmgixQBVW20aEShnxbHlV) | 3:51 | 2022-08-19 |  |

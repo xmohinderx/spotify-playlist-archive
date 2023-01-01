@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: July Talk
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,854 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,848 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 13 | [Here It Goes Again](https://open.spotify.com/track/5ENmrKNn9IH3cAXR9EFe4j) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 3:50 |
 | 14 | [WISH ME LUCK](https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [WISH ME LUCK](https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS) | 3:23 |
 | 15 | [Little Bull Of Blithe](https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 2:10 |
-| 16 | [All That's Left Of Me Is You](https://open.spotify.com/track/22ms1Z1Vjd89qpZsNGJvB8) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Theo Katzman](https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya) | [All That's Left Of Me Is You](https://open.spotify.com/album/52qyhBBYQadIVGztGAhge9) | 2:52 |
+| 16 | [All That’s Left of Me Is You](https://open.spotify.com/track/54Aa3U7MwohGZz56LMi0Ng) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Theo Katzman](https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:52 |
 | 17 | [Calabasas](https://open.spotify.com/track/4bFOOkNKX9eEsCvzGpKyqZ) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Calabasas](https://open.spotify.com/album/7nbMEymbgNwKCk4NDeZUpC) | 3:22 |
 | 18 | [Miracles3](https://open.spotify.com/track/1B1OX76XRjNcbPTu5u6TRF) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Miracles \(alt\)](https://open.spotify.com/album/1mqgjpA4ALFFfQIx99L6jA) | 3:30 |
 | 19 | [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 |
 | 100 | [First Time Caller](https://open.spotify.com/track/3pJ1EjeERFlGkj93KWp2Fi) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC), [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [First Time Caller](https://open.spotify.com/album/2mxrENnX1AxQO4iyLxUvA6) | 5:17 |
 
-Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMGIzNjY4ZTc2M2MzMjA1MTJlZDYwNjNjNThhZjdlMmM2`
+Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDdkYTc5Mjg1ZTJiZWViMzRmOTQ3MjQ4MzJkZjlkZDRj`

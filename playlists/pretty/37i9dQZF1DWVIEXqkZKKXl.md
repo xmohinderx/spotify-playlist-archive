@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 
 > Background scores to help you sail through the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,178 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,195 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 32 | [Andhadhun Theme 02](https://open.spotify.com/track/1Me3vv09VaF0C4zTOryogb) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Andhadhun](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 2:40 |
 | 33 | [Sarbjit Theme](https://open.spotify.com/track/7i6ISlTSvgYFZFy7d9o8fO) | [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Sarbjit](https://open.spotify.com/album/3gFdzTRV0jUP8da5miEWyU) | 2:56 |
 | 34 | [Maachis Theme Closing](https://open.spotify.com/track/5H83kULz9wDkDdNkFUFFuI) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Maachis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kc4rAQ1kkW3orZ87Le7M6) | 2:57 |
-| 35 | [The Horizon of Saudade](https://open.spotify.com/track/7zTrimhtil85dyT7VSpvMA) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Dil Bechara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr) | 2:46 |
+| 35 | [Kaise Mujhe \(Instrumental\)](https://open.spotify.com/track/02nOZG5WrxCHEYbjjxeZQf) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ghajini](https://open.spotify.com/album/1bakFVqPdxrSCSZI2HUGhJ) | 4:01 |
 | 36 | [Victory \- Instrumental](https://open.spotify.com/track/0k7Jl4wxnWZpsFsMOyr9Li) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Lakshya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe) | 3:20 |
 | 37 | [The Mood of Satya](https://open.spotify.com/track/18spm4j6IeNxSh74ZUKRyw) | [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy) | [Satya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kVzRosBiI1oaliq3LB3SR) | 2:20 |
 | 38 | [Remembering His Violin](https://open.spotify.com/track/09bmCSMLxAJuBYX5Jwzqfy) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Amit Heri](https://open.spotify.com/artist/0EfPLCM3YgAj83a4K4TVMg), [Gayathri](https://open.spotify.com/artist/2Ah48tA0TPqph0m9snNNxM) | [Morning Raga \- A Meeting Of Worlds](https://open.spotify.com/album/0WzQ9zO97qwwntyQ1mgaCE) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 49 | [Vegas Theme \- Instrumental](https://open.spotify.com/track/2AnjzK3GxOGf45ttwYxT4z) | [Ashirvad](https://open.spotify.com/artist/4BXd7j6uYCeZFgi3B5v3K7) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 2:05 |
 | 50 | [Crush The Rebels](https://open.spotify.com/track/5JES4hDzGsLOzfPQFpB9Uj) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Sardar Udham \(Original Background Score\)](https://open.spotify.com/album/2k5K1jBDj5ynIiAhRxuuXp) | 5:11 |
 
-Snapshot ID: `MTY2NDM2Mjk5NywwMDAwMDAwMDM5ZjcyZDY1NzA5YjQzZDlmNzViMDk4NGI0YTIxYWYy`
+Snapshot ID: `MTY2NDM2Mjk5NywwMDAwMDAwMGYzNzYxMWM0YjU4ZTg3MjYwOTc5NzZhMzFlZWJiYmYx`

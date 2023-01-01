@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ウタ/UTA from ONE PIECE FILM RED ©尾田栄一郎／2022「ワンピース」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,708 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,864 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 47 | [絶体絶命](https://open.spotify.com/track/0QMmoBAY9pr7nOYisYWuMj) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:28 |
 | 48 | [Skyreach](https://open.spotify.com/track/427vfPt3SW5ZhtCqwajhaT) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Various BLUE](https://open.spotify.com/album/5rpTgoIEM03GbTQ6kyXxT0) | 4:28 |
 | 49 | [Gotoubun no Katachi](https://open.spotify.com/track/32nW0L3AHrEasXxB4y4kt4) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Katachi / Hatsukoi \(Special Edition\)](https://open.spotify.com/album/0GIm93uEvIAQ75FCTXCkUL) | 4:03 |
-| 50 | [ハニージェットコースター](https://open.spotify.com/track/1SFS6Anu0829AMCXKltlNw) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [TVアニメ「可愛いだけじゃない式守さん」オープニングテーマ「ハニージェットコースター」](https://open.spotify.com/album/6lEkrGHvjvWYNs2Mwo0yoy) | 3:33 |
+| 50 | [only my railgun](https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [only my railgun](https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl) | 4:17 |
 
-Snapshot ID: `MTY2ODg1NzI1MywwMDAwMDAwMDdmYzE5NmJhYmJiZWU0NzQwYWY5NmEwMjVkOWE2MmNk`
+Snapshot ID: `MTY2ODg1NzI1MywwMDAwMDAwMDJhNGQ5ODM4YjNkZDA5YjE0NjRmN2UxYTVjYzk5M2M5`

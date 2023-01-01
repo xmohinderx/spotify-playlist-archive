@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Las mejores canciones de diciembre 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,508,086 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,508,132 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 15 | [Malibu](https://open.spotify.com/track/4TRlBMj8wXsIfEDgWOPyE2) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [Malibu](https://open.spotify.com/album/3CmKeCe807h4wAPa0OhPqV) | 2:40 |
 | 16 | [Real G](https://open.spotify.com/track/6WU2eYUtOL91iROonROPyh) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Real G](https://open.spotify.com/album/4zQmGdxbD2EOKItaKLMnrC) | 3:11 |
 | 17 | [LEJOS DEL CIELO](https://open.spotify.com/track/0r5g8mAptDMwHbvRDJYIPW) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:28 |
-| 18 | [TO' ESTO ES TUYO](https://open.spotify.com/track/3sFGJUJ4Dk8WYsahfZaPgM) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [TO' ESTO ES TUYO](https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn) | 3:13 |
+| 18 | [Si Te Pillo](https://open.spotify.com/track/2CT2oLeINCEuTEBrkTLUgD) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Si Te Pillo](https://open.spotify.com/album/3oqhHO8MGpzpqyHEyyIdu9) | 3:39 |
 | 19 | [Si Yo Me Muero](https://open.spotify.com/track/4qpTCXnBSPtkMEmdE4Dzi8) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [MVSIS](https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm) | [Si Yo Me Muero](https://open.spotify.com/album/0qoyE1dUs4lVj1g0QMV4KH) | 3:21 |
-| 20 | [Si Te Pillo](https://open.spotify.com/track/2CT2oLeINCEuTEBrkTLUgD) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Si Te Pillo](https://open.spotify.com/album/3oqhHO8MGpzpqyHEyyIdu9) | 3:39 |
+| 20 | [TO' ESTO ES TUYO](https://open.spotify.com/track/3sFGJUJ4Dk8WYsahfZaPgM) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [TO' ESTO ES TUYO](https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn) | 3:13 |
 | 21 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 |
 | 22 | [Ya Te Perdí \- Deluxe](https://open.spotify.com/track/4Nvm7kFymlxLeF5Qd69nuB) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 4:24 |
 | 23 | [Síntomas de Soltera](https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Síntomas de Soltera](https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x) | 4:01 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 48 | [Recaída](https://open.spotify.com/track/2OgJGjukelwGZK6f5xxRhy) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 3:21 |
 | 49 | [Flow Diego](https://open.spotify.com/track/64kPK9ZGUXQbBhocpYfPIk) | [JC el Diamante](https://open.spotify.com/artist/1FxsUemFullSXJpySUsT0J) | [Flow Diego](https://open.spotify.com/album/5N08n6KChqQeYINeCC3T53) | 2:42 |
 
-Snapshot ID: `MTY3MjQzMTU5OCwwMDAwMDAwMDgzMjA3ZmMxMTU5NDA4YTQ2ODQyYTJmMmVhMGI1ODM2`
+Snapshot ID: `MTY3MjQzMTU5OCwwMDAwMDAwMDk1OGQ5M2I0NGFlZmNlZmU1N2Y1MmU4YWYzMjhjOGJj`

@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 256472,
+  "num_followers": 256517,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2Njk3MiwwMDAwMDAwMDZmMThlNDIxMmU3MWEyZGE0NGY4MGFjZDZiMTFkYzhj",
+  "snapshot_id": "MTY3MTc2Njk3MiwwMDAwMDAwMGZhNTYyYzZmNjg5MDE5NmQzYTdkODA5NzJjNDdmMjdj",
   "tracks": [
     {
       "added_at": "2022-12-23 03:42:52",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "All of Me - Live from Spotify Milan",
+      "url": "https://open.spotify.com/track/6nyZQ82OI0OujbbFpo3e0K"
+    },
+    {
+      "added_at": "2022-12-23 03:42:52",
+      "album": {
         "name": "Better Part of Me",
         "url": "https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 226146,
       "name": "Better Part of Me",
       "url": "https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN"
-    },
-    {
-      "added_at": "2022-12-23 03:42:52",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 291960,
-      "name": "All of Me - Live from Spotify Milan",
-      "url": "https://open.spotify.com/track/6nyZQ82OI0OujbbFpo3e0K"
     },
     {
       "added_at": "2022-12-23 03:42:52",
@@ -603,26 +603,6 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
-        "name": "Don't Leave Me Lonely(feat. Elley Duh\u00e9) [Acoustic]",
-        "url": "https://open.spotify.com/album/50mXupxDu3jMSLoR5OX6ms"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 135493,
-      "name": "Don't Leave Me Lonely(feat. Elley Duh\u00e9) [Acoustic]",
-      "url": "https://open.spotify.com/track/1GuujOqZ23AhfrPq9lSTC4"
-    },
-    {
-      "added_at": "2022-12-23 03:42:52",
-      "album": {
         "name": "Human Nature (Acoustic)",
         "url": "https://open.spotify.com/album/1g6uFc2bQQpbxZ1cNWeKTk"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 227763,
       "name": "Human Nature - Acoustic",
       "url": "https://open.spotify.com/track/5tMIrapXY40t9GHD2BbBaJ"
+    },
+    {
+      "added_at": "2022-12-23 03:42:52",
+      "album": {
+        "name": "Don't Leave Me Lonely(feat. Elley Duh\u00e9) [Acoustic]",
+        "url": "https://open.spotify.com/album/50mXupxDu3jMSLoR5OX6ms"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 135493,
+      "name": "Don't Leave Me Lonely(feat. Elley Duh\u00e9) [Acoustic]",
+      "url": "https://open.spotify.com/track/1GuujOqZ23AhfrPq9lSTC4"
     },
     {
       "added_at": "2022-12-23 03:42:52",
@@ -859,8 +859,8 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
-        "name": "Sheezus",
-        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 208504,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
+      "duration_ms": 173680,
+      "name": "Mad World - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
     },
     {
       "added_at": "2022-12-23 03:42:52",
@@ -943,8 +943,8 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
+        "name": "Sheezus",
+        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 173680,
-      "name": "Mad World - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
+      "duration_ms": 208504,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
     },
     {
       "added_at": "2022-12-23 03:42:52",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
-        "name": "Crazy in Love",
-        "url": "https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd"
-      },
-      "artists": [
-        {
-          "name": "Rio Bossa Trio",
-          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
-        }
-      ],
-      "duration_ms": 218528,
-      "name": "Crazy in Love",
-      "url": "https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud"
-    },
-    {
-      "added_at": "2022-12-23 03:42:52",
-      "album": {
         "name": "Live At AllSaints Studios",
         "url": "https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+        "name": "Crazy in Love",
+        "url": "https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Rio Bossa Trio",
+          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
         }
       ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
+      "duration_ms": 218528,
+      "name": "Crazy in Love",
+      "url": "https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud"
     },
     {
       "added_at": "2022-12-23 03:42:52",
@@ -1067,6 +1051,22 @@
       "duration_ms": 201745,
       "name": "Cool Kids - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19"
+    },
+    {
+      "added_at": "2022-12-23 03:42:52",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
     },
     {
       "added_at": "2022-12-23 03:42:52",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 191444,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
-    },
-    {
-      "added_at": "2022-12-23 03:42:52",
-      "album": {
         "name": "Love Me Now (feat. FAST BOY) [Acoustic]",
         "url": "https://open.spotify.com/album/6PQlOCoekOPHXh7fLuMs8f"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 138348,
       "name": "Love Me Now (feat. FAST BOY) - Acoustic",
       "url": "https://open.spotify.com/track/7Eu1ryblKF85zn7xpnst3P"
+    },
+    {
+      "added_at": "2022-12-23 03:42:52",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 191444,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
     },
     {
       "added_at": "2022-12-23 03:42:52",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
+        "name": "Acoustic EP",
+        "url": "https://open.spotify.com/album/2sRSdxx5eJz8mewqaf6hmy"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Here Without You - Acoustic Version",
+      "url": "https://open.spotify.com/track/0NGSH2Ah772qMcLTANjyO7"
+    },
+    {
+      "added_at": "2022-12-23 03:42:52",
+      "album": {
         "name": "Living Without You (Acoustic)",
         "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 187333,
       "name": "Living Without You - Acoustic",
       "url": "https://open.spotify.com/track/6jgDBaX7ZxirvxpvCRpiaN"
-    },
-    {
-      "added_at": "2022-12-23 03:42:52",
-      "album": {
-        "name": "Acoustic EP",
-        "url": "https://open.spotify.com/album/2sRSdxx5eJz8mewqaf6hmy"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Here Without You - Acoustic Version",
-      "url": "https://open.spotify.com/track/0NGSH2Ah772qMcLTANjyO7"
     },
     {
       "added_at": "2022-12-23 03:42:52",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-12-23 03:42:52",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5qeR1l2kCx9GnJmEHQIOH7"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 247346,
-      "name": "Tell Me You Love Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7leN3vIDslQwxJehUhrPXJ"
-    },
-    {
-      "added_at": "2022-12-23 03:42:52",
-      "album": {
         "name": "Daisies (Acoustic)",
         "url": "https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 185506,
       "name": "Daisies - Acoustic",
       "url": "https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE"
+    },
+    {
+      "added_at": "2022-12-23 03:42:52",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5qeR1l2kCx9GnJmEHQIOH7"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 247346,
+      "name": "Tell Me You Love Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7leN3vIDslQwxJehUhrPXJ"
     }
   ],
   "unique_name": "Pop Ac\u00fastico",

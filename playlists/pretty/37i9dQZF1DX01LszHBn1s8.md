@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > back to black 🖤
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,206 likes - 632 songs - 1 day 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,627 likes - 632 songs - 1 day 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -302,7 +302,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 292 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 |
 | 293 | [i miss you \(skin to skin\)](https://open.spotify.com/track/6oJLVRSwk81VPHHtyP8BOx) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [i miss you \(skin to skin\)](https://open.spotify.com/album/34YHay3VJ4vsP3L2O5Xdjw) | 3:22 |
 | 294 | [Syrener](https://open.spotify.com/track/7iKUMPi3CcDLLNF4pU1vND) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Syrener](https://open.spotify.com/album/35KHrZ7KsOC7ajWq6SNxgu) | 3:02 |
-| 295 | [\#doyalike](https://open.spotify.com/track/18BDx58loqHIBqVLjYUmkh) | [kazeWIW](https://open.spotify.com/artist/021U5Ph1AQMVUndqnLPMkL), [Ren0wned](https://open.spotify.com/artist/0U9UOUZ2iSmDR1tBe7F7tt) | [\#doyalike](https://open.spotify.com/album/5iHYg2FDgirPCnT2wnRPy3) | 3:02 |
+| 295 | [\#doyalike](https://open.spotify.com/track/0axgY4AiWx0spzdQb1gSjg) | [kazeWIW](https://open.spotify.com/artist/021U5Ph1AQMVUndqnLPMkL) | [\#doyalike](https://open.spotify.com/album/2FaqtBPWVG6owEHbV16oDN) | 3:03 |
 | 296 | [Stereo Love \- Radio Edit](https://open.spotify.com/track/1AguHaKOuggrVTebp7cZEI) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/0tGht9KBhk71vOJCHZzhVk) | 3:04 |
 | 297 | [Something I Hate](https://open.spotify.com/track/55yU2X0SZI3KFEz7B4YsMd) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Something I Hate](https://open.spotify.com/album/0sRyc5tDvYwBGm3Rgq5dHo) | 2:51 |
 | 298 | [You Might Not Like Her](https://open.spotify.com/track/0BqWEdlRUTCsYlLO5jMItB) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/7ueHZMvIaONsn3w56NMMtF) | 3:22 |
@@ -641,4 +641,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 631 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 632 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MTY3MjM1NDgwMCwwMDAwMDAwMGJkZjhhM2UzMjMzY2VjN2E3MmIxMzQ0ZGMzNmZmODRk`
+Snapshot ID: `MTY3MjM1NDgwMCwwMDAwMDAwMGYyNWY1ODIwZGFlY2E3MDZlMmM0MzRjNGExNzk3ZTFj`

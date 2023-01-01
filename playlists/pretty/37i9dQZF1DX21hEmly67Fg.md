@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,071 likes - 63 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,216 likes - 63 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,6 +70,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 60 | [All Of Me](https://open.spotify.com/track/1BpGZ5bqIC0F6nbK27G4xP) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/20Et1l6jsJdticffIphZQP) | 3:18 |
 | 61 | [Dance Monkey](https://open.spotify.com/track/2yKwUvawwvock24y5EAl4g) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Dance Monkey](https://open.spotify.com/album/49lYvjArPlTqsn4O10ti44) | 2:52 |
 | 62 | [A Thousand Years](https://open.spotify.com/track/0E0xI4AgMNU7UkwBt3FCVN) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [The Piano Guys](https://open.spotify.com/album/6P2EwTc87RwLx2ANZVr1JY) | 4:35 |
-| 63 | [Hurt](https://open.spotify.com/track/5ssa7x1KD6XqPVqhwVgnA0) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/451tLMhR2ySWscHJiWQXs6) | 6:12 |
+| 63 | [Hurt](https://open.spotify.com/track/0WLROcssjMREbas0oDpFkA) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/3hV5sj8yGvFHtEkdeJ95yH) | 6:12 |
 
-Snapshot ID: `MTY2OTM4Mjg5NCwwMDAwMDAwMGM2ZWU2OTVkNDk4ZDdlYTgzNGI2OWVkMTFlYzIwNjM0`
+Snapshot ID: `MTY2OTM4Mjg5NCwwMDAwMDAwMGViYWI2YWE1NGZmN2ViZDcyZjQ1YjA4NTg2NzM4ODk4`

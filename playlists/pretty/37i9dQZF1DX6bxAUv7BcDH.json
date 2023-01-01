@@ -1,12 +1,12 @@
 {
   "description": "Song of the Year winners from 1959-2021. How many do you know? #SpotifyTBT",
-  "num_followers": 26608,
+  "num_followers": 26607,
   "original_name": "#SpotifyTBT: Song of the Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMDczYTUzMTU4MjYyMjY0ZDZhODE1NzIxNjMwMmQ4NTZj",
+  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMDdiN2JjZGUyOGY4ZTkyNGEwNmI5OGViMmM1NzBiY2Jl",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "We Are The World",
-        "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
-      },
-      "artists": [
-        {
-          "name": "U.S.A. For Africa",
-          "url": "https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM"
-        }
-      ],
-      "duration_ms": 427333,
-      "name": "We Are The World",
-      "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "This Is America",
         "url": "https://open.spotify.com/album/7arx9qPJexCsDz67El4qvk"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 225773,
       "name": "This Is America",
       "url": "https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "We Are The World",
+        "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
+      },
+      "artists": [
+        {
+          "name": "U.S.A. For Africa",
+          "url": "https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM"
+        }
+      ],
+      "duration_ms": 427333,
+      "name": "We Are The World",
+      "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "What Kind Of Fool Am I & Other Show Stoppers",
-        "url": "https://open.spotify.com/album/52FNvUtEGZv8HoeT8V7E0H"
-      },
-      "artists": [
-        {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "What Kind of Fool Am I",
-      "url": "https://open.spotify.com/track/2ChoPgCQ88DGEDFBwFgZlo"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "80 Totally 80s Hits",
         "url": "https://open.spotify.com/album/3C20zCOVCXIb9xr0Z6wcCG"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 257359,
       "name": "That's What Friends Are For (with Elton John, Gladys Knight & Stevie Wonder)",
       "url": "https://open.spotify.com/track/1cx2NcSnJYdr3kvHWmX7fF"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "What Kind Of Fool Am I & Other Show Stoppers",
+        "url": "https://open.spotify.com/album/52FNvUtEGZv8HoeT8V7E0H"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "What Kind of Fool Am I",
+      "url": "https://open.spotify.com/track/2ChoPgCQ88DGEDFBwFgZlo"
     },
     {
       "added_at": "2022-02-16 05:37:41",

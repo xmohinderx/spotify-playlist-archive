@@ -2,7 +2,7 @@
 
 ### [AMAPIANO grooves](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Celebrating the new year with an expensive music mix by the legend <a href="https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v?si=\-67vqDUYSwCGJk\_73lApbw">Kelvin Momo</a>.
+> Celebrating the new year with an expensive music mix by the legend <a href="https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v?si=\-67vqDUYSwCGJk\_73lApbw">Kelvin Momo</a>.
 
 819 songs - 3 day 13 hr 14 min - [published](https://open.spotify.com/playlist/1OROzyYVlgHk2xjXQZDV5G)
 

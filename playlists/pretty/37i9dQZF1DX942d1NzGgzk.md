@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > 100% British \- 100% R&B\. Cover: Pip Millett
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,320 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,370 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 22 | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm) | 3:26 |
 | 23 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
 | 24 | [Strange How Good Things Change](https://open.spotify.com/track/0zS1iD37gmxzffMH11vqf7) | [Elli Ingram](https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB) | [Strange How Good Things Change](https://open.spotify.com/album/431GIE38nppu1zGX5EXJUj) | 3:21 |
-| 25 | [Is This Real Love?](https://open.spotify.com/track/2STIbgjW6oD4qc1odTNrqT) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Is This Real Love?](https://open.spotify.com/album/4DqyXB4M4KTJQkeK9vrYmq) | 3:00 |
-| 26 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
+| 25 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
+| 26 | [I'll Be Loving You](https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [I'll Be Loving You](https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV) | 4:06 |
 | 27 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 |
-| 28 | [I'll Be Loving You](https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [I'll Be Loving You](https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV) | 4:06 |
+| 28 | [Is This Real Love?](https://open.spotify.com/track/2STIbgjW6oD4qc1odTNrqT) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Is This Real Love?](https://open.spotify.com/album/4DqyXB4M4KTJQkeK9vrYmq) | 3:00 |
 | 29 | [Don't Let Me Fall](https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 5:39 |
 | 30 | [I Might Be In Love With You](https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:37 |
 | 31 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 39 | [Eighteen](https://open.spotify.com/track/6SCSFTRB2ueJIhYQ2VJK68) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Eighteen](https://open.spotify.com/album/29DLEk1PoZBbEDBgjPAj6Y) | 2:35 |
 | 40 | [Whenever You're Ready](https://open.spotify.com/track/16Km3GR6GYMrIyVPk31DAe) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whenever You're Ready](https://open.spotify.com/album/5oU1HkdGTZ9aKz9FFdiawe) | 3:25 |
 | 41 | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/track/6jeP9JMozdxrVzvVXp6FKj) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:25 |
-| 42 | [No Regrets](https://open.spotify.com/track/2RC3TbzlpR5lpzODqOUQfL) | [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6) | [No Regrets](https://open.spotify.com/album/4aRr37KCSr88qfFrnJYCZx) | 2:59 |
-| 43 | [Mandy](https://open.spotify.com/track/3PO4o0z1ao5ItW7C4HNd72) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Mandy](https://open.spotify.com/album/11TgzkZn6xP5E2jYkQJIga) | 3:05 |
+| 42 | [Mandy](https://open.spotify.com/track/3PO4o0z1ao5ItW7C4HNd72) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Mandy](https://open.spotify.com/album/11TgzkZn6xP5E2jYkQJIga) | 3:05 |
+| 43 | [No Regrets](https://open.spotify.com/track/2RC3TbzlpR5lpzODqOUQfL) | [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6) | [No Regrets](https://open.spotify.com/album/4aRr37KCSr88qfFrnJYCZx) | 2:59 |
 | 44 | [Seven Nights](https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Undertones](https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL) | 2:50 |
 | 45 | [Free My People \(feat\. Simmy & Kid Cruise\)](https://open.spotify.com/track/4T4YHAdlrEzL5Jsb1XnbGA) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw) | [Free My People \(feat\. Simmy & Kid Cruise\)](https://open.spotify.com/album/5fE5bSpNQpqVPJ8k5RvAUP) | 3:37 |
 | 46 | [Ebbs and Flows](https://open.spotify.com/track/7fv831b61zLwfA1d6Vp17f) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Ebbs and Flows](https://open.spotify.com/album/6ymZzUwgOwGaevvamG568v) | 3:19 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 57 | [Serial](https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Serial](https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2) | 3:47 |
 | 58 | [Stupid People](https://open.spotify.com/track/5g80aGSWaxJJk9DhAQvthJ) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Stupid People](https://open.spotify.com/album/4wb5WR7sbsDkDJ8hlefgGG) | 3:09 |
 | 59 | [The Good](https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:29 |
-| 60 | [Summer In December](https://open.spotify.com/track/7GSUwQm6X7KbQq7hvdJyXB) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Summer In December](https://open.spotify.com/album/0xKdmcCJcz5ByeOvRedaQO) | 2:57 |
+| 60 | [Pressure](https://open.spotify.com/track/4DixBDzCcjzWHICnRw4FGy) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Pressure](https://open.spotify.com/album/0rs6VQv68DHwRGCkN1DlPO) | 2:38 |
 
-Snapshot ID: `MTY2NjU1Njc4MywwMDAwMDAwMDU3NjBlMzJkOGI3MjVjYTY4YjA2ZmU4ODAxYWQ1MTQ1`
+Snapshot ID: `MTY2NjU1Njc4MywwMDAwMDAwMDE3ODlmZGQwYWE5Yjk3YzUxZWZhMmUwNTdkMDhiYWY4`

@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 76539,
+  "num_followers": 76622,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ1OTg2NiwwMDAwMDAwMDdkY2U4MzI1NTgwYWJlZjNkMmU1NTEyMjY1ODMyMzdm",
+  "snapshot_id": "MTY3MDQ1OTg2NiwwMDAwMDAwMDhkMTY2ZGE0YzU3NTFmYWJlZTIxMDU1NzNlZmQxY2Fk",
   "tracks": [
     {
       "added_at": "2022-08-17 17:45:27",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2022-08-17 17:45:27",
       "album": {
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/7duWJNT7in1gss7nVc35Mj"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/3iIZvct75tkk1CwbqVjsry"
+    },
+    {
+      "added_at": "2022-08-17 17:45:27",
+      "album": {
         "name": "Subimos de Rango",
         "url": "https://open.spotify.com/album/778jBq4jMs5U6f7vNVl626"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 266091,
       "name": "Subimos de Rango",
       "url": "https://open.spotify.com/track/4yZI69ElgxddAUGNJjzc0j"
-    },
-    {
-      "added_at": "2022-08-17 17:45:27",
-      "album": {
-        "name": "Balenciaga",
-        "url": "https://open.spotify.com/album/7duWJNT7in1gss7nVc35Mj"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Balenciaga",
-      "url": "https://open.spotify.com/track/3iIZvct75tkk1CwbqVjsry"
     },
     {
       "added_at": "2022-08-17 17:45:27",

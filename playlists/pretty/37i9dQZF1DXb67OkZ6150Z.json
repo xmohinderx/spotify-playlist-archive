@@ -1,12 +1,12 @@
 {
   "description": "Indie takes on songs others make. Cover: Remi Wolf",
-  "num_followers": 274645,
+  "num_followers": 274688,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIyNzgyMSwwMDAwMDAwMDE2YzhiNTkzYmNkMWEyYWQ1M2I5MzFlYTYzYmRlYTQw",
+  "snapshot_id": "MTY3MTIyNzgyMSwwMDAwMDAwMDJlN2M0NWFmNTdjMmIzNGRhZmFlYmFmZGQ1ZWEwMzUx",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "ghost town (voice memo)",
-        "url": "https://open.spotify.com/album/6W4tUP2tcem0izGTVzxx5g"
-      },
-      "artists": [
-        {
-          "name": "Chloe George",
-          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "ghost town (voice memo)",
-      "url": "https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 220812,
       "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "ghost town (voice memo)",
+        "url": "https://open.spotify.com/album/6W4tUP2tcem0izGTVzxx5g"
+      },
+      "artists": [
+        {
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+        }
+      ],
+      "duration_ms": 137250,
+      "name": "ghost town (voice memo)",
+      "url": "https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "That Funny Feeling",
+        "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 400565,
+      "name": "That Funny Feeling",
+      "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Godspeed",
         "url": "https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 158620,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/6uWstgXnQXfnAtcowLb9mf"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "That Funny Feeling",
-        "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 400565,
-      "name": "That Funny Feeling",
-      "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Bette Davis Eyes",
-        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
-      },
-      "artists": [
-        {
-          "name": "BOY",
-          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Bette Davis Eyes",
-      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 234079,
       "name": "Summer's End - Spotify Singles",
       "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Bette Davis Eyes",
+        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
+      },
+      "artists": [
+        {
+          "name": "BOY",
+          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 153624,
-      "name": "i will follow you into the dark - Spotify Singles",
-      "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 179176,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 153624,
+      "name": "i will follow you into the dark - Spotify Singles",
+      "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6Y5dQYeqMOgGFQOaRIxga8"
+      },
+      "artists": [
+        {
+          "name": "Matthew Hall",
+          "url": "https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ"
+        }
+      ],
+      "duration_ms": 263870,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7B909vn7L9vAEdTYjXi7EC"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Fix You",
         "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 165106,
       "name": "Take Me Home, Country Roads (ft. Waxahatchee)",
       "url": "https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6Y5dQYeqMOgGFQOaRIxga8"
-      },
-      "artists": [
-        {
-          "name": "Matthew Hall",
-          "url": "https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ"
-        }
-      ],
-      "duration_ms": 263870,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7B909vn7L9vAEdTYjXi7EC"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 210956,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 212727,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 210956,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "i wanna be your girlfriend",
-        "url": "https://open.spotify.com/album/1GLJbv53SbSavS2XKqJttz"
-      },
-      "artists": [
-        {
-          "name": "gglum",
-          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
-        }
-      ],
-      "duration_ms": 311844,
-      "name": "i wanna be your girlfriend",
-      "url": "https://open.spotify.com/track/0rpsYTdLM9iNgkUGgFhGB8"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Industry Baby",
         "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 231381,
       "name": "Industry Baby",
       "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "i wanna be your girlfriend",
+        "url": "https://open.spotify.com/album/1GLJbv53SbSavS2XKqJttz"
+      },
+      "artists": [
+        {
+          "name": "gglum",
+          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
+        }
+      ],
+      "duration_ms": 311844,
+      "name": "i wanna be your girlfriend",
+      "url": "https://open.spotify.com/track/0rpsYTdLM9iNgkUGgFhGB8"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "slow dancing in a burning room (stripped)",
-        "url": "https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx"
-      },
-      "artists": [
-        {
-          "name": "ST LUNA",
-          "url": "https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw"
-        }
-      ],
-      "duration_ms": 195578,
-      "name": "slow dancing in a burning room - stripped",
-      "url": "https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Never Tear Us Apart",
         "url": "https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk"
       },
@@ -1219,22 +1203,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Can't Take My Eyes Off You / 3BadSoSad - Edit",
-        "url": "https://open.spotify.com/album/44PmpxWzjR4OvRa2Ok1RZP"
-      },
-      "artists": [
-        {
-          "name": "Private Island",
-          "url": "https://open.spotify.com/artist/21MZoYDTcbPsC5crOQVqho"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Can't Take My Eyes Off You",
-      "url": "https://open.spotify.com/track/0akpudMz8aq9UgPTMUK0qq"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Weird Fishes",
         "url": "https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv"
       },
@@ -1247,6 +1215,38 @@
       "duration_ms": 354533,
       "name": "Weird Fishes",
       "url": "https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "slow dancing in a burning room (stripped)",
+        "url": "https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx"
+      },
+      "artists": [
+        {
+          "name": "ST LUNA",
+          "url": "https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw"
+        }
+      ],
+      "duration_ms": 195578,
+      "name": "slow dancing in a burning room - stripped",
+      "url": "https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Can't Take My Eyes Off You / 3BadSoSad - Edit",
+        "url": "https://open.spotify.com/album/44PmpxWzjR4OvRa2Ok1RZP"
+      },
+      "artists": [
+        {
+          "name": "Private Island",
+          "url": "https://open.spotify.com/artist/21MZoYDTcbPsC5crOQVqho"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Can't Take My Eyes Off You",
+      "url": "https://open.spotify.com/track/0akpudMz8aq9UgPTMUK0qq"
     }
   ],
   "unique_name": "Indie Covers",

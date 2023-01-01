@@ -1,12 +1,12 @@
 {
   "description": "Ay ay ay ay... Canta y no llores, porque cantando se alegran, cielito lindo, los corazones. ",
-  "num_followers": 195512,
+  "num_followers": 195687,
   "original_name": "M\u00e9xico Lindo & Querido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM2MzI4NiwwMDAwMDAwMDYxNWRmMWI2NzQ0MjEzY2MzYzI1MTlmZDg0NTU5NjM2",
+  "snapshot_id": "MTY3MjM2MzI4NiwwMDAwMDAwMGMwNGNiNDkzOTk4OTExNjYzMDhhNzUyM2U0NjFlYzE4",
   "tracks": [
     {
       "added_at": "2022-11-19 17:26:23",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
+        "name": "Antonio Aguilar",
+        "url": "https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS"
       },
       "artists": [
         {
-          "name": "Luis Aguilar",
-          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 105293,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ"
+      "duration_ms": 195303,
+      "name": "Canci\u00f3n Mixteca",
+      "url": "https://open.spotify.com/track/5JNNjvunaFiUT56W8GRs80"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Antonio Aguilar",
-        "url": "https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS"
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Luis Aguilar",
+          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
         }
       ],
-      "duration_ms": 195303,
-      "name": "Canci\u00f3n Mixteca",
-      "url": "https://open.spotify.com/track/5JNNjvunaFiUT56W8GRs80"
+      "duration_ms": 105293,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
+        "name": "Canto A Mi Tierra",
+        "url": "https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 148793,
+      "name": "Viva Mexico",
+      "url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
         "name": "Michoac\u00e1n",
         "url": "https://open.spotify.com/album/55p92gjcS6eHUXhQtD8mgY"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Canto A Mi Tierra",
-        "url": "https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 148793,
-      "name": "Viva Mexico",
-      "url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
         "name": "Pepe Aguilar con Tambora",
         "url": "https://open.spotify.com/album/7bjdQ2of917fzGwSlME5z9"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 276413,
       "name": "Pirekua Michoacana",
       "url": "https://open.spotify.com/track/2sjvUMD1MEGtiU5CVNWzb0"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
+        "name": "Antonio Aguilar Con Mariachi",
+        "url": "https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 191576,
+      "name": "Que Lindo Es Michoacan",
+      "url": "https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -715,22 +731,6 @@
       "duration_ms": 128560,
       "name": "El Carretero Se Va",
       "url": "https://open.spotify.com/track/14hwgXezbZDPcyhq7Zw91D"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
-        "name": "Antonio Aguilar Con Mariachi",
-        "url": "https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 191576,
-      "name": "Que Lindo Es Michoacan",
-      "url": "https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5"
     },
     {
       "added_at": "2022-11-19 17:26:23",

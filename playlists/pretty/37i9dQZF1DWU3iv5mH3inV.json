@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: El Alfa",
-  "num_followers": 72550,
+  "num_followers": 72666,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI5Njc2OSwwMDAwMDAwMDZhNGI5OWZmMzlhMGQxZDEwMzE2Njc5YWVhY2ZjODcy",
+  "snapshot_id": "MTY3MjI5Njc2OSwwMDAwMDAwMDk0ODdkMzQyMTY4YjExOTUxZWFkYjBkYmY3MDNlNWZh",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
     },
     {
-      "added_at": "2022-12-31 00:52:30",
+      "added_at": "2023-01-01 01:06:07",
       "album": {
         "name": "El Toro",
         "url": "https://open.spotify.com/album/31TLZhqZdOT2HVrh5b9rrH"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/1mISgMoXw5fKI3ESj03tPd"
     },
     {
-      "added_at": "2022-12-31 00:52:30",
+      "added_at": "2023-01-01 01:06:07",
       "album": {
         "name": "Hay Santo",
         "url": "https://open.spotify.com/album/2jlvqgwdqIpqpuYGv1JdJ2"
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Reggaeton Latino Y M\u00e1s",
-        "url": "https://open.spotify.com/album/5CYsAeq9qjHS4HXS90K3kV"
-      },
-      "artists": [
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        }
-      ],
-      "duration_ms": 110788,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/6bMSP5IyrfELhfMy93KPYT"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Me la Subi\u00f3",
         "url": "https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 100704,
       "name": "Me la Subi\u00f3",
       "url": "https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Reggaeton Latino Y M\u00e1s",
+        "url": "https://open.spotify.com/album/5CYsAeq9qjHS4HXS90K3kV"
+      },
+      "artists": [
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "duration_ms": 110788,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/6bMSP5IyrfELhfMy93KPYT"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -619,6 +619,38 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Marianela",
+        "url": "https://open.spotify.com/album/3DcQWl5CYS0R81XMNYGNDS"
+      },
+      "artists": [
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "duration_ms": 188760,
+      "name": "Marianela",
+      "url": "https://open.spotify.com/track/3NVvbKNndun3sfDKJANhw4"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Vibra Latina",
+        "url": "https://open.spotify.com/album/5MYwgZa0VC4IKzPM2XGqIC"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 211515,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/46P3sjn38awa9mlokdDlBU"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Prende el Party",
         "url": "https://open.spotify.com/album/0nZ7g8tTNbNUkgh0Z8QDjc"
       },
@@ -643,38 +675,6 @@
       "duration_ms": 184194,
       "name": "Prende el Party",
       "url": "https://open.spotify.com/track/23IfleMgXhIkqdcelFaFZm"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Vibra Latina",
-        "url": "https://open.spotify.com/album/5MYwgZa0VC4IKzPM2XGqIC"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 211515,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/46P3sjn38awa9mlokdDlBU"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Marianela",
-        "url": "https://open.spotify.com/album/3DcQWl5CYS0R81XMNYGNDS"
-      },
-      "artists": [
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 188760,
-      "name": "Marianela",
-      "url": "https://open.spotify.com/track/3NVvbKNndun3sfDKJANhw4"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Exito, Vol 1",
+        "url": "https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai"
+      },
+      "artists": [
+        {
+          "name": "Secreto \"El Famoso Biberon\"",
+          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Amaneci Contento",
+      "url": "https://open.spotify.com/track/7LYul65sg4QXvejKlzqN4t"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Bebe y Bebe",
         "url": "https://open.spotify.com/album/5G6bxvNKMT61N0bZ6zup8G"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 194347,
       "name": "Bebe y Bebe",
       "url": "https://open.spotify.com/track/33F6yLeQoBxXW0aZTVPlF7"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Exito, Vol 1",
-        "url": "https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai"
-      },
-      "artists": [
-        {
-          "name": "Secreto \"El Famoso Biberon\"",
-          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Amaneci Contento",
-      "url": "https://open.spotify.com/track/7LYul65sg4QXvejKlzqN4t"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/1dovid8Cb5WCdaUCccteeh"
+      },
+      "artists": [
+        {
+          "name": "La Materialista",
+          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
+        }
+      ],
+      "duration_ms": 215301,
+      "name": "La Chapa Que Vibran",
+      "url": "https://open.spotify.com/track/6cFckWKvl4IrBmRZI995kG"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "5 Mujeres",
         "url": "https://open.spotify.com/album/2P0gPcMDGOOUdtGo2ECluI"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 209000,
       "name": "5 Mujeres",
       "url": "https://open.spotify.com/track/12IF1N3EbqgvRZweMJHAVO"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/1dovid8Cb5WCdaUCccteeh"
-      },
-      "artists": [
-        {
-          "name": "La Materialista",
-          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
-        }
-      ],
-      "duration_ms": 215301,
-      "name": "La Chapa Que Vibran",
-      "url": "https://open.spotify.com/track/6cFckWKvl4IrBmRZI995kG"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Desacatate",
+        "url": "https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV"
+      },
+      "artists": [
+        {
+          "name": "La Materialista",
+          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "duration_ms": 161130,
+      "name": "Desacatate",
+      "url": "https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Knock Out",
         "url": "https://open.spotify.com/album/3gnvNadSEuwYy86yDc7j7n"
       },
@@ -1579,26 +1599,6 @@
       "duration_ms": 195596,
       "name": "Knock Out",
       "url": "https://open.spotify.com/track/6YRH8zh2KMbltmbSf4Qe1d"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Desacatate",
-        "url": "https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV"
-      },
-      "artists": [
-        {
-          "name": "La Materialista",
-          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        }
-      ],
-      "duration_ms": 161130,
-      "name": "Desacatate",
-      "url": "https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Me Subo Arriba",
-        "url": "https://open.spotify.com/album/2xUAOCkgUjzbLF98XTC2lT"
-      },
-      "artists": [
-        {
-          "name": "La Insuperable",
-          "url": "https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu"
-        }
-      ],
-      "duration_ms": 208147,
-      "name": "Me Subo Arriba",
-      "url": "https://open.spotify.com/track/0rmJCeOoTH673NPxw4CiqM"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Tembeleke",
         "url": "https://open.spotify.com/album/2im1MJ93yLX0OTE7LKBczH"
       },
@@ -2103,26 +2087,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Subela Aqui",
-        "url": "https://open.spotify.com/album/4S8T6qvnweIUBOhhl0Yrto"
+        "name": "Me Subo Arriba",
+        "url": "https://open.spotify.com/album/2xUAOCkgUjzbLF98XTC2lT"
       },
       "artists": [
         {
-          "name": "Skary Movies",
-          "url": "https://open.spotify.com/artist/1XoyGvF7OzxGHNDdM8JPC1"
-        },
-        {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
-        },
-        {
-          "name": "Kaly Ocho",
-          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
+          "name": "La Insuperable",
+          "url": "https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu"
         }
       ],
-      "duration_ms": 171014,
-      "name": "Subela Aqui",
-      "url": "https://open.spotify.com/track/3EVLgz5ujlUbm6eZnRM2jw"
+      "duration_ms": 208147,
+      "name": "Me Subo Arriba",
+      "url": "https://open.spotify.com/track/0rmJCeOoTH673NPxw4CiqM"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2151,6 +2127,30 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Subela Aqui",
+        "url": "https://open.spotify.com/album/4S8T6qvnweIUBOhhl0Yrto"
+      },
+      "artists": [
+        {
+          "name": "Skary Movies",
+          "url": "https://open.spotify.com/artist/1XoyGvF7OzxGHNDdM8JPC1"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "Kaly Ocho",
+          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
+        }
+      ],
+      "duration_ms": 171014,
+      "name": "Subela Aqui",
+      "url": "https://open.spotify.com/track/3EVLgz5ujlUbm6eZnRM2jw"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/7p9lBLA0o9JnxOgosUZlLJ"
       },
@@ -2163,22 +2163,6 @@
       "duration_ms": 199615,
       "name": "Me Tienen Dema (Golo Golo)",
       "url": "https://open.spotify.com/track/6y9VN5ngWahRxk7xv7sQru"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Favela",
-        "url": "https://open.spotify.com/album/3uQfNR0M6pGC1W30l0h7dE"
-      },
-      "artists": [
-        {
-          "name": "Denyerkin",
-          "url": "https://open.spotify.com/artist/6CeuGv4HZFxwZB1LyCBUjn"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "Favela",
-      "url": "https://open.spotify.com/track/14ZJHmV9qqB4Fhd40QFJz0"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2203,26 +2187,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Ma Me Mi Mo Mu",
-        "url": "https://open.spotify.com/album/3RS3rgFdBFjsOzxWhezRU3"
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/3uQfNR0M6pGC1W30l0h7dE"
       },
       "artists": [
         {
-          "name": "Verbo Flow",
-          "url": "https://open.spotify.com/artist/0dxkgaBNqak7UBqLB1sZrQ"
-        },
-        {
-          "name": "Kamil Nicole",
-          "url": "https://open.spotify.com/artist/1vRflnO0vGZJYByD348tTK"
-        },
-        {
-          "name": "Imperio Record",
-          "url": "https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3"
+          "name": "Denyerkin",
+          "url": "https://open.spotify.com/artist/6CeuGv4HZFxwZB1LyCBUjn"
         }
       ],
-      "duration_ms": 125193,
-      "name": "Ma Me Mi Mo Mu",
-      "url": "https://open.spotify.com/track/037ybKYibufTvNlUvf1Ut1"
+      "duration_ms": 146500,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/14ZJHmV9qqB4Fhd40QFJz0"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2243,6 +2219,30 @@
       "duration_ms": 205348,
       "name": "Ponte Freca",
       "url": "https://open.spotify.com/track/66yTiMUt2nv74sPqiPqHEp"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Ma Me Mi Mo Mu",
+        "url": "https://open.spotify.com/album/3RS3rgFdBFjsOzxWhezRU3"
+      },
+      "artists": [
+        {
+          "name": "Verbo Flow",
+          "url": "https://open.spotify.com/artist/0dxkgaBNqak7UBqLB1sZrQ"
+        },
+        {
+          "name": "Kamil Nicole",
+          "url": "https://open.spotify.com/artist/1vRflnO0vGZJYByD348tTK"
+        },
+        {
+          "name": "Imperio Record",
+          "url": "https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3"
+        }
+      ],
+      "duration_ms": 125193,
+      "name": "Ma Me Mi Mo Mu",
+      "url": "https://open.spotify.com/track/037ybKYibufTvNlUvf1Ut1"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2395,6 +2395,26 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Exitos, Vol.1",
+        "url": "https://open.spotify.com/album/3VYjIp6qFqI0GrEAy3tvBD"
+      },
+      "artists": [
+        {
+          "name": "L-R",
+          "url": "https://open.spotify.com/artist/1SHvPZpMlhUBjJysc0ZtV8"
+        },
+        {
+          "name": "La Nueva Escuela",
+          "url": "https://open.spotify.com/artist/7mcJN2bWqCv7jvykgHp4KN"
+        }
+      ],
+      "duration_ms": 155168,
+      "name": "Ella Me Mira (feat. La Nueva Escuela)",
+      "url": "https://open.spotify.com/track/42pwnitS0DXpyFrb1FylEI"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "LATIN HITS 2018 - Reggaeton, Salsa, Bachata, Pop Latino, Latin Fitness (60 Super Exitos Latinos - Club Edition)",
         "url": "https://open.spotify.com/album/7CecgOEOAK5MBc5kkEycA4"
       },
@@ -2447,26 +2467,6 @@
       "duration_ms": 228571,
       "name": "melacomo",
       "url": "https://open.spotify.com/track/6FUiZ86ucz8sn45kLfK2wD"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Exitos, Vol.1",
-        "url": "https://open.spotify.com/album/3VYjIp6qFqI0GrEAy3tvBD"
-      },
-      "artists": [
-        {
-          "name": "L-R",
-          "url": "https://open.spotify.com/artist/1SHvPZpMlhUBjJysc0ZtV8"
-        },
-        {
-          "name": "La Nueva Escuela",
-          "url": "https://open.spotify.com/artist/7mcJN2bWqCv7jvykgHp4KN"
-        }
-      ],
-      "duration_ms": 155168,
-      "name": "Ella Me Mira (feat. La Nueva Escuela)",
-      "url": "https://open.spotify.com/track/42pwnitS0DXpyFrb1FylEI"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2651,6 +2651,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "duration_ms": 192835,
+      "name": "Pa Que Me Dan de Eso",
+      "url": "https://open.spotify.com/track/3p1QSTu0MI97klqS8IH6ND"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Tusi Quiere Vol 2",
         "url": "https://open.spotify.com/album/6VIBheP2VlG1SnHNsioLRa"
       },
@@ -2691,22 +2707,6 @@
       "duration_ms": 501207,
       "name": "Tusi Quiere Vol 2",
       "url": "https://open.spotify.com/track/6PFcqAASJqKW8RumgjtsPN"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP"
-      },
-      "artists": [
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        }
-      ],
-      "duration_ms": 192835,
-      "name": "Pa Que Me Dan de Eso",
-      "url": "https://open.spotify.com/track/3p1QSTu0MI97klqS8IH6ND"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2771,22 +2771,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Reverencia H\u00e1ganme",
-        "url": "https://open.spotify.com/album/1XTEetVuPgrjIVmwh3Z8RT"
-      },
-      "artists": [
-        {
-          "name": "El Rey Guevara",
-          "url": "https://open.spotify.com/artist/3G6kxVxikTndvEhPQBX45m"
-        }
-      ],
-      "duration_ms": 229368,
-      "name": "No Me Friso",
-      "url": "https://open.spotify.com/track/0kubltSGBsLjlAe9AzCvMQ"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Primero Que Kanye",
         "url": "https://open.spotify.com/album/6As2PZV5rjM9lszI3VSjy4"
       },
@@ -2803,6 +2787,22 @@
       "duration_ms": 192313,
       "name": "Primero Que Kanye",
       "url": "https://open.spotify.com/track/6qEOJy5NL5tGGYxpj7dQZY"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Reverencia H\u00e1ganme",
+        "url": "https://open.spotify.com/album/1XTEetVuPgrjIVmwh3Z8RT"
+      },
+      "artists": [
+        {
+          "name": "El Rey Guevara",
+          "url": "https://open.spotify.com/artist/3G6kxVxikTndvEhPQBX45m"
+        }
+      ],
+      "duration_ms": 229368,
+      "name": "No Me Friso",
+      "url": "https://open.spotify.com/track/0kubltSGBsLjlAe9AzCvMQ"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2903,22 +2903,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Vaina Bakana",
-        "url": "https://open.spotify.com/album/63VzRHrUrmftA2NbRrgzk8"
-      },
-      "artists": [
-        {
-          "name": "Elilluminari",
-          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
-        }
-      ],
-      "duration_ms": 197217,
-      "name": "Vaina Bakana",
-      "url": "https://open.spotify.com/track/6zv9M2zIHPSXOLOJsAPW0U"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Llevo la Vainita",
         "url": "https://open.spotify.com/album/77uDtYXYbHgxQWvT7YCKAX"
       },
@@ -2931,6 +2915,22 @@
       "duration_ms": 162037,
       "name": "Llevo la Vainita",
       "url": "https://open.spotify.com/track/0PtuUiKPpQqEp2W4CasynB"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Vaina Bakana",
+        "url": "https://open.spotify.com/album/63VzRHrUrmftA2NbRrgzk8"
+      },
+      "artists": [
+        {
+          "name": "Elilluminari",
+          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
+        }
+      ],
+      "duration_ms": 197217,
+      "name": "Vaina Bakana",
+      "url": "https://open.spotify.com/track/6zv9M2zIHPSXOLOJsAPW0U"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -3003,22 +3003,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "NO TE INVITO PA MI BARRIO",
-        "url": "https://open.spotify.com/album/0calPXCszZGEZUdufK4Cj5"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 148140,
-      "name": "NO TE INVITO PA MI BARRIO",
-      "url": "https://open.spotify.com/track/6bjVmW97SELrS7rEMNXnmE"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "La Gomita",
         "url": "https://open.spotify.com/album/1TQ1nTb1tVfHnQOUtXKTx4"
       },
@@ -3031,6 +3015,22 @@
       "duration_ms": 163346,
       "name": "La Gomita",
       "url": "https://open.spotify.com/track/0QQbO11ji2wf2VitEQpCZL"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "NO TE INVITO PA MI BARRIO",
+        "url": "https://open.spotify.com/album/0calPXCszZGEZUdufK4Cj5"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 148140,
+      "name": "NO TE INVITO PA MI BARRIO",
+      "url": "https://open.spotify.com/track/6bjVmW97SELrS7rEMNXnmE"
     },
     {
       "added_at": "2022-11-25 05:00:00",

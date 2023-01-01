@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE4OTc1NCwwMDAwMDAwMDIxYjFiYmVhMDc2NmFmODhjZDY2OTVhNjM5N2I1OWI2",
+  "snapshot_id": "MTY3MTE4OTc1NCwwMDAwMDAwMDM3NDNmNzdhZWYzMDE4MjBlMDRkOWQ5YTg3MDMyNDJl",
   "tracks": [
     {
       "added_at": "2022-12-16 11:22:34",
@@ -141,26 +141,6 @@
       "url": "https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Part2 (Dinner in Maui)",
-        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
-      },
-      "artists": [
-        {
-          "name": "Hermez",
-          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
-        },
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        }
-      ],
-      "duration_ms": 193896,
-      "name": "Part2 (Dinner in Maui)",
-      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
-    },
-    {
       "added_at": "2022-10-07 10:52:01",
       "album": {
         "name": "Biwamiel",
@@ -179,6 +159,26 @@
       "duration_ms": 155007,
       "name": "Biwamiel",
       "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Part2 (Dinner in Maui)",
+        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
+      },
+      "artists": [
+        {
+          "name": "Hermez",
+          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "duration_ms": 193896,
+      "name": "Part2 (Dinner in Maui)",
+      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
     },
     {
+      "added_at": "2022-12-09 12:00:13",
+      "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
+      },
+      "artists": [
+        {
+          "name": "Runbouy",
+          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
+    },
+    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Chai Mata",
@@ -283,6 +299,22 @@
       "duration_ms": 175000,
       "name": "Chai Mata",
       "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 180172,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -303,34 +335,18 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
+        "name": "Wangi",
+        "url": "https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT"
       },
       "artists": [
         {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
         }
       ],
-      "duration_ms": 180172,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
-    },
-    {
-      "added_at": "2022-12-09 12:00:13",
-      "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
-      },
-      "artists": [
-        {
-          "name": "Runbouy",
-          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
+      "duration_ms": 156055,
+      "name": "Wangi",
+      "url": "https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK"
     },
     {
       "added_at": "2022-11-10 20:59:00",
@@ -347,22 +363,6 @@
       "duration_ms": 173949,
       "name": "BESTIE",
       "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Wangi",
-        "url": "https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 156055,
-      "name": "Wangi",
-      "url": "https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK"
     },
     {
       "added_at": "2022-11-17 20:59:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
-      },
-      "artists": [
-        {
-          "name": "Zulitums",
-          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Kikole",
         "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 209361,
       "name": "Kikole",
       "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
+      },
+      "artists": [
+        {
+          "name": "Zulitums",
+          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Kampala",
-        "url": "https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG"
+        "name": "4 U",
+        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
       },
       "artists": [
         {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+          "name": "Ceee",
+          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
         }
       ],
-      "duration_ms": 189544,
-      "name": "Kampala",
-      "url": "https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74"
+      "duration_ms": 135965,
+      "name": "4 U",
+      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "4 U",
-        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
+        "name": "Kampala",
+        "url": "https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG"
       },
       "artists": [
         {
-          "name": "Ceee",
-          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
         }
       ],
-      "duration_ms": 135965,
-      "name": "4 U",
-      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
+      "duration_ms": 189544,
+      "name": "Kampala",
+      "url": "https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74"
     },
     {
       "added_at": "2022-11-17 20:59:00",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "LIFIST",
-        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
-      },
-      "artists": [
-        {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
-        }
-      ],
-      "duration_ms": 214729,
-      "name": "LIFIST",
-      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
-    },
-    {
       "added_at": "2022-11-17 20:59:00",
       "album": {
         "name": "Bajooga",
@@ -647,6 +631,22 @@
       "duration_ms": 175072,
       "name": "Bajooga",
       "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "LIFIST",
+        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
+      },
+      "artists": [
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "duration_ms": 214729,
+      "name": "LIFIST",
+      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -697,26 +697,6 @@
       "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
     },
     {
-      "added_at": "2022-10-06 21:00:00",
-      "album": {
-        "name": "Second of All",
-        "url": "https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh"
-      },
-      "artists": [
-        {
-          "name": "Deejay Xp",
-          "url": "https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj"
-        },
-        {
-          "name": "Recho Ray",
-          "url": "https://open.spotify.com/artist/7pChsFrLjhslGKSfnYWIve"
-        }
-      ],
-      "duration_ms": 146399,
-      "name": "Obinkola",
-      "url": "https://open.spotify.com/track/69UyO55KUY7xMsuEmj6nlY"
-    },
-    {
       "added_at": "2022-11-10 20:59:00",
       "album": {
         "name": "Mun G Singles",
@@ -731,26 +711,6 @@
       "duration_ms": 270054,
       "name": "Champion",
       "url": "https://open.spotify.com/track/2Ro8OuIwKZzAB3K1qxzfnC"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Where I Go",
-        "url": "https://open.spotify.com/album/7I7WhvKLyyg0ZdN0VdiE4L"
-      },
-      "artists": [
-        {
-          "name": "Jesse10s",
-          "url": "https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH"
-        },
-        {
-          "name": "DJ Victor256",
-          "url": "https://open.spotify.com/artist/3enYxNCiWcZ1ad6K5QIioX"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Where I Go",
-      "url": "https://open.spotify.com/track/2FU8JRZMQ6il2cj4iqbH4Z"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -783,6 +743,46 @@
       "duration_ms": 178754,
       "name": "Boss Lady",
       "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
+    },
+    {
+      "added_at": "2022-10-06 21:00:00",
+      "album": {
+        "name": "Second of All",
+        "url": "https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh"
+      },
+      "artists": [
+        {
+          "name": "Deejay Xp",
+          "url": "https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj"
+        },
+        {
+          "name": "Recho Ray",
+          "url": "https://open.spotify.com/artist/7pChsFrLjhslGKSfnYWIve"
+        }
+      ],
+      "duration_ms": 146399,
+      "name": "Obinkola",
+      "url": "https://open.spotify.com/track/69UyO55KUY7xMsuEmj6nlY"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Where I Go",
+        "url": "https://open.spotify.com/album/7I7WhvKLyyg0ZdN0VdiE4L"
+      },
+      "artists": [
+        {
+          "name": "Jesse10s",
+          "url": "https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH"
+        },
+        {
+          "name": "DJ Victor256",
+          "url": "https://open.spotify.com/artist/3enYxNCiWcZ1ad6K5QIioX"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Where I Go",
+      "url": "https://open.spotify.com/track/2FU8JRZMQ6il2cj4iqbH4Z"
     },
     {
       "added_at": "2022-12-09 12:00:13",

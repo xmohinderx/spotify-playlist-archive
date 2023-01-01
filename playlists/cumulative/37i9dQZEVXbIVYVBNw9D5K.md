@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-576 songs - 1 day 5 hr 17 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+577 songs - 1 day 5 hr 20 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,7 @@
 | [M.](https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW) | [Anıl Emre Daldal](https://open.spotify.com/artist/5MHG3bmjGh0aqT8hS3nPzS) | [M.](https://open.spotify.com/album/03smIQd1UMqU4jjyaUtAHl) | 3:43 | 2022-12-26 | 2022-12-28 |
 | [Mahvettim](https://open.spotify.com/track/1GWxwShcDEdSvlr0jcpYI1) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mahvettim](https://open.spotify.com/album/3hrus3W40mGxVJRPRKHrrP) | 2:36 | 2021-10-31 | 2022-01-05 |
 | [Mahvettim](https://open.spotify.com/track/1ji6PoTBfVXqycvsXdgZgp) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mahvettim](https://open.spotify.com/album/6MYYIeblEVcAdUyFqIRIIq) | 2:36 | 2021-10-30 | 2022-05-13 |
-| [Mahşer](https://open.spotify.com/track/2RehF0hYbLDGxLTvjL0Xy6) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Mahşer](https://open.spotify.com/album/6feh1gWrVrm2mCgHrCUTyN) | 4:31 | 2022-04-12 |  |
+| [Mahşer](https://open.spotify.com/track/2RehF0hYbLDGxLTvjL0Xy6) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Mahşer](https://open.spotify.com/album/6feh1gWrVrm2mCgHrCUTyN) | 4:31 | 2022-04-12 | 2023-01-01 |
 | [MAKARON \- LÉ ORIGINAL](https://open.spotify.com/track/1Nq0FjJsVR06EYNZcyCvIG) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 2:57 | 2022-01-22 | 2022-01-26 |
 | [Makina](https://open.spotify.com/track/5jvhTc0g18kwYQNUJM5C4e) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:31 | 2021-03-27\* | 2022-03-30 |
 | [Marlon Brando](https://open.spotify.com/track/0O2zRCntGYssJk4bGn6dXk) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Marlon Brando](https://open.spotify.com/album/746vxoUmfdqRya2d924CPj) | 3:30 | 2021-05-09 | 2021-05-23 |
@@ -404,6 +404,7 @@
 | [NKBİ](https://open.spotify.com/track/7lkqbdBKrsyNNq3xi0LeaY) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:57 | 2022-06-06 |  |
 | [NKBİ 2.0](https://open.spotify.com/track/63AIGuQJ8ZJWx02a9On4ov) | [Batuhan Şenel](https://open.spotify.com/artist/5ajPGCI6ThsiQNtgS3cn0K) | [NKBİ 2.0](https://open.spotify.com/album/62BXK8tzVl2eszPRgEjM4r) | 3:00 | 2022-12-27 | 2022-12-29 |
 | [NKBİ 2.0](https://open.spotify.com/track/6a2HEgqlTmdxMOaLiLJz7O) | [Shuzky](https://open.spotify.com/artist/0LYZv1HvXUlUGnTXZeiAgw), [Godzee](https://open.spotify.com/artist/5vQvrYiNH2jK4GWSmbxK1T) | [NKBİ 2.0](https://open.spotify.com/album/1hif1tjTQ2RNijfzS8QWO7) | 2:58 | 2022-11-26 | 2022-12-01 |
+| [NKBİ X YAPAMAM \- Remix](https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [NKBİ X YAPAMAM \(Remix\)](https://open.spotify.com/album/0mb2uVTelCRlvgRgVrzAPZ) | 3:02 | 2022-12-31 |  |
 | [O \- CHORBA](https://open.spotify.com/track/0vhDm5t8sVsqPh9JOKTvaQ) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 0:57 | 2022-10-15 | 2022-10-20 |
 | [O LA LA](https://open.spotify.com/track/1qi3oAU3QDe3dPdGEY09dr) | [GOKO!](https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [O LA LA](https://open.spotify.com/album/0uBZmFQB35RUrwevBBc9dM) | 3:35 | 2021-10-10 | 2021-10-17 |
 | [OHA Remix \(feat\. Luciano\)](https://open.spotify.com/track/6XxDxfDeSl1IPlt1h77ZlY) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [OHA Remix \(feat\. Luciano\)](https://open.spotify.com/album/4Bf4YbkcmXRxMlELeoJVzz) | 3:15 | 2021-09-14 | 2021-10-04 |

@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 584713,
+  "num_followers": 584891,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYyNTY3OCwwMDAwMDAwMDg5YzcwMDgyNThlY2U3NDQ1MWM3YjYwODE0ZjA5ODA1",
+  "snapshot_id": "MTY3MTYyNTY3OCwwMDAwMDAwMDMxODk2NTBkNjQ0NjJiYjQ3YTdmMDNhMWFjMTRiNGRh",
   "tracks": [
     {
       "added_at": "2022-11-21 12:26:20",
@@ -231,6 +231,26 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
+        "name": "Am Wasser gebaut",
+        "url": "https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        },
+        {
+          "name": "Pascal Finkenauer",
+          "url": "https://open.spotify.com/artist/3uc18KTx2wsLk11fOtavsT"
+        }
+      ],
+      "duration_ms": 241666,
+      "name": "An Tagen wie diesen",
+      "url": "https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD"
+    },
+    {
+      "added_at": "2022-11-21 12:26:20",
+      "album": {
         "name": "Advanced Chemistry",
         "url": "https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 253680,
       "name": "Ahnma",
       "url": "https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8"
-    },
-    {
-      "added_at": "2022-11-21 12:26:20",
-      "album": {
-        "name": "Am Wasser gebaut",
-        "url": "https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg"
-      },
-      "artists": [
-        {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
-        },
-        {
-          "name": "Pascal Finkenauer",
-          "url": "https://open.spotify.com/artist/3uc18KTx2wsLk11fOtavsT"
-        }
-      ],
-      "duration_ms": 241666,
-      "name": "An Tagen wie diesen",
-      "url": "https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD"
     },
     {
       "added_at": "2022-11-21 12:26:20",
@@ -311,18 +311,18 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
+        "name": "Wir Kinder vom Bahnhof Soul (Re-Release)",
+        "url": "https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i"
       },
       "artists": [
         {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
         }
       ],
-      "duration_ms": 163506,
-      "name": "Du bist Boss",
-      "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
+      "duration_ms": 219013,
+      "name": "Oh Jonny",
+      "url": "https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U"
     },
     {
       "added_at": "2022-11-21 12:26:20",
@@ -343,18 +343,18 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
-        "name": "Wir Kinder vom Bahnhof Soul (Re-Release)",
-        "url": "https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i"
+        "name": "King",
+        "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
       },
       "artists": [
         {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
         }
       ],
-      "duration_ms": 219013,
-      "name": "Oh Jonny",
-      "url": "https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U"
+      "duration_ms": 163506,
+      "name": "Du bist Boss",
+      "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
     },
     {
       "added_at": "2022-11-21 12:26:20",

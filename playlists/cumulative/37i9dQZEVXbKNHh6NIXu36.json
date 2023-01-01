@@ -4435,7 +4435,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
@@ -8545,7 +8545,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 202709,
       "name": "Glatteis",
       "url": "https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR"
@@ -11343,6 +11343,28 @@
       "duration_ms": 131067,
       "name": "Keine Tr\u00e4nen",
       "url": "https://open.spotify.com/track/03ClGz3IWepPxLcVlGSC5Q"
+    },
+    {
+      "album": {
+        "name": "Kernkraft 400 (A Better Day)",
+        "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165800,
+      "name": "Kernkraft 400 (A Better Day)",
+      "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
     },
     {
       "album": {
@@ -20075,7 +20097,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 173423,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/6kvW6EI5UuqCmlp7L7HD9O"
@@ -22205,7 +22227,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -22703,6 +22725,28 @@
       "duration_ms": 164801,
       "name": "Vigilante Shit",
       "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
+    },
+    {
+      "album": {
+        "name": "VIJA VIJA",
+        "url": "https://open.spotify.com/album/5kgFnxgr9spGsh6EJzMZpT"
+      },
+      "artists": [
+        {
+          "name": "DJ Gimi-O",
+          "url": "https://open.spotify.com/artist/5lU3mLIonARnLpRtp5f77M"
+        },
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153773,
+      "name": "VIJA VIJA",
+      "url": "https://open.spotify.com/track/1VcHYhlqqEDdN2D2sumdWo"
     },
     {
       "album": {

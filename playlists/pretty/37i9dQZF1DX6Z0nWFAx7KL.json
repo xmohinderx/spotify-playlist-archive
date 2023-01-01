@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 27964,
+  "num_followers": 27985,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM1NDgwMCwwMDAwMDAwMDc4OGE2ZmIwMTllNWI0OTgxNGU4YWIzNWYxZTc3MjVl",
+  "snapshot_id": "MTY3MjM1NDgwMCwwMDAwMDAwMGQ0MTk2NWNkMTMyOWVlZmQ3NzI3MTllMzVmYTVmMmVj",
   "tracks": [
     {
       "added_at": "2022-12-29 23:00:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        },
-        {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Lightning To Strike",
         "url": "https://open.spotify.com/album/1aNnUYONYEnpd5jhZactiH"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 178721,
       "name": "Lightning To Strike",
       "url": "https://open.spotify.com/track/4wc6fFKSf4opxdNajyHPc4"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        },
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ"
-      },
-      "artists": [
-        {
-          "name": "Mateo",
-          "url": "https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "All Shook Up",
         "url": "https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 154838,
       "name": "All Shook Up",
       "url": "https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ"
+      },
+      "artists": [
+        {
+          "name": "Mateo",
+          "url": "https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
+        "name": "What You Do to Me",
+        "url": "https://open.spotify.com/album/2XtqLhPvm9V8V8l7U399Z1"
+      },
+      "artists": [
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 164388,
+      "name": "What You Do to Me",
+      "url": "https://open.spotify.com/track/1LXP8KNXO6PYx9HePA1JQW"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
         "name": "Black & Blue",
         "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 169048,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "What You Do to Me",
-        "url": "https://open.spotify.com/album/2XtqLhPvm9V8V8l7U399Z1"
-      },
-      "artists": [
-        {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
-        }
-      ],
-      "duration_ms": 164388,
-      "name": "What You Do to Me",
-      "url": "https://open.spotify.com/track/1LXP8KNXO6PYx9HePA1JQW"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "A Radiant Sign",
-        "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        }
-      ],
-      "duration_ms": 232917,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "All The Highs (Alternate Versions)",
         "url": "https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 187377,
       "name": "Botanica",
       "url": "https://open.spotify.com/track/1o3ksFswee5ivJWC6eJTa1"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "A Radiant Sign",
+        "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "duration_ms": 232917,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1127,6 +1127,30 @@
       "duration_ms": 164000,
       "name": "Escaping",
       "url": "https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Feelings After Dark (feat. NISHA)",
+        "url": "https://open.spotify.com/album/2BuyHgSr8yy1LHEJCdMcBd"
+      },
+      "artists": [
+        {
+          "name": "Michael Calfan",
+          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
+        },
+        {
+          "name": "HARBER",
+          "url": "https://open.spotify.com/artist/31TGg0YIcWnprDAqruoJSd"
+        },
+        {
+          "name": "NISHA",
+          "url": "https://open.spotify.com/artist/0zY8LOMvTmcromP2vV0nBv"
+        }
+      ],
+      "duration_ms": 164531,
+      "name": "Feelings After Dark (feat. NISHA)",
+      "url": "https://open.spotify.com/track/6xZsVNX6ZkOFNEj9ByRtow"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1211,30 +1235,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Feelings After Dark (feat. NISHA)",
-        "url": "https://open.spotify.com/album/2BuyHgSr8yy1LHEJCdMcBd"
-      },
-      "artists": [
-        {
-          "name": "Michael Calfan",
-          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
-        },
-        {
-          "name": "HARBER",
-          "url": "https://open.spotify.com/artist/31TGg0YIcWnprDAqruoJSd"
-        },
-        {
-          "name": "NISHA",
-          "url": "https://open.spotify.com/artist/0zY8LOMvTmcromP2vV0nBv"
-        }
-      ],
-      "duration_ms": 164531,
-      "name": "Feelings After Dark (feat. NISHA)",
-      "url": "https://open.spotify.com/track/6xZsVNX6ZkOFNEj9ByRtow"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Like Home",
         "url": "https://open.spotify.com/album/0lCkWOdc6EZQKrsswelBXP"
       },
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS"
+      },
+      "artists": [
+        {
+          "name": "Sem Vox",
+          "url": "https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
         "name": "Come Along",
         "url": "https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 164304,
       "name": "Come Along",
       "url": "https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS"
-      },
-      "artists": [
-        {
-          "name": "Sem Vox",
-          "url": "https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Late Delivery",
-        "url": "https://open.spotify.com/album/3TRdSrFf5YrW0EFieyD552"
-      },
-      "artists": [
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        }
-      ],
-      "duration_ms": 202963,
-      "name": "Late Delivery",
-      "url": "https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "See You On The Other Side",
         "url": "https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG"
       },
@@ -1463,38 +1447,18 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+        "name": "Late Delivery",
+        "url": "https://open.spotify.com/album/3TRdSrFf5YrW0EFieyD552"
       },
       "artists": [
         {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
         }
       ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "Going Home",
-        "url": "https://open.spotify.com/album/1j2oZNhOLbA98Jx7Qj1Z2Y"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        },
-        {
-          "name": "Max Vidima",
-          "url": "https://open.spotify.com/artist/1e3YLJrPLmaaVXpokokDK6"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/28iHpIakBJCT7WsJAGw2QX"
+      "duration_ms": 202963,
+      "name": "Late Delivery",
+      "url": "https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1519,6 +1483,42 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/1j2oZNhOLbA98Jx7Qj1Z2Y"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Max Vidima",
+          "url": "https://open.spotify.com/artist/1e3YLJrPLmaaVXpokokDK6"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/28iHpIakBJCT7WsJAGw2QX"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
         "name": "Down from this High",
         "url": "https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo"
       },
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Out Of Love",
-        "url": "https://open.spotify.com/album/0FdPHF3vnJRYVSdn2GxekW"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lite",
-          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
-        }
-      ],
-      "duration_ms": 155263,
-      "name": "Out Of Love",
-      "url": "https://open.spotify.com/track/3U4v6cVqZK4mfPas99eT4W"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 171944,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Out Of Love",
+        "url": "https://open.spotify.com/album/0FdPHF3vnJRYVSdn2GxekW"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        }
+      ],
+      "duration_ms": 155263,
+      "name": "Out Of Love",
+      "url": "https://open.spotify.com/track/3U4v6cVqZK4mfPas99eT4W"
     }
   ],
   "unique_name": "Dance Chill",

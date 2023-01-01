@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,485,659 likes - 80 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,485,631 likes - 80 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,21 +72,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 62 | [Malibu](https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9) | [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul), [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Malibu](https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1) | 2:22 |
 | 63 | [Whatsreal](https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Whatsreal](https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T) | 2:28 |
 | 64 | [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 |
-| 65 | [Kumomi](https://open.spotify.com/track/1EUwtIVPwB08afinH7423c) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [February: A Rest in Beats Tribute to the Sounds of Nujabes](https://open.spotify.com/album/6bJFsauZZ1IfdOhQekv7x2) | 3:47 |
+| 65 | [Carol](https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [Carol](https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP) | 2:38 |
 | 66 | [Caffeine](https://open.spotify.com/track/4Yo8RVWFknM4TVEKG9UvGB) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Caffeine](https://open.spotify.com/album/2ecH0HoRUKmTvthO302pFd) | 1:28 |
-| 67 | [Jazz Neko](https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Origami Skizzen](https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF) | 2:32 |
-| 68 | [Bubble Beat](https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Bubble Beat](https://open.spotify.com/album/5p8ZcRknxkm5NZJGy3Ni3u) | 3:27 |
-| 69 | [Fogào Love](https://open.spotify.com/track/0sJ6oCjiYDCk0LH5ZpEQ4Y) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Couch Business](https://open.spotify.com/album/6AR8RyloFDRFf30SCzPB3x) | 1:44 |
-| 70 | [Carol](https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [Carol](https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP) | 2:38 |
+| 67 | [Kumomi](https://open.spotify.com/track/1EUwtIVPwB08afinH7423c) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [February: A Rest in Beats Tribute to the Sounds of Nujabes](https://open.spotify.com/album/6bJFsauZZ1IfdOhQekv7x2) | 3:47 |
+| 68 | [Jazz Neko](https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Origami Skizzen](https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF) | 2:32 |
+| 69 | [Bubble Beat](https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Bubble Beat](https://open.spotify.com/album/5p8ZcRknxkm5NZJGy3Ni3u) | 3:27 |
+| 70 | [Fogào Love](https://open.spotify.com/track/0sJ6oCjiYDCk0LH5ZpEQ4Y) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Couch Business](https://open.spotify.com/album/6AR8RyloFDRFf30SCzPB3x) | 1:44 |
 | 71 | [Undercurrent](https://open.spotify.com/track/7vg8AtIAyXzJK1fKKK8CZO) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Whitecaps](https://open.spotify.com/album/5wVxz4mhomoVmStrjnt4F0) | 2:07 |
 | 72 | [Dream In \- TiMT Remix](https://open.spotify.com/track/7yA5bPUdlZnsEdVqhBqJFs) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [TiMT](https://open.spotify.com/artist/6JavWK8JRQbZ3oX9nrkSyb) | [Fantastic Farewell \(2021 Remastered\)](https://open.spotify.com/album/5gPfWZNREhMcI8qWUBR7Ts) | 2:59 |
 | 73 | [Britnaeys new baby \[125 BPM\]](https://open.spotify.com/track/3eoWq5oqHA72MObemar3xY) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Don't Follow Me Because I'm Lost Too!!](https://open.spotify.com/album/0fzPd8PH6TQR8BQBkxQDRZ) | 2:52 |
 | 74 | [Tiny Grains of Guilt](https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Tiny Grains of Guilt](https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP) | 2:04 |
 | 75 | [Fanatic \- Instrumental](https://open.spotify.com/track/6WMHFhxkozjDKYX9ILRiB0) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Life After Dennison \(Instrumentals\)](https://open.spotify.com/album/7yyrASe6ss185AT0ucT35n) | 3:30 |
 | 76 | [Dance of Love](https://open.spotify.com/track/5ntW6ojguEtt0d9zMOMfLr) | [Murmur](https://open.spotify.com/artist/21h7fpqGaOoiOShHsTbYhX), [Akasha](https://open.spotify.com/artist/5oFsjDzNu5UwbtKnGXKacN), [Natsu](https://open.spotify.com/artist/6dGOlA4GtIDnOgbmT2Q8Xq) | [Reminders](https://open.spotify.com/album/0ybTK4uEYcnk3g5LPAILnN) | 2:21 |
-| 77 | [Only Way 2 Go \(Instrumental\)](https://open.spotify.com/track/78e0culZ0CKdTNf4aUzOc8) | [Diamond D](https://open.spotify.com/artist/1YypK4ExBm4UY1TRAOur8M), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [The Diam Piece Instrumentals](https://open.spotify.com/album/0ixOltqf2ad9LU7hVPOcPa) | 2:33 |
+| 77 | [Bopatron](https://open.spotify.com/track/3VYPsUPZMaf6lYOFoYwoB6) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/2Ghoxbvga4VuaGzBTcEVHg) | 3:16 |
 | 78 | [Quiet in the Garden](https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Just a Lullaby](https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd) | 2:20 |
 | 79 | [Camberwell](https://open.spotify.com/track/0rhsSLzNfB91innrvTBdx3) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Camberwell](https://open.spotify.com/album/7ALBhgIL3vvB2c5PVUSJ4Y) | 2:13 |
-| 80 | [Late Trains](https://open.spotify.com/track/7JQt4KO35aSwLQSlaSRsdY) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Late Trains](https://open.spotify.com/album/2RQtx9HPPtCPJPqUb1I3yJ) | 3:19 |
+| 80 | [Only Way 2 Go \(Instrumental\)](https://open.spotify.com/track/78e0culZ0CKdTNf4aUzOc8) | [Diamond D](https://open.spotify.com/artist/1YypK4ExBm4UY1TRAOur8M), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [The Diam Piece Instrumentals](https://open.spotify.com/album/0ixOltqf2ad9LU7hVPOcPa) | 2:33 |
 
-Snapshot ID: `MTY3MTExNjk5MCwwMDAwMDAwMGFhOTA0ZTIxYTA1Mzg5ZjNlNmQyOWQwMDViZTNkZWZh`
+Snapshot ID: `MTY3MTExNjk5MCwwMDAwMDAwMGUyZmVlOTNjNGZiYTE3NGMzODljMTQ3OTg4MzQ3ZmIz`

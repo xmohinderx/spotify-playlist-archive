@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,488 likes - 120 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,606 likes - 120 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,19 +114,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 104 | [Merciless Death](https://open.spotify.com/track/7bQqbbtZkaeCj4U14mYPR3) | [Dark Angel](https://open.spotify.com/artist/0RFQyVQGVcECxnuSLvEKxV) | [Darkness Descends](https://open.spotify.com/album/1IRzwwevpNSdxERoRIKQrw) | 4:02 |
 | 105 | [Executioner's Tax \(Swing of the Axe\) \[feat\. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias\]](https://open.spotify.com/track/16eCW4AHKMNsxLYD4thQGr) | [Ultra\-Violence](https://open.spotify.com/artist/6krhRWKGQ106VQGYdDFHAO), [David Sanchez](https://open.spotify.com/artist/07cz6I9ahKtbzJaehkJk7E), [Guillermo Izquierdo](https://open.spotify.com/artist/49bTia5VLmmlRthpgzLgkV), [Juli Bazooka](https://open.spotify.com/artist/5IecwP2g6giRRuQ2KpwlPO), [Lenny Bruce](https://open.spotify.com/artist/6aFRZPVhksTpz1GonWgEJ5), [Andrew Hudson](https://open.spotify.com/artist/1t3KT49CcGYnU7DSxP4yON), [Spyros Lafias](https://open.spotify.com/artist/34QHZfCmbQsR7LuxOy4tOr) | [Executioner's Tax \(Swing of the Axe\) \[feat\. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias\]](https://open.spotify.com/album/3VmidyqcmPSnZbh2gsEVuI) | 3:49 |
 | 106 | [Wrecking Crew](https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [Taking Over](https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N) | 4:32 |
-| 107 | [A Bitter Pill](https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb) | [Razor](https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B) | [A Bitter Pill](https://open.spotify.com/album/3DUNliOEQRkUeoqqt0Ccsr) | 2:47 |
-| 108 | [Enter The Grave](https://open.spotify.com/track/6A00Xnn0qg12xjEzCLY22O) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Enter The Grave](https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut) | 4:30 |
-| 109 | [Empire of the Blind](https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE) | [Heathen](https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF) | [Empire of the Blind](https://open.spotify.com/album/217f4bYa9XozSYchLop1qW) | 5:51 |
+| 107 | [Enter The Grave](https://open.spotify.com/track/6A00Xnn0qg12xjEzCLY22O) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Enter The Grave](https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut) | 4:30 |
+| 108 | [Empire of the Blind](https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE) | [Heathen](https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF) | [Empire of the Blind](https://open.spotify.com/album/217f4bYa9XozSYchLop1qW) | 5:51 |
+| 109 | [A Bitter Pill](https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb) | [Razor](https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B) | [A Bitter Pill](https://open.spotify.com/album/3DUNliOEQRkUeoqqt0Ccsr) | 2:47 |
 | 110 | [Through Eyes of Glass](https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Forbidden Evil](https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce) | 6:24 |
-| 111 | [Blood On Our Hands](https://open.spotify.com/track/7y2XV9uAnhqMAUAYhHklRP) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs) | 3:54 |
-| 112 | [Agents of Steel](https://open.spotify.com/track/7vhN8nkLJKIlQIfhp6gkuE) | [Agent Steel](https://open.spotify.com/artist/1FQv3rI4iJPitbZiTxBGut) | [Skeptics Apocalypse](https://open.spotify.com/album/33w5Y1NMYvaifunYJJtDCT) | 3:03 |
-| 113 | [Sharpen the Guillotine](https://open.spotify.com/track/3qy8XCdTUJI7UGynBI7Hkn) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Cabaret De La Guillotine](https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC) | 6:01 |
-| 114 | [Reaggression](https://open.spotify.com/track/0Q81O7nuF9F1WxAyQ8UtEJ) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Blood in the Water](https://open.spotify.com/album/6pNMEpHq9E6z40Miw7l9Ax) | 4:10 |
+| 111 | [Agents of Steel](https://open.spotify.com/track/7vhN8nkLJKIlQIfhp6gkuE) | [Agent Steel](https://open.spotify.com/artist/1FQv3rI4iJPitbZiTxBGut) | [Skeptics Apocalypse](https://open.spotify.com/album/33w5Y1NMYvaifunYJJtDCT) | 3:03 |
+| 112 | [Sharpen the Guillotine](https://open.spotify.com/track/3qy8XCdTUJI7UGynBI7Hkn) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Cabaret De La Guillotine](https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC) | 6:01 |
+| 113 | [Reaggression](https://open.spotify.com/track/0Q81O7nuF9F1WxAyQ8UtEJ) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Blood in the Water](https://open.spotify.com/album/6pNMEpHq9E6z40Miw7l9Ax) | 4:10 |
+| 114 | [Blood On Our Hands](https://open.spotify.com/track/7y2XV9uAnhqMAUAYhHklRP) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs) | 3:54 |
 | 115 | [Bombs of Death](https://open.spotify.com/track/7CbiLWHAq3rxIer10vsU6U) | [Hirax](https://open.spotify.com/artist/1bCQy78PGFkaaHafPbsEnm) | [Not Dead Yet](https://open.spotify.com/album/6b01iIEWOLj2mED8zYLIl2) | 1:47 |
 | 116 | [Give Me Leather](https://open.spotify.com/track/0W5YJVzJ9WABd2vmoqmlC8) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Speed Between the Lines](https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA) | 3:50 |
 | 117 | [Eternal Nightmare](https://open.spotify.com/track/0kJVVyz73lZau2zbr4kmIX) | [Vio\-Lence](https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df) | [Eternal Nightmare](https://open.spotify.com/album/2qB9lQZEfYOHEXGD2HhExH) | 6:10 |
-| 118 | [Lockdown Forever](https://open.spotify.com/track/68R8KwPDpmDk44l8Xyelqg) | [Tankard](https://open.spotify.com/artist/0lKpKsvjBKLUeyVIAPHUy1) | [Lockdown Forever](https://open.spotify.com/album/0zcre4qdDKeLiSsVk6srPM) | 4:06 |
-| 119 | [Last Man Alive](https://open.spotify.com/track/1Ks2UecuMS4C0XVjNhtz0w) | [Whiplash](https://open.spotify.com/artist/1VZpDV00MljTrkukEHFKqZ) | [Power And Pain](https://open.spotify.com/album/3yMXMihmwUHEXHc8K3Q2Kq) | 3:30 |
-| 120 | [No Place for Disgrace](https://open.spotify.com/track/4JoAPkFkBRnRNLeoUSG89X) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [No Place For Disgrace](https://open.spotify.com/album/5Cx6bwvBkfgZfNZbQSnx1e) | 6:13 |
+| 118 | [Last Man Alive](https://open.spotify.com/track/1Ks2UecuMS4C0XVjNhtz0w) | [Whiplash](https://open.spotify.com/artist/1VZpDV00MljTrkukEHFKqZ) | [Power And Pain](https://open.spotify.com/album/3yMXMihmwUHEXHc8K3Q2Kq) | 3:30 |
+| 119 | [Lockdown Forever](https://open.spotify.com/track/68R8KwPDpmDk44l8Xyelqg) | [Tankard](https://open.spotify.com/artist/0lKpKsvjBKLUeyVIAPHUy1) | [Lockdown Forever](https://open.spotify.com/album/0zcre4qdDKeLiSsVk6srPM) | 4:06 |
+| 120 | [Chalice of Blood](https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Forbidden Evil](https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce) | 4:32 |
 
-Snapshot ID: `MTY3MTEzNTA5NywwMDAwMDAwMGE4NDQ4MmMzYWZkNTY3YjRkOGFhZjA2OGU3MzFkN2I0`
+Snapshot ID: `MTY3MTEzNTA5NywwMDAwMDAwMDdkNGY0Y2YwNmM0Yzg1MjI5ZmIwYjIwMzRhMGE1ZWY4`

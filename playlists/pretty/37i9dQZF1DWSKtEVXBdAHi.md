@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,108 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,107 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 25 | [Easy Love](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:49 |
 | 26 | [Close To Me \(with Diplo\) \(feat\. Swae Lee\)](https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Close To Me \(feat\. Swae Lee\)](https://open.spotify.com/album/4bLCVUEB9YWKEeaJm8FfqQ) | 3:02 |
 | 27 | [Forever Young](https://open.spotify.com/track/1J2EmhjTmHQxLShYQK7Xti) | [UNDRESSD](https://open.spotify.com/artist/6t9ucCmbp0yzfgKpSLl7XL), [Ellie May](https://open.spotify.com/artist/4PoDl8ZLsbbdeNBrEC1eSH) | [Forever Young](https://open.spotify.com/album/1x9q23elJDl1E1PzmaoMS8) | 3:21 |
-| 28 | [Just Friends](https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [Just Friends](https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe) | 2:48 |
-| 29 | [Thank You \[Not So Bad\]](https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Thank You \[Not So Bad\]](https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK) | 3:17 |
+| 28 | [Thank You \[Not So Bad\]](https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Thank You \[Not So Bad\]](https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK) | 3:17 |
+| 29 | [Just Friends](https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [Just Friends](https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe) | 2:48 |
 | 30 | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz) | 3:35 |
 | 31 | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF) | 3:34 |
 | 32 | [Slow Dance \(feat\. Ava Max\)](https://open.spotify.com/track/5FNS5Vj69AhRGJWjhrAd01) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Slow Dance \(feat\. Ava Max\)](https://open.spotify.com/album/3tnCAhqSU4V0EEgYnrTRuD) | 2:58 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/track/2MAkRdJohGSnQJXNcRZPIs) | [Pelago](https://open.spotify.com/artist/5kgwb87hriOMQstPRdvInn), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C) | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/album/5GyFeddVWHPmY3ETkD7e4T) | 3:09 |
 | 80 | [High On Your Love](https://open.spotify.com/track/1yavdxQOY4oqesNyn9eH68) | [The Waked](https://open.spotify.com/artist/1D953gELvYO8pd1hxk5swV), [Nora Andersson](https://open.spotify.com/artist/43z2MuRXF0o8DEfDhi9ZXq) | [High On Your Love](https://open.spotify.com/album/3gCgNvcccB3JTjF7KKkvlx) | 2:36 |
 
-Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDIzNTY2ZmQ4NjI3YzA3OWZjYWFiZTNlNmQ2N2ZlYzMy`
+Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMGRiNGVmM2U0NTA2NzUzM2YzMzBmNmRhMTlmMjg2YTJh`

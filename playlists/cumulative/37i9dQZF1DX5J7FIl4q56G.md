@@ -4,13 +4,14 @@
 
 > The latest and greatest metal tracks\. Cover: Insomnium
 
-2,361 songs - 6 day 15 hr 21 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
+2,363 songs - 6 day 15 hr 29 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Am\) In Kommand](https://open.spotify.com/track/77CyELCJEELTPBJNytEhyn) | [Sword](https://open.spotify.com/artist/6RNuNpxyKhqaGRQTboO3Kf) | [\(I Am\) In Kommand](https://open.spotify.com/album/72xbc0huQhgMNXs7XFkSV8) | 4:07 | 2022-09-16 | 2022-09-24 |
 | [\(Not\) Enough](https://open.spotify.com/track/65jOD2RMAErYoB1rGUOoLz) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF) | [APOPHYSITIS](https://open.spotify.com/album/4n1Y8Djpo0xnuhuPWcKYbR) | 4:22 | 2022-07-22 | 2022-07-30 |
-| [\(Not\) Enough \- Instrumental](https://open.spotify.com/track/1Q2REDsklSmlqul6bUW9Dl) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF) | [\(Not\) Enough\) \[Instrumental\]](https://open.spotify.com/album/3Hm6P0W1rHazeOImIwlHMq) | 4:22 | 2022-12-16 |  |
+| [\(Not\) Enough \- Instrumental](https://open.spotify.com/track/1Q2REDsklSmlqul6bUW9Dl) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF) | [\(Not\) Enough\) \[Instrumental\]](https://open.spotify.com/album/3Hm6P0W1rHazeOImIwlHMq) | 4:22 | 2022-12-16 | 2023-01-01 |
+| [\(Not\) Enough \- Instrumental](https://open.spotify.com/track/5NmgOKqA9vuzZFJpXBtGxb) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF) | [APOPHYSITIS \(Deluxe Edition\)](https://open.spotify.com/album/1NmwTrpGmEeX6s1fkgwtB7) | 4:22 | 2022-12-23 |  |
 | [\(Re\) Avow](https://open.spotify.com/track/38KRMrVyTjPkr4K80p8eQ1) | [The Anchor](https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW) | [\(Re\) Avow](https://open.spotify.com/album/0QCooUb2AYbwHmrZsPDlJ1) | 3:21 | 2022-09-16 | 2022-09-24 |
 | [.50](https://open.spotify.com/track/35oWu3XLnUn3T4MmQfFtYY) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [.50](https://open.spotify.com/album/01e7bOKTP9eIWt03qXncju) | 3:03 | 2022-08-26 | 2022-09-03 |
 | [02:19 AM, Psychosis](https://open.spotify.com/track/7dH1PRKZbEpM86ayd7Vq7L) | [Harakiri for the Sky](https://open.spotify.com/artist/58KBq6qkQnfWYRqCjffQQq) | [02:19 AM, Psychosis](https://open.spotify.com/album/1wB2N2KKwCtusUvXEQDzVZ) | 7:40 | 2022-11-04 | 2022-11-12 |
@@ -1119,7 +1120,8 @@
 | [Into the Fire](https://open.spotify.com/track/74WSzVWotls7UN37qcMFWQ) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Into the Fire](https://open.spotify.com/album/0CpOe6DW0JkDYxz3giMsqG) | 4:49 | 2022-12-23 |  |
 | [Into the Night](https://open.spotify.com/track/4nXWnm11xQjnDsgsKtYRti) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Into the Night](https://open.spotify.com/album/4Gbn1jOz5A5YDqOBMkqO2i) | 6:58 | 2022-01-14 | 2022-02-11 |
 | [Into the Twilight](https://open.spotify.com/track/3GBxz8dCi3h9iRVb9kZEbA) | [Grima](https://open.spotify.com/artist/7KSPZyeCKkfkhMkX8rYIhD) | [Frostbitten](https://open.spotify.com/album/1WGeKDoeWt47eWOWEnM3HG) | 5:16 | 2022-07-29 | 2022-08-06 |
-| [Into the Void \- HARD BOX Remix](https://open.spotify.com/track/1QZWJcDtvPASvWbHMFEG7N) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [Hard Box](https://open.spotify.com/artist/5Eo9seYhBF9X41GH6KqOo3) | [Into the Void \(HARD BOX Remix\)](https://open.spotify.com/album/5e6b6x3x10PzgUdwFBml39) | 3:39 | 2022-12-16 |  |
+| [Into the Void \- HARD BOX Remix](https://open.spotify.com/track/1QZWJcDtvPASvWbHMFEG7N) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [Hard Box](https://open.spotify.com/artist/5Eo9seYhBF9X41GH6KqOo3) | [Into the Void \(HARD BOX Remix\)](https://open.spotify.com/album/5e6b6x3x10PzgUdwFBml39) | 3:39 | 2022-12-16 | 2023-01-01 |
+| [Into the Void \- HARD BOX Remix](https://open.spotify.com/track/4gmrTnVyc2Ud9KMWnl05Fh) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [Hard Box](https://open.spotify.com/artist/5Eo9seYhBF9X41GH6KqOo3) | [Into the Void \(Remix Contest Compilation\)](https://open.spotify.com/album/456DhMrNFieRfFOI8R4p18) | 3:39 | 2022-12-23 |  |
 | [Intoxicate Me](https://open.spotify.com/track/4YSGe0EVFvVwbJRPgMNQWi) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Intoxicate Me](https://open.spotify.com/album/1Sf4fyjsnWmgclYq4bHLvK) | 3:11 | 2022-10-14 | 2022-10-22 |
 | [Invaders](https://open.spotify.com/track/4bKdrTctrZRcfsY2nSv1Kc) | [Civil War](https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T) | [Invaders](https://open.spotify.com/album/3BEw4TA7gQa6rmOAYOmkkN) | 4:32 | 2022-04-08 | 2022-04-15 |
 | [Invincible](https://open.spotify.com/track/3sWVOQ6gbC5pJM0637QUmx) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk), [Kasperi Heikkinen](https://open.spotify.com/artist/19jzpkP6k02U4ab5IdL7Nk) | [Invincible](https://open.spotify.com/album/06ew8eILBBJQLjas5OOSVR) | 4:02 | 2022-12-16 |  |

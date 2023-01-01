@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Judeline",
-  "num_followers": 20374,
+  "num_followers": 20379,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYzMDY4MywwMDAwMDAwMGZiOGZkYzlhMTdlYzUyYjZiMmE3ZDI1NmY4NWUwYzg4",
+  "snapshot_id": "MTY3MTYzMDY4MywwMDAwMDAwMDA4NWNmMTQwNGIxMTU5OWIwNzczMDc2NTZhYTE3OTM1",
   "tracks": [
     {
       "added_at": "2022-12-21 13:50:37",
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/63Tbdp0N66oYehT5YNhjDP"
     },
     {
-      "added_at": "2022-12-31 00:50:41",
+      "added_at": "2023-01-01 01:08:47",
       "album": {
         "name": "Desastre de persona",
         "url": "https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo"
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-12-21 13:50:37",
       "album": {
-        "name": "100tas / Nunca",
-        "url": "https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 192136,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt"
-    },
-    {
-      "added_at": "2022-12-21 13:50:37",
-      "album": {
         "name": "Lo Que No Te Cuentan",
         "url": "https://open.spotify.com/album/7IxhNoNw5mq24KbJ6VgrYz"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 141800,
       "name": "C\u00f3mo Me Voy A Olvidar",
       "url": "https://open.spotify.com/track/1ZH9wiMYy0OG6uclWuQz5l"
+    },
+    {
+      "added_at": "2022-12-21 13:50:37",
+      "album": {
+        "name": "100tas / Nunca",
+        "url": "https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 192136,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt"
     },
     {
       "added_at": "2022-12-21 13:50:37",
@@ -699,18 +699,22 @@
     {
       "added_at": "2022-12-21 13:50:37",
       "album": {
-        "name": "Roma No Es Amor",
-        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
+        "name": "Quiero Bailar",
+        "url": "https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g"
       },
       "artists": [
         {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+          "name": "Elena Torres",
+          "url": "https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV"
+        },
+        {
+          "name": "MPV",
+          "url": "https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0"
         }
       ],
-      "duration_ms": 193243,
-      "name": "Roma No Es Amor",
-      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
+      "duration_ms": 172384,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY"
     },
     {
       "added_at": "2022-12-21 13:50:37",
@@ -735,22 +739,18 @@
     {
       "added_at": "2022-12-21 13:50:37",
       "album": {
-        "name": "Quiero Bailar",
-        "url": "https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g"
+        "name": "Roma No Es Amor",
+        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
       },
       "artists": [
         {
-          "name": "Elena Torres",
-          "url": "https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV"
-        },
-        {
-          "name": "MPV",
-          "url": "https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0"
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
         }
       ],
-      "duration_ms": 172384,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY"
+      "duration_ms": 193243,
+      "name": "Roma No Es Amor",
+      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
     },
     {
       "added_at": "2022-12-21 13:50:37",

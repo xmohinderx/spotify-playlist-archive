@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Duquesa",
-  "num_followers": 156176,
+  "num_followers": 156205,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM2OTI2MCwwMDAwMDAwMGIzN2U3NWE5NzMyM2M1Yzc5YTUzOTMwY2QxMjIwY2Jj",
+  "snapshot_id": "MTY3MjM2OTI2MCwwMDAwMDAwMGRkZjllZDM5NTNkNDNiNTVkNTg2NGFlNmE1YmYxMTAy",
   "tracks": [
     {
       "added_at": "2022-12-30 03:01:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "Sinal de Fuma\u00e7a",
-        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "Sinal de Fuma\u00e7a",
-      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
         "name": "Melly No Est\u00fadio Showlivre (Ao Vivo)",
         "url": "https://open.spotify.com/album/5oOI1V71lvqBKzfQAyvkKK"
       },
@@ -659,18 +639,22 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "Eu Quero pra Mim",
-        "url": "https://open.spotify.com/album/6AGNmDcbCGfpeQf86DMtRo"
+        "name": "Sinal de Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
       },
       "artists": [
         {
-          "name": "Biollo",
-          "url": "https://open.spotify.com/artist/2fkazGgn5K5YNPRztNR4pF"
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
         }
       ],
-      "duration_ms": 167951,
-      "name": "Eu Quero pra Mim",
-      "url": "https://open.spotify.com/track/4nXuUKg9sveh2T9mITEhrA"
+      "duration_ms": 150833,
+      "name": "Sinal de Fuma\u00e7a",
+      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -695,6 +679,22 @@
       "duration_ms": 170344,
       "name": "Jura pra Mim",
       "url": "https://open.spotify.com/track/5QW2JtmBB42eTfv5Wyu49a"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
+        "name": "Eu Quero pra Mim",
+        "url": "https://open.spotify.com/album/6AGNmDcbCGfpeQf86DMtRo"
+      },
+      "artists": [
+        {
+          "name": "Biollo",
+          "url": "https://open.spotify.com/artist/2fkazGgn5K5YNPRztNR4pF"
+        }
+      ],
+      "duration_ms": 167951,
+      "name": "Eu Quero pra Mim",
+      "url": "https://open.spotify.com/track/4nXuUKg9sveh2T9mITEhrA"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
+        "name": "Melhor Ficar Sozinho",
+        "url": "https://open.spotify.com/album/191sqhnSI1Mfp0h0Hg8sZC"
+      },
+      "artists": [
+        {
+          "name": "Leon",
+          "url": "https://open.spotify.com/artist/0grtw6LqS6bemrDRJrf1zl"
+        },
+        {
+          "name": "RM no Beat",
+          "url": "https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t"
+        }
+      ],
+      "duration_ms": 160932,
+      "name": "Melhor Ficar Sozinho",
+      "url": "https://open.spotify.com/track/4vtzVyzc2pdw5vdg5nA5bn"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
         "name": "Na Cama",
         "url": "https://open.spotify.com/album/0NvtbyPCU9bIVdIhTh4fgo"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 195428,
       "name": "Na Cama",
       "url": "https://open.spotify.com/track/3jBUU3sojivff7iNesTd9S"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
-        "name": "Melhor Ficar Sozinho",
-        "url": "https://open.spotify.com/album/191sqhnSI1Mfp0h0Hg8sZC"
-      },
-      "artists": [
-        {
-          "name": "Leon",
-          "url": "https://open.spotify.com/artist/0grtw6LqS6bemrDRJrf1zl"
-        },
-        {
-          "name": "RM no Beat",
-          "url": "https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t"
-        }
-      ],
-      "duration_ms": 160932,
-      "name": "Melhor Ficar Sozinho",
-      "url": "https://open.spotify.com/track/4vtzVyzc2pdw5vdg5nA5bn"
     },
     {
       "added_at": "2022-12-30 03:01:00",

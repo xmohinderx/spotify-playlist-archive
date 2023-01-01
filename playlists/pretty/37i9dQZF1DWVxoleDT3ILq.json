@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Mec\u00e1nico",
-  "num_followers": 126943,
+  "num_followers": 126953,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMGEwMjZjNjYyMzA3MzJlYTg1ODFmYmM0MjBmOTMxM2Ji",
+  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMGRhNGU4Y2JmZjI4ZjUzODhiYzQ5MzcyYjhiMWZiNDlk",
   "tracks": [
     {
       "added_at": "2022-12-23 03:00:00",
@@ -119,18 +119,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Maricoteca",
-        "url": "https://open.spotify.com/album/1iwN2HQCNED5Vm7mAbzVvu"
+        "name": "Me Porto Bonito (Post-Punk)",
+        "url": "https://open.spotify.com/album/6TFTyQvQ60ixcqoFM0VYqy"
       },
       "artists": [
         {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
         }
       ],
-      "duration_ms": 222543,
-      "name": "Maricoteca",
-      "url": "https://open.spotify.com/track/0QbsT7G5OJqieCARLwPZ2q"
+      "duration_ms": 180326,
+      "name": "Me Porto Bonito - (Post-Punk)",
+      "url": "https://open.spotify.com/track/2xu9l5l3fm8noWonuDf3Cn"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -151,18 +151,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Me Porto Bonito (Post-Punk)",
-        "url": "https://open.spotify.com/album/6TFTyQvQ60ixcqoFM0VYqy"
+        "name": "Maricoteca",
+        "url": "https://open.spotify.com/album/1iwN2HQCNED5Vm7mAbzVvu"
       },
       "artists": [
         {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
         }
       ],
-      "duration_ms": 180326,
-      "name": "Me Porto Bonito - (Post-Punk)",
-      "url": "https://open.spotify.com/track/2xu9l5l3fm8noWonuDf3Cn"
+      "duration_ms": 222543,
+      "name": "Maricoteca",
+      "url": "https://open.spotify.com/track/0QbsT7G5OJqieCARLwPZ2q"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Albor",
-        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 201123,
-      "name": "Esta vislumbra",
-      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Pajarito",
         "url": "https://open.spotify.com/album/24g6fF66JD00LheckA50yw"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 209285,
       "name": "Pajarito",
       "url": "https://open.spotify.com/track/5fXT9T9jLZgQkLKs0qwwhT"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Albor",
+        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 201123,
+      "name": "Esta vislumbra",
+      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/3Urx6Gf2iN5NPaaswZCpdq"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 232925,
-      "name": "Clara",
-      "url": "https://open.spotify.com/track/63q0vbXjdpzMS6EIUuv77R"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Noches Perdidas",
         "url": "https://open.spotify.com/album/2sGMCd4mkocvnD1DwlbWCR"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Al Norte",
-        "url": "https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp"
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/3Urx6Gf2iN5NPaaswZCpdq"
       },
       "artists": [
         {
-          "name": "Los Animales Tambi\u00e9n Se Suicidan",
-          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
         }
       ],
-      "duration_ms": 173336,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9"
+      "duration_ms": 232925,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/63q0vbXjdpzMS6EIUuv77R"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -783,6 +767,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Al Norte",
+        "url": "https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp"
+      },
+      "artists": [
+        {
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+        }
+      ],
+      "duration_ms": 173336,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Cae la Noche",
         "url": "https://open.spotify.com/album/6f3rFnGxXGWoHWUmpxNtCR"
       },
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Estado Vegetal",
+        "url": "https://open.spotify.com/album/677hsNZFSH3CJgXANUH30n"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Estado Vegetal",
+      "url": "https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Hollywood",
         "url": "https://open.spotify.com/album/33GKPCFphdqcOJHhcVb5Wl"
       },
@@ -815,6 +831,22 @@
       "duration_ms": 200715,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/63vFXsLISdjcpqlf6uUnxo"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "tu voz en mis aud\u00edfonos",
+        "url": "https://open.spotify.com/album/6rHOYthUpZN3ZaHnwqNgQS"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        }
+      ],
+      "duration_ms": 193786,
+      "name": "tu voz en mis aud\u00edfonos",
+      "url": "https://open.spotify.com/track/5zqtoxy1HqbePISvz9j2Rt"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -839,22 +871,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "tu voz en mis aud\u00edfonos",
-        "url": "https://open.spotify.com/album/6rHOYthUpZN3ZaHnwqNgQS"
-      },
-      "artists": [
-        {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
-        }
-      ],
-      "duration_ms": 193786,
-      "name": "tu voz en mis aud\u00edfonos",
-      "url": "https://open.spotify.com/track/5zqtoxy1HqbePISvz9j2Rt"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "PODER - Lilith: 6",
         "url": "https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 191158,
       "name": "PODER - Lilith: 6",
       "url": "https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Estado Vegetal",
-        "url": "https://open.spotify.com/album/677hsNZFSH3CJgXANUH30n"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Estado Vegetal",
-      "url": "https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Un Pendiente",
+        "url": "https://open.spotify.com/album/4qOnNKYn4PQYZMScX2hOux"
+      },
+      "artists": [
+        {
+          "name": "Autobus",
+          "url": "https://open.spotify.com/artist/6aaS9VlYbesvg4cBoz63sw"
+        },
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 203286,
+      "name": "Un Pendiente",
+      "url": "https://open.spotify.com/track/78dKapAsRTokkWluXYfn6S"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "entre las sombras,",
         "url": "https://open.spotify.com/album/2JwsMCwIT8sIXw1kAVY99p"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 270279,
       "name": "entre las sombras,",
       "url": "https://open.spotify.com/track/3ni4vqftJIveWJjbSPBaqe"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Un Pendiente",
-        "url": "https://open.spotify.com/album/4qOnNKYn4PQYZMScX2hOux"
-      },
-      "artists": [
-        {
-          "name": "Autobus",
-          "url": "https://open.spotify.com/artist/6aaS9VlYbesvg4cBoz63sw"
-        },
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 203286,
-      "name": "Un Pendiente",
-      "url": "https://open.spotify.com/track/78dKapAsRTokkWluXYfn6S"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Los chicos est\u00e1n tristes",
-        "url": "https://open.spotify.com/album/4q5k1NJ7LYj5efxUatjm7L"
-      },
-      "artists": [
-        {
-          "name": "Paracaidistas",
-          "url": "https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP"
-        }
-      ],
-      "duration_ms": 184080,
-      "name": "Los chicos est\u00e1n tristes",
-      "url": "https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "\u2727Sof\u00eda\u2727",
         "url": "https://open.spotify.com/album/0EGaQ4l4pwvyjvwtmtM3so"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 265533,
       "name": "\u2727Sof\u00eda\u2727",
       "url": "https://open.spotify.com/track/5oHan4IDjcbSrA9TzHXB5I"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Los chicos est\u00e1n tristes",
+        "url": "https://open.spotify.com/album/4q5k1NJ7LYj5efxUatjm7L"
+      },
+      "artists": [
+        {
+          "name": "Paracaidistas",
+          "url": "https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP"
+        }
+      ],
+      "duration_ms": 184080,
+      "name": "Los chicos est\u00e1n tristes",
+      "url": "https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Independencia",
+        "url": "https://open.spotify.com/album/78gMQLycOOZR9p8VpG7Z0p"
+      },
+      "artists": [
+        {
+          "name": "Los Valentina",
+          "url": "https://open.spotify.com/artist/7cIyh6k1zccDIbM7Qyn5AY"
+        }
+      ],
+      "duration_ms": 260790,
+      "name": "El drag\u00f3n asciende",
+      "url": "https://open.spotify.com/track/6lzg89OnOzG0ak5BteM6G0"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/7kP9AmZtw94OKJ9WwCbcs4"
       },
@@ -1383,18 +1399,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Independencia",
-        "url": "https://open.spotify.com/album/78gMQLycOOZR9p8VpG7Z0p"
+        "name": "Viejita M\u00cda",
+        "url": "https://open.spotify.com/album/4sNqiULYzQn616xc9J08Jt"
       },
       "artists": [
         {
-          "name": "Los Valentina",
-          "url": "https://open.spotify.com/artist/7cIyh6k1zccDIbM7Qyn5AY"
+          "name": "Noah Blanco",
+          "url": "https://open.spotify.com/artist/6hvHgeAdTGsFMPm5NJM2Ve"
+        },
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
         }
       ],
-      "duration_ms": 260790,
-      "name": "El drag\u00f3n asciende",
-      "url": "https://open.spotify.com/track/6lzg89OnOzG0ak5BteM6G0"
+      "duration_ms": 197432,
+      "name": "Viejita M\u00cda",
+      "url": "https://open.spotify.com/track/7M3WZm3YImqCVQi1ZzU618"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1423,26 +1443,6 @@
       "duration_ms": 167524,
       "name": "Besitos Ricos",
       "url": "https://open.spotify.com/track/2xszQFLHyFgVKDFobxCjRG"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Viejita M\u00cda",
-        "url": "https://open.spotify.com/album/4sNqiULYzQn616xc9J08Jt"
-      },
-      "artists": [
-        {
-          "name": "Noah Blanco",
-          "url": "https://open.spotify.com/artist/6hvHgeAdTGsFMPm5NJM2Ve"
-        },
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 197432,
-      "name": "Viejita M\u00cda",
-      "url": "https://open.spotify.com/track/7M3WZm3YImqCVQi1ZzU618"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/1qs77TorQo8steHqvrmvKK"
-      },
-      "artists": [
-        {
-          "name": "D\u00e9jenme Dormir",
-          "url": "https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/2t9pRdwTzwgI3ZW6GKC8LO"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Flores Pl\u00e1sticas",
         "url": "https://open.spotify.com/album/0gZr1LBzr2XcRfkiZz0fO4"
       },
@@ -1579,22 +1563,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Refresco",
-        "url": "https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b"
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/1qs77TorQo8steHqvrmvKK"
       },
       "artists": [
         {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Juanita La O",
-          "url": "https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT"
+          "name": "D\u00e9jenme Dormir",
+          "url": "https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ"
         }
       ],
-      "duration_ms": 197881,
-      "name": "XAT (Juanita La O Remix)",
-      "url": "https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3"
+      "duration_ms": 180500,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/2t9pRdwTzwgI3ZW6GKC8LO"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1631,18 +1611,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "El Pulso",
-        "url": "https://open.spotify.com/album/3WTMigtRHTS0btKmQNNl7q"
+        "name": "Refresco",
+        "url": "https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b"
       },
       "artists": [
         {
-          "name": "Angel Maul\u00e9n",
-          "url": "https://open.spotify.com/artist/4JwEtcpqvM9prTGz9Py1hh"
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Juanita La O",
+          "url": "https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT"
         }
       ],
-      "duration_ms": 221709,
-      "name": "Por Qu\u00e9 Me Tratas Tan Bien",
-      "url": "https://open.spotify.com/track/4Uo5LSC0gjfu7EurU7gMHo"
+      "duration_ms": 197881,
+      "name": "XAT (Juanita La O Remix)",
+      "url": "https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1659,6 +1643,22 @@
       "duration_ms": 189000,
       "name": "Al Borde del Abismo",
       "url": "https://open.spotify.com/track/3c4nmwwFOmnH1dR16H1Dhp"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "El Pulso",
+        "url": "https://open.spotify.com/album/3WTMigtRHTS0btKmQNNl7q"
+      },
+      "artists": [
+        {
+          "name": "Angel Maul\u00e9n",
+          "url": "https://open.spotify.com/artist/4JwEtcpqvM9prTGz9Py1hh"
+        }
+      ],
+      "duration_ms": 221709,
+      "name": "Por Qu\u00e9 Me Tratas Tan Bien",
+      "url": "https://open.spotify.com/track/4Uo5LSC0gjfu7EurU7gMHo"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna"
+      },
+      "artists": [
+        {
+          "name": "Fran Quintero",
+          "url": "https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2"
+        }
+      ],
+      "duration_ms": 251261,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Fuerzas Que Retroceden",
         "url": "https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 231403,
       "name": "Fuerzas Que Retroceden",
       "url": "https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna"
-      },
-      "artists": [
-        {
-          "name": "Fran Quintero",
-          "url": "https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2"
-        }
-      ],
-      "duration_ms": 251261,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G"
     },
     {
       "added_at": "2022-12-23 03:00:00",

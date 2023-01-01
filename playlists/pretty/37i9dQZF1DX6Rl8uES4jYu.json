@@ -1,15 +1,15 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 237433,
+  "num_followers": 237427,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE5NjAxMCwwMDAwMDAwMGExMjdmNWYwZDBmNWM0MjE0N2M0MjU4NTUzOGIxOGJj",
+  "snapshot_id": "MTY3MTE5NjAxMCwwMDAwMDAwMGQzMDQ5NGY5MGIzY2YxODc0ZmViMDYzMzg2YTFhMmFh",
   "tracks": [
     {
-      "added_at": "2022-12-31 00:33:39",
+      "added_at": "2023-01-01 01:28:05",
       "album": {
         "name": "Kind Reminder",
         "url": "https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc"
@@ -27,8 +27,8 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "Earworm",
-        "url": "https://open.spotify.com/album/0GBVpcsUU2nzeOLHQ0sirl"
+        "name": "Schvitz",
+        "url": "https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI"
       },
       "artists": [
         {
@@ -46,7 +46,7 @@
       ],
       "duration_ms": 144588,
       "name": "Earworm",
-      "url": "https://open.spotify.com/track/6rp0Q5ptNjERiSPe4yATSl"
+      "url": "https://open.spotify.com/track/3cc1BbtqEBbmBvXcmqdwBa"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -477,6 +477,22 @@
       "url": "https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb"
     },
     {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "Tango",
+        "url": "https://open.spotify.com/album/4MHpFObESLtJVZ2vLJbf7Y"
+      },
+      "artists": [
+        {
+          "name": "Onyx Collective",
+          "url": "https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf"
+        }
+      ],
+      "duration_ms": 304838,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Too Much (feat. Lucky Daye)",
@@ -497,22 +513,6 @@
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "GUCCI BAG",
-        "url": "https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        }
-      ],
-      "duration_ms": 134193,
-      "name": "GUCCI BAG",
-      "url": "https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb"
-    },
-    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "My Wave",
@@ -529,20 +529,20 @@
       "url": "https://open.spotify.com/track/12spArvPaLxK6deo7ikvnZ"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "Tango",
-        "url": "https://open.spotify.com/album/4MHpFObESLtJVZ2vLJbf7Y"
+        "name": "GUCCI BAG",
+        "url": "https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY"
       },
       "artists": [
         {
-          "name": "Onyx Collective",
-          "url": "https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf"
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
         }
       ],
-      "duration_ms": 304838,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
+      "duration_ms": 134193,
+      "name": "GUCCI BAG",
+      "url": "https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -565,38 +565,6 @@
       "url": "https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Keep On Smiling",
-        "url": "https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 262356,
-      "name": "Everybody's Cool",
-      "url": "https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 238613,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Up",
@@ -615,6 +583,38 @@
       "duration_ms": 177014,
       "name": "Up",
       "url": "https://open.spotify.com/track/1WWRakZzeLuWPlfymWPSYf"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 238613,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Keep On Smiling",
+        "url": "https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 262356,
+      "name": "Everybody's Cool",
+      "url": "https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/1X0EgBQrXoMlOyWNjBWs2U"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Blink Twice (Extended)",
-        "url": "https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe"
-      },
-      "artists": [
-        {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
-        }
-      ],
-      "duration_ms": 184204,
-      "name": "Floating Like",
-      "url": "https://open.spotify.com/track/4MDPyqKZLDYd1PsGGYMThw"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Let Love Go",
@@ -927,6 +911,22 @@
       "duration_ms": 173266,
       "name": "Let Love Go",
       "url": "https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Blink Twice (Extended)",
+        "url": "https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "duration_ms": 184204,
+      "name": "Floating Like",
+      "url": "https://open.spotify.com/track/4MDPyqKZLDYd1PsGGYMThw"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -949,26 +949,6 @@
       "url": "https://open.spotify.com/track/6ghyebyKTLw7ITymWy5y3g"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        },
-        {
-          "name": "Reiley",
-          "url": "https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8"
-        }
-      ],
-      "duration_ms": 188853,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Matisyahu",
@@ -983,26 +963,6 @@
       "duration_ms": 243373,
       "name": "Mama Please Don't Worry",
       "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Better Days (feat. Aloe Blacc)",
-        "url": "https://open.spotify.com/album/3k8hV5JyJKOjBG1xiuLpT5"
-      },
-      "artists": [
-        {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 156681,
-      "name": "Better Days (feat. Aloe Blacc)",
-      "url": "https://open.spotify.com/track/5zvJABAyFbNEhdMTr0cCtT"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -1023,6 +983,46 @@
       "duration_ms": 191826,
       "name": "Woman (feat. Lianne La Havas)",
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        },
+        {
+          "name": "Reiley",
+          "url": "https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8"
+        }
+      ],
+      "duration_ms": 188853,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Better Days (feat. Aloe Blacc)",
+        "url": "https://open.spotify.com/album/3k8hV5JyJKOjBG1xiuLpT5"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 156681,
+      "name": "Better Days (feat. Aloe Blacc)",
+      "url": "https://open.spotify.com/track/5zvJABAyFbNEhdMTr0cCtT"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -1081,6 +1081,22 @@
       "url": "https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY"
     },
     {
+      "added_at": "2022-07-12 18:25:04",
+      "album": {
+        "name": "ITS ALL GOOD",
+        "url": "https://open.spotify.com/album/3eCn1ahWXhBqkX89q627Tn"
+      },
+      "artists": [
+        {
+          "name": "Neon Dreams",
+          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
+        }
+      ],
+      "duration_ms": 187618,
+      "name": "ITS ALL GOOD",
+      "url": "https://open.spotify.com/track/1rtfAn2mFfDuVXhg8nkv6Z"
+    },
+    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "I Told You",
@@ -1103,22 +1119,6 @@
       "duration_ms": 207023,
       "name": "I Told You",
       "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
-    },
-    {
-      "added_at": "2022-07-12 18:25:04",
-      "album": {
-        "name": "ITS ALL GOOD",
-        "url": "https://open.spotify.com/album/3eCn1ahWXhBqkX89q627Tn"
-      },
-      "artists": [
-        {
-          "name": "Neon Dreams",
-          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
-        }
-      ],
-      "duration_ms": 187618,
-      "name": "ITS ALL GOOD",
-      "url": "https://open.spotify.com/track/1rtfAn2mFfDuVXhg8nkv6Z"
     },
     {
       "added_at": "2021-09-21 15:07:50",

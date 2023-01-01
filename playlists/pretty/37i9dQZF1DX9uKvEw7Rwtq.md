@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,259 likes - 55 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,341 likes - 55 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 20 | [Her Beating Wings](https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [These Small Spaces](https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB) | 6:59 |
 | 21 | [The First Glimmer of Wind](https://open.spotify.com/track/0kQ1OXxdNx2mJfphbZ3K0c) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [James](https://open.spotify.com/album/7mHPviR5lgsokoGd2JxM2z) | 5:54 |
 | 22 | [Requiem](https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Reanimation](https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy) | 2:12 |
-| 23 | [i meet myself, again](https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [nothing is real, part XI](https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD) | 3:07 |
+| 23 | [Tracking Aeroplanes](https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Field Recordings](https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa) | 7:48 |
 | 24 | [Twentytwofourteen](https://open.spotify.com/track/5pie01PYzPuRexCyFilLGU) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a) | 5:40 |
-| 25 | [Tracking Aeroplanes](https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Field Recordings](https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa) | 7:48 |
+| 25 | [i meet myself, again](https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [nothing is real, part XI](https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD) | 3:07 |
 | 26 | [Then the Quiet Explosion](https://open.spotify.com/track/1e0dFIlrgHaD5a2ud2AXEQ) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Oblivion Hymns](https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn) | 6:43 |
 | 27 | [Fire at Static Valley](https://open.spotify.com/track/0r4MOhVw2anZScz5PTUrJk) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0) | 5:58 |
 | 28 | [Ekki múkk](https://open.spotify.com/track/4aLf8xu5v9TuzVAeIPFETC) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Valtari](https://open.spotify.com/album/0ZHkshyLAi9f8DXdj3Z5ph) | 7:44 |
@@ -48,20 +48,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 38 | [Rooftop](https://open.spotify.com/track/63AXbG0B9D4g0ZHzfu4jLn) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Vespertine](https://open.spotify.com/album/5oImgyFgLAwsfkWKu5EWE5) | 5:50 |
 | 39 | [I Dreamt Our Whole City Burned](https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [I Dreamt Our Whole City Burned](https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN) | 4:44 |
 | 40 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 |
-| 41 | [Goodbye Sierra](https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Signals](https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8) | 2:40 |
-| 42 | [Ea: First Movement](https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Timewave Zero](https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ) | 7:21 |
-| 43 | [A Citizen's Dream](https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Signals](https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI) | 6:01 |
-| 44 | [It's Dark, It's Cold, It's Winter](https://open.spotify.com/track/0hZSni3035ItjVGyfYGiQX) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [sleepmakeswaves](https://open.spotify.com/album/4n51rWv1OwFWlYmrFNQFVp) | 4:50 |
-| 45 | [In Light](https://open.spotify.com/track/3de74WrhYh5VKf6t86acCb) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi), [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 6:06 |
+| 41 | [Ea: First Movement](https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Timewave Zero](https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ) | 7:21 |
+| 42 | [Goodbye Sierra](https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Signals](https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8) | 2:40 |
+| 43 | [In Light](https://open.spotify.com/track/3de74WrhYh5VKf6t86acCb) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi), [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 6:06 |
+| 44 | [A Citizen's Dream](https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Signals](https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI) | 6:01 |
+| 45 | [It's Dark, It's Cold, It's Winter](https://open.spotify.com/track/0hZSni3035ItjVGyfYGiQX) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [sleepmakeswaves](https://open.spotify.com/album/4n51rWv1OwFWlYmrFNQFVp) | 4:50 |
 | 46 | [In Collusion with the Waves](https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [The Ever Shifting Fields](https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL) | 4:37 |
-| 47 | [Reflection](https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM) | [Interstellar Noise](https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT) | [Reflection](https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP) | 3:47 |
-| 48 | [Mystik](https://open.spotify.com/track/25HjqUZFeK2tgNuGHiXWCB) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Mystik](https://open.spotify.com/album/03tqMIhiB0qSBTtuuZsOdU) | 2:26 |
-| 49 | [Dust Bowl](https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM) | [The Aquaerials](https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc) | [Dust Bowl](https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5) | 6:04 |
-| 50 | [Are You There?](https://open.spotify.com/track/5uK3MgCUXANoPoAhWqdfe8) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [You Are There](https://open.spotify.com/album/4yT7Tq2TN7PcfgEx3EWc8k) | 10:25 |
+| 47 | [Mystik](https://open.spotify.com/track/25HjqUZFeK2tgNuGHiXWCB) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Mystik](https://open.spotify.com/album/03tqMIhiB0qSBTtuuZsOdU) | 2:26 |
+| 48 | [Dust Bowl](https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM) | [The Aquaerials](https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc) | [Dust Bowl](https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5) | 6:04 |
+| 49 | [Are You There?](https://open.spotify.com/track/5uK3MgCUXANoPoAhWqdfe8) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [You Are There](https://open.spotify.com/album/4yT7Tq2TN7PcfgEx3EWc8k) | 10:25 |
+| 50 | [Reflection](https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM) | [Interstellar Noise](https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT) | [Reflection](https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP) | 3:47 |
 | 51 | [Drifting](https://open.spotify.com/track/2ttXU3cfx8unAngSRQ60CK) | [Ambient Endeavors](https://open.spotify.com/artist/6K2iIaKWCotVvzrL8ryV2W), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Drifting](https://open.spotify.com/album/1bGo7G5JOcy9jE8S4uNo0H) | 2:53 |
 | 52 | [Total Perspective Vortex](https://open.spotify.com/track/32OKcAVCcfhDgojrd7ZMSI) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Bryanbaum Wiltzie](https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Invisible Cities](https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce) | 4:20 |
-| 53 | [Blowback \- Edit](https://open.spotify.com/track/4sARF0lHRj1dnK7twhxSJy) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Blowback](https://open.spotify.com/album/7qalD6mlYYh5lFxaEQ5qS5) | 5:09 |
-| 54 | [Sailing to Byzantium](https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ) | [Aesthesys](https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn) | [Crossing the Shoreline](https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090) | 7:30 |
+| 53 | [Sailing to Byzantium](https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ) | [Aesthesys](https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn) | [Crossing the Shoreline](https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090) | 7:30 |
+| 54 | [Blowback \- Edit](https://open.spotify.com/track/4sARF0lHRj1dnK7twhxSJy) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Blowback](https://open.spotify.com/album/7qalD6mlYYh5lFxaEQ5qS5) | 5:09 |
 | 55 | [I Wonder As I Wander](https://open.spotify.com/track/1WUI79LofTPndZDTs8r7dU) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [I Wonder As I Wander](https://open.spotify.com/album/375PRwWW8KXDcpiNBJMVNg) | 2:16 |
 
-Snapshot ID: `MTY2NDg5MTc4MywwMDAwMDAwMDg4NzliMzQzNGVhODFiOGQ0NjExZTIzNmM4ZDNjNGU4`
+Snapshot ID: `MTY2NDg5MTc4MywwMDAwMDAwMDYxYjZiYzA4MTVkYzgzNmQ3NTU2MWJmMDYwM2VkYmYx`

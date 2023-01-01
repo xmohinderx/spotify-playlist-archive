@@ -260,6 +260,24 @@
     },
     {
       "album": {
+        "name": "KISS Box Set",
+        "url": "https://open.spotify.com/album/1aQUAWtVCilkjTK9fnoJ3e"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "Creatures Of The Night",
+      "url": "https://open.spotify.com/track/1ximfMNQcS4HLKK5sAdZDO"
+    },
+    {
+      "album": {
         "name": "Creatures Of The Night",
         "url": "https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t"
       },
@@ -833,7 +851,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 199000,
       "name": "King Of The Night Time World",
       "url": "https://open.spotify.com/track/3gsoInre1B3i1PJUmhvDYH"

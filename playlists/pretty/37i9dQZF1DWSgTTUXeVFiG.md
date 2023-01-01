@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,611 likes - 50 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,677 likes - 50 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 28 | [Viajera](https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 5:11 |
 | 29 | [Perdóname / Lo Grande Que Es Perdonar \- Medley \(feat\. Vico C\) \- En Vivo desde Puerto Rico](https://open.spotify.com/track/4fM5OkcMCkIsJTTQC0OgTo) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [40..\. y Contando \(En Vivo Desde Puerto Rico\)](https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp) | 8:20 |
 | 30 | [Juanito Alimaña \- Live](https://open.spotify.com/track/6ZBmiKpvm0Wkv8oxstW9f2) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 8:42 |
-| 31 | [Quiero Morir en Tu Piel \- En Vivo](https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 7:04 |
-| 32 | [Yo No Sé Mañana \- Live Version](https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:43 |
+| 31 | [Yo No Sé Mañana \- Live Version](https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:43 |
+| 32 | [Quiero Morir en Tu Piel \- En Vivo](https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 7:04 |
 | 33 | [Ella Es \- En Vivo](https://open.spotify.com/track/718X6sjlHdmOzdTfJv4tUc) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 4:56 |
 | 34 | [Valió La Pena \(feat\. Jose Alberto "El Canario", Cheo Feliciano, Andy Montañez & Nora\) \- Live Version](https://open.spotify.com/track/06OUCISXpxVEMkbVtRLn6c) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz), [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v), [Nora](https://open.spotify.com/artist/50qoEvPHvc3H9dmOBShQSM) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 |
 | 35 | [Llorarás \- Live](https://open.spotify.com/track/4WlDisUidB4F0KxxoIjODp) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Lo Mejor De Celia Cruz & Oscar D´León En Concierto](https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 49 | [Sueño Contigo \- En Vivo](https://open.spotify.com/track/1ACoCw1B1BRNg0gaLQmdJQ) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Intimamente Salsero \(En Vivo\)](https://open.spotify.com/album/5Reuqd1mwQDQOdx0vFvOXm) | 4:58 |
 | 50 | [Señor Sereno \- En Vivo](https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Ismael Miranda \(En Vivo\)](https://open.spotify.com/album/40DjMiB2wSxUTCuXiX1Egk) | 5:30 |
 
-Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMDVlMjk1MjhmNTM2YTc2OWFjZTE0ZGU2ZjMzMGY0ZWM0`
+Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMDlmMTBiYTJkNDJhMzA2ZWUyODUwOWY5OGRhYTIyZTAw`

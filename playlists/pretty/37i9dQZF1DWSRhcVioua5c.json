@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 53623,
+  "num_followers": 53688,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDM3NDlkMDY1MzU3ZjQ4ZTQyMTY5ZjU3MjhlMDUzNzNk",
+  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDQxOTI4OWJmNmJmNjdmMTg2YzIxNDY4ZmVhYzI4MjE2",
   "tracks": [
     {
       "added_at": "2022-10-07 03:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "De Barrio",
-        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
-      },
-      "artists": [
-        {
-          "name": "Franco Ramirez",
-          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Zambita pa' Enamorar",
-      "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Retiro al Norte",
         "url": "https://open.spotify.com/album/0aPTD6OKAie96jT6q8qFYf"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 213533,
       "name": "Rubia Morena",
       "url": "https://open.spotify.com/track/0GSSBaK28YDe6Gq7Yo963f"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "De Barrio",
+        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
+      },
+      "artists": [
+        {
+          "name": "Franco Ramirez",
+          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Zambita pa' Enamorar",
+      "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "De Barrio",
-        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
-      },
-      "artists": [
-        {
-          "name": "Franco Ramirez",
-          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
-        },
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "A una Rosa",
-      "url": "https://open.spotify.com/track/0e1ffAArZDxgak5mEXdPzD"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Churita",
         "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
       },
@@ -923,6 +903,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "El Sueno De Mi Guitarra",
+        "url": "https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Fal\u00fa",
+          "url": "https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M"
+        }
+      ],
+      "duration_ms": 241586,
+      "name": "Tonada Del Viejo Amor",
+      "url": "https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Los Del Portezuelo",
         "url": "https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47"
       },
@@ -939,6 +935,26 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "De Barrio",
+        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
+      },
+      "artists": [
+        {
+          "name": "Franco Ramirez",
+          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
+        },
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "A una Rosa",
+      "url": "https://open.spotify.com/track/0e1ffAArZDxgak5mEXdPzD"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Tierra Mia",
         "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 165399,
       "name": "Ya No Juegues Conmigo",
       "url": "https://open.spotify.com/track/46aBmruUOkNlmUQAyHwImt"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "El Sueno De Mi Guitarra",
-        "url": "https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Fal\u00fa",
-          "url": "https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M"
-        }
-      ],
-      "duration_ms": 241586,
-      "name": "Tonada Del Viejo Amor",
-      "url": "https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Que Tiene de Malo Eso",
-        "url": "https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Que Tiene de Malo Eso",
-      "url": "https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Tu respuesta",
         "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 222908,
       "name": "Tu respuesta - Zamba",
       "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Que Tiene de Malo Eso",
+        "url": "https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Que Tiene de Malo Eso",
+      "url": "https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Bien o Mal",
+        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 210818,
+      "name": "Bien o Mal",
+      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Cerca del Sol",
         "url": "https://open.spotify.com/album/08hGxQlLEPXYR3YUzrfvs5"
       },
@@ -1319,42 +1335,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W"
-      },
-      "artists": [
-        {
-          "name": "Qiro",
-          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
-        },
-        {
-          "name": "Ruben Ehizaguirre",
-          "url": "https://open.spotify.com/artist/3h6yxWTjzG3r3j7AePqz5Z"
-        }
-      ],
-      "duration_ms": 237957,
-      "name": "Vivo",
-      "url": "https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Bien o Mal",
-        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 210818,
-      "name": "Bien o Mal",
-      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/4LTyGdxfClwg3KKJjBAqV3"
       },
@@ -1371,18 +1351,38 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Corazon Sin Tiempo",
-        "url": "https://open.spotify.com/album/4AuCOi6XjMDbotmq5XpJ1I"
+        "name": "D\u00e9jame Intentar",
+        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
       },
       "artists": [
         {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
         }
       ],
-      "duration_ms": 217680,
-      "name": "Corazon Sin Tiempo",
-      "url": "https://open.spotify.com/track/6mfVsaqE1raPyV3TvAuU85"
+      "duration_ms": 162192,
+      "name": "D\u00e9jame Intentar",
+      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W"
+      },
+      "artists": [
+        {
+          "name": "Qiro",
+          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
+        },
+        {
+          "name": "Ruben Ehizaguirre",
+          "url": "https://open.spotify.com/artist/3h6yxWTjzG3r3j7AePqz5Z"
+        }
+      ],
+      "duration_ms": 237957,
+      "name": "Vivo",
+      "url": "https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Corazon Sin Tiempo",
+        "url": "https://open.spotify.com/album/4AuCOi6XjMDbotmq5XpJ1I"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 217680,
+      "name": "Corazon Sin Tiempo",
+      "url": "https://open.spotify.com/track/6mfVsaqE1raPyV3TvAuU85"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Te Olvid\u00e9",
         "url": "https://open.spotify.com/album/2v4r41b9qAum58wHgrBDDU"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 136639,
       "name": "Volver A Verte",
       "url": "https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "D\u00e9jame Intentar",
-        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 162192,
-      "name": "D\u00e9jame Intentar",
-      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
     },
     {
       "added_at": "2022-10-07 03:00:00",

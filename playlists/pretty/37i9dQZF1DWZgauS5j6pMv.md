@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Louis Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,733 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,841 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [New Guru](https://open.spotify.com/track/7MV4NBFotO3y7Bpo9S6I2Y) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [New Guru](https://open.spotify.com/album/3GcUSJfHkUDGlrN94sC5CF) | 3:24 |
+| 1 | [New Guru](https://open.spotify.com/track/1iDxNtb7jleE8GqD4m81dA) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 3:24 |
 | 2 | [Rock With Me \- Jafunk Remix](https://open.spotify.com/track/4z1AcciBLQ3PjnOiFCrEZd) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Rock With Me \(Jafunk Remix\)](https://open.spotify.com/album/20c9jp8MnyiEDthWVCsDYm) | 2:05 |
 | 3 | [Park Your Car on My Face](https://open.spotify.com/track/2rAlaZWP0d14VyphXZEsZr) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Quality Over Opinion](https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7) | 3:36 |
 | 4 | [Stop This Feeling](https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Stop This Feeling](https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Skate with Me](https://open.spotify.com/track/1mVrIfEExkhtGUSkiHjDdl) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3) | [Weekend Love](https://open.spotify.com/album/3fLnW74xbTAu3SnWlDHOsN) | 1:53 |
 | 100 | [Where's My Money?](https://open.spotify.com/track/4nqSPBGUtCuJkhJU5coTyW) | [Jay Diggs](https://open.spotify.com/artist/5jN1nNCfLoju9G0QHnxlG1) | [JAMS](https://open.spotify.com/album/5udDn4SejsAHOTc74x7oFY) | 2:44 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDQzNGJjMTUxN2MzOGYwYTM2MjdiOTA3MzM2NTU2MDFm`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDE2N2U4ZjBhMjg3ZmJmMGE3OGU5Y2JiMWRjZGU5OTY2`

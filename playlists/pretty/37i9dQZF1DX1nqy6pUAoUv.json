@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Jake Blount",
-  "num_followers": 173482,
+  "num_followers": 173522,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDEzM2ZhODQ2YWZiZDM0NTUwNjlmMjk4OWI3NTBjNDhk",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDI5ZmE1NGZhZDYyZGUzMWM2MGI5MTVhM2YyZmZkZDM5",
   "tracks": [
     {
       "added_at": "2022-02-25 19:00:55",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Under the Pepper Tree",
-        "url": "https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc"
+        "name": "Nightflyer",
+        "url": "https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx"
       },
       "artists": [
         {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 131248,
-      "name": "Night Singing",
-      "url": "https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9"
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Nightflyer",
-        "url": "https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx"
+        "name": "Under the Pepper Tree",
+        "url": "https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
         }
       ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
+      "duration_ms": 131248,
+      "name": "Night Singing",
+      "url": "https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Urban Driftwood",
-        "url": "https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Williams",
-          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "Juvenescence",
-      "url": "https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Quicksand EP",
         "url": "https://open.spotify.com/album/6EEjDp42XbAqZBSVFPBSiK"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 238453,
       "name": "Endless Running Out of Time",
       "url": "https://open.spotify.com/track/5tFzdiTH94JMk66e7tDh01"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Urban Driftwood",
+        "url": "https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Williams",
+          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "Juvenescence",
+      "url": "https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
+        "name": "Cobwebs",
+        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
+      },
+      "artists": [
+        {
+          "name": "David Keenan",
+          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
+        }
+      ],
+      "duration_ms": 250040,
+      "name": "The Friary",
+      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
         "name": "The Parting Glass (feat. Darlingside)",
         "url": "https://open.spotify.com/album/0JOGoPvCo7Buduf0xIq01q"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 171499,
       "name": "The Parting Glass (feat. Darlingside)",
       "url": "https://open.spotify.com/track/5AylUadxwKFO7wY5jPJg4K"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Cobwebs",
-        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
       "artists": [
         {
-          "name": "David Keenan",
-          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 250040,
-      "name": "The Friary",
-      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
+      "duration_ms": 235773,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "If I Could Only Fly / True Love's Flame",
-        "url": "https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di"
-      },
-      "artists": [
-        {
-          "name": "Ciaran Lavery",
-          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
-        },
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 269500,
-      "name": "If I Could Only Fly",
-      "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Songs of Our Native Daughters",
         "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 282586,
       "name": "Quasheba, Quasheba",
       "url": "https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "If I Could Only Fly / True Love's Flame",
+        "url": "https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        },
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 269500,
+      "name": "If I Could Only Fly",
+      "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Blonde On The Tracks (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
-      },
-      "artists": [
-        {
-          "name": "Emma Swift",
-          "url": "https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R"
-        }
-      ],
-      "duration_ms": 276576,
-      "name": "Queen Jane Approximately",
-      "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Rosey",
         "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 245693,
       "name": "Maggie May",
       "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Blonde On The Tracks (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
+      },
+      "artists": [
+        {
+          "name": "Emma Swift",
+          "url": "https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R"
+        }
+      ],
+      "duration_ms": 276576,
+      "name": "Queen Jane Approximately",
+      "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
     }
   ],
   "unique_name": "Contemporary Folk",

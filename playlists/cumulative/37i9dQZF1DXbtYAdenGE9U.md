@@ -4,7 +4,7 @@
 
 > All your favorite trance anthems curated by Above & Beyond! \#NYE2022
 
-113 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/7xW7e8MTRyrmROWiDQT1hb)
+114 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/7xW7e8MTRyrmROWiDQT1hb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Blue Fear](https://open.spotify.com/track/4ljvM25QQsr2qRYnN5COID) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Trance Top 1000 \- The Legends](https://open.spotify.com/album/6EFXK7ipsLo87KEXAkONR0) | 3:40 | 2022-04-13 | 2022-04-21 |
 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/1zsDbmrf4ZkjW5hsSsaDjO) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/43baGAToTn6j7MMy7YU0yT) | 7:36 | 2022-04-13 | 2022-07-29 |
 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 | 2022-04-13 |  |
-| [Breaking Ties \- Above & Beyond Analogue Haven Mix Radio Edit](https://open.spotify.com/track/3i7ZYpOe6KJBthp6NqPuFi) | [Oceanlab](https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT), [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Breaking Ties](https://open.spotify.com/album/3JDhCixj2Lr0JGp8Htyz1d) | 4:01 | 2022-12-28 |  |
+| [Breaking Ties \- Above & Beyond Analogue Haven Mix Radio Edit](https://open.spotify.com/track/3i7ZYpOe6KJBthp6NqPuFi) | [Oceanlab](https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT), [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Breaking Ties](https://open.spotify.com/album/3JDhCixj2Lr0JGp8Htyz1d) | 4:01 | 2022-12-28 | 2023-01-01 |
 | [C'est Musique \- Armin van Buuren Mix](https://open.spotify.com/track/5kB1gEMaiHS78xIDT4JbJC) | [Shane](https://open.spotify.com/artist/1z72nMFtolqEV4KXotyigR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [C'est Musique \(Armin van Buuren Mix\)](https://open.spotify.com/album/2f587WiMGu3vcpkbNfXOSX) | 11:09 | 2022-04-13 |  |
 | [Café Del Mar \- Marco V Remix Radio Edit](https://open.spotify.com/track/6z91SyGlPsllxhnG2Aw0Fb) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:06 | 2022-04-13 |  |
 | [Carte Blanche \- FM Edit](https://open.spotify.com/track/5yTN79Mgt4licL40oassM3) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [Carte Blanche \(Ilan Bluestone Remix\)](https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE) | 3:24 | 2022-12-28 |  |
@@ -41,6 +41,7 @@
 | [Everyday \- Extended Mix](https://open.spotify.com/track/4ApMz0VzAlMf7EAR1Nn3I5) | [Agnelli & Nelson](https://open.spotify.com/artist/25fXoLpROrtnNtQ1ifr8oN) | [Hudson Street](https://open.spotify.com/album/2Uxdu2VRsTj2AIUI38VNfD) | 6:57 | 2022-04-13 | 2022-12-28 |
 | [Exploration of Space](https://open.spotify.com/track/0P2sfcfRD0lWw4b8eXegmR) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Exploration of Space](https://open.spotify.com/album/7LJlzaFq8LRFGGq2kijcHX) | 3:36 | 2022-04-13 | 2022-12-28 |
 | [Exploration of Space](https://open.spotify.com/track/4WfRqfzYSSopd07hKWnxwr) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Exploration of Space](https://open.spotify.com/album/5X9F0Kp2qbTB6cLXYjqVG1) | 3:36 | 2022-04-13 | 2022-07-28 |
+| [Fallen Tides \- Mat Zo Vocal Remix](https://open.spotify.com/track/2QvmQX9GOmqfqOO8mSzYWk) | [Mark Pledger](https://open.spotify.com/artist/3xjZsK7JbqS9bbaL0LAbKH), [Matt Hardwick](https://open.spotify.com/artist/2CrCSc1CFuasr1EIsIP3z4), [Melina Gareh](https://open.spotify.com/artist/4Q9Y3LrELOAuTwXhnUbOrz) | [Fallen Tides](https://open.spotify.com/album/4Bjn8mJZt7hW31LActtMyg) | 8:45 | 2022-12-28 |  |
 | [Feel the Beat](https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 4:19 | 2022-04-13 |  |
 | [Fire Wire](https://open.spotify.com/track/15Fpa2wUSK48RBT2eqBka8) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [The World Of Trance \(40 Biggest Trance Hits Ever\) \- Armada Music](https://open.spotify.com/album/3L3PWNYWWiW0eGKV5nAXsR) | 2:51 | 2022-04-13 | 2022-07-29 |
 | [Fire Wire \- Radio Edit](https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Fire Wire](https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY) | 2:51 | 2022-12-28 |  |

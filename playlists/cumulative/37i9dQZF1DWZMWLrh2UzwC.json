@@ -46468,17 +46468,17 @@
     },
     {
       "album": {
-        "name": "why not us",
+        "name": "why not us?",
         "url": "https://open.spotify.com/album/4Ivk5W6s5LtR5klO5u98Ry"
       },
       "artists": [
         {
-          "name": "Skeez",
-          "url": "https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG"
-        },
-        {
           "name": "mike.",
           "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        },
+        {
+          "name": "Skeez",
+          "url": "https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG"
         }
       ],
       "date_added": "2022-12-29",

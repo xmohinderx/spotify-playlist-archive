@@ -4,7 +4,7 @@
 
 > Hot noise for summer days.
 
-150 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/5zEkm1jh8QhoO6jxa8ICRU)
+151 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/5zEkm1jh8QhoO6jxa8ICRU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Care](https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:14 | 2022-04-01 |  |
 | [CHAMPION](https://open.spotify.com/track/14oFxKTXuTpYgKe2vy0Cih) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 2:53 | 2022-04-01 |  |
 | [Cheer Up Baby](https://open.spotify.com/track/4U7B8upa2xDTudFoGrBJ6G) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cheer Up Baby](https://open.spotify.com/album/2DSLcvO3yEHoEKlxmdL4k1) | 3:53 | 2022-04-01 |  |
-| [CHEMICALS](https://open.spotify.com/track/1zMAaHzTsJ4Q75R2wVLQut) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [CHEMICALS](https://open.spotify.com/album/20Frjm6zA1CdmZcNIQNmv6) | 3:31 | 2022-06-17 |  |
+| [CHEMICALS](https://open.spotify.com/track/1zMAaHzTsJ4Q75R2wVLQut) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [CHEMICALS](https://open.spotify.com/album/20Frjm6zA1CdmZcNIQNmv6) | 3:31 | 2022-06-17 | 2023-01-01 |
 | [Chokecherry](https://open.spotify.com/track/4euKMp2hs8pLkWPpUxjPVb) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [TV Baby](https://open.spotify.com/album/1zRmjFxWFQqoq7dzwqvkGP) | 2:45 | 2022-04-01 | 2022-07-29 |
 | [Complete You](https://open.spotify.com/track/5jNPu9QRIe8X7LP2Q2HTd0) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Complete You](https://open.spotify.com/album/5kMS8pZsCd7AtyXz3OfOzl) | 4:16 | 2022-04-01 | 2022-07-29 |
 | [Complete You](https://open.spotify.com/track/6Gfz0ojUwlcQv2CUeaD2Pq) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Gone Are The Good Days](https://open.spotify.com/album/7G984XgKrRusVBpuwtLbO2) | 4:16 | 2022-04-01 | 2022-11-13 |
@@ -108,6 +108,7 @@
 | [Shy Away](https://open.spotify.com/track/2z0IupRlVRlDN5r2IVqHyN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Shy Away](https://open.spotify.com/album/4JFHfIYCtka66G0izGrJhz) | 2:55 | 2022-04-01 | 2022-07-29 |
 | [Simple Things](https://open.spotify.com/track/5XmLP99v54O4zV9vrlBKVS) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX) | [Simple Things](https://open.spotify.com/album/0GBbL0Npms5tBYMj8R2yXj) | 2:51 | 2022-04-01 | 2022-07-29 |
 | [Sinner](https://open.spotify.com/track/23qa4Zh6BFUlkR8Bz7sDMO) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [RITUALS](https://open.spotify.com/album/1FLdYHRiuWtZcGQq1lSa2K) | 3:27 | 2022-04-01 | 2022-07-28 |
+| [Sinner](https://open.spotify.com/track/5RuV11hkZ75dXUhglEKA9F) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [RITUALS](https://open.spotify.com/album/62cKkFUbbmw5lx2XK17KEJ) | 3:27 | 2022-04-01 |  |
 | [Small Talk](https://open.spotify.com/track/6cgvDaA67bTBkmWwOePGx7) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [Small Talk](https://open.spotify.com/album/6FR6YOqNeAqXbtVVMMi9Ud) | 3:03 | 2022-04-01 | 2022-07-27 |
 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 | 2022-04-01 |  |
 | [Smile](https://open.spotify.com/track/6HegTbeiZZ9iN6Dp3TLJhx) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Smile](https://open.spotify.com/album/58G23MFuYELVcqdaQYWmAM) | 3:16 | 2022-04-01 | 2022-07-29 |

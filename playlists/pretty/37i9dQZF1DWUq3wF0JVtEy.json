@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 879137,
+  "num_followers": 879473,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDBiZjViNmRjMWU3ODlhY2QzYmYzMDQyYzQ0NjIxMTgw",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGZhOTMyOTAzN2Q2NjA2NTNiMmZhODE2Y2RlNzE0NTU0",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "MIRRORS",
+        "url": "https://open.spotify.com/album/05z888GjArijqttcX87svP"
+      },
+      "artists": [
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 157741,
+      "name": "MIRRORS",
+      "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
       },
@@ -1083,38 +1103,26 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "MIRRORS",
-        "url": "https://open.spotify.com/album/05z888GjArijqttcX87svP"
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH"
       },
       "artists": [
         {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
         },
         {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 157741,
-      "name": "MIRRORS",
-      "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Your Tongue",
-        "url": "https://open.spotify.com/album/6UKVwQpP25N2sMC37kN8Hz"
-      },
-      "artists": [
+          "name": "Angemi",
+          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
+        },
         {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+          "name": "Laura White",
+          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
         }
       ],
-      "duration_ms": 157428,
-      "name": "Your Tongue",
-      "url": "https://open.spotify.com/track/00WQxluVREF12JZkKWvio4"
+      "duration_ms": 160047,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/2CwHctWzU9Woi5C5ZC5m38"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1151,6 +1159,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Your Tongue",
+        "url": "https://open.spotify.com/album/6UKVwQpP25N2sMC37kN8Hz"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "duration_ms": 157428,
+      "name": "Your Tongue",
+      "url": "https://open.spotify.com/track/00WQxluVREF12JZkKWvio4"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
       },
@@ -1167,30 +1191,6 @@
       "duration_ms": 171076,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH"
-      },
-      "artists": [
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Angemi",
-          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
-        },
-        {
-          "name": "Laura White",
-          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
-        }
-      ],
-      "duration_ms": 160047,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/2CwHctWzU9Woi5C5ZC5m38"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Make Trouble",
+        "url": "https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT"
+      },
+      "artists": [
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Ballin'",
+      "url": "https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "In My Soul",
         "url": "https://open.spotify.com/album/0P21RvD1R1hN7j27eRCrlL"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 207385,
       "name": "In My Soul",
       "url": "https://open.spotify.com/track/139Tpi5zztQtv42a36TlMB"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Make Trouble",
-        "url": "https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT"
-      },
-      "artists": [
-        {
-          "name": "Michael Sparks",
-          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Ballin'",
-      "url": "https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Push And Pull",
+        "url": "https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Push And Pull",
+      "url": "https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Cathedral (Piece Of Me) [feat. JEN]",
         "url": "https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 148809,
       "name": "Cathedral (Piece Of Me) [feat. JEN]",
       "url": "https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Push And Pull",
-        "url": "https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Push And Pull",
-      "url": "https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Funky Sound",
+        "url": "https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR"
+      },
+      "artists": [
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "HINA",
+          "url": "https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K"
+        }
+      ],
+      "duration_ms": 139921,
+      "name": "Funky Sound",
+      "url": "https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Green Light (feat. Kate Wild)",
         "url": "https://open.spotify.com/album/6blqmHrgEubFGOJOcIsCUj"
       },
@@ -1719,26 +1739,6 @@
       "duration_ms": 157500,
       "name": "Green Light (feat. Kate Wild)",
       "url": "https://open.spotify.com/track/4SnBJPqAZmf18gF4vlqEWL"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Funky Sound",
-        "url": "https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR"
-      },
-      "artists": [
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        },
-        {
-          "name": "HINA",
-          "url": "https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K"
-        }
-      ],
-      "duration_ms": 139921,
-      "name": "Funky Sound",
-      "url": "https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/28kKLZwzTDI44JZR8DeOPH"
+        "name": "4Ever",
+        "url": "https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib"
       },
       "artists": [
         {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/3GTk7qVqYwUpMa7x7aTPfl"
+      "duration_ms": 159200,
+      "name": "4Ever",
+      "url": "https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd"
     }
   ],
   "unique_name": "Shuffle Syndrome",

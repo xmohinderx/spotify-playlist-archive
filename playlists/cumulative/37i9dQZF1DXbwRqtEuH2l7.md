@@ -4,7 +4,7 @@
 
 > Long and constant \- lose yourself in the sustain.
 
-179 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/7nhVz0B4W46kGNWnN6asrC)
+180 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/7nhVz0B4W46kGNWnN6asrC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Komm wieder mit](https://open.spotify.com/track/2XQgwYmy0ClAMdJjQKhHLN) | [Petit Singe](https://open.spotify.com/artist/3UY5C3tMwRiVd86KzSbMVS) | [Komm wieder mit / Post sense perspective](https://open.spotify.com/album/4ArS7adI6gYOW0jKAiNpLm) | 5:48 | 2022-05-25 | 2022-07-27 |
 | [lab](https://open.spotify.com/track/6WsMQBYkQzCtR3AmhnmacX) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [soak](https://open.spotify.com/album/2QncK3geiCq2Uy2CXF9erI) | 2:45 | 2022-05-25 |  |
 | [Lands End \- Revisited 432Hz](https://open.spotify.com/track/7JqsRiaX6HSdrTJqeJK0pt) | [Der Waldläufer](https://open.spotify.com/artist/6rXJFSaNxkltSIorp4SRDQ) | [Lands End \(Revisited 432Hz\)](https://open.spotify.com/album/66ivhrns6ezrflw7Hrdz3j) | 3:22 | 2022-11-24 |  |
+| [Life Lived in the Echoes of Emptiness](https://open.spotify.com/track/4lx6thZ1sT0Nrv6XopvpyY) | [Ian Hawgood](https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC) | [Mysterious Shapes and Remembered Rhythms](https://open.spotify.com/album/0Hq25reNy7WC2ubWOoKwjP) | 2:48 | 2022-12-30 |  |
 | [Light Years Away](https://open.spotify.com/track/2d0WQTMERrxrUJRHeGwiYt) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Light Years Away](https://open.spotify.com/album/3E6VGi3MXsZUXJGE95Li55) | 3:39 | 2022-05-25 | 2022-06-06 |
 | [Light Years Away](https://open.spotify.com/track/2fPH0fqdSA7k3axCMOmQad) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Lost Signal](https://open.spotify.com/album/75GB8wH12JNaDV7XJVvbjg) | 3:39 | 2022-05-25 | 2022-11-25 |
 | [Lobby](https://open.spotify.com/track/4UmwjnEQ4CZy9XmaN52r0I) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Pale Ravine](https://open.spotify.com/album/1fHVqowoh1UFxMOEoGJ1Jz) | 3:01 | 2022-07-01 |  |
@@ -163,7 +164,7 @@
 | [T' Cow's Yed](https://open.spotify.com/track/474nLqSxFrQDLLwPDam5Ug) | [Nocturnal Emissions](https://open.spotify.com/artist/0WQSPkWeZe8mY8fInQXu41) | [Spiritflesh](https://open.spotify.com/album/7i0FawLGiN8KCIUL43glPq) | 4:12 | 2022-05-25 | 2022-10-14 |
 | [Tensión Hacia Tres](https://open.spotify.com/track/0tzujIWyPv8t9LqQQ7PTy2) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [Tensión Hacia Tres](https://open.spotify.com/album/4iDLZ4aJLc4ZbiRwzvCx2s) | 15:52 | 2022-05-25 |  |
 | [The Canonization](https://open.spotify.com/track/0qnPb51JWtWmUdNt97ODnO) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:10 | 2022-05-25 |  |
-| [The Last Island](https://open.spotify.com/track/6aPXHiku7le4AwOI3tqesR) | [Time Away](https://open.spotify.com/artist/7nmRj45sN6eA6eMJsPjW1k) | [Age of Water](https://open.spotify.com/album/74ynFeiqnFkdw0m2Q6mD22) | 6:48 | 2022-05-25 |  |
+| [The Last Island](https://open.spotify.com/track/6aPXHiku7le4AwOI3tqesR) | [Time Away](https://open.spotify.com/artist/7nmRj45sN6eA6eMJsPjW1k) | [Age of Water](https://open.spotify.com/album/74ynFeiqnFkdw0m2Q6mD22) | 6:48 | 2022-05-25 | 2023-01-01 |
 | [The Look That Falls Upon Us Extends As If a Landform \- Remastered](https://open.spotify.com/track/6qR7UDfwNHj2NZjDX6hJ2i) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Sunlir \(Remastered\)](https://open.spotify.com/album/6FElkPlYYHMY2KkPSW9uqR) | 8:04 | 2022-07-01 |  |
 | [The Sacrifice](https://open.spotify.com/track/1G2eapqHAjlEdmv9yFAMaQ) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8) | [The Sacrifice](https://open.spotify.com/album/1uB9z63XmV3PRTK1wwr6dd) | 4:00 | 2022-05-25 | 2022-07-28 |
 | [The Sacrifice](https://open.spotify.com/track/4BEdj9G17kmBuElba6lShF) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8) | [Blind Emperor](https://open.spotify.com/album/0HkYfpjWLP0WYIj0xNFJ0N) | 4:00 | 2022-07-08 | 2022-11-25 |

@@ -4,7 +4,7 @@
 
 > ¡Ovy On The Drums y Ozuna; Mora, Pailita, Cuco, y más!
 
-2,342 songs - 5 day 9 hr 42 min - [published](https://open.spotify.com/playlist/0cF57aJLHrApDaSD7aCtGt)
+2,343 songs - 5 day 9 hr 45 min - [published](https://open.spotify.com/playlist/0cF57aJLHrApDaSD7aCtGt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1770,7 +1770,8 @@
 | [S.O.S.](https://open.spotify.com/track/6QxjQa0Kdf7a1oRrGCQqEX) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [S.O.S.](https://open.spotify.com/album/0zpQxifc8mVEx9LzmU1veR) | 4:03 | 2022-07-29 | 2022-08-06 |
 | [Sad Girls \(feat\. Rema\)](https://open.spotify.com/track/2lN5P2zk7ZHpxCutNHSndT) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Sad Girls \(feat\. Rema\)](https://open.spotify.com/album/0NZbQYjlvpJpiCVOGgXQXH) | 2:43 | 2022-09-09 | 2022-09-17 |
 | [sad girls always finish first](https://open.spotify.com/track/16mFtGFLstwAxII0hUknUk) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [sad girls always finish first](https://open.spotify.com/album/1FaBznYSUrobcSjQEmERFM) | 3:15 | 2022-05-06 | 2022-05-14 |
-| [Salgo](https://open.spotify.com/track/2YBTsTzMr3NlcIs9IqgtsH) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Soñando Despierto](https://open.spotify.com/album/6FZehd1V0iHCaTYpFU8owD) | 2:51 | 2022-12-30 |  |
+| [Salgo](https://open.spotify.com/track/2YBTsTzMr3NlcIs9IqgtsH) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Soñando Despierto](https://open.spotify.com/album/6FZehd1V0iHCaTYpFU8owD) | 2:51 | 2022-12-30 | 2023-01-01 |
+| [Salgo](https://open.spotify.com/track/5xQEA4RZbvwFFiMLHUNkbg) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Soñando Despierto](https://open.spotify.com/album/5BtWByo2YyBCuZPXTIa1h8) | 2:51 | 2022-12-30 |  |
 | [Salir Con Vida](https://open.spotify.com/track/5OX1JvE7gTkOd1DSzlrtFw) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Salir Con Vida](https://open.spotify.com/album/3mwKjQSJdQTY0ZdakLi0Vp) | 2:56 | 2022-10-28 | 2022-11-05 |
 | [Salvaje](https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ely Blancarte](https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2) | [Salvaje](https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb) | 2:57 | 2022-02-04 | 2022-02-12 |
 | [SALVAJE](https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Salvaje](https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r) | 3:30 | 2022-09-30 | 2022-10-08 |

@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 200000,
       "name": "3 Words (feat. Leven Kali)",
       "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
@@ -5331,6 +5331,28 @@
       "duration_ms": 157921,
       "name": "GEEKIN",
       "url": "https://open.spotify.com/track/2AdcAJUXNrvgKEdIEbXVy8"
+    },
+    {
+      "album": {
+        "name": "GEEKIN'",
+        "url": "https://open.spotify.com/album/4QynZKICiI8JjZZAScjJBx"
+      },
+      "artists": [
+        {
+          "name": "MIA GLADSTONE",
+          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
+        },
+        {
+          "name": "Ciscero",
+          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157921,
+      "name": "GEEKIN",
+      "url": "https://open.spotify.com/track/7kKjzWv2H6qnNDKJuerf1e"
     },
     {
       "album": {

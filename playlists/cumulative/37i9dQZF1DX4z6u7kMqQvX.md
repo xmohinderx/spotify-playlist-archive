@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-397 songs - 22 hr 40 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
+398 songs - 22 hr 44 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Agua Marfil](https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Usted Señalemelo](https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S) | 4:11 | 2022-09-23 |  |
 | [Agua Marfil](https://open.spotify.com/track/6mYdnKt43uGw3gmtOz4yQi) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Usted Señalemelo](https://open.spotify.com/album/6ZSWmVkucGkNzqWZYGMGMK) | 4:11 | 2022-01-07 | 2022-09-26 |
 | [Ahinoa](https://open.spotify.com/track/54Kijzvio3D7phfsOZswpQ) | [Perez](https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed) | [17 Canciones para Autopista](https://open.spotify.com/album/3AanjgFzLrCKprTwBY3wYW) | 3:44 | 2022-04-01 | 2022-07-15 |
-| [Ahí Ahí](https://open.spotify.com/track/6m02i6JyJz15hw8jOqu3Cz) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ahí Ahí](https://open.spotify.com/album/7dr2zU98W3hvgR81Hm02dY) | 3:30 | 2022-01-07 |  |
+| [Ahí Ahí](https://open.spotify.com/track/6m02i6JyJz15hw8jOqu3Cz) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ahí Ahí](https://open.spotify.com/album/7dr2zU98W3hvgR81Hm02dY) | 3:30 | 2022-01-07 | 2023-01-01 |
 | [Aislado Pero a Tu Lado](https://open.spotify.com/track/5XqJR12vXDEg7uk33UhBoP) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [Aislado Pero a Tu Lado](https://open.spotify.com/album/20nbi5kxENVeByVLv00X7Y) | 1:08 | 2022-04-01 | 2022-04-04 |
 | [Al Calor de Tu Vida](https://open.spotify.com/track/3cJY5WOnWeEoXn8P1a6Je4) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc) | [Al Calor de Tu Vida](https://open.spotify.com/album/5GH7puYPyFATystAy5SYrs) | 3:03 | 2022-01-07 | 2022-07-27 |
 | [Al oeste](https://open.spotify.com/track/6fe8ZuY4fiKcTzeIV9oXYG) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Halo](https://open.spotify.com/album/1gNV7gHVMvM1XU0ZxrxRzL) | 3:37 | 2022-04-01 | 2022-04-20 |
@@ -101,6 +101,7 @@
 | [Cómo y Cuándo](https://open.spotify.com/track/5p3ewseYcitkJUdhYpaSkY) | [El Féral](https://open.spotify.com/artist/34Iany0uooiPsZ0pIWUy1G), [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Cómo y Cuándo](https://open.spotify.com/album/3F8JTJRlLwqan1umbVh1ku) | 3:24 | 2022-01-28 | 2022-06-24 |
 | [Cósmica](https://open.spotify.com/track/0cdk7aW3T86BCMyvACbbEu) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [Cósmica](https://open.spotify.com/album/0gvYgxTHHuLxo79sOjrU82) | 3:36 | 2022-01-07 | 2022-07-05 |
 | [DA2](https://open.spotify.com/track/7dRm6XxlK8c9ug3kt4AJjL) | [Caravana](https://open.spotify.com/artist/5v0U5GjJ43wx2ZAM02oOoa) | [DA2](https://open.spotify.com/album/4BjDWUTvXjfN1nwxwKkSCY) | 3:33 | 2022-04-01 | 2022-06-21 |
+| [Dame](https://open.spotify.com/track/297Vr1chPCF0607I0g80IJ) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Dame](https://open.spotify.com/album/3QSi2Fj1FUjE3Uu2K5Gfh4) | 4:04 | 2022-12-23 |  |
 | [DE ESTE LADO DE LA FOTO](https://open.spotify.com/track/35qpbFU4HXSoERLSM25End) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [DE ESTE LADO DE LA FOTO](https://open.spotify.com/album/27tu8mkYCoWvqgGvbECS1O) | 2:50 | 2022-01-07 |  |
 | [De Nosotros Dos](https://open.spotify.com/track/6nQZ19Gq07AXDVUhfWANQP) | [SERIES](https://open.spotify.com/artist/6ciXwaMXMICBWN8q0R6i6M), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [S1\-E1](https://open.spotify.com/album/5f6pI2xD8r93ZRuhjHvJGB) | 3:07 | 2022-06-03 | 2022-07-20 |
 | [De vos conmigo](https://open.spotify.com/track/3aptZjldNbLCoheBo33YOa) | [Coiffeur](https://open.spotify.com/artist/6uO4hHITsBB37tBsogIB7K) | [Primer corte](https://open.spotify.com/album/6P49QmRp2rqT1o8fL4hNew) | 2:08 | 2022-04-01 | 2022-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 
 > ¡Vuelve el Cosquín Rock! 12 y 13 de Febrero, Aeródromo Santa María de Punilla, Córdoba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,549 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,573 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 42 | [Si Supieras \- En Vivo en el Luna Park](https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:58 |
 | 43 | [De Atar](https://open.spotify.com/track/1OP1B37Pxw12b7ixZeR0kO) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:04 |
 | 44 | [Ganas](https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:14 |
-| 45 | [Allí donde solíamos gritar](https://open.spotify.com/track/29tVNOmg85qDLh2wVnJxpv) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [1999 \(o como generar incendios de nieve con una lupa enfocando la luna\)](https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF) | 5:37 |
-| 46 | [Nene de Antes](https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Gol De Mujer](https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS) | 4:10 |
+| 45 | [Nene de Antes](https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Gol De Mujer](https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS) | 4:10 |
+| 46 | [Allí donde solíamos gritar](https://open.spotify.com/track/29tVNOmg85qDLh2wVnJxpv) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [1999 \(o como generar incendios de nieve con una lupa enfocando la luna\)](https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF) | 5:37 |
 | 47 | [Water](https://open.spotify.com/track/3RCxWl2N0lPx83c7PPRmxW) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Water](https://open.spotify.com/album/3qdQV2P5OM19g675aZkRlQ) | 3:10 |
 | 48 | [Eres Para Mí](https://open.spotify.com/track/7ppEc3lFu3nudWCW5ypQGG) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J), [Percii](https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd) | [Eres Para Mí](https://open.spotify.com/album/7JuFM0b8eP6FGTVvyQMfNP) | 2:54 |
 | 49 | [Funeral](https://open.spotify.com/track/1ueLYdeuGMAwUiaezLDObD) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Funeral](https://open.spotify.com/album/3hykNzTPJLYxvNxY4gGvHk) | 3:41 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 55 | [Chica de Oro](https://open.spotify.com/track/6gqqdXshLNeVIXUV7B5O6p) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 3:53 |
 | 56 | [Ciudad De Pobres Corazones](https://open.spotify.com/track/1PSsStvZmJsU3CiJg8hRAx) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Ciudad De Pobres Corazones](https://open.spotify.com/album/4GGCNfkWRUgyu6UjstHlJj) | 5:28 |
 | 57 | [Amapola del 66](https://open.spotify.com/track/5gK8OkRTsm5bmDh3GGlRBA) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Amapola del 66](https://open.spotify.com/album/6folUtOTlV2d6FiczqCGYs) | 6:10 |
-| 58 | [Detox](https://open.spotify.com/track/2ttUrgPFiyWOHxbauXSVRo) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Detox](https://open.spotify.com/album/2G9ADFNXJROkdiV8faSYQb) | 2:47 |
-| 59 | [Paranoia Pop](https://open.spotify.com/track/13WCGJKAWrgZgz6grLryE4) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [Paranoia Pop](https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV) | 3:52 |
-| 60 | [Onliyu](https://open.spotify.com/track/1wkYvavzFjQgVudTRnofuB) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [El camino de la libertad](https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1) | 3:41 |
+| 58 | [Paranoia Pop](https://open.spotify.com/track/13WCGJKAWrgZgz6grLryE4) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [Paranoia Pop](https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV) | 3:52 |
+| 59 | [Onliyu](https://open.spotify.com/track/1wkYvavzFjQgVudTRnofuB) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [El camino de la libertad](https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1) | 3:41 |
+| 60 | [Detox](https://open.spotify.com/track/2ttUrgPFiyWOHxbauXSVRo) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Detox](https://open.spotify.com/album/2G9ADFNXJROkdiV8faSYQb) | 2:47 |
 | 61 | [Será \- En Vivo en el Luna Park](https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 2:52 |
 | 62 | [Lindos Problemas](https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:57 |
 | 63 | [Todas Esas Tardes](https://open.spotify.com/track/3LL4MggYG3ivfMbkkmmef4) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ANIM4LES](https://open.spotify.com/album/2h48DpjjNc111ug7zH2aXl) | 4:28 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 76 | [Un Trago Para Ver Mejor](https://open.spotify.com/track/3Q8Jw1UCAQSMeGNIFfWNSd) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w) | [Yo estuve ahi](https://open.spotify.com/album/6yFCUAjsoX0wcAdScK2BEH) | 3:36 |
 | 77 | [El Golem de Paternal](https://open.spotify.com/track/1i663MaTN7dcRxv2UPKOlu) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Talismán](https://open.spotify.com/album/0x0SVERapfyHHdWgoboteO) | 3:54 |
 | 78 | [Clericó](https://open.spotify.com/track/70yHJoFTCuDrhMIdcKY71S) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Parte de un Mal Sueño](https://open.spotify.com/album/6dIcDDpYrz25WyKSd4RmL5) | 4:29 |
-| 79 | [Avisame Cuando Llegues](https://open.spotify.com/track/7Hr9RbyiHNz7nDpH4i4QwE) | [Soy Rada and the Colibriquis](https://open.spotify.com/artist/1FuC6w5K3iO32aU8k4TiPA) | [Dada](https://open.spotify.com/album/4pufQvajF7A6g3zzX7Py84) | 3:31 |
-| 80 | [Pobre Tipo](https://open.spotify.com/track/0JMpWaXIcQKN3m8AEH4GmX) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Locales Calientes](https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC) | 3:43 |
+| 79 | [Pobre Tipo](https://open.spotify.com/track/0JMpWaXIcQKN3m8AEH4GmX) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Locales Calientes](https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC) | 3:43 |
+| 80 | [Avisame Cuando Llegues](https://open.spotify.com/track/7Hr9RbyiHNz7nDpH4i4QwE) | [Soy Rada and the Colibriquis](https://open.spotify.com/artist/1FuC6w5K3iO32aU8k4TiPA) | [Dada](https://open.spotify.com/album/4pufQvajF7A6g3zzX7Py84) | 3:31 |
 | 81 | [Toaster \(Give Me Back My\)](https://open.spotify.com/track/5drpThSxHXBRDiD7uJYT7C) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Naranja Persa 2](https://open.spotify.com/album/6T9Wi2Ffcuh1iM9pHmxAC9) | 4:01 |
 | 82 | [La Conquista del Espacio](https://open.spotify.com/track/10ndgIoUotbwMcDt7cj0fM) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Conquista del Espacio](https://open.spotify.com/album/0hUTkPlrlHbLkrKB8JLTXQ) | 4:14 |
 | 83 | [Tanto Anteojo](https://open.spotify.com/track/112BYiABeTmIti5p8U1wWG) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 99 | [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 |
 | 100 | [Banda de Garage \- Antes \- Ferro 2014 en Vivo](https://open.spotify.com/track/6VeDyMhky3csClQ1jABaCB) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Qué Placer Verte Otra Vez \(Ferro 2014 En Vivo\)](https://open.spotify.com/album/2ZyM4nbcyK6UlPZfxdqQ0m) | 4:26 |
 
-Snapshot ID: `MTY0NDI2NjA4NSwwMDAwMDAwMDA0NTY5ZGU2N2I1MDVjNzM5N2RmMTBiMTIwNWVlODQx`
+Snapshot ID: `MTY0NDI2NjA4NSwwMDAwMDAwMGQ0YWU4NGI3YTJlNGE3OWFjOWE0ODZkNTE3ZGM1NzVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Las artistas que marcaron el año con Nicki Nicole en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,465 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,483 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 7 | [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 |
 | 8 | [Nobody Like Yo](https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nobody Like Yo](https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ) | 2:34 |
 | 9 | [La Araña](https://open.spotify.com/track/4hOPF9upeZmmpXCXpro2bs) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [La Araña](https://open.spotify.com/album/7Fb2WjHd01JQGL6lKleSv7) | 2:29 |
-| 10 | [Ganas](https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:14 |
-| 11 | [Quiero Todo](https://open.spotify.com/track/0yRaf2zK8CtJvNyLzg9XNy) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Quiero Todo](https://open.spotify.com/album/3oRwbp1iHfkNfBQ7v6eIsU) | 3:24 |
+| 10 | [Quiero Todo](https://open.spotify.com/track/0yRaf2zK8CtJvNyLzg9XNy) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Quiero Todo](https://open.spotify.com/album/3oRwbp1iHfkNfBQ7v6eIsU) | 3:24 |
+| 11 | [Ganas](https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:14 |
 | 12 | [GABBANA](https://open.spotify.com/track/2wxduF3ZwN5adsNjqfcysB) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [GABBANA](https://open.spotify.com/album/11CEP18aU8lXxZbQEv3wsF) | 2:51 |
 | 13 | [Será Mi Culpa?](https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Será Mi Culpa?](https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW) | 2:19 |
 | 14 | [Jefa](https://open.spotify.com/track/1K2h9Y50wXiRsENQHLydZO) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 2:15 |
-| 15 | [Lo Que Dicen de Mí](https://open.spotify.com/track/7qyAsohYX9IQVCUkzkJ1dY) | [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Lo Que Dicen de Mí](https://open.spotify.com/album/2xh8jQdye3snS91DyUWJjH) | 3:23 |
-| 16 | [Escucha Tu Cora](https://open.spotify.com/track/6TYCkOfYLUTD4niAzDmSew) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Escucha Tu Cora](https://open.spotify.com/album/0LLBcTqqAC0tEYhOLyrxLf) | 2:57 |
+| 15 | [Escucha Tu Cora](https://open.spotify.com/track/6TYCkOfYLUTD4niAzDmSew) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Escucha Tu Cora](https://open.spotify.com/album/0LLBcTqqAC0tEYhOLyrxLf) | 2:57 |
+| 16 | [Lo Que Dicen de Mí](https://open.spotify.com/track/7qyAsohYX9IQVCUkzkJ1dY) | [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Lo Que Dicen de Mí](https://open.spotify.com/album/2xh8jQdye3snS91DyUWJjH) | 3:23 |
 | 17 | [CHROME](https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [dayvan](https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [CHROME](https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG) | 2:40 |
 | 18 | [Me Va Muy Bien](https://open.spotify.com/track/35PyAwHXwuAzmUAPLEArgy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Me Va Muy Bien](https://open.spotify.com/album/6xgKnmMwkoGcG13zn8fZVf) | 2:21 |
 | 19 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Ansiedad](https://open.spotify.com/track/7h7SgRb5teNxvfkcMLFabO) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Vulnerable](https://open.spotify.com/album/0uyFaEhSZngTXmQn2E3wvR) | 2:41 |
 | 50 | [Rota](https://open.spotify.com/track/5flqJsQDTDxJ2i2269Be2P) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Rota](https://open.spotify.com/album/1TTZVw7gOyWXzJ1yIttZTS) | 4:15 |
 
-Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMDdkMWM2NzBlMDM5M2Y2MDc0ZWVkMmMxYWVmZDE2YTI2`
+Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMGMwNzllODBmNGI0N2E5YzdhMGQ2MTA5NDFlMzE2NzJl`

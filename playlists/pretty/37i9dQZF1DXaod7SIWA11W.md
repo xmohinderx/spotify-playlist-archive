@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,110 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,200 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,15 +71,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 61 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 |
 | 62 | [Wrong About You \(Live\)](https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Wrong About You \(Live\)](https://open.spotify.com/album/1GjVSBL8xIiQhXyhSe57CT) | 6:33 |
 | 63 | [Look At You](https://open.spotify.com/track/6siVkh1jUbnZCseo7D3K0s) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Look At You](https://open.spotify.com/album/6ByjGbv5DRxWzMqdnQoo17) | 6:24 |
-| 64 | [Start Over](https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p) | [Matthews Ntlele](https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX) | [Start Over](https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr) | 3:22 |
-| 65 | [Nobody](https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN) | [Robyn McGhee](https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8) | [Nobody](https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0) | 4:28 |
+| 64 | [Nobody](https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN) | [Robyn McGhee](https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8) | [Nobody](https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0) | 4:28 |
+| 65 | [Start Over](https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p) | [Matthews Ntlele](https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX) | [Start Over](https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr) | 3:22 |
 | 66 | [But God](https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:50 |
 | 67 | [NO WORRIES](https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4), [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [NO WORRIES](https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ) | 3:32 |
 | 68 | [I's On Him](https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan) | [Jay Violet](https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [I's On Him](https://open.spotify.com/album/1331lQw385FSkpj02K7pOF) | 3:01 |
-| 69 | [Be My Everything \- Reimagined](https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Be My Everything \(Reimagined\)](https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB) | 3:53 |
-| 70 | [Enemies and Foes](https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [Enemies and Foes](https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a) | 4:49 |
-| 71 | [Proverbs & Beats](https://open.spotify.com/track/4zQESthz8AqH8zrKd7Jew2) | [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Proverbs & Beats](https://open.spotify.com/album/2HHVupGrQUPFx2SIa5wZhl) | 3:07 |
-| 72 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 |
+| 69 | [Enemies and Foes](https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [Enemies and Foes](https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a) | 4:49 |
+| 70 | [Be My Everything \- Reimagined](https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Be My Everything \(Reimagined\)](https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB) | 3:53 |
+| 71 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 |
+| 72 | [Proverbs & Beats](https://open.spotify.com/track/4zQESthz8AqH8zrKd7Jew2) | [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Proverbs & Beats](https://open.spotify.com/album/2HHVupGrQUPFx2SIa5wZhl) | 3:07 |
 | 73 | [The Best](https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Best](https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV) | 2:37 |
 | 74 | [Take Me to the Fire](https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Take Me to the Fire](https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2) | 3:02 |
 | 75 | [The Word Is Working \(Refreshed\)](https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [The Word Is Working \(Refreshed\)](https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d) | 6:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 79 | [First Love](https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K) | [Christ Encounter](https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf) | [First Love](https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ) | 4:08 |
 | 80 | [Taste And See](https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5) | [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Taste And See](https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg) | 4:21 |
 
-Snapshot ID: `MTY3MTE2Njg2MCwwMDAwMDAwMDJlZWI5MmRmMWExM2UwYzFlMWI4MDExM2EyN2VjM2Yw`
+Snapshot ID: `MTY3MTE2Njg2MCwwMDAwMDAwMDY4YmRmNTUyNWRhMzM5OTM2Yzg2ODNhZDdiZDExMzdk`

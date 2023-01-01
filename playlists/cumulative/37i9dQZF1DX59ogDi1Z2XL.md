@@ -4,7 +4,7 @@
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: DillanPonders
 
-706 songs - 1 day 9 hr 1 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
+707 songs - 1 day 9 hr 3 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Bloodclarrt Business](https://open.spotify.com/track/0x3VmItOxAzDKLOT94FQSv) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Bloodclarrt Business](https://open.spotify.com/album/1FDLloitdAEUB1LP27EroI) | 2:27 | 2022-02-11 | 2022-07-09 |
 | [Bloody Surgery](https://open.spotify.com/track/5uRdzUCFbNgBKrSP9kiYBr) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy), [Mar Guwop](https://open.spotify.com/artist/2lOu0r40MzbdbnN8RqEqca) | [Bloody Surgery](https://open.spotify.com/album/7Coy8TZ6vjFmJE5eElcjNb) | 3:09 | 2022-12-02 |  |
 | [Bobby Worth It](https://open.spotify.com/track/2uRYoGm6fYiQVAP2kruL9l) | [Blacka Da Don](https://open.spotify.com/artist/0NoDb6USzMqpV5dvANBJiG) | [Bobby Worth It](https://open.spotify.com/album/6YNTWq3sHvWK3hRJOH10PF) | 2:25 | 2022-05-06 | 2022-06-04 |
-| [Body & A Face](https://open.spotify.com/track/1P4mE8Lw6qTm85UGhlbwgh) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Body & A Face](https://open.spotify.com/album/0CXroMh9bBWpGVFyqstJP7) | 2:39 | 2022-09-09 |  |
+| [Body & A Face](https://open.spotify.com/track/1P4mE8Lw6qTm85UGhlbwgh) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Body & A Face](https://open.spotify.com/album/0CXroMh9bBWpGVFyqstJP7) | 2:39 | 2022-09-09 | 2023-01-01 |
+| [Body & a Face](https://open.spotify.com/track/3l3EUEFbs6a0mFu8SoTE8Z) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Her \- All Rap](https://open.spotify.com/album/23SSynUBT4TdXQY92w3F8O) | 2:39 | 2022-12-30 |  |
 | [Boogey Man](https://open.spotify.com/track/3f0xWdwB1esiKRNTGMZ79n) | [Layla Hendryx](https://open.spotify.com/artist/3ZE7V0WdT5nFZAWSW7iDZR) | [Boogey Man](https://open.spotify.com/album/3vqh1yS2VfDA4OQIDtSzJN) | 2:33 | 2022-11-04 | 2022-11-12 |
 | [BORDERLINE](https://open.spotify.com/track/2XRd0gRCjwTndr7NLpNK5H) | [Seven LC](https://open.spotify.com/artist/53vQB97d16CCKd0xOR0LCm) | [TILL I AIN'T](https://open.spotify.com/album/40ToO8J9Ru3iUvZgToCJ0Z) | 2:23 | 2022-07-08 | 2022-09-10 |
 | [Borderlines](https://open.spotify.com/track/4MohtgNEBekgkMuwhdM7JP) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [Borderlines](https://open.spotify.com/album/2VicUoxPRG4yEXspsK2yew) | 2:33 | 2022-10-28 | 2022-12-03 |

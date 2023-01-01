@@ -1,12 +1,12 @@
 {
   "description": "Cerchi energie e buona musica? Prova con la nostra playlist!",
-  "num_followers": 166368,
+  "num_followers": 166372,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE5NzAxOSwwMDAwMDAwMGY3MzEyMzVlM2JmMzMyNDE1YTc4ZmNlOTBhMDJiYzQ1",
+  "snapshot_id": "MTY3MTE5NzAxOSwwMDAwMDAwMGE3ZTViNjQ5MDFjODA5ZDliMmIwMTM4NmYxZDM4Zjk4",
   "tracks": [
     {
       "added_at": "2022-12-16 13:21:27",
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
     },
     {
-      "added_at": "2022-12-31 00:58:29",
+      "added_at": "2023-01-01 00:10:09",
       "album": {
         "name": "Sunday Night",
         "url": "https://open.spotify.com/album/0P55wyOTaw9K3dkyqsjnoH"
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2022-12-16 13:21:27",
       "album": {
-        "name": "Bruises EP",
-        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Bruises - Steve Void Remix",
-      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
-    },
-    {
-      "added_at": "2022-12-16 13:21:27",
-      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/7hLrEkGfc02E0ckMf3MEGh"
       },
@@ -1239,6 +1219,26 @@
     {
       "added_at": "2022-12-16 13:21:27",
       "album": {
+        "name": "Bruises EP",
+        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "Bruises - Steve Void Remix",
+      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
+    },
+    {
+      "added_at": "2022-12-16 13:21:27",
+      "album": {
         "name": "Music (Songs From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7"
       },
@@ -1255,26 +1255,6 @@
       "duration_ms": 177800,
       "name": "Floating Through Space",
       "url": "https://open.spotify.com/track/0XwSUpdrF7nR7hVxbDs7mb"
-    },
-    {
-      "added_at": "2022-12-16 13:21:27",
-      "album": {
-        "name": "Happy Machine",
-        "url": "https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Aleyna Tilki",
-          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
-        }
-      ],
-      "duration_ms": 135265,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp"
     },
     {
       "added_at": "2022-12-16 13:21:27",
@@ -1303,22 +1283,22 @@
     {
       "added_at": "2022-12-16 13:21:27",
       "album": {
-        "name": "Forgot How to Love",
-        "url": "https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj"
+        "name": "Happy Machine",
+        "url": "https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e"
       },
       "artists": [
         {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         },
         {
-          "name": "Moss Kena",
-          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
         }
       ],
-      "duration_ms": 149055,
-      "name": "Forgot How to Love",
-      "url": "https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t"
+      "duration_ms": 135265,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp"
     },
     {
       "added_at": "2022-12-16 13:21:27",
@@ -1335,6 +1315,26 @@
       "duration_ms": 131306,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4"
+    },
+    {
+      "added_at": "2022-12-16 13:21:27",
+      "album": {
+        "name": "Forgot How to Love",
+        "url": "https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Moss Kena",
+          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
+        }
+      ],
+      "duration_ms": 149055,
+      "name": "Forgot How to Love",
+      "url": "https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t"
     },
     {
       "added_at": "2022-12-16 13:21:27",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2022-12-16 13:21:27",
       "album": {
-        "name": "Heartstrings",
-        "url": "https://open.spotify.com/album/6Zf2UCQdYaRfR5pFXQAl90"
-      },
-      "artists": [
-        {
-          "name": "M-22",
-          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 211359,
-      "name": "Heartstrings",
-      "url": "https://open.spotify.com/track/6Qv3OWGNixqEobRC5vM0Bp"
-    },
-    {
-      "added_at": "2022-12-16 13:21:27",
-      "album": {
         "name": "Heaven On My Mind (with Sigala)",
         "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 198703,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/5w7sO0tWXMmctwKnJZu24v"
+    },
+    {
+      "added_at": "2022-12-16 13:21:27",
+      "album": {
+        "name": "Heartstrings",
+        "url": "https://open.spotify.com/album/6Zf2UCQdYaRfR5pFXQAl90"
+      },
+      "artists": [
+        {
+          "name": "M-22",
+          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 211359,
+      "name": "Heartstrings",
+      "url": "https://open.spotify.com/track/6Qv3OWGNixqEobRC5vM0Bp"
     }
   ],
   "unique_name": "Una Carica di Espresso!",

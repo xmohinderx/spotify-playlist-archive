@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 183206,
       "name": "Aktiverad (feat. Turisti, DAVI & Nebi) - Remix",
       "url": "https://open.spotify.com/track/7jWTlHrI7yiqOrXekfVPW2"
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
@@ -2909,7 +2909,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 219120,
       "name": "CV",
       "url": "https://open.spotify.com/track/1mSn919G9lGy6kVHDcYoWo"
@@ -4257,7 +4257,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 222578,
       "name": "El\u00e4m\u00e4n ABC",
       "url": "https://open.spotify.com/track/7ffZ0iPT1UQvgm4e1KsaDC"
@@ -4629,7 +4629,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 239888,
       "name": "Escapism. - Sped Up",
       "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
@@ -4793,6 +4793,24 @@
       "duration_ms": 158994,
       "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz"
+    },
+    {
+      "album": {
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/1xujzA41aZ1udgc8FY7NIl"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209677,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/4Mg2rAHrqKXQzLRIwr4j9r"
     },
     {
       "album": {
@@ -12133,7 +12151,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 173350,
       "name": "Manchestre City",
       "url": "https://open.spotify.com/track/5SRcmU3DUCJFVO4N4iPsmp"
@@ -13205,6 +13223,24 @@
       "duration_ms": 168880,
       "name": "Mit\u00e4 jos t\u00e4\u00e4 loppuu (feat. Pihlaja)",
       "url": "https://open.spotify.com/track/5jXqJbVVwReHShXFPekZ92"
+    },
+    {
+      "album": {
+        "name": "Mit\u00e4 sul oli mieles",
+        "url": "https://open.spotify.com/album/32iDFJFFmo3yRdRKfx0h6w"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143151,
+      "name": "Mit\u00e4 sul oli mieles",
+      "url": "https://open.spotify.com/track/1vKaXLIYk3t1OOM6zL2xpT"
     },
     {
       "album": {
@@ -16890,6 +16926,32 @@
     },
     {
       "album": {
+        "name": "Reiviluola (Remix)",
+        "url": "https://open.spotify.com/album/3F9pbcw4b20EvSNQoMYhZx"
+      },
+      "artists": [
+        {
+          "name": "Haloo Helsinki!",
+          "url": "https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s"
+        },
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        },
+        {
+          "name": "jambo",
+          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199764,
+      "name": "Reiviluola - Remix",
+      "url": "https://open.spotify.com/track/4eVRTOy6vUWuwD03ccIXYv"
+    },
+    {
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
@@ -17848,6 +17910,24 @@
     },
     {
       "album": {
+        "name": "Sexshow",
+        "url": "https://open.spotify.com/album/544aayqZdDprKTzfpc2lk7"
+      },
+      "artists": [
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Sexshow",
+      "url": "https://open.spotify.com/track/0KRxNoESYUCZeVEv99ARCL"
+    },
+    {
+      "album": {
         "name": "One Love (New Version)",
         "url": "https://open.spotify.com/album/4uZaHeEPBWpLilXGg5sJs1"
       },
@@ -18505,7 +18585,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
@@ -22103,6 +22183,32 @@
       "duration_ms": 215506,
       "name": "Visiting Hours",
       "url": "https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA"
+    },
+    {
+      "album": {
+        "name": "Vituiks M\u00e4n",
+        "url": "https://open.spotify.com/album/1YAvzSeSWxrqs5NszHfoga"
+      },
+      "artists": [
+        {
+          "name": "Roope Salminen & Koirat",
+          "url": "https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r"
+        },
+        {
+          "name": "Teflon Brothers",
+          "url": "https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M"
+        },
+        {
+          "name": "STIG",
+          "url": "https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178562,
+      "name": "Vituiks M\u00e4n",
+      "url": "https://open.spotify.com/track/6Rc4Z7Gu5BkzJsfPieCJqD"
     },
     {
       "album": {

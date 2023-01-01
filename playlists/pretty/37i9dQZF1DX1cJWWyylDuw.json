@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: Suicide Silence",
-  "num_followers": 60691,
+  "num_followers": 61002,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDI0YWUwN2VjOTI5MWUxYmIyN2Y1YTg3NWIyYzBiYjM0",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDQwNTc1YTJkNDk3NmM1OTJlZDAwOWMwMzE4MDNlYzMy",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "You Must Die",
-        "url": "https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj"
-      },
-      "artists": [
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 162894,
-      "name": "You Must Die",
-      "url": "https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "The Orphan",
         "url": "https://open.spotify.com/album/6Ht4AEKGQHhDst26WlWy62"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 383037,
       "name": "The Orphan",
       "url": "https://open.spotify.com/track/33gtSwgOxlxHLqAQftK3IW"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "You Must Die",
+        "url": "https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 162894,
+      "name": "You Must Die",
+      "url": "https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "The Isnis",
-        "url": "https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
-        }
-      ],
-      "duration_ms": 197614,
-      "name": "The Isnis",
-      "url": "https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Boy",
         "url": "https://open.spotify.com/album/2bawGtzScFeuFxEhsrx4Sa"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 230663,
       "name": "Boy",
       "url": "https://open.spotify.com/track/4F1awMDl4eLNdzm5m5ylGo"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "The Isnis",
+        "url": "https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+        }
+      ],
+      "duration_ms": 197614,
+      "name": "The Isnis",
+      "url": "https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Blind Kings",
-        "url": "https://open.spotify.com/album/0YNSxqbVrKfGsUmdLGSRGG"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
-        }
-      ],
-      "duration_ms": 242535,
-      "name": "Blind Kings",
-      "url": "https://open.spotify.com/track/6UyUnoGID5hjDrGZ0FpfzK"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Rage",
         "url": "https://open.spotify.com/album/1ywnN4cbTEzEidQxfKAFTN"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 263192,
       "name": "Where Millions Have Come to Die",
       "url": "https://open.spotify.com/track/1k3vemIRqlSdlBPFUrqhMY"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Blind Kings",
+        "url": "https://open.spotify.com/album/0YNSxqbVrKfGsUmdLGSRGG"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+        }
+      ],
+      "duration_ms": 242535,
+      "name": "Blind Kings",
+      "url": "https://open.spotify.com/track/6UyUnoGID5hjDrGZ0FpfzK"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1279,18 +1279,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Empyrean",
-        "url": "https://open.spotify.com/album/5vBUDHMCdEqNJglh1OKwMb"
+        "name": "Aeons of Oblivion",
+        "url": "https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr"
       },
       "artists": [
         {
-          "name": "Fallujah",
-          "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        },
+        {
+          "name": "Adam Warren",
+          "url": "https://open.spotify.com/artist/7COUdKrNnwWJGxif3XxLDr"
         }
       ],
-      "duration_ms": 278600,
-      "name": "Mindless Omnipotent Master",
-      "url": "https://open.spotify.com/track/69RKttZp5ubhotQ2ZmoqkQ"
+      "duration_ms": 221446,
+      "name": "Aeons of Oblivion",
+      "url": "https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1311,22 +1315,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Aeons of Oblivion",
-        "url": "https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr"
+        "name": "Empyrean",
+        "url": "https://open.spotify.com/album/5vBUDHMCdEqNJglh1OKwMb"
       },
       "artists": [
         {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        },
-        {
-          "name": "Adam Warren",
-          "url": "https://open.spotify.com/artist/7COUdKrNnwWJGxif3XxLDr"
+          "name": "Fallujah",
+          "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
         }
       ],
-      "duration_ms": 221446,
-      "name": "Aeons of Oblivion",
-      "url": "https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA"
+      "duration_ms": 278600,
+      "name": "Mindless Omnipotent Master",
+      "url": "https://open.spotify.com/track/69RKttZp5ubhotQ2ZmoqkQ"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Vermin",
+        "url": "https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab"
+      },
+      "artists": [
+        {
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+        }
+      ],
+      "duration_ms": 218923,
+      "name": "Vermin",
+      "url": "https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Empty Heaven",
         "url": "https://open.spotify.com/album/0rgqlUWqbfPrenCXaTeytf"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 171739,
       "name": "Good People",
       "url": "https://open.spotify.com/track/2MnbndVuZCfdfr913Ex2HU"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Vermin",
-        "url": "https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab"
-      },
-      "artists": [
-        {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
-        }
-      ],
-      "duration_ms": 218923,
-      "name": "Vermin",
-      "url": "https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Downer Part.1",
+        "url": "https://open.spotify.com/album/1zA1qb5KNiYj6HI7X7DfwG"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "duration_ms": 220279,
+      "name": "Kimo",
+      "url": "https://open.spotify.com/track/0XAmWqbFLmNrPMm5jGMcEl"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Rage",
         "url": "https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 234294,
       "name": "Rage",
       "url": "https://open.spotify.com/track/02QeZiw8x1s0AXUZCETOGI"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "From Ruin... We Rise",
-        "url": "https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW"
-      },
-      "artists": [
-        {
-          "name": "Shadow of Intent",
-          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
-        }
-      ],
-      "duration_ms": 290844,
-      "name": "From Ruin... We Rise",
-      "url": "https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Downer Part.1",
-        "url": "https://open.spotify.com/album/1zA1qb5KNiYj6HI7X7DfwG"
+        "name": "From Ruin... We Rise",
+        "url": "https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW"
       },
       "artists": [
         {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
         }
       ],
-      "duration_ms": 220279,
-      "name": "Kimo",
-      "url": "https://open.spotify.com/track/0XAmWqbFLmNrPMm5jGMcEl"
+      "duration_ms": 290844,
+      "name": "From Ruin... We Rise",
+      "url": "https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Deadly Potential",
-        "url": "https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy"
-      },
-      "artists": [
-        {
-          "name": "Unseen Faith",
-          "url": "https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V"
-        },
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Deadly Potential",
-      "url": "https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Hell Will Come for Us All",
         "url": "https://open.spotify.com/album/5u6SV78mDidg0AKa7u3M70"
       },
@@ -1627,18 +1607,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Hellmouth",
-        "url": "https://open.spotify.com/album/42xWOp9Wymj0Wh21YKLkqD"
+        "name": "Deadly Potential",
+        "url": "https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy"
       },
       "artists": [
         {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+          "name": "Unseen Faith",
+          "url": "https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V"
+        },
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
         }
       ],
-      "duration_ms": 221810,
-      "name": "Hellmouth",
-      "url": "https://open.spotify.com/track/1w73E5RFnn02GBW4iZHuD6"
+      "duration_ms": 184500,
+      "name": "Deadly Potential",
+      "url": "https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1655,6 +1639,22 @@
       "duration_ms": 240000,
       "name": "Bathe in the Flame",
       "url": "https://open.spotify.com/track/3fJWw5Od5tGvKlyh02jLib"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Hellmouth",
+        "url": "https://open.spotify.com/album/42xWOp9Wymj0Wh21YKLkqD"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        }
+      ],
+      "duration_ms": 221810,
+      "name": "Hellmouth",
+      "url": "https://open.spotify.com/track/1w73E5RFnn02GBW4iZHuD6"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Bleed the Future",
-        "url": "https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc"
-      },
-      "artists": [
-        {
-          "name": "Archspire",
-          "url": "https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Bleed the Future",
-      "url": "https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 212480,
       "name": "Exit Signs",
       "url": "https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Bleed the Future",
+        "url": "https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc"
+      },
+      "artists": [
+        {
+          "name": "Archspire",
+          "url": "https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Bleed the Future",
+      "url": "https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "The Last Ten Seconds of Life",
-        "url": "https://open.spotify.com/album/4lS0MNSLmDWM7Kv8wlnyEq"
-      },
-      "artists": [
-        {
-          "name": "The Last Ten Seconds of Life",
-          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
-        }
-      ],
-      "duration_ms": 304440,
-      "name": "Glory Be 2 Misery",
-      "url": "https://open.spotify.com/track/7a4Auzmlt3QDFZbkm1njFw"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Empress",
         "url": "https://open.spotify.com/album/4r1h70lXgPiGJCvGqjAvlM"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 233250,
       "name": "Empress",
       "url": "https://open.spotify.com/track/59Dai1T2TOvlWvMJR6OVdi"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "The Last Ten Seconds of Life",
+        "url": "https://open.spotify.com/album/4lS0MNSLmDWM7Kv8wlnyEq"
+      },
+      "artists": [
+        {
+          "name": "The Last Ten Seconds of Life",
+          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
+        }
+      ],
+      "duration_ms": 304440,
+      "name": "Glory Be 2 Misery",
+      "url": "https://open.spotify.com/track/7a4Auzmlt3QDFZbkm1njFw"
     },
     {
       "added_at": "2022-12-16 05:00:00",

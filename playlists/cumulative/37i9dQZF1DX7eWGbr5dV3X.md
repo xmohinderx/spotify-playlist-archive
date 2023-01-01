@@ -4,7 +4,7 @@
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-75 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/4MpMAcJX9h7NwCwZfMDVty)
+76 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/4MpMAcJX9h7NwCwZfMDVty)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Rare](https://open.spotify.com/track/4LSsBae1yE3eqavJwWu4tj) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [HEARTBREAK ON THE DANCE FLOOR](https://open.spotify.com/album/72tJtcF7eHm0a6cXC13rx9) | 3:20 | 2022-08-25 | 2022-11-13 |
 | [Robbed](https://open.spotify.com/track/29IHIrE9eWpH8j6c3P10nq) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Rules!](https://open.spotify.com/album/0kk6iwrHZ2eoRyHXMFhwga) | 3:22 | 2021-06-04 |  |
 | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC) | [Jujubee](https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U), [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD) | 3:36 | 2021-06-04 |  |
-| [Safe](https://open.spotify.com/track/2EGhBERtho5xqUnXiu8LgS) | [Somaya](https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ) | [Safe](https://open.spotify.com/album/5G5uK5K20TSjbJkW0pVRiq) | 3:23 | 2022-05-02 |  |
+| [Safe](https://open.spotify.com/track/2EGhBERtho5xqUnXiu8LgS) | [Somaya](https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ) | [Safe](https://open.spotify.com/album/5G5uK5K20TSjbJkW0pVRiq) | 3:23 | 2022-05-02 | 2023-01-01 |
+| [Safe](https://open.spotify.com/track/52sEKom3XedUQk93YQJtHJ) | [Somaya](https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ) | [Safe](https://open.spotify.com/album/1dCW1xIQzEtwVBy445MyE8) | 3:23 | 2022-08-25 |  |
 | [sardines](https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [chump change](https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE) | 2:12 | 2022-06-03 |  |
 | [Say My Name](https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Say My Name](https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL) | 2:47 | 2021-06-04 |  |
 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 | 2021-06-04 | 2022-05-03 |

@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover artist: Stryper",
-  "num_followers": 103465,
+  "num_followers": 103523,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzAyNzU2NCwwMDAwMDAwMDEzN2MyMjE3M2IyNjBhNWNkOWU2ZWFiY2YxM2FlNTRm",
+  "snapshot_id": "MTY2NzAyNzU2NCwwMDAwMDAwMGYwODUxN2M3YmRmNWNhMWEzZTA1ZGIxZmI4ZDRhODA0",
   "tracks": [
     {
       "added_at": "2022-10-29 07:12:44",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "EXILE",
-        "url": "https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3"
-      },
-      "artists": [
-        {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
-        }
-      ],
-      "duration_ms": 256893,
-      "name": "ANOTHER PLACE",
-      "url": "https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Eulogies",
         "url": "https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 166575,
       "name": "Weight of Glory",
       "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "EXILE",
+        "url": "https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "duration_ms": 256893,
+      "name": "ANOTHER PLACE",
+      "url": "https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/1uRTs9lDqR70WH1QNbWBty"
-      },
-      "artists": [
-        {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
-        }
-      ],
-      "duration_ms": 164815,
-      "name": "On Becoming Willing",
-      "url": "https://open.spotify.com/track/5buK9fmCLWolU2FGOuFfJv"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Outlive",
         "url": "https://open.spotify.com/album/3qumSCBx2jU1GB8aIfXhrn"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 205786,
       "name": "Cold Winter Sun",
       "url": "https://open.spotify.com/track/3x0jpqonkfTOPXtoVP4vmb"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/1uRTs9lDqR70WH1QNbWBty"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 164815,
+      "name": "On Becoming Willing",
+      "url": "https://open.spotify.com/track/5buK9fmCLWolU2FGOuFfJv"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Death By Admiration",
-        "url": "https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A"
-      },
-      "artists": [
-        {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
-        }
-      ],
-      "duration_ms": 218347,
-      "name": "Halos",
-      "url": "https://open.spotify.com/track/6gyLJLstE1is7JyaOyHQ6o"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Love Letter Kill Shot",
         "url": "https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 269733,
       "name": "Panic Room (featuring Andrew Schwab)",
       "url": "https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Death By Admiration",
+        "url": "https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        }
+      ],
+      "duration_ms": 218347,
+      "name": "Halos",
+      "url": "https://open.spotify.com/track/6gyLJLstE1is7JyaOyHQ6o"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Farewell to Midnight",
-        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
-      },
-      "artists": [
-        {
-          "name": "As We Ascend",
-          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
-        }
-      ],
-      "duration_ms": 214315,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Pariah",
         "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
@@ -855,6 +839,38 @@
       "duration_ms": 237522,
       "name": "Fame",
       "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Farewell to Midnight",
+        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
+      },
+      "artists": [
+        {
+          "name": "As We Ascend",
+          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Have A Little Faith",
+        "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
+      },
+      "artists": [
+        {
+          "name": "Newsong",
+          "url": "https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX"
+        }
+      ],
+      "duration_ms": 159780,
+      "name": "Have A Little Faith",
+      "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -887,22 +903,6 @@
       "duration_ms": 236969,
       "name": "Louder Than a Lion",
       "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
-        "name": "Have A Little Faith",
-        "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
-      },
-      "artists": [
-        {
-          "name": "Newsong",
-          "url": "https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX"
-        }
-      ],
-      "duration_ms": 159780,
-      "name": "Have A Little Faith",
-      "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW"
-      },
-      "artists": [
-        {
-          "name": "XXI",
-          "url": "https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Way You Love Me",
-      "url": "https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Acoustic - EP",
         "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 239552,
       "name": "Burn Back the Sun",
       "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW"
+      },
+      "artists": [
+        {
+          "name": "XXI",
+          "url": "https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Way You Love Me",
+      "url": "https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
+        "name": "Sleight of Hand",
+        "url": "https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1"
+      },
+      "artists": [
+        {
+          "name": "War Of Ages",
+          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
+        }
+      ],
+      "duration_ms": 234831,
+      "name": "Sleight of Hand",
+      "url": "https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
         "name": "Broken Pieces (Matthew Parker Remix)",
         "url": "https://open.spotify.com/album/327N5SiCa9EagolOyBKSvl"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Sleight of Hand",
-        "url": "https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1"
-      },
-      "artists": [
-        {
-          "name": "War Of Ages",
-          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
-        }
-      ],
-      "duration_ms": 234831,
-      "name": "Sleight of Hand",
-      "url": "https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "What Are You Waiting For",
         "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
       },
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Unite",
-        "url": "https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi"
+        "name": "Melancholy Machines",
+        "url": "https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz"
       },
       "artists": [
         {
-          "name": "I Am Spartacus",
-          "url": "https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l"
+          "name": "Death Therapy",
+          "url": "https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo"
         }
       ],
-      "duration_ms": 257466,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju"
+      "duration_ms": 255980,
+      "name": "Pls Snd Hlp",
+      "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Melancholy Machines",
-        "url": "https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz"
+        "name": "Unite",
+        "url": "https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi"
       },
       "artists": [
         {
-          "name": "Death Therapy",
-          "url": "https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo"
+          "name": "I Am Spartacus",
+          "url": "https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l"
         }
       ],
-      "duration_ms": 255980,
-      "name": "Pls Snd Hlp",
-      "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
+      "duration_ms": 257466,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Pulp",
-        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
-      },
-      "artists": [
-        {
-          "name": "Love Ghost",
-          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
-        }
-      ],
-      "duration_ms": 239655,
-      "name": "Pulp",
-      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "The Fire Itself",
         "url": "https://open.spotify.com/album/5Oo7UOjikKgfz36UDS1RAW"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 219777,
       "name": "The Fire Itself",
       "url": "https://open.spotify.com/track/0qrjqzcP1kbhtKD2HfODmy"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Pulp",
+        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
+      },
+      "artists": [
+        {
+          "name": "Love Ghost",
+          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+        }
+      ],
+      "duration_ms": 239655,
+      "name": "Pulp",
+      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
     },
     {
       "added_at": "2022-10-29 07:12:44",

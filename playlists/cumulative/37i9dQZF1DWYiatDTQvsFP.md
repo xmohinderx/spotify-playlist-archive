@@ -4,7 +4,7 @@
 
 > it's scary hours...⛈️  cover: Aaliyah 🕊
 
-220 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/5JxuVXVwLcumgmoRyl2uUE)
+221 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/5JxuVXVwLcumgmoRyl2uUE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Best Friend \- Remix](https://open.spotify.com/track/1wI3UvluGGKUeFeVFsP9do) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Olivia](https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf) | [Best Friend \(Remix\)](https://open.spotify.com/album/27GrIQPCPtPyEUxONxAcRe) | 4:14 | 2022-10-14 |  |
 | [Best Friends \(feat\. Aaliyah\)](https://open.spotify.com/track/0hq4njfuLWfjlfinVFCXhA) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:07 | 2022-05-06 | 2022-07-02 |
 | [Best Of Me, Part 2](https://open.spotify.com/track/1faidjbURmhACFeCjhxSu9) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [DJ Clue Presents: Backstage Mixtape \(Music Inspired By The Film\)](https://open.spotify.com/album/0xZKr42eBz10QcSbFzuhzu) | 3:41 | 2022-06-10 |  |
-| [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/2yb5Ao7Yk2nl9YFnNwKi5F) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/153lLZKTVw25BTcLuXB8ME) | 3:03 | 2022-05-06 |  |
+| [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/2yb5Ao7Yk2nl9YFnNwKi5F) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/153lLZKTVw25BTcLuXB8ME) | 3:03 | 2022-05-06 | 2023-01-01 |
+| [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/759KqKQyDmTWJape4odo21) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:03 | 2022-12-30 |  |
 | [Big Poppa \- 2007 Remaster](https://open.spotify.com/track/63BcfK6YAzJYeISaTPr6IO) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 4:09 | 2022-10-14 |  |
 | [Boo'd Up](https://open.spotify.com/track/4squZv12LD9M8ooJfoVgZS) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:59 | 2022-05-13 |  |
 | [Bout Your Love](https://open.spotify.com/track/0ayhuUaQaJ4dT3PyIrw42k) | [2rude](https://open.spotify.com/artist/4Iidg3Dx7YDYjhsScQWr50), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [2Rude \(Rudimental 2K Remastered\)](https://open.spotify.com/album/1EVrrsLa9ZezXXhJ5kXrZD) | 3:56 | 2022-11-16 |  |

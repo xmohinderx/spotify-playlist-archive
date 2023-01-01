@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-482 songs - 1 day 17 hr 1 min - [published](https://open.spotify.com/playlist/52ZpPLnxkLdZ3FTl62Dt96)
+483 songs - 1 day 17 hr 7 min - [published](https://open.spotify.com/playlist/52ZpPLnxkLdZ3FTl62Dt96)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Chaser](https://open.spotify.com/track/60GMtbLVJQ8flHXTLOOCuz) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Captured Spirits](https://open.spotify.com/album/3C69O5UprPEvhb9YVrPVFz) | 3:43 | 2021-12-16 | 2022-07-28 |
 | [Chaser](https://open.spotify.com/track/7fP561jBsiphdCvlB37UxG) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Captured Spirits](https://open.spotify.com/album/6Uut2mKX2dOJMYDjNvg45n) | 3:43 | 2022-02-10 |  |
 | [Chris Dave](https://open.spotify.com/track/1XWnqOmEFGUplMu4le53rp) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Notes With Attachments](https://open.spotify.com/album/5fsq4qeIWboRRPG7mGGfxr) | 3:22 | 2021-12-16 |  |
-| [Cigogne](https://open.spotify.com/track/7y2Lj0tT4XdozP3oThtZm3) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 5:40 | 2021-12-16 |  |
+| [Cigogne](https://open.spotify.com/track/7y2Lj0tT4XdozP3oThtZm3) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 5:40 | 2021-12-16 | 2023-01-01 |
 | [City Dreams](https://open.spotify.com/track/1npn7uPiSxUr5oKJIkGq04) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Phøn](https://open.spotify.com/artist/6v2EgPbnVH1tpRh4GXAejH), [Javier Santiago](https://open.spotify.com/artist/3L3oWS9VsgTRBF7HFHdOEz), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [City Dreams](https://open.spotify.com/album/6FtVuIjXMLrskjf3xZfCMv) | 4:58 | 2021-12-16 |  |
 | [Coasting](https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 4:49 | 2021-12-16 |  |
 | [Cohesion](https://open.spotify.com/track/1sPAQnIOubkZPROHAWowZo) | [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r), [Khan Jamal](https://open.spotify.com/artist/3w9tUHoiNlKFQ5ksiXStQn), [William Parker](https://open.spotify.com/artist/5r65V3tfKsDc3nHfpIl7D0), [Gerald Cleaver](https://open.spotify.com/artist/4RvllXSRb8WB2CsfjalFs9) | [Equilibrium](https://open.spotify.com/album/32vv89DeqInAKuhl7f1Tq0) | 6:36 | 2022-04-01 | 2022-07-14 |
@@ -229,6 +229,7 @@
 | [Lockdown Drive](https://open.spotify.com/track/1OMr7DcjwxiqbyMclrScD1) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Jazzbois Goes Blunt II](https://open.spotify.com/album/0O3bdEWuD0AFkstEtfQOF3) | 5:20 | 2021-12-16 |  |
 | [London](https://open.spotify.com/track/1HIIE2sN5cU6yaXaCVH27y) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Benjamin Muralt](https://open.spotify.com/artist/5cyLdqGfpPgg8uE1ZiCpwP), [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw), [George Crowley](https://open.spotify.com/artist/3e1ksaa0miXosHCRmDUZHj), [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [James Copus](https://open.spotify.com/artist/3QKktO8tdBUJq3qhZ3Iqrg) | [Crisis & Opportunity, Vol\. 1 \- London](https://open.spotify.com/album/4DBY6vHafOghdJ7uIBOUpB) | 5:11 | 2021-12-16 |  |
 | [Loosed](https://open.spotify.com/track/159joJXhn4I74i1gZLE3Bs) | [Ill Considered](https://open.spotify.com/artist/2nSY0EIzz3eM6Y6Pc7VXkO) | [Loosed](https://open.spotify.com/album/5IqFF12aL8mqCMFf1FrMyP) | 6:15 | 2021-12-16 | 2022-12-06 |
+| [Loosed](https://open.spotify.com/track/7jPFm9v98htkGY9dHiKFXH) | [Ill Considered](https://open.spotify.com/artist/2nSY0EIzz3eM6Y6Pc7VXkO) | [Liminal Space](https://open.spotify.com/album/5d7i7p5mP76Gi4kY2YurSw) | 6:15 | 2022-02-10 |  |
 | [LORIMER feat\. Savannah Harris](https://open.spotify.com/track/6KpRXdEgcnjIApjIZIH5iZ) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Savannah Harris](https://open.spotify.com/artist/0V3HEHjTbwlM0Tf89lTT2j) | [LORIMER feat\. Savannah Harris](https://open.spotify.com/album/35Z0iYtC8EwjQQRR82wv8Q) | 4:18 | 2021-12-16 | 2022-07-29 |
 | [LORIMER feat\. Savannah Harris](https://open.spotify.com/track/7c0TJhI2JkflNx9RzKR9pa) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Savannah Harris](https://open.spotify.com/artist/0V3HEHjTbwlM0Tf89lTT2j) | [Projekt Drums Vol\. 1](https://open.spotify.com/album/7y71YM77RqFPGtgIrrLcGH) | 4:18 | 2022-02-10 |  |
 | [Lost Orbits](https://open.spotify.com/track/5FWqqdb7OKt1Yf0n9qdWx6) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb) | [Lost Orbits](https://open.spotify.com/album/60lIniNjameGxk6W6E8AQr) | 4:44 | 2021-12-16 | 2022-07-29 |

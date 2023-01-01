@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 31835,
+  "num_followers": 31976,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc4MTU1OSwwMDAwMDAwMDhjZDRmYWZhMzdjMGFiNzNhYTkwZjQxYzE1MzAwNTJj",
+  "snapshot_id": "MTY3MTc4MTU1OSwwMDAwMDAwMDdlOTlmMWZiOGE3Njc5NWQwNDE1MTAyNzQ5ZTk4ZTk3",
   "tracks": [
     {
       "added_at": "2022-12-23 07:45:59",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
+        "name": "Billie Holiday With Ray Ellis And His Orchestra",
+        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
         "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
         "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 163106,
       "name": "That Old Feeling",
       "url": "https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "Billie Holiday With Ray Ellis And His Orchestra",
-        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "All Of You",
-      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Swingin' Easy",
-        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/0frZqwvJUm9jVM7vtZKqf4"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
         "name": "My Gentleman Friend",
         "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 357320,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/4SfFKA89wG1ZibFLpkwFw7"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Swingin' Easy",
+        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/0frZqwvJUm9jVM7vtZKqf4"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -555,26 +555,6 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        },
-        {
-          "name": "Bud Shank Quintet",
-          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
-        }
-      ],
-      "duration_ms": 260240,
-      "name": "Ev'ry Time We Say Goodbye",
-      "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
         "name": "A Generation Ago Today",
         "url": "https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf"
       },
@@ -607,18 +587,22 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        },
+        {
+          "name": "Bud Shank Quintet",
+          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
         }
       ],
-      "duration_ms": 179853,
-      "name": "How Deep Is The Ocean?",
-      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
+      "duration_ms": 260240,
+      "name": "Ev'ry Time We Say Goodbye",
+      "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -635,6 +619,22 @@
       "duration_ms": 252000,
       "name": "Blame It On My Youth - Remastered 1999",
       "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "How Deep Is The Ocean?",
+      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 335533,
+      "name": "Make The Man Love Me",
+      "url": "https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
         "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
         "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 231866,
       "name": "I Cover The Waterfront - Master Take",
       "url": "https://open.spotify.com/track/4VcDJCwRyrSa1oJNJ1Ac9P"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 335533,
-      "name": "Make The Man Love Me",
-      "url": "https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "The Hawk Relaxes",
-        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "When Day Is Done",
-      "url": "https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
         "name": "For Those In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 321026,
       "name": "Blue Gardenia",
       "url": "https://open.spotify.com/track/3tClapksxcn9cDDUf6Arqc"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "The Hawk Relaxes",
+        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "When Day Is Done",
+      "url": "https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Angel Eyes",
-        "url": "https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 528226,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 436573,
       "name": "Mad About The Boy",
       "url": "https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "duration_ms": 528226,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D"
     },
     {
       "added_at": "2022-12-23 07:45:59",

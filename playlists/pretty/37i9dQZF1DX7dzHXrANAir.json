@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 78446,
+  "num_followers": 78547,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MzYwMCwwMDAwMDAwMGIxZDAzYzNhZTllMDY1ZDFkMjBkOGE4MzEyY2MwYTIy",
+  "snapshot_id": "MTY2OTk1MzYwMCwwMDAwMDAwMGE5YjA1ZDFhOWU5ZTVhMGEyNjA4ZDNlZDhmN2Q3OTU2",
   "tracks": [
     {
       "added_at": "2022-11-25 04:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
         "name": "Owen",
         "url": "https://open.spotify.com/album/4C1sWRPHj8QVZqnUA7vDzv"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 215820,
       "name": "Etne",
       "url": "https://open.spotify.com/track/0XmfdHTrbFUZgJjFnb1LqZ"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
-      },
-      "artists": [
-        {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
-        }
-      ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -463,34 +463,6 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
-        "name": "Collisions",
-        "url": "https://open.spotify.com/album/57drI09fzzzjTP3AexnqQP"
-      },
-      "artists": [
-        {
-          "name": "Tom Hodge",
-          "url": "https://open.spotify.com/artist/3cHyQs5f4NsAP4LI61G4TO"
-        },
-        {
-          "name": "Ollie Howell",
-          "url": "https://open.spotify.com/artist/6NA5FJR3uBU3T5eVWUsww9"
-        },
-        {
-          "name": "Ciaran Morahan",
-          "url": "https://open.spotify.com/artist/5dME39wvlkpKMR5i7gGkCX"
-        },
-        {
-          "name": "Collisions",
-          "url": "https://open.spotify.com/artist/07x3l0totVsCpV03su5v3M"
-        }
-      ],
-      "duration_ms": 288391,
-      "name": "IV",
-      "url": "https://open.spotify.com/track/3GzrpaEfMKs562jfnjKm0g"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
         "name": "Ensemb7e",
         "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
       },
@@ -527,6 +499,34 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
+        "name": "Collisions",
+        "url": "https://open.spotify.com/album/57drI09fzzzjTP3AexnqQP"
+      },
+      "artists": [
+        {
+          "name": "Tom Hodge",
+          "url": "https://open.spotify.com/artist/3cHyQs5f4NsAP4LI61G4TO"
+        },
+        {
+          "name": "Ollie Howell",
+          "url": "https://open.spotify.com/artist/6NA5FJR3uBU3T5eVWUsww9"
+        },
+        {
+          "name": "Ciaran Morahan",
+          "url": "https://open.spotify.com/artist/5dME39wvlkpKMR5i7gGkCX"
+        },
+        {
+          "name": "Collisions",
+          "url": "https://open.spotify.com/artist/07x3l0totVsCpV03su5v3M"
+        }
+      ],
+      "duration_ms": 288391,
+      "name": "IV",
+      "url": "https://open.spotify.com/track/3GzrpaEfMKs562jfnjKm0g"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
         "name": "Music for Film and Theatre",
         "url": "https://open.spotify.com/album/2lxo1T9lLWrS9EGdMOx37W"
       },
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/4ybl2VlK5Iw5zVT8WeSzhJ"
     },
     {
-      "added_at": "2022-12-31 01:04:54",
+      "added_at": "2023-01-01 01:30:14",
       "album": {
         "name": "Gabriel (Tom Player Strings Version)",
         "url": "https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/6Rk40KBJsfnmmQbg3R35VY"
     },
     {
-      "added_at": "2022-12-31 01:04:54",
+      "added_at": "2023-01-01 01:30:14",
       "album": {
         "name": "Glass Gateway",
         "url": "https://open.spotify.com/album/2rw7rY5ebuktELGAJhZMnl"
@@ -655,6 +655,22 @@
       "duration_ms": 352181,
       "name": "Etude No.12 (XA4 Remix)",
       "url": "https://open.spotify.com/track/4FYOsrACpgx1zu5qQjcQFo"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "A Light Without Flame",
+        "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
+      },
+      "artists": [
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 203994,
+      "name": "A Light Without Flame",
+      "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -687,22 +703,6 @@
       "duration_ms": 268124,
       "name": "Ostinato",
       "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "A Light Without Flame",
-        "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
-      },
-      "artists": [
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 203994,
-      "name": "A Light Without Flame",
-      "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -923,62 +923,6 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
-        "name": "Unfold (XXIM:EXPO #2)",
-        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
-      },
-      "artists": [
-        {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
-        }
-      ],
-      "duration_ms": 218743,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "Solitudes",
-        "url": "https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 277021,
-      "name": "We Begin",
-      "url": "https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "On Being [Foam and Sand Rework]",
-        "url": "https://open.spotify.com/album/4XJwtAr2AISvX4GZByc0pG"
-      },
-      "artists": [
-        {
-          "name": "Six Missing",
-          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
-        },
-        {
-          "name": "Foam and Sand",
-          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
-        },
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        }
-      ],
-      "duration_ms": 254769,
-      "name": "On Being [Foam and Sand Rework]",
-      "url": "https://open.spotify.com/track/2D43pD0M7hHCanJwgGJz5H"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
         "name": "Patina",
         "url": "https://open.spotify.com/album/7ooOWujwGib7z5Lf0tU3FW"
       },
@@ -1043,6 +987,62 @@
       "duration_ms": 251405,
       "name": "Patina",
       "url": "https://open.spotify.com/track/7GCgk8sq0f7KDRlyyW5sA1"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 277021,
+      "name": "We Begin",
+      "url": "https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Unfold (XXIM:EXPO #2)",
+        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
+      },
+      "artists": [
+        {
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+        }
+      ],
+      "duration_ms": 218743,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "On Being [Foam and Sand Rework]",
+        "url": "https://open.spotify.com/album/4XJwtAr2AISvX4GZByc0pG"
+      },
+      "artists": [
+        {
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+        },
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "duration_ms": 254769,
+      "name": "On Being [Foam and Sand Rework]",
+      "url": "https://open.spotify.com/track/2D43pD0M7hHCanJwgGJz5H"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
+        "name": "Retour",
+        "url": "https://open.spotify.com/album/5BNb3OCOvRL3LBuNi4KuM8"
+      },
+      "artists": [
+        {
+          "name": "Tony Anderson",
+          "url": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
+        },
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 425440,
+      "name": "Retour",
+      "url": "https://open.spotify.com/track/2mNgkig9gqGeq8DNSp443Z"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
         "name": "By This River",
         "url": "https://open.spotify.com/album/11o6UQ8kXXknp41Dsg75ca"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 247301,
       "name": "By This River",
       "url": "https://open.spotify.com/track/1ZZV73dkqJx1Wc9THSXpGZ"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "Retour",
-        "url": "https://open.spotify.com/album/5BNb3OCOvRL3LBuNi4KuM8"
-      },
-      "artists": [
-        {
-          "name": "Tony Anderson",
-          "url": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
-        },
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 425440,
-      "name": "Retour",
-      "url": "https://open.spotify.com/track/2mNgkig9gqGeq8DNSp443Z"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
-        "name": "Rameau, etc",
-        "url": "https://open.spotify.com/album/1nSJdY9yheUwqZD9TOQqy1"
-      },
-      "artists": [
-        {
-          "name": "PAVANE",
-          "url": "https://open.spotify.com/artist/4PE4i9qqfT0fpCm76kcuuB"
-        }
-      ],
-      "duration_ms": 245365,
-      "name": "Rameau, etc",
-      "url": "https://open.spotify.com/track/7ynV83CExKcLCaot0TchPQ"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
         "name": "Variations",
         "url": "https://open.spotify.com/album/23KZFnhhIRJclDGwXNW92i"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 225462,
       "name": "La descente",
       "url": "https://open.spotify.com/track/5fdSOtVU9hePoYbQhcMcaB"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Rameau, etc",
+        "url": "https://open.spotify.com/album/1nSJdY9yheUwqZD9TOQqy1"
+      },
+      "artists": [
+        {
+          "name": "PAVANE",
+          "url": "https://open.spotify.com/artist/4PE4i9qqfT0fpCm76kcuuB"
+        }
+      ],
+      "duration_ms": 245365,
+      "name": "Rameau, etc",
+      "url": "https://open.spotify.com/track/7ynV83CExKcLCaot0TchPQ"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
+        "name": "Sleepless Wake",
+        "url": "https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
+        }
+      ],
+      "duration_ms": 222187,
+      "name": "Sleepless Wake",
+      "url": "https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
         "name": "Higher Ground",
         "url": "https://open.spotify.com/album/5QwPCN1Fn7WGvOUcjIsNlW"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 181460,
       "name": "Feel What You Need",
       "url": "https://open.spotify.com/track/2IfutHlzHKdogrpvOdUgan"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "Sleepless Wake",
-        "url": "https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Hamilton-Ayres",
-          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
-        }
-      ],
-      "duration_ms": 222187,
-      "name": "Sleepless Wake",
-      "url": "https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -1387,22 +1387,6 @@
       "duration_ms": 200259,
       "name": "Traveller - Lambert rework",
       "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
-    },
-    {
-      "added_at": "2022-12-31 01:04:54",
-      "album": {
-        "name": "Prayers",
-        "url": "https://open.spotify.com/album/44M51OEL60fhGnyht1CtVb"
-      },
-      "artists": [
-        {
-          "name": "Dobrawa Czocher",
-          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
-        }
-      ],
-      "duration_ms": 307228,
-      "name": "Prayers",
-      "url": "https://open.spotify.com/track/2vmjrsYw0g3fpoJkuIzh05"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -1485,20 +1469,20 @@
       "url": "https://open.spotify.com/track/6T6U15jco43HghuqfzCAeu"
     },
     {
-      "added_at": "2022-11-25 04:00:00",
+      "added_at": "2023-01-01 01:30:14",
       "album": {
-        "name": "Frost",
-        "url": "https://open.spotify.com/album/2audNxAFYm85cY3VNjpt8Z"
+        "name": "Prayers",
+        "url": "https://open.spotify.com/album/44M51OEL60fhGnyht1CtVb"
       },
       "artists": [
         {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+          "name": "Dobrawa Czocher",
+          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
         }
       ],
-      "duration_ms": 292044,
-      "name": "Dawn is Near",
-      "url": "https://open.spotify.com/track/3GBazB23qS7nwK55xxZRB3"
+      "duration_ms": 307228,
+      "name": "Prayers",
+      "url": "https://open.spotify.com/track/2vmjrsYw0g3fpoJkuIzh05"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2022-11-25 04:00:00",
       "album": {
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/2audNxAFYm85cY3VNjpt8Z"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 292044,
+      "name": "Dawn is Near",
+      "url": "https://open.spotify.com/track/3GBazB23qS7nwK55xxZRB3"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
         "name": "The Wind (Deluxe)",
         "url": "https://open.spotify.com/album/0o9rSszHt4kikYbAPtlokj"
       },
@@ -1543,22 +1543,6 @@
       "duration_ms": 133335,
       "name": "Nos - C.B. Rework",
       "url": "https://open.spotify.com/track/1zVbL4ZCLbEE8fmVl881Gj"
-    },
-    {
-      "added_at": "2022-11-25 04:00:00",
-      "album": {
-        "name": "Vale",
-        "url": "https://open.spotify.com/album/7bzBIJynVYnwioBEY248DP"
-      },
-      "artists": [
-        {
-          "name": "Simon Goff",
-          "url": "https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90"
-        }
-      ],
-      "duration_ms": 388748,
-      "name": "Vale",
-      "url": "https://open.spotify.com/track/4RocG6490RoLRJgdbNZEEY"
     },
     {
       "added_at": "2022-11-25 04:00:00",
@@ -1595,6 +1579,22 @@
       "duration_ms": 237827,
       "name": "Peter",
       "url": "https://open.spotify.com/track/4ANqaM60727eZi2Xxo9r8I"
+    },
+    {
+      "added_at": "2022-11-25 04:00:00",
+      "album": {
+        "name": "Vale",
+        "url": "https://open.spotify.com/album/7bzBIJynVYnwioBEY248DP"
+      },
+      "artists": [
+        {
+          "name": "Simon Goff",
+          "url": "https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90"
+        }
+      ],
+      "duration_ms": 388748,
+      "name": "Vale",
+      "url": "https://open.spotify.com/track/4RocG6490RoLRJgdbNZEEY"
     }
   ],
   "unique_name": "Classical X",

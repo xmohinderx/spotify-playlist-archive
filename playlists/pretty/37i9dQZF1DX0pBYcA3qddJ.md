@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,854 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,861 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 63 | [Minamata Piano Theme](https://open.spotify.com/track/5QdtHx0McmGTyOajpBdS1O) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Minamata \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72I6rqsWERvOdFHx7UPKmQ) | 2:50 |
 | 64 | [Free In The Knowledge](https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:12 |
 | 65 | [夕方のうた](https://open.spotify.com/track/2vBMLVOIwj0PcY3hDL1zxX) | [Yoshinao Nakada](https://open.spotify.com/artist/5PsvMY2M2jrXnWnbY2R997), [Rintaro Akamatsu](https://open.spotify.com/artist/4PXjZj2FxsYEeJdX9ir8Il) | [Rintaro Akamatsu Piano Collection Vol.6 Pièces pour la Jeunesse こどものための小品集 2021](https://open.spotify.com/album/0YDYf09Cya58mVaeS9mxIB) | 1:34 |
-| 66 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 2:20 |
+| 66 | [ache for](https://open.spotify.com/track/55FOR5Couja7pPTxHKGh84) | [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [ache for](https://open.spotify.com/album/3pit8tQ6VzZ3ZoOxPiX5O0) | 5:28 |
 | 67 | [Voyage](https://open.spotify.com/track/5T9jY8XY5uAkewdYMjDdYi) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Voyage](https://open.spotify.com/album/1zyRsUPkb552Z6f4w0dvM4) | 2:39 |
-| 68 | [ache for](https://open.spotify.com/track/55FOR5Couja7pPTxHKGh84) | [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [ache for](https://open.spotify.com/album/3pit8tQ6VzZ3ZoOxPiX5O0) | 5:28 |
+| 68 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 2:20 |
 | 69 | [hananoame](https://open.spotify.com/track/0pPlbgLKDPFlGKTbmApQiX) | [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [hananoame](https://open.spotify.com/album/3c2oU0PlWnVe0Eg4IZIb5D) | 4:20 |
 | 70 | [Love On The Run](https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 7:03 |
 | 71 | [あしたに向かって](https://open.spotify.com/track/2qoheoIUxD6rwibBksqTFt) | [Asuka Noda](https://open.spotify.com/artist/5B5Ip55ekXUdj3wehY9Vnz) | [哀しみの向こう](https://open.spotify.com/album/0RZI94WG9thxjLCfLMYIuq) | 3:40 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 95 | [Sundays \- Just Piano Version](https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 3:32 |
 | 96 | [Bye for now,](https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:50 |
 | 97 | [Hoppípolla](https://open.spotify.com/track/0yQPpUq5BJyqah5m2Q5Stt) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP) | 4:28 |
-| 98 | [Kyle \(Northern Line\)](https://open.spotify.com/track/2rHefyfbrhfXVaquedNvnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:44 |
-| 99 | [春よ、来い](https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [KIYOZUKA](https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ) | 1:16 |
-| 100 | [人生への古代のステップ](https://open.spotify.com/track/6NEZlv8KhZ7D625Ry6g5s5) | [Takare Tadame](https://open.spotify.com/artist/5VG5uEB9NnUhEpzFFnSjV0) | [人生への古代のステップ](https://open.spotify.com/album/1e8KX6qBNn9P69POODHoiU) | 2:10 |
+| 98 | [春よ、来い](https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [KIYOZUKA](https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ) | 1:16 |
+| 99 | [人生への古代のステップ](https://open.spotify.com/track/6NEZlv8KhZ7D625Ry6g5s5) | [Takare Tadame](https://open.spotify.com/artist/5VG5uEB9NnUhEpzFFnSjV0) | [人生への古代のステップ](https://open.spotify.com/album/1e8KX6qBNn9P69POODHoiU) | 2:10 |
+| 100 | [Kyle \(Northern Line\)](https://open.spotify.com/track/2rHefyfbrhfXVaquedNvnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:44 |
 
-Snapshot ID: `MTY3MTcyMTIwMCwwMDAwMDAwMGM5YzQ2OTU0ZDRlMTc0ZjZiZGE2OTE1ODdmMmJiNTNl`
+Snapshot ID: `MTY3MTcyMTIwMCwwMDAwMDAwMDhlNjYyMjExYmY2Mzk3YjNmNzlmMjE4NDA3OGU3ZWNj`

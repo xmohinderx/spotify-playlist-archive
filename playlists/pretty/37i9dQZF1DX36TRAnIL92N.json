@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 76554,
+  "num_followers": 76859,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDA2MCwwMDAwMDAwMGYwMzJjMmQwN2UyNzExYjkxZmE1ZmNjNjFlZTVjOWI3",
+  "snapshot_id": "MTY3MTc1MDA2MCwwMDAwMDAwMDcwMjJiM2I1MDNkNDk5OWM2NDRlZTJhNTQ4MDc2MjI5",
   "tracks": [
     {
       "added_at": "2022-12-22 23:01:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-12-22 23:01:00",
       "album": {
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 231437,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
         "name": "Asura EP",
         "url": "https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 296812,
       "name": "UFOs & LFOs",
       "url": "https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK"
-    },
-    {
-      "added_at": "2022-12-22 23:01:00",
-      "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 231437,
-      "name": "Don't Look Back",
-      "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
     },
     {
       "added_at": "2022-12-22 23:01:00",
@@ -676,7 +676,7 @@
       "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": "Deep Down",
-        "url": "https://open.spotify.com/album/6qLxGWZeEO8XcScqKQ7tqZ"
+        "url": "https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 208759,
-      "name": "Can't Stop the Feeling",
-      "url": "https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE"
+      "duration_ms": 220488,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x"
     },
     {
       "added_at": "2022-12-22 23:01:00",
@@ -836,7 +836,7 @@
       "added_at": "2022-12-22 23:01:00",
       "album": {
         "name": "Deep Down",
-        "url": "https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp"
+        "url": "https://open.spotify.com/album/6qLxGWZeEO8XcScqKQ7tqZ"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 220488,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x"
+      "duration_ms": 208759,
+      "name": "Can't Stop the Feeling",
+      "url": "https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE"
     },
     {
       "added_at": "2022-12-22 23:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s.",
-  "num_followers": 168904,
+  "num_followers": 169142,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDMxMSwwMDAwMDAwMGRmYzRhY2ZiZGQwYWE3NGE1NDZiNzU5NGVhODk5ODMw",
+  "snapshot_id": "MTY2ODcwMDMxMSwwMDAwMDAwMDIxNzFlNTg4OTQyOWMzYzU4YjU5NWU2NzQ5MWRmODQ5",
   "tracks": [
     {
       "added_at": "2021-11-23 12:34:50",
@@ -285,20 +285,20 @@
       "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
     },
     {
-      "added_at": "2022-01-24 08:35:46",
+      "added_at": "2021-11-23 12:54:05",
       "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
       },
       "artists": [
         {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 267773,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
+      "duration_ms": 205613,
+      "name": "Into the Mystic - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -317,20 +317,20 @@
       "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
     },
     {
-      "added_at": "2021-11-23 12:54:05",
+      "added_at": "2022-01-24 08:35:46",
       "album": {
-        "name": "Moondance",
-        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
         }
       ],
-      "duration_ms": 205613,
-      "name": "Into the Mystic - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
+      "duration_ms": 267773,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Cosmo's Factory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Long As I Can See The Light",
-      "url": "https://open.spotify.com/track/4Sk6QA0RoRqZ3Hg9TlAX4X"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "And Then There Were Three (2007 Remaster)",
         "url": "https://open.spotify.com/album/4nh8I6fmXqcS4AqpVSu3aI"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 239333,
       "name": "Follow You Follow Me - 2007 Remaster",
       "url": "https://open.spotify.com/track/6gyU6PaPpzTCUYzZcVICwk"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Long As I Can See The Light",
+      "url": "https://open.spotify.com/track/4Sk6QA0RoRqZ3Hg9TlAX4X"
     },
     {
       "added_at": "2021-11-23 12:54:05",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 256800,
-      "name": "Simple Twist of Fate",
-      "url": "https://open.spotify.com/track/3wAX3qn53iQUFE84hpfeen"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "Captain Fantastic And The Brown Dirt Cowboy",
         "url": "https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 404933,
       "name": "Someone Saved My Life Tonight",
       "url": "https://open.spotify.com/track/0bLOiofyBB62YU2cNnONJG"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 256800,
+      "name": "Simple Twist of Fate",
+      "url": "https://open.spotify.com/track/3wAX3qn53iQUFE84hpfeen"
     },
     {
       "added_at": "2021-11-23 12:34:50",

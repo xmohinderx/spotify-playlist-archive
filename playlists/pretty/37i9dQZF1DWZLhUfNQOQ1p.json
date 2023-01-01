@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230791,
+  "num_followers": 230800,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDYxMzk1ZWUyOWMyYWI5NmNkYmE2MTZhMjliNDQzM2Q0",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGVkYWU4ZTMxMmRjYmUwYTg3ZTg0ZTFiZDE1ZjYzNTRl",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -67,22 +67,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Feel It Still",
-        "url": "https://open.spotify.com/album/2DeswM9o7EwLJFlaVXQi6t"
+        "name": "Montrose Ave",
+        "url": "https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5"
       },
       "artists": [
         {
-          "name": "Revelries",
-          "url": "https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ"
-        },
-        {
-          "name": "Henri Purnell",
-          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
         }
       ],
-      "duration_ms": 222590,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/4J0KBaH6ZJh0dVqc7XlYT6"
+      "duration_ms": 173320,
+      "name": "Montrose Ave",
+      "url": "https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -103,18 +99,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Montrose Ave",
-        "url": "https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5"
+        "name": "Feel It Still",
+        "url": "https://open.spotify.com/album/2DeswM9o7EwLJFlaVXQi6t"
       },
       "artists": [
         {
-          "name": "Y.V.E. 48",
-          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+          "name": "Revelries",
+          "url": "https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ"
+        },
+        {
+          "name": "Henri Purnell",
+          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
         }
       ],
-      "duration_ms": 173320,
-      "name": "Montrose Ave",
-      "url": "https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC"
+      "duration_ms": 222590,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/4J0KBaH6ZJh0dVqc7XlYT6"
     },
     {
       "added_at": "2021-08-05 09:09:59",

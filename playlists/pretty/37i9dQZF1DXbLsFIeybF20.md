@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,443 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,449 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 6 | [Short Dressed Gal](https://open.spotify.com/track/5LIn72haoobRVZg0cELDad) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [New Orleans Preservation, Vol\. 1](https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd) | 2:38 |
 | 7 | [Do Whatcha Wanna](https://open.spotify.com/track/5UqzRN9qi2oxmKWff9oIRC) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [25th Anniversary](https://open.spotify.com/album/6DWA75mB8yXhnjVYLLpRlu) | 3:12 |
 | 8 | [West End Blues](https://open.spotify.com/track/0CTsnaN5MpEEfFzAPDpxpS) | [Charlie Barnet](https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb), [Charlie Barnet & His Orchestra](https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU) | [Drop Me Off In Harlem](https://open.spotify.com/album/63mon9nIn254wR2aATwbBg) | 2:43 |
-| 9 | [Chasing Birds \- Preservation Hall Jazz Band Re\-Version](https://open.spotify.com/track/4ca03o6ZZsFA0LB620kpKI) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Chasing Birds \(Preservation Hall Jazz Band Re\-Version\)](https://open.spotify.com/album/5aCiqtiBVqMASYAgzf3o8L) | 3:38 |
-| 10 | [Bourbon Street Parade](https://open.spotify.com/track/4QbweORkjDpipFhhLdEnYR) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [New Orleans Jazz Collection \- French Quarter Favorites](https://open.spotify.com/album/0c0lFgqkh99UuCQM9qNYmL) | 2:34 |
+| 9 | [Bourbon Street Parade](https://open.spotify.com/track/4QbweORkjDpipFhhLdEnYR) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [New Orleans Jazz Collection \- French Quarter Favorites](https://open.spotify.com/album/0c0lFgqkh99UuCQM9qNYmL) | 2:34 |
+| 10 | [Chasing Birds \- Preservation Hall Jazz Band Re\-Version](https://open.spotify.com/track/4ca03o6ZZsFA0LB620kpKI) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Chasing Birds \(Preservation Hall Jazz Band Re\-Version\)](https://open.spotify.com/album/5aCiqtiBVqMASYAgzf3o8L) | 3:38 |
 | 11 | [Black Bottom Stomp \- 2002 Remastered](https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Jazz King Of New Orleans](https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do) | 3:12 |
 | 12 | [None of My Jelly Roll](https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Her New Orleans Music](https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE) | 3:45 |
 | 13 | [Drop Me Off In New Orleans](https://open.spotify.com/track/5PPG6S0didC96fCXpwtIDY) | [Kermit Ruffins](https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk) | [Live At Vaughan's](https://open.spotify.com/album/4nEP1HypmT4fY2QidPM4kt) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [Tiger Rag 3](https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [The Best of Dixieland](https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd) | 2:36 |
 | 50 | [Clarinet Marmalade](https://open.spotify.com/track/4VkDLtYQqgL7y54RPfb6hq) | [Narvin Kimball](https://open.spotify.com/artist/0P7taret1PsUMeLPmY9QsK), [Percy Humphrey](https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE), [David Grillier](https://open.spotify.com/artist/0V80a4D2OEkrqxMbqr8p3S), [Frank Demond](https://open.spotify.com/artist/5y8H4DEJbuqtQjv5Pd97pJ), [James Prevost](https://open.spotify.com/artist/094VPI3YTKcl4uc5u2Jgrt), [Joe Lastie](https://open.spotify.com/artist/3pJ1UarwRjBjrwKpZO98zt), [Lars Edegran](https://open.spotify.com/artist/3wN28VKm70NmgkLGXYMvvc) | [Narvin Kimball & Friends](https://open.spotify.com/album/09RgsKCgcTflKa3BSUb28v) | 6:21 |
 
-Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMDc1OTdkZDllNzVjNzQwNWNjYTllNWIyYTIxNWViNGVi`
+Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMDU5Yzc4MDUyOTQ1YzQ0ZTNmZjAwMGNjMGE3NzNlYTlm`

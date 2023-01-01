@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-289 songs - 17 hr 4 min - [published](https://open.spotify.com/playlist/5Ia0O2s18IQpAbkgQJ0E7m)
+290 songs - 17 hr 8 min - [published](https://open.spotify.com/playlist/5Ia0O2s18IQpAbkgQJ0E7m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Kojosese](https://open.spotify.com/track/6h5Bu5TWQZwBvCyCjbsYxW) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Kojosese](https://open.spotify.com/album/6pKvn2WA31RrL9wkaabUOC) | 4:41 | 2021-12-16 | 2022-06-01 |
 | [Koleyewon](https://open.spotify.com/track/1lBQnp2hUBZuyvMaNTslRQ) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Koleyewon](https://open.spotify.com/album/48oiAPKqzL6EbO79zIuZ2W) | 3:39 | 2021-03-25 | 2022-06-01 |
 | [Koroba](https://open.spotify.com/track/18t2ofQiViidZHxOBVjpD1) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Celia](https://open.spotify.com/album/0v0pKqegGprcnGYUGitYvO) | 2:33 | 2021-03-25 | 2022-10-08 |
+| [KOTTO](https://open.spotify.com/track/5BAfLzpEj8hMH5rutSNkh7) | [Sifoor](https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj), [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX) | [KOTTO](https://open.spotify.com/album/6OxX9IbomGk92OPbDgbEVV) | 3:50 | 2022-11-18 |  |
 | [KPK \(Ko Por Ke\)](https://open.spotify.com/track/4r0aW0nezMcvAH5Z9dxxJ9) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [KPK \(Ko Por Ke\)](https://open.spotify.com/album/4fOGnh8LW6Qg2e3ZAaLVgM) | 3:11 | 2021-03-25 | 2022-05-16 |
 | [LEADER!](https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [LEADER!](https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC) | 2:21 | 2022-09-19 | 2022-11-04 |
 | [LET YOU DOWN](https://open.spotify.com/track/3yderveAUP3QqHSadNZ5iq) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [LET YOU DOWN](https://open.spotify.com/album/0xjETjDt8P1ch5DHYAMjZA) | 2:59 | 2022-01-27 | 2022-06-19 |
@@ -236,7 +237,7 @@
 | [Sempe](https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [ZaZa Vibes](https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD) | 2:51 | 2021-03-25 |  |
 | [Sere \- Remix](https://open.spotify.com/track/6kxo2n2WY48fAhLuiwYOAb) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sere \(Remix\)](https://open.spotify.com/album/2VTdHWIwS3hf7Yi1I14ZG9) | 3:14 | 2021-06-24 |  |
 | [Señorita](https://open.spotify.com/track/6o8QA4uKuvLV3AsSVOqeIj) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Sound from Africa](https://open.spotify.com/album/0diuKnu6lrcGqDtHiQQJcU) | 2:59 | 2021-03-25 | 2022-06-02 |
-| [Shaye](https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Shaye](https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH) | 2:49 | 2022-07-22 |  |
+| [Shaye](https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Shaye](https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH) | 2:49 | 2022-07-22 | 2023-01-01 |
 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 | 2021-10-08 |  |
 | [Skeletun](https://open.spotify.com/track/3QjgCsPJH5Z2VnTCDYPurE) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Skeletun](https://open.spotify.com/album/6Mji0XZcr2lKRHl3sRi92o) | 3:12 | 2022-06-09 | 2022-10-29 |
 | [Skeletun](https://open.spotify.com/track/6gAU6YgNzWdyBN4j1ec66T) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Skeletun](https://open.spotify.com/album/4hsWTfVWE2jYvYOjeKtjtZ) | 3:12 | 2020-02-26 | 2022-04-21 |

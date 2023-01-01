@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Luke Grimes, Zach Bryan, Lainey Wilson and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,872 likes - 53 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,278 likes - 53 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 2 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 3:53 |
 | 3 | [No Horse To Ride](https://open.spotify.com/track/2NnlmzSeHsqBmgxAJXWeJ3) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride](https://open.spotify.com/album/3nO6JEsqrqiJwHlRdZr5M8) | 2:13 |
 | 4 | [Postcard \- worktape](https://open.spotify.com/track/6DO4I0PxDLBX1tadzjFOjI) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['22 Tapes](https://open.spotify.com/album/4s9EMhGHuQDf7DRNt8r49h) | 3:28 |
-| 5 | [If I Was A Cowboy \- Stripped](https://open.spotify.com/track/4qy9dgg6QG5x06SrO8EiFW) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [If I Was A Cowboy \(Stripped\)](https://open.spotify.com/album/2JItzQixJgQFywAvEbhXBu) | 3:24 |
+| 5 | [If I Was A Cowboy \- Stripped](https://open.spotify.com/track/4qy9dgg6QG5x06SrO8EiFW) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [If I Was A Cowboy \(Stripped\)](https://open.spotify.com/album/2JItzQixJgQFywAvEbhXBu) | 3:23 |
 | 6 | [Matthew 7:1](https://open.spotify.com/track/7mKLtLxL3cPl5LjxBewbXu) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Matthew 7:1](https://open.spotify.com/album/0HXFQN7OB5SwJroScxVdWY) | 3:35 |
 | 7 | [Middle Finger \- Spotify Singles](https://open.spotify.com/track/5CR5wpp6rjMiePZyrj81e9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 2:36 |
 | 8 | [humble pie](https://open.spotify.com/track/2scpasDLOXpyTLmTbLHbb8) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt) | [Ain't Nothin' To See Here](https://open.spotify.com/album/4bSsEs800POVrp10VBflL9) | 3:38 |

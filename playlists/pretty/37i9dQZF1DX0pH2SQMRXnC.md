@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pH2SQMRXnC.md) - [plain]
 
 > Only the biggest Hardstyle tracks, hand\-curated by The Elite \(Coone & Da Tweekaz & Hard Driver\) for New Years' Eve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,137,983 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138,410 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195 likes - 151 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 196 likes - 151 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,13 +82,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 72 | [Es Natural](https://open.spotify.com/track/6oh2qSjZeP7TPWp2Ehh5MM) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:55 |
 | 73 | [Creo En América](https://open.spotify.com/track/4V239llAQgxynAqOUfuueJ) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Distinto \- Edición Especial](https://open.spotify.com/album/63LMsZgYQTiIXszpxA9Q0S) | 2:53 |
 | 74 | [En Las Manos De Dios](https://open.spotify.com/track/0oOnIriN6B7BoQXgAR5n1c) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose \(Expanded Edition\)](https://open.spotify.com/album/3Ca2ChPMHogU1scVKSEprg) | 4:13 |
-| 75 | [How Many Times \- Spanish Version](https://open.spotify.com/track/2yPWdo1Uo15owusJkamkTy) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/3uWvFEAurqos8bEdEkPJRG) | 3:25 |
-| 76 | [Los Rotos](https://open.spotify.com/track/6m8Trwk0TR8ZHLgRfcHiVZ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Los Rotos](https://open.spotify.com/album/3Jct1NzCRYQZno5UbLVgfP) | 3:26 |
+| 75 | [Los Rotos](https://open.spotify.com/track/6m8Trwk0TR8ZHLgRfcHiVZ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Los Rotos](https://open.spotify.com/album/3Jct1NzCRYQZno5UbLVgfP) | 3:26 |
+| 76 | [How Many Times \- Spanish Version](https://open.spotify.com/track/2yPWdo1Uo15owusJkamkTy) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/3uWvFEAurqos8bEdEkPJRG) | 3:25 |
 | 77 | [Demons](https://open.spotify.com/track/7ENsj3LM785UVmHRjKRIkq) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:39 |
 | 78 | [Tanto Tanto](https://open.spotify.com/track/6crP0sQtEHyFFKHP2MsqJm) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:08 |
 | 79 | [La Pena](https://open.spotify.com/track/2MhpzkfWvLJmT4WoodDiu6) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:27 |
-| 80 | [Cadillac \(feat\. Manuel Medrano\)](https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI) | [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Cuerpo y Alma](https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9) | 3:27 |
-| 81 | [Dime Si Hay Algo](https://open.spotify.com/track/4BfQiVrz0EnPjH1nNoAXez) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Dime Si Hay Algo](https://open.spotify.com/album/6qhosK2xnpgEL1PEtElNlz) | 2:40 |
+| 80 | [Dime Si Hay Algo](https://open.spotify.com/track/4BfQiVrz0EnPjH1nNoAXez) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Dime Si Hay Algo](https://open.spotify.com/album/6qhosK2xnpgEL1PEtElNlz) | 2:40 |
+| 81 | [Cadillac \(feat\. Manuel Medrano\)](https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI) | [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Cuerpo y Alma](https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9) | 3:27 |
 | 82 | [Encontrei](https://open.spotify.com/track/0IsDPloVKxEerfg2agbXdE) | [Marina Elali](https://open.spotify.com/artist/77Wl6L20WG41VO6pqpHrkL) | [Novelas](https://open.spotify.com/album/1W9H44bGFEzck4PlrmKq9q) | 4:13 |
 | 83 | [Perdón](https://open.spotify.com/track/13rN1xuHZuJ7ji46evbuor) | [Johann Vera](https://open.spotify.com/artist/3LP4XtcdBxAaO3ZevTTppB) | [Perdón](https://open.spotify.com/album/3rkJ8E3ExHU0ZeYkIMzAKn) | 3:14 |
 | 84 | [El Río](https://open.spotify.com/track/4tjA9rQ9e7ya0n8LIrZckS) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Que No Me Falte la Voz](https://open.spotify.com/album/5zz2XeUnisl841JMlybgxw) | 3:04 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 90 | [Veneno](https://open.spotify.com/track/1IN2Ufuu1Ojs5Twb6ASmRt) | [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw) | [Stereo](https://open.spotify.com/album/5G4X3SZkDl63ggFtOdQVuW) | 3:06 |
 | 91 | [Go](https://open.spotify.com/track/6OT5SEXE1FoTEPLcyBSNcN) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG), [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:53 |
 | 92 | [Diciembre Sin Ti](https://open.spotify.com/track/4RS4SB4CcZybf1kGz993ds) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Diciembre Sin Ti](https://open.spotify.com/album/4Fer79sUn0C5roLh5GaO9i) | 3:27 |
-| 93 | [Blinded](https://open.spotify.com/track/7kkvFOBOJuy5OwbnDMXTVJ) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Every Third Thought](https://open.spotify.com/album/2NItkHYNcAGCzYVS5ixoOq) | 3:52 |
-| 94 | [¿Dónde Está el Amor?](https://open.spotify.com/track/3Y6z65EYazmo2OoCSogrrX) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Dónde Está el Amor?](https://open.spotify.com/album/70jklr6nVL3beQKyrB4AUE) | 2:59 |
+| 93 | [¿Dónde Está el Amor?](https://open.spotify.com/track/3Y6z65EYazmo2OoCSogrrX) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Dónde Está el Amor?](https://open.spotify.com/album/70jklr6nVL3beQKyrB4AUE) | 2:59 |
+| 94 | [Blinded](https://open.spotify.com/track/7kkvFOBOJuy5OwbnDMXTVJ) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Every Third Thought](https://open.spotify.com/album/2NItkHYNcAGCzYVS5ixoOq) | 3:52 |
 | 95 | [Calma](https://open.spotify.com/track/4j9AeZwJJaqBoAmT1sIBh4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Calma](https://open.spotify.com/album/56WyGihpAfyooVSew8PhNZ) | 2:55 |
 | 96 | [Free Like A Bird](https://open.spotify.com/track/1Z9iPNOlVp6whFtC19PBnW) | [Reamonn](https://open.spotify.com/artist/4VH2QabEORUUhN1F1cYQ6N) | [Reamonn](https://open.spotify.com/album/6mBD8yF24pYPia4n401Krw) | 3:06 |
 | 97 | [Malas Lenguas](https://open.spotify.com/track/4D0KRwHE25Q3HDzD7dORX5) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Intuición](https://open.spotify.com/album/1wFlOd0yqPGfly3SFTw86T) | 2:44 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 150 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 151 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjc4NzQxNDMsMDAwMDAwMDA0MGQ5YWJmYmIxZjZjNjVjOGEyOWE1ZmU5MTYxMjJiZQ==`
+Snapshot ID: `Mjc4NzU1ODQsMDAwMDAwMDAwOGQ2MjhhYTkxMDgxMTUwMWRhM2ZiM2YyYzQ5YzVjNw==`

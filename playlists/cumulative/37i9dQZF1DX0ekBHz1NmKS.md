@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-610 songs - 1 day 8 hr 22 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+611 songs - 1 day 8 hr 25 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Dränker mina tankar](https://open.spotify.com/track/22wxsQjzxWHm5LBGP2AM9Q) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Dränker mina tankar](https://open.spotify.com/album/46Z7Ia77aU9iT95eQjaewX) | 3:02 | 2022-04-01 | 2022-09-16 |
 | [Drömmare](https://open.spotify.com/track/2zEDpcn34OMwjC7SVPey4S) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Drömmare](https://open.spotify.com/album/7AEwJqMf2dlz3Qx659C6Xd) | 3:03 | 2021-12-16 | 2022-04-01 |
 | [Drömmer om andetag](https://open.spotify.com/track/1WKsFk6rFyrzzV0CdPDIBw) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Drömmer om andetag](https://open.spotify.com/album/3AK4IBdV1dWUcgLIUR8k3I) | 3:30 | 2021-12-16 | 2022-02-25 |
-| [Du & jag](https://open.spotify.com/track/238cGn6CtR3w3Ugage1c8o) | [Poolkant](https://open.spotify.com/artist/6CToC6Dzd86xtNaRUBp1cE) | [Du & jag](https://open.spotify.com/album/0tcBkHCenEUvUv4aQW5GzG) | 2:46 | 2022-06-16 |  |
+| [Du & jag](https://open.spotify.com/track/238cGn6CtR3w3Ugage1c8o) | [Poolkant](https://open.spotify.com/artist/6CToC6Dzd86xtNaRUBp1cE) | [Du & jag](https://open.spotify.com/album/0tcBkHCenEUvUv4aQW5GzG) | 2:46 | 2022-06-16 | 2023-01-01 |
 | [Du får allt](https://open.spotify.com/track/3DXyXXXfq8fOr1hLVZ6jkk) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Du får allt](https://open.spotify.com/album/3rhGsvhnwnTUA4xOEiyETE) | 3:16 | 2022-02-20 | 2022-05-08 |
 | [Du förtjänar det](https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Du förtjänar det](https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn) | 3:19 | 2022-05-12 |  |
 | [Du kommer dra](https://open.spotify.com/track/2B1lM51YSusA3I5OUpD8yN) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Tills alla glömt oss](https://open.spotify.com/album/4d0B1xECMoQLXQwt10W2pa) | 2:59 | 2021-12-16 | 2022-01-14 |
@@ -428,6 +428,7 @@
 | [Rude Girl](https://open.spotify.com/track/5BIKxh0EVJnEQdP7Cn7XH6) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Rude Girl](https://open.spotify.com/album/5nalPhFowgImnYG9rvHhQs) | 3:04 | 2022-05-05 | 2022-07-05 |
 | [Ruff Tuff](https://open.spotify.com/track/7i3MKC9GHUqpnbM4DLhRGp) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Babydolls](https://open.spotify.com/album/6HORbSOngRfgyMEqkBkqCi) | 3:07 | 2022-05-30 | 2022-07-29 |
 | [Rule the World](https://open.spotify.com/track/3wegijGUPhF7eHGCIST2Rz) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [A Letter from the Universe](https://open.spotify.com/album/1KVlwAn0aLqaqxzgU5zItL) | 2:59 | 2022-04-01 | 2022-04-21 |
+| [Rules](https://open.spotify.com/track/5L4eBTgKImJ38Il24RNfKw) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Bloom](https://open.spotify.com/album/3m7WDstzCDmAvvXFEfamyj) | 2:46 | 2022-12-22 |  |
 | [Rulla eftertexten](https://open.spotify.com/track/32DulelwqqHmiNS3k9Wyxn) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Alla gör slut](https://open.spotify.com/album/4NqV0pKjmtudnuZ7SArHtG) | 3:26 | 2021-12-16 | 2022-03-11 |
 | [Run To The Hills](https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Run To The Hills](https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0) | 2:55 | 2022-03-03 | 2022-09-16 |
 | [Rymden och tillbaks](https://open.spotify.com/track/37CgRnlN3p5eeIv9ZLKBw5) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Så mycket bättre 2022 – Tolkningarna](https://open.spotify.com/album/6CxfNDPEZUluQdfnB5CTon) | 2:53 | 2022-11-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Alleen maar motion en good vibes\. Cover: Lani Manila
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,396 likes - 77 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,453 likes - 77 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

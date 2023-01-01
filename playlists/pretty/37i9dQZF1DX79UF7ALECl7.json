@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee",
-  "num_followers": 115948,
+  "num_followers": 115955,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMGIxYjBiOTNmOTczODExMjRiNjU4OWU5YzI2YjI2Njhk",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDBiMWQ5Njg0YzdhZmZmMDg1NDg2YzBlNjgyOTRiNDk5",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Reunion",
-        "url": "https://open.spotify.com/album/2M9pkurc1jUmSXH95OGixK"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 247724,
-      "name": "Coffee and Feels",
-      "url": "https://open.spotify.com/track/2Z2qsGVCBCAPGvXqe3JxeG"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Big Sur",
         "url": "https://open.spotify.com/album/0TMwz5HbnoA6TSgTZd8GcJ"
       },
@@ -207,18 +191,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/5WiPDSMPC7kSi0UxssC9qQ"
+        "name": "Reunion",
+        "url": "https://open.spotify.com/album/2M9pkurc1jUmSXH95OGixK"
       },
       "artists": [
         {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
         }
       ],
-      "duration_ms": 205645,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/0uRM8HOFdHPHqCoLd8vgE1"
+      "duration_ms": 247724,
+      "name": "Coffee and Feels",
+      "url": "https://open.spotify.com/track/2Z2qsGVCBCAPGvXqe3JxeG"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -235,6 +219,22 @@
       "duration_ms": 215743,
       "name": "Suburban Sunrise",
       "url": "https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/5WiPDSMPC7kSi0UxssC9qQ"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 205645,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/0uRM8HOFdHPHqCoLd8vgE1"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "The Whistle Song (House Kitsun\u00e9 America)",
-        "url": "https://open.spotify.com/album/1X7DeddTvPUAbZqnbwTjFx"
-      },
-      "artists": [
-        {
-          "name": "Allen French",
-          "url": "https://open.spotify.com/artist/7IMSmMHDPpZL0ZjOr8ssOj"
-        }
-      ],
-      "duration_ms": 248295,
-      "name": "The Whistle Song - House Kitsun\u00e9 America",
-      "url": "https://open.spotify.com/track/01HYlXXE8wpY22Za43ihzj"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Don't Say Goodbye",
         "url": "https://open.spotify.com/album/4QrlY7zLqIns9wayxlvit3"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 168977,
       "name": "Don't Say Goodbye",
       "url": "https://open.spotify.com/track/1Z6uwcyE8ffTTpaPhBwDTx"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "The Whistle Song (House Kitsun\u00e9 America)",
+        "url": "https://open.spotify.com/album/1X7DeddTvPUAbZqnbwTjFx"
+      },
+      "artists": [
+        {
+          "name": "Allen French",
+          "url": "https://open.spotify.com/artist/7IMSmMHDPpZL0ZjOr8ssOj"
+        }
+      ],
+      "duration_ms": 248295,
+      "name": "The Whistle Song - House Kitsun\u00e9 America",
+      "url": "https://open.spotify.com/track/01HYlXXE8wpY22Za43ihzj"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Golden Cage EP",
+        "url": "https://open.spotify.com/album/4rF9lZgtSHe1blrCPGFyGY"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 239249,
+      "name": "Mercury Moments",
+      "url": "https://open.spotify.com/track/3c8hntpeHHoS8BxppJoBBW"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Resilience",
         "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
       },
@@ -603,42 +619,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Golden Cage EP",
-        "url": "https://open.spotify.com/album/4rF9lZgtSHe1blrCPGFyGY"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 239249,
-      "name": "Mercury Moments",
-      "url": "https://open.spotify.com/track/3c8hntpeHHoS8BxppJoBBW"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/3E7TWzpSvp0tGEUd6UNbJR"
-      },
-      "artists": [
-        {
-          "name": "Feiertag",
-          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
-        },
-        {
-          "name": "Tessa Rose Jackson",
-          "url": "https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ"
-        }
-      ],
-      "duration_ms": 163563,
-      "name": "Riptide - Edit",
-      "url": "https://open.spotify.com/track/542iecX5VYzhAbqJgbHFQ1"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Too Hot, Too Cold",
         "url": "https://open.spotify.com/album/0kNwXzdBoqZK48KzqlAvCt"
       },
@@ -655,22 +635,6 @@
       "duration_ms": 246407,
       "name": "Too Hot, Too Cold",
       "url": "https://open.spotify.com/track/2NjeiZqZSRyCdL8xbQehNL"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Lost Again",
-        "url": "https://open.spotify.com/album/4eDfVw4Z5e6nPL61ciprCA"
-      },
-      "artists": [
-        {
-          "name": "Julien Jabre",
-          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Lost Again",
-      "url": "https://open.spotify.com/track/5avPepcSOLKq4zJsGu4CBV"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -699,6 +663,42 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Lost Again",
+        "url": "https://open.spotify.com/album/4eDfVw4Z5e6nPL61ciprCA"
+      },
+      "artists": [
+        {
+          "name": "Julien Jabre",
+          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Lost Again",
+      "url": "https://open.spotify.com/track/5avPepcSOLKq4zJsGu4CBV"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/3E7TWzpSvp0tGEUd6UNbJR"
+      },
+      "artists": [
+        {
+          "name": "Feiertag",
+          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
+        },
+        {
+          "name": "Tessa Rose Jackson",
+          "url": "https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ"
+        }
+      ],
+      "duration_ms": 163563,
+      "name": "Riptide - Edit",
+      "url": "https://open.spotify.com/track/542iecX5VYzhAbqJgbHFQ1"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Half Light",
         "url": "https://open.spotify.com/album/7yLmNk8ErmeAlgd6zYw0vn"
       },
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 182564,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Profound EP",
         "url": "https://open.spotify.com/album/3SSZfZPuBVKpFaSriYWBUt"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 392347,
       "name": "Harmonic Dreams",
       "url": "https://open.spotify.com/track/13yelaqEIzn1hOz2ZRx2xz"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 182564,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Just for a Moment",
+        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Just for a Moment",
+      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Late Night Obsession",
         "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
       },
@@ -855,18 +871,38 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Just for a Moment",
-        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
+        "name": "Eladio",
+        "url": "https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM"
       },
       "artists": [
         {
-          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
-          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+          "name": "Camisade",
+          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Just for a Moment",
-      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
+      "duration_ms": 138100,
+      "name": "Eladio",
+      "url": "https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/003P9cOisHb5VLP12SHkXH"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Makk Mikkael",
+          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
+        }
+      ],
+      "duration_ms": 280888,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7gTNtKHUoCCkb5kygNE1vn"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -919,42 +955,6 @@
       "duration_ms": 305370,
       "name": "<3DAYSOFLOVE",
       "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/003P9cOisHb5VLP12SHkXH"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Makk Mikkael",
-          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
-        }
-      ],
-      "duration_ms": 280888,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7gTNtKHUoCCkb5kygNE1vn"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Eladio",
-        "url": "https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM"
-      },
-      "artists": [
-        {
-          "name": "Camisade",
-          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
-        }
-      ],
-      "duration_ms": 138100,
-      "name": "Eladio",
-      "url": "https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
-      },
-      "artists": [
-        {
-          "name": "Apparel Wax",
-          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
-        }
-      ],
-      "duration_ms": 284205,
-      "name": "009A1",
-      "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Blue Ridge",
         "url": "https://open.spotify.com/album/5wY4vCQ7vz1BH2pZhtKrbG"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
+      },
+      "artists": [
+        {
+          "name": "Apparel Wax",
+          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+        }
+      ],
+      "duration_ms": 284205,
+      "name": "009A1",
+      "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Tell Me Who I Am",
         "url": "https://open.spotify.com/album/0CWxAlJ9ov32aFcMZJJjn7"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 217948,
       "name": "Tell Me Who I Am",
       "url": "https://open.spotify.com/track/1OtO771VNXXuuijjFU0mbr"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "House Shit",
+        "url": "https://open.spotify.com/album/4G3XZqQsuKeQmfYuT5OsgD"
+      },
+      "artists": [
+        {
+          "name": "YellowStraps",
+          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
+        }
+      ],
+      "duration_ms": 107586,
+      "name": "House Shit",
+      "url": "https://open.spotify.com/track/4jw0Ezk1j8xaAdKNdkgX22"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "House Shit",
-        "url": "https://open.spotify.com/album/4G3XZqQsuKeQmfYuT5OsgD"
-      },
-      "artists": [
-        {
-          "name": "YellowStraps",
-          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
-        }
-      ],
-      "duration_ms": 107586,
-      "name": "House Shit",
-      "url": "https://open.spotify.com/track/4jw0Ezk1j8xaAdKNdkgX22"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/0eiuT3ShAERLEGuZEGy1OU"
       },
@@ -1131,6 +1131,26 @@
       "duration_ms": 211071,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/1ZRRqPM3o0sfsjlzrB3VcH"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Echo Of Youth Remodel",
+        "url": "https://open.spotify.com/album/736ZHBrEbC3XvvacaoA1t6"
+      },
+      "artists": [
+        {
+          "name": "Menke",
+          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
+        },
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 298440,
+      "name": "Youth - Satin Jackets Remix",
+      "url": "https://open.spotify.com/track/3Vm1sSi0FyIpQ7fYHHMW8Q"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1159,26 +1179,6 @@
       "duration_ms": 213611,
       "name": "Don't Stop the Dance - Kraak & Smaak Radio Edit",
       "url": "https://open.spotify.com/track/1zoI4kALck0KVXw8wYJEfY"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Echo Of Youth Remodel",
-        "url": "https://open.spotify.com/album/736ZHBrEbC3XvvacaoA1t6"
-      },
-      "artists": [
-        {
-          "name": "Menke",
-          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
-        },
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 298440,
-      "name": "Youth - Satin Jackets Remix",
-      "url": "https://open.spotify.com/track/3Vm1sSi0FyIpQ7fYHHMW8Q"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Parrot Fever",
+        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
+      },
+      "artists": [
+        {
+          "name": "Kazam",
+          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
+        }
+      ],
+      "duration_ms": 268474,
+      "name": "Parrot Fever",
+      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Levin's Lope (Karriem Riggins Remix)",
         "url": "https://open.spotify.com/album/4j6JL0ZiDxUZKxI2y7ELuN"
       },
@@ -1287,18 +1303,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Parrot Fever",
-        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
+        "name": "Infinity (The Remixes)",
+        "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
       },
       "artists": [
         {
-          "name": "Kazam",
-          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
+          "name": "Bluma Petersen",
+          "url": "https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h"
+        },
+        {
+          "name": "SLCT",
+          "url": "https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM"
         }
       ],
-      "duration_ms": 268474,
-      "name": "Parrot Fever",
-      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
+      "duration_ms": 176356,
+      "name": "Infinity (SLCT Remix) (Instrumental Version)",
+      "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1319,26 +1339,6 @@
       "duration_ms": 231593,
       "name": "Do This",
       "url": "https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Infinity (The Remixes)",
-        "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
-      },
-      "artists": [
-        {
-          "name": "Bluma Petersen",
-          "url": "https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h"
-        },
-        {
-          "name": "SLCT",
-          "url": "https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM"
-        }
-      ],
-      "duration_ms": 176356,
-      "name": "Infinity (SLCT Remix) (Instrumental Version)",
-      "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "small talk",
+        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 325680,
+      "name": "small talk",
+      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Falling Upwards",
         "url": "https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj"
       },
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "small talk",
-        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 325680,
-      "name": "small talk",
-      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "You Just Danced",
         "url": "https://open.spotify.com/album/17d0PBIogEhv6lGBTgYXKV"
       },
@@ -1427,6 +1427,22 @@
       "duration_ms": 452611,
       "name": "You Just Danced",
       "url": "https://open.spotify.com/track/0deFjGhPrCgPUqsgZxU8i5"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Gotta Dance",
+        "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 197796,
+      "name": "Gotta Dance",
+      "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Mr. Magic",
-        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
-      },
-      "artists": [
-        {
-          "name": "Baka G",
-          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
-        }
-      ],
-      "duration_ms": 345534,
-      "name": "Mr. Magic",
-      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Torn Apart",
         "url": "https://open.spotify.com/album/1pz8dFp7qIKS1yQKaFgGrG"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 207000,
       "name": "Torn Apart",
       "url": "https://open.spotify.com/track/7m9euwqyxRdTgPACE0E8T1"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Mr. Magic",
+        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
+      },
+      "artists": [
+        {
+          "name": "Baka G",
+          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
+        }
+      ],
+      "duration_ms": 345534,
+      "name": "Mr. Magic",
+      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1543,22 +1559,6 @@
       "duration_ms": 191005,
       "name": "Always",
       "url": "https://open.spotify.com/track/2PXDK2k7QSjGLfzBjuZ1hw"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Gotta Dance",
-        "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 197796,
-      "name": "Gotta Dance",
-      "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
     },
     {
       "added_at": "2022-12-22 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,800 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,919 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 69 | [El Mezcalito](https://open.spotify.com/track/48ksr3js6Hb2cKdmUiZlzF) | [Mariachi Nuevo Tecalitlan](https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS) | [Sones](https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn) | 3:04 |
 | 70 | [El Pajaro Carpintero](https://open.spotify.com/track/2iSHhdoHxagu8wQZcLn8N0) | [Mariachi Sol](https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC) | [Mariachi Sol: Viva Mexico](https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS) | 2:54 |
 | 71 | [Mi Nombre Es México](https://open.spotify.com/track/5TavsDOCbpycDklaALq2dH) | [Fer González](https://open.spotify.com/artist/2D7rQgCTVUgJYwfFNK8f3P), [Adolfo Josafat Esquivel Martínez](https://open.spotify.com/artist/2no9PK9rt2pLRAUZagftpQ), [Armando Esquivel Martínez](https://open.spotify.com/artist/3Dr6YcK9ut2OzBAwDvF5po), [Juan Pablo Esquivel Martínez](https://open.spotify.com/artist/75NZOeqBctbXUDmSXohW0s), [Armando Jiménez Martínez](https://open.spotify.com/artist/54DjpA29Mltg7vDE8oBweE), [Jorge Jiménez Martínez](https://open.spotify.com/artist/6T08P1MBwQTcTP8ckrcmaG), [Rafael Guzman Navarro](https://open.spotify.com/artist/30RzId9OwIRGNH89Bx7xnb), [Arnulfo Muñoz Guzmán](https://open.spotify.com/artist/70F8fUluhWibIB0VuLVhrC), [Carlos Campos Iván](https://open.spotify.com/artist/0njnrM9b7uj4Rudd8lTT7w) | [Mariachi: Mi Nombre Es México](https://open.spotify.com/album/6kdd6Z3nAvWbxPZVpZlBgV) | 2:53 |
-| 72 | [El Son De La Negra](https://open.spotify.com/track/5JCIcyxuL6pcwBHWA8U1cO) | [Mariachi Premier](https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea) | [Recuerdos De Mi Tierra](https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe) | 3:01 |
-| 73 | [El Jarabe Jalisciense](https://open.spotify.com/track/61hQy77rFr00EAYstdsMCK) | [Estampas De Mexico](https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m) | [Estampas De Mexico: Traditional Music From Mexico](https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm) | 4:22 |
+| 72 | [El Jarabe Jalisciense](https://open.spotify.com/track/61hQy77rFr00EAYstdsMCK) | [Estampas De Mexico](https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m) | [Estampas De Mexico: Traditional Music From Mexico](https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm) | 4:22 |
+| 73 | [El Son De La Negra](https://open.spotify.com/track/5JCIcyxuL6pcwBHWA8U1cO) | [Mariachi Premier](https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea) | [Recuerdos De Mi Tierra](https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe) | 3:01 |
 | 74 | [Gavilancito Sangre Cruzada](https://open.spotify.com/track/2Mr3fyUMHVHOWh5KTD1QG8) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Grandes Exitos](https://open.spotify.com/album/518olO2EkNkGlhoITehClz) | 2:16 |
 | 75 | [La cigarra \(arr\. R\. Jonas\)](https://open.spotify.com/track/2QcOdnFZAGFfxCEtlX8RWN) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [Mexico: 20 Best Mariachi and Folk Songs](https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9) | 2:28 |
 | 76 | [El mariachi](https://open.spotify.com/track/3vvl3l4JPI02gAFClBz9s6) | [Mariachi Silvestre Vargas](https://open.spotify.com/artist/16RPDOVQlVowqfNnRuRlRG) | [Mexico Gran Colección Ranchera: Mariachi Silvestre Vargas](https://open.spotify.com/album/16GU1dTM2NQHmwLIuzbPfv) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 99 | [La Verdolaga \(Huapango\)](https://open.spotify.com/track/3sZHqEOkquQLgcKddk2UfQ) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Rubén Fuentes, Miguel Martínez, Silvestre Vargas](https://open.spotify.com/album/4Zraph4xdA7evbLQbwT7In) | 3:10 |
 | 100 | [El Hidalguense](https://open.spotify.com/track/5vozBkZkjmew8kVuPxWOnY) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [RCA 100 Anos De Musica \- Segunda Parte](https://open.spotify.com/album/2uJqbXKxHtQHoeU6CK0RvY) | 3:17 |
 
-Snapshot ID: `MTY2MzAwMzk3NCwwMDAwMDAwMGExYzYwMTA4M2VlYjJkOThmOWRkM2NhYTE0NTVjNGM3`
+Snapshot ID: `MTY2MzAwMzk3NCwwMDAwMDAwMDU2MzRkNDQ5MzU4OGYzNzAyNTE1NWQwYjhkOWU2MDM2`

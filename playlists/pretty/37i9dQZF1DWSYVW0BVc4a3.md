@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > Rave worthy melodic techno and house, hand\-curated by Yotto for New Year's Eve
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,195 likes - 43 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,823 likes - 43 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

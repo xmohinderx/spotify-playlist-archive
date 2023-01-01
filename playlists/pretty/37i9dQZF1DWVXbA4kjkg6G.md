@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Psychedelic beat science.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,752 likes - 75 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,371 likes - 75 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 25 | [Sabrosa](https://open.spotify.com/track/3yOhl93toXcntCqDtAI7iL) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [The In Sound From Way Out!](https://open.spotify.com/album/0nA01XOVBUoi1zDVVYKz4i) | 3:32 |
 | 26 | [Blue Lines \- 2012 Mix/Master](https://open.spotify.com/track/4tVhBXOhSlqYCL2IjyoUNu) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Blue Lines \(2012 Mix/Master\)](https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf) | 4:21 |
 | 27 | [Suzuki](https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 6:04 |
-| 28 | [Turquoise Hexagon Sun](https://open.spotify.com/track/4xmce2Et7muv5rjmjBQq83) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:07 |
+| 28 | [In A Beautiful Place Out In The Country](https://open.spotify.com/track/1ilA1w8ewwREeAEHY2rqKa) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe) | 6:07 |
 | 29 | [Modular Mix](https://open.spotify.com/track/4NsBEdmbgu9u8cH21ycyBv) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Premiers Symptômes](https://open.spotify.com/album/3g9O7pvuaaFRvdzsoSJXVc) | 5:59 |
 | 30 | [Timber](https://open.spotify.com/track/5jby7celTQUoYjAht8peNh) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Let Us Play](https://open.spotify.com/album/06WYN4VlDuK6YCv7CKEomH) | 4:32 |
 | 31 | [Black Baby \(DJ\-KiCKS\)](https://open.spotify.com/track/13FO5ag4v62zedndUziMI7) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [DJ\-Kicks](https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53) | 6:20 |
@@ -45,24 +45,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 35 | [Eine Kleine Hedmusik](https://open.spotify.com/track/3ViZpyzTm8JJ21Y7fSx2XK) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:10 |
 | 36 | [Chocolate Elvis](https://open.spotify.com/track/2j8H3gIfjeBhB4pfudCBZX) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Opera](https://open.spotify.com/album/6TEEsZodjlgareaeIgBHQC) | 5:02 |
 | 37 | [Unreal](https://open.spotify.com/track/0vkxviQkVKdgxEdmDncedH) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC) | [Psyence Fiction](https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY) | 5:08 |
-| 38 | [In A Beautiful Place Out In The Country](https://open.spotify.com/track/1ilA1w8ewwREeAEHY2rqKa) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe) | 6:07 |
+| 38 | [Turquoise Hexagon Sun](https://open.spotify.com/track/4xmce2Et7muv5rjmjBQq83) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:07 |
 | 39 | [Stars](https://open.spotify.com/track/5RTi3ClzRwFsso3gfYppHO) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 6:59 |
-| 40 | [Revolutionary Woman of The Windmill \- Part Primera La Bandolera Del Molino](https://open.spotify.com/track/1Ia7VpJTEQgWn65WPg0qRE) | [Up, Bustle & Out](https://open.spotify.com/artist/0P8CKxjKGjVnIOOJSJoymP) | [One Colour Just Reflects Another](https://open.spotify.com/album/4DeywfBtRsQFApbOjDHsKt) | 5:40 |
+| 40 | [The Next Shit](https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [USSR Repertoire / The Theory Of Verticality](https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv) | 2:09 |
 | 41 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
-| 42 | [Spicy Snapper](https://open.spotify.com/track/1eXDhV76Gea8XuPqcAw0s5) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Since Then\. 2017](https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM) | 5:36 |
-| 43 | [The Next Shit](https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [USSR Repertoire / The Theory Of Verticality](https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv) | 2:09 |
+| 42 | [Revolutionary Woman of The Windmill \- Part Primera La Bandolera Del Molino](https://open.spotify.com/track/1Ia7VpJTEQgWn65WPg0qRE) | [Up, Bustle & Out](https://open.spotify.com/artist/0P8CKxjKGjVnIOOJSJoymP) | [One Colour Just Reflects Another](https://open.spotify.com/album/4DeywfBtRsQFApbOjDHsKt) | 5:40 |
+| 43 | [Spicy Snapper](https://open.spotify.com/track/1eXDhV76Gea8XuPqcAw0s5) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Since Then\. 2017](https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM) | 5:36 |
 | 44 | [In / Flux](https://open.spotify.com/track/54XieTFptuMH4PcjQMpqGn) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0) | 12:14 |
 | 45 | [The Rhyme Goes On](https://open.spotify.com/track/6P5Mhl2WB7HVXQ6Yil3coB) | [Poets of Thought](https://open.spotify.com/artist/1dU3l4m2BOP4QJuUstwPMZ) | [Earth, Vol\. 1](https://open.spotify.com/album/1xK2wmIA6nazBG1orPKB4y) | 4:15 |
 | 46 | [Trigger Hippie](https://open.spotify.com/track/4f3hGEjA7BnujnDYz7gHZ6) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Who Can You Trust? / Beats & B\-Sides](https://open.spotify.com/album/7JNlNgL1TlnWn669RaEKhr) | 5:32 |
-| 47 | [The bootleggers](https://open.spotify.com/track/7CUBB5yE9AtXQZANojfUUG) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 7:08 |
-| 48 | [Autumn Leaves](https://open.spotify.com/track/7KQSvoKOECoIdyH5CEIFc5) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Tone Tales From Tomorrow](https://open.spotify.com/album/1GZkKCcURaTItobePLur4B) | 4:01 |
+| 47 | [Autumn Leaves](https://open.spotify.com/track/7KQSvoKOECoIdyH5CEIFc5) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Tone Tales From Tomorrow](https://open.spotify.com/album/1GZkKCcURaTItobePLur4B) | 4:01 |
+| 48 | [The bootleggers](https://open.spotify.com/track/7CUBB5yE9AtXQZANojfUUG) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 7:08 |
 | 49 | [Bug Powder Dust \- Kruder & Dorfmeister Dub](https://open.spotify.com/track/1UMGeDMyMUj2agDjhkUUzx) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Peter Kruder](https://open.spotify.com/artist/47EuUa98YLFZ0nw2bMQKpC), [Richard Dorfmeister](https://open.spotify.com/artist/7kVSO9W0cZoyKBEG5o3E9h) | [Lifestyle2 \- Chill Lounge Vol 1](https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9) | 6:14 |
 | 50 | [Legend of the Golden Snake \- Single Version](https://open.spotify.com/track/1LYMWLIvXHWehNAUUC32rO) | [Depth Charge](https://open.spotify.com/artist/7wFngDXS0agMESGg1qYM4u) | [Spill](https://open.spotify.com/album/49gzntLtRO6MdCYh6YfOfD) | 4:26 |
 | 51 | [Deep Shit, Pt\. 1 & 2](https://open.spotify.com/track/4p2AbJiH4eso5TE3wVqbV4) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:21 |
 | 52 | [Dark Lady](https://open.spotify.com/track/2eALAfP2PfljNcjlHPXDQY) | [DJ Food](https://open.spotify.com/artist/4NZM5xKuDpGc4vEHDwGO1Q) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:05 |
-| 53 | [Christiansands](https://open.spotify.com/track/413DSZdM15Uz3oHHLycuKK) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Pre Millennium Tension](https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu) | 3:52 |
+| 53 | [Trans Fatty Acid](https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Lamb](https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO) | 7:36 |
 | 54 | [What Does Your Soul Look Like \- Pt\. 2](https://open.spotify.com/track/6qN2alQY36EbEjpBhDP9FE) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0) | 13:51 |
-| 55 | [Trans Fatty Acid](https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Lamb](https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO) | 7:36 |
+| 55 | [Christiansands](https://open.spotify.com/track/413DSZdM15Uz3oHHLycuKK) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Pre Millennium Tension](https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu) | 3:52 |
 | 56 | [Into the 90's](https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [Natural Born Killa \(2015 Remaster\)](https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS) | 5:21 |
 | 57 | [Johnson](https://open.spotify.com/track/522A3dgrvWe27tK3L3gbYF) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [Johnson](https://open.spotify.com/album/0zFfGh28x0n1fOOl8d0yOg) | 5:38 |
 | 58 | [Terrapin](https://open.spotify.com/track/4G6ra5sanRGP2PWNw0FESC) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/3YzjoOkkhWQ6l76aaUa7BP) | 4:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 74 | [Five Days](https://open.spotify.com/track/749wOMW7G4HSApFFRu3JpL) | [Howie B.](https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG) | [My Left Pussyfoot](https://open.spotify.com/album/45tUfsKQT0VmV27YBSgaCt) | 5:22 |
 | 75 | [B Monkey](https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Hed Phone Sex](https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW) | 7:21 |
 
-Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMGM1NmIxYzJmZDc3MmE5NDg1ODkwMWM4YzA3ZjdiNjAy`
+Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMDNiNjE4NzRiNGNkNjA0OGY4YzhkODE1YTZlM2Q3MDJk`

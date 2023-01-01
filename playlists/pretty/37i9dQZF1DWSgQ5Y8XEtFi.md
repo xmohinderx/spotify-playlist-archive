@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,444 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,885 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 18 | [Still Cold / Pathway Private](https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Red Teenage Melody](https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5) | 4:31 |
 | 19 | [I Like Him](https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything Sucks](https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF) | 2:12 |
 | 20 | [Doja](https://open.spotify.com/track/3YFnfm9z8RmPFIZ7C16u4e) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:51 |
-| 21 | [Heart Attack](https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Chaxsthexry](https://open.spotify.com/album/3KqA7GS5ruZN70yBP2jFMJ) | 3:13 |
+| 21 | [BACKROOM](https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:35 |
 | 22 | [If Self\-Destruction Was an Olympic Event, I’d Be Tonya Harding](https://open.spotify.com/track/5ikjIVLHoBrgaZ0zNrn6Ty) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:22 |
-| 23 | [BACKROOM](https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:35 |
+| 23 | [Heart Attack](https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Chaxsthexry](https://open.spotify.com/album/3KqA7GS5ruZN70yBP2jFMJ) | 3:13 |
 | 24 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 25 | [Money Buy Drugs \(Interlude\)](https://open.spotify.com/track/4LxHF9sQ6KXrxZatMPV2EL) | [Cal Scruby](https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu) | [While You Were Sleeping](https://open.spotify.com/album/5gAiNgUKm0s1sFKfxcOH7f) | 2:08 |
 | 26 | [G Walkin' on Yo Coffin](https://open.spotify.com/track/2I387d1XWsQfWcrwXVp2i0) | [Lil Boodang](https://open.spotify.com/artist/7pmErpU2pOjeGequFZxDnN) | [G Walkin' on Yo Coffin](https://open.spotify.com/album/0wIY52uLlqylbi1Ojps98V) | 1:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 49 | [LOCKJAW!](https://open.spotify.com/track/1rFCvKfD7szM7oUp6Et82B) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [LOCKJAW!](https://open.spotify.com/album/3rNczKh7EbjzJCdDNrasnT) | 2:14 |
 | 50 | [HEAVY METAL](https://open.spotify.com/track/1j6zEnDOTIRJhBhknrd86m) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 2:39 |
 
-Snapshot ID: `MTY3MTY0NDM2MSwwMDAwMDAwMDVhYzEzYTFkNjJiNGQ5YjA1NGZmY2UxNzkyN2I1N2Uz`
+Snapshot ID: `MTY3MTY0NDM2MSwwMDAwMDAwMDM3MTYyNWM4ODQ4NDljMTE4YTI1ZTc5Yjg1ZTEwZDdk`

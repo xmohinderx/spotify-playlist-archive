@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,622 songs - 3 day 1 hr 7 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,624 songs - 3 day 1 hr 13 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [After The Rain](https://open.spotify.com/track/1Zm94tzqt9ylN5wgBWRePJ) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [After The Rain](https://open.spotify.com/album/07UTHovmXYvheYrEW3Ogpj) | 2:46 | 2021-03-16 | 2022-04-01 |
 | [After The Storm](https://open.spotify.com/track/29vKgz3LXrTMqbxy71p0Fr) | [Florian Palmer](https://open.spotify.com/artist/1uEslan6MADlkRjoKgLKXB) | [After The Storm](https://open.spotify.com/album/3LMyS8dC4dPSbIU7uGu4hV) | 2:49 | 2022-04-12 | 2022-04-21 |
 | [After Tomorrow](https://open.spotify.com/track/65HbyIsjKBNpneF8iAA3IP) | [Emmanuelle Rimbaud](https://open.spotify.com/artist/25eoowiv7avebKZvqc7knq) | [After Tomorrow](https://open.spotify.com/album/3IpaUmzzIka9aZKXuadGug) | 3:11 | 2021-10-11 | 2022-04-12 |
-| [Afterthought](https://open.spotify.com/track/6V3EqKAHRMDKUYYPtD0lVQ) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Afterthought](https://open.spotify.com/album/4AFxPojfD0MLU03FMCtDmg) | 2:29 | 2022-12-24 |  |
+| [Afterthought](https://open.spotify.com/track/6V3EqKAHRMDKUYYPtD0lVQ) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Afterthought](https://open.spotify.com/album/4AFxPojfD0MLU03FMCtDmg) | 2:29 | 2022-12-24 | 2023-01-01 |
 | [Aika \- From "The Promised Land" Soundtrack](https://open.spotify.com/track/5c67QYM9Sl0tLPsR17UsVL) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Aika \(From "The Promised Land" Soundtrack\)](https://open.spotify.com/album/6GxDn64aAIRAfGcqg1gmYJ) | 3:38 | 2021-03-17 | 2021-05-12 |
 | [Aion](https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf) | [Kolorascze](https://open.spotify.com/artist/7nftAWIfdA1qHbIZuWUFGJ) | [Aion](https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh) | 2:04 | 2021-03-19 | 2022-04-04 |
 | [Airbourne](https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Airbourne](https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M) | 3:58 | 2021-03-10 | 2022-03-31 |
@@ -80,7 +80,7 @@
 | [Alle ting treng si tid](https://open.spotify.com/track/0Ove61vF7Mr9YYWTb4ltgN) | [Sigrid Asphaug](https://open.spotify.com/artist/7LHMgCDlLhDqsQYCIRmp1d) | [Alle ting treng si tid](https://open.spotify.com/album/7MMZSlDq6oEv8vqWnpo99f) | 1:55 | 2022-04-14 | 2022-04-18 |
 | [Allena](https://open.spotify.com/track/4xO3mTbZDnaDSJtRdgzXQc) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Nostalgia](https://open.spotify.com/album/5m9MHYPBagBRk4rMt26lpN) | 1:39 | 2022-12-24 |  |
 | [Aller Anfang ist schwer](https://open.spotify.com/track/2XVccQz5rm9Uti3hrTmBoB) | [Jens Wechsler](https://open.spotify.com/artist/5BsoSlrs9ny1GMWKpESjyZ) | [Aller Anfang ist schwer](https://open.spotify.com/album/4Yscf6h8fgFnsq5Rbbnofn) | 2:01 | 2021-03-06\* | 2022-04-17 |
-| [Almeda \- The Afterstorm](https://open.spotify.com/track/0zFzeFBStkbUw8yLAsfX8z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [The Afterstorm](https://open.spotify.com/album/5jeDCmcLvf8Byf8CF7LpvO) | 2:10 | 2022-09-29 |  |
+| [Almeda \- The Afterstorm](https://open.spotify.com/track/0zFzeFBStkbUw8yLAsfX8z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [The Afterstorm](https://open.spotify.com/album/5jeDCmcLvf8Byf8CF7LpvO) | 2:10 | 2022-09-29 | 2023-01-01 |
 | [Almost Here](https://open.spotify.com/track/69hsrgK6UtDli2C17OWO5v) | [Marta Cascales Alimbau](https://open.spotify.com/artist/5xXWh6pIT6H8NzENvUU9HN) | [Almost Here](https://open.spotify.com/album/4L04FqosazM9DVYEwObAUF) | 2:57 | 2021-03-08 | 2021-03-15 |
 | [Alone With My Dreams](https://open.spotify.com/track/3TexzlVcOjkZ6YBHLgRvH1) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp), [Paula Gustafsson](https://open.spotify.com/artist/7hqiEu32L3foRmOiP7ealx), [Amelie Evmark](https://open.spotify.com/artist/2OJcCy0s7bowPrykt9KT5G) | [Silent Waves](https://open.spotify.com/album/2prO7Ke2ASXq9cDTvvVPUk) | 2:34 | 2021-03-09 | 2022-04-20 |
 | [along the path](https://open.spotify.com/track/4xqtdONrwig5n3JGVBz1nv) | [Zecil Malka](https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp) | [along the path](https://open.spotify.com/album/3SbUeiVDfgcoz4264AHdPU) | 2:07 | 2022-08-08 |  |
@@ -965,6 +965,7 @@
 | [Notturno](https://open.spotify.com/track/6XhO3CKHqmmHVyIZQCAt1C) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Notturno](https://open.spotify.com/album/4ugobTFZdHqpUH1wbGiaJG) | 2:52 | 2021-04-23 | 2022-04-20 |
 | [Nourriture et soleil](https://open.spotify.com/track/5eBaIlhJGeM9LwvqYw0J3k) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Nourriture et soleil](https://open.spotify.com/album/4ITksiX8W2gSNoW7mSStD4) | 3:00 | 2021-05-23 | 2022-04-10 |
 | [Nouvelles Tentatives](https://open.spotify.com/track/6rvmhiAd5jtT5CzLIcnj4p) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Nouvelles Tentatives](https://open.spotify.com/album/2jX2hklmnGPweXvdcy0j4d) | 2:00 | 2022-12-24 |  |
+| [November Birdie](https://open.spotify.com/track/3N79AZhe7FiBgF7leqGhHt) | [El Pianista Manco](https://open.spotify.com/artist/01E7DBTYoklq6FeDxgRk36) | [November Birdie](https://open.spotify.com/album/3Fm1JbS2MGWoABmIZV6KJZ) | 2:42 | 2023-01-01 |  |
 | [Now and Then](https://open.spotify.com/track/3flrE9SDAQj4hP2kKzcHOG) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:27 | 2021-03-23 | 2022-07-29 |
 | [Nowesind](https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nowesind](https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X) | 1:59 | 2022-12-24 |  |
 | [Nuvem](https://open.spotify.com/track/0ZsKOPylr7Q81ltsE9a3rJ) | [Karolin Fiedler](https://open.spotify.com/artist/6rhQQ3l6vAFGdFRyNj1UbO) | [Nuvem](https://open.spotify.com/album/2c6dlGVRcOyk7OLEXhN12S) | 2:13 | 2021-12-13 | 2022-04-20 |
@@ -1591,6 +1592,7 @@
 | [Whole Breaths](https://open.spotify.com/track/2kUno3T4aQEZcX96iRWxTO) | [Genevieve Harding](https://open.spotify.com/artist/5bQclaUyw221JG0BsDceAS) | [Whole Breaths](https://open.spotify.com/album/2qHWi9gDsue0bh7C490ENt) | 2:58 | 2021-05-24 | 2021-05-25 |
 | [Willow](https://open.spotify.com/track/7vGB0te1eym1Gf8NJlXKF7) | [Herbert Campas](https://open.spotify.com/artist/4xviN6HgtlSmFSSoetwtMy) | [Willow](https://open.spotify.com/album/0Dj4cbCUpaInhC1CfukTwT) | 2:06 | 2021-03-09 | 2022-07-27 |
 | [Windmills](https://open.spotify.com/track/1vMhhdVx2OF1F6WS2y1S0n) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Windmills](https://open.spotify.com/album/642yKB6e6rCEUuzke950pq) | 3:10 | 2021-05-17 | 2021-05-18 |
+| [Windspiel](https://open.spotify.com/track/5UvdAChDs1Rr0GYEkUMZma) | [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi), [Kris Steininger](https://open.spotify.com/artist/0GJwTqQAbBrHQ44tXTJ1Sb) | [Windspiel](https://open.spotify.com/album/4eeDKOvHgtYecnij6AtgI7) | 3:01 | 2023-01-01 |  |
 | [Windswept](https://open.spotify.com/track/716WusJfauRzjUjNEKs4Cd) | [Aimee Fleur](https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B) | [Windswept](https://open.spotify.com/album/4GXv9uCvk3MF3c37pLWfxz) | 2:26 | 2021-05-04 | 2021-05-22 |
 | [Wings](https://open.spotify.com/track/5gzB9qeItbkEUsa3aWixGA) | [Saga Rosen](https://open.spotify.com/artist/1L5M0TJ4t90azMZieWzJAx) | [Wings](https://open.spotify.com/album/73t4hMXjX9rIeW2zOCkElS) | 3:01 | 2021-03-17 | 2022-04-11 |
 | [Winter Blossoms](https://open.spotify.com/track/6q6Isz6kUluHROS0mb9T8P) | [Billy Lipnick](https://open.spotify.com/artist/0JTFRJYspkuP9Pwhbc2b0w) | [Winter Blossoms](https://open.spotify.com/album/1KpNlDkB2vzxGHVVYTB5CU) | 3:00 | 2021-03-21 | 2022-07-27 |

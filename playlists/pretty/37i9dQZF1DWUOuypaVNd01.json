@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Malcolm VL, Jotap\u00ea",
-  "num_followers": 24473,
+  "num_followers": 24528,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM2OTI2MCwwMDAwMDAwMGIwMzI3NTdiNjQ4ZmQzMjA2NTE3YzFkNTRhMzJhM2Vi",
+  "snapshot_id": "MTY3MjM2OTI2MCwwMDAwMDAwMDBhZDU3MDUzMTA4NWE3NDdkZDQyY2IwMDAxMmVkMzE4",
   "tracks": [
     {
       "added_at": "2022-12-30 03:01:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "Versos Fortes",
-        "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
-      },
-      "artists": [
-        {
-          "name": "Blecaute",
-          "url": "https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 134893,
-      "name": "Versos Fortes",
-      "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
         "name": "Eu Ainda",
         "url": "https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 188229,
       "name": "Eu Ainda",
       "url": "https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
+        "name": "Versos Fortes",
+        "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
+      },
+      "artists": [
+        {
+          "name": "Blecaute",
+          "url": "https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 134893,
+      "name": "Versos Fortes",
+      "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
     },
     {
       "added_at": "2022-12-30 03:01:00",

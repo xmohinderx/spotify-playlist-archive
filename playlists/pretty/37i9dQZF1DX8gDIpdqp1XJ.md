@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,811 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,065 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 23 | [Swim and Sleep \(Like a Shark\)](https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 2:45 |
 | 24 | [Part III](https://open.spotify.com/track/49ztutPq82dK8AYDO2OkN7) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 3:42 |
 | 25 | [Jump the Turnstile](https://open.spotify.com/track/6EJkSSM4zBJW1AMCLnnXT8) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR) | 3:42 |
-| 26 | [Shalala](https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe) | [Moses Gunn Collective](https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o) | [Mercy Mountain](https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT) | 3:48 |
+| 26 | [cloud castle](https://open.spotify.com/track/6cSkQRxoJt6FHGrWVIGDTJ) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/0qecSxB8NZ4ga9s9FqkboY) | 1:03 |
 | 27 | [Magenta Mountain](https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 6:04 |
-| 28 | [cloud castle](https://open.spotify.com/track/6cSkQRxoJt6FHGrWVIGDTJ) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/0qecSxB8NZ4ga9s9FqkboY) | 1:03 |
+| 28 | [Shalala](https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe) | [Moses Gunn Collective](https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o) | [Mercy Mountain](https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT) | 3:48 |
 | 29 | [Raspberry Jam](https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G) | 3:48 |
 | 30 | [Thin Thing](https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:30 |
 | 31 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 46 | [We're Not In Orbit Yet…](https://open.spotify.com/track/15byzavN7tdiwSTjirvyfh) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 5:10 |
 | 47 | [Lonely One](https://open.spotify.com/track/7dW6aiHZG0A8xApW0Xg40G) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Spirit Mission](https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0) | 2:47 |
 | 48 | [Heaven Is A Place](https://open.spotify.com/track/5KkeyBF2tSvOkFnsJSU12p) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Heaven Is A Place](https://open.spotify.com/album/4mL87tGrk35L47qxO5CTp8) | 4:49 |
-| 49 | [FEEL LIKE](https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [TECHNICOLOR](https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb) | 3:08 |
-| 50 | [Nomad](https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:44 |
+| 49 | [Nomad](https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:44 |
+| 50 | [FEEL LIKE](https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [TECHNICOLOR](https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb) | 3:08 |
 | 51 | [One More Time](https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [One More Time](https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen) | 3:19 |
 | 52 | [Best for You](https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Oh Uncertainty! A Universe Despairs](https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX) | 3:33 |
 | 53 | [Dripping Sun](https://open.spotify.com/track/0KixIFbJPLjVUgCiTgR649) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 7:50 |
@@ -74,20 +74,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 64 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 |
 | 65 | [Quiero](https://open.spotify.com/track/0LLCHT7kYYjKrs4gD5WZPD) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Foam](https://open.spotify.com/album/1ZatuoLaIMYhumTppO5I24) | 3:11 |
 | 66 | [Table for Two](https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Table for Two](https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD) | 3:22 |
-| 67 | [In Between](https://open.spotify.com/track/4rQlCooK88oFN819QAduCw) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 4:16 |
-| 68 | [Baby Blue Eyes](https://open.spotify.com/track/1cQvQwl6KNmXQuD69ytYX1) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Baby Blue Eyes](https://open.spotify.com/album/4Ime9yylJOlanUElSsvltm) | 3:29 |
+| 67 | [Baby Blue Eyes](https://open.spotify.com/track/1cQvQwl6KNmXQuD69ytYX1) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Baby Blue Eyes](https://open.spotify.com/album/4Ime9yylJOlanUElSsvltm) | 3:29 |
+| 68 | [In Between](https://open.spotify.com/track/4rQlCooK88oFN819QAduCw) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 4:16 |
 | 69 | [California](https://open.spotify.com/track/5vZWYzEZ14cPcsdAXezdQY) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ) | 4:36 |
 | 70 | [magic wand](https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Inadelle](https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8) | [magic wand](https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM) | 3:24 |
 | 71 | [Metronomic Underground](https://open.spotify.com/track/5C69YlbofWRKFo6DRyXFrl) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup \(Expanded Edition\)](https://open.spotify.com/album/6SI4L8ARoPuOCGcnBrnIkn) | 7:54 |
 | 72 | [A Song About the Sun](https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [A Song About the Sun](https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw) | 3:30 |
-| 73 | [America's Cup](https://open.spotify.com/track/5ZLXsvtqmIcpePe0KPuvrz) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [9](https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS) | 3:49 |
-| 74 | [Bye Bye](https://open.spotify.com/track/4U3KyPSnGam6zjAgG1JDUM) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Ripe](https://open.spotify.com/album/6lzMFHsL3YcFKKasZacA9u) | 2:25 |
-| 75 | [I Shimmer](https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [I Shimmer](https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A) | 4:25 |
-| 76 | [Top Steppa](https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [GREENZONE 108](https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29) | 3:29 |
+| 73 | [Bye Bye](https://open.spotify.com/track/4U3KyPSnGam6zjAgG1JDUM) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Ripe](https://open.spotify.com/album/6lzMFHsL3YcFKKasZacA9u) | 2:25 |
+| 74 | [America's Cup](https://open.spotify.com/track/5ZLXsvtqmIcpePe0KPuvrz) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [9](https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS) | 3:49 |
+| 75 | [Top Steppa](https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [GREENZONE 108](https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29) | 3:29 |
+| 76 | [I Shimmer](https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [I Shimmer](https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A) | 4:25 |
 | 77 | [Tiger](https://open.spotify.com/track/6TDpf5z03JinsQV3wJGhNu) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Where I Live](https://open.spotify.com/album/5G0IeQv7O6GjLYTcDDuEpM) | 3:00 |
-| 78 | [Like Yesterday](https://open.spotify.com/track/33yngwxcYNnUVpaGWq2MYz) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Flavour](https://open.spotify.com/album/1oCHmshXKdVv8YDSneqvLw) | 4:00 |
-| 79 | [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 |
-| 80 | [everything's worth it](https://open.spotify.com/track/68IEDuJMZlaPaDVqhwcARF) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo) | 4:35 |
+| 78 | [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 |
+| 79 | [everything's worth it](https://open.spotify.com/track/68IEDuJMZlaPaDVqhwcARF) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo) | 4:35 |
+| 80 | [Like Yesterday](https://open.spotify.com/track/33yngwxcYNnUVpaGWq2MYz) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Flavour](https://open.spotify.com/album/1oCHmshXKdVv8YDSneqvLw) | 4:00 |
 | 81 | [Optical Wealth](https://open.spotify.com/track/2kxjdb4D6iVDbkamMhDvqU) | [Cap'n Marble](https://open.spotify.com/artist/4AcVHpBiv1jyH1UkH0Ujod) | [Optical Wealth + Fox in a Hole](https://open.spotify.com/album/4kXjQ5hjiZ7NWEUnYr7Z7M) | 3:01 |
 | 82 | [Under No Nation \- Radio Edit](https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Under No Nation \(Radio Edit\)](https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm) | 3:04 |
 | 83 | [Ultimate Painting](https://open.spotify.com/track/0lOVjiVqUQG3cuM4zQiTRo) | [Ultimate Painting](https://open.spotify.com/artist/1PPpmEpuN1KrWNOBqrHeMj) | [Ultimate Painting](https://open.spotify.com/album/3ojQWhc1VMM1P5Y7Q2T9Ha) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [If I Had My Way](https://open.spotify.com/track/6140Uf7R4cNyHUJnhYG5h7) | [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS), [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Protean Threat](https://open.spotify.com/album/16l3FJwjZooUHbU37sdeeI) | 2:47 |
 | 100 | [Clear](https://open.spotify.com/track/2KMHi9GT4M2uNlDE727tg6) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/2priXi39uori5UwmnwA6oO) | 3:27 |
 
-Snapshot ID: `MTY3MTE2NzM0MCwwMDAwMDAwMGMzOTQ4M2E2YWFmMTkzMzUzYmNlNzkxYzkwZmFjNDYy`
+Snapshot ID: `MTY3MTE2NzM0MCwwMDAwMDAwMDczMzMyZWZjMmFhNDQ4NjEwNTUzZDExMjY5N2I2YTg3`
