@@ -3572,6 +3572,28 @@
     },
     {
       "album": {
+        "name": "Sid Lghram",
+        "url": "https://open.spotify.com/album/57LencHPTBtLmvICFiOwB6"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        },
+        {
+          "name": "Asma Lmnawar",
+          "url": "https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236578,
+      "name": "Sid Lghram",
+      "url": "https://open.spotify.com/track/2b8Pq6m3rGXd7muyBjTh1G"
+    },
+    {
+      "album": {
         "name": "Single",
         "url": "https://open.spotify.com/album/3tswVlxHqOxMDbLSJBCJgH"
       },

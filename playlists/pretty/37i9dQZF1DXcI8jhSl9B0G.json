@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 69197,
+  "num_followers": 69417,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEzMzUzOSwwMDAwMDAwMDM5NjUxMTY5MTU0MzQ2YTEyNjM2NTI0YWE5NThmYmUy",
+  "snapshot_id": "MTY3MTEzMzUzOSwwMDAwMDAwMDQ5OWUzNTVhZGVlZjFmZTc0NWEzNzY5ZTBlMGZiZGUw",
   "tracks": [
     {
       "added_at": "2022-12-15 08:41:30",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
+    },
+    {
+      "added_at": "2022-12-15 08:41:30",
+      "album": {
         "name": "Lonely Nights",
         "url": "https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 279137,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
-    },
-    {
-      "added_at": "2022-12-15 08:41:30",
-      "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
     },
     {
       "added_at": "2022-12-15 08:41:30",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "Grew Inside the Water",
-        "url": "https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY"
-      },
-      "artists": [
-        {
-          "name": "Mimi Gilbert",
-          "url": "https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P"
-        }
-      ],
-      "duration_ms": 284037,
-      "name": "Society's a Mansion",
-      "url": "https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk"
-    },
-    {
-      "added_at": "2022-12-15 08:41:30",
-      "album": {
         "name": "All Over Again",
         "url": "https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 223445,
       "name": "All Over Again",
       "url": "https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM"
+    },
+    {
+      "added_at": "2022-12-15 08:41:30",
+      "album": {
+        "name": "Grew Inside the Water",
+        "url": "https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY"
+      },
+      "artists": [
+        {
+          "name": "Mimi Gilbert",
+          "url": "https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P"
+        }
+      ],
+      "duration_ms": 284037,
+      "name": "Society's a Mansion",
+      "url": "https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk"
     },
     {
       "added_at": "2022-12-15 08:41:30",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "A Song To Be Named",
-        "url": "https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA"
-      },
-      "artists": [
-        {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
-        }
-      ],
-      "duration_ms": 249999,
-      "name": "A Song To Be Named",
-      "url": "https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm"
-    },
-    {
-      "added_at": "2022-12-15 08:41:30",
-      "album": {
         "name": "Half Awake, Half Asleep",
         "url": "https://open.spotify.com/album/7cHSI1g84HZbJ2GwauTahA"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 190546,
       "name": "Tears Don\u2019t Fall",
       "url": "https://open.spotify.com/track/2T3whAdkzXCT58yFXsZgjm"
+    },
+    {
+      "added_at": "2022-12-15 08:41:30",
+      "album": {
+        "name": "A Song To Be Named",
+        "url": "https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "duration_ms": 249999,
+      "name": "A Song To Be Named",
+      "url": "https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm"
     },
     {
       "added_at": "2022-12-15 08:41:30",

@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-461 songs - 1 day 4 hr 40 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
+462 songs - 1 day 4 hr 44 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Andromeda](https://open.spotify.com/track/7G4KKZXXXwm7HCWTwTLuXU) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Andromeda](https://open.spotify.com/album/6xqELDDENWwwHbSOArujXo) | 2:03 | 2022-05-30 | 2022-06-08 |
 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 | 2022-01-27 |  |
 | [Angel Eyes](https://open.spotify.com/track/4eLWfZveSsEzx2qwiY4tOq) | [Rebecka Törnqvist](https://open.spotify.com/artist/563fbLxFoPNypwvAbgNPhd) | [A Night Like This](https://open.spotify.com/album/0uf6ceADB4XYVYjkXBMp2D) | 5:54 | 2022-01-27 | 2022-11-13 |
-| [Another Round](https://open.spotify.com/track/6K45xzUFGraTe7RJpe87sJ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Another Round](https://open.spotify.com/album/6gHh2vQ3fnjKpboJ7dIojC) | 3:01 | 2022-01-27 |  |
+| [Another Round](https://open.spotify.com/track/6K45xzUFGraTe7RJpe87sJ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Another Round](https://open.spotify.com/album/6gHh2vQ3fnjKpboJ7dIojC) | 3:01 | 2022-01-27 | 2023-01-02 |
 | [Are You Lonesome Tonight? \(feat\. Paul Buchanan\)](https://open.spotify.com/track/7FWEDbQYuQtR1DhATgXxRg) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Paul Buchanan](https://open.spotify.com/artist/4c9NYYIAGKWqPDTkoVnGr7) | [To Love Again](https://open.spotify.com/album/7DwZcZjbCbluvYCOrIIKi6) | 4:00 | 2022-01-27 |  |
 | [As](https://open.spotify.com/track/7r3KzVwHtr2iMZtqJvFn9A) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 4:42 | 2022-01-27 |  |
 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 | 2022-07-08 |  |
@@ -258,6 +258,7 @@
 | [Lover](https://open.spotify.com/track/0bzbvANY6oETSJLc0wlVGY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/3rYkgtFOo9AlPaeKTtn6pM) | 3:41 | 2022-01-27 | 2022-07-29 |
 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 | 2022-07-08 |  |
 | [Magic](https://open.spotify.com/track/0IvNejD2G2H2pCKQ7l7Itd) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Magic](https://open.spotify.com/album/38VKdIA2ZAd8zgJMWQWfEQ) | 4:05 | 2022-01-27 | 2022-07-29 |
+| [Magic](https://open.spotify.com/track/0m4Hxc7QOqqlB8kIod3Le8) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/4SJhZ7mHwIGYPsOwKjYNLt) | 4:05 | 2022-12-23 |  |
 | [Magic](https://open.spotify.com/track/3SqVMOupg0AX9xTWqP9PSD) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO) | 4:05 | 2022-07-08 | 2022-12-01 |
 | [Make It Last](https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 5:16 | 2022-07-08 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/0mqTcM8kuu2IYPotMt7AzS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:32 | 2022-01-27 | 2022-07-29 |

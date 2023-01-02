@@ -1,12 +1,12 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 104954,
+  "num_followers": 104979,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1ODU3NCwwMDAwMDAwMGRjOTZkZTA2ZDZlNjc3NzljZDAwNGIwNWI3MzVlNjBj",
+  "snapshot_id": "MTY3MTc1ODU3NCwwMDAwMDAwMDg1NDQyNDYxMmRlNTg0MzYyMGYyYzAxOTUyZDAxN2Y1",
   "tracks": [
     {
       "added_at": "2022-12-23 01:22:54",
@@ -691,18 +691,22 @@
     {
       "added_at": "2022-12-23 01:22:54",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 168562,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
+      "duration_ms": 310553,
+      "name": "Mariella",
+      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
     },
     {
       "added_at": "2022-12-23 01:22:54",
@@ -747,22 +751,18 @@
     {
       "added_at": "2022-12-23 01:22:54",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 310553,
-      "name": "Mariella",
-      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
+      "duration_ms": 168562,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
     },
     {
       "added_at": "2022-12-23 01:22:54",
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-12-23 01:22:54",
       "album": {
-        "name": "Something About You (with Rudimental) [Alternate Versions]",
-        "url": "https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "Something About You (with Rudimental) - Chill Mix",
-      "url": "https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ"
-    },
-    {
-      "added_at": "2022-12-23 01:22:54",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/2nBHaQWoC341spJHji7dgz"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 196015,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1OxaAC72au0z2HORS9yt1m"
+    },
+    {
+      "added_at": "2022-12-23 01:22:54",
+      "album": {
+        "name": "Something About You (with Rudimental) [Alternate Versions]",
+        "url": "https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "Something About You (with Rudimental) - Chill Mix",
+      "url": "https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ"
     },
     {
       "added_at": "2022-12-23 01:22:54",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-12-23 01:22:54",
       "album": {
-        "name": "LET THE GRASS GROW",
-        "url": "https://open.spotify.com/album/160bnYxuf2qbEscs8B4QOu"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 175534,
-      "name": "LET THE GRASS GROW",
-      "url": "https://open.spotify.com/track/2BN5ZMErVAhbEroB99b3no"
-    },
-    {
-      "added_at": "2022-12-23 01:22:54",
-      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 264372,
       "name": "Sidelines",
       "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
+    },
+    {
+      "added_at": "2022-12-23 01:22:54",
+      "album": {
+        "name": "LET THE GRASS GROW",
+        "url": "https://open.spotify.com/album/160bnYxuf2qbEscs8B4QOu"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 175534,
+      "name": "LET THE GRASS GROW",
+      "url": "https://open.spotify.com/track/2BN5ZMErVAhbEroB99b3no"
     },
     {
       "added_at": "2022-12-23 01:22:54",

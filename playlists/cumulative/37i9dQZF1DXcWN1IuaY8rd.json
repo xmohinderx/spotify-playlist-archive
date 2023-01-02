@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Walk",
+        "url": "https://open.spotify.com/album/2W1erva7HEgdfcx4I5UssN"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u539f\u5cb3\u4eba",
+          "url": "https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259973,
+      "name": "A Walk",
+      "url": "https://open.spotify.com/track/0PievpCNM93Ukg5q5XWu8X"
+    },
+    {
+      "album": {
         "name": "against all gods",
         "url": "https://open.spotify.com/album/7JzuLlamf2TEHcAGtbIWa6"
       },

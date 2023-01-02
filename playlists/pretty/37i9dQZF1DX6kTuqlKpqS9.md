@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,774 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,878 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 42 | [Acá Entre Nos \- En Vivo](https://open.spotify.com/track/5Bi3rrdkYjLlUIl37G3WEx) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Enamorada En Vivo](https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ) | 3:15 |
 | 43 | [Por Mujeres Como Tú \- En Vivo](https://open.spotify.com/track/0LnyfUMO40rj29KE1Sg5jr) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [La Familia Aguilar En Vivo \(Live At The Plaza De Toro / Mexico City, MX / July 1998\)](https://open.spotify.com/album/3nCp3IP8zWaB6fndlAORwh) | 4:08 |
 | 44 | [Nube Viajera \- En Vivo Desde El Teatro Real](https://open.spotify.com/track/6CxF5ueVVqHgRDAwJG8XFG) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias Reales \(En Vivo Desde El Teatro Real\)](https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP) | 4:02 |
-| 45 | [La Gran Señora \- Live](https://open.spotify.com/track/7tdHYlgbQJUTXACQ1I9cqk) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mujeres con Mariachi](https://open.spotify.com/album/5HOlH78OGhLQx35UudXbPY) | 3:50 |
-| 46 | [Estuve \- En Vivo](https://open.spotify.com/track/3FYqBFgxf9xTSqOv07BVSy) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Último Jaripeo \(En Vivo\)](https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc) | 3:19 |
+| 45 | [Estuve \- En Vivo](https://open.spotify.com/track/3FYqBFgxf9xTSqOv07BVSy) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Último Jaripeo \(En Vivo\)](https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc) | 3:19 |
+| 46 | [La Gran Señora \- Live](https://open.spotify.com/track/7tdHYlgbQJUTXACQ1I9cqk) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mujeres con Mariachi](https://open.spotify.com/album/5HOlH78OGhLQx35UudXbPY) | 3:50 |
 | 47 | [En El Último Trago](https://open.spotify.com/track/1WdmbYpsCVwFTNxbmgF44G) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Mariachi Hit Parade](https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A) | 2:18 |
 | 48 | [El Rey \- En Vivo](https://open.spotify.com/track/2tJH8dxiDkTAeHWjHzKsH9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Mexicano](https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R) | 2:43 |
 | 49 | [El Tenampa \- En Vivo](https://open.spotify.com/track/3PWNmA3eOGN2YZO6pFhvzZ) | [Mariachi Sol De Mi Tierra](https://open.spotify.com/artist/6iHkaXDkUBYdOstTu1OoCE) | [Pa' Amanecer Pistiando \(En Vivo\)](https://open.spotify.com/album/1Nz3DWkr9BKi1Xr5mCCi6L) | 2:15 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 70 | [Un Mundo Raro](https://open.spotify.com/track/6prAkGQ86DXdjHksDQpvUD) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Un Canto de México: Alejandro Fernández en Vivo desde Bellas Artes](https://open.spotify.com/album/7b0VncFO0NxyndB5MMa9mo) | 3:34 |
 | 71 | [No Vale la Pena \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/7hvO4qnJDqT22k6NnPu3RR) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 2:24 |
 | 72 | [Tú Sabes Quién \- En Vivo](https://open.spotify.com/track/70eELnT7X5487yS01yFIs6) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Último Jaripeo \(En Vivo\)](https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc) | 3:55 |
-| 73 | [Gracias Por Tanto Amor \- En Vivo](https://open.spotify.com/track/0OiTHFIm12ConCiZlsPjGH) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [En Vivo Desde La Plaza El Progreso De Guadalajara](https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j) | 3:44 |
-| 74 | [Viva México / Guadalajara \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/1dGhp7hbHWFhYSzJDITEl8) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 2:58 |
+| 73 | [Viva México / Guadalajara \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/1dGhp7hbHWFhYSzJDITEl8) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 2:58 |
+| 74 | [Gracias Por Tanto Amor \- En Vivo](https://open.spotify.com/track/0OiTHFIm12ConCiZlsPjGH) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [En Vivo Desde La Plaza El Progreso De Guadalajara](https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j) | 3:44 |
 | 75 | [Medley Kumbia \- En Vivo Auditorio Nacional](https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 7:21 |
 
-Snapshot ID: `MTY0MDgxOTcxOSwwMDAwMDAwMDJhZDQ4MzQwYzE1YmU5ZGRjMDRjOTdkZjZkOGMwYjFh`
+Snapshot ID: `MTY0MDgxOTcxOSwwMDAwMDAwMDcxMmY0MTBjY2MxMGJjMmZkYTY0NmNkMDM5ZGQwMTNi`

@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 65767,
+  "num_followers": 65774,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0NTgyOSwwMDAwMDAwMDhmNjMxOWY3NmM4MzA3YjRjNmQ0ZmM1ZDhlZGFkOGNi",
+  "snapshot_id": "MTY3MDU0NTgyOSwwMDAwMDAwMGY0ZTQ0ODEzM2ZhZjFmYjNjMjYzMmU2OGM2MTRjZGIw",
   "tracks": [
     {
       "added_at": "2022-12-09 00:30:29",
@@ -47,22 +47,6 @@
     {
       "added_at": "2022-12-09 00:30:29",
       "album": {
-        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
-        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 192028,
-      "name": "Ju Mer Dom Spottar",
-      "url": "https://open.spotify.com/track/3uVO0fpvKhuPCfGCAjJev0"
-    },
-    {
-      "added_at": "2022-12-09 00:30:29",
-      "album": {
         "name": "Helt seri\u00f6st",
         "url": "https://open.spotify.com/album/5bymFthEXpFzkXps7bwXV3"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 183260,
       "name": "Helt seri\u00f6st",
       "url": "https://open.spotify.com/track/6uucB29G6Y7LThzNfuRkiw"
+    },
+    {
+      "added_at": "2022-12-09 00:30:29",
+      "album": {
+        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
+        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 192028,
+      "name": "Ju Mer Dom Spottar",
+      "url": "https://open.spotify.com/track/3uVO0fpvKhuPCfGCAjJev0"
     },
     {
       "added_at": "2022-12-09 00:30:29",
@@ -143,22 +143,18 @@
     {
       "added_at": "2022-12-09 00:30:29",
       "album": {
-        "name": "Kalibreraren",
-        "url": "https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR"
+        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
+        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
       },
       "artists": [
         {
-          "name": "Kaliffa",
-          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
-        },
-        {
-          "name": "HOFFMAESTRO",
-          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
         }
       ],
-      "duration_ms": 257399,
-      "name": "Det str\u00e5lar s\u00e5 om dig",
-      "url": "https://open.spotify.com/track/0kDL2MQeL800pf9LFQGzQv"
+      "duration_ms": 226547,
+      "name": "1.000.000 Nollor",
+      "url": "https://open.spotify.com/track/2zKQmG3vaoRpogBihuBb3p"
     },
     {
       "added_at": "2022-12-09 00:30:29",
@@ -215,18 +211,22 @@
     {
       "added_at": "2022-12-09 00:30:29",
       "album": {
-        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
-        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
+        "name": "Kalibreraren",
+        "url": "https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR"
       },
       "artists": [
         {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+        },
+        {
+          "name": "HOFFMAESTRO",
+          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
         }
       ],
-      "duration_ms": 226547,
-      "name": "1.000.000 Nollor",
-      "url": "https://open.spotify.com/track/2zKQmG3vaoRpogBihuBb3p"
+      "duration_ms": 257399,
+      "name": "Det str\u00e5lar s\u00e5 om dig",
+      "url": "https://open.spotify.com/track/0kDL2MQeL800pf9LFQGzQv"
     },
     {
       "added_at": "2022-12-09 00:30:29",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-12-09 00:30:29",
       "album": {
-        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
-        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 179251,
-      "name": "In Kommer Ting",
-      "url": "https://open.spotify.com/track/21SZLKjYJQfoNS4pVbHQz6"
-    },
-    {
-      "added_at": "2022-12-09 00:30:29",
-      "album": {
         "name": "Kalibreraren",
         "url": "https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 194988,
       "name": "Spontanitet",
       "url": "https://open.spotify.com/track/7nriQOQo6oaMoD3ZBBP7cX"
+    },
+    {
+      "added_at": "2022-12-09 00:30:29",
+      "album": {
+        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
+        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 179251,
+      "name": "In Kommer Ting",
+      "url": "https://open.spotify.com/track/21SZLKjYJQfoNS4pVbHQz6"
     },
     {
       "added_at": "2022-12-09 00:30:29",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-12-09 00:30:29",
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 275800,
+      "name": "Ugly Girls",
+      "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
+    },
+    {
+      "added_at": "2022-12-09 00:30:29",
+      "album": {
         "name": "Wayback",
         "url": "https://open.spotify.com/album/0IaSh4U31HQWFr41OHdc2B"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 208551,
       "name": "Wayback",
       "url": "https://open.spotify.com/track/6YGTcacu4KeINy9uoWklT3"
-    },
-    {
-      "added_at": "2022-12-09 00:30:29",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 275800,
-      "name": "Ugly Girls",
-      "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
     },
     {
       "added_at": "2022-12-09 00:30:29",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-12-09 00:30:29",
       "album": {
-        "name": "Rotl\u00f6sa Singlar",
-        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
-      },
-      "artists": [
-        {
-          "name": "Jeepstarr",
-          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
-        }
-      ],
-      "duration_ms": 237702,
-      "name": "Jag Minns",
-      "url": "https://open.spotify.com/track/47E8xJBn9zs8Bes9iFCJ0p"
-    },
-    {
-      "added_at": "2022-12-09 00:30:29",
-      "album": {
         "name": "D\u00f6md att bli bed\u00f6md",
         "url": "https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 188773,
       "name": "Gillar din vibe",
       "url": "https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD"
+    },
+    {
+      "added_at": "2022-12-09 00:30:29",
+      "album": {
+        "name": "Rotl\u00f6sa Singlar",
+        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
+      },
+      "artists": [
+        {
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
+        }
+      ],
+      "duration_ms": 237702,
+      "name": "Jag Minns",
+      "url": "https://open.spotify.com/track/47E8xJBn9zs8Bes9iFCJ0p"
     },
     {
       "added_at": "2022-12-09 00:30:29",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-12-09 00:30:29",
       "album": {
+        "name": "G\u00f6r Det \u00c4nd\u00e5",
+        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
+      },
+      "artists": [
+        {
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+        }
+      ],
+      "duration_ms": 212786,
+      "name": "Vakna",
+      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
+    },
+    {
+      "added_at": "2022-12-09 00:30:29",
+      "album": {
         "name": "Hei Sommer",
         "url": "https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 172516,
       "name": "Hei Sommer",
       "url": "https://open.spotify.com/track/7LYlpWChM85iRMlBN8rRQd"
-    },
-    {
-      "added_at": "2022-12-09 00:30:29",
-      "album": {
-        "name": "G\u00f6r Det \u00c4nd\u00e5",
-        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "Vakna",
-      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
     },
     {
       "added_at": "2022-12-09 00:30:29",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-12-09 00:30:29",
       "album": {
-        "name": "Rotl\u00f6sa Singlar",
-        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
-      },
-      "artists": [
-        {
-          "name": "Jeepstarr",
-          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
-        }
-      ],
-      "duration_ms": 233934,
-      "name": "Bida Din Tid",
-      "url": "https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1"
-    },
-    {
-      "added_at": "2022-12-09 00:30:29",
-      "album": {
         "name": "ANITYA",
         "url": "https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2022-12-09 00:30:29",
       "album": {
-        "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
-        "url": "https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg"
+        "name": "Rotl\u00f6sa Singlar",
+        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
       },
       "artists": [
         {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
         }
       ],
-      "duration_ms": 231293,
-      "name": "Snapphaneklanen",
-      "url": "https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998"
+      "duration_ms": 233934,
+      "name": "Bida Din Tid",
+      "url": "https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1"
     },
     {
       "added_at": "2022-12-09 00:30:29",
@@ -807,6 +791,22 @@
     {
       "added_at": "2022-12-09 00:30:29",
       "album": {
+        "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
+        "url": "https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg"
+      },
+      "artists": [
+        {
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "Snapphaneklanen",
+      "url": "https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998"
+    },
+    {
+      "added_at": "2022-12-09 00:30:29",
+      "album": {
         "name": "Punch of Love",
         "url": "https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW"
       },
@@ -819,26 +819,6 @@
       "duration_ms": 245530,
       "name": "No Winners",
       "url": "https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB"
-    },
-    {
-      "added_at": "2022-12-09 00:30:29",
-      "album": {
-        "name": "ANITYA",
-        "url": "https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4"
-      },
-      "artists": [
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        },
-        {
-          "name": "Partillo",
-          "url": "https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u"
-        }
-      ],
-      "duration_ms": 205011,
-      "name": "Make Sense",
-      "url": "https://open.spotify.com/track/0oCQ94meSvw1BbpAkeYSgn"
     },
     {
       "added_at": "2022-12-09 00:30:29",
@@ -863,18 +843,38 @@
     {
       "added_at": "2022-12-09 00:30:29",
       "album": {
-        "name": "Resa Sig Opp",
-        "url": "https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma"
+        "name": "Trodal",
+        "url": "https://open.spotify.com/album/3NJujcbx0smsffJx4vOode"
       },
       "artists": [
         {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
         }
       ],
-      "duration_ms": 245720,
-      "name": "Du Vill S\u00e5 Du Kan",
-      "url": "https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM"
+      "duration_ms": 208057,
+      "name": "V\u00e4gsj\u00e4l",
+      "url": "https://open.spotify.com/track/28258RcG0K7cj4LirbIYlm"
+    },
+    {
+      "added_at": "2022-12-09 00:30:29",
+      "album": {
+        "name": "Baluns",
+        "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
+      },
+      "artists": [
+        {
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        },
+        {
+          "name": "Dirty Jens",
+          "url": "https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Baluns",
+      "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
     }
   ],
   "unique_name": "Svensk Reggae",

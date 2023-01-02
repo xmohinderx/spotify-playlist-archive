@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: LA INDIA, Goyo.",
-  "num_followers": 532680,
+  "num_followers": 532743,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg1MTIxOCwwMDAwMDAwMDgzM2M4OGViOGIzYjhmNzZiMGVlNWJmOTljM2YwNWZl",
+  "snapshot_id": "MTY2Njg1MTIxOCwwMDAwMDAwMDdkNDFhNDM3ZmQyYWI2Y2JlMzRlNDQ1NmVkNGQ5MmVm",
   "tracks": [
     {
       "added_at": "2022-10-27 06:13:38",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "MAFIOSA",
+        "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 266217,
+      "name": "MAFIOSA",
+      "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Soy Yo",
         "url": "https://open.spotify.com/album/7JuLd58gOTogWvAwNyYggp"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 218865,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/20Ca0pIyUwu9jIUJ2sr5cg"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "MAFIOSA",
-        "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 266217,
-      "name": "MAFIOSA",
-      "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -859,22 +859,18 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Nuestro Amor",
-        "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
+        "name": "No Te Contaron Mal",
+        "url": "https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86"
       },
       "artists": [
         {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "You Salsa",
+          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
         }
       ],
-      "duration_ms": 204324,
-      "name": "Nuestro Amor",
-      "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
+      "duration_ms": 276433,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -895,18 +891,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "No Te Contaron Mal",
-        "url": "https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86"
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
       },
       "artists": [
         {
-          "name": "You Salsa",
-          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 276433,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl"
+      "duration_ms": 204324,
+      "name": "Nuestro Amor",
+      "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -943,26 +943,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Otra Noche",
-        "url": "https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 199120,
-      "name": "Otra Noche",
-      "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "H\u00e1blame de Miami",
         "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 158773,
       "name": "H\u00e1blame de Miami",
       "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 199120,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "T\u00fa 1ero",
-        "url": "https://open.spotify.com/album/42WVmjyebCg8XbScD9VwFL"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 189357,
-      "name": "T\u00fa 1ero",
-      "url": "https://open.spotify.com/track/4pyTcXRw3Bz3zZMWp81v7F"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Literal",
         "url": "https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 180266,
       "name": "L\u00e1mpara Pa' Mis Pies",
       "url": "https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "T\u00fa 1ero",
+        "url": "https://open.spotify.com/album/42WVmjyebCg8XbScD9VwFL"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 189357,
+      "name": "T\u00fa 1ero",
+      "url": "https://open.spotify.com/track/4pyTcXRw3Bz3zZMWp81v7F"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Rosal\u00eda",
+      "url": "https://open.spotify.com/track/2A3tMSilm21mtCTvdrfzjC"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Tuki Tuki",
         "url": "https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 192452,
       "name": "Tuki Tuki",
       "url": "https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 206720,
-      "name": "Rosal\u00eda",
-      "url": "https://open.spotify.com/track/2A3tMSilm21mtCTvdrfzjC"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Canciones del Alma",
+        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 219049,
+      "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Cari\u00f1o M\u00edo",
         "url": "https://open.spotify.com/album/633EQz5mNZHb0lEl2fbHuz"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 197106,
       "name": "Cari\u00f1o M\u00edo",
       "url": "https://open.spotify.com/track/6ORMS8Ep717H3vzQFahFiy"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Canciones del Alma",
-        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 219049,
-      "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Hasta el Sol de Hoy",
-        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 236611,
-      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "En Cuarentena",
         "url": "https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2"
       },
@@ -1887,38 +1871,18 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Aventurero",
-        "url": "https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s"
+        "name": "Hasta el Sol de Hoy",
+        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
       },
       "artists": [
         {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 209500,
-      "name": "Aventurero",
-      "url": "https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "C\u00f3mo Olvidar (Versi\u00f3n 2021)",
-        "url": "https://open.spotify.com/album/6hSEwNZfaqGZ6Id9PrOMhO"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 226771,
-      "name": "C\u00f3mo Olvidar - Versi\u00f3n 2021",
-      "url": "https://open.spotify.com/track/54Gc7ov5yGRn4iaGOph0jJ"
+      "duration_ms": 236611,
+      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1943,6 +1907,42 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "C\u00f3mo Olvidar (Versi\u00f3n 2021)",
+        "url": "https://open.spotify.com/album/6hSEwNZfaqGZ6Id9PrOMhO"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 226771,
+      "name": "C\u00f3mo Olvidar - Versi\u00f3n 2021",
+      "url": "https://open.spotify.com/track/54Gc7ov5yGRn4iaGOph0jJ"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Aventurero",
+        "url": "https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 209500,
+      "name": "Aventurero",
+      "url": "https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Tierra de Mis Amores",
         "url": "https://open.spotify.com/album/5QvA8zidWQiuyKwN0TljFR"
       },
@@ -1955,22 +1955,6 @@
       "duration_ms": 241880,
       "name": "El Coco",
       "url": "https://open.spotify.com/track/0rwX9dB6ih5rxfifb8DZ8G"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "De Trulla Con el Combo",
-        "url": "https://open.spotify.com/album/0iC3T3qi5SRyxXfZ3cfSyq"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 259433,
-      "name": "No Hay",
-      "url": "https://open.spotify.com/track/1EKaKgdN9gHpKG0QoWe1eZ"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -2035,6 +2019,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "De Trulla Con el Combo",
+        "url": "https://open.spotify.com/album/0iC3T3qi5SRyxXfZ3cfSyq"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 259433,
+      "name": "No Hay",
+      "url": "https://open.spotify.com/track/1EKaKgdN9gHpKG0QoWe1eZ"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Ojal\u00e1 (Remix)",
         "url": "https://open.spotify.com/album/7sNRUbrS9DLbbZTtP40KgH"
       },
@@ -2067,6 +2067,26 @@
       "duration_ms": 212045,
       "name": "Me Tienes Mal",
       "url": "https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Multitudes",
+        "url": "https://open.spotify.com/album/56bXSFaka1UrXzxPBrQzvG"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "Limi-T 21",
+          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "Tiburona",
+      "url": "https://open.spotify.com/track/35QguPAF5pYFlS2I66C7m0"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -2107,26 +2127,6 @@
       "duration_ms": 183367,
       "name": "T\u00fa No Bailas Mas Que Yo",
       "url": "https://open.spotify.com/track/2U2xfA3zCdjsLVhAX2rQ3y"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Multitudes",
-        "url": "https://open.spotify.com/album/56bXSFaka1UrXzxPBrQzvG"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        },
-        {
-          "name": "Limi-T 21",
-          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "Tiburona",
-      "url": "https://open.spotify.com/track/35QguPAF5pYFlS2I66C7m0"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -2227,26 +2227,18 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Abrete",
-        "url": "https://open.spotify.com/album/06PuNPUtn9QmMWuSgmMAz5"
+        "name": "Si Fuera M\u00eda",
+        "url": "https://open.spotify.com/album/2JdSZ73pd1XebSWbzaLqw7"
       },
       "artists": [
         {
-          "name": "Chiko Swagg",
-          "url": "https://open.spotify.com/artist/0zz9lzzQBgwxEDsYHy0H2n"
-        },
-        {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
-        },
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
         }
       ],
-      "duration_ms": 254290,
-      "name": "Abrete",
-      "url": "https://open.spotify.com/track/2JT09i9gxPolHFrliKbxsD"
+      "duration_ms": 203135,
+      "name": "Si Fuera M\u00eda",
+      "url": "https://open.spotify.com/track/5IdGYOdbqCALcfeNz06Y7k"
     }
   ],
   "unique_name": "Tropical Hits",

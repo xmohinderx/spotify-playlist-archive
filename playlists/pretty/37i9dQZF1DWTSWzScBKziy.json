@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 83166,
+  "num_followers": 83182,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzAyNzg1OCwwMDAwMDAwMDA0NWZkM2VjMDQyMjRmODU1OTczNjhjMjI3YjYwNDZi",
+  "snapshot_id": "MTY2NzAyNzg1OCwwMDAwMDAwMDcyZDM4ZjdlMjdlMDI1MTM1ZjU3NDFhNmU0NjQ1N2M5",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Fill My Cup",
-        "url": "https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 207084,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "How Can You Not",
         "url": "https://open.spotify.com/album/2TBFTCdartNacGPFgiVxSz"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 192862,
       "name": "How Can You Not",
       "url": "https://open.spotify.com/track/0covwa001dCZVFNB2Jz2tt"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Fill My Cup",
+        "url": "https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 207084,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Take It To Jesus",
+        "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "duration_ms": 268288,
+      "name": "Take It To Jesus",
+      "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Won't Let Me Go",
         "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 215213,
       "name": "Won't Let Me Go",
       "url": "https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Take It To Jesus",
-        "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 268288,
-      "name": "Take It To Jesus",
-      "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "The Lord's Prayer (It's Yours)",
-        "url": "https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "The Lord's Prayer (It's Yours)",
-      "url": "https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "This Is the Day",
         "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 325247,
       "name": "This Is the Day",
       "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "The Lord's Prayer (It's Yours)",
+        "url": "https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "The Lord's Prayer (It's Yours)",
+      "url": "https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Miracle Power",
-        "url": "https://open.spotify.com/album/0tpf8K9V96KmH1vndscRZq"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 277893,
-      "name": "Miracle Power",
-      "url": "https://open.spotify.com/track/0EVQYyD5xzmiEjXKRjJ8tx"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "MILLION WAYS",
         "url": "https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 210933,
       "name": "MILLION WAYS",
       "url": "https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Miracle Power",
+        "url": "https://open.spotify.com/album/0tpf8K9V96KmH1vndscRZq"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 277893,
+      "name": "Miracle Power",
+      "url": "https://open.spotify.com/track/0EVQYyD5xzmiEjXKRjJ8tx"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "both the night and day are the same to You",
-        "url": "https://open.spotify.com/album/30FSDbzkZGcUciU1hCKK0x"
-      },
-      "artists": [
-        {
-          "name": "Victory Worship",
-          "url": "https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs"
-        },
-        {
-          "name": "Paul Daugherty",
-          "url": "https://open.spotify.com/artist/4QU4v85xepqUOPZzHP6Cwc"
-        }
-      ],
-      "duration_ms": 354756,
-      "name": "You Have My Yes",
-      "url": "https://open.spotify.com/track/4qiVh3U2Qgd5RPOWjZcbLU"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Light a Fire",
         "url": "https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 161583,
       "name": "Good Feeling - Radio Version",
       "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "both the night and day are the same to You",
+        "url": "https://open.spotify.com/album/30FSDbzkZGcUciU1hCKK0x"
+      },
+      "artists": [
+        {
+          "name": "Victory Worship",
+          "url": "https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs"
+        },
+        {
+          "name": "Paul Daugherty",
+          "url": "https://open.spotify.com/artist/4QU4v85xepqUOPZzHP6Cwc"
+        }
+      ],
+      "duration_ms": 354756,
+      "name": "You Have My Yes",
+      "url": "https://open.spotify.com/track/4qiVh3U2Qgd5RPOWjZcbLU"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "The Great Awakening",
+        "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 210118,
+      "name": "The Great Awakening",
+      "url": "https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Good Lord",
         "url": "https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 230506,
       "name": "I Came Home",
       "url": "https://open.spotify.com/track/6u2fcb4doVMXe4BLacMrSc"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "The Great Awakening",
-        "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        },
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 210118,
-      "name": "The Great Awakening",
-      "url": "https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/0OP9HYBOIsuXYluIctWpuN"
-      },
-      "artists": [
-        {
-          "name": "Katy Weirich",
-          "url": "https://open.spotify.com/artist/3QubzJpthCbzrOI1bisB0d"
-        }
-      ],
-      "duration_ms": 228798,
-      "name": "More",
-      "url": "https://open.spotify.com/track/0hFyyBF7BntGhLPffwliYh"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "If The Lord Builds The House",
         "url": "https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 235640,
       "name": "If The Lord Builds The House",
       "url": "https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/0OP9HYBOIsuXYluIctWpuN"
+      },
+      "artists": [
+        {
+          "name": "Katy Weirich",
+          "url": "https://open.spotify.com/artist/3QubzJpthCbzrOI1bisB0d"
+        }
+      ],
+      "duration_ms": 228798,
+      "name": "More",
+      "url": "https://open.spotify.com/track/0hFyyBF7BntGhLPffwliYh"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "We Come Alive",
-        "url": "https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 238757,
-      "name": "We Come Alive",
-      "url": "https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Life Again",
         "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 264428,
       "name": "Life Again",
       "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "We Come Alive",
+        "url": "https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 238757,
+      "name": "We Come Alive",
+      "url": "https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1459,22 +1459,6 @@
       "duration_ms": 267106,
       "name": "Nothing To Buy",
       "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "On And On",
-        "url": "https://open.spotify.com/album/6peZop0t6Zm3unhWtyqEoO"
-      },
-      "artists": [
-        {
-          "name": "Canyon Hills Worship",
-          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
-        }
-      ],
-      "duration_ms": 206576,
-      "name": "On And On - Radio",
-      "url": "https://open.spotify.com/track/1FbtX9rEUVAanT7FcbIjA6"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1511,6 +1495,22 @@
       "duration_ms": 202708,
       "name": "Good Lord (feat. Katy Nichole)",
       "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "On And On",
+        "url": "https://open.spotify.com/album/6peZop0t6Zm3unhWtyqEoO"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "duration_ms": 206576,
+      "name": "On And On - Radio",
+      "url": "https://open.spotify.com/track/1FbtX9rEUVAanT7FcbIjA6"
     },
     {
       "added_at": "2022-10-29 07:17:38",

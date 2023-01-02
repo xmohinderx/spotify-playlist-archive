@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 74707,
+  "num_followers": 74748,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDAwOTY4YzQxZTJlZWE4MDY3MWM1YWU1NWM3YzFhODli",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGIwNmI5YzZiODJkMzg4NjY3NzY0ZWY5MjFjZTg5YmNj",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -423,26 +423,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: 6 Songs / Corea: Children's Songs",
-        "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
-      },
-      "artists": [
-        {
-          "name": "Leon Bates",
-          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
-        },
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        }
-      ],
-      "duration_ms": 397000,
-      "name": "Fascinatin' Rhythm: The Man I Love",
-      "url": "https://open.spotify.com/track/2dTWpfFK01aihdETa2tytE"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin For Trumpet (arr. J. Bartos and P. Breiner)",
         "url": "https://open.spotify.com/album/5JpS68qm2fJzPOalGCjGxw"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 278000,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/2nr3BJgSKhoDA3M9D06BqV"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: 6 Songs / Corea: Children's Songs",
+        "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
+      },
+      "artists": [
+        {
+          "name": "Leon Bates",
+          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "duration_ms": 397000,
+      "name": "Fascinatin' Rhythm: The Man I Love",
+      "url": "https://open.spotify.com/track/2dTWpfFK01aihdETa2tytE"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -643,30 +643,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin and Piano)",
-        "url": "https://open.spotify.com/album/5MKnkXYVvwHFuBQwqXctSP"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Randall Goosby",
-          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
-        },
-        {
-          "name": "Zhu Wang",
-          "url": "https://open.spotify.com/artist/3z5WrAR67znbCVkXjFKM6Q"
-        }
-      ],
-      "duration_ms": 161146,
-      "name": "Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin and Piano)",
-      "url": "https://open.spotify.com/track/22L3hZxNY2MVaf2Pkquw4u"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Mademoiselle in New York",
         "url": "https://open.spotify.com/album/024Dffa0Le6qspFynJmMGU"
       },
@@ -691,6 +667,30 @@
       "duration_ms": 238413,
       "name": "Porgy and Bess, Act 2: I Loves You, Porgy",
       "url": "https://open.spotify.com/track/4LWX33zyFJYbm0NQ0QJHFi"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin and Piano)",
+        "url": "https://open.spotify.com/album/5MKnkXYVvwHFuBQwqXctSP"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Randall Goosby",
+          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
+        },
+        {
+          "name": "Zhu Wang",
+          "url": "https://open.spotify.com/artist/3z5WrAR67znbCVkXjFKM6Q"
+        }
+      ],
+      "duration_ms": 161146,
+      "name": "Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin and Piano)",
+      "url": "https://open.spotify.com/track/22L3hZxNY2MVaf2Pkquw4u"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1035,6 +1035,34 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
+        "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Peter Jablonski",
+          "url": "https://open.spotify.com/artist/0mCOV3Lihl1xpkHv1ZY89E"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 799826,
+      "name": "Piano Concerto in F: 2. Adagio",
+      "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin: Piano Concerto - Second Rhapsody - I Got Rhythm Variations",
         "url": "https://open.spotify.com/album/1Pe0dxZvRLFe0GnAMfzko2"
       },
@@ -1063,8 +1091,8 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
-        "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
+        "name": "Gershwin Take Two",
+        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
       },
       "artists": [
         {
@@ -1072,21 +1100,13 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
         {
-          "name": "Peter Jablonski",
-          "url": "https://open.spotify.com/artist/0mCOV3Lihl1xpkHv1ZY89E"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+          "name": "Simon Tedeschi",
+          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
         }
       ],
-      "duration_ms": 799826,
-      "name": "Piano Concerto in F: 2. Adagio",
-      "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
+      "duration_ms": 47426,
+      "name": "I'll Build a Stairway to Paradise",
+      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1139,26 +1159,6 @@
       "duration_ms": 204920,
       "name": "3 Preludes for Piano Solo: 2. Andante con moto e poco rubato (Arr. Jascha Heifetz)",
       "url": "https://open.spotify.com/track/0SIRzB0ZuR3LTPisCFPsAp"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin Take Two",
-        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Simon Tedeschi",
-          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
-        }
-      ],
-      "duration_ms": 47426,
-      "name": "I'll Build a Stairway to Paradise",
-      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
     },
     {
       "added_at": "2022-08-05 04:02:00",

@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 131250,
       "name": "</3",
       "url": "https://open.spotify.com/track/14154tJOTjeyeOyhnqP4QM"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 180693,
       "name": "ADRENALINA",
       "url": "https://open.spotify.com/track/09LwPi7fLnNkVnV6DV6FyY"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 133000,
       "name": "any\u017cowe \u017celki",
       "url": "https://open.spotify.com/track/2qqiGxy47FbviXuPW7crUH"
@@ -1789,7 +1789,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 153201,
       "name": "Bajlando",
       "url": "https://open.spotify.com/track/5fxFhJyveLasVUfuHf6lYP"
@@ -2045,7 +2045,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 170186,
       "name": "BEDOESIARA",
       "url": "https://open.spotify.com/track/110t5CmHOA2bnGP4XAzhmh"
@@ -2147,7 +2147,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
@@ -2313,7 +2313,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 156585,
       "name": "BIERNIK (kogo? co?)",
       "url": "https://open.spotify.com/track/2nGA88iGanJ3rkDaWXQLyv"
@@ -3908,6 +3908,32 @@
     },
     {
       "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
+    },
+    {
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -4155,7 +4181,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 198000,
       "name": "Czekam Na Znak",
       "url": "https://open.spotify.com/track/5fjcRpwg94xQ2hrSqw6x06"
@@ -5005,7 +5031,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 175000,
       "name": "dres",
       "url": "https://open.spotify.com/track/15TrHBCTobTCJ4ojq9mABc"
@@ -5337,6 +5363,36 @@
       "duration_ms": 168750,
       "name": "Du\u017ce Oczy",
       "url": "https://open.spotify.com/track/0O4OIQKow8DloWa7UzIgyd"
+    },
+    {
+      "album": {
+        "name": "Almost Goat",
+        "url": "https://open.spotify.com/album/0Q9MyiOGklf7Vs68BGPWi4"
+      },
+      "artists": [
+        {
+          "name": "Smolasty",
+          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Du\u017ce Oczy",
+      "url": "https://open.spotify.com/track/23dWz5UASX9AiwPSM4256l"
     },
     {
       "album": {
@@ -6509,7 +6565,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 172400,
       "name": "Grill u Gawrona",
       "url": "https://open.spotify.com/track/7n7QAwwFJG7jOjxgACW1XC"
@@ -6569,7 +6625,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 208453,
       "name": "GUGU x 2115",
       "url": "https://open.spotify.com/track/4nng35mDbhJjPyGwXFNk76"
@@ -6693,7 +6749,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 176350,
       "name": "Harna\u015b ice tea",
       "url": "https://open.spotify.com/track/32IErAbP0G4WcnpqHpMd35"
@@ -6751,6 +6807,24 @@
       "duration_ms": 145301,
       "name": "Heaven and Hell",
       "url": "https://open.spotify.com/track/2ZUJsR8HEktit58X6FuPQM"
+    },
+    {
+      "album": {
+        "name": "Heavy Metal Love",
+        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Heavy Metal Love",
+      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
     },
     {
       "album": {
@@ -6878,6 +6952,24 @@
     },
     {
       "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/1vFFZPioAu0vrJRcGoyGX8"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220226,
+      "name": "Hot N Cold",
+      "url": "https://open.spotify.com/track/1ulXmqjktxSdrdT1bzc69H"
+    },
+    {
+      "album": {
         "name": "Huragan",
         "url": "https://open.spotify.com/album/6xKVlOL8stXITDhVZjQPDb"
       },
@@ -6951,6 +7043,28 @@
       "duration_ms": 252000,
       "name": "Hymn (J. S\u0142owacki)",
       "url": "https://open.spotify.com/track/6a72YcZLJ89RBgNDIzoCso"
+    },
+    {
+      "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195704,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC"
     },
     {
       "album": {
@@ -8488,6 +8602,28 @@
     },
     {
       "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Colby O'Donis",
+          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241933,
+      "name": "Just Dance",
+      "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"
+    },
+    {
+      "album": {
         "name": "RODZINNY BIZNES",
         "url": "https://open.spotify.com/album/1GabBOxzyUPjkELZE0b3HS"
       },
@@ -9161,7 +9297,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 152666,
       "name": "kole\u017canko mojej by\u0142ej",
       "url": "https://open.spotify.com/track/5NbxvSCL1xLqqWLqG6LjwE"
@@ -10381,7 +10517,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 169235,
       "name": "mam kogo\u015b lepszego - Skytech Remix",
       "url": "https://open.spotify.com/track/5jrgxqv21VtnVURWPAWoaS"
@@ -10758,6 +10894,24 @@
     },
     {
       "album": {
+        "name": "Aquaria",
+        "url": "https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv"
+      },
+      "artists": [
+        {
+          "name": "Doda",
+          "url": "https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149508,
+      "name": "Melodia Ta",
+      "url": "https://open.spotify.com/track/6bCh3l2TBXuoTP05lh2rYB"
+    },
+    {
+      "album": {
         "name": "Mem (prod. Auer)",
         "url": "https://open.spotify.com/album/2Y7UmCMczDhjEkq91V0BVR"
       },
@@ -11079,7 +11233,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -11863,7 +12017,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 213053,
       "name": "NA KRA\u0143CU \u015aWIATA",
       "url": "https://open.spotify.com/track/11JXHNIH2xO5INcJQOWCjY"
@@ -11911,7 +12065,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 138000,
       "name": "Na raz",
       "url": "https://open.spotify.com/track/1cAAn5PKy40T1p15fpTPW8"
@@ -13393,7 +13547,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Pakuje Walize",
       "url": "https://open.spotify.com/track/7CRfTE9FGb9YdSvoGhl2IP"
@@ -13589,7 +13743,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 165645,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/01AnaOESGIDMJiTXrvAY1M"
@@ -16720,6 +16874,24 @@
     },
     {
       "album": {
+        "name": "I AM...SASHA FIERCE - Platinum Edition",
+        "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192586,
+      "name": "Single Ladies (Put a Ring on It)",
+      "url": "https://open.spotify.com/track/557un1HgwYMuqfWGSTmnxw"
+    },
+    {
+      "album": {
         "name": "77747mixtape",
         "url": "https://open.spotify.com/album/2YLYltRzvTJFKyDE7XVbjC"
       },
@@ -16761,7 +16933,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 121333,
       "name": "SI\u0118 WJE\u017bD\u017bA",
       "url": "https://open.spotify.com/track/2yEWVnp65tTXSrRW03IqXs"
@@ -16989,7 +17161,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
@@ -17309,7 +17481,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -17990,6 +18162,28 @@
     },
     {
       "album": {
+        "name": "The Bad Touch",
+        "url": "https://open.spotify.com/album/6BuFRvOv0F9QUuoDSiEArC"
+      },
+      "artists": [
+        {
+          "name": "Pelican",
+          "url": "https://open.spotify.com/artist/2uzcKKlZZ4eIanI41raEZ8"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153721,
+      "name": "The Bad Touch",
+      "url": "https://open.spotify.com/track/6tQLQo67FdPGonSHcXqaqk"
+    },
+    {
+      "album": {
         "name": "The Business",
         "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
       },
@@ -18643,7 +18837,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 169560,
       "name": "TURYSTA",
       "url": "https://open.spotify.com/track/1P0ONzmEfswDiIJsP4xNA9"
@@ -18851,7 +19045,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 146666,
       "name": "w aucie noc i 90bpm",
       "url": "https://open.spotify.com/track/1VoUHMVxu1qG2Z9josOhWs"
@@ -19544,6 +19738,24 @@
     },
     {
       "album": {
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230945,
+      "name": "Won't Forget You - Edit",
+      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
+    },
+    {
+      "album": {
         "name": "McCartney II (Special Edition)",
         "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
       },
@@ -19595,7 +19807,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 142677,
       "name": "Words (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
@@ -19859,7 +20071,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 190445,
       "name": "Wygl\u0105dasz Idealnie",
       "url": "https://open.spotify.com/track/5AaRBuYteJwl8qRU33Zo1K"
@@ -20803,7 +21015,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 207818,
       "name": "ztb",
       "url": "https://open.spotify.com/track/4N6rgD6EqLbWcl5ld3NqTP"

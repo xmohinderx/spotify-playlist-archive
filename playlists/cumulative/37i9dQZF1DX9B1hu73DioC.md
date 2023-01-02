@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-564 songs - 1 day 10 hr 26 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
+565 songs - 1 day 10 hr 29 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Appeayl 2 U part 1](https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75) | [Gayngs](https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI) | [Appeayl 2 U](https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U) | 3:56 | 2022-06-01 | 2022-07-29 |
 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/1yY9uOKV3A9pPedzTfvbg1) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/album/6TmYayLFvDWXdniWHfPXkE) | 2:58 | 2020-10-05\* | 2020-10-21 |
 | [Asc\. Scorpio](https://open.spotify.com/track/13zkVsNIyXsagdlbg7ulWO) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Asc\. Scorpio](https://open.spotify.com/album/2Nsk6k3DXUFJ5sZifoM2fk) | 2:46 | 2022-06-01 | 2022-12-24 |
+| [Asc\. Scorpio](https://open.spotify.com/track/3Af0Uw9IfaJzb6ZBi2Jdl6) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Asc\. Scorpio](https://open.spotify.com/album/7JU9R2cwpftETvz94nhUfR) | 2:46 | 2022-11-10 |  |
 | [Asking 4 a Friend](https://open.spotify.com/track/5rb8wJ5AgXg5vUyo9mofZh) | [Anna Burch](https://open.spotify.com/artist/26OB2jqYqL7pNslVtu4VGt) | [Asking 4 a Friend](https://open.spotify.com/album/4Gj9biEnOasNTaZweJKSt6) | 3:53 | 2020-10-05\* | 2021-05-25 |
 | [Autumn](https://open.spotify.com/track/2KhrOCk3xdBDYI3xYOn2vK) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Autumn](https://open.spotify.com/album/7oPUmWoISXzUuANQ4o38V2) | 2:32 | 2021-11-19 | 2022-04-19 |
 | [Awake](https://open.spotify.com/track/2qC1sUo8xxRRqYsaYEdDuZ) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/7HWdGPosPkb9GY5MOgLgSW) | 4:43 | 2020-10-16 | 2022-04-20 |
@@ -225,7 +226,7 @@
 | [Groceries](https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix) | 3:37 | 2022-10-07 |  |
 | [Groceries](https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2) | 3:37 | 2020-10-16 | 2022-04-17 |
 | [Half Life](https://open.spotify.com/track/3Rmld8jmFs7VbpeeGrNrDt) | [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Half Life](https://open.spotify.com/album/0hN61WMhZ4dPKR6ReAj0UO) | 3:07 | 2021-06-04 | 2022-07-29 |
-| [HEADSTART](https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 3:10 | 2022-06-01 |  |
+| [HEADSTART](https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 3:10 | 2022-06-01 | 2023-01-02 |
 | [Heart and My Car](https://open.spotify.com/track/53mAiigGdkVIMItDdJjgLo) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Heart and My Car](https://open.spotify.com/album/0Rw4Iwk6Lc4KDBs57bpuwC) | 3:25 | 2020-10-05\* | 2020-10-06 |
 | [Heart It Races \- Cover Version](https://open.spotify.com/track/0SyOHG2V9CgMSlebbnyoLJ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Heart It Races \(Cover Version\)](https://open.spotify.com/album/5H7DXLYdOFUa0KD62HqCvd) | 3:51 | 2022-07-25 | 2022-10-14 |
 | [Heart It Races \- Cover Version](https://open.spotify.com/track/2vupkXhwL4sNCRgNu72HCZ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Heart It Races](https://open.spotify.com/album/6wY9YCNf0EpuogJgcPLY0W) | 3:53 | 2020-10-16 | 2022-04-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 1386,
+  "num_followers": 1396,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDM5NDE2ZDJiZjg2NzcxYzc3MDkyYWVlZDhmNjc1YThl",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDlmNDJkNTgxMjM4N2NlYjVhNTM0ZmI3ODZiNmVkZDUz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -763,6 +763,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "FIXTAPE",
+        "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 259651,
+      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Big Moves",
         "url": "https://open.spotify.com/album/19DUz6GJ0KKs1qJluRYzcQ"
       },
@@ -859,30 +883,6 @@
       "duration_ms": 156525,
       "name": "Artificial",
       "url": "https://open.spotify.com/track/0im9PGSu7iT5JlLAFqfM4C"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "FIXTAPE",
-        "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 259651,
-      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
-      "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
     },
     {
       "added_at": "2022-10-01 16:00:00",

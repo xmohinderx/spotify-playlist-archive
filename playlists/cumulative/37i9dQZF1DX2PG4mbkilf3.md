@@ -4,7 +4,7 @@
 
 > This is R&B in Canada, elevate your aura with Diddy & PARTYNEXTDOOR.
 
-482 songs - 1 day 1 hr 16 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
+483 songs - 1 day 1 hr 19 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Don't Mind](https://open.spotify.com/track/2xv35DpHy7xmnCkPWKo4dC) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Nene](https://open.spotify.com/album/6IgiDt94AUYI6TANSG6SNa) | 3:17 | 2022-10-14 | 2022-12-10 |
 | [Don't Mind](https://open.spotify.com/track/6rgamKIpPgddW3Fc0J1KBo) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Nene](https://open.spotify.com/album/0VTL1h4Vk5JCN7f3YqQoFF) | 3:17 | 2022-09-23 | 2022-10-15 |
 | [Don't Say](https://open.spotify.com/track/3zpV1pF29S3jPGNY1J8HZo) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Don't Say](https://open.spotify.com/album/3t1AbuJrkCU4c8LnWLJMUZ) | 2:35 | 2022-02-18 | 2022-05-28 |
-| [Don't Take Your Love](https://open.spotify.com/track/1d4srFfqCqXT5EpesRXAkT) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:06 | 2022-12-30 |  |
+| [Don't Take Your Love](https://open.spotify.com/track/1GHXliRsmm1Qb40h3PKnrs) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Don't Take Your Love](https://open.spotify.com/album/2fje8BKwgRfnIADIikLTli) | 3:06 | 2022-12-30 |  |
+| [Don't Take Your Love](https://open.spotify.com/track/1d4srFfqCqXT5EpesRXAkT) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:06 | 2022-12-30 | 2023-01-02 |
 | [Don't Take Your Love](https://open.spotify.com/track/35fBkyvLRrHKO4edE69LtA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Don't Take Your Love](https://open.spotify.com/album/64LOyCjv3fkbUBEYkcbbH9) | 3:06 | 2022-10-21 | 2023-01-01 |
 | [Don't Walk Away](https://open.spotify.com/track/52CFxHZxBbiZ1l9eTFpFxJ) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Don't Walk Away](https://open.spotify.com/album/6pjgZeaZ44JQ7fkRCODDHh) | 2:22 | 2022-06-03 | 2022-08-20 |
 | [Done](https://open.spotify.com/track/6xTxGWOvupBLXcSSyVJ6FI) | [Ebhoni](https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6) | [Done](https://open.spotify.com/album/7kmcndwYUnbpSjTICzrUs4) | 2:13 | 2022-08-05 | 2022-10-01 |
@@ -421,8 +422,8 @@
 | [Suppress](https://open.spotify.com/track/4I0lAql698rA7kNmRnKbSX) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Suppress \(Original\)](https://open.spotify.com/album/1MhBXyaIo7WfOy1nctpIkb) | 3:12 | 2022-02-25 | 2022-04-16 |
 | [Sweet Adetola](https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr) | 3:46 | 2022-02-18 | 2022-03-18 |
 | [Take Care of You \(feat\. King Princess, Amaarae & Meshell Ndegeocello\) \- Remix](https://open.spotify.com/track/4lQX77YOzLJKXJu0CNRz3T) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [ALPHA \(Deluxe\)](https://open.spotify.com/album/06xkAXs3CjdSofoAQbRVhL) | 3:34 | 2022-02-18 | 2022-07-30 |
-| [Take It Slow](https://open.spotify.com/track/05ohfzEBUfCEqoQCMUARWw) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 2:32 | 2022-12-30 |  |
-| [Take It Slow](https://open.spotify.com/track/6FNhXIXcooRrD5mZCjqPV9) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/11LYtfhFQqoEsnTRgWtBSM) | 2:32 | 2022-10-28 | 2023-01-01 |
+| [Take It Slow](https://open.spotify.com/track/05ohfzEBUfCEqoQCMUARWw) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 2:32 | 2022-12-30 | 2023-01-02 |
+| [Take It Slow](https://open.spotify.com/track/6FNhXIXcooRrD5mZCjqPV9) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/11LYtfhFQqoEsnTRgWtBSM) | 2:32 | 2022-10-28 |  |
 | [TAKE ME AS I AM](https://open.spotify.com/track/02zXxImHvdQdhmZ3kxUno9) | [Shébani](https://open.spotify.com/artist/1t8rTRUUPUItjj6vOTP8kc) | [TAKE ME AS I AM](https://open.spotify.com/album/3JmCUmEgy7tUdJv607LInw) | 3:51 | 2022-11-25 |  |
 | [Talk Luv](https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Talk Luv](https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX) | 2:44 | 2022-02-18 | 2022-05-14 |
 | [Tease](https://open.spotify.com/track/5ttmYDw7JUPeBFV9I2DdbS) | [Neela](https://open.spotify.com/artist/1lz7G1MhES1Bb0toy0tluz) | [Tease](https://open.spotify.com/album/1SCKl3Yaa9g3wd8G1I9pzo) | 3:20 | 2022-05-27 | 2022-06-25 |

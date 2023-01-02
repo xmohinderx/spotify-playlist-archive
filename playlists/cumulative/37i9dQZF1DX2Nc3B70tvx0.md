@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: brakence
 
-1,359 songs - 3 day 9 hr 22 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,360 songs - 3 day 9 hr 26 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [Grade A \(feat\. JAWNY\)](https://open.spotify.com/track/6ek40cFUiRjxA2KrOHNfi3) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Grade A \(feat\. JAWNY\)](https://open.spotify.com/album/55yLoYwGsnb7tCg10LmKIJ) | 1:46 | 2021-10-07 | 2021-11-17 |
 | [Grapevine](https://open.spotify.com/track/5BwfV9vNhDfIysUTyuTbuQ) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 5:25 | 2022-11-16 |  |
 | [Grapevine](https://open.spotify.com/track/6soZDxnM2sZ2FiBwGNRIfw) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Grapevine](https://open.spotify.com/album/43MlFOqkx9uwvXTppU2t1v) | 5:25 | 2022-11-11 | 2022-11-23 |
+| [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 | 2022-12-16 |  |
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2020-10-29 | 2021-07-30 |
 | [Green Heart](https://open.spotify.com/track/7IPHYq1tGyQsE9QGo4UvTN) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Stains](https://open.spotify.com/album/4KRzJ79gfLvy5D2imw0y7q) | 4:38 | 2021-10-14 | 2021-10-16 |
 | [Gretel](https://open.spotify.com/track/3wo2vH5125yYbkxSRxyI6O) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Gretel](https://open.spotify.com/album/4AKDBw2VYWLPaaZnxlcYuy) | 3:10 | 2019-06-14 | 2019-08-23 |
@@ -723,7 +724,7 @@
 | [Love Me Like You Used To](https://open.spotify.com/track/6V5eKHRdQLaYLH7XPbtbOo) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/48nTl6TmV8hS2x8MCQlUbm) | 3:40 | 2021-05-28 | 2022-04-30 |
 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-01-21 | 2022-07-13 |
 | [Love On The Run](https://open.spotify.com/track/4VXabjbReCUzFHbrzLaTzf) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Love On The Run](https://open.spotify.com/album/6aVblMt9BkzGxjEhx3Ul8g) | 7:03 | 2022-10-11 | 2022-10-14 |
-| [Love On The Run](https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 7:03 | 2022-11-04 |  |
+| [Love On The Run](https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 7:03 | 2022-11-04 | 2023-01-02 |
 | [Love You For A Long Time](https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Love You For A Long Time](https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI) | 3:43 | 2019-12-13 | 2020-05-15 |
 | [Love Yourself](https://open.spotify.com/track/1Gna86CVYMyQxLNHqqp8fK) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Love Yourself / With My Whole Heart](https://open.spotify.com/album/1sIogRBpTHg0jkbrgIJWR0) | 3:48 | 2019-06-07 | 2019-08-13 |
 | [Love/Hate Letter To Alcohol \(with Fleet Foxes\)](https://open.spotify.com/track/6R9c642Hs3tOdLowjYaWt2) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:03 | 2022-08-15 | 2022-08-26 |

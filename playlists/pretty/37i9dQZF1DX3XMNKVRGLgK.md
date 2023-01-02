@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nigelsylvester/">Nigel Sylvester</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,499 likes - 30 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,520 likes - 30 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 | 20 | [Otherside Of America](https://open.spotify.com/track/3JBvJ9PwrYA1oeUzI3FMRI) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Otherside Of America](https://open.spotify.com/album/3ymsrdlosSeo8xbXlGNMoE) | 3:38 |
 | 21 | [Wetty](https://open.spotify.com/track/6DuxLU1Uqvjgz1S2YdcpbG) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [800 BC](https://open.spotify.com/album/2F8sqO6n3U3NO8t1qVLWs0) | 3:55 |
 | 22 | [U Don't Know](https://open.spotify.com/track/4O7oKy8YADaBrbehcPl0kE) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint \(Explicit Version\)](https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl) | 3:19 |
-| 23 | [Light Up](https://open.spotify.com/track/0PWQqF5PvqRq0OPLSH0FKI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 4:34 |
-| 24 | [I'm Ready](https://open.spotify.com/track/1Z5kIJ1ZKzVFSJXG1Y5zFb) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:41 |
+| 23 | [You're Mines Still \(feat\. Drake\)](https://open.spotify.com/track/6tiKwZppNjrls8RsPQwK6r) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 3:46 |
+| 24 | [Light Up](https://open.spotify.com/track/0PWQqF5PvqRq0OPLSH0FKI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 4:34 |
 | 25 | [Championships](https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 4:21 |
-| 26 | [Mo Money Mo Murder \(Homicide\)](https://open.spotify.com/track/62YPBeWVcD1FDWo7yTBXix) | [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg) | [Doe Or Die](https://open.spotify.com/album/4wPNy4oz3tDjY3OEeHiOVq) | 6:32 |
-| 27 | [The Roc \(Just Fire\)](https://open.spotify.com/track/0SYGpsMlXdLve9bMNFLnAf) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 4:24 |
-| 28 | [You're Mines Still \(feat\. Drake\)](https://open.spotify.com/track/6tiKwZppNjrls8RsPQwK6r) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 3:46 |
+| 26 | [I'm Ready](https://open.spotify.com/track/1Z5kIJ1ZKzVFSJXG1Y5zFb) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:41 |
+| 27 | [Mo Money Mo Murder \(Homicide\)](https://open.spotify.com/track/62YPBeWVcD1FDWo7yTBXix) | [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg) | [Doe Or Die](https://open.spotify.com/album/4wPNy4oz3tDjY3OEeHiOVq) | 6:32 |
+| 28 | [The Roc \(Just Fire\)](https://open.spotify.com/track/0SYGpsMlXdLve9bMNFLnAf) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 4:24 |
 | 29 | [4 Da Fam \(feat\. Beanie Sigel, Memphis Bleek & Jay\-Z\) \- Explicit Album Version](https://open.spotify.com/track/2NUcXeWIVFKcKrjgfUHDRG) | [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50), [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [All Money Is Legal](https://open.spotify.com/album/4isanca8rAOurYRLPvKwnS) | 4:20 |
 | 30 | [queens shit.](https://open.spotify.com/track/5fKB3QygGZfzgyapUCTpV9) | [Remy Banks](https://open.spotify.com/artist/37dMe6EquztHIXOFF44iKZ) | [champ hoody music\. ep.1](https://open.spotify.com/album/16wn93pdT8x632qceupGXI) | 1:22 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGUxNDBkNTQ2Njc2ZGI3ZWM2YjhkMDBmOTdkMDU1NDJk`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGQ2M2NlZTJiZTUyZTJmMTg2ZTY2MzBjOWUzMGY5ZjQx`

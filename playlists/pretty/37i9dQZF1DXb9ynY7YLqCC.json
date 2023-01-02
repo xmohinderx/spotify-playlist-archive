@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 133786,
+  "num_followers": 133854,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMGQxZDg3NDMzZDZiYWE0YTg5NGU0NjNiYjc5ZjdhNjgz",
+  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMDc1YjFhYjFjNTA5OGM3MzU2N2FlZGVjMGQ2N2M0MTMy",
   "tracks": [
     {
       "added_at": "2022-12-30 03:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Las Pastillas del Abuelo",
-        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 431626,
-      "name": "Amar y Envejecer",
-      "url": "https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "La Paciencia De La Ara\u00f1a",
         "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 317066,
       "name": "Oxidado",
       "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Las Pastillas del Abuelo",
+        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 431626,
+      "name": "Amar y Envejecer",
+      "url": "https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "El Favor",
-        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
+        "name": "Gladiadores del rock",
+        "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
       },
       "artists": [
         {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
         }
       ],
-      "duration_ms": 245024,
-      "name": "El Favor",
-      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
+      "duration_ms": 269331,
+      "name": "Sacrificio y Rock N' Roll",
+      "url": "https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Gladiadores del rock",
-        "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
+        "name": "El Favor",
+        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
       },
       "artists": [
         {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
         }
       ],
-      "duration_ms": 269331,
-      "name": "Sacrificio y Rock N' Roll",
-      "url": "https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD"
+      "duration_ms": 245024,
+      "name": "El Favor",
+      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Las Pastillas del Abuelo",
-        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/0ryyNNi9K5iLu7v4uQSJ4c"
       },
       "artists": [
         {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 324053,
-      "name": "Viejo",
-      "url": "https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny"
+      "duration_ms": 244066,
+      "name": "El Balneario de los Doctores Crotos",
+      "url": "https://open.spotify.com/track/1SmH3Jv3V73B8vPb3p0N3M"
     }
   ],
   "unique_name": "Rock Barrial",

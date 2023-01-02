@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ\-JKMPH3p8dSw">Usain Bolt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,386 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,396 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 | 39 | [Shutdown](https://open.spotify.com/track/22okfZRLfP6hxuplYUGef6) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Shutdown](https://open.spotify.com/album/0xCAtTLLKHVXXRG3QszG7Y) | 3:08 |
 | 40 | [Lock Down](https://open.spotify.com/track/1tdmgA42t9diBG4wleVU17) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh) | [Lock Down](https://open.spotify.com/album/7iJDXxSGrAkRtYxChh4476) | 2:57 |
 | 41 | [Champ](https://open.spotify.com/track/1g4ziqH1kWahITvZg8ppUO) | [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Champ \- Single](https://open.spotify.com/album/0JbpYmI0C4fBzPLBLqVOlQ) | 3:25 |
-| 42 | [Big Moves](https://open.spotify.com/track/5ZbQwNgXeuuKbVOPDam4JX) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Big Moves](https://open.spotify.com/album/19DUz6GJ0KKs1qJluRYzcQ) | 2:39 |
-| 43 | [Weekend](https://open.spotify.com/track/4u4YhCbM8W7bK4mXrKgzO3) | [Munga Honorable](https://open.spotify.com/artist/4N6urvy01I1p3ZgWLDjmKU) | [Weekend](https://open.spotify.com/album/2px81nLEeDMKqaHeyMuYyz) | 2:20 |
-| 44 | [Living the Dream](https://open.spotify.com/track/3UAYoYYAgyg7ZHpV59qZY5) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Living the Dream](https://open.spotify.com/album/2PQOmBbpyV0hBm6P8HcBFE) | 2:48 |
-| 45 | [Dweet](https://open.spotify.com/track/17v1kXWmTCnXMOoZ6wDjSs) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Usain Bolt Presents: Olympe Rosé Riddim](https://open.spotify.com/album/2SkSBJ1pRPIsQODif3Wqhk) | 2:45 |
-| 46 | [Top a Di Top](https://open.spotify.com/track/1E50X8pyYgpZNYR9h7wj1L) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Top a Di Top](https://open.spotify.com/album/4Me1gzbHBfpc25iX0xLTEM) | 2:39 |
-| 47 | [Artificial](https://open.spotify.com/track/0im9PGSu7iT5JlLAFqfM4C) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6) | [Usain Bolt Presents: Immortal Riddim, Vol\. 2](https://open.spotify.com/album/4Pp36Kk5mWXwQQwndpOp4Y) | 2:36 |
-| 48 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:19 |
+| 42 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:19 |
+| 43 | [Big Moves](https://open.spotify.com/track/5ZbQwNgXeuuKbVOPDam4JX) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Big Moves](https://open.spotify.com/album/19DUz6GJ0KKs1qJluRYzcQ) | 2:39 |
+| 44 | [Weekend](https://open.spotify.com/track/4u4YhCbM8W7bK4mXrKgzO3) | [Munga Honorable](https://open.spotify.com/artist/4N6urvy01I1p3ZgWLDjmKU) | [Weekend](https://open.spotify.com/album/2px81nLEeDMKqaHeyMuYyz) | 2:20 |
+| 45 | [Living the Dream](https://open.spotify.com/track/3UAYoYYAgyg7ZHpV59qZY5) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Living the Dream](https://open.spotify.com/album/2PQOmBbpyV0hBm6P8HcBFE) | 2:48 |
+| 46 | [Dweet](https://open.spotify.com/track/17v1kXWmTCnXMOoZ6wDjSs) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Usain Bolt Presents: Olympe Rosé Riddim](https://open.spotify.com/album/2SkSBJ1pRPIsQODif3Wqhk) | 2:45 |
+| 47 | [Top a Di Top](https://open.spotify.com/track/1E50X8pyYgpZNYR9h7wj1L) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Top a Di Top](https://open.spotify.com/album/4Me1gzbHBfpc25iX0xLTEM) | 2:39 |
+| 48 | [Artificial](https://open.spotify.com/track/0im9PGSu7iT5JlLAFqfM4C) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6) | [Usain Bolt Presents: Immortal Riddim, Vol\. 2](https://open.spotify.com/album/4Pp36Kk5mWXwQQwndpOp4Y) | 2:36 |
 | 49 | [Need Your Love](https://open.spotify.com/track/0raznvhKo5fzYqZKCp7wzA) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Jae Xo](https://open.spotify.com/artist/6rsxtEBge43PfF3FU9BMdM), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Need Your Love](https://open.spotify.com/album/5kz0klHGG1LrTDdcQxuxyf) | 3:05 |
 | 50 | [Timing](https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Usain Bolt Presents: Clockwork Riddim](https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY) | 3:09 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDM5NDE2ZDJiZjg2NzcxYzc3MDkyYWVlZDhmNjc1YThl`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDlmNDJkNTgxMjM4N2NlYjVhNTM0ZmI3ODZiNmVkZDUz`

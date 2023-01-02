@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,781 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,932 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 11 | [No Idea \- Dj Purpberry Chopped and Screwed](https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [No Idea \(DJ Purpberry Chopped and Screwed\)](https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO) | 3:15 |
 | 12 | [SNAP \- Low and Slow](https://open.spotify.com/track/7laCR0yqvvRllmY0rAn2qb) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 3:23 |
 | 13 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
-| 14 | [vendetta! \- Slowed + Reverb](https://open.spotify.com/track/27eiUzfUEc75ujJbn68s53) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta! \(Slowed + Reverb\)](https://open.spotify.com/album/23BaWXcjrA2P7khBHQLP7N) | 1:57 |
-| 15 | [Renegade \- \(Slowed + Reverb\)](https://open.spotify.com/track/5S74BaKFC7ELNsuhxzoPn4) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/7e9NQmhOTt71S59d5NC5Zi) | 4:39 |
-| 16 | [Mary On A Cross \- slowed + reverb](https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Mary On A Cross \(slowed + reverb\)](https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8) | 4:34 |
-| 17 | [help\_urself \- slowed](https://open.spotify.com/track/6ivAviar2zmiKrQ397I4rG) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [help\_urself \(Alternates\)](https://open.spotify.com/album/7MyfgVtudevZkaalHSpE46) | 2:31 |
-| 18 | [Limbo \- Ghost Slowed](https://open.spotify.com/track/6gHMPnovJioJRT5tvBAj5w) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [Freddie's Inferno \- Ghost Slowed](https://open.spotify.com/album/4Sc3qZCPGp2QXFcxYA8Mn2) | 3:03 |
+| 14 | [Renegade \- \(Slowed + Reverb\)](https://open.spotify.com/track/5S74BaKFC7ELNsuhxzoPn4) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/7e9NQmhOTt71S59d5NC5Zi) | 4:39 |
+| 15 | [vendetta! \- Slowed + Reverb](https://open.spotify.com/track/27eiUzfUEc75ujJbn68s53) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta! \(Slowed + Reverb\)](https://open.spotify.com/album/23BaWXcjrA2P7khBHQLP7N) | 1:57 |
+| 16 | [Limbo \- Ghost Slowed](https://open.spotify.com/track/6gHMPnovJioJRT5tvBAj5w) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [Freddie's Inferno \- Ghost Slowed](https://open.spotify.com/album/4Sc3qZCPGp2QXFcxYA8Mn2) | 3:03 |
+| 17 | [Mary On A Cross \- slowed + reverb](https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Mary On A Cross \(slowed + reverb\)](https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8) | 4:34 |
+| 18 | [help\_urself \- slowed](https://open.spotify.com/track/6ivAviar2zmiKrQ397I4rG) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [help\_urself \(Alternates\)](https://open.spotify.com/album/7MyfgVtudevZkaalHSpE46) | 2:31 |
 | 19 | [All Night \- Slowed N Reverb](https://open.spotify.com/track/1gk5o5yEXAsHeXMJoavmh3) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Married In Vegas \(Matoma Remix\)](https://open.spotify.com/album/4YqfRZEKP1rDqKK1LNBjbU) | 4:04 |
 | 20 | [Killshot \- Slowed + Reverb](https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Killshot \(Slowed + Reverb\)](https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA) | 4:38 |
 | 21 | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Us and Them](https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx) | [Brothel](https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0), [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu), [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Us and Them](https://open.spotify.com/album/4Hrrad0vv9BbvFjBPYb2xJ) | 2:46 |
 | 50 | [empire state of mind \- slowed + reverb](https://open.spotify.com/track/4dc1yIxU50feaV6TscXney) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [empire state of mind \- slowed + reverb](https://open.spotify.com/album/2JiYe4ChvUywzAvWvcIFV9) | 1:40 |
 
-Snapshot ID: `MTY3MTE3MDA0MCwwMDAwMDAwMGQ3OTRkZTVmOTJmNWZmMzk4NDcwNThhMzBiOWRhOTcz`
+Snapshot ID: `MTY3MTE3MDA0MCwwMDAwMDAwMDg3Zjg2ZDM3MDA3M2RiYjM5MGIxMjZjZGVmZjVhYTc3`

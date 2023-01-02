@@ -140,6 +140,32 @@
     },
     {
       "album": {
+        "name": "Amazigh Remixes",
+        "url": "https://open.spotify.com/album/4lzuNAKSYZ2rsCUkHA02mZ"
+      },
+      "artists": [
+        {
+          "name": "Elisa Elisa",
+          "url": "https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393685,
+      "name": "Amazigh - Enoo Napa Dub",
+      "url": "https://open.spotify.com/track/6BfjfsJVEGNcRmibMhmz3h"
+    },
+    {
+      "album": {
         "name": "Aminta",
         "url": "https://open.spotify.com/album/2TK1N038DNKJwM6rNR5775"
       },
@@ -2824,6 +2850,32 @@
     },
     {
       "album": {
+        "name": "Thousand And Two Nights",
+        "url": "https://open.spotify.com/album/67EAgGAHyrOdf3QKhkpJHv"
+      },
+      "artists": [
+        {
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        },
+        {
+          "name": "Dikla Hackmon",
+          "url": "https://open.spotify.com/artist/1WMzRg50fwSyMmnKQ0xEvj"
+        },
+        {
+          "name": "Paso Doble",
+          "url": "https://open.spotify.com/artist/3UcGeZb5ji86oAC34FtYtp"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Thousand And Two Nights - Paso Doble Remix",
+      "url": "https://open.spotify.com/track/2WSTSLildq9gO9mK6sNTgp"
+    },
+    {
+      "album": {
         "name": "Tolo",
         "url": "https://open.spotify.com/album/732vlGVmJhgDRwLjWce1qv"
       },
@@ -3037,6 +3089,24 @@
       "duration_ms": 251865,
       "name": "Whale Song",
       "url": "https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN"
+    },
+    {
+      "album": {
+        "name": "Whistleman EP",
+        "url": "https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479920,
+      "name": "Whistleman",
+      "url": "https://open.spotify.com/track/386PnZfbszq42M8GprZnVt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Our editors’ picks for the best of R&B in Canada in 2022\. Cover: dvsn \#SpotifyWrapped
 
-199 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/1GcWFiDe4JYAu3RXzjkMur)
+200 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/1GcWFiDe4JYAu3RXzjkMur)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-11-30 |  |
 | [I Like Dat](https://open.spotify.com/track/7KrlNS2VqiNNJ82RMQdxBn) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [I Like Dat](https://open.spotify.com/album/6tFOjuF74joX0RHbimAZp3) | 4:02 | 2021-12-09 | 2022-12-01 |
 | [If I Get Caught](https://open.spotify.com/track/6892fBwoGTnjQD9z41PnNg) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/11LYtfhFQqoEsnTRgWtBSM) | 3:06 | 2022-11-30 | 2023-01-01 |
-| [If I Get Caught](https://open.spotify.com/track/6VfRcO1x3TLWYgR6Iu3rQe) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [No Idea: Rap R'n'B](https://open.spotify.com/album/7FxxhoMQD4bDTlpFddkDEx) | 3:06 | 2022-11-30 |  |
+| [If I Get Caught](https://open.spotify.com/track/6VfRcO1x3TLWYgR6Iu3rQe) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [No Idea: Rap R'n'B](https://open.spotify.com/album/7FxxhoMQD4bDTlpFddkDEx) | 3:06 | 2022-11-30 | 2023-01-02 |
+| [If I Get Caught](https://open.spotify.com/track/6lBGE25FdHaViP8W6PNoPc) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [If I Get Caught](https://open.spotify.com/album/11L8LFSFSqP4vs4GrbGke4) | 3:06 | 2022-11-30 |  |
 | [Immature](https://open.spotify.com/track/6pCM4QZOv17vjMAMRPrG5v) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG) | 2:53 | 2022-11-30 |  |
 | [In The Bible \(with Lil Durk & Giveon\)](https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:56 | 2021-12-09 | 2022-12-01 |
 | [In The Dark \(with Jhené Aiko\)](https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 2:41 | 2021-12-09 | 2022-12-01 |

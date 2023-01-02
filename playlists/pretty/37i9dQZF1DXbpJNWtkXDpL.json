@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Presentamos a nuestros artista Radar M\u00e9xico 2022!",
-  "num_followers": 64751,
+  "num_followers": 64813,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjMzNjkyMiwwMDAwMDAwMDc2ODYxYTUyNTU3MTczZmE5ZjJiNmUzZGE4NGNiZjlm",
+  "snapshot_id": "MTY3MjMzNjkyMiwwMDAwMDAwMDY2ZWFiODI3NDMzNGY5MWI0NzI1ODYwZjUzMmRiMDg4",
   "tracks": [
     {
       "added_at": "2022-09-09 02:13:33",
@@ -41,20 +41,20 @@
       "url": "https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48"
     },
     {
-      "added_at": "2022-08-01 05:00:00",
+      "added_at": "2022-12-22 01:27:37",
       "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
         }
       ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+      "duration_ms": 153062,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
     },
     {
       "added_at": "2022-11-08 20:55:16",
@@ -161,22 +161,6 @@
       "url": "https://open.spotify.com/track/5VRgxExRbT1jpwNw89rMEd"
     },
     {
-      "added_at": "2022-12-22 01:27:37",
-      "album": {
-        "name": "Gatita",
-        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 153062,
-      "name": "Gatita",
-      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
-    },
-    {
       "added_at": "2022-05-13 21:33:14",
       "album": {
         "name": "Obsessed (Deluxe)",
@@ -209,6 +193,22 @@
       "url": "https://open.spotify.com/track/03NjizgksFxcj3JpxLh3vn"
     },
     {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 124589,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
+    },
+    {
       "added_at": "2022-06-20 16:54:02",
       "album": {
         "name": "Lo Que Construimos",
@@ -223,6 +223,22 @@
       "duration_ms": 219222,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
+    },
+    {
+      "added_at": "2022-08-01 05:00:00",
+      "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
       "added_at": "2022-08-01 05:00:00",
@@ -255,22 +271,6 @@
       "duration_ms": 189750,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 124589,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -711,8 +711,8 @@
     {
       "added_at": "2022-06-07 05:00:00",
       "album": {
-        "name": "Rep\u00edtelo",
-        "url": "https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3"
+        "name": "Mala Man\u00eda",
+        "url": "https://open.spotify.com/album/4eZbwhYczFU1dPCnnAmqSs"
       },
       "artists": [
         {
@@ -720,13 +720,17 @@
           "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
         },
         {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 201066,
-      "name": "Rep\u00edtelo",
-      "url": "https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX"
+      "duration_ms": 203893,
+      "name": "Mala Man\u00eda",
+      "url": "https://open.spotify.com/track/3pik0x3rCS47RC649NRAq5"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -871,8 +875,8 @@
     {
       "added_at": "2022-06-07 05:00:00",
       "album": {
-        "name": "Mala Man\u00eda",
-        "url": "https://open.spotify.com/album/4eZbwhYczFU1dPCnnAmqSs"
+        "name": "Rep\u00edtelo",
+        "url": "https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3"
       },
       "artists": [
         {
@@ -880,17 +884,13 @@
           "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
         },
         {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
         }
       ],
-      "duration_ms": 203893,
-      "name": "Mala Man\u00eda",
-      "url": "https://open.spotify.com/track/3pik0x3rCS47RC649NRAq5"
+      "duration_ms": 201066,
+      "name": "Rep\u00edtelo",
+      "url": "https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX"
     },
     {
       "added_at": "2022-05-13 21:33:14",

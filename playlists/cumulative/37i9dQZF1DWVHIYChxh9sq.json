@@ -2488,6 +2488,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Desde las Ca\u00f1as",
+        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209195,
+      "name": "El Palomito - En Vivo",
+      "url": "https://open.spotify.com/track/0tpXFcqhDDntEDMPwGMOXE"
+    },
+    {
+      "album": {
         "name": "\u79c1\u4eba\u6d3e\u5bf9 (En Vivo)",
         "url": "https://open.spotify.com/album/3CxA9gHxoslPOQbryRRyam"
       },
@@ -5023,7 +5041,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 208842,
       "name": "Prenda Querida - En Vivo",
       "url": "https://open.spotify.com/track/4S5jpsXo0KGT73gMqGEWzy"

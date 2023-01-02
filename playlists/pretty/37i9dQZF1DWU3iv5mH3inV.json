@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: El Alfa",
-  "num_followers": 72666,
+  "num_followers": 72746,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI5Njc2OSwwMDAwMDAwMDk0ODdkMzQyMTY4YjExOTUxZWFkYjBkYmY3MDNlNWZh",
+  "snapshot_id": "MTY3MjI5Njc2OSwwMDAwMDAwMDU0ZWQ5MDVhZTI4MzA5MzFmODdhZDkyZGEyMTJhMjkw",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
     },
     {
-      "added_at": "2023-01-01 01:06:07",
+      "added_at": "2023-01-02 01:00:12",
       "album": {
         "name": "El Toro",
         "url": "https://open.spotify.com/album/31TLZhqZdOT2HVrh5b9rrH"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/1mISgMoXw5fKI3ESj03tPd"
     },
     {
-      "added_at": "2023-01-01 01:06:07",
+      "added_at": "2023-01-02 01:00:12",
       "album": {
         "name": "Hay Santo",
         "url": "https://open.spotify.com/album/2jlvqgwdqIpqpuYGv1JdJ2"
@@ -219,30 +219,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Carbon Fiber Hits",
-        "url": "https://open.spotify.com/album/2Uld8jdkYagsj9j7xBom0T"
-      },
-      "artists": [
-        {
-          "name": "Carbon Fiber Music",
-          "url": "https://open.spotify.com/artist/7akJAsqIpakhpXpWEUSEGX"
-        },
-        {
-          "name": "Lary Over",
-          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
-        },
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 224018,
-      "name": "Subete",
-      "url": "https://open.spotify.com/track/4OOlKNTQISagv0nsofvySZ"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Traag",
         "url": "https://open.spotify.com/album/5MHVtiFIv6DASkrHsgbOXE"
       },
@@ -263,6 +239,30 @@
       "duration_ms": 189619,
       "name": "Traag",
       "url": "https://open.spotify.com/track/5fySAmiBZEILTlSwo8n4Wi"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Carbon Fiber Hits",
+        "url": "https://open.spotify.com/album/2Uld8jdkYagsj9j7xBom0T"
+      },
+      "artists": [
+        {
+          "name": "Carbon Fiber Music",
+          "url": "https://open.spotify.com/artist/7akJAsqIpakhpXpWEUSEGX"
+        },
+        {
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+        },
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "duration_ms": 224018,
+      "name": "Subete",
+      "url": "https://open.spotify.com/track/4OOlKNTQISagv0nsofvySZ"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Y Ya Tu Sabe Klk",
+        "url": "https://open.spotify.com/album/0Ky59Xxja0vkUT0WS0tZZf"
+      },
+      "artists": [
+        {
+          "name": "Los Teke Teke",
+          "url": "https://open.spotify.com/artist/2aFsWgI7uUdQlJtR1OF5wl"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "El Teke Teke",
+      "url": "https://open.spotify.com/track/0EJMCMFG7uRPRn3K4pTb1v"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Bye Bye (feat. Chimbala and Liro Shaq)",
         "url": "https://open.spotify.com/album/7juaBYswyufzydPt0016zv"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 196746,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/1CFICGHfnZH6tXVKIYtYJp"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Y Ya Tu Sabe Klk",
-        "url": "https://open.spotify.com/album/0Ky59Xxja0vkUT0WS0tZZf"
-      },
-      "artists": [
-        {
-          "name": "Los Teke Teke",
-          "url": "https://open.spotify.com/artist/2aFsWgI7uUdQlJtR1OF5wl"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "El Teke Teke",
-      "url": "https://open.spotify.com/track/0EJMCMFG7uRPRn3K4pTb1v"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Dominican Playero 40",
+        "url": "https://open.spotify.com/album/2eoQDJb2fNXkuBfWPANoJe"
+      },
+      "artists": [
+        {
+          "name": "RMT",
+          "url": "https://open.spotify.com/artist/7xkWWYrajypGr7Kq04zgA7"
+        }
+      ],
+      "duration_ms": 201039,
+      "name": "Dominican Playero 40",
+      "url": "https://open.spotify.com/track/7ABFA1oWDw1W4BHHTrRCsF"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Flyte",
         "url": "https://open.spotify.com/album/1oU2I4CFdemDR3aMtllc4h"
       },
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Dominican Playero 40",
-        "url": "https://open.spotify.com/album/2eoQDJb2fNXkuBfWPANoJe"
-      },
-      "artists": [
-        {
-          "name": "RMT",
-          "url": "https://open.spotify.com/artist/7xkWWYrajypGr7Kq04zgA7"
-        }
-      ],
-      "duration_ms": 201039,
-      "name": "Dominican Playero 40",
-      "url": "https://open.spotify.com/track/7ABFA1oWDw1W4BHHTrRCsF"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Tan Celoso",
         "url": "https://open.spotify.com/album/1uuMYxzekYHiR7GS1dRHfP"
       },
@@ -1187,26 +1187,6 @@
       "duration_ms": 162847,
       "name": "Tan Celoso",
       "url": "https://open.spotify.com/track/4KpvbpBLnw9fYkruj7nE85"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "En Cuota",
-        "url": "https://open.spotify.com/album/4YLdRugPDuQvaZ5i59qRKw"
-      },
-      "artists": [
-        {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        }
-      ],
-      "duration_ms": 182924,
-      "name": "En Cuota",
-      "url": "https://open.spotify.com/track/576ZvZ4tmOoWdieoDh8tlz"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1227,6 +1207,26 @@
       "duration_ms": 223026,
       "name": "Que Se Mueran de Envidia - Remix",
       "url": "https://open.spotify.com/track/756lNtYctOWwsFwrcAwQ0X"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "En Cuota",
+        "url": "https://open.spotify.com/album/4YLdRugPDuQvaZ5i59qRKw"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "duration_ms": 182924,
+      "name": "En Cuota",
+      "url": "https://open.spotify.com/track/576ZvZ4tmOoWdieoDh8tlz"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Lava Urbana 2018",
+        "url": "https://open.spotify.com/album/18kVz52nMnczVM4Sj26527"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Rapidito",
+      "url": "https://open.spotify.com/track/3ZJ1F8QrGVN6uz9HTF4Mrg"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "MANDA LA UBI",
         "url": "https://open.spotify.com/album/4xBxE3eoLkI5n4gH5Jni8P"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 234075,
       "name": "MANDA LA UBI",
       "url": "https://open.spotify.com/track/2S87nHmmhCD3qsKLwcCU74"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Lava Urbana 2018",
-        "url": "https://open.spotify.com/album/18kVz52nMnczVM4Sj26527"
-      },
-      "artists": [
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Rapidito",
-      "url": "https://open.spotify.com/track/3ZJ1F8QrGVN6uz9HTF4Mrg"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1559,6 +1559,34 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "El Que No Salta Es Paco (Remix)",
+        "url": "https://open.spotify.com/album/1JQPIPt2Ml2ALdzYUNMfLc"
+      },
+      "artists": [
+        {
+          "name": "El Futuro Fuera De Orbita",
+          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
+        },
+        {
+          "name": "Carlitos Junior",
+          "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
+        },
+        {
+          "name": "Kiddtetoon",
+          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
+        },
+        {
+          "name": "Tracy McGrady",
+          "url": "https://open.spotify.com/artist/1hIultpwJP5CAVoT4qeNGH"
+        }
+      ],
+      "duration_ms": 248209,
+      "name": "El Que No Salta Es Paco - Remix",
+      "url": "https://open.spotify.com/track/5WXnRHsxuuTKVzEbLT1Lnn"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Desacatate",
         "url": "https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV"
       },
@@ -1619,34 +1647,6 @@
       "duration_ms": 247301,
       "name": "El Mario de Tu Mujer",
       "url": "https://open.spotify.com/track/2CC8kheTSKvDiNbJsRMvBU"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "El Que No Salta Es Paco (Remix)",
-        "url": "https://open.spotify.com/album/1JQPIPt2Ml2ALdzYUNMfLc"
-      },
-      "artists": [
-        {
-          "name": "El Futuro Fuera De Orbita",
-          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
-        },
-        {
-          "name": "Carlitos Junior",
-          "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
-        },
-        {
-          "name": "Kiddtetoon",
-          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
-        },
-        {
-          "name": "Tracy McGrady",
-          "url": "https://open.spotify.com/artist/1hIultpwJP5CAVoT4qeNGH"
-        }
-      ],
-      "duration_ms": 248209,
-      "name": "El Que No Salta Es Paco - Remix",
-      "url": "https://open.spotify.com/track/5WXnRHsxuuTKVzEbLT1Lnn"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Engorilao",
-        "url": "https://open.spotify.com/album/3WiRJmN1HBpn4Rd9UX2K2d"
-      },
-      "artists": [
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        }
-      ],
-      "duration_ms": 155107,
-      "name": "Engorilao",
-      "url": "https://open.spotify.com/track/5s41yFuX41Qom3b1fEKrhf"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Mr Brum Brum",
         "url": "https://open.spotify.com/album/1mQTVVmy6EUp67GjRD2h40"
       },
@@ -1751,18 +1735,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Yo Quiero",
-        "url": "https://open.spotify.com/album/0TEF2jy79sijA5qNVtqHII"
+        "name": "Engorilao",
+        "url": "https://open.spotify.com/album/3WiRJmN1HBpn4Rd9UX2K2d"
       },
       "artists": [
         {
-          "name": "Sarodj",
-          "url": "https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F"
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
         }
       ],
-      "duration_ms": 134237,
-      "name": "Yo Quiero",
-      "url": "https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY"
+      "duration_ms": 155107,
+      "name": "Engorilao",
+      "url": "https://open.spotify.com/track/5s41yFuX41Qom3b1fEKrhf"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1807,6 +1791,38 @@
       "duration_ms": 218487,
       "name": "La Gente Ta' Loca - Remix",
       "url": "https://open.spotify.com/track/1xnkJ7O4Sz7D6vxPyjZkQt"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Yo Quiero",
+        "url": "https://open.spotify.com/album/0TEF2jy79sijA5qNVtqHII"
+      },
+      "artists": [
+        {
+          "name": "Sarodj",
+          "url": "https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "Yo Quiero",
+      "url": "https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Hoy Me Desacato Dale Pipo",
+        "url": "https://open.spotify.com/album/1HkcysDSgRBGuPZoTvoMIn"
+      },
+      "artists": [
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        }
+      ],
+      "duration_ms": 162482,
+      "name": "Hoy Me Desacato Dale Pipo",
+      "url": "https://open.spotify.com/track/0q4DQ6tvmFhpQZFdcJLV1K"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1859,22 +1875,6 @@
       "duration_ms": 189840,
       "name": "Dominican Playero",
       "url": "https://open.spotify.com/track/4BTE1TBTl3GUAR4JNYjhU5"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Hoy Me Desacato Dale Pipo",
-        "url": "https://open.spotify.com/album/1HkcysDSgRBGuPZoTvoMIn"
-      },
-      "artists": [
-        {
-          "name": "Bulova",
-          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
-        }
-      ],
-      "duration_ms": 162482,
-      "name": "Hoy Me Desacato Dale Pipo",
-      "url": "https://open.spotify.com/track/0q4DQ6tvmFhpQZFdcJLV1K"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2127,6 +2127,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/7p9lBLA0o9JnxOgosUZlLJ"
+      },
+      "artists": [
+        {
+          "name": "Pablo Piddy",
+          "url": "https://open.spotify.com/artist/4ezBKqi9gOB2jt9OUw2cmc"
+        }
+      ],
+      "duration_ms": 199615,
+      "name": "Me Tienen Dema (Golo Golo)",
+      "url": "https://open.spotify.com/track/6y9VN5ngWahRxk7xv7sQru"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Subela Aqui",
         "url": "https://open.spotify.com/album/4S8T6qvnweIUBOhhl0Yrto"
       },
@@ -2151,22 +2167,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/7p9lBLA0o9JnxOgosUZlLJ"
-      },
-      "artists": [
-        {
-          "name": "Pablo Piddy",
-          "url": "https://open.spotify.com/artist/4ezBKqi9gOB2jt9OUw2cmc"
-        }
-      ],
-      "duration_ms": 199615,
-      "name": "Me Tienen Dema (Golo Golo)",
-      "url": "https://open.spotify.com/track/6y9VN5ngWahRxk7xv7sQru"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Pikilao",
         "url": "https://open.spotify.com/album/4WpNyKxMzO2NVseDzkaO0o"
       },
@@ -2183,22 +2183,6 @@
       "duration_ms": 160705,
       "name": "Pikilao",
       "url": "https://open.spotify.com/track/1USrz45gdBbu2OzpkFZPSI"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Favela",
-        "url": "https://open.spotify.com/album/3uQfNR0M6pGC1W30l0h7dE"
-      },
-      "artists": [
-        {
-          "name": "Denyerkin",
-          "url": "https://open.spotify.com/artist/6CeuGv4HZFxwZB1LyCBUjn"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "Favela",
-      "url": "https://open.spotify.com/track/14ZJHmV9qqB4Fhd40QFJz0"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2223,6 +2207,54 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Exito, Vol 1",
+        "url": "https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai"
+      },
+      "artists": [
+        {
+          "name": "Secreto \"El Famoso Biberon\"",
+          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
+        }
+      ],
+      "duration_ms": 201180,
+      "name": "Ponte Tu Chaleco",
+      "url": "https://open.spotify.com/track/5XXc4aGgZjunaqZPVR4GoR"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/3uQfNR0M6pGC1W30l0h7dE"
+      },
+      "artists": [
+        {
+          "name": "Denyerkin",
+          "url": "https://open.spotify.com/artist/6CeuGv4HZFxwZB1LyCBUjn"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/14ZJHmV9qqB4Fhd40QFJz0"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Ella Eh!",
+        "url": "https://open.spotify.com/album/1CnioHRF94vQ0xTSS0AW1c"
+      },
+      "artists": [
+        {
+          "name": "Crazy Design",
+          "url": "https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV"
+        }
+      ],
+      "duration_ms": 161346,
+      "name": "Ella Eh!",
+      "url": "https://open.spotify.com/track/23iuxSWGOfiAhuIK6SjFoS"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Ma Me Mi Mo Mu",
         "url": "https://open.spotify.com/album/3RS3rgFdBFjsOzxWhezRU3"
       },
@@ -2243,38 +2275,6 @@
       "duration_ms": 125193,
       "name": "Ma Me Mi Mo Mu",
       "url": "https://open.spotify.com/track/037ybKYibufTvNlUvf1Ut1"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Exito, Vol 1",
-        "url": "https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai"
-      },
-      "artists": [
-        {
-          "name": "Secreto \"El Famoso Biberon\"",
-          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
-        }
-      ],
-      "duration_ms": 201180,
-      "name": "Ponte Tu Chaleco",
-      "url": "https://open.spotify.com/track/5XXc4aGgZjunaqZPVR4GoR"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Ella Eh!",
-        "url": "https://open.spotify.com/album/1CnioHRF94vQ0xTSS0AW1c"
-      },
-      "artists": [
-        {
-          "name": "Crazy Design",
-          "url": "https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV"
-        }
-      ],
-      "duration_ms": 161346,
-      "name": "Ella Eh!",
-      "url": "https://open.spotify.com/track/23iuxSWGOfiAhuIK6SjFoS"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2583,26 +2583,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Una Movie",
-        "url": "https://open.spotify.com/album/6tNFpPVbnf9fRk2R78aBK4"
-      },
-      "artists": [
-        {
-          "name": "Rickstarr",
-          "url": "https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ"
-        },
-        {
-          "name": "JoeyTheGawd",
-          "url": "https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv"
-        }
-      ],
-      "duration_ms": 150471,
-      "name": "Una Movie",
-      "url": "https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Latin Hits 2016 Club Edition - 60 Latin Music Hits (Salsa, Bachata, Dembow, Merengue, Reggaeton, Urbano, Timba, Cubaton Kuduro, Latin Fitness)",
         "url": "https://open.spotify.com/album/1WiEQPrvuZjamAFzafoPy6"
       },
@@ -2631,6 +2611,26 @@
       "duration_ms": 182543,
       "name": "Guayabu",
       "url": "https://open.spotify.com/track/44od1fdb17U2rdvfGYJY68"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Una Movie",
+        "url": "https://open.spotify.com/album/6tNFpPVbnf9fRk2R78aBK4"
+      },
+      "artists": [
+        {
+          "name": "Rickstarr",
+          "url": "https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ"
+        },
+        {
+          "name": "JoeyTheGawd",
+          "url": "https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv"
+        }
+      ],
+      "duration_ms": 150471,
+      "name": "Una Movie",
+      "url": "https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2711,6 +2711,26 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "De Boca",
+        "url": "https://open.spotify.com/album/5nqB5knKXNhnLKENyB1jPg"
+      },
+      "artists": [
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        },
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        }
+      ],
+      "duration_ms": 183534,
+      "name": "De Boca",
+      "url": "https://open.spotify.com/track/2VaYsYUBZZfj8nLyQxnGCs"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Ando en 30",
         "url": "https://open.spotify.com/album/0kaO1SK6vJmRhLh11W2d6D"
       },
@@ -2751,22 +2771,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "De Boca",
-        "url": "https://open.spotify.com/album/5nqB5knKXNhnLKENyB1jPg"
+        "name": "Reverencia H\u00e1ganme",
+        "url": "https://open.spotify.com/album/1XTEetVuPgrjIVmwh3Z8RT"
       },
       "artists": [
         {
-          "name": "El Super Nuevo",
-          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
-        },
-        {
-          "name": "Bulova",
-          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+          "name": "El Rey Guevara",
+          "url": "https://open.spotify.com/artist/3G6kxVxikTndvEhPQBX45m"
         }
       ],
-      "duration_ms": 183534,
-      "name": "De Boca",
-      "url": "https://open.spotify.com/track/2VaYsYUBZZfj8nLyQxnGCs"
+      "duration_ms": 229368,
+      "name": "No Me Friso",
+      "url": "https://open.spotify.com/track/0kubltSGBsLjlAe9AzCvMQ"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2787,22 +2803,6 @@
       "duration_ms": 192313,
       "name": "Primero Que Kanye",
       "url": "https://open.spotify.com/track/6qEOJy5NL5tGGYxpj7dQZY"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Reverencia H\u00e1ganme",
-        "url": "https://open.spotify.com/album/1XTEetVuPgrjIVmwh3Z8RT"
-      },
-      "artists": [
-        {
-          "name": "El Rey Guevara",
-          "url": "https://open.spotify.com/artist/3G6kxVxikTndvEhPQBX45m"
-        }
-      ],
-      "duration_ms": 229368,
-      "name": "No Me Friso",
-      "url": "https://open.spotify.com/track/0kubltSGBsLjlAe9AzCvMQ"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2883,6 +2883,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Llevo la Vainita",
+        "url": "https://open.spotify.com/album/77uDtYXYbHgxQWvT7YCKAX"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "duration_ms": 162037,
+      "name": "Llevo la Vainita",
+      "url": "https://open.spotify.com/track/0PtuUiKPpQqEp2W4CasynB"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Cero Coro",
         "url": "https://open.spotify.com/album/6O86yEhkjwrI4LRfXilKd2"
       },
@@ -2899,22 +2915,6 @@
       "duration_ms": 170073,
       "name": "Cero Coro",
       "url": "https://open.spotify.com/track/6F3fByGnMXy8ZZ9Rp0WpWQ"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Llevo la Vainita",
-        "url": "https://open.spotify.com/album/77uDtYXYbHgxQWvT7YCKAX"
-      },
-      "artists": [
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        }
-      ],
-      "duration_ms": 162037,
-      "name": "Llevo la Vainita",
-      "url": "https://open.spotify.com/track/0PtuUiKPpQqEp2W4CasynB"
     },
     {
       "added_at": "2022-11-25 05:00:00",

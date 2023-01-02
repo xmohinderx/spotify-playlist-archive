@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,643 likes - 51 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,666 likes - 51 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 47 | [Make It Even](https://open.spotify.com/track/2L5TxrNsFXE5kD2lOxjTi8) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:29 |
 | 48 | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD) | 2:51 |
 | 49 | [Bottom of the Trap \(feat\. Icewear Vezzo & EST Gee\)](https://open.spotify.com/track/6PlWlDkvdyfiy9R5C52C3F) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Top 10 Trappers DOA](https://open.spotify.com/album/3iyEcyNBj7ZrniAgMzyqaK) | 2:54 |
-| 50 | [Paparazzi \(Yo Gotti, EST Gee feat\. Blac Youngsta\)](https://open.spotify.com/track/3YSD4sc3D05erIw9HOD8Q2) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 2:40 |
+| 50 | [7.62 God \(Reloaded\) \[feat\. EST Gee & BIG30\]](https://open.spotify.com/track/3vtDYruaEKSuep0ZgfAsHO) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Shiesty Season: Certified](https://open.spotify.com/album/2lTh3MtdESaC4jg5E82JEE) | 3:32 |
 | 51 | [Lurkin \(feat\. EST Gee\)](https://open.spotify.com/track/7hHKWHOXjtdlebhX7o4Gx6) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Lurkin \(feat\. EST Gee\)](https://open.spotify.com/album/5dYobmvNRqCCV9Mw90FAFM) | 2:19 |
 
-Snapshot ID: `Mjc4NzQ5MDAsMDAwMDAwMDA5YzE0OGEzNWJiOGIzN2VmYjcxYWYzMDExOGE1YzFjMQ==`
+Snapshot ID: `Mjc4NzYzNDMsMDAwMDAwMDBlMjhhODA4N2I3MjQ4NTM1NWE2NGE5MzAwMDVjNDNhMw==`

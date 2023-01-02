@@ -1,12 +1,12 @@
 {
   "description": "why is this game so hard goddamnit #SpotifyWrapped",
-  "num_followers": 3737,
+  "num_followers": 3824,
   "original_name": "dance tracks we smashed our controllers to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxOTgzOCwwMDAwMDAwMDEwODBiYTg1ZGRiNDU1ZGZiNjk3ZThlNTMzYmRhMGE0",
+  "snapshot_id": "MTY2OTgxOTgzOCwwMDAwMDAwMGMzZTRkZWE4NTI3MzM2N2ZhM2UxODMxZTgzMDVlNzc5",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "NECROMANCER EP",
-        "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
-      },
-      "artists": [
-        {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
-        },
-        {
-          "name": "GHASTLY",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "NECROMANCER",
-      "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "DISRUPTOR LP",
         "url": "https://open.spotify.com/album/2N9vEGNuEuqxG5rGBIKIME"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 166896,
       "name": "IMY",
       "url": "https://open.spotify.com/track/1AMhHu4zL3CGHHHqJhOyhV"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "NECROMANCER EP",
+        "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
+      },
+      "artists": [
+        {
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+        },
+        {
+          "name": "GHASTLY",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "NECROMANCER",
+      "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
     },
     {
       "added_at": "2022-11-30 13:46:00",

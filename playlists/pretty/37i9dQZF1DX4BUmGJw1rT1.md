@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,112 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,187 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 34 | [In From The Cold](https://open.spotify.com/track/2I8C3GvRQgmhBmbDAABokg) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Tough Love](https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP) | 6:08 |
 | 35 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
 | 36 | [Blues Music](https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [G\. Love And Special Sauce](https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek) | 4:15 |
-| 37 | [Last Forever](https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Last Forever](https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J) | 3:46 |
-| 38 | [Spoonful \- Single Version](https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb), [Harvey Fuqua](https://open.spotify.com/artist/0F577kU2Hk9gr4mAzK60tZ) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:47 |
+| 37 | [Spoonful \- Single Version](https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb), [Harvey Fuqua](https://open.spotify.com/artist/0F577kU2Hk9gr4mAzK60tZ) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:47 |
+| 38 | [Last Forever](https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Last Forever](https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J) | 3:46 |
 | 39 | [Sleep On It](https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sticking With It](https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95) | 3:02 |
 | 40 | [Salt In My Wounds](https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 4:13 |
 | 41 | [Pulling Down The Ride](https://open.spotify.com/track/1rFeL11BESHiNemWysu9eE) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/7hhxms8KCwlQCWffIJpN9b) | 2:40 |
@@ -63,17 +63,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 53 | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2) | 3:08 |
 | 54 | [Dry Run](https://open.spotify.com/track/4MGsxGqk5RSuwItODtVsEE) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 3:16 |
 | 55 | [Does Anybody Know](https://open.spotify.com/track/7HpL4czETBCPqzQhr97eR1) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA) | 3:28 |
-| 56 | [No Other Way](https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Sunny Side Up](https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b) | 4:25 |
-| 57 | [A Quitter Never Wins](https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Lie To Me](https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio) | 5:56 |
+| 56 | [A Quitter Never Wins](https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Lie To Me](https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio) | 5:56 |
+| 57 | [No Other Way](https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Sunny Side Up](https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b) | 4:25 |
 | 58 | [You and Your Friend](https://open.spotify.com/track/7LXxMApcyuh5A3sod0nV5s) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [On Every Street \(Remaster\)](https://open.spotify.com/album/0ORgLm6BMFVpLGS4Q5SKMZ) | 5:59 |
 | 59 | [Don't Explain](https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 4:34 |
 | 60 | [Set Me Free](https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB) | [Soulmate](https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk) | [Moving On](https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP) | 4:55 |
 | 61 | [Believe These Blues](https://open.spotify.com/track/1atDSd7gy75YurFKnV7ykE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 4:24 |
 | 62 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 |
-| 63 | [Stay High](https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO) | [solace](https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9) | [Stay High](https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY) | 1:53 |
-| 64 | [River](https://open.spotify.com/track/2nn2TnyajaSRTbcZQxYVL7) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [River](https://open.spotify.com/album/5Z8f8n8ljs1bIkXLCyxM5E) | 4:30 |
-| 65 | [Mystery Train](https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:24 |
-| 66 | [Lonely Fool](https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ) | [John Lyons](https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2) | [John Lyons Band](https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh) | 7:18 |
+| 63 | [River](https://open.spotify.com/track/2nn2TnyajaSRTbcZQxYVL7) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [River](https://open.spotify.com/album/5Z8f8n8ljs1bIkXLCyxM5E) | 4:30 |
+| 64 | [Stay High](https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO) | [solace](https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9) | [Stay High](https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY) | 1:53 |
+| 65 | [Lonely Fool](https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ) | [John Lyons](https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2) | [John Lyons Band](https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh) | 7:18 |
+| 66 | [Mystery Train](https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:24 |
 | 67 | [He Was a Friend of Mine](https://open.spotify.com/track/3gHUW8ZIHmC3rgImRIYIjn) | [Tom Freund](https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [He Was a Friend of Mine](https://open.spotify.com/album/2TRKsCcvGeQYjl2V57Vcj8) | 3:17 |
 | 68 | [It Hurts Me Too](https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Precious Little](https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN) | 4:49 |
 | 69 | [Falling](https://open.spotify.com/track/30h268bCKmGWxFleXGYATy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Juice Me Up](https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha) | 5:03 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 97 | [Ex's House Party](https://open.spotify.com/track/0eTbwl7KzaUDsMwbQCcAcp) | [Elizabeth Moen](https://open.spotify.com/artist/3asn1tEPhRNjVd48GXOo1N) | [Wherever You Aren't](https://open.spotify.com/album/4KwhVr9nLyGgJT2qf54fDc) | 4:39 |
 | 98 | [Destiny](https://open.spotify.com/track/1DCEVuEd08YnKNeuN5dfDF) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI) | 5:17 |
 | 99 | [Downtown](https://open.spotify.com/track/4dzu4NhhokRDXA8SpR4egQ) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Downtown](https://open.spotify.com/album/0nMJLE97CCbuE9KivHRBle) | 3:42 |
-| 100 | [Fireman](https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Hard to Kill](https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P) | 3:27 |
+| 100 | [Honeycomb](https://open.spotify.com/track/6IfSKUayA6YpNLVtfsEDrc) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw) | 2:57 |
 
-Snapshot ID: `MTY3MTYzOTg0OSwwMDAwMDAwMGFjMmNiNTJiMTczYWY0ZGMyZTI2OTQyZTZlZGRhNTkx`
+Snapshot ID: `MTY3MTYzOTg0OSwwMDAwMDAwMGFiYWNiZDU4ZDVlYzU0ZWUyYzUxZWNjOGRiZTBlM2Rl`

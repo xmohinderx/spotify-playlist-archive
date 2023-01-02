@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 
 > Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. トップアイドルを目指す少女達の物語、<a href="http://www.aikatsu.net/01/">アイカツ！</a>の煌めく世界へ。\(C\)BNP/BANDAI, DENTSU, TV TOKYO
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,027 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,032 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 13 | [オトナモード](https://open.spotify.com/track/5OlSDVw73oA175E4eBwJHZ) | [りすこ・もな from STAR☆ANIS](https://open.spotify.com/artist/6DqNY6UBmepUTJylVFIiva) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS8](https://open.spotify.com/album/532eAwNEHArrJe9zqLgawh) | 3:58 |
 | 14 | [Shiny day](https://open.spotify.com/track/5p4SyNJHFOkY7zTjUNtOqi) | [舞桜 from STARRY PLANET☆](https://open.spotify.com/artist/2SRrKpFyZQlcZpKguNFXEu), [らき from BEST FRIENDS!](https://open.spotify.com/artist/6rJjAKdKS0aH7G0a1nT9K5), [あいね from BEST FRIENDS!](https://open.spotify.com/artist/3V19PPW9AbnRrNHQMmwAw3), [みお from BEST FRIENDS!](https://open.spotify.com/artist/7yCtHmaXb2JMePfcu2Vj67), [わか](https://open.spotify.com/artist/1zh5yvO4dDoZiGru8W7J3n), [るか](https://open.spotify.com/artist/7rCYAf0qUImNs8pqy04vzl), [せな](https://open.spotify.com/artist/51TXbLF8L4u8mhKSiyQ6bd), [れみ](https://open.spotify.com/artist/6Bi0J8wt4LKKhe97JIk4l5), [みき](https://open.spotify.com/artist/1qXzl19TBKdkjXKMOaqDSZ) | [アイカツ!シリーズ 10th Anniversary Album Vol.01「Ring Ring Carnival」](https://open.spotify.com/album/1QvMF8zo4vYf1eidom6ttu) | 3:35 |
 | 15 | [硝子ドール](https://open.spotify.com/track/6rwa5QTCeA2eR7GFYFxDM7) | [もえ・すなお from STAR☆ANIS](https://open.spotify.com/artist/2404HKaozvQG02hkzZ8iFz) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 6:26 |
-| 16 | [LOVE GAME](https://open.spotify.com/track/5xuhxP7ZLgO92LlyKgKPE9) | [もな・ななせ from AIKATSU☆STARS!](https://open.spotify.com/artist/1aLy1uvFmETw6GLgTpiqxU) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 4年目](https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT) | 4:19 |
+| 16 | [START DASH SENSATION](https://open.spotify.com/track/1uPdTnKqdbXQTkDJLr1OVO) | [るか・もな・みき from AIKATSU☆STARS!](https://open.spotify.com/artist/6SlV2XvL2mIbMC3AQKAvU6) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS12](https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk) | 4:43 |
 | 17 | [いばらの女王](https://open.spotify.com/track/4Y2uO5rzu5UENvKvFNClQS) | [もな from AIKATSU☆STARS!](https://open.spotify.com/artist/4VPREigW2d9IB5D8xZEZw9) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 4年目](https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT) | 4:05 |
-| 18 | [START DASH SENSATION](https://open.spotify.com/track/1uPdTnKqdbXQTkDJLr1OVO) | [るか・もな・みき from AIKATSU☆STARS!](https://open.spotify.com/artist/6SlV2XvL2mIbMC3AQKAvU6) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS12](https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk) | 4:43 |
+| 18 | [LOVE GAME](https://open.spotify.com/track/5xuhxP7ZLgO92LlyKgKPE9) | [もな・ななせ from AIKATSU☆STARS!](https://open.spotify.com/artist/1aLy1uvFmETw6GLgTpiqxU) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 4年目](https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT) | 4:19 |
 | 19 | [笑顔のSuncatcher](https://open.spotify.com/track/5gQnhMPISlQItA7Fj8tSAP) | [りすこ・もな from STAR☆ANIS](https://open.spotify.com/artist/6DqNY6UBmepUTJylVFIiva) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS8](https://open.spotify.com/album/532eAwNEHArrJe9zqLgawh) | 4:50 |
 | 20 | [KIRA☆Power](https://open.spotify.com/track/7nKlMQ0praIT4Q8T0KNz8e) | [わか・ふうり・すなお from STAR☆ANIS](https://open.spotify.com/artist/0xzkx0ukfziouCZGRJ54Tx) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS12](https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk) | 4:47 |
 | 21 | [Angel Snow](https://open.spotify.com/track/1pRb5IciSded4aNxDD8AJZ) | [れみ from STAR☆ANIS](https://open.spotify.com/artist/52g1qfRaPKmk3L4CTEH7Ec) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS6](https://open.spotify.com/album/3A3hNMSWlGtOWnN5OeAyYw) | 3:36 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 47 | [ひとりじゃない! \- あいね & みお ver.](https://open.spotify.com/track/66ITNhiFXDfXRZh33dWO7p) | [あいね from BEST FRIENDS!](https://open.spotify.com/artist/3V19PPW9AbnRrNHQMmwAw3), [みお from BEST FRIENDS!](https://open.spotify.com/artist/7yCtHmaXb2JMePfcu2Vj67) | [アイカツ!シリーズ 10th Anniversary Album Vol.02「Pure Sweet Harmony」](https://open.spotify.com/album/0s4s4OoWbvfLgiCnp07JAZ) | 4:01 |
 | 48 | [アイドル活動! \- \(Ver\. Rock\)](https://open.spotify.com/track/0yhm2K9LZ1xibh8xGV7DNZ) | [わか・ふうり from STAR☆ANIS](https://open.spotify.com/artist/0PZJ3espREBVEYDIypZoBI) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS5](https://open.spotify.com/album/6IgXVSugxE7VjOSLgqG7hm) | 3:55 |
 | 49 | [エメラルドの魔法](https://open.spotify.com/track/1JXAl9MwdtZ7BslRGnha5w) | [もな・るか from AIKATSU☆STARS!](https://open.spotify.com/artist/1LhrSnQQWTEvZ5AhqFUoGc) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS9](https://open.spotify.com/album/32XLP5WOPpnRg24tRlV2Mt) | 4:14 |
-| 50 | [放課後ポニーテール](https://open.spotify.com/track/3xiGIhBilgostXej4XQXdm) | [れみ from STAR☆ANIS](https://open.spotify.com/artist/52g1qfRaPKmk3L4CTEH7Ec) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 4:32 |
+| 50 | [Passion flower](https://open.spotify.com/track/0pHogoLzFML9lvNt9djEeX) | [みほ・もな from AIKATSU☆STARS!](https://open.spotify.com/artist/4G8qvuUPtCtS7N5lh8ff6T) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS10](https://open.spotify.com/album/2dfuyEpPYmfXIF5CPerVFn) | 4:38 |
 
-Snapshot ID: `MTY1ODg1MjIxNiwwMDAwMDAwMDBmM2JmNGUxZjUwY2M2MmU1MDhmMDAzZTgwY2RjNjIw`
+Snapshot ID: `MTY1ODg1MjIxNiwwMDAwMDAwMDVmZDE2YzFkNGFlN2E0MDYwNzcxNGNjNDhhYjNkZmI1`

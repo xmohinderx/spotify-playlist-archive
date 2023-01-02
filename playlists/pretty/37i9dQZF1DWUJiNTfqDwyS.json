@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 211206,
+  "num_followers": 211456,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGU3NzAyZTdiNWM2ZDdiYjcyMjMzMjExZThmMzIwMjU2",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDQ1ZmVlZDY4MjNmZDJhNDA1NWZjOTc5YjAwYWI5MzA5",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Meanwhile in Burbank...",
-        "url": "https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 395683,
-      "name": "Creeping Death",
-      "url": "https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "The Burning Red",
         "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 211973,
       "name": "Message in a Bottle",
       "url": "https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Meanwhile in Burbank...",
+        "url": "https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 395683,
+      "name": "Creeping Death",
+      "url": "https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Human (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2bzV4j7nfY676RDSmxs0rc"
-      },
-      "artists": [
-        {
-          "name": "Death",
-          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "God of Thunder",
-      "url": "https://open.spotify.com/track/1nkGGFxYkC4JQRvTF80zDo"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Riddles, Ruins & Revelations",
         "url": "https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 258564,
       "name": "Voyage Voyage",
       "url": "https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Graveyard Classics",
+        "url": "https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV"
+      },
+      "artists": [
+        {
+          "name": "Six Feet Under",
+          "url": "https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI"
+        }
+      ],
+      "duration_ms": 208533,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Graveyard Classics",
-        "url": "https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV"
+        "name": "Human (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2bzV4j7nfY676RDSmxs0rc"
       },
       "artists": [
         {
-          "name": "Six Feet Under",
-          "url": "https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI"
+          "name": "Death",
+          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
         }
       ],
-      "duration_ms": 208533,
-      "name": "TNT",
-      "url": "https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP"
+      "duration_ms": 240693,
+      "name": "God of Thunder",
+      "url": "https://open.spotify.com/track/1nkGGFxYkC4JQRvTF80zDo"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Hidden Treasures",
-        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "No More Mr. Nice Guy",
-      "url": "https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Mein Herz brennt",
         "url": "https://open.spotify.com/album/7LTkkXUFpOIbFPUUki9bUu"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 281373,
       "name": "Mein Herz brennt",
       "url": "https://open.spotify.com/track/2LcFM0W0vrNtpJB9GcQphU"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Hidden Treasures",
+        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "No More Mr. Nice Guy",
+      "url": "https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Renegades",
-        "url": "https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM"
-      },
-      "artists": [
-        {
-          "name": "36 Crazyfists",
-          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Renegades",
-      "url": "https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Medium Rarities",
         "url": "https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 217452,
       "name": "Livin' la Vida Loca - Cover",
       "url": "https://open.spotify.com/track/3v6ji8IE3AXlBeHK3vwJTc"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Renegades",
+        "url": "https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM"
+      },
+      "artists": [
+        {
+          "name": "36 Crazyfists",
+          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Renegades",
+      "url": "https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP"
     },
     {
       "added_at": "2022-12-16 05:00:00",

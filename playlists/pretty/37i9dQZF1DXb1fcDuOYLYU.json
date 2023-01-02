@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Women's History Month with these powerful voices. Cover: Greeicy",
-  "num_followers": 23756,
+  "num_followers": 23780,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMGEzOWYwZmZhZGI5ZTljNGRkMDg5OThkYmZlY2EyMzQz",
+  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMGIyNmE0N2VlNDdiMDkwYmNiNjhkOWI4NjFiMWFmODA5",
   "tracks": [
     {
       "added_at": "2022-03-28 14:23:43",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
         "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
@@ -351,18 +367,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+        "name": "Sin Pijama",
+        "url": "https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         }
       ],
-      "duration_ms": 278866,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+      "duration_ms": 188560,
+      "name": "Sin Pijama",
+      "url": "https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -387,26 +407,6 @@
       "duration_ms": 265240,
       "name": "LOCATION",
       "url": "https://open.spotify.com/track/5Km4r87BoX2qqtoprYS1gh"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Sin Pijama",
-        "url": "https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Sin Pijama",
-      "url": "https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "La Carta",
-        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 198413,
-      "name": "T\u00f3xico",
-      "url": "https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "La Negra Tiene Tumbao",
         "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 253346,
       "name": "La Negra Tiene Tumbao",
       "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 198413,
+      "name": "T\u00f3xico",
+      "url": "https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Aire (Versi\u00f3n D\u00eda)",
-        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 207653,
-      "name": "Lo Nuestro Vale M\u00e1s",
-      "url": "https://open.spotify.com/track/2aKUQcjDFLAPKeb5GrRiHB"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Dicen Que Soy",
         "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 280013,
       "name": "Ese Hombre",
       "url": "https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Aire (Versi\u00f3n D\u00eda)",
+        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 207653,
+      "name": "Lo Nuestro Vale M\u00e1s",
+      "url": "https://open.spotify.com/track/2aKUQcjDFLAPKeb5GrRiHB"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 228635,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Pa Ti + Lonely",
         "url": "https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 229549,
       "name": "Pa Ti (For You)",
       "url": "https://open.spotify.com/track/2wUgG5Fr9PQcIbKRfVJ76C"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 228635,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Extranjera",
-        "url": "https://open.spotify.com/album/4nw8mW9zWzm6mtD0UXeqJK"
-      },
-      "artists": [
-        {
-          "name": "Claudia Prieto",
-          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Extranjera",
-      "url": "https://open.spotify.com/track/2mffDxSjRPov1vMXTPGy9i"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Flow Calle",
         "url": "https://open.spotify.com/album/6sEaRr8ptd7vz5lbPY22f6"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 182500,
       "name": "FLOW CALLE",
       "url": "https://open.spotify.com/track/4ibaExE3ZbmzEuQMPxuBOr"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Extranjera",
+        "url": "https://open.spotify.com/album/4nw8mW9zWzm6mtD0UXeqJK"
+      },
+      "artists": [
+        {
+          "name": "Claudia Prieto",
+          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Extranjera",
+      "url": "https://open.spotify.com/track/2mffDxSjRPov1vMXTPGy9i"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 195810,
+      "name": "Odio",
+      "url": "https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Te Quiero Olvidar",
         "url": "https://open.spotify.com/album/4D0QCzQOyz43DJrItdlexR"
       },
@@ -2187,22 +2203,6 @@
       "duration_ms": 215257,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/0ICBEeLdqSaTgZ4AvvWwbe"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 195810,
-      "name": "Odio",
-      "url": "https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh"
     },
     {
       "added_at": "2022-03-28 14:23:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,049 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,121 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,17 +22,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 12 | [Rain](https://open.spotify.com/track/5n368tNF47S70THlmpaGLf) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Rain](https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ) | 3:57 |
 | 13 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 |
 | 14 | [Lyricist](https://open.spotify.com/track/1eEHOnrNLP46aGKLb1LtMI) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Lyricist](https://open.spotify.com/album/6igUyuDlRCyjoTtPXui6bT) | 3:16 |
-| 15 | [vacation](https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [vacation](https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV) | 3:35 |
-| 16 | [Thought Of You](https://open.spotify.com/track/71D25BGzsq5OxlENZnq9N0) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Thought Of You](https://open.spotify.com/album/0K90xZWqXh0XyozCkQXu13) | 3:50 |
+| 15 | [Thought Of You](https://open.spotify.com/track/71D25BGzsq5OxlENZnq9N0) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Thought Of You](https://open.spotify.com/album/0K90xZWqXh0XyozCkQXu13) | 3:50 |
+| 16 | [vacation](https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [vacation](https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV) | 3:35 |
 | 17 | [Feel Like Falling In Love](https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Because This Is My First Life \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy) | 3:14 |
 | 18 | [Give Me Your](https://open.spotify.com/track/39wNZpYE66vs3FlqMyhMYA) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 3:40 |
 | 19 | [NO WAY](https://open.spotify.com/track/0jA0TihvVbPHgrIcHbW1Og) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [G.Soul](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 4:16 |
 | 20 | [Da Ra Da](https://open.spotify.com/track/5oBCC0WlEcwvFb2m0vtqr3) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL), [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [B.O.](https://open.spotify.com/artist/5zMKnGCFow1P0wm4J2if8t) | [Da Ra Da](https://open.spotify.com/album/5AQgoMCw6ioH1YphjOgjYN) | 3:57 |
 | 21 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 |
 | 22 | [It’s a different thing to love her and make her happy \(feat\. jeebanoff\)](https://open.spotify.com/track/16b6NsiIrMo33mr5Q3oZuS) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [It’s a different thing to love her and make her happy \(feat\. jeebanoff\)](https://open.spotify.com/album/2kUvVgrFAkMf3Uc0VFdvWY) | 4:56 |
-| 23 | [Sipping My life \(Bonus Track\)](https://open.spotify.com/track/1ndZ37FOUNqW7PNWYJvPYk) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [INNER CHILD](https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg) | 3:46 |
-| 24 | [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 |
-| 25 | [Autumn Breeze](https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Autumn Breeze \(re;code Episode Ⅶ\)](https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj) | 3:39 |
+| 23 | [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 |
+| 24 | [Autumn Breeze](https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Autumn Breeze \(re;code Episode Ⅶ\)](https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj) | 3:39 |
+| 25 | [Sipping My life \(Bonus Track\)](https://open.spotify.com/track/1ndZ37FOUNqW7PNWYJvPYk) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [INNER CHILD](https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg) | 3:46 |
 | 26 | [Holiday](https://open.spotify.com/track/2EiYnN1JJem3mrzvs2IOGN) | [JeHwi](https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT) | [YUMI's Cells, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CqqZ9yXSWFitudW1r70sX) | 3:56 |
 | 27 | [Missing you](https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:32 |
 | 28 | [Love Encore \(with Lee Sora\)](https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:30 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 46 | [All That Jazz](https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BETTER \- The 10th Album](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) | 3:58 |
 | 47 | [Like A Bird](https://open.spotify.com/track/3CqVJAY7D3jLIILrb6yn9C) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[04\]](https://open.spotify.com/album/6zykT8r65vnyisuLsQCcwm) | 3:40 |
 | 48 | [잠들고 싶어\(zZ\)](https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC) | 3:37 |
-| 49 | [Awake \(Feat\. Sam Kim\)](https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Candy Pianist](https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5) | 4:19 |
-| 50 | [No Worries](https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [No Worries](https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU) | 2:54 |
+| 49 | [No Worries](https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [No Worries](https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU) | 2:54 |
+| 50 | [Awake \(Feat\. Sam Kim\)](https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Candy Pianist](https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5) | 4:19 |
 | 51 | [My Journey](https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [My Journey](https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG) | 3:23 |
 | 52 | [Better Man](https://open.spotify.com/track/7toNHOB0n7dnOfyBtsZaE4) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Paul Kim The First Album Part\. 1 ‘the Road’](https://open.spotify.com/album/5Yzku0R7REUKxNwL7CzLx8) | 3:32 |
 | 53 | [너는어때 \- Bossa Nova ver.](https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [너는어때](https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd) | 4:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 69 | [Rainy Apgujeong](https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm), [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Rainy Apgujeong](https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV) | 4:34 |
 | 70 | [Thermometer \- ON Team Version](https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 3:17 |
 
-Snapshot ID: `MTY3MjA0Njg1OCwwMDAwMDAwMDQ2ZWVlMThkYzI4NmVkZjM0ZTQ2ZThlYjI5NmZiNzIx`
+Snapshot ID: `MTY3MjA0Njg1OCwwMDAwMDAwMDgzN2I2N2JlMWMyMDFiYzk2YzIwMDllNzg2YjJkNGI3`

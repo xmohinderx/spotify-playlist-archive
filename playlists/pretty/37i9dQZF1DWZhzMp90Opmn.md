@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,460 likes - 238 songs - 12 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,328 likes - 238 songs - 12 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 | 131 | [Pink Noise for my Dreams](https://open.spotify.com/track/5lK6pipDunQ1g4YGcsighC) | [Acoustic Activity](https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb) | [Pink Noise Snooze](https://open.spotify.com/album/4zBsglZYkFKRLCrLUPu0cP) | 3:21 |
 | 132 | [Waves Of The Night](https://open.spotify.com/track/0DIB9i5oO3ZvOV6gImWDEq) | [Ambient Network](https://open.spotify.com/artist/7gDEVFSaJkRgEsy7vy8XdJ) | [Ambient Pink](https://open.spotify.com/album/6ROmF0FcSMakiN75LG7BkQ) | 3:06 |
 | 133 | [Halcyon Pink](https://open.spotify.com/track/4Tr9gx1fsA9VpilqHZABpc) | [Panoramia](https://open.spotify.com/artist/7j68r0RRJ2pdn6lh6Xhxn9) | [Pinksomnia](https://open.spotify.com/album/5ogQBNAiBaVC2zNRgDgdL4) | 3:12 |
-| 134 | [Pink Noise on the Mountain](https://open.spotify.com/track/1B3d73vcqNuQPYkZXELpUW) | [Sleep Sleep Sleep](https://open.spotify.com/artist/1OqVbmth0QR4OXPVPmIEyi) | [Pink Noise](https://open.spotify.com/album/3kSg0lHjBIc2wOsLpA6TSv) | 3:57 |
+| 134 | [Pink Noise on the Mountain](https://open.spotify.com/track/1B3d73vcqNuQPYkZXELpUW) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [Pink Noise](https://open.spotify.com/album/3kSg0lHjBIc2wOsLpA6TSv) | 3:57 |
 | 135 | [Digital Pink](https://open.spotify.com/track/3UhIr9Xg5DSa4G62TTG555) | [Sleeping Voyage](https://open.spotify.com/artist/7v3zY7R3YebusTme8ScaaX) | [Pink Atoms](https://open.spotify.com/album/64KvfDrtdvtL7K6PLBoFap) | 3:09 |
 | 136 | [Stormy Ocean Pink Noise](https://open.spotify.com/track/3VQ13NVz6w98nsg3YWJ8XG) | [Dream Birds](https://open.spotify.com/artist/6exdDygZZLI2xuOyLPCNnn) | [Oceans of Noise](https://open.spotify.com/album/2O3z9vxbbjBl1KmTJnFews) | 3:12 |
 | 137 | [Surrounded by Pink Noise](https://open.spotify.com/track/2sj5wfw7LJWebgQpIDzrRF) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Pink Noise for my Nap](https://open.spotify.com/album/5IFvsQC23wbGDu4r2tY5Xp) | 3:26 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos del pop y el rock interpretados con mariachi!",
-  "num_followers": 4702,
+  "num_followers": 4713,
   "original_name": "Mariachi Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMGU5ZTBhZDM2ZGE0MDAwNWE3ODlhMTk0NmE2ZDE4OTU4",
+  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMGNiNzQzNGM2NTAyZTdiYmZiYjVlZWFiODhiMTYyYjU0",
   "tracks": [
     {
       "added_at": "2021-07-28 19:40:38",
@@ -59,18 +59,22 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Mariachi Entertainment System",
-        "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
+        "name": "Vega [Street Fighter II]",
+        "url": "https://open.spotify.com/album/0nh7ZeiZYsW1JHIAmiwuTv"
       },
       "artists": [
         {
           "name": "Mariachi Entertainment System",
           "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
+        },
+        {
+          "name": "The OneUps",
+          "url": "https://open.spotify.com/artist/4kvAB828lg5b3M8aelIAQp"
         }
       ],
-      "duration_ms": 140250,
-      "name": "Dragon Roost Island (from \"The Legend of Zelda: Wind Waker\")",
-      "url": "https://open.spotify.com/track/1IwZ6sH6uw3B6Nt6xmBfl5"
+      "duration_ms": 159138,
+      "name": "Vega [Street Fighter II]",
+      "url": "https://open.spotify.com/track/2UEnNkf7ZHIY57yC1eOPOV"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -187,22 +191,18 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Vega [Street Fighter II]",
-        "url": "https://open.spotify.com/album/0nh7ZeiZYsW1JHIAmiwuTv"
+        "name": "Mariachi Entertainment System",
+        "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
       },
       "artists": [
         {
           "name": "Mariachi Entertainment System",
           "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
-        },
-        {
-          "name": "The OneUps",
-          "url": "https://open.spotify.com/artist/4kvAB828lg5b3M8aelIAQp"
         }
       ],
-      "duration_ms": 159138,
-      "name": "Vega [Street Fighter II]",
-      "url": "https://open.spotify.com/track/2UEnNkf7ZHIY57yC1eOPOV"
+      "duration_ms": 140250,
+      "name": "Dragon Roost Island (from \"The Legend of Zelda: Wind Waker\")",
+      "url": "https://open.spotify.com/track/1IwZ6sH6uw3B6Nt6xmBfl5"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -632,25 +632,9 @@
           "url": "https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb"
         }
       ],
-      "duration_ms": 239460,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/1NpOGQ6oXcZZrVhtHnf6Ii"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
-        "name": "Mariachi Entertainment System",
-        "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Entertainment System",
-          "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Dark World (from \u201cThe Legend of Zelda: A Link to the Past\")",
-      "url": "https://open.spotify.com/track/6sorbC4D7e4wEyjbP9bkdP"
+      "duration_ms": 237563,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/7oJceYpwUTWEpWWuR88G9z"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -667,6 +651,22 @@
       "duration_ms": 213936,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/7lzJGHFr3LJuKUsM0rtfMJ"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Mariachi Entertainment System",
+        "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Entertainment System",
+          "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Dark World (from \u201cThe Legend of Zelda: A Link to the Past\")",
+      "url": "https://open.spotify.com/track/6sorbC4D7e4wEyjbP9bkdP"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -815,18 +815,18 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Mariachi Entertainment System",
-        "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
+        "name": "Sonidos de Jalisco, Vol. 3",
+        "url": "https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m"
       },
       "artists": [
         {
-          "name": "Mariachi Entertainment System",
-          "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
+          "name": "Mariachi Rock-O",
+          "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
         }
       ],
-      "duration_ms": 192947,
-      "name": "Guardia Millenial Fair (from \"Chrono Trigger\")",
-      "url": "https://open.spotify.com/track/1YIYF9bKptGXXMKvJ6SrQx"
+      "duration_ms": 238160,
+      "name": "Sweet Caroline",
+      "url": "https://open.spotify.com/track/1qvshK9S8bSNnsHxDhYhiJ"
     }
   ],
   "unique_name": "Mariachi Covers",

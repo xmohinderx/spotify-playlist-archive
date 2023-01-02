@@ -1,12 +1,12 @@
 {
   "description": "Welcome to L.A. Lo que suena in the city of dreams. Cover: Fuerza Regida",
-  "num_followers": 376884,
+  "num_followers": 376905,
   "original_name": "Rompiendo: Los Angeles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI1ODA0MywwMDAwMDAwMGE5NDhkMDViYmRkNGQxMzFmNWM3MmI0ODljOTFlOTAz",
+  "snapshot_id": "MTY2OTI1ODA0MywwMDAwMDAwMGFkNDZmYzhkMTFlN2FkMTUzZmIyNzk5OWQ5NjRmYzg5",
   "tracks": [
     {
       "added_at": "2022-11-24 02:47:23",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2022-11-24 02:47:23",
       "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/5aw4wm2nZtKrilz0CcTeD8"
+        "name": "AMANTES",
+        "url": "https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Daviles de Novelda",
+          "url": "https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI"
         }
       ],
-      "duration_ms": 209578,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/3M23T72K5eqHI2GzdFMMHE"
+      "duration_ms": 180153,
+      "name": "AMANTES",
+      "url": "https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu"
     },
     {
       "added_at": "2022-11-24 02:47:23",
@@ -1087,22 +1091,18 @@
     {
       "added_at": "2022-11-24 02:47:23",
       "album": {
-        "name": "AMANTES",
-        "url": "https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF"
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/5aw4wm2nZtKrilz0CcTeD8"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Daviles de Novelda",
-          "url": "https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 180153,
-      "name": "AMANTES",
-      "url": "https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu"
+      "duration_ms": 209578,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/3M23T72K5eqHI2GzdFMMHE"
     },
     {
       "added_at": "2022-11-24 02:47:23",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-11-24 02:47:23",
       "album": {
-        "name": "Una Chevy",
-        "url": "https://open.spotify.com/album/6Yt4FwoiLC7XebognYM5fx"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "Una Chevy",
-      "url": "https://open.spotify.com/track/7xxQJetweF4orA784Bfae2"
-    },
-    {
-      "added_at": "2022-11-24 02:47:23",
-      "album": {
         "name": "Caf\u00e9 Con Leche",
         "url": "https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 168323,
       "name": "Caf\u00e9 Con Leche",
       "url": "https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy"
+    },
+    {
+      "added_at": "2022-11-24 02:47:23",
+      "album": {
+        "name": "Una Chevy",
+        "url": "https://open.spotify.com/album/6Yt4FwoiLC7XebognYM5fx"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "Una Chevy",
+      "url": "https://open.spotify.com/track/7xxQJetweF4orA784Bfae2"
     },
     {
       "added_at": "2022-11-24 02:47:23",

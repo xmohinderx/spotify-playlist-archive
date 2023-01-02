@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 195667,
       "name": "As You Wish",
       "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
@@ -2055,7 +2055,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 188706,
       "name": "Beyond Love (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
@@ -3927,6 +3927,32 @@
       "duration_ms": 237080,
       "name": "Designer",
       "url": "https://open.spotify.com/track/4axTxw4EXSVSGm6f6vxTdZ"
+    },
+    {
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+      },
+      "artists": [
+        {
+          "name": "Blase",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "Spray",
+          "url": "https://open.spotify.com/artist/08yoNApAYvtzOK5P3qZKw8"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252760,
+      "name": "Diamonds (Feat. lIlBOI, Spray)",
+      "url": "https://open.spotify.com/track/6KgkuACjbs8BCaGwwZt4Fj"
     },
     {
       "album": {
@@ -7641,7 +7667,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 195053,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i"
@@ -7695,7 +7721,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 196365,
       "name": "Impurities",
       "url": "https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es"
@@ -12095,7 +12121,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 206626,
       "name": "Oort Cloud",
       "url": "https://open.spotify.com/track/7tOsgOjrzBVQqyaMDBlZV8"
@@ -12739,7 +12765,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 209757,
       "name": "PPAK (Feat. Paloalto, JUSTHIS) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/3lnn14odZPgqyNooN6jQBa"
@@ -13745,7 +13771,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 204939,
       "name": "Run BTS",
       "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"

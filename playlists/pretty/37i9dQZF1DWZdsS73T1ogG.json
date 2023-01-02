@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: YOVNGCHIMI & Lunay",
-  "num_followers": 510425,
+  "num_followers": 510445,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyOTAyMiwwMDAwMDAwMDMzMTIxOGNhYWUyMDNjYTY3ODZmYmZkY2NkNzQwZTYw",
+  "snapshot_id": "MTY3MjQyOTAyMiwwMDAwMDAwMGY5NjgzZWNiNmZhYzYxMmQ3NWQ3ZjMyN2IzNjIxMGRh",
   "tracks": [
     {
       "added_at": "2022-12-29 07:16:19",
@@ -583,26 +583,6 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "EL NENE",
-        "url": "https://open.spotify.com/album/66dX9XaTPTYeTg3w7mHV5i"
-      },
-      "artists": [
-        {
-          "name": "Foreign Teck",
-          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "EL NENE",
-      "url": "https://open.spotify.com/track/18onJmAJLKbrQVEt9IiKs1"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
         "name": "DURO",
         "url": "https://open.spotify.com/album/6uE584km2jae91nY5N9yE4"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 218320,
       "name": "DURO",
       "url": "https://open.spotify.com/track/6Bix1x2zJnlvuLr2Xb6CXf"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
+        "name": "EL NENE",
+        "url": "https://open.spotify.com/album/66dX9XaTPTYeTg3w7mHV5i"
+      },
+      "artists": [
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "EL NENE",
+      "url": "https://open.spotify.com/track/18onJmAJLKbrQVEt9IiKs1"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -783,22 +783,18 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "LOKITA",
-        "url": "https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC"
+        "name": "TO' ESTO ES TUYO",
+        "url": "https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn"
       },
       "artists": [
         {
           "name": "Natti Natasha",
           "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 193294,
-      "name": "LOKITA",
-      "url": "https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi"
+      "duration_ms": 193093,
+      "name": "TO' ESTO ES TUYO",
+      "url": "https://open.spotify.com/track/3sFGJUJ4Dk8WYsahfZaPgM"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -939,18 +935,22 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "TO' ESTO ES TUYO",
-        "url": "https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn"
+        "name": "LOKITA",
+        "url": "https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC"
       },
       "artists": [
         {
           "name": "Natti Natasha",
           "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 193093,
-      "name": "TO' ESTO ES TUYO",
-      "url": "https://open.spotify.com/track/3sFGJUJ4Dk8WYsahfZaPgM"
+      "duration_ms": 193294,
+      "name": "LOKITA",
+      "url": "https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
+        "name": "Kachin",
+        "url": "https://open.spotify.com/album/2pN1aM6Qq2mTsoHO1VosvY"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "duration_ms": 142453,
+      "name": "Kachin",
+      "url": "https://open.spotify.com/track/6mhWPv4qu7hBmBZlRs5vza"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
         "name": "Haci\u00e9ndolo",
         "url": "https://open.spotify.com/album/7ESIsApWZrcBu8ZWF1bYIy"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 207906,
       "name": "Haci\u00e9ndolo",
       "url": "https://open.spotify.com/track/68uBj4QKLHQJwlANkytJxO"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
-        "name": "Kachin",
-        "url": "https://open.spotify.com/album/2pN1aM6Qq2mTsoHO1VosvY"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 142453,
-      "name": "Kachin",
-      "url": "https://open.spotify.com/track/6mhWPv4qu7hBmBZlRs5vza"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
+        "name": "Copiloto",
+        "url": "https://open.spotify.com/album/63o7fM4ZAmOE9dZthjmipy"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "Copiloto",
+      "url": "https://open.spotify.com/track/3welJNgI6udhFk7sL3PpV5"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
         "name": "Envidia",
         "url": "https://open.spotify.com/album/0Vr2EIU3Dw3DAQKZTJ0Wqk"
       },
@@ -1391,18 +1407,22 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "Copiloto",
-        "url": "https://open.spotify.com/album/63o7fM4ZAmOE9dZthjmipy"
+        "name": "Desacat\u00e1",
+        "url": "https://open.spotify.com/album/2riif8Lab8JyhLAPZiVKMs"
       },
       "artists": [
         {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
         }
       ],
-      "duration_ms": 141333,
-      "name": "Copiloto",
-      "url": "https://open.spotify.com/track/3welJNgI6udhFk7sL3PpV5"
+      "duration_ms": 172340,
+      "name": "Desacat\u00e1",
+      "url": "https://open.spotify.com/track/4csBBYayvELqvO34oeO7xz"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1423,26 +1443,6 @@
       "duration_ms": 182485,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/6daIHKI41ssxwkHqKqfBnM"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
-        "name": "Desacat\u00e1",
-        "url": "https://open.spotify.com/album/2riif8Lab8JyhLAPZiVKMs"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 172340,
-      "name": "Desacat\u00e1",
-      "url": "https://open.spotify.com/track/4csBBYayvELqvO34oeO7xz"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1523,6 +1523,34 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
+        "name": "SUSANA (Remix)",
+        "url": "https://open.spotify.com/album/6j7F1URZEkmzMLrhid2yQB"
+      },
+      "artists": [
+        {
+          "name": "Leo Bash",
+          "url": "https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx"
+        },
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        }
+      ],
+      "duration_ms": 234856,
+      "name": "SUSANA (Remix)",
+      "url": "https://open.spotify.com/track/15aQ8FSDgo0SCmhIXvdyWP"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
         "name": "De Pasajero (feat. Kris Floyd, Chanell)",
         "url": "https://open.spotify.com/album/6zAamQyFkO3KAx0m9k2OZO"
       },
@@ -1555,50 +1583,6 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "SUSANA (Remix)",
-        "url": "https://open.spotify.com/album/6j7F1URZEkmzMLrhid2yQB"
-      },
-      "artists": [
-        {
-          "name": "Leo Bash",
-          "url": "https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx"
-        },
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
-        },
-        {
-          "name": "Jory Boy",
-          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
-        }
-      ],
-      "duration_ms": 234856,
-      "name": "SUSANA (Remix)",
-      "url": "https://open.spotify.com/track/15aQ8FSDgo0SCmhIXvdyWP"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
-        "name": "Mala Mala",
-        "url": "https://open.spotify.com/album/1frlcT5Y4gcNgIW2v1ZXyL"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Mala Mala",
-      "url": "https://open.spotify.com/track/3L7xk3OegOjSmBSJ6P0W7g"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
         "name": "Cinco",
         "url": "https://open.spotify.com/album/6xU2rOCRu56Dc9ccFHunbJ"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 128879,
       "name": "Cinco",
       "url": "https://open.spotify.com/track/0Jpk1xeY7NNz1RcGWuGIch"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
+        "name": "Mala Mala",
+        "url": "https://open.spotify.com/album/1frlcT5Y4gcNgIW2v1ZXyL"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Mala Mala",
+      "url": "https://open.spotify.com/track/3L7xk3OegOjSmBSJ6P0W7g"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1815,6 +1815,26 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
+        "name": "Contesto O Ignoro",
+        "url": "https://open.spotify.com/album/3pDm0pLIA6s7HkaPn2Hzgx"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 230053,
+      "name": "Contesto O Ignoro",
+      "url": "https://open.spotify.com/track/5Yv8IUIyZweYCJXYEYnV9W"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
         "name": "Prendete",
         "url": "https://open.spotify.com/album/67hhoyM7eneAydp5kzrzeq"
       },
@@ -1835,26 +1855,6 @@
       "duration_ms": 213837,
       "name": "Prendete",
       "url": "https://open.spotify.com/track/6Dei890Fy98wn36t39CSht"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
-        "name": "Contesto O Ignoro",
-        "url": "https://open.spotify.com/album/3pDm0pLIA6s7HkaPn2Hzgx"
-      },
-      "artists": [
-        {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 230053,
-      "name": "Contesto O Ignoro",
-      "url": "https://open.spotify.com/track/5Yv8IUIyZweYCJXYEYnV9W"
     },
     {
       "added_at": "2022-12-29 07:16:19",

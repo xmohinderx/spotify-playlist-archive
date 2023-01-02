@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-203 songs - 14 hr 58 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
+204 songs - 15 hr 3 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Encantadora](https://open.spotify.com/track/2Yx80wHA3bEfYdDu6bpf3B) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Encantadora](https://open.spotify.com/album/20I5nMh0C7vAgyq4IvFFda) | 4:10 | 2022-10-03 |  |
 | [Encantadora \(feat\. Najee\)](https://open.spotify.com/track/5iFDAezQ6Tg4rmTlN8rntx) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Encantadora \(feat\. Najee\)](https://open.spotify.com/album/06Q5kbMS2XxLG03OAtYgGz) | 4:09 | 2022-04-11 | 2022-04-20 |
 | [Everyone but You](https://open.spotify.com/track/1w7bLa7WRh4Bi0mojbfJ0K) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Natural](https://open.spotify.com/album/0yTUvZL1yR88cGrfyW3WI5) | 5:11 | 2022-04-11 | 2022-07-03 |
+| [Everyone but You](https://open.spotify.com/track/2Z1wkZW9po0fOwmWn92Z6N) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Natural](https://open.spotify.com/album/1TZQDK0Rq7yhnYRxcoguC6) | 5:11 | 2022-12-22 |  |
 | [Exhale](https://open.spotify.com/track/1xLU1zCbjo9HAoutmWsHlK) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A) | 5:14 | 2021-12-27 | 2022-07-29 |
 | [Exhale](https://open.spotify.com/track/5w4bufYITsxPjmG7xSu8Ga) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ) | 5:14 | 2022-07-18 |  |
 | [Exhale](https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3) | [Patrick Bradley](https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck) | [Exhale](https://open.spotify.com/album/5n354scG66QIxDi8Y2u269) | 4:32 | 2021-12-27 |  |
@@ -151,7 +152,7 @@
 | [Release](https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Release](https://open.spotify.com/album/7xjP0qV8h62UHwown45INg) | 4:52 | 2021-12-27 | 2022-07-29 |
 | [Reverence](https://open.spotify.com/track/5aCHWYlwuHAnZkV0Po17Yn) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Turn It Up](https://open.spotify.com/album/2emYvyogfNZbvdVJwUFRrb) | 5:03 | 2022-04-11 | 2022-04-17 |
 | [Revolving Door](https://open.spotify.com/track/7v6XfSM2XpK6KEVyn4Ud73) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Revolving Door](https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc) | 5:47 | 2021-12-27 |  |
-| [Romance The Rain](https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Romance the Rain](https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA) | 4:49 | 2022-11-14 |  |
+| [Romance The Rain](https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Romance the Rain](https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA) | 4:49 | 2022-11-14 | 2023-01-02 |
 | [Romantic Nites](https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI) | 3:48 | 2022-01-03 | 2022-07-29 |
 | [Round And Round](https://open.spotify.com/track/4KtQuilZOf6EhdcmqMSLVP) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Promised Land](https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM) | 3:35 | 2022-11-14 |  |
 | [Sample That](https://open.spotify.com/track/0L8KQ0yRTpqy1PMVzEHKax) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Retrospect](https://open.spotify.com/album/0DuCba2Nbv3Idu2M9cSEoh) | 4:20 | 2021-12-27 | 2022-07-27 |

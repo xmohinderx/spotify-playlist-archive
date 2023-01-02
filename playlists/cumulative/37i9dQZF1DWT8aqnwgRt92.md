@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-407 songs - 1 day 2 hr 6 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+408 songs - 1 day 2 hr 10 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-06-08 | 2022-12-28 |
 | [星が泳ぐ](https://open.spotify.com/track/0MnPdlWm7MSSUnEamZp5lX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [星が泳ぐ](https://open.spotify.com/album/7KgNsK5MtZJJSdNOFBu738) | 3:59 | 2022-05-28 | 2022-07-08 |
 | [星の少女、月に少女](https://open.spotify.com/track/2UbKoDvnCwmCb9aCdXsEAq) | [鶴姫やちよ\(CV:工藤晴香\)](https://open.spotify.com/artist/2n5MfZnl6NgCSxo1LA4saT), [天堂真矢\(CV:富田麻帆\)](https://open.spotify.com/artist/0GoCYmSDh7ldDd9HjtRf3F), [大月あるる\(CV.潘めぐみ\)](https://open.spotify.com/artist/0DWe8hrfAbZJYFq6yqPJ7Q), [愛城華恋\(CV:小山百代\)](https://open.spotify.com/artist/3c6d2IEnd9ZGChYpN3nnB2) | [「少女☆歌劇 レヴュースタァライト」レヴューアルバム「アルカナ・アルカディア」](https://open.spotify.com/album/6mZy5s37cEzI54dl6CXtRj) | 4:14 | 2022-09-20 | 2022-09-22 |
+| [星座になれたら](https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:18 | 2023-01-01 |  |
 | [暁光](https://open.spotify.com/track/4l4OxhHdAZuVcjoCHapPwk) | [Half time Old](https://open.spotify.com/artist/1zpGAwgdCoZw9CP4QlWq9l) | [暁光](https://open.spotify.com/album/3JX3ho78EjyYxBjLIOI0o1) | 3:29 | 2022-07-12 | 2022-09-30 |
 | [最果て](https://open.spotify.com/track/0GiepUHAIfTH1WzpHqtVXT) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [最果て](https://open.spotify.com/album/6JffqDdgFVwPOjHmLte6kC) | 3:00 | 2022-10-18 |  |
 | [未完成ドリーム!](https://open.spotify.com/track/3MVbG5259vPrYXUhX5JtQZ) | [SCHOOL IDOL MUSICAL](https://open.spotify.com/artist/0ac7G5NyL6NEnPTeozqUgd) | [未完成ドリーム!](https://open.spotify.com/album/1RnbfqigPmq2mFTikAHuDt) | 3:57 | 2022-12-13 |  |
@@ -397,7 +398,7 @@
 | [菫](https://open.spotify.com/track/6AGNrkx4zIxmr9mhtps0J6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 3:57 | 2022-05-28 | 2022-07-06 |
 | [蒼穹のファンファーレ](https://open.spotify.com/track/0wMBwx4SiRJmcmRxtq6l4N) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3), [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [蒼穹のファンファーレ](https://open.spotify.com/album/1SIWm59nMt5C5CTtxHmGBJ) | 5:18 | 2022-10-27 |  |
 | [言えない](https://open.spotify.com/track/4Pgfcz3P83oJHdRvO0NJ0Q) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [言えない](https://open.spotify.com/album/5ApBDaAa7sZWVDN1poztE3) | 3:24 | 2022-07-12 | 2022-10-19 |
-| [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 | 2022-12-27 |  |
+| [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 | 2022-12-27 | 2023-01-02 |
 | [追いかける夢の先で](https://open.spotify.com/track/3V2S19yA5qkUp6qxSVG5zr) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [追いかける夢の先で](https://open.spotify.com/album/65vtvzicbNmETsvabUGAh4) | 3:43 | 2022-08-16 | 2022-10-04 |
 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-07-05 | 2022-10-12 |
 | [逆夢 \- from CrosSing](https://open.spotify.com/track/2L7GfBtcqYStaTsFsNuOKB) | [林勇](https://open.spotify.com/artist/2KZLtHl1A7glIn5t1XSNJu) | [逆夢 \- from CrosSing](https://open.spotify.com/album/4KvtLvYdmW2i2vcvX0jxZM) | 5:09 | 2022-07-12 | 2022-07-27 |

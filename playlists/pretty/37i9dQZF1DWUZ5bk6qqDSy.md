@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 
 > Welcome to the soothing hum...
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,400 likes - 263 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,933 likes - 263 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 | 44 | [Rumore Bianco](https://open.spotify.com/track/6FrJELq39kHa0lllsUgyS4) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Rumore Bianco](https://open.spotify.com/album/4jY7LaVziSQk1t9oYXxuD2) | 2:16 |
 | 45 | [White Noise for Relaxation](https://open.spotify.com/track/6C1WVY1WE6wXNXVAAZsb0x) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
 | 46 | [Noise Enclosure \(White Noise\)](https://open.spotify.com/track/4EtZ3hraFrVStln3OtkN2V) | [Zero Oto](https://open.spotify.com/artist/4iYTkNx9MkmIxDMESbIbio) | [Noise Enclosure](https://open.spotify.com/album/2No56B85IcRqoUN3Oc4ADp) | 3:04 |
-| 47 | [White Noise Waterfall](https://open.spotify.com/track/5WkRINJDHP7zdAo45F1bJb) | [Sleep Sleep Sleep](https://open.spotify.com/artist/1OqVbmth0QR4OXPVPmIEyi) | [White Noise](https://open.spotify.com/album/7zV4TOfILpmyaArpIZqzkO) | 2:43 |
+| 47 | [White Noise Waterfall](https://open.spotify.com/track/5WkRINJDHP7zdAo45F1bJb) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [White Noise](https://open.spotify.com/album/7zV4TOfILpmyaArpIZqzkO) | 2:43 |
 | 48 | [White Noise for Baby Sleep](https://open.spotify.com/track/16Vewnjl60wKkzZb8bz0Hp) | [Sleep Alphabet](https://open.spotify.com/artist/07zWNtOjC3QzF79jiFKYjm) | [White Noise](https://open.spotify.com/album/5kgvsV5ETpdVf3PTQcTZmm) | 2:44 |
 | 49 | [Breathe Easy](https://open.spotify.com/track/7LnDKGTwMoLv3XSgxOnj83) | [High Res Lo Fi](https://open.spotify.com/artist/2EHYuRVxkX0f9VsvoOSCI1) | [Weekly White Noise](https://open.spotify.com/album/1HMBbQKH4GveqLBuITbvWf) | 2:35 |
 | 50 | [White Noise \- Sleep Through the Night](https://open.spotify.com/track/1hrph1qE2yeclQUqzKT8HN) | [Xella Machina](https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI) | [Sleep Through the Night](https://open.spotify.com/album/0QJdY7Fk0QhTPwPBmP1EmS) | 3:24 |
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 | 140 | [White Noise \- Erholungsschlaf](https://open.spotify.com/track/4BQRXd73KGRjMdfR9rcFFF) | [Thoughts of Calm](https://open.spotify.com/artist/2gk7fPiEtMLY8cOW5PwGek) | [White Noise](https://open.spotify.com/album/2PIhWLLbpY9pYHChkatOu4) | 2:54 |
 | 141 | [White Noise 550Hz](https://open.spotify.com/track/3S2Zy3vdacf3AOU5SSWYLX) | [White Noise Fellahs](https://open.spotify.com/artist/7IYEUBj60IvCwpgG9Exae8) | [White Noise for Babies 0\-3 Years Old](https://open.spotify.com/album/1og33UXCqv5Hoyt3r6uFHp) | 2:52 |
 | 142 | [Doze Off \- Seamless](https://open.spotify.com/track/1L3BdJ2gxTUFHfaWF1Vtwl) | [Static Harmony](https://open.spotify.com/artist/18D9GiQa6S4cFsu6ntLy3N) | [Doze Off](https://open.spotify.com/album/4884o4Sx8RfATgCaBeezkB) | 2:48 |
-| 143 | [White Noise Tiefschlaf](https://open.spotify.com/track/3tCj4PMMeTC5FRYS4eKTuW) | [Sleep Sleep Sleep](https://open.spotify.com/artist/1OqVbmth0QR4OXPVPmIEyi) | [White Noise Tranquility](https://open.spotify.com/album/0MB5igPz2WRNm5iz3WvEW7) | 2:52 |
+| 143 | [White Noise Tiefschlaf](https://open.spotify.com/track/3tCj4PMMeTC5FRYS4eKTuW) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [White Noise Tranquility](https://open.spotify.com/album/0MB5igPz2WRNm5iz3WvEW7) | 2:52 |
 | 144 | [White Reverb 800 Hz](https://open.spotify.com/track/68s3njCBvLcevxxMSOjq8P) | [Worry Less](https://open.spotify.com/artist/49CQw3DOUXwNq8mV3EaFux) | [Worryless White Noise](https://open.spotify.com/album/0aEDSss6BeAgY6VIc3WkWV) | 3:22 |
 | 145 | [Heavenly Noise](https://open.spotify.com/track/7uMcWcFzsRpvwaMDqZPjLx) | [Noi Ses](https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH) | [Noise Relaxation](https://open.spotify.com/album/3IhjYW7kQ4mIuzxd1zFEIm) | 2:28 |
 | 146 | [Noise & Relaxation](https://open.spotify.com/track/7ao1T99JJqBhQz6BdanOUS) | [Librarical Nature](https://open.spotify.com/artist/7hxI1aGCZDImZ8oRzudkbT) | [Noise & Relaxation](https://open.spotify.com/album/6EgOdvsgib7ZVJzCMEg0j4) | 2:33 |

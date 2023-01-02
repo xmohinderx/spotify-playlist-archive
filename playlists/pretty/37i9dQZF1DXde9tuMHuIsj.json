@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arc\u00e1ngel ",
-  "num_followers": 1514313,
+  "num_followers": 1514361,
   "original_name": "Trap Land",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTUyMjEzOCwwMDAwMDAwMDU4MTQ4ODc4MTk2MzViZjVlZjBmNjJiNjEzNzY4ZmUx",
+  "snapshot_id": "MTY3MTUyMjEzOCwwMDAwMDAwMGUxZTFkMTM4OTJlMDcyN2VjMTRkNGEzYjNkNDc3Y2Nk",
   "tracks": [
     {
       "added_at": "2022-12-20 07:42:18",
@@ -531,6 +531,26 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
+        "name": "Vaina Cara",
+        "url": "https://open.spotify.com/album/0sFWXAG0ruP2xDGSfI0jMv"
+      },
+      "artists": [
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        },
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Vaina Cara",
+      "url": "https://open.spotify.com/track/1jlCndlFWOWUl1YXETLB2h"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
         "name": "MOOD (Remix)",
         "url": "https://open.spotify.com/album/7HSebWoyKTGMZTfnoahW3G"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 226046,
       "name": "MOOD - Remix",
       "url": "https://open.spotify.com/track/65wccjJxugGBsPKZcsHG49"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
-        "name": "Vaina Cara",
-        "url": "https://open.spotify.com/album/0sFWXAG0ruP2xDGSfI0jMv"
-      },
-      "artists": [
-        {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
-        },
-        {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Vaina Cara",
-      "url": "https://open.spotify.com/track/1jlCndlFWOWUl1YXETLB2h"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -867,6 +867,34 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
+        "name": "ALBERTO NAVARRO (feat. Danny Yash)",
+        "url": "https://open.spotify.com/album/3eYNNa322PLWcPtua9rOky"
+      },
+      "artists": [
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        },
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        },
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        },
+        {
+          "name": "Danny Yash",
+          "url": "https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "ALBERTO NAVARRO (feat. Danny Yash)",
+      "url": "https://open.spotify.com/track/0jDkzYfkYI5faOTftiqydF"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
         "name": "Dame Lu (Remix)",
         "url": "https://open.spotify.com/album/4nsSWLgnntv4HgUqNnfSd3"
       },
@@ -899,34 +927,6 @@
       "duration_ms": 323720,
       "name": "Dame Lu - Remix",
       "url": "https://open.spotify.com/track/3lyi8wF8mZ3rET1MCXgEQj"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
-        "name": "ALBERTO NAVARRO (feat. Danny Yash)",
-        "url": "https://open.spotify.com/album/3eYNNa322PLWcPtua9rOky"
-      },
-      "artists": [
-        {
-          "name": "Jorkan",
-          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
-        },
-        {
-          "name": "Akim",
-          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
-        },
-        {
-          "name": "Yemil",
-          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
-        },
-        {
-          "name": "Danny Yash",
-          "url": "https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "ALBERTO NAVARRO (feat. Danny Yash)",
-      "url": "https://open.spotify.com/track/0jDkzYfkYI5faOTftiqydF"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -1299,8 +1299,8 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
-        "name": "Riri",
-        "url": "https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa"
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
       },
       "artists": [
         {
@@ -1308,25 +1308,9 @@
           "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU"
-    },
-    {
-      "added_at": "2022-12-20 07:42:18",
-      "album": {
-        "name": "Guarida",
-        "url": "https://open.spotify.com/album/5BvgHK8tmdBlIjxdSnyI0K"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Guarida",
-      "url": "https://open.spotify.com/track/19FjaZwowlzROovPliZty2"
+      "duration_ms": 182000,
+      "name": "Trending",
+      "url": "https://open.spotify.com/track/1NxiO3Anb5zYFVTVuxyHzl"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -1351,6 +1335,22 @@
       "duration_ms": 259410,
       "name": "Sicaria",
       "url": "https://open.spotify.com/track/2h5kMJFJeZghxhPF3TTsrj"
+    },
+    {
+      "added_at": "2022-12-20 07:42:18",
+      "album": {
+        "name": "Guarida",
+        "url": "https://open.spotify.com/album/5BvgHK8tmdBlIjxdSnyI0K"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Guarida",
+      "url": "https://open.spotify.com/track/19FjaZwowlzROovPliZty2"
     },
     {
       "added_at": "2022-12-20 07:42:18",
@@ -1471,8 +1471,8 @@
     {
       "added_at": "2022-12-20 07:42:18",
       "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
+        "name": "Riri",
+        "url": "https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa"
       },
       "artists": [
         {
@@ -1480,9 +1480,9 @@
           "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Trending",
-      "url": "https://open.spotify.com/track/1NxiO3Anb5zYFVTVuxyHzl"
+      "duration_ms": 134000,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU"
     },
     {
       "added_at": "2022-12-20 07:42:18",

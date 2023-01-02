@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Valdes.",
-  "num_followers": 53050,
+  "num_followers": 53051,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMGE0MzExNzFlNGY1N2JlMDU1MjIwNzMwMDQzYTdmM2E3",
+  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDMyODk4YTI1OTliZTVlY2RmZWRiYmEzNTM3ZWMyNTVh",
   "tracks": [
     {
       "added_at": "2022-11-11 21:41:34",
@@ -211,6 +211,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Dark Folk, Vol.1",
+        "url": "https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu"
+      },
+      "artists": [
+        {
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Amor Con Filo",
+      "url": "https://open.spotify.com/track/0wq8bmjHq0ECOj2BpivYhX"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "No Te Puedo Decir Que No",
         "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
@@ -231,18 +247,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Dark Folk, Vol.1",
-        "url": "https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu"
+        "name": "Esta podr\u00eda ser la se\u00f1al",
+        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
       },
       "artists": [
         {
-          "name": "Anthr\u00e9s",
-          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Amor Con Filo",
-      "url": "https://open.spotify.com/track/0wq8bmjHq0ECOj2BpivYhX"
+      "duration_ms": 77890,
+      "name": "Timba",
+      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -259,22 +275,6 @@
       "duration_ms": 201601,
       "name": "A Donde Quiero Estar",
       "url": "https://open.spotify.com/track/2CxzakxMvIWj6EU3LiTuF2"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Esta podr\u00eda ser la se\u00f1al",
-        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 77890,
-      "name": "Timba",
-      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Volver Atr\u00e1s",
-        "url": "https://open.spotify.com/album/0kDzfXdEsvV9RVDze0PRg7"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 215721,
-      "name": "Volver Atr\u00e1s",
-      "url": "https://open.spotify.com/track/37tcPLggz0Jeo2cz6hgerF"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Mensajes en el Mar",
         "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
       },
@@ -383,22 +367,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Brillando",
-        "url": "https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6"
+        "name": "Volver Atr\u00e1s",
+        "url": "https://open.spotify.com/album/0kDzfXdEsvV9RVDze0PRg7"
       },
       "artists": [
         {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
-        },
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
         }
       ],
-      "duration_ms": 271336,
-      "name": "Brillando",
-      "url": "https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6"
+      "duration_ms": 215721,
+      "name": "Volver Atr\u00e1s",
+      "url": "https://open.spotify.com/track/37tcPLggz0Jeo2cz6hgerF"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -415,6 +395,26 @@
       "duration_ms": 173000,
       "name": "Protagonista",
       "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Brillando",
+        "url": "https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6"
+      },
+      "artists": [
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        },
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        }
+      ],
+      "duration_ms": 271336,
+      "name": "Brillando",
+      "url": "https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Barquinho",
-        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Barquinho",
-      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Ni\u00f1a",
         "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 200245,
       "name": "Ni\u00f1a",
       "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Barquinho",
+        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
+      },
+      "artists": [
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Barquinho",
+      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Cari\u00f1ito",
-        "url": "https://open.spotify.com/album/7Lw1CPKpaL8npiEd35ebWW"
-      },
-      "artists": [
-        {
-          "name": "Sonia Z",
-          "url": "https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh"
-        },
-        {
-          "name": "Agus Vivo",
-          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
-        }
-      ],
-      "duration_ms": 193750,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/6PK0iRqWsE94o36yiszQCh"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Empate",
         "url": "https://open.spotify.com/album/2uoKUJILAJXhOsAWbutwLg"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 178067,
       "name": "Empate",
       "url": "https://open.spotify.com/track/1ltnHwKy5jFgnJGtW056F0"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Cari\u00f1ito",
+        "url": "https://open.spotify.com/album/7Lw1CPKpaL8npiEd35ebWW"
+      },
+      "artists": [
+        {
+          "name": "Sonia Z",
+          "url": "https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh"
+        },
+        {
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+        }
+      ],
+      "duration_ms": 193750,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/6PK0iRqWsE94o36yiszQCh"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Planes para Hoy",
+        "url": "https://open.spotify.com/album/4FdQLnzWnqdUCgNV1qc2Bc"
+      },
+      "artists": [
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 283333,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/4nVKNgndC4DezUMjNY3Yvz"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "La Guarida",
         "url": "https://open.spotify.com/album/6M6ZD7z8NcEzYQdBKjbBVV"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 216098,
       "name": "Atajo",
       "url": "https://open.spotify.com/track/5qYHHNRetV9XqWKFbtcBPc"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Planes para Hoy",
-        "url": "https://open.spotify.com/album/4FdQLnzWnqdUCgNV1qc2Bc"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 283333,
-      "name": "Rara",
-      "url": "https://open.spotify.com/track/4nVKNgndC4DezUMjNY3Yvz"
     },
     {
       "added_at": "2022-11-11 21:41:34",

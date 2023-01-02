@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all. Cover: Hundred Reasons",
-  "num_followers": 85124,
+  "num_followers": 85184,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM1NTU5NSwwMDAwMDAwMDdjNDFjYmQ0MTZmNTYxMTBiMTY1OGIzMDgyOTVlNTM5",
+  "snapshot_id": "MTY3MjM1NTU5NSwwMDAwMDAwMGI0YWIxZDY3OWE2NTQ2N2M3MGY5ZmZiZmY0MjY2NTY4",
   "tracks": [
     {
       "added_at": "2022-12-29 23:13:15",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "Youth",
-        "url": "https://open.spotify.com/album/6QDNTEgCBoGd6zaKZ19vNC"
-      },
-      "artists": [
-        {
-          "name": "Citizen",
-          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
-        }
-      ],
-      "duration_ms": 133552,
-      "name": "The Night I Drove Alone",
-      "url": "https://open.spotify.com/track/5iZw5AzGiQx5rmmocWBFOz"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "Reckless Tongue",
         "url": "https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 178795,
       "name": "Reckless Tongue",
       "url": "https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/6QDNTEgCBoGd6zaKZ19vNC"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "duration_ms": 133552,
+      "name": "The Night I Drove Alone",
+      "url": "https://open.spotify.com/track/5iZw5AzGiQx5rmmocWBFOz"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "Pedestrian Verse",
-        "url": "https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x"
-      },
-      "artists": [
-        {
-          "name": "Frightened Rabbit",
-          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
-        }
-      ],
-      "duration_ms": 207560,
-      "name": "The Woodpile",
-      "url": "https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "Sound As Ever",
         "url": "https://open.spotify.com/album/2azj62n7MH5r8ikwa0c6ay"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 154666,
       "name": "Berlin Chair",
       "url": "https://open.spotify.com/track/1fhLBWJ39ihyjEqgPiUf6B"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "Pedestrian Verse",
+        "url": "https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x"
+      },
+      "artists": [
+        {
+          "name": "Frightened Rabbit",
+          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "The Woodpile",
+      "url": "https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "Slow Heart",
-        "url": "https://open.spotify.com/album/7K7AuoZ1mMIaPiDZSvhCsU"
-      },
-      "artists": [
-        {
-          "name": "Balance And Composure",
-          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
-        }
-      ],
-      "duration_ms": 249800,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/2CzfhFkxJZjdr6kNRUw8IM"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "Ours Is Chrome",
         "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 203133,
       "name": "I've Been Bored",
       "url": "https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "Slow Heart",
+        "url": "https://open.spotify.com/album/7K7AuoZ1mMIaPiDZSvhCsU"
+      },
+      "artists": [
+        {
+          "name": "Balance And Composure",
+          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
+        }
+      ],
+      "duration_ms": 249800,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/2CzfhFkxJZjdr6kNRUw8IM"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "You'd Prefer An Astronaut",
-        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
-      },
-      "artists": [
-        {
-          "name": "Hum",
-          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
-        }
-      ],
-      "duration_ms": 277560,
-      "name": "The Pod",
-      "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "All These Countless Nights",
         "url": "https://open.spotify.com/album/4LYAbf8kMPXzghMcS9SiYm"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 180111,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/154P8pqseR6k7BaMKffzeM"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "You'd Prefer An Astronaut",
+        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
+      },
+      "artists": [
+        {
+          "name": "Hum",
+          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
+        }
+      ],
+      "duration_ms": 277560,
+      "name": "The Pod",
+      "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "12th House Rock",
-        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
-      },
-      "artists": [
-        {
-          "name": "Narrow Head",
-          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Night Tryst",
-      "url": "https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "The Remote Part",
         "url": "https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 143760,
       "name": "A Modern Way of Letting Go",
       "url": "https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "12th House Rock",
+        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Night Tryst",
+      "url": "https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "Moving Away",
-        "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
-      },
-      "artists": [
-        {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
-        }
-      ],
-      "duration_ms": 205148,
-      "name": "Lily",
-      "url": "https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "Here And Nowhere Else",
         "url": "https://open.spotify.com/album/4mbQAXtP8Kuhq04oriFyYy"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 275308,
       "name": "I'm Not Part Of Me",
       "url": "https://open.spotify.com/track/10Sj9At8dFsEabJcQzOSqu"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "Moving Away",
+        "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
+      },
+      "artists": [
+        {
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+        }
+      ],
+      "duration_ms": 205148,
+      "name": "Lily",
+      "url": "https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
+        "name": "Workbook",
+        "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
+      },
+      "artists": [
+        {
+          "name": "Bob Mould",
+          "url": "https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "See A Little Light",
+      "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
         "name": "Blackened Sky",
         "url": "https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 410933,
       "name": "Will You Smile Again For Me",
       "url": "https://open.spotify.com/track/5AM9nodUIrP4qKMtlGJFay"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
-        "name": "Workbook",
-        "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
-      },
-      "artists": [
-        {
-          "name": "Bob Mould",
-          "url": "https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "See A Little Light",
-      "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "Effloresce",
-        "url": "https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu"
-      },
-      "artists": [
-        {
-          "name": "Oceansize",
-          "url": "https://open.spotify.com/artist/0Opj9xi9HHrH0L9uHAKnKm"
-        }
-      ],
-      "duration_ms": 400680,
-      "name": "Catalyst - Remastered",
-      "url": "https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "The Free Life",
         "url": "https://open.spotify.com/album/4gT3GcSihWfQqAr5MBWfQ0"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 176413,
       "name": "Cheap Magic",
       "url": "https://open.spotify.com/track/7uaH0m2kKoT9YrHATuQn0P"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "Effloresce",
+        "url": "https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu"
+      },
+      "artists": [
+        {
+          "name": "Oceansize",
+          "url": "https://open.spotify.com/artist/0Opj9xi9HHrH0L9uHAKnKm"
+        }
+      ],
+      "duration_ms": 400680,
+      "name": "Catalyst - Remastered",
+      "url": "https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "Monolith",
-        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
-      },
-      "artists": [
-        {
-          "name": "Hobosexual",
-          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
-        }
-      ],
-      "duration_ms": 353582,
-      "name": "Trans Am Sunday",
-      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "Everything Is A-OK",
         "url": "https://open.spotify.com/album/4IayAjHP3LfFZZ79jetguT"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 268519,
       "name": "Vacation Forever",
       "url": "https://open.spotify.com/track/0MkH3VaXZB98jWQ5JnDeu9"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
+      },
+      "artists": [
+        {
+          "name": "Hobosexual",
+          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
+        }
+      ],
+      "duration_ms": 353582,
+      "name": "Trans Am Sunday",
+      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
     },
     {
       "added_at": "2022-12-29 23:13:15",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2022-12-29 23:13:15",
       "album": {
-        "name": "4 AM",
-        "url": "https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq"
-      },
-      "artists": [
-        {
-          "name": "Bryan's Magic Tears",
-          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
-        }
-      ],
-      "duration_ms": 302811,
-      "name": "Ghetto Blaster",
-      "url": "https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK"
-    },
-    {
-      "added_at": "2022-12-29 23:13:15",
-      "album": {
         "name": "Smiling Shame",
         "url": "https://open.spotify.com/album/00A7uvYuwJgAyeXu76rDib"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 216643,
       "name": "Smiling Shame",
       "url": "https://open.spotify.com/track/53ujnmrXFTtWs79zS2qMjF"
+    },
+    {
+      "added_at": "2022-12-29 23:13:15",
+      "album": {
+        "name": "4 AM",
+        "url": "https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq"
+      },
+      "artists": [
+        {
+          "name": "Bryan's Magic Tears",
+          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
+        }
+      ],
+      "duration_ms": 302811,
+      "name": "Ghetto Blaster",
+      "url": "https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK"
     },
     {
       "added_at": "2022-12-29 23:13:15",

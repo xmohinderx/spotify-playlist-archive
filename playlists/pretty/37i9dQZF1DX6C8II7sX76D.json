@@ -1,12 +1,12 @@
 {
   "description": "pov: u hand the internet the aux",
-  "num_followers": 148198,
+  "num_followers": 148447,
   "original_name": "Viral Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI1MTc0NSwwMDAwMDAwMGY5ZjAzNTEwZTM4YmQ3ZmFlMTkyMmQyNjk0MTU3NDJl",
+  "snapshot_id": "MTY3MjI1MTc0NSwwMDAwMDAwMDAxYzc3Njk2MWI0MWYwMGU1NzcwODk3MDg0MzU4M2I0",
   "tracks": [
     {
       "added_at": "2022-12-16 15:11:38",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-12-16 15:11:38",
       "album": {
-        "name": "Close Eyes",
-        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 132346,
-      "name": "Close Eyes",
-      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
-    },
-    {
-      "added_at": "2022-12-16 15:11:38",
-      "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "added_at": "2022-12-16 15:11:38",
+      "album": {
+        "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "duration_ms": 132346,
+      "name": "Close Eyes",
+      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
       "added_at": "2022-12-16 15:11:38",
@@ -319,26 +319,6 @@
     {
       "added_at": "2022-12-16 15:11:38",
       "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
-    },
-    {
-      "added_at": "2022-12-16 15:11:38",
-      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "added_at": "2022-12-16 15:11:38",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
     },
     {
       "added_at": "2022-12-16 15:11:38",
@@ -403,6 +403,26 @@
     {
       "added_at": "2022-12-16 15:11:38",
       "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "added_at": "2022-12-16 15:11:38",
+      "album": {
         "name": "Disaster",
         "url": "https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag"
       },
@@ -439,22 +459,18 @@
     {
       "added_at": "2022-12-16 15:11:38",
       "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+        "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
       },
       "artists": [
         {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
         }
       ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+      "duration_ms": 153800,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
     },
     {
       "added_at": "2022-12-16 15:11:38",
@@ -471,22 +487,6 @@
       "duration_ms": 156650,
       "name": "BABYDOLL (Speed)",
       "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
-    },
-    {
-      "added_at": "2022-12-16 15:11:38",
-      "album": {
-        "name": "Non-Stop Erotic Cabaret",
-        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
-      },
-      "artists": [
-        {
-          "name": "Soft Cell",
-          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Tainted Love",
-      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
     },
     {
       "added_at": "2022-12-16 15:11:38",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-12-16 15:11:38",
       "album": {
-        "name": "Override",
-        "url": "https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7"
-      },
-      "artists": [
-        {
-          "name": "KSLV Noh",
-          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
-        }
-      ],
-      "duration_ms": 114624,
-      "name": "Override",
-      "url": "https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f"
-    },
-    {
-      "added_at": "2022-12-16 15:11:38",
-      "album": {
         "name": "Don't Start Now",
         "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2022-12-16 15:11:38",
+      "album": {
+        "name": "Override",
+        "url": "https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7"
+      },
+      "artists": [
+        {
+          "name": "KSLV Noh",
+          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
+        }
+      ],
+      "duration_ms": 114624,
+      "name": "Override",
+      "url": "https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f"
     },
     {
       "added_at": "2022-12-16 15:11:38",
@@ -651,22 +651,18 @@
     {
       "added_at": "2022-12-16 15:11:38",
       "album": {
-        "name": "all I want is you",
-        "url": "https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V"
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
       "artists": [
         {
-          "name": "Rebzyyx",
-          "url": "https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno"
-        },
-        {
-          "name": "hoshie star",
-          "url": "https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001"
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
         }
       ],
-      "duration_ms": 151415,
-      "name": "all I want is you",
-      "url": "https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq"
+      "duration_ms": 320357,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
     },
     {
       "added_at": "2022-12-16 15:11:38",
@@ -695,34 +691,22 @@
     {
       "added_at": "2022-12-16 15:11:38",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+        "name": "all I want is you",
+        "url": "https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V"
       },
       "artists": [
         {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 320357,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
-    },
-    {
-      "added_at": "2022-12-16 15:11:38",
-      "album": {
-        "name": "How Can You Mend A Broken Heart",
-        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
-      },
-      "artists": [
+          "name": "Rebzyyx",
+          "url": "https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno"
+        },
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "hoshie star",
+          "url": "https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001"
         }
       ],
-      "duration_ms": 196213,
-      "name": "More Than A Woman - From \"Saturday Night Fever\" Soundtrack",
-      "url": "https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE"
+      "duration_ms": 151415,
+      "name": "all I want is you",
+      "url": "https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq"
     },
     {
       "added_at": "2022-12-16 15:11:38",
@@ -739,6 +723,22 @@
       "duration_ms": 241970,
       "name": "Love Tonight - Edit",
       "url": "https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP"
+    },
+    {
+      "added_at": "2022-12-16 15:11:38",
+      "album": {
+        "name": "How Can You Mend A Broken Heart",
+        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 196213,
+      "name": "More Than A Woman - From \"Saturday Night Fever\" Soundtrack",
+      "url": "https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE"
     },
     {
       "added_at": "2022-12-16 15:11:38",
@@ -891,26 +891,6 @@
     {
       "added_at": "2022-12-16 15:11:38",
       "album": {
-        "name": "Jiggle Jiggle",
-        "url": "https://open.spotify.com/album/3WcZOQwZQ5gLyNrA0aXUeT"
-      },
-      "artists": [
-        {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
-        },
-        {
-          "name": "Louis Theroux",
-          "url": "https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv"
-        }
-      ],
-      "duration_ms": 97208,
-      "name": "Jiggle Jiggle",
-      "url": "https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2"
-    },
-    {
-      "added_at": "2022-12-16 15:11:38",
-      "album": {
         "name": "Jerusalema",
         "url": "https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 342612,
       "name": "Jerusalema (feat. Nomcebo Zikode)",
       "url": "https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi"
+    },
+    {
+      "added_at": "2022-12-16 15:11:38",
+      "album": {
+        "name": "Jiggle Jiggle",
+        "url": "https://open.spotify.com/album/3WcZOQwZQ5gLyNrA0aXUeT"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        },
+        {
+          "name": "Louis Theroux",
+          "url": "https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv"
+        }
+      ],
+      "duration_ms": 97208,
+      "name": "Jiggle Jiggle",
+      "url": "https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2"
     }
   ],
   "unique_name": "Viral Dance",

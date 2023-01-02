@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Candy Dulfer",
-  "num_followers": 41686,
+  "num_followers": 41749,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDhmZWY0ZDhjMTFmZjg1ZGIwNjRjNjhhYjUyY2VkNDRl",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDY3YTEwOTJiODRkYjNmN2VkZTc2ZmExYTYxMWZhYjU1",
   "tracks": [
     {
       "added_at": "2022-05-13 04:02:00",
@@ -465,22 +465,6 @@
       "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Savoir Faire",
-        "url": "https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 318733,
-      "name": "Savoir Faire",
-      "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
-    },
-    {
       "added_at": "2022-02-14 15:14:54",
       "album": {
         "name": "A Midnight Rendezvous",
@@ -495,6 +479,22 @@
       "duration_ms": 237586,
       "name": "Pioneer Town",
       "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Savoir Faire",
+        "url": "https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 318733,
+      "name": "Savoir Faire",
+      "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -565,54 +565,6 @@
       "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/4TFafDWw1gmlOWGu8QeToU"
-      },
-      "artists": [
-        {
-          "name": "Marco Giubileo",
-          "url": "https://open.spotify.com/artist/4yy2BnwVkyFSYo8sVZetaF"
-        },
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        },
-        {
-          "name": "Kim Stone",
-          "url": "https://open.spotify.com/artist/1DwDghZjRzH4LJjLrQ5Kz3"
-        },
-        {
-          "name": "Roberto Soggetti",
-          "url": "https://open.spotify.com/artist/2q7tyChOKCzw3uIRyyax1r"
-        },
-        {
-          "name": "Simone Boffa",
-          "url": "https://open.spotify.com/artist/763xoqKG7PM9BnpwDzvZQR"
-        }
-      ],
-      "duration_ms": 231267,
-      "name": "III",
-      "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1UUkZTGU4Jl70yEE3rX1nU"
-      },
-      "artists": [
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 256708,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
-    },
-    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Cool Shades",
@@ -673,6 +625,22 @@
       "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
     },
     {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1UUkZTGU4Jl70yEE3rX1nU"
+      },
+      "artists": [
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 256708,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Honest",
@@ -707,6 +675,38 @@
       "duration_ms": 255466,
       "name": "Fika Talk",
       "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/4TFafDWw1gmlOWGu8QeToU"
+      },
+      "artists": [
+        {
+          "name": "Marco Giubileo",
+          "url": "https://open.spotify.com/artist/4yy2BnwVkyFSYo8sVZetaF"
+        },
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        },
+        {
+          "name": "Kim Stone",
+          "url": "https://open.spotify.com/artist/1DwDghZjRzH4LJjLrQ5Kz3"
+        },
+        {
+          "name": "Roberto Soggetti",
+          "url": "https://open.spotify.com/artist/2q7tyChOKCzw3uIRyyax1r"
+        },
+        {
+          "name": "Simone Boffa",
+          "url": "https://open.spotify.com/artist/763xoqKG7PM9BnpwDzvZQR"
+        }
+      ],
+      "duration_ms": 231267,
+      "name": "III",
+      "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -765,6 +765,22 @@
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
     },
     {
+      "added_at": "2022-10-17 15:45:13",
+      "album": {
+        "name": "Unspeakable",
+        "url": "https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U"
+      },
+      "artists": [
+        {
+          "name": "Sam Rucker",
+          "url": "https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE"
+        }
+      ],
+      "duration_ms": 226438,
+      "name": "Unspeakable",
+      "url": "https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA"
+    },
+    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Radio Vibe",
@@ -785,38 +801,6 @@
       "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 227369,
-      "name": "One More Night - Single Edit",
-      "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
-    },
-    {
-      "added_at": "2022-10-17 15:45:13",
-      "album": {
-        "name": "Unspeakable",
-        "url": "https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U"
-      },
-      "artists": [
-        {
-          "name": "Sam Rucker",
-          "url": "https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE"
-        }
-      ],
-      "duration_ms": 226438,
-      "name": "Unspeakable",
-      "url": "https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Piano Tales",
@@ -831,6 +815,22 @@
       "duration_ms": 248712,
       "name": "Safe and Sound",
       "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 227369,
+      "name": "One More Night - Single Edit",
+      "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
     },
     {
       "added_at": "2022-01-28 05:02:00",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/46xA9y3Fy9Igs0EnFK5CsX"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Tribute",
-        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 245426,
-      "name": "Tribute",
-      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
-    },
-    {
       "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Chicago Morning",
@@ -879,6 +863,22 @@
       "duration_ms": 260398,
       "name": "Chicago Morning",
       "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Tribute",
+        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 245426,
+      "name": "Tribute",
+      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
     }
   ],
   "unique_name": "New Smooth Jazz",

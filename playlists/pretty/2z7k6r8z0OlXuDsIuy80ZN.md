@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-[LOS40](https://open.spotify.com/user/los40_spain) - 100,995 likes - 40 songs - 2 hr 5 min
+[LOS40](https://open.spotify.com/user/los40_spain) - 101,022 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 | 39 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
 | 40 | [Carretera y manta](https://open.spotify.com/track/4RgqBP0RY3pQY3Z3d3fKnf) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Carretera y manta](https://open.spotify.com/album/3DlIRvWPWudQaYZOclzabT) | 2:43 |
 
-Snapshot ID: `NjU0Nyw0NzQ4M2YzMGJiYjNhMmJlNjg2Nzk1YjdkZDJiYWU4NTE5ZWYzNDkx`
+Snapshot ID: `NjU1MCw2ZWM0ZWJlMzA2NzU3YjlmYmZlMmY1YmFhYWE3ODBjYzAwMjllYjJi`

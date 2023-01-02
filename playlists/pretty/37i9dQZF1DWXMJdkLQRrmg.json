@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. Cover: Wolf Alice",
-  "num_followers": 293845,
+  "num_followers": 293919,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDQ2ODc4OWJmNjhmZDE5OTUwY2E0OWIyNTI1NGI1Yjcx",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMGIwZjBhOTE3MjAyYjM4MWI5ZGQyNWJiYjY0YWIxYjRj",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
+        "name": "Come What(ever) May [Special Edition]",
+        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 267253,
+      "name": "Wicked Game - Acoustic; Live",
+      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
         "name": "bloody valentine (Acoustic)",
         "url": "https://open.spotify.com/album/6b3coyUziyxHqt8h5UiSkU"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 195857,
       "name": "bloody valentine - Acoustic",
       "url": "https://open.spotify.com/track/4Uah1pyFsLEsw4eauJvuNF"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Come What(ever) May [Special Edition]",
-        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 267253,
-      "name": "Wicked Game - Acoustic; Live",
-      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
     },
     {
       "added_at": "2022-09-23 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 7729,
+  "num_followers": 7732,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMGE0OTlmMzYzNjI0YmU2ZTIyM2MxNTE3ZjNiYmY4NTg2",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDM3YTI0NDNmMzcyZjFmZDkwZjk2NzI4MDc2Zjc0YTJj",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "AW",
-        "url": "https://open.spotify.com/album/658WdTob3JXKse2edU1PiH"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9e Watters",
-          "url": "https://open.spotify.com/artist/69C2IK3ervhiGEvbp6ss7H"
-        }
-      ],
-      "duration_ms": 229906,
-      "name": "Si exceptionnel",
-      "url": "https://open.spotify.com/track/4rDhLzmzPz4aAJ1hs4HOlW"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Le temps au point mort",
         "url": "https://open.spotify.com/album/3Gl5kyHaBRlOtbkbZdrDfU"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "100% boeuf",
-        "url": "https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG"
+        "name": "AW",
+        "url": "https://open.spotify.com/album/658WdTob3JXKse2edU1PiH"
       },
       "artists": [
         {
-          "name": "P\u00e9p\u00e9 et sa guitare",
-          "url": "https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV"
+          "name": "Andr\u00e9e Watters",
+          "url": "https://open.spotify.com/artist/69C2IK3ervhiGEvbp6ss7H"
         }
       ],
-      "duration_ms": 251520,
-      "name": "Poney",
-      "url": "https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh"
+      "duration_ms": 229906,
+      "name": "Si exceptionnel",
+      "url": "https://open.spotify.com/track/4rDhLzmzPz4aAJ1hs4HOlW"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -555,6 +539,22 @@
       "duration_ms": 236373,
       "name": "Myst\u00e8re a\u00e9rosol",
       "url": "https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "100% boeuf",
+        "url": "https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9p\u00e9 et sa guitare",
+          "url": "https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "Poney",
+      "url": "https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -607,22 +607,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Sur quelle plan\u00e8te",
-        "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9nus 3",
-          "url": "https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU"
-        }
-      ],
-      "duration_ms": 323400,
-      "name": "Dans les airs",
-      "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Le silence des roses",
         "url": "https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 263640,
       "name": "Si j'ai tort",
       "url": "https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Sur quelle plan\u00e8te",
+        "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9nus 3",
+          "url": "https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU"
+        }
+      ],
+      "duration_ms": 323400,
+      "name": "Dans les airs",
+      "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -655,22 +655,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Thermoplastique",
-        "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
-      },
-      "artists": [
-        {
-          "name": "Les Secr\u00e9taires Volantes",
-          "url": "https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF"
-        }
-      ],
-      "duration_ms": 173626,
-      "name": "Thermoplastique",
-      "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Le Chihuahua",
         "url": "https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 279160,
       "name": "Le teint de Linda",
       "url": "https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Thermoplastique",
+        "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
+      },
+      "artists": [
+        {
+          "name": "Les Secr\u00e9taires Volantes",
+          "url": "https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF"
+        }
+      ],
+      "duration_ms": 173626,
+      "name": "Thermoplastique",
+      "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
     },
     {
       "added_at": "2020-06-23 14:47:30",

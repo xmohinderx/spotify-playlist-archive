@@ -4,10 +4,11 @@
 
 > Enjoy the world of “Black Clover”! 魔法帝を目指す少年たちの物語を歴代OP/ED、サントラ曲でお楽しみください。© 田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会
 
-40 songs - 2 hr 9 min - [published](https://open.spotify.com/playlist/0MCrS85VoM1t1atVY1kaao)
+41 songs - 2 hr 14 min - [published](https://open.spotify.com/playlist/0MCrS85VoM1t1atVY1kaao)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Walk](https://open.spotify.com/track/0PievpCNM93Ukg5q5XWu8X) | [梶原岳人](https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG) | [A Walk](https://open.spotify.com/album/2W1erva7HEgdfcx4I5UssN) | 4:19 | 2023-01-01 |  |
 | [against all gods](https://open.spotify.com/track/2Y7RqQQ8SHHuyOuahPFmoT) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [against all gods](https://open.spotify.com/album/7JzuLlamf2TEHcAGtbIWa6) | 3:59 | 2021-05-26 |  |
 | [Amazing Dreams](https://open.spotify.com/track/3XkODQB4J2EQIOVKIhXp56) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt) | [Amazing Dreams](https://open.spotify.com/album/2RRu7VV3TPkZXUOg8sSs7i) | 4:18 | 2021-05-26 |  |
 | [BEAUTIFUL](https://open.spotify.com/track/2qTBVFldq01eNa40hin4FV) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [BEAUTIFUL](https://open.spotify.com/album/3Z5BxpuPKqQzLWuPl2OnMG) | 3:50 | 2021-05-26 |  |

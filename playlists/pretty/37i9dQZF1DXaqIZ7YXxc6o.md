@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: MOTi
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,605 likes - 101 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,623 likes - 101 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 10 | [Revolution](https://open.spotify.com/track/1vlnbR9iKNLCAlEDNSBrxj) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Revolution](https://open.spotify.com/album/6A1uNJqYuAhldH89hy70od) | 4:07 |
 | 11 | [Need Me Right](https://open.spotify.com/track/6bGTVNNA07wWwyPFPa7PyD) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Need Me Right](https://open.spotify.com/album/6lkMuhT1CneIWN1wCnOGLM) | 2:24 |
 | 12 | [Ecstasy Of Soul](https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Ecstasy Of Soul](https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8) | 3:58 |
-| 13 | [Once Again \- FOVOS Remix](https://open.spotify.com/track/4kUhdlpiBjnN9fyNyQdX19) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Once Again \(FOVOS Remix\)](https://open.spotify.com/album/2JUWPyPMStjSsIx5oNHJOO) | 3:33 |
+| 13 | [Once Again \- FOVOS Remix](https://open.spotify.com/track/4utyVIaPPovaCm7ZG1ZQA4) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Once Again](https://open.spotify.com/album/7qzo2BOdgUqZcFKFnFoVMp) | 3:33 |
 | 14 | [Call On Me \(with Tove Lo\) \- SG's Dub Edit](https://open.spotify.com/track/4cAESz6WLbrrpTvR3Confo) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Call On Me \(with Tove Lo\) \[SG's Dub Edit\]](https://open.spotify.com/album/2Vv75hiDNkC3Te9FEUMRIC) | 5:49 |
 | 15 | [Fade to Black](https://open.spotify.com/track/3DS6zUDAm3X8F6kiGaFfWL) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ) | [Fade to Black](https://open.spotify.com/album/2Yu80Mqn0x1Y5F6X1rTqwv) | 2:56 |
 | 16 | [When I Talk](https://open.spotify.com/track/0u0oY2WuHC8B22p5nF8qsU) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY) | [When I Talk](https://open.spotify.com/album/6bREBgVcyfqjAAXjB5qtET) | 3:27 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 100 | [Sweater Weather](https://open.spotify.com/track/5gsAsuO9RFQsDkjhFdlLiI) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Sweater Weather](https://open.spotify.com/album/4ysN6BnZo6SBSyViWddtWX) | 2:54 |
 | 101 | [Disco Treats](https://open.spotify.com/track/4ADUECqx9JpXNDlXNjDffF) | [SCNDL](https://open.spotify.com/artist/3Y7sK4nACC8R7WwAUUumCL) | [Disco Treats](https://open.spotify.com/album/5ZhoyjkDSHATbZ98mESbuy) | 2:48 |
 
-Snapshot ID: `MTY3MjMxODgwMCwwMDAwMDAwMGQ1MzIwMmE4ODJkMjRlODlkOTRlNWQ1Yzc2ZTE2YzA0`
+Snapshot ID: `MTY3MjMxODgwMCwwMDAwMDAwMDJkODQzMzQ5YWE0NzRmYjFkZWE1OThjOTA5OWMyZDJh`

@@ -4,7 +4,7 @@
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/0igVTu5HvdcrsZRrSSQai3)
+79 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/0igVTu5HvdcrsZRrSSQai3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Find You](https://open.spotify.com/track/0bWHZZkzy7wgTYaTcrkyvE) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Monocule \(Volume 2\)](https://open.spotify.com/album/0Lo3tsG5drmteljSwQX01I) | 3:03 | 2021-12-20 | 2022-01-15 |
 | [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 | 2022-10-29 |  |
 | [Harmony](https://open.spotify.com/track/0qwPUvS4Eofc19Uw2IDodG) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH) | [Harmony](https://open.spotify.com/album/4SnEzerWvY2jHhNiMu0iKE) | 3:33 | 2022-04-11 | 2022-10-07 |
-| [Hear Me Now](https://open.spotify.com/track/2RENEC1I3hpe1PXVbqSvr6) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Perception EP](https://open.spotify.com/album/2YE08q7reI4y0Ucx8mfJtE) | 3:29 | 2022-05-29 |  |
+| [Hear Me Now](https://open.spotify.com/track/2RENEC1I3hpe1PXVbqSvr6) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Perception EP](https://open.spotify.com/album/2YE08q7reI4y0Ucx8mfJtE) | 3:29 | 2022-05-29 | 2023-01-02 |
 | [Here We Go \(Hey Boy, Hey Girl\)](https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Here We Go \(Hey Boy, Hey Girl\)](https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd) | 2:38 | 2021-12-20 |  |
 | [Hero \- Nicky Romero Remix](https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Hero \(Nicky Romero Remix\)](https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3) | 3:12 | 2021-12-20 |  |
 | [Higher](https://open.spotify.com/track/2Oz76ydPg8xW4oD4owK1qZ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [See You On The Dancefloor EP](https://open.spotify.com/album/5jZFGN9q2mdbRPoQhopk2k) | 3:08 | 2022-02-08 | 2022-07-14 |
@@ -74,6 +74,7 @@
 | [Techtronic](https://open.spotify.com/track/756vcXfBaXXBV68aT7OVSh) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Techtronic](https://open.spotify.com/album/1wnat2fR8nky0aO4pNnkWm) | 3:44 | 2022-10-09 |  |
 | [The Moment \(Novell\)](https://open.spotify.com/track/5s2Ck1iBxZ1eP3WMT5Ie8r) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [The Moment \(Novell\)](https://open.spotify.com/album/3k70G2fNSOgsirdlXJB2ub) | 3:20 | 2021-12-21 | 2022-08-06 |
 | [Time](https://open.spotify.com/track/1uTqxBGvEiffBv41ih1nYB) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Redefine EP](https://open.spotify.com/album/7tpXMYDfo95hIG6AAbCMrJ) | 2:52 | 2022-10-12 |  |
+| [To The Floor \(Nicky Romero Edit\)](https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m) | [Loud 'N Bright](https://open.spotify.com/artist/2YvMW8mwEJIohdOpAk4JcG), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [To The Floor \(Nicky Romero Edit\)](https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp) | 2:22 | 2023-01-01 |  |
 | [Toulouse \- Bobby Anthony Vocal Mix](https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Toulouse \(Bobby Anthony Vocal Mix\)](https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2) | 2:58 | 2021-12-20 |  |
 | [Ups & Downs](https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Ups & Downs](https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU) | 3:02 | 2021-12-20 |  |
 | [Ways To Heaven](https://open.spotify.com/track/2VSgFW94CNDanquL9j97qL) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Jamis](https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx), [Michael G Moore](https://open.spotify.com/artist/2WFsseAjUlC9pvgl6G3qsO), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Ways To Heaven](https://open.spotify.com/album/3ADqT7a27NxBo3MafCou7Y) | 2:47 | 2021-12-20 | 2022-02-28 |

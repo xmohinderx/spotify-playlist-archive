@@ -4,7 +4,7 @@
 
 > Moody electronica for the night time hours
 
-75 songs - 6 hr 3 min - not published yet
+76 songs - 6 hr 7 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 | 2022-12-01 |  |
 | [Condition](https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:44 | 2022-12-01 |  |
 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 | 2022-12-01 |  |
+| [Control](https://open.spotify.com/track/3aCHltJ5vsCJI94VxpWhf2) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Control EP](https://open.spotify.com/album/5XqTrQdLMhuCxtxKwxDTFx) | 3:59 | 2022-12-01 |  |
 | [Deep In The Glowing Heart \- Night Version](https://open.spotify.com/track/3XHWFH0geNVT36j4vbiv4m) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Deep In The Glowing Heart \(Night Version\)](https://open.spotify.com/album/4VvBp7mqOnrUhqP3VOLYiJ) | 7:00 | 2022-12-01 |  |
 | [Dhollandia](https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Dhollandia / Circles](https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr) | 6:18 | 2022-12-01 |  |
 | [Equals](https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Equals](https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB) | 4:46 | 2022-12-01 |  |
@@ -42,7 +43,7 @@
 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 | 2022-12-01 |  |
 | [Intimate Fantasy](https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy \- EP](https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW) | 8:13 | 2022-12-01 |  |
 | [Is It Me](https://open.spotify.com/track/1rgievgwEh6siXmnPp5V93) | [Achingdrum](https://open.spotify.com/artist/4LeM3PKFS6wEtkDLNULq87), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy) | [Is It Me](https://open.spotify.com/album/7bdQzzdr4GwfMZIP5G6rKl) | 4:16 | 2022-12-01 |  |
-| [Jump Code](https://open.spotify.com/track/1gqkiGnfEsDEIz0F7Gv8az) | [Reflex Blue](https://open.spotify.com/artist/3z2JEfNoPTDQbDgfBzplyn) | [FREE002](https://open.spotify.com/album/39dE1TNPTHZqcNnKvKN7AB) | 5:56 | 2022-12-16 |  |
+| [Jump Code](https://open.spotify.com/track/1gqkiGnfEsDEIz0F7Gv8az) | [Reflex Blue](https://open.spotify.com/artist/3z2JEfNoPTDQbDgfBzplyn) | [FREE002](https://open.spotify.com/album/39dE1TNPTHZqcNnKvKN7AB) | 5:56 | 2022-12-16 | 2023-01-02 |
 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 | 2022-12-01 |  |
 | [Keep Shimmering](https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Please Keep Shimmering](https://open.spotify.com/album/1gNXxhIfHLXttmjKSC1TDV) | 4:23 | 2022-12-01 |  |
 | [Komodo](https://open.spotify.com/track/5OH67rxvZ9KHFInp9t4XjW) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Komodo / Flores](https://open.spotify.com/album/72sEoUBxoXL0SczjZzjNT3) | 4:21 | 2022-12-01 | 2022-12-25 |

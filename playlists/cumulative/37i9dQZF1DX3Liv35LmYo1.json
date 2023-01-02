@@ -308,6 +308,24 @@
     },
     {
       "album": {
+        "name": "Control EP",
+        "url": "https://open.spotify.com/album/5XqTrQdLMhuCxtxKwxDTFx"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239678,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/3aCHltJ5vsCJI94VxpWhf2"
+    },
+    {
+      "album": {
         "name": "Deep In The Glowing Heart (Night Version)",
         "url": "https://open.spotify.com/album/4VvBp7mqOnrUhqP3VOLYiJ"
       },
@@ -701,7 +719,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 356367,
       "name": "Jump Code",
       "url": "https://open.spotify.com/track/1gqkiGnfEsDEIz0F7Gv8az"

@@ -396,6 +396,28 @@
     },
     {
       "album": {
+        "name": "Anti-Hero (Remixes)",
+        "url": "https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194612,
+      "name": "Anti-Hero - Kungs Remix",
+      "url": "https://open.spotify.com/track/2oWpe2L8ypC080BxpDVuTY"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -639,7 +661,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/3lDSWvR0FXWGXo7mhDUs3v"

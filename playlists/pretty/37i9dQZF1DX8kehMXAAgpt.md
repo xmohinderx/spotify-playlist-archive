@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kehMXAAgpt.md) - [plain]
 
 > Workout music for hamsters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,777 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,779 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kehMXAAgpt.md) - [plain]
 | 18 | [Project Dreams](https://open.spotify.com/track/6GSkLS2y4ZnnZsuRAj975K) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Project Dreams](https://open.spotify.com/album/4mKWtSdQVrmWzY0d3fLBTR) | 2:47 |
 | 19 | [Nothing To Do](https://open.spotify.com/track/23xtuubzgbV2UCKepN0h84) | [Bancali](https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h) | [Nothing To Do](https://open.spotify.com/album/5Dfz1XYeRSSdhOOTNrhedG) | 2:33 |
 | 20 | [Istanbul](https://open.spotify.com/track/2wC9IS3UDMfIUGd9JvxUVA) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Istanbul](https://open.spotify.com/album/6N5xZRg1WFFFSLQ76kn0Kp) | 2:25 |
-| 21 | [Behind Barz \- Bonus](https://open.spotify.com/track/5r7WvQtyPfy1xch5zMgGRp) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Top Boy \(A Selection of Music Inspired by the Series\)](https://open.spotify.com/album/334X6XoNKUzpAQbm5FPsMh) | 2:43 |
+| 21 | [Behind Barz \- Bonus](https://open.spotify.com/track/621hMmYrgWG3caSFtbZg2p) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Behind Barz \(Bonus\)](https://open.spotify.com/album/3zKS1jwGRc0qWJBrSQcBLm) | 2:43 |
 | 22 | [The Search](https://open.spotify.com/track/2OKo7g3KfmCt3kyLvUAL0g) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/6w8mGg73sQl4QJEhpDUvpI) | 4:08 |
 | 23 | [Go Loko \(feat\. Tyga, Jon Z\)](https://open.spotify.com/track/1kK6DwzyXJSp58u5HYWwuD) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [4REAL 4REAL](https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm) | 4:59 |
 | 24 | [When In Rome](https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ) | [When In Rome](https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f) | 3:14 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kehMXAAgpt.md) - [plain]
 | 39 | [Started](https://open.spotify.com/track/5t0VcwyjDPOWIdylULdfxk) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Started](https://open.spotify.com/album/04MknhNSl3DH9qDbBr61bS) | 3:06 |
 | 40 | [Death Rail](https://open.spotify.com/track/6ZI5UgjEGb82o1XaAZKLJ2) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Death Rail](https://open.spotify.com/album/4C0vIxaCTSloENgeyOFgZ8) | 2:31 |
 
-Snapshot ID: `MTU3ODYzMjQ2MCwwMDAwMDAwMGZiNGNiYjVkYmMxZWI5OWZmMDU4MGNhMmRhNTJlOWJk`
+Snapshot ID: `MTU3ODYzMjQ2MCwwMDAwMDAwMGU1YzU0ODQ0NjkxMjBiNzViYTBiYzg5M2MzNzAwOGQy`

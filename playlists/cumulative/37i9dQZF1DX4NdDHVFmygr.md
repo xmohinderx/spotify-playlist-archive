@@ -4,12 +4,13 @@
 
 > The sweet sounds of Morocco.
 
-201 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+204 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:00](https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [00:00](https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD) | 3:58 | 2022-10-15 |  |
 | [1000 Fois](https://open.spotify.com/track/0b8ePOUVHahjftHqZXEa5I) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Regalo](https://open.spotify.com/album/6QYA0gxCZ0mRO4XgpNPmTf) | 3:38 | 2022-02-07 | 2022-02-15 |
+| [3adi](https://open.spotify.com/track/7jy0frWv77uVBwLPdoEGl5) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX), [Madara](https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7) | [01.01](https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ) | 3:19 | 2023-01-01 |  |
 | [3amarli Kasi](https://open.spotify.com/track/2H8YrOTY3h9fGqiv2RnBsN) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm), [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [3amarli Kasi](https://open.spotify.com/album/3aPbk4uvzin5SftEiBL4q3) | 2:57 | 2022-01-11 | 2022-04-08 |
 | [3ARI](https://open.spotify.com/track/2DBR3Wrmt3QzdwGYWi3ULi) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/7JpbK6ZrdKDRaZfYJI4B6u) | 3:09 | 2022-03-08 | 2022-05-14 |
 | [3ARI \- A COLORS SHOW](https://open.spotify.com/track/1AiLzzzFxUKZS6T7Sk8CMN) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI \- A COLORS SHOW](https://open.spotify.com/album/4PWMbvS0qXoj5AZjtdo0C3) | 2:42 | 2022-05-13 | 2022-06-21 |
@@ -24,6 +25,7 @@
 | [Alatif](https://open.spotify.com/track/3MekLQaFbkJATNMy721UKa) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Alatif](https://open.spotify.com/album/0GzkWLNFOpyePPnnztgYPf) | 2:44 | 2022-10-20 | 2022-11-25 |
 | [Ana Wiyak](https://open.spotify.com/track/6DLEP9WL1MAoDqFDWAIch5) | [Anthony Touma](https://open.spotify.com/artist/7q4O5KTgHKdsT15BWNr0M7), [Maria Nadim](https://open.spotify.com/artist/3e5UC7VlCSt4DLxmXCYXZe) | [Ana Wiyak](https://open.spotify.com/album/62xt9zSogidX80GRNfLZZ6) | 2:58 | 2021-12-25 | 2022-01-12 |
 | [Anaconda](https://open.spotify.com/track/52v6JiIMBEvnuvRFOyxhMQ) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Anaconda](https://open.spotify.com/album/38NNxIG32ee7rKe0thztPa) | 3:26 | 2022-09-14 |  |
+| [Appel moi](https://open.spotify.com/track/4gY9GulQ2nQ5Em1jG2Et70) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX) | [01.01](https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ) | 3:18 | 2023-01-01 |  |
 | [Arahmini](https://open.spotify.com/track/3BbVF781ENNpsLyVlJdoAA) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:48 | 2022-10-22 |  |
 | [Ayam](https://open.spotify.com/track/0QKS9BuMqsfSyVRP2vWvzO) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Ayam](https://open.spotify.com/album/0HBSC3kSOgiV7hAwaycPhd) | 3:05 | 2022-06-11 |  |
 | [Ayay](https://open.spotify.com/track/44DBAjWwzFlUY2361xh6BW) | [Klass\-A](https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [R&B KINGZ](https://open.spotify.com/album/3568mNTIRB9KzRLFBYWCBh) | 3:05 | 2021-12-25 | 2022-03-09 |
@@ -133,6 +135,7 @@
 | [Magnifique](https://open.spotify.com/track/0CBFjd1RU3ao8BqWMEiUy5) | [Klass\-A](https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ), [Comoriano](https://open.spotify.com/artist/4lAuN82ZeMgrNRReNybKOT), [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF), [Ljasos](https://open.spotify.com/artist/18Zp1qI0chLfqQPq6i3yTJ) | [Magnifique](https://open.spotify.com/album/59iV1eX9oRXELm1zEO8nKB) | 4:01 | 2022-07-21 |  |
 | [Mahmouma](https://open.spotify.com/track/6ihD584TA3v6QFUywtf6UP) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [Mahmouma](https://open.spotify.com/album/1sQ0PkcBKrbrr1NdmQwNiG) | 3:03 | 2022-02-24 | 2022-05-20 |
 | [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 | 2022-06-27 |  |
+| [Mal a laise](https://open.spotify.com/track/1EaP59fArk92xvfb3sq7qb) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX), [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [01.01](https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ) | 3:22 | 2023-01-01 |  |
 | [Mali](https://open.spotify.com/track/5SF2WNB9s2MPDhZjF4opBG) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Méditerranée](https://open.spotify.com/album/1HJzInrgb53YvdUXMbfiSt) | 2:36 | 2022-10-10 | 2022-10-12 |
 | [Mamacita](https://open.spotify.com/track/4P8HPmYPNCNxqHlYMovXRv) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [G.O.A.T](https://open.spotify.com/album/6NiSCshnU058O2fJ03ahDc) | 3:18 | 2022-03-05 | 2022-05-27 |
 | [Mankhalik Matkhalini](https://open.spotify.com/track/7IxGDdtOCXlgsnZGtQCL8P) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Yousra](https://open.spotify.com/artist/2hCrlLMEy5nMm00yVVOY6h) | [Mankhalik Matkhalini](https://open.spotify.com/album/5l8TksASDKz7pmNFIt77gh) | 3:31 | 2021-12-25 | 2022-01-28 |

@@ -4,7 +4,7 @@
 
 > The best in new & current Dancehall\. Cover: WSTRN
 
-179 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/06Owom4tM3pY6z1utpLRaA)
+180 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/06Owom4tM3pY6z1utpLRaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Stop the Talking](https://open.spotify.com/track/50iNtCse0BOpgWH97crBVC) | [Toian](https://open.spotify.com/artist/5sBdzqT2jx5jacEUcBn6X1), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Stop the Talking](https://open.spotify.com/album/2j6xRSObURwTRhWDnAKHbF) | 3:15 | 2022-07-29 | 2022-09-10 |
 | [Street Cred](https://open.spotify.com/track/7uCd9RMJGcbZY9zpv0dPw7) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Street Cred](https://open.spotify.com/album/2yEZn1kPkRUTW3F48OEFeB) | 2:30 | 2021-12-20 |  |
 | [Suffering Days](https://open.spotify.com/track/72dpxZuTHoyVqt6CUBgSog) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Pop Style](https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H) | [Suffering Days](https://open.spotify.com/album/3kdctcGAqj1STmWJfEqgmw) | 2:15 | 2021-12-20 | 2022-03-03 |
-| [SUH ME LUV IT \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4iyNOD4gCFiKMc62BVm0IN) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:13 | 2021-12-20 |  |
+| [SUH ME LUV IT \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4KLpNmKeu6C2jVaTQeFCZO) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:13 | 2022-09-09 |  |
+| [SUH ME LUV IT \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4iyNOD4gCFiKMc62BVm0IN) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:13 | 2021-12-20 | 2023-01-02 |
 | [Superior](https://open.spotify.com/track/5v03vqHWiJidFNj53MPRnq) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Anju Blaxx](https://open.spotify.com/artist/2JFZKD5b40RXXmpYJkLOvl) | [Superior](https://open.spotify.com/album/0BkRBYtKIdDmocZIIMU4Ry) | 3:40 | 2021-12-20 | 2022-03-03 |
 | [Sweepstake Life](https://open.spotify.com/track/58NHF2OvW3GG6YPaeJxKHh) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Sweepstake Life](https://open.spotify.com/album/5CgSQKBs32x5ZTOgc7uYSn) | 3:00 | 2022-03-02 |  |
 | [Sweet Bounce](https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Sweet Bounce](https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3) | 1:36 | 2022-06-17 |  |

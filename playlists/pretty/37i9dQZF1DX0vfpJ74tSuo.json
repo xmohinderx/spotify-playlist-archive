@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 48469,
+  "num_followers": 48545,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYzOTg0MiwwMDAwMDAwMGZmMzkwNTc4NDBmYTBjODc2Y2NkZTAyZWZkODkxNTI1",
+  "snapshot_id": "MTY3MTYzOTg0MiwwMDAwMDAwMDNiY2U5OGQyNWQzMmVmOWE1NTFjZmVlNmNlOGQ4NGYw",
   "tracks": [
     {
       "added_at": "2022-12-21 16:24:02",
@@ -463,38 +463,6 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "Alabama Blues!",
-        "url": "https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa"
-      },
-      "artists": [
-        {
-          "name": "J.B. Lenoir",
-          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
-        }
-      ],
-      "duration_ms": 194373,
-      "name": "Alabama Blues",
-      "url": "https://open.spotify.com/track/21EwgINgOx9iiYo7Sj1HCM"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
-        "name": "Elementary Doctor Watson",
-        "url": "https://open.spotify.com/album/21k6Gb6ldqVsUfWY9culSS"
-      },
-      "artists": [
-        {
-          "name": "Doc & Merle Watson",
-          "url": "https://open.spotify.com/artist/7GekK1oMVU35jfChgIP2PU"
-        }
-      ],
-      "duration_ms": 207387,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/6XqtE6pjFSJV3dC7Qlr0t0"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
         "name": "Giant Steps/De Old Folks At Home",
         "url": "https://open.spotify.com/album/2K4jHu8XV4HrgWlmOGwJty"
       },
@@ -527,6 +495,38 @@
       "duration_ms": 241493,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
+        "name": "Alabama Blues!",
+        "url": "https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa"
+      },
+      "artists": [
+        {
+          "name": "J.B. Lenoir",
+          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+        }
+      ],
+      "duration_ms": 194373,
+      "name": "Alabama Blues",
+      "url": "https://open.spotify.com/track/21EwgINgOx9iiYo7Sj1HCM"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
+        "name": "Elementary Doctor Watson",
+        "url": "https://open.spotify.com/album/21k6Gb6ldqVsUfWY9culSS"
+      },
+      "artists": [
+        {
+          "name": "Doc & Merle Watson",
+          "url": "https://open.spotify.com/artist/7GekK1oMVU35jfChgIP2PU"
+        }
+      ],
+      "duration_ms": 207387,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/6XqtE6pjFSJV3dC7Qlr0t0"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "Down in Mississippi",
-        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "Down in Mississippi",
-      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
         "name": "Letter from Bluewater Man",
         "url": "https://open.spotify.com/album/3iTXLRbWXRvuNgfJPkoMOh"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 144000,
       "name": "Letter from Bluewater Man",
       "url": "https://open.spotify.com/track/5jl5jAMyWpkR4lEkAGnTXX"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
+        "name": "Down in Mississippi",
+        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 203453,
+      "name": "Down in Mississippi",
+      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "Shake It for Me",
-        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 222199,
-      "name": "Shake It for Me",
-      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
         "name": "Simple Truths",
         "url": "https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 280306,
       "name": "I'm So Lonely",
       "url": "https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
+        "name": "Shake It for Me",
+        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 222199,
+      "name": "Shake It for Me",
+      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -1383,22 +1383,22 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "Brother Johnny",
-        "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
+        "name": "The Juice",
+        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
       },
       "artists": [
         {
-          "name": "Edgar Winter",
-          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
         },
         {
           "name": "Keb' Mo'",
           "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         }
       ],
-      "duration_ms": 237096,
-      "name": "Lone Star Blues",
-      "url": "https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm"
+      "duration_ms": 202840,
+      "name": "Shine on Moon (feat. Keb' Mo')",
+      "url": "https://open.spotify.com/track/7JqE3pDK2ZMUhk5BE5vTT9"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -1419,22 +1419,22 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "The Juice",
-        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+        "name": "Brother Johnny",
+        "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+          "name": "Edgar Winter",
+          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
         },
         {
           "name": "Keb' Mo'",
           "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         }
       ],
-      "duration_ms": 202840,
-      "name": "Shine on Moon (feat. Keb' Mo')",
-      "url": "https://open.spotify.com/track/7JqE3pDK2ZMUhk5BE5vTT9"
+      "duration_ms": 237096,
+      "name": "Lone Star Blues",
+      "url": "https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -1487,22 +1487,18 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "Newbury",
-        "url": "https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3"
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
       },
       "artists": [
         {
-          "name": "Emiliano Savini",
-          "url": "https://open.spotify.com/artist/46GUtbDolQDzC9WU2gYIqv"
-        },
-        {
-          "name": "Liliana Richter",
-          "url": "https://open.spotify.com/artist/7BaNCwzekjzjD4aRrysKms"
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Newbury",
-      "url": "https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl"
+      "duration_ms": 164213,
+      "name": "The Moon Is Rising",
+      "url": "https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -1523,22 +1519,6 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
-      },
-      "artists": [
-        {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
-        }
-      ],
-      "duration_ms": 164213,
-      "name": "The Moon Is Rising",
-      "url": "https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
         "name": "The Cause of It All",
         "url": "https://open.spotify.com/album/33kr65x9D148InPeYYIloG"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 137186,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/308iMDZL6Y2OsJceqn6Uly"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
+        "name": "Newbury",
+        "url": "https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Savini",
+          "url": "https://open.spotify.com/artist/46GUtbDolQDzC9WU2gYIqv"
+        },
+        {
+          "name": "Liliana Richter",
+          "url": "https://open.spotify.com/artist/7BaNCwzekjzjD4aRrysKms"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Newbury",
+      "url": "https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
-        "name": "Mashing Rain",
-        "url": "https://open.spotify.com/album/3x9VyS2BCTAWtW71X2Yhbu"
-      },
-      "artists": [
-        {
-          "name": "Honky Fish",
-          "url": "https://open.spotify.com/artist/0Cnqt7ZhpE7wDK5hJzbU96"
-        }
-      ],
-      "duration_ms": 134333,
-      "name": "Mashing Rain",
-      "url": "https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
         "name": "Alaska Blue",
         "url": "https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 173688,
       "name": "Alaska Blue",
       "url": "https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
+        "name": "Mashing Rain",
+        "url": "https://open.spotify.com/album/3x9VyS2BCTAWtW71X2Yhbu"
+      },
+      "artists": [
+        {
+          "name": "Honky Fish",
+          "url": "https://open.spotify.com/artist/0Cnqt7ZhpE7wDK5hJzbU96"
+        }
+      ],
+      "duration_ms": 134333,
+      "name": "Mashing Rain",
+      "url": "https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI"
     },
     {
       "added_at": "2022-12-21 16:24:02",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-12-21 16:24:02",
       "album": {
+        "name": "Last Session",
+        "url": "https://open.spotify.com/album/0mlOrznmUepY8FKiHaPhij"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie McTell",
+          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "Broke Down Engine Blues",
+      "url": "https://open.spotify.com/track/3pv4AWo4JMFi00CrvOfbOo"
+    },
+    {
+      "added_at": "2022-12-21 16:24:02",
+      "album": {
         "name": "Porch Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 170893,
       "name": "Change is Inevitable (feat. AJ Fullerton)",
       "url": "https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et"
-    },
-    {
-      "added_at": "2022-12-21 16:24:02",
-      "album": {
-        "name": "Last Session",
-        "url": "https://open.spotify.com/album/0mlOrznmUepY8FKiHaPhij"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie McTell",
-          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "Broke Down Engine Blues",
-      "url": "https://open.spotify.com/track/3pv4AWo4JMFi00CrvOfbOo"
     }
   ],
   "unique_name": "Morning Blues",

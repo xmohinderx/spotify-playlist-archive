@@ -4,12 +4,13 @@
 
 > Workout music for hamsters.
 
-48 songs - 2 hr 33 min - [published](https://open.spotify.com/playlist/7kWSdWcCJPk2TXY65mMg6G)
+49 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/7kWSdWcCJPk2TXY65mMg6G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1988 REMAKE 2\_Nottz\_42North.wav](https://open.spotify.com/track/1aYLZv4l7L90l5gDoOpZpj) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [1988 REMAKE 2\_Nottz\_42North.wav](https://open.spotify.com/album/1NAfR20CUfpMtkxwFbQrIy) | 4:03 | 2020-01-10 |  |
-| [Behind Barz \- Bonus](https://open.spotify.com/track/5r7WvQtyPfy1xch5zMgGRp) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Top Boy \(A Selection of Music Inspired by the Series\)](https://open.spotify.com/album/334X6XoNKUzpAQbm5FPsMh) | 2:43 | 2020-01-10 |  |
+| [Behind Barz \- Bonus](https://open.spotify.com/track/5r7WvQtyPfy1xch5zMgGRp) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Top Boy \(A Selection of Music Inspired by the Series\)](https://open.spotify.com/album/334X6XoNKUzpAQbm5FPsMh) | 2:43 | 2020-01-10 | 2023-01-02 |
+| [Behind Barz \- Bonus](https://open.spotify.com/track/621hMmYrgWG3caSFtbZg2p) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Behind Barz \(Bonus\)](https://open.spotify.com/album/3zKS1jwGRc0qWJBrSQcBLm) | 2:43 | 2020-01-10 |  |
 | [Body \- Dzeko Remix](https://open.spotify.com/track/4RgDgaohkG08f630ZT9QKc) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw) | [Body \(Dzeko Remix\)](https://open.spotify.com/album/27BS0fcfFoF6hNMdJZPMRR) | 2:45 | 2020-01-10 |  |
 | [Cigarettes On Patios](https://open.spotify.com/track/0LJDFZohBgWOMvXQw0cc9W) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Cigarettes On Patios](https://open.spotify.com/album/5vN3lm8mcpQ9IoQ3Xutrkw) | 3:27 | 2020-01-10 |  |
 | [Clout \(feat\. Cardi B\)](https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:25 | 2020-01-10 |  |

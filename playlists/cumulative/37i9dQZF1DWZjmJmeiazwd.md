@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-418 songs - 1 day 1 hr 13 min - [published](https://open.spotify.com/playlist/4hjyqOv4pr58cwOYvnLuVE)
+419 songs - 1 day 1 hr 17 min - [published](https://open.spotify.com/playlist/4hjyqOv4pr58cwOYvnLuVE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Animal I Have Become](https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:51 | 2022-11-30 |  |
 | [Animals](https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:04 | 2022-04-22 | 2022-05-21 |
 | [Another Life](https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00) | 3:25 | 2020-06-29 |  |
+| [Antisocialist](https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA) | 3:36 | 2022-10-07 |  |
 | [Antisocialist](https://open.spotify.com/track/2HzoSBdq66iBoJXnnh1Tsq) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Antisocialist](https://open.spotify.com/album/2fx7yIPvTcKk2AwlCexOKi) | 3:36 | 2020-06-29 | 2022-07-29 |
 | [Antisocialist](https://open.spotify.com/track/5Rb3OxCE0BAuDfgTr4awtF) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/5VKKXDvYuJmRc2UQHCwNQK) | 3:36 | 2022-07-28 | 2022-11-05 |
 | [Anxiety](https://open.spotify.com/track/69pOaF9WArEoUCt90NiDdT) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [The Bastards](https://open.spotify.com/album/5274bCsoBGBuqed5yKLi9D) | 3:14 | 2020-06-29 | 2022-09-04 |
@@ -240,7 +241,7 @@
 | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:26 | 2020-06-29 | 2022-02-26 |
 | [Moaning Lisa Smile](https://open.spotify.com/track/7gChGUkqWkinDS7uYoMLIM) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h) | 2:42 | 2020-06-29 | 2022-06-24 |
 | [Monster](https://open.spotify.com/track/6vBVkRVnVuguXXES422YbS) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Monster](https://open.spotify.com/album/3bHrKv0ecr3ZSyqdYFmoqT) | 4:16 | 2020-06-29 | 2022-02-26 |
-| [Monster Made of Memories](https://open.spotify.com/track/7HdGW7nnqYz5LhKt13J6PQ) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [Monster Made of Memories](https://open.spotify.com/album/3PYXlGZJmUtSwq5fJ840oV) | 3:05 | 2022-06-10 |  |
+| [Monster Made of Memories](https://open.spotify.com/track/7HdGW7nnqYz5LhKt13J6PQ) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [Monster Made of Memories](https://open.spotify.com/album/3PYXlGZJmUtSwq5fJ840oV) | 3:05 | 2022-06-10 | 2023-01-02 |
 | [Moon Over the Castle \- from GRAN TURISMO 7](https://open.spotify.com/track/42xYFBO1ahIWyisI7VVVEh) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Moon Over the Castle \(from GRAN TURISMO 7\)](https://open.spotify.com/album/3ZgYohcrHNEN6kEDRhUmya) | 3:07 | 2022-04-01 | 2022-06-11 |
 | [Mountain at My Gates](https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:04 | 2022-07-28 |  |
 | [Mountain at My Gates](https://open.spotify.com/track/53L6A3I9vf7rgEZnMzx54E) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/4uIDigk79DeZEYV6Z5Yf4s) | 4:04 | 2020-06-29 | 2022-04-21 |

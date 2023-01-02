@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,885 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,813 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 13 | [Christmas Time](https://open.spotify.com/track/3Cs5m2rS0UnYx4UWppPLP8) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 2:02 |
 | 14 | [I Wish You A Merry Christmas \- Remastered 2006](https://open.spotify.com/track/26hUXfKoJYkAMK07nW2dzQ) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 1:55 |
 | 15 | [Here Comes Santa Claus \(Down Santa Claus Lane\)](https://open.spotify.com/track/70OUj8g2IUjubbLcW1vynZ) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [Personal Christmas Collection](https://open.spotify.com/album/5gvprHdipdaEWUU7JH1qYc) | 2:36 |
-| 16 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [Christmas Classics](https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY) | 2:31 |
+| 16 | [It's Not Christmas 'Til You Come Home \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spotify Singles \- Holiday](https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N) | 3:12 |
 | 17 | [The Happiest Christmas Tree](https://open.spotify.com/track/5aJP0MZjb8LtPAT5WicCZm) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:43 |
-| 18 | [It's Not Christmas 'Til You Come Home \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spotify Singles \- Holiday](https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N) | 3:12 |
+| 18 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [Christmas Classics](https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY) | 2:31 |
 | 19 | [Abide With Me](https://open.spotify.com/track/7qPYEUXACuFdUyywP24ZvO) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Abide With Me](https://open.spotify.com/album/5zBhekiGUyciT3kBry7MRp) | 3:17 |
 | 20 | [Cool Yule](https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [The Commanders](https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:56 |
 | 21 | [The First Noel](https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 2:30 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 68 | [I'd Like You For Christmas](https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [The Singles Collection \(Vol\. 1\)](https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW) | 2:35 |
 | 69 | [Go Tell It On The Mountain](https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Go Tell It On The Mountain](https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i) | 2:30 |
 | 70 | [The Secret Of Christmas](https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:45 |
-| 71 | [Snow](https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc), [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj), [Trudy Stevens](https://open.spotify.com/artist/6Z83RqW2D8bbsxvzhiIcUX) | [Selections From Irving Berlin's White Christmas](https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl) | 2:43 |
-| 72 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [I'll Be Home for Christmas](https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8) | 1:41 |
+| 71 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [I'll Be Home for Christmas](https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8) | 1:41 |
+| 72 | [Snow](https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc), [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj), [Trudy Stevens](https://open.spotify.com/artist/6Z83RqW2D8bbsxvzhiIcUX) | [Selections From Irving Berlin's White Christmas](https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl) | 2:43 |
 | 73 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 |
 | 74 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/album/05UWD0k7AO2IgySGbmPoaI) | 3:20 |
 | 75 | [The Twelve Days of Christmas](https://open.spotify.com/track/0vJXil4qDbtkwXmxo0Rl1T) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 99 | [Christmas Time Is Here](https://open.spotify.com/track/1f9WJ3jehvcxTK5OTTYiOO) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:34 |
 | 100 | [Silent Night](https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:24 |
 
-Snapshot ID: `MTY3MTgwMDcxNiwwMDAwMDAwMDExNzcwMzk3MWJkZTZjNGU4MDM5YmY3ZTY0YThjNWVh`
+Snapshot ID: `MTY3MTgwMDcxNiwwMDAwMDAwMDdlNjg5NzU3MzA0MWMxMDdjMDQzMGEyOTdhMGU0MGQ5`

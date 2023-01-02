@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Michael Ray",
-  "num_followers": 81650,
+  "num_followers": 81685,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM3NjQwMCwwMDAwMDAwMGFhN2I0YjMzNDQ2MzRlNTI4YjEzOGNhNDc4ZTY1YTgz",
+  "snapshot_id": "MTY3MjM3NjQwMCwwMDAwMDAwMGY1MjZlMjI5ZGQ1OWZlYWNiYmU0MDYzMDBhNDg2ZWNl",
   "tracks": [
     {
       "added_at": "2022-12-30 05:00:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "If You Want Love",
-        "url": "https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0"
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg"
       },
       "artists": [
         {
-          "name": "Jon Langston",
-          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 204760,
-      "name": "If You Want Love",
-      "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
+      "duration_ms": 494800,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg"
+        "name": "If You Want Love",
+        "url": "https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Jon Langston",
+          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
         }
       ],
-      "duration_ms": 494800,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh"
+      "duration_ms": 204760,
+      "name": "If You Want Love",
+      "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Whoever's In New England",
-        "url": "https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Whoever's in New England",
-      "url": "https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "No Holdin' Back",
         "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 235920,
       "name": "It's Just a Matter of Time",
       "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Whoever's In New England",
+        "url": "https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Whoever's in New England",
+      "url": "https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
+        "name": "Outskirts of Heaven",
+        "url": "https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm"
+      },
+      "artists": [
+        {
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+        }
+      ],
+      "duration_ms": 243545,
+      "name": "Outskirts of Heaven",
+      "url": "https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 217200,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/26lrynwoaN6Bz8oVU5VdO8"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "Outskirts of Heaven",
-        "url": "https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm"
-      },
-      "artists": [
-        {
-          "name": "Matt Schuster",
-          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
-        }
-      ],
-      "duration_ms": 243545,
-      "name": "Outskirts of Heaven",
-      "url": "https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "15 Years, the Wild Ride",
-        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 272786,
-      "name": "3 Am",
-      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
         "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 248866,
       "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
       "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "15 Years, the Wild Ride",
+        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 272786,
+      "name": "3 Am",
+      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 257893,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "Glen Campbell I'll Be Me Soundtrack",
         "url": "https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 189253,
       "name": "Gentle On My Mind",
       "url": "https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 257893,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229574,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
         "name": "Live Forever",
         "url": "https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 180135,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2022-12-30 05:00:00",

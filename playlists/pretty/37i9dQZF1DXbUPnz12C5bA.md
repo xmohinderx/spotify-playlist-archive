@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,701 likes - 60 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,756 likes - 60 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 2 | [Nostalgia](https://open.spotify.com/track/35oUEXOfzoNUFtKDdHdQxl) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Fiesta Con El Binomio De Oro](https://open.spotify.com/album/76WWdL5GKIAP7OiSCCOeOy) | 4:57 |
 | 3 | [El Mejoral](https://open.spotify.com/track/29VIlPMmPswBTcIu4HgQCw) | [Alejandro Duran Y Su Conjunto](https://open.spotify.com/artist/1YgmYVzgbfn2EN0EQtdUqR) | [Historia Músical \- 40 Éxitos](https://open.spotify.com/album/7sVMvd2wd6gRaBKBXYWUnp) | 2:41 |
 | 4 | [El Amor Amor](https://open.spotify.com/track/62sutkPOmjOTFukadHJJ0W) | [Canta Los Exitos](https://open.spotify.com/artist/7dZlXoQy5OQpEG4rwguuOp) | [Vallenatos](https://open.spotify.com/album/0JWPaGWXspUdDkVMXAbboF) | 6:04 |
-| 5 | [Fidelina](https://open.spotify.com/track/15RwzUSshUKNDHRZhpF5w1) | [Alejandro Duran Y Su Conjunto](https://open.spotify.com/artist/1YgmYVzgbfn2EN0EQtdUqR) | [El Rey Negro Vallenato \- 16 Éxitos](https://open.spotify.com/album/2lDduvCbTFqW47cb8rkyqJ) | 2:49 |
+| 5 | [Fidelina](https://open.spotify.com/track/59rQuByCQjJ71jG935mg8n) | [Alejandro Duran Y Su Conjunto](https://open.spotify.com/artist/1YgmYVzgbfn2EN0EQtdUqR) | [Rey Negro del Acordeón Vallenato, Vol\. 7](https://open.spotify.com/album/2JgYiFvmuuB9xpWItWKu7a) | 2:49 |
 | 6 | [El Testamento](https://open.spotify.com/track/03CyZPzow3E2alCgN548Jv) | [100 Años de Vallenato](https://open.spotify.com/artist/5yY5ocGq1YAS3yjoXrRk6p), [Ismael Rudas](https://open.spotify.com/artist/1Q9t63kYBZgRHiasXyNpo8), [Daniel Celedón](https://open.spotify.com/artist/1ikKJpdFazshgkei0dMuTY) | [100 Años de Vallenato \(Vol\. 1\)](https://open.spotify.com/album/0UBSkeEsk6tTrIwwcDDEAi) | 4:45 |
 | 7 | [A Mí No Me Consuela Nadie](https://open.spotify.com/track/1nMNI18G3FWMRdHHFubZnp) | [100 Años de Vallenato](https://open.spotify.com/artist/5yY5ocGq1YAS3yjoXrRk6p), [Colacho Mendoza](https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj), [Ivo Díaz](https://open.spotify.com/artist/3IB8nphiHdMaKHT27tq8rE) | [100 Años de Vallenato \(Vol\. 1\)](https://open.spotify.com/album/0UBSkeEsk6tTrIwwcDDEAi) | 4:27 |
 | 8 | [La Gota Fría](https://open.spotify.com/track/14v88B6jqbBmmKQVM4xuOs) | [Canta Los Exitos](https://open.spotify.com/artist/7dZlXoQy5OQpEG4rwguuOp), [Emiliano Zuleta](https://open.spotify.com/artist/4j2ttDkyLZNpyM2RS9hCf5) | [Vallenatos](https://open.spotify.com/album/0JWPaGWXspUdDkVMXAbboF) | 6:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 59 | [Mi Gran Amigo \- Remastered](https://open.spotify.com/track/0hFlzhfsQzdvdzosxYTdL6) | [Beto Rada](https://open.spotify.com/artist/5urvrwvm3mQzKGUwQUAoTl), [Cheche Rada](https://open.spotify.com/artist/7lCB4GprtgzXhkfpWY5deb) | [100 Años de Vallenato \(Selección de Temas del Libro de Pilar Tafur y Daniel Samper Pizano\) \[Remastered\]](https://open.spotify.com/album/2x0Micea493w7j6gzeqhIc) | 3:38 |
 | 60 | [Obsesión \(feat\. Ramiro Better\)](https://open.spotify.com/track/4yc290Q5nIELODhKyntBhP) | [Estrellas Vallenatas](https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7), [Ramiro Better](https://open.spotify.com/artist/1zCl36J3uAuup64ADqK5Pw) | [Homenaje](https://open.spotify.com/album/4CCxY26bO2H9QJe0Y71l1u) | 3:34 |
 
-Snapshot ID: `MTY0MzA1NDAxNiwwMDAwMDAwMDBmNTdlZGQxMWNhZDc3OTdjNTQ0ZDcyZTU1YWU3MzEz`
+Snapshot ID: `MTY0MzA1NDAxNiwwMDAwMDAwMGUzOTNlZmY3MjUxYTg0ZjcyMTlmYWUwNTE2ODZhMTZm`

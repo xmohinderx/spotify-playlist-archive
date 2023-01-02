@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Marizu
 
-91 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/3Byz18nq85Iwxm1gDdCput)
+92 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/3Byz18nq85Iwxm1gDdCput)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [No Play](https://open.spotify.com/track/3LP9gtouosFKgwQw3KkrWb) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [No Play](https://open.spotify.com/album/3Op5W7Mf4IAD8jLEBynDeh) | 2:30 | 2022-07-30 | 2022-09-12 |
 | [No Stress](https://open.spotify.com/track/5FQBGvpjehp8hTnogC4V3Z) | [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn), [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl) | [No Stress](https://open.spotify.com/album/6jCc7VUYsjhFDL70OrTLEL) | 3:20 | 2022-10-01 |  |
 | [Nobody](https://open.spotify.com/track/13oiGSbxvEZD9MvRcPnrHy) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Nobody](https://open.spotify.com/album/3HYtZsdcAKrUQlc4FWM3jC) | 2:36 | 2022-09-11 |  |
+| [Nobody Like You \(feat\. CalledOut Music\) \- Radio Edit](https://open.spotify.com/track/69dmysQe6AgLJM4FepdiiJ) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Nobody Like You](https://open.spotify.com/album/1dU5VJTafuXBaXWFZKZ69C) | 3:05 | 2022-10-01 |  |
 | [Nobody Like You \- Radio Edit](https://open.spotify.com/track/7pbKyiwB7gL0VRzLPWqXmA) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Nobody Like You EP](https://open.spotify.com/album/2PFlmqHVo3ywJl9GqxOxaL) | 3:05 | 2022-07-30 | 2022-12-06 |
 | [Oh the day](https://open.spotify.com/track/44cJObwiWzhXwuEU31Mlrc) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Oh the day](https://open.spotify.com/album/0Ibo0WqVCdxd7L3HUfLBuc) | 2:37 | 2022-09-11 |  |
 | [Oluwa](https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Oluwa](https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p) | 2:40 | 2022-07-30 |  |
@@ -79,7 +80,7 @@
 | [Savior](https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Savior](https://open.spotify.com/album/0xDS06ehDdWLIrKhq4tSvs) | 2:33 | 2022-09-18 |  |
 | [Shalaye](https://open.spotify.com/track/2I2nI93M7QVN0cg8CStNzr) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Shalaye](https://open.spotify.com/album/6oG5GAz0pv16zRyuHahRGw) | 2:49 | 2022-07-30 |  |
 | [Shining](https://open.spotify.com/track/2Rn8O7Er19MwnyOlJDhpgA) | [Phontera](https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Shining](https://open.spotify.com/album/1afbLhtXnQbyLrBqNeRVhX) | 2:12 | 2022-12-17 |  |
-| [Show Dem](https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc) | [Paul Chisom](https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV), [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Show Dem](https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD) | 3:26 | 2022-12-31 |  |
+| [Show Dem](https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc) | [Paul Chisom](https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV), [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Show Dem](https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD) | 3:26 | 2022-12-31 | 2023-01-02 |
 | [Siyahamba](https://open.spotify.com/track/0Eghphy9GkgQixBJJIZkXc) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk), [Sy\-1](https://open.spotify.com/artist/0GTr5De2nHyUWgHn5nhkgP), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [Siyahamba](https://open.spotify.com/album/6z2zZBjtMxyG7a5lSe7ZU6) | 2:59 | 2022-07-30 |  |
 | [So Special](https://open.spotify.com/track/0HM72vX16oaPUCedrNrtGP) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [So Special](https://open.spotify.com/album/6ozNe8OmYeqWKHJot14CWr) | 2:03 | 2022-09-11 |  |
 | [Standing](https://open.spotify.com/track/1IHSapgG9NsoqLKSqFroRG) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Joy](https://open.spotify.com/album/4O8ywGSfxrLmIctXsdBaA4) | 3:13 | 2022-12-17 |  |

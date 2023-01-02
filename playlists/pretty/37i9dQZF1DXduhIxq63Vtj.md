@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 
 > ¡Achis achis los mariachis!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,849 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,895 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 18 | [Yo No Fui](https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Yo No Fui](https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu) | 4:52 |
 | 19 | [Ay, Chabela](https://open.spotify.com/track/2LyHh2xmfD5nOWNwfkueUH) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 2:58 |
 | 20 | [México Lindo Y Querido](https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez La Leyenda Viviente \(Digi\-Pack\)](https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW) | 3:32 |
-| 21 | [Botellitas](https://open.spotify.com/track/11jLJ2m6vrdCyHl0kaOdz3) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 2:30 |
-| 22 | [El Bato Gacho](https://open.spotify.com/track/6ef95vgK7yUu6Bg61m2BsJ) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6hncXsK2EbPLP5YnPz64f8) | 2:26 |
+| 21 | [El Bato Gacho](https://open.spotify.com/track/6ef95vgK7yUu6Bg61m2BsJ) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6hncXsK2EbPLP5YnPz64f8) | 2:26 |
+| 22 | [Botellitas](https://open.spotify.com/track/11jLJ2m6vrdCyHl0kaOdz3) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 2:30 |
 | 23 | [Cielito Lindo](https://open.spotify.com/track/0d3QIQcaCHdt9aJlRQlOpE) | [Darvelio Arredondo](https://open.spotify.com/artist/2L9w9WQZxRBqoRaeJSXP9r) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/4gG6Kvj7leK60K4VJtq7SC) | 3:41 |
 | 24 | [Chaparrita](https://open.spotify.com/track/4mcQaRnIRyOqBocOjivSZz) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi) | 3:27 |
 | 25 | [Guadalajara](https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:56 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 43 | [La Ventana Sónica](https://open.spotify.com/track/72GbXDJ7g7sm0iGitCGqC6) | [Eleazar Garcia "Chelelo"](https://open.spotify.com/artist/0VsagfYKzqyBGt6O6tzIHP) | [Tesoros De Coleccion \- Eleazar Garcia "Chelelo"](https://open.spotify.com/album/2X07iqs573O0zHmMbJwtml) | 2:12 |
 | 44 | [El Güiri Güiri](https://open.spotify.com/track/17rmz3Z7kpqQruM9PGbySw) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Rancheras & Mariachi](https://open.spotify.com/album/3ToEMff8iNoGuVuOPQXnMk) | 2:20 |
 | 45 | [El gato Viudo](https://open.spotify.com/track/6bdqRGViPQGT16RNpKFzhh) | [Chava Flores Con Mariachi Azteca Y Grupo La Miel](https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS) | [Exitos De Chava Flores](https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW) | 2:09 |
-| 46 | [La tertulia](https://open.spotify.com/track/0Kt3S2259SxIOfwvM8YV0f) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Rico Vacilón \(16 Tracks\)](https://open.spotify.com/album/39sZRumghk9zw60fJ01fzt) | 3:13 |
+| 46 | [Allá en el rancho grande](https://open.spotify.com/track/100M2JP5shca6LGVsoUpfb) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Amorcito corazón](https://open.spotify.com/album/16LwPtwJ2WDTagFq5as6rk) | 3:16 |
 | 47 | [Copitas De Mezcal](https://open.spotify.com/track/3GFkJIIDEfGrcD9WSeQ9po) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar](https://open.spotify.com/album/0l4cuP2KHDTCFYebOBeFLs) | 3:03 |
-| 48 | [Allá en el rancho grande](https://open.spotify.com/track/100M2JP5shca6LGVsoUpfb) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Amorcito corazón](https://open.spotify.com/album/16LwPtwJ2WDTagFq5as6rk) | 3:16 |
+| 48 | [La tertulia](https://open.spotify.com/track/0Kt3S2259SxIOfwvM8YV0f) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Rico Vacilón \(16 Tracks\)](https://open.spotify.com/album/39sZRumghk9zw60fJ01fzt) | 3:13 |
 | 49 | [El gavilán pollero \(feat\. la Banda Estrellas de Sinaloa de Germán Lizárraga\)](https://open.spotify.com/track/7BHcZVdtSGyw1AbD4gi6w7) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV), [Banda Estrellas De Sinaloa De German Lizarraga](https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX) | [Pedro Infante Con Banda](https://open.spotify.com/album/4AB6kzi9s6lBccjhoNcA6s) | 1:56 |
 | 50 | [Adiós mis chorreadas](https://open.spotify.com/track/6doE0vQHWZDpg3Yj4NKYjJ) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [57 Aniversario](https://open.spotify.com/album/5NJ4vWaVFLcIpQAxT8t9Lu) | 3:12 |
 
-Snapshot ID: `MTY0MzE1NTI0MiwwMDAwMDAwMGNmMWEyYWQ0NWQxM2MzOGI1YzFmZTVmMTI0NGZiMjhj`
+Snapshot ID: `MTY0MzE1NTI0MiwwMDAwMDAwMDU1MDFjMTNmMjMwNzI0Y2Q2YjIwZjM1MTI5ZTZjMDIx`

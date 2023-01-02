@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,364 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,406 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 49 | [Licor](https://open.spotify.com/track/2sDi2QrFLpQEWbBNmE8Suc) | [Jaca](https://open.spotify.com/artist/2kMADMJ2Haa8p3x0Dj6SPH) | [Licor De Jaca](https://open.spotify.com/album/5TGbNOBIR8jdm5cVOYJcfK) | 3:26 |
 | 50 | [Vivenda](https://open.spotify.com/track/5vnzyBc5JZ1Z7VZJcf4ap6) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Vivenda](https://open.spotify.com/album/2aA6KxWFPth5qoD1AHNflH) | 3:11 |
 | 51 | [Calcular \(feat\. MDO \(Menino de Ouro\)](https://open.spotify.com/track/1YrCvngT0xfPKxTb1ycb4j) | [Rumi](https://open.spotify.com/artist/3yWoOPJIjQxiJeGQbNaSrL), [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Calcular \(feat\. MDO \(Menino de Ouro\)](https://open.spotify.com/album/6u6Qf0tOGmLW8JLDH7pgoL) | 3:25 |
-| 52 | [Sou Melhor](https://open.spotify.com/track/4EfImrloio3uJYUYRYUr9E) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg) | [Sou Melhor](https://open.spotify.com/album/1iegzQePPFIidLy2H4Gq73) | 3:05 |
-| 53 | [3AM](https://open.spotify.com/track/1hyewEko9M8kAQqNWxU5jY) | [Cairo](https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP) | [3AM](https://open.spotify.com/album/1kkh8UFijujeCRn91kAKDH) | 2:27 |
+| 52 | [3AM](https://open.spotify.com/track/1hyewEko9M8kAQqNWxU5jY) | [Cairo](https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP) | [3AM](https://open.spotify.com/album/1kkh8UFijujeCRn91kAKDH) | 2:27 |
+| 53 | [Sou Melhor](https://open.spotify.com/track/4EfImrloio3uJYUYRYUr9E) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg) | [Sou Melhor](https://open.spotify.com/album/1iegzQePPFIidLy2H4Gq73) | 3:05 |
 | 54 | [Gasoline](https://open.spotify.com/track/3cIv1Ct9pCkygvsawr9hub) | [FreshhhLife](https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Gasoline](https://open.spotify.com/album/2MBstB7AuikcLshNNTfqBh) | 3:36 |
 | 55 | [Right Now](https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5) | [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV) | [Right Now](https://open.spotify.com/album/3z1x7PCAvhRkG0F7bxAf3W) | 2:41 |
 | 56 | [You](https://open.spotify.com/track/6w2RZjWpz1sXqRPuX92izA) | [Dvk](https://open.spotify.com/artist/0BbxfukSeIodPyKQJXhawB) | [Cupid](https://open.spotify.com/album/6TiiajhnvtKkjXVhxWkPz1) | 2:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 59 | [Céu No Quarto](https://open.spotify.com/track/7qocYaIQY1ToJnbK7pj8fN) | [Walter 4reignr](https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt) | [Céu No Quarto](https://open.spotify.com/album/1iQArK8itENXTXgexkZwDd) | 2:38 |
 | 60 | [Toxic](https://open.spotify.com/track/5y5whWaKrsHfPstxEvSRXo) | [DX](https://open.spotify.com/artist/0omUGjQF2J7gdIUaJqlnzR) | [Toxic](https://open.spotify.com/album/2sfSoDqx6QohDOVG7mmV0f) | 2:22 |
 
-Snapshot ID: `MTY3MTc1MzYwMCwwMDAwMDAwMDAwYWY1MDdiM2FhYTYyYzMwNjgyZWQxM2QyMTgwMjE3`
+Snapshot ID: `MTY3MTc1MzYwMCwwMDAwMDAwMDNhMjYzZTgzNTA0Mjc1YjUwYWNlZTM0YTAwY2E4YzI3`

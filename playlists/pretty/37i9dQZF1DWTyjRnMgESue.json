@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Hozier",
-  "num_followers": 41112,
+  "num_followers": 41174,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY0NjQ3OSwwMDAwMDAwMDEzMWQzOGExN2JmNmNkNTkwN2I2NmNlZTA2N2VjMDBj",
+  "snapshot_id": "MTY2OTY0NjQ3OSwwMDAwMDAwMDVjNzU2ODczZjA5MDhkN2Q0NWVhNjYxMmU4ZDEzNmI2",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Sapling / Signs Of Life",
         "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 257853,
       "name": "Sapling",
       "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 174557,
-      "name": "Good Person",
-      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "With The Band / Bruises & Scratches",
         "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 173070,
       "name": "With The Band",
       "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 174557,
+      "name": "Good Person",
+      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1589,7 +1589,23 @@
       "url": "https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c"
     },
     {
-      "added_at": "2023-01-01 00:22:23",
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux"
+      },
+      "artists": [
+        {
+          "name": "Soll",
+          "url": "https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1"
+        }
+      ],
+      "duration_ms": 243776,
+      "name": "River",
+      "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
+    },
+    {
+      "added_at": "2023-01-02 00:59:41",
       "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/07y1wKzh66t1XuJQiIM0Dt"
@@ -1607,22 +1623,6 @@
       "duration_ms": 196639,
       "name": "You",
       "url": "https://open.spotify.com/track/4qW6aTyYPTuiFtAq4pjJta"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux"
-      },
-      "artists": [
-        {
-          "name": "Soll",
-          "url": "https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1"
-        }
-      ],
-      "duration_ms": 243776,
-      "name": "River",
-      "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
     },
     {
       "added_at": "2022-08-12 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: T.I Blaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,239 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,262 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 28 | [Good Morning Riddim](https://open.spotify.com/track/3H2yJkmKQXfjOtIKlPm300) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sinym \(Sarz Is Not Your Mate\)](https://open.spotify.com/album/3ZPMvMpc49XwdxVMZZsjRy) | 3:35 |
 | 29 | [Bolanle](https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd) | [IVD](https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Bolanle](https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL) | 2:53 |
 | 30 | [Comma](https://open.spotify.com/track/0X6KeoX1HANrLI20m4Hc1V) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 2:50 |
-| 31 | [Fididi](https://open.spotify.com/track/2rJas09J1tQEIhHZEmTsjv) | [Flash](https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [Fididi](https://open.spotify.com/album/0TOOHS6cwW4RE2Wxdm3ynj) | 3:26 |
-| 32 | [Mafo](https://open.spotify.com/track/6hwDpNoh6kb9BXhxglCBO9) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Mafo](https://open.spotify.com/album/0JFXrdvWJfhwD0heJouzqo) | 3:34 |
+| 31 | [Mafo](https://open.spotify.com/track/6hwDpNoh6kb9BXhxglCBO9) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Mafo](https://open.spotify.com/album/0JFXrdvWJfhwD0heJouzqo) | 3:34 |
+| 32 | [Fididi](https://open.spotify.com/track/2rJas09J1tQEIhHZEmTsjv) | [Flash](https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [Fididi](https://open.spotify.com/album/0TOOHS6cwW4RE2Wxdm3ynj) | 3:26 |
 | 33 | [Ikebe Supa](https://open.spotify.com/track/7FBXDNS5zK0BBltUjXnttC) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A) | [Ikebe Supa](https://open.spotify.com/album/4mnduAfflZxa1pqvQybyb6) | 2:21 |
 | 34 | [Caution \(Remix\)](https://open.spotify.com/track/0SO4p98PikYlEcZKa6YXv9) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Caution \(Remix\)](https://open.spotify.com/album/7nbqUtDbv8SvVWmwN2Pqig) | 2:26 |
 | 35 | [Turkey Nla](https://open.spotify.com/track/0na5iZ3EElnlMiE6Y0SM3P) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [Turkey Nla](https://open.spotify.com/album/4tHC1X4o1r1IXzRFsl7dQd) | 3:00 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 47 | [BADDEST](https://open.spotify.com/track/4xTwTDFRbBqfXCx5tMmadx) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [BADDEST](https://open.spotify.com/album/2RljvYXkDwwa9oREPizmGL) | 3:45 |
 | 48 | [Of Lagos](https://open.spotify.com/track/0G6mkL7Qenh7YYWPuorN3A) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Of Lagos](https://open.spotify.com/album/0XZG1YD6gSjTTARiGEWz6l) | 2:45 |
 | 49 | [Ejon Jor](https://open.spotify.com/track/3zd7lnavnwSmk4YzBidFSL) | [Son of Ika](https://open.spotify.com/artist/5XEgoROh3Nat8vH8PSb0Xi), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [Ejon Jor](https://open.spotify.com/album/2vi93kioAQWcTESp3bCIST) | 2:14 |
-| 50 | [Red](https://open.spotify.com/track/2eMgsptakx869WHZ64Y2No) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Fire](https://open.spotify.com/album/7pQThPR8GmQWkzpvqIteNH) | 2:54 |
-| 51 | [Tintok Cruise Beat](https://open.spotify.com/track/4KDnF7cF5UwTBEJYosVSnw) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u) | [TinTok Cruise Beat](https://open.spotify.com/album/3AdRRuXQ3Rs8B0APJsbaOu) | 2:13 |
+| 50 | [Tintok Cruise Beat](https://open.spotify.com/track/4KDnF7cF5UwTBEJYosVSnw) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u) | [TinTok Cruise Beat](https://open.spotify.com/album/3AdRRuXQ3Rs8B0APJsbaOu) | 2:13 |
+| 51 | [Red](https://open.spotify.com/track/2eMgsptakx869WHZ64Y2No) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Fire](https://open.spotify.com/album/7pQThPR8GmQWkzpvqIteNH) | 2:54 |
 | 52 | [PXTA](https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [PXTA](https://open.spotify.com/album/7l5tpAs5HtaHTVvSRlypnk) | 3:28 |
 | 53 | [2000](https://open.spotify.com/track/6gWzjoe48XfqcE1JrsupMk) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP), [Toby Shang](https://open.spotify.com/artist/6uVF9SBPINTFs7orI9Twt9) | [2000](https://open.spotify.com/album/3v1wWhmfvktucjlKLADVtN) | 2:22 |
 | 54 | [Celetronic Riddim](https://open.spotify.com/track/3sO5W4kHBdjvcyE2ApiVcs) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sinym \(Sarz Is Not Your Mate\)](https://open.spotify.com/album/3ZPMvMpc49XwdxVMZZsjRy) | 3:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 59 | [Of Lala](https://open.spotify.com/track/6VMwrNQPmy3lHbuoHBTAO0) | [Rahman Jago](https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS), [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Of Lala](https://open.spotify.com/album/1Fq2heYALs55JGlNPjHZLB) | 3:07 |
 | 60 | [FotiFoyin](https://open.spotify.com/track/2tuUgpT6L9av9kVH2Yhj9I) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [FotiFoyin](https://open.spotify.com/album/2qzFiIaTeSBXReTMAISM5u) | 3:35 |
 
-Snapshot ID: `MTY3MTM1NzcwMSwwMDAwMDAwMGNlYzEwMTU5ZTc1NTQ1ODJjN2M1YTAxMGM5N2RkMGNj`
+Snapshot ID: `MTY3MTM1NzcwMSwwMDAwMDAwMGM5Mjg1NmIyNGJhYjhkNzJiZTI1OTQwM2M1M2JiY2Fi`

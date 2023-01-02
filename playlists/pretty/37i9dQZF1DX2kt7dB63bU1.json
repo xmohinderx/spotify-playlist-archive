@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Lauren Henderson",
-  "num_followers": 105353,
+  "num_followers": 105431,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMDI5MTBmZTY0MzJjZTBhYzUwZDBlOTIxN2ZmNDY1Njkx",
+  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMGM4NTRjNTA5OGM0N2YxOTZkNzdmMGM3OTc2NDViNzYz",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -433,6 +433,26 @@
       "url": "https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE"
     },
     {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "It Might as Well Be Spring",
+        "url": "https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Kyle Pogline",
+          "url": "https://open.spotify.com/artist/0REkhjWkTuMhx8uvOKVZmH"
+        }
+      ],
+      "duration_ms": 292706,
+      "name": "It Might as Well Be Spring",
+      "url": "https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF"
+    },
+    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Put Your Head on My Shoulder",
@@ -463,26 +483,6 @@
       "duration_ms": 264229,
       "name": "Put Your Head on My Shoulder",
       "url": "https://open.spotify.com/track/3MRjc814zG32JiSNQ2tYvo"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "It Might as Well Be Spring",
-        "url": "https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Kyle Pogline",
-          "url": "https://open.spotify.com/artist/0REkhjWkTuMhx8uvOKVZmH"
-        }
-      ],
-      "duration_ms": 292706,
-      "name": "It Might as Well Be Spring",
-      "url": "https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF"
     },
     {
       "added_at": "2022-03-04 05:02:00",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/6KnkNyo795dy3IgMoC8YMe"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "A Child Is Born",
-        "url": "https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx"
-      },
-      "artists": [
-        {
-          "name": "Dara Tucker",
-          "url": "https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "I'm Old Fashioned",
@@ -893,6 +877,22 @@
       "url": "https://open.spotify.com/track/7yrPfSmKX8q8y2DWgmmzOM"
     },
     {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "A Child Is Born",
+        "url": "https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx"
+      },
+      "artists": [
+        {
+          "name": "Dara Tucker",
+          "url": "https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM"
+    },
+    {
       "added_at": "2022-09-12 14:36:28",
       "album": {
         "name": "Fourteen",
@@ -907,6 +907,22 @@
       "duration_ms": 184893,
       "name": "Sometimes I'm Happy",
       "url": "https://open.spotify.com/track/4xvGnlrVvtqP5q6gTdmhCH"
+    },
+    {
+      "added_at": "2022-03-04 05:02:00",
+      "album": {
+        "name": "Ghost Song",
+        "url": "https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 163997,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/3YSyFPN4BpcKwE4Oy12vlD"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -963,22 +979,6 @@
       "duration_ms": 150320,
       "name": "Crazy He Calls Me",
       "url": "https://open.spotify.com/track/0ERXPudDdVEsXesQ8gT8v7"
-    },
-    {
-      "added_at": "2022-03-04 05:02:00",
-      "album": {
-        "name": "Ghost Song",
-        "url": "https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 163997,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/3YSyFPN4BpcKwE4Oy12vlD"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/4Y6QmccnSLAEBEkIwDi14d"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Seed",
-        "url": "https://open.spotify.com/album/1VHxkrq4ZeKF0JaeoGvNtg"
-      },
-      "artists": [
-        {
-          "name": "Yotam Ishay",
-          "url": "https://open.spotify.com/artist/3ABpfCZ60PQjECYhCuXRWs"
-        }
-      ],
-      "duration_ms": 328176,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/5YLwLTd5iacl6v2wVZLDb8"
-    },
-    {
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "Love Story",
@@ -1075,6 +1059,22 @@
       "duration_ms": 231487,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/2wJeDPbOfGRhzVLSQdjSgS"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Seed",
+        "url": "https://open.spotify.com/album/1VHxkrq4ZeKF0JaeoGvNtg"
+      },
+      "artists": [
+        {
+          "name": "Yotam Ishay",
+          "url": "https://open.spotify.com/artist/3ABpfCZ60PQjECYhCuXRWs"
+        }
+      ],
+      "duration_ms": 328176,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/5YLwLTd5iacl6v2wVZLDb8"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/2s0cWbK40tREuFXxecU9OG"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Tell Him I Said Hello",
-        "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
-      },
-      "artists": [
-        {
-          "name": "Jocelyn Barth",
-          "url": "https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX"
-        }
-      ],
-      "duration_ms": 266138,
-      "name": "I Didn't Know About You",
-      "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
-    },
-    {
       "added_at": "2022-06-06 13:59:05",
       "album": {
         "name": "I'm in a Mess (feat. Samara Joy)",
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2022-02-18 05:02:00",
       "album": {
+        "name": "Tell Him I Said Hello",
+        "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn Barth",
+          "url": "https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX"
+        }
+      ],
+      "duration_ms": 266138,
+      "name": "I Didn't Know About You",
+      "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
         "name": "What a Difference a Day Makes - Cuando Vuelva a Tu Lado",
         "url": "https://open.spotify.com/album/08bzhXxdKoTByzUietI8DR"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 162144,
       "name": "What a Difference a Day Makes - Cuando Vuelva a Tu Lado",
       "url": "https://open.spotify.com/track/37xXP9RkGODzUmzBVPAh41"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Laura Goes East",
+        "url": "https://open.spotify.com/album/0ktGkuJRuBSqGmNZ0wOCw1"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 169046,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/4yzx7CiAFb4UlV16G7iBpn"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1269,22 +1285,6 @@
       "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
     },
     {
-      "added_at": "2021-12-17 05:02:00",
-      "album": {
-        "name": "Ghost Song",
-        "url": "https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 216564,
-      "name": "Thunderclouds",
-      "url": "https://open.spotify.com/track/4uskCkze8NPSFfYP8rsZ4T"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "I Feel Foolish",
@@ -1301,20 +1301,20 @@
       "url": "https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2021-12-17 05:02:00",
       "album": {
-        "name": "Laura Goes East",
-        "url": "https://open.spotify.com/album/0ktGkuJRuBSqGmNZ0wOCw1"
+        "name": "Ghost Song",
+        "url": "https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ"
       },
       "artists": [
         {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
         }
       ],
-      "duration_ms": 169046,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/4yzx7CiAFb4UlV16G7iBpn"
+      "duration_ms": 216564,
+      "name": "Thunderclouds",
+      "url": "https://open.spotify.com/track/4uskCkze8NPSFfYP8rsZ4T"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1355,22 +1355,6 @@
       "duration_ms": 213974,
       "name": "My Love",
       "url": "https://open.spotify.com/track/28qG0oRPrJZFnbJwfJc9BN"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Ghost Song",
-        "url": "https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 202792,
-      "name": "Ghost Song",
-      "url": "https://open.spotify.com/track/1xmDUGW9kpDCSlifhKJO7G"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1421,22 +1405,6 @@
       "url": "https://open.spotify.com/track/1KTaQ86FXc2K1yQg6aSWeq"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Sitting at the Edge of the World",
-        "url": "https://open.spotify.com/album/6A8eZUif0ZwC0fnqBXCMB1"
-      },
-      "artists": [
-        {
-          "name": "Anthony Lazaro",
-          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
-        }
-      ],
-      "duration_ms": 135815,
-      "name": "Postcards from Rome",
-      "url": "https://open.spotify.com/track/2eaBDpBKGwbcGPZEolnN1z"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Alma",
@@ -1455,6 +1423,58 @@
       "duration_ms": 233093,
       "name": "Just a Word",
       "url": "https://open.spotify.com/track/0KUWzd4xWLHOfAWu7fvqfe"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Sitting at the Edge of the World",
+        "url": "https://open.spotify.com/album/6A8eZUif0ZwC0fnqBXCMB1"
+      },
+      "artists": [
+        {
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+        }
+      ],
+      "duration_ms": 135815,
+      "name": "Postcards from Rome",
+      "url": "https://open.spotify.com/track/2eaBDpBKGwbcGPZEolnN1z"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Luciana Souza",
+          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
+        }
+      ],
+      "duration_ms": 252680,
+      "name": "Hey, That's No Way To Say Goodbye",
+      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
+    },
+    {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "Ghost Song",
+        "url": "https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 202792,
+      "name": "Ghost Song",
+      "url": "https://open.spotify.com/track/1xmDUGW9kpDCSlifhKJO7G"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1503,26 +1523,6 @@
       "duration_ms": 307600,
       "name": "Yellow Rose",
       "url": "https://open.spotify.com/track/6zxeA2sdHQJTXsElhc4K6z"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Luciana Souza",
-          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
-        }
-      ],
-      "duration_ms": 252680,
-      "name": "Hey, That's No Way To Say Goodbye",
-      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -1585,6 +1585,50 @@
       "url": "https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7"
     },
     {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Come On & Get It",
+        "url": "https://open.spotify.com/album/4dLNU3LLt6BudaiM2MYAwn"
+      },
+      "artists": [
+        {
+          "name": "Judith Owen",
+          "url": "https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo"
+        }
+      ],
+      "duration_ms": 174959,
+      "name": "Tess's Torch Song",
+      "url": "https://open.spotify.com/track/496FwwjWBFWAo0jR0jEVGE"
+    },
+    {
+      "added_at": "2022-07-22 04:02:00",
+      "album": {
+        "name": "You Hit the Spot",
+        "url": "https://open.spotify.com/album/5VaI6YpznbBwIBHPprSmdu"
+      },
+      "artists": [
+        {
+          "name": "Connie Lansberg",
+          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
+        },
+        {
+          "name": "Mark Fitzgibbon",
+          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
+        },
+        {
+          "name": "Ben Hanlon",
+          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
+        },
+        {
+          "name": "Peter Hodges",
+          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
+        }
+      ],
+      "duration_ms": 134642,
+      "name": "You Hit the Spot",
+      "url": "https://open.spotify.com/track/18scliCy9vN53WX6BS8tFN"
+    },
+    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "House of the Rising Sun",
@@ -1633,26 +1677,30 @@
       "url": "https://open.spotify.com/track/4LFtCJkH995aMpERGP7jxf"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-02-18 05:02:00",
       "album": {
-        "name": "Come On & Get It",
-        "url": "https://open.spotify.com/album/4dLNU3LLt6BudaiM2MYAwn"
+        "name": "C\u2019est Magnifique",
+        "url": "https://open.spotify.com/album/3iFTFzxTLIJefXdCZH3RtN"
       },
       "artists": [
         {
-          "name": "Judith Owen",
-          "url": "https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo"
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Ant\u00f3nio Zambujo",
+          "url": "https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je"
         }
       ],
-      "duration_ms": 174959,
-      "name": "Tess's Torch Song",
-      "url": "https://open.spotify.com/track/496FwwjWBFWAo0jR0jEVGE"
+      "duration_ms": 292146,
+      "name": "C\u2019est Magnifique",
+      "url": "https://open.spotify.com/track/4AglSowvxI1sD2OfAxhiFQ"
     },
     {
-      "added_at": "2022-07-22 04:02:00",
+      "added_at": "2022-05-27 04:02:00",
       "album": {
-        "name": "You Hit the Spot",
-        "url": "https://open.spotify.com/album/5VaI6YpznbBwIBHPprSmdu"
+        "name": "Twinkle Twinkle",
+        "url": "https://open.spotify.com/album/46xM6WD5LaI25lEW9QmCy5"
       },
       "artists": [
         {
@@ -1672,9 +1720,9 @@
           "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
         }
       ],
-      "duration_ms": 134642,
-      "name": "You Hit the Spot",
-      "url": "https://open.spotify.com/track/18scliCy9vN53WX6BS8tFN"
+      "duration_ms": 267993,
+      "name": "Twinkle Twinkle",
+      "url": "https://open.spotify.com/track/3kK1OWkLxPLaOJyaGYielG"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -1691,26 +1739,6 @@
       "duration_ms": 185531,
       "name": "A Nightingale Sang in Berkeley Square",
       "url": "https://open.spotify.com/track/2Q7xtSxYk9wNFs5lGVhb8w"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "C\u2019est Magnifique",
-        "url": "https://open.spotify.com/album/3iFTFzxTLIJefXdCZH3RtN"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Ant\u00f3nio Zambujo",
-          "url": "https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je"
-        }
-      ],
-      "duration_ms": 292146,
-      "name": "C\u2019est Magnifique",
-      "url": "https://open.spotify.com/track/4AglSowvxI1sD2OfAxhiFQ"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1785,70 +1813,6 @@
       "url": "https://open.spotify.com/track/5PHz2I3Z2miEPjGviJd9Gk"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Nature Boy",
-        "url": "https://open.spotify.com/album/13iuZUA9X8WZzoIEozbePr"
-      },
-      "artists": [
-        {
-          "name": "Ranee Lee",
-          "url": "https://open.spotify.com/artist/3G8y9C5n1gfzBzha69Ca1G"
-        }
-      ],
-      "duration_ms": 311423,
-      "name": "Nature Boy",
-      "url": "https://open.spotify.com/track/2m7mn0YHBcPLfZaNwmzBp8"
-    },
-    {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "89",
-        "url": "https://open.spotify.com/album/0Xb3mBi85rwbCZPRRMqaCy"
-      },
-      "artists": [
-        {
-          "name": "Charlie Gabriel",
-          "url": "https://open.spotify.com/artist/0UjCu7CCeREYEprZW5jXtK"
-        },
-        {
-          "name": "Preservation Hall Jazz Band",
-          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
-        }
-      ],
-      "duration_ms": 372226,
-      "name": "I'm Confessin'",
-      "url": "https://open.spotify.com/track/3Oc5cC5x5dNFyyc3wDDXe2"
-    },
-    {
-      "added_at": "2022-05-27 04:02:00",
-      "album": {
-        "name": "Twinkle Twinkle",
-        "url": "https://open.spotify.com/album/46xM6WD5LaI25lEW9QmCy5"
-      },
-      "artists": [
-        {
-          "name": "Connie Lansberg",
-          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
-        },
-        {
-          "name": "Mark Fitzgibbon",
-          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
-        },
-        {
-          "name": "Ben Hanlon",
-          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
-        },
-        {
-          "name": "Peter Hodges",
-          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
-        }
-      ],
-      "duration_ms": 267993,
-      "name": "Twinkle Twinkle",
-      "url": "https://open.spotify.com/track/3kK1OWkLxPLaOJyaGYielG"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "The Show Must Go On",
@@ -1875,6 +1839,42 @@
       "duration_ms": 309426,
       "name": "Too Late Now",
       "url": "https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy"
+    },
+    {
+      "added_at": "2022-01-21 05:02:00",
+      "album": {
+        "name": "89",
+        "url": "https://open.spotify.com/album/0Xb3mBi85rwbCZPRRMqaCy"
+      },
+      "artists": [
+        {
+          "name": "Charlie Gabriel",
+          "url": "https://open.spotify.com/artist/0UjCu7CCeREYEprZW5jXtK"
+        },
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "duration_ms": 372226,
+      "name": "I'm Confessin'",
+      "url": "https://open.spotify.com/track/3Oc5cC5x5dNFyyc3wDDXe2"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Nature Boy",
+        "url": "https://open.spotify.com/album/13iuZUA9X8WZzoIEozbePr"
+      },
+      "artists": [
+        {
+          "name": "Ranee Lee",
+          "url": "https://open.spotify.com/artist/3G8y9C5n1gfzBzha69Ca1G"
+        }
+      ],
+      "duration_ms": 311423,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/2m7mn0YHBcPLfZaNwmzBp8"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -2093,46 +2093,6 @@
       "url": "https://open.spotify.com/track/6VN1Tktyqjue8xUQyItXfX"
     },
     {
-      "added_at": "2022-06-10 04:01:00",
-      "album": {
-        "name": "Strange Harbors",
-        "url": "https://open.spotify.com/album/3kQVjBANhSLpIWnQr7SuKN"
-      },
-      "artists": [
-        {
-          "name": "Matt Block",
-          "url": "https://open.spotify.com/artist/31EDi81KvwkmTqd0H4VxpP"
-        },
-        {
-          "name": "Morton Block",
-          "url": "https://open.spotify.com/artist/4K6CAt40h6SerzZCE1oeBZ"
-        },
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 298958,
-      "name": "Strange Harbors",
-      "url": "https://open.spotify.com/track/5B3pTFpdqvMwku6ysdXGJp"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Nikki By Starlight",
-        "url": "https://open.spotify.com/album/6cCPj3K2gGar75Uo9r47iz"
-      },
-      "artists": [
-        {
-          "name": "Nikki Yanofsky",
-          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "Comment Allez Vous",
-      "url": "https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Look for the Silver Lining",
@@ -2159,6 +2119,46 @@
       "duration_ms": 183733,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/5UmSpoIcHl74x58dleXMul"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Nikki By Starlight",
+        "url": "https://open.spotify.com/album/6cCPj3K2gGar75Uo9r47iz"
+      },
+      "artists": [
+        {
+          "name": "Nikki Yanofsky",
+          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "Comment Allez Vous",
+      "url": "https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm"
+    },
+    {
+      "added_at": "2022-06-10 04:01:00",
+      "album": {
+        "name": "Strange Harbors",
+        "url": "https://open.spotify.com/album/3kQVjBANhSLpIWnQr7SuKN"
+      },
+      "artists": [
+        {
+          "name": "Matt Block",
+          "url": "https://open.spotify.com/artist/31EDi81KvwkmTqd0H4VxpP"
+        },
+        {
+          "name": "Morton Block",
+          "url": "https://open.spotify.com/artist/4K6CAt40h6SerzZCE1oeBZ"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 298958,
+      "name": "Strange Harbors",
+      "url": "https://open.spotify.com/track/5B3pTFpdqvMwku6ysdXGJp"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -2241,6 +2241,34 @@
       "url": "https://open.spotify.com/track/5pUnoMX7OVSS2hI1xPEK06"
     },
     {
+      "added_at": "2022-06-06 13:59:05",
+      "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/73zTO1ukuSgq4ucOgqArVK"
+      },
+      "artists": [
+        {
+          "name": "Acoustic Lounge",
+          "url": "https://open.spotify.com/artist/7kXhE91qzHxcmDP4UxM7oz"
+        },
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "BAUN",
+          "url": "https://open.spotify.com/artist/1BF7y5gtjf0hGnTajOTR2v"
+        }
+      ],
+      "duration_ms": 286559,
+      "name": "The Shadow of Your Smile",
+      "url": "https://open.spotify.com/track/1inkgJ6fVHgpc6Goz2R7hA"
+    },
+    {
       "added_at": "2022-04-04 13:31:44",
       "album": {
         "name": "Send For Me",
@@ -2275,34 +2303,6 @@
       "duration_ms": 206590,
       "name": "New York, New York",
       "url": "https://open.spotify.com/track/5HkL7aG5gOJqwe5BrOBeMa"
-    },
-    {
-      "added_at": "2022-06-06 13:59:05",
-      "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/73zTO1ukuSgq4ucOgqArVK"
-      },
-      "artists": [
-        {
-          "name": "Acoustic Lounge",
-          "url": "https://open.spotify.com/artist/7kXhE91qzHxcmDP4UxM7oz"
-        },
-        {
-          "name": "Jesper Bodilsen",
-          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        },
-        {
-          "name": "BAUN",
-          "url": "https://open.spotify.com/artist/1BF7y5gtjf0hGnTajOTR2v"
-        }
-      ],
-      "duration_ms": 286559,
-      "name": "The Shadow of Your Smile",
-      "url": "https://open.spotify.com/track/1inkgJ6fVHgpc6Goz2R7hA"
     },
     {
       "added_at": "2022-05-02 15:27:28",

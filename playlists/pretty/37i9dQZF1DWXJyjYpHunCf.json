@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Stephen Sanchez",
-  "num_followers": 796174,
+  "num_followers": 796325,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDE0YTE3MTIzY2JiYTg2NGU3NjFjZWMyYmM2N2U0OGU3",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDRlMmIyNGVlYmJlMjNiZGQ2YTRjNTcwMDhjMzExZWZj",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Miserable Man",
         "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
       },
@@ -347,18 +363,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 249173,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
+      "duration_ms": 217408,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -379,22 +395,6 @@
       "duration_ms": 186552,
       "name": "Someone Like You (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Missing Piece",
-        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 217408,
-      "name": "Missing Piece",
-      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 266999,
-      "name": "letting go",
-      "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Call You in the Morning",
         "url": "https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 132309,
       "name": "Call You in the Morning",
       "url": "https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 266999,
+      "name": "letting go",
+      "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "If I Didn\u2019t Love You",
-        "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 246350,
-      "name": "If I Didn\u2019t Love You",
-      "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "I've Got a Song",
         "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 180533,
       "name": "This Could Be Good",
       "url": "https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "If I Didn\u2019t Love You",
+        "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 246350,
+      "name": "If I Didn\u2019t Love You",
+      "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Twin Forks",
-        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
-      },
-      "artists": [
-        {
-          "name": "Twin Forks",
-          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
-        }
-      ],
-      "duration_ms": 170962,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
       },
@@ -1099,6 +1083,38 @@
       "duration_ms": 201626,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "I've Got a Song",
+        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Twin Forks",
+        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
+      },
+      "artists": [
+        {
+          "name": "Twin Forks",
+          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
+        }
+      ],
+      "duration_ms": 170962,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1131,22 +1147,6 @@
       "duration_ms": 214150,
       "name": "Making Do",
       "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "I've Got a Song",
-        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Yours to Break",
-        "url": "https://open.spotify.com/album/7d4zInmL1k7M6t6GmGlwuJ"
-      },
-      "artists": [
-        {
-          "name": "The East Pointers",
-          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Wintergreen",
-      "url": "https://open.spotify.com/track/6U6xkMgaFgR0LEWHAOcD4F"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "I'm Alone, No You're Not",
         "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 199853,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Yours to Break",
+        "url": "https://open.spotify.com/album/7d4zInmL1k7M6t6GmGlwuJ"
+      },
+      "artists": [
+        {
+          "name": "The East Pointers",
+          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Wintergreen",
+      "url": "https://open.spotify.com/track/6U6xkMgaFgR0LEWHAOcD4F"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Spiders",
-        "url": "https://open.spotify.com/album/2GJEykJCMASS4ffX4ObWuJ"
-      },
-      "artists": [
-        {
-          "name": "Run River North",
-          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "I Know the Way Home",
         "url": "https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 201875,
       "name": "I Know the Way Home",
       "url": "https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Spiders",
+        "url": "https://open.spotify.com/album/2GJEykJCMASS4ffX4ObWuJ"
+      },
+      "artists": [
+        {
+          "name": "Run River North",
+          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/1clRfpGP6mkk4TxW33YEfO"
-      },
-      "artists": [
-        {
-          "name": "Mills",
-          "url": "https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo"
-        }
-      ],
-      "duration_ms": 183379,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/2tCL2T0TTIOS0s70HCJP3L"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Omaha",
         "url": "https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 198600,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/1clRfpGP6mkk4TxW33YEfO"
+      },
+      "artists": [
+        {
+          "name": "Mills",
+          "url": "https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo"
+        }
+      ],
+      "duration_ms": 183379,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/2tCL2T0TTIOS0s70HCJP3L"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Countries",
+        "url": "https://open.spotify.com/album/2ZD2haTkSI2qz11IbkeJOe"
+      },
+      "artists": [
+        {
+          "name": "Van William",
+          "url": "https://open.spotify.com/artist/73Au3G1YzSqMiEg9ru49UQ"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "Revolution (feat. First Aid Kit)",
+      "url": "https://open.spotify.com/track/0j1bpDEg44YsqDtvqBBJul"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Help Me to Feel Again",
         "url": "https://open.spotify.com/album/656dTune8st7zgtyUljuGH"
       },
@@ -1607,26 +1627,6 @@
       "duration_ms": 188619,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Countries",
-        "url": "https://open.spotify.com/album/2ZD2haTkSI2qz11IbkeJOe"
-      },
-      "artists": [
-        {
-          "name": "Van William",
-          "url": "https://open.spotify.com/artist/73Au3G1YzSqMiEg9ru49UQ"
-        },
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Revolution (feat. First Aid Kit)",
-      "url": "https://open.spotify.com/track/0j1bpDEg44YsqDtvqBBJul"
     },
     {
       "added_at": "2022-10-14 04:00:00",

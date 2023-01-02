@@ -1,12 +1,12 @@
 {
   "description": "All 60s, all ballads. Cover: Etta James",
-  "num_followers": 114757,
+  "num_followers": 114855,
   "original_name": "60s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg0ODI3MiwwMDAwMDAwMGE4YzhkYjc0ZGNlNzg5ZTExOTFmODRmYjVmNmZiMWE1",
+  "snapshot_id": "MTY1ODg0ODI3MiwwMDAwMDAwMGIzY2UzZDY2YWM3OTJmMzcwYWE5ZGFkMjBiZDE1MDUz",
   "tracks": [
     {
       "added_at": "2019-11-25 15:52:14",
@@ -123,22 +123,6 @@
     {
       "added_at": "2019-11-25 15:52:14",
       "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "God Only Knows - Mono / 1997 Remastered",
-      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
-    },
-    {
-      "added_at": "2019-11-25 15:52:14",
-      "album": {
         "name": "Days Of Future Passed (Deluxe Version)",
         "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 269106,
       "name": "Nights In White Satin - Single Version / Mono",
       "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
+    },
+    {
+      "added_at": "2019-11-25 15:52:14",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "God Only Knows - Mono / 1997 Remastered",
+      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
     },
     {
       "added_at": "2022-04-19 14:20:34",

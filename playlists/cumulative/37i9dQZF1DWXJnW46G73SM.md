@@ -2,9 +2,9 @@
 
 ### [أجدد الأغاني](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> اكتشف الأغاني المصرية الجديدة! الغلاف: مُسلِم
+> اكتشف الأغاني المصرية الجديدة! الغلاف: محمد رمضان ، محمد عدوية ، احمد عدوية
 
-283 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+284 songs - 16 hr 35 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [طمنوني](https://open.spotify.com/track/0v3mouuIIh0XrzN6vmYI1v) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Asmaa Elgamal](https://open.spotify.com/artist/2Y8SZOvkkfWMs6TKUP8Kit) | [طمنوني](https://open.spotify.com/album/2F2YUKy3j4nH2Nm6B5RfrA) | 4:19 | 2022-09-05 | 2022-12-02 |
 | [عارفه قيمتي](https://open.spotify.com/track/0k1pF4SI4m4xYHRw8M022J) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عارفه قيمتي](https://open.spotify.com/album/0csj4uie2SFphm4M2aPrJh) | 3:50 | 2022-08-09 | 2022-10-28 |
 | [عالقمة](https://open.spotify.com/track/5PIvugPx2PeDBmW1fHIRnO) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [عالقمة](https://open.spotify.com/album/3OzEZdkKYp10GSgVSiXsvQ) | 3:40 | 2022-11-10 |  |
+| [على وضعنا](https://open.spotify.com/track/4qUXgGI7oKwfCWY8J8jhLU) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Mohamed Adaweya](https://open.spotify.com/artist/6wNAr6KAMa7NDqm9vSiv7T), [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [على وضعنا](https://open.spotify.com/album/5Yqwoth9VJ3epyKF0x2QQP) | 3:24 | 2023-01-01 |  |
 | [فرق في الأحساس](https://open.spotify.com/track/3eH1uXt3nQ59RSCBtCEzif) | [Hany Shaker](https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o) | [Fark Fel Ehsas](https://open.spotify.com/album/3NcOjzZ81rEm4JNT6N1MMH) | 3:25 | 2022-12-23 |  |
 | [فكك \- احلام سعيدة](https://open.spotify.com/track/2mfFZJkSMONc1oDuUth0GN) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub) | [فكك \- احلام سعيدة](https://open.spotify.com/album/6G2LTeAHAziLh3CBbBzRqO) | 3:34 | 2022-04-07 | 2022-07-21 |
 | [قلب إتدفن](https://open.spotify.com/track/6xTx0hhLkZQYIjM1uRnDJf) | [El Megheny](https://open.spotify.com/artist/3mfzJJIc6jzl9FNOaNrGsV) | [قلب إتدفن](https://open.spotify.com/album/7N12eSAx3UgGRPJKon4Kvs) | 3:11 | 2022-02-16 | 2022-05-19 |
@@ -290,6 +291,6 @@
 | [ياساتر \- تتر مسلسل يوتيرن](https://open.spotify.com/track/4dXTPZWeidbo3JOPqa6Zjv) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [ياساتر \(تتر مسلسل يوتيرن\)](https://open.spotify.com/album/78u5iHbe5J8ZdISmRI1ymr) | 3:56 | 2022-07-28 | 2022-07-31 |
 | [ياما الليالي](https://open.spotify.com/track/3odspHtOBp0vxJS2f4IkT6) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [ياما الليالي](https://open.spotify.com/album/14YQxZeiquQiIsFppjCJSK) | 3:15 | 2022-09-20 | 2022-09-22 |
 | [يوتيرن \- التتر الأصلي للمسلسل](https://open.spotify.com/track/5nxONHnWKd5namYsbyuSLE) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [يوتيرن \(التتر الأصلي للمسلسل\)](https://open.spotify.com/album/5LO5YiSV2hXf24DCmKqC9r) | 3:52 | 2022-04-07 | 2022-07-29 |
-| [يوم ما جاني](https://open.spotify.com/track/0APfVkcFTt08Beh57ILcdo) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [يوم ما جاني](https://open.spotify.com/album/7ePGgpsRB1l33EsZaNQGYX) | 3:10 | 2022-10-13 |  |
+| [يوم ما جاني](https://open.spotify.com/track/0APfVkcFTt08Beh57ILcdo) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [يوم ما جاني](https://open.spotify.com/album/7ePGgpsRB1l33EsZaNQGYX) | 3:10 | 2022-10-13 | 2023-01-02 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

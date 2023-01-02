@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-12-06",
-  "description": "With John Mayer, Wild Rivers, Joshua Hyslop, Amos Lee and more",
+  "description": "With John Mayer, Wild Rivers, Ben Rector, Amos Lee and more",
   "name": "Carry Me Away Radio",
   "published_playlist_ids": [
     "3X9pREhPT1sgh0QMNyY8S7"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 163448,
       "name": "A Week Ago",
       "url": "https://open.spotify.com/track/47tIfC0fME4fYBJySBjqeC"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 158013,
       "name": "American Beauty",
       "url": "https://open.spotify.com/track/7K36drJq6lInkW6Kkojucp"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2022-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 226640,
       "name": "At Home",
       "url": "https://open.spotify.com/track/2Dzhwe90lhHXVU6lk7Nx0H"
@@ -2053,7 +2053,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-01",
+      "date_removed": null,
       "duration_ms": 210080,
       "name": "Bloom - Bonus Track",
       "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
@@ -2403,7 +2403,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 219053,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
@@ -2443,7 +2443,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 255791,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/3s52KIJZ4QwqQndKroBabJ"
@@ -2695,7 +2695,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 237696,
       "name": "Caroline - Acoustic",
       "url": "https://open.spotify.com/track/2GRgfuqbBkJMHcTouipXzR"
@@ -2785,7 +2785,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 226800,
       "name": "Catch Fire",
       "url": "https://open.spotify.com/track/5LYeZVZch6sDCbCY98YlHx"
@@ -4037,7 +4037,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Distant Land",
       "url": "https://open.spotify.com/track/6lTNaNt7gP9xxPJbSHrU1x"
@@ -4855,6 +4855,24 @@
       "duration_ms": 296909,
       "name": "Ex Factor / Nice For What",
       "url": "https://open.spotify.com/track/5GHIsNIT9QH2u9XYuA2xp8"
+    },
+    {
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173040,
+      "name": "Extraordinary Magic",
+      "url": "https://open.spotify.com/track/48ce9gtBjXhq73lTBLM09x"
     },
     {
       "album": {
@@ -6301,7 +6319,7 @@
       ],
       "date_added": "2020-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 198453,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
@@ -7223,7 +7241,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-01",
+      "date_removed": null,
       "duration_ms": 260368,
       "name": "Heart Attack",
       "url": "https://open.spotify.com/track/1rxB5KwQlyjYqmJU2ahy6V"
@@ -7601,7 +7619,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 213520,
       "name": "Holding on to You",
       "url": "https://open.spotify.com/track/2XbGCUjNjQgJPMO1QbMp5a"
@@ -7821,7 +7839,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 194523,
       "name": "How Good It Is",
       "url": "https://open.spotify.com/track/4XGlpZw4XyOAisQrpodzPn"
@@ -8967,7 +8985,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 186954,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/3ccDb4UqLC54IoFJ8LmFoy"
@@ -9051,7 +9069,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-01",
+      "date_removed": null,
       "duration_ms": 164084,
       "name": "I'm Gonna Find Another You",
       "url": "https://open.spotify.com/track/0qirTBMXN2a9AlUl7pyjgM"
@@ -9315,7 +9333,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 220588,
       "name": "If You Were the Rain",
       "url": "https://open.spotify.com/track/5EXD5rXJ4IVb8g4xSwT0fc"
@@ -9477,7 +9495,7 @@
       ],
       "date_added": "2020-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 246320,
       "name": "Incredible",
       "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
@@ -9625,7 +9643,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 219066,
       "name": "It Would Be You",
       "url": "https://open.spotify.com/track/031tI90Tz4hlhPmvi3djr0"
@@ -11631,7 +11649,7 @@
       ],
       "date_added": "2021-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-20",
+      "date_removed": null,
       "duration_ms": 214240,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/2lxBZVbkiCXC1soks2RXwV"
@@ -13571,7 +13589,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-26",
+      "date_removed": null,
       "duration_ms": 212400,
       "name": "OK",
       "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
@@ -13647,7 +13665,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-20",
+      "date_removed": null,
       "duration_ms": 224743,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/0kLrXH58TJwEsYgdUfAkcL"
@@ -13835,7 +13853,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 188640,
       "name": "One Shot in the Darkness",
       "url": "https://open.spotify.com/track/1wys7q7z5EbaYXVAWATkdj"
@@ -15045,7 +15063,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 173093,
       "name": "River Mouth - Acoustic",
       "url": "https://open.spotify.com/track/1rOP6mwR2CsYsdBad7eoqY"
@@ -16031,7 +16049,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-01",
+      "date_removed": null,
       "duration_ms": 166139,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/1HkB10b5D1tb0fSb1QsOvD"
@@ -16341,7 +16359,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 273053,
       "name": "Something More",
       "url": "https://open.spotify.com/track/1UTkpfLEQ2fVf5GCaqQ8TF"
@@ -17357,7 +17375,7 @@
       ],
       "date_added": "2019-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 210466,
       "name": "Sunsets For Somebody Else",
       "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
@@ -17415,7 +17433,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-01",
+      "date_removed": null,
       "duration_ms": 263794,
       "name": "SUPERPOSITION",
       "url": "https://open.spotify.com/track/45PxuJqJBnPXZKLxoo9Apj"
@@ -18657,7 +18675,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-01",
+      "date_removed": null,
       "duration_ms": 199391,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
@@ -20233,7 +20251,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 242826,
       "name": "When I Fell",
       "url": "https://open.spotify.com/track/2zhQkIe2Phiwhwj0ofCm3H"

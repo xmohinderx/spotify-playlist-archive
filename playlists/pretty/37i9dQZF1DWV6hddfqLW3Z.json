@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 713083,
+  "num_followers": 713261,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDA2NWEyOGVmMzJjOThiNzRmYjI1NDczZTA2YzZmYjFm",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDJjMjBmMzc1Y2IzNjA5OTg1NTUyZGI2NmM5Mjc2ZWI5",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Djavan",
+        "url": "https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 296106,
+      "name": "Oceano",
+      "url": "https://open.spotify.com/track/3iof6EclqePezHDibBiykI"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Onde?",
         "url": "https://open.spotify.com/album/0aCbmQd7EYBXzOVCVaXbeS"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 190592,
       "name": "Ningue\u0301m",
       "url": "https://open.spotify.com/track/5O4lp65sEWenlviCdYdeOG"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Djavan",
-        "url": "https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 296106,
-      "name": "Oceano",
-      "url": "https://open.spotify.com/track/3iof6EclqePezHDibBiykI"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Quase Sem Querer",
-        "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
+        "name": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
+        "url": "https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Paula Sergio",
+          "url": "https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS"
         }
       ],
-      "duration_ms": 216842,
-      "name": "Quase Sem Querer",
-      "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
+      "duration_ms": 229013,
+      "name": "Eu sei que vou te amar",
+      "url": "https://open.spotify.com/track/39zQVNn96cCKq0JxfB9RM5"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
-        "url": "https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG"
+        "name": "Quase Sem Querer",
+        "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
       },
       "artists": [
         {
-          "name": "Paula Sergio",
-          "url": "https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 229013,
-      "name": "Eu sei que vou te amar",
-      "url": "https://open.spotify.com/track/39zQVNn96cCKq0JxfB9RM5"
+      "duration_ms": 216842,
+      "name": "Quase Sem Querer",
+      "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Palavras No Corpo",
-        "url": "https://open.spotify.com/album/6J9hUU0JUAaRttmy2c0InM"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 242054,
-      "name": "Palavras No Corpo",
-      "url": "https://open.spotify.com/track/4xeP4rHORzLbJlaJVHWybQ"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Nossa m\u00fasica",
         "url": "https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj"
       },
@@ -1083,6 +1067,38 @@
       "duration_ms": 239642,
       "name": "Nossa m\u00fasica",
       "url": "https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Enciclop\u00e9dia Musical Brasileira",
+        "url": "https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 235080,
+      "name": "Brasil pandeiro",
+      "url": "https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Palavras No Corpo",
+        "url": "https://open.spotify.com/album/6J9hUU0JUAaRttmy2c0InM"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 242054,
+      "name": "Palavras No Corpo",
+      "url": "https://open.spotify.com/track/4xeP4rHORzLbJlaJVHWybQ"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1103,22 +1119,6 @@
       "duration_ms": 202869,
       "name": "12 Horas (Ao Vivo) (feat. Mar\u00edlia Mendon\u00e7a) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1aYI1bfSzo2M1LjFwZrXLY"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Enciclop\u00e9dia Musical Brasileira",
-        "url": "https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 235080,
-      "name": "Brasil pandeiro",
-      "url": "https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d"
     },
     {
       "added_at": "2022-11-25 03:00:00",

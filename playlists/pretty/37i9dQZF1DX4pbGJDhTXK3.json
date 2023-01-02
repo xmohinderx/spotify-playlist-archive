@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 122714,
+  "num_followers": 122782,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDg2MCwwMDAwMDAwMGMzNjQ5Yzc0NTRkZWI2ZmQyZjE5MzY4NzRlYmJiYzc2",
+  "snapshot_id": "MTY2OTMzMDg2MCwwMDAwMDAwMGE3N2E0ZTJjMTE2ZjFkYzM0OGE2ZjkxOThmODMyMDY4",
   "tracks": [
     {
       "added_at": "2022-11-24 23:01:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Like a Petal but Not Really",
-        "url": "https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD"
-      },
-      "artists": [
-        {
-          "name": "Ugress",
-          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
-        }
-      ],
-      "duration_ms": 204821,
-      "name": "Like A Petal But Not Really",
-      "url": "https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
         "name": "Games (Prins Thomas Diskomiks)",
         "url": "https://open.spotify.com/album/3emSYEw7cGHEHlZtgK3EyZ"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 493597,
       "name": "Games (Prins Thomas Diskomiks)",
       "url": "https://open.spotify.com/track/0I8g1dYLJXqJujeyyIY3fG"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "Like a Petal but Not Really",
+        "url": "https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD"
+      },
+      "artists": [
+        {
+          "name": "Ugress",
+          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
+        }
+      ],
+      "duration_ms": 204821,
+      "name": "Like A Petal But Not Really",
+      "url": "https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "This Time (Lindstr\u00f8m Remix)",
-        "url": "https://open.spotify.com/album/3X6t27Kq0J2aK7nLFUe9bX"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        },
-        {
-          "name": "Lindstr\u00f8m",
-          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
-        }
-      ],
-      "duration_ms": 569159,
-      "name": "This Time - Lindstr\u00f8m Remix",
-      "url": "https://open.spotify.com/track/17i25eEW6w8zuunLzgsKni"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
         "name": "Motown",
         "url": "https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 388272,
       "name": "Motown",
       "url": "https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "This Time (Lindstr\u00f8m Remix)",
+        "url": "https://open.spotify.com/album/3X6t27Kq0J2aK7nLFUe9bX"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        },
+        {
+          "name": "Lindstr\u00f8m",
+          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
+        }
+      ],
+      "duration_ms": 569159,
+      "name": "This Time - Lindstr\u00f8m Remix",
+      "url": "https://open.spotify.com/track/17i25eEW6w8zuunLzgsKni"
     }
   ],
   "unique_name": "Space Disco",

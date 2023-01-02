@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [一定會](https://open.spotify.com/track/2W3RHGoIiSACvtk51Ehhxi) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/1HM6brsnjlgf9bKaGGuibb) | 3:27 |
+| 1 | [一定會](https://open.spotify.com/track/2wl5Jlf09WAV7LIVUNK594) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/4SkvbVaPeZmASoDDvFnsrO) | 3:27 |
 | 2 | [feels like a remix](https://open.spotify.com/track/3dP1XtLiQTjMUQZcdum9XS) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [feels like a remix](https://open.spotify.com/album/2OeoJixbyHMhmRzJm3ok3o) | 3:49 |
 | 3 | [聖誕之吻](https://open.spotify.com/track/61sWMgH5gHAVTjxwy6mHDS) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [聖誕之吻](https://open.spotify.com/album/63zHQlg0xTAbsbRngzDwm9) | 4:35 |
 | 4 | [唯一寫過的情書 \- WBL系列影集第二季《第二名的逆襲》片尾曲](https://open.spotify.com/track/3mrY1hCbYFriwOsnScycT5) | [ALEX CHOU](https://open.spotify.com/artist/0zXp1zis13q1a2uCJgN9nq) | [IDoL](https://open.spotify.com/album/3dmVl22su4arme3pS6SaIq) | 4:19 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 | 19 | [我不要多幸福](https://open.spotify.com/track/3pMq5G7JOQsToNVIIgUWny) | [陶晶莹](https://open.spotify.com/artist/1nLHiAOrjLbc0Pju8elCu0) | [谢谢 陶晶莹](https://open.spotify.com/album/79UqqqP4ZzWwOd8RcvADEO) | 4:43 |
 | 20 | [幾萬英呎的海](https://open.spotify.com/track/02pVekM96ncrZoVPlTNTY1) | [Alan Kuo](https://open.spotify.com/artist/3LyN3dzJjv35T1XcDysnZG) | [幾萬英呎的海](https://open.spotify.com/album/4jMfJyfL6hy5VALeV82cIq) | 4:50 |
 
-Snapshot ID: `MTY0MTg4NTY3MCwwMDAwMDAwMDE4ZWI5NDNjNmM3NGIxNzc0OGFmMTNmNjJjYTljMGVl`
+Snapshot ID: `MTY0MTg4NTY3MCwwMDAwMDAwMGI5YTdjZmFmZjJiZTEzNDY1MzkzYmExMjMwZjMyYTI0`

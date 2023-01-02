@@ -4,7 +4,7 @@
 
 > The ever\-evolving sound of Alt! Cover: Gable Price and Friends
 
-163 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/1NSGD7171i0HygYQPY0WUi)
+164 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/1NSGD7171i0HygYQPY0WUi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [BURNING IN THE RAIN](https://open.spotify.com/track/7c0ZefCWafOW57yTPXVdVv) | [OLY](https://open.spotify.com/artist/7g4y9yOwMFSp1qvlhboro8) | [BURNING IN THE RAIN](https://open.spotify.com/album/4rQ5aKcrCfqwL7CdSsa57I) | 3:22 | 2022-07-17 |  |
 | [Calm Before the Storm](https://open.spotify.com/track/7wsBA8293E5O4SMS1nH350) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Calm Before the Storm](https://open.spotify.com/album/3jWsaxV8HH7v4osDCriC6Q) | 3:55 | 2022-02-27 |  |
 | [Can't Stop My Heart From Singing](https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek) | [Mountaintops](https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW), [Beau and Mercy Perkins](https://open.spotify.com/artist/2aj3O6Rf4Kwm3AvAkVrIuE) | [Can't Stop My Heart From Singing](https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG) | 3:54 | 2022-07-17 |  |
-| [Carlo Rossi \(Love in the Face of Great Danger\)](https://open.spotify.com/track/1NP5ku0BU1gy385HXzwkIB) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Carlo Rossi \(Love in the Face of Great Danger\)](https://open.spotify.com/album/5jWg8NzihAG74pcktzGU6F) | 4:30 | 2022-12-17 |  |
+| [Carlo Rossi \(Love in the Face of Great Danger\)](https://open.spotify.com/track/1NP5ku0BU1gy385HXzwkIB) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Carlo Rossi \(Love in the Face of Great Danger\)](https://open.spotify.com/album/5jWg8NzihAG74pcktzGU6F) | 4:30 | 2022-12-17 | 2023-01-02 |
 | [Carry Me Along](https://open.spotify.com/track/60uQuO3GwP64Mbbr2krcVc) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Carry Me Along](https://open.spotify.com/album/7kMMLGwML7meerhRnPmziO) | 3:09 | 2022-02-27 | 2022-04-02 |
 | [Carry Me Home](https://open.spotify.com/track/12GtqVYqedEHYnyRZt91ZQ) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [TAYA](https://open.spotify.com/album/5N03zjLUSu0iqsTitN5tt3) | 3:33 | 2022-07-17 |  |
 | [Closer Than a Brother](https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Chrysaline](https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA) | 5:09 | 2022-02-27 |  |
@@ -62,6 +62,7 @@
 | [Friend](https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl) | [Friend](https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k) | 3:46 | 2022-12-17 |  |
 | [Future](https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Future](https://open.spotify.com/album/250asL6HXVThavIF7t9rBc) | 3:25 | 2022-03-11 |  |
 | [Get A Life](https://open.spotify.com/track/5yFxlpOPCyAX4OXQAC99eC) | [Brady James](https://open.spotify.com/artist/2GSov2kK4wpeRDrCxT6EWe) | [Get A Life](https://open.spotify.com/album/7LemReJ7Gyy6N0ssYBUBKQ) | 1:50 | 2022-07-17 |  |
+| [Give My All](https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [Give My All](https://open.spotify.com/album/6Uv2XAIAwMLVun8cvzK0nh) | 3:19 | 2023-01-02 |  |
 | [Good To Get Back](https://open.spotify.com/track/5wFJ02TSnS18SSyFZzIIPw) | [Jim Sonefeld](https://open.spotify.com/artist/0KNodVzuH2zoT1tglc3C9k) | [Good To Get Back](https://open.spotify.com/album/57fqtJVrHL7dls78zUH44M) | 3:56 | 2022-07-17 | 2022-12-17 |
 | [Greater is the Blood](https://open.spotify.com/track/4xUZrneYGiwwBEzFWhZiB9) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Greater is the Blood](https://open.spotify.com/album/0671ivK4q1hfduVDwEpSRs) | 3:51 | 2022-07-17 |  |
 | [Have A Little Faith](https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [Have A Little Faith](https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q) | 2:39 | 2022-12-17 |  |

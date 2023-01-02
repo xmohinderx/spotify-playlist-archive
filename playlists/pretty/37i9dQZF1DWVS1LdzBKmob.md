@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,970 likes - 101 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,085 likes - 101 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 81 | [Akasha \- The Pleasure Of Being One With The Supreme Soul](https://open.spotify.com/track/4sPBcSgmvk3e476IISP0XG) | [Danny Becher](https://open.spotify.com/artist/4pFOmWiFp8d1BNx7p8lCAO) | [Tibetan Singing Bowls](https://open.spotify.com/album/3Bl8EDZFekoeh21U7FWukS) | 9:05 |
 | 82 | [Crown Chakra \(Sahasrara\) \- 3 Octaves B](https://open.spotify.com/track/3YrvwusV5IUG6wlIRdlJKe) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 2:50 |
 | 83 | [The Blissful Garden](https://open.spotify.com/track/7tTt8An7vnme55KRP7fdAv) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Healing Bells](https://open.spotify.com/album/0cVPDtE02pe4BEpPbZ3ZYu) | 6:47 |
-| 84 | [Transcend](https://open.spotify.com/track/4bbvU1EWM2r6SDKGC6Ql9t) | [Sun Prayers](https://open.spotify.com/artist/5ooYkvBXhXVAVuoTQTTscC) | [Relax in the Sound Bath](https://open.spotify.com/album/0estXKpvmUY8ZZM9yjC8aG) | 6:53 |
+| 84 | [Transcend](https://open.spotify.com/track/4bbvU1EWM2r6SDKGC6Ql9t) | [SunOneSun](https://open.spotify.com/artist/7n3WTqnRXVk69eiHUgSLnq) | [Relax in the Sound Bath](https://open.spotify.com/album/0estXKpvmUY8ZZM9yjC8aG) | 6:53 |
 | 85 | [Sounds of the Bowl](https://open.spotify.com/track/5rcYxWqLkv7GzhXncvb0hM) | [Satorio](https://open.spotify.com/artist/54dz2oZHyoh9ZmfldoKogN) | [Crystal Bowls & Tibetan Singing Bowls](https://open.spotify.com/album/0cJhl9uqOjDbSSLzJWi1KE) | 8:10 |
 | 86 | [Be Well! Quartz Crystal Bowls for Brow, Throat & Heart Chakras](https://open.spotify.com/track/7K8naQAjxQ3HGqn6EPcOga) | [Phil Cory](https://open.spotify.com/artist/6VwEvHieOj07W7mIVdjnNi) | [Be Well! Quartz Crystal Bowls for Brow, Throat & Heart Chakras](https://open.spotify.com/album/3b2jyAktZMNpB1AgcnfMiM) | 9:11 |
 | 87 | [Deep Wood Gong](https://open.spotify.com/track/7MrfjHEkZ18jovUQbnkl5o) | [Bagno Armonico](https://open.spotify.com/artist/6Okybq8PPGFAg18IJrKl4e) | [Healing Gongs](https://open.spotify.com/album/1QyYwuZzuEK9UIA54DqxKi) | 4:09 |

@@ -1,12 +1,12 @@
 {
   "description": "Some of the most beautiful French love songs. ",
-  "num_followers": 56909,
+  "num_followers": 56959,
   "original_name": "Je t'aime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMDY1NmRhMThhNDJiMDA1YjAwOTJiOGU5YzFmZWRmMjJi",
+  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMGQxZTNhMTA5M2VjMTBjMDY1NjFjNjAyNzllMGU3OWFl",
   "tracks": [
     {
       "added_at": "2022-01-18 23:00:02",
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Maladie d'amour",
-        "url": "https://open.spotify.com/album/5fEydxgjsCkuIXZcV2gIDV"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Hunt",
-          "url": "https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2"
-        }
-      ],
-      "duration_ms": 204720,
-      "name": "Maladie d'amour",
-      "url": "https://open.spotify.com/track/2PYiUmFOp3Zx0GHHTXUW8F"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
         "name": "Jane Birkin & Serge Gainsbourg",
         "url": "https://open.spotify.com/album/2JR65ppK6Z6h1lfV5fy7Fr"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 261613,
       "name": "Je t'aime moi non plus",
       "url": "https://open.spotify.com/track/3YW3Tw3lLQfuPfklE76F3y"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Maladie d'amour",
+        "url": "https://open.spotify.com/album/5fEydxgjsCkuIXZcV2gIDV"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Hunt",
+          "url": "https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "Maladie d'amour",
+      "url": "https://open.spotify.com/track/2PYiUmFOp3Zx0GHHTXUW8F"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Ne me quitte pas : Un hommage \u00e0 Jacques Brel",
-        "url": "https://open.spotify.com/album/5bVK75cf4sDDeF9X4hA9BQ"
-      },
-      "artists": [
-        {
-          "name": "Catherine Major",
-          "url": "https://open.spotify.com/artist/7FCNIhja91XHhr3eMzODeh"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Quand on n'a que l'amour",
-      "url": "https://open.spotify.com/track/5mzSU1ekib32mEpmkzwDlD"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
         "name": "Kanasuta",
         "url": "https://open.spotify.com/album/44gXPii8rK7tAVoZqAQIPQ"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 217253,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/66TPZLJOEAhnIYGGEbpB8G"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Ne me quitte pas : Un hommage \u00e0 Jacques Brel",
+        "url": "https://open.spotify.com/album/5bVK75cf4sDDeF9X4hA9BQ"
+      },
+      "artists": [
+        {
+          "name": "Catherine Major",
+          "url": "https://open.spotify.com/artist/7FCNIhja91XHhr3eMzODeh"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Quand on n'a que l'amour",
+      "url": "https://open.spotify.com/track/5mzSU1ekib32mEpmkzwDlD"
     },
     {
       "added_at": "2021-01-30 03:13:15",

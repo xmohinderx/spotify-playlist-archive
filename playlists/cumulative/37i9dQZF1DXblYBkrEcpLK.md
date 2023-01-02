@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ウタ/UTA from ONE PIECE FILM RED ©尾田栄一郎／2022「ワンピース」製作委員会
 
-357 songs - 1 day 0 hr 43 min - [published](https://open.spotify.com/playlist/6FtaHCMkDX6tcjL4vlT8MU)
+358 songs - 1 day 0 hr 47 min - [published](https://open.spotify.com/playlist/6FtaHCMkDX6tcjL4vlT8MU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Nocturne](https://open.spotify.com/track/6rIiTCNRFSNpFER8R1chAC) | [Hinano](https://open.spotify.com/artist/5YWTfW6V637AZqljGfrWoI) | [nocturne](https://open.spotify.com/album/5kVXzT1Mx2dgSrYnSMBhhc) | 4:29 | 2022-06-09 | 2022-06-11 |
 | [Omoideshiritori](https://open.spotify.com/track/0FnA6x9CTUsZRlYzKJ8pG6) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [DIALOGUE+1](https://open.spotify.com/album/2LYWVRbZGHUuXeMqVmtt2w) | 4:23 | 2022-06-09 | 2022-06-15 |
 | [One Wish](https://open.spotify.com/track/0sDrDg3wwrxSl0YVEmYpMW) | [Riho Iida](https://open.spotify.com/artist/5zTeZtVkjRJNavenIaFFuz) | [One Wish](https://open.spotify.com/album/0FF8Vqm3lb71OLciJGxXGy) | 4:13 | 2022-06-14 | 2022-07-21 |
-| [only my railgun](https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [only my railgun](https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl) | 4:17 | 2022-10-03 |  |
+| [only my railgun](https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [only my railgun](https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl) | 4:17 | 2022-10-03 | 2023-01-02 |
 | [ORDINARY LOVE](https://open.spotify.com/track/5EyypMJkIOEg6veef5FCg5) | [逢田梨香子](https://open.spotify.com/artist/7L3LvUmPSjYVIStpUxBsUu) | [Curtain raise](https://open.spotify.com/album/5jgPJpy4bePdsCkfLpQzip) | 4:29 | 2022-06-09 | 2022-07-27 |
 | [Overfly](https://open.spotify.com/track/5KQk3xqndCMM8kQkS0tfOT) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss) | 4:27 | 2022-07-28 |  |
 | [Overload \- 「境界戦機」第二部オープニングテーマ](https://open.spotify.com/track/5V6AiDZLS838X2NceqiPja) | [富金原佑菜](https://open.spotify.com/artist/75pZmt1oHpu1jO8so1wp6P) | [Overload \(「境界戦機」第二部オープニングテーマ\)](https://open.spotify.com/album/5MOXYB3C7QOlVg2cuppRTT) | 3:49 | 2022-06-09 | 2022-07-29 |
@@ -321,6 +321,7 @@
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-06-12 |  |
 | [旅の途中](https://open.spotify.com/track/1M9G7rtS145mE3KLwErInn) | [清浦夏実](https://open.spotify.com/artist/1zQHmmgQS3xyp26PxWlTwk) | [十九色](https://open.spotify.com/album/7MuoD3uNuZGStZn3S9Iljv) | 4:53 | 2022-06-14 | 2022-07-03 |
 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-06-09 |  |
+| [星座になれたら](https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:18 | 2023-01-02 |  |
 | [晴れ模様](https://open.spotify.com/track/4P1Cx40OQChjAPEai5Heht) | [安野希世乃](https://open.spotify.com/artist/2SdzLUuWOGCPXyQ5L7eXyd) | [TVアニメーション「アルテ」エンディングテーマ 晴れ模様](https://open.spotify.com/album/2kbvYUifl3B5HfVoYRrPcb) | 5:11 | 2022-06-21 | 2022-06-24 |
 | [月がきれい](https://open.spotify.com/track/1xAmjFooIkdp6b65YfseBW) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Rainbow](https://open.spotify.com/album/73Ap5dXU3ZP9FNcY4F8R9K) | 6:00 | 2022-07-19 | 2022-07-22 |
 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 | 2022-06-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 129417,
+  "num_followers": 129562,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyNTQ4MCwwMDAwMDAwMDkyMGU5ZmUwMDJiYWYxMTM2OWZhOGEyZmUzZGNmMWZl",
+  "snapshot_id": "MTY2ODcyNTQ4MCwwMDAwMDAwMDhkMzEwNjEyYTE5MTIzODYzZmI0Mzc4MzFjZmM2NWNl",
   "tracks": [
     {
       "added_at": "2022-09-30 04:04:59",
@@ -361,6 +361,22 @@
       "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
     },
     {
+      "added_at": "2022-08-31 05:00:32",
+      "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 164598,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
+    },
+    {
       "added_at": "2021-10-15 03:46:13",
       "album": {
         "name": "Mouth Full of Glass",
@@ -377,20 +393,20 @@
       "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
-      "added_at": "2022-08-31 05:00:32",
+      "added_at": "2022-09-21 00:47:37",
       "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+        "name": "The world within our bedrooms",
+        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
       },
       "artists": [
         {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
         }
       ],
-      "duration_ms": 164598,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
+      "duration_ms": 153746,
+      "name": "Frame Of Reference",
+      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -415,22 +431,6 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
-    },
-    {
-      "added_at": "2022-09-21 00:47:37",
-      "album": {
-        "name": "The world within our bedrooms",
-        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
-      },
-      "artists": [
-        {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
-        }
-      ],
-      "duration_ms": 153746,
-      "name": "Frame Of Reference",
-      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -465,26 +465,6 @@
       "url": "https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX"
     },
     {
-      "added_at": "2022-09-06 17:57:02",
-      "album": {
-        "name": "Pulse Of The Early Brain [Switched On Volume 5]",
-        "url": "https://open.spotify.com/album/4rT90eAMOjQ0WW8NAXDsDk"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        },
-        {
-          "name": "Nurse With Wound",
-          "url": "https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I"
-        }
-      ],
-      "duration_ms": 646683,
-      "name": "Simple Headphone Mind",
-      "url": "https://open.spotify.com/track/2KOG6pwDZflwcZjgiFw1w6"
-    },
-    {
       "added_at": "2022-08-13 00:53:45",
       "album": {
         "name": "Go On",
@@ -503,6 +483,26 @@
       "duration_ms": 286640,
       "name": "Go On",
       "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
+    },
+    {
+      "added_at": "2022-09-06 17:57:02",
+      "album": {
+        "name": "Pulse Of The Early Brain [Switched On Volume 5]",
+        "url": "https://open.spotify.com/album/4rT90eAMOjQ0WW8NAXDsDk"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        },
+        {
+          "name": "Nurse With Wound",
+          "url": "https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I"
+        }
+      ],
+      "duration_ms": 646683,
+      "name": "Simple Headphone Mind",
+      "url": "https://open.spotify.com/track/2KOG6pwDZflwcZjgiFw1w6"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
-      "added_at": "2022-10-27 22:17:21",
-      "album": {
-        "name": "Se Ve Desde Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3rILkSjs53hks3tsSYn3lN"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 408057,
-      "name": "Desde el Cielo",
-      "url": "https://open.spotify.com/track/55lgPC7V1970pcw1yhRCIU"
-    },
-    {
       "added_at": "2022-07-15 05:46:40",
       "album": {
         "name": "Aura",
@@ -653,20 +637,20 @@
       "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
     },
     {
-      "added_at": "2022-07-15 05:42:57",
+      "added_at": "2022-10-27 22:17:21",
       "album": {
-        "name": "Robot Riot",
-        "url": "https://open.spotify.com/album/4dnVdfbC0z2EkLPC9D2MJ4"
+        "name": "Se Ve Desde Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3rILkSjs53hks3tsSYn3lN"
       },
       "artists": [
         {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
         }
       ],
-      "duration_ms": 176952,
-      "name": "Robot Riot",
-      "url": "https://open.spotify.com/track/5n73mUl0n0X3q41esYzU8G"
+      "duration_ms": 408057,
+      "name": "Desde el Cielo",
+      "url": "https://open.spotify.com/track/55lgPC7V1970pcw1yhRCIU"
     },
     {
       "added_at": "2022-02-25 03:06:43",
@@ -683,6 +667,22 @@
       "duration_ms": 369231,
       "name": "Unpeopled Space",
       "url": "https://open.spotify.com/track/13WPG61eqdPbhpHnVlH3lF"
+    },
+    {
+      "added_at": "2022-07-15 05:42:57",
+      "album": {
+        "name": "Robot Riot",
+        "url": "https://open.spotify.com/album/4dnVdfbC0z2EkLPC9D2MJ4"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 176952,
+      "name": "Robot Riot",
+      "url": "https://open.spotify.com/track/5n73mUl0n0X3q41esYzU8G"
     },
     {
       "added_at": "2022-05-24 01:31:24",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "The Universe Is Always Right",
-        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
-      },
-      "artists": [
-        {
-          "name": "Hayden Thorpe",
-          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
-        }
-      ],
-      "duration_ms": 244390,
-      "name": "The Universe Is Always Right",
-      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
-    },
-    {
       "added_at": "2022-10-05 14:12:30",
       "album": {
         "name": "Gloss",
@@ -835,6 +819,22 @@
       "duration_ms": 228777,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/09Vq5hMGi8Rzn2ZSLSVJEa"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Universe Is Always Right",
+        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
+      },
+      "artists": [
+        {
+          "name": "Hayden Thorpe",
+          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
+        }
+      ],
+      "duration_ms": 244390,
+      "name": "The Universe Is Always Right",
+      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -917,6 +917,22 @@
       "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Centre",
+        "url": "https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7"
+      },
+      "artists": [
+        {
+          "name": "Mt. Mountain",
+          "url": "https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4"
+        }
+      ],
+      "duration_ms": 280404,
+      "name": "Aplomb",
+      "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
+    },
+    {
       "added_at": "2022-09-12 20:45:15",
       "album": {
         "name": "Just a moment",
@@ -935,22 +951,6 @@
       "duration_ms": 202040,
       "name": "Just a moment",
       "url": "https://open.spotify.com/track/4B2duCzao3lvUAtex1R3CC"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Centre",
-        "url": "https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7"
-      },
-      "artists": [
-        {
-          "name": "Mt. Mountain",
-          "url": "https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4"
-        }
-      ],
-      "duration_ms": 280404,
-      "name": "Aplomb",
-      "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/1VZyMJPlZ8dUvT8pzgjyXm"
     },
     {
-      "added_at": "2022-04-20 13:58:09",
-      "album": {
-        "name": "Las Olas Contra Todos",
-        "url": "https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK"
-      },
-      "artists": [
-        {
-          "name": "La Villana",
-          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
-        }
-      ],
-      "duration_ms": 165113,
-      "name": "Las Olas Contra Todos",
-      "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Robber",
@@ -1047,6 +1031,22 @@
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
+    },
+    {
+      "added_at": "2022-04-20 13:58:09",
+      "album": {
+        "name": "Las Olas Contra Todos",
+        "url": "https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK"
+      },
+      "artists": [
+        {
+          "name": "La Villana",
+          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
+        }
+      ],
+      "duration_ms": 165113,
+      "name": "Las Olas Contra Todos",
+      "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc"
     },
     {
-      "added_at": "2022-01-21 20:15:30",
-      "album": {
-        "name": "Feedback Loop",
-        "url": "https://open.spotify.com/album/204n8zYF4t6GYr7atvFvsE"
-      },
-      "artists": [
-        {
-          "name": "Cid Rim",
-          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
-        }
-      ],
-      "duration_ms": 188873,
-      "name": "Feedback Loop",
-      "url": "https://open.spotify.com/track/0P0mIfzkLvBU2xZQN7rQNC"
-    },
-    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "Home",
@@ -1223,22 +1207,6 @@
       "duration_ms": 237999,
       "name": "Travel Lite",
       "url": "https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Heartlow",
-        "url": "https://open.spotify.com/album/7r0DsnValNvnPDASl9U80g"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 218925,
-      "name": "Heartlow - Edit",
-      "url": "https://open.spotify.com/track/5rZbQQ5VCGloeGWubvZfoF"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1261,20 +1229,36 @@
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
     },
     {
-      "added_at": "2022-09-15 12:45:34",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Joyas",
-        "url": "https://open.spotify.com/album/7aNoysMFjBa4Nxy4XQcoqN"
+        "name": "Heartlow",
+        "url": "https://open.spotify.com/album/7r0DsnValNvnPDASl9U80g"
       },
       "artists": [
         {
-          "name": "Valgur",
-          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
         }
       ],
-      "duration_ms": 172402,
-      "name": "Joyas",
-      "url": "https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO"
+      "duration_ms": 218925,
+      "name": "Heartlow - Edit",
+      "url": "https://open.spotify.com/track/5rZbQQ5VCGloeGWubvZfoF"
+    },
+    {
+      "added_at": "2022-01-21 20:15:30",
+      "album": {
+        "name": "Feedback Loop",
+        "url": "https://open.spotify.com/album/204n8zYF4t6GYr7atvFvsE"
+      },
+      "artists": [
+        {
+          "name": "Cid Rim",
+          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
+        }
+      ],
+      "duration_ms": 188873,
+      "name": "Feedback Loop",
+      "url": "https://open.spotify.com/track/0P0mIfzkLvBU2xZQN7rQNC"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1291,6 +1275,38 @@
       "duration_ms": 235093,
       "name": "Rivers That You Cannot See",
       "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
+    },
+    {
+      "added_at": "2022-09-15 12:45:34",
+      "album": {
+        "name": "Joyas",
+        "url": "https://open.spotify.com/album/7aNoysMFjBa4Nxy4XQcoqN"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "duration_ms": 172402,
+      "name": "Joyas",
+      "url": "https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO"
+    },
+    {
+      "added_at": "2022-08-13 01:26:08",
+      "album": {
+        "name": "Escultura Misterio",
+        "url": "https://open.spotify.com/album/0JZld6b73MsZUKI1bg8KSc"
+      },
+      "artists": [
+        {
+          "name": "Tarik Rahim",
+          "url": "https://open.spotify.com/artist/6G8dH1AvGAD1TOldBpAolN"
+        }
+      ],
+      "duration_ms": 173862,
+      "name": "Escultura Misterio",
+      "url": "https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD"
     },
     {
       "added_at": "2022-01-11 00:08:03",
@@ -1315,22 +1331,6 @@
       "duration_ms": 234274,
       "name": "Phantom Throb",
       "url": "https://open.spotify.com/track/4HTssxgiSfzBgJz0OpGflP"
-    },
-    {
-      "added_at": "2022-08-13 01:26:08",
-      "album": {
-        "name": "Escultura Misterio",
-        "url": "https://open.spotify.com/album/0JZld6b73MsZUKI1bg8KSc"
-      },
-      "artists": [
-        {
-          "name": "Tarik Rahim",
-          "url": "https://open.spotify.com/artist/6G8dH1AvGAD1TOldBpAolN"
-        }
-      ],
-      "duration_ms": 173862,
-      "name": "Escultura Misterio",
-      "url": "https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1433,6 +1433,22 @@
       "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
     },
     {
+      "added_at": "2021-10-15 03:46:13",
+      "album": {
+        "name": "Sunken Lupine",
+        "url": "https://open.spotify.com/album/5KFnOmKClYqIDK3fPkwD7h"
+      },
+      "artists": [
+        {
+          "name": "Damiana",
+          "url": "https://open.spotify.com/artist/1xmYJRmMNBC7ucGQ1TTOIx"
+        }
+      ],
+      "duration_ms": 406162,
+      "name": "Sunken Lupine",
+      "url": "https://open.spotify.com/track/45Gj8HBuOtMjooXu3pLEOt"
+    },
+    {
       "added_at": "2021-12-01 01:36:10",
       "album": {
         "name": "SEIM",
@@ -1451,22 +1467,6 @@
       "duration_ms": 256440,
       "name": "Adkrog (feat. Gareth Jones)",
       "url": "https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C"
-    },
-    {
-      "added_at": "2021-10-15 03:46:13",
-      "album": {
-        "name": "Sunken Lupine",
-        "url": "https://open.spotify.com/album/5KFnOmKClYqIDK3fPkwD7h"
-      },
-      "artists": [
-        {
-          "name": "Damiana",
-          "url": "https://open.spotify.com/artist/1xmYJRmMNBC7ucGQ1TTOIx"
-        }
-      ],
-      "duration_ms": 406162,
-      "name": "Sunken Lupine",
-      "url": "https://open.spotify.com/track/45Gj8HBuOtMjooXu3pLEOt"
     },
     {
       "added_at": "2022-09-30 04:04:59",

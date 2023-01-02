@@ -1,12 +1,12 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.Dance",
-  "num_followers": 1851106,
+  "num_followers": 1851167,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQ3NzA3NCwwMDAwMDAwMDdiODhlODM3ODBhZGVjNzgwOGQyNzA1NTQwMzMxMWY1",
+  "snapshot_id": "MTY3MTQ3NzA3NCwwMDAwMDAwMGQxZmI5OWQyZDZkNTM0MmY3NmZiMWZiMGY5YzE0Nzc5",
   "tracks": [
     {
       "added_at": "2022-12-19 19:11:14",
@@ -919,26 +919,6 @@
     {
       "added_at": "2022-12-19 19:11:14",
       "album": {
-        "name": "Nivel De Perreo",
-        "url": "https://open.spotify.com/album/6uDeoe39q6zh4vNScJTTgr"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "Nivel De Perreo",
-      "url": "https://open.spotify.com/track/0nDGgXV5oI8TdAmWjUx65l"
-    },
-    {
-      "added_at": "2022-12-19 19:11:14",
-      "album": {
         "name": "Tic Tac",
         "url": "https://open.spotify.com/album/4tv1S6EVGUU9NoOnn9tVXF"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 176290,
       "name": "Tic Tac",
       "url": "https://open.spotify.com/track/68xg9tAB603bMnsCg7OD3Z"
+    },
+    {
+      "added_at": "2022-12-19 19:11:14",
+      "album": {
+        "name": "Nivel De Perreo",
+        "url": "https://open.spotify.com/album/6uDeoe39q6zh4vNScJTTgr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "Nivel De Perreo",
+      "url": "https://open.spotify.com/track/0nDGgXV5oI8TdAmWjUx65l"
     },
     {
       "added_at": "2022-12-19 19:11:14",

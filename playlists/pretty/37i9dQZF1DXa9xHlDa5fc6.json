@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 424337,
+  "num_followers": 424498,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDE1M2FiYWY1OGU2ZDQ3MTk0MDRjMjY5YTNkNWM3MDMy",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDg0ZjQ1YTE3MjFjMDUzYzFkNDY1ODIxN2E3YzhjNGEx",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Half Light",
-        "url": "https://open.spotify.com/album/2aPm0opc0JjxDRYK5y4yeK"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 185946,
-      "name": "Half Light",
-      "url": "https://open.spotify.com/track/1tYOB844iD7HxHvPtwDPNu"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Colorado",
         "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 174347,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Half Light",
+        "url": "https://open.spotify.com/album/2aPm0opc0JjxDRYK5y4yeK"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "Half Light",
+      "url": "https://open.spotify.com/track/1tYOB844iD7HxHvPtwDPNu"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
-      },
-      "artists": [
-        {
-          "name": "Carlie Hanson",
-          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
-        }
-      ],
-      "duration_ms": 128906,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Puffer",
         "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 152998,
       "name": "Puffer",
       "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
+      },
+      "artists": [
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "duration_ms": 128906,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1063,22 +1063,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "I've Never Been To LA",
-        "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
+        "name": "Holding On, Holding Out",
+        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
       },
       "artists": [
         {
-          "name": "Oscar Lang",
-          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
-        },
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
         }
       ],
-      "duration_ms": 159129,
-      "name": "I've Never Been To LA (Edit)",
-      "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
+      "duration_ms": 218760,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1099,18 +1095,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Holding On, Holding Out",
-        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
+        "name": "I've Never Been To LA",
+        "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Oscar Lang",
+          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
+        },
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
         }
       ],
-      "duration_ms": 218760,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
+      "duration_ms": 159129,
+      "name": "I've Never Been To LA (Edit)",
+      "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Stars Are on Your Side",
-        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
-      },
-      "artists": [
-        {
-          "name": "Ross Copperman",
-          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
-        }
-      ],
-      "duration_ms": 218004,
-      "name": "Stars Are on Your Side",
-      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Shadowboxer",
         "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 213515,
       "name": "Violet City",
       "url": "https://open.spotify.com/track/3EMovq7Gu8VH9Z86wEVVHn"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Stars Are on Your Side",
+        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
+      },
+      "artists": [
+        {
+          "name": "Ross Copperman",
+          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
+        }
+      ],
+      "duration_ms": 218004,
+      "name": "Stars Are on Your Side",
+      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Spinning the Truth Around",
-        "url": "https://open.spotify.com/album/6i7WsXMKef0aJnPUN9uMOP"
-      },
-      "artists": [
-        {
-          "name": "Blue October",
-          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
-        }
-      ],
-      "duration_ms": 289165,
-      "name": "Spinning the Truth Around",
-      "url": "https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 228466,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Spinning the Truth Around",
+        "url": "https://open.spotify.com/album/6i7WsXMKef0aJnPUN9uMOP"
+      },
+      "artists": [
+        {
+          "name": "Blue October",
+          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
+        }
+      ],
+      "duration_ms": 289165,
+      "name": "Spinning the Truth Around",
+      "url": "https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Ocean by Ocean",
-        "url": "https://open.spotify.com/album/71JvFFLbdANicbU2Ys3s55"
-      },
-      "artists": [
-        {
-          "name": "The Boxer Rebellion",
-          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Big Ideas",
-      "url": "https://open.spotify.com/track/4xXJhn3Z0HXzA1OfH20mwP"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "It's Depression (feat. Middle Part)",
         "url": "https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 193000,
       "name": "It's Depression (feat. Middle Part)",
       "url": "https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Ocean by Ocean",
+        "url": "https://open.spotify.com/album/71JvFFLbdANicbU2Ys3s55"
+      },
+      "artists": [
+        {
+          "name": "The Boxer Rebellion",
+          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Big Ideas",
+      "url": "https://open.spotify.com/track/4xXJhn3Z0HXzA1OfH20mwP"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "This is the End",
-        "url": "https://open.spotify.com/album/1fJStrEMC3WHoDmcStWh0h"
-      },
-      "artists": [
-        {
-          "name": "Baby Fisher",
-          "url": "https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA"
-        }
-      ],
-      "duration_ms": 190327,
-      "name": "This is the End",
-      "url": "https://open.spotify.com/track/3j6dcEE1CiLize5IKgtAY4"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Talking in Circles",
         "url": "https://open.spotify.com/album/78JA1aRMAnFMj6AyBnp7Kx"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 227121,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/6rTZiRHLPidlAirSd4yNd8"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "This is the End",
+        "url": "https://open.spotify.com/album/1fJStrEMC3WHoDmcStWh0h"
+      },
+      "artists": [
+        {
+          "name": "Baby Fisher",
+          "url": "https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA"
+        }
+      ],
+      "duration_ms": 190327,
+      "name": "This is the End",
+      "url": "https://open.spotify.com/track/3j6dcEE1CiLize5IKgtAY4"
     },
     {
       "added_at": "2022-12-16 05:00:00",

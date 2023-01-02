@@ -864,6 +864,24 @@
     },
     {
       "album": {
+        "name": "Honor & Glory",
+        "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
+      },
+      "artists": [
+        {
+          "name": "Honor & Glory",
+          "url": "https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271159,
+      "name": "Fear of Missing Out",
+      "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/7lEzSWasG7XYYuWGjXJpXs"
       },
@@ -2181,7 +2199,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 172029,
       "name": "Weight of Glory - Live Session",
       "url": "https://open.spotify.com/track/4kD9MAvYFkTPMTwVvyk1m5"

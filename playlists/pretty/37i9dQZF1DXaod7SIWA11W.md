@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,200 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,279 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 67 | [NO WORRIES](https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4), [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [NO WORRIES](https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ) | 3:32 |
 | 68 | [I's On Him](https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan) | [Jay Violet](https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [I's On Him](https://open.spotify.com/album/1331lQw385FSkpj02K7pOF) | 3:01 |
 | 69 | [Enemies and Foes](https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [Enemies and Foes](https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a) | 4:49 |
-| 70 | [Be My Everything \- Reimagined](https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Be My Everything \(Reimagined\)](https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB) | 3:53 |
-| 71 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 |
+| 70 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 |
+| 71 | [Be My Everything \- Reimagined](https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Be My Everything \(Reimagined\)](https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB) | 3:53 |
 | 72 | [Proverbs & Beats](https://open.spotify.com/track/4zQESthz8AqH8zrKd7Jew2) | [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Proverbs & Beats](https://open.spotify.com/album/2HHVupGrQUPFx2SIa5wZhl) | 3:07 |
 | 73 | [The Best](https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Best](https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV) | 2:37 |
 | 74 | [Take Me to the Fire](https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Take Me to the Fire](https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 79 | [First Love](https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K) | [Christ Encounter](https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf) | [First Love](https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ) | 4:08 |
 | 80 | [Taste And See](https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5) | [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Taste And See](https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg) | 4:21 |
 
-Snapshot ID: `MTY3MTE2Njg2MCwwMDAwMDAwMDY4YmRmNTUyNWRhMzM5OTM2Yzg2ODNhZDdiZDExMzdk`
+Snapshot ID: `MTY3MTE2Njg2MCwwMDAwMDAwMGRmNWQ4NDUzOGM4NWU0ZjBmYzQzZWM1YjE1ZDI5NmEy`

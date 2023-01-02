@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior H ",
-  "num_followers": 102826,
+  "num_followers": 102851,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQzMTAwNSwwMDAwMDAwMDVmODRkYTJmNDMwMTZlMDM1YWM1ZjQyODQ2NzY0NzIy",
+  "snapshot_id": "MTY3MjQzMTAwNSwwMDAwMDAwMDc5NjM5ZDhiYThiYzQ5M2Q5NTQ1YzUyZGI5MDUzNGYy",
   "tracks": [
     {
       "added_at": "2022-12-30 18:14:14",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-12-30 18:14:14",
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Ruido",
-      "url": "https://open.spotify.com/track/0rQv29gK4jSBbU9pcmfODP"
-    },
-    {
-      "added_at": "2022-12-30 18:14:14",
-      "album": {
         "name": "Amor En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 187440,
       "name": "Monte Carlo",
       "url": "https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp"
+    },
+    {
+      "added_at": "2022-12-30 18:14:14",
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Ruido",
+      "url": "https://open.spotify.com/track/0rQv29gK4jSBbU9pcmfODP"
     },
     {
       "added_at": "2022-12-30 18:14:14",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-12-30 18:14:14",
       "album": {
-        "name": "Thirteen",
-        "url": "https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ"
-      },
-      "artists": [
-        {
-          "name": "NEZZA",
-          "url": "https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Thirteen",
-      "url": "https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC"
-    },
-    {
-      "added_at": "2022-12-30 18:14:14",
-      "album": {
         "name": "Para Ti No",
         "url": "https://open.spotify.com/album/2xGJoSFiRndCEdIMd815j9"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 199046,
       "name": "Para Ti No",
       "url": "https://open.spotify.com/track/4pD2EDopSOZl4ojChPFddV"
+    },
+    {
+      "added_at": "2022-12-30 18:14:14",
+      "album": {
+        "name": "Thirteen",
+        "url": "https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ"
+      },
+      "artists": [
+        {
+          "name": "NEZZA",
+          "url": "https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "Thirteen",
+      "url": "https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC"
     },
     {
       "added_at": "2022-12-30 18:14:14",

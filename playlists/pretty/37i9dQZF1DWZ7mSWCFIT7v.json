@@ -1,12 +1,12 @@
 {
   "description": "Laid back electronic soundscapes rooted in experimental and ambient sensibilities.",
-  "num_followers": 79961,
+  "num_followers": 80004,
   "original_name": "Refractions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjMzODg4NiwwMDAwMDAwMDE3NzA4MjQyNjU4NGUwN2RhNWQ0ZjY3NjU4MDIzNTU3",
+  "snapshot_id": "MTY3MjMzODg4NiwwMDAwMDAwMDViY2JlZGFhNWY0NTUxM2VmYzQ4YjdhMjFhYWJkMzEw",
   "tracks": [
     {
       "added_at": "2022-11-09 13:54:27",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1EZryQ41Rf8lFvdFLWErs1"
     },
     {
-      "added_at": "2023-01-01 01:14:14",
+      "added_at": "2023-01-02 00:20:40",
       "album": {
         "name": "Nannou (Mixed)",
         "url": "https://open.spotify.com/album/4UiRbLnV7kPBhXhyEnr1S2"
@@ -353,6 +353,22 @@
       "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
     },
     {
+      "added_at": "2022-07-08 04:56:00",
+      "album": {
+        "name": "Spirit Exit",
+        "url": "https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        }
+      ],
+      "duration_ms": 619200,
+      "name": "Knot of Spirit - Synth Version",
+      "url": "https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H"
+    },
+    {
       "added_at": "2022-08-03 03:12:27",
       "album": {
         "name": "Sons Of",
@@ -371,22 +387,6 @@
       "duration_ms": 471786,
       "name": "A Ghost At Noon",
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
-    },
-    {
-      "added_at": "2022-07-08 04:56:00",
-      "album": {
-        "name": "Spirit Exit",
-        "url": "https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        }
-      ],
-      "duration_ms": 619200,
-      "name": "Knot of Spirit - Synth Version",
-      "url": "https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
     },
     {
-      "added_at": "2022-03-30 04:41:43",
-      "album": {
-        "name": "Chamas Do Cerrado",
-        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
-      },
-      "artists": [
-        {
-          "name": "LAZA",
-          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
-        }
-      ],
-      "duration_ms": 213708,
-      "name": "Vale Da Lua",
-      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Dusting For Smoke",
@@ -667,6 +651,22 @@
       "duration_ms": 233499,
       "name": "Lone Swordsman",
       "url": "https://open.spotify.com/track/4n0Hki3RG2Fa35s5PORLIq"
+    },
+    {
+      "added_at": "2022-03-30 04:41:43",
+      "album": {
+        "name": "Chamas Do Cerrado",
+        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
+      },
+      "artists": [
+        {
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
+        }
+      ],
+      "duration_ms": 213708,
+      "name": "Vale Da Lua",
+      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Brainwave Technology",
-        "url": "https://open.spotify.com/album/3WoE6XpUmkqAuVnPqEFYNf"
-      },
-      "artists": [
-        {
-          "name": "Michael Mayer",
-          "url": "https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI"
-        }
-      ],
-      "duration_ms": 407991,
-      "name": "Brainwave Technology",
-      "url": "https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5"
-    },
-    {
       "added_at": "2022-02-16 00:42:21",
       "album": {
         "name": "drames rurals",
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "1234,8",
-        "url": "https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G"
+        "name": "Brainwave Technology",
+        "url": "https://open.spotify.com/album/3WoE6XpUmkqAuVnPqEFYNf"
       },
       "artists": [
         {
-          "name": "Ulises Conti",
-          "url": "https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV"
+          "name": "Michael Mayer",
+          "url": "https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI"
         }
       ],
-      "duration_ms": 358862,
-      "name": "161,1",
-      "url": "https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo"
+      "duration_ms": 407991,
+      "name": "Brainwave Technology",
+      "url": "https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1079,6 +1063,22 @@
       "duration_ms": 349575,
       "name": "Warm Electronics Box",
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "1234,8",
+        "url": "https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G"
+      },
+      "artists": [
+        {
+          "name": "Ulises Conti",
+          "url": "https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV"
+        }
+      ],
+      "duration_ms": 358862,
+      "name": "161,1",
+      "url": "https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo"
     },
     {
       "added_at": "2022-01-12 18:40:19",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Street Talk",
-        "url": "https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv"
-      },
-      "artists": [
-        {
-          "name": "Holodec",
-          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
-        }
-      ],
-      "duration_ms": 229367,
-      "name": "Street Talk",
-      "url": "https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC"
-    },
-    {
       "added_at": "2022-01-13 02:57:00",
       "album": {
         "name": "Azure",
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Several Shades of the Same Color",
-        "url": "https://open.spotify.com/album/3UKvKcratbHPHngyOxQ0ar"
+        "name": "Street Talk",
+        "url": "https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv"
       },
       "artists": [
         {
-          "name": "Patricia",
-          "url": "https://open.spotify.com/artist/7Czyyo31ZyZL1VLtYaTkW0"
+          "name": "Holodec",
+          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
         }
       ],
-      "duration_ms": 303302,
-      "name": "Liminal States",
-      "url": "https://open.spotify.com/track/35PHqb3ib80HYuwcXGKtGr"
+      "duration_ms": 229367,
+      "name": "Street Talk",
+      "url": "https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1197,6 +1181,22 @@
       "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Several Shades of the Same Color",
+        "url": "https://open.spotify.com/album/3UKvKcratbHPHngyOxQ0ar"
+      },
+      "artists": [
+        {
+          "name": "Patricia",
+          "url": "https://open.spotify.com/artist/7Czyyo31ZyZL1VLtYaTkW0"
+        }
+      ],
+      "duration_ms": 303302,
+      "name": "Liminal States",
+      "url": "https://open.spotify.com/track/35PHqb3ib80HYuwcXGKtGr"
+    },
+    {
       "added_at": "2022-03-11 06:16:07",
       "album": {
         "name": "The Vaulting Sky",
@@ -1211,22 +1211,6 @@
       "duration_ms": 229293,
       "name": "The Vaulting Sky",
       "url": "https://open.spotify.com/track/0hIeSMoFkgvG8psoNtOrsZ"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "that day, on the beach",
-        "url": "https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1"
-      },
-      "artists": [
-        {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
-        }
-      ],
-      "duration_ms": 151302,
-      "name": "memorial park",
-      "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1251,22 +1235,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Square One",
-        "url": "https://open.spotify.com/album/2m4Et0BnKCV3SoJCeJVmSZ"
+        "name": "that day, on the beach",
+        "url": "https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
-        },
-        {
-          "name": "Prins Thomas",
-          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
         }
       ],
-      "duration_ms": 425417,
-      "name": "Arthur",
-      "url": "https://open.spotify.com/track/7AFNqxLKcSL0LpNpOgmhKt"
+      "duration_ms": 151302,
+      "name": "memorial park",
+      "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
     },
     {
       "added_at": "2022-01-11 02:28:09",
@@ -1283,6 +1263,26 @@
       "duration_ms": 215280,
       "name": "Cuarzo",
       "url": "https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Square One",
+        "url": "https://open.spotify.com/album/2m4Et0BnKCV3SoJCeJVmSZ"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Torske",
+          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
+        },
+        {
+          "name": "Prins Thomas",
+          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
+        }
+      ],
+      "duration_ms": 425417,
+      "name": "Arthur",
+      "url": "https://open.spotify.com/track/7AFNqxLKcSL0LpNpOgmhKt"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Muckbirth",
-        "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
-      },
-      "artists": [
-        {
-          "name": "Teset",
-          "url": "https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Muckbirth",
-      "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Translate",
         "url": "https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 108237,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Muckbirth",
+        "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
+      },
+      "artists": [
+        {
+          "name": "Teset",
+          "url": "https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Muckbirth",
+      "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/3s8PqUjMSpcJkfPdb2Fucf"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Felt compute, might delete",
-        "url": "https://open.spotify.com/album/5bVViDPthJW16lx3kO2IS8"
-      },
-      "artists": [
-        {
-          "name": "Jas Shaw",
-          "url": "https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV"
-        }
-      ],
-      "duration_ms": 229811,
-      "name": "Felt compute, might delete",
-      "url": "https://open.spotify.com/track/4euYmucoRKixWMTtg2Yan7"
-    },
-    {
       "added_at": "2022-02-16 03:15:58",
       "album": {
         "name": "Aural Drift (T.Raumschmiere Remix)",
@@ -1587,6 +1571,22 @@
       "duration_ms": 347276,
       "name": "Aural Drift - T.Raumschmiere Remix",
       "url": "https://open.spotify.com/track/5f9weZ5oyuZRKA1riM5vpu"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Felt compute, might delete",
+        "url": "https://open.spotify.com/album/5bVViDPthJW16lx3kO2IS8"
+      },
+      "artists": [
+        {
+          "name": "Jas Shaw",
+          "url": "https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV"
+        }
+      ],
+      "duration_ms": 229811,
+      "name": "Felt compute, might delete",
+      "url": "https://open.spotify.com/track/4euYmucoRKixWMTtg2Yan7"
     },
     {
       "added_at": "2022-03-09 04:45:41",
@@ -1623,18 +1623,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Blooms",
-        "url": "https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz"
+        "name": "Badwater Psalm (Khotin Remix)",
+        "url": "https://open.spotify.com/album/7KziNRnIuC3gccBpsjS28W"
       },
       "artists": [
         {
-          "name": "Sau Poler",
-          "url": "https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu"
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        },
+        {
+          "name": "Khotin",
+          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
         }
       ],
-      "duration_ms": 346479,
-      "name": "Blooms",
-      "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
+      "duration_ms": 360000,
+      "name": "Badwater Psalm - Khotin Remix",
+      "url": "https://open.spotify.com/track/5g1o2X09PYouRGkp13SaQu"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1655,22 +1659,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Badwater Psalm (Khotin Remix)",
-        "url": "https://open.spotify.com/album/7KziNRnIuC3gccBpsjS28W"
+        "name": "Blooms",
+        "url": "https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz"
       },
       "artists": [
         {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        },
-        {
-          "name": "Khotin",
-          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+          "name": "Sau Poler",
+          "url": "https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Badwater Psalm - Khotin Remix",
-      "url": "https://open.spotify.com/track/5g1o2X09PYouRGkp13SaQu"
+      "duration_ms": 346479,
+      "name": "Blooms",
+      "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
     },
     {
       "added_at": "2021-10-06 04:42:05",

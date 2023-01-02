@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 406888,
+  "num_followers": 407065,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDIzOThmMjllMzI2YzBlZjI4NzEzMDQyNmY2NzFjMGM5",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGFjODM0OTYyYWMzNDVhNjM5MTk4MmZjYmQxOGYyOTUy",
   "tracks": [
     {
       "added_at": "2020-12-22 17:15:29",
@@ -99,22 +99,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "ZABA",
-        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Gooey",
-      "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Tieduprightnow",
         "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 249956,
       "name": "Tieduprightnow",
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "ZABA",
+        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Gooey",
+      "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -451,22 +451,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Tailwhip",
-        "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 225263,
-      "name": "Tailwhip",
-      "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Collage 1",
         "url": "https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 200200,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Tailwhip",
+        "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 225263,
+      "name": "Tailwhip",
+      "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -617,6 +617,22 @@
       "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
     },
     {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Pizza Guy / Show Me",
+        "url": "https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790"
+      },
+      "artists": [
+        {
+          "name": "Touch Sensitive",
+          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
+        }
+      ],
+      "duration_ms": 349413,
+      "name": "Pizza Guy",
+      "url": "https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Fever Dream",
@@ -647,22 +663,6 @@
       "duration_ms": 220626,
       "name": "How Much (You Want Her) 2017",
       "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Pizza Guy / Show Me",
-        "url": "https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790"
-      },
-      "artists": [
-        {
-          "name": "Touch Sensitive",
-          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
-        }
-      ],
-      "duration_ms": 349413,
-      "name": "Pizza Guy",
-      "url": "https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Zanzibar",
-        "url": "https://open.spotify.com/album/0fJE1fcPOjUcfQv8niTGbW"
-      },
-      "artists": [
-        {
-          "name": "Kamaliza",
-          "url": "https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6"
-        }
-      ],
-      "duration_ms": 228937,
-      "name": "Zanzibar",
-      "url": "https://open.spotify.com/track/0czEIxZg628LnldJfm7usx"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Purple Noon",
         "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
       },
@@ -767,18 +751,38 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
+        "name": "Zanzibar",
+        "url": "https://open.spotify.com/album/0fJE1fcPOjUcfQv8niTGbW"
+      },
+      "artists": [
+        {
+          "name": "Kamaliza",
+          "url": "https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6"
+        }
+      ],
+      "duration_ms": 228937,
+      "name": "Zanzibar",
+      "url": "https://open.spotify.com/track/0czEIxZg628LnldJfm7usx"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "We Stayed Up All Night",
+        "url": "https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC"
       },
       "artists": [
         {
           "name": "Tourist",
           "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        },
+        {
+          "name": "Ardyn",
+          "url": "https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu"
         }
       ],
-      "duration_ms": 324266,
-      "name": "Kin",
-      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
+      "duration_ms": 265758,
+      "name": "We Stayed Up All Night",
+      "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -935,42 +939,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Chihiro (Remixes)",
-        "url": "https://open.spotify.com/album/5PQgIvaINhDN7I3RNmtYyQ"
-      },
-      "artists": [
-        {
-          "name": "Yoste",
-          "url": "https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf"
-        }
-      ],
-      "duration_ms": 212963,
-      "name": "Chihiro",
-      "url": "https://open.spotify.com/track/4sa0z53uQH0pBQPDaAnQcl"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "We Stayed Up All Night",
-        "url": "https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        },
-        {
-          "name": "Ardyn",
-          "url": "https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu"
-        }
-      ],
-      "duration_ms": 265758,
-      "name": "We Stayed Up All Night",
-      "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Taking Over",
         "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
       },
@@ -983,6 +951,38 @@
       "duration_ms": 336867,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 324266,
+      "name": "Kin",
+      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Chihiro (Remixes)",
+        "url": "https://open.spotify.com/album/5PQgIvaINhDN7I3RNmtYyQ"
+      },
+      "artists": [
+        {
+          "name": "Yoste",
+          "url": "https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf"
+        }
+      ],
+      "duration_ms": 212963,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/4sa0z53uQH0pBQPDaAnQcl"
     },
     {
       "added_at": "2021-08-30 22:51:44",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "I Can Change",
+        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 331525,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "Don't Turn Around",
         "url": "https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 166909,
       "name": "Blue Ceiling",
       "url": "https://open.spotify.com/track/6o0kb9c076D1vN0NDlLMSR"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "I Can Change",
-        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 331525,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Home For Now",
-        "url": "https://open.spotify.com/album/5C08sWlLMLwp1QWfPZH9Yo"
-      },
-      "artists": [
-        {
-          "name": "Benji Lewis",
-          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
-        }
-      ],
-      "duration_ms": 222439,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/7nF0GGmgvZ0ViSocnGr2zZ"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/7crhe15k1Qn72AWzAHMVOt"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 216032,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2EEZdCeGp095urJDE3wEpS"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Home For Now",
+        "url": "https://open.spotify.com/album/5C08sWlLMLwp1QWfPZH9Yo"
+      },
+      "artists": [
+        {
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/7nF0GGmgvZ0ViSocnGr2zZ"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "All Becomes Okay",
-        "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 228162,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "S\u00e9quences (Remixes)",
         "url": "https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 265800,
       "name": "S\u00e9quences - Parcels Remix",
       "url": "https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "All Becomes Okay",
+        "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 228162,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
     },
     {
       "added_at": "2021-03-19 20:47:30",

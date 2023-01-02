@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 
 > The best of 70s Glam Rock\. Cover: David Bowie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,030 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,198 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 46 | [Cosmic Dancer \- 2003 Remaster](https://open.spotify.com/track/5N4vVbNotNwWGG8KcCdstR) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:30 |
 | 47 | [Mother Of Pearl](https://open.spotify.com/track/4yDPUrGef0gWT4LSS13lwy) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Stranded](https://open.spotify.com/album/46lN88zXwgNHAQnN9wWjiC) | 6:52 |
 | 48 | [Mama Weer All Crazee Now](https://open.spotify.com/track/2Gp23sr178DBntGtqKnJez) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Slayed? \(Expanded\)](https://open.spotify.com/album/3fnE8RruCbRZJCcUgV0OMt) | 3:45 |
-| 49 | [Looking For A Kiss](https://open.spotify.com/track/1z9Vxm6Gij3AkTjVUlcnLT) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:18 |
+| 49 | [My Coo Ca Choo](https://open.spotify.com/track/4LDjgf7egcQGxeGRjEfrSk) | [Alvin Stardust](https://open.spotify.com/artist/2yoCXbhsq5CqLCnzDR7a7l) | [The Untouchable](https://open.spotify.com/album/7vdGNd7La8onpnF4k6EUR9) | 2:47 |
 | 50 | [The Wild One \- Single Version](https://open.spotify.com/track/7ukFfm4TZOSwrnz2wxp4mG) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Quatro](https://open.spotify.com/album/0PVSnckBznSfzQai0cR3Kh) | 2:51 |
 
-Snapshot ID: `MTY2ODcwMDg3OCwwMDAwMDAwMDQ2NDM0M2RkMmZjMmRkZDNhNGJhNjc0MzA4ZDdjMGFl`
+Snapshot ID: `MTY2ODcwMDg3OCwwMDAwMDAwMGUxYjIyNjA1ZWZjZWMwZTVhOTkwNDJlOTA3Njc0MzIx`

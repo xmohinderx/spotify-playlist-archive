@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1414823,
+  "num_followers": 1415466,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTIwNDg2NywwMDAwMDAwMDdhOGMzY2VlNGFmYWMzNTgwMmRhZmY2MWRmZDZiNGRm",
+  "snapshot_id": "MTY2MTIwNDg2NywwMDAwMDAwMGZiMzI5YzY4OWQ0YjE2ZWJmM2RiYTM1MmZlNjUyOTA4",
   "tracks": [
     {
       "added_at": "2022-08-02 18:47:58",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Sing The Sorrow",
-        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 190493,
-      "name": "Girl's Not Grey",
-      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "American Football",
         "url": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 268333,
       "name": "Never Meant",
       "url": "https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 190493,
+      "name": "Girl's Not Grey",
+      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Never Take Friendship Personal",
-        "url": "https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w"
-      },
-      "artists": [
-        {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "The Feel Good Drag",
-      "url": "https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "The Same Old Blood Rush With A New Touch",
         "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 203626,
       "name": "The Curse of Curves",
       "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Never Take Friendship Personal",
+        "url": "https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "The Feel Good Drag",
+      "url": "https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj"
     },
     {
       "added_at": "2022-08-02 18:47:58",

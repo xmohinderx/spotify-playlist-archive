@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
-  "num_followers": 123310,
+  "num_followers": 123404,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDA1OCwwMDAwMDAwMDFlZTI0Y2NjYzNiYTFmMjkxMGM4YWMzZjU5MzFmMDNj",
+  "snapshot_id": "MTY2ODcwMDA1OCwwMDAwMDAwMGM0MWIzNzYxZTU5NzkzYjA3ZWQwMTQzYjE0MmQ1MGZk",
   "tracks": [
     {
       "added_at": "2020-10-28 09:50:29",
@@ -217,22 +217,6 @@
       "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
     },
     {
-      "added_at": "2021-12-22 06:29:20",
-      "album": {
-        "name": "Weezer (Green Album)",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
-    },
-    {
       "added_at": "2022-03-23 15:16:45",
       "album": {
         "name": "Oracular Spectacular",
@@ -247,6 +231,22 @@
       "duration_ms": 302840,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
+    },
+    {
+      "added_at": "2021-12-22 06:29:20",
+      "album": {
+        "name": "Weezer (Green Album)",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
-        "name": "Lifehouse",
-        "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
-      },
-      "artists": [
-        {
-          "name": "Lifehouse",
-          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
-        }
-      ],
-      "duration_ms": 195493,
-      "name": "You And Me",
-      "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
         "name": "Day & Age (Bonus Tracks)",
         "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 245373,
       "name": "Human",
       "url": "https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
+        "name": "Lifehouse",
+        "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
+      },
+      "artists": [
+        {
+          "name": "Lifehouse",
+          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -475,22 +475,6 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
         "name": "The Fray",
         "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
         "name": "All the Right Reasons",
         "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 201706,
       "name": "Suddenly I See",
       "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -615,22 +631,6 @@
       "duration_ms": 297586,
       "name": "All Summer Long",
       "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Since U Been Gone",
-      "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
+        "name": "C'Mon C'Mon",
+        "url": "https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 292306,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
         "name": "Dreaming Out Loud",
         "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 284066,
       "name": "Here I Am - End Title",
       "url": "https://open.spotify.com/track/0gJBPDy458wPeWGHei3TvO"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
-        "name": "C'Mon C'Mon",
-        "url": "https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 292306,
-      "name": "Soak Up The Sun",
-      "url": "https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
-        "name": "Kris Allen",
-        "url": "https://open.spotify.com/album/5fM41TOegBBrRO7NhmFYvP"
+        "name": "Welcome Interstate Managers",
+        "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
       },
       "artists": [
         {
-          "name": "Kris Allen",
-          "url": "https://open.spotify.com/artist/2zwHaEmXxX6DTv4i8ajNCM"
+          "name": "Fountains Of Wayne",
+          "url": "https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh"
         }
       ],
-      "duration_ms": 212506,
-      "name": "Live Like We're Dying",
-      "url": "https://open.spotify.com/track/1HfxPaJggVwFsvOtHbVzMz"
+      "duration_ms": 156933,
+      "name": "Hey Julie",
+      "url": "https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
-        "name": "Welcome Interstate Managers",
-        "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
+        "name": "Kris Allen",
+        "url": "https://open.spotify.com/album/5fM41TOegBBrRO7NhmFYvP"
       },
       "artists": [
         {
-          "name": "Fountains Of Wayne",
-          "url": "https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh"
+          "name": "Kris Allen",
+          "url": "https://open.spotify.com/artist/2zwHaEmXxX6DTv4i8ajNCM"
         }
       ],
-      "duration_ms": 156933,
-      "name": "Hey Julie",
-      "url": "https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN"
+      "duration_ms": 212506,
+      "name": "Live Like We're Dying",
+      "url": "https://open.spotify.com/track/1HfxPaJggVwFsvOtHbVzMz"
     },
     {
       "added_at": "2020-10-28 09:50:29",

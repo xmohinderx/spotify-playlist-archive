@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randall King",
-  "num_followers": 394070,
+  "num_followers": 394186,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDEzMTRjZWE3NzRiYTc2YzY5ZTFiMjc2NjdhNzdmMGYw",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGMzMjRlOTZjMDdjZjM5NDkxYzJkYmE5OTE1MzVjZjU0",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -191,8 +191,8 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "From Austin",
-        "url": "https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG"
+        "name": "Highway Boys",
+        "url": "https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 207453,
-      "name": "From Austin",
-      "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
+      "duration_ms": 220035,
+      "name": "Highway Boys",
+      "url": "https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -339,8 +339,8 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Highway Boys",
-        "url": "https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ"
+        "name": "From Austin",
+        "url": "https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 220035,
-      "name": "Highway Boys",
-      "url": "https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY"
+      "duration_ms": 207453,
+      "name": "From Austin",
+      "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "April Showers",
-        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Breaking News",
         "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 220234,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "April Showers",
+        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -815,18 +815,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+        "name": "Your Bar Now",
+        "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
+        },
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
         }
       ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+      "duration_ms": 214253,
+      "name": "Your Bar Now",
+      "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -847,22 +851,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Your Bar Now",
-        "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
       "artists": [
         {
-          "name": "Tyler Halverson",
-          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
-        },
-        {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
         }
       ],
-      "duration_ms": 214253,
-      "name": "Your Bar Now",
-      "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
+        "name": "All It Cost Me Was Everything",
+        "url": "https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 217720,
-      "name": "Telling on My Heart",
-      "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
+      "duration_ms": 230344,
+      "name": "All It Cost Me Was Everything",
+      "url": "https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "All It Cost Me Was Everything",
-        "url": "https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC"
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 230344,
-      "name": "All It Cost Me Was Everything",
-      "url": "https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF"
+      "duration_ms": 217720,
+      "name": "Telling on My Heart",
+      "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Stay Tuned",
+        "url": "https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Stay Tuned",
+      "url": "https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Burnout",
         "url": "https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 242517,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Stay Tuned",
-        "url": "https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6"
-      },
-      "artists": [
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "Stay Tuned",
-      "url": "https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs"
+        "name": "South of Forever",
+        "url": "https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Tell Me It Is",
-      "url": "https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj"
+      "duration_ms": 247211,
+      "name": "South of Forever",
+      "url": "https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "South of Forever",
-        "url": "https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9"
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs"
       },
       "artists": [
         {
-          "name": "Clayton Mullen",
-          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
         }
       ],
-      "duration_ms": 247211,
-      "name": "South of Forever",
-      "url": "https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL"
+      "duration_ms": 185000,
+      "name": "Tell Me It Is",
+      "url": "https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Varsity Type",
-        "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
-      },
-      "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        }
-      ],
-      "duration_ms": 202383,
-      "name": "Varsity Type",
-      "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Cowboys Don't Cry",
         "url": "https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 189657,
       "name": "Cowboys Don't Cry",
       "url": "https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Varsity Type",
+        "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "duration_ms": 202383,
+      "name": "Varsity Type",
+      "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
     },
     {
       "added_at": "2022-12-16 05:00:00",

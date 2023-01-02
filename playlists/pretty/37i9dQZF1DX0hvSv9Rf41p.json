@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with G Jones & ISOxo.",
-  "num_followers": 948411,
+  "num_followers": 948482,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGFjZjNjMTExM2VmZDQwYmIxYTVlNGQyZTJiYmQxM2Y4",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGZhNGQ0ZDdiMTNmZjZkYTk4ZDI5NDhhZmI3MTQ5YmVh",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -527,6 +527,26 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "PEW PEW",
+        "url": "https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 199111,
+      "name": "PEW PEW",
+      "url": "https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "All Eyes On Me",
         "url": "https://open.spotify.com/album/0wgepIc4n4gKNgccZk0b0i"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 160500,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/7DRDufzLV8vbLRPdkJIqWq"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "PEW PEW",
-        "url": "https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 199111,
-      "name": "PEW PEW",
-      "url": "https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "The Dead March",
-        "url": "https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 162356,
-      "name": "The Dead March",
-      "url": "https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "fuck ya go us",
         "url": "https://open.spotify.com/album/3nD84oMa7zffmYcLEPkWZT"
       },
@@ -1071,22 +1051,38 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "MV//MNT",
-        "url": "https://open.spotify.com/album/7MRzIoxez1tDxHDnRILJW1"
+        "name": "The Dead March",
+        "url": "https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU"
       },
       "artists": [
         {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         },
         {
-          "name": "Shyloom",
-          "url": "https://open.spotify.com/artist/25MZxyt3nsEKGyDJQvb6HG"
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
         }
       ],
-      "duration_ms": 214736,
-      "name": "DIMENSIONAL",
-      "url": "https://open.spotify.com/track/4trP47xiWSelndRjtYcGDF"
+      "duration_ms": 162356,
+      "name": "The Dead March",
+      "url": "https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Seduce / Destroy",
+        "url": "https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv"
+      },
+      "artists": [
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Seduce / Destroy",
+      "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1115,18 +1111,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Seduce / Destroy",
-        "url": "https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv"
+        "name": "MV//MNT",
+        "url": "https://open.spotify.com/album/7MRzIoxez1tDxHDnRILJW1"
       },
       "artists": [
         {
-          "name": "Lucille Croft",
-          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "Shyloom",
+          "url": "https://open.spotify.com/artist/25MZxyt3nsEKGyDJQvb6HG"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Seduce / Destroy",
-      "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
+      "duration_ms": 214736,
+      "name": "DIMENSIONAL",
+      "url": "https://open.spotify.com/track/4trP47xiWSelndRjtYcGDF"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "KARMA (With Jazz Cartier)",
+        "url": "https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        },
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "KARMA (With Jazz Cartier)",
+      "url": "https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Skydive",
         "url": "https://open.spotify.com/album/0z8yPgvnMcFWNcr7oe0OPC"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 152083,
       "name": "Skydive",
       "url": "https://open.spotify.com/track/3NIsSYGL4i9ogRT6hW5b01"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "KARMA (With Jazz Cartier)",
-        "url": "https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        },
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "KARMA (With Jazz Cartier)",
-      "url": "https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/0j1JntUGndsVxvXu6DwvRg"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Metrik",
+          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+        }
+      ],
+      "duration_ms": 250276,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/5M6DnQMTwQs0CaNdz7yJ5d"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Eternity (feat. Dayce Williams)",
         "url": "https://open.spotify.com/album/5X0bqp1XBaGVPQ4DWGaADN"
       },
@@ -1471,22 +1491,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/0j1JntUGndsVxvXu6DwvRg"
+        "name": "Bass Music",
+        "url": "https://open.spotify.com/album/560VEcijx4SfGVQOwxlD28"
       },
       "artists": [
         {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         },
         {
-          "name": "Metrik",
-          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+          "name": "TVBOO",
+          "url": "https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW"
         }
       ],
-      "duration_ms": 250276,
-      "name": "Skyline",
-      "url": "https://open.spotify.com/track/5M6DnQMTwQs0CaNdz7yJ5d"
+      "duration_ms": 246394,
+      "name": "Bass Music",
+      "url": "https://open.spotify.com/track/0i9EOVFM9AxFbY0IxA2coY"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1515,26 +1535,6 @@
       "duration_ms": 191120,
       "name": "Colors (feat. Eyelar) - REAPER Remix",
       "url": "https://open.spotify.com/track/6g17XDgLWaPEIj6vcDQCCA"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Bass Music",
-        "url": "https://open.spotify.com/album/560VEcijx4SfGVQOwxlD28"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "TVBOO",
-          "url": "https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW"
-        }
-      ],
-      "duration_ms": 246394,
-      "name": "Bass Music",
-      "url": "https://open.spotify.com/track/0i9EOVFM9AxFbY0IxA2coY"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Outcast",
+        "url": "https://open.spotify.com/album/7bzJEJoMYDnwJlZC3h9hBb"
+      },
+      "artists": [
+        {
+          "name": "INHUMAN",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 272431,
+      "name": "Outcast",
+      "url": "https://open.spotify.com/track/20eAFFTSJktGui5yaZ9DCr"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "High Vaultage EP",
         "url": "https://open.spotify.com/album/3FYAvx8nplQwbciVpHe7y5"
       },
@@ -1695,22 +1715,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Outcast",
-        "url": "https://open.spotify.com/album/7bzJEJoMYDnwJlZC3h9hBb"
+        "name": "Never Be The Same (feat. Sara Benyo)",
+        "url": "https://open.spotify.com/album/11vsNOGUnRLErmbVBZ1LOe"
       },
       "artists": [
         {
-          "name": "INHUMAN",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
         },
         {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+          "name": "Sara Benyo",
+          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
         }
       ],
-      "duration_ms": 272431,
-      "name": "Outcast",
-      "url": "https://open.spotify.com/track/20eAFFTSJktGui5yaZ9DCr"
+      "duration_ms": 230425,
+      "name": "Never Be The Same (feat. Sara Benyo)",
+      "url": "https://open.spotify.com/track/14wlTKn3ZZoIO1jk3OHDWH"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1731,26 +1751,6 @@
       "duration_ms": 184049,
       "name": "BODY SH!T",
       "url": "https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Never Be The Same (feat. Sara Benyo)",
-        "url": "https://open.spotify.com/album/11vsNOGUnRLErmbVBZ1LOe"
-      },
-      "artists": [
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Sara Benyo",
-          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
-        }
-      ],
-      "duration_ms": 230425,
-      "name": "Never Be The Same (feat. Sara Benyo)",
-      "url": "https://open.spotify.com/track/14wlTKn3ZZoIO1jk3OHDWH"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Blicky",
+        "url": "https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1"
+      },
+      "artists": [
+        {
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Blicky",
+      "url": "https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Grit",
         "url": "https://open.spotify.com/album/1sb0N6xaPvu2mX0BLhMnmU"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 225346,
       "name": "Deathstalker",
       "url": "https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Blicky",
-        "url": "https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1"
-      },
-      "artists": [
-        {
-          "name": "Montell2099",
-          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Blicky",
-      "url": "https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -2247,30 +2247,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Between Two",
-        "url": "https://open.spotify.com/album/1zp3TAlnDa1X6Fob4hViWu"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        },
-        {
-          "name": "David Feldman",
-          "url": "https://open.spotify.com/artist/53WoIbwTPs856mU10SR5D4"
-        },
-        {
-          "name": "Tim Moyo",
-          "url": "https://open.spotify.com/artist/3T5QkaUrOahzNpA0JvqsF1"
-        }
-      ],
-      "duration_ms": 167467,
-      "name": "Between Two",
-      "url": "https://open.spotify.com/track/5mQaLrxEBrqBbZFVtCCKUE"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/0wO2pnmmKaL4gsyGpTMqCY"
       },
@@ -2303,6 +2279,50 @@
       "duration_ms": 196800,
       "name": "Within The Boundaries",
       "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Between Two",
+        "url": "https://open.spotify.com/album/1zp3TAlnDa1X6Fob4hViWu"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "David Feldman",
+          "url": "https://open.spotify.com/artist/53WoIbwTPs856mU10SR5D4"
+        },
+        {
+          "name": "Tim Moyo",
+          "url": "https://open.spotify.com/artist/3T5QkaUrOahzNpA0JvqsF1"
+        }
+      ],
+      "duration_ms": 167467,
+      "name": "Between Two",
+      "url": "https://open.spotify.com/track/5mQaLrxEBrqBbZFVtCCKUE"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Light Garden",
+        "url": "https://open.spotify.com/album/6vTBnxMMSX9OUHyJjJfZfe"
+      },
+      "artists": [
+        {
+          "name": "sumthin sumthin",
+          "url": "https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm"
+        },
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        }
+      ],
+      "duration_ms": 223961,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/5rFRdSHV7GQyu2kNjyXRgE"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -2343,26 +2363,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Light Garden",
-        "url": "https://open.spotify.com/album/6vTBnxMMSX9OUHyJjJfZfe"
-      },
-      "artists": [
-        {
-          "name": "sumthin sumthin",
-          "url": "https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm"
-        },
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        }
-      ],
-      "duration_ms": 223961,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/5rFRdSHV7GQyu2kNjyXRgE"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Run It Up EP",
         "url": "https://open.spotify.com/album/6jixI1D9HqNBx5OpIPEMf8"
       },
@@ -2379,6 +2379,38 @@
       "duration_ms": 182400,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/0iNUbvzTSxeTHT9DVaXrJa"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Symptoms",
+        "url": "https://open.spotify.com/album/1v3mYCjOi9vVeu5gl1Ygs7"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "duration_ms": 148114,
+      "name": "Symptoms",
+      "url": "https://open.spotify.com/track/4inYiXI3aHvJMK9LGRDsKa"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Skanka (VIP)",
+        "url": "https://open.spotify.com/album/2XEKyZZ1afhTJzpv7NcKgo"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "duration_ms": 228004,
+      "name": "Skanka (VIP)",
+      "url": "https://open.spotify.com/track/0MJPT4ZJjpYnauApAVypF6"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -2403,22 +2435,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Skanka (VIP)",
-        "url": "https://open.spotify.com/album/2XEKyZZ1afhTJzpv7NcKgo"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        }
-      ],
-      "duration_ms": 228004,
-      "name": "Skanka (VIP)",
-      "url": "https://open.spotify.com/track/0MJPT4ZJjpYnauApAVypF6"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "\u00c6ON:ONE",
         "url": "https://open.spotify.com/album/1KPxKpvQLA3JJEPlwlxzND"
       },
@@ -2431,42 +2447,6 @@
       "duration_ms": 195862,
       "name": "Polaris",
       "url": "https://open.spotify.com/track/4Hr6eRuaakhr9RmLLYJawz"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Hollow (with DeathbyRomy)",
-        "url": "https://open.spotify.com/album/1fRAl9cLzdlHptJkaZdbuw"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "DeathbyRomy",
-          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
-        }
-      ],
-      "duration_ms": 198046,
-      "name": "Hollow (with DeathbyRomy)",
-      "url": "https://open.spotify.com/track/7pZJtzfLAFB0NxWzLr3f85"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Symptoms",
-        "url": "https://open.spotify.com/album/1v3mYCjOi9vVeu5gl1Ygs7"
-      },
-      "artists": [
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        }
-      ],
-      "duration_ms": 148114,
-      "name": "Symptoms",
-      "url": "https://open.spotify.com/track/4inYiXI3aHvJMK9LGRDsKa"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -2491,6 +2471,26 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Hollow (with DeathbyRomy)",
+        "url": "https://open.spotify.com/album/1fRAl9cLzdlHptJkaZdbuw"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        }
+      ],
+      "duration_ms": 198046,
+      "name": "Hollow (with DeathbyRomy)",
+      "url": "https://open.spotify.com/track/7pZJtzfLAFB0NxWzLr3f85"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh"
       },
@@ -2511,6 +2511,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Eat Your Soul",
+        "url": "https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "duration_ms": 159622,
+      "name": "Eat Your Soul",
+      "url": "https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Feel The Same",
         "url": "https://open.spotify.com/album/3Yh1Ori1Ydaq46oNsksZhN"
       },
@@ -2527,22 +2543,6 @@
       "duration_ms": 167750,
       "name": "Feel The Same",
       "url": "https://open.spotify.com/track/4uXs9sxxIQ1OdOl36HkTKB"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Eat Your Soul",
-        "url": "https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        }
-      ],
-      "duration_ms": 159622,
-      "name": "Eat Your Soul",
-      "url": "https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz"
     },
     {
       "added_at": "2022-12-16 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Energetic tracks from the 1990s to boost your running session.",
-  "num_followers": 420445,
+  "num_followers": 420842,
   "original_name": "90s Pop Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA0ODI0MSwwMDAwMDAwMGVkNjMzMjRjMTdmZGY5NjA4MDZlMzJhMTA1NzM4NTc0",
+  "snapshot_id": "MTY2NTA0ODI0MSwwMDAwMDAwMDI4OWU5YTc5MDI0YThmYTczMTU1NTdlZGZkMmM5YjZh",
   "tracks": [
     {
       "added_at": "2022-10-06 09:24:01",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-10-06 09:24:01",
       "album": {
-        "name": "L.P.",
-        "url": "https://open.spotify.com/album/6koDBGMqurYl3EZnaxCF7N"
-      },
-      "artists": [
-        {
-          "name": "The Rembrandts",
-          "url": "https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4"
-        }
-      ],
-      "duration_ms": 188359,
-      "name": "I'll Be There for You - Theme From \"Friends\"",
-      "url": "https://open.spotify.com/track/15tHagkk8z306XkyOHqiip"
-    },
-    {
-      "added_at": "2022-10-06 09:24:01",
-      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -203,6 +187,22 @@
     {
       "added_at": "2022-10-06 09:24:01",
       "album": {
+        "name": "L.P.",
+        "url": "https://open.spotify.com/album/6koDBGMqurYl3EZnaxCF7N"
+      },
+      "artists": [
+        {
+          "name": "The Rembrandts",
+          "url": "https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4"
+        }
+      ],
+      "duration_ms": 188359,
+      "name": "I'll Be There for You - Theme From \"Friends\"",
+      "url": "https://open.spotify.com/track/15tHagkk8z306XkyOHqiip"
+    },
+    {
+      "added_at": "2022-10-06 09:24:01",
+      "album": {
         "name": "Life Thru A Lens",
         "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
       },
@@ -215,6 +215,22 @@
       "duration_ms": 262000,
       "name": "Let Me Entertain You",
       "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
+    },
+    {
+      "added_at": "2022-10-06 09:24:01",
+      "album": {
+        "name": "Saturday Night Single",
+        "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
+      },
+      "artists": [
+        {
+          "name": "Whigfield",
+          "url": "https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq"
+        }
+      ],
+      "duration_ms": 247405,
+      "name": "Saturday Night - Radio Mix",
+      "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
     },
     {
       "added_at": "2022-10-06 09:24:01",
@@ -247,22 +263,6 @@
       "duration_ms": 198066,
       "name": "(You Drive Me) Crazy",
       "url": "https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv"
-    },
-    {
-      "added_at": "2022-10-06 09:24:01",
-      "album": {
-        "name": "Saturday Night Single",
-        "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
-      },
-      "artists": [
-        {
-          "name": "Whigfield",
-          "url": "https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq"
-        }
-      ],
-      "duration_ms": 247405,
-      "name": "Saturday Night - Radio Mix",
-      "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
     },
     {
       "added_at": "2022-10-06 09:24:01",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-10-06 09:24:01",
       "album": {
-        "name": "Savage Garden",
-        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N"
-    },
-    {
-      "added_at": "2022-10-06 09:24:01",
-      "album": {
         "name": "Here Comes The Hotstepper",
         "url": "https://open.spotify.com/album/1fSD1yTlcwVUWdpK7Nr7v5"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2022-10-06 09:24:01",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
+        "name": "Savage Garden",
+        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
       "artists": [
         {
-          "name": "CeCe Peniston",
-          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
+      "duration_ms": 232066,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N"
     },
     {
       "added_at": "2022-10-06 09:24:01",
@@ -475,6 +459,22 @@
       "duration_ms": 238706,
       "name": "That Don't Impress Me Much",
       "url": "https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx"
+    },
+    {
+      "added_at": "2022-10-06 09:24:01",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
+      },
+      "artists": [
+        {
+          "name": "CeCe Peniston",
+          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
     },
     {
       "added_at": "2022-10-06 09:24:01",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-10-06 09:24:01",
       "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36"
+      },
+      "artists": [
+        {
+          "name": "Right Said Fred",
+          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
+        }
+      ],
+      "duration_ms": 170466,
+      "name": "I'm Too Sexy",
+      "url": "https://open.spotify.com/track/2WElktskrNJEwgpp5Vouxk"
+    },
+    {
+      "added_at": "2022-10-06 09:24:01",
+      "album": {
         "name": "C'est la Vie: The Collection",
         "url": "https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 246426,
       "name": "Waiting for Tonight",
       "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
-    },
-    {
-      "added_at": "2022-10-06 09:24:01",
-      "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36"
-      },
-      "artists": [
-        {
-          "name": "Right Said Fred",
-          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
-        }
-      ],
-      "duration_ms": 170466,
-      "name": "I'm Too Sexy",
-      "url": "https://open.spotify.com/track/2WElktskrNJEwgpp5Vouxk"
     },
     {
       "added_at": "2022-10-06 09:24:01",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-10-06 09:24:01",
       "album": {
-        "name": "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",
-        "url": "https://open.spotify.com/album/0RNsFWWdiz1rrdLI1pwbvJ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Blood on the Dance Floor",
-      "url": "https://open.spotify.com/track/11lw4bWbmxWIETHitBU0Gc"
-    },
-    {
-      "added_at": "2022-10-06 09:24:01",
-      "album": {
         "name": "Tougher Than Love",
         "url": "https://open.spotify.com/album/5lwkQjfbO515jO9jwfzs6b"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 258560,
       "name": "Shy Guy",
       "url": "https://open.spotify.com/track/3ldG6XCLDXxWg1N6XhrSKo"
+    },
+    {
+      "added_at": "2022-10-06 09:24:01",
+      "album": {
+        "name": "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",
+        "url": "https://open.spotify.com/album/0RNsFWWdiz1rrdLI1pwbvJ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Blood on the Dance Floor",
+      "url": "https://open.spotify.com/track/11lw4bWbmxWIETHitBU0Gc"
     },
     {
       "added_at": "2022-10-06 09:24:01",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-10-06 09:24:01",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4oXtR5JbdA9PLwbR49zx9Q"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "Life Is a Flower",
-      "url": "https://open.spotify.com/track/7hQgwzBCXsdIRsaFonrS3P"
-    },
-    {
-      "added_at": "2022-10-06 09:24:01",
-      "album": {
         "name": "2 Times (Full Package)",
         "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
       },
@@ -823,6 +807,26 @@
       "duration_ms": 230933,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
+    },
+    {
+      "added_at": "2022-10-06 09:24:01",
+      "album": {
+        "name": "Two Can Play That Game",
+        "url": "https://open.spotify.com/album/1K62bZaGNA1eNoR2pNu585"
+      },
+      "artists": [
+        {
+          "name": "Bobby Brown",
+          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
+        },
+        {
+          "name": "K-Klass",
+          "url": "https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Two Can Play That Game - Radio Edit",
+      "url": "https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0"
     }
   ],
   "unique_name": "90s Pop Run",

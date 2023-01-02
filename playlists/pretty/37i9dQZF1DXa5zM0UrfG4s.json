@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Hagle",
-  "num_followers": 91969,
+  "num_followers": 91997,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMGNlNDk2OTEyM2YzOTgzNmM3ZTY4YjhhMDE1YTNhNWEy",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDkzODI4MjFiNmVmZDhmNDIyNmZkNzkyMGI3MzdkYTQx",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "KJ\u00d8PE HELE SVERIGE",
+        "url": "https://open.spotify.com/album/0ZgDNxfaVeihCzeTzDQVw6"
+      },
+      "artists": [
+        {
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+        }
+      ],
+      "duration_ms": 117180,
+      "name": "KJ\u00d8PE HELE SVERIGE",
+      "url": "https://open.spotify.com/track/50JIJWXNfJYU2clG8oMoeF"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
         "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 186692,
       "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
       "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "KJ\u00d8PE HELE SVERIGE",
-        "url": "https://open.spotify.com/album/0ZgDNxfaVeihCzeTzDQVw6"
-      },
-      "artists": [
-        {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
-        }
-      ],
-      "duration_ms": 117180,
-      "name": "KJ\u00d8PE HELE SVERIGE",
-      "url": "https://open.spotify.com/track/50JIJWXNfJYU2clG8oMoeF"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Polare",
-        "url": "https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr"
-      },
-      "artists": [
-        {
-          "name": "Prilla Generalen",
-          "url": "https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "Polare",
-      "url": "https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "R\u00f6d Chevrolet",
         "url": "https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 222533,
       "name": "Det regnar och regnar",
       "url": "https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Polare",
+        "url": "https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr"
+      },
+      "artists": [
+        {
+          "name": "Prilla Generalen",
+          "url": "https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "Polare",
+      "url": "https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -531,38 +531,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "\u00c6rbesk\u00e6r",
-        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 135542,
-      "name": "\u00c6rbesk\u00e6r",
-      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Sju Fjell",
-        "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
-      },
-      "artists": [
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        }
-      ],
-      "duration_ms": 178171,
-      "name": "Sju Fjell",
-      "url": "https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "H\u00e4lsa Gud",
         "url": "https://open.spotify.com/album/7imYelkBM9wWrcy8syQgDd"
       },
@@ -583,6 +551,38 @@
       "duration_ms": 150500,
       "name": "H\u00e4lsa Gud",
       "url": "https://open.spotify.com/track/4owtkzhI4uCeagbsgTajFg"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Sju Fjell",
+        "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "duration_ms": 178171,
+      "name": "Sju Fjell",
+      "url": "https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "\u00c6rbesk\u00e6r",
+        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 135542,
+      "name": "\u00c6rbesk\u00e6r",
+      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Gatebil",
-        "url": "https://open.spotify.com/album/5iFNfypkmE4SFFbcaG84uH"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "TIX",
-          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
-        }
-      ],
-      "duration_ms": 128284,
-      "name": "Gatebil",
-      "url": "https://open.spotify.com/track/0YlfDO5PU8KDmkNOuC4Dpe"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Den Samme J\u00e6vla Sangen",
         "url": "https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 140000,
       "name": "Den Samme J\u00e6vla Sangen",
       "url": "https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Gatebil",
+        "url": "https://open.spotify.com/album/5iFNfypkmE4SFFbcaG84uH"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        }
+      ],
+      "duration_ms": 128284,
+      "name": "Gatebil",
+      "url": "https://open.spotify.com/track/0YlfDO5PU8KDmkNOuC4Dpe"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -807,78 +807,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Rull\u00e6r",
-        "url": "https://open.spotify.com/album/54JEprViU1skzpmEgO32A1"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Den BB",
-          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
-        }
-      ],
-      "duration_ms": 147934,
-      "name": "Rull\u00e6r",
-      "url": "https://open.spotify.com/track/5VgttQMiU6fOHxUwmJZ5QQ"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Kompis",
-        "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "Kompis",
-      "url": "https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Eventyr",
-        "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
-      },
-      "artists": [
-        {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        },
-        {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Eventyr",
-      "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Berre i natt",
-        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 229433,
-      "name": "Berre i natt",
-      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Den fineste Tesla\u00b4n",
         "url": "https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th"
       },
@@ -899,6 +827,78 @@
       "duration_ms": 184377,
       "name": "Den fineste Tesla\u00b4n",
       "url": "https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Kompis",
+        "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "Kompis",
+      "url": "https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Rull\u00e6r",
+        "url": "https://open.spotify.com/album/54JEprViU1skzpmEgO32A1"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        }
+      ],
+      "duration_ms": 147934,
+      "name": "Rull\u00e6r",
+      "url": "https://open.spotify.com/track/5VgttQMiU6fOHxUwmJZ5QQ"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Berre i natt",
+        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 229433,
+      "name": "Berre i natt",
+      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Eventyr",
+        "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
+      },
+      "artists": [
+        {
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        },
+        {
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Eventyr",
+      "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -955,6 +955,30 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
+        "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
+      },
+      "artists": [
+        {
+          "name": "DJ Anton",
+          "url": "https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Staysman & Lazz",
+          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
+        }
+      ],
+      "duration_ms": 172272,
+      "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
+      "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "REDL\u00d6S",
         "url": "https://open.spotify.com/album/66r5D0woGoI1UjKmnvY4BB"
       },
@@ -987,30 +1011,6 @@
       "duration_ms": 133457,
       "name": "Fredag - Digg \u00e5 v\u00e6re norsk",
       "url": "https://open.spotify.com/track/3EzeIilO4QWtrGRqG9TVqB"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
-        "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
-      },
-      "artists": [
-        {
-          "name": "DJ Anton",
-          "url": "https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Staysman & Lazz",
-          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
-        }
-      ],
-      "duration_ms": 172272,
-      "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
-      "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Jag Vill Vara Din Margareta",
+        "url": "https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm"
+      },
+      "artists": [
+        {
+          "name": "The Pineapple Squad",
+          "url": "https://open.spotify.com/artist/3jpZXETVBoKjnKifaSswEi"
+        },
+        {
+          "name": "Henrik S\u00e6ter",
+          "url": "https://open.spotify.com/artist/7rfOOHTdW80Vbs3nVdWZVl"
+        }
+      ],
+      "duration_ms": 167543,
+      "name": "Jag Vill Vara Din Margareta",
+      "url": "https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Hej sk\u00e5l!",
         "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
       },
@@ -1123,26 +1143,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Jag Vill Vara Din Margareta",
-        "url": "https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm"
-      },
-      "artists": [
-        {
-          "name": "The Pineapple Squad",
-          "url": "https://open.spotify.com/artist/3jpZXETVBoKjnKifaSswEi"
-        },
-        {
-          "name": "Henrik S\u00e6ter",
-          "url": "https://open.spotify.com/artist/7rfOOHTdW80Vbs3nVdWZVl"
-        }
-      ],
-      "duration_ms": 167543,
-      "name": "Jag Vill Vara Din Margareta",
-      "url": "https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Jeg fortjener en \u00f8l",
         "url": "https://open.spotify.com/album/45biKF9vMhEpCJxrBROwjG"
       },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "S\u00e5nn So Det Va F\u00f8r",
-        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
-      },
-      "artists": [
-        {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
-        }
-      ],
-      "duration_ms": 278457,
-      "name": "S\u00e5nn So Det Va F\u00f8r",
-      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Denne Sommer\u00b4n",
         "url": "https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 160720,
       "name": "Denne Sommer\u00b4n",
       "url": "https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "S\u00e5nn So Det Va F\u00f8r",
+        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
+      },
+      "artists": [
+        {
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+        }
+      ],
+      "duration_ms": 278457,
+      "name": "S\u00e5nn So Det Va F\u00f8r",
+      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1303,22 +1303,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Evig vandring",
-        "url": "https://open.spotify.com/album/6AY7A80QxX3IXnsd3DmeXE"
+        "name": "RUN IT BACK",
+        "url": "https://open.spotify.com/album/2ZSJAqMW1IWJFU3nFHfsJW"
       },
       "artists": [
         {
-          "name": "Kjetil Nordfjeld",
-          "url": "https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO"
-        },
-        {
-          "name": "Christiania",
-          "url": "https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu"
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
         }
       ],
-      "duration_ms": 170135,
-      "name": "Evig vandring",
-      "url": "https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr"
+      "duration_ms": 148173,
+      "name": "RUN IT BACK",
+      "url": "https://open.spotify.com/track/6L0OxFD3iEAiveGUZ6KNAw"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

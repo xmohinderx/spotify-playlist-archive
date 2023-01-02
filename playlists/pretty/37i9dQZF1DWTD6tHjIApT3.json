@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: iri",
-  "num_followers": 88709,
+  "num_followers": 88760,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjE1MzIwMCwwMDAwMDAwMDBhOGJiNDRkY2VjZTEyNzk5YzVhNWM2OTk2NTBmZTI2",
+  "snapshot_id": "MTY3MjE1MzIwMCwwMDAwMDAwMDhkNDBmNmEzNzA0MjU3NDdmODJmMjNjNmZlNGU3MWY1",
   "tracks": [
     {
       "added_at": "2022-12-27 15:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u30c1\u30ce\u30ab\u30c6",
-        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 248300,
-      "name": "\u30c1\u30ce\u30ab\u30c6",
-      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
         "name": "BAD\u30e2\u30fc\u30c9",
         "url": "https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 303218,
       "name": "BAD\u30e2\u30fc\u30c9",
       "url": "https://open.spotify.com/track/3TxjMrMGWFP0jkIy0tVvVn"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
+        "name": "\u30c1\u30ce\u30ab\u30c6",
+        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 248300,
+      "name": "\u30c1\u30ce\u30ab\u30c6",
+      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u30d2\u30c8\u30c4\u30dc\u30b7 ~\u30ac\u30ea\u30ec\u30aa Collection 2007-2022~",
-        "url": "https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1"
-      },
-      "artists": [
-        {
-          "name": "KOH+",
-          "url": "https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "\u30d2\u30c8\u30c4\u30dc\u30b7",
-      "url": "https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
         "name": "Join Us!",
         "url": "https://open.spotify.com/album/24jLRo7S7jJTM9ngeeMxtA"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 207808,
       "name": "Join Us!",
       "url": "https://open.spotify.com/track/0WCWhT1XJCS6sYWLIXf4Dh"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
+        "name": "\u30d2\u30c8\u30c4\u30dc\u30b7 ~\u30ac\u30ea\u30ec\u30aa Collection 2007-2022~",
+        "url": "https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1"
+      },
+      "artists": [
+        {
+          "name": "KOH+",
+          "url": "https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "\u30d2\u30c8\u30c4\u30dc\u30b7",
+      "url": "https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/322uTZewuhwVaanjOO92Av"
+        "name": "BE ME",
+        "url": "https://open.spotify.com/album/0nJ24ELPglbislYG5leab8"
       },
       "artists": [
         {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+          "name": "Doul",
+          "url": "https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf"
         }
       ],
-      "duration_ms": 228013,
-      "name": "\u9752\u85cd\u904a\u6cf3",
-      "url": "https://open.spotify.com/track/2197fRE2IBsnja9r18RejV"
+      "duration_ms": 211786,
+      "name": "BE ME",
+      "url": "https://open.spotify.com/track/6YXgarWY2jY2f1F7VVUE0Z"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "BE ME",
-        "url": "https://open.spotify.com/album/0nJ24ELPglbislYG5leab8"
+        "name": "1999",
+        "url": "https://open.spotify.com/album/322uTZewuhwVaanjOO92Av"
       },
       "artists": [
         {
-          "name": "Doul",
-          "url": "https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf"
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
         }
       ],
-      "duration_ms": 211786,
-      "name": "BE ME",
-      "url": "https://open.spotify.com/track/6YXgarWY2jY2f1F7VVUE0Z"
+      "duration_ms": 228013,
+      "name": "\u9752\u85cd\u904a\u6cf3",
+      "url": "https://open.spotify.com/track/2197fRE2IBsnja9r18RejV"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
+        "name": "Hikare Inochi",
+        "url": "https://open.spotify.com/album/18uE4ky7hhYtS1j9QY7p14"
+      },
+      "artists": [
+        {
+          "name": "Kitri",
+          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
+        }
+      ],
+      "duration_ms": 322146,
+      "name": "Hikare Inochi",
+      "url": "https://open.spotify.com/track/0ltIx8PLjtWoS9zn9PqsZW"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
         "name": "\u65e5\u3005\u306f\u5b63\u7bc0\u3092\u3081\u304f\u3063\u3066",
         "url": "https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 203709,
       "name": "Xmas with U",
       "url": "https://open.spotify.com/track/4eUnlLhTvXCdOiycD9sBTL"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
-        "name": "Hikare Inochi",
-        "url": "https://open.spotify.com/album/18uE4ky7hhYtS1j9QY7p14"
-      },
-      "artists": [
-        {
-          "name": "Kitri",
-          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
-        }
-      ],
-      "duration_ms": 322146,
-      "name": "Hikare Inochi",
-      "url": "https://open.spotify.com/track/0ltIx8PLjtWoS9zn9PqsZW"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u30db\u30c3\u30c8\u30df\u30eb\u30af",
-        "url": "https://open.spotify.com/album/4XuWbqGfKeGBBS1YVeWCxY"
-      },
-      "artists": [
-        {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
-        }
-      ],
-      "duration_ms": 260114,
-      "name": "\u30db\u30c3\u30c8\u30df\u30eb\u30af",
-      "url": "https://open.spotify.com/track/3KbEfn3HkRdKAenSdpzfdj"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
         "name": "The Swallow (feat. Midories)",
         "url": "https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u8d85\u6700\u60aa",
-        "url": "https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK"
+        "name": "\u30db\u30c3\u30c8\u30df\u30eb\u30af",
+        "url": "https://open.spotify.com/album/4XuWbqGfKeGBBS1YVeWCxY"
       },
       "artists": [
         {
-          "name": "Genie High",
-          "url": "https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB"
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
         }
       ],
-      "duration_ms": 178219,
-      "name": "\u8d85\u6700\u60aa",
-      "url": "https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo"
+      "duration_ms": 260114,
+      "name": "\u30db\u30c3\u30c8\u30df\u30eb\u30af",
+      "url": "https://open.spotify.com/track/3KbEfn3HkRdKAenSdpzfdj"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1691,6 +1675,22 @@
       "duration_ms": 235773,
       "name": "Victim of Love - feat. Taka",
       "url": "https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
+        "name": "\u8d85\u6700\u60aa",
+        "url": "https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK"
+      },
+      "artists": [
+        {
+          "name": "Genie High",
+          "url": "https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB"
+        }
+      ],
+      "duration_ms": 178219,
+      "name": "\u8d85\u6700\u60aa",
+      "url": "https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo"
     }
   ],
   "unique_name": "Women's Voice",

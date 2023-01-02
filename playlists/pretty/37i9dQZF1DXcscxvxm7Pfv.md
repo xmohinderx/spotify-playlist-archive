@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 
 > Free your mind from disturbing sounds with white noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,882 likes - 203 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,965 likes - 203 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 | 127 | [White Noise for Baby Sleep](https://open.spotify.com/track/16Vewnjl60wKkzZb8bz0Hp) | [Sleep Alphabet](https://open.spotify.com/artist/07zWNtOjC3QzF79jiFKYjm) | [White Noise](https://open.spotify.com/album/5kgvsV5ETpdVf3PTQcTZmm) | 2:44 |
 | 128 | [Spaceful White](https://open.spotify.com/track/1n4kT38WJy4bLKajINLIbi) | [Dark Momentum](https://open.spotify.com/artist/6Nscg2zwVwV3RmM1C0iZnC) | [Spaceful White](https://open.spotify.com/album/515zYmtJFsXmp6TGYQUTE2) | 2:55 |
 | 129 | [Dull White Noise](https://open.spotify.com/track/2NbKo7vh9ysSALZTCb2wiw) | [Valdervande](https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX) | [Out Cold with White Noise](https://open.spotify.com/album/7izx6fRu7oJnc608X5wG70) | 4:04 |
-| 130 | [White Noise Tiefschlaf](https://open.spotify.com/track/3tCj4PMMeTC5FRYS4eKTuW) | [Sleep Sleep Sleep](https://open.spotify.com/artist/1OqVbmth0QR4OXPVPmIEyi) | [White Noise Tranquility](https://open.spotify.com/album/0MB5igPz2WRNm5iz3WvEW7) | 2:52 |
+| 130 | [White Noise Tiefschlaf](https://open.spotify.com/track/3tCj4PMMeTC5FRYS4eKTuW) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [White Noise Tranquility](https://open.spotify.com/album/0MB5igPz2WRNm5iz3WvEW7) | 2:52 |
 | 131 | [Bed Time Noise](https://open.spotify.com/track/6qf8bXC9jUy1BvAYvZ9blO) | [Historic Site](https://open.spotify.com/artist/2b6lrSLIjDIaFN8hd7py6a) | [Noise Zone](https://open.spotify.com/album/2TGWB7qK1w8z8kCbCky0bj) | 2:28 |
 | 132 | [White Noise Lullaby](https://open.spotify.com/track/6sEeaMuuF5xx6xHGMUWdot) | [Day Nappers](https://open.spotify.com/artist/1ngR2isbEhcNEY1fNJZ0Vn) | [Sheets of White Noise](https://open.spotify.com/album/4b0GXTlHxxtVqrXzmCTDnj) | 2:59 |
 | 133 | [Weatherscape](https://open.spotify.com/track/3ZOLttGxtw1aNxnfKtm78c) | [Fizzonaut](https://open.spotify.com/artist/0NBa3X8xLJZR9XD1BK7zI9) | [Weatherscape](https://open.spotify.com/album/77ByWHE7eBsRHaqSVQapmY) | 1:44 |

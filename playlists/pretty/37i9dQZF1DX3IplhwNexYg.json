@@ -1,15 +1,15 @@
 {
   "description": "The best in current indie rock. Cover: Nil\u00fcfer Yanya",
-  "num_followers": 110693,
+  "num_followers": 110691,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTcxODA5MiwwMDAwMDAwMDMxNGE4NTU5Nzk0YTIyZjUwNzA1MGM4ZTFmZmUyMDFm",
+  "snapshot_id": "MTY3MTcxODA5MiwwMDAwMDAwMDlmYjAxODNmMzk0ZjZiNzhjNzJhMmIwMzdiOTlkMTEy",
   "tracks": [
     {
-      "added_at": "2023-01-01 00:31:52",
+      "added_at": "2023-01-02 01:16:52",
       "album": {
         "name": "PAINLESS (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4Vj636uY4zVju5d3NWc9jP"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8"
     },
     {
-      "added_at": "2023-01-01 00:31:52",
+      "added_at": "2023-01-02 01:16:52",
       "album": {
         "name": "Someone2Me",
         "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio"
+        "name": "angel in realtime.",
+        "url": "https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP"
       },
       "artists": [
         {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
         }
       ],
-      "duration_ms": 231600,
-      "name": "SCARING ME",
-      "url": "https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2"
+      "duration_ms": 238653,
+      "name": "the angel of 8th ave.",
+      "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "angel in realtime.",
-        "url": "https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP"
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio"
       },
       "artists": [
         {
-          "name": "Gang of Youths",
-          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
         }
       ],
-      "duration_ms": 238653,
-      "name": "the angel of 8th ave.",
-      "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
+      "duration_ms": 231600,
+      "name": "SCARING ME",
+      "url": "https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "how would you know",
-        "url": "https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr"
-      },
-      "artists": [
-        {
-          "name": "second thoughts",
-          "url": "https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX"
-        }
-      ],
-      "duration_ms": 177173,
-      "name": "how would you know",
-      "url": "https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Sepsis",
         "url": "https://open.spotify.com/album/2YLMK1WHaaFM9DoZNaYFNs"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 226660,
       "name": "Sepsis",
       "url": "https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "how would you know",
+        "url": "https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr"
+      },
+      "artists": [
+        {
+          "name": "second thoughts",
+          "url": "https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX"
+        }
+      ],
+      "duration_ms": 177173,
+      "name": "how would you know",
+      "url": "https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Bleak Sublime",
-        "url": "https://open.spotify.com/album/2GJx1j54AfcuG0eG6ENdH2"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Esau",
-          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
-        }
-      ],
-      "duration_ms": 231722,
-      "name": "Bleak Sublime",
-      "url": "https://open.spotify.com/track/2Fc0Dt76yZv3hJcBs4rl5Z"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Leave The Light On",
         "url": "https://open.spotify.com/album/71yW0rxm0PtKpgdCHJabyY"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 294173,
       "name": "Be By Your Side",
       "url": "https://open.spotify.com/track/2Om9dYuAMsw8jnCLpwVMhx"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Bleak Sublime",
+        "url": "https://open.spotify.com/album/2GJx1j54AfcuG0eG6ENdH2"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "duration_ms": 231722,
+      "name": "Bleak Sublime",
+      "url": "https://open.spotify.com/track/2Fc0Dt76yZv3hJcBs4rl5Z"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Arrow",
-        "url": "https://open.spotify.com/album/3rcIom2GSEtDpyG5pFDZbo"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 125546,
-      "name": "Arrow",
-      "url": "https://open.spotify.com/track/3q1JpULBaGhyRUhlTcsBFc"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "The Dance You Sell",
         "url": "https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 242512,
       "name": "The Dance You Sell",
       "url": "https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Arrow",
+        "url": "https://open.spotify.com/album/3rcIom2GSEtDpyG5pFDZbo"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 125546,
+      "name": "Arrow",
+      "url": "https://open.spotify.com/track/3q1JpULBaGhyRUhlTcsBFc"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "World Below",
-        "url": "https://open.spotify.com/album/0rxXVzueM7PnAjecoPYg2i"
-      },
-      "artists": [
-        {
-          "name": "Baby Strange",
-          "url": "https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "I Feel So Cold But It's Warm Outside",
-      "url": "https://open.spotify.com/track/7jAQxWVBVAuKmVjlERODpc"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Green Dream in F#",
         "url": "https://open.spotify.com/album/3FsVZD0eyVFDemLLWcR8rq"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 125733,
       "name": "Love For Two",
       "url": "https://open.spotify.com/track/4h0yZCpf4CunKMi06y8kqZ"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "World Below",
+        "url": "https://open.spotify.com/album/0rxXVzueM7PnAjecoPYg2i"
+      },
+      "artists": [
+        {
+          "name": "Baby Strange",
+          "url": "https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "I Feel So Cold But It's Warm Outside",
+      "url": "https://open.spotify.com/track/7jAQxWVBVAuKmVjlERODpc"
     }
   ],
   "unique_name": "pulp",

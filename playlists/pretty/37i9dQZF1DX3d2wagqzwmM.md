@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds, hand\-curated by Hardwell for New Years' Eve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,344 likes - 55 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,506 likes - 55 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 7 | [I Want You \- Hardwell Remix](https://open.spotify.com/track/2Q5l502BJ5lvjZFGmnRQ5B) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [I Want You \(Hardwell Remix\)](https://open.spotify.com/album/2LJGzMSAnbMlLWR7MwnFJW) | 3:16 |
 | 8 | [Whiskey Is My Holy Water](https://open.spotify.com/track/06BqWvPX05oFRxpMlNZZjh) | [Avao](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Whiskey Is My Holy Water](https://open.spotify.com/album/7s2Rdu06bmjbS4sKA50KKN) | 2:18 |
 | 9 | [SPACEMAN \- REBELS NEVER DIE REWORK](https://open.spotify.com/track/3cL8eDfcvn8f21flKjXFKj) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE \(Deluxe Edition\)](https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX) | 6:20 |
-| 10 | [Once Again \- FOVOS Remix](https://open.spotify.com/track/4kUhdlpiBjnN9fyNyQdX19) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Once Again \(FOVOS Remix\)](https://open.spotify.com/album/2JUWPyPMStjSsIx5oNHJOO) | 3:33 |
+| 10 | [Once Again \- FOVOS Remix](https://open.spotify.com/track/4utyVIaPPovaCm7ZG1ZQA4) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Once Again](https://open.spotify.com/album/7qzo2BOdgUqZcFKFnFoVMp) | 3:33 |
 | 11 | [Ebrius \(I'm gonna get f\*\*\*ed up tonight\)](https://open.spotify.com/track/4NVykOQd2txUdlJQrQq2p3) | [Tim Hox](https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM) | [Ebrius \(I'm gonna get f\*\*\*ed up tonight\)](https://open.spotify.com/album/21dbvgpGj1nS4dIEYKXQGg) | 2:28 |
 | 12 | [Adrenaline \- Will Sparks Remix](https://open.spotify.com/track/59M74TceMCXOg9TFCBEXrv) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Adrenaline](https://open.spotify.com/album/6lqEoeymoUgOOgcyNF4mMI) | 6:15 |
 | 13 | [I FEEL LIKE DANCING](https://open.spotify.com/track/651YhrvzeVfOa8yIifIhUM) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [I FEEL LIKE DANCING](https://open.spotify.com/album/0qoQyU6bl0V7EeRaSscyZi) | 3:45 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 54 | [Attention](https://open.spotify.com/track/33PrROTmibJVlLYO5CZg0E) | [Lister](https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI) | [Attention](https://open.spotify.com/album/4khR8sOn7QVzXrADwEWKwO) | 2:48 |
 | 55 | [MIND CONTROL](https://open.spotify.com/track/1ijNLECKPfBExLWeq9MD74) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [MIND CONTROL](https://open.spotify.com/album/3BiMWVo79A0eBXjU3ftPrT) | 4:08 |
 
-Snapshot ID: `MTY3MjM1NDgwMCwwMDAwMDAwMDBhZTkxYjI4MjQ4ZGQzYjA4YzBlNjc2ZDU1MTBkODAy`
+Snapshot ID: `MTY3MjM1NDgwMCwwMDAwMDAwMDdjMjdjZjY5MTVlYjI2Njg1NjdiZjcwNmE5YTkwOWFm`

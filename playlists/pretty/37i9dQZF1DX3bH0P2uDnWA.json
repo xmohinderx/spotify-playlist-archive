@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 321255,
+  "num_followers": 321407,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDQ4MmEwZWFkZTQ5OTU4YzkxNDAzYjczOGI3NmMwYjEx",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGY5YTIwNjI5OTczZTVlOWE3NGEzYjk4YTUwZjEzNzdk",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Love!",
-        "url": "https://open.spotify.com/album/73yHKsQVjzgJLgm7htHtWU"
-      },
-      "artists": [
-        {
-          "name": "Swingrowers",
-          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
-        }
-      ],
-      "duration_ms": 184737,
-      "name": "Love!",
-      "url": "https://open.spotify.com/track/6FU64m12iYGoyhPcFddZCZ"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Back in Time",
@@ -651,6 +635,22 @@
       "duration_ms": 198666,
       "name": "Back in Time",
       "url": "https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Love!",
+        "url": "https://open.spotify.com/album/73yHKsQVjzgJLgm7htHtWU"
+      },
+      "artists": [
+        {
+          "name": "Swingrowers",
+          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
+        }
+      ],
+      "duration_ms": 184737,
+      "name": "Love!",
+      "url": "https://open.spotify.com/track/6FU64m12iYGoyhPcFddZCZ"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -827,26 +827,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "The Cat Came Back",
-        "url": "https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx"
-      },
-      "artists": [
-        {
-          "name": "Luca Lento",
-          "url": "https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh"
-        },
-        {
-          "name": "Bdd",
-          "url": "https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "The Cat Came Back - Bdd Remix Edit",
-      "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "What Lana Says",
         "url": "https://open.spotify.com/album/0bgECObKJgewcwX2Vt7vGC"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 168387,
       "name": "Parla pi\u00f9 piano / In cerca di te - Electro Swing Mix",
       "url": "https://open.spotify.com/track/4sCDNKD8Q3J5Wr5kzSgC5H"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "The Cat Came Back",
+        "url": "https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx"
+      },
+      "artists": [
+        {
+          "name": "Luca Lento",
+          "url": "https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh"
+        },
+        {
+          "name": "Bdd",
+          "url": "https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "The Cat Came Back - Bdd Remix Edit",
+      "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
     },
     {
       "added_at": "2021-11-19 05:02:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Lady Swing",
-        "url": "https://open.spotify.com/album/1EWFmpi36vurwa8xRzye8E"
-      },
-      "artists": [
-        {
-          "name": "Lyre Le Temps",
-          "url": "https://open.spotify.com/artist/6jX8VHUJomYSfi5Hobdmmn"
-        }
-      ],
-      "duration_ms": 260306,
-      "name": "Hold the Night",
-      "url": "https://open.spotify.com/track/55KhvVzqoaNEgaRTDmu6Zg"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Wake Up Romeo",
         "url": "https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 207793,
       "name": "Wake Up Romeo",
       "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Lady Swing",
+        "url": "https://open.spotify.com/album/1EWFmpi36vurwa8xRzye8E"
+      },
+      "artists": [
+        {
+          "name": "Lyre Le Temps",
+          "url": "https://open.spotify.com/artist/6jX8VHUJomYSfi5Hobdmmn"
+        }
+      ],
+      "duration_ms": 260306,
+      "name": "Hold the Night",
+      "url": "https://open.spotify.com/track/55KhvVzqoaNEgaRTDmu6Zg"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1169,6 +1169,30 @@
       "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
     },
     {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Introducing, Bart&Baker",
+        "url": "https://open.spotify.com/album/4nkLzdBaKeAHz0MqMWDjf9"
+      },
+      "artists": [
+        {
+          "name": "Bart & Baker",
+          "url": "https://open.spotify.com/artist/1SqMdUGzBNOFB8rDdtiOxN"
+        },
+        {
+          "name": "Pierre Santini",
+          "url": "https://open.spotify.com/artist/2sERfmcDISRbdIvSwc1srm"
+        },
+        {
+          "name": "Lada Redstar",
+          "url": "https://open.spotify.com/artist/2hvVzDZUDCDV1CMEYefruX"
+        }
+      ],
+      "duration_ms": 209346,
+      "name": "Allez Viens (Via Con Me) [feat. Pierre Santini & Lada Redstar]",
+      "url": "https://open.spotify.com/track/15gUb7QKP6PlbXxxTJm2T4"
+    },
+    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Something Serious",
@@ -1197,22 +1221,6 @@
       "url": "https://open.spotify.com/track/6MZ4epg1RvpQCsMq0f5R1t"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
-      },
-      "artists": [
-        {
-          "name": "Little Violet",
-          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
-        }
-      ],
-      "duration_ms": 228993,
-      "name": "Code Red",
-      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "My 20s Woman",
@@ -1233,28 +1241,20 @@
       "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2021-09-03 04:01:00",
       "album": {
-        "name": "Introducing, Bart&Baker",
-        "url": "https://open.spotify.com/album/4nkLzdBaKeAHz0MqMWDjf9"
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
       },
       "artists": [
         {
-          "name": "Bart & Baker",
-          "url": "https://open.spotify.com/artist/1SqMdUGzBNOFB8rDdtiOxN"
-        },
-        {
-          "name": "Pierre Santini",
-          "url": "https://open.spotify.com/artist/2sERfmcDISRbdIvSwc1srm"
-        },
-        {
-          "name": "Lada Redstar",
-          "url": "https://open.spotify.com/artist/2hvVzDZUDCDV1CMEYefruX"
+          "name": "Little Violet",
+          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
         }
       ],
-      "duration_ms": 209346,
-      "name": "Allez Viens (Via Con Me) [feat. Pierre Santini & Lada Redstar]",
-      "url": "https://open.spotify.com/track/15gUb7QKP6PlbXxxTJm2T4"
+      "duration_ms": 228993,
+      "name": "Code Red",
+      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
     },
     {
       "added_at": "2021-01-22 10:35:47",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Slaughter In the Suburbs",
-        "url": "https://open.spotify.com/album/19OgQG7EqDdFfjPktRfmrJ"
-      },
-      "artists": [
-        {
-          "name": "Kid Kasino",
-          "url": "https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD"
-        },
-        {
-          "name": "Shea",
-          "url": "https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0"
-        }
-      ],
-      "duration_ms": 213015,
-      "name": "Headless Horseman",
-      "url": "https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "1925",
         "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
       },
@@ -1307,22 +1287,6 @@
       "duration_ms": 164842,
       "name": "1925",
       "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE"
-      },
-      "artists": [
-        {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Day & Night",
-      "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -1355,6 +1319,42 @@
       "duration_ms": 205714,
       "name": "Dizzy Street",
       "url": "https://open.spotify.com/track/3OPqj5jqd5hkOU0rvZDXCl"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Slaughter In the Suburbs",
+        "url": "https://open.spotify.com/album/19OgQG7EqDdFfjPktRfmrJ"
+      },
+      "artists": [
+        {
+          "name": "Kid Kasino",
+          "url": "https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD"
+        },
+        {
+          "name": "Shea",
+          "url": "https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0"
+        }
+      ],
+      "duration_ms": 213015,
+      "name": "Headless Horseman",
+      "url": "https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE"
+      },
+      "artists": [
+        {
+          "name": "Odd Chap",
+          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
     }
   ],
   "unique_name": "Electro Swing",

@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 27135,
+  "num_followers": 27189,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcxMTQxOCwwMDAwMDAwMDU1MWRhZjM1M2ZiYzVkYTljN2Q4NzhiODlkYjJhN2E0",
+  "snapshot_id": "MTY2ODcxMTQxOCwwMDAwMDAwMDExY2Y4ZjhhZDM4OTBjMTM2YmQ0MzZlMmFiMGQ0ZmNh",
   "tracks": [
     {
       "added_at": "2022-11-17 18:56:58",
@@ -151,22 +151,6 @@
     {
       "added_at": "2022-11-17 18:56:58",
       "album": {
-        "name": "Ma Rainey",
-        "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 146226,
-      "name": "Runaway Blues",
-      "url": "https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL"
-    },
-    {
-      "added_at": "2022-11-17 18:56:58",
-      "album": {
         "name": "New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron",
         "url": "https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 139000,
       "name": "Don't Mess With My Man",
       "url": "https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP"
+    },
+    {
+      "added_at": "2022-11-17 18:56:58",
+      "album": {
+        "name": "Ma Rainey",
+        "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 146226,
+      "name": "Runaway Blues",
+      "url": "https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL"
     },
     {
       "added_at": "2022-11-17 18:56:58",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-11-17 18:56:58",
       "album": {
-        "name": "Detroit Is My Home",
-        "url": "https://open.spotify.com/album/712DNUvzw8lnful0KQ8cfk"
-      },
-      "artists": [
-        {
-          "name": "Alberta Adams",
-          "url": "https://open.spotify.com/artist/0Hy7IqUHfhyTf0asGNf9mw"
-        }
-      ],
-      "duration_ms": 268066,
-      "name": "Doctor Blues",
-      "url": "https://open.spotify.com/track/2kPvNhSNpdw8wyMd3KM1qE"
-    },
-    {
-      "added_at": "2022-11-17 18:56:58",
-      "album": {
         "name": "What It Takes: The Chess Years (Expanded Edition)",
         "url": "https://open.spotify.com/album/5cqkfEOV7du3ynBO7EENMp"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2022-11-17 18:56:58",
       "album": {
-        "name": "First Time I Met the Blues (When the Sun Goes Down series)",
-        "url": "https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL"
+        "name": "Detroit Is My Home",
+        "url": "https://open.spotify.com/album/712DNUvzw8lnful0KQ8cfk"
       },
       "artists": [
         {
-          "name": "Sippie Wallace",
-          "url": "https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR"
+          "name": "Alberta Adams",
+          "url": "https://open.spotify.com/artist/0Hy7IqUHfhyTf0asGNf9mw"
         }
       ],
-      "duration_ms": 170173,
-      "name": "I'm a Mighty Tight Woman",
-      "url": "https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9"
+      "duration_ms": 268066,
+      "name": "Doctor Blues",
+      "url": "https://open.spotify.com/track/2kPvNhSNpdw8wyMd3KM1qE"
     },
     {
       "added_at": "2022-11-17 18:56:58",
@@ -643,6 +627,22 @@
       "duration_ms": 172987,
       "name": "Dead Drunk Blues",
       "url": "https://open.spotify.com/track/0Cd4ddM6nSG3Wteu5tj8zg"
+    },
+    {
+      "added_at": "2022-11-17 18:56:58",
+      "album": {
+        "name": "First Time I Met the Blues (When the Sun Goes Down series)",
+        "url": "https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL"
+      },
+      "artists": [
+        {
+          "name": "Sippie Wallace",
+          "url": "https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR"
+        }
+      ],
+      "duration_ms": 170173,
+      "name": "I'm a Mighty Tight Woman",
+      "url": "https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9"
     },
     {
       "added_at": "2022-11-17 18:56:58",

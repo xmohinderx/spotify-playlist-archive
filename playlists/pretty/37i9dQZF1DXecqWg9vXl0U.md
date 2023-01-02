@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring Los Eclipses.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,541 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,580 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 49 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
 | 50 | [Curriculum Completo](https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Curriculum Completo](https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC) | 2:25 |
 | 51 | [Especial](https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Especial](https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3) | 4:02 |
-| 52 | [Amantes Astrales](https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Amantes Astrales](https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT) | 3:03 |
-| 53 | [1990](https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [1990](https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS) | 1:40 |
+| 52 | [1990](https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [1990](https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS) | 1:40 |
+| 53 | [Amantes Astrales](https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Amantes Astrales](https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT) | 3:03 |
 | 54 | [A Veces](https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V) | [MOSBI](https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef) | [A Veces](https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ) | 3:59 |
 | 55 | [Una noche que nunca termina](https://open.spotify.com/track/5FsobFWmtzBqmUw9qNkVhE) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Una noche que nunca termina](https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi) | 3:02 |
 | 56 | [A Mí](https://open.spotify.com/track/5WToapmuQ28U1LOmIt6Tdk) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [A Mí](https://open.spotify.com/album/1W4kplttrBN8pDdgv1BUz5) | 2:49 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 70 | [VCR](https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5) | [Atomic Rose](https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI) | [VCR](https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb) | 3:35 |
 | 71 | [Mr\. Baby](https://open.spotify.com/track/4JNw6A9TH89pAez18HmhVo) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Mr\. Baby](https://open.spotify.com/album/6vIIwphk7WTFX560uYyYDW) | 3:08 |
 | 72 | [Invisible](https://open.spotify.com/track/66F9zo1pdOLL9gOqfIbHas) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Invisible](https://open.spotify.com/album/3dstM2Jz0agjIjoAnLERf8) | 2:24 |
-| 73 | [Laurel](https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Laurel](https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG) | 5:13 |
-| 74 | [Te Voy a Extrañar](https://open.spotify.com/track/16Ue2BIfTQKCukXrC8bu9Q) | [Era de Oro](https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7), [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Te Voy a Extrañar](https://open.spotify.com/album/4PpJ8Q9CMGidKj1EHhDEs8) | 3:37 |
+| 73 | [Te Voy a Extrañar](https://open.spotify.com/track/16Ue2BIfTQKCukXrC8bu9Q) | [Era de Oro](https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7), [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Te Voy a Extrañar](https://open.spotify.com/album/4PpJ8Q9CMGidKj1EHhDEs8) | 3:37 |
+| 74 | [Laurel](https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Laurel](https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG) | 5:13 |
 | 75 | [Hasta Mañana](https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [P.O.N](https://open.spotify.com/album/716BZhl3283diYxQJZCSyF) | 2:54 |
 
-Snapshot ID: `MTY3MDg1NTY3MCwwMDAwMDAwMDU5Y2RiYTA2MWNmMzI4NjM3M2U2NGIzMTJmZmIzMmMx`
+Snapshot ID: `MTY3MDg1NTY3MCwwMDAwMDAwMDdmZDNhOTVlYzczYzM3MWFiOGQwMTU1MGIxMjFmZjZj`

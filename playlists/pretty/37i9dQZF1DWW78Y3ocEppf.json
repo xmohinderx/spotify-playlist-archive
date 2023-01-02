@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: PARTYNEXTDOOR",
-  "num_followers": 38541,
+  "num_followers": 38567,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDViMGE3ZjExNmQxMzRkOTM2ZDcyOTIyYWYwNGViYjIw",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGU4MmVjY2Y3YWI4MzE2YzI4YjM4ZDg5YTFkZTIzYTBj",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 143092,
-      "name": "BILL$",
-      "url": "https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
         "name": "Give Me Time",
         "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 154702,
       "name": "Give Me Time",
       "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 143092,
+      "name": "BILL$",
+      "url": "https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1"
     },
     {
-      "added_at": "2022-09-23 04:09:12",
-      "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 152574,
-      "name": "Plot Twist",
-      "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
-    },
-    {
       "added_at": "2022-09-09 04:09:30",
       "album": {
         "name": "KEYS II",
@@ -1163,6 +1147,22 @@
       "duration_ms": 173053,
       "name": "Trillions (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW"
+    },
+    {
+      "added_at": "2022-09-23 04:09:12",
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 152574,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+        "name": "Most Men - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 153226,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
+      "duration_ms": 253375,
+      "name": "Most Men - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1285,22 +1285,6 @@
       "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "B.E.D",
-        "url": "https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK"
-      },
-      "artists": [
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "B.E.D",
-      "url": "https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Tell Me",
@@ -1317,20 +1301,36 @@
       "url": "https://open.spotify.com/track/627yvru8268y11clOwn3f4"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Most Men - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
+        "name": "B.E.D",
+        "url": "https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK"
       },
       "artists": [
         {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
         }
       ],
-      "duration_ms": 253375,
-      "name": "Most Men - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
+      "duration_ms": 173887,
+      "name": "B.E.D",
+      "url": "https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
     },
     {
       "added_at": "2022-10-28 04:22:42",
@@ -1363,6 +1363,22 @@
       "duration_ms": 164000,
       "name": "Fuckin' Sound",
       "url": "https://open.spotify.com/track/3cH7YI52JMcJrZIrJEJemU"
+    },
+    {
+      "added_at": "2022-10-14 05:33:57",
+      "album": {
+        "name": "Figures",
+        "url": "https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "duration_ms": 152590,
+      "name": "Figures",
+      "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1437,22 +1453,6 @@
       "url": "https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o"
     },
     {
-      "added_at": "2022-10-14 05:33:57",
-      "album": {
-        "name": "Figures",
-        "url": "https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 152590,
-      "name": "Figures",
-      "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Um, Hello",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Insensitive",
-        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Insensitive",
-      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
-    },
-    {
       "added_at": "2022-10-14 05:33:57",
       "album": {
         "name": "Love Jones (feat. Ty Dolla $ign)",
@@ -1519,6 +1503,22 @@
       "duration_ms": 183589,
       "name": "Love Jones (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Insensitive",
+        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Insensitive",
+      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/6D1FytV3a4tYR6O8Q2w83z"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "DISC TWO",
-        "url": "https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp"
-      },
-      "artists": [
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "VICES",
-      "url": "https://open.spotify.com/track/6XtaPHxQvhFn9p24f2tvRZ"
-    },
-    {
       "added_at": "2022-09-02 04:00:00",
       "album": {
         "name": "Bad Decisions",
@@ -1583,6 +1567,22 @@
       "duration_ms": 167862,
       "name": "Bad Decisions",
       "url": "https://open.spotify.com/track/3xJphVAHpi2IyWV030jJ6A"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "DISC TWO",
+        "url": "https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "VICES",
+      "url": "https://open.spotify.com/track/6XtaPHxQvhFn9p24f2tvRZ"
     },
     {
       "added_at": "2022-10-14 05:33:57",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "No Drama",
-        "url": "https://open.spotify.com/album/0i7WmU3wYCP6DL0Mybqwda"
-      },
-      "artists": [
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "No Drama",
-      "url": "https://open.spotify.com/track/5S7LgarbUuknrVO2gFkhtT"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
         "name": "flora + fana",
         "url": "https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 169579,
       "name": "BAD bad",
       "url": "https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "No Drama",
+        "url": "https://open.spotify.com/album/0i7WmU3wYCP6DL0Mybqwda"
+      },
+      "artists": [
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "No Drama",
+      "url": "https://open.spotify.com/track/5S7LgarbUuknrVO2gFkhtT"
     }
   ],
   "unique_name": "Some Kinda Way",

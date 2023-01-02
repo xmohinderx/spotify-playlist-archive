@@ -1,12 +1,12 @@
 {
   "description": "alternative songs and a good time.",
-  "num_followers": 677269,
+  "num_followers": 677416,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMDQ3MSwwMDAwMDAwMDEwY2QyMDVjM2E2MmQ5ZWMzNTZiOTQxYTMzZmQ5YTgx",
+  "snapshot_id": "MTY2ODcyMDQ3MSwwMDAwMDAwMGJjNzYyZTI1MTE2ZGU3YTc5MWEyODY4MWExZWQ3MjQw",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Passive Me, Aggressive You",
         "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 246600,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Level of Concern",
-        "url": "https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 220051,
-      "name": "Level of Concern",
-      "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -255,18 +255,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+        "name": "Level of Concern",
+        "url": "https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+      "duration_ms": 220051,
+      "name": "Level of Concern",
+      "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
     },
     {
-      "added_at": "2023-01-01 00:28:38",
+      "added_at": "2023-01-02 00:39:50",
       "album": {
         "name": "Did I Make You Up?",
         "url": "https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc"
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "KEEP IT UP",
-        "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "KEEP IT UP",
-      "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "When I Was Younger",
         "url": "https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 177773,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "KEEP IT UP",
+        "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "KEEP IT UP",
+      "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "The Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 161120,
-      "name": "Van Horn",
-      "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Coming of Age",
         "url": "https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 248000,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 161120,
+      "name": "Van Horn",
+      "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Youth is Only Ever Fun in Retrospect",
-        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
-      },
-      "artists": [
-        {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
-        }
-      ],
-      "duration_ms": 225653,
-      "name": "She Said",
-      "url": "https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "What Could Be Better",
         "url": "https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 223813,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Youth is Only Ever Fun in Retrospect",
+        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "duration_ms": 225653,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Settling",
-        "url": "https://open.spotify.com/album/0LuaDQd1gfG4Q22WQMDi5c"
-      },
-      "artists": [
-        {
-          "name": "Ripe",
-          "url": "https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT"
-        }
-      ],
-      "duration_ms": 188316,
-      "name": "Settling",
-      "url": "https://open.spotify.com/track/6jQALCbfH7gYSN46Ns839Q"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Castlecomer",
-        "url": "https://open.spotify.com/album/5DUFivlOxblQTTRTfrlT15"
+        "name": "Settling",
+        "url": "https://open.spotify.com/album/0LuaDQd1gfG4Q22WQMDi5c"
       },
       "artists": [
         {
-          "name": "Castlecomer",
-          "url": "https://open.spotify.com/artist/7tnWJfXaJmFO6vv5WFN2K0"
+          "name": "Ripe",
+          "url": "https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT"
         }
       ],
-      "duration_ms": 166920,
-      "name": "If I Could Be Like You",
-      "url": "https://open.spotify.com/track/7nzYP2Eznmu83TFdB7wDE9"
+      "duration_ms": 188316,
+      "name": "Settling",
+      "url": "https://open.spotify.com/track/6jQALCbfH7gYSN46Ns839Q"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1267,6 +1251,22 @@
       "duration_ms": 203666,
       "name": "Pretty Way to Fight",
       "url": "https://open.spotify.com/track/5v1HV2JJvqtQheo7xIpN1B"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Castlecomer",
+        "url": "https://open.spotify.com/album/5DUFivlOxblQTTRTfrlT15"
+      },
+      "artists": [
+        {
+          "name": "Castlecomer",
+          "url": "https://open.spotify.com/artist/7tnWJfXaJmFO6vv5WFN2K0"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "If I Could Be Like You",
+      "url": "https://open.spotify.com/track/7nzYP2Eznmu83TFdB7wDE9"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "10 Tracks to Echo in the Dark",
+        "url": "https://open.spotify.com/album/4aHwEq65yWoM0KQkaE1Dsv"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/6Q6aBwbKLh3SBbFiQce1YK"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "I Wanna Be Your High",
         "url": "https://open.spotify.com/album/3XUe0l63TUAhtxrA0WPqVU"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 178480,
       "name": "Blutooth",
       "url": "https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "10 Tracks to Echo in the Dark",
-        "url": "https://open.spotify.com/album/4aHwEq65yWoM0KQkaE1Dsv"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "Connection",
-      "url": "https://open.spotify.com/track/6Q6aBwbKLh3SBbFiQce1YK"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/6XFQzh3r6YdjB6yK2hmEbG"
+      },
+      "artists": [
+        {
+          "name": "Wild Cub",
+          "url": "https://open.spotify.com/artist/5cTn7jRVGqTdmgMW75FIal"
+        }
+      ],
+      "duration_ms": 271441,
+      "name": "Thunder Clatter",
+      "url": "https://open.spotify.com/track/39Cv9mq0PPrsJ5jtVb2Hiu"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "ASYLUM",
         "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
       },
@@ -1731,22 +1747,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Youth",
-        "url": "https://open.spotify.com/album/6XFQzh3r6YdjB6yK2hmEbG"
-      },
-      "artists": [
-        {
-          "name": "Wild Cub",
-          "url": "https://open.spotify.com/artist/5cTn7jRVGqTdmgMW75FIal"
-        }
-      ],
-      "duration_ms": 271441,
-      "name": "Thunder Clatter",
-      "url": "https://open.spotify.com/track/39Cv9mq0PPrsJ5jtVb2Hiu"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/3CsDHb4gbXv6lzAMcozCdS"
       },
@@ -1759,6 +1759,22 @@
       "duration_ms": 188678,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/0sSoNYwZLoE4gLAKIG4uYL"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Pep Talks",
+        "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 233976,
+      "name": "Why Did You Run?",
+      "url": "https://open.spotify.com/track/4ascbpJ8eelgihjwUnmgwY"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1783,22 +1799,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Pep Talks",
-        "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 233976,
-      "name": "Why Did You Run?",
-      "url": "https://open.spotify.com/track/4ascbpJ8eelgihjwUnmgwY"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Silver Dream",
         "url": "https://open.spotify.com/album/7y2IFkozp4IVZrh7PBrnrJ"
       },
@@ -1811,6 +1811,22 @@
       "duration_ms": 186586,
       "name": "Hometown Heroes",
       "url": "https://open.spotify.com/track/3g9T8Enufnw3IFfCaBZTRp"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Good Old Days",
+        "url": "https://open.spotify.com/album/3iktifq9QfvjZBvaMRqBxs"
+      },
+      "artists": [
+        {
+          "name": "JR JR",
+          "url": "https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv"
+        }
+      ],
+      "duration_ms": 204428,
+      "name": "Good Old Days",
+      "url": "https://open.spotify.com/track/6mJoYRUTiqeVowwWNAeCjR"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1831,22 +1847,6 @@
       "duration_ms": 161068,
       "name": "Upgrade",
       "url": "https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Good Old Days",
-        "url": "https://open.spotify.com/album/3iktifq9QfvjZBvaMRqBxs"
-      },
-      "artists": [
-        {
-          "name": "JR JR",
-          "url": "https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv"
-        }
-      ],
-      "duration_ms": 204428,
-      "name": "Good Old Days",
-      "url": "https://open.spotify.com/track/6mJoYRUTiqeVowwWNAeCjR"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/4MVgnDxPZUCmN4LNb0Urui"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "JR JR",
         "url": "https://open.spotify.com/album/3shFtH3EfvyztGl2sdsmHS"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 227506,
       "name": "Gone",
       "url": "https://open.spotify.com/track/3mxMrdo3fJjDbb64nagoXR"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/4MVgnDxPZUCmN4LNb0Urui"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW"
-      },
-      "artists": [
-        {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
-        }
-      ],
-      "duration_ms": 203651,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "LIFE ON EARTH",
         "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
       },
@@ -2271,6 +2255,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW"
+      },
+      "artists": [
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        }
+      ],
+      "duration_ms": 203651,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Can You Feel The Sun",
         "url": "https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq"
       },
@@ -2283,22 +2283,6 @@
       "duration_ms": 227053,
       "name": "Day Dreaming",
       "url": "https://open.spotify.com/track/5NbyidjQ7pvTWdEVOUFcT3"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Manta Rays",
-        "url": "https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Manta Rays",
-      "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2327,6 +2311,22 @@
       "duration_ms": 309066,
       "name": "Wind of Change (feat. Brandon Boyd of Incubus & Portugal. The Man)",
       "url": "https://open.spotify.com/track/6dgniKsterTlem7d54gGjP"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Manta Rays",
+        "url": "https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Manta Rays",
+      "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
     },
     {
       "added_at": "2022-10-07 04:01:00",

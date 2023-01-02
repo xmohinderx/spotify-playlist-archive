@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,369 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,365 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 22 | [Colocando Nela](https://open.spotify.com/track/5uvEyd73MMFvW2WuEghabn) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx) | [Colocando Nela](https://open.spotify.com/album/1Q3x5tOOqIGGRLBjQlM0zs) | 2:20 |
 | 23 | [Até o Final](https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Caíque](https://open.spotify.com/artist/47M3rIswjgdqWCiCZc4Wx1), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Até o Final](https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5) | 2:24 |
 | 24 | [Quinto Degrau](https://open.spotify.com/track/3FmdH6c6eh2fQZ0UNwuVMz) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh) | [Quinto Degrau](https://open.spotify.com/album/07wckfxRJIRQKwWyqr8VI8) | 2:22 |
-| 25 | [O Justo Não Treme](https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [O Justo Não Treme](https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA) | 2:49 |
-| 26 | [Tanto Faz](https://open.spotify.com/track/6SsjwrTV7bn8eeibnMftZp) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [FÚRIA](https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ) | 2:57 |
+| 25 | [Tanto Faz](https://open.spotify.com/track/6SsjwrTV7bn8eeibnMftZp) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [FÚRIA](https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ) | 2:57 |
+| 26 | [O Justo Não Treme](https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [O Justo Não Treme](https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA) | 2:49 |
 | 27 | [EITA MENINA](https://open.spotify.com/track/2ItOwqddXxLZnOmQmlEbda) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [EITA MENINA](https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE) | 3:07 |
 | 28 | [Te Deixo Crazy](https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Te Deixo Crazy](https://open.spotify.com/album/6GhQsV31Iz1edjKeAD6fan) | 2:44 |
 | 29 | [vc é msm tão melhor que eu?](https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [vc é msm tão melhor que eu?](https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk) | 3:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 59 | [Me liga](https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Erick Di](https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS) | [Me liga](https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7) | 2:30 |
 | 60 | [Mais Uma Canção Pra Você](https://open.spotify.com/track/5x9hKw3w0M2FuZ5yFKlaPy) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Mais Uma Canção Pra Você](https://open.spotify.com/album/6k8qjqkqQDs8BYhkrab866) | 4:48 |
 
-Snapshot ID: `MTY2NTc3OTMxNywwMDAwMDAwMGU0NjhmZGI2ZmJiMzdlMjY1YjA1M2Y3ZTExOTM5OGEx`
+Snapshot ID: `MTY2NTc3OTMxNywwMDAwMDAwMDJhZGZjYWY4MDM3NWFmODhlZDZiZWYzYjc0NzQ3ZmYy`

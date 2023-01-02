@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 193194,
       "name": "Altamirage V",
       "url": "https://open.spotify.com/track/73XUdV2DFnlyq1gE8qrS6I"
@@ -393,6 +393,24 @@
       "duration_ms": 1950107,
       "name": "Bog Road",
       "url": "https://open.spotify.com/track/3JPgUFZaSBP8ncwWs1OiwO"
+    },
+    {
+      "album": {
+        "name": "Reverberations: Tape & Electronic Music 1961-1970",
+        "url": "https://open.spotify.com/album/4uzsVWdvmqCLjH60WkTMoQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 770373,
+      "name": "Bottoms Up 1",
+      "url": "https://open.spotify.com/track/2zGk2I7Ik8ECJ2E96sDiKu"
     },
     {
       "album": {
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 510040,
       "name": "Inner",
       "url": "https://open.spotify.com/track/3c7GNksSHLQRQDAwSdc6vk"
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 999400,
       "name": "IV Of IV",
       "url": "https://open.spotify.com/track/4wgoRq5FxguolBfMGdz4n3"
@@ -3075,7 +3093,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-28",
+      "date_removed": null,
       "duration_ms": 865733,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/77gWQtMuwLoBHzbPyy6S9X"
@@ -3331,7 +3349,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 83114,
       "name": "Trio For Trumpet, Accordion, and String Bass I",
       "url": "https://open.spotify.com/track/5NKgGrmJNk9Rw3RA8Gxipv"

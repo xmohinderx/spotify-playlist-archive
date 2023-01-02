@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 281362,
+  "num_followers": 281464,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQwNTIwMCwwMDAwMDAwMDE2OTExYmM2YmU5OGNmNThjNGQ5YTg1YmViNzVmZmUw",
+  "snapshot_id": "MTY3MjQwNTIwMCwwMDAwMDAwMDhhY2MwMDllMDMzZGRhNGY5NTRkNDcwMTAyMWM5NzQ0",
   "tracks": [
     {
       "added_at": "2022-12-16 13:31:20",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
     },
     {
-      "added_at": "2023-01-01 01:32:31",
+      "added_at": "2023-01-02 00:54:40",
       "album": {
         "name": "Shake That",
         "url": "https://open.spotify.com/album/2SYED5j8wPKjVW5cviH4qN"
@@ -179,6 +179,22 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
+        "name": "Get Up Off The Floor",
+        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
+      },
+      "artists": [
+        {
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Get Up Off The Floor",
+      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/12qv1aPM9tCeCXk56qIqYv"
       },
@@ -217,23 +233,7 @@
       "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
     },
     {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
-        "name": "Get Up Off The Floor",
-        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
-      },
-      "artists": [
-        {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Get Up Off The Floor",
-      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
-    },
-    {
-      "added_at": "2023-01-01 01:32:31",
+      "added_at": "2023-01-02 00:54:40",
       "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
     },
     {
-      "added_at": "2023-01-01 01:32:31",
+      "added_at": "2023-01-02 00:54:40",
       "album": {
         "name": "Lust",
         "url": "https://open.spotify.com/album/1a0tiOO2ge9jZYYCCFEHrg"
@@ -375,26 +375,6 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "Redlight",
-        "url": "https://open.spotify.com/album/2xz9ov07OnNqQnXhDTVa1e"
-      },
-      "artists": [
-        {
-          "name": "Glockenbach",
-          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
-        },
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 177780,
-      "name": "Redlight",
-      "url": "https://open.spotify.com/track/24osWl0SQSyHzGyEMdf394"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
         "name": "You Spin Me Round (Like A Record)",
         "url": "https://open.spotify.com/album/6GnNXKouBmoElIbpAZYnGG"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 176744,
       "name": "You Spin Me Round (Like A Record) - Radio Edit",
       "url": "https://open.spotify.com/track/5zdbSrKdmK9qDTkqzidcN7"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
+        "name": "Redlight",
+        "url": "https://open.spotify.com/album/2xz9ov07OnNqQnXhDTVa1e"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "duration_ms": 177780,
+      "name": "Redlight",
+      "url": "https://open.spotify.com/track/24osWl0SQSyHzGyEMdf394"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -527,6 +527,26 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
+        "name": "I'm Okay",
+        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        }
+      ],
+      "duration_ms": 151723,
+      "name": "I'm Okay",
+      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
         "name": "Another Level (ft. Lovespeake)",
         "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
       },
@@ -543,6 +563,30 @@
       "duration_ms": 145941,
       "name": "Another Level (ft. Lovespeake)",
       "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
+        "name": "Under the Influence",
+        "url": "https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx"
+      },
+      "artists": [
+        {
+          "name": "Krmoni",
+          "url": "https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz"
+        },
+        {
+          "name": "Coffeeshop",
+          "url": "https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC"
+        },
+        {
+          "name": "Tommy Rage",
+          "url": "https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Under the Influence",
+      "url": "https://open.spotify.com/track/6nbVuVm0K2Rg4RSkuY63hr"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -575,30 +619,6 @@
       "duration_ms": 189543,
       "name": "Twinkle Twinkle",
       "url": "https://open.spotify.com/track/7oIN5Dc6kaetarZgBvII8H"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
-        "name": "Under the Influence",
-        "url": "https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx"
-      },
-      "artists": [
-        {
-          "name": "Krmoni",
-          "url": "https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz"
-        },
-        {
-          "name": "Coffeeshop",
-          "url": "https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC"
-        },
-        {
-          "name": "Tommy Rage",
-          "url": "https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "Under the Influence",
-      "url": "https://open.spotify.com/track/6nbVuVm0K2Rg4RSkuY63hr"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -639,26 +659,6 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "I'm Okay",
-        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "OBS",
-          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
-        }
-      ],
-      "duration_ms": 151723,
-      "name": "I'm Okay",
-      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
         "name": "Party All The Time",
         "url": "https://open.spotify.com/album/3zGETi4jg5TAtkdUogqAxh"
       },
@@ -695,6 +695,30 @@
       "duration_ms": 173313,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI"
+      },
+      "artists": [
+        {
+          "name": "Hr. Troels",
+          "url": "https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC"
+        },
+        {
+          "name": "Morty Simmons",
+          "url": "https://open.spotify.com/artist/0APd9ivr5smwCsrDArOSst"
+        },
+        {
+          "name": "Chris van Dutch",
+          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -743,6 +767,26 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
+        "name": "Outta Love",
+        "url": "https://open.spotify.com/album/59FlDwNsfaskGibimitsIm"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        },
+        {
+          "name": "TEN TONNE SKELETON",
+          "url": "https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA"
+        }
+      ],
+      "duration_ms": 164704,
+      "name": "Outta Love",
+      "url": "https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
         "name": "Talk Talk Talk",
         "url": "https://open.spotify.com/album/2P2GJ1cTTO7tWABUUMwrIE"
       },
@@ -763,30 +807,6 @@
       "duration_ms": 148657,
       "name": "Talk Talk Talk",
       "url": "https://open.spotify.com/track/1ktSui7aiz9XceMdTDeCUF"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI"
-      },
-      "artists": [
-        {
-          "name": "Hr. Troels",
-          "url": "https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC"
-        },
-        {
-          "name": "Morty Simmons",
-          "url": "https://open.spotify.com/artist/0APd9ivr5smwCsrDArOSst"
-        },
-        {
-          "name": "Chris van Dutch",
-          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -835,26 +855,6 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "Outta Love",
-        "url": "https://open.spotify.com/album/59FlDwNsfaskGibimitsIm"
-      },
-      "artists": [
-        {
-          "name": "David Puentez",
-          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
-        },
-        {
-          "name": "TEN TONNE SKELETON",
-          "url": "https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA"
-        }
-      ],
-      "duration_ms": 164704,
-      "name": "Outta Love",
-      "url": "https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
         "name": "Nobody To Love (with Loren Gray)",
         "url": "https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp"
       },
@@ -899,6 +899,30 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
+        "name": "Alone Again (feat. PollyAnna)",
+        "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "SESA",
+          "url": "https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ"
+        },
+        {
+          "name": "PollyAnna",
+          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Alone Again (feat. PollyAnna)",
+      "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
         "name": "Little Do You Know",
         "url": "https://open.spotify.com/album/57L2J0YLAxDo0uRYeLPab8"
       },
@@ -923,6 +947,26 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
+        "name": "Send Me An Angel",
+        "url": "https://open.spotify.com/album/1sXi6KyXfyzY772trggvEm"
+      },
+      "artists": [
+        {
+          "name": "Perfect Pitch",
+          "url": "https://open.spotify.com/artist/5dCHZZCETvtgvg88AYg13g"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Send Me An Angel",
+      "url": "https://open.spotify.com/track/6NQJeMKCVNBerVdZw9S3hj"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
         "name": "I Don't Wanna Go",
         "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
       },
@@ -935,30 +979,6 @@
       "duration_ms": 186480,
       "name": "I Don't Wanna Go",
       "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
-        "name": "Alone Again (feat. PollyAnna)",
-        "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "SESA",
-          "url": "https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ"
-        },
-        {
-          "name": "PollyAnna",
-          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Alone Again (feat. PollyAnna)",
-      "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -1079,26 +1099,6 @@
       "duration_ms": 158571,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/114y6mYBzuec5xUBUZ56lg"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
-        "name": "Send Me An Angel",
-        "url": "https://open.spotify.com/album/1sXi6KyXfyzY772trggvEm"
-      },
-      "artists": [
-        {
-          "name": "Perfect Pitch",
-          "url": "https://open.spotify.com/artist/5dCHZZCETvtgvg88AYg13g"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Send Me An Angel",
-      "url": "https://open.spotify.com/track/6NQJeMKCVNBerVdZw9S3hj"
     },
     {
       "added_at": "2022-12-16 13:31:20",

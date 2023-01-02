@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 303615,
+  "num_followers": 303724,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYyMDQ5OCwwMDAwMDAwMDljYjRmNTQ4NWU2YTRiZTFhY2MwZTI1OTVkMWQxMmMx",
+  "snapshot_id": "MTY3MDYyMDQ5OCwwMDAwMDAwMDkzZmVmOTYwNGJmMTVhYWQ2NjhiMjMwMzk5NzViZTBk",
   "tracks": [
     {
       "added_at": "2022-12-09 19:42:20",
@@ -387,18 +387,18 @@
     {
       "added_at": "2022-12-09 19:42:20",
       "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 192621,
-      "name": "Solar Power",
-      "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
     },
     {
       "added_at": "2022-12-09 19:42:20",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-12-09 19:42:20",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
+      "duration_ms": 192621,
+      "name": "Solar Power",
+      "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
     },
     {
       "added_at": "2022-12-09 19:42:20",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-12-09 19:42:20",
       "album": {
-        "name": "Looking Back",
-        "url": "https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z"
-      },
-      "artists": [
-        {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
-        }
-      ],
-      "duration_ms": 235667,
-      "name": "It's Got To Be You",
-      "url": "https://open.spotify.com/track/3EytmMZxK0woRgbh2NxenS"
-    },
-    {
-      "added_at": "2022-12-09 19:42:20",
-      "album": {
         "name": "La Izquierda de la Noche",
         "url": "https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 219414,
       "name": "La Izquierda de la Noche",
       "url": "https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl"
+    },
+    {
+      "added_at": "2022-12-09 19:42:20",
+      "album": {
+        "name": "Looking Back",
+        "url": "https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "duration_ms": 235667,
+      "name": "It's Got To Be You",
+      "url": "https://open.spotify.com/track/3EytmMZxK0woRgbh2NxenS"
     },
     {
       "added_at": "2022-12-09 19:42:20",

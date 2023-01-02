@@ -4,7 +4,7 @@
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Stryper
 
-126 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/0I8VcxL9XbIeWCKViSqbs1)
+127 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/0I8VcxL9XbIeWCKViSqbs1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Familiar Shadows](https://open.spotify.com/track/49DeQeEXxSm9IgQraS6VcV) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Familiar Shadows](https://open.spotify.com/album/55nqt1kWFFIhWdhFlQvLj0) | 3:46 | 2021-05-28 | 2022-01-15 |
 | [Fear](https://open.spotify.com/track/1wadt2E2tdVBtijuvWykHz) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Pain](https://open.spotify.com/album/5L4XEDTwh2E0wTEW84oPMm) | 3:45 | 2022-03-11 |  |
 | [Fear](https://open.spotify.com/track/26VRGLG9WTk8GjTnxSjuLH) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Pain](https://open.spotify.com/album/5SQnp6ujMnSkSCOQg2g0PV) | 3:45 | 2021-05-28 | 2022-10-13 |
+| [Fear of Missing Out](https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC) | [Honor & Glory](https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6) | [Honor & Glory](https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw) | 4:31 | 2022-10-29 |  |
 | [Feel](https://open.spotify.com/track/4Zi1CrhsOZdeg4RB9GeVXB) | [House of Heroes](https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB) | [Colors](https://open.spotify.com/album/7lEzSWasG7XYYuWGjXJpXs) | 3:20 | 2021-05-28 | 2022-07-29 |
 | [Feel](https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK) | [House of Heroes](https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB) | [Colors](https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I) | 3:20 | 2022-03-11 |  |
 | [feel nothing.](https://open.spotify.com/track/6RtWU21Io4XwqB8p4lRX2h) | [Corey Wise](https://open.spotify.com/artist/6vIEpnoY5ajDIcFQdbzz2j) | [feel nothing.](https://open.spotify.com/album/3z4tBbtxbwUER31Nz82xyf) | 3:17 | 2022-03-11 | 2022-10-31 |
@@ -125,7 +126,7 @@
 | [Way You Love Me](https://open.spotify.com/track/7hJtAHrevoIBIJFKvs23gn) | [XXI](https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C) | [Inside Out](https://open.spotify.com/album/5uWqsBukvP6JMHqeI7F0ME) | 3:53 | 2021-05-28 | 2022-07-29 |
 | [We Never Die](https://open.spotify.com/track/1ijexAIjC5jtGueYwc0QGP) | [Paradise Now](https://open.spotify.com/artist/1XOp5OUbWSxiwLjvM8tKFB) | [We Never Die](https://open.spotify.com/album/6iLplDNjwVvSEAo7meGzet) | 3:35 | 2022-01-14 | 2022-10-30 |
 | [Weight of Glory](https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eulogies](https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU) | 2:46 | 2022-03-11 |  |
-| [Weight of Glory \- Live Session](https://open.spotify.com/track/4kD9MAvYFkTPMTwVvyk1m5) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eulogies \(Live Sessions\)](https://open.spotify.com/album/4smWcs15icSRmEvfbjPeA1) | 2:52 | 2022-10-29 |  |
+| [Weight of Glory \- Live Session](https://open.spotify.com/track/4kD9MAvYFkTPMTwVvyk1m5) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eulogies \(Live Sessions\)](https://open.spotify.com/album/4smWcs15icSRmEvfbjPeA1) | 2:52 | 2022-10-29 | 2023-01-02 |
 | [What Are You Waiting For](https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S) | [Futur](https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9) | [What Are You Waiting For](https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9) | 3:19 | 2021-05-28 |  |
 | [What Else You Got?](https://open.spotify.com/track/2d1feQVlJUOJBMhbxltBRO) | [The Protest](https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA) | [Legacy](https://open.spotify.com/album/0oCKybhWiSlHxy9V2YQlvk) | 2:46 | 2021-05-28 |  |
 | [What I've Become](https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [What I've Become](https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh) | 3:24 | 2021-05-28 |  |

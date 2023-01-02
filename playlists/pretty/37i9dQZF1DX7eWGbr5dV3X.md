@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,461 likes - 43 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,465 likes - 43 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 25 | [I'm Not Afraid](https://open.spotify.com/track/5cZfED0afMx5GyoaE99126) | [Holland](https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP) | [I'm Not Afraid](https://open.spotify.com/album/1DU15BJPvPQxgFGtRMdLf2) | 3:41 |
 | 26 | [Fix Me](https://open.spotify.com/track/4UJCTSc1E7fMmNJiHvowHF) | [Jake Zyrus](https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr) | [Fix Me](https://open.spotify.com/album/2coYzAJGlm6XhGdgaLgsFt) | 3:25 |
 | 27 | [Need Ya](https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM) | [Jujubee](https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U) | [good juju : vol\. 1](https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS) | 3:01 |
-| 28 | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB) | 4:33 |
-| 29 | [Mess](https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Mess](https://open.spotify.com/album/3RYjGPpZvBQmNHu9QUUywN) | 3:32 |
+| 28 | [Mess](https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Mess](https://open.spotify.com/album/3RYjGPpZvBQmNHu9QUUywN) | 3:32 |
+| 29 | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB) | 4:33 |
 | 30 | [Goals\_](https://open.spotify.com/track/26kLjAnE9RZhySfSBkASND) | [SuperKnova](https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD) | [Goals\_](https://open.spotify.com/album/6zs8IZxCicVdrnUnpGC82a) | 3:29 |
 | 31 | [You Look so Good](https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [You Look so Good](https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm) | 2:50 |
 | 32 | [Abide](https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG) | [Summer Luk](https://open.spotify.com/artist/7jlNTGVXBk8VsSICN3Qswd) | [Abide](https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO) | 3:11 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 42 | [You Matter](https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4) | [Telly Leung](https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N) | [You Matter](https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq) | 4:07 |
 | 43 | [Safe](https://open.spotify.com/track/52sEKom3XedUQk93YQJtHJ) | [Somaya](https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ) | [Safe](https://open.spotify.com/album/1dCW1xIQzEtwVBy445MyE8) | 3:23 |
 
-Snapshot ID: `MTY2MTQ0MjM0NCwwMDAwMDAwMGUxMjM1ODY5NGQ1NjdjODBkMzBkZWE0N2IwMjExMTBm`
+Snapshot ID: `MTY2MTQ0MjM0NCwwMDAwMDAwMDc5YTAwNWRiOTk0MGU0NmVjZmQ5ZTBjZDcyNDM2YzNh`

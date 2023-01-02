@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 197786,
+  "num_followers": 197881,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMDRlYjI4NzhhM2IxNDFkNmUxYWIzNWU3ZGU3MTM4Zjgw",
+  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMDNmZGQ3YjFkZmZmZjg3NDRiODQ2YmNmNDMwZTYyZmUy",
   "tracks": [
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa"
+      },
+      "artists": [
+        {
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+        }
+      ],
+      "duration_ms": 345000,
+      "name": "Me Voy de Ti",
+      "url": "https://open.spotify.com/track/513D1s7hHXD8xneGDHOatZ"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 277453,
       "name": "Vine A Decirte Adios",
       "url": "https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa"
-      },
-      "artists": [
-        {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
-        }
-      ],
-      "duration_ms": 345000,
-      "name": "Me Voy de Ti",
-      "url": "https://open.spotify.com/track/513D1s7hHXD8xneGDHOatZ"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Decid\u00ed",
-        "url": "https://open.spotify.com/album/4D36ldGdxrsKprFudusBbs"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 194481,
-      "name": "Decid\u00ed",
-      "url": "https://open.spotify.com/track/3njDbyJILSgFmUkvztIw4h"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
         "name": "Carta De Verano",
         "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
       },
@@ -1327,38 +1311,6 @@
       "duration_ms": 242680,
       "name": "Carta De Verano",
       "url": "https://open.spotify.com/track/0XmmFaLwnQt1mDL5VP8c4q"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
-        "name": "La Luz De Mis Ojos",
-        "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
-      },
-      "artists": [
-        {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
-        }
-      ],
-      "duration_ms": 229613,
-      "name": "La Luz De Mis Ojos",
-      "url": "https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
-        "name": "Mi Regreso",
-        "url": "https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel Del Amargue",
-          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
-        }
-      ],
-      "duration_ms": 236306,
-      "name": "Abrazame amor",
-      "url": "https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1379,38 +1331,6 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Mil historias",
-        "url": "https://open.spotify.com/album/00Gbe3lGwcNlWn9JvlvBhD"
-      },
-      "artists": [
-        {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
-        }
-      ],
-      "duration_ms": 250124,
-      "name": "Me Sacaste Del Llavero",
-      "url": "https://open.spotify.com/track/3R6BkHp37wmjYlpzaU1ODd"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
-        "name": "Devu\u00e9lveme Mi Libertad",
-        "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 204564,
-      "name": "Mujer de las Mil Batallas",
-      "url": "https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
         "name": "La Luz De Mis Ojos",
         "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
       },
@@ -1420,9 +1340,41 @@
           "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
         }
       ],
-      "duration_ms": 219666,
-      "name": "Laudano",
-      "url": "https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6"
+      "duration_ms": 229613,
+      "name": "La Luz De Mis Ojos",
+      "url": "https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
+        "name": "Decid\u00ed",
+        "url": "https://open.spotify.com/album/4D36ldGdxrsKprFudusBbs"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 194481,
+      "name": "Decid\u00ed",
+      "url": "https://open.spotify.com/track/3njDbyJILSgFmUkvztIw4h"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
+        "name": "Mi Regreso",
+        "url": "https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+        }
+      ],
+      "duration_ms": 236306,
+      "name": "Abrazame amor",
+      "url": "https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1455,6 +1407,38 @@
       "duration_ms": 200437,
       "name": "Borracho Y Loco",
       "url": "https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
+        "name": "La Luz De Mis Ojos",
+        "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
+      },
+      "artists": [
+        {
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Laudano",
+      "url": "https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
+        "name": "Mil historias",
+        "url": "https://open.spotify.com/album/00Gbe3lGwcNlWn9JvlvBhD"
+      },
+      "artists": [
+        {
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+        }
+      ],
+      "duration_ms": 250124,
+      "name": "Me Sacaste Del Llavero",
+      "url": "https://open.spotify.com/track/3R6BkHp37wmjYlpzaU1ODd"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
+        "name": "Devu\u00e9lveme Mi Libertad",
+        "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 204564,
+      "name": "Mujer de las Mil Batallas",
+      "url": "https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
         "name": "Tres Palabras",
         "url": "https://open.spotify.com/album/15V8Q5wvYKMVm1tagU4ms5"
       },
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Uniquehits",
-        "url": "https://open.spotify.com/album/26va0BYB9jWj7c7vtEKuHx"
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/6wxv5GFsir64vZzYzihoFM"
       },
       "artists": [
         {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+          "name": "JFab & Paola Fabre",
+          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
         }
       ],
-      "duration_ms": 240573,
-      "name": "Ese Hombre Soy Yo",
-      "url": "https://open.spotify.com/track/4A20TRyeqAkxhkdWlASegH"
+      "duration_ms": 205000,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/57d0Lp2QxoP6myHm5n2RbR"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/6wxv5GFsir64vZzYzihoFM"
+        "name": "Uniquehits",
+        "url": "https://open.spotify.com/album/26va0BYB9jWj7c7vtEKuHx"
       },
       "artists": [
         {
-          "name": "JFab & Paola Fabre",
-          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/57d0Lp2QxoP6myHm5n2RbR"
+      "duration_ms": 240573,
+      "name": "Ese Hombre Soy Yo",
+      "url": "https://open.spotify.com/track/4A20TRyeqAkxhkdWlASegH"
     },
     {
       "added_at": "2022-10-25 23:01:25",

@@ -4,7 +4,7 @@
 
 > Jada Kingdom selects the baddest in Dancehall for the gyaldem.
 
-158 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/2HvSrSvEMicLEMbs1ellKF)
+159 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/2HvSrSvEMicLEMbs1ellKF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [Slow Motion](https://open.spotify.com/track/493QaNbrvbEiQdPH9hDP6z) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Slow Motion](https://open.spotify.com/album/4UOWUmv18BNHHSOimMbP0g) | 2:46 | 2021-10-24 | 2022-08-19 |
 | [So Mi Like It](https://open.spotify.com/track/6IFDy0imCdhDpHj98GczEX) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [So Mi Like It](https://open.spotify.com/album/3VsPJKD7uZPIYB4SNGeLRt) | 2:33 | 2021-10-24 | 2022-08-19 |
 | [Sticks & Stones](https://open.spotify.com/track/0wMQptN6JvREl2YtONlENi) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Sticks & Stones](https://open.spotify.com/album/71hjGFjIhwh22nTzubHrKd) | 3:13 | 2021-10-24 | 2022-07-29 |
-| [SUH ME LUV IT \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4iyNOD4gCFiKMc62BVm0IN) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:13 | 2021-10-24 |  |
+| [SUH ME LUV IT \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4KLpNmKeu6C2jVaTQeFCZO) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:13 | 2022-08-18 |  |
+| [SUH ME LUV IT \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4iyNOD4gCFiKMc62BVm0IN) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:13 | 2021-10-24 | 2023-01-02 |
 | [Sweet Bounce](https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Sweet Bounce](https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3) | 1:36 | 2022-06-20 | 2022-08-19 |
 | [Sweet Inspiration](https://open.spotify.com/track/3iZ9QBCxBJcKMqrighzSlB) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Sweet Inspiration](https://open.spotify.com/album/0kYYdZN5cSgmcBCcA8KmcE) | 3:36 | 2021-10-24 | 2022-08-19 |
 | [Tek It To Dem](https://open.spotify.com/track/3zcWzER3p0LGZtk37wF1qj) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Tek It To Dem](https://open.spotify.com/album/6MmmobXINMtOkz7yfSaknm) | 3:19 | 2021-10-24 | 2022-07-29 |

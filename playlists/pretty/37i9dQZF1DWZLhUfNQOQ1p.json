@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230800,
+  "num_followers": 230791,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGVkYWU4ZTMxMmRjYmUwYTg3ZTg0ZTFiZDE1ZjYzNTRl",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGRkZGE3ZWJjODZmYWJmZWJjMGY3Mjc2ZTYwMThjZGFl",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "A Little Bit Closer",
-        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
-      },
-      "artists": [
-        {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "A Little Bit Closer",
-      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Don't Ever Wonder",
         "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 147367,
       "name": "Don't Ever Wonder",
       "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "A Little Bit Closer",
+        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
+      },
+      "artists": [
+        {
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "A Little Bit Closer",
+      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Don't Speak",
-        "url": "https://open.spotify.com/album/5EtAJ0fuZt5IPd3dOIPDaD"
-      },
-      "artists": [
-        {
-          "name": "PANG!",
-          "url": "https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Feel The Heat",
         "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 319677,
       "name": "Feel The Heat",
       "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/5EtAJ0fuZt5IPd3dOIPDaD"
+      },
+      "artists": [
+        {
+          "name": "PANG!",
+          "url": "https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9"
     },
     {
       "added_at": "2021-08-05 09:09:59",

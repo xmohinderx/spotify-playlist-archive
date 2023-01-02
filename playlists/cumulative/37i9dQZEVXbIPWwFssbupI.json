@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -2409,7 +2409,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 189400,
       "name": "Best life",
       "url": "https://open.spotify.com/track/46vfSYsDJZaNQcD4YvT8GD"
@@ -2561,7 +2561,7 @@
       ],
       "date_added": "2021-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -3473,7 +3473,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 219668,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
@@ -3569,7 +3569,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -4183,7 +4183,7 @@
       ],
       "date_added": "2022-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 189880,
       "name": "Clap Your Hands",
       "url": "https://open.spotify.com/track/6jcfITWcR5egvbD4fsGayr"
@@ -4201,7 +4201,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 163977,
       "name": "Clic clic pan pan",
       "url": "https://open.spotify.com/track/6aZPMuJetqwKQCPClCNgd3"
@@ -4991,7 +4991,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 176333,
       "name": "C\u0153ur blanc",
       "url": "https://open.spotify.com/track/5BwdbhIcQPWM7Vpo9ggAsx"
@@ -5695,7 +5695,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 212800,
       "name": "Des milliers de je t'aime",
       "url": "https://open.spotify.com/track/1NwjfTd5fsvRFtYGERuKzA"
@@ -5977,7 +5977,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
@@ -8005,7 +8005,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 183053,
       "name": "Gasolina (feat. Rsko)",
       "url": "https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr"
@@ -9481,6 +9481,28 @@
     {
       "album": {
         "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        },
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205800,
+      "name": "J'irai o\u00f9 tu iras (with Jean-Jacques Goldman)",
+      "url": "https://open.spotify.com/track/17LZKLjQxH2w67xMa8mWML"
+    },
+    {
+      "album": {
+        "name": "D'Eux",
         "url": "https://open.spotify.com/album/4BBhjKBUJZxBGsmTCH4BHM"
       },
       "artists": [
@@ -9513,7 +9535,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 184173,
       "name": "J't'emm\u00e8ne au vent",
       "url": "https://open.spotify.com/track/0Wr98MVkENZXddiLB3bPb0"
@@ -10769,7 +10791,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 179426,
       "name": "La kiffance",
       "url": "https://open.spotify.com/track/1bwhDrXcAtqePp8mNJ0pTe"
@@ -11103,7 +11125,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 193443,
       "name": "La vie qu'on m\u00e8ne",
       "url": "https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No"
@@ -12069,7 +12091,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 196520,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
@@ -12849,7 +12871,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 162293,
       "name": "Ma Came",
       "url": "https://open.spotify.com/track/6DdKVun3sEVCfyeSV1vTJI"
@@ -13613,6 +13635,28 @@
       "duration_ms": 187680,
       "name": "Mauvaise journ\u00e9e",
       "url": "https://open.spotify.com/track/0jbGm0dpPUnr8omDSpLKW6"
+    },
+    {
+      "album": {
+        "name": "One Love (New Version)",
+        "url": "https://open.spotify.com/album/4uZaHeEPBWpLilXGg5sJs1"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210853,
+      "name": "Memories (feat. Kid Cudi)",
+      "url": "https://open.spotify.com/track/0Xh6R6XLoTDRBYriQRgkHj"
     },
     {
       "album": {
@@ -14707,7 +14751,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 186306,
       "name": "Namek",
       "url": "https://open.spotify.com/track/3HrX1V2CpLmlAu2cGjgrjW"
@@ -15720,6 +15764,24 @@
     },
     {
       "album": {
+        "name": "Le son des ann\u00e9es 80",
+        "url": "https://open.spotify.com/album/4cQIJjzFnwSFIQjz3MFkol"
+      },
+      "artists": [
+        {
+          "name": "Partenaire Particulier",
+          "url": "https://open.spotify.com/artist/5jsIYrxcANUkZQPfCdfEWe"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246440,
+      "name": "Partenaire Particulier",
+      "url": "https://open.spotify.com/track/0S4dVpqBLnBFj4wdB4UDMd"
+    },
+    {
+      "album": {
         "name": "Spleen",
         "url": "https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD"
       },
@@ -15749,7 +15811,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 143525,
       "name": "Pas b\u00eate",
       "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
@@ -15891,7 +15953,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
@@ -17131,7 +17193,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 217946,
       "name": "RAPPEL",
       "url": "https://open.spotify.com/track/48BdA5qBxXVoe59xvu0bwc"
@@ -18113,7 +18175,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 172466,
       "name": "Salom\u00e9",
       "url": "https://open.spotify.com/track/4DRF0J8DUc5GPzcbOTD1gu"
@@ -18550,6 +18612,24 @@
     },
     {
       "album": {
+        "name": "Now, Then & Forever",
+        "url": "https://open.spotify.com/album/2L8rj8VnahryOqg7vKHYzx"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "September",
+      "url": "https://open.spotify.com/track/4f2GB5ZC7vOUYPAg69N2Xw"
+    },
+    {
+      "album": {
         "name": "Le monde est m\u00e9chant",
         "url": "https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX"
       },
@@ -18677,7 +18757,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 190883,
       "name": "Sharks",
       "url": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
@@ -18695,7 +18775,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 217413,
       "name": "Shining Light",
       "url": "https://open.spotify.com/track/3PqAQRlPl0yOnqqcB6Y5Cw"
@@ -19139,7 +19219,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 146440,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/0uSjZhPKuYBcObeetfVlpn"
@@ -19471,7 +19551,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 159360,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/6Qe7YCkIOc1iaw9HKqO3qV"
@@ -19609,6 +19689,32 @@
       "duration_ms": 164946,
       "name": "Sur un nouvel album",
       "url": "https://open.spotify.com/track/7gaXVyPaSqUwIcLPTrnHLm"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams (Are Made Of This)",
+        "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
+      },
+      "artists": [
+        {
+          "name": "Eurythmics",
+          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "Sweet Dreams (Are Made of This) - Remastered",
+      "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
     },
     {
       "album": {
@@ -22023,7 +22129,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 204760,
       "name": "\u00c0 peu pr\u00e8s",
       "url": "https://open.spotify.com/track/4VpmtsVKIRfNlmrtaEnrQi"
@@ -22215,7 +22321,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 199346,
       "name": "\u0394. Dieu ne ment jamais",
       "url": "https://open.spotify.com/track/6YWjskKykdPsBuiTBOg1VK"

@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-432 songs - 17 hr 37 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+433 songs - 17 hr 39 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Cosmic](https://open.spotify.com/track/3ESJIVVpwOAK9fK5sktDl7) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [TyLuv.](https://open.spotify.com/artist/6ay740FQIPgTMahZqP9Opx) | [Cosmic](https://open.spotify.com/album/0Q413u4gUUGs8EKDe13hzs) | 1:34 | 2021-07-04 |  |
 | [Cosmic Thoughts](https://open.spotify.com/track/4lSsjJQ7DPJkcnvLqiuRcs) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY) | [Cosmic Thoughts](https://open.spotify.com/album/0RIxRPbo7BrvTSfJlTFIXE) | 2:32 | 2019-05-26\* | 2019-06-15 |
 | [Cows In The Distance](https://open.spotify.com/track/5UD0l9bmyi6cILD4nxIcYV) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Dissociation](https://open.spotify.com/album/6QLfHxAS5bmPCNAzfILoEy) | 1:56 | 2020-06-19 | 2022-07-07 |
+| [Crooklyn](https://open.spotify.com/track/05HYP7Ty7Fv8quT1lJDuFa) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Jazzterfield](https://open.spotify.com/album/2vaZwb3u3gQPkDOsDmDx5r) | 1:52 | 2022-12-01 |  |
 | [Crooklyn](https://open.spotify.com/track/0kfpJ6L0Ipw5crz3AaMt5C) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Crooklyn](https://open.spotify.com/album/0cPoqkLyH0M6HZmQf5wYzR) | 1:52 | 2020-08-30 | 2022-07-17 |
 | [Cross the Bridge](https://open.spotify.com/track/51SfpLbD4dbPvNg4dGRRfs) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/0DHpTUlxOalqxiSoA6kbeH) | 2:18 | 2022-10-20 |  |
 | [Cross the Bridge](https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt) | 2:18 | 2022-10-20 | 2022-10-22 |
@@ -275,7 +276,7 @@
 | [One For](https://open.spotify.com/track/5YVdtlIUdWx9nVyKm3v6TY) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [DDob](https://open.spotify.com/artist/3gFdymAugBzttDhDaH6VJo), [A¢AP Creepy](https://open.spotify.com/artist/1f13C5XRllNmw2QkVuG8vm) | [One For](https://open.spotify.com/album/1DW6GgAIGR7M6kQU8OI47G) | 2:28 | 2019-05-26\* | 2022-04-21 |
 | [One for Nujabes](https://open.spotify.com/track/2oLb6RXpLwdEqdcrysk5Hz) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG) | [One for Nujabes](https://open.spotify.com/album/4YAjNUnrUv3yHrgTKZ9usZ) | 2:21 | 2019-05-26\* | 2019-06-15 |
 | [One Note](https://open.spotify.com/track/6lTIzGOH1lOs74J6ZSSgoQ) | [Nometronn](https://open.spotify.com/artist/3drJMaIVtJLNisW6LezOnB) | [One Note](https://open.spotify.com/album/60aV4ADkVy4fOUAJyDjzjl) | 1:40 | 2020-01-14 | 2022-04-21 |
-| [Only Way 2 Go \(Instrumental\)](https://open.spotify.com/track/78e0culZ0CKdTNf4aUzOc8) | [Diamond D](https://open.spotify.com/artist/1YypK4ExBm4UY1TRAOur8M), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [The Diam Piece Instrumentals](https://open.spotify.com/album/0ixOltqf2ad9LU7hVPOcPa) | 2:33 | 2019-05-26\* |  |
+| [Only Way 2 Go \(Instrumental\)](https://open.spotify.com/track/78e0culZ0CKdTNf4aUzOc8) | [Diamond D](https://open.spotify.com/artist/1YypK4ExBm4UY1TRAOur8M), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [The Diam Piece Instrumentals](https://open.spotify.com/album/0ixOltqf2ad9LU7hVPOcPa) | 2:33 | 2019-05-26\* | 2023-01-02 |
 | [Origami](https://open.spotify.com/track/1Iloy9vXDfjeVSwv3qHpbo) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Origami](https://open.spotify.com/album/48WTYBQPrVhBSm3kE8carW) | 2:09 | 2020-01-14 | 2022-05-20 |
 | [Ova](https://open.spotify.com/track/3bHSr5nxcXLoUr6LyRYTuT) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Ova](https://open.spotify.com/album/0W7PGvXL4DYYOuyctcrFwN) | 2:03 | 2020-06-29 | 2022-06-26 |
 | [Over You](https://open.spotify.com/track/3GIWbUv8lSAVlf6t10zNAd) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Over You](https://open.spotify.com/album/2bTrWt0WbIPEVzbSuHq81f) | 2:38 | 2019-05-26\* | 2020-01-14 |

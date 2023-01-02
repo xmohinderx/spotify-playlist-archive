@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,861 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,879 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 87 | [ピアノ協奏曲第2番 ハ短調 作品18 \- 第1楽章 Moderato](https://open.spotify.com/track/7Ij3Jk3XpiNP8ijIQiePjO) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Nobuyuki Tsujii](https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j), [ロイヤル・リヴァプール・フィルハーモニー管弦楽団](https://open.spotify.com/artist/7fnstXMT6WRekC9jxNVC2A), [ヴァシリー・ペトレンコ](https://open.spotify.com/artist/1RGwkEfWNdQRExPMElY4jS) | [ラフマニノフ:ピアノ協奏曲第2番 / カプースチン:8つの演奏会用エチュード](https://open.spotify.com/album/54VWhdCGU7Vn7f2JRRrVFr) | 10:56 |
 | 88 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
 | 89 | [ピアノソナタ 第8番 Op\. 13「悲愴」 \- 第1楽章 Grave \- Allegro molto e con brio](https://open.spotify.com/track/6UNVBMukkEnNEWHjgL5bMv) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Rintaro Akamatsu](https://open.spotify.com/artist/4PXjZj2FxsYEeJdX9ir8Il) | [Rintaro Akamatsu Piano Collection Vol\. 8: Lustig \- Traurig](https://open.spotify.com/album/12lqObKhvBIcw1rEI2BacG) | 9:09 |
-| 90 | [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 |
+| 90 | [No Reason](https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 7:28 |
 | 91 | [The Forever Now \- From "This Is Us: Season 6"](https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw) | [This Is Us Cast](https://open.spotify.com/artist/4jLe6sgGBkNDC6pNstUJ2S), [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [The Forever Now \(From "This Is Us: Season 6"\)](https://open.spotify.com/album/2h7h6xLkT9MjRi8xUdckLo) | 3:18 |
-| 92 | [No Reason](https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 7:28 |
+| 92 | [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 |
 | 93 | [Cello Concerto No\. 1 in C Major, Hob\. VIIb:1: II\. Adagio](https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [José\-Luis Garcia](https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Haydn: Cello Concertos \(Remastered\)](https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA) | 8:13 |
-| 94 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 |
-| 95 | [Sundays \- Just Piano Version](https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 3:32 |
-| 96 | [Bye for now,](https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:50 |
+| 94 | [Sundays \- Just Piano Version](https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 3:32 |
+| 95 | [Bye for now,](https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:50 |
+| 96 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 |
 | 97 | [Hoppípolla](https://open.spotify.com/track/0yQPpUq5BJyqah5m2Q5Stt) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP) | 4:28 |
 | 98 | [春よ、来い](https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [KIYOZUKA](https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ) | 1:16 |
 | 99 | [人生への古代のステップ](https://open.spotify.com/track/6NEZlv8KhZ7D625Ry6g5s5) | [Takare Tadame](https://open.spotify.com/artist/5VG5uEB9NnUhEpzFFnSjV0) | [人生への古代のステップ](https://open.spotify.com/album/1e8KX6qBNn9P69POODHoiU) | 2:10 |
 | 100 | [Kyle \(Northern Line\)](https://open.spotify.com/track/2rHefyfbrhfXVaquedNvnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:44 |
 
-Snapshot ID: `MTY3MTcyMTIwMCwwMDAwMDAwMDhlNjYyMjExYmY2Mzk3YjNmNzlmMjE4NDA3OGU3ZWNj`
+Snapshot ID: `MTY3MTcyMTIwMCwwMDAwMDAwMGM1MTkxY2Y2NjhlY2RlYTZlNDk0NmJjYjhjMGE4Mzli`

@@ -2143,7 +2143,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 170018,
       "name": "Caminando Por Tegucigalpa",
       "url": "https://open.spotify.com/track/0jkwlTQDffmHaDoHUbwJw1"
@@ -3147,7 +3147,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 181621,
       "name": "DE CAROLINA",
       "url": "https://open.spotify.com/track/7xQdrZO18sSodsnJ7XCqto"
@@ -9799,7 +9799,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 190981,
       "name": "Ojitos Caf\u00e9s",
       "url": "https://open.spotify.com/track/1nXSQbUEIutffxscuSE33T"
@@ -10739,7 +10739,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 151324,
       "name": "Punto G",
       "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
@@ -11379,6 +11379,28 @@
       "duration_ms": 212293,
       "name": "Se Acabo (feat. Method Man) - Remix",
       "url": "https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos los Embajadores Vallenatos",
+        "url": "https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        },
+        {
+          "name": "Robinson Dami\u00e1n",
+          "url": "https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258217,
+      "name": "Se Le Moja la Canoa (La Canoa)",
+      "url": "https://open.spotify.com/track/0JVnEzXd7T3Q0nEvveigLn"
     },
     {
       "album": {
@@ -15167,6 +15189,24 @@
       "duration_ms": 278825,
       "name": "Yolanda",
       "url": "https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp"
+    },
+    {
+      "album": {
+        "name": "Yonaguni",
+        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206710,
+      "name": "Yonaguni",
+      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
     },
     {
       "album": {

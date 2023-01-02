@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
-  "num_followers": 46841,
+  "num_followers": 46882,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU4ODcwMCwwMDAwMDAwMDhlNDk1ZjA2NmI3ZDU2ZWNkNmVhMjM5ODM0Yzc2ZDk4",
+  "snapshot_id": "MTY3MDU4ODcwMCwwMDAwMDAwMDA2ZTc2OWFkZWMyMTg4YzI2ZDFmMjZkMGM2YzcxMjkx",
   "tracks": [
     {
       "added_at": "2022-08-09 09:45:24",
@@ -195,18 +195,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "The Man (Live From Paris)",
-        "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
+        "name": "Cassy O' (EP)",
+        "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 219385,
-      "name": "The Man - Live From Paris",
-      "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
+      "duration_ms": 209306,
+      "name": "Budapest - Live from Spotify Stockholm",
+      "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -227,6 +227,22 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
+        "name": "The Man (Live From Paris)",
+        "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "The Man - Live From Paris",
+      "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
         "name": "Live 2012",
         "url": "https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 411973,
       "name": "Yellow - Live",
       "url": "https://open.spotify.com/track/58MrV6J9oS46ViY1N6gTJX"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "Cassy O' (EP)",
-        "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "Budapest - Live from Spotify Stockholm",
-      "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -341,22 +341,6 @@
       "url": "https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3"
     },
     {
-      "added_at": "2023-01-01 00:25:09",
-      "album": {
-        "name": "7 Years (Later) [Live]",
-        "url": "https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 256896,
-      "name": "7 Years - (Later) [Live]",
-      "url": "https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW"
-    },
-    {
       "added_at": "2022-08-09 09:45:24",
       "album": {
         "name": "Live At Knebworth",
@@ -371,6 +355,22 @@
       "duration_ms": 355666,
       "name": "Angels",
       "url": "https://open.spotify.com/track/2EU5LDgtGnh8RTz7VGlGoR"
+    },
+    {
+      "added_at": "2023-01-02 00:27:08",
+      "album": {
+        "name": "7 Years (Later) [Live]",
+        "url": "https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 256896,
+      "name": "7 Years - (Later) [Live]",
+      "url": "https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -695,26 +695,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 486889,
-      "name": "Latch - Live From Madison Square Garden",
-      "url": "https://open.spotify.com/track/1M6IbIQY2yf9we4LlT2keJ"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Live In Berlin",
         "url": "https://open.spotify.com/album/6adPwMLvUlBuL6WfExnCUu"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 278840,
       "name": "Englishman In New York - Live In Berlin/2010",
       "url": "https://open.spotify.com/track/5VaWlp54HTo03meWB9l5bx"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 486889,
+      "name": "Latch - Live From Madison Square Garden",
+      "url": "https://open.spotify.com/track/1M6IbIQY2yf9we4LlT2keJ"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 231040,
-      "name": "Waterloo - Live",
-      "url": "https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Live In Berlin",
         "url": "https://open.spotify.com/album/6adPwMLvUlBuL6WfExnCUu"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 215173,
       "name": "Fields Of Gold - Live In Berlin/2010",
       "url": "https://open.spotify.com/track/6zaIkr8o1DVxBIr4rgrvXC"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "Waterloo - Live",
+      "url": "https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Spotify Sessions (Live From Spotify NYC)",
-        "url": "https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 160400,
-      "name": "Ghost - Live From Spotify NYC",
-      "url": "https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Jason Mraz's Beautiful Mess: Live on Earth",
         "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 200826,
       "name": "Lucky (feat. Colbie Caillat) - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
       "url": "https://open.spotify.com/track/7FMqPuhsyqfA65Mw0QgU1i"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Spotify Sessions (Live From Spotify NYC)",
+        "url": "https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 160400,
+      "name": "Ghost - Live From Spotify NYC",
+      "url": "https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Olivia's Live Hits",
-        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 231493,
-      "name": "You're The One That I Want - Live",
-      "url": "https://open.spotify.com/track/7vCqjFCrn2070QxxM8G7V4"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Alicia Keys - VH1 Storytellers",
         "url": "https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9"
       },
@@ -1063,22 +1047,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Live Friday The 13th",
-        "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 379013,
-      "name": "She Will Be Loved - Live",
-      "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Live At Wembley Arena",
         "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
@@ -1091,6 +1059,38 @@
       "duration_ms": 334813,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
       "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 231493,
+      "name": "You're The One That I Want - Live",
+      "url": "https://open.spotify.com/track/7vCqjFCrn2070QxxM8G7V4"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Live Friday The 13th",
+        "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 379013,
+      "name": "She Will Be Loved - Live",
+      "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
+        "name": "Whitney Houston Live: Her Greatest Performances",
+        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 410280,
+      "name": "Greatest Love of All - Live from That's What Friends Are For: Arista Records 15th Anniversary Concert",
+      "url": "https://open.spotify.com/track/1zHSvq6WdZHdG85ugbGsVj"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
         "name": "Havana (Live)",
         "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 376853,
       "name": "I Want to Know What Love Is - Live",
       "url": "https://open.spotify.com/track/0eidOawKujRH6fNpqHpCMu"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "Whitney Houston Live: Her Greatest Performances",
-        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 410280,
-      "name": "Greatest Love of All - Live from That's What Friends Are For: Arista Records 15th Anniversary Concert",
-      "url": "https://open.spotify.com/track/1zHSvq6WdZHdG85ugbGsVj"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "Candle In The Wind - Live",
-      "url": "https://open.spotify.com/track/6uaIVqaravhhG0rFBnexTE"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Live At Wembley Arena",
         "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 270840,
-      "name": "Animals - Live In Manchester",
-      "url": "https://open.spotify.com/track/5wr2eH56im5zU7bgmoiTus"
+      "duration_ms": 225133,
+      "name": "Candle In The Wind - Live",
+      "url": "https://open.spotify.com/track/6uaIVqaravhhG0rFBnexTE"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1475,6 +1459,22 @@
       "duration_ms": 299666,
       "name": "All of Me - Live",
       "url": "https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 270840,
+      "name": "Animals - Live In Manchester",
+      "url": "https://open.spotify.com/track/5wr2eH56im5zU7bgmoiTus"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/60HvDEDbzm4BvTwQbLcrNz"
     },
     {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "High Times: Best Of / Unplugged: Best Of (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5lEoXlvZG8xTdkHiwfPbxr"
-      },
-      "artists": [
-        {
-          "name": "Fools Garden",
-          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
-        }
-      ],
-      "duration_ms": 321453,
-      "name": "Lemon Tree - Acoustic Live Version",
-      "url": "https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl"
-    },
-    {
       "added_at": "2022-11-11 13:33:53",
       "album": {
         "name": "Older (Expanded Edition)",
@@ -1555,6 +1539,22 @@
       "duration_ms": 365157,
       "name": "The Strangest Thing - Live",
       "url": "https://open.spotify.com/track/6tGDadVUsPiO7U4TmB8MPS"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "High Times: Best Of / Unplugged: Best Of (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5lEoXlvZG8xTdkHiwfPbxr"
+      },
+      "artists": [
+        {
+          "name": "Fools Garden",
+          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
+        }
+      ],
+      "duration_ms": 321453,
+      "name": "Lemon Tree - Acoustic Live Version",
+      "url": "https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "Maps - Live In Manchester",
-      "url": "https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Warwick Avenue (Live)",
         "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 237386,
       "name": "Warwick Avenue - Live",
       "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "Maps - Live In Manchester",
+      "url": "https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ"
     },
     {
       "added_at": "2022-08-09 09:45:24",

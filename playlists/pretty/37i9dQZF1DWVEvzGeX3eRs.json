@@ -1,12 +1,12 @@
 {
   "description": "What we're gonna do right now is go back\u2014back in time. Here are all your favorite '90s R&B slow jams!",
-  "num_followers": 1487048,
+  "num_followers": 1487407,
   "original_name": "'90s Baby Makers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDkwMjU5NywwMDAwMDAwMGZmZDRjN2FkMTBhOTI2Njk4N2FkNmVjNmZkZWU2ZGVm",
+  "snapshot_id": "MTYxNDkwMjU5NywwMDAwMDAwMDY2NmNjYzc4OTdkNTgyODZhMDRhZjhiMWRiNGIxZGI5",
   "tracks": [
     {
       "added_at": "2021-03-05 00:03:16",
@@ -243,22 +243,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Attitude",
-        "url": "https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr"
-      },
-      "artists": [
-        {
-          "name": "Troop",
-          "url": "https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "All I Do Is Think of You",
-      "url": "https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Blackstreet",
         "url": "https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 299800,
       "name": "Before I Let You Go",
       "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr"
+      },
+      "artists": [
+        {
+          "name": "Troop",
+          "url": "https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI"
+        }
+      ],
+      "duration_ms": 229053,
+      "name": "All I Do Is Think of You",
+      "url": "https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3"
     },
     {
       "added_at": "2021-03-05 00:03:16",

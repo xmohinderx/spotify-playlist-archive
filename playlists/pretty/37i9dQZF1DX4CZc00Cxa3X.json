@@ -1,12 +1,12 @@
 {
   "description": "Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own. ",
-  "num_followers": 18687,
+  "num_followers": 18739,
   "original_name": "The Listening Room",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQxOTIxNSwwMDAwMDAwMGI0NDQ4OGQxNWEzY2JkN2NhZmM5MDYwMzRlOGMwNmU2",
+  "snapshot_id": "MTY3MjQxOTIxNSwwMDAwMDAwMGYxNjQzOWVhNDc2ZTYzYTE1MWFlYzE2ZmRjZjJhYjlh",
   "tracks": [
     {
       "added_at": "2022-12-20 17:53:57",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-12-20 17:53:57",
       "album": {
+        "name": "Empire of Light (Original Score)",
+        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 107626,
+      "name": "Washed Out",
+      "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
+    },
+    {
+      "added_at": "2022-12-20 17:53:57",
+      "album": {
         "name": "Antiphonals",
         "url": "https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh"
       },
@@ -503,18 +519,22 @@
     {
       "added_at": "2022-12-20 17:53:57",
       "album": {
-        "name": "Empire of Light (Original Score)",
-        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
+        "name": "Open Handed",
+        "url": "https://open.spotify.com/album/0OMRDlt8V9W7kjybKUbwSi"
       },
       "artists": [
         {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+          "name": "From Somewhere Quiet",
+          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
+        },
+        {
+          "name": "We Dream of Eden",
+          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
         }
       ],
-      "duration_ms": 107626,
-      "name": "Washed Out",
-      "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
+      "duration_ms": 204120,
+      "name": "Open Handed",
+      "url": "https://open.spotify.com/track/7fBI4qaCF4LTisfqxyCjFX"
     },
     {
       "added_at": "2022-12-20 17:53:57",
@@ -547,26 +567,6 @@
       "duration_ms": 193000,
       "name": "Arco\u00edris",
       "url": "https://open.spotify.com/track/4I9ZVOXtZVUpbLuIxDajrc"
-    },
-    {
-      "added_at": "2022-12-20 17:53:57",
-      "album": {
-        "name": "Open Handed",
-        "url": "https://open.spotify.com/album/0OMRDlt8V9W7kjybKUbwSi"
-      },
-      "artists": [
-        {
-          "name": "From Somewhere Quiet",
-          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
-        },
-        {
-          "name": "We Dream of Eden",
-          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Open Handed",
-      "url": "https://open.spotify.com/track/7fBI4qaCF4LTisfqxyCjFX"
     },
     {
       "added_at": "2022-12-20 17:53:57",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-12-20 17:53:57",
       "album": {
-        "name": "Ile De Reve",
-        "url": "https://open.spotify.com/album/6amMyNzSzAfsBfMbe32bws"
-      },
-      "artists": [
-        {
-          "name": "Private Agenda",
-          "url": "https://open.spotify.com/artist/0Ach9AicviOrwIPxUPntnA"
-        }
-      ],
-      "duration_ms": 357293,
-      "name": "P.S.R.",
-      "url": "https://open.spotify.com/track/1BUK2OhjoaxPi6n7CPq25q"
-    },
-    {
-      "added_at": "2022-12-20 17:53:57",
-      "album": {
         "name": "The Fallout",
         "url": "https://open.spotify.com/album/4tRQM2yaKGtDHqZmE1ayzP"
       },
@@ -727,21 +711,21 @@
     {
       "added_at": "2022-12-20 17:53:57",
       "album": {
-        "name": "Sphere",
-        "url": "https://open.spotify.com/album/7LqeayMSLKMDHFkGkk5TTM"
+        "name": "Ile De Reve",
+        "url": "https://open.spotify.com/album/6amMyNzSzAfsBfMbe32bws"
       },
       "artists": [
         {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+          "name": "Private Agenda",
+          "url": "https://open.spotify.com/artist/0Ach9AicviOrwIPxUPntnA"
         }
       ],
-      "duration_ms": 294418,
-      "name": "Knowledge",
-      "url": "https://open.spotify.com/track/2LEqtjDn1k4ZI7xwgheNI7"
+      "duration_ms": 357293,
+      "name": "P.S.R.",
+      "url": "https://open.spotify.com/track/1BUK2OhjoaxPi6n7CPq25q"
     },
     {
-      "added_at": "2023-01-01 00:24:21",
+      "added_at": "2023-01-02 00:20:44",
       "album": {
         "name": "Sphere",
         "url": "https://open.spotify.com/album/6f1IdXeR63Q4jkvzDojC2w"
@@ -759,22 +743,34 @@
     {
       "added_at": "2022-12-20 17:53:57",
       "album": {
-        "name": "Klass (Robot Koch Rework)",
-        "url": "https://open.spotify.com/album/5NGRqqdsVWcFGZq4GqWytD"
+        "name": "Sphere",
+        "url": "https://open.spotify.com/album/7LqeayMSLKMDHFkGkk5TTM"
       },
       "artists": [
         {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        },
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
         }
       ],
-      "duration_ms": 368000,
-      "name": "Klass - Robot Koch Rework",
-      "url": "https://open.spotify.com/track/6QcorNxAJIo0IXFVI0JMg1"
+      "duration_ms": 294418,
+      "name": "Knowledge",
+      "url": "https://open.spotify.com/track/2LEqtjDn1k4ZI7xwgheNI7"
+    },
+    {
+      "added_at": "2022-12-20 17:53:57",
+      "album": {
+        "name": "Multi Natural",
+        "url": "https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 78762,
+      "name": "Marmara Beach II",
+      "url": "https://open.spotify.com/track/1faNqUo9262FCCAx6kPb5Y"
     },
     {
       "added_at": "2022-12-20 17:53:57",
@@ -795,18 +791,22 @@
     {
       "added_at": "2022-12-20 17:53:57",
       "album": {
-        "name": "Multi Natural",
-        "url": "https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh"
+        "name": "Klass (Robot Koch Rework)",
+        "url": "https://open.spotify.com/album/5NGRqqdsVWcFGZq4GqWytD"
       },
       "artists": [
         {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
         }
       ],
-      "duration_ms": 78762,
-      "name": "Marmara Beach II",
-      "url": "https://open.spotify.com/track/1faNqUo9262FCCAx6kPb5Y"
+      "duration_ms": 368000,
+      "name": "Klass - Robot Koch Rework",
+      "url": "https://open.spotify.com/track/6QcorNxAJIo0IXFVI0JMg1"
     },
     {
       "added_at": "2022-12-20 17:53:57",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-12-20 17:53:57",
       "album": {
-        "name": "Grow Slow, Grow Deep",
-        "url": "https://open.spotify.com/album/73ztsZPcbmcb1NxpqhRy4I"
-      },
-      "artists": [
-        {
-          "name": "We Dream of Eden",
-          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
-        }
-      ],
-      "duration_ms": 203389,
-      "name": "Wellspring",
-      "url": "https://open.spotify.com/track/24VUp1TcA8U27YfwlNenlQ"
-    },
-    {
-      "added_at": "2022-12-20 17:53:57",
-      "album": {
         "name": "The Unfolding",
         "url": "https://open.spotify.com/album/6fePA0wognv8fQ9mPed4YQ"
       },
@@ -899,18 +883,34 @@
     {
       "added_at": "2022-12-20 17:53:57",
       "album": {
-        "name": "Grafts (Expanded Reissue)",
-        "url": "https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW"
+        "name": "Grow Slow, Grow Deep",
+        "url": "https://open.spotify.com/album/73ztsZPcbmcb1NxpqhRy4I"
       },
       "artists": [
         {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+          "name": "We Dream of Eden",
+          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
         }
       ],
-      "duration_ms": 472500,
-      "name": "2c",
-      "url": "https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC"
+      "duration_ms": 203389,
+      "name": "Wellspring",
+      "url": "https://open.spotify.com/track/24VUp1TcA8U27YfwlNenlQ"
+    },
+    {
+      "added_at": "2022-12-20 17:53:57",
+      "album": {
+        "name": "ZEBRA",
+        "url": "https://open.spotify.com/album/5trQl5XvIPRgpl2zjmIBb0"
+      },
+      "artists": [
+        {
+          "name": "Arp",
+          "url": "https://open.spotify.com/artist/3nmCWNVgTseDuX2OyUeTsX"
+        }
+      ],
+      "duration_ms": 138564,
+      "name": "Ozu",
+      "url": "https://open.spotify.com/track/3hNZUs8RSUk3HbFQGcrWnK"
     },
     {
       "added_at": "2022-12-20 17:53:57",
@@ -931,18 +931,18 @@
     {
       "added_at": "2022-12-20 17:53:57",
       "album": {
-        "name": "ZEBRA",
-        "url": "https://open.spotify.com/album/5trQl5XvIPRgpl2zjmIBb0"
+        "name": "Grafts (Expanded Reissue)",
+        "url": "https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW"
       },
       "artists": [
         {
-          "name": "Arp",
-          "url": "https://open.spotify.com/artist/3nmCWNVgTseDuX2OyUeTsX"
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 138564,
-      "name": "Ozu",
-      "url": "https://open.spotify.com/track/3hNZUs8RSUk3HbFQGcrWnK"
+      "duration_ms": 472500,
+      "name": "2c",
+      "url": "https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC"
     },
     {
       "added_at": "2022-12-20 17:53:57",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-12-20 17:53:57",
       "album": {
-        "name": "Adversarial Policies",
-        "url": "https://open.spotify.com/album/62Bv4Qi83NM7q3F9bXoCDm"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Morse",
-          "url": "https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6"
-        }
-      ],
-      "duration_ms": 474666,
-      "name": "Nothing but Endless Rejections",
-      "url": "https://open.spotify.com/track/6PIA1qwY2zEztGYWus9wWp"
-    },
-    {
-      "added_at": "2022-12-20 17:53:57",
-      "album": {
         "name": "You Always Will Be",
         "url": "https://open.spotify.com/album/64oJXgQT2KXGVD4RTDWH18"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2022-12-20 17:53:57",
       "album": {
-        "name": "Sleep Better",
-        "url": "https://open.spotify.com/album/1jsheoosVBExRYKbZmnISG"
+        "name": "Adversarial Policies",
+        "url": "https://open.spotify.com/album/62Bv4Qi83NM7q3F9bXoCDm"
       },
       "artists": [
         {
-          "name": "Tom Middleton",
-          "url": "https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT"
+          "name": "Alejandro Morse",
+          "url": "https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6"
         }
       ],
-      "duration_ms": 599000,
-      "name": "Relax 6 (Awakening)",
-      "url": "https://open.spotify.com/track/0ml9Z7ZLrMmZqfjuzVpu8X"
+      "duration_ms": 474666,
+      "name": "Nothing but Endless Rejections",
+      "url": "https://open.spotify.com/track/6PIA1qwY2zEztGYWus9wWp"
     },
     {
       "added_at": "2022-12-20 17:53:57",
@@ -1047,6 +1031,22 @@
       "duration_ms": 351313,
       "name": "Sealed",
       "url": "https://open.spotify.com/track/3nagQKjvGa9hhVHGmFzFdC"
+    },
+    {
+      "added_at": "2022-12-20 17:53:57",
+      "album": {
+        "name": "Sleep Better",
+        "url": "https://open.spotify.com/album/1jsheoosVBExRYKbZmnISG"
+      },
+      "artists": [
+        {
+          "name": "Tom Middleton",
+          "url": "https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT"
+        }
+      ],
+      "duration_ms": 599000,
+      "name": "Relax 6 (Awakening)",
+      "url": "https://open.spotify.com/track/0ml9Z7ZLrMmZqfjuzVpu8X"
     },
     {
       "added_at": "2022-12-20 17:53:57",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-12-20 17:53:57",
       "album": {
-        "name": "Haze",
-        "url": "https://open.spotify.com/album/5WM84Dwbzex3zgFjqjR9Iu"
-      },
-      "artists": [
-        {
-          "name": "AstroPilot",
-          "url": "https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Haze",
-      "url": "https://open.spotify.com/track/6UJ0KvITqhY27liXdg9lrh"
-    },
-    {
-      "added_at": "2022-12-20 17:53:57",
-      "album": {
         "name": "And It Goes On (Michael A. Muller Rework)",
         "url": "https://open.spotify.com/album/2xXoyiwMckFY4OrAsu9guT"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 220500,
       "name": "And It Goes On - Michael A. Muller Rework",
       "url": "https://open.spotify.com/track/6MPq2WJ50CZz0uilKcQaJh"
+    },
+    {
+      "added_at": "2022-12-20 17:53:57",
+      "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/5WM84Dwbzex3zgFjqjR9Iu"
+      },
+      "artists": [
+        {
+          "name": "AstroPilot",
+          "url": "https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/6UJ0KvITqhY27liXdg9lrh"
     },
     {
       "added_at": "2022-12-20 17:53:57",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-12-20 17:53:57",
       "album": {
-        "name": "Bethlehem",
-        "url": "https://open.spotify.com/album/0b46xV200KRIkBVcRaOqtS"
+        "name": "There Are Always Other Possibilities",
+        "url": "https://open.spotify.com/album/3VAhvgDUmBYGgUlS5jAliL"
       },
       "artists": [
         {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+          "name": "Mark Rushton",
+          "url": "https://open.spotify.com/artist/3o7In5aHAnzK7WYGHY5Khx"
         }
       ],
-      "duration_ms": 346244,
-      "name": "Bethlehem (Glimpse)",
-      "url": "https://open.spotify.com/track/0yxe3iTUbWYrd6OkPdZvX5"
+      "duration_ms": 547056,
+      "name": "Severance",
+      "url": "https://open.spotify.com/track/1Xb23c8l5v0syXyCcUmpPH"
     },
     {
       "added_at": "2022-12-20 17:53:57",
@@ -1327,6 +1327,22 @@
       "duration_ms": 262691,
       "name": "Melt",
       "url": "https://open.spotify.com/track/7FHrGr96veyiK4WtdohNTv"
+    },
+    {
+      "added_at": "2022-12-20 17:53:57",
+      "album": {
+        "name": "Bethlehem",
+        "url": "https://open.spotify.com/album/0b46xV200KRIkBVcRaOqtS"
+      },
+      "artists": [
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "duration_ms": 346244,
+      "name": "Bethlehem (Glimpse)",
+      "url": "https://open.spotify.com/track/0yxe3iTUbWYrd6OkPdZvX5"
     },
     {
       "added_at": "2022-12-20 17:53:57",
@@ -1379,22 +1395,6 @@
       "duration_ms": 192000,
       "name": "Upward Swimming Fish",
       "url": "https://open.spotify.com/track/5z4mF8QSQRsABywXxYrLUB"
-    },
-    {
-      "added_at": "2022-12-20 17:53:57",
-      "album": {
-        "name": "There Are Always Other Possibilities",
-        "url": "https://open.spotify.com/album/3VAhvgDUmBYGgUlS5jAliL"
-      },
-      "artists": [
-        {
-          "name": "Mark Rushton",
-          "url": "https://open.spotify.com/artist/3o7In5aHAnzK7WYGHY5Khx"
-        }
-      ],
-      "duration_ms": 547056,
-      "name": "Severance",
-      "url": "https://open.spotify.com/track/1Xb23c8l5v0syXyCcUmpPH"
     },
     {
       "added_at": "2022-12-20 17:53:57",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-12-20 17:53:57",
       "album": {
-        "name": "Forgotten Field",
-        "url": "https://open.spotify.com/album/14NCgAUOAmREsUNIzaLOfv"
-      },
-      "artists": [
-        {
-          "name": "Suntapes",
-          "url": "https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Forgotten Field",
-      "url": "https://open.spotify.com/track/0hmCr0Xc8E0RrA5Mf5fJXp"
-    },
-    {
-      "added_at": "2022-12-20 17:53:57",
-      "album": {
         "name": "The Quiet Drift",
         "url": "https://open.spotify.com/album/07tYs3VgPhfY8sUe097xAo"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 177066,
       "name": "Unfolding (feat. Goldmund)",
       "url": "https://open.spotify.com/track/3TY0bVEJuSw1m80A9g6i9N"
+    },
+    {
+      "added_at": "2022-12-20 17:53:57",
+      "album": {
+        "name": "Forgotten Field",
+        "url": "https://open.spotify.com/album/14NCgAUOAmREsUNIzaLOfv"
+      },
+      "artists": [
+        {
+          "name": "Suntapes",
+          "url": "https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Forgotten Field",
+      "url": "https://open.spotify.com/track/0hmCr0Xc8E0RrA5Mf5fJXp"
     },
     {
       "added_at": "2022-12-20 17:53:57",
@@ -1623,26 +1623,6 @@
       "duration_ms": 266057,
       "name": "Light in Phases",
       "url": "https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin"
-    },
-    {
-      "added_at": "2022-12-20 17:53:57",
-      "album": {
-        "name": "Smooth Sailing",
-        "url": "https://open.spotify.com/album/4aszooOL9d4NAqcuRgObVa"
-      },
-      "artists": [
-        {
-          "name": "Suntapes",
-          "url": "https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6"
-        },
-        {
-          "name": "Tomas Johan Kristian",
-          "url": "https://open.spotify.com/artist/2Qo92IgDhEwpCnPL07d2TZ"
-        }
-      ],
-      "duration_ms": 107076,
-      "name": "Smooth Sailing",
-      "url": "https://open.spotify.com/track/3PgXYJK9SqK9vO0qSVNB9i"
     },
     {
       "added_at": "2022-12-20 17:53:57",
@@ -1711,6 +1691,26 @@
       "duration_ms": 227458,
       "name": "Faded Earth",
       "url": "https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh"
+    },
+    {
+      "added_at": "2022-12-20 17:53:57",
+      "album": {
+        "name": "Smooth Sailing",
+        "url": "https://open.spotify.com/album/4aszooOL9d4NAqcuRgObVa"
+      },
+      "artists": [
+        {
+          "name": "Suntapes",
+          "url": "https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6"
+        },
+        {
+          "name": "Tomas Johan Kristian",
+          "url": "https://open.spotify.com/artist/2Qo92IgDhEwpCnPL07d2TZ"
+        }
+      ],
+      "duration_ms": 107076,
+      "name": "Smooth Sailing",
+      "url": "https://open.spotify.com/track/3PgXYJK9SqK9vO0qSVNB9i"
     },
     {
       "added_at": "2022-12-20 17:53:57",

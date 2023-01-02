@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with Diddy & PARTYNEXTDOOR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,779 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,828 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 11 | [Come and See Me](https://open.spotify.com/track/6G9XqMGLEFMqHWkTIOY3Nd) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Easy 10's](https://open.spotify.com/album/2qHZsOcIglVGhu7Zf9UC6F) | 3:55 |
 | 12 | [Bitter](https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Bitter](https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp) | 2:18 |
 | 13 | [I'm Yours](https://open.spotify.com/track/4cTopCzcmxBvWE6K96RnhP) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [I'm Yours](https://open.spotify.com/album/3wg8nl3xkrTiZG3Kq3YH2d) | 3:32 |
-| 14 | [Don't Take Your Love](https://open.spotify.com/track/1d4srFfqCqXT5EpesRXAkT) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:06 |
+| 14 | [Don't Take Your Love](https://open.spotify.com/track/1GHXliRsmm1Qb40h3PKnrs) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Don't Take Your Love](https://open.spotify.com/album/2fje8BKwgRfnIADIikLTli) | 3:06 |
 | 15 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 |
 | 16 | [Open \(feat\. Majid Jordan\)](https://open.spotify.com/track/1VcORtwbt560HNpnDMyCCu) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 3:47 |
 | 17 | [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 43 | [Regrets](https://open.spotify.com/track/7bHwWinGdWkb9TT4erAaZu) | [JYDN HILL](https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2) | [Regrets](https://open.spotify.com/album/4UJx5RcaDdMef9E7molQ50) | 3:06 |
 | 44 | [Do You Wanna](https://open.spotify.com/track/57R8c5G1hnjCFNUHgdiFfC) | [Staasia Daniels](https://open.spotify.com/artist/0VLvev050tpAMCM7FeVZ0n) | [Do You Wanna](https://open.spotify.com/album/07qWqYUaNoD3bUqJfd8K9o) | 2:55 |
 | 45 | [sub me in \(feat\. Maurice Moore\)](https://open.spotify.com/track/66m6XgZHQfVrrXVfdVOHKG) | [Dylan Reese](https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy), [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [sub me in \(feat\. Maurice Moore\)](https://open.spotify.com/album/7KgCXOGLEYj6Hd8tDZSBoK) | 3:10 |
-| 46 | [Take It Slow](https://open.spotify.com/track/05ohfzEBUfCEqoQCMUARWw) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 2:32 |
+| 46 | [Take It Slow](https://open.spotify.com/track/6FNhXIXcooRrD5mZCjqPV9) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/11LYtfhFQqoEsnTRgWtBSM) | 2:32 |
 | 47 | [One of a Kind](https://open.spotify.com/track/3H2QWiGkf3TPUdpJ5mWC1i) | [Samalong](https://open.spotify.com/artist/4yOkiVMHxAhibnNCjD7C7j) | [One of a Kind](https://open.spotify.com/album/13KAvyHqU9jpuH3qCQhLZn) | 3:53 |
 | 48 | [DOLLA BILL](https://open.spotify.com/track/60KAfeoYKcZxescGw4ZjkD) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [DOLLA BILL](https://open.spotify.com/album/15dVyqRAoOdrS1ADqD7zB6) | 3:43 |
 | 49 | [ALL EARS](https://open.spotify.com/track/71npaVc8R0tKEF9avvZe7o) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [ALL EARS](https://open.spotify.com/album/0cUuScs99kjjb19BeDqB25) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Next Man](https://open.spotify.com/track/1bZGBaMyZg7GBPlrHYIf5r) | [GOODBADUGLY](https://open.spotify.com/artist/1lhpezG9iqq6YgLFcKlIA9) | [Next Man](https://open.spotify.com/album/5ogrytJDkmemHwG7cYMJ19) | 3:04 |
 | 100 | [Moments Ago](https://open.spotify.com/track/6OHfVVT9bIFWizu3XhSg3P) | [JJ Adrian](https://open.spotify.com/artist/4crJ8wTee0AgPI72R7YS77) | [Moments Ago / Yesterday Feels](https://open.spotify.com/album/77obPp4tcowHZwET3NGtBB) | 2:42 |
 
-Snapshot ID: `MTY3MjM3NjQwMCwwMDAwMDAwMGFjNzg0OTVkYmU1ZjY2ODE4MzM5ZmYwYzk5YzY4OTcz`
+Snapshot ID: `MTY3MjM3NjQwMCwwMDAwMDAwMGQyYzUwMDhmYThlNmQyZTNiZGUzMTQ4ZTZjMzY3NWM2`

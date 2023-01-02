@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,155 likes - 258 songs - 14 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,153 likes - 258 songs - 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 35 | [Let Them Know](https://open.spotify.com/track/3iEwla99ovgF0Rdla6FZm4) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 2:28 |
 | 36 | [Life Is Still Going On](https://open.spotify.com/track/3THdOskGxdJcRbp0DcS4s0) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:38 |
 | 37 | [Plot Twist](https://open.spotify.com/track/5wJL4o7k8m02m6ZM9KT0ir) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Gossip Columns](https://open.spotify.com/album/4OmqJXPhD5FOqwdg5tBsnu) | 3:47 |
-| 38 | [No Time For Tears](https://open.spotify.com/track/2Rr1INov0ckj7bLTsk9LV1) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [No Time For Tears](https://open.spotify.com/album/5uFXAG4F9SX86RS5RHWDsx) | 3:16 |
-| 39 | [Run \(with Galantis\)](https://open.spotify.com/track/1kaJ2dEM1jeXQaH7uDdyoD) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Only Honest On The Weekend \(Deluxe\)](https://open.spotify.com/album/3sG8tSb0NOMsn2nmf8v9KA) | 3:10 |
+| 38 | [Run \(with Galantis\)](https://open.spotify.com/track/1kaJ2dEM1jeXQaH7uDdyoD) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Only Honest On The Weekend \(Deluxe\)](https://open.spotify.com/album/3sG8tSb0NOMsn2nmf8v9KA) | 3:10 |
+| 39 | [No Time For Tears](https://open.spotify.com/track/2Rr1INov0ckj7bLTsk9LV1) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [No Time For Tears](https://open.spotify.com/album/5uFXAG4F9SX86RS5RHWDsx) | 3:16 |
 | 40 | [Colour](https://open.spotify.com/track/7haQE5nOcxwk0HXahP0aV3) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Colour](https://open.spotify.com/album/7xniwwZWn3QwUwPqg9NbaF) | 3:21 |
 | 41 | [Rumour Mill \(feat\. Anne\-Marie & Will Heard\)](https://open.spotify.com/track/7DwgS4noRe9dIie3QPZUWF) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [We the Generation \(Deluxe Edition\)](https://open.spotify.com/album/5q9e0KBDIjiRBYWXxaWVAG) | 4:03 |
 | 42 | [Confetti](https://open.spotify.com/track/5zQ00D9j9MkQbsd9qmenBa) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 2:47 |
@@ -267,4 +267,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 257 | [Breathe \- Extended Reggaeton Rough Mix](https://open.spotify.com/track/7m7rZmcChdxe3SphKJZtL0) | [Kar Vogue](https://open.spotify.com/artist/1P0BWH63MKkRzVDo6KENaB) | [Big Hits in Reggaeton Mix Vol\. 1](https://open.spotify.com/album/3gIlukVpz1M1t8rBYUBn0t) | 4:32 |
 | 258 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 
-Snapshot ID: `Mjc4NzU1ODUsMDAwMDAwMDAwZDYyMjAwMGQ0YWZhYzIxOWEwYWMwNDEzMDRkODBhNw==`
+Snapshot ID: `Mjc4NzcwMjUsMDAwMDAwMDA2YmRmMzc5Yzg2YjhjY2E5NDg3ZThjYzM4YTc4Mzc3Nw==`

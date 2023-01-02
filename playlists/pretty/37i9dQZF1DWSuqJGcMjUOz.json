@@ -1,12 +1,12 @@
 {
   "description": "La playlist officielle de l\u2019\u00e9dition 2022 des Francos de Montr\u00e9al!",
-  "num_followers": 2087,
+  "num_followers": 2086,
   "original_name": "Francos de Montr\u00e9al 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGQ4YmI4OGFjMGEzYzc1YzE2YjZlYjMyMWE4MmY4NDM1",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDQ4YWNkMTc4ZTI5YjFlMDU0NDk4OGJlYWExZmNhMjM1",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "L'affaire Taktika",
-        "url": "https://open.spotify.com/album/3xtr9wolduBAfl6VGezqiC"
-      },
-      "artists": [
-        {
-          "name": "Taktika",
-          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
-        },
-        {
-          "name": "Manu Boivin",
-          "url": "https://open.spotify.com/artist/6z0K48dpXmhZCfh7AYuqFs"
-        }
-      ],
-      "duration_ms": 233986,
-      "name": "Un \u00e9t\u00e9 chez nous",
-      "url": "https://open.spotify.com/track/6k9i6yRP8UIxKhHJviALZQ"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Caipirinha",
         "url": "https://open.spotify.com/album/70tCTmRLlDolCLIxPRrFUp"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 233460,
       "name": "Caipirinha",
       "url": "https://open.spotify.com/track/3ntkJVSYJIPDKBJj2uYLRa"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "L'affaire Taktika",
+        "url": "https://open.spotify.com/album/3xtr9wolduBAfl6VGezqiC"
+      },
+      "artists": [
+        {
+          "name": "Taktika",
+          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
+        },
+        {
+          "name": "Manu Boivin",
+          "url": "https://open.spotify.com/artist/6z0K48dpXmhZCfh7AYuqFs"
+        }
+      ],
+      "duration_ms": 233986,
+      "name": "Un \u00e9t\u00e9 chez nous",
+      "url": "https://open.spotify.com/track/6k9i6yRP8UIxKhHJviALZQ"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -851,26 +851,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8"
-      },
-      "artists": [
-        {
-          "name": "Hansom \u0112li",
-          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
-        },
-        {
-          "name": "Mike Clay",
-          "url": "https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "Mezcal",
-      "url": "https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Givmeall Hit Stars",
         "url": "https://open.spotify.com/album/0MEMQh52RnTAOhY9flt4Ju"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 225833,
       "name": "Encore et encore",
       "url": "https://open.spotify.com/track/4fD6FWsUZCFaq9phZERRoF"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8"
+      },
+      "artists": [
+        {
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        },
+        {
+          "name": "Mike Clay",
+          "url": "https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8"
+        }
+      ],
+      "duration_ms": 232786,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "SITKA",
-        "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9anne A. Malette",
-          "url": "https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB"
-        }
-      ],
-      "duration_ms": 218653,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Bo\u00eete aux lettres",
         "url": "https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 210920,
       "name": "Fontaine \u00e0 v\u0153ux",
       "url": "https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "SITKA",
+        "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9anne A. Malette",
+          "url": "https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB"
+        }
+      ],
+      "duration_ms": 218653,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Soleil '96",
+        "url": "https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "Si je pleure",
+      "url": "https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Sans oublier",
         "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 250469,
       "name": "Moteskano - Les sentiers de nos anc\u00eatres",
       "url": "https://open.spotify.com/track/5mevy3xuFjvc6KsYwc6ajp"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Soleil '96",
-        "url": "https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "Si je pleure",
-      "url": "https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Sablier",
-        "url": "https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ"
-      },
-      "artists": [
-        {
-          "name": "Miro",
-          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
-        }
-      ],
-      "duration_ms": 146866,
-      "name": "Perdu",
-      "url": "https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Crash (feat. Corneille)",
         "url": "https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 179936,
       "name": "Crash",
       "url": "https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Sablier",
+        "url": "https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ"
+      },
+      "artists": [
+        {
+          "name": "Miro",
+          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
+        }
+      ],
+      "duration_ms": 146866,
+      "name": "Perdu",
+      "url": "https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Je me souviens",
-        "url": "https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso"
-      },
-      "artists": [
-        {
-          "name": "Samian",
-          "url": "https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6"
-        }
-      ],
-      "duration_ms": 189027,
-      "name": "Je me souviens",
-      "url": "https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Bienvenue \u00e0 Baveuse City",
         "url": "https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 175600,
       "name": "La Presse (Baby Girl)",
       "url": "https://open.spotify.com/track/7JnfndIUMmzrMWFF9s9VgA"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Je me souviens",
+        "url": "https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso"
+      },
+      "artists": [
+        {
+          "name": "Samian",
+          "url": "https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6"
+        }
+      ],
+      "duration_ms": 189027,
+      "name": "Je me souviens",
+      "url": "https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Un singe sur l'\u00e9paule",
-        "url": "https://open.spotify.com/album/1EET3eGh9diFTxDBew3tjo"
-      },
-      "artists": [
-        {
-          "name": "Julia Daigle",
-          "url": "https://open.spotify.com/artist/2rO9smzz3qf6qGNoKIbE6x"
-        }
-      ],
-      "duration_ms": 254926,
-      "name": "Usage domestique",
-      "url": "https://open.spotify.com/track/2ZppabBSZY0rorfI5yxdln"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Poup\u00e9e Russe",
         "url": "https://open.spotify.com/album/5tY1P4kKvOPwipS8q0jbCD"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 192324,
       "name": "Vilipende\u0301s",
       "url": "https://open.spotify.com/track/5ftHDkocMB6m7yPLiZy4c7"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Un singe sur l'\u00e9paule",
+        "url": "https://open.spotify.com/album/1EET3eGh9diFTxDBew3tjo"
+      },
+      "artists": [
+        {
+          "name": "Julia Daigle",
+          "url": "https://open.spotify.com/artist/2rO9smzz3qf6qGNoKIbE6x"
+        }
+      ],
+      "duration_ms": 254926,
+      "name": "Usage domestique",
+      "url": "https://open.spotify.com/track/2ZppabBSZY0rorfI5yxdln"
     }
   ],
   "unique_name": "Francos de Montr\u00e9al 2022",

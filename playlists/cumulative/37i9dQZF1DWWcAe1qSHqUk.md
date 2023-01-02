@@ -4,7 +4,7 @@
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-98 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/2x9tGSQNrSGMnGerdaROm3)
+99 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/2x9tGSQNrSGMnGerdaROm3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [California Dreamin'](https://open.spotify.com/track/5bGiJT6XMGt0p0zFw10GhU) | [Clare Teal](https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK), [Alan Barnes](https://open.spotify.com/artist/1fwQDVu3qVJfoRDTCYgszC), [John Day](https://open.spotify.com/artist/3ks9M9kTnX3RW1wrutL4mX), [Martin Litton](https://open.spotify.com/artist/5me2C4QvqqWGNovGcn7Uc9), [Nils Solberg](https://open.spotify.com/artist/0Ca2AqwLH31PiF5TUM8Ei0), [Rod Brown](https://open.spotify.com/artist/1qkiQlFDfd13YQeOpJt313) | [Orsino's Songs](https://open.spotify.com/album/6AQqwueuswxQfiE1YobSz1) | 4:11 | 2022-10-31 | 2022-11-13 |
 | [Cara valente](https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita](https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw) | 4:42 | 2022-09-12 |  |
 | [Carta Ao Tom 74](https://open.spotify.com/track/3pemsJqLI0GXY9tlQDn8yS) | [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [20 Grandes Sucessos De Vinicius De Moreas](https://open.spotify.com/album/1nSSVKQelvXJtKEU3WSqac) | 2:41 | 2022-09-12 |  |
+| [Chega de Saudade](https://open.spotify.com/track/5Hn8fkS53OA0gTZFgmUdkR) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [A Vida Tem Sempre Razão](https://open.spotify.com/album/02DSANESTK0oRC4Ys8AfiL) | 3:54 | 2022-12-26 |  |
 | [Confession / The Other Woman](https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Confessions](https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG) | 6:43 | 2022-10-31 |  |
 | [Crazy](https://open.spotify.com/track/0ia1R0P4iFNG8UMWLSEhDn) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Crazy](https://open.spotify.com/album/5QSer2rfhnPzkzPxamHk0u) | 3:16 | 2022-09-12 |  |
 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 | 2022-09-12 |  |
@@ -50,7 +51,7 @@
 | [I'm Glad There Is You](https://open.spotify.com/track/1xlyVmdCo5lMRIzuMlAUF7) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:27 | 2022-09-12 |  |
 | [I'm In The Mood For Love](https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:29 | 2022-09-12 |  |
 | [If I See You Tomorrow](https://open.spotify.com/track/2B5mptUTfxrq1JTEUd4kTH) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Vira Talisa](https://open.spotify.com/album/1QlGWCclW1wtmodp1pD9OO) | 2:38 | 2022-10-31 | 2022-11-13 |
-| [In the Air Tonight](https://open.spotify.com/track/66BpoZSfGes57WNcqbcMfZ) | [James Farrelli](https://open.spotify.com/artist/4KrX2lMNXFQrzpkZnDDJTg) | [In the Air](https://open.spotify.com/album/2iptrf1F1MypmQ9FJEE20k) | 4:45 | 2022-10-31 |  |
+| [In the Air Tonight](https://open.spotify.com/track/66BpoZSfGes57WNcqbcMfZ) | [James Farrelli](https://open.spotify.com/artist/4KrX2lMNXFQrzpkZnDDJTg) | [In the Air](https://open.spotify.com/album/2iptrf1F1MypmQ9FJEE20k) | 4:45 | 2022-10-31 | 2023-01-02 |
 | [It Must Be Love](https://open.spotify.com/track/735WbySbM7FJGrdFHeGKXl) | [melissa elliotte](https://open.spotify.com/artist/2OYO7c5glKNbgbp5kMpGXB) | [Sunshine Moonlight](https://open.spotify.com/album/4qDJU53dUWCr9SAsVGXf6t) | 3:13 | 2022-09-12 | 2022-12-03 |
 | [It Was You](https://open.spotify.com/track/11F7j5xGRbsajmUPrwkqDP) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 5:30 | 2022-09-12 |  |
 | [Kissing a Fool](https://open.spotify.com/track/2gXTiVrPqj5ys67xrOXZCs) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 4:36 | 2022-09-12 |  |

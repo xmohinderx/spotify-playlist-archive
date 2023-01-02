@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 350259,
+  "num_followers": 350345,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjE1MzIwMCwwMDAwMDAwMDQxNDkwY2RiMmJhYmMzM2JkNzE1ZDM3ODgxYTAzMGZm",
+  "snapshot_id": "MTY3MjE1MzIwMCwwMDAwMDAwMGJlODRiZDI2MjM5NDhkZTkzMTVkZDlhNWE0MWRiYzhi",
   "tracks": [
     {
       "added_at": "2022-12-27 15:00:00",
@@ -759,22 +759,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28"
+        "name": "Get High",
+        "url": "https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
         }
       ],
-      "duration_ms": 207521,
-      "name": "Love Like A Bomb (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p"
+      "duration_ms": 220098,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -795,18 +791,22 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "A revolution",
-        "url": "https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD"
+        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28"
       },
       "artists": [
         {
-          "name": "LOVE PSYCHEDELICO",
-          "url": "https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Radio song",
-      "url": "https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X"
+      "duration_ms": 207521,
+      "name": "Love Like A Bomb (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -855,34 +855,34 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "Christmas Is All Yours",
-        "url": "https://open.spotify.com/album/1qFWhrTWFdQaFqwjsHNdl7"
+        "name": "A revolution",
+        "url": "https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD"
       },
       "artists": [
         {
-          "name": "Keishi Tanaka",
-          "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
+          "name": "LOVE PSYCHEDELICO",
+          "url": "https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp"
         }
       ],
-      "duration_ms": 208436,
-      "name": "Christmas Is All Yours",
-      "url": "https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ"
+      "duration_ms": 240133,
+      "name": "Radio song",
+      "url": "https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X"
     },
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "Get High",
-        "url": "https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK"
+        "name": "Miragesong",
+        "url": "https://open.spotify.com/album/1UlKV6Ue1vVWHmnTzisGbt"
       },
       "artists": [
         {
-          "name": "chilldspot",
-          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+          "name": "Deep Sea Diving Club",
+          "url": "https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY"
         }
       ],
-      "duration_ms": 220098,
-      "name": "Get High",
-      "url": "https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB"
+      "duration_ms": 285706,
+      "name": "Miragesong",
+      "url": "https://open.spotify.com/track/4pNncZKpSx98scdDjn6COu"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "Miragesong",
-        "url": "https://open.spotify.com/album/1UlKV6Ue1vVWHmnTzisGbt"
+        "name": "Christmas Is All Yours",
+        "url": "https://open.spotify.com/album/1qFWhrTWFdQaFqwjsHNdl7"
       },
       "artists": [
         {
-          "name": "Deep Sea Diving Club",
-          "url": "https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY"
+          "name": "Keishi Tanaka",
+          "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
         }
       ],
-      "duration_ms": 285706,
-      "name": "Miragesong",
-      "url": "https://open.spotify.com/track/4pNncZKpSx98scdDjn6COu"
+      "duration_ms": 208436,
+      "name": "Christmas Is All Yours",
+      "url": "https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
+        "name": "\u70b9\u63cf",
+        "url": "https://open.spotify.com/album/4YB963L0XoHhaa6qqOW2Gf"
+      },
+      "artists": [
+        {
+          "name": "Toko Miura",
+          "url": "https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "blur and flower",
+      "url": "https://open.spotify.com/track/69Za0q72RlvUiwaiZkJbEQ"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
         "name": "\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e40\u0e25\u0e22 (\u306a\u3093\u306b\u3082)",
         "url": "https://open.spotify.com/album/452kf0oED6IcdUW6bD7yF9"
       },
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u70b9\u63cf",
-        "url": "https://open.spotify.com/album/4YB963L0XoHhaa6qqOW2Gf"
+        "name": "friends",
+        "url": "https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8"
       },
       "artists": [
         {
-          "name": "Toko Miura",
-          "url": "https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE"
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
         }
       ],
-      "duration_ms": 258146,
-      "name": "blur and flower",
-      "url": "https://open.spotify.com/track/69Za0q72RlvUiwaiZkJbEQ"
+      "duration_ms": 229653,
+      "name": "friends",
+      "url": "https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1067,22 +1083,6 @@
       "duration_ms": 283106,
       "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
       "url": "https://open.spotify.com/track/67wpz675S04tMcORr36Psb"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
-        "name": "friends",
-        "url": "https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 229653,
-      "name": "friends",
-      "url": "https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "Chase After",
-        "url": "https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS"
-      },
-      "artists": [
-        {
-          "name": "Keishi Tanaka",
-          "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
-        },
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 245079,
-      "name": "Let Me Feel It",
-      "url": "https://open.spotify.com/track/6qpPM5slx9r1m9O8x5ngzs"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
         "name": "Time Won't Stop",
         "url": "https://open.spotify.com/album/0rQDHxRhpolHbzQYcB510w"
       },
@@ -1183,6 +1163,26 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
+        "name": "Chase After",
+        "url": "https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS"
+      },
+      "artists": [
+        {
+          "name": "Keishi Tanaka",
+          "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
+        },
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "duration_ms": 245079,
+      "name": "Let Me Feel It",
+      "url": "https://open.spotify.com/track/6qpPM5slx9r1m9O8x5ngzs"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
         "name": "\u5411\u3053\u3046\u304b\u3089",
         "url": "https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u30ed\u30de\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
-      },
-      "artists": [
-        {
-          "name": "kiki vivi lily",
-          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "\u30ed\u30de\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
         "name": "19\u2103",
         "url": "https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 253722,
       "name": "19\u2103",
       "url": "https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
+        "name": "\u30ed\u30de\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
+      },
+      "artists": [
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "HOWL",
-        "url": "https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT"
+        "name": "One Way My Love (Neon Mix)",
+        "url": "https://open.spotify.com/album/0N8WnVOavGjgjqNKpVmiop"
       },
       "artists": [
         {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "\u4e0a\u5742\u3059\u307f\u308c",
+          "url": "https://open.spotify.com/artist/5U8UElMnRxVib9zj3svQts"
         }
       ],
-      "duration_ms": 243531,
-      "name": "HOWL",
-      "url": "https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb"
+      "duration_ms": 198750,
+      "name": "One Way My Love - Neon Mix",
+      "url": "https://open.spotify.com/track/6CLeUulXsPa2AyaiVKN9OY"
     }
   ],
   "unique_name": "Tokyo Rising",

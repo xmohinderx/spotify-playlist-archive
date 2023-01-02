@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Psychedelic beat science.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,371 likes - 75 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,775 likes - 75 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 3 | [The Sensual Woman](https://open.spotify.com/track/31U21fwH5izi4fVA2f1HKa) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Very Mercenary](https://open.spotify.com/album/1V3a7mBozraa6AXQmUNxFV) | 3:36 |
 | 4 | [Dayvan Cowboy](https://open.spotify.com/track/4Y2W4zKa3q72ztbkA0r8Va) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:00 |
 | 5 | [Midnight In A Perfect World](https://open.spotify.com/track/1z6zJqayfsAiiYtQ3minb7) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l) | 4:58 |
-| 6 | [Bloodstream](https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3) | [Stateless](https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH) | [Stateless](https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS) | 5:13 |
-| 7 | [Hell Is Round The Corner](https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 3:47 |
+| 6 | [Hell Is Round The Corner](https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 3:47 |
+| 7 | [Bloodstream](https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3) | [Stateless](https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH) | [Stateless](https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS) | 5:13 |
 | 8 | [Numb](https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 3:55 |
 | 9 | [Protection](https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Tracey Thorn](https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b) | [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC) | 7:51 |
 | 10 | [Nights Introlude](https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 4:40 |
@@ -46,16 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 36 | [Chocolate Elvis](https://open.spotify.com/track/2j8H3gIfjeBhB4pfudCBZX) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Opera](https://open.spotify.com/album/6TEEsZodjlgareaeIgBHQC) | 5:02 |
 | 37 | [Unreal](https://open.spotify.com/track/0vkxviQkVKdgxEdmDncedH) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC) | [Psyence Fiction](https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY) | 5:08 |
 | 38 | [Turquoise Hexagon Sun](https://open.spotify.com/track/4xmce2Et7muv5rjmjBQq83) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:07 |
-| 39 | [Stars](https://open.spotify.com/track/5RTi3ClzRwFsso3gfYppHO) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 6:59 |
-| 40 | [The Next Shit](https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [USSR Repertoire / The Theory Of Verticality](https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv) | 2:09 |
+| 39 | [The Next Shit](https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [USSR Repertoire / The Theory Of Verticality](https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv) | 2:09 |
+| 40 | [Stars](https://open.spotify.com/track/5RTi3ClzRwFsso3gfYppHO) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 6:59 |
 | 41 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
-| 42 | [Revolutionary Woman of The Windmill \- Part Primera La Bandolera Del Molino](https://open.spotify.com/track/1Ia7VpJTEQgWn65WPg0qRE) | [Up, Bustle & Out](https://open.spotify.com/artist/0P8CKxjKGjVnIOOJSJoymP) | [One Colour Just Reflects Another](https://open.spotify.com/album/4DeywfBtRsQFApbOjDHsKt) | 5:40 |
-| 43 | [Spicy Snapper](https://open.spotify.com/track/1eXDhV76Gea8XuPqcAw0s5) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Since Then\. 2017](https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM) | 5:36 |
+| 42 | [Spicy Snapper](https://open.spotify.com/track/1eXDhV76Gea8XuPqcAw0s5) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Since Then\. 2017](https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM) | 5:36 |
+| 43 | [Revolutionary Woman of The Windmill \- Part Primera La Bandolera Del Molino](https://open.spotify.com/track/1Ia7VpJTEQgWn65WPg0qRE) | [Up, Bustle & Out](https://open.spotify.com/artist/0P8CKxjKGjVnIOOJSJoymP) | [One Colour Just Reflects Another](https://open.spotify.com/album/4DeywfBtRsQFApbOjDHsKt) | 5:40 |
 | 44 | [In / Flux](https://open.spotify.com/track/54XieTFptuMH4PcjQMpqGn) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0) | 12:14 |
 | 45 | [The Rhyme Goes On](https://open.spotify.com/track/6P5Mhl2WB7HVXQ6Yil3coB) | [Poets of Thought](https://open.spotify.com/artist/1dU3l4m2BOP4QJuUstwPMZ) | [Earth, Vol\. 1](https://open.spotify.com/album/1xK2wmIA6nazBG1orPKB4y) | 4:15 |
 | 46 | [Trigger Hippie](https://open.spotify.com/track/4f3hGEjA7BnujnDYz7gHZ6) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Who Can You Trust? / Beats & B\-Sides](https://open.spotify.com/album/7JNlNgL1TlnWn669RaEKhr) | 5:32 |
-| 47 | [Autumn Leaves](https://open.spotify.com/track/7KQSvoKOECoIdyH5CEIFc5) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Tone Tales From Tomorrow](https://open.spotify.com/album/1GZkKCcURaTItobePLur4B) | 4:01 |
-| 48 | [The bootleggers](https://open.spotify.com/track/7CUBB5yE9AtXQZANojfUUG) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 7:08 |
+| 47 | [The bootleggers](https://open.spotify.com/track/7CUBB5yE9AtXQZANojfUUG) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 7:08 |
+| 48 | [Autumn Leaves](https://open.spotify.com/track/7KQSvoKOECoIdyH5CEIFc5) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Tone Tales From Tomorrow](https://open.spotify.com/album/1GZkKCcURaTItobePLur4B) | 4:01 |
 | 49 | [Bug Powder Dust \- Kruder & Dorfmeister Dub](https://open.spotify.com/track/1UMGeDMyMUj2agDjhkUUzx) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Peter Kruder](https://open.spotify.com/artist/47EuUa98YLFZ0nw2bMQKpC), [Richard Dorfmeister](https://open.spotify.com/artist/7kVSO9W0cZoyKBEG5o3E9h) | [Lifestyle2 \- Chill Lounge Vol 1](https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9) | 6:14 |
 | 50 | [Legend of the Golden Snake \- Single Version](https://open.spotify.com/track/1LYMWLIvXHWehNAUUC32rO) | [Depth Charge](https://open.spotify.com/artist/7wFngDXS0agMESGg1qYM4u) | [Spill](https://open.spotify.com/album/49gzntLtRO6MdCYh6YfOfD) | 4:26 |
 | 51 | [Deep Shit, Pt\. 1 & 2](https://open.spotify.com/track/4p2AbJiH4eso5TE3wVqbV4) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 74 | [Five Days](https://open.spotify.com/track/749wOMW7G4HSApFFRu3JpL) | [Howie B.](https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG) | [My Left Pussyfoot](https://open.spotify.com/album/45tUfsKQT0VmV27YBSgaCt) | 5:22 |
 | 75 | [B Monkey](https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Hed Phone Sex](https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW) | 7:21 |
 
-Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMDNiNjE4NzRiNGNkNjA0OGY4YzhkODE1YTZlM2Q3MDJk`
+Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMDFhOWQ1M2RjMDg1MDhkZjQ2OTkxNjBjOTc1YzFjZjM5`

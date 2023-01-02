@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 2568,
+  "num_followers": 2633,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMDA4MDgxODJmMDQxMTE3ZjU4MWE2NDlkYjYyODM2MmYx",
+  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMDMwZDIwNDIwYzk2YWQzY2Q1MTU5MWU1MjA2N2Y3ZTBh",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -407,26 +407,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "No Me Llores",
-        "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Leby",
-          "url": "https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF"
-        }
-      ],
-      "duration_ms": 191846,
-      "name": "No Me Llores",
-      "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Vete Pal Carajo",
         "url": "https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 176146,
       "name": "Vete Pal Carajo",
       "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "No Me Llores",
+        "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Leby",
+          "url": "https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF"
+        }
+      ],
+      "duration_ms": 191846,
+      "name": "No Me Llores",
+      "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -887,6 +887,30 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Nunca Me Amo",
+        "url": "https://open.spotify.com/album/1sCGtFPVUO2xyNO5FrwXvU"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        }
+      ],
+      "duration_ms": 199641,
+      "name": "Nunca Me Amo",
+      "url": "https://open.spotify.com/track/6jCF6MQ050engg73RJnN87"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "INESTABLE",
         "url": "https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP"
       },
@@ -923,30 +947,6 @@
       "duration_ms": 268794,
       "name": "Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles)",
       "url": "https://open.spotify.com/track/53rkN7z3bKorDSIxDvqXNt"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Nunca Me Amo",
-        "url": "https://open.spotify.com/album/1sCGtFPVUO2xyNO5FrwXvU"
-      },
-      "artists": [
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        }
-      ],
-      "duration_ms": 199641,
-      "name": "Nunca Me Amo",
-      "url": "https://open.spotify.com/track/6jCF6MQ050engg73RJnN87"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Depues De Las 3",
+        "url": "https://open.spotify.com/album/3ZNE5HYtqsj9Pb89MqIeRG"
+      },
+      "artists": [
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "duration_ms": 191460,
+      "name": "Depues De Las 3",
+      "url": "https://open.spotify.com/track/1LrpAyDAR2l8jqRCr2mLo7"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "L\u00e1grimas",
         "url": "https://open.spotify.com/album/1WlgxOP7StNQO81E2sQi3d"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 165332,
       "name": "L\u00e1grimas",
       "url": "https://open.spotify.com/track/46l60sC0TGspoUcoyzYwSP"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Depues De Las 3",
-        "url": "https://open.spotify.com/album/3ZNE5HYtqsj9Pb89MqIeRG"
-      },
-      "artists": [
-        {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
-        }
-      ],
-      "duration_ms": 191460,
-      "name": "Depues De Las 3",
-      "url": "https://open.spotify.com/track/1LrpAyDAR2l8jqRCr2mLo7"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/7iSkcdgLqXakbw8EazkZK7"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 235720,
+      "name": "Good Vibes",
+      "url": "https://open.spotify.com/track/4TwIbmabI2R5XUhqptk6Ev"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Champagne",
         "url": "https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 233691,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/7iSkcdgLqXakbw8EazkZK7"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 235720,
-      "name": "Good Vibes",
-      "url": "https://open.spotify.com/track/4TwIbmabI2R5XUhqptk6Ev"
     },
     {
       "added_at": "2022-12-09 03:00:00",

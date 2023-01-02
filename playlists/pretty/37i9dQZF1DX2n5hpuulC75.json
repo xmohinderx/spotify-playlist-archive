@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 245200,
+  "num_followers": 245246,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGE2ODNjMmQ2ZTVlMWZiNGMzZDFmYmNkM2FmZGU1YWE3",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDc0ZGFkZTRjMTg2NGY2NDcwZGJiYWQ1YTUxMmViMjMw",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1031,22 +1031,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Think Like I Do",
-        "url": "https://open.spotify.com/album/43DsyHKkzPdDohddCvOqaX"
+        "name": "They Came Along",
+        "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
       },
       "artists": [
         {
-          "name": "Jye",
-          "url": "https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH"
-        },
-        {
-          "name": "FELIVAND",
-          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
+          "name": "Haulm",
+          "url": "https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Think Like I Do",
-      "url": "https://open.spotify.com/track/2qjwe0mMqOne5HVFrpvdM8"
+      "duration_ms": 357894,
+      "name": "They Came Along",
+      "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
     }
   ],
   "unique_name": "Mellow Mood",

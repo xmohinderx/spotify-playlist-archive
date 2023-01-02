@@ -465,7 +465,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 209078,
       "name": "Hear Me Now",
       "url": "https://open.spotify.com/track/2RENEC1I3hpe1PXVbqSvr6"
@@ -1529,6 +1529,28 @@
       "duration_ms": 172500,
       "name": "Time",
       "url": "https://open.spotify.com/track/1uTqxBGvEiffBv41ih1nYB"
+    },
+    {
+      "album": {
+        "name": "To The Floor (Nicky Romero Edit)",
+        "url": "https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp"
+      },
+      "artists": [
+        {
+          "name": "Loud 'N Bright",
+          "url": "https://open.spotify.com/artist/2YvMW8mwEJIohdOpAk4JcG"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "To The Floor (Nicky Romero Edit)",
+      "url": "https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m"
     },
     {
       "album": {

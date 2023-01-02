@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Colored noise to help you sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,055 likes - 454 songs - 23 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,092 likes - 454 songs - 23 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 24 | [Pink Noise in Thin Air](https://open.spotify.com/track/423jILPfvjFyvVyAfXoL8Z) | [PXL PXL](https://open.spotify.com/artist/3VsfVLFVzGpyCwlMDpusSp) | [Pink Noise in Thin Air](https://open.spotify.com/album/2xlXI4lxt51cMFohwVJrR7) | 3:51 |
 | 25 | [Refined Pink Noise \(789hz, 3\-pole, loopable\)](https://open.spotify.com/track/7KCTK9F6QJPdWTu27V0MuC) | [Ali Noise](https://open.spotify.com/artist/51qGEABC0Z9GNKIzgELIji) | [Pink Dreams](https://open.spotify.com/album/1i1ztj2IlhIQncvGLT96Fc) | 2:24 |
 | 26 | [Pink Noise 609Hz](https://open.spotify.com/track/7tGJq9NtNagYGsgSdYFhGE) | [Pinkosphere](https://open.spotify.com/artist/0DimG3LGtKy8LLl6Il4QgY) | [Floating in Pink Noise](https://open.spotify.com/album/5cbjXsWk8pWcMOCLFv6sX9) | 3:18 |
-| 27 | [Pink Noise on the Mountain](https://open.spotify.com/track/1B3d73vcqNuQPYkZXELpUW) | [Sleep Sleep Sleep](https://open.spotify.com/artist/1OqVbmth0QR4OXPVPmIEyi) | [Pink Noise](https://open.spotify.com/album/3kSg0lHjBIc2wOsLpA6TSv) | 3:57 |
+| 27 | [Pink Noise on the Mountain](https://open.spotify.com/track/1B3d73vcqNuQPYkZXELpUW) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [Pink Noise](https://open.spotify.com/album/3kSg0lHjBIc2wOsLpA6TSv) | 3:57 |
 | 28 | [Noisy Heart](https://open.spotify.com/track/0h6vTpXxtdYJp6lcTkvjIO) | [Recordings From Earth](https://open.spotify.com/artist/3ZQb2yyHzgU02WZWbMOnyU) | [Loud Tile](https://open.spotify.com/album/4Huv5Bvn7wtHzuAZRv7X8m) | 2:21 |
 | 29 | [Pink Noise for better Concentration](https://open.spotify.com/track/1GKwDgNYYjwdUA09lSI0Rn) | [Xella Machina](https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI) | [Pink Noise on my Mind](https://open.spotify.com/album/0fzzpCkWMiuwzFxibbEIYM) | 3:42 |
 | 30 | [Pink Dreams](https://open.spotify.com/track/7JezErH4l7rdIRUEDviFel) | [Chroma World](https://open.spotify.com/artist/3TIBtUQE47OmudD95MhKS2) | [Pink Dreams](https://open.spotify.com/album/53KCxVWdq7Zd0Swxzgbzac) | 3:08 |

@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 184844,
+  "num_followers": 184984,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDhmODc2YzgyZTE3MTFlZDk0NWIxYWJlZGY0NzgyMzQ4",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDBmMWU2OTU5OWFhMzY5NmM5YTMwY2ZlM2ZjZGQyOTlj",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
+      },
+      "artists": [
+        {
+          "name": "Indeep",
+          "url": "https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h"
+        }
+      ],
+      "duration_ms": 341426,
+      "name": "Last Night a D.J. Saved My Life",
+      "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Get as Much Love as You Can",
         "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
       },
@@ -331,18 +347,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
+        "name": "The Best of Delegation",
+        "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
       },
       "artists": [
         {
-          "name": "Indeep",
-          "url": "https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h"
+          "name": "Delegation",
+          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
         }
       ],
-      "duration_ms": 341426,
-      "name": "Last Night a D.J. Saved My Life",
-      "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
+      "duration_ms": 316266,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -359,22 +375,6 @@
       "duration_ms": 313493,
       "name": "Estrelar",
       "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "The Best of Delegation",
-        "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
-      },
-      "artists": [
-        {
-          "name": "Delegation",
-          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
-        }
-      ],
-      "duration_ms": 316266,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "I Can't Get Along Without You",
+        "url": "https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ"
+      },
+      "artists": [
+        {
+          "name": "Vance and Suzzanne",
+          "url": "https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "I Can't Get Along Without You",
+      "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Modern Heat EP",
         "url": "https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 428026,
       "name": "First True Love Affair - Larry Levan Remix",
       "url": "https://open.spotify.com/track/7joFZr4bgXEGyKOqswLpGd"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "I Can't Get Along Without You",
-        "url": "https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ"
-      },
-      "artists": [
-        {
-          "name": "Vance and Suzzanne",
-          "url": "https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "I Can't Get Along Without You",
-      "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -935,18 +935,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Pure Sounds of Africa",
-        "url": "https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab"
+        "name": "World",
+        "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
       },
       "artists": [
         {
-          "name": "Hugh Masekela",
-          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 413560,
-      "name": "Don't Go Lose It Baby",
-      "url": "https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6"
+      "duration_ms": 327560,
+      "name": "Exotica Dance Club",
+      "url": "https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "World",
-        "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
+        "name": "Pure Sounds of Africa",
+        "url": "https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
         }
       ],
-      "duration_ms": 327560,
-      "name": "Exotica Dance Club",
-      "url": "https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7"
+      "duration_ms": 413560,
+      "name": "Don't Go Lose It Baby",
+      "url": "https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 406533,
+      "name": "When You Wake up Tomorrow",
+      "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Summertime Groove",
         "url": "https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 352106,
       "name": "Let's Start The Dance",
       "url": "https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Rhythm Of Life",
-        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
-      },
-      "artists": [
-        {
-          "name": "James Mason",
-          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
-        }
-      ],
-      "duration_ms": 326320,
-      "name": "Sweet Power of Your Embrace",
-      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1191,50 +1191,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Love Island",
-        "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
+        "name": "Rhythm Of Life",
+        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
       },
       "artists": [
         {
-          "name": "Deodato",
-          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
+          "name": "James Mason",
+          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
         }
       ],
-      "duration_ms": 272533,
-      "name": "Whistle Bump",
-      "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
-      },
-      "artists": [
-        {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
-        }
-      ],
-      "duration_ms": 376973,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/2WNNwabbizIDP9evAIyY3K"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Groovin' You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
-      },
-      "artists": [
-        {
-          "name": "Harvey Mason",
-          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
-        }
-      ],
-      "duration_ms": 376986,
-      "name": "Groovin' You - 12\" Version",
-      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
+      "duration_ms": 326320,
+      "name": "Sweet Power of Your Embrace",
+      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1255,6 +1223,38 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Groovin' You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
+      },
+      "artists": [
+        {
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+        }
+      ],
+      "duration_ms": 376986,
+      "name": "Groovin' You - 12\" Version",
+      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Love Island",
+        "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
+      },
+      "artists": [
+        {
+          "name": "Deodato",
+          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "Whistle Bump",
+      "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Watchin' Out",
         "url": "https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 195114,
       "name": "Watchin' Out",
       "url": "https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
+      },
+      "artists": [
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "duration_ms": 376973,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/2WNNwabbizIDP9evAIyY3K"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Al Santiago Presents Yamb\u00fa",
-        "url": "https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX"
-      },
-      "artists": [
-        {
-          "name": "Yambu",
-          "url": "https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Kiss Me Again",
         "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
       },
@@ -1315,6 +1315,22 @@
       "duration_ms": 181698,
       "name": "Kiss Me Again - Mix Edit",
       "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Al Santiago Presents Yamb\u00fa",
+        "url": "https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX"
+      },
+      "artists": [
+        {
+          "name": "Yambu",
+          "url": "https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1347,22 +1363,6 @@
       "duration_ms": 587050,
       "name": "Heartbeat - Club Mix",
       "url": "https://open.spotify.com/track/7D0tsyPtjyygQEH8p7Qbic"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 406533,
-      "name": "When You Wake up Tomorrow",
-      "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Brooklyn, Bronx & Queens Band",
-        "url": "https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy"
-      },
-      "artists": [
-        {
-          "name": "The B. B. & Q. Band",
-          "url": "https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb"
-        }
-      ],
-      "duration_ms": 357760,
-      "name": "On the Beat - Full Length Mix",
-      "url": "https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Disco Baby",
         "url": "https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 229734,
       "name": "Disco Baby - Floating Points & Red Greg Edit",
       "url": "https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The Brooklyn, Bronx & Queens Band",
+        "url": "https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy"
+      },
+      "artists": [
+        {
+          "name": "The B. B. & Q. Band",
+          "url": "https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb"
+        }
+      ],
+      "duration_ms": 357760,
+      "name": "On the Beat - Full Length Mix",
+      "url": "https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o"
     },
     {
       "added_at": "2022-09-05 16:54:43",

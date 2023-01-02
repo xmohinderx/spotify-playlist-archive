@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > <a href="spotify:artist:4bL2B6hmLlMWnUEZnorEtG">Felix Jaehn</a> takes over Main Stage with his handpicked tracks for your perfect New Year's Eve party mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,679,754 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,679,965 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

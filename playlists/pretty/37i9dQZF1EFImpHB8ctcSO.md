@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3PDg3S0MIP0ktidASSh27r">Aimee Mann</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261 likes - 170 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 263 likes - 170 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 60 | [Disappeared](https://open.spotify.com/track/5Qp2RRwtmHEqR0oiCYuMti) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:24 |
 | 61 | [Crazytown](https://open.spotify.com/track/2sEqiUBNSaOqQ32g7zp6KC) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:21 |
 | 62 | [You Fall](https://open.spotify.com/track/0vFrZO3xYina3cgFJ9WxKD) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 3:35 |
-| 63 | [Little Bombs](https://open.spotify.com/track/4TSnXIBL47e8N5PXhivcHv) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:49 |
-| 64 | [Burn It Out](https://open.spotify.com/track/07I9CpmF7RBnKX4Gk9osqO) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 2:57 |
+| 63 | [Burn It Out](https://open.spotify.com/track/07I9CpmF7RBnKX4Gk9osqO) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 2:57 |
+| 64 | [Little Bombs](https://open.spotify.com/track/4TSnXIBL47e8N5PXhivcHv) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:49 |
 | 65 | [Long Shot](https://open.spotify.com/track/0mvQBGSLFaQRgTje5MP9eS) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 3:13 |
 | 66 | [Soon Enough](https://open.spotify.com/track/6T5StNKrcVKGt1DMb9TKn3) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:59 |
 | 67 | [4th Of July](https://open.spotify.com/track/3khDK8qYSpNI5ssxhsTlfH) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:21 |
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 105 | [The Other End \(Of The Telescope\)](https://open.spotify.com/track/031BORKOyhNOfhCaJEXc3R) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:51 |
 | 106 | [Sleep](https://open.spotify.com/track/1xR6ybGb38Y4qjyhyvwBWO) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU), [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r), [David Bazan](https://open.spotify.com/artist/5vwWDRwjVCilY1uYVfJfLL), [Free Form Funky Freqs](https://open.spotify.com/artist/1LdWyLwKLGGqK7BguvGVdB), [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT), [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk), [Guster](https://open.spotify.com/artist/34XlPCFfB4vT7P1ekWq9Jc), [DJ Spooky feat\. Saba Saba](https://open.spotify.com/artist/7rpaINED0k0KyUNM4A2q0E), [David Miller](https://open.spotify.com/artist/3yfCzeWQYRMJFZhZsoONty), [The Wrens](https://open.spotify.com/artist/04cetTUz2JTzXBqFKO5YB5), [BC Camplight](https://open.spotify.com/artist/3cePP77CX6XY9b0aigzrqh), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM), [The Classic Brown](https://open.spotify.com/artist/3GZRyTBNHn3vEpXjpsCujq), [Portastatic](https://open.spotify.com/artist/5YFFss1uTFY0gfMMR1f9FD) | [Rock The Net: Musicians For Network Neutrality](https://open.spotify.com/album/0mC1pbxJLsw2d4ZHgocs1o) | 4:47 |
 | 107 | [I Can't Help You Anymore](https://open.spotify.com/track/2GtwxnPQNj1uL3G8QSUoAN) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 4:52 |
-| 108 | [Beautiful](https://open.spotify.com/track/5oYOwmoEN8urUrRK6TGlGI) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:48 |
-| 109 | [\(Believed You Were\) Lucky](https://open.spotify.com/track/3Lm7hSTabr01oav0WdSsuD) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:36 |
+| 108 | [\(Believed You Were\) Lucky](https://open.spotify.com/track/3Lm7hSTabr01oav0WdSsuD) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:36 |
+| 109 | [Beautiful](https://open.spotify.com/track/5oYOwmoEN8urUrRK6TGlGI) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:48 |
 | 110 | [David Denies](https://open.spotify.com/track/0lrEeTgkmLZUuAGZTkYiqP) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 4:49 |
 | 111 | [Could've Been Anyone](https://open.spotify.com/track/6Fx1WScVq5wcDFkq514k1t) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:23 |
 | 112 | [Are You Serious?](https://open.spotify.com/track/0eEm9MOTDPedLnCq42y3jR) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 3:15 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `Mjc4NzU1ODYsMDAwMDAwMDBjMGUwNzIzY2EyZTBjMWM5NWIzMjBjYjJiYWNjNzY1ZA==`
+Snapshot ID: `Mjc4NzcwMjUsMDAwMDAwMDA2ZDdjMGE5YjJmMDQ3NDk5N2UwNDI2Y2Q3MTAxYWM1MA==`

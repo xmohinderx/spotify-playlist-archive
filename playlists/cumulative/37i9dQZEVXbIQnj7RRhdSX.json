@@ -2029,7 +2029,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 174103,
       "name": "BELLA FREGATURA",
       "url": "https://open.spotify.com/track/11H6R8nu1QxB1yGWHgzKl7"
@@ -2982,6 +2982,24 @@
     },
     {
       "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219668,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
+    },
+    {
+      "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
       },
@@ -3265,7 +3283,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 198066,
       "name": "CASA",
       "url": "https://open.spotify.com/track/2Cp5UNKv8yUO6ng4ZDflRY"
@@ -6157,7 +6175,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 198082,
       "name": "Dove Si Balla",
       "url": "https://open.spotify.com/track/5a6ABzVhqgVKI1znaI9tar"
@@ -10497,6 +10515,32 @@
       "duration_ms": 187862,
       "name": "LA DOLCE VITA",
       "url": "https://open.spotify.com/track/1A2tINguEx8NRA8WHmpUJw"
+    },
+    {
+      "album": {
+        "name": "DISUMANO",
+        "url": "https://open.spotify.com/album/6V0eR7z7L18DaMqE3162mD"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        },
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        },
+        {
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187862,
+      "name": "LA DOLCE VITA",
+      "url": "https://open.spotify.com/track/1QlNSP591TexZq7RsHeB4k"
     },
     {
       "album": {
@@ -16101,7 +16145,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 236417,
       "name": "Pastello Bianco",
       "url": "https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX"
@@ -18345,7 +18389,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 195555,
       "name": "Shakerando",
       "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
@@ -21601,7 +21645,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 172761,
       "name": "Vieni nel mio cuore",
       "url": "https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG"

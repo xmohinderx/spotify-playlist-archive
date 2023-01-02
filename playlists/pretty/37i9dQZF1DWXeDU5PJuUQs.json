@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Pablo Lescano & El Mago.",
-  "num_followers": 106667,
+  "num_followers": 106825,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMDhlNGQ1ODI1YzFmOGJjYTk0OGE5YjhiNTUyMjdkNjZi",
+  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMDIyOWM3ZDY2YWVjNDUyNmRlMDZjZDBlM2MzOTBlZDg1",
   "tracks": [
     {
       "added_at": "2022-12-02 03:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 278133,
+      "name": "Como Podr\u00e9",
+      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "Un sue\u00f1o hecho realidad",
         "url": "https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 186706,
       "name": "La pollera amarilla",
       "url": "https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 278133,
-      "name": "Como Podr\u00e9",
-      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "En Teatro del Huerto",
-        "url": "https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL"
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
       "artists": [
         {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 260755,
-      "name": "Entre el Cielo Vos y Yo - En Vivo",
-      "url": "https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN"
+      "duration_ms": 169000,
+      "name": "T\u00fa, La M\u00e1s Bella",
+      "url": "https://open.spotify.com/track/0INfS0VDSgKQS3jCDdTMOX"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+        "name": "En Teatro del Huerto",
+        "url": "https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
         }
       ],
-      "duration_ms": 169000,
-      "name": "T\u00fa, La M\u00e1s Bella",
-      "url": "https://open.spotify.com/track/0INfS0VDSgKQS3jCDdTMOX"
+      "duration_ms": 260755,
+      "name": "Entre el Cielo Vos y Yo - En Vivo",
+      "url": "https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
-        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI"
       },
       "artists": [
         {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
         }
       ],
-      "duration_ms": 328000,
-      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
-      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
+      "duration_ms": 255973,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/1mgOFzzOQkGIE7wWrsFSBL"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI"
+        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
+        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
       },
       "artists": [
         {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
         }
       ],
-      "duration_ms": 255973,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/1mgOFzzOQkGIE7wWrsFSBL"
+      "duration_ms": 328000,
+      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
+      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
     },
     {
       "added_at": "2022-12-02 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover:  Limoblaze",
-  "num_followers": 33200,
+  "num_followers": 33279,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMDY4YmRmNTUyNWRhMzM5OTM2Yzg2ODNhZDdiZDExMzdk",
+  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMGRmNWQ4NDUzOGM4NWU0ZjBmYzQzZWM1YjE1ZDI5NmEy",
   "tracks": [
     {
       "added_at": "2022-12-16 05:01:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Be My Everything (Reimagined)",
-        "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 233086,
-      "name": "Be My Everything - Reimagined",
-      "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
         "name": "Yellow Soul",
         "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 162000,
       "name": "Yellow Soul",
       "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Be My Everything (Reimagined)",
+        "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 233086,
+      "name": "Be My Everything - Reimagined",
+      "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
     },
     {
       "added_at": "2022-12-16 05:01:00",

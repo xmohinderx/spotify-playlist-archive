@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,977 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,046 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 14 | [Rockin' All Over The World](https://open.spotify.com/track/1ydpGKWD5D8tvTHWN8h58q) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 3:37 |
 | 15 | [Move It On Over](https://open.spotify.com/track/2bgsFbiStgVqxOtQ4UK3Uf) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [The Baddest Of George Thorogood And The Destroyers](https://open.spotify.com/album/5vliZHMdEeEHpTOZC2XcBw) | 4:18 |
 | 16 | [California Man](https://open.spotify.com/track/5e4kUj91oLjKxxiT8akiQV) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Heaven Tonight](https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN) | 3:44 |
-| 17 | [Going Back Home](https://open.spotify.com/track/5g3LDYg0JQaXLXx0YAAraG) | [Dr\. Feelgood](https://open.spotify.com/artist/25IRTisJjqI6JlkyCVMBsV) | [Malpractice](https://open.spotify.com/album/39Xqo3qBji9NgSuDA60fvO) | 4:00 |
-| 18 | [Let's Make It](https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:06 |
+| 17 | [Let's Make It](https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:06 |
+| 18 | [Going Back Home](https://open.spotify.com/track/5g3LDYg0JQaXLXx0YAAraG) | [Dr\. Feelgood](https://open.spotify.com/artist/25IRTisJjqI6JlkyCVMBsV) | [Malpractice](https://open.spotify.com/album/39Xqo3qBji9NgSuDA60fvO) | 4:00 |
 | 19 | [Casino Boogie](https://open.spotify.com/track/3NDEunNz7GMb6SkkPYTvd2) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 3:34 |
 | 20 | [Hot Love](https://open.spotify.com/track/7EZw2AXVKWSNq5n7cw94RF) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:58 |
 | 21 | [Sweet Little Rock 'N' Roller](https://open.spotify.com/track/6iLgfbyvQ8lRjixyIYZCW8) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Smiler](https://open.spotify.com/album/1RuMPrVES7OeG5Nam0N8mJ) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 49 | [Tars Of India](https://open.spotify.com/track/2yQTF2kyJayBzLUMBdbDQm) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 3:05 |
 | 50 | [Worry No More](https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [Gimme Some Neck](https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9) | 2:33 |
 
-Snapshot ID: `MTYzODg5Njg2OCwwMDAwMDAwMDhhNzczNGYxZmMyODM0MGI4NTU2YmVjYjY3N2NhN2Y5`
+Snapshot ID: `MTYzODg5Njg2OCwwMDAwMDAwMGFhMzAyN2I4YzYxMTMzZTc4Y2U2MTU0Y2U4ZDAzMTI1`

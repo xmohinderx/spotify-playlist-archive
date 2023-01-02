@@ -4,7 +4,7 @@
 
 > Late night chilled vibes, for those intimate moments.
 
-219 songs - 12 hr 33 min - [published](https://open.spotify.com/playlist/05s68v4iBuEFERPXDrDMju)
+220 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/05s68v4iBuEFERPXDrDMju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Darker Place](https://open.spotify.com/track/5fUzMvyRsUklP0Pdmsh9Mz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Darker Place](https://open.spotify.com/album/1kyPhLSGgMempOXgJEc9s5) | 2:48 | 2022-03-21 | 2022-06-13 |
 | [dj](https://open.spotify.com/track/3FkE7rIbfrkD5JluAGZtlt) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [dj](https://open.spotify.com/album/3muBhysPm7Fo5M7NiFLNLp) | 2:15 | 2022-10-23 |  |
 | [Dobby](https://open.spotify.com/track/6oGfhT6yp2HYGxWQQWlfRp) | [1010 Benja SL](https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK) | [Dobby](https://open.spotify.com/album/3fixsniNTj2tVAcLv3unas) | 3:17 | 2022-03-21 | 2022-07-23 |
-| [Don't Take Your Love](https://open.spotify.com/track/1d4srFfqCqXT5EpesRXAkT) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:06 | 2022-10-23 |  |
+| [Don't Take Your Love](https://open.spotify.com/track/1GHXliRsmm1Qb40h3PKnrs) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Don't Take Your Love](https://open.spotify.com/album/2fje8BKwgRfnIADIikLTli) | 3:06 | 2022-10-23 |  |
+| [Don't Take Your Love](https://open.spotify.com/track/1d4srFfqCqXT5EpesRXAkT) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:06 | 2022-10-23 | 2023-01-02 |
 | [Don't Take Your Love](https://open.spotify.com/track/35fBkyvLRrHKO4edE69LtA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Don't Take Your Love](https://open.spotify.com/album/64LOyCjv3fkbUBEYkcbbH9) | 3:06 | 2022-10-23 | 2023-01-01 |
 | [Dy\-Na\-Mi\-Tee](https://open.spotify.com/track/7aMwi1F7qqHAebvmWnKoBi) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dy\-Na\-Mi\-Tee](https://open.spotify.com/album/42T7gveXlppO28BANQalhd) | 3:02 | 2022-03-21 | 2022-07-29 |
 | [Elevate](https://open.spotify.com/track/4Bfp9heUqxCEOX74tg4UNB) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Elevate](https://open.spotify.com/album/2hmbhBs26kW4wNtzGhIZKi) | 3:37 | 2022-03-21 | 2022-07-23 |

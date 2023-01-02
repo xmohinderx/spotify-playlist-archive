@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 72963,
+  "num_followers": 72986,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDc1YWZmYzcxOGYxMjZhMDBkYzczOGFjNzY2YmY0M2Zk",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDQ4ZWM4ZjE1YWMyNmUzMzBmOTVmODRlOTMzYzc3YmRj",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Working for the Knife",
-        "url": "https://open.spotify.com/album/5z1bA7zhlWlyBgBA2rN4uE"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 158617,
-      "name": "Working for the Knife",
-      "url": "https://open.spotify.com/track/46OaeacE8RjnE49MB5B2Lt"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "I'm Every Woman (From \u201cBlack History Always / Music For the Movement Vol. 2\")",
         "url": "https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 219348,
       "name": "I'm Every Woman - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
       "url": "https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Working for the Knife",
+        "url": "https://open.spotify.com/album/5z1bA7zhlWlyBgBA2rN4uE"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 158617,
+      "name": "Working for the Knife",
+      "url": "https://open.spotify.com/track/46OaeacE8RjnE49MB5B2Lt"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -779,18 +779,22 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt"
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
       "artists": [
         {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 145700,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
+      "duration_ms": 201869,
+      "name": "Silver Into Rain",
+      "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -811,22 +815,18 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt"
       },
       "artists": [
         {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        },
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
         }
       ],
-      "duration_ms": 201869,
-      "name": "Silver Into Rain",
-      "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
+      "duration_ms": 145700,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Our Time is Blue",
-        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
       "artists": [
         {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        },
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
         }
       ],
-      "duration_ms": 218266,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
+      "duration_ms": 231986,
+      "name": "Flower (In Full Bloom)",
+      "url": "https://open.spotify.com/track/7hDwJ1WwXkFgznw0ip6kIg"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
+        "name": "Our Time is Blue",
+        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
       },
       "artists": [
         {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        },
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
         }
       ],
-      "duration_ms": 231986,
-      "name": "Flower (In Full Bloom)",
-      "url": "https://open.spotify.com/track/7hDwJ1WwXkFgznw0ip6kIg"
+      "duration_ms": 218266,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3EpDQMIbcSrvkU9g2drqz3"
+      },
+      "artists": [
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        }
+      ],
+      "duration_ms": 197223,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/39LmkwLmeETbr80Uy7HIVU"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk"
       },
@@ -1195,18 +1211,18 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3EpDQMIbcSrvkU9g2drqz3"
+        "name": "I'm a Moth!!",
+        "url": "https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a"
       },
       "artists": [
         {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
         }
       ],
-      "duration_ms": 197223,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/39LmkwLmeETbr80Uy7HIVU"
+      "duration_ms": 126545,
+      "name": "I'm a Moth!!",
+      "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1227,22 +1243,6 @@
       "duration_ms": 169411,
       "name": "inhibitions (feat. P-Lo)",
       "url": "https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "I'm a Moth!!",
-        "url": "https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a"
-      },
-      "artists": [
-        {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
-        }
-      ],
-      "duration_ms": 126545,
-      "name": "I'm a Moth!!",
-      "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Chatter",
-        "url": "https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u"
-      },
-      "artists": [
-        {
-          "name": "Jess Connelly",
-          "url": "https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN"
-        }
-      ],
-      "duration_ms": 173686,
-      "name": "Chatter",
-      "url": "https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 282110,
       "name": "Power",
       "url": "https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Chatter",
+        "url": "https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u"
+      },
+      "artists": [
+        {
+          "name": "Jess Connelly",
+          "url": "https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN"
+        }
+      ],
+      "duration_ms": 173686,
+      "name": "Chatter",
+      "url": "https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ"
     },
     {
       "added_at": "2022-09-02 04:01:00",

@@ -4,7 +4,7 @@
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-269 songs - 13 hr 9 min - not published yet
+272 songs - 13 hr 15 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Legacy](https://open.spotify.com/track/3oE6fHMIRbSTytRZxoQuIn) | [Tevvez](https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44) | [Phantom](https://open.spotify.com/album/3PJhr2ejWvavjQGlBJvEkn) | 5:01 | 2022-02-20 |  |
 | [Legend](https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO) | [Tevvez](https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44) | [Phantom](https://open.spotify.com/album/3PJhr2ejWvavjQGlBJvEkn) | 3:09 | 2022-01-21 |  |
 | [Let Me Go](https://open.spotify.com/track/7KEsiYDegGDAAQuny5nWig) | [Chestbrah](https://open.spotify.com/artist/0Xoz5H1TjoXo6E0HAkSSJy) | [Let Me Go](https://open.spotify.com/album/1IUUEZVv25X0kcOn28R8Er) | 2:49 | 2022-02-22 |  |
+| [Let Us All Unite \- Radio Edit](https://open.spotify.com/track/1nWAftISBBo5JlVLjMBahf) | [Hellfire](https://open.spotify.com/artist/7MeP0etrSP3MqevSZVqv5w) | [Let Us All Unite](https://open.spotify.com/album/3GZQNLOZqZT3V8GTZOWCVe) | 3:06 | 2023-01-01 |  |
 | [Leviathan](https://open.spotify.com/track/1EztfeK9ADt2UQH3mV9ggY) | [Esprit D'Air](https://open.spotify.com/artist/41R42bjR4KaZCo7T4NvDLD) | [Guiding Light](https://open.spotify.com/album/534XChws6xhzKrYlIjrjXx) | 4:49 | 2022-10-03 |  |
 | [LIEBE](https://open.spotify.com/track/3qlukOoDfmgfUFCPsV7dcK) | [$ B](https://open.spotify.com/artist/5qxwWzkjL7zZQJBK4g6M24) | [LIEBE](https://open.spotify.com/album/5tIcPp0ZWfBhskscTyeGoL) | 2:53 | 2022-05-13 |  |
 | [Life Eternal](https://open.spotify.com/track/70dgMHA9J81xZkjsGHcvyT) | [MYST](https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej) | [TRINITY](https://open.spotify.com/album/1MJ5okfMmxDAnr2n9jNFF6) | 3:50 | 2022-01-29 |  |
@@ -151,6 +152,7 @@
 | [MADARA](https://open.spotify.com/track/6Q1xNxPaRewcWICHQXcdfH) | [Free Flow Flava](https://open.spotify.com/artist/7BvLgunXTcIAkE1uWNbbwQ), [NKOHA](https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR) | [MADARA](https://open.spotify.com/album/5dbG8DfiCt9ngpRmRwvFzw) | 2:53 | 2022-01-31 |  |
 | [Man Of Action](https://open.spotify.com/track/6YPBEUoZDSk4ALVNK5wWu1) | [GridKiller](https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7) | [Man Of Action](https://open.spotify.com/album/1lBIS9yIWIZBYX328ia9Bu) | 3:21 | 2022-05-29 |  |
 | [Mandela Sound Effect](https://open.spotify.com/track/1I9BXxyjMtm3xc1xAGpdsl) | [Srezcat](https://open.spotify.com/artist/4Gi0jK2HXYKaUiJsfyfY2r), [Kobaryo](https://open.spotify.com/artist/3DDD75y3VzxwlnxFT0Kl5m) | [Mandela Sound Effect](https://open.spotify.com/album/563BSCOZdKx5YYWohnXy2B) | 2:59 | 2022-04-28 |  |
+| [MANTIS](https://open.spotify.com/track/0g3ngZIy6cinQ2YIVtxw3p) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [MANTIS](https://open.spotify.com/album/3Ogtpz0hNARPSfCjgcZ0Nz) | 1:56 | 2023-01-01 |  |
 | [Memories](https://open.spotify.com/track/12I7LPsa9zK4FJqQcHj5Cb) | [descent](https://open.spotify.com/artist/7LnxkP0AcgHvS1yX6xtFbR) | [Memories](https://open.spotify.com/album/3jqxMu3oeX7mTIq0bZmHDV) | 2:38 | 2022-01-22 |  |
 | [Mind Is Everything](https://open.spotify.com/track/3G5dDCVBsCIaceACm7afeX) | [Mr\. Ivex](https://open.spotify.com/artist/4rjpzgu5YnVodi62T50yjV), [Levenkhan](https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd) | [You can say Ivex](https://open.spotify.com/album/3CWET8qCZY5a01HCWTd5wZ) | 3:26 | 2022-02-15 |  |
 | [Miss the Phonk](https://open.spotify.com/track/59a48lWSW3ZoqfVQU3QIDW) | [THXWINTER PLAYA](https://open.spotify.com/artist/4JFzKh2q1FctA5CErjDgi2) | [Damn Smoking Head](https://open.spotify.com/album/2wDpI9ZWGfw2jzcv6qxA1J) | 1:58 | 2022-04-09 |  |
@@ -241,6 +243,7 @@
 | [Vajra](https://open.spotify.com/track/3O7gewdNYrqknZaXrCk0Yx) | [Dj Grimoire](https://open.spotify.com/artist/3BGxTRSXPm85rLyfwNJQ71) | [画竜顕現エトセトラ](https://open.spotify.com/album/4TZs9NXWQyfJJWF6JbpMqh) | 5:14 | 2022-03-26 |  |
 | [VANGUARD](https://open.spotify.com/track/0GPjjm9wQb8GPAGWwuZ7jS) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [VANGUARD](https://open.spotify.com/album/68AAOwj8Oi2lKWIRI5mQUV) | 2:30 | 2022-04-08 |  |
 | [VANTABLACK](https://open.spotify.com/track/3gNPEnAFeHwNDK2euRNWHr) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Netuh](https://open.spotify.com/artist/2kppis5CDjgY0jeNIFgKUG) | [VANTABLACK](https://open.spotify.com/album/5seeqwxPtvyedxT17DXoOG) | 1:59 | 2022-08-17 |  |
+| [WAKE UP AND DIE](https://open.spotify.com/track/1CSvIcL62D8c0QeiYAlTsN) | [NERGRISEN](https://open.spotify.com/artist/2xV1MUT3marCrYRA6Vuywh) | [WAKE UP AND DIE](https://open.spotify.com/album/0osuqh7bP6jKI2ssK8uEIn) | 1:35 | 2023-01-01 |  |
 | [Warcry \(An Ember Dawn Mix\)](https://open.spotify.com/track/6lW3RUd1BN4S6vxETUN338) | [Neolux](https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ) | [Warcry \(An Ember Dawn Mix\)](https://open.spotify.com/album/7cIqd0tpIdqKJKenP5q9pG) | 4:05 | 2022-04-02 |  |
 | [WARLOCK](https://open.spotify.com/track/1VeU4XBV5KcNZjbvbDyyIC) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [WARLOCK](https://open.spotify.com/album/2LtIJUsp42hqhXx9Ew9JIA) | 2:19 | 2022-02-15 |  |
 | [WARRIOR](https://open.spotify.com/track/5AMRRp5Rjp1GQsF5ubsGl9) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [WARRIOR](https://open.spotify.com/album/7kYmA4k1b50gCazI6gTjUu) | 2:10 | 2022-02-28 |  |

@@ -4,7 +4,7 @@
 
 > Pop hits to keep your workout fresh.
 
-460 songs - 23 hr 23 min - [published](https://open.spotify.com/playlist/0oNDHtHD4l8OJ21wgmsuip)
+461 songs - 23 hr 26 min - [published](https://open.spotify.com/playlist/0oNDHtHD4l8OJ21wgmsuip)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [All The Lies \(with Felix Jaehn & The Vamps\)](https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [All The Lies \(with Felix Jaehn & The Vamps\)](https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL) | 2:59 | 2022-03-25 | 2022-04-20 |
 | [All We Got \(feat\. KIDDO\)](https://open.spotify.com/track/1FP9s72rDYty6mfoOEYKnE) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [All We Got \(feat\. KIDDO\)](https://open.spotify.com/album/7wzcIKvtXDWs1VA2BMHuaY) | 3:10 | 2022-04-01 | 2022-04-21 |
 | [Another Place](https://open.spotify.com/track/2Fn4gZI3MAeWTiv7cSVxZQ) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Another Place](https://open.spotify.com/album/3PshhNStqCBXDzWm5O1VsE) | 3:33 | 2022-03-25 | 2022-04-05 |
+| [Anti\-Hero \- Kungs Remix](https://open.spotify.com/track/2oWpe2L8ypC080BxpDVuTY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Anti\-Hero \(Remixes\)](https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt) | 3:14 | 2023-01-01 |  |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-06-03 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-01 | 2022-04-18 |
 | [Attention](https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS) | 3:00 | 2022-03-25 | 2022-04-20 |
@@ -40,7 +41,7 @@
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-12-17 |  |
 | [Balance](https://open.spotify.com/track/0fcLTshOBRc4gHsAAoU4o2) | [Basha](https://open.spotify.com/artist/6ilDfUck7U8YWKaWRvhdHS) | [Balance](https://open.spotify.com/album/4jaahFYtnbamEEX6bBeFmX) | 3:08 | 2022-03-25 | 2022-04-21 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-04 | 2022-03-31 |
-| [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/3lDSWvR0FXWGXo7mhDUs3v) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:26 | 2022-04-15 |  |
+| [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/3lDSWvR0FXWGXo7mhDUs3v) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:26 | 2022-04-15 | 2023-01-02 |
 | [Bang!](https://open.spotify.com/track/068N8eRaN5sPOYITiDEhFw) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/56RLFhjkxID4ezGyQilEm4) | 2:50 | 2022-03-25 | 2022-04-21 |
 | [Bang!](https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 2:50 | 2022-07-28 |  |
 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 | 2021-12-17 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: blink-182",
-  "num_followers": 538545,
+  "num_followers": 538638,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMGQzNTIwNjkxMTk1NjYzNjYxZThkYjIzOGY1YmQyNzQ4",
+  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMDJhY2RiZTI1MGRkZTA3NDliNmQwYzg0MDZkZDU5NGU0",
   "tracks": [
     {
       "added_at": "2022-11-10 17:53:01",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "HOLY FVCK",
-        "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 171678,
-      "name": "CITY OF ANGELS",
-      "url": "https://open.spotify.com/track/2bi50NN02pkUKLKphROHd9"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Wishing You Hell",
         "url": "https://open.spotify.com/album/1JbhrcxEaF8NnGdxjTTnsa"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 194892,
       "name": "Wishing You Hell",
       "url": "https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "HOLY FVCK",
+        "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 171678,
+      "name": "CITY OF ANGELS",
+      "url": "https://open.spotify.com/track/2bi50NN02pkUKLKphROHd9"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "Sand on the Beach",
+        "url": "https://open.spotify.com/album/3vcKqp5Pque6sqEXiZvMtU"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 136510,
+      "name": "Sand on the Beach",
+      "url": "https://open.spotify.com/track/45WduJCqST7pBJPvxZ6ZgU"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "TAKE THIS CROWN (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M"
       },
@@ -659,18 +675,18 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Sand on the Beach",
-        "url": "https://open.spotify.com/album/3vcKqp5Pque6sqEXiZvMtU"
+        "name": "Love and Other Lies",
+        "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
       },
       "artists": [
         {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
         }
       ],
-      "duration_ms": 136510,
-      "name": "Sand on the Beach",
-      "url": "https://open.spotify.com/track/45WduJCqST7pBJPvxZ6ZgU"
+      "duration_ms": 159157,
+      "name": "Every Guy Ever",
+      "url": "https://open.spotify.com/track/1srdYQIXMmdqtEYsJFq8Xc"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -691,22 +707,6 @@
       "duration_ms": 153876,
       "name": "Backfired",
       "url": "https://open.spotify.com/track/2pkaP5gZboMEf5Jlrh8FXK"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "Love and Other Lies",
-        "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "Every Guy Ever",
-      "url": "https://open.spotify.com/track/1srdYQIXMmdqtEYsJFq8Xc"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1019,18 +1019,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/5roYKXhHbcu9zFQrsAbQgp"
+        "name": "Happy Never After",
+        "url": "https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL"
       },
       "artists": [
         {
           "name": "VOIL\u00c0",
           "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
         }
       ],
-      "duration_ms": 165682,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/3sYPS9z6s8UkChnhztaV50"
+      "duration_ms": 175172,
+      "name": "Cursive",
+      "url": "https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1147,22 +1151,18 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Happy Never After",
-        "url": "https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL"
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/5roYKXhHbcu9zFQrsAbQgp"
       },
       "artists": [
         {
           "name": "VOIL\u00c0",
           "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
         }
       ],
-      "duration_ms": 175172,
-      "name": "Cursive",
-      "url": "https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H"
+      "duration_ms": 165682,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/3sYPS9z6s8UkChnhztaV50"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "u look stupid",
-        "url": "https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 148897,
-      "name": "u look stupid",
-      "url": "https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Six Feet Under",
         "url": "https://open.spotify.com/album/4C8d8WgzPnrxZyJdlNgzHo"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 133124,
       "name": "Six Feet Under",
       "url": "https://open.spotify.com/track/54BhHvjtrz2eqGomjZK9mg"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "u look stupid",
+        "url": "https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 148897,
+      "name": "u look stupid",
+      "url": "https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A"
     },
     {
       "added_at": "2022-11-10 17:53:01",

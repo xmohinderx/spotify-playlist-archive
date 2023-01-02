@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 12993,
+  "num_followers": 13011,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDY1NTA2ZTRlN2ViYzIyYTJhNzRmZGY4YzY0MDVmOTI1",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDFmZmYyMGZkYzg0MDlkNjc4YWI2MjE2MTkxYzc5Y2M4",
   "tracks": [
     {
       "added_at": "2022-10-12 18:33:51",
@@ -533,6 +533,22 @@
       "url": "https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN"
     },
     {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Alley Rave",
+        "url": "https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 364099,
+      "name": "Alley Rave",
+      "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Trip",
@@ -551,22 +567,6 @@
       "duration_ms": 223880,
       "name": "Trip",
       "url": "https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Alley Rave",
-        "url": "https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc"
-      },
-      "artists": [
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        }
-      ],
-      "duration_ms": 364099,
-      "name": "Alley Rave",
-      "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -789,6 +789,22 @@
       "url": "https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw"
     },
     {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Jump Ship",
+        "url": "https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 381431,
+      "name": "Jump Ship",
+      "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
+    },
+    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Beeper Blowing Up",
@@ -807,22 +823,6 @@
       "duration_ms": 218130,
       "name": "Beeper Blowing Up",
       "url": "https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Jump Ship",
-        "url": "https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp"
-      },
-      "artists": [
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 381431,
-      "name": "Jump Ship",
-      "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -909,20 +909,20 @@
       "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "The True Secrets",
-        "url": "https://open.spotify.com/album/2l6O4WOV5Y6LceGjdsEX7i"
+        "name": "Nana",
+        "url": "https://open.spotify.com/album/75QMJvIqtyhVSYD3EdnBmt"
       },
       "artists": [
         {
-          "name": "Daniel Levak",
-          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
         }
       ],
-      "duration_ms": 384115,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/6hqwG0LqDmEgsAQvaIF945"
+      "duration_ms": 167638,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ"
     }
   ],
   "unique_name": "Minimal Tech",

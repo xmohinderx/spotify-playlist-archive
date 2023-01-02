@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-384 songs - 1 day 7 hr 9 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
+385 songs - 1 day 7 hr 13 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [In the Middle of a Kiss](https://open.spotify.com/track/507DfGB7ecKtGSi3IQArgx) | [Red Mitchell](https://open.spotify.com/artist/37qczsM1eZwCtxy0U5n0fk), [Jimmy Rowles](https://open.spotify.com/artist/5uN9BmZWzjh2YGQVni3m8D) | [Red'n Me](https://open.spotify.com/album/36gevqEUEwhKjIxmpNzojF) | 4:43 | 2022-02-10 | 2022-11-09 |
 | [In The Night](https://open.spotify.com/track/7AUmSRVIpO8u7yk8mBZs4E) | [Stefania Tallini](https://open.spotify.com/artist/1pkxVMM5bTXroF9L37toYb), [Matteo Bortone](https://open.spotify.com/artist/6Igu2eu1zPLL09auCGQqS8), [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y) | [Uneven](https://open.spotify.com/album/5q8nd3LqfzNaOfrv9VRhG8) | 4:00 | 2022-02-10 | 2022-12-06 |
 | [In The Normal World](https://open.spotify.com/track/1ZmQ6hnTsXicbT8DnOmdBi) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [In The Normal World](https://open.spotify.com/album/6AP34atxToIcX9nDZYt6W3) | 3:40 | 2022-11-12 |  |
-| [In Unforgettable Ways](https://open.spotify.com/track/5tt5XCZlIpHyrdMNNRm721) | [Dinner Club Band](https://open.spotify.com/artist/3FLF2qI9V3gVxBcvc3D2To) | [Beneath the Tide](https://open.spotify.com/album/5ew8lwhVmVfgLed2nv3Ay6) | 2:51 | 2022-11-12 |  |
+| [In Unforgettable Ways](https://open.spotify.com/track/5tt5XCZlIpHyrdMNNRm721) | [Dinner Club Band](https://open.spotify.com/artist/3FLF2qI9V3gVxBcvc3D2To) | [Beneath the Tide](https://open.spotify.com/album/5ew8lwhVmVfgLed2nv3Ay6) | 2:51 | 2022-11-12 | 2023-01-02 |
 | [Insomnia](https://open.spotify.com/track/23XpgXxMe1tkyOKeSzPmYu) | [Matthew Fries](https://open.spotify.com/artist/0aUW5XnNwhMnYzJOUyiQTV) | [Lost Time](https://open.spotify.com/album/0iB4SR1jdgeSPi4yhS4VFj) | 7:46 | 2022-09-29 | 2022-11-18 |
 | [Intangible](https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP) | [Coal Diamond Trio](https://open.spotify.com/artist/6jUiShUd9yRdlmPJlJgTad) | [Intangible](https://open.spotify.com/album/3YGiHeOdYUDi05wsYcEk6r) | 5:02 | 2022-11-12 |  |
 | [Intuitively](https://open.spotify.com/track/63rq9S2BlsNpznrOq90fP8) | [Rasmus Sørensen](https://open.spotify.com/artist/3tq6e3K4ZlYzKkF0E1wmsi), [Francesco Ciniglio](https://open.spotify.com/artist/75zzu0VU3laESlh6KrqvNj), [Jon Henriksson](https://open.spotify.com/artist/057zTnHpyusxYkVSgmOFz4) | [Traits](https://open.spotify.com/album/2ovqm4oKCDIzo3gQTaG91B) | 3:49 | 2022-06-16 | 2022-11-09 |
@@ -225,6 +225,7 @@
 | [My Cherie Amour](https://open.spotify.com/track/7DHFPzbBjip4vhw5DM9AFR) | [Jon Davis](https://open.spotify.com/artist/50COs4RSxBcXjOyOg56BZc) | [Changes over Time](https://open.spotify.com/album/6eMW0RnkkZMD7cBIznCP6i) | 4:05 | 2022-02-10 | 2022-11-29 |
 | [My Foolish Heart](https://open.spotify.com/track/6eB1aRfbz36gO0YCoKj2R4) | [Dado Moroni](https://open.spotify.com/artist/5ZWvQaDozNtEy2WY5ZhSzz), [Jesper Lundgaard](https://open.spotify.com/artist/162KggIDGRImG9BUPWKsxf), [Lee Pearson](https://open.spotify.com/artist/6zTSAPQ1M1W1pdZK9I4G1K) | [My Foolish Heart](https://open.spotify.com/album/3VqTU5Jo7zVDTv6yOBa9v4) | 8:51 | 2022-08-30 | 2022-11-12 |
 | [My Fortune](https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [My Fortune](https://open.spotify.com/album/4FEMX7bMR5J0w3cRUXOoKJ) | 4:31 | 2022-11-12 |  |
+| [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 | 2022-12-30 |  |
 | [My One and Only Love](https://open.spotify.com/track/1WJcMxYFOI7ZGXVq4P8HAn) | [Jean\-Pierre Como](https://open.spotify.com/artist/2Ljlfck4EICwQziKkapzlO), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL) | [My Days in Copenhagen](https://open.spotify.com/album/7uHalLMcXcHRQxtI8usglb) | 5:29 | 2022-09-29 | 2022-11-09 |
 | [My Reverie](https://open.spotify.com/track/4bXxeSD7lqij49IKogh7VP) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [My Reverie](https://open.spotify.com/album/2MSZ71NLAb0uAAAc29Grq8) | 3:48 | 2022-11-12 |  |
 | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq) | 4:05 | 2022-11-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: ELLEGARDEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,492 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,583 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 44 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
 | 45 | [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 |
 | 46 | [緑酒](https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [音楽](https://open.spotify.com/album/62SB9GdMdVA5dog0Om9huj) | 4:06 |
-| 47 | [Only One,Only You](https://open.spotify.com/track/0ff65hi4fvwWPQWPcaIojp) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [Only One,Only You](https://open.spotify.com/album/2aNNePD0oTIU347BYE8b2x) | 4:28 |
-| 48 | [Tsuki no Wan](https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Adapt](https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4) | 4:10 |
+| 47 | [Tsuki no Wan](https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Adapt](https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4) | 4:10 |
+| 48 | [Only One,Only You](https://open.spotify.com/track/0ff65hi4fvwWPQWPcaIojp) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [Only One,Only You](https://open.spotify.com/album/2aNNePD0oTIU347BYE8b2x) | 4:28 |
 | 49 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 |
 | 50 | [Before I Go](https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Before I Go](https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo) | 4:06 |
 
-Snapshot ID: `MTY3MjQ4Njk2NywwMDAwMDAwMGJmY2MxYTkxZTNiNWRiZTE0ZWFiZWI2MTU4ZGY0Yjg2`
+Snapshot ID: `MTY3MjQ4Njk2NywwMDAwMDAwMDYzZGNmMDdkYTA4NzQyYTQ3NWNjYjBkNTcwMjNjODZj`

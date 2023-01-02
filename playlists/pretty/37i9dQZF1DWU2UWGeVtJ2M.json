@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 140074,
+  "num_followers": 140134,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjAyMjU1NCwwMDAwMDAwMDZhZjQ0YjgyNDBhNDEwOTUxZWExMWExNDU5MWEyNGMw",
+  "snapshot_id": "MTY3MjAyMjU1NCwwMDAwMDAwMDkzNzI4OTk2MWZkNTMwMzlkMDExZTVhODMyNWUzM2Q3",
   "tracks": [
     {
       "added_at": "2022-12-26 02:42:34",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
+        "name": "Treat Me",
+        "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 149865,
+      "name": "Treat Me",
+      "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
         "name": "BALLADS 1",
         "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 158726,
       "name": "R.I.P. (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/4wJ8dJKBAxdDe5cUx8K779"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
-        "name": "Treat Me",
-        "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 149865,
-      "name": "Treat Me",
-      "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
-        "name": "While We Wait",
-        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
+        "name": "The Mannequin Song",
+        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
         }
       ],
-      "duration_ms": 181140,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
+      "duration_ms": 164197,
+      "name": "The Mannequin Song",
+      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -427,18 +427,34 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
-        "name": "The Mannequin Song",
-        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI"
       },
       "artists": [
         {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 164197,
-      "name": "The Mannequin Song",
-      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
+      "duration_ms": 180018,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 181140,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -459,22 +475,6 @@
       "duration_ms": 230964,
       "name": "fue mejor (feat. SZA)",
       "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 180018,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
         "name": "Tell Me About You (feat. Mishaal)",
         "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 194400,
       "name": "Tell Me About You (feat. Mishaal)",
       "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
+        "name": "Oasis Sky",
+        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
+      },
+      "artists": [
+        {
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+        }
+      ],
+      "duration_ms": 202991,
+      "name": "Inkeri",
+      "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
         "name": "Queen Space (with Summer Walker)",
         "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 230841,
       "name": "Queen Space (with Summer Walker)",
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
-        "name": "Oasis Sky",
-        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
-      },
-      "artists": [
-        {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
-        }
-      ],
-      "duration_ms": 202991,
-      "name": "Inkeri",
-      "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG"
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3"
       },
       "artists": [
         {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 163146,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ"
+      "duration_ms": 194820,
+      "name": "Naturally",
+      "url": "https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3"
+        "name": "Real",
+        "url": "https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG"
       },
       "artists": [
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
         }
       ],
-      "duration_ms": 194820,
-      "name": "Naturally",
-      "url": "https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI"
+      "duration_ms": 163146,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
         "name": "From You",
         "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
       },
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
-        "name": "Sixteen",
-        "url": "https://open.spotify.com/album/5Vg7mzIqprZiIEbmbblZWH"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
       },
       "artists": [
         {
-          "name": "Oscar Welsh",
-          "url": "https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST"
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
         }
       ],
-      "duration_ms": 199020,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/0SUcdi5dePAVWmhyH3m5z8"
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -1595,6 +1579,22 @@
       "duration_ms": 184000,
       "name": "About You",
       "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/5Vg7mzIqprZiIEbmbblZWH"
+      },
+      "artists": [
+        {
+          "name": "Oscar Welsh",
+          "url": "https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST"
+        }
+      ],
+      "duration_ms": 199020,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/0SUcdi5dePAVWmhyH3m5z8"
     },
     {
       "added_at": "2022-12-26 02:42:34",

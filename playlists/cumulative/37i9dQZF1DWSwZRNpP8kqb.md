@@ -4,7 +4,7 @@
 
 > Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
 
-122 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/7nXcjXNUK7S3A7KHXp1lNb)
+123 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/7nXcjXNUK7S3A7KHXp1lNb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Amiga Tierra Querida](https://open.spotify.com/track/2ajI1Zeed4VA6l8h5bXQkD) | [Las Cullen](https://open.spotify.com/artist/3aqZ7IEX7kdnBfr08TvMHf) | [Ruta 9](https://open.spotify.com/album/6PmRqkGtEiJEoGgvrboqgy) | 3:18 | 2022-09-06 |  |
 | [Amor del Monte](https://open.spotify.com/track/23BlW00INye3PrZl18b1uT) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Despertar](https://open.spotify.com/album/3wzVIA9ktCBYnUFXr3XAl8) | 2:36 | 2022-01-14 |  |
 | [Amor en Zamba](https://open.spotify.com/track/1NhkAYwOuw8I2jAPlTL1vK) | [Carolina Centurión](https://open.spotify.com/artist/1BwJfy91G91JVvEVM2DEnS) | [Amor en Zamba](https://open.spotify.com/album/1ekZoZ4lCQMBATHusbg5Cz) | 4:23 | 2022-01-14 |  |
-| [Astilla de Tus Montes](https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b) | [Rocío Sanjurjo Abalos](https://open.spotify.com/artist/6jBoGQrIq53YHEI7nnaqr5), [Darío Barozzi](https://open.spotify.com/artist/7wWcoNAI3kXg6vBcVYV74Z) | [Anidar](https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD) | 2:36 | 2022-01-14 |  |
+| [Astilla de Tus Montes](https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b) | [Rocío Sanjurjo Abalos](https://open.spotify.com/artist/6jBoGQrIq53YHEI7nnaqr5), [Darío Barozzi](https://open.spotify.com/artist/7wWcoNAI3kXg6vBcVYV74Z) | [Anidar](https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD) | 2:36 | 2022-01-14 | 2023-01-02 |
 | [Asuntos Pendientes](https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 | 2022-01-14 |  |
 | [Ay Chiquita](https://open.spotify.com/track/3tr24uGSSephvL4AqPxmfT) | [Alejandra Sosa](https://open.spotify.com/artist/4UW2J8cMmrhltV0CqKKIPO) | [Desde el Alba](https://open.spotify.com/album/01gWQ34wnl9b9q8B6YwhLQ) | 2:55 | 2022-01-14 | 2022-08-19 |
 | [Baguala para las dos](https://open.spotify.com/track/6wSRHnHUBnDKJsa2n4QkDx) | [Irupé Tarragó Ros](https://open.spotify.com/artist/5gE09c2quqhnwBx1nqqRbH), [Laura Ros](https://open.spotify.com/artist/2NZq21Z6d2LUqrGV8TCpeK) | [Jazmín](https://open.spotify.com/album/3CifXREMYGTc2t92VDe4k3) | 3:58 | 2022-01-14 | 2022-08-13 |
@@ -114,6 +114,7 @@
 | [Tanto Amor](https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Tanto Amor](https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5) | 3:46 | 2022-05-13 |  |
 | [Tanto Amor](https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Tanto Amor](https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL) | 2:42 | 2022-09-06 |  |
 | [Tarareando](https://open.spotify.com/track/5fLx7hgsaS7EVNywp5OX4v) | [Verónica Parodi](https://open.spotify.com/artist/2gKJo1n1Do1VPhGp7SBFTn), [Lula Parodi](https://open.spotify.com/artist/5QzVgcaaezCWAOZ1snUhgo), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Tarareando](https://open.spotify.com/album/14557MiUml9MPmuxV4E2BZ) | 4:25 | 2022-01-14 | 2022-09-07 |
+| [Tarareando](https://open.spotify.com/track/57xg7b2ktHnzQv3l5Vo2Oc) | [Verónica Parodi](https://open.spotify.com/artist/2gKJo1n1Do1VPhGp7SBFTn), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Lula Parodi](https://open.spotify.com/artist/5QzVgcaaezCWAOZ1snUhgo) | [Tarareando, Con los Pies Descalzos](https://open.spotify.com/album/0svY4zLKY4AAmAY6ZgwvUk) | 4:27 | 2022-12-09 |  |
 | [Tierra, Tan Sólo](https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Tierra, Tan Sólo](https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar) | 3:52 | 2022-01-14 |  |
 | [Tren Del Cielo](https://open.spotify.com/track/7nQYmGq7BKQmmHuX5BWauX) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalia Pastorutti](https://open.spotify.com/artist/3dQbT1d8rcXcVBcOR396Kt) | [Libre](https://open.spotify.com/album/2ssKqkGiSqz4Zv1V3nFSN8) | 3:30 | 2022-01-14 |  |
 | [Tres Cerritos](https://open.spotify.com/track/1ojVanhVcmk2OrrTZDGhQy) | [Sara Mamani](https://open.spotify.com/artist/4ZgW26OroMoXsH8Tb7nHA3) | [Trazos](https://open.spotify.com/album/53Q0VkXRSkBMMQhdAMYpeF) | 4:16 | 2022-01-14 | 2022-07-29 |

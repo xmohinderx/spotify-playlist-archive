@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,577 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,525 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 43 | [U Will Know \- Extended Version](https://open.spotify.com/track/5bM3IhiYoYSK9VjAux2px8) | [B.M.U\. \(Black Men United\)](https://open.spotify.com/artist/6rb2nWF3vuIdxcT8Fci2v4) | [U Will Know](https://open.spotify.com/album/2mbDqpuAcNshFdztxXPBrz) | 4:25 |
 | 44 | [Guarding The Gates \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/0vxTKTxKoTmljpT7gb4U1h) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Guarding The Gates \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/5dLSIo9cqbNiSRZNw4C6am) | 6:00 |
 | 45 | [S.O.T.L\. \(Silence of the Lambs\) \[feat\. Lil Wayne\]](https://open.spotify.com/track/1tXCF7TwDnuHRgwQ63FeM5) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [S.O.T.L\. \(Silence of the Lambs\) \[feat\. Lil Wayne\]](https://open.spotify.com/album/6xBCjXyKJPnuCXt7xb7MpL) | 3:11 |
-| 46 | [Fuck Tha Police](https://open.spotify.com/track/3TE9GbcsnQrxUrqpdpb8I0) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton \(Music From The Motion Picture\)](https://open.spotify.com/album/1rMnLDmzyEBRiCj7yoGK2n) | 5:15 |
-| 47 | [Say It Loud \- I'm Black And I'm Proud \- Pt\. 1](https://open.spotify.com/track/5h8ve1B7Gr3k4W0WXAgLxE) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The 50th Anniversary Collection](https://open.spotify.com/album/1pHE92AvWAt4IIRUCVFnEl) | 2:47 |
+| 46 | [Say It Loud \- I'm Black And I'm Proud \- Pt\. 1](https://open.spotify.com/track/5h8ve1B7Gr3k4W0WXAgLxE) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The 50th Anniversary Collection](https://open.spotify.com/album/1pHE92AvWAt4IIRUCVFnEl) | 2:47 |
+| 47 | [Fuck Tha Police](https://open.spotify.com/track/3TE9GbcsnQrxUrqpdpb8I0) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton \(Music From The Motion Picture\)](https://open.spotify.com/album/1rMnLDmzyEBRiCj7yoGK2n) | 5:15 |
 | 48 | [Black \(feat\. A$AP Ferg\)](https://open.spotify.com/track/5We8lGFNpA1IkHAfIJU9XM) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Black \(feat\. A$AP Ferg\)](https://open.spotify.com/album/0AiPybqmqPPW61dDdA8B7m) | 3:54 |
 | 49 | [Africa](https://open.spotify.com/track/6FTBZdL2sXXUSBXMwrQTut) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:13 |
 | 50 | [I Cry](https://open.spotify.com/track/3rDZ6pStaJhzk1mXjDyOfR) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [I Cry](https://open.spotify.com/album/1wztw3SRnkENNyMW2o5wmy) | 3:38 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 59 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
 | 60 | [True To The Game](https://open.spotify.com/track/01XVwBiMgmGt5Q3GO1YNp9) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj) | 4:10 |
 
-Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMDI4MTEyYWNhMjliNmNlYThhZjZkNjg3MjNiZTA3M2Y0`
+Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMDE5OWUyZWMzNGYzYjRlNDA0MDI0ZGQwOWRmZjllYjlj`

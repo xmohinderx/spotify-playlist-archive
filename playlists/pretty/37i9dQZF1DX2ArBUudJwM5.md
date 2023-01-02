@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Las artistas que marcaron el año con Nicki Nicole en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,483 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,499 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 11 | [Ganas](https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:14 |
 | 12 | [GABBANA](https://open.spotify.com/track/2wxduF3ZwN5adsNjqfcysB) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [GABBANA](https://open.spotify.com/album/11CEP18aU8lXxZbQEv3wsF) | 2:51 |
 | 13 | [Será Mi Culpa?](https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Será Mi Culpa?](https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW) | 2:19 |
-| 14 | [Jefa](https://open.spotify.com/track/1K2h9Y50wXiRsENQHLydZO) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 2:15 |
-| 15 | [Escucha Tu Cora](https://open.spotify.com/track/6TYCkOfYLUTD4niAzDmSew) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Escucha Tu Cora](https://open.spotify.com/album/0LLBcTqqAC0tEYhOLyrxLf) | 2:57 |
+| 14 | [Escucha Tu Cora](https://open.spotify.com/track/6TYCkOfYLUTD4niAzDmSew) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Escucha Tu Cora](https://open.spotify.com/album/0LLBcTqqAC0tEYhOLyrxLf) | 2:57 |
+| 15 | [Jefa](https://open.spotify.com/track/1K2h9Y50wXiRsENQHLydZO) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 2:15 |
 | 16 | [Lo Que Dicen de Mí](https://open.spotify.com/track/7qyAsohYX9IQVCUkzkJ1dY) | [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Lo Que Dicen de Mí](https://open.spotify.com/album/2xh8jQdye3snS91DyUWJjH) | 3:23 |
 | 17 | [CHROME](https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [dayvan](https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [CHROME](https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG) | 2:40 |
 | 18 | [Me Va Muy Bien](https://open.spotify.com/track/35PyAwHXwuAzmUAPLEArgy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Me Va Muy Bien](https://open.spotify.com/album/6xgKnmMwkoGcG13zn8fZVf) | 2:21 |
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 22 | [Sushi en Lata](https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:07 |
 | 23 | [AREA 69](https://open.spotify.com/track/7zwr2S6zTLQqt3IQ4wpht1) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [AREA 69](https://open.spotify.com/album/0aI5tf7kRiGIfA3X7fC7ez) | 2:37 |
 | 24 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 |
-| 25 | [No lo voy a lamentar](https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No lo voy a lamentar](https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml) | 2:58 |
-| 26 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
+| 25 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
+| 26 | [No lo voy a lamentar](https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No lo voy a lamentar](https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml) | 2:58 |
 | 27 | [Una en un Millón](https://open.spotify.com/track/0E0C94sIBhDdOeMiGXQ7VK) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE) | [Una en un Millón](https://open.spotify.com/album/3y47sRz2AesOQzvB5UehFh) | 2:52 |
 | 28 | [Afuera](https://open.spotify.com/track/2ERKyKVKoNmmNP0QfvzGQd) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Afuera](https://open.spotify.com/album/0RZ0aiNBQ1HnPqYTq3R5o3) | 3:27 |
 | 29 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 |
-| 30 | [Último Intento](https://open.spotify.com/track/5N46aoYA89KyIT6FN2qeW7) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Que Me Duela](https://open.spotify.com/album/2Tppy6h0ayWLfO2F4YLsQh) | 3:04 |
-| 31 | [1312 \(Portarme Mal\)](https://open.spotify.com/track/1kGTOTvzDICyz3BiTNQEq5) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 3:38 |
+| 30 | [1312 \(Portarme Mal\)](https://open.spotify.com/track/1kGTOTvzDICyz3BiTNQEq5) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 3:38 |
+| 31 | [Último Intento](https://open.spotify.com/track/5N46aoYA89KyIT6FN2qeW7) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Que Me Duela](https://open.spotify.com/album/2Tppy6h0ayWLfO2F4YLsQh) | 3:04 |
 | 32 | [Vigilantes del Espejo](https://open.spotify.com/track/1QjFddBhVe7TQXuD0Q9qbh) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Vigilantes del Espejo](https://open.spotify.com/album/45PnYxsAXPl6Ytmd2qJQI6) | 2:08 |
 | 33 | [Dwele](https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Dwele](https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz) | 3:12 |
 | 34 | [Diabla](https://open.spotify.com/track/3VjmE2R9lWcmj8UCmknuhS) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Ansiedad](https://open.spotify.com/track/7h7SgRb5teNxvfkcMLFabO) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Vulnerable](https://open.spotify.com/album/0uyFaEhSZngTXmQn2E3wvR) | 2:41 |
 | 50 | [Rota](https://open.spotify.com/track/5flqJsQDTDxJ2i2269Be2P) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Rota](https://open.spotify.com/album/1TTZVw7gOyWXzJ1yIttZTS) | 4:15 |
 
-Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMGMwNzllODBmNGI0N2E5YzdhMGQ2MTA5NDFlMzE2NzJl`
+Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMDllOGEyZGFiMTNkMTU1YmE2MDcwZDM0NTg5N2FiYzIx`

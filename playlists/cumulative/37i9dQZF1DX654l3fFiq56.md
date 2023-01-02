@@ -4,7 +4,7 @@
 
 > 雞年生的人謙虛謹慎、端莊尊貴，而且經常是眾人的注目焦點哦！看看有哪些歌手吧！Cover: 林俊傑 \(JJ Lin\)
 
-39 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/2TEJLTWYDkfTxvlZ3EebJ4)
+40 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/2TEJLTWYDkfTxvlZ3EebJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Be Your Sunshine](https://open.spotify.com/track/4Z0x5o2SW2hm2BbvAejbuy) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Reset](https://open.spotify.com/album/1uz1ah9nwO6YjBh3GvloWt) | 3:35 | 2022-01-11 |  |
 | [COLORFUL](https://open.spotify.com/track/4oNbnRaCAk6NNNVkvns7xV) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [BOARDING](https://open.spotify.com/album/32zpkIvqSz1poGJQo1pww3) | 3:36 | 2021-01-23 | 2022-01-12 |
 | [feels like a remix](https://open.spotify.com/track/3dP1XtLiQTjMUQZcdum9XS) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [feels like a remix](https://open.spotify.com/album/2OeoJixbyHMhmRzJm3ok3o) | 3:49 | 2022-01-11 |  |
-| [一定會](https://open.spotify.com/track/2W3RHGoIiSACvtk51Ehhxi) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/1HM6brsnjlgf9bKaGGuibb) | 3:27 | 2022-01-11 |  |
+| [一定會](https://open.spotify.com/track/2W3RHGoIiSACvtk51Ehhxi) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/1HM6brsnjlgf9bKaGGuibb) | 3:27 | 2022-01-11 | 2023-01-02 |
+| [一定會](https://open.spotify.com/track/2wl5Jlf09WAV7LIVUNK594) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/4SkvbVaPeZmASoDDvFnsrO) | 3:27 | 2022-01-11 |  |
 | [交換餘生](https://open.spotify.com/track/4IhGnQF2goYkwUYgHB8ZFh) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [倖存者](https://open.spotify.com/album/7bBQS2zo1JimKeuVIqVpaH) | 4:36 | 2021-01-23 | 2022-01-12 |
 | [人生不能沒副歌](https://open.spotify.com/track/1pEQ22t3wBzQR1uSfNvwtT) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [Ella Show 娛樂無限公司](https://open.spotify.com/album/2U8YBsUFU8w41j81W4PFBW) | 3:23 | 2022-01-11 |  |
 | [你就是我最愛的精選](https://open.spotify.com/track/2EaQZv4NY0IF94plEbggeb) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) | [你就是我最愛的精選\(傳世音樂中篇\)](https://open.spotify.com/album/5iHnv40l91J3dihyLerHwW) | 3:25 | 2022-01-11 |  |

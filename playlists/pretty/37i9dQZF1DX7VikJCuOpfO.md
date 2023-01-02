@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Luis R Conriquez, Jessie Uribe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,056 likes - 127 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,065 likes - 127 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 89 | [Por Siempre Serás Mía](https://open.spotify.com/track/5AYT35hh3WcMoZnL2esSFx) | [Rogelio Martinez](https://open.spotify.com/artist/7o6sbyEJZOSvb84L987hVH) | [La Historia](https://open.spotify.com/album/1S1vrxaJ7yYL5j34xya1i0) | 3:31 |
 | 90 | [La Derrota](https://open.spotify.com/track/3CbJo5BR6Sbr708oJ9uic6) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6) | [La Derrota](https://open.spotify.com/album/0OLfv4jBTgcTLw42kEHJ4I) | 3:06 |
 | 91 | [Con Todo y Mi Tristeza \- Live](https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [Con Todo y Mi Tristeza \(Live\)](https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL) | 4:18 |
-| 92 | [Una Tarde De Abril](https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Una Tarde De Abril](https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh) | 2:53 |
+| 92 | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/track/0LPpHtoUCbSLEXno1CF1kW) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/album/7jg0q5OAZYGDL808LxnpRb) | 2:53 |
 | 93 | [Nadie Me Cree](https://open.spotify.com/track/3fpxOreB9Suo6mZD8xata4) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Nadie Me Cree](https://open.spotify.com/album/4YzXxSlNCqf8ofNuPNaCkO) | 3:28 |
-| 94 | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/track/0LPpHtoUCbSLEXno1CF1kW) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/album/7jg0q5OAZYGDL808LxnpRb) | 2:53 |
+| 94 | [Una Tarde De Abril](https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Una Tarde De Abril](https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh) | 2:53 |
 | 95 | [Siempre Te Voy A Recordar](https://open.spotify.com/track/2QW4BERfECAthx967SSNy5) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Siempre Te Voy A Recordar](https://open.spotify.com/album/0uEVN2fgECxF04lRe8IiJh) | 3:07 |
 | 96 | [¿Qué Le Echan al Tequila?](https://open.spotify.com/track/3e6nJ0bEkMA5j042TkZpua) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [¿Qué Le Echan al Tequila?](https://open.spotify.com/album/4znXFsawbU18ZIxAw2EsS2) | 2:42 |
 | 97 | [Viento](https://open.spotify.com/track/5RnXVDdILr94evzMVEtFuH) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Viento](https://open.spotify.com/album/2A7c33rJO2tYtXUxjUB9rr) | 3:20 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 126 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/7CnmrsgrDklemSrdq8tuzL) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 3:05 |
 | 127 | [Probablemente](https://open.spotify.com/track/3WVloZ8Z5h6vgKQ7wFhi2Q) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Festivo](https://open.spotify.com/album/5dpj0D8wTg7QFG5VMashbU) | 3:53 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDk0MDUyYzczN2JmZjViMjQ3MDk5ZmY1MmUzNWMwYTU2`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGRjNzIxMjQ0ODMzMmIyOWQxZDMyZDZjNmZhNGI2NjNk`

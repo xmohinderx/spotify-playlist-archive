@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-562 songs - 2 day 8 hr 57 min - [published](https://open.spotify.com/playlist/5L4JSSwDi8JK1xvphQcxXZ)
+563 songs - 2 day 9 hr 3 min - [published](https://open.spotify.com/playlist/5L4JSSwDi8JK1xvphQcxXZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Goliath](https://open.spotify.com/track/4YVVZmgNA9TA9V1vxYogCl) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Goliath](https://open.spotify.com/album/3kf6FVC5PEX0HyhGVoLYcs) | 7:18 | 2019-12-02 | 2020-06-12 |
 | [Goodbyes](https://open.spotify.com/track/6Mmfn16y9FPXhjvneVFE9e) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Goodbyes](https://open.spotify.com/album/0yLqr3ASNFW3E2bCwMRkGv) | 7:46 | 2019-10-24 | 2021-06-19 |
 | [Gravity](https://open.spotify.com/track/5DhcUBjJbFk2crXo2CgiKO) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Love Will Set U Free](https://open.spotify.com/album/5mOPJyGANs9UdcjZjuQZZH) | 5:29 | 2022-01-07 | 2022-11-20 |
+| [Gravity](https://open.spotify.com/track/5EGaUEnzZjoNiIlFzbyNK1) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 5:29 | 2022-11-14 |  |
 | [Gravity \(feat\. Laura Korinth\) \- Edit](https://open.spotify.com/track/30WnQsvwFeYEd9k08vV7Dl) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Laura Korinth](https://open.spotify.com/artist/060duYsbrXFx0FDnlhs72T) | [Gravity \(feat\. Laura Korinth\)](https://open.spotify.com/album/1UjgRZl7nyQMN6GDaDVlCp) | 3:36 | 2019-08-06\* | 2019-09-13 |
 | [Gravity \(feat\. RY X\) \- Edit](https://open.spotify.com/track/2HefMwA4H1k9WasDkTM5wk) | [Nocturnal Sunshine](https://open.spotify.com/artist/1BiGjy3Kg99ZgL7E2Qb4Td), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Gravity \(feat\. RY X\)](https://open.spotify.com/album/1fyCKJgmxG0Vc88xyzjUqz) | 3:01 | 2020-01-23 | 2021-10-14 |
 | [Gravity Field](https://open.spotify.com/track/7pzWzk7IuGVG7L7ll5bR3g) | [Abe](https://open.spotify.com/artist/4DuSBVCmI9rMlrIHlS7buZ) | [Across the Storm](https://open.spotify.com/album/1rpKLDdduIHaoA56sgm8cm) | 7:11 | 2019-08-06\* | 2020-06-12 |
@@ -378,7 +379,7 @@
 | [Polymid](https://open.spotify.com/track/6Ob7lH8xFS2HYPnkFsdzrl) | [Renga Weh](https://open.spotify.com/artist/28xBr8Qn3mikTNu5yswXYR) | [Mera](https://open.spotify.com/album/7fg9iODTa8OBPcgrtSXv7p) | 7:11 | 2020-01-16 | 2020-07-18 |
 | [Portal](https://open.spotify.com/track/4Z1FN3padWsSOrvisQWlKj) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Portal](https://open.spotify.com/album/30sRKwQaX8DwjJqybgCviM) | 7:51 | 2021-03-20 | 2021-06-18 |
 | [Possibility](https://open.spotify.com/track/4iGbXLToGrUb72g1gqOl3r) | [Re.You](https://open.spotify.com/artist/3AE5c8fBFJYdxXHCSXAyVx) | [Possibilities EP](https://open.spotify.com/album/63NFtCTyYrCcI6sDi4NpWQ) | 6:41 | 2019-12-23 | 2020-05-20 |
-| [Postquam](https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Postquam](https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p) | 8:18 | 2021-09-04 |  |
+| [Postquam](https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Postquam](https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p) | 8:18 | 2021-09-04 | 2023-01-02 |
 | [Prism feat\. Alissa Brianna \- Lauren Flax Remix](https://open.spotify.com/track/7LijLY7MOTsEYX6NEqKcvj) | [The Carry Nation](https://open.spotify.com/artist/0PDEs0724hDGxKb5vD5hj1), [Alissa Brianna](https://open.spotify.com/artist/5vdWcFb8KRasq8jiyCRsbJ), [Lauren Flax](https://open.spotify.com/artist/1LUYSrytHIC78JbMgFBIG7) | [Prism feat\. Alissa Brianna \(Remixes\)](https://open.spotify.com/album/07s2tKuj0clpbNxBagMKVI) | 6:48 | 2019-08-06\* | 2019-09-19 |
 | [Prisma \- Klanglos Remix \- Radio Edit](https://open.spotify.com/track/512m11L55vWoUbqrkObdCz) | [Girlwoman](https://open.spotify.com/artist/24rqTvJDFy2t2xgCxsN2f0), [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Prisma \(Klanglos Remix\)](https://open.spotify.com/album/147QdcYieTKdMrzIvs2X8h) | 3:28 | 2022-04-04 |  |
 | [Protection](https://open.spotify.com/track/6gR1tZQ9cs1I6Ln7soMYLL) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Protection](https://open.spotify.com/album/6OKyLjichDzXZrbQF5TyTc) | 4:17 | 2021-08-05 | 2022-07-28 |

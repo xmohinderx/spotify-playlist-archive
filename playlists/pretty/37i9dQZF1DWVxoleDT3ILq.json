@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Mec\u00e1nico",
-  "num_followers": 126953,
+  "num_followers": 126957,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMGRhNGU4Y2JmZjI4ZjUzODhiYzQ5MzcyYjhiMWZiNDlk",
+  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMDU1ZmNhMTczMDA4NjgyNzE0NDliZjNhMzU5YzllODA2",
   "tracks": [
     {
       "added_at": "2022-12-23 03:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Pajarito",
+        "url": "https://open.spotify.com/album/24g6fF66JD00LheckA50yw"
+      },
+      "artists": [
+        {
+          "name": "Amapola",
+          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
+        }
+      ],
+      "duration_ms": 209285,
+      "name": "Pajarito",
+      "url": "https://open.spotify.com/track/5fXT9T9jLZgQkLKs0qwwhT"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "paterson",
         "url": "https://open.spotify.com/album/5URw6mtoVChP5GD5la6RbF"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 282490,
       "name": "paterson",
       "url": "https://open.spotify.com/track/3DUKYkLS0M2kM6m7tzjipR"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Pajarito",
-        "url": "https://open.spotify.com/album/24g6fF66JD00LheckA50yw"
-      },
-      "artists": [
-        {
-          "name": "Amapola",
-          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
-        }
-      ],
-      "duration_ms": 209285,
-      "name": "Pajarito",
-      "url": "https://open.spotify.com/track/5fXT9T9jLZgQkLKs0qwwhT"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
+      },
+      "artists": [
+        {
+          "name": "Andres",
+          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
+        }
+      ],
+      "duration_ms": 161531,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Papel",
         "url": "https://open.spotify.com/album/1qmqSiUdglS1nHtMpGDFAt"
       },
@@ -631,34 +647,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
+        "name": "Ni\u00f1a",
+        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
       },
       "artists": [
         {
-          "name": "Andres",
-          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
         }
       ],
-      "duration_ms": 161531,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Hace 10 A\u00f1os",
-        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
-      },
-      "artists": [
-        {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Hace 10 A\u00f1os",
-      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
+      "duration_ms": 200245,
+      "name": "Ni\u00f1a",
+      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Ni\u00f1a",
-        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
+        "name": "Hace 10 A\u00f1os",
+        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
       },
       "artists": [
         {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
         }
       ],
-      "duration_ms": 200245,
-      "name": "Ni\u00f1a",
-      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+      "duration_ms": 184250,
+      "name": "Hace 10 A\u00f1os",
+      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Al Norte",
+        "url": "https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp"
+      },
+      "artists": [
+        {
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+        }
+      ],
+      "duration_ms": 173336,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Mi querida tempestad (en un vaso de agua)",
         "url": "https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 177428,
       "name": "Mi querida tempestad (en un vaso de agua)",
       "url": "https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Al Norte",
-        "url": "https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp"
-      },
-      "artists": [
-        {
-          "name": "Los Animales Tambi\u00e9n Se Suicidan",
-          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
-        }
-      ],
-      "duration_ms": 173336,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "El Encanto Del Fuego",
-        "url": "https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97"
-      },
-      "artists": [
-        {
-          "name": "Paracaidistas",
-          "url": "https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "Mirandonos",
-      "url": "https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Frenes\u00ed (Te Perd\u00ed)",
         "url": "https://open.spotify.com/album/0l6tqre46Ufm049zR5vQUC"
       },
@@ -975,8 +959,24 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "La Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/17hJrkocBoKtoCCEHilJNk"
+        "name": "El Encanto Del Fuego",
+        "url": "https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97"
+      },
+      "artists": [
+        {
+          "name": "Paracaidistas",
+          "url": "https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "Mirandonos",
+      "url": "https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "No Tendr\u00e9 Poder (Pero Tengo Energ\u00eda)",
+        "url": "https://open.spotify.com/album/3MvdAyZT7mGMrPFi9OgD2y"
       },
       "artists": [
         {
@@ -984,9 +984,9 @@
           "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
         }
       ],
-      "duration_ms": 278076,
-      "name": "La Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0KIToCiD4bYgdz7nwJle93"
+      "duration_ms": 193689,
+      "name": "No Tendr\u00e9 Poder (Pero Tengo Energ\u00eda)",
+      "url": "https://open.spotify.com/track/0D29Bz4VRQNPygyIVBlf8f"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Sigue Avanzando",
-        "url": "https://open.spotify.com/album/56w8kgwJIz3Hk00QnlEeCA"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        },
-        {
-          "name": "Nando Garc\u00eda",
-          "url": "https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf"
-        }
-      ],
-      "duration_ms": 214010,
-      "name": "Sigue Avanzando",
-      "url": "https://open.spotify.com/track/1HP5A6kGG0cpejOw4FqZC8"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Un Pendiente",
         "url": "https://open.spotify.com/album/4qOnNKYn4PQYZMScX2hOux"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 203286,
       "name": "Un Pendiente",
       "url": "https://open.spotify.com/track/78dKapAsRTokkWluXYfn6S"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Sigue Avanzando",
+        "url": "https://open.spotify.com/album/56w8kgwJIz3Hk00QnlEeCA"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        },
+        {
+          "name": "Nando Garc\u00eda",
+          "url": "https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf"
+        }
+      ],
+      "duration_ms": 214010,
+      "name": "Sigue Avanzando",
+      "url": "https://open.spotify.com/track/1HP5A6kGG0cpejOw4FqZC8"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1091,8 +1091,8 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "No Tendr\u00e9 Poder (Pero Tengo Energ\u00eda)",
-        "url": "https://open.spotify.com/album/3MvdAyZT7mGMrPFi9OgD2y"
+        "name": "La Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/17hJrkocBoKtoCCEHilJNk"
       },
       "artists": [
         {
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
         }
       ],
-      "duration_ms": 193689,
-      "name": "No Tendr\u00e9 Poder (Pero Tengo Energ\u00eda)",
-      "url": "https://open.spotify.com/track/0D29Bz4VRQNPygyIVBlf8f"
+      "duration_ms": 278076,
+      "name": "La Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0KIToCiD4bYgdz7nwJle93"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Dentro, Fuera",
+        "url": "https://open.spotify.com/album/27FYJ0ynBiNZHQAsA1VoIf"
+      },
+      "artists": [
+        {
+          "name": "DPSE",
+          "url": "https://open.spotify.com/artist/3UI2kcGWO3drAIwRiRz69M"
+        }
+      ],
+      "duration_ms": 246852,
+      "name": "Dentro, Fuera",
+      "url": "https://open.spotify.com/track/33IzHjoiz3eJWnQTtQVf9s"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Tu Momento",
         "url": "https://open.spotify.com/album/1Uu7yjZmuz4MbNAyNjJXki"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 229985,
       "name": "Tu Momento",
       "url": "https://open.spotify.com/track/1X5tpJelqlfxewgLmzi5R1"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Dentro, Fuera",
-        "url": "https://open.spotify.com/album/27FYJ0ynBiNZHQAsA1VoIf"
-      },
-      "artists": [
-        {
-          "name": "DPSE",
-          "url": "https://open.spotify.com/artist/3UI2kcGWO3drAIwRiRz69M"
-        }
-      ],
-      "duration_ms": 246852,
-      "name": "Dentro, Fuera",
-      "url": "https://open.spotify.com/track/33IzHjoiz3eJWnQTtQVf9s"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm"
-      },
-      "artists": [
-        {
-          "name": "Agata Prisma",
-          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
-        }
-      ],
-      "duration_ms": 207991,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Independencia",
         "url": "https://open.spotify.com/album/78gMQLycOOZR9p8VpG7Z0p"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 260790,
       "name": "El drag\u00f3n asciende",
       "url": "https://open.spotify.com/track/6lzg89OnOzG0ak5BteM6G0"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm"
+      },
+      "artists": [
+        {
+          "name": "Agata Prisma",
+          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
+        }
+      ],
+      "duration_ms": 207991,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Acorde Digital",
-        "url": "https://open.spotify.com/album/0b1MFy6848SQsPuGxG7FIO"
-      },
-      "artists": [
-        {
-          "name": "( Me Llamo ) Sebasti\u00e1n",
-          "url": "https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Acorde Digital",
-      "url": "https://open.spotify.com/track/2XEdOrB5mfev2x96ojOuBG"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Periferia",
         "url": "https://open.spotify.com/album/6YgO7igOx9TKfZ8rKBQ0y0"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 185333,
       "name": "Periferia",
       "url": "https://open.spotify.com/track/1CY1iQFjmW1m64qXSEtB8d"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Acorde Digital",
+        "url": "https://open.spotify.com/album/0b1MFy6848SQsPuGxG7FIO"
+      },
+      "artists": [
+        {
+          "name": "( Me Llamo ) Sebasti\u00e1n",
+          "url": "https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Acorde Digital",
+      "url": "https://open.spotify.com/track/2XEdOrB5mfev2x96ojOuBG"
     },
     {
       "added_at": "2022-12-23 03:00:00",

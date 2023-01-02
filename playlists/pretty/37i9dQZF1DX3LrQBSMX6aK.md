@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 
 > Classical compositions from Ravi Shankar and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,102 likes - 50 songs - 13 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,149 likes - 50 songs - 13 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

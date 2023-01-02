@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: MOTi
 
-140 songs - 7 hr 55 min - not published yet
+141 songs - 7 hr 58 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [On My Way](https://open.spotify.com/track/0nV76bXUJRqT9QaYTWxW5M) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [On My Way](https://open.spotify.com/album/62fWbXuvA9gXsfibRB1WCq) | 3:03 | 2022-12-08 | 2022-12-16 |
 | [On The Go](https://open.spotify.com/track/7Iq1yyZbC6Mb3lA61Tb7Zy) | [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [On The Go](https://open.spotify.com/album/6I0xQCGjNeP3rf2gmDvMCj) | 2:13 | 2022-12-22 |  |
 | [Once Again \(FOVOS Remix\)](https://open.spotify.com/track/7lecNF0Xhqb6GoyHDqjQwg) | [Dillion Francis](https://open.spotify.com/artist/0uSkTGSOlf95KOOsMa1H4Q), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Once Again \(Remixes\)](https://open.spotify.com/album/6FrZQaBXw0FUePDriWQrA9) | 3:33 | 2022-12-29 | 2022-12-31 |
-| [Once Again \- FOVOS Remix](https://open.spotify.com/track/4kUhdlpiBjnN9fyNyQdX19) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Once Again \(FOVOS Remix\)](https://open.spotify.com/album/2JUWPyPMStjSsIx5oNHJOO) | 3:33 | 2022-12-29 |  |
+| [Once Again \- FOVOS Remix](https://open.spotify.com/track/4kUhdlpiBjnN9fyNyQdX19) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Once Again \(FOVOS Remix\)](https://open.spotify.com/album/2JUWPyPMStjSsIx5oNHJOO) | 3:33 | 2022-12-29 | 2023-01-02 |
+| [Once Again \- FOVOS Remix](https://open.spotify.com/track/4utyVIaPPovaCm7ZG1ZQA4) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Once Again](https://open.spotify.com/album/7qzo2BOdgUqZcFKFnFoVMp) | 3:33 | 2022-12-29 |  |
 | [One and One](https://open.spotify.com/track/18imJkcBuXujS1CReyejzb) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [One and One](https://open.spotify.com/album/4HgmjnuCaCJoBhkz8JZ5QM) | 3:24 | 2022-12-08 | 2022-12-24 |
 | [One More Night \(feat\. Bryn Christopher\)](https://open.spotify.com/track/2CXiOIZlCcOZToHy4JVOZZ) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [One More Night \(feat\. Bryn Christopher\)](https://open.spotify.com/album/2oqQM12NWNXIydCqwDGgKJ) | 2:28 | 2022-12-08 |  |
 | [One Night Left](https://open.spotify.com/track/00vXdYgi7qL8qk0DOWRmfQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [One Night Left](https://open.spotify.com/album/75GJeU8rvUnX8TmK5Jm1D4) | 3:27 | 2022-12-08 | 2022-12-16 |

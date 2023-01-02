@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 308031,
+  "num_followers": 308078,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMGExMjY3MmNhNmJhMjI2ODBjMmFiNTlmNTM2Y2Q0YTBi",
+  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDFmN2NlN2NmYzAwZGVlYWUwMDAwYzAwNzc3MjFkNTcy",
   "tracks": [
     {
       "added_at": "2021-12-29 23:38:25",
@@ -311,6 +311,22 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
+        "name": "En Extasis",
+        "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Gracias A Dios",
+      "url": "https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 139906,
       "name": "No Discutamos",
       "url": "https://open.spotify.com/track/4oXBnMgYcvU87uKq30Reyq"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "En Extasis",
-        "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Gracias A Dios",
-      "url": "https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -399,26 +399,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Los D\u00fao (Deluxe)",
-        "url": "https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 374106,
-      "name": "Ya No Vivo Por Vivir",
-      "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Celebridades- Daniela Romo",
         "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 165560,
       "name": "Buenos D\u00edas Se\u00f1or Sol",
       "url": "https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Los D\u00fao (Deluxe)",
+        "url": "https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 374106,
+      "name": "Ya No Vivo Por Vivir",
+      "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Canta Once Grandes Exitos De Juan Gabriel",
-        "url": "https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 156400,
-      "name": "No Vale la Pena",
-      "url": "https://open.spotify.com/track/61xsekswNv3eCOOwYGY6GH"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/7hmSedqLVW3pMXzRPSbJfM"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 180186,
       "name": "Me Gustas Mucho - Con Amaia Montero",
       "url": "https://open.spotify.com/track/09WmDckPkEXGRlGH5Kyipy"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Canta Once Grandes Exitos De Juan Gabriel",
+        "url": "https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 156400,
+      "name": "No Vale la Pena",
+      "url": "https://open.spotify.com/track/61xsekswNv3eCOOwYGY6GH"
     }
   ],
   "unique_name": "Cancionero Juan Gabriel",

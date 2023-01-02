@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: AViVA",
-  "num_followers": 437209,
+  "num_followers": 437355,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTA0OTc4MSwwMDAwMDAwMDNiMmI5ZWU3NjRmOGQwNTYwZTYyOWNkMTUxOWMyNWE2",
+  "snapshot_id": "MTY3MTA0OTc4MSwwMDAwMDAwMGRkN2U0YmIxNWNkMzZlNDY4OWQ4ZjAzMzhhY2U0MjFh",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -127,18 +127,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Overwhelmed",
-        "url": "https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
       "artists": [
         {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 159293,
-      "name": "overwhelmed",
-      "url": "https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y"
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "engravings",
-        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
+        "name": "Overwhelmed",
+        "url": "https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP"
       },
       "artists": [
         {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
         }
       ],
-      "duration_ms": 180186,
-      "name": "engravings",
-      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
+      "duration_ms": 159293,
+      "name": "overwhelmed",
+      "url": "https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+        "name": "engravings",
+        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
         }
       ],
-      "duration_ms": 261001,
-      "name": "On My Knees",
-      "url": "https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu"
+      "duration_ms": 180186,
+      "name": "engravings",
+      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1447,6 +1447,30 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh"
+      },
+      "artists": [
+        {
+          "name": "WE ARE FURY",
+          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
+        },
+        {
+          "name": "Brassie",
+          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
       },
@@ -1491,30 +1515,6 @@
       "duration_ms": 219745,
       "name": "Heaven Angel",
       "url": "https://open.spotify.com/track/3rk6IW3MBirMnertH3l5Ek"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh"
-      },
-      "artists": [
-        {
-          "name": "WE ARE FURY",
-          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
-        },
-        {
-          "name": "Brassie",
-          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
-        },
-        {
-          "name": "Kyle Reynolds",
-          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Have My Back",
-        "url": "https://open.spotify.com/album/4QQPP4xRp3wyW7QwZdsW5u"
-      },
-      "artists": [
-        {
-          "name": "Silent Child",
-          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
-        },
-        {
-          "name": "Vanic",
-          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
-        }
-      ],
-      "duration_ms": 227897,
-      "name": "Have My Back",
-      "url": "https://open.spotify.com/track/70wg0l1GCp9TL6bTXBZuXR"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Superhuman (with K.Flay)",
         "url": "https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 240044,
       "name": "Superhuman (with K.Flay)",
       "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Have My Back",
+        "url": "https://open.spotify.com/album/4QQPP4xRp3wyW7QwZdsW5u"
+      },
+      "artists": [
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        },
+        {
+          "name": "Vanic",
+          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
+        }
+      ],
+      "duration_ms": 227897,
+      "name": "Have My Back",
+      "url": "https://open.spotify.com/track/70wg0l1GCp9TL6bTXBZuXR"
     },
     {
       "added_at": "2022-11-25 05:00:00",

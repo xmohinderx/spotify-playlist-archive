@@ -1,12 +1,12 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1601118,
+  "num_followers": 1601319,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDNmNjc3OTIxOWViNGM5ZThjOWNkYTY4OTg5ZTAxMDI4",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMGI4NTg4MjI0ZTA2MDgwNTdmZjEwZmY0NDlmYjVjZjMw",
   "tracks": [
     {
       "added_at": "2022-08-26 04:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Twang",
-        "url": "https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S"
-      },
-      "artists": [
-        {
-          "name": "Mason Ramsey",
-          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "Before I Knew It",
-      "url": "https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "The Woman In Me",
         "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 183960,
       "name": "No One Needs To Know",
       "url": "https://open.spotify.com/track/4vbW5aT9UQGRqEScStQPPy"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Twang",
+        "url": "https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S"
+      },
+      "artists": [
+        {
+          "name": "Mason Ramsey",
+          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "Before I Knew It",
+      "url": "https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5"
+        "name": "Port Saint Joe",
+        "url": "https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T"
       },
       "artists": [
         {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 242186,
-      "name": "How Do I Live",
-      "url": "https://open.spotify.com/track/1PJ1JyZJg3aZgZQfg3ciWn"
+      "duration_ms": 192680,
+      "name": "I Don't Remember Me (Before You)",
+      "url": "https://open.spotify.com/track/6xrREPyyC5KESDhWfwqHiN"
     }
   ],
   "unique_name": "Country Kind of Love",

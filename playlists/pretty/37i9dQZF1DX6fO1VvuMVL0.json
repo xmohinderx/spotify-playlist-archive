@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 44111,
+  "num_followers": 44196,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc0NTkxOCwwMDAwMDAwMGY0NzE1MmYzZGJkODkwODRlZTEyNzkxYTAzMmUyZmMw",
+  "snapshot_id": "MTY2Mzc0NTkxOCwwMDAwMDAwMDkxYjI0Zjk0M2VmOTk0ODg1ODY1Nzc5MzFmODFjNTYy",
   "tracks": [
     {
       "added_at": "2022-09-21 07:38:38",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
+      },
+      "artists": [
+        {
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Quintessence - Remastered",
+      "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 204480,
       "name": "Come Rain Or Come Shine (Take 5)",
       "url": "https://open.spotify.com/track/13KYyenapQ2RMEGBJuRkUa"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
-      },
-      "artists": [
-        {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Quintessence - Remastered",
-      "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -415,18 +415,18 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "Jazz Impressions Of Japan",
-        "url": "https://open.spotify.com/album/7tOQ0wZyrxr2fqWTO6n8M7"
+        "name": "Jazz Moments",
+        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
       },
       "artists": [
         {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+          "name": "George Shearing Trio",
+          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
         }
       ],
-      "duration_ms": 279893,
-      "name": "Rising Sun",
-      "url": "https://open.spotify.com/track/12zJXMDfo0J2XRgU7HbyNU"
+      "duration_ms": 240133,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -459,18 +459,18 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "Jazz Moments",
-        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
+        "name": "Jazz Impressions Of Japan",
+        "url": "https://open.spotify.com/album/7tOQ0wZyrxr2fqWTO6n8M7"
       },
       "artists": [
         {
-          "name": "George Shearing Trio",
-          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
+      "duration_ms": 279893,
+      "name": "Rising Sun",
+      "url": "https://open.spotify.com/track/12zJXMDfo0J2XRgU7HbyNU"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -523,6 +523,26 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
+        "name": "Picture Of Heath",
+        "url": "https://open.spotify.com/album/7gGl026dNLosYhDnHcCIgO"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 385666,
+      "name": "For Miles And Miles",
+      "url": "https://open.spotify.com/track/3xHZQmEwgrLTQv2b6vTYPC"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
         "name": "On Green Dolphin Street",
         "url": "https://open.spotify.com/album/36qVpx6Ra3F9EqgX4mAMqW"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 488600,
       "name": "On Green Dolphin Street",
       "url": "https://open.spotify.com/track/31DobufWZZuZBHtdUO9WpJ"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
-        "name": "Picture Of Heath",
-        "url": "https://open.spotify.com/album/7gGl026dNLosYhDnHcCIgO"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 385666,
-      "name": "For Miles And Miles",
-      "url": "https://open.spotify.com/track/3xHZQmEwgrLTQv2b6vTYPC"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "Jazz At Oberlin (OJC Remaster)",
-        "url": "https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 390400,
-      "name": "Stardust - Live At Finney Chapel / 1953",
-      "url": "https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
         "name": "The Complete 'Round About Midnight At The Cafe Bohemia (Live)",
         "url": "https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 338732,
       "name": "Monaco - Set 1 / Live From Cafe Bohemia/1956",
       "url": "https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
+        "name": "Jazz At Oberlin (OJC Remaster)",
+        "url": "https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 390400,
+      "name": "Stardust - Live At Finney Chapel / 1953",
+      "url": "https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
+        "name": "Fontessa",
+        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 288106,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
         "name": "Moonlight In Vermont",
         "url": "https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW"
       },
@@ -855,38 +871,6 @@
       "duration_ms": 446066,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
-        "name": "Fontessa",
-        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
-        "name": "The Complete Argo Mercury Sessions",
-        "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
-      },
-      "artists": [
-        {
-          "name": "Art Farmer & Benny Golson Jazztet",
-          "url": "https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "It Ain't Necessarily So",
-      "url": "https://open.spotify.com/track/3kfsa9m8BoeKIyHPOOhwdg"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -927,6 +911,22 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
+        "name": "The Complete Argo Mercury Sessions",
+        "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer & Benny Golson Jazztet",
+          "url": "https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "It Ain't Necessarily So",
+      "url": "https://open.spotify.com/track/3kfsa9m8BoeKIyHPOOhwdg"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
         "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 191906,
       "name": "Ergo - Remastered 2004",
       "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
+        "name": "Stan Kenton",
+        "url": "https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8"
+      },
+      "artists": [
+        {
+          "name": "Stan Kenton",
+          "url": "https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb"
+        }
+      ],
+      "duration_ms": 553320,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -959,22 +975,6 @@
       "duration_ms": 422266,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/7MGGY6BzqplNCRrKfIBTKL"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
-        "name": "Stan Kenton",
-        "url": "https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8"
-      },
-      "artists": [
-        {
-          "name": "Stan Kenton",
-          "url": "https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb"
-        }
-      ],
-      "duration_ms": 553320,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "I'm Glad There Is You - Remaster/2004",
-      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
         "name": "A Night At The Vanguard",
         "url": "https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 260973,
       "name": "Just A-Sittin' And A-Rockin' - Live At The Village Vanguard, New York / 1959",
       "url": "https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "I'm Glad There Is You - Remaster/2004",
+      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
     },
     {
       "added_at": "2022-09-21 07:38:38",

@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 35241,
+  "num_followers": 35317,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQ0NzE4NSwwMDAwMDAwMGYzNmRjMmM2OGVmOTYyOTBkY2FhZDBhMzYzODE4Y2Ew",
+  "snapshot_id": "MTY3MjQ0NzE4NSwwMDAwMDAwMDkyZTliZjEyZGM2MzFiZTMwZjIwMDhiZjQ2YWQ5Y2Vl",
   "tracks": [
     {
       "added_at": "2022-12-31 00:39:45",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 274560,
-      "name": "It's My House",
-      "url": "https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Music Speaks Louder Than Words",
         "url": "https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 209826,
       "name": "Nights on Broadway",
       "url": "https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 274560,
+      "name": "It's My House",
+      "url": "https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "Take Me to the Bridge / Jumpin' (Get Hot, Hit the Spot)",
+        "url": "https://open.spotify.com/album/3lXdkMownWe2ZcAw4DB5Hx"
+      },
+      "artists": [
+        {
+          "name": "Vera",
+          "url": "https://open.spotify.com/artist/0FkJ8SID5QlL8bWQBMmtmh"
+        }
+      ],
+      "duration_ms": 423003,
+      "name": "Take Me to the Bridge",
+      "url": "https://open.spotify.com/track/4swOfLpGpRXhJaJjYjBuIH"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "Odyssey (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Take Me to the Bridge / Jumpin' (Get Hot, Hit the Spot)",
-        "url": "https://open.spotify.com/album/3lXdkMownWe2ZcAw4DB5Hx"
+        "name": "Dance, Dance, Dance: The Best of Chic",
+        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
       },
       "artists": [
         {
-          "name": "Vera",
-          "url": "https://open.spotify.com/artist/0FkJ8SID5QlL8bWQBMmtmh"
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
         }
       ],
-      "duration_ms": 423003,
-      "name": "Take Me to the Bridge",
-      "url": "https://open.spotify.com/track/4swOfLpGpRXhJaJjYjBuIH"
+      "duration_ms": 501466,
+      "name": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
+      "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -487,22 +503,6 @@
       "duration_ms": 305893,
       "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
       "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "Dance, Dance, Dance: The Best of Chic",
-        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 501466,
-      "name": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
-      "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "People... Hold On",
-        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
-      },
-      "artists": [
-        {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Date With The Rain",
-      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Stand on the Word",
         "url": "https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 303692,
       "name": "Stand on the Word (Studio Version)",
       "url": "https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "People... Hold On",
+        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Date With The Rain",
+      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -763,6 +763,26 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "'Lectric Lady",
+        "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
+      },
+      "artists": [
+        {
+          "name": "Carol Williams",
+          "url": "https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM"
+        },
+        {
+          "name": "Tom Moulton",
+          "url": "https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6"
+        }
+      ],
+      "duration_ms": 473240,
+      "name": "Love Is You - A Tom Moulton Mix",
+      "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "Never Gonna Let You Go (Expanded Edition)",
         "url": "https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC"
       },
@@ -775,22 +795,6 @@
       "duration_ms": 204653,
       "name": "Turn the Beat Around - 7\" Single Edit",
       "url": "https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "Norma Jean",
-        "url": "https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ"
-      },
-      "artists": [
-        {
-          "name": "Norma Jean Wright",
-          "url": "https://open.spotify.com/artist/2Tq4xKjGkoZyAzdklz74oM"
-        }
-      ],
-      "duration_ms": 366160,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -811,6 +815,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "Norma Jean",
+        "url": "https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean Wright",
+          "url": "https://open.spotify.com/artist/2Tq4xKjGkoZyAzdklz74oM"
+        }
+      ],
+      "duration_ms": 366160,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "Don't You Want My Love",
         "url": "https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 468831,
       "name": "Don't You Want My Love - Remastered",
       "url": "https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "'Lectric Lady",
-        "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
-      },
-      "artists": [
-        {
-          "name": "Carol Williams",
-          "url": "https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM"
-        },
-        {
-          "name": "Tom Moulton",
-          "url": "https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6"
-        }
-      ],
-      "duration_ms": 473240,
-      "name": "Love Is You - A Tom Moulton Mix",
-      "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Risqu\u00e9 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 274960,
-      "name": "My Forbidden Lover - 2018 Remaster",
-      "url": "https://open.spotify.com/track/1HUTQRf1kFERMNNVvCU5R4"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Portfolio",
         "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 203840,
       "name": "I Need A Man",
       "url": "https://open.spotify.com/track/3Zc9b3YS8wcGDzH92joizS"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Risqu\u00e9 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 274960,
+      "name": "My Forbidden Lover - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1HUTQRf1kFERMNNVvCU5R4"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Kid Creole - Ze August Darnell Sessions (Remastered 2018)",
-        "url": "https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ"
-      },
-      "artists": [
-        {
-          "name": "Elbow Bones And The Racketeers",
-          "url": "https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj"
-        }
-      ],
-      "duration_ms": 261293,
-      "name": "A Night in New York - Remastered",
-      "url": "https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Slippin' and Dippin' (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 371706,
       "name": "Casanova - Extended Version",
       "url": "https://open.spotify.com/track/1Q2lpDwSeNTn5qawq0IkVu"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Kid Creole - Ze August Darnell Sessions (Remastered 2018)",
+        "url": "https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ"
+      },
+      "artists": [
+        {
+          "name": "Elbow Bones And The Racketeers",
+          "url": "https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj"
+        }
+      ],
+      "duration_ms": 261293,
+      "name": "A Night in New York - Remastered",
+      "url": "https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/6dr4nOonv97FsqmMsBzf0b"
-      },
-      "artists": [
-        {
-          "name": "Inner Life",
-          "url": "https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX"
-        }
-      ],
-      "duration_ms": 392066,
-      "name": "Moment Of My Life - 12\" Version",
-      "url": "https://open.spotify.com/track/0efOcjjzdfBxFJp6MZcXzC"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 388920,
       "name": "Changin'",
       "url": "https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/6dr4nOonv97FsqmMsBzf0b"
+      },
+      "artists": [
+        {
+          "name": "Inner Life",
+          "url": "https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX"
+        }
+      ],
+      "duration_ms": 392066,
+      "name": "Moment Of My Life - 12\" Version",
+      "url": "https://open.spotify.com/track/0efOcjjzdfBxFJp6MZcXzC"
     },
     {
       "added_at": "2022-12-31 00:39:45",
