@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The final This is Frequency of 2022\. Cover: Coi Leray
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,105 likes - 99 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,232 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

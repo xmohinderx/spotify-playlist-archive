@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-260 songs - 19 hr 24 min - [published](https://open.spotify.com/playlist/4VFlkwzjI7ScFjbEAfcPrl)
+261 songs - 19 hr 28 min - [published](https://open.spotify.com/playlist/4VFlkwzjI7ScFjbEAfcPrl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Distant Hearts](https://open.spotify.com/track/7qOoWH3cUsEMfqEGcT1muE) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Distant Hearts](https://open.spotify.com/album/1fbiWYWMGJF3yB4WmoqJNv) | 2:19 | 2022-11-24 |  |
 | [Doubt Thou the Stars](https://open.spotify.com/track/1q9hA5kj31OgXQjhmnOgcy) | [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jonas Simonson](https://open.spotify.com/artist/7KFeDGbNWccsF7HNisT6YG), [Karin Nelson](https://open.spotify.com/artist/1GrSyUfEJBADQaeF2HhbNV) | [Tantum](https://open.spotify.com/album/2ZY1W5hW8XBVi3jMHrtn1u) | 3:11 | 2021-12-17 | 2022-12-08 |
 | [Draw Near](https://open.spotify.com/track/1ufvEL42UBnAYbi3gjSuZK) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Being There](https://open.spotify.com/album/5JuT4GGK3RKVtbqQTDwlkS) | 3:51 | 2022-05-25 |  |
+| [Drifting](https://open.spotify.com/track/7coZuTH340U7sJKtTMsG93) | [Mette Henriette](https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP) | [Drifting](https://open.spotify.com/album/0zS6U86mdHxv2w1AzJBFv2) | 4:01 | 2022-12-30 |  |
 | [Dry Water](https://open.spotify.com/track/3xQH8Wn7AaDIcQlK7itltB) | [Michel Bisceglia](https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC) | [Blue Bird](https://open.spotify.com/album/23k3ADRVxmy9EbEhmXnUsG) | 5:43 | 2022-09-15 | 2022-12-04 |
 | [Dust Motes Dancing In The Sunbeams \(Hammershøi\)](https://open.spotify.com/track/1lIXjtM3QvNgF7nmG8rSG4) | [Jakob Davidsen](https://open.spotify.com/artist/2uaSwkD4g1H5BYouNo4BL8), [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY), [Jesper Egelund](https://open.spotify.com/artist/3dvSTjrR6LGBW2LSkVpHnD) | [Silence Trio 3](https://open.spotify.com/album/4YJtOu1l3UMvkeXGz7AmSf) | 5:03 | 2021-12-17 | 2022-07-29 |
 | [Déjà La Nuit](https://open.spotify.com/track/4W1Qhn3czQYAwZk9Um6KBd) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Le Pas Du Chat Noir](https://open.spotify.com/album/4RrIRfJf0HqzlkmMDfBmME) | 5:10 | 2021-12-17 | 2022-07-29 |
@@ -181,7 +182,7 @@
 | [Right There](https://open.spotify.com/track/2m6wKuxNH3qDSqdSSRr3r7) | [Tord Gustavsen Quartet](https://open.spotify.com/artist/0yWGF7B6ZQy6HUg0cEP5lq) | [Extended Circle](https://open.spotify.com/album/3Y2Gvmeg7lM8r22Zp53sZJ) | 2:53 | 2022-05-26 |  |
 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-11-11 |  |
 | [roads](https://open.spotify.com/track/3os2ZWpiap6mjJjuXRwoZw) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK), [Håkon Kornstad](https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2) | [roads](https://open.spotify.com/album/0HZEY9yhNkDxB2fZPoAj92) | 4:46 | 2021-12-17 | 2022-09-15 |
-| [Ruins II](https://open.spotify.com/track/3DT8dSU0Vz2mjpyHfIn04W) | [Ayumi Tanaka Trio](https://open.spotify.com/artist/3ay6T09fpLYwib1MxOW9G1) | [Ruins II](https://open.spotify.com/album/62hzQtcRAnkV1nUdFlvckl) | 2:42 | 2021-12-17 |  |
+| [Ruins II](https://open.spotify.com/track/3DT8dSU0Vz2mjpyHfIn04W) | [Ayumi Tanaka Trio](https://open.spotify.com/artist/3ay6T09fpLYwib1MxOW9G1) | [Ruins II](https://open.spotify.com/album/62hzQtcRAnkV1nUdFlvckl) | 2:42 | 2021-12-17 | 2023-01-03 |
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2022-11-11 |  |
 | [Seak Fruits](https://open.spotify.com/track/2l9J8shXr61aKfZPd9dLm9) | [Augusto Pirodda](https://open.spotify.com/artist/0UUb7JHY2ZTzjboFEVsa90), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [No Comment](https://open.spotify.com/album/2G0AgZNn7mpVLBWTLK7XRr) | 7:00 | 2021-12-17 | 2022-10-04 |
 | [Send In The Clowns](https://open.spotify.com/track/3PPVDDKMbETkMCREuYTfXu) | [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Goodbye](https://open.spotify.com/album/3CPWaPvzm0QniRVBsaDlUw) | 4:14 | 2021-12-17 | 2022-03-12 |

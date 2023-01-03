@@ -1,12 +1,12 @@
 {
   "description": "Turn up for the big game!",
-  "num_followers": 578611,
+  "num_followers": 578735,
   "original_name": "Gameday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMGVmOTRmOGFlMGMxZWY2M2I2OGJkOTkyMDE2ZTgwMjcx",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDZhMzdiMDUwYzhkOGY0NTM5OTM0MmU5NDNkYWU3MWU5",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "RAPSTAR",
-      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 242965,
       "name": "Knife Talk (with 21 Savage ft. Project Pat)",
       "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "RAPSTAR",
+      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "HOTEL LOBBY (Unc & Phew)",
-        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        }
-      ],
-      "duration_ms": 142657,
-      "name": "HOTEL LOBBY (Unc & Phew)",
-      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "HOTEL LOBBY (Unc & Phew)",
+        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 142657,
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -679,6 +679,26 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
+        "name": "Free Dem Boyz",
+        "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 156367,
+      "name": "4 Da Gang (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/1mAey8kEPmDM2icL56kS9d"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
         "name": "Hold That Heat (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 221538,
       "name": "Hold That Heat (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Free Dem Boyz",
-        "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 156367,
-      "name": "4 Da Gang (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/1mAey8kEPmDM2icL56kS9d"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -831,30 +831,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "It's Almost Dry",
-        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
-      },
-      "artists": [
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 152612,
-      "name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
-      "url": "https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 309322,
       "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)",
       "url": "https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "It's Almost Dry",
+        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 152612,
+      "name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
+      "url": "https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe"
     },
     {
       "added_at": "2022-09-02 04:01:00",

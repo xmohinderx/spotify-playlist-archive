@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para uno de esos d\u00edas.",
-  "num_followers": 101748,
+  "num_followers": 101784,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM0NDU0NSwwMDAwMDAwMDUyOGM5MDY1ZWE1NGFlNzk1Y2U3MGY2MzM0YTFiZmY4",
+  "snapshot_id": "MTY3MjM0NDU0NSwwMDAwMDAwMGQwNzM5NWFmZGI0YzhjODJlMzcxNTkzOWVlNWFjNDY0",
   "tracks": [
     {
       "added_at": "2022-12-14 17:46:22",
@@ -171,38 +171,6 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
-        "name": "Fugaces",
-        "url": "https://open.spotify.com/album/4isq34fm8aMAUncPjvBbCu"
-      },
-      "artists": [
-        {
-          "name": "G\u00e8rard",
-          "url": "https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Fugaces",
-      "url": "https://open.spotify.com/track/46XD4N1fQHU04ikECTiefD"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
@@ -219,6 +187,22 @@
       "duration_ms": 219146,
       "name": "you were good to me",
       "url": "https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
+        "name": "Fugaces",
+        "url": "https://open.spotify.com/album/4isq34fm8aMAUncPjvBbCu"
+      },
+      "artists": [
+        {
+          "name": "G\u00e8rard",
+          "url": "https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Fugaces",
+      "url": "https://open.spotify.com/track/46XD4N1fQHU04ikECTiefD"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -251,6 +235,22 @@
       "duration_ms": 234080,
       "name": "Acurrucar",
       "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 179094,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
-        "name": "Es Que Yo Te Quiero A Ti",
-        "url": "https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 323625,
-      "name": "Es Que Yo Te Quiero A Ti",
-      "url": "https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
         "name": "Sin Final Feliz",
         "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 144215,
       "name": "Qu\u00e9 bonito fue",
       "url": "https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
+        "name": "Es Que Yo Te Quiero A Ti",
+        "url": "https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 323625,
+      "name": "Es Que Yo Te Quiero A Ti",
+      "url": "https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
-        "name": "Toda Esta Ciudad",
-        "url": "https://open.spotify.com/album/0gKz4zcMdN2BtVwEhthisC"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 320603,
-      "name": "Toda Esta Ciudad",
-      "url": "https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
         "name": "Spoiler",
         "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 202446,
       "name": "Con La Miel En Los Labios",
       "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
+        "name": "Toda Esta Ciudad",
+        "url": "https://open.spotify.com/album/0gKz4zcMdN2BtVwEhthisC"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 320603,
+      "name": "Toda Esta Ciudad",
+      "url": "https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
-        "name": "Dolerme",
-        "url": "https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 143975,
-      "name": "Dolerme",
-      "url": "https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
         "name": "mix pa llorar en tu cuarto",
         "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 244253,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/34gzxIVoKXsFQPiiT6rUX4"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
+        "name": "Dolerme",
+        "url": "https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 143975,
+      "name": "Dolerme",
+      "url": "https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
+        "name": "los d\u00edas en la sala",
+        "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 163411,
+      "name": "siempre te voy a querer",
+      "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
         "name": "NASA",
         "url": "https://open.spotify.com/album/1nTFn5FvVj4c1nuMPadWtn"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 191846,
       "name": "Ya mi mama me dec\u00eda",
       "url": "https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
-        "name": "los d\u00edas en la sala",
-        "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 163411,
-      "name": "siempre te voy a querer",
-      "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
+        "name": "guerrera",
+        "url": "https://open.spotify.com/album/1QWy1TAhYwAgd5OA7chIEo"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 270093,
+      "name": "guerrera",
+      "url": "https://open.spotify.com/track/1op8GBKx3U5BrDDvOAKYbO"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
         "name": "Being Human In Public",
         "url": "https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
-        "name": "guerrera",
-        "url": "https://open.spotify.com/album/1QWy1TAhYwAgd5OA7chIEo"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 270093,
-      "name": "guerrera",
-      "url": "https://open.spotify.com/track/1op8GBKx3U5BrDDvOAKYbO"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
         "name": "Roto",
         "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 165760,
       "name": "Roto",
       "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
+        "name": "Vete Si Quieres",
+        "url": "https://open.spotify.com/album/59n8OAA2MokNaY6EunSMY6"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 228575,
+      "name": "Vete Si Quieres",
+      "url": "https://open.spotify.com/track/0eBNvFiuvRpKPzfEx7CVs6"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
-        "name": "Vete Si Quieres",
-        "url": "https://open.spotify.com/album/59n8OAA2MokNaY6EunSMY6"
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
       },
       "artists": [
         {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 228575,
-      "name": "Vete Si Quieres",
-      "url": "https://open.spotify.com/track/0eBNvFiuvRpKPzfEx7CVs6"
+      "duration_ms": 240000,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -1151,22 +1167,6 @@
       "duration_ms": 197793,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/6YwQwgNUvquozKP41xGmRs"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
-        "name": "Nada Es Igual",
-        "url": "https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw"
-      },
-      "artists": [
-        {
-          "name": "Karen M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Nada Es Igual",
-      "url": "https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
         "name": "Amor Insustancial",
         "url": "https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 205450,
       "name": "Se que te iras",
       "url": "https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
+        "name": "Nada Es Igual",
+        "url": "https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw"
+      },
+      "artists": [
+        {
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Nada Es Igual",
+      "url": "https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR"
     },
     {
       "added_at": "2022-12-14 17:46:22",

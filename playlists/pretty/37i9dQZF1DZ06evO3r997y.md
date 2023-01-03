@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r997y.md) - [plain]
 | 28 | [Swinging Heart Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/2RjE7zHY0etIifDYKVOGyL) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 3:26 |
 | 29 | [キミのとなりで Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/1NmGeXILbZ0MWQPH3bJHr8) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 4:53 |
 
-Snapshot ID: `Mjc4NzYzNDMsMDAwMDAwMDAzNjQ2YjBlYWQxMzNlODMxMjExYTIwYWZiNjUzNDc0Mg==`
+Snapshot ID: `Mjc4Nzc3NTksMDAwMDAwMDAzN2I4YTkxZWQ4Y2RmNzg3YWZhMDJjZTA4N2M5MDhhZQ==`

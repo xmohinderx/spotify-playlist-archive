@@ -1,12 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Soccer Mommy",
-  "num_followers": 313007,
+  "num_followers": 313050,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDlkODgxNjhmZjIxMmM4MWYzNDUyODYxMzc0NTY2OTdj",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGQ0ZTc3OWY3MDAxMGVhOGZhYmI2YTA1ZDE2OTFhZjBi",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -315,38 +315,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Shark Smile (Edit)",
-        "url": "https://open.spotify.com/album/4WHzjGd7yvPxXzn2ERXkEb"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "Shark Smile - Edit",
-      "url": "https://open.spotify.com/track/6exdwZ3EOSCjb11bd6k6Np"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Chaise Longue",
-        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -371,6 +339,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Chaise Longue",
+        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 158293,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Shark Smile (Edit)",
+        "url": "https://open.spotify.com/album/4WHzjGd7yvPxXzn2ERXkEb"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Shark Smile - Edit",
+      "url": "https://open.spotify.com/track/6exdwZ3EOSCjb11bd6k6Np"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Moveys",
+        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 245843,
+      "name": "Idaho",
+      "url": "https://open.spotify.com/track/4FvqAI5GwPspJE3TkMGnEb"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 263754,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Moveys",
-        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 245843,
-      "name": "Idaho",
-      "url": "https://open.spotify.com/track/4FvqAI5GwPspJE3TkMGnEb"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Look at it in the Light",
-        "url": "https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 162379,
-      "name": "Who Am I But Someone",
-      "url": "https://open.spotify.com/track/2aIMQ8exqALB45htgOenLF"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Florist",
         "url": "https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 326156,
       "name": "Red Bird Pt. 2 (Morning)",
       "url": "https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Look at it in the Light",
+        "url": "https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 162379,
+      "name": "Who Am I But Someone",
+      "url": "https://open.spotify.com/track/2aIMQ8exqALB45htgOenLF"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "The Only Heartbreaker",
+        "url": "https://open.spotify.com/album/1YMGcCHQ4xkwiWXpGGXmkY"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 184549,
+      "name": "The Only Heartbreaker",
+      "url": "https://open.spotify.com/track/6y6bUurXB0FfhddEU5Qch0"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -663,34 +679,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
+        "name": "to Perth, before the border closes",
+        "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
         }
       ],
-      "duration_ms": 166053,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "The Only Heartbreaker",
-        "url": "https://open.spotify.com/album/1YMGcCHQ4xkwiWXpGGXmkY"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 184549,
-      "name": "The Only Heartbreaker",
-      "url": "https://open.spotify.com/track/6y6bUurXB0FfhddEU5Qch0"
+      "duration_ms": 176733,
+      "name": "to Perth, before the border closes",
+      "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "to Perth, before the border closes",
-        "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
       },
       "artists": [
         {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 176733,
-      "name": "to Perth, before the border closes",
-      "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
+      "duration_ms": 166053,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Walking Like We Do",
-        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
       },
       "artists": [
         {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
         }
       ],
-      "duration_ms": 307075,
-      "name": "Your Light",
-      "url": "https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8"
+      "duration_ms": 166821,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/7cuXfrCsbCOfHIj6iZUn3P"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+        "name": "Walking Like We Do",
+        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
       },
       "artists": [
         {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
         }
       ],
-      "duration_ms": 166821,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/7cuXfrCsbCOfHIj6iZUn3P"
+      "duration_ms": 307075,
+      "name": "Your Light",
+      "url": "https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -935,38 +935,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 185813,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/5r6qy0ZGZemcKbh7FktPu2"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Digital Meadow",
-        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Polly",
-      "url": "https://open.spotify.com/track/0AaJgZIw1lJjc4QejCEpAu"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "PAINLESS",
         "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
       },
@@ -979,6 +947,22 @@
       "duration_ms": 282373,
       "name": "midnight sun",
       "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 185813,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/5r6qy0ZGZemcKbh7FktPu2"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 201869,
       "name": "Silver Into Rain",
       "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Digital Meadow",
+        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Polly",
+      "url": "https://open.spotify.com/track/0AaJgZIw1lJjc4QejCEpAu"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1039,6 +1039,38 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 174540,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Happy Birthday, Ratboy",
+        "url": "https://open.spotify.com/album/0LqZlJQ8AA0L7WAszLSKwn"
+      },
+      "artists": [
+        {
+          "name": "Ratboys",
+          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "Go Outside",
+      "url": "https://open.spotify.com/track/2K2CrQx5sK9i6A5EeDpUDn"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh"
       },
@@ -1067,38 +1099,6 @@
       "duration_ms": 200303,
       "name": "Company",
       "url": "https://open.spotify.com/track/0xMsn2VuXcfdf2Ksw4qz7G"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Happy Birthday, Ratboy",
-        "url": "https://open.spotify.com/album/0LqZlJQ8AA0L7WAszLSKwn"
-      },
-      "artists": [
-        {
-          "name": "Ratboys",
-          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Go Outside",
-      "url": "https://open.spotify.com/track/2K2CrQx5sK9i6A5EeDpUDn"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 174540,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Household Name",
+        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "Speeding 72",
+      "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "color theory",
         "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 337426,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Little Oblivions",
-        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Faith Healer",
-      "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Household Name",
-        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
+        "name": "Little Oblivions",
+        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
       "artists": [
         {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         }
       ],
-      "duration_ms": 238360,
-      "name": "Speeding 72",
-      "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0"
+      "duration_ms": 174773,
+      "name": "Faith Healer",
+      "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1211,6 +1211,22 @@
       "duration_ms": 139400,
       "name": "90s American Superstar",
       "url": "https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Angelica",
+        "url": "https://open.spotify.com/album/6yYQhebqDuWF3DmLDO7OeM"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/1QmWlI3uylUl7Je1uTtj42"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1243,22 +1259,6 @@
       "duration_ms": 229961,
       "name": "Self Fulfilling Prophecy",
       "url": "https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Angelica",
-        "url": "https://open.spotify.com/album/6yYQhebqDuWF3DmLDO7OeM"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/1QmWlI3uylUl7Je1uTtj42"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Free to Live in Colour",
-        "url": "https://open.spotify.com/album/2XCINSxKMX5TsEarfGQpme"
-      },
-      "artists": [
-        {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
-        }
-      ],
-      "duration_ms": 194312,
-      "name": "Free to Live in Colour",
-      "url": "https://open.spotify.com/track/0SC5Qw42owQ0b4TGblRCex"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Impossible Weight",
         "url": "https://open.spotify.com/album/7ojMNjg11GhA5UQucyQyXi"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 202493,
       "name": "Impossible Weight - feat. Sharon Van Etten",
       "url": "https://open.spotify.com/track/23y2DjW3Ljd7o0ZcFnqRo9"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Free to Live in Colour",
+        "url": "https://open.spotify.com/album/2XCINSxKMX5TsEarfGQpme"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        }
+      ],
+      "duration_ms": 194312,
+      "name": "Free to Live in Colour",
+      "url": "https://open.spotify.com/track/0SC5Qw42owQ0b4TGblRCex"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG"
-      },
-      "artists": [
-        {
-          "name": "The Greeting Committee",
-          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
-        }
-      ],
-      "duration_ms": 143493,
-      "name": "Make Out",
-      "url": "https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Headful of Sugar",
         "url": "https://open.spotify.com/album/4TNBepDYtSZtnWuvlUnKmj"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 189634,
       "name": "Moment In The Sun - Bonus Track",
       "url": "https://open.spotify.com/track/0yqGaBZ0r4av8o40knrpjz"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG"
+      },
+      "artists": [
+        {
+          "name": "The Greeting Committee",
+          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
+        }
+      ],
+      "duration_ms": 143493,
+      "name": "Make Out",
+      "url": "https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "dirt",
-        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 176268,
-      "name": "4th of july",
-      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "PAINLESS",
         "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 212120,
       "name": "stabilise",
       "url": "https://open.spotify.com/track/3JlNvjlxIlaQ4iQsnxPGct"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "dirt",
+        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 176268,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Jump Rope Gazers",
-        "url": "https://open.spotify.com/album/4MJqiRxj9jMveL9TxyE3Ji"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 312182,
-      "name": "Jump Rope Gazers",
-      "url": "https://open.spotify.com/track/1awytjc79cueIqbstbKvDf"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Present Tense",
         "url": "https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5"
       },
@@ -1731,18 +1715,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Wayfinder",
-        "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
+        "name": "Jump Rope Gazers",
+        "url": "https://open.spotify.com/album/4MJqiRxj9jMveL9TxyE3Ji"
       },
       "artists": [
         {
-          "name": "Boy Scouts",
-          "url": "https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V"
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
         }
       ],
-      "duration_ms": 182012,
-      "name": "That's Life Honey",
-      "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
+      "duration_ms": 312182,
+      "name": "Jump Rope Gazers",
+      "url": "https://open.spotify.com/track/1awytjc79cueIqbstbKvDf"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1767,6 +1751,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Wayfinder",
+        "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
+      },
+      "artists": [
+        {
+          "name": "Boy Scouts",
+          "url": "https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V"
+        }
+      ],
+      "duration_ms": 182012,
+      "name": "That's Life Honey",
+      "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Sucker's Lunch",
         "url": "https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ"
       },
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Coming Of Age pt. 1",
-        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 261475,
-      "name": "Buzz",
-      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Off Off On",
         "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 200480,
       "name": "Coming to Get You Nowhere",
       "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Coming Of Age pt. 1",
+        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 261475,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Vest & Boxers",
+        "url": "https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "duration_ms": 177064,
+      "name": "Vest & Boxers",
+      "url": "https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 169257,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Vest & Boxers",
-        "url": "https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC"
-      },
-      "artists": [
-        {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
-        }
-      ],
-      "duration_ms": 177064,
-      "name": "Vest & Boxers",
-      "url": "https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa"
     },
     {
       "added_at": "2022-10-07 04:00:00",

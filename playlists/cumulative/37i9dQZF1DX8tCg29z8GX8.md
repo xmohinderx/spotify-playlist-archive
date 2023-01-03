@@ -4,7 +4,7 @@
 
 > Beat the traffic blues with these killer tunes.
 
-164 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/58LDkLtnAZW2SWAYqFauit)
+165 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/58LDkLtnAZW2SWAYqFauit)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,8 +143,9 @@
 | [Shakira \(feat\. Prince Bright\)](https://open.spotify.com/track/64i1xYb6aaVL3DQu3bmW8I) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [4Play](https://open.spotify.com/album/6wpzlNHeY8sffFCEOBR7ep) | 2:28 | 2022-09-23 | 2022-11-13 |
 | [Shaye](https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Shaye](https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH) | 2:49 | 2022-07-22 |  |
 | [She's Not Anyone](https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:17 | 2022-09-23 | 2022-10-31 |
-| [Slow](https://open.spotify.com/track/5e5Be8E42zERy5Y3k65wyo) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/0GNeksC7xMQxGc9z4Y6rpL) | 2:50 | 2022-10-13 |  |
+| [Slow](https://open.spotify.com/track/5e5Be8E42zERy5Y3k65wyo) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/0GNeksC7xMQxGc9z4Y6rpL) | 2:50 | 2022-10-13 | 2023-01-03 |
 | [Slow](https://open.spotify.com/track/6fZmsZJAnLXJW7p9KO9hNI) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/16OczVqcp5NswQ7nawPX8h) | 2:50 | 2022-10-13 | 2022-12-25 |
+| [Slow](https://open.spotify.com/track/6BcuM2pQGcED8ebZc5GXjO) | [Char Lay](https://open.spotify.com/artist/4kEX2XtmxJ7Cf9GafuYFR4) | [Slow](https://open.spotify.com/album/0GxXWdO5ZOmdcr3TetwGtY) | 2:50 | 2022-10-13 |  |
 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 | 2022-06-09 | 2022-09-20 |
 | [Somebody’s Son \(Ft Brandy\)](https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:38 | 2022-06-09 |  |
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2022-06-09 |  |

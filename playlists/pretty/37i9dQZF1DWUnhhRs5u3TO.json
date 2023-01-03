@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 2010s. Cover: Avenged Sevenfold",
-  "num_followers": 335037,
+  "num_followers": 335290,
   "original_name": "10s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4NTIzMywwMDAwMDAwMDUyMjVjMmVlZTUxYjFmMDJjMTg0MGQ4OGI4ZTAxMzQz",
+  "snapshot_id": "MTY2OTM4NTIzMywwMDAwMDAwMGY5ZDQ1YjQxYjkyNGQ1NTMzNDkzODg2Y2VhOWI5YWMy",
   "tracks": [
     {
       "added_at": "2022-11-17 08:35:12",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Seven Inches Of Satanic Panic",
-        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 244804,
-      "name": "Mary On A Cross",
-      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "Sempiternal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
       },
@@ -239,6 +223,22 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
+        "name": "Seven Inches Of Satanic Panic",
+        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 244804,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
       },
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
       },
@@ -303,22 +287,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Rammstein",
-        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 231603,
-      "name": "Ausl\u00e4nder",
-      "url": "https://open.spotify.com/track/7j43FohbLVulScL7S9sQZk"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W"
       },
@@ -331,6 +299,22 @@
       "duration_ms": 179160,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/6OMO6WdRhSfjMPAiPT94wH"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -367,18 +351,18 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Sempiternal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 243320,
-      "name": "Shadow Moses",
-      "url": "https://open.spotify.com/track/68osIGtVjM7QWVe6pazLHj"
+      "duration_ms": 231603,
+      "name": "Ausl\u00e4nder",
+      "url": "https://open.spotify.com/track/7j43FohbLVulScL7S9sQZk"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -431,18 +415,18 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Rammstein",
-        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
+        "name": "Human",
+        "url": "https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 277397,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/5vZ4IeUenK2cHub2d7yfWk"
+      "duration_ms": 200146,
+      "name": "I Am Machine",
+      "url": "https://open.spotify.com/track/2UDumaw7osnyjH7RZ2DLpB"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -463,34 +447,34 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W"
+        "name": "Immortalized (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
         }
       ],
-      "duration_ms": 200146,
-      "name": "I Am Machine",
-      "url": "https://open.spotify.com/track/2UDumaw7osnyjH7RZ2DLpB"
+      "duration_ms": 252002,
+      "name": "The Vengeful One",
+      "url": "https://open.spotify.com/track/3jjU4Pky1ja5J1onU6ei4T"
     },
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw"
+        "name": "Sempiternal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
       },
       "artists": [
         {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 271000,
-      "name": "Wrong Side of Heaven",
-      "url": "https://open.spotify.com/track/0gMTjqQCHmQpCqmmeCy2wP"
+      "duration_ms": 243320,
+      "name": "Shadow Moses",
+      "url": "https://open.spotify.com/track/68osIGtVjM7QWVe6pazLHj"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -511,18 +495,18 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Immortalized (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 252002,
-      "name": "The Vengeful One",
-      "url": "https://open.spotify.com/track/3jjU4Pky1ja5J1onU6ei4T"
+      "duration_ms": 277397,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/5vZ4IeUenK2cHub2d7yfWk"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -555,6 +539,22 @@
       "duration_ms": 201666,
       "name": "Cryin' Like A Bitch!!",
       "url": "https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Wrong Side of Heaven",
+      "url": "https://open.spotify.com/track/0gMTjqQCHmQpCqmmeCy2wP"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
+        "name": "Blessed & Possessed",
+        "url": "https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 201386,
+      "name": "Army of the Night",
+      "url": "https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
@@ -911,22 +927,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Blessed & Possessed",
-        "url": "https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 201386,
-      "name": "Army of the Night",
-      "url": "https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "Outlaw Gentlemen & Shady Ladies",
         "url": "https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "In Waves (Special Edition)",
-        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 302466,
-      "name": "In Waves",
-      "url": "https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "N.A.T.I.O.N.",
         "url": "https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 237065,
       "name": "Killing Me Slowly",
       "url": "https://open.spotify.com/track/34lLAsdH4Y5TLf1B2SIj1I"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "In Waves (Special Edition)",
+        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 302466,
+      "name": "In Waves",
+      "url": "https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Bringer of Pain",
-        "url": "https://open.spotify.com/album/7kKRJsnK1SPmR6d0ZFEAbS"
-      },
-      "artists": [
-        {
-          "name": "Battle Beast",
-          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
-        }
-      ],
-      "duration_ms": 275439,
-      "name": "King for a Day",
-      "url": "https://open.spotify.com/track/6OcE7aXYmNEwF6H7Ei9Y3q"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "The Rise of Chaos",
         "url": "https://open.spotify.com/album/2yjuBZ8ymuezoH0uGZAi8u"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 299720,
       "name": "Koolaid",
       "url": "https://open.spotify.com/track/249XHhBxBOblTCYStaC27L"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Bringer of Pain",
+        "url": "https://open.spotify.com/album/7kKRJsnK1SPmR6d0ZFEAbS"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "duration_ms": 275439,
+      "name": "King for a Day",
+      "url": "https://open.spotify.com/track/6OcE7aXYmNEwF6H7Ei9Y3q"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "L'enfant sauvage",
-      "url": "https://open.spotify.com/track/4PWxt9Fy949kUtkEi2GI5V"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "Hardwired\u2026To Self-Destruct",
         "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 365480,
       "name": "Tempest",
       "url": "https://open.spotify.com/track/1parffUcsk8pfGbyMtGnmW"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "L'enfant sauvage",
+      "url": "https://open.spotify.com/track/4PWxt9Fy949kUtkEi2GI5V"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 263586,
-      "name": "Vice Grip",
-      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "The Great War",
         "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 182000,
       "name": "Seven Pillars of Wisdom",
       "url": "https://open.spotify.com/track/6kiASFX63DwJ7grwKG2HUX"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 263586,
+      "name": "Vice Grip",
+      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Restoring Force",
-        "url": "https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Bones Exposed",
-      "url": "https://open.spotify.com/track/0TbbFwClRBAyURSBynegzo"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "Hail to the King",
         "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 295213,
       "name": "Heretic",
       "url": "https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Restoring Force",
+        "url": "https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Bones Exposed",
+      "url": "https://open.spotify.com/track/0TbbFwClRBAyURSBynegzo"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "For We Are Many",
-        "url": "https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt"
-      },
-      "artists": [
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 238306,
-      "name": "The Last Time",
-      "url": "https://open.spotify.com/track/47fPXkWBYmYLcRCGrXgoYq"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "Our Endless War",
         "url": "https://open.spotify.com/album/4ldi4wEpZSlSw9DGE2Sx85"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 267613,
       "name": "The Saw Is the Law",
       "url": "https://open.spotify.com/track/6rLEeo9rNT87t2xHry8xUl"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "For We Are Many",
+        "url": "https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "The Last Time",
+      "url": "https://open.spotify.com/track/47fPXkWBYmYLcRCGrXgoYq"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "For We Are Many",
-        "url": "https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt"
-      },
-      "artists": [
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 177053,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/5qTjvpAfdtyzauTprzgKao"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "Eat The Elephant",
         "url": "https://open.spotify.com/album/3Jr1RhAyndBxtyi8rJs3Op"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 311626,
       "name": "In the Middle of the Night",
       "url": "https://open.spotify.com/track/35zwdnMhebt8gLF4WaCUMz"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "For We Are Many",
+        "url": "https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/5qTjvpAfdtyzauTprzgKao"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Earthbound",
-        "url": "https://open.spotify.com/album/5F0t9Dkxsx4pX6Z57aWXkZ"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 222101,
-      "name": "Earthbound",
-      "url": "https://open.spotify.com/track/1DKbMKbzeZ57yo6yI4MeXe"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "Understanding What We've Grown to Be (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6QmepOn4v046xEUpYEcq1t"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 253000,
       "name": "Fleur de lis",
       "url": "https://open.spotify.com/track/4uTEG0XN5AF7aZdSAuVkLX"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Earthbound",
+        "url": "https://open.spotify.com/album/5F0t9Dkxsx4pX6Z57aWXkZ"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 222101,
+      "name": "Earthbound",
+      "url": "https://open.spotify.com/track/1DKbMKbzeZ57yo6yI4MeXe"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Speaker Of The Dead",
-        "url": "https://open.spotify.com/album/4BcTytmn7rMtxg2mESczbQ"
-      },
-      "artists": [
-        {
-          "name": "Emmure",
-          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Solar Flare Homicide",
-      "url": "https://open.spotify.com/track/6pCkJ0r6WEyz5ASErk5ezS"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "BABYMETAL",
         "url": "https://open.spotify.com/album/6Eepi724OOt38pTaUrZErI"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 318026,
       "name": "Road of Resistance",
       "url": "https://open.spotify.com/track/4f5Glh6TkdXN2osSIpVBNI"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Speaker Of The Dead",
+        "url": "https://open.spotify.com/album/4BcTytmn7rMtxg2mESczbQ"
+      },
+      "artists": [
+        {
+          "name": "Emmure",
+          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Solar Flare Homicide",
+      "url": "https://open.spotify.com/track/6pCkJ0r6WEyz5ASErk5ezS"
     },
     {
       "added_at": "2022-11-17 08:35:12",

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Dollypran
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,699 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,764 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [trap roumi v4](https://open.spotify.com/track/7B9t8WX9T38Df93JHlywfk) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [trap roumi v4](https://open.spotify.com/album/2Q5AFjt3zvBLf5TR32oJfm) | 4:26 |
-| 2 | [Iori 5](https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 5](https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb) | 3:10 |
-| 3 | [Blood](https://open.spotify.com/track/5H7Q8TFW1rWURc99JysBiW) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Blood](https://open.spotify.com/album/46Z5x4VAEiqhZyXekglUya) | 4:10 |
+| 2 | [Blood](https://open.spotify.com/track/5H7Q8TFW1rWURc99JysBiW) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Blood](https://open.spotify.com/album/46Z5x4VAEiqhZyXekglUya) | 4:10 |
+| 3 | [Iori 5](https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 5](https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb) | 3:10 |
 | 4 | [Sur la selle](https://open.spotify.com/track/0J0yMKOrsxzD7okus8TEQ4) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Sur la selle](https://open.spotify.com/album/1mGq7FkXTO8q0hhkk2xojY) | 2:48 |
 | 5 | [Dexter](https://open.spotify.com/track/5anrH8SzdtPP1fMz3eOBvS) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Dexter](https://open.spotify.com/album/5hU57XeQXFA5CxDanMMuMI) | 2:48 |
 | 6 | [Silhouette](https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Silhouette](https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs) | 4:25 |
 | 7 | [Eufury](https://open.spotify.com/track/6qLmmvQDXYI9jesFhTdOEn) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Eufury](https://open.spotify.com/album/6SOAaopbpAVjiUE80HA1X5) | 2:34 |
-| 8 | [Ken Sasaki](https://open.spotify.com/track/2ZGyInkLMjVOVFJEjVH6sS) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Ken Sasaki](https://open.spotify.com/album/7ntxY7I51IOCNC2POHNGTe) | 3:36 |
-| 9 | [عُمر المُختار](https://open.spotify.com/track/1kTCib48ZJyIp66dgdZS9l) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [عُمر المُختار](https://open.spotify.com/album/4zdv7TVPcXeALi2xOPEOtE) | 2:36 |
-| 10 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 |
-| 11 | [BASSIR](https://open.spotify.com/track/4hRA3vfdnueQ1jUtzXVyKX) | [LMEHDI](https://open.spotify.com/artist/0harAEshGekJSaQaEXI8D9) | [BASSIR](https://open.spotify.com/album/5TE2KUnFdyyiSua2e5Z3hC) | 2:12 |
+| 8 | [BASSIR](https://open.spotify.com/track/4hRA3vfdnueQ1jUtzXVyKX) | [LMEHDI](https://open.spotify.com/artist/0harAEshGekJSaQaEXI8D9) | [BASSIR](https://open.spotify.com/album/5TE2KUnFdyyiSua2e5Z3hC) | 2:12 |
+| 9 | [Ken Sasaki](https://open.spotify.com/track/2ZGyInkLMjVOVFJEjVH6sS) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Ken Sasaki](https://open.spotify.com/album/7ntxY7I51IOCNC2POHNGTe) | 3:36 |
+| 10 | [عُمر المُختار](https://open.spotify.com/track/1kTCib48ZJyIp66dgdZS9l) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [عُمر المُختار](https://open.spotify.com/album/4zdv7TVPcXeALi2xOPEOtE) | 2:36 |
+| 11 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 |
 | 12 | [Ta7t Jna7i](https://open.spotify.com/track/5aOWc0G39X0CAZejwoD3TQ) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Ta7t Jna7i](https://open.spotify.com/album/2Ea77e8dqrYZZtJELNzGfN) | 3:19 |
 | 13 | [Wayli](https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Wayli](https://open.spotify.com/album/0uz6OPsa2Gne3JoG54NCCE) | 4:19 |
 | 14 | [KOUN RAJEL](https://open.spotify.com/track/4SxZyjZiFdlSW5YTUhMU7t) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [KOUN RAJEL](https://open.spotify.com/album/0oRaXdhsMKLj3h0BPQBuxK) | 3:23 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 50 | [La Weed](https://open.spotify.com/track/3Qe4g2M8lld0lmyE2LLRNk) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 3:10 |
 | 51 | [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 |
 
-Snapshot ID: `MTY3MjUyODUxNywwMDAwMDAwMGVkOWE1OWZhYTg0NzdiM2VmM2M1ODY3NmEwMTViNTA4`
+Snapshot ID: `MTY3MjY1OTQwNCwwMDAwMDAwMDFjOWVmY2VhYjkzYTRhMWJjZThkZjk1MTM2NDY5MDUy`

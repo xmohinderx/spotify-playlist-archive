@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > ballon d'or 2023?
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,141 likes - 78 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,170 likes - 78 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

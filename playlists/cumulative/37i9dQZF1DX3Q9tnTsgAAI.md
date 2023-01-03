@@ -4,7 +4,7 @@
 
 > AOMG's mr\. wide\-range rapper: Loco
 
-111 songs - 6 hr 49 min - not published yet
+112 songs - 6 hr 52 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Late Night](https://open.spotify.com/track/7GhxPuxjwAbKEiQFMP5Mxd) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Late Night](https://open.spotify.com/album/5H6Sord6ry7qvVlNTwpfHC) | 3:11 | 2022-09-20 |  |
 | [Lemon](https://open.spotify.com/track/3zwntVG0DD4oM5zbaRBYcL) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Somebody](https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN) | 3:31 | 2022-09-20 |  |
 | [Like I'm saying](https://open.spotify.com/track/4irP8FbtdvsSdbMpUyDEWp) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI) | 3:28 | 2022-09-20 |  |
+| [LIKE WATER \(Feat\. Loco, HyunA\)](https://open.spotify.com/track/6Vo3VtFuU8qHeXJpb5rDFa) | [JAMBINO](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [SHOW ME THE MONEY 11 Semi Final](https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx) | 3:43 | 2023-01-02 |  |
 | [Local Market \(feat\. LOCO & SURAN\)](https://open.spotify.com/track/0JTqBg6SI60953QxyYr78M) | [TK](https://open.spotify.com/artist/0kA2cuK2RR04zHvuFtFzDJ), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Tourist](https://open.spotify.com/album/0c6HVT63jKngery3iE4BXr) | 3:41 | 2022-09-20 |  |
 | [Love\(Prod.Rocoberry\)](https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Lee sung kyung](https://open.spotify.com/artist/7AqcQSFPIpFD44ZNRm22m4) | [Love\(Prod.Rocoberry\)](https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH) | 3:40 | 2022-09-20 |  |
 | [Macan](https://open.spotify.com/track/5tLjnT5o3kzCqQjqwLyiu4) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI) | 3:48 | 2022-09-20 |  |

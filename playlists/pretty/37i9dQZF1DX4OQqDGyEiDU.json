@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 54675,
+  "num_followers": 54738,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjMyNjAwMCwwMDAwMDAwMGViMTk3NWNjNmY4M2IyODg1MDBkMDk0OTkxM2VmNDI2",
+  "snapshot_id": "MTY3MjMyNjAwMCwwMDAwMDAwMGRhMzE2MDdiNTNlZmE3NjUzNmU5YTdkM2I4YTc2ZWI2",
   "tracks": [
     {
       "added_at": "2022-12-29 15:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-12-29 15:00:00",
       "album": {
-        "name": "\u30a8\u30b4\u30ed\u30c3\u30af (long ver.)",
-        "url": "https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u308a\u3043",
-          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
-        }
-      ],
-      "duration_ms": 169529,
-      "name": "\u30a8\u30b4\u30ed\u30c3\u30af - long ver.",
-      "url": "https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx"
-    },
-    {
-      "added_at": "2022-12-29 15:00:00",
-      "album": {
         "name": "Exit Tunes Presents Supernova",
         "url": "https://open.spotify.com/album/1iWiHH4pOLxDCDTN2AJ70X"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 194000,
       "name": "Rollin\u2019 Girl",
       "url": "https://open.spotify.com/track/5VJPBUVqxzLWmzzlJZy4r2"
+    },
+    {
+      "added_at": "2022-12-29 15:00:00",
+      "album": {
+        "name": "\u30a8\u30b4\u30ed\u30c3\u30af (long ver.)",
+        "url": "https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u308a\u3043",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+        }
+      ],
+      "duration_ms": 169529,
+      "name": "\u30a8\u30b4\u30ed\u30c3\u30af - long ver.",
+      "url": "https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx"
     },
     {
       "added_at": "2022-12-29 15:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-12-29 15:00:00",
       "album": {
+        "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
+        "url": "https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "duration_ms": 238874,
+      "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
+      "url": "https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F"
+    },
+    {
+      "added_at": "2022-12-29 15:00:00",
+      "album": {
         "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb",
         "url": "https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2022-12-29 15:00:00",
       "album": {
-        "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
-        "url": "https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh"
+        "name": "\u30c4\u30ae\u30cf\u30ae\u30b9\u30bf\u30c3\u30ab\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/334dtoC0dImpN25UZ62DMD"
       },
       "artists": [
         {
-          "name": "hachi",
-          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+          "name": "toa",
+          "url": "https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b"
         }
       ],
-      "duration_ms": 238874,
-      "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
-      "url": "https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F"
+      "duration_ms": 250359,
+      "name": "\u30c4\u30ae\u30cf\u30ae\u30b9\u30bf\u30c3\u30ab\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/0V7RxFamMkLN6tXR7S2t1W"
     },
     {
       "added_at": "2022-12-29 15:00:00",
@@ -631,22 +647,6 @@
       "duration_ms": 210005,
       "name": "Ready Steady (feat. \u5c0f\u8c46\u6ca2\u3053\u306f\u306d&\u767d\u77f3\u674f&\u6771\u96f2\u5f70\u4eba&\u9752\u67f3\u51ac\u5f25&\u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3gkNuMdF4BgdEQRr0UuOfl"
-    },
-    {
-      "added_at": "2022-12-29 15:00:00",
-      "album": {
-        "name": "\u30c4\u30ae\u30cf\u30ae\u30b9\u30bf\u30c3\u30ab\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/334dtoC0dImpN25UZ62DMD"
-      },
-      "artists": [
-        {
-          "name": "toa",
-          "url": "https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b"
-        }
-      ],
-      "duration_ms": 250359,
-      "name": "\u30c4\u30ae\u30cf\u30ae\u30b9\u30bf\u30c3\u30ab\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/0V7RxFamMkLN6tXR7S2t1W"
     },
     {
       "added_at": "2022-12-29 15:00:00",
@@ -683,6 +683,22 @@
       "duration_ms": 163686,
       "name": "\u30de\u30fc\u30b7\u30e3\u30eb\u30fb\u30de\u30ad\u30b7\u30de\u30a4\u30b6\u30fc",
       "url": "https://open.spotify.com/track/00ydUpbxn87fyKSK5A6Du8"
+    },
+    {
+      "added_at": "2022-12-29 15:00:00",
+      "album": {
+        "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "duration_ms": 205155,
+      "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml"
     },
     {
       "added_at": "2022-12-29 15:00:00",
@@ -763,22 +779,6 @@
       "duration_ms": 117055,
       "name": "\u30ad\u30e3\u30c3\u30c8\u30e9\u30d3\u30f3\u30b0",
       "url": "https://open.spotify.com/track/1YIr7kCHsECRkVclYvFRUY"
-    },
-    {
-      "added_at": "2022-12-29 15:00:00",
-      "album": {
-        "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx"
-      },
-      "artists": [
-        {
-          "name": "hachi",
-          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
-        }
-      ],
-      "duration_ms": 205155,
-      "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml"
     },
     {
       "added_at": "2022-12-29 15:00:00",

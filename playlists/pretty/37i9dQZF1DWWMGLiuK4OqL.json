@@ -1,12 +1,12 @@
 {
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
-  "num_followers": 136237,
+  "num_followers": 136516,
   "original_name": "Sweet Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMGVjNDcxY2JkYTEzMmI5Y2JkZmI3ZmQ4OTI1YjRmOTJm",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMGQ3Y2RiNmQyZTQ3MDUxM2Y4NmUxMDdjODYyMjU3NTEy",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Moon Lover",
+        "url": "https://open.spotify.com/album/7bZM4rQXsuEDdEEjeHEVlj"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/55A5X28Hd8AvSAYKx6kcND"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Sarah Vaughan's Golden Hits",
         "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 336546,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/4bA0Y5vHsRx2RH59lGkryb"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Moon Lover",
-        "url": "https://open.spotify.com/album/7bZM4rQXsuEDdEEjeHEVlj"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/55A5X28Hd8AvSAYKx6kcND"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Love Stories",
-        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Genius Loves Company",
         "url": "https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 235401,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/4h74V26B574hSICB5MZs1c"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "I've Never Been In Love Before",
-      "url": "https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "The Ultimate",
         "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 193666,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 222146,
+      "name": "I've Never Been In Love Before",
+      "url": "https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "My One And Only Thrill",
+        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Baby I'm A Fool",
+      "url": "https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Dreamers Do",
         "url": "https://open.spotify.com/album/48vMJyoBaAUs7mRtVnENwh"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 164693,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/1fKTjYXhEV4f2Iz1LOYOk0"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Make Someone Happy",
-        "url": "https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm"
-      },
-      "artists": [
-        {
-          "name": "Sophie Milman",
-          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
-        }
-      ],
-      "duration_ms": 252560,
-      "name": "Something In The Air Between Us",
-      "url": "https://open.spotify.com/track/1PMMDeHkTvLZBQiZU860BU"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "My One And Only Thrill",
-        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
+        "name": "Make Someone Happy",
+        "url": "https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm"
       },
       "artists": [
         {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+          "name": "Sophie Milman",
+          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
         }
       ],
-      "duration_ms": 210693,
-      "name": "Baby I'm A Fool",
-      "url": "https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr"
+      "duration_ms": 252560,
+      "name": "Something In The Air Between Us",
+      "url": "https://open.spotify.com/track/1PMMDeHkTvLZBQiZU860BU"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "On My Way to You",
-        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 172746,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/3cYAxfeE7rwiF1vjCTYi3i"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "When I Look In Your Eyes",
         "url": "https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 370426,
       "name": "I've Got You Under My Skin",
       "url": "https://open.spotify.com/track/7eL2UWdB8UglEfnCvSypbq"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "On My Way to You",
+        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 172746,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/3cYAxfeE7rwiF1vjCTYi3i"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -975,6 +975,22 @@
       "duration_ms": 287836,
       "name": "Nightjar in the Northern Sky",
       "url": "https://open.spotify.com/track/5fCsD2cRqXf0q5JAGTrmez"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "This Dream Of You",
+        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 290440,
+      "name": "But Beautiful",
+      "url": "https://open.spotify.com/track/2QJTjKjGH9JUHRwXKUrLFI"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "This Dream Of You",
-        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
+        "name": "The Boy Next Door (Special Edition)",
+        "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
         }
       ],
-      "duration_ms": 290440,
-      "name": "But Beautiful",
-      "url": "https://open.spotify.com/track/2QJTjKjGH9JUHRwXKUrLFI"
+      "duration_ms": 208573,
+      "name": "All I Do Is Dream Of You",
+      "url": "https://open.spotify.com/track/6hDEZb1zrH4gULVHGuVBBN"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1095,18 +1111,30 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "The Boy Next Door (Special Edition)",
-        "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
+        "name": "At Long Last Love (Live)",
+        "url": "https://open.spotify.com/album/2U1H2DJYHC4TGCcnjA4be1"
       },
       "artists": [
         {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Barry Stephenson",
+          "url": "https://open.spotify.com/artist/2be2q753N8e1UfuV5AvqNa"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
         }
       ],
-      "duration_ms": 208573,
-      "name": "All I Do Is Dream Of You",
-      "url": "https://open.spotify.com/track/6hDEZb1zrH4gULVHGuVBBN"
+      "duration_ms": 171760,
+      "name": "At Long Last Love - Live",
+      "url": "https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1143,34 +1171,6 @@
       "duration_ms": 462306,
       "name": "Summer Time",
       "url": "https://open.spotify.com/track/7skpOVKLMC9oUwVcG6mZQ6"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "At Long Last Love (Live)",
-        "url": "https://open.spotify.com/album/2U1H2DJYHC4TGCcnjA4be1"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Barry Stephenson",
-          "url": "https://open.spotify.com/artist/2be2q753N8e1UfuV5AvqNa"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
-        }
-      ],
-      "duration_ms": 171760,
-      "name": "At Long Last Love - Live",
-      "url": "https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1239,38 +1239,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Mrs. Cold",
-        "url": "https://open.spotify.com/album/1WhW0QimR7aDE0qoBhzCaz"
+        "name": "Lady In Satin",
+        "url": "https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA"
       },
       "artists": [
         {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 183766,
-      "name": "Mrs. Cold",
-      "url": "https://open.spotify.com/track/2fZpBqtZeNpXxX5UiO0AVw"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "The Nearness of You",
-        "url": "https://open.spotify.com/album/1m52IEUS08ohNLcVyxdyqu"
-      },
-      "artists": [
-        {
-          "name": "Camille Harris",
-          "url": "https://open.spotify.com/artist/245uCozaIRf8nxTWhQ09rL"
-        },
-        {
-          "name": "David Linard",
-          "url": "https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l"
-        }
-      ],
-      "duration_ms": 303109,
-      "name": "The Nearness of You",
-      "url": "https://open.spotify.com/track/1XF80YjwjuzuIfLzIfbqkt"
+      "duration_ms": 228133,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/5UPJdlkMWG2G2UwTfGSjOe"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1287,6 +1267,22 @@
       "duration_ms": 230066,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Mrs. Cold",
+        "url": "https://open.spotify.com/album/1WhW0QimR7aDE0qoBhzCaz"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 183766,
+      "name": "Mrs. Cold",
+      "url": "https://open.spotify.com/track/2fZpBqtZeNpXxX5UiO0AVw"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1311,34 +1307,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Lady In Satin",
-        "url": "https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA"
+        "name": "The Nearness of You",
+        "url": "https://open.spotify.com/album/1m52IEUS08ohNLcVyxdyqu"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "You Don't Know What Love Is",
-      "url": "https://open.spotify.com/track/5UPJdlkMWG2G2UwTfGSjOe"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Jazz Love",
-        "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
-      },
-      "artists": [
+          "name": "Camille Harris",
+          "url": "https://open.spotify.com/artist/245uCozaIRf8nxTWhQ09rL"
+        },
         {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+          "name": "David Linard",
+          "url": "https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l"
         }
       ],
-      "duration_ms": 306795,
-      "name": "If I Ain\u2019t Got You",
-      "url": "https://open.spotify.com/track/3WpToBi5wFQpHPo5dVV2MW"
+      "duration_ms": 303109,
+      "name": "The Nearness of You",
+      "url": "https://open.spotify.com/track/1XF80YjwjuzuIfLzIfbqkt"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1371,6 +1355,22 @@
       "duration_ms": 229826,
       "name": "Most of the Time",
       "url": "https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Jazz Love",
+        "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 306795,
+      "name": "If I Ain\u2019t Got You",
+      "url": "https://open.spotify.com/track/3WpToBi5wFQpHPo5dVV2MW"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "A Certain Someone",
-        "url": "https://open.spotify.com/album/5UPRQVPIXbuOwOuEcnjif1"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 252013,
-      "name": "A Certain Someone",
-      "url": "https://open.spotify.com/track/25yMnwMO9d5urUdVtPyWee"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Frank (US Clean e-Version)",
         "url": "https://open.spotify.com/album/0RisvCe4jLWes0m89StnuZ"
       },
@@ -1483,6 +1467,50 @@
       "duration_ms": 135421,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "A Certain Someone",
+        "url": "https://open.spotify.com/album/5UPRQVPIXbuOwOuEcnjif1"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 252013,
+      "name": "A Certain Someone",
+      "url": "https://open.spotify.com/track/25yMnwMO9d5urUdVtPyWee"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "At Ease",
+        "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
+      },
+      "artists": [
+        {
+          "name": "Marcus Bartelt",
+          "url": "https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy"
+        },
+        {
+          "name": "Martin Sasse",
+          "url": "https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT"
+        },
+        {
+          "name": "Martin Gjakonovski",
+          "url": "https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61"
+        },
+        {
+          "name": "Joost Van Schaik",
+          "url": "https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ"
+        }
+      ],
+      "duration_ms": 451155,
+      "name": "Does The Sun Really Shine On The Moon",
+      "url": "https://open.spotify.com/track/43FAhG8BEm5L5Fa8fnC2u5"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1539,34 +1567,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "At Ease",
-        "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
-      },
-      "artists": [
-        {
-          "name": "Marcus Bartelt",
-          "url": "https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy"
-        },
-        {
-          "name": "Martin Sasse",
-          "url": "https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT"
-        },
-        {
-          "name": "Martin Gjakonovski",
-          "url": "https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61"
-        },
-        {
-          "name": "Joost Van Schaik",
-          "url": "https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ"
-        }
-      ],
-      "duration_ms": 451155,
-      "name": "Does The Sun Really Shine On The Moon",
-      "url": "https://open.spotify.com/track/43FAhG8BEm5L5Fa8fnC2u5"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "This Bitter Earth",
         "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 256834,
       "name": "Prisoner of Love",
       "url": "https://open.spotify.com/track/7jB2MgZ6ljFZaB63kwoWer"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Stardust...The Great American Songbook III",
+        "url": "https://open.spotify.com/album/7Eq9kjeFYGjUAlEgDrAiOU"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/65cIgw9x1CGjpn1ar351Rl"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1603,38 +1619,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Stardust...The Great American Songbook III",
-        "url": "https://open.spotify.com/album/7Eq9kjeFYGjUAlEgDrAiOU"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/65cIgw9x1CGjpn1ar351Rl"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "12th Avenue",
-        "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 277065,
-      "name": "12th Avenue",
-      "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "It Had To Be You",
         "url": "https://open.spotify.com/album/4OCNUHcGGDd3ebWfFnQqMM"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 158875,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/6wHE239XacQWh9qJtGGaGJ"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "12th Avenue",
+        "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 277065,
+      "name": "12th Avenue",
+      "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
+      },
+      "artists": [
+        {
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+        }
+      ],
+      "duration_ms": 157133,
+      "name": "(It Will Have To Do) Until The Real Thing Comes Along",
+      "url": "https://open.spotify.com/track/6XiTocvILURpEtGL6NWW7i"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "The Art Of Elegance",
         "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
       },
@@ -1747,26 +1763,6 @@
       "duration_ms": 185239,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/5eg751DjyXstfd7xwdHZ62"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Love Tastes Like Strawberries",
-        "url": "https://open.spotify.com/album/3oOqTn2s7bE9Ye7GTmKO6m"
-      },
-      "artists": [
-        {
-          "name": "Somi",
-          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 218207,
-      "name": "Love Tastes Like Strawberries",
-      "url": "https://open.spotify.com/track/61jFe9N3u046ORguFBVAQa"
     }
   ],
   "unique_name": "Sweet Jazz",

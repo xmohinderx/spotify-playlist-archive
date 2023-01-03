@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del Rock en Español\. Cover: Wiplash
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,144 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,169 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 15 | [Ramona Flowers](https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Ramona Flowers](https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am) | 3:01 |
 | 16 | [QUE SE MEJOREN](https://open.spotify.com/track/1ikC0IM4iDcdPtVpQ22fik) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUE SE MEJOREN](https://open.spotify.com/album/2YrxNeGDQAFYrNvOx3mYUe) | 3:01 |
 | 17 | [Cantar de los Magos](https://open.spotify.com/track/6wNVd3n0AYoZrbuF45MYAL) | [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [Cantar de los Magos](https://open.spotify.com/album/4AIbSPwiL3wb35iJTvqXFN) | 4:44 |
-| 18 | [Todo está bien](https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Todo está bien](https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0) | 6:16 |
-| 19 | [No Te Imaginás](https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:31 |
-| 20 | [Alguien pa ti](https://open.spotify.com/track/6Vf9tNL19cia86zyp0oT0V) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Alguien pa ti](https://open.spotify.com/album/5r3J7nLgMa9lX3xrX5vXGM) | 2:59 |
-| 21 | [Multiverso](https://open.spotify.com/track/7JaqtJbkdwqREniRjBTAaD) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa) | [Multiverso](https://open.spotify.com/album/0nrT7FTdjR4xS3DJrRzY6X) | 3:01 |
+| 18 | [No Te Imaginás](https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:31 |
+| 19 | [Todo está bien](https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Todo está bien](https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0) | 6:16 |
+| 20 | [Multiverso](https://open.spotify.com/track/7JaqtJbkdwqREniRjBTAaD) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa) | [Multiverso](https://open.spotify.com/album/0nrT7FTdjR4xS3DJrRzY6X) | 3:01 |
+| 21 | [Alguien pa ti](https://open.spotify.com/track/6Vf9tNL19cia86zyp0oT0V) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Alguien pa ti](https://open.spotify.com/album/5r3J7nLgMa9lX3xrX5vXGM) | 2:59 |
 | 22 | [La Petite Mort](https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Petite Mort](https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd) | 4:51 |
 | 23 | [Inalacanzable](https://open.spotify.com/track/4l0QVLmd1kFzP9hA6L0mJV) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Cronopaisajes \- EP](https://open.spotify.com/album/2lTbNjxusc20TmIZ6DGfJo) | 3:08 |
 | 24 | [REMORDIMIENTO](https://open.spotify.com/track/2LzcBK5hfCP5sRKpGQmWpX) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [REMORDIMIENTO](https://open.spotify.com/album/5j7qcWBm36z31n2E6woUhZ) | 3:07 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 38 | [d Bien a MaL](https://open.spotify.com/track/0iUtQ1lOf6eGpbNnBIG34A) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [d Bien a MaL](https://open.spotify.com/album/7Kuza1T3fYUXZ266uv2HbG) | 3:02 |
 | 39 | [Tentempié](https://open.spotify.com/track/5eCKnzn95RO30yOJbzdE04) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:44 |
 | 40 | [Quiero Casarme Contigo](https://open.spotify.com/track/1s5FcXcjnYDEC785fcoBQv) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [El Tiempo y la Actitud](https://open.spotify.com/album/5fduhI9tX4BLmTXbSBjL4R) | 2:58 |
-| 41 | [La Llave](https://open.spotify.com/track/1DJcyrh1PserkiE2IZ9Q7G) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/40ablOkksXy9AgUsOHxhrm) | 3:06 |
-| 42 | [Control](https://open.spotify.com/track/1oMxupNpysPWP2u90mEyur) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [FREESSR](https://open.spotify.com/album/1d7MgwIErE9frncQHqnuqk) | 3:45 |
+| 41 | [Control](https://open.spotify.com/track/1oMxupNpysPWP2u90mEyur) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [FREESSR](https://open.spotify.com/album/1d7MgwIErE9frncQHqnuqk) | 3:45 |
+| 42 | [La Llave](https://open.spotify.com/track/1DJcyrh1PserkiE2IZ9Q7G) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/40ablOkksXy9AgUsOHxhrm) | 3:06 |
 | 43 | [Mota o Perreo](https://open.spotify.com/track/0MRB04KQD10chU3wJjPIww) | [Michelle Blades](https://open.spotify.com/artist/2CXuLCYPAqkO8acjDoZWGG) | [Nombrar las Cosas](https://open.spotify.com/album/3BqdeMQuHncO2zm5SW1s4t) | 2:24 |
 | 44 | [Teletecho](https://open.spotify.com/track/7tk6NW5Mk9KJOE0v31yNb5) | [Cala Vento](https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1), [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Teletecho y El Acecho](https://open.spotify.com/album/6SJqRfgnfUTB6Uny9iLPzk) | 3:22 |
 | 45 | [La Niña Escopeta](https://open.spotify.com/track/0BPUqjCuMStKN4cTpXmpfB) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [La Niña Escopeta](https://open.spotify.com/album/32amwzZttOClt5ce6T6rLs) | 3:27 |
-| 46 | [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 |
-| 47 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 |
+| 46 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 |
+| 47 | [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 |
 | 48 | [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 |
 | 49 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 |
 | 50 | [Fuera de Lugar](https://open.spotify.com/track/0JgwKmhObrOlQfRXgJf1c4) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/40ablOkksXy9AgUsOHxhrm) | 3:23 |
 
-Snapshot ID: `MTY3MjQyNjMwMiwwMDAwMDAwMGJiMDQxOGNiMGJjOTIzOTE4MjY3N2UwODZlNjE2NGZl`
+Snapshot ID: `MTY3MjQyNjMwMiwwMDAwMDAwMGYyOWYxMjAwMzFkNjI4ZTAzOWU2ZmQwODQ2MzU4MTM0`

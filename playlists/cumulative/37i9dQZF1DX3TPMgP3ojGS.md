@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,624 songs - 3 day 1 hr 13 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,625 songs - 3 day 1 hr 15 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [At First Sight](https://open.spotify.com/track/7Ffpq66dn7HBkds2cw5UPa) | [Mactominie](https://open.spotify.com/artist/6NFevN87KdATGwxaQvh7ik) | [At First Sight](https://open.spotify.com/album/18VNY5VhRXG44aHPWR0Bdk) | 2:42 | 2021-03-27 | 2022-07-29 |
 | [At Night](https://open.spotify.com/track/4QGD0QyFrCOOplMtVGNFiE) | [Oscar Sundberg](https://open.spotify.com/artist/6dqgUbsMsMRsWoRnuibxwl) | [Lost And Found](https://open.spotify.com/album/6YqfoKDp9GzqvtM1o5J584) | 2:43 | 2022-03-29 | 2022-04-03 |
 | [At The Tivoli](https://open.spotify.com/track/19GNiqhGxo18QvYl3MCdf4) | [Lena Sievers](https://open.spotify.com/artist/1yGv7UPideRPL4IngN6hM0) | [At The Tivoli](https://open.spotify.com/album/0nmQZh29BG30c4ufEZlqYy) | 2:05 | 2021-05-08 | 2021-05-16 |
-| [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2022-12-24 |  |
+| [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2022-12-24 | 2023-01-03 |
 | [Augury](https://open.spotify.com/track/11Ipu3bo6eWoa9TiiOEJ0I) | [Anne Franco](https://open.spotify.com/artist/6IEySWUOgBlDS2HQfjCbSw) | [Augury](https://open.spotify.com/album/3bWQAA7YZqmobEapyM8Vgu) | 2:40 | 2021-08-06 | 2022-04-14 |
 | [Aura](https://open.spotify.com/track/3txAMdbJitTk5qSlkEV7vr) | [Novo Talos](https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea) | [Aura](https://open.spotify.com/album/47RBNIbpNQT2DVgmZVC0s5) | 2:07 | 2021-03-10 | 2022-04-14 |
 | [Aureolin](https://open.spotify.com/track/3bVqf1bacJYV4hupQ9FIgl) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Aureolin](https://open.spotify.com/album/3x7NlTjKHUuwxq4pgO8nnT) | 2:36 | 2021-12-13 | 2022-04-11 |
@@ -1079,6 +1079,7 @@
 | [Psalm](https://open.spotify.com/track/0eUJLR1GgpIMoAeiew9yFo) | [Hannes Jensen](https://open.spotify.com/artist/3PjDdvkG80nh7dlsDd1zmN) | [Psalm](https://open.spotify.com/album/0vVqxusePqHQ73aHgLtXro) | 2:19 | 2021-07-11 | 2022-07-25 |
 | [Psalm \#1](https://open.spotify.com/track/2M3TYW4G60raCQnznf0e1o) | [René Sturgess](https://open.spotify.com/artist/5gEyAqENfIITIqk0dUaPUm) | [Psalm \#1](https://open.spotify.com/album/5Pa5qVrKMenKj5XTGkr1JL) | 1:49 | 2021-03-09 | 2022-04-20 |
 | [Purple Distant](https://open.spotify.com/track/4QVIk4rz60fXiOy5LBNedb) | [Once Proven](https://open.spotify.com/artist/3t46Q3kFpBlN8nD75ypsMj) | [Closing In On Reality](https://open.spotify.com/album/2fAg8MypA3l9c3G1I3QXeB) | 2:26 | 2022-04-12 | 2022-04-15 |
+| [pæoner](https://open.spotify.com/track/4516jKqIrGNIShWH3WBqmd) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [pæoner](https://open.spotify.com/album/1S6MFC3YC69IHDOOktMFTk) | 1:52 | 2023-01-03 |  |
 | [Qi](https://open.spotify.com/track/2PgVEaqgmMh1hdhcnuqDEd) | [PHILDEL](https://open.spotify.com/artist/7B0uXJvJUTwwbeSToeZeJ4) | [Qi](https://open.spotify.com/album/39fZOxjNH13Aj7Mzgpy9co) | 5:26 | 2021-03-07 | 2021-05-09 |
 | [Quand vous souriez](https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95) | [Libor Kolman](https://open.spotify.com/artist/5GWhfNzngahL2GIFq3NwHT) | [Quand vous souriez](https://open.spotify.com/album/0a2MWbnNqbDan6OcOwRLuv) | 1:58 | 2022-08-17 |  |
 | [Quando gli alberi incontrano il vento](https://open.spotify.com/track/1HByqL0NBv4U3EXobDUkiy) | [Riccardo Lucciano](https://open.spotify.com/artist/20WwrV7uTNMYTN1Rax9ORA) | [Quando gli alberi incontrano il vento](https://open.spotify.com/album/5gC9wVZoOL4bJNSo9eoclI) | 2:55 | 2021-04-03 | 2022-07-05 |

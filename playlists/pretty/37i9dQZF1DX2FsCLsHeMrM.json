@@ -1,15 +1,15 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 852732,
+  "num_followers": 853383,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTcwMzg0MiwwMDAwMDAwMGJmMTYyMjA3ZGZjNjlmZTVmODBkZWNkODU4NDY0MGI0",
+  "snapshot_id": "MTY3MTcwMzg0MiwwMDAwMDAwMGM0YzY2YWU1YmMwYmNmOWNjOTU1ZTQ3ZjA5YWQ3ZTA0",
   "tracks": [
     {
-      "added_at": "2023-01-02 00:59:21",
+      "added_at": "2023-01-03 02:12:53",
       "album": {
         "name": "Every Summertime",
         "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 230813,
       "name": "Slide (feat. Frank Ocean & Migos)",
       "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Mahogany Soul",
-        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 270893,
-      "name": "Wish I Didn't Miss You",
-      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 324666,
       "name": "Fastlove, Pt. 1",
       "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Mahogany Soul",
+        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 270893,
+      "name": "Wish I Didn't Miss You",
+      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 140133,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Ladies And Gentlemen... The Best Of George Michael",
         "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
+        "name": "Bad (Remastered)",
+        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 298120,
+      "name": "The Way You Make Me Feel - 2012 Remaster",
+      "url": "https://open.spotify.com/track/76HKOVWqsEg26SECtmw7Rz"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
         "name": "Yesterday's Tomorrow",
         "url": "https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u"
       },
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Bad (Remastered)",
-        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 298120,
-      "name": "The Way You Make Me Feel - 2012 Remaster",
-      "url": "https://open.spotify.com/track/76HKOVWqsEg26SECtmw7Rz"
+      "duration_ms": 140133,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 257670,
-      "name": "Sumthin' Sumthin' - Remastered 2021",
-      "url": "https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Still Groovin (Remastered)",
         "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 163320,
       "name": "Groovin' - Remastered",
       "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 257670,
+      "name": "Sumthin' Sumthin' - Remastered 2021",
+      "url": "https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU"
-      },
-      "artists": [
-        {
-          "name": "Saint Joshua",
-          "url": "https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz"
-        }
-      ],
-      "duration_ms": 272211,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv"
       },
@@ -1951,18 +1935,18 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/67W4biyQmCea38iD3vxlEV"
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU"
       },
       "artists": [
         {
-          "name": "Scarlet Pleasure",
-          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+          "name": "Saint Joshua",
+          "url": "https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz"
         }
       ],
-      "duration_ms": 205951,
-      "name": "Windy",
-      "url": "https://open.spotify.com/track/6xraWJ8FdIJ8c8HpwXhNgs"
+      "duration_ms": 272211,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1983,6 +1967,22 @@
       "duration_ms": 259333,
       "name": "911 (feat. Mary J. Blige)",
       "url": "https://open.spotify.com/track/28hgx2bWXcaBJeC9zVwrBq"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/67W4biyQmCea38iD3vxlEV"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Pleasure",
+          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+        }
+      ],
+      "duration_ms": 205951,
+      "name": "Windy",
+      "url": "https://open.spotify.com/track/6xraWJ8FdIJ8c8HpwXhNgs"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
-      },
-      "artists": [
-        {
-          "name": "Remy Shand",
-          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/1qn0kla1XZSbLSb1u81kSc"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 266946,
       "name": "Where is the love ?",
       "url": "https://open.spotify.com/track/1JPOZzPzvTzVoHixqI8pWs"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
+      },
+      "artists": [
+        {
+          "name": "Remy Shand",
+          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Man of the Woods",
-        "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 258506,
-      "name": "Higher Higher",
-      "url": "https://open.spotify.com/track/7GfhZZq8plOVTeqsDMbftc"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Limbo/Lagune",
         "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
       },
@@ -2355,6 +2339,22 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
+        "name": "Man of the Woods",
+        "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 258506,
+      "name": "Higher Higher",
+      "url": "https://open.spotify.com/track/7GfhZZq8plOVTeqsDMbftc"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
         "name": "Pass Time",
         "url": "https://open.spotify.com/album/13Zo5L7T7hhrOdsUUZsiWz"
       },
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "A Weird Kinda Wonderful",
-        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
-      },
-      "artists": [
-        {
-          "name": "N'Dambi",
-          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
-        }
-      ],
-      "duration_ms": 311453,
-      "name": "Can't Change Me",
-      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/0yPPQFsu18ZvricvGcULjZ"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 230187,
       "name": "Scars",
       "url": "https://open.spotify.com/track/1EdktpB83X3KfUavH6Vf7b"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "A Weird Kinda Wonderful",
+        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
+      },
+      "artists": [
+        {
+          "name": "N'Dambi",
+          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+        }
+      ],
+      "duration_ms": 311453,
+      "name": "Can't Change Me",
+      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Love In Synthesis",
-        "url": "https://open.spotify.com/album/69rgvUHKOYmwre7xkWDJcf"
-      },
-      "artists": [
-        {
-          "name": "MMYYKK",
-          "url": "https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Soulmate (Heartstrings)",
-      "url": "https://open.spotify.com/track/7tC8VI0VlMv4ZyNssmKpJG"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "You Ain't The Problem",
         "url": "https://open.spotify.com/album/6J37CAUxNhrqlX9iuSzVVR"
       },
@@ -2459,18 +2443,18 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "SoulMate",
-        "url": "https://open.spotify.com/album/2FljC0wx1bLyT6GW3FDQFX"
+        "name": "Love In Synthesis",
+        "url": "https://open.spotify.com/album/69rgvUHKOYmwre7xkWDJcf"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "MMYYKK",
+          "url": "https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT"
         }
       ],
-      "duration_ms": 196231,
-      "name": "SoulMate",
-      "url": "https://open.spotify.com/track/4YLtrBhzjsI2LT6ybXQHeD"
+      "duration_ms": 208000,
+      "name": "Soulmate (Heartstrings)",
+      "url": "https://open.spotify.com/track/7tC8VI0VlMv4ZyNssmKpJG"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2519,6 +2503,22 @@
       "duration_ms": 354093,
       "name": "Stop By",
       "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "SoulMate",
+        "url": "https://open.spotify.com/album/2FljC0wx1bLyT6GW3FDQFX"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 196231,
+      "name": "SoulMate",
+      "url": "https://open.spotify.com/track/4YLtrBhzjsI2LT6ybXQHeD"
     },
     {
       "added_at": "2022-12-02 12:00:00",

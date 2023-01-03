@@ -1,12 +1,12 @@
 {
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
-  "num_followers": 168707,
+  "num_followers": 169017,
   "original_name": "80s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNTkxNiwwMDAwMDAwMGYxZGQzNDQ5OGM5ZDQ3MzhlNmYzYjhiMmIxYWQ5OTZk",
+  "snapshot_id": "MTY1NzAzNTkxNiwwMDAwMDAwMDVkNzM3YWY4MDk0NDI2ZjIzMGJkNWFhMmMxMTUyMzdm",
   "tracks": [
     {
       "added_at": "2021-03-16 22:32:51",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "We're Not Gonna Take It",
-      "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 222706,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "We're Not Gonna Take It",
+      "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 179760,
       "name": "I Wanna Rock",
       "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Metal Health",
-        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
-      },
-      "artists": [
-        {
-          "name": "Quiet Riot",
-          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Cum on Feel the Noize",
-      "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 405600,
       "name": "Paradise City",
       "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Metal Health",
+        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
+      },
+      "artists": [
+        {
+          "name": "Quiet Riot",
+          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Cum on Feel the Noize",
+      "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -361,22 +361,6 @@
       "url": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2"
     },
     {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 291306,
-      "name": "Dr. Feelgood",
-      "url": "https://open.spotify.com/track/2cc9k15AifO7RfxxuEExkS"
-    },
-    {
       "added_at": "2022-06-29 17:56:03",
       "album": {
         "name": "New Jersey (Deluxe Edition)",
@@ -391,6 +375,22 @@
       "duration_ms": 316706,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 291306,
+      "name": "Dr. Feelgood",
+      "url": "https://open.spotify.com/track/2cc9k15AifO7RfxxuEExkS"
     },
     {
       "added_at": "2022-07-05 15:45:16",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
     },
     {
-      "added_at": "2022-06-29 17:56:03",
-      "album": {
-        "name": "Girls, Girls, Girls (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Wild Side",
-      "url": "https://open.spotify.com/track/669npuMwVlYFReOpYFYxwH"
-    },
-    {
       "added_at": "2021-03-16 22:32:51",
       "album": {
         "name": "Survivor Greatest Hits",
@@ -471,6 +455,22 @@
       "duration_ms": 230106,
       "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
       "url": "https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a"
+    },
+    {
+      "added_at": "2022-06-29 17:56:03",
+      "album": {
+        "name": "Girls, Girls, Girls (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Wild Side",
+      "url": "https://open.spotify.com/track/669npuMwVlYFReOpYFYxwH"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Night Songs",
-        "url": "https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "Nobody's Fool",
-      "url": "https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 267306,
       "name": "Pour Some Sugar On Me",
       "url": "https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Night Songs",
+        "url": "https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "Nobody's Fool",
+      "url": "https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI"
     },
     {
       "added_at": "2022-06-29 17:56:03",
@@ -615,22 +615,6 @@
       "duration_ms": 239560,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6Fba9RZtC6vTY814JToDtP"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "Holy Diver",
-        "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
-        }
-      ],
-      "duration_ms": 353786,
-      "name": "Holy Diver",
-      "url": "https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -699,6 +683,38 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
+        "name": "Pyromania (Deluxe)",
+        "url": "https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 247828,
+      "name": "Rock Of Ages",
+      "url": "https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Holy Diver",
+        "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "duration_ms": 353786,
+      "name": "Holy Diver",
+      "url": "https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
         "name": "Long Cold Winter",
         "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 245266,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "Pyromania (Deluxe)",
-        "url": "https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 247828,
-      "name": "Rock Of Ages",
-      "url": "https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA"
     },
     {
       "added_at": "2021-03-16 22:32:51",

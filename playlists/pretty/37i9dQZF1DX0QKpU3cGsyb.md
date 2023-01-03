@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 
 > Slow jams for the passionate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,684,868 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,685,895 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 22 | [Dream](https://open.spotify.com/track/1mAQAh6yg1dTmnlE84ZvEo) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:10 |
 | 23 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 |
 | 24 | [Weapon \(feat\. Fireboy DML\)](https://open.spotify.com/track/4YI21WT1m1lUC3d4z9HtPF) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [All or Nothing](https://open.spotify.com/album/35J4qJY7CLZzn3o682sx2V) | 2:48 |
-| 25 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 |
+| 25 | [EVERYTHING I WANT](https://open.spotify.com/track/7xaVK8LCtFkig2HKTrukwg) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [EVERYTHING I WANT](https://open.spotify.com/album/1Gd8Sz4vEV0Px55RPugWSe) | 2:18 |
 | 26 | [Long Overdue](https://open.spotify.com/track/1tqr4YfDVX4Yp9TzWaNQUD) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Before I Let Her Go EP](https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg) | 2:48 |
-| 27 | [EVERYTHING I WANT](https://open.spotify.com/track/7xaVK8LCtFkig2HKTrukwg) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [EVERYTHING I WANT](https://open.spotify.com/album/1Gd8Sz4vEV0Px55RPugWSe) | 2:18 |
+| 27 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 |
 | 28 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 |
 | 29 | [Church](https://open.spotify.com/track/0dAX78YVZtK3izR21SGxia) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 2:40 |
 | 30 | [WE \(Warm Embrace\)](https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [WE \(Warm Embrace\)](https://open.spotify.com/album/25OWLDhL6VjUn6ZqUqWVoV) | 3:54 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 41 | [24 Hrs \(feat\. Lil Tjay\)](https://open.spotify.com/track/5shQWg4uYedbUEoqnwG5ds) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [S2ML](https://open.spotify.com/album/1G51luYDLyckmDyBuntQdL) | 2:47 |
 | 42 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 |
 | 43 | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/album/3bP5HbrQemp8PQS9Z9gnCF) | 3:47 |
-| 44 | [B.E.D](https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [B.E.D](https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK) | 2:53 |
+| 44 | [Ya Body \(feat\. Dreezy\)](https://open.spotify.com/track/7n7LckMhwYHjA6shLcNv8O) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 2:28 |
 | 45 | [Caliber](https://open.spotify.com/track/1VGVO4i8FqTaZlr9mXzAwa) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/6Jl8EWCTKSFUEDTTXhUEKz) | 3:02 |
-| 46 | [You Want My Love](https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [You Want My Love](https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq) | 3:14 |
-| 47 | [Ya Body \(feat\. Dreezy\)](https://open.spotify.com/track/7n7LckMhwYHjA6shLcNv8O) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 2:28 |
+| 46 | [B.E.D](https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [B.E.D](https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK) | 2:53 |
+| 47 | [You Want My Love](https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [You Want My Love](https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq) | 3:14 |
 | 48 | [Feelings 4 You](https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx) | 4:16 |
-| 49 | [When You Love Someone feat\. H.E.R\. \(feat\. H.E.R.\)](https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [FWM](https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg) | 3:19 |
-| 50 | [Crazy Down](https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Um, Hello](https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj) | 3:04 |
+| 49 | [Crazy Down](https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Um, Hello](https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj) | 3:04 |
+| 50 | [Situationship](https://open.spotify.com/track/2e0bYXa7BRXqPilw9Qj49f) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Situationship](https://open.spotify.com/album/1reU8zP1OtFCmK055l6UZF) | 2:56 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDhmN2FmZWE2N2QxZjA3MTY5NzUwM2YzMGRiNGFkZDFl`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGY3ZjQwMmUyODFjODg1N2IxOTU2Y2YwNzIyYWU0ODY0`

@@ -7299,7 +7299,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 189466,
       "name": "Natural",
       "url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"
@@ -11013,6 +11013,24 @@
       "duration_ms": 187146,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
+    },
+    {
+      "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199693,
+      "name": "TiK ToK",
+      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
     },
     {
       "album": {

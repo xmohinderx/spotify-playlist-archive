@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-1,443 songs - 3 day 3 hr 57 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,444 songs - 3 day 4 hr 1 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -765,6 +765,7 @@
 | [Let U Go](https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Let U Go](https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ) | 2:48 | 2022-06-24 |  |
 | [Let You Let Me Down](https://open.spotify.com/track/476tWNIROvxwoKxPVKt71E) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Let You Let Me Down](https://open.spotify.com/album/4MFwABGKohheRHL0JWg9cR) | 3:07 | 2021-02-22 | 2021-05-27 |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 | 2020-10-20 | 2021-06-03 |
+| [letting you go \- demo](https://open.spotify.com/track/5XMiziJ3bT3zHZzzHW2QtP) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [letting you go \(demo\)](https://open.spotify.com/album/0zcvrmnfKMWW31SisynhrZ) | 3:41 | 2022-12-16 |  |
 | [Levitation](https://open.spotify.com/track/6XGIUVbIWpfblrAZDsyTSQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Levitation](https://open.spotify.com/album/2K9USaxWlJWgPO56LR960V) | 4:00 | 2022-04-15 | 2022-04-21 |
 | [Liar](https://open.spotify.com/track/5ya0gIGrhh1NdFoWPaBAhN) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Liar](https://open.spotify.com/album/40NNI9LICPtbYSNH4n7ArU) | 3:33 | 2022-04-15 | 2022-04-21 |
 | [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 | 2022-07-22 |  |
@@ -1156,7 +1157,7 @@
 | [SO GOOD](https://open.spotify.com/track/4IFKZkPlmMEcNRwic25J9C) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [The Love Umbrella](https://open.spotify.com/album/1ZjpptSpeinLfTA8cmPNeK) | 2:10 | 2021-10-22 | 2022-04-15 |
 | [So Good](https://open.spotify.com/track/0ZpHuEhi1CvOJgrqOSy8mv) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [So Good](https://open.spotify.com/album/1n5grA7m8IYGwHp6rUDMR2) | 2:26 | 2022-06-24 |  |
 | [SO LOW](https://open.spotify.com/track/0VYlDbOKgKaro0TpguvpvJ) | [Drauve](https://open.spotify.com/artist/3amCA9U9lgity9TZs1MENn) | [SO LOW](https://open.spotify.com/album/6BH10blbO7qFP4SqLbZzSE) | 2:59 | 2020-10-13\* | 2020-12-12 |
-| [Sober](https://open.spotify.com/track/577ctFaEJqAL9gdo2Gx63x) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Sober](https://open.spotify.com/album/6i3ypMIWdzE0YeFHw84Yh9) | 2:26 | 2022-12-16 |  |
+| [Sober](https://open.spotify.com/track/577ctFaEJqAL9gdo2Gx63x) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Sober](https://open.spotify.com/album/6i3ypMIWdzE0YeFHw84Yh9) | 2:26 | 2022-12-16 | 2023-01-03 |
 | [Sober](https://open.spotify.com/track/6F3ZGAp9M9Nub4cSCpY5tW) | [superflirt](https://open.spotify.com/artist/50vN1tYzW2EYBA5vd7Ov49) | [Sober](https://open.spotify.com/album/69fRi4yxcnLyfoJUbLTcT1) | 2:34 | 2022-04-29 | 2022-07-22 |
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2020-10-13\* | 2022-08-27 |
 | [Soft](https://open.spotify.com/track/4E6ip8v7Fl9iGXFBKWMrgM) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Soft](https://open.spotify.com/album/1aI0KCOzPMZXS5ViNDWdps) | 2:58 | 2021-02-13 | 2022-04-15 |

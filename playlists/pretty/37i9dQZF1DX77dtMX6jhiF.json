@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 3227,
+  "num_followers": 3254,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMDBlYjE0NTgxMGY4ZmQ4N2U3MGM4NzEzNWFhNGNlZWZl",
+  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMGZiOWZjODQwZGM3YjczOWMzZWVmZTc3ZmFlYjdmMTY4",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "Care Package",
-        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 240217,
-      "name": "4pm in Calabasas",
-      "url": "https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "Messiah",
         "url": "https://open.spotify.com/album/5HdrqQZiSy2VEnCvuxOiij"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 179400,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/5LZeYIkOIvhNTDPzQdIN56"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "Care Package",
+        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 240217,
+      "name": "4pm in Calabasas",
+      "url": "https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "Fresh and Dope",
-        "url": "https://open.spotify.com/album/2TJZhD4jjFxEeZwYrX9FKf"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 267384,
-      "name": "THE NEWS",
-      "url": "https://open.spotify.com/track/3H0hSrvbisAfcxvNIttvMX"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "AT HOME",
         "url": "https://open.spotify.com/album/4v5hIeJhusFcKFXyRHRBoy"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 170560,
       "name": "You Raised Me",
       "url": "https://open.spotify.com/track/7p9nphST7ntwp2oNGPm7JI"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 267384,
+      "name": "THE NEWS",
+      "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
     }
   ],
   "unique_name": "Damson Idris' Taste",

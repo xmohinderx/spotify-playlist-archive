@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Don Tetto",
-  "num_followers": 80624,
+  "num_followers": 80648,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY3Mzk2MCwwMDAwMDAwMDEyMTlkMjA2YzhjOTJiN2MwOWE3ZTJlNWI5MGYxMzkw",
+  "snapshot_id": "MTY2NTY3Mzk2MCwwMDAwMDAwMDhjMjk5Y2JjN2UzNmNkYTllZTAxNTQ0ZjQxNjE1YWY3",
   "tracks": [
     {
       "added_at": "2022-10-13 15:12:40",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
+        "name": "Productos Desaparecidos",
+        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
+      },
+      "artists": [
+        {
+          "name": "La Pestilencia",
+          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Nada Me Obliga",
+      "url": "https://open.spotify.com/track/1ZgffyEDYfzRqr54XQKuF4"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/1imzv4Lfobnw8htp6XHGvd"
       },
@@ -171,18 +187,34 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Productos Desaparecidos",
-        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
+        "name": "Buitres",
+        "url": "https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL"
       },
       "artists": [
         {
-          "name": "La Pestilencia",
-          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
         }
       ],
-      "duration_ms": 237173,
-      "name": "Nada Me Obliga",
-      "url": "https://open.spotify.com/track/1ZgffyEDYfzRqr54XQKuF4"
+      "duration_ms": 206746,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/25kTcpm09oAgqvPWdREsw5"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Volver Amar",
+        "url": "https://open.spotify.com/album/7lNxWPJ2lAiCVWE3iACqpW"
+      },
+      "artists": [
+        {
+          "name": "Los De Adentro",
+          "url": "https://open.spotify.com/artist/282UIRNs6aprjrs0ynDn6v"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "No M\u00e1s",
+      "url": "https://open.spotify.com/track/3ObCX2lb4FlM1Rn9WUppst"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -219,38 +251,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Volver Amar",
-        "url": "https://open.spotify.com/album/7lNxWPJ2lAiCVWE3iACqpW"
-      },
-      "artists": [
-        {
-          "name": "Los De Adentro",
-          "url": "https://open.spotify.com/artist/282UIRNs6aprjrs0ynDn6v"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "No M\u00e1s",
-      "url": "https://open.spotify.com/track/3ObCX2lb4FlM1Rn9WUppst"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Buitres",
-        "url": "https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/25kTcpm09oAgqvPWdREsw5"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Sesiones 10.10 (En Vivo)",
         "url": "https://open.spotify.com/album/39RUjOR8bOAvdCqlRRqQf4"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 307040,
       "name": "No S\u00e9 Si Volver\u00e1 (2010) - En Vivo",
       "url": "https://open.spotify.com/track/4McZzvdbv5LiiCTab7ZfjV"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "B (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44TWj8mzWLC1KrlGQ7asNY"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 201853,
+      "name": "Todo Va a Arder",
+      "url": "https://open.spotify.com/track/00cMA5Xuinekqx8ui1Eixy"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -287,22 +303,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Armenia",
-        "url": "https://open.spotify.com/album/4tT3ltCmgXpxtVuYTWN1bm"
-      },
-      "artists": [
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 174939,
-      "name": "Alg\u00fan Contexto",
-      "url": "https://open.spotify.com/track/3VthvpD7tsAm5lybsXWXX1"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Amor Biling\u00fce",
         "url": "https://open.spotify.com/album/2r5lhBiWdmah14tIjGxDfg"
       },
@@ -315,6 +315,22 @@
       "duration_ms": 231262,
       "name": "De Madrugada",
       "url": "https://open.spotify.com/track/2BTIyjyThg5vaXiWBh9Vxj"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Armenia",
+        "url": "https://open.spotify.com/album/4tT3ltCmgXpxtVuYTWN1bm"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "duration_ms": 174939,
+      "name": "Alg\u00fan Contexto",
+      "url": "https://open.spotify.com/track/3VthvpD7tsAm5lybsXWXX1"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -347,22 +363,6 @@
       "duration_ms": 212009,
       "name": "Barco de Papel",
       "url": "https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "B (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44TWj8mzWLC1KrlGQ7asNY"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 201853,
-      "name": "Todo Va a Arder",
-      "url": "https://open.spotify.com/track/00cMA5Xuinekqx8ui1Eixy"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Doce Vientos",
-        "url": "https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        }
-      ],
-      "duration_ms": 222185,
-      "name": "Somos Coyotes",
-      "url": "https://open.spotify.com/track/0RGuPZmtJxMblQwZIvcNsQ"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Buitres",
         "url": "https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 235973,
       "name": "Hacia la Noche",
       "url": "https://open.spotify.com/track/5hYUEq039TJgnaft2WljmT"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Doce Vientos",
+        "url": "https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "duration_ms": 222185,
+      "name": "Somos Coyotes",
+      "url": "https://open.spotify.com/track/0RGuPZmtJxMblQwZIvcNsQ"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Yumbotop\u00eda",
-        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
-      },
-      "artists": [
-        {
-          "name": "Las Yumbe\u00f1as",
-          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
-        }
-      ],
-      "duration_ms": 173621,
-      "name": "El Tema de Amor Que Esperabas",
-      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Polvo Eres",
         "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
       },
@@ -535,18 +519,34 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Manglares (B-Sides) - EP",
-        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
+        "name": "Colibr\u00ed",
+        "url": "https://open.spotify.com/album/0yYCk0qyBlh48OuDK4NVbu"
       },
       "artists": [
         {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
         }
       ],
-      "duration_ms": 218752,
-      "name": "Gemas",
-      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
+      "duration_ms": 256040,
+      "name": "Colibr\u00ed",
+      "url": "https://open.spotify.com/track/216H8CQbJTycq60Km6gPoJ"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Yumbotop\u00eda",
+        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
+      },
+      "artists": [
+        {
+          "name": "Las Yumbe\u00f1as",
+          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
+        }
+      ],
+      "duration_ms": 173621,
+      "name": "El Tema de Amor Que Esperabas",
+      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -571,6 +571,22 @@
       "duration_ms": 210378,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/4iT2KQFHJHqbyOktqLkI23"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Manglares (B-Sides) - EP",
+        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "duration_ms": 218752,
+      "name": "Gemas",
+      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -607,18 +623,18 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Colibr\u00ed",
-        "url": "https://open.spotify.com/album/0yYCk0qyBlh48OuDK4NVbu"
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "Poligamia",
+          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
         }
       ],
-      "duration_ms": 256040,
-      "name": "Colibr\u00ed",
-      "url": "https://open.spotify.com/track/216H8CQbJTycq60Km6gPoJ"
+      "duration_ms": 240293,
+      "name": "Desvanecer",
+      "url": "https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -635,22 +651,6 @@
       "duration_ms": 270687,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/0O8Hjr6LlqMVQSRE6tuSNL"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
-      },
-      "artists": [
-        {
-          "name": "Poligamia",
-          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
-        }
-      ],
-      "duration_ms": 240293,
-      "name": "Desvanecer",
-      "url": "https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
-      },
-      "artists": [
-        {
-          "name": "Poligamia",
-          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
-        }
-      ],
-      "duration_ms": 187093,
-      "name": "Una Canci\u00f3n",
-      "url": "https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "El Pasado Fue Mejor (feat. Don Tetto)",
         "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 180880,
       "name": "El Pasado Fue Mejor (feat. Don Tetto)",
       "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
+      },
+      "artists": [
+        {
+          "name": "Poligamia",
+          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
+        }
+      ],
+      "duration_ms": 187093,
+      "name": "Una Canci\u00f3n",
+      "url": "https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Marteko Euriak",
-        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
-      },
-      "artists": [
-        {
-          "name": "1280 Almas",
-          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
-        }
-      ],
-      "duration_ms": 175724,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Ave Nocturna",
         "url": "https://open.spotify.com/album/7kwFVg9z4gRPmmz8z5TZIH"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 217903,
       "name": "Ave Nocturna",
       "url": "https://open.spotify.com/track/7Hnw7DhlqhfdywAqjNDXy5"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Marteko Euriak",
+        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
+      },
+      "artists": [
+        {
+          "name": "1280 Almas",
+          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
+        }
+      ],
+      "duration_ms": 175724,
+      "name": "El Viejo",
+      "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Anaranjado, Pt. 1",
-        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
-      },
-      "artists": [
-        {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
-        }
-      ],
-      "duration_ms": 276986,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Ma\u0301s Alla\u0301 del Tiempo",
         "url": "https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 217640,
       "name": "Ma\u0301s Alla\u0301 del Tiempo",
       "url": "https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Aqu\u00ed Vamos Otra Vez",
+        "url": "https://open.spotify.com/album/5M58twn7mZ9tDQstqmH6nD"
+      },
+      "artists": [
+        {
+          "name": "1280 Almas",
+          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
+        }
+      ],
+      "duration_ms": 189573,
+      "name": "Soledad Criminal",
+      "url": "https://open.spotify.com/track/78JWLDL4fLdGNHT26IaEPS"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
+        "name": "Anaranjado, Pt. 1",
+        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "duration_ms": 276986,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
         "name": "Antiamor",
         "url": "https://open.spotify.com/album/0uIgAixzHB6PT6MChRONXu"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 223654,
       "name": "Antiamor",
       "url": "https://open.spotify.com/track/5vLg2iDE8pb6uLu11e1Vvf"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Aqu\u00ed Vamos Otra Vez",
-        "url": "https://open.spotify.com/album/5M58twn7mZ9tDQstqmH6nD"
-      },
-      "artists": [
-        {
-          "name": "1280 Almas",
-          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
-        }
-      ],
-      "duration_ms": 189573,
-      "name": "Soledad Criminal",
-      "url": "https://open.spotify.com/track/78JWLDL4fLdGNHT26IaEPS"
     }
   ],
   "unique_name": "Rock Colombia",

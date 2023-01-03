@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 2010s! Cover: Daddy Yankee, Luis Fonsi",
-  "num_followers": 117263,
+  "num_followers": 117357,
   "original_name": "10s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDIxMSwwMDAwMDAwMDI4NDk0ZDRmMTUxZmIyZjQ3YmJlOGU1MWU0Yjc5MjA4",
+  "snapshot_id": "MTY2MTkzMDIxMSwwMDAwMDAwMGE1OTgyYjU5ODgyODhjZjkwMmRhYTg5MWMzNTQwMDY2",
   "tracks": [
     {
       "added_at": "2022-08-31 07:16:51",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
+        "name": "Amorfoda",
+        "url": "https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 153887,
+      "name": "Amorfoda",
+      "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
+    },
+    {
+      "added_at": "2022-08-31 07:16:51",
+      "album": {
         "name": "Des/Amor",
         "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 177600,
       "name": "Locos",
       "url": "https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q"
-    },
-    {
-      "added_at": "2022-08-31 07:16:51",
-      "album": {
-        "name": "Amorfoda",
-        "url": "https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 153887,
-      "name": "Amorfoda",
-      "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
     },
     {
       "added_at": "2022-08-31 07:16:51",
@@ -523,22 +523,22 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
-        "name": "Secreto",
-        "url": "https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1"
+        "name": "Visual\u00edzate",
+        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         },
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 258800,
-      "name": "Secreto",
-      "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"
+      "duration_ms": 203160,
+      "name": "La Gozadera (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
     },
     {
       "added_at": "2022-08-31 07:16:51",
@@ -563,22 +563,42 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
-        "name": "Visual\u00edzate",
-        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
+        "name": "Secreto",
+        "url": "https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1"
       },
       "artists": [
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 203160,
-      "name": "La Gozadera (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
+      "duration_ms": 258800,
+      "name": "Secreto",
+      "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"
+    },
+    {
+      "added_at": "2022-08-31 07:16:51",
+      "album": {
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
     },
     {
       "added_at": "2022-08-31 07:16:51",
@@ -611,26 +631,6 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
-    },
-    {
-      "added_at": "2022-08-31 07:16:51",
-      "album": {
         "name": "Andas En Mi Cabeza",
         "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
       },
@@ -647,6 +647,42 @@
       "duration_ms": 247493,
       "name": "Andas En Mi Cabeza",
       "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
+    },
+    {
+      "added_at": "2022-08-31 07:16:51",
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Ha\u0301blame De Ti",
+      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
+    },
+    {
+      "added_at": "2022-08-31 07:16:51",
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 205906,
+      "name": "El Perd\u00f3n (with Enrique Iglesias)",
+      "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
     },
     {
       "added_at": "2022-08-31 07:16:51",
@@ -675,22 +711,6 @@
       "duration_ms": 212500,
       "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
-    },
-    {
-      "added_at": "2022-08-31 07:16:51",
-      "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Ha\u0301blame De Ti",
-      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
     },
     {
       "added_at": "2022-08-31 07:16:51",
@@ -743,26 +763,6 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 205906,
-      "name": "El Perd\u00f3n (with Enrique Iglesias)",
-      "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
-    },
-    {
-      "added_at": "2022-08-31 07:16:51",
-      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 226520,
-      "name": "Dile Que Tu Me Quieres",
-      "url": "https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC"
-    },
-    {
-      "added_at": "2022-08-31 07:16:51",
-      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 234000,
       "name": "En Peligro de Extinci\u00f3n",
       "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
+    },
+    {
+      "added_at": "2022-08-31 07:16:51",
+      "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 226520,
+      "name": "Dile Que Tu Me Quieres",
+      "url": "https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC"
     },
     {
       "added_at": "2022-08-31 07:16:51",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
+        "name": "Asondeguerra",
+        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 191106,
+      "name": "Bachata En Fukuoka",
+      "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
+    },
+    {
+      "added_at": "2022-08-31 07:16:51",
+      "album": {
         "name": "Visionary",
         "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 197840,
       "name": "Chillax (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
-    },
-    {
-      "added_at": "2022-08-31 07:16:51",
-      "album": {
-        "name": "Asondeguerra",
-        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 191106,
-      "name": "Bachata En Fukuoka",
-      "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
     },
     {
       "added_at": "2022-08-31 07:16:51",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
-        "name": "F\u00f3rmula Vol. 1 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 252253,
-      "name": "Promise (feat. Usher)",
-      "url": "https://open.spotify.com/track/0jr6tT2vc4cIFPHb6wufG3"
-    },
-    {
-      "added_at": "2022-08-31 07:16:51",
-      "album": {
         "name": "A Quien Quiera Escuchar (Deluxe Edition)",
         "url": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 211680,
       "name": "La Mordidita (feat. Yotuel)",
       "url": "https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm"
+    },
+    {
+      "added_at": "2022-08-31 07:16:51",
+      "album": {
+        "name": "F\u00f3rmula Vol. 1 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 252253,
+      "name": "Promise (feat. Usher)",
+      "url": "https://open.spotify.com/track/0jr6tT2vc4cIFPHb6wufG3"
     },
     {
       "added_at": "2022-08-31 07:16:51",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
-        "name": "H\u00e1blate de M\u00ed",
-        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 211021,
-      "name": "Beso",
-      "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
-    },
-    {
-      "added_at": "2022-08-31 07:16:51",
-      "album": {
         "name": "A Trav\u00e9s del Vaso",
         "url": "https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn"
       },
@@ -1319,26 +1303,6 @@
       "duration_ms": 188661,
       "name": "A Trav\u00e9s del Vaso",
       "url": "https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw"
-    },
-    {
-      "added_at": "2022-08-31 07:16:51",
-      "album": {
-        "name": "Deja Que Te Bese",
-        "url": "https://open.spotify.com/album/7JimYZIPnQsUqlkBIPQAq4"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 244353,
-      "name": "Deja Que Te Bese",
-      "url": "https://open.spotify.com/track/1uwPEGzopXl9KawQR1JGXq"
     },
     {
       "added_at": "2022-08-31 07:16:51",
@@ -1363,6 +1327,42 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
+        "name": "H\u00e1blate de M\u00ed",
+        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 211021,
+      "name": "Beso",
+      "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
+    },
+    {
+      "added_at": "2022-08-31 07:16:51",
+      "album": {
+        "name": "Deja Que Te Bese",
+        "url": "https://open.spotify.com/album/7JimYZIPnQsUqlkBIPQAq4"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 244353,
+      "name": "Deja Que Te Bese",
+      "url": "https://open.spotify.com/track/1uwPEGzopXl9KawQR1JGXq"
+    },
+    {
+      "added_at": "2022-08-31 07:16:51",
+      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
         "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
       },
@@ -1375,6 +1375,30 @@
       "duration_ms": 200161,
       "name": "Sigo Chambeando",
       "url": "https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2"
+    },
+    {
+      "added_at": "2022-08-31 07:16:51",
+      "album": {
+        "name": "Int\u00e9ntalo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4"
+      },
+      "artists": [
+        {
+          "name": "3BallMTY",
+          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+        },
+        {
+          "name": "Am\u00e9rica Sierra",
+          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Inte\u0301ntalo (feat. Ame\u0301rica Sierra & El Bebeto)",
+      "url": "https://open.spotify.com/track/61aPpbJMAD5BjWkiHeX9R6"
     },
     {
       "added_at": "2022-08-31 07:16:51",
@@ -1407,30 +1431,6 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
-        "name": "Int\u00e9ntalo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4"
-      },
-      "artists": [
-        {
-          "name": "3BallMTY",
-          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
-        },
-        {
-          "name": "Am\u00e9rica Sierra",
-          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
-        },
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "Inte\u0301ntalo (feat. Ame\u0301rica Sierra & El Bebeto)",
-      "url": "https://open.spotify.com/track/61aPpbJMAD5BjWkiHeX9R6"
-    },
-    {
-      "added_at": "2022-08-31 07:16:51",
-      "album": {
         "name": "Terral",
         "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
       },
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 229405,
-      "name": "Afuera Del Planeta",
-      "url": "https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY"
-    },
-    {
-      "added_at": "2022-08-31 07:16:51",
-      "album": {
         "name": "La Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 203520,
       "name": "Ya Lo S\u00e9",
       "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
+    },
+    {
+      "added_at": "2022-08-31 07:16:51",
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 229405,
+      "name": "Afuera Del Planeta",
+      "url": "https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY"
     },
     {
       "added_at": "2022-08-31 07:16:51",

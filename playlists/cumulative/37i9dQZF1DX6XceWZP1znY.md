@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-660 songs - 1 day 20 hr 1 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
+661 songs - 1 day 20 hr 5 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Small world](https://open.spotify.com/track/2E2Ax3uzsMRM1KbzSzHfB3) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Small world](https://open.spotify.com/album/2tPzJBPpHmEQfmn9xlVuLD) | 5:22 | 2022-06-07 | 2022-11-23 |
 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2022-10-04 |  |
 | [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 | 2022-06-07 |  |
+| [SPARKLES](https://open.spotify.com/track/3heytsqAvwcOmpvJvKop80) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [SPARKLES](https://open.spotify.com/album/7DLjM7lmuv7rlhVShdIBXN) | 4:36 | 2022-12-23 |  |
 | [STACKiNG](https://open.spotify.com/track/0B2ZtMEByFD3MNxgBbL81B) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [STACKiNG](https://open.spotify.com/album/4qovcBWVJKiCAmkOvJwJn4) | 4:10 | 2022-06-07 | 2022-06-30 |
 | [Stay With Me](https://open.spotify.com/track/40bWOGeQYljPPVRQoM8fNk) | [Seven Billion Dots](https://open.spotify.com/artist/15q0tk3egz6qJQAzRpMbMl) | [Stay With Me](https://open.spotify.com/album/4WJjpxxa5pXCAskyYNrK7k) | 4:41 | 2022-06-07 | 2022-07-29 |
 | [STORY](https://open.spotify.com/track/73mTBbvJiVHW4Wquiws0x8) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [OPENING THEME FROM TV SERIES ”UNCLE FROM ANOTHER WORLD”](https://open.spotify.com/album/6mxRSY6MkwCe5Y7Pqcjm1E) | 3:44 | 2022-08-11 | 2022-10-03 |
@@ -555,7 +556,7 @@
 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 | 2022-06-07 |  |
 | [山荷葉](https://open.spotify.com/track/2uqD9HIXiu72KNIy4CCCa9) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [山荷葉](https://open.spotify.com/album/3EsTLK73PrGDlRFNsn8eir) | 4:59 | 2022-06-07 | 2022-06-30 |
 | [平行線](https://open.spotify.com/track/0KWRKoApTN934fJRgs7C0z) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [ミカヅキの航海](https://open.spotify.com/album/6peVO4PKuuNbqCaQw5z6yE) | 4:58 | 2022-06-07 | 2022-07-29 |
-| [平行線](https://open.spotify.com/track/206gqT4spFnIoGwuCpwR79) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [ミカヅキの航海](https://open.spotify.com/album/15eNAwfeREX3xNlBSN28wK) | 4:58 | 2022-06-07 |  |
+| [平行線](https://open.spotify.com/track/206gqT4spFnIoGwuCpwR79) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [ミカヅキの航海](https://open.spotify.com/album/15eNAwfeREX3xNlBSN28wK) | 4:58 | 2022-06-07 | 2023-01-03 |
 | [廻廻奇譚](https://open.spotify.com/track/5MVjxslIF7mVtYo75Nk445) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚 / 蒼のワルツ](https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu) | 3:41 | 2022-06-07 | 2022-07-29 |
 | [往け](https://open.spotify.com/track/4cDm9C5jhBiIyYxVhQmMwB) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [往け](https://open.spotify.com/album/3zQM46m2V0bUGFeCNA0evx) | 3:48 | 2022-06-07 | 2022-11-13 |
 | [心海](https://open.spotify.com/track/0FJ6h0nFIe3irtTsrtuevI) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚 / 蒼のワルツ](https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu) | 4:26 | 2022-06-07 | 2022-07-29 |

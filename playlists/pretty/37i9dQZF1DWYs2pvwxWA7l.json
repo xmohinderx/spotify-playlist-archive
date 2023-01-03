@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60?si=Ou4Tx5czRIKXB5m8i__EAw\"> Tayc </a>  ",
-  "num_followers": 396871,
+  "num_followers": 397427,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMGQ3MTdkMzM4NzE0MTIzZjRjMThmN2E4MTZlZTA3ZmNk",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDFiZmE2N2IwNzU3ZmFlOTNjZmMwNjQ0NTM3ZGM4OTUw",
   "tracks": [
     {
       "added_at": "2022-06-16 23:00:00",
@@ -487,6 +487,26 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
         "name": "Sad Romance",
         "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 171428,
       "name": "Sempe",
       "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
-    },
-    {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
-        "name": "Finesse",
-        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -673,38 +673,6 @@
       "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
     },
     {
-      "added_at": "2022-11-04 07:57:38",
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 176293,
-      "name": "Coming Back For You",
-      "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
-    },
-    {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "i'm a mess",
-      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
-    },
-    {
       "added_at": "2022-09-16 04:28:19",
       "album": {
         "name": "Bad To Me",
@@ -719,6 +687,22 @@
       "duration_ms": 176850,
       "name": "Bad To Me",
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
+    },
+    {
+      "added_at": "2022-11-04 07:57:38",
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 176293,
+      "name": "Coming Back For You",
+      "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -773,36 +757,20 @@
       "url": "https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH"
     },
     {
-      "added_at": "2022-10-13 23:00:00",
+      "added_at": "2022-07-14 23:00:00",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 156080,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc"
-    },
-    {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 207474,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
     },
     {
       "added_at": "2022-07-07 23:00:00",
@@ -821,20 +789,20 @@
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
     },
     {
-      "added_at": "2022-06-08 08:17:45",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
         }
       ],
-      "duration_ms": 168742,
-      "name": "woman",
-      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+      "duration_ms": 156080,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -877,20 +845,36 @@
       "url": "https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-06-08 08:17:45",
       "album": {
-        "name": "SOMETHING",
-        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 188411,
-      "name": "SOMETHING",
-      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
+      "duration_ms": 168742,
+      "name": "woman",
+      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 207474,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -909,6 +893,22 @@
       "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "SOMETHING",
+        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "SOMETHING",
+      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
+    },
+    {
       "added_at": "2022-07-14 23:00:00",
       "album": {
         "name": "5 Star",
@@ -923,22 +923,6 @@
       "duration_ms": 150280,
       "name": "5 Star",
       "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
-    },
-    {
-      "added_at": "2022-08-05 04:33:56",
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 183349,
-      "name": "All Of Us (Ashawo)",
-      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -959,6 +943,38 @@
       "duration_ms": 227328,
       "name": "Many Ways (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
+    },
+    {
+      "added_at": "2022-08-05 04:33:56",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 183349,
+      "name": "All Of Us (Ashawo)",
+      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Kolomental",
+      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -999,22 +1015,6 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Kolomental",
-      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
-    },
-    {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
         "name": "Stand Strong (feat. Sunday Service Choir)",
         "url": "https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 182791,
       "name": "Stand Strong (feat. Sunday Service Choir)",
       "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
-    },
-    {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "Contour",
-        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 189014,
-      "name": "Contour",
-      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -1077,6 +1061,22 @@
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
     },
     {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 189014,
+      "name": "Contour",
+      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Legalize",
@@ -1091,6 +1091,22 @@
       "duration_ms": 146249,
       "name": "Legalize",
       "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 205191,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"
     },
     {
       "added_at": "2022-09-29 23:00:00",
@@ -1131,22 +1147,6 @@
       "duration_ms": 200412,
       "name": "In Love",
       "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
-    },
-    {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 205191,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp"
     },
     {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
-    },
-    {
       "added_at": "2022-11-18 11:13:02",
       "album": {
         "name": "Maitama (Going)",
@@ -1311,6 +1295,22 @@
       "duration_ms": 185341,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
     }
   ],
   "unique_name": "Afropop",

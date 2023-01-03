@@ -4,7 +4,7 @@
 
 > All the biggest hits from the biggest boybands\. Cover: BTS
 
-158 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/0AmAFDFAE9iHEl2LM4n3Vn)
+159 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/0AmAFDFAE9iHEl2LM4n3Vn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,9 +161,10 @@
 | [Where Do You Go](https://open.spotify.com/track/1lkfcyCLP0KPykSLIgh1VT) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [Greatest Hits](https://open.spotify.com/album/3tabuqpmg0z2LZiO24V1Vl) | 4:31 | 2021-04-29 | 2022-11-13 |
 | [Where Do You Go](https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:32 | 2022-12-23 |  |
 | [Where's The Love](https://open.spotify.com/track/31x8mYFOwQJtzE4y5di0Tl) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [MmmBop : The Collection](https://open.spotify.com/album/0IaT8AWtzOSAzWB1KXoTD8) | 4:12 | 2021-04-29 | 2022-07-29 |
-| [Where's The Love](https://open.spotify.com/track/4auyLwpht5bFKtPpulMsCj) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:12 | 2022-05-17 |  |
+| [Where's The Love](https://open.spotify.com/track/4auyLwpht5bFKtPpulMsCj) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:12 | 2022-05-17 | 2023-01-03 |
 | [With All My Heart](https://open.spotify.com/track/5AHdzOGycKBVw8lvCfEAtz) | [Dream Street](https://open.spotify.com/artist/5TGJzOKQ9GbfJ6IZI9ktDn) | [Dream Street](https://open.spotify.com/album/405JEuWBRX8SlKwzEj6HH2) | 4:07 | 2022-03-09 | 2022-07-20 |
 | [World of Our Own](https://open.spotify.com/track/4SAHTVRe6EBhgAOWl49yPf) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 3:31 | 2022-12-23 |  |
+| [Year 3000](https://open.spotify.com/track/7BbyWKteSctTKe696qf7fw) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [It's About Time](https://open.spotify.com/album/3tnBL4yVKSTaUtjeypEwCe) | 3:21 | 2022-12-23 |  |
 | [You Got It \(The Right Stuff\)](https://open.spotify.com/track/2BEL2ySEBDO02FLo3lOIZT) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Greatest Hits](https://open.spotify.com/album/5kIqSIJhdFkCb9gsCUi0qS) | 4:10 | 2021-04-29 | 2022-07-28 |
 | [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 | 2022-12-23 |  |
 

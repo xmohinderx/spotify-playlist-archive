@@ -4,7 +4,7 @@
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Mula en portada.
 
-199 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+200 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [FR3N3S1](https://open.spotify.com/track/4gs4CAPYyhnxgLUIBqLCw7) | [Natalia Lozano](https://open.spotify.com/artist/1DYJKsD0vGFUZVYqs8YWHf) | [FR3N3S1](https://open.spotify.com/album/12ZwFC9rJoFpfIPyb2iuoF) | 3:22 | 2022-08-16 |  |
 | [French Samba](https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [French Samba](https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt) | 2:43 | 2022-08-16 |  |
 | [Frutas](https://open.spotify.com/track/0vgmxe7O7xwyqSVi6ZvGyw) | [Sin Color](https://open.spotify.com/artist/666CSPv8WKGQkAgI6wtBop) | [Frutas](https://open.spotify.com/album/1Kmmeh36eI13U3nltNhFhD) | 4:19 | 2021-10-05 |  |
-| [Frío Blues](https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Frío Blues](https://open.spotify.com/album/7ArZMGlCkmAp3r4fvZhXmB) | 2:45 | 2022-08-13 |  |
+| [Frío Blues](https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Frío Blues](https://open.spotify.com/album/7ArZMGlCkmAp3r4fvZhXmB) | 2:45 | 2022-08-13 | 2023-01-03 |
 | [Futurista](https://open.spotify.com/track/1qAtVevO8XshdRHFt9dND2) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/2kk7QC1wMowvV1AvEhANcg) | 2:59 | 2022-02-15 | 2022-10-13 |
 | [Futurista](https://open.spotify.com/track/4r3Y9SJaBaf4DQesuSciA7) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Futurista](https://open.spotify.com/album/1ekLropWQK6Blb5eMdfka2) | 2:59 | 2022-02-15 | 2022-11-13 |
 | [Futurista](https://open.spotify.com/track/5LTW5ofKF8dds0J4zMw6ZW) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/2BOs7EIE8UdyDdv1MFPvmv) | 2:59 | 2022-02-15 |  |
@@ -199,6 +199,7 @@
 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 | 2022-09-26 |  |
 | [Voy a Hacer las Cosas Lento](https://open.spotify.com/track/2giVbMc5SuyJedv7JaWr9o) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Voy a Hacer las Cosas Lento](https://open.spotify.com/album/4is8Xi19Eijn9e16KgaipK) | 3:28 | 2021-10-05 | 2022-03-31 |
 | [wepa \(Eggglub Remix\)](https://open.spotify.com/track/6jVVQxzirfORNRNUhzsJjl) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [wepa \(Eggglub Remix\)](https://open.spotify.com/album/3X4m5g2WPBlQ3e1qzjCHub) | 2:44 | 2021-10-05 |  |
+| [Window Seat](https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Noestásaquí](https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY) | 3:22 | 2023-01-02 |  |
 | [XO](https://open.spotify.com/track/2gwMQLaqquUZF5dsmRI8c4) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [XO](https://open.spotify.com/album/53901xfQofw8GAjt1dBUxp) | 3:05 | 2022-08-19 | 2022-11-02 |
 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 | 2022-08-19 |  |
 | [Y tu te vas](https://open.spotify.com/track/5BkbrF1KA0Y6Y0B5M1N57v) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Y tu te vas](https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b) | 3:14 | 2022-09-30 | 2022-11-18 |

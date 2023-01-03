@@ -1,12 +1,12 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: Lou Reed. ",
-  "num_followers": 1031037,
+  "num_followers": 1031936,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAwNjg5NywwMDAwMDAwMGU1MGZkZWU3MjZmYjJmMWRmN2Q3ODA1ZjcwZDU1Yzgy",
+  "snapshot_id": "MTY3MDAwNjg5NywwMDAwMDAwMDU2YTQ2NmRmOTk2OTk1NjA4YzEyZmE5NTFjYzdjNjY5",
   "tracks": [
     {
       "added_at": "2022-11-15 20:56:14",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-11-15 20:56:14",
       "album": {
+        "name": "Best Of Blondie",
+        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY"
+    },
+    {
+      "added_at": "2022-11-15 20:56:14",
+      "album": {
         "name": "Daydream Nation (Deluxe Edition)",
         "url": "https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 417800,
       "name": "Teen Age Riot (Album Version)",
       "url": "https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9"
-    },
-    {
-      "added_at": "2022-11-15 20:56:14",
-      "album": {
-        "name": "The Stooges",
-        "url": "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
-      },
-      "artists": [
-        {
-          "name": "The Stooges",
-          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "I Wanna Be Your Dog",
-      "url": "https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g"
     },
     {
       "added_at": "2022-11-15 20:56:14",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-11-15 20:56:14",
       "album": {
-        "name": "Best Of Blondie",
-        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
+        "name": "The Stooges",
+        "url": "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
       },
       "artists": [
         {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
         }
       ],
-      "duration_ms": 212893,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY"
+      "duration_ms": 188560,
+      "name": "I Wanna Be Your Dog",
+      "url": "https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g"
     },
     {
       "added_at": "2022-11-15 20:56:14",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-11-15 20:56:14",
       "album": {
-        "name": "Loaded: Re-Loaded 45th Anniversary Edition",
-        "url": "https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs"
-      },
-      "artists": [
-        {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Rock & Roll - Full Length Version; 2015 Remaster",
-      "url": "https://open.spotify.com/track/1o6DclZHw0HomxXEQR1ijX"
-    },
-    {
-      "added_at": "2022-11-15 20:56:14",
-      "album": {
         "name": "I Can Hear The Heart Beating As One",
         "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
       },
@@ -1043,22 +1027,18 @@
     {
       "added_at": "2022-11-15 20:56:14",
       "album": {
-        "name": "The Velvet Underground & Nico 45th Anniversary",
-        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+        "name": "Loaded: Re-Loaded 45th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs"
       },
       "artists": [
         {
           "name": "The Velvet Underground",
           "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        },
-        {
-          "name": "Nico",
-          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
         }
       ],
-      "duration_ms": 433573,
-      "name": "Heroin",
-      "url": "https://open.spotify.com/track/5by3w3NXvwDpV9FBSOR35u"
+      "duration_ms": 283000,
+      "name": "Rock & Roll - Full Length Version; 2015 Remaster",
+      "url": "https://open.spotify.com/track/1o6DclZHw0HomxXEQR1ijX"
     },
     {
       "added_at": "2022-11-15 20:56:14",
@@ -1171,6 +1151,26 @@
       "duration_ms": 202866,
       "name": "Because the Night",
       "url": "https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF"
+    },
+    {
+      "added_at": "2022-11-15 20:56:14",
+      "album": {
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "duration_ms": 433573,
+      "name": "Heroin",
+      "url": "https://open.spotify.com/track/5by3w3NXvwDpV9FBSOR35u"
     },
     {
       "added_at": "2022-11-15 20:56:14",

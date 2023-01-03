@@ -1,12 +1,12 @@
 {
   "description": "Musica dance per le tue giornate di sole!",
-  "num_followers": 91513,
+  "num_followers": 91517,
   "original_name": "Voglia di Sole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU0ODQxNSwwMDAwMDAwMGUzZTVmYzQyYmRkYzAxNWVjODI2ZGFlOTRjZjg2N2Fj",
+  "snapshot_id": "MTY3MTU0ODQxNSwwMDAwMDAwMDU2M2JmZmIwMDdjMDcwYmFlYzQxODZiYzdhMWNjMDM0",
   "tracks": [
     {
       "added_at": "2022-12-02 06:01:00",
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
     },
     {
-      "added_at": "2023-01-02 00:17:25",
+      "added_at": "2023-01-03 01:44:41",
       "album": {
         "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
         "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
+        "name": "A Good Friend Is Nice",
+        "url": "https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk"
+      },
+      "artists": [
+        {
+          "name": "Jack & Jack",
+          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
+        }
+      ],
+      "duration_ms": 182920,
+      "name": "No One Compares To You",
+      "url": "https://open.spotify.com/track/4cZ3UsiKd1kUQIaq4BFIj2"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
         "name": "Never Really Loved Me (with Dean Lewis)",
         "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 202158,
       "name": "Never Really Loved Me (with Dean Lewis)",
       "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
-        "name": "A Good Friend Is Nice",
-        "url": "https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk"
-      },
-      "artists": [
-        {
-          "name": "Jack & Jack",
-          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
-        }
-      ],
-      "duration_ms": 182920,
-      "name": "No One Compares To You",
-      "url": "https://open.spotify.com/track/4cZ3UsiKd1kUQIaq4BFIj2"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -935,26 +935,6 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Summer Feelings (feat. Charlie Puth)",
-        "url": "https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        },
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 160289,
-      "name": "Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album",
-      "url": "https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
         "name": "Run Into Trouble",
         "url": "https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 182564,
       "name": "Run Into Trouble",
       "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
+        "name": "Summer Feelings (feat. Charlie Puth)",
+        "url": "https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 160289,
+      "name": "Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album",
+      "url": "https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1073,7 +1073,7 @@
       "url": "https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4"
     },
     {
-      "added_at": "2023-01-02 00:17:25",
+      "added_at": "2023-01-03 01:44:41",
       "album": {
         "name": "Always Be There",
         "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
@@ -1095,22 +1095,18 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Caught Up (with Olivia O'Brien)",
-        "url": "https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6"
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
         }
       ],
-      "duration_ms": 173214,
-      "name": "Caught Up (with Olivia O'Brien)",
-      "url": "https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1"
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1131,22 +1127,6 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
         "name": "A Place We Knew",
         "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 185400,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/2smpiAZfaN0GFi15MqAq6E"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
+        "name": "Caught Up (with Olivia O'Brien)",
+        "url": "https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 173214,
+      "name": "Caught Up (with Olivia O'Brien)",
+      "url": "https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
+        "name": "Sweet Talker",
+        "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 176930,
+      "name": "Sweet Talker",
+      "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
         "name": "My Head & My Heart (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 139809,
       "name": "Lonely (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
-        "name": "Sweet Talker",
-        "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 176930,
-      "name": "Sweet Talker",
-      "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "NOTED...EP",
-        "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "kenzie",
-          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
-        }
-      ],
-      "duration_ms": 158104,
-      "name": "Worst Thing",
-      "url": "https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
         "name": "Love To Go",
         "url": "https://open.spotify.com/album/4fn5LDl6DjSBfoMCHBO1jv"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 169353,
       "name": "Love To Go",
       "url": "https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
+        "name": "NOTED...EP",
+        "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        }
+      ],
+      "duration_ms": 158104,
+      "name": "Worst Thing",
+      "url": "https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
+        "name": "Tears In Ibiza (feat. AR/CO)",
+        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 143579,
+      "name": "Tears In Ibiza (feat. AR/CO)",
+      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
         "name": "2 Hearts (feat. Gia Koka)",
         "url": "https://open.spotify.com/album/798RdmwmE3IZcZnW0jT7kc"
       },
@@ -1619,26 +1639,6 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Tears In Ibiza (feat. AR/CO)",
-        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
-      },
-      "artists": [
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 143579,
-      "name": "Tears In Ibiza (feat. AR/CO)",
-      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
         "name": "Heaven On My Mind (with Sigala)",
         "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
       },
@@ -1657,7 +1657,7 @@
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     },
     {
-      "added_at": "2023-01-02 00:17:25",
+      "added_at": "2023-01-03 01:44:41",
       "album": {
         "name": "Castles",
         "url": "https://open.spotify.com/album/3BSnLCAE4SOZkMFiy10Rik"
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/1SR7c6j94aiuYEhUrfTbZ7"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 204022,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/5xzCzOAOfRi4DOttSzvznR"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
         "name": "Behind the Moon",
         "url": "https://open.spotify.com/album/1qCOccM3lTlzp2G6ZpJto9"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 173038,
       "name": "With You",
       "url": "https://open.spotify.com/track/2nhbnB0QQIuMZVuXZa3Qr5"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/1SR7c6j94aiuYEhUrfTbZ7"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "duration_ms": 204022,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/5xzCzOAOfRi4DOttSzvznR"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1891,42 +1891,6 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Make You Feel Like",
-        "url": "https://open.spotify.com/album/4YWN7kOFGK0z8XWluklKtU"
-      },
-      "artists": [
-        {
-          "name": "Junge Junge",
-          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
-        },
-        {
-          "name": "Redward Martin",
-          "url": "https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2"
-        }
-      ],
-      "duration_ms": 187372,
-      "name": "Make You Feel Like",
-      "url": "https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
-        "name": "ASYLUM",
-        "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 171898,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/75ylrnob5O80WTKi9ugZ1Z"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/6h8sC5uwBGO0Wu6EiToz6a"
       },
@@ -1947,6 +1911,42 @@
       "duration_ms": 168196,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/19boUY253NrYTqJMh50d5X"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
+        "name": "ASYLUM",
+        "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 171898,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/75ylrnob5O80WTKi9ugZ1Z"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
+        "name": "Make You Feel Like",
+        "url": "https://open.spotify.com/album/4YWN7kOFGK0z8XWluklKtU"
+      },
+      "artists": [
+        {
+          "name": "Junge Junge",
+          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
+        },
+        {
+          "name": "Redward Martin",
+          "url": "https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2"
+        }
+      ],
+      "duration_ms": 187372,
+      "name": "Make You Feel Like",
+      "url": "https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL"
     },
     {
       "added_at": "2022-12-02 06:01:00",

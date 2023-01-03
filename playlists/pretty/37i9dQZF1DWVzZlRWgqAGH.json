@@ -1,12 +1,12 @@
 {
   "description": "\ud83e\uddc8 Smooth joints. Cover: Masego",
-  "num_followers": 766986,
+  "num_followers": 767318,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM3NjQwMCwwMDAwMDAwMDQ4ZDJhZmVmMjYyNmM4NGRmYjQ2YzZmM2EyMzFjNTUy",
+  "snapshot_id": "MTY3MjM3NjQwMCwwMDAwMDAwMGY1ZWY5NGZiNzEwNzhiMTk4YzlmMWZjZDVhNmQzZjEw",
   "tracks": [
     {
       "added_at": "2022-12-30 05:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
+        "name": "soft thing",
+        "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "duration_ms": 186432,
+      "name": "raw",
+      "url": "https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
         "name": "Therapy pt. 2 [Feat. Mac Miller]",
         "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 202225,
       "name": "Therapy pt. 2 [Feat. Mac Miller]",
       "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "soft thing",
-        "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
-      },
-      "artists": [
-        {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
-        }
-      ],
-      "duration_ms": 186432,
-      "name": "raw",
-      "url": "https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Circmvnt",
-        "url": "https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs"
-      },
-      "artists": [
-        {
-          "name": "Elujay",
-          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 220781,
-      "name": "Luvaroq",
-      "url": "https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "MOVIN'",
         "url": "https://open.spotify.com/album/5ufrlZ2S0Wv7P1cjTT02Bm"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 153028,
       "name": "MOVIN'",
       "url": "https://open.spotify.com/track/4mWTAI8wYE4HpYIgPAASpV"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Circmvnt",
+        "url": "https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs"
+      },
+      "artists": [
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 220781,
+      "name": "Luvaroq",
+      "url": "https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
         "name": "She Loves Me",
         "url": "https://open.spotify.com/album/5GH9G6VBA5d291GurowMvb"
       },
@@ -1435,38 +1451,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "LET IT RAIN EP",
-        "url": "https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D"
-      },
-      "artists": [
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "TEARS OF JOY",
-      "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 262466,
       "name": "Compassion (feat. Chiiild)",
       "url": "https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "LET IT RAIN EP",
+        "url": "https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 203064,
+      "name": "TEARS OF JOY",
+      "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "No Longer in the Suburbs",
-        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 174163,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "Wind Parade",
         "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "When Flowers Bloom",
-        "url": "https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG"
+        "name": "No Longer in the Suburbs",
+        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
       },
       "artists": [
         {
-          "name": "Adria Kain",
-          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
         }
       ],
-      "duration_ms": 199770,
-      "name": "Alone In Kenzo",
-      "url": "https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq"
+      "duration_ms": 174163,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1571,6 +1555,22 @@
       "duration_ms": 271250,
       "name": "White Crayon",
       "url": "https://open.spotify.com/track/3a1CnmO9A2hb1B42dMTxel"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "When Flowers Bloom",
+        "url": "https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG"
+      },
+      "artists": [
+        {
+          "name": "Adria Kain",
+          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
+        }
+      ],
+      "duration_ms": 199770,
+      "name": "Alone In Kenzo",
+      "url": "https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
+        "name": "GEEKIN'",
+        "url": "https://open.spotify.com/album/4QynZKICiI8JjZZAScjJBx"
+      },
+      "artists": [
+        {
+          "name": "MIA GLADSTONE",
+          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
+        },
+        {
+          "name": "Ciscero",
+          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
+        }
+      ],
+      "duration_ms": 157921,
+      "name": "GEEKIN",
+      "url": "https://open.spotify.com/track/7kKjzWv2H6qnNDKJuerf1e"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
         "name": "Grey Doubt",
         "url": "https://open.spotify.com/album/3UTSxCYSRe6B9MO2EtHMHW"
       },
@@ -1671,6 +1691,26 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
+        "name": "Wu Hen",
+        "url": "https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        },
+        {
+          "name": "Lauren Faith",
+          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
+        }
+      ],
+      "duration_ms": 200596,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -1691,26 +1731,6 @@
       "duration_ms": 247000,
       "name": "Still",
       "url": "https://open.spotify.com/track/7lBNPNIewZf6d1DJjRtlj8"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "Wu Hen",
-        "url": "https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb"
-      },
-      "artists": [
-        {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
-        },
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "duration_ms": 200596,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1783,26 +1803,6 @@
       "duration_ms": 189333,
       "name": "My Sunrise",
       "url": "https://open.spotify.com/track/5YNqZH6TOzS2DkqxLKbwQT"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "GEEKIN'",
-        "url": "https://open.spotify.com/album/4QynZKICiI8JjZZAScjJBx"
-      },
-      "artists": [
-        {
-          "name": "MIA GLADSTONE",
-          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
-        },
-        {
-          "name": "Ciscero",
-          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
-        }
-      ],
-      "duration_ms": 157921,
-      "name": "GEEKIN",
-      "url": "https://open.spotify.com/track/7kKjzWv2H6qnNDKJuerf1e"
     },
     {
       "added_at": "2022-12-30 05:00:00",

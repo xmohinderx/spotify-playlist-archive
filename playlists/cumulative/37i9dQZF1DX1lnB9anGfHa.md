@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-149 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
+150 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Normal Is Boring](https://open.spotify.com/track/7zBOPBfrGE165t4nKUXBs9) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe), [So Beast](https://open.spotify.com/artist/0BKQOZ5ah55hiPw8EMXxoE) | [Everything Burns](https://open.spotify.com/album/0IjZeZ1jjg3cguTdjhLhQP) | 4:42 | 2021-07-09 | 2022-10-23 |
 | [Not the News](https://open.spotify.com/track/3ejjAD15KNXGwRG1lQMFPI) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 3:57 | 2020-10-20 |  |
 | [Not The News](https://open.spotify.com/track/7ypjELqhyUT3BBCws8kzKN) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/1g4vEVvVVFvFju0gS0DMbh) | 3:57 | 2020-10-20 | 2022-07-29 |
+| [One](https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:54 | 2023-01-03 |  |
 | [Oracles](https://open.spotify.com/track/3RPWEhdvyH1CXphkYti8wc) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Oracles](https://open.spotify.com/album/7q9ambvRrxK3Cem9IvcD7s) | 6:50 | 2022-09-07 |  |
 | [Otro](https://open.spotify.com/track/4y2aw66CxenyRNHddJ6wFt) | [todo hombre es ruido](https://open.spotify.com/artist/5MaCKOuxFORaVHpJKsOH7e), [Caillou](https://open.spotify.com/artist/6SRjzYXse2LjszXueqw2vi), [Bucephalus](https://open.spotify.com/artist/55VusI1wUo1ZPSvdXt3Qqv) | [Otro](https://open.spotify.com/album/52iwoA7t8Sn6kkAfWzEh1D) | 4:39 | 2021-06-23 |  |
 | [PAPER BOYFRIEND](https://open.spotify.com/track/5kmgBZhT1uXEljgE0EJahO) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC), [Spinee](https://open.spotify.com/artist/3DvZPVHIRXdnEluWadwf71) | [Dog Food](https://open.spotify.com/album/3aVuMazxmHxjR4YwCHWOrX) | 2:03 | 2020-10-20 |  |
@@ -143,7 +144,7 @@
 | [Watch](https://open.spotify.com/track/7dXD5KXxYVTpAv6Bcsp85c) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [KiCk i](https://open.spotify.com/album/2KICtQ7dqaaot7B1yN9wPq) | 2:28 | 2020-10-20 | 2022-07-29 |
 | [Watch Me](https://open.spotify.com/track/26nkRghL4ROI2GdxjJ2ZQG) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/75mwsGyTLIsi3PnxFxz061) | 2:56 | 2020-10-20 | 2022-07-29 |
 | [Watch Me](https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj) | 2:56 | 2020-10-20 |  |
-| [WET](https://open.spotify.com/track/4JncjhRUDvh84eO25bopKp) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WET](https://open.spotify.com/album/5UUIPBAzbPaM9J05cLZiaw) | 2:49 | 2020-10-20 |  |
+| [WET](https://open.spotify.com/track/4JncjhRUDvh84eO25bopKp) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WET](https://open.spotify.com/album/5UUIPBAzbPaM9J05cLZiaw) | 2:49 | 2020-10-20 | 2023-01-03 |
 | [What They Call Us](https://open.spotify.com/track/4r7bIvlgghaidRNJghhs3o) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [What They Call Us](https://open.spotify.com/album/67rERGR5WbUsR5baHR8wIR) | 4:27 | 2022-10-10 |  |
 | [Win Some](https://open.spotify.com/track/0U1e0nOw2WlQ6l2sTgfxJS) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 5:12 | 2022-09-21 | 2022-11-04 |
 | [Đi Tìm](https://open.spotify.com/track/2tr5nB15QjKueCSypsuEz7) | [Ngo Hong Quang](https://open.spotify.com/artist/0bSlwjLk6yxanA1aR9QhGY) | [Nhìn Lại](https://open.spotify.com/album/3C7WkkrbcsB80RvXUfJkBO) | 6:29 | 2021-06-23 | 2022-11-09 |

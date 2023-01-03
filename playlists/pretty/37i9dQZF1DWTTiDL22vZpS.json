@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 3281,
+  "num_followers": 3296,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM0NDY0NCwwMDAwMDAwMDUyMWYyZTFiMTllYzM0ODBiNjNmNjJhYjY2OWUzYjli",
+  "snapshot_id": "MTY3MjM0NDY0NCwwMDAwMDAwMDAwZWFhYjlhMTBhMDBmY2I5MjVjYmU4NTgwZTZiMDNh",
   "tracks": [
     {
       "added_at": "2022-12-28 19:30:26",
@@ -107,22 +107,22 @@
     {
       "added_at": "2022-12-28 19:30:26",
       "album": {
-        "name": "Hush (Still Woozy Remix)",
-        "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
+        "name": "Rumbo",
+        "url": "https://open.spotify.com/album/22xOfOeKkOaTmK0aeLnl2D"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
         },
         {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Hush - Still Woozy Remix",
-      "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
+      "duration_ms": 176129,
+      "name": "Nuestros Horarios",
+      "url": "https://open.spotify.com/track/69G2Aj5COfbjvfiMHt2Yfv"
     },
     {
       "added_at": "2022-12-28 19:30:26",
@@ -147,22 +147,18 @@
     {
       "added_at": "2022-12-28 19:30:26",
       "album": {
-        "name": "Rumbo",
-        "url": "https://open.spotify.com/album/22xOfOeKkOaTmK0aeLnl2D"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P"
       },
       "artists": [
         {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
         }
       ],
-      "duration_ms": 176129,
-      "name": "Nuestros Horarios",
-      "url": "https://open.spotify.com/track/69G2Aj5COfbjvfiMHt2Yfv"
+      "duration_ms": 275520,
+      "name": "Te Miro Para Ver Si Me Ves Mirarte",
+      "url": "https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt"
     },
     {
       "added_at": "2022-12-28 19:30:26",
@@ -183,18 +179,22 @@
     {
       "added_at": "2022-12-28 19:30:26",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P"
+        "name": "Hush (Still Woozy Remix)",
+        "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
       },
       "artists": [
         {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        },
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 275520,
-      "name": "Te Miro Para Ver Si Me Ves Mirarte",
-      "url": "https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt"
+      "duration_ms": 182346,
+      "name": "Hush - Still Woozy Remix",
+      "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
     },
     {
       "added_at": "2022-12-28 19:30:26",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-12-28 19:30:26",
       "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2022-12-28 19:30:26",
+      "album": {
         "name": "Dorama",
         "url": "https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm"
       },
@@ -527,26 +543,6 @@
       "duration_ms": 290400,
       "name": "Lentes Negros",
       "url": "https://open.spotify.com/track/2IwXBRnOgAhIVQXjtt6KEK"
-    },
-    {
-      "added_at": "2022-12-28 19:30:26",
-      "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Cheo Pardo",
-          "url": "https://open.spotify.com/artist/2zxaMVEdb6cRSlAmDKjBtb"
-        }
-      ],
-      "duration_ms": 260299,
-      "name": "Funky Fiesta",
-      "url": "https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR"
     },
     {
       "added_at": "2022-12-28 19:30:26",
@@ -571,18 +567,22 @@
     {
       "added_at": "2022-12-28 19:30:26",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
       "artists": [
         {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Cheo Pardo",
+          "url": "https://open.spotify.com/artist/2zxaMVEdb6cRSlAmDKjBtb"
         }
       ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+      "duration_ms": 260299,
+      "name": "Funky Fiesta",
+      "url": "https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR"
     },
     {
       "added_at": "2022-12-28 19:30:26",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-12-28 19:30:26",
       "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 275785,
-      "name": "A\u00f1ejo",
-      "url": "https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr"
-    },
-    {
-      "added_at": "2022-12-28 19:30:26",
-      "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2022-12-28 19:30:26",
       "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 326040,
-      "name": "Tr\u00e1game Tierra",
-      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
+      "duration_ms": 275785,
+      "name": "A\u00f1ejo",
+      "url": "https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr"
     },
     {
       "added_at": "2022-12-28 19:30:26",
@@ -795,6 +779,22 @@
       "duration_ms": 234880,
       "name": "Todos Lo Hacen",
       "url": "https://open.spotify.com/track/15YxQngUxvhImUXb9PxBb0"
+    },
+    {
+      "added_at": "2022-12-28 19:30:26",
+      "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 326040,
+      "name": "Tr\u00e1game Tierra",
+      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
     },
     {
       "added_at": "2022-12-28 19:30:26",

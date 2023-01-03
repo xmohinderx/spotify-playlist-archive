@@ -1,12 +1,12 @@
 {
   "description": "Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.",
-  "num_followers": 61246,
+  "num_followers": 61333,
   "original_name": "Deep Dive: 80s Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY5OTU0MywwMDAwMDAwMGE1ODZkNTM3YzAxMmZlZmU1MjJjNTIzYWJlYTIyN2Nl",
+  "snapshot_id": "MTY2ODY5OTU0MywwMDAwMDAwMDk3NjQ5ZTYzNWU1NjRiM2E1ZDYxNDY1ZjVlNjhkNTI1",
   "tracks": [
     {
       "added_at": "2020-12-08 17:56:50",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Glass Houses",
-        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "It's Still Rock and Roll to Me",
-      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
         "name": "Doolittle",
         "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 162533,
       "name": "Gouge Away",
       "url": "https://open.spotify.com/track/7oDDV1cal0M0RIjr4HuuJ9"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "Glass Houses",
+        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "It's Still Rock and Roll to Me",
+      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -315,18 +315,18 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "5150",
-        "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
+        "name": "The Smiths",
+        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
         }
       ],
-      "duration_ms": 294000,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2APxH5XbOLDTmW9X5yi6Hw"
+      "duration_ms": 201746,
+      "name": "Still Ill - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0uLI1jac8ZJSSRG4QJDo3J"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -347,6 +347,22 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
+        "name": "5150",
+        "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2APxH5XbOLDTmW9X5yi6Hw"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
         "name": "Pyromania",
         "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
       },
@@ -359,38 +375,6 @@
       "duration_ms": 266728,
       "name": "Too Late For Love",
       "url": "https://open.spotify.com/track/5vHyWEoEyIJT5RhR1fcN7y"
-    },
-    {
-      "added_at": "2022-03-28 20:49:50",
-      "album": {
-        "name": "Candy-O",
-        "url": "https://open.spotify.com/album/4UFgeduzEZegQE74xUwI6J"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/43G3McVkRa8V7oGQzfQuRr"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
-        "name": "The Smiths",
-        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 201746,
-      "name": "Still Ill - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0uLI1jac8ZJSSRG4QJDo3J"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -411,6 +395,22 @@
       "duration_ms": 252200,
       "name": "Top Gun Anthem - From \"Top Gun\" Original Soundtrack",
       "url": "https://open.spotify.com/track/00Y9r5SfbDdEjJhNg7laQr"
+    },
+    {
+      "added_at": "2022-03-28 20:49:50",
+      "album": {
+        "name": "Candy-O",
+        "url": "https://open.spotify.com/album/4UFgeduzEZegQE74xUwI6J"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/43G3McVkRa8V7oGQzfQuRr"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
-      },
-      "artists": [
-        {
-          "name": "Poison",
-          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Fallen Angel - Remastered",
-      "url": "https://open.spotify.com/track/27kMqdX3aoN3gBndVKlTfR"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
         "name": "Noiseworks",
         "url": "https://open.spotify.com/album/3tELfbZ3YI1K8Ue21mu5bQ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 207133,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/4yy9bqYoWZaU3VJjGDkHOw"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
+      },
+      "artists": [
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Fallen Angel - Remastered",
+      "url": "https://open.spotify.com/track/27kMqdX3aoN3gBndVKlTfR"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -931,38 +931,6 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/5Sh5gjCOggbEb2kMIFKHHo"
-      },
-      "artists": [
-        {
-          "name": "The Hooters",
-          "url": "https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Johnny B.",
-      "url": "https://open.spotify.com/track/20JrcZW9Djp70GZyFRrAfl"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
-        "name": "Wide Awake In Dreamland",
-        "url": "https://open.spotify.com/album/1cglcD9iGtfheI7hmVdoUb"
-      },
-      "artists": [
-        {
-          "name": "Pat Benatar",
-          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
-        }
-      ],
-      "duration_ms": 272200,
-      "name": "All Fired Up",
-      "url": "https://open.spotify.com/track/6XpczhG192lULA9i4JLqKJ"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
         "name": "Sally Cinnamon",
         "url": "https://open.spotify.com/album/1I3RDBQbwiHq1GsWBhaINZ"
       },
@@ -975,6 +943,22 @@
       "duration_ms": 173000,
       "name": "Sally Cinnamon - Single Mix",
       "url": "https://open.spotify.com/track/7x9E5FckzFbSNX5pqKAVNS"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/5Sh5gjCOggbEb2kMIFKHHo"
+      },
+      "artists": [
+        {
+          "name": "The Hooters",
+          "url": "https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Johnny B.",
+      "url": "https://open.spotify.com/track/20JrcZW9Djp70GZyFRrAfl"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -995,6 +979,22 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
+        "name": "Wide Awake In Dreamland",
+        "url": "https://open.spotify.com/album/1cglcD9iGtfheI7hmVdoUb"
+      },
+      "artists": [
+        {
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+        }
+      ],
+      "duration_ms": 272200,
+      "name": "All Fired Up",
+      "url": "https://open.spotify.com/track/6XpczhG192lULA9i4JLqKJ"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
         "name": "Vacation",
         "url": "https://open.spotify.com/album/7qSxcMI3rTQaD1oTi1vel0"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 179826,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/0oc7YoWV783fGr2GbdcIrz"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
-        "name": "Shake It Up (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7KpSpJbHn3SYZIMHKkdO6V"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Shake It Up - 2017 Remaster",
-      "url": "https://open.spotify.com/track/3ZBzJbqwV2gQUAe4ofghOo"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -1075,22 +1059,6 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Strangeways, Here We Come",
-        "url": "https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "A Rush and a Push and the Land Is Ours - 2011 Remaster",
-      "url": "https://open.spotify.com/track/6Ps04Nfh2PySU4fIPZWxrU"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
         "name": "Circus Animals",
         "url": "https://open.spotify.com/album/0wvs4l6G2raakk5yuUMJBc"
       },
@@ -1103,6 +1071,38 @@
       "duration_ms": 263432,
       "name": "Bow River - 2011 Remastered",
       "url": "https://open.spotify.com/track/0zYKkOvUgOL8gceY8Eh1Wh"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "Shake It Up (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7KpSpJbHn3SYZIMHKkdO6V"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Shake It Up - 2017 Remaster",
+      "url": "https://open.spotify.com/track/3ZBzJbqwV2gQUAe4ofghOo"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "Strangeways, Here We Come",
+        "url": "https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "A Rush and a Push and the Land Is Ours - 2011 Remaster",
+      "url": "https://open.spotify.com/track/6Ps04Nfh2PySU4fIPZWxrU"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 330506,
-      "name": "Straight to Hell - Remastered",
-      "url": "https://open.spotify.com/track/2ax1vei61BzRGsEn6ckEdL"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 239306,
       "name": "A Face In The Crowd",
       "url": "https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 330506,
+      "name": "Straight to Hell - Remastered",
+      "url": "https://open.spotify.com/track/2ax1vei61BzRGsEn6ckEdL"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Blow Up Your Video",
-        "url": "https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Heatseeker",
-      "url": "https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
         "name": "Dr. Feelgood (2021 - Remaster)",
         "url": "https://open.spotify.com/album/1pRY36LiSRq5oBwdrLKrF2"
       },
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
+        "name": "Blow Up Your Video",
+        "url": "https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Heatseeker",
+      "url": "https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
         "name": "Paradise Theatre",
         "url": "https://open.spotify.com/album/6PhLTeuN0G894bdSBTCwUF"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 257866,
       "name": "The Best Of Times",
       "url": "https://open.spotify.com/track/7GRUpcvSQM9HrnC2CjYPG4"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 283186,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -1391,22 +1407,6 @@
       "duration_ms": 185666,
       "name": "Yer So Bad",
       "url": "https://open.spotify.com/track/2ZS3jFe6p8UoVyrY5jWBlF"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
-        "name": "High 'N' Dry",
-        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 283186,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Operation: Mindcrime (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4eEQ3aNA8mptFIfbFdX79p"
-      },
-      "artists": [
-        {
-          "name": "Queensr\u00ffche",
-          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
-        }
-      ],
-      "duration_ms": 263560,
-      "name": "I Don't Believe In Love - Remastered 2003",
-      "url": "https://open.spotify.com/track/0U2TocFjqul3sis3sE5jZl"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
         "name": "The Other Side Of Life",
         "url": "https://open.spotify.com/album/5dY18oz4mvg4ouRMz7oZTm"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 239266,
       "name": "Playing with the Boys - From \"Top Gun\" Original Soundtrack",
       "url": "https://open.spotify.com/track/5mQYBoGU3BOAqiFq54b51i"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "Operation: Mindcrime (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4eEQ3aNA8mptFIfbFdX79p"
+      },
+      "artists": [
+        {
+          "name": "Queensr\u00ffche",
+          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
+        }
+      ],
+      "duration_ms": 263560,
+      "name": "I Don't Believe In Love - Remastered 2003",
+      "url": "https://open.spotify.com/track/0U2TocFjqul3sis3sE5jZl"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 246611,
-      "name": "Never",
-      "url": "https://open.spotify.com/track/4yEMyaB6PGBpQvac2yD9wZ"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/5Sh5gjCOggbEb2kMIFKHHo"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 357626,
       "name": "All You Zombies",
       "url": "https://open.spotify.com/track/0jvrac0ac39rXsPgG2MSZ3"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 246611,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/4yEMyaB6PGBpQvac2yD9wZ"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
+        "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
+      },
+      "artists": [
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "I Won't Forget You - Remastered",
+      "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
         "name": "Pleasant Dreams (Expanded 2005 Remaster)",
         "url": "https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z"
       },
@@ -1763,18 +1779,18 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/4i1BThlM0YcTgcNYkOa7Sl"
       },
       "artists": [
         {
-          "name": "Poison",
-          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+          "name": "George Thorogood & The Destroyers",
+          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
         }
       ],
-      "duration_ms": 214373,
-      "name": "I Won't Forget You - Remastered",
-      "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
+      "duration_ms": 275493,
+      "name": "I Drink Alone",
+      "url": "https://open.spotify.com/track/2nIDPfhjHZP8UOXPenLZUC"
     },
     {
       "added_at": "2022-01-10 12:25:09",
@@ -1795,22 +1811,6 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Maverick",
-        "url": "https://open.spotify.com/album/4i1BThlM0YcTgcNYkOa7Sl"
-      },
-      "artists": [
-        {
-          "name": "George Thorogood & The Destroyers",
-          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
-        }
-      ],
-      "duration_ms": 275493,
-      "name": "I Drink Alone",
-      "url": "https://open.spotify.com/track/2nIDPfhjHZP8UOXPenLZUC"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
         "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys"
       },
@@ -1823,6 +1823,70 @@
       "duration_ms": 344613,
       "name": "House of Pain",
       "url": "https://open.spotify.com/track/46Qy1xAr2K7rylRYwdQ6Gw"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "N.E.W.S.",
+        "url": "https://open.spotify.com/album/3PKz1Tn3o3cKnIj1GzfFT3"
+      },
+      "artists": [
+        {
+          "name": "Golden Earring",
+          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
+        }
+      ],
+      "duration_ms": 340026,
+      "name": "When The Lady Smiles",
+      "url": "https://open.spotify.com/track/6RGmi17H0xpHb7hpMxFwip"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "Pretty Hate Machine",
+        "url": "https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "Terrible Lie",
+      "url": "https://open.spotify.com/track/3o1nX61oecxnqXieA2ma0U"
+    },
+    {
+      "added_at": "2022-01-10 12:25:09",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 257365,
+      "name": "Running To Stand Still",
+      "url": "https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu"
+    },
+    {
+      "added_at": "2022-03-28 20:49:50",
+      "album": {
+        "name": "My Aim Is True",
+        "url": "https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        }
+      ],
+      "duration_ms": 226040,
+      "name": "Watching The Detectives - Single Version",
+      "url": "https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -1843,66 +1907,18 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Pretty Hate Machine",
-        "url": "https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN"
+        "name": "Like A Rock",
+        "url": "https://open.spotify.com/album/5zkrBl6rudGLk8YhscRbjl"
       },
       "artists": [
         {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
         }
       ],
-      "duration_ms": 278866,
-      "name": "Terrible Lie",
-      "url": "https://open.spotify.com/track/3o1nX61oecxnqXieA2ma0U"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
-        "name": "N.E.W.S.",
-        "url": "https://open.spotify.com/album/3PKz1Tn3o3cKnIj1GzfFT3"
-      },
-      "artists": [
-        {
-          "name": "Golden Earring",
-          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
-        }
-      ],
-      "duration_ms": 340026,
-      "name": "When The Lady Smiles",
-      "url": "https://open.spotify.com/track/6RGmi17H0xpHb7hpMxFwip"
-    },
-    {
-      "added_at": "2022-03-28 20:49:50",
-      "album": {
-        "name": "My Aim Is True",
-        "url": "https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello",
-          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "Watching The Detectives - Single Version",
-      "url": "https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s"
-    },
-    {
-      "added_at": "2022-01-10 12:25:09",
-      "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 257365,
-      "name": "Running To Stand Still",
-      "url": "https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu"
+      "duration_ms": 355798,
+      "name": "Like A Rock",
+      "url": "https://open.spotify.com/track/5Jno63iv0mzu5OZ28asYbE"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -1935,22 +1951,6 @@
       "duration_ms": 373266,
       "name": "Rocket Queen",
       "url": "https://open.spotify.com/track/0xaNdYwK8ZF3cHSjraQGC0"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
-        "name": "Like A Rock",
-        "url": "https://open.spotify.com/album/5zkrBl6rudGLk8YhscRbjl"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 355798,
-      "name": "Like A Rock",
-      "url": "https://open.spotify.com/track/5Jno63iv0mzu5OZ28asYbE"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
+        "name": "Boy (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 254040,
+      "name": "Out Of Control - Remastered 2008",
+      "url": "https://open.spotify.com/track/7dni8dPFeedwSTX8hqcC3s"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
         "name": "New Gold Dream (81/82/83/84)",
         "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 217960,
       "name": "You Got Lucky",
       "url": "https://open.spotify.com/track/5eMZ3EPIMGoWlrrVhxatdv"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
-        "name": "Boy (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 254040,
-      "name": "Out Of Control - Remastered 2008",
-      "url": "https://open.spotify.com/track/7dni8dPFeedwSTX8hqcC3s"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Candy Apple Grey",
-        "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
-      },
-      "artists": [
-        {
-          "name": "H\u00fcsker D\u00fc",
-          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Don't Want to Know If You Are Lonely",
-      "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
         "name": "Vital Idol",
         "url": "https://open.spotify.com/album/0XGgMqKNcQgd0i9YHFiPei"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 505093,
       "name": "White Wedding (Parts 1 And 2) - Shotgun Mix / 24-Bit Digitally Remastered 2001",
       "url": "https://open.spotify.com/track/4OYRJv1tcOEPe38Fwc7y1m"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "Candy Apple Grey",
+        "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
+      },
+      "artists": [
+        {
+          "name": "H\u00fcsker D\u00fc",
+          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Don't Want to Know If You Are Lonely",
+      "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "duration_ms": 299320,
-      "name": "This Is the One - Remastered",
-      "url": "https://open.spotify.com/track/433EQGQOsQjWvD5eImXkHf"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
         "name": "Play Deep",
         "url": "https://open.spotify.com/album/2d5GU9ms5JCSS9GjsFebu8"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 227760,
       "name": "Say It Isn't So",
       "url": "https://open.spotify.com/track/5MCIbKkyD1O7OZzXhzI7Rl"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 299320,
+      "name": "This Is the One - Remastered",
+      "url": "https://open.spotify.com/track/433EQGQOsQjWvD5eImXkHf"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 256733,
-      "name": "Raise Your Hands",
-      "url": "https://open.spotify.com/track/7oJXOVieUvG8e9HDRhZGPK"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
       },
@@ -2259,18 +2243,18 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Three Lock Box",
-        "url": "https://open.spotify.com/album/45jQKUlo9GsOm87tHc46Xp"
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
       "artists": [
         {
-          "name": "Sammy Hagar",
-          "url": "https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 211226,
-      "name": "Your Love Is Driving Me Crazy",
-      "url": "https://open.spotify.com/track/3OghNV9ZOUbAj62CZptOEP"
+      "duration_ms": 256733,
+      "name": "Raise Your Hands",
+      "url": "https://open.spotify.com/track/7oJXOVieUvG8e9HDRhZGPK"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -2291,18 +2275,18 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Doolittle",
-        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
+        "name": "Three Lock Box",
+        "url": "https://open.spotify.com/album/45jQKUlo9GsOm87tHc46Xp"
       },
       "artists": [
         {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+          "name": "Sammy Hagar",
+          "url": "https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N"
         }
       ],
-      "duration_ms": 163640,
-      "name": "La La Love You",
-      "url": "https://open.spotify.com/track/6x0cOqPP07gTXusQfK9COQ"
+      "duration_ms": 211226,
+      "name": "Your Love Is Driving Me Crazy",
+      "url": "https://open.spotify.com/track/3OghNV9ZOUbAj62CZptOEP"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -2319,6 +2303,22 @@
       "duration_ms": 254293,
       "name": "Middle of the Road - 2007 Remaster",
       "url": "https://open.spotify.com/track/1YhyOTcVjHe73cm6tYrHkA"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 163640,
+      "name": "La La Love You",
+      "url": "https://open.spotify.com/track/6x0cOqPP07gTXusQfK9COQ"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "Burn in Hell",
-      "url": "https://open.spotify.com/track/1aVChMRP6I3ViAIlnW3WYS"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
         "name": "Darklands (Expanded Version)",
         "url": "https://open.spotify.com/album/5cFb5EJLTQ7u6YuGE922tu"
       },
@@ -2547,18 +2531,18 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Chicago 19 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1Z9Rlkd9LAYTZcU2TU7BZY"
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
       "artists": [
         {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
         }
       ],
-      "duration_ms": 242960,
-      "name": "Look Away - 2009 Remaster",
-      "url": "https://open.spotify.com/track/2dEVFDQ9Z9Gyl73yhoKl65"
+      "duration_ms": 283226,
+      "name": "Burn in Hell",
+      "url": "https://open.spotify.com/track/1aVChMRP6I3ViAIlnW3WYS"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -2575,6 +2559,22 @@
       "duration_ms": 337066,
       "name": "You Better You Bet",
       "url": "https://open.spotify.com/track/58RWYT5MGo8e4Y3WAZHh9g"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "Chicago 19 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1Z9Rlkd9LAYTZcU2TU7BZY"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 242960,
+      "name": "Look Away - 2009 Remaster",
+      "url": "https://open.spotify.com/track/2dEVFDQ9Z9Gyl73yhoKl65"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -2609,6 +2609,22 @@
       "url": "https://open.spotify.com/track/4GbnjrrobeVLCl1FQ5C0OY"
     },
     {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Hand To Hold On To",
+      "url": "https://open.spotify.com/track/7fPXqb7yuGbSl0ZM3EddHx"
+    },
+    {
       "added_at": "2022-03-28 20:49:50",
       "album": {
         "name": "Surfer Rosa",
@@ -2623,6 +2639,22 @@
       "duration_ms": 183346,
       "name": "Bone Machine - Remastered",
       "url": "https://open.spotify.com/track/7ERZgMLgpVhrp2D6JYy02t"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "Sandinista! (Remastered)",
+        "url": "https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 294093,
+      "name": "Charlie Don't Surf - Remastered",
+      "url": "https://open.spotify.com/track/5T4j3Uv33fQO7tsR2lMl4y"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -2663,34 +2695,18 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Sandinista! (Remastered)",
-        "url": "https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF"
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
       "artists": [
         {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 294093,
-      "name": "Charlie Don't Surf - Remastered",
-      "url": "https://open.spotify.com/track/5T4j3Uv33fQO7tsR2lMl4y"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Hand To Hold On To",
-      "url": "https://open.spotify.com/track/7fPXqb7yuGbSl0ZM3EddHx"
+      "duration_ms": 349280,
+      "name": "Born Under Punches (The Heat Goes On) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4eBCTzBsSjYgrLH5clQf2x"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -2711,18 +2727,18 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+        "name": "Skylarking",
+        "url": "https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
         }
       ],
-      "duration_ms": 349280,
-      "name": "Born Under Punches (The Heat Goes On) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4eBCTzBsSjYgrLH5clQf2x"
+      "duration_ms": 219506,
+      "name": "Dear God - Remastered 2001",
+      "url": "https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -2743,18 +2759,18 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Skylarking",
-        "url": "https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW"
+        "name": "Laughing At the Pieces",
+        "url": "https://open.spotify.com/album/0O2LDqpLcWUxONhKfvRK1g"
       },
       "artists": [
         {
-          "name": "XTC",
-          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+          "name": "Doctor & The Medics",
+          "url": "https://open.spotify.com/artist/0auxGqduSBWubpKjjSNKLr"
         }
       ],
-      "duration_ms": 219506,
-      "name": "Dear God - Remastered 2001",
-      "url": "https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn"
+      "duration_ms": 208106,
+      "name": "Spirit in the Sky",
+      "url": "https://open.spotify.com/track/097Tr8QiDLiTQlEoLI96AP"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -2787,22 +2803,6 @@
       "duration_ms": 273080,
       "name": "One Night Love Affair",
       "url": "https://open.spotify.com/track/5W2wzbDu4os7SbAGVzbYfY"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
-        "name": "Laughing At the Pieces",
-        "url": "https://open.spotify.com/album/0O2LDqpLcWUxONhKfvRK1g"
-      },
-      "artists": [
-        {
-          "name": "Doctor & The Medics",
-          "url": "https://open.spotify.com/artist/0auxGqduSBWubpKjjSNKLr"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Spirit in the Sky",
-      "url": "https://open.spotify.com/track/097Tr8QiDLiTQlEoLI96AP"
     },
     {
       "added_at": "2022-03-28 20:49:50",
@@ -2951,22 +2951,6 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Aural Sculpture",
-        "url": "https://open.spotify.com/album/1MruYes9jkQuAoX4NezhUt"
-      },
-      "artists": [
-        {
-          "name": "The Stranglers",
-          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
-        }
-      ],
-      "duration_ms": 233186,
-      "name": "Skin Deep",
-      "url": "https://open.spotify.com/track/1QeEpsDDPWTu3pKOLro0La"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
         "name": "Raised On Radio",
         "url": "https://open.spotify.com/album/0o61yZjH9JNYjfQXQkdJFq"
       },
@@ -2979,6 +2963,22 @@
       "duration_ms": 231680,
       "name": "Be Good to Yourself",
       "url": "https://open.spotify.com/track/2D5xQtVNi4o6F3Gh1qxD3Y"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "Aural Sculpture",
+        "url": "https://open.spotify.com/album/1MruYes9jkQuAoX4NezhUt"
+      },
+      "artists": [
+        {
+          "name": "The Stranglers",
+          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+        }
+      ],
+      "duration_ms": 233186,
+      "name": "Skin Deep",
+      "url": "https://open.spotify.com/track/1QeEpsDDPWTu3pKOLro0La"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -3015,22 +3015,6 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Frank Stallone",
-        "url": "https://open.spotify.com/album/4khMOHn89Aq1yHqWgkVzxm"
-      },
-      "artists": [
-        {
-          "name": "Frank Stallone",
-          "url": "https://open.spotify.com/artist/3BucZwouCkpiGi2UxqfWn9"
-        }
-      ],
-      "duration_ms": 195893,
-      "name": "Far From Over",
-      "url": "https://open.spotify.com/track/0mbImplrU76kIvd52GlNbt"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
         "name": "Sports",
         "url": "https://open.spotify.com/album/5jyfyM8Cinnh05OswtWv41"
       },
@@ -3043,6 +3027,22 @@
       "duration_ms": 285800,
       "name": "I Want A New Drug",
       "url": "https://open.spotify.com/track/2yWf3FJLwB0ytfOpgqLoa2"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "Frank Stallone",
+        "url": "https://open.spotify.com/album/4khMOHn89Aq1yHqWgkVzxm"
+      },
+      "artists": [
+        {
+          "name": "Frank Stallone",
+          "url": "https://open.spotify.com/artist/3BucZwouCkpiGi2UxqfWn9"
+        }
+      ],
+      "duration_ms": 195893,
+      "name": "Far From Over",
+      "url": "https://open.spotify.com/track/0mbImplrU76kIvd52GlNbt"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -3127,22 +3127,6 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Dirty Rotten Filthy Stinking Rich",
-        "url": "https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS"
-      },
-      "artists": [
-        {
-          "name": "Warrant",
-          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Sometimes She Cries",
-      "url": "https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG"
-    },
-    {
-      "added_at": "2020-12-08 17:56:50",
-      "album": {
         "name": "Synchronicity (Remastered 2003)",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
       },
@@ -3159,18 +3143,34 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Standing Hampton",
-        "url": "https://open.spotify.com/album/5EuL5NWA7SbMENWt8C16wn"
+        "name": "Boy (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY"
       },
       "artists": [
         {
-          "name": "Sammy Hagar",
-          "url": "https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 255266,
-      "name": "There's Only One Way To Rock",
-      "url": "https://open.spotify.com/track/6DZVWULzIED39omfY6ZTFC"
+      "duration_ms": 182426,
+      "name": "Stories For Boys - Remastered 2008",
+      "url": "https://open.spotify.com/track/37r50D42oXhzxtH3VyBzJX"
+    },
+    {
+      "added_at": "2020-12-08 17:56:50",
+      "album": {
+        "name": "Dirty Rotten Filthy Stinking Rich",
+        "url": "https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS"
+      },
+      "artists": [
+        {
+          "name": "Warrant",
+          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Sometimes She Cries",
+      "url": "https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG"
     },
     {
       "added_at": "2020-12-08 17:56:50",
@@ -3191,18 +3191,18 @@
     {
       "added_at": "2020-12-08 17:56:50",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
+        "name": "Standing Hampton",
+        "url": "https://open.spotify.com/album/5EuL5NWA7SbMENWt8C16wn"
       },
       "artists": [
         {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+          "name": "Sammy Hagar",
+          "url": "https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N"
         }
       ],
-      "duration_ms": 220415,
-      "name": "If Looks Could Kill",
-      "url": "https://open.spotify.com/track/1mr9ZUNWfCUClBDhYbCErx"
+      "duration_ms": 255266,
+      "name": "There's Only One Way To Rock",
+      "url": "https://open.spotify.com/track/6DZVWULzIED39omfY6ZTFC"
     },
     {
       "added_at": "2020-12-08 17:56:50",

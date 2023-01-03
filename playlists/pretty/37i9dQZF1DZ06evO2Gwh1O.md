@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 
 > This is Funeral For A Friend\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,303 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,304 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 | 36 | [The Getaway Plan](https://open.spotify.com/track/024SKJQWI46Wcs2vrE1cH7) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Between Order and Model](https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU) | 4:15 |
 | 37 | [Brother](https://open.spotify.com/track/6lmnA6X89A01eFfQl0YvBG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 1:51 |
 | 38 | [Death Comes to Us All](https://open.spotify.com/track/4n4JSCL8UnjRtte7p7obld) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 3:15 |
-| 39 | [Beneath the Burning Tree](https://open.spotify.com/track/5wsw7wzq89oQLc6nzSXbEJ) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 3:34 |
-| 40 | [Built to Last](https://open.spotify.com/track/2vKd8WXBClYs5TqFg1VcCd) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Your History Is Mine: 2002\-2009](https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe) | 4:20 |
+| 39 | [Built to Last](https://open.spotify.com/track/2vKd8WXBClYs5TqFg1VcCd) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Your History Is Mine: 2002\-2009](https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe) | 4:20 |
+| 40 | [Beneath the Burning Tree](https://open.spotify.com/track/5wsw7wzq89oQLc6nzSXbEJ) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 3:34 |
 | 41 | [You've Got a Bad Case of the Religions](https://open.spotify.com/track/7oW1NontbB6FPayssJi0V3) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 2:38 |
 | 42 | [High Castles](https://open.spotify.com/track/6S5FOiN5SAgZVth5LWFsSt) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 3:37 |
 | 43 | [Sunday Bloody Sunday](https://open.spotify.com/track/686ZsEtJzTwS9cDcrQkoBQ) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Monsters](https://open.spotify.com/album/4pZcafB8p6eH2p5cs8ZaW4) | 4:24 |
 | 44 | [Serpents in Solitude](https://open.spotify.com/track/2v79Ji3CqxYQ5NpgdGC7qh) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [The Young And Defenceless EP](https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89) | 3:25 |
 | 45 | [You Should Be Ashamed of Yourself](https://open.spotify.com/track/0D84aXi3d8Y3Qd3gOaSTOP) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 3:47 |
 | 46 | [Sixteen](https://open.spotify.com/track/4ykkcv8uHTMXSfBUD7FE0E) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/671IkodRxbHQXE41qo7I0H) | 2:50 |
-| 47 | [Will to Die](https://open.spotify.com/track/4r89jCskt1SKa3yVTXukzK) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [See You All in Hell](https://open.spotify.com/album/5MooIxGhbCMMUAhOYBET4N) | 2:57 |
-| 48 | [Rules and Games](https://open.spotify.com/track/23YYBsifiIFoW4ifveAd2m) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 2:50 |
-| 49 | [Damned If You Do, Dead If You Don't](https://open.spotify.com/track/2vqvoXou424cxTKKpAGhTx) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [The Young And Defenceless EP](https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89) | 3:29 |
+| 47 | [Rules and Games](https://open.spotify.com/track/23YYBsifiIFoW4ifveAd2m) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 2:50 |
+| 48 | [Damned If You Do, Dead If You Don't](https://open.spotify.com/track/2vqvoXou424cxTKKpAGhTx) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [The Young And Defenceless EP](https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89) | 3:29 |
+| 49 | [Will to Die](https://open.spotify.com/track/4r89jCskt1SKa3yVTXukzK) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [See You All in Hell](https://open.spotify.com/album/5MooIxGhbCMMUAhOYBET4N) | 2:57 |
 | 50 | [Old Hymns](https://open.spotify.com/track/3fCwI1gG0zo3Qr6qB68A2Q) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/6R8x24cl5q8aUP19bkPZdR) | 2:32 |
 
-Snapshot ID: `Mjc4NzYzNDMsMDAwMDAwMDA3NmY4N2U4NTdlYWYzNDk1NmRlOGJkNmUyZDY3ZDBmNw==`
+Snapshot ID: `Mjc4Nzc3NTksMDAwMDAwMDAwOGNlMmQ3MTVlMDdiZWYwYmQyOGFhZjRjNDhkM2U1ZA==`

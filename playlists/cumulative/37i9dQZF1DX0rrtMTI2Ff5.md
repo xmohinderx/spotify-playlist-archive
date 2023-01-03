@@ -4,7 +4,7 @@
 
 > Éxitos internacionales que no pasan de moda.<br/>Para novedades, escucha <a href="spotify:playlist:37i9dQZF1DX6aTaZa0K6VA">Pop Up</a>.
 
-635 songs - 1 day 14 hr 39 min - [published](https://open.spotify.com/playlist/5C3CCi7Ruqoeuxumd7ZyLl)
+636 songs - 1 day 14 hr 42 min - [published](https://open.spotify.com/playlist/5C3CCi7Ruqoeuxumd7ZyLl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,7 +382,7 @@
 | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/track/4jpbDGZz6euo0xDcLlJUDZ) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/7BEPVoBcHuTLWpcdj8FhM8) | 4:22 | 2022-04-13 | 2022-04-21 |
 | [My My My!](https://open.spotify.com/track/1YHT1FZv5t3ZFLsVPuy6Rq) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/1OyADPvYTlmT5hV0mtxLAY) | 3:24 | 2022-04-08 | 2022-04-14 |
 | [My Way](https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [My Way](https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54) | 3:39 | 2022-04-08 | 2022-04-16 |
-| [Natural](https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:09 | 2022-06-07 |  |
+| [Natural](https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:09 | 2022-06-07 | 2023-01-03 |
 | [Natural](https://open.spotify.com/track/4zIO3ilp5HvTeK3HJHxhMP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Natural](https://open.spotify.com/album/3rar7GKCodqR9GIIiNe75H) | 3:09 | 2022-04-08 | 2022-04-10 |
 | [Need Someone](https://open.spotify.com/track/0e6HwIMqkDwr80TmH1mdt3) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 2:57 | 2021-11-17 | 2022-04-17 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-11-17 |  |
@@ -572,6 +572,7 @@
 | [This Love](https://open.spotify.com/track/5zF2zGPkL6Ipsn9AfAK6RP) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF) | 3:26 | 2022-04-08 | 2022-07-13 |
 | [Thrift Shop \(feat\. Wanz\)](https://open.spotify.com/track/1CmUZGtH29Kx36C1Hleqlz) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Wanz](https://open.spotify.com/artist/56xTxG4nQMAs1GW9kvn0uA) | [Thrift Shop \(feat\. Wanz\)](https://open.spotify.com/album/0XN945pdw7kvYRndgbDuSb) | 3:55 | 2022-04-08 | 2022-04-19 |
 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 | 2022-04-08 |  |
+| [TiK ToK](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:19 | 2022-12-12 |  |
 | [TiK ToK](https://open.spotify.com/track/6nYoTBmGFNgfTyRC8x1Fvp) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal](https://open.spotify.com/album/5peRwC6pQh8eaoIPtvmmOB) | 3:19 | 2022-04-13 | 2022-04-21 |
 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2022-04-08 | 2022-04-21 |
 | [Till the World Ends](https://open.spotify.com/track/38iU2jg98IZZEIJPrP7aWD) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:57 | 2022-04-08 | 2022-04-20 |

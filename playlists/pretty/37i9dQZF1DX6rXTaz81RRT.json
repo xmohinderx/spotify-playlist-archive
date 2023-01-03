@@ -1,12 +1,12 @@
 {
   "description": "Formas musicales de decir \"Te quiero\".",
-  "num_followers": 307781,
+  "num_followers": 307810,
   "original_name": "Te quiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk4NTQzNSwwMDAwMDAwMGNlNjUyZGExOTRiNGJjOWJjZThmMTBjYWY1YjQ2NDBj",
+  "snapshot_id": "MTY1OTk4NTQzNSwwMDAwMDAwMDFlNzI5M2E2MGQxYTYzNjEyNzUzYTlhMmI5ZTI3YTNi",
   "tracks": [
     {
       "added_at": "2021-02-12 18:11:45",
@@ -111,6 +111,22 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -163,22 +179,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258986,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "Don't Play That Song (Mono)",
         "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
       },
@@ -223,6 +223,22 @@
       "duration_ms": 241786,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -275,22 +291,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
       },
@@ -339,6 +339,38 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
+        "name": "Sixpence None the Richer",
+        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
         "name": "Rock Of The Westies",
         "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
       },
@@ -359,22 +391,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "Sixpence None the Richer",
-        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 250693,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 271093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "Camino Palmero",
-        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
-      },
-      "artists": [
-        {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Wherever You Will Go",
-      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "Camino Palmero",
+        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
+      },
+      "artists": [
+        {
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "Pablo Alboran (Deluxe)",
-        "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Solamente t\u00fa",
-      "url": "https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "Tattoo (Remix with Camilo)",
         "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+        "name": "Pablo Alboran (Deluxe)",
+        "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 239226,
-      "name": "Remember the Time",
-      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
+      "duration_ms": 247186,
+      "name": "Solamente t\u00fa",
+      "url": "https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -815,6 +799,22 @@
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Remember the Time",
+      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -883,26 +883,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "XSCAPE",
-        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 246026,
-      "name": "Love Never Felt So Good",
-      "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "Be My Baby: The Very Best of The Ronettes",
         "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 288973,
       "name": "One More Night - 2016 Remaster",
       "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "XSCAPE",
+        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 246026,
+      "name": "Love Never Felt So Good",
+      "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "Estados de Animo",
-        "url": "https://open.spotify.com/album/6Fs4ZLz6N8IZtXR20zjwjy"
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/7o6j8wph7fvEcAL67jLVGN"
       },
       "artists": [
         {
-          "name": "El Canto Del Loco",
-          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
         }
       ],
-      "duration_ms": 209893,
-      "name": "Una Foto en Blanco y Negro",
-      "url": "https://open.spotify.com/track/1LuW4h5s9ZumBbMh7qhDDj"
+      "duration_ms": 193923,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/083Qf6hn6sFL6xiOHlZUyn"
     }
   ],
   "unique_name": "Te quiero",

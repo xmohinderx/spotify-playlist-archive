@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Jenn Morel",
-  "num_followers": 5515,
+  "num_followers": 5524,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyOTg3NCwwMDAwMDAwMDFiZGJmZTMyM2FmYjA0ZWRmZTliNWE1ZDkwYzk2ZmY5",
+  "snapshot_id": "MTY3MjQyOTg3NCwwMDAwMDAwMGE0OGUwOGMyZDM3NjkyYTQ4NWVjMTdmMmY3Njc1NWE3",
   "tracks": [
     {
       "added_at": "2022-09-13 13:21:30",
@@ -183,8 +183,8 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "Pilot (Extended Version)",
-        "url": "https://open.spotify.com/album/75DDvdNMm1S83v3iefTbtu"
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
         }
       ],
-      "duration_ms": 192506,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/2UxCHjxmGN6X4oiBfWKM0c"
+      "duration_ms": 150071,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -211,6 +211,54 @@
       "duration_ms": 160093,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/5fCLXGmn6hq4XhWLwoWJyv"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
+        "name": "Spell 31",
+        "url": "https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m"
+      },
+      "artists": [
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        }
+      ],
+      "duration_ms": 195204,
+      "name": "Sister 2 Sister",
+      "url": "https://open.spotify.com/track/2nSancXdw3xATmlG1X6Ts0"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 160243,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
+        "name": "They Love Us",
+        "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
+      },
+      "artists": [
+        {
+          "name": "Marconi Impara",
+          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+        }
+      ],
+      "duration_ms": 174013,
+      "name": "Triple H",
+      "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -247,24 +295,8 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "Spell 31",
-        "url": "https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m"
-      },
-      "artists": [
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        }
-      ],
-      "duration_ms": 195204,
-      "name": "Sister 2 Sister",
-      "url": "https://open.spotify.com/track/2nSancXdw3xATmlG1X6Ts0"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
+        "name": "Pilot (Extended Version)",
+        "url": "https://open.spotify.com/album/75DDvdNMm1S83v3iefTbtu"
       },
       "artists": [
         {
@@ -272,41 +304,9 @@
           "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
         }
       ],
-      "duration_ms": 150071,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
-        "name": "Modelo",
-        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 160243,
-      "name": "Modelo",
-      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
-        "name": "They Love Us",
-        "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
-      },
-      "artists": [
-        {
-          "name": "Marconi Impara",
-          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
-        }
-      ],
-      "duration_ms": 174013,
-      "name": "Triple H",
-      "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
+      "duration_ms": 192506,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/2UxCHjxmGN6X4oiBfWKM0c"
     },
     {
       "added_at": "2022-12-30 19:51:14",

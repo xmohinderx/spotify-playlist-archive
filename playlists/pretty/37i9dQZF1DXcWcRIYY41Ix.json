@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Ant\u00eda Mu\u00ed\u00f1o.",
-  "num_followers": 100096,
+  "num_followers": 100171,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMDVkYzFkZjY5OWE1YzgxMDlkMmU3NjQ5ZDU2YjdhZGNl",
+  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMDBmZmM2ZjRlZWQ4NTk3N2NlMmEwNzVhY2YxZjYyMmRl",
   "tracks": [
     {
       "added_at": "2022-12-23 05:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Viento Sur",
-        "url": "https://open.spotify.com/album/07YaDmmOtX88kOCryTmXh6"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 273332,
-      "name": "Lejos de la ciudad",
-      "url": "https://open.spotify.com/track/3E6Biow3hFr1axedNqmRoe"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
         "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 158560,
       "name": "L\u00e1stima",
       "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Viento Sur",
+        "url": "https://open.spotify.com/album/07YaDmmOtX88kOCryTmXh6"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 273332,
+      "name": "Lejos de la ciudad",
+      "url": "https://open.spotify.com/track/3E6Biow3hFr1axedNqmRoe"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Camino Que Pasa",
-        "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
-      },
-      "artists": [
-        {
-          "name": "Sandra Bernardo",
-          "url": "https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H"
-        },
-        {
-          "name": "Natalia Doco",
-          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
-        }
-      ],
-      "duration_ms": 180157,
-      "name": "Camino Que Pasa",
-      "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Vas a encontrarte (feat. Guitarricadelafuente)",
         "url": "https://open.spotify.com/album/2tj9cT4X2ZZcOevz6limO7"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 211493,
       "name": "Vas a encontrarte (feat. Guitarricadelafuente) - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Camino Que Pasa",
+        "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
+      },
+      "artists": [
+        {
+          "name": "Sandra Bernardo",
+          "url": "https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H"
+        },
+        {
+          "name": "Natalia Doco",
+          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
+        }
+      ],
+      "duration_ms": 180157,
+      "name": "Camino Que Pasa",
+      "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Al o\u00edrla cantar",
         "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
         "name": "Las Curanderas",
         "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
       },
@@ -899,6 +899,26 @@
       "duration_ms": 206061,
       "name": "Las Curanderas",
       "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Mensajes en el Mar",
+        "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        },
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        }
+      ],
+      "duration_ms": 247614,
+      "name": "Mensajes en el Mar",
+      "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -939,6 +959,22 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
+        "name": "Algo Ritmos",
+        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 236361,
+      "name": "Solo Le Dije",
+      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
         "name": "A 200 mil",
         "url": "https://open.spotify.com/album/0KyqC56ow4ieuE5iH7iNmN"
       },
@@ -959,22 +995,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Algo Ritmos",
-        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 236361,
-      "name": "Solo Le Dije",
-      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "TEMPLO KOMODO",
         "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 310216,
       "name": "Nariz Con Ra\u00edz",
       "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Mensajes en el Mar",
-        "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
-      },
-      "artists": [
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        },
-        {
-          "name": "Las Migas",
-          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
-        }
-      ],
-      "duration_ms": 247614,
-      "name": "Mensajes en el Mar",
-      "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Las Bestias Que Me Acompa\u00f1an",
-        "url": "https://open.spotify.com/album/2E5Wh7UwYnFMUZmPInBiOa"
-      },
-      "artists": [
-        {
-          "name": "Andrea Santiago",
-          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
-        }
-      ],
-      "duration_ms": 222428,
-      "name": "Las Bestias Que Me Acompa\u00f1an",
-      "url": "https://open.spotify.com/track/3cM4LmOelaNH1fKOrpgp09"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 204746,
       "name": "Carta",
       "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Las Bestias Que Me Acompa\u00f1an",
+        "url": "https://open.spotify.com/album/2E5Wh7UwYnFMUZmPInBiOa"
+      },
+      "artists": [
+        {
+          "name": "Andrea Santiago",
+          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
+        }
+      ],
+      "duration_ms": 222428,
+      "name": "Las Bestias Que Me Acompa\u00f1an",
+      "url": "https://open.spotify.com/track/3cM4LmOelaNH1fKOrpgp09"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Casi tierra",
-        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
-      },
-      "artists": [
-        {
-          "name": "Vicente Navarro",
-          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
-        }
-      ],
-      "duration_ms": 188405,
-      "name": "En el r\u00edo",
-      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Decreto",
         "url": "https://open.spotify.com/album/7tlbnFYU7AQR5nqBLy9SMm"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 205266,
       "name": "Decreto",
       "url": "https://open.spotify.com/track/3ISHt7hGxzM1pWnlXlIDjy"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Casi tierra",
+        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
+      },
+      "artists": [
+        {
+          "name": "Vicente Navarro",
+          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
+        }
+      ],
+      "duration_ms": 188405,
+      "name": "En el r\u00edo",
+      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1519,6 +1519,22 @@
       "duration_ms": 185960,
       "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 183152,
+      "name": "Cuando los A\u00f1os Pasen",
+      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 183152,
-      "name": "Cuando los A\u00f1os Pasen",
-      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Los N\u00e1ufragos",
         "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
       },
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Bugambilia",
-        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 134956,
-      "name": "Paciencia",
-      "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "La Sangre del Mundo",
         "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 264160,
       "name": "Coplas (feat. Perot\u00e1 Ching\u00f3)",
       "url": "https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Bugambilia",
+        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 134956,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Cuchara Chueca",
-        "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Alma Sola",
-      "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Moment\u00e1nea",
         "url": "https://open.spotify.com/album/2iX8rvlCGWePx3CYdg0P3a"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 240449,
       "name": "Moment\u00e1nea",
       "url": "https://open.spotify.com/track/1eLXjariIFQNSwzXoTNWBl"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Cuchara Chueca",
+        "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Alma Sola",
+      "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
     },
     {
       "added_at": "2022-12-23 05:00:00",

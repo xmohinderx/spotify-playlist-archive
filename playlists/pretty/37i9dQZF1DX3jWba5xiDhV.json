@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 75782,
+  "num_followers": 76077,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMGU5YWM2N2E1MDU0NDdmYzI4OGM4NzRiODc5YmNkNzQ1",
+  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMDU4Y2Q0Mzc0MWQ1MDYxYzM1OTMwMmQ1ZWU3OWM5YTdi",
   "tracks": [
     {
       "added_at": "2022-10-07 08:10:31",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/21b81zT8l4tMrhlpA52Nev"
-      },
-      "artists": [
-        {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/42FUNUTTu4dhDhca834rd6"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Boys (Summertime Love)",
         "url": "https://open.spotify.com/album/3k166ijpPTPQZeiCOTOm9E"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 228906,
       "name": "Boys (Summertime Love)",
       "url": "https://open.spotify.com/track/1iwQoAswnkS5eVlVIXN998"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/21b81zT8l4tMrhlpA52Nev"
+      },
+      "artists": [
+        {
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/42FUNUTTu4dhDhca834rd6"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -191,22 +191,18 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Marechi\u00e0",
-        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "C\u00e9lia Kameni",
-          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
         }
       ],
-      "duration_ms": 264929,
-      "name": "Marechi\u00e0",
-      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
+      "duration_ms": 585374,
+      "name": "Supernature",
+      "url": "https://open.spotify.com/track/00RHrZB3i6B6PwX30ouZBK"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -231,18 +227,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "3 - Supernature",
-        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
+        "name": "Marechi\u00e0",
+        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
       "artists": [
         {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "C\u00e9lia Kameni",
+          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
         }
       ],
-      "duration_ms": 585374,
-      "name": "Supernature",
-      "url": "https://open.spotify.com/track/00RHrZB3i6B6PwX30ouZBK"
+      "duration_ms": 264929,
+      "name": "Marechi\u00e0",
+      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -287,18 +287,18 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Hypnotic Tango",
-        "url": "https://open.spotify.com/album/7DpHPysI2JkdhVNKFfgU2C"
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
       },
       "artists": [
         {
-          "name": "My Mine",
-          "url": "https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o"
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
         }
       ],
-      "duration_ms": 369084,
-      "name": "Hypnotic Tango - Original 12\" Version",
-      "url": "https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID"
+      "duration_ms": 462000,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
+        "name": "Hypnotic Tango",
+        "url": "https://open.spotify.com/album/7DpHPysI2JkdhVNKFfgU2C"
+      },
+      "artists": [
+        {
+          "name": "My Mine",
+          "url": "https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o"
+        }
+      ],
+      "duration_ms": 369084,
+      "name": "Hypnotic Tango - Original 12\" Version",
+      "url": "https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/1YluRFeZzVHA5tFvJtGKys"
       },
@@ -331,38 +347,6 @@
       "duration_ms": 233640,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2GMxS3x59raBvdX9SFNmtC"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 263508,
-      "name": "Disco Sole",
-      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
-        "name": "3 - Supernature",
-        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        }
-      ],
-      "duration_ms": 462000,
-      "name": "Give Me Love",
-      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -399,22 +383,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Barbara e altri Carella",
-        "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
-      },
-      "artists": [
-        {
-          "name": "Enzo Carella",
-          "url": "https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "Barbara",
-      "url": "https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "The Glow of Love (Original Album and Rare Tracks)",
         "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
       },
@@ -431,6 +399,38 @@
       "duration_ms": 373240,
       "name": "The Glow of Love",
       "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Barbara e altri Carella",
+        "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
+      },
+      "artists": [
+        {
+          "name": "Enzo Carella",
+          "url": "https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "Barbara",
+      "url": "https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 263508,
+      "name": "Disco Sole",
+      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+      },
+      "artists": [
+        {
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
         "name": "Lucio Battisti, la batteria, il contrabbasso, eccetera",
         "url": "https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 261330,
       "name": "Pantal\u00f3n",
       "url": "https://open.spotify.com/track/0eOUXa1w5m7roVWO0nj1ZF"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
-      },
-      "artists": [
-        {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
+        "name": "Destiny (Original) - Single",
+        "url": "https://open.spotify.com/album/60hyCWC8XTMJCmznjXfLw8"
+      },
+      "artists": [
+        {
+          "name": "Vivien Vee",
+          "url": "https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d"
+        }
+      ],
+      "duration_ms": 279746,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5WQfpJ7lTXwgOsYKtPqnkO"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
         "name": "Future Disco: Visions of Love",
         "url": "https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 447775,
       "name": "Italo Amore (Musumeci Edit)",
       "url": "https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
-        "name": "Destiny (Original) - Single",
-        "url": "https://open.spotify.com/album/60hyCWC8XTMJCmznjXfLw8"
-      },
-      "artists": [
-        {
-          "name": "Vivien Vee",
-          "url": "https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d"
-        }
-      ],
-      "duration_ms": 279746,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/5WQfpJ7lTXwgOsYKtPqnkO"
     },
     {
       "added_at": "2022-10-07 08:10:31",

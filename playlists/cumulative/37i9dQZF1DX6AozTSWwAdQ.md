@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-202 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/2kFM7zqf6T4GVjlLl672z4)
+203 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/2kFM7zqf6T4GVjlLl672z4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Ain't Nobody's Baby](https://open.spotify.com/track/1fTuWEkpSr2MyKxR8ifack) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Ain't Nobody's Baby](https://open.spotify.com/album/35MQYWJLe9qhbgTIWGqsGJ) | 2:29 | 2022-07-18 | 2022-07-25 |
 | [Alive and Unwell](https://open.spotify.com/track/7ffThXwGKRO4KRM1rVyXGJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/3LiuUi849agq0ZVwLBIup8) | 2:01 | 2022-10-31 | 2022-11-08 |
 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-06-06 |  |
-| [All These Nights](https://open.spotify.com/track/1VeAXUa20YkzfEi1Zk2y0o) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [All These Nights](https://open.spotify.com/album/2EvQd56xKYeoeGFDn8jQj6) | 2:34 | 2022-08-29 |  |
+| [All These Nights](https://open.spotify.com/track/1VeAXUa20YkzfEi1Zk2y0o) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [All These Nights](https://open.spotify.com/album/2EvQd56xKYeoeGFDn8jQj6) | 2:34 | 2022-08-29 | 2023-01-03 |
 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 | 2022-12-26 |  |
 | [Another Place](https://open.spotify.com/track/2Fn4gZI3MAeWTiv7cSVxZQ) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Another Place](https://open.spotify.com/album/3PshhNStqCBXDzWm5O1VsE) | 3:33 | 2022-06-06 | 2022-07-28 |
 | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d) | 4:10 | 2022-11-07 | 2022-11-13 |
@@ -103,6 +103,7 @@
 | [It Is What It Is](https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:05 | 2022-06-06 |  |
 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/0D4yVl9Pn45xW2s63MFCmT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/album/5idWJVJgo5Wa7wFGsB3Kjj) | 4:08 | 2022-06-27 | 2022-07-16 |
 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 | 2022-07-25 |  |
+| [it's ok](https://open.spotify.com/track/54ntLpVRZEoV7W6bl57EeS) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [it's ok](https://open.spotify.com/album/14IrPr1ZMLBbT8bIZDvxJl) | 2:38 | 2023-01-02 |  |
 | [Just Thought You Should Know](https://open.spotify.com/track/0VE5fZ1BILydCtqg4yDGRl) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty, Pt\. 1](https://open.spotify.com/album/19GamUBcGLTBx9n7OjqGcw) | 3:23 | 2022-06-06 | 2022-07-28 |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-25 |  |
 | [Kiss Me](https://open.spotify.com/track/1Xq9ilOLiknCaGYtSsvFrH) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ) | 3:49 | 2022-09-05 | 2022-10-11 |

@@ -4,7 +4,7 @@
 
 > A soft and slow Jazz soundtrack to play in the background to all your activities.
 
-290 songs - 21 hr 39 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
+291 songs - 21 hr 41 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Lonely as a Cloud](https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Lonely as a Cloud](https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11) | 2:47 | 2022-12-08 |  |
 | [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2022-11-10 |  |
 | [Lullaby In Rhythm](https://open.spotify.com/track/25zqKQdQJhxFus3X0BPWD3) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:16 | 2021-12-03 | 2022-09-23 |
+| [Lumberjacks'](https://open.spotify.com/track/4Za1MUR7dLiKbvYHxlMjhQ) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Lumberjacks'](https://open.spotify.com/album/5Hx0WztbDPWqBbjr2pjxyU) | 2:30 | 2022-12-30 |  |
 | [Luna](https://open.spotify.com/track/16kuQew0DW0IFOTCXVQ2F0) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Luna](https://open.spotify.com/album/4LjumPygx5KGf78cfLsacs) | 4:24 | 2022-11-10 | 2023-01-01 |
 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-11-10 |  |
 | [Maia Oh Maia](https://open.spotify.com/track/3VnChEq3PRsTQ3JPA7Gsh4) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Maia Oh Maia](https://open.spotify.com/album/2dDG5MRroFXo6i60i5MnPQ) | 3:55 | 2022-11-18 |  |
@@ -206,7 +207,7 @@
 | [Peace Piece](https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 6:44 | 2021-12-03 | 2022-12-02 |
 | [Please Send Me Someone To Love](https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 9:48 | 2022-04-08 | 2022-11-11 |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/5bemClhFeQ7fcth7mjjnKO) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc) | 5:01 | 2021-12-03 | 2022-11-11 |
-| [Polkadots And Moonbeams](https://open.spotify.com/track/1zXfSEEkoSsMNuoUSre4R5) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Polkadots And Moonbeams](https://open.spotify.com/album/6M3uviUycHWyhTrPeA8aZA) | 3:42 | 2022-11-10 |  |
+| [Polkadots And Moonbeams](https://open.spotify.com/track/1zXfSEEkoSsMNuoUSre4R5) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Polkadots And Moonbeams](https://open.spotify.com/album/6M3uviUycHWyhTrPeA8aZA) | 3:42 | 2022-11-10 | 2023-01-03 |
 | [Prelude To A Kiss](https://open.spotify.com/track/4A9VfIf7ttN6gFmZJkj7dS) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The Duke Ellington Song Book](https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc) | 2:31 | 2022-04-08 | 2022-09-23 |
 | [Pure Imagination](https://open.spotify.com/track/7iP9VLNBi1M52IFT8ZCyAa) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3), [Ignasi González](https://open.spotify.com/artist/60JCzYj9SSZ3DZdyONwr5P), [Jo Krause](https://open.spotify.com/artist/1TYodU4WCCM39ztPleTYuy) | [Street of Dreams](https://open.spotify.com/album/7qIDAwVcQxA6jIIvaQ9WcD) | 5:17 | 2021-12-03 | 2022-05-25 |
 | [Purple Shades](https://open.spotify.com/track/4cvRXIv9hBLFPWwGDpyfTm) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 3:32 | 2021-12-03 | 2022-09-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Michelle BI en portada.",
-  "num_followers": 47310,
+  "num_followers": 47334,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3NTIwMCwwMDAwMDAwMGFmZWY0YTE0NmRjODI1N2M0MTdjMDM0OThjNDUzYzVk",
+  "snapshot_id": "MTY3MTc3NTIwMCwwMDAwMDAwMDk0ZmM2ZjhhZGE0ZWQxMjUzYjQxZmJiYzBlMjJkNTMy",
   "tracks": [
     {
       "added_at": "2022-12-23 06:00:00",
@@ -357,22 +357,6 @@
       "url": "https://open.spotify.com/track/3g5i3yc1YBBlJRPUYzZ6Eu"
     },
     {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "Triste Navidad - Spotify Singles",
-        "url": "https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Triste Navidad - Spotify Singles",
-      "url": "https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D"
-    },
-    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Corridos 602",
@@ -387,6 +371,22 @@
       "duration_ms": 167370,
       "name": "Pideme la Luna",
       "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
+    },
+    {
+      "added_at": "2022-11-18 06:00:00",
+      "album": {
+        "name": "Triste Navidad - Spotify Singles",
+        "url": "https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Triste Navidad - Spotify Singles",
+      "url": "https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -473,38 +473,6 @@
       "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
     },
     {
-      "added_at": "2022-12-02 06:00:00",
-      "album": {
-        "name": "No Se Olvida",
-        "url": "https://open.spotify.com/album/4tdUTR78ErKcQcXPownp9v"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 151853,
-      "name": "No Se Olvida",
-      "url": "https://open.spotify.com/track/7xgF8ki6syas9lOkszRPQY"
-    },
-    {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "No Me Ense\u00f1aste",
-        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
-    },
-    {
       "added_at": "2022-12-05 23:10:14",
       "album": {
         "name": "Tambi\u00e9n Me Llamo Ismael",
@@ -523,6 +491,22 @@
       "duration_ms": 186624,
       "name": "Tambi\u00e9n Me Llamo Ismael",
       "url": "https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD"
+    },
+    {
+      "added_at": "2022-12-02 06:00:00",
+      "album": {
+        "name": "No Se Olvida",
+        "url": "https://open.spotify.com/album/4tdUTR78ErKcQcXPownp9v"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 151853,
+      "name": "No Se Olvida",
+      "url": "https://open.spotify.com/track/7xgF8ki6syas9lOkszRPQY"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -563,6 +547,22 @@
       "duration_ms": 198661,
       "name": "Fuimos Un Fracaso",
       "url": "https://open.spotify.com/track/0QKF6xXTTPkeKqZBxtkjWh"
+    },
+    {
+      "added_at": "2022-11-18 06:00:00",
+      "album": {
+        "name": "No Me Ense\u00f1aste",
+        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
     },
     {
       "added_at": "2022-11-18 06:00:00",
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "A Ti S\u00ed Te Quer\u00eda",
-        "url": "https://open.spotify.com/album/6B9uZMSCy8qxMLNuTRqyQk"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 179875,
-      "name": "A Ti S\u00ed Te Quer\u00eda",
-      "url": "https://open.spotify.com/track/5vq80dky9jZf0VJciFK8rt"
-    },
-    {
       "added_at": "2022-12-23 06:00:00",
       "album": {
         "name": "Cu\u00f1ados y Compadres",
@@ -695,6 +679,22 @@
       "duration_ms": 230548,
       "name": "Cu\u00f1ados y Compadres",
       "url": "https://open.spotify.com/track/1gkd7OJkmMVNQEEJjFvQLp"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "A Ti S\u00ed Te Quer\u00eda",
+        "url": "https://open.spotify.com/album/6B9uZMSCy8qxMLNuTRqyQk"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 179875,
+      "name": "A Ti S\u00ed Te Quer\u00eda",
+      "url": "https://open.spotify.com/track/5vq80dky9jZf0VJciFK8rt"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -747,22 +747,6 @@
       "duration_ms": 287135,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY"
-    },
-    {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "Peque\u00f1a y Frag\u00edl",
-        "url": "https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58"
-      },
-      "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        }
-      ],
-      "duration_ms": 173837,
-      "name": "Peque\u00f1a y Frag\u00edl",
-      "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
     },
     {
       "added_at": "2022-11-11 06:00:00",
@@ -835,6 +819,22 @@
       "duration_ms": 213711,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
+    },
+    {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
+        "name": "Peque\u00f1a y Frag\u00edl",
+        "url": "https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        }
+      ],
+      "duration_ms": 173837,
+      "name": "Peque\u00f1a y Frag\u00edl",
+      "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -989,20 +989,20 @@
       "url": "https://open.spotify.com/track/2oQ8EAsQ7IjD1wDq9O8r68"
     },
     {
-      "added_at": "2022-11-11 06:00:00",
+      "added_at": "2022-12-23 06:00:00",
       "album": {
-        "name": "Tiempos de Guerra 2",
-        "url": "https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa"
+        "name": "Los Mitotes (En Vivo)",
+        "url": "https://open.spotify.com/album/6WS9pFo1tWDb3jnzkyoK6w"
       },
       "artists": [
         {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
         }
       ],
-      "duration_ms": 171053,
-      "name": "Tiempos de Guerra 2",
-      "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
+      "duration_ms": 197300,
+      "name": "Los Mitotes (En Vivo)",
+      "url": "https://open.spotify.com/track/4ZOPCvIXPrGu6kVTOq2kQg"
     },
     {
       "added_at": "2022-12-05 23:10:14",
@@ -1021,20 +1021,20 @@
       "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
     },
     {
-      "added_at": "2022-12-23 06:00:00",
+      "added_at": "2022-11-11 06:00:00",
       "album": {
-        "name": "Los Mitotes (En Vivo)",
-        "url": "https://open.spotify.com/album/6WS9pFo1tWDb3jnzkyoK6w"
+        "name": "Tiempos de Guerra 2",
+        "url": "https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa"
       },
       "artists": [
         {
-          "name": "Tapy Quintero",
-          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
         }
       ],
-      "duration_ms": 197300,
-      "name": "Los Mitotes (En Vivo)",
-      "url": "https://open.spotify.com/track/4ZOPCvIXPrGu6kVTOq2kQg"
+      "duration_ms": 171053,
+      "name": "Tiempos de Guerra 2",
+      "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Sue\u00f1o Americano",
-        "url": "https://open.spotify.com/album/2g1rTERH5FwPfKGwnZF7mq"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 134065,
-      "name": "Sue\u00f1o Americano",
-      "url": "https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM"
-    },
-    {
       "added_at": "2022-10-14 05:00:00",
       "album": {
         "name": "Extra\u00f1o Tus Besos",
@@ -1195,6 +1179,22 @@
       "duration_ms": 227727,
       "name": "Extra\u00f1o Tus Besos",
       "url": "https://open.spotify.com/track/7AG9PxwpxXdBKZB2eOP3LL"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Sue\u00f1o Americano",
+        "url": "https://open.spotify.com/album/2g1rTERH5FwPfKGwnZF7mq"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 134065,
+      "name": "Sue\u00f1o Americano",
+      "url": "https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM"
     },
     {
       "added_at": "2022-12-23 06:00:00",

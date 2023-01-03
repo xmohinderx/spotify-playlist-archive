@@ -4,7 +4,7 @@
 
 > Los temas que nunca paras de escuchar\. En portada: Tego Calderon
 
-97 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/6kcu92csPuRickznkE1395)
+98 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/6kcu92csPuRickznkE1395)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [En Peligro de Extinción](https://open.spotify.com/track/2zPUGkFAw3gCMcEqWLLWpP) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP), [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [En Peligro de Extinción](https://open.spotify.com/album/7FmHYPGkYb9Ojdfxg5eNRC) | 4:01 | 2022-04-06 | 2022-07-21 |
 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2022-08-18 |  |
 | [Es un Secreto](https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:10 | 2022-04-06 | 2022-12-01 |
-| [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 | 2022-04-06 |  |
+| [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 | 2022-04-06 | 2023-01-03 |
 | [Fruit de la passion](https://open.spotify.com/track/2THUeP0bmT7Vgm58ZnsChY) | [Francky Vincent](https://open.spotify.com/artist/2f1sCYchPgMRLazyu8XG2h) | [Mon fest' of](https://open.spotify.com/album/34UujAnGCJTpxWUpQLG19W) | 3:58 | 2022-08-18 |  |
 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 | 2022-04-06 |  |
 | [Hace Mucho Tiempo](https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia y Maldad](https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe) | 2:51 | 2022-04-06 | 2022-07-29 |
@@ -54,6 +54,7 @@
 | [La Forma en Que Me Miras](https://open.spotify.com/track/57Ba26w9eoXx8BBUNgRNLV) | [Super Yei](https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan), [Jone Quest](https://open.spotify.com/artist/6wcKDqJRY3TzbcdRKo6EiE), [Sammy](https://open.spotify.com/artist/2raERfjzsdnUUQeZSge5eZ), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Eternity](https://open.spotify.com/album/2WA4eZXER4ZLTBftVKvrnO) | 5:07 | 2022-04-06 | 2022-07-29 |
 | [La Santa](https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:26 | 2022-04-06 |  |
 | [La Tóxica](https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Tóxica](https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx) | 3:00 | 2022-04-06 | 2022-07-29 |
+| [Lagrimas](https://open.spotify.com/track/1xygRDEU3ZI63I3gISgAVn) | [Los Bravos de Panama](https://open.spotify.com/artist/6Lbj575WtaBDArzLuB3Vog) | [Salsa Dura, Vol\. 5](https://open.spotify.com/album/1uRY3jqUxtHVxvNdxD6dlR) | 6:35 | 2023-01-02 |  |
 | [Lamento Boliviano](https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:42 | 2022-04-06 |  |
 | [Lejanía](https://open.spotify.com/track/1QcVACki0Jfgi22KqobAFX) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Lejanía](https://open.spotify.com/album/5Bnfb9TbhUc555wRfYN0FE) | 3:54 | 2022-04-06 | 2022-07-28 |
 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 | 2022-04-06 |  |

@@ -1,29 +1,13 @@
 {
   "description": "Pop gems to help you concentrate and stay focused.",
-  "num_followers": 430235,
+  "num_followers": 430306,
   "original_name": "Pop Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQyMzAxOCwwMDAwMDAwMDZlZjZhYTM5N2YzZTc0YmZjMWQ2NjUxYjI2ZmNlODVh",
+  "snapshot_id": "MTY1ODQyMzAxOCwwMDAwMDAwMDlkMTAzMDUxMDg3YzIyNDQ2MjNmOTQ1MWY2OGIzMjBj",
   "tracks": [
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "When I Was Your Man",
-      "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
-    },
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "When I Was Your Man",
+      "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 172723,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 201287,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "This City",
         "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 194853,
       "name": "This City",
       "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
       "artists": [
         {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 215360,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+      "duration_ms": 201287,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "Breach",
-        "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "Room For Squares",
         "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
@@ -711,18 +727,18 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -755,6 +771,22 @@
       "duration_ms": 238520,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -819,22 +851,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "i don't want to watch the world end with someone else",
         "url": "https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP"
       },
@@ -851,18 +867,18 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+        "name": "The World From The Side Of The Moon",
+        "url": "https://open.spotify.com/album/0zIb6xazDd72sVT8OtPX3E"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
         }
       ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
+      "duration_ms": 210173,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1EAgPzRbK9YmdOESSMUm6P"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -883,18 +899,18 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "The World From The Side Of The Moon",
-        "url": "https://open.spotify.com/album/0zIb6xazDd72sVT8OtPX3E"
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
       "artists": [
         {
-          "name": "Phillip Phillips",
-          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 210173,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/1EAgPzRbK9YmdOESSMUm6P"
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -935,38 +951,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
-        "name": "Heartbreak Weather",
-        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 193089,
-      "name": "Black And White",
-      "url": "https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "Man of the Woods",
         "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 278893,
       "name": "Say Something (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "Heartbreak Weather",
+        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 193089,
+      "name": "Black And White",
+      "url": "https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE"
     },
     {
       "added_at": "2022-07-21 17:03:38",

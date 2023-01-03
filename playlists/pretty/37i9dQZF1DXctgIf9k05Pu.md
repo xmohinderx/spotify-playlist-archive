@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 
 > Aesthetic vibes that just make sense.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,309 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,452 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 39 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
 | 40 | [viola](https://open.spotify.com/track/2U42jVkNgEU6DoM64eFD7i) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [unexpected](https://open.spotify.com/album/1o6jIyr6byHhgU8Y1EpvZV) | 1:26 |
 | 41 | [To the Girl With Red Converse](https://open.spotify.com/track/4rM66iPZNDZlq4V6g3GLz6) | [Jackie Xan](https://open.spotify.com/artist/2ykxC1VJhlsCrfLfuFEcL1) | [To the Girl With Red Converse](https://open.spotify.com/album/3R5ky3UbYYHGQJR1Ah7wfd) | 2:23 |
-| 42 | [Getsomerest/sleepwell](https://open.spotify.com/track/2RycgtfFQZOPgEGrzBGE0j) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Quickly Quickly, Vol\. 1](https://open.spotify.com/album/2JhVhsYSe65vunncE4AYV1) | 5:32 |
-| 43 | [Aesthetic](https://open.spotify.com/track/5nQfC1vjISMUlstveJG7Ge) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Aesthetic](https://open.spotify.com/album/3OWiPXLWYWCvQ9nIKvTQkk) | 2:38 |
-| 44 | [Monday Loop](https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:31 |
-| 45 | [lovesick](https://open.spotify.com/track/1aPsdtJUgzeryfKppuYFGA) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [lovesick](https://open.spotify.com/album/6m0DGPzcCmuFwuqguhcAVg) | 2:30 |
+| 42 | [lovesick](https://open.spotify.com/track/1aPsdtJUgzeryfKppuYFGA) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [lovesick](https://open.spotify.com/album/6m0DGPzcCmuFwuqguhcAVg) | 2:30 |
+| 43 | [Getsomerest/sleepwell](https://open.spotify.com/track/2RycgtfFQZOPgEGrzBGE0j) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Quickly Quickly, Vol\. 1](https://open.spotify.com/album/2JhVhsYSe65vunncE4AYV1) | 5:32 |
+| 44 | [Aesthetic](https://open.spotify.com/track/5nQfC1vjISMUlstveJG7Ge) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Aesthetic](https://open.spotify.com/album/3OWiPXLWYWCvQ9nIKvTQkk) | 2:38 |
+| 45 | [Monday Loop](https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:31 |
 | 46 | [Day in Paris](https://open.spotify.com/track/5uuD5CBnuAF6VoC57WLxol) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [Day in Paris](https://open.spotify.com/album/71Xu2aatGYldckWmQHeYSF) | 3:17 |
 | 47 | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/track/1F0a3Au8NIpoRP7PVdO1YR) | [TSUKI](https://open.spotify.com/artist/5JUQJ7KsNBUfvga48DbmAf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/album/6hS1GnERLOTXde2WYhUzCL) | 2:37 |
 | 48 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
 | 49 | [Summer Picnic](https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Summer Picnic](https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND) | 1:55 |
 | 50 | [Aesthetic Girl](https://open.spotify.com/track/0bCgcTDkZ1RhguEeuUhZ9k) | [Yusei](https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv) | [Aesthetic Girl](https://open.spotify.com/album/3QgMgH7PvDaVyRCwjrSJOX) | 4:18 |
 
-Snapshot ID: `MTY0Mzc2MTMwOCwwMDAwMDAwMDFlMThmODY0MWZjODIxNmI5OTJiOWU0N2EzMGZmNWNk`
+Snapshot ID: `MTY0Mzc2MTMwOCwwMDAwMDAwMGVjNTZkMDE5MzUyNGJiYjY4MWZhMTY3ZWI2OWQ5YjYz`

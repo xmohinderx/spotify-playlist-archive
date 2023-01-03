@@ -1,12 +1,12 @@
 {
   "description": "Time to press play on these jaem jams from 2010 onwards! Cover: TWICE",
-  "num_followers": 239810,
+  "num_followers": 239926,
   "original_name": "Nolja!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDEwNDA3NywwMDAwMDAwMGY1M2I5MTA2NjZlMmRlZDM5MzI4ZTdmMmYyMTJiOGMw",
+  "snapshot_id": "MTY2MDEwNDA3NywwMDAwMDAwMDBmMzk1YjJlZTc2NzA3Y2EyY2FkMzA3MzhjNjAzYzkw",
   "tracks": [
     {
       "added_at": "2022-06-18 17:13:22",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 164952,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
         "name": "\u2018The ReVe Festival\u2019 Finale",
         "url": "https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 210560,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
-        "name": "ELEVEN",
-        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "ELEVEN",
-      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 164952,
-      "name": "Butter",
-      "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 198053,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
+        "name": "ELEVEN",
+        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "ELEVEN",
+      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -199,22 +199,6 @@
       "duration_ms": 220716,
       "name": "DARARI",
       "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
-        "name": "KILL THIS LOVE",
-        "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 191050,
-      "name": "Kill This Love",
-      "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -271,6 +255,22 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
+        "name": "KILL THIS LOVE",
+        "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 191050,
+      "name": "Kill This Love",
+      "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
         "name": "BORDER : CARNIVAL",
         "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
       },
@@ -303,38 +303,6 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 207481,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
-        "name": "SQUARE TWO",
-        "url": "https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 197288,
-      "name": "PLAYING WITH FIRE",
-      "url": "https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
         "name": "Red Diary Page.1",
         "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
       },
@@ -347,22 +315,6 @@
       "duration_ms": 181373,
       "name": "Some",
       "url": "https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "What is Love",
-      "url": "https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -383,6 +335,22 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 207481,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
         "name": "AD MARE",
         "url": "https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH"
       },
@@ -395,6 +363,22 @@
       "duration_ms": 172936,
       "name": "O.O",
       "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "What is Love",
+      "url": "https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -415,6 +399,22 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
+        "name": "SQUARE TWO",
+        "url": "https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 197288,
+      "name": "PLAYING WITH FIRE",
+      "url": "https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
       },
@@ -431,6 +431,22 @@
       "duration_ms": 192441,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
+        "name": "The Perfect Red Velvet - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 210817,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -459,22 +475,6 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
-        "name": "Love Yourself \u8f49 'Tear'",
-        "url": "https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "FAKE LOVE",
-      "url": "https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
         "name": "Eyes Wide Open",
         "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
       },
@@ -487,38 +487,6 @@
       "duration_ms": 205493,
       "name": "I CAN'T STOP ME",
       "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
-        "name": "SQUARE UP",
-        "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 211350,
-      "name": "DDU-DU DDU-DU",
-      "url": "https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
-        "name": "The Perfect Red Velvet - The 2nd Album Repackage",
-        "url": "https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 210817,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -539,6 +507,22 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
+        "name": "Love Yourself \u8f49 'Tear'",
+        "url": "https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "FAKE LOVE",
+      "url": "https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
         "name": "eight",
         "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 167573,
       "name": "eight(Prod.&Feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
+        "name": "SQUARE UP",
+        "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 211350,
+      "name": "DDU-DU DDU-DU",
+      "url": "https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "LILAC",
+      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
         "name": "SQUARE ONE",
         "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
       },
@@ -635,6 +651,22 @@
       "duration_ms": 204167,
       "name": "CRY FOR ME",
       "url": "https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -703,34 +735,18 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
-        "name": "Savage - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 238143,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "LILAC",
-      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+      "duration_ms": 194765,
+      "name": "Lovesick Girls",
+      "url": "https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -767,18 +783,18 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+        "name": "Russian Roulette - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 194765,
-      "name": "Lovesick Girls",
-      "url": "https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C"
+      "duration_ms": 211243,
+      "name": "\ub7ec\uc2dc\uc548 \ub8f0\ub81b Russian Roulette",
+      "url": "https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -795,22 +811,6 @@
       "duration_ms": 183693,
       "name": "WA DA DA",
       "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
-        "name": "Russian Roulette - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 211243,
-      "name": "\ub7ec\uc2dc\uc548 \ub8f0\ub81b Russian Roulette",
-      "url": "https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
-        "name": "Not Shy",
-        "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 177728,
-      "name": "Not Shy",
-      "url": "https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
         "name": "Black Mamba",
         "url": "https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7"
       },
@@ -1075,6 +1059,38 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 177728,
+      "name": "Not Shy",
+      "url": "https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 168085,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS"
       },
@@ -1107,6 +1123,22 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
+        "name": "SEVENTEEN 8th Mini Album 'Your Choice'",
+        "url": "https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Ready to love",
+      "url": "https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
         "name": "One-reeler / Act IV",
         "url": "https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK"
       },
@@ -1119,22 +1151,6 @@
       "duration_ms": 222853,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 168085,
-      "name": "On The Ground",
-      "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -1155,22 +1171,6 @@
       "duration_ms": 195230,
       "name": "Can't Love You Anymore (With OHHYUK)",
       "url": "https://open.spotify.com/track/5MvxeZPiiLAuB5gI8k3ynk"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
-        "name": "The Dream Chapter: MAGIC",
-        "url": "https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "9 and Three Quarters (Run Away)",
-      "url": "https://open.spotify.com/track/1rqb2FCXVn2HNL1afJEnTr"
     }
   ],
   "unique_name": "Nolja!",

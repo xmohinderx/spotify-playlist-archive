@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1269,
+  "num_followers": 1271,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMGQzYTI4ZTdhNDljNTlmZDFmNjA4MDJkOGY2M2E0OTI1",
+  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMGZlNWU2MmJmYTI0YjRmYzc3YmUxOWZmMTU1Y2U4NGJm",
   "tracks": [
     {
       "added_at": "2020-04-22 19:35:42",
@@ -323,6 +323,26 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Todos a Moverse",
+      "url": "https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "Mojo A Go Go - Real Rock For Kids",
         "url": "https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 92170,
       "name": "Brush Brush Brush",
       "url": "https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Junior Express - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
-      },
-      "artists": [
-        {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
-        },
-        {
-          "name": "Diego Topa",
-          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Todos a Moverse",
-      "url": "https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -407,6 +407,26 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Un Nuevo Viaje",
+      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "Fantastic Voyages",
         "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
       },
@@ -419,22 +439,6 @@
       "duration_ms": 109896,
       "name": "Nice 'N' Clean",
       "url": "https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Miss Patylu, vol. 1",
-        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 155193,
-      "name": "Leche Con Pan",
-      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -455,6 +459,22 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "El Primer D\u00eda de Escuela",
+        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "El Primer D\u00eda de Escuela",
+      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "Please Come To My Party",
         "url": "https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 144666,
       "name": "The Potty Song",
       "url": "https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Junior Express - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
-      },
-      "artists": [
-        {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
-        },
-        {
-          "name": "Diego Topa",
-          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "Un Nuevo Viaje",
-      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
-      },
-      "artists": [
-        {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
-        }
-      ],
-      "duration_ms": 43626,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "Bailar\u00e9 junto a ti",
         "url": "https://open.spotify.com/album/6IvaryN7xqFwBQQLdWJrFh"
       },
@@ -591,8 +575,8 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "El Primer D\u00eda de Escuela",
-        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
+        "name": "Miss Patylu, vol. 1",
+        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
       },
       "artists": [
         {
@@ -600,9 +584,25 @@
           "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
         }
       ],
-      "duration_ms": 158693,
-      "name": "El Primer D\u00eda de Escuela",
-      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
+      "duration_ms": 155193,
+      "name": "Leche Con Pan",
+      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+      },
+      "artists": [
+        {
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+        }
+      ],
+      "duration_ms": 43626,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -808,13 +808,13 @@
           "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
         },
         {
-          "name": "Sesame Street's Gordon",
-          "url": "https://open.spotify.com/artist/3gC3iIFCSULaG9w18MsSJe"
+          "name": "Sesame Street's Olivia",
+          "url": "https://open.spotify.com/artist/5rYht0MbgC4BBWy5sMxeGr"
         }
       ],
-      "duration_ms": 103147,
-      "name": "Exercise Time",
-      "url": "https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q"
+      "duration_ms": 93812,
+      "name": "Snack Time (Juice and Cookies)",
+      "url": "https://open.spotify.com/track/0he5JaHRZGio2iZOwwxe0N"
     },
     {
       "added_at": "2020-04-22 19:35:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 138 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 25 | [Something In The Air](https://open.spotify.com/track/61ydRWnQ31DWFDqEj325nf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Greatest Hits](https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y) | 3:16 |
 | 26 | [The Last DJ](https://open.spotify.com/track/0uUy3WK0JtTqhSFikqprgz) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Last DJ](https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i) | 3:47 |
 | 27 | [Waitin' In School \- Live at the Fillmore, 1997](https://open.spotify.com/track/7upQdygrv3l2BzFymCpSkP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 2:01 |
-| 28 | [Anything That's Rock 'n' Roll](https://open.spotify.com/track/2AX3BnBmNwR2lHZhkKvmXJ) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 2:24 |
-| 29 | [Rebels](https://open.spotify.com/track/1QN5cKoYlEkJ4aMBfqDqXe) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 5:21 |
+| 28 | [Rebels](https://open.spotify.com/track/1QN5cKoYlEkJ4aMBfqDqXe) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 5:21 |
+| 29 | [Anything That's Rock 'n' Roll](https://open.spotify.com/track/2AX3BnBmNwR2lHZhkKvmXJ) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 2:24 |
 | 30 | [Jammin' Me](https://open.spotify.com/track/2AFJkvRUFVx0MccykGaHV2) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Let Me Up \(I've Had Enough\)](https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ) | 4:09 |
 | 31 | [Cabin Down Below \- Live at the Fillmore, 1997](https://open.spotify.com/track/6y8vdzO1WoaMSYhpkWM9zU) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 2:52 |
 | 32 | [Kings Highway](https://open.spotify.com/track/0ge66NW3sKKgWW7eKQHnE0) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 49 | [Something Big](https://open.spotify.com/track/4baFF50eIx6z3xz7HCL7DF) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 4:44 |
 | 50 | [Two Gunslingers](https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:09 |
 
-Snapshot ID: `Mjc4NzYzNDMsMDAwMDAwMDBjYzVhOGMyZWJmNzA1YjYzYTllODg0YjA0ZmIzZDA5ZQ==`
+Snapshot ID: `Mjc4Nzc3NTksMDAwMDAwMDA0NTM5YTM4NTc0N2JlYjlhODYxM2EyNzI4NTk5ZTcyMA==`

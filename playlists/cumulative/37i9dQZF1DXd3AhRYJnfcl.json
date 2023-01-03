@@ -344,6 +344,24 @@
     },
     {
       "album": {
+        "name": "Cigara",
+        "url": "https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270329,
+      "name": "Cigara",
+      "url": "https://open.spotify.com/track/5YH0SNUHx7P423UiUvB67d"
+    },
+    {
+      "album": {
         "name": "Dalla3 Wetdalla3",
         "url": "https://open.spotify.com/album/4bHkkZsw6is2Tx2U8F2st6"
       },
@@ -563,7 +581,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 195047,
       "name": "El Melouk - \u0627\u0644\u0645\u0644\u0648\u0643",
       "url": "https://open.spotify.com/track/04vHPXVGnb51q13NBoW22W"
@@ -1067,6 +1085,28 @@
       "duration_ms": 163073,
       "name": "Law Bas Nergaa",
       "url": "https://open.spotify.com/track/7ogQhlO9miA7gt18l0tlRT"
+    },
+    {
+      "album": {
+        "name": "Law Nasyeen Afakarko",
+        "url": "https://open.spotify.com/album/6AJAtv9sodIXPmC9EaXmcE"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        },
+        {
+          "name": "Shahinaz",
+          "url": "https://open.spotify.com/artist/3RAZfv54QR5mtdLVdD9E9o"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144516,
+      "name": "Law Nasyeen Afakarko",
+      "url": "https://open.spotify.com/track/24p9OEHAgmYRticZ2HSbgJ"
     },
     {
       "album": {
@@ -1663,7 +1703,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 211451,
       "name": "Ta3ala Adalla3ak",
       "url": "https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS"
@@ -1912,6 +1952,24 @@
     },
     {
       "album": {
+        "name": "Ya Rab Tkoon Be Khair",
+        "url": "https://open.spotify.com/album/6Uvz6FXsedSGbIJwTEGrVV"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185357,
+      "name": "Ya Rab Tkoon Be Khair",
+      "url": "https://open.spotify.com/track/7BHkU54RSmqhtd8TNKRKx6"
+    },
+    {
+      "album": {
         "name": "Ya Salam (Remix)",
         "url": "https://open.spotify.com/album/3hmV8luknujbOif3arzW4J"
       },
@@ -1945,7 +2003,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 161142,
       "name": "Zee3",
       "url": "https://open.spotify.com/track/5CTXFh5o4qpiXZeM1jxTBk"
@@ -1971,7 +2029,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 190615,
       "name": "\u0627\u063a\u0646\u064a\u0629 \u0627\u0642\u0648\u0649 \u0645\u064a\u0643\u0633 \u0645\u0646 \u0648\u064a",
       "url": "https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt"
@@ -2015,6 +2073,32 @@
       "duration_ms": 272514,
       "name": "\u0627\u0644\u0633\u0631",
       "url": "https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0633\u0647\u0631 \u0648 \u0627\u0644\u0625\u0646\u0628\u0633\u0627\u0637",
+        "url": "https://open.spotify.com/album/4mKwxA8nkxUg5VThfazP4g"
+      },
+      "artists": [
+        {
+          "name": "Akram Hosny",
+          "url": "https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi"
+        },
+        {
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
+        },
+        {
+          "name": "Hisham Abbas",
+          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "\u0627\u0644\u0633\u0647\u0631 \u0648 \u0627\u0644\u0625\u0646\u0628\u0633\u0627\u0637",
+      "url": "https://open.spotify.com/track/1GQxXFBrOx8KYIFcpBlZPe"
     },
     {
       "album": {
@@ -2251,7 +2335,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 141887,
       "name": "\u0633\u062a\u0648 \u0623\u0646\u0627",
       "url": "https://open.spotify.com/track/0BCEJXmemL21JvNNoOB5TT"

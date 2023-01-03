@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,690 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,696 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 31 | [Mi Talisman](https://open.spotify.com/track/1zcPAPgfVZXo24wgIO0rDr) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [30 Exitos Inmortales](https://open.spotify.com/album/0sqq8ENeeBECpaM7cne8GA) | 1:55 |
 | 32 | [Ven a Decirme](https://open.spotify.com/track/5JPYHivczvHw5bjav4COLC) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:12 |
 | 33 | [Devolución](https://open.spotify.com/track/02ygYqJG1w7guDHVATBd0F) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Éxitos de Oro, vol\. 4](https://open.spotify.com/album/4eh50zoGTP5IJ84YR0byqc) | 2:12 |
-| 34 | [Amargando la vida](https://open.spotify.com/track/2kzPpR2KtWBlSsvMkYEeyE) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Exitos de Oro, vol\. 2](https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU) | 3:32 |
-| 35 | [El Espejo](https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Boleros Inolvidables Con Los Relampagos Del Norte](https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz) | 3:31 |
+| 34 | [El Espejo](https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Boleros Inolvidables Con Los Relampagos Del Norte](https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz) | 3:31 |
+| 35 | [Amargando la vida](https://open.spotify.com/track/2kzPpR2KtWBlSsvMkYEeyE) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Exitos de Oro, vol\. 2](https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU) | 3:32 |
 | 36 | [Caminar Caminar](https://open.spotify.com/track/4JL1se9SpQ9rkRmJGQj2oN) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:36 |
 | 37 | [Allá en el Baile Grande](https://open.spotify.com/track/6j8vimqDs0pfRpy3gf95JO) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/4L5987PRJ0lgS1J2BmwMB7) | 2:14 |
 | 38 | [Hay Ojitos](https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Doble 2 En 1](https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy) | 2:42 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 41 | [Qué Mala Suerte](https://open.spotify.com/track/37sNG4P8zEvnfm07CtKn55) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [De Qué Es Tu Corazón](https://open.spotify.com/album/4CetYEaGlo2tI9kqySSQuj) | 2:26 |
 | 42 | [Me Cai De La Nube](https://open.spotify.com/track/5duBpK9vaRenDIdXZP5EMq) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Doble 2 En 1](https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy) | 3:04 |
 | 43 | [Mujer de Cabaret](https://open.spotify.com/track/6ImZIERaxITFJ7yy4RdVW9) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Boleros de Oro: Grandes Éxitos de la Música Norteña](https://open.spotify.com/album/3jVJfLNB5xchADrjUir1fr) | 2:49 |
-| 44 | [Cruel Dolor](https://open.spotify.com/track/0hp1snRX19rfz4fAfqvcDa) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:47 |
-| 45 | [Me Moriria](https://open.spotify.com/track/1WPO1NLdInUUPChlLUkOu0) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos](https://open.spotify.com/album/3R2YtOfQnRScWMilGDVz0H) | 3:20 |
+| 44 | [Me Moriria](https://open.spotify.com/track/1WPO1NLdInUUPChlLUkOu0) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos](https://open.spotify.com/album/3R2YtOfQnRScWMilGDVz0H) | 3:20 |
+| 45 | [Cruel Dolor](https://open.spotify.com/track/0hp1snRX19rfz4fAfqvcDa) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:47 |
 | 46 | [El Espejo](https://open.spotify.com/track/0fUjuxOomFIcRi7T0OKqlD) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Doble 2 En 1](https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy) | 3:25 |
 | 47 | [Llorar por Amor](https://open.spotify.com/track/6DoYsoFeICbUoq9nNddaH1) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Boleros de Oro: Grandes Éxitos de la Música Norteña](https://open.spotify.com/album/3jVJfLNB5xchADrjUir1fr) | 2:55 |
 | 48 | [Capullito de Rosa](https://open.spotify.com/track/5RbE7pbbcTFPrGNcnAW1KC) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna](https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ) | 3:04 |
 | 49 | [Mi Charchina](https://open.spotify.com/track/6vK2viIk4tabUUztnxQcTb) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 3:06 |
 | 50 | [Popurri de Rancheras](https://open.spotify.com/track/0xWYWhcCCMSvHnjFDsIEDJ) | [Ramon Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw), [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Grandes Popurrís Con...](https://open.spotify.com/album/2d2JHyDLUovey7KamW8ta9) | 13:49 |
 
-Snapshot ID: `Mjc4NzYzNDMsMDAwMDAwMDBkMzgxNDQ4ZGI2ZmZjODYyMmMwY2U4YzNiZmIwMjI1Yw==`
+Snapshot ID: `Mjc4Nzc3NTksMDAwMDAwMDBkYzE0MGEyMjc1MDJmMmFmNTQxOWYyMDIxZThjMjFlYw==`

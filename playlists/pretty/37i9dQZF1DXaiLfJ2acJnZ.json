@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 35871,
+  "num_followers": 35891,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMGQxOTljOWI3ODhkMWI5ZGVhYTY4NGU0MjNhMTRmY2Vj",
+  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMDI1NWZjYTNhMWI4NzQ3MWNlZTJhMjIwNzFjMWU5YWNl",
   "tracks": [
     {
       "added_at": "2022-10-28 20:58:08",
@@ -175,18 +175,18 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+        "name": "Welcome To The Madhouse",
+        "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 128364,
-      "name": "Charlie Be Quiet!",
-      "url": "https://open.spotify.com/track/2NGPPfcQfNm3f2ym3WHBuf"
+      "duration_ms": 178156,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -207,18 +207,18 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Welcome To The Madhouse",
-        "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
       "artists": [
         {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 178156,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC"
+      "duration_ms": 128364,
+      "name": "Charlie Be Quiet!",
+      "url": "https://open.spotify.com/track/2NGPPfcQfNm3f2ym3WHBuf"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Joe",
-        "url": "https://open.spotify.com/album/1Emg2Es3fZHl7hJ9vETrpI"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 187660,
-      "name": "Joe",
-      "url": "https://open.spotify.com/track/5qFNMFwY9KkgfKdU1SW7Zl"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/5hnjWGpT06tLDq8u8WxhGI"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 178520,
       "name": "say it",
       "url": "https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Joe",
+        "url": "https://open.spotify.com/album/1Emg2Es3fZHl7hJ9vETrpI"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 187660,
+      "name": "Joe",
+      "url": "https://open.spotify.com/track/5qFNMFwY9KkgfKdU1SW7Zl"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "East End Coast",
-        "url": "https://open.spotify.com/album/6L2bXv5LEsU33rYX2LKbtU"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 226035,
-      "name": "East End Coast",
-      "url": "https://open.spotify.com/track/5xIFAPaCtFQhE5VXmmfUP2"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Splash",
         "url": "https://open.spotify.com/album/1AfiyFgWcXPFHRE2xmofea"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 170467,
       "name": "Splash",
       "url": "https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "East End Coast",
+        "url": "https://open.spotify.com/album/6L2bXv5LEsU33rYX2LKbtU"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 226035,
+      "name": "East End Coast",
+      "url": "https://open.spotify.com/track/5xIFAPaCtFQhE5VXmmfUP2"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "duration_ms": 171228,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "DEACON",
         "url": "https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV"
       },
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3"
-      },
-      "artists": [
-        {
-          "name": "Josie Man",
-          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
-        }
-      ],
-      "duration_ms": 171228,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Never Get It Right",
         "url": "https://open.spotify.com/album/2Mm9b3ZroxmIaDgEZybjhe"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 219865,
       "name": "Sister Ray",
       "url": "https://open.spotify.com/track/3sl0kzHFwrFESmiqB9yqfO"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "unbreak ur heart",
+        "url": "https://open.spotify.com/album/3hrfzsCJwiyWh17y6RuYJt"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "duration_ms": 203367,
+      "name": "unbreak ur heart",
+      "url": "https://open.spotify.com/track/1qQk95hRxQ19H2hVnDXeoW"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1291,22 +1307,6 @@
       "duration_ms": 179253,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "unbreak ur heart",
-        "url": "https://open.spotify.com/album/3hrfzsCJwiyWh17y6RuYJt"
-      },
-      "artists": [
-        {
-          "name": "Josie Man",
-          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
-        }
-      ],
-      "duration_ms": 203367,
-      "name": "unbreak ur heart",
-      "url": "https://open.spotify.com/track/1qQk95hRxQ19H2hVnDXeoW"
     },
     {
       "added_at": "2022-10-28 20:58:08",

@@ -1,12 +1,12 @@
 {
   "description": "Super mega hits! Foto: Rema & Selena Gomez",
-  "num_followers": 6284618,
+  "num_followers": 6286567,
   "original_name": "Pop Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM3NjQ2MCwwMDAwMDAwMDRjMGZiMGNiNDcyNGM4ZWRkOTE5MjlmYzE4ZDEyZDg0",
+  "snapshot_id": "MTY3MjM3NjQ2MCwwMDAwMDAwMGQ0MzcyMjZkMGNkOGMwZmVkMjUyYzE5OTA2M2U2ZWJj",
   "tracks": [
     {
       "added_at": "2022-12-16 05:01:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 260253,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
         "name": "Chit Chat",
         "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 196519,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 260253,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -679,18 +679,22 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
       "artists": [
         {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 229173,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -711,22 +715,18 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
         }
       ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+      "duration_ms": 229173,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
+        "name": "Illuminate (Deluxe)",
+        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "There's Nothing Holdin' Me Back",
+      "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
         "name": "Left and Right (Feat. Jung Kook of BTS)",
         "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "There's Nothing Holdin' Me Back",
-      "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
         "name": "Heat Waves",
         "url": "https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "Pointless",
-        "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 228988,
-      "name": "Pointless",
-      "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Pointless",
+        "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 228988,
+      "name": "Pointless",
+      "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -1319,6 +1319,22 @@
       "duration_ms": 248413,
       "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
       "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
         "name": "Happier Than Ever (Edit)",
         "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
       },
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
         "name": "Sharks",
         "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
       },
@@ -1443,26 +1463,6 @@
       "duration_ms": 190883,
       "name": "Sharks",
       "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "Summer Of Love",
-        "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 184104,
-      "name": "Summer of Love (Shawn Mendes & Tainy)",
-      "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -1491,22 +1491,22 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+        "name": "Summer Of Love",
+        "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
       },
       "artists": [
         {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         },
         {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+      "duration_ms": 184104,
+      "name": "Summer of Love (Shawn Mendes & Tainy)",
+      "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
         "name": "When I\u2019m Gone (with Katy Perry)",
         "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 278769,
       "name": "Can I Call You Tonight?",
       "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2022-12-16 05:01:00",

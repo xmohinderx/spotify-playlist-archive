@@ -3100,6 +3100,24 @@
     },
     {
       "album": {
+        "name": "Lumberjacks'",
+        "url": "https://open.spotify.com/album/5Hx0WztbDPWqBbjr2pjxyU"
+      },
+      "artists": [
+        {
+          "name": "Jacky Bonnet Group",
+          "url": "https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150331,
+      "name": "Lumberjacks'",
+      "url": "https://open.spotify.com/track/4Za1MUR7dLiKbvYHxlMjhQ"
+    },
+    {
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/4LjumPygx5KGf78cfLsacs"
       },
@@ -3827,7 +3845,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 222558,
       "name": "Polkadots And Moonbeams",
       "url": "https://open.spotify.com/track/1zXfSEEkoSsMNuoUSre4R5"

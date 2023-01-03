@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMGFlM2ZmNDQzOWVmNWZlMTVjODY3Y2ViOTM3ZTJhZWM1",
+  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMDgwYWRiNDljYTE1NmE2MDc0NTc3NjI4ZDIyZjVmZjY5",
   "tracks": [
     {
       "added_at": "2022-11-30 14:52:40",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Barquinho",
-        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Barquinho",
-      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "Esto me pertenece",
         "url": "https://open.spotify.com/album/1a8bUbSRPV96CkxN9zt0R9"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 275114,
       "name": "Esto me pertenece",
       "url": "https://open.spotify.com/track/6FKcOmJVNmAq4OsuB4FtLV"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Barquinho",
+        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
+      },
+      "artists": [
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Barquinho",
+      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Bby Grl",
-        "url": "https://open.spotify.com/album/43uszYWNYyigwvqIMVulL9"
-      },
-      "artists": [
-        {
-          "name": "Loui Santana",
-          "url": "https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Bby Grl",
-      "url": "https://open.spotify.com/track/6w0JTilwoLz5xwTWPSeuf0"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "HUGITO",
         "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
       },
@@ -559,26 +543,18 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Amuleto",
-        "url": "https://open.spotify.com/album/7uxrgNDgbXTS2RoP81ACqG"
+        "name": "Bby Grl",
+        "url": "https://open.spotify.com/album/43uszYWNYyigwvqIMVulL9"
       },
       "artists": [
         {
-          "name": "Emaflu",
-          "url": "https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy"
-        },
-        {
-          "name": "Rou C",
-          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
-        },
-        {
-          "name": "Cuatrobeats",
-          "url": "https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh"
+          "name": "Loui Santana",
+          "url": "https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh"
         }
       ],
-      "duration_ms": 218838,
-      "name": "Amuleto",
-      "url": "https://open.spotify.com/track/59iDxn0HIxHIcTZW4poFj7"
+      "duration_ms": 166000,
+      "name": "Bby Grl",
+      "url": "https://open.spotify.com/track/6w0JTilwoLz5xwTWPSeuf0"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -619,6 +595,30 @@
       "duration_ms": 141597,
       "name": "piano, piano",
       "url": "https://open.spotify.com/track/7t18kLASLlcOnCsD7GtFu8"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/7uxrgNDgbXTS2RoP81ACqG"
+      },
+      "artists": [
+        {
+          "name": "Emaflu",
+          "url": "https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy"
+        },
+        {
+          "name": "Rou C",
+          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
+        },
+        {
+          "name": "Cuatrobeats",
+          "url": "https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh"
+        }
+      ],
+      "duration_ms": 218838,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/59iDxn0HIxHIcTZW4poFj7"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Lo que no ves",
-        "url": "https://open.spotify.com/album/1VS6jRkmlTR5IlbxNsDFGW"
-      },
-      "artists": [
-        {
-          "name": "Mimi Rose",
-          "url": "https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB"
-        }
-      ],
-      "duration_ms": 135205,
-      "name": "Espejos",
-      "url": "https://open.spotify.com/track/6a6Zy6G2kqpavrBdw07Z5G"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "Sad Kirby :(",
         "url": "https://open.spotify.com/album/6nu76gHLRkrseVSYh0v13Z"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 173892,
       "name": "Sad Kirby :(",
       "url": "https://open.spotify.com/track/1VZbWHys9ky0YGBUWbcD6p"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Lo que no ves",
+        "url": "https://open.spotify.com/album/1VS6jRkmlTR5IlbxNsDFGW"
+      },
+      "artists": [
+        {
+          "name": "Mimi Rose",
+          "url": "https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB"
+        }
+      ],
+      "duration_ms": 135205,
+      "name": "Espejos",
+      "url": "https://open.spotify.com/track/6a6Zy6G2kqpavrBdw07Z5G"
     },
     {
       "added_at": "2022-11-30 14:52:40",

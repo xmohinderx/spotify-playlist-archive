@@ -1,12 +1,12 @@
 {
   "description": "BROCKHAMPTON makes anti pop.",
-  "num_followers": 683233,
+  "num_followers": 683481,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1NzQ0NiwwMDAwMDAwMDZlMTRjNDIwYWQxMzNjOGZiZDYxYTI1MDEyMjM0YTQy",
+  "snapshot_id": "MTY3MTU1NzQ0NiwwMDAwMDAwMDE1OTg2OGZjOTNmOWRlZTE3ZDAwOWM1YmI0MDlkMWU3",
   "tracks": [
     {
       "added_at": "2022-11-30 19:41:15",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 127986,
+      "name": "NIGHT RIDER",
+      "url": "https://open.spotify.com/track/1c39AwcrkN9srI7Az5662I"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
       },
@@ -131,18 +147,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+        "name": "Demon Days",
+        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
-      "duration_ms": 127986,
-      "name": "NIGHT RIDER",
-      "url": "https://open.spotify.com/track/1c39AwcrkN9srI7Az5662I"
+      "duration_ms": 244999,
+      "name": "DARE",
+      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -163,22 +179,6 @@
       "duration_ms": 139662,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Demon Days",
-        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "DARE",
-      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -233,6 +233,22 @@
       "url": "https://open.spotify.com/track/2qfPBPq9BEVEd1GF4UH96H"
     },
     {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Skinny Ape",
+        "url": "https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 281258,
+      "name": "Skinny Ape",
+      "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
+    },
+    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "Nectar",
@@ -263,22 +279,6 @@
       "duration_ms": 179363,
       "name": "PINCH ME",
       "url": "https://open.spotify.com/track/14QUJhbXCWO90NfZ0mXnGG"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Skinny Ape",
-        "url": "https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 281258,
-      "name": "Skinny Ape",
-      "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Niagara",
-        "url": "https://open.spotify.com/album/3wINP6SbT7TqiaYGo3Lj8f"
-      },
-      "artists": [
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        }
-      ],
-      "duration_ms": 124872,
-      "name": "Weight",
-      "url": "https://open.spotify.com/track/5sdkS8DXx8rXNLxbSos8GS"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "Actual Life (April 14 - December 17 2020)",
         "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
       },
@@ -367,26 +351,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "VIVID",
-        "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
-      },
-      "artists": [
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        },
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "VIVID",
-      "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "fantasize",
         "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
       },
@@ -399,22 +363,6 @@
       "duration_ms": 150612,
       "name": "fantasize",
       "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Baby Queen",
-        "url": "https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 220105,
-      "name": "Baby Queen",
-      "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -435,6 +383,58 @@
       "duration_ms": 159732,
       "name": "Buzzed",
       "url": "https://open.spotify.com/track/46vrZhwggdZuuZGwIQ80O3"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Niagara",
+        "url": "https://open.spotify.com/album/3wINP6SbT7TqiaYGo3Lj8f"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 124872,
+      "name": "Weight",
+      "url": "https://open.spotify.com/track/5sdkS8DXx8rXNLxbSos8GS"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Baby Queen",
+        "url": "https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 220105,
+      "name": "Baby Queen",
+      "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "VIVID",
+      "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "spotify singles",
+        "url": "https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 208710,
+      "name": "feel good inc (bbno$ re-finessed) - spotify single",
+      "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 140600,
       "name": "Big Pussy",
       "url": "https://open.spotify.com/track/2l7IXXGf3d9lcBsDBDQkx9"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "spotify singles",
-        "url": "https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 208710,
-      "name": "feel good inc (bbno$ re-finessed) - spotify single",
-      "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
     },
     {
       "added_at": "2022-12-20 17:30:46",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "venus fly trap",
-        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "venus fly trap",
-      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "MANIC MAN",
         "url": "https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 134634,
       "name": "MANIC MAN",
       "url": "https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "venus fly trap",
+        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "venus fly trap",
+      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB"
     },
     {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 149840,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
-    },
-    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Sundays",
@@ -859,6 +843,22 @@
       "duration_ms": 184826,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 149840,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/1gfhCvXKKGLGCRfdf02GiU"
+      },
+      "artists": [
+        {
+          "name": "Jay Safari",
+          "url": "https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT"
+        }
+      ],
+      "duration_ms": 165485,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/1U4yfIDARp95wtUGOZZW51"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "Psychedelic Views (feat. IDK)",
         "url": "https://open.spotify.com/album/4dGOwkXOA2MzysErvXsKEC"
       },
@@ -983,22 +999,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/1gfhCvXKKGLGCRfdf02GiU"
-      },
-      "artists": [
-        {
-          "name": "Jay Safari",
-          "url": "https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT"
-        }
-      ],
-      "duration_ms": 165485,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/1U4yfIDARp95wtUGOZZW51"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "fall at the same time",
         "url": "https://open.spotify.com/album/7aNtdBuIYUy6vEg1KymPkp"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 142666,
       "name": "fall at the same time",
       "url": "https://open.spotify.com/track/15sMBXkb4XHIKPxFLHvDAn"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "THREE HEADS*",
-        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 171842,
-      "name": "THREE HEADS*",
-      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Bad Radio",
-        "url": "https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4"
+        "name": "THREE HEADS*",
+        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
       },
       "artists": [
         {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
         }
       ],
-      "duration_ms": 185317,
-      "name": "Bad Radio",
-      "url": "https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K"
+      "duration_ms": 171842,
+      "name": "THREE HEADS*",
+      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1079,6 +1063,22 @@
       "duration_ms": 204760,
       "name": "608",
       "url": "https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Bad Radio",
+        "url": "https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 185317,
+      "name": "Bad Radio",
+      "url": "https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/6xXlKONL3IHIipu3RMrk4p"
-      },
-      "artists": [
-        {
-          "name": "Mosie",
-          "url": "https://open.spotify.com/artist/6HGNvZKlT5TO7y4aJbDHql"
-        }
-      ],
-      "duration_ms": 234230,
-      "name": "Oh! Frenchy",
-      "url": "https://open.spotify.com/track/6fnEjJ2pkB8q1zglXLXURh"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "Great Taste",
         "url": "https://open.spotify.com/album/7KI0x0Fmc3ABED3MUGlZkB"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 130804,
       "name": "Great Taste",
       "url": "https://open.spotify.com/track/70Qehf0lZ352N1rPDC7Frc"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/6xXlKONL3IHIipu3RMrk4p"
+      },
+      "artists": [
+        {
+          "name": "Mosie",
+          "url": "https://open.spotify.com/artist/6HGNvZKlT5TO7y4aJbDHql"
+        }
+      ],
+      "duration_ms": 234230,
+      "name": "Oh! Frenchy",
+      "url": "https://open.spotify.com/track/6fnEjJ2pkB8q1zglXLXURh"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "post spring, self destruction",
-        "url": "https://open.spotify.com/album/3pIwZl4Z1jKi9Je3lMh3Rd"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        },
-        {
-          "name": "Tom The Mail Man",
-          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "overpaid (feat. Tom The Mail Man)",
-      "url": "https://open.spotify.com/track/2LVeGtvlH8VwDJTP8EHeek"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "Break!",
         "url": "https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw"
       },
@@ -1679,18 +1659,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Groupie",
-        "url": "https://open.spotify.com/album/2CDCVRa5raNL9q7NfiGJcZ"
+        "name": "post spring, self destruction",
+        "url": "https://open.spotify.com/album/3pIwZl4Z1jKi9Je3lMh3Rd"
       },
       "artists": [
         {
-          "name": "Groupthink",
-          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        },
+        {
+          "name": "Tom The Mail Man",
+          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
         }
       ],
-      "duration_ms": 120268,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/79Ty2Ykvn2ZJhFd9Nn45b7"
+      "duration_ms": 174193,
+      "name": "overpaid (feat. Tom The Mail Man)",
+      "url": "https://open.spotify.com/track/2LVeGtvlH8VwDJTP8EHeek"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1707,6 +1691,22 @@
       "duration_ms": 170310,
       "name": "ihy",
       "url": "https://open.spotify.com/track/40zIP85t03fk8iHAlmzmtt"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Groupie",
+        "url": "https://open.spotify.com/album/2CDCVRa5raNL9q7NfiGJcZ"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "duration_ms": 120268,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/79Ty2Ykvn2ZJhFd9Nn45b7"
     }
   ],
   "unique_name": "anti pop",

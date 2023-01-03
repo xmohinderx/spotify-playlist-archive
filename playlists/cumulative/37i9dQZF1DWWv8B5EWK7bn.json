@@ -534,6 +534,24 @@
     },
     {
       "album": {
+        "name": "Time Skiffs",
+        "url": "https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470299,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/1qFudtsBIsNMBumicKCVYm"
+    },
+    {
+      "album": {
         "name": "Cholericly Yours",
         "url": "https://open.spotify.com/album/62kE8wYDmoPC1crXWscfH7"
       },
@@ -549,6 +567,24 @@
       "duration_ms": 250346,
       "name": "Cholericly Yours",
       "url": "https://open.spotify.com/track/5Ey7Xxphn3ecDo8eYgjouM"
+    },
+    {
+      "album": {
+        "name": "CODE",
+        "url": "https://open.spotify.com/album/52dJSmlSJSukSry0Ohuuvt"
+      },
+      "artists": [
+        {
+          "name": "The Comet Is Coming",
+          "url": "https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255264,
+      "name": "CODE",
+      "url": "https://open.spotify.com/track/0ykQscPscfZzjQkRqRettF"
     },
     {
       "album": {
@@ -1793,7 +1829,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 354346,
       "name": "Keep Your Mind Free",
       "url": "https://open.spotify.com/track/2JoAsRpfSpuCGsEOtlFS7W"
@@ -3329,7 +3365,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 228777,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/09Vq5hMGi8Rzn2ZSLSVJEa"
@@ -3857,7 +3893,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 258174,
       "name": "Victims of Victimless Crimes",
       "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
@@ -4023,6 +4059,24 @@
       "duration_ms": 451855,
       "name": "You Are Not An Island",
       "url": "https://open.spotify.com/track/4dZoE86OgZ0LrFWAsrAXNP"
+    },
+    {
+      "album": {
+        "name": "What We Do For Others",
+        "url": "https://open.spotify.com/album/5k6G0HcMny4OCIIuwuVEJR"
+      },
+      "artists": [
+        {
+          "name": "Dorian Concept",
+          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185632,
+      "name": "You're Untouchable",
+      "url": "https://open.spotify.com/track/59ZHu7uSIVaeENq2P5LlZC"
     },
     {
       "album": {

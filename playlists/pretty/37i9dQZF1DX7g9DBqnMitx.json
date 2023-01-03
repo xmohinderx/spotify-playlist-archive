@@ -1,12 +1,12 @@
 {
   "description": "Le cin\u00e9ma \u00e7a s'\u00e9coute aussi.",
-  "num_followers": 50151,
+  "num_followers": 50173,
   "original_name": "Bandes Originales & Pop Corn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMDJiZGU4YTZiZDIxNjUyZjY1ZmVmOGZjYmVmYTg5YjY1",
+  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMGEyOGQyZTEwM2ZmN2E5MjhmNTIyMDJmMzY3ZTg2Mjdm",
   "tracks": [
     {
       "added_at": "2022-09-07 09:54:53",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
-      "added_at": "2023-01-02 00:25:58",
+      "added_at": "2023-01-03 03:01:02",
       "album": {
         "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
@@ -239,6 +239,26 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
+        "name": "All For Us (from the HBO Original Series Euphoria)",
+        "url": "https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 192986,
+      "name": "All For Us - from the HBO Original Series Euphoria",
+      "url": "https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
         "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
         "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 149880,
       "name": "Knockin' On Heaven's Door",
       "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "All For Us (from the HBO Original Series Euphoria)",
-        "url": "https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 192986,
-      "name": "All For Us - from the HBO Original Series Euphoria",
-      "url": "https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/6W7ztLBiRzBN46ZaPAcQ0F"
     },
     {
-      "added_at": "2023-01-02 00:25:58",
+      "added_at": "2023-01-03 03:01:02",
       "album": {
         "name": "The White Lotus: Season 2 (Soundtrack from the HBO\u00ae Original Series)",
         "url": "https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ"
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Rocky IV",
-        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
-      "url": "https://open.spotify.com/track/2avaSeKHI5l4sLruVfLdi2"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Tuyo (Narcos Theme) [A Netflix Original Series Soundtrack]",
         "url": "https://open.spotify.com/album/3GelLDk6XCrXCT4ok0jjGU"
       },
@@ -621,7 +605,23 @@
       "url": "https://open.spotify.com/track/6Dc2tCivms1s2X9myWe4ni"
     },
     {
-      "added_at": "2023-01-02 00:25:58",
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Rocky IV",
+        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
+      "url": "https://open.spotify.com/track/2avaSeKHI5l4sLruVfLdi2"
+    },
+    {
+      "added_at": "2023-01-03 03:01:02",
       "album": {
         "name": "Red Rose Speedway (Archive Collection)",
         "url": "https://open.spotify.com/album/1RzrSgWinUzgsnw3oQDXOy"
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 211500,
       "name": "Playground Love",
       "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1"
     },
     {
-      "added_at": "2023-01-02 00:25:58",
+      "added_at": "2023-01-03 03:01:02",
       "album": {
         "name": "The Spy Who Loved Me",
         "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "The White Lotus (Soundtrack from the HBO\u00ae Original Limited Series)",
-        "url": "https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu"
-      },
-      "artists": [
-        {
-          "name": "Cristobal Tapia De Veer",
-          "url": "https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR"
-        }
-      ],
-      "duration_ms": 79093,
-      "name": "Aloha! (Main Title Theme) - from \u201cThe White Lotus: Season 1\u201d",
-      "url": "https://open.spotify.com/track/4jNa66Mi5PgcXrEaCiPNMu"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Schindler's List",
         "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 255693,
       "name": "Theme From Schindler's List",
       "url": "https://open.spotify.com/track/42gZM6AQ9BDMaTyTmMDVlN"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "The White Lotus (Soundtrack from the HBO\u00ae Original Limited Series)",
+        "url": "https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu"
+      },
+      "artists": [
+        {
+          "name": "Cristobal Tapia De Veer",
+          "url": "https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR"
+        }
+      ],
+      "duration_ms": 79093,
+      "name": "Aloha! (Main Title Theme) - from \u201cThe White Lotus: Season 1\u201d",
+      "url": "https://open.spotify.com/track/4jNa66Mi5PgcXrEaCiPNMu"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "A Monster Calls (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1cQHbrCsJXugmk5Ki8Ub0B"
-      },
-      "artists": [
-        {
-          "name": "Fernando Vel\u00e1zquez",
-          "url": "https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF"
-        }
-      ],
-      "duration_ms": 132840,
-      "name": "I Wish I Had a Hundred Years",
-      "url": "https://open.spotify.com/track/5lb8hYTICPj3WGIiaW1qla"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "AMY (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
+        "name": "A Monster Calls (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1cQHbrCsJXugmk5Ki8Ub0B"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Fernando Vel\u00e1zquez",
+          "url": "https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF"
         }
       ],
-      "duration_ms": 309093,
-      "name": "Hedwig's Theme",
-      "url": "https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF"
+      "duration_ms": 132840,
+      "name": "I Wish I Had a Hundred Years",
+      "url": "https://open.spotify.com/track/5lb8hYTICPj3WGIiaW1qla"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
+        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 309093,
+      "name": "Hedwig's Theme",
+      "url": "https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
         "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
       },
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
+        "name": "The Youth Of Today",
+        "url": "https://open.spotify.com/album/2fzSaL01wmGVH2W1moTcCs"
+      },
+      "artists": [
+        {
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+        }
+      ],
+      "duration_ms": 204222,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
         "name": "Dances With Wolves - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0Z4Vrnqe9T959fiFI2Xyax"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 137773,
       "name": "The John Dunbar Theme (From \"Dances With Wolves\")",
       "url": "https://open.spotify.com/track/1ghqlcFUP85h1Gxn4Oa2Kt"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
-      },
-      "artists": [
-        {
-          "name": "Ramin Djawadi",
-          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        }
-      ],
-      "duration_ms": 530532,
-      "name": "The Night King",
-      "url": "https://open.spotify.com/track/1aDklx1GaBqHFowCzz63wU"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "The Youth Of Today",
-        "url": "https://open.spotify.com/album/2fzSaL01wmGVH2W1moTcCs"
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
       },
       "artists": [
         {
-          "name": "Musical Youth",
-          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 204222,
-      "name": "Pass The Dutchie",
-      "url": "https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe"
+      "duration_ms": 530532,
+      "name": "The Night King",
+      "url": "https://open.spotify.com/track/1aDklx1GaBqHFowCzz63wU"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1293,7 +1293,7 @@
       "url": "https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2"
     },
     {
-      "added_at": "2023-01-02 00:25:58",
+      "added_at": "2023-01-03 03:01:02",
       "album": {
         "name": "Let Me Sing and I'm Happy",
         "url": "https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5"
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Halloween Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Halloween Theme - Main Title",
-      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 173333,
       "name": "Love Is Strange",
       "url": "https://open.spotify.com/track/66Yxbr2UODJjVBKdZtbnOL"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Halloween Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Halloween Theme - Main Title",
+      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1593,7 +1593,7 @@
       "url": "https://open.spotify.com/track/1xvtgNKtzZwOeLDkxgMzav"
     },
     {
-      "added_at": "2023-01-02 00:25:58",
+      "added_at": "2023-01-03 03:01:02",
       "album": {
         "name": "Volume 1",
         "url": "https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth"

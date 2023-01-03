@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 15167,
+  "num_followers": 15191,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI3NDg1OCwwMDAwMDAwMDY2OTYwZjJhZTIzMTE2YzYzOWMwNzgyNGE2MGFlM2Q1",
+  "snapshot_id": "MTY2OTI3NDg1OCwwMDAwMDAwMDliZTY5NmUzZTM3YTU4NmVhYTZjN2MxYTE3Y2E3M2Zi",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -115,6 +115,34 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Thanks",
+        "url": "https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 221274,
+      "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
+      "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "The Essential Hezekiah Walker",
         "url": "https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg"
       },
@@ -163,34 +191,6 @@
       "duration_ms": 239932,
       "name": "At This Table",
       "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Thanks",
-        "url": "https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 221274,
-      "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
-      "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Unchanging God: Songs from the Book of Psalms, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "We Give Thanks (Psalm 107) - Live",
+      "url": "https://open.spotify.com/track/2HHI1ZtuLVPP49CpegOLjU"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Did It Again (feat. Thomas & The Situation)",
         "url": "https://open.spotify.com/album/3tEcRHRF9ZopnnkloV29mM"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 257518,
       "name": "Did It Again (feat. Thomas & The Situation)",
       "url": "https://open.spotify.com/track/67t6GzdwhJ0e99MoH9NjjK"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Unchanging God: Songs from the Book of Psalms, Vol. 2 (Live)",
-        "url": "https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 250360,
-      "name": "We Give Thanks (Psalm 107) - Live",
-      "url": "https://open.spotify.com/track/2HHI1ZtuLVPP49CpegOLjU"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Faithful To Believe",
+        "url": "https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61"
+      },
+      "artists": [
+        {
+          "name": "Byron Cage",
+          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
+        }
+      ],
+      "duration_ms": 386466,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Talk to God",
         "url": "https://open.spotify.com/album/6I6rwc4chgp143l6TF5Jaf"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 129882,
       "name": "Joyful Blessing",
       "url": "https://open.spotify.com/track/01yctBdQgHzDEXGrjV4CYn"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Faithful To Believe",
-        "url": "https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61"
-      },
-      "artists": [
-        {
-          "name": "Byron Cage",
-          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
-        }
-      ],
-      "duration_ms": 386466,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm"
     },
     {
       "added_at": "2022-11-23 15:01:23",

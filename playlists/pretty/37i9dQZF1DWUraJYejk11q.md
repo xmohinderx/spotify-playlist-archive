@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,383 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,344 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 20 | [Slice of Life](https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn) | [usr/friendly](https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE), [Oketo](https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg) | [This Is An Advertisement](https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9) | 3:19 |
 | 21 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 |
 | 22 | [Warm Fuzzies: The Glory](https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Order](https://open.spotify.com/album/6OYR86XQE5NItKcLtBEfPA) | 3:26 |
-| 23 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 |
-| 24 | [Puppy \- Feel The Beat Mix](https://open.spotify.com/track/5TLfNLsPBWYZ3PkSkkb5To) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy \(Feel The Beat Mix\)](https://open.spotify.com/album/4zhm1wulT9LUeC4NnSJu0N) | 3:36 |
+| 23 | [Puppy \- Feel The Beat Mix](https://open.spotify.com/track/5TLfNLsPBWYZ3PkSkkb5To) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy \(Feel The Beat Mix\)](https://open.spotify.com/album/4zhm1wulT9LUeC4NnSJu0N) | 3:36 |
+| 24 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 |
 | 25 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
 | 26 | [uja end](https://open.spotify.com/track/0keT02CFNOmvH95UmhBMef) | [lynyn](https://open.spotify.com/artist/5OW8ofHCXltPKgzTdSe1l8) | [lexicon](https://open.spotify.com/album/3cDhDjibmMoTD4n6n1E7l9) | 4:53 |
 | 27 | [Planta Dance](https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Planta Dance](https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv) | 3:06 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 30 | [l'empelt](https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4) | [drames rurals](https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [juns](https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF), [oma totem](https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb), [Meritxell Bonastre](https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp) | [drames rurals](https://open.spotify.com/album/3yC35q63Eg6ctGi3CXFUDD) | 4:43 |
 | 31 | [Surrounded By Neighbours](https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [GRIT.](https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB) | 5:31 |
 | 32 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 |
-| 33 | [Static Doesn't Exist \- Kode9 Remix](https://open.spotify.com/track/4FYk5LHj60CiV5TmPDbA5I) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z), [Kode9](https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll) | [The Vaulting Sky](https://open.spotify.com/album/78xoqRUrAY2GJQYe6cpnje) | 5:33 |
-| 34 | [Shallots](https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da) | [Frequent](https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc) | [Shallots](https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw) | 3:41 |
+| 33 | [Shallots](https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da) | [Frequent](https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc) | [Shallots](https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw) | 3:41 |
+| 34 | [Static Doesn't Exist \- Kode9 Remix](https://open.spotify.com/track/4FYk5LHj60CiV5TmPDbA5I) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z), [Kode9](https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll) | [The Vaulting Sky](https://open.spotify.com/album/78xoqRUrAY2GJQYe6cpnje) | 5:33 |
 | 35 | [Closer \- Daniel Avery Edit](https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Closer \(Daniel Avery Edit\)](https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G) | 4:06 |
 | 36 | [Sweat Sonic](https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Sweat Sonic](https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY) | 6:22 |
 | 37 | [Diamond Beach](https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Paranormal Phenomena – The Icelandic Expedition](https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup) | 3:04 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 45 | [Blame Me \- BAILE Remix](https://open.spotify.com/track/0HINRRVAivEq7IdZuqHf8f) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [Daniel de Lara](https://open.spotify.com/artist/6soPIhIMY989DfzQ7boSOI), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [infina ad nausea: the remixes \[global magic pack\]](https://open.spotify.com/album/35vE6EkWGVKLNqyVp73ud4) | 5:59 |
 | 46 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
 | 47 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 |
-| 48 | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s) | 6:01 |
-| 49 | [Solar Plexus](https://open.spotify.com/track/0KjraktVUU6osERgW3oF7c) | [Karakter](https://open.spotify.com/artist/0D0rrh5OVFbBgSYYOG5jtL) | [Solar Plexus](https://open.spotify.com/album/4bulJeXa9kmJz5m7t5us4A) | 3:49 |
-| 50 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 |
+| 48 | [Solar Plexus](https://open.spotify.com/track/0KjraktVUU6osERgW3oF7c) | [Karakter](https://open.spotify.com/artist/0D0rrh5OVFbBgSYYOG5jtL) | [Solar Plexus](https://open.spotify.com/album/4bulJeXa9kmJz5m7t5us4A) | 3:49 |
+| 49 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 |
+| 50 | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s) | 6:01 |
 
-Snapshot ID: `MTY3MjMzODg0MSwwMDAwMDAwMDAzNzBlNmI3MDgyZjQzMzlhMmUzMmIwZDMwNTk5MDMw`
+Snapshot ID: `MTY3MjMzODg0MSwwMDAwMDAwMGQwZjdlYmFjNWE5YmM0ODY4NzYzOWNlMjlkZjQ2Mjk1`

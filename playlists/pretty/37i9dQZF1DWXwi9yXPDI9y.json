@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 32090,
+  "num_followers": 32256,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc4MTU1OSwwMDAwMDAwMDAzNTE3MmQ4Mjk3ZGIzYjZkOGE1ZTcyMGQ5ZjUzZTI3",
+  "snapshot_id": "MTY3MTc4MTU1OSwwMDAwMDAwMGQ0ZjdlODk3NGNhMzEyYjliNGI2NTMxOTdkN2I3OWEy",
   "tracks": [
     {
       "added_at": "2022-12-23 07:45:59",
@@ -99,6 +99,22 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
+        "name": "Alexandria The Great",
+        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
+      },
+      "artists": [
+        {
+          "name": "Lorez Alexandria",
+          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
+        }
+      ],
+      "duration_ms": 164880,
+      "name": "Satin Doll",
+      "url": "https://open.spotify.com/track/5whP1p6A6Cbjqtbkp4ytFP"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
         "name": "Sarah Vaughan",
         "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 291173,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/5m3XMzewNg9EADweC7j7Nn"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "Alexandria The Great",
-        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
-      },
-      "artists": [
-        {
-          "name": "Lorez Alexandria",
-          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
-        }
-      ],
-      "duration_ms": 164880,
-      "name": "Satin Doll",
-      "url": "https://open.spotify.com/track/5whP1p6A6Cbjqtbkp4ytFP"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -167,26 +167,6 @@
       "duration_ms": 177666,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/0NaArK8e9ovK75lLRU0OWM"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "John Coltrane And Johnny Hartman",
-        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 332120,
-      "name": "Dedicated To You",
-      "url": "https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -231,18 +211,22 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "An Introduction To Sarah Vaughan",
-        "url": "https://open.spotify.com/album/6luprPJCSNzTR0qGQOSlWE"
+        "name": "John Coltrane And Johnny Hartman",
+        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 151373,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/6TMoKdGcSIHjLfyzINFB5X"
+      "duration_ms": 332120,
+      "name": "Dedicated To You",
+      "url": "https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -263,6 +247,22 @@
       "duration_ms": 181373,
       "name": "No Other Love",
       "url": "https://open.spotify.com/track/7lMqXEiOGnbeV67CE8g0D7"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "An Introduction To Sarah Vaughan",
+        "url": "https://open.spotify.com/album/6luprPJCSNzTR0qGQOSlWE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 151373,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/6TMoKdGcSIHjLfyzINFB5X"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 403826,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
         "name": "My Gentleman Friend",
         "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 357320,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/4SfFKA89wG1ZibFLpkwFw7"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 403826,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Baby Breeze (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/1gF8EnsbcFBaYsNig7LhtN"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
         "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
         "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 204866,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Baby Breeze (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/1gF8EnsbcFBaYsNig7LhtN"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "How Deep Is The Ocean?",
+      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
         "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
         "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 385706,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "How Deep Is The Ocean?",
-      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Waiter, Make Mine Blues",
-      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
         "name": "Oscar Peterson Plays The Cole Porter Songbook",
         "url": "https://open.spotify.com/album/3AiM3u6eHEuZWYCKNjBFK7"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 206933,
       "name": "Love For Sale",
       "url": "https://open.spotify.com/track/6fqHlcomOg6NBwa25EK58m"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Waiter, Make Mine Blues",
+      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
+        "name": "I Remember Miles",
+        "url": "https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 334626,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
         "name": "Kind Of Blue (Legacy Edition)",
         "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
@@ -791,18 +807,22 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "I Remember Miles",
-        "url": "https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd"
+        "name": "For Sentimental Reasons",
+        "url": "https://open.spotify.com/album/66Vm0v5dHw6JPPoZscHbLD"
       },
       "artists": [
         {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "The Delta Rhythm Boys",
+          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
         }
       ],
-      "duration_ms": 334626,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm"
+      "duration_ms": 192173,
+      "name": "(I Love You) For Sentimental Reasons",
+      "url": "https://open.spotify.com/track/1E5YXsJECiRjkX04FYSF2d"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -831,38 +851,18 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Trav'lin' Light",
-        "url": "https://open.spotify.com/album/03Xem2BGYv3uVW7bQpBVuQ"
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
       "artists": [
         {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 207733,
-      "name": "Crazy He Calls Me",
-      "url": "https://open.spotify.com/track/3737oBAK0AEMMGxOdjM5xW"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "For Sentimental Reasons",
-        "url": "https://open.spotify.com/album/66Vm0v5dHw6JPPoZscHbLD"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "The Delta Rhythm Boys",
-          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
-        }
-      ],
-      "duration_ms": 192173,
-      "name": "(I Love You) For Sentimental Reasons",
-      "url": "https://open.spotify.com/track/1E5YXsJECiRjkX04FYSF2d"
+      "duration_ms": 607573,
+      "name": "Ballad Medley",
+      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 607573,
-      "name": "Ballad Medley",
-      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/1uuWhIhlm6T5RoMM7ALp5V"
       },
@@ -911,38 +895,6 @@
       "duration_ms": 181133,
       "name": "For The Want Of A Kiss - Live",
       "url": "https://open.spotify.com/track/4ikX1d0yCV4WG9lPfBlCVX"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "Oscar Peterson Plays The George Gershwin Song Book",
-        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "It Ain't Necessarily So",
-      "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "Swingin' Easy",
-        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 198360,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/0f2HoOAhmbJdO26eZGLqIV"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -979,38 +931,70 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "A Jazz Portrait Of Frank Sinatra",
-        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/2lSLKylZl16f9fz5IdjcR0"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "Anita Sings The Most",
-        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
+        "name": "Trav'lin' Light",
+        "url": "https://open.spotify.com/album/03Xem2BGYv3uVW7bQpBVuQ"
       },
       "artists": [
         {
           "name": "Anita O'Day",
           "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Oscar Peterson Quartet",
-          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
         }
       ],
-      "duration_ms": 223893,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
+      "duration_ms": 207733,
+      "name": "Crazy He Calls Me",
+      "url": "https://open.spotify.com/track/3737oBAK0AEMMGxOdjM5xW"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Swingin' Easy",
+        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 198360,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/0f2HoOAhmbJdO26eZGLqIV"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Oscar Peterson Plays The George Gershwin Song Book",
+        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "It Ain't Necessarily So",
+      "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "I Was Doing All Right",
+      "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1027,6 +1011,22 @@
       "duration_ms": 267840,
       "name": "So In Love",
       "url": "https://open.spotify.com/track/6jqfoXK41QFV9Q5RYmwoMx"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "A Jazz Portrait Of Frank Sinatra",
+        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/2lSLKylZl16f9fz5IdjcR0"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1067,22 +1067,22 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+        "name": "Anita Sings The Most",
+        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         },
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Oscar Peterson Quartet",
+          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
         }
       ],
-      "duration_ms": 246506,
-      "name": "I Was Doing All Right",
-      "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
+      "duration_ms": 223893,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Am I Blue? - Take 2",
+      "url": "https://open.spotify.com/track/59KkICr2P3gksRXtukBrIX"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
         "name": "For Those In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+        "name": "Stan Getz Plays",
+        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 164826,
-      "name": "Am I Blue? - Take 2",
-      "url": "https://open.spotify.com/track/59KkICr2P3gksRXtukBrIX"
+      "duration_ms": 203666,
+      "name": "These Foolish Things (Remind Me Of You)",
+      "url": "https://open.spotify.com/track/1QwPURs9jcgxhyidnzLKme"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1171,22 +1187,6 @@
       "duration_ms": 231866,
       "name": "I Cover The Waterfront - Master Take",
       "url": "https://open.spotify.com/track/4VcDJCwRyrSa1oJNJ1Ac9P"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "Stan Getz Plays",
-        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "These Foolish Things (Remind Me Of You)",
-      "url": "https://open.spotify.com/track/1QwPURs9jcgxhyidnzLKme"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+        "name": "Give Him The Ooh-La-La (Expanded Edition)",
+        "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
-      "duration_ms": 321026,
-      "name": "Blue Gardenia",
-      "url": "https://open.spotify.com/track/3tClapksxcn9cDDUf6Arqc"
+      "duration_ms": 258093,
+      "name": "I Walk A Little Faster",
+      "url": "https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1287,34 +1287,18 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Give Him The Ooh-La-La (Expanded Edition)",
-        "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
       "artists": [
         {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 258093,
-      "name": "I Walk A Little Faster",
-      "url": "https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "Stan Getz In Stockholm",
-        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 427080,
-      "name": "Everything Happens To Me",
-      "url": "https://open.spotify.com/track/1PTO7kJi8AhIdZURGnM1Zj"
+      "duration_ms": 321026,
+      "name": "Blue Gardenia",
+      "url": "https://open.spotify.com/track/3tClapksxcn9cDDUf6Arqc"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1335,6 +1319,22 @@
       "duration_ms": 204333,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/07l1kkIQkfNlCmVwMC4GD0"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Stan Getz In Stockholm",
+        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 427080,
+      "name": "Everything Happens To Me",
+      "url": "https://open.spotify.com/track/1PTO7kJi8AhIdZURGnM1Zj"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1367,22 +1367,6 @@
       "duration_ms": 271533,
       "name": "Bounce Blues",
       "url": "https://open.spotify.com/track/0okDPCmxPLULCyLZM8fxI7"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "Wailing With Lou",
-        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 413080,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
+        "name": "Wailing With Lou",
+        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 413080,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
         "name": "Ella Swings Lightly",
         "url": "https://open.spotify.com/album/3UC5JUy1CydJYU53KAtbdH"
       },
@@ -1435,26 +1435,6 @@
       "duration_ms": 154106,
       "name": "Little White Lies",
       "url": "https://open.spotify.com/track/2LyNm94f8adOw3frDUHB5o"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "Reunion With Chet Baker",
-        "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        },
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "Trav'lin Light",
-      "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1487,6 +1467,26 @@
       "duration_ms": 434666,
       "name": "Little Girl Blue",
       "url": "https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Reunion With Chet Baker",
+        "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Trav'lin Light",
+      "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
     },
     {
       "added_at": "2022-12-23 07:45:59",

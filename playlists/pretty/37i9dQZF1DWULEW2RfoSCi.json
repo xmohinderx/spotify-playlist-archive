@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest soul tracks from the 1970s.",
-  "num_followers": 1346899,
+  "num_followers": 1347528,
   "original_name": "70s Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMDIxZDEyZTNiMTQ4OWYxYWFlMDExNmM0YmY1ZWQzOGM0",
+  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMDNjZGExYTViMjgwZTRjZGJkZjMxOTVhZDFjZDlhOGI1",
   "tracks": [
     {
       "added_at": "2022-02-04 15:57:42",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "2nd Time Around (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 190058,
-      "name": "It's A Shame",
-      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Let's Get It On (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 290933,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "2nd Time Around (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 190058,
+      "name": "It's A Shame",
+      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 383502,
+      "name": "How Can You Mend a Broken Heart",
+      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "Real Thing",
         "url": "https://open.spotify.com/album/4ghtWm6b0INsOAdFPbv5b5"
       },
@@ -299,38 +315,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 383502,
-      "name": "How Can You Mend a Broken Heart",
-      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 178746,
       "name": "When Will I See You Again",
       "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -495,6 +495,26 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 452773,
+      "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "Back Stabbers",
         "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
       },
@@ -543,22 +563,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "The Payback",
-        "url": "https://open.spotify.com/album/49vpRrUcAr2bj6aYQr0Cfl"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 459893,
-      "name": "The Payback",
-      "url": "https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Givin' It Back",
         "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
       },
@@ -575,22 +579,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+        "name": "The Payback",
+        "url": "https://open.spotify.com/album/49vpRrUcAr2bj6aYQr0Cfl"
       },
       "artists": [
         {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
         }
       ],
-      "duration_ms": 452773,
-      "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S"
+      "duration_ms": 459893,
+      "name": "The Payback",
+      "url": "https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -615,6 +615,26 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 205906,
+      "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "Be Thankful for What You Got",
         "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
       },
@@ -627,22 +647,6 @@
       "duration_ms": 429371,
       "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
       "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -679,6 +683,22 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "I've Got So Much To Give",
         "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
       },
@@ -695,8 +715,8 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
       "artists": [
         {
@@ -708,9 +728,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 205906,
-      "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
+      "duration_ms": 384613,
+      "name": "The Love I Lost (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -747,38 +767,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Hang On In There Baby",
-        "url": "https://open.spotify.com/album/6eoKjEg7UGE9ZeT3S3Q6Ix"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bristol",
-          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "Hang On In There Baby",
-      "url": "https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 325493,
-      "name": "Close the Door",
-      "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "The Essential O'Jays",
         "url": "https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8"
       },
@@ -795,6 +783,22 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "Hang On In There Baby",
+        "url": "https://open.spotify.com/album/6eoKjEg7UGE9ZeT3S3Q6Ix"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bristol",
+          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Hang On In There Baby",
+      "url": "https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "When You Hear Lou, You've Heard It All",
         "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
       },
@@ -807,6 +811,22 @@
       "duration_ms": 242386,
       "name": "Lady Love",
       "url": "https://open.spotify.com/track/2ydBZKZD2nr7XTd64E2AVg"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 325493,
+      "name": "Close the Door",
+      "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -859,26 +879,6 @@
       "duration_ms": 189306,
       "name": "L-O-V-E (Love)",
       "url": "https://open.spotify.com/track/49qkJtDdi3KHmENFzleve4"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 384613,
-      "name": "The Love I Lost (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Supernatural Thing",
-        "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "Supernatural Thing, Pt. 1",
-      "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Superfly (O.S.T.)",
         "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 233600,
       "name": "Superfly",
       "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Supernatural Thing",
+        "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "Supernatural Thing, Pt. 1",
+      "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 337333,
-      "name": "For the Love of You, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "The Very Best of Aretha Franklin - The 70's",
         "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 213560,
       "name": "Spanish Harlem",
       "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 337333,
+      "name": "For the Love of You, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Superfly (O.S.T.)",
-        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 300693,
-      "name": "Pusherman",
-      "url": "https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Stax Chartbusters, Vol. 1",
         "url": "https://open.spotify.com/album/4oEYZnyz2yqpWjjBcq7xLk"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 230920,
       "name": "Starting All Over Again",
       "url": "https://open.spotify.com/track/7kFRgT3KKxU1y7USF8ZzIX"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Superfly (O.S.T.)",
+        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "Pusherman",
+      "url": "https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH"
     },
     {
       "added_at": "2022-02-04 15:57:42",

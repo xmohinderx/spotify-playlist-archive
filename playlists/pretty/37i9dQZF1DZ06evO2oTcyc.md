@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,811 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,909 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 29 | [Too Many Years](https://open.spotify.com/track/7KyTq7H5f3Oavmuo9TX6QK) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 3:16 |
 | 30 | [I’m So Awesome](https://open.spotify.com/track/5tzEcVk8jFSBhTrO0ZYJdZ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [I’m So Awesome](https://open.spotify.com/album/4D0WwN3ZWPdVqGLYRQw7pd) | 3:07 |
 | 31 | [Already](https://open.spotify.com/track/3XoMtVDuIbmMQ9UKSShXti) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 4:01 |
-| 32 | [Demand My Respect](https://open.spotify.com/track/5EbLS4q2S21ROWsI1XcMZX) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 2:32 |
-| 33 | [Skrt](https://open.spotify.com/track/5v7kaZNsnyByrSJOfO8gKq) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Skrt](https://open.spotify.com/album/5pgyZ32nzg48ugJS2QVVuS) | 3:44 |
+| 32 | [Skrt](https://open.spotify.com/track/5v7kaZNsnyByrSJOfO8gKq) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Skrt](https://open.spotify.com/album/5pgyZ32nzg48ugJS2QVVuS) | 3:44 |
+| 33 | [Demand My Respect](https://open.spotify.com/track/5EbLS4q2S21ROWsI1XcMZX) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 2:32 |
 | 34 | [IT AIN'T SAFE \(feat\. Nardo Wick & Kodak Black\)](https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:50 |
 | 35 | [how you did that \(feat\. Kodak Black\)](https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:40 |
 | 36 | [I Wish](https://open.spotify.com/track/0FmKMGrNrrf12GmmCYh2eJ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 2:45 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 50 | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5de7ci7TFqbQ1PFgKAD7MR) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/4oiTkphB9JYcl3lRVYGxCv) | 4:09 |
 | 51 | [Usain Boo](https://open.spotify.com/track/4N20NYwhJRArlzEhdCKXka) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:06 |
 
-Snapshot ID: `Mjc4NzYzNDMsMDAwMDAwMDBlNDUwMWQ2NDg0NGI5NmYwZjgxZDFmMzc1Mzg3MjExOQ==`
+Snapshot ID: `Mjc4Nzc3NTksMDAwMDAwMDA2MjUzYmYxYWRhYzY2ZjFmNGNkNzJjMWRkZGQ0ZDA2Mw==`

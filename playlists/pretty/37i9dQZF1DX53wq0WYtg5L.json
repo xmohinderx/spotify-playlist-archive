@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 529031,
+  "num_followers": 529106,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMzk3NCwwMDAwMDAwMDcyZWIzYzA0Zjc3OWJlNDU1MzViYjk5NGQ2NzU0MWZl",
+  "snapshot_id": "MTY2MzAwMzk3NCwwMDAwMDAwMDc1MmRiMjQ2YTRlMmNkMmIwYzVjZjYwNGY4ZDYxOWNm",
   "tracks": [
     {
       "added_at": "2022-09-12 17:32:54",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "La bikina - En vivo",
+      "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
         "name": "El Rey",
         "url": "https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf"
       },
@@ -187,18 +203,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
         }
       ],
-      "duration_ms": 179040,
-      "name": "La bikina - En vivo",
-      "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
+      "duration_ms": 233000,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -235,22 +251,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Lo Mejor De La M\u00fasica Mexicana",
-        "url": "https://open.spotify.com/album/4gG6Kvj7leK60K4VJtq7SC"
-      },
-      "artists": [
-        {
-          "name": "Darvelio Arredondo",
-          "url": "https://open.spotify.com/artist/2L9w9WQZxRBqoRaeJSXP9r"
-        }
-      ],
-      "duration_ms": 221780,
-      "name": "Cielito Lindo",
-      "url": "https://open.spotify.com/track/0d3QIQcaCHdt9aJlRQlOpE"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Polkas Mexicanas",
         "url": "https://open.spotify.com/album/38xZkah2e5R45YCihrw5Wg"
       },
@@ -267,34 +267,34 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+        "name": "Lo Mejor De La M\u00fasica Mexicana",
+        "url": "https://open.spotify.com/album/4gG6Kvj7leK60K4VJtq7SC"
       },
       "artists": [
         {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+          "name": "Darvelio Arredondo",
+          "url": "https://open.spotify.com/artist/2L9w9WQZxRBqoRaeJSXP9r"
         }
       ],
-      "duration_ms": 233000,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT"
+      "duration_ms": 221780,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/0d3QIQcaCHdt9aJlRQlOpE"
     },
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "M\u00fasica de America",
-        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
+        "name": "\u00a1M\u00c9XICO Por Siempre!",
+        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
       "artists": [
         {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 179000,
-      "name": "El son de la negra",
-      "url": "https://open.spotify.com/track/4WppqUEIiLL4kyo406nnJN"
+      "duration_ms": 175920,
+      "name": "Serenata huasteca",
+      "url": "https://open.spotify.com/track/2y3C3tWoNictZWuOuUtDuO"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -315,18 +315,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
+        "name": "M\u00fasica de America",
+        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 175920,
-      "name": "Serenata huasteca",
-      "url": "https://open.spotify.com/track/2y3C3tWoNictZWuOuUtDuO"
+      "duration_ms": 179000,
+      "name": "El son de la negra",
+      "url": "https://open.spotify.com/track/4WppqUEIiLL4kyo406nnJN"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Sinf\u00f3nico 3",
-        "url": "https://open.spotify.com/album/5r6kbcr9qtGnpUo9uBqWwq"
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
       "artists": [
         {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 512626,
-      "name": "Huapango de Moncayo",
-      "url": "https://open.spotify.com/track/6sRcmTzalGYAERH18Nkqo6"
+      "duration_ms": 216920,
+      "name": "El Viajero",
+      "url": "https://open.spotify.com/track/4qb8QUWJCrW3hHuUcSSvmC"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
+        "name": "Sinf\u00f3nico 3",
+        "url": "https://open.spotify.com/album/5r6kbcr9qtGnpUo9uBqWwq"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 512626,
+      "name": "Huapango de Moncayo",
+      "url": "https://open.spotify.com/track/6sRcmTzalGYAERH18Nkqo6"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
         "name": "Antonio Aguilar",
         "url": "https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 195303,
       "name": "Canci\u00f3n Mixteca",
       "url": "https://open.spotify.com/track/5JNNjvunaFiUT56W8GRs80"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 216920,
-      "name": "El Viajero",
-      "url": "https://open.spotify.com/track/4qb8QUWJCrW3hHuUcSSvmC"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -475,18 +475,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Canto A Mi Tierra",
-        "url": "https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK"
+        "name": "Las Canciones Mexicanas Que El Mundo Canta",
+        "url": "https://open.spotify.com/album/3jIy0sTCKvICnOyFCWoxrM"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 148793,
-      "name": "Viva Mexico",
-      "url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi"
+      "duration_ms": 294360,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/1XB5aqI6iacCG4bXJSVb0j"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -503,22 +503,6 @@
       "duration_ms": 164413,
       "name": "La fiesta del mariachi",
       "url": "https://open.spotify.com/track/6tiY3rQJZ8m1SYDm2h6bJJ"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "Las Canciones Mexicanas Que El Mundo Canta",
-        "url": "https://open.spotify.com/album/3jIy0sTCKvICnOyFCWoxrM"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 294360,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/1XB5aqI6iacCG4bXJSVb0j"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -555,6 +539,38 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
+        "name": "100% Mexicano",
+        "url": "https://open.spotify.com/album/1W56EFpcUWSP3Pb9Gms4dV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "100% Mexicano",
+      "url": "https://open.spotify.com/track/4x22LmdwguS9g40HX7Ga8n"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Canto A Mi Tierra",
+        "url": "https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 148793,
+      "name": "Viva Mexico",
+      "url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
         "name": "Mariachi Azteca",
         "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 160760,
       "name": "Jesusita En Chihuahua",
       "url": "https://open.spotify.com/track/6uPPaJBSEn1kp9ZUQuDfEq"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "100% Mexicano",
-        "url": "https://open.spotify.com/album/1W56EFpcUWSP3Pb9Gms4dV"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "100% Mexicano",
-      "url": "https://open.spotify.com/track/4x22LmdwguS9g40HX7Ga8n"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "A la Medida",
-        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 201747,
-      "name": "Mi Zacatecas Querido",
-      "url": "https://open.spotify.com/track/7HkXxQLscUki9gCeMMMwPM"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Mariachi Azteca",
         "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 117333,
       "name": "La Adelita",
       "url": "https://open.spotify.com/track/2GQUkQXwOgt3ZaQHLEuCfx"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 201747,
+      "name": "Mi Zacatecas Querido",
+      "url": "https://open.spotify.com/track/7HkXxQLscUki9gCeMMMwPM"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -799,38 +799,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Negra Linda",
-        "url": "https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId"
-      },
-      "artists": [
-        {
-          "name": "Mariachi America",
-          "url": "https://open.spotify.com/artist/0WfxYVGBDHnF1C989scou2"
-        }
-      ],
-      "duration_ms": 389973,
-      "name": "El Cascabel",
-      "url": "https://open.spotify.com/track/7gkwuWZqsoyEZ23ZdmZWxY"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "Mariachi Azteca",
-        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 228160,
-      "name": "La bamba",
-      "url": "https://open.spotify.com/track/73TlRBB49YVKtrmlj7mERt"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "30 Exitos Inmortales",
         "url": "https://open.spotify.com/album/2mlB33kRAbdiHaAgcZNEhk"
       },
@@ -879,26 +847,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Fernando De La Mora Interpreta A Rub\u00e9n Fuentes (feat. Mariachi Vargas de Tecalitl\u00e1n)",
-        "url": "https://open.spotify.com/album/4bh55n600iD6h3tMa2HbWF"
-      },
-      "artists": [
-        {
-          "name": "Fernando De La Mora",
-          "url": "https://open.spotify.com/artist/7n0DgT7oELfGWb30YlRatt"
-        },
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Qu\u00e9 Bonita Es Mi Tierra (feat. Mariachi Vargas de Tecalitl\u00e1n)",
-      "url": "https://open.spotify.com/track/0mB37B9FDCsKSmjiSdEfci"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Mariachi Azteca",
         "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
       },
@@ -908,9 +856,25 @@
           "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 156333,
-      "name": "Rancho grande",
-      "url": "https://open.spotify.com/track/5fgbllfBxOLke0QHFQZzNQ"
+      "duration_ms": 228160,
+      "name": "La bamba",
+      "url": "https://open.spotify.com/track/73TlRBB49YVKtrmlj7mERt"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Negra Linda",
+        "url": "https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId"
+      },
+      "artists": [
+        {
+          "name": "Mariachi America",
+          "url": "https://open.spotify.com/artist/0WfxYVGBDHnF1C989scou2"
+        }
+      ],
+      "duration_ms": 389973,
+      "name": "El Cascabel",
+      "url": "https://open.spotify.com/track/7gkwuWZqsoyEZ23ZdmZWxY"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -947,6 +911,26 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
+        "name": "Fernando De La Mora Interpreta A Rub\u00e9n Fuentes (feat. Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/4bh55n600iD6h3tMa2HbWF"
+      },
+      "artists": [
+        {
+          "name": "Fernando De La Mora",
+          "url": "https://open.spotify.com/artist/7n0DgT7oELfGWb30YlRatt"
+        },
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Qu\u00e9 Bonita Es Mi Tierra (feat. Mariachi Vargas de Tecalitl\u00e1n)",
+      "url": "https://open.spotify.com/track/0mB37B9FDCsKSmjiSdEfci"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
         "name": "Mariachi Cobre: Este Es Mi Mariachi",
         "url": "https://open.spotify.com/album/3nvfqq53rJB9lzBKVQQC2z"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 156333,
+      "name": "Rancho grande",
+      "url": "https://open.spotify.com/track/5fgbllfBxOLke0QHFQZzNQ"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
         "name": "Tradici\u00f3n, Arte y Pasi\u00f3n",
         "url": "https://open.spotify.com/album/3UeGxT4MIkqxp1kJxvOS2f"
       },
@@ -975,54 +975,6 @@
       "duration_ms": 376773,
       "name": "La Petenera (Medley)",
       "url": "https://open.spotify.com/track/3P0TvGizbuE8uZvIUwjGKo"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "Sones",
-        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Nuevo Tecalitlan",
-          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
-        }
-      ],
-      "duration_ms": 204538,
-      "name": "Fiesta Charra",
-      "url": "https://open.spotify.com/track/17Y6WieNYdlMAC5QKyzFOT"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "Cuando M\u00e9xico Canta",
-        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
-          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
-        }
-      ],
-      "duration_ms": 149289,
-      "name": "Toro Relajo",
-      "url": "https://open.spotify.com/track/6bbGtzZoVj815f56H51uJR"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "Viva M\u00e9xico (Remastered)",
-        "url": "https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz"
-      },
-      "artists": [
-        {
-          "name": "Jorge Negrete",
-          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
-        }
-      ],
-      "duration_ms": 208426,
-      "name": "Juan Charrasqueado - Remastered",
-      "url": "https://open.spotify.com/track/4i0xJYVDfQ1dUXMOzO3s15"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1075,18 +1027,50 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
       },
       "artists": [
         {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
         }
       ],
-      "duration_ms": 245600,
-      "name": "El polvorete",
-      "url": "https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok"
+      "duration_ms": 204538,
+      "name": "Fiesta Charra",
+      "url": "https://open.spotify.com/track/17Y6WieNYdlMAC5QKyzFOT"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Cuando M\u00e9xico Canta",
+        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
+          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
+        }
+      ],
+      "duration_ms": 149289,
+      "name": "Toro Relajo",
+      "url": "https://open.spotify.com/track/6bbGtzZoVj815f56H51uJR"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Viva M\u00e9xico (Remastered)",
+        "url": "https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "duration_ms": 208426,
+      "name": "Juan Charrasqueado - Remastered",
+      "url": "https://open.spotify.com/track/4i0xJYVDfQ1dUXMOzO3s15"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1107,18 +1091,34 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Sones",
-        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
       },
       "artists": [
         {
-          "name": "Mariachi Nuevo Tecalitlan",
-          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
         }
       ],
-      "duration_ms": 184528,
-      "name": "El Mezcalito",
-      "url": "https://open.spotify.com/track/48ksr3js6Hb2cKdmUiZlzF"
+      "duration_ms": 245600,
+      "name": "El polvorete",
+      "url": "https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/518olO2EkNkGlhoITehClz"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 136672,
+      "name": "Gavilancito Sangre Cruzada",
+      "url": "https://open.spotify.com/track/2Mr3fyUMHVHOWh5KTD1QG8"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1135,6 +1135,22 @@
       "duration_ms": 174306,
       "name": "El Pajaro Carpintero",
       "url": "https://open.spotify.com/track/2iSHhdoHxagu8wQZcLn8N0"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "duration_ms": 184528,
+      "name": "El Mezcalito",
+      "url": "https://open.spotify.com/track/48ksr3js6Hb2cKdmUiZlzF"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1215,22 +1231,6 @@
       "duration_ms": 181930,
       "name": "El Son De La Negra",
       "url": "https://open.spotify.com/track/5JCIcyxuL6pcwBHWA8U1cO"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/518olO2EkNkGlhoITehClz"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 136672,
-      "name": "Gavilancito Sangre Cruzada",
-      "url": "https://open.spotify.com/track/2Mr3fyUMHVHOWh5KTD1QG8"
     },
     {
       "added_at": "2022-09-12 17:32:54",

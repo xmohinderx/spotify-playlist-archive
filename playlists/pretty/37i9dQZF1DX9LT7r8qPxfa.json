@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Julien Baker",
-  "num_followers": 247426,
+  "num_followers": 247440,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDcyZDk0MmU1MzIwNTdiNzQ2Yzk4ZDNkYmNkMTk1N2Nk",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDgxNmM2OWJjMTdjNTlmMzA4ZmJmMDIzMWQzZGQwODBm",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 179083,
-      "name": "Paper Mache World",
-      "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "The Baby",
         "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 195773,
       "name": "Big Wheel",
       "url": "https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 179083,
+      "name": "Paper Mache World",
+      "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "untitled",
-        "url": "https://open.spotify.com/album/0p62EsX82Xd24KmMhORtwC"
-      },
-      "artists": [
-        {
-          "name": "Rachael Jenkins",
-          "url": "https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "untitled",
-      "url": "https://open.spotify.com/track/2PMo0BYsGBY2TgHJ5Gm4oT"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Would You Mind Please Pulling Me Close?",
         "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 243925,
       "name": "Would You Mind Please Pulling Me Close?",
       "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "untitled",
+        "url": "https://open.spotify.com/album/0p62EsX82Xd24KmMhORtwC"
+      },
+      "artists": [
+        {
+          "name": "Rachael Jenkins",
+          "url": "https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "untitled",
+      "url": "https://open.spotify.com/track/2PMo0BYsGBY2TgHJ5Gm4oT"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -623,22 +623,6 @@
       "duration_ms": 194942,
       "name": "Party Dress",
       "url": "https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Something American",
-        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 170391,
-      "name": "Cathedral",
-      "url": "https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -723,6 +707,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Something American",
+        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 170391,
+      "name": "Cathedral",
+      "url": "https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Are We There",
         "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Coming Of Age pt. 1",
-        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 261475,
-      "name": "Buzz",
-      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Flight Risk EP",
         "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 188615,
       "name": "Mortals",
       "url": "https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Coming Of Age pt. 1",
+        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 261475,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 229501,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "The Fight",
         "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Wild Parts",
-        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
       "artists": [
         {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 239979,
-      "name": "Wild Parts",
-      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
+      "duration_ms": 229501,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -955,22 +939,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Love of Her Life",
-        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Reid",
-          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
-        }
-      ],
-      "duration_ms": 241503,
-      "name": "Love of Her Life",
-      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "The World We Built",
         "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
       },
@@ -983,6 +951,38 @@
       "duration_ms": 257173,
       "name": "Capable",
       "url": "https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Wild Parts",
+        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 239979,
+      "name": "Wild Parts",
+      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Love of Her Life",
+        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Reid",
+          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
+        }
+      ],
+      "duration_ms": 241503,
+      "name": "Love of Her Life",
+      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "To Enjoy Is the Only Thing",
-        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Vessel",
         "url": "https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 208242,
       "name": "Vessel",
       "url": "https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "To Enjoy Is the Only Thing",
+        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "one hand on the steering wheel the other sewing a garden",
+        "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        }
+      ],
+      "duration_ms": 211522,
+      "name": "hurt",
+      "url": "https://open.spotify.com/track/1azOKiKwwOVwmapgPgPTJy"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "I\u2019ll Still Have Me (Aquilo Remix)",
         "url": "https://open.spotify.com/album/3qRH0q4XS0sbjX0tAaFECr"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 244198,
       "name": "I\u2019ll Still Have Me - Aquilo Remix",
       "url": "https://open.spotify.com/track/4j2TkLdMzMSN9EaC5Cy4eJ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "one hand on the steering wheel the other sewing a garden",
-        "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
-      },
-      "artists": [
-        {
-          "name": "Ada Lea",
-          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
-        }
-      ],
-      "duration_ms": 211522,
-      "name": "hurt",
-      "url": "https://open.spotify.com/track/1azOKiKwwOVwmapgPgPTJy"
     },
     {
       "added_at": "2022-09-16 04:00:00",

@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-529 songs - 1 day 9 hr 10 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
+530 songs - 1 day 9 hr 14 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Let the Sparks Fly](https://open.spotify.com/track/20expv6UNB9q8iJpyzaPcQ) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [The End Is Where We Begin](https://open.spotify.com/album/0XOUeOsnNh9rTDB0ONO7O9) | 4:06 | 2022-05-25 | 2022-07-29 |
 | [Leviathan](https://open.spotify.com/track/4M7oDScM3tWQUpQcegjPuI) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Rewind, Replay, Rebound \(Deluxe\)](https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5) | 4:35 | 2022-05-25 |  |
 | [Lies of the Beautiful People](https://open.spotify.com/track/7MySSAE83mF4QAOnltFF9w) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [This Is Gonna Hurt](https://open.spotify.com/album/2c2pmROfPRd0Z5ZCYajOSJ) | 3:58 | 2022-05-25 | 2022-07-29 |
+| [Lights Of Home](https://open.spotify.com/track/2pguQFntKxYZNGvXvZVWDp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 4:16 | 2022-05-25 |  |
 | [Lights Out, Words Gone](https://open.spotify.com/track/1bKQdPJ9lid6Yg26HAx8Tf) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 5:01 | 2022-05-25 |  |
 | [Like It's Her Birthday](https://open.spotify.com/track/0AYw1CBLLNu0umIuCoq77M) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Cardiology](https://open.spotify.com/album/08utRHYjRSDcceEsjFRFX0) | 3:30 | 2022-05-25 | 2022-07-26 |
 | [Lion](https://open.spotify.com/track/79CATxWpb9uezVeOIazKgs) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Notes From The Underground](https://open.spotify.com/album/05ofL0H4dSj3jCuzEtVzZN) | 3:54 | 2022-05-25 |  |
@@ -534,7 +535,7 @@
 | [WWYDF](https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 2:55 | 2022-05-25 | 2022-07-28 |
 | [You Don't Get Me High Anymore](https://open.spotify.com/track/3yzrIC7yDuUjwtU7xdt16m) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [You Don't Get Me High Anymore](https://open.spotify.com/album/1UL84YfBUH5F4RDMK3g6EF) | 3:50 | 2022-05-25 | 2022-07-29 |
 | [You Know Me Too Well](https://open.spotify.com/track/1BpmL4NBhX2P7GxuoVtojI) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [What Did You Think When You Made Me This Way?](https://open.spotify.com/album/6qP4UnWRNlBMdsqanPhFuJ) | 3:53 | 2022-05-25 |  |
-| [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 | 2022-05-25 |  |
+| [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 | 2022-05-25 | 2023-01-03 |
 | [You're a Lie](https://open.spotify.com/track/3WsBoPPMmb55aFh52F6FSK) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR), [The Conspirators](https://open.spotify.com/artist/2InxuNbggJRrU3sORD4Dzc) | [Apocalyptic Love](https://open.spotify.com/album/1813RzxdZZLBOJ86l7yYyI) | 3:48 | 2022-05-25 | 2022-07-27 |
 | [You’re The Best Thing About Me](https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:45 | 2022-05-25 | 2022-11-13 |
 

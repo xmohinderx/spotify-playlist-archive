@@ -1,12 +1,12 @@
 {
   "description": "Walk down memory lane with the biggest rock anthems.",
-  "num_followers": 522920,
+  "num_followers": 523287,
   "original_name": "Songs We Rocked Out To",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2NTIwMCwwMDAwMDAwMGRlNmQ4ODUzMmQ3MjVmZjEyMDJlYmJhOTgyNzQ3NjA4",
+  "snapshot_id": "MTY2MTk2NTIwMCwwMDAwMDAwMDFkNzlmZGZlMTM3NzZiY2Q4YmUxNDA1NDQ1Njc3NTBi",
   "tracks": [
     {
       "added_at": "2022-08-23 23:56:36",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-08-23 23:56:36",
       "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "added_at": "2022-08-23 23:56:36",
+      "album": {
         "name": "Hybrid Theory (Bonus Edition)",
         "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
-    },
-    {
-      "added_at": "2022-08-23 23:56:36",
-      "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Everlong",
-      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
     },
     {
       "added_at": "2022-08-23 23:56:36",
@@ -155,18 +155,18 @@
     {
       "added_at": "2022-08-23 23:56:36",
       "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 242373,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
     },
     {
       "added_at": "2022-08-23 23:56:36",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-08-23 23:56:36",
       "album": {
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 185586,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
+    },
+    {
+      "added_at": "2022-08-23 23:56:36",
+      "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 195120,
       "name": "Notion",
       "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
-    },
-    {
-      "added_at": "2022-08-23 23:56:36",
-      "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 185586,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
     },
     {
       "added_at": "2022-08-23 23:56:36",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-08-23 23:56:36",
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "You're Gonna Go Far, Kid",
-      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
-    },
-    {
-      "added_at": "2022-08-23 23:56:36",
-      "album": {
         "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
         "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 223840,
       "name": "How You Remind Me",
       "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
+    },
+    {
+      "added_at": "2022-08-23 23:56:36",
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "You're Gonna Go Far, Kid",
+      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
     },
     {
       "added_at": "2022-08-23 23:56:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 
 > Free your mind from disturbing sounds with white noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,965 likes - 203 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,073 likes - 203 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,7 +195,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 | 185 | [Noise 742 Hz](https://open.spotify.com/track/46yfyVbRMi4F0qqVMc5ySf) | [Astral Noise](https://open.spotify.com/artist/6ukbhEhFk72rEfygTKIdIE) | [Soothe Sleep](https://open.spotify.com/album/5kou7KGOaj2MRFyfpTi8ph) | 1:50 |
 | 186 | [White Noise Clouds](https://open.spotify.com/track/7HPp5kDFAfb0dSnQQJNjTI) | [Der Farbenspieler](https://open.spotify.com/artist/0c5LTefUcb32S0imhQRS8f) | [White Noise Clouds](https://open.spotify.com/album/3WpZBBLVyI0KaatmSnLzBS) | 3:50 |
 | 187 | [Flat White Noise](https://open.spotify.com/track/2sT8xEi35Qn6iceYxi1u2V) | [520Hz](https://open.spotify.com/artist/6S1S2NTJ5M5REqvqp6zYSs) | [White Noise Hz](https://open.spotify.com/album/3A8cNq1g1XQKds0Ho4ltJG) | 2:30 |
-| 188 | [White Noise in Arena](https://open.spotify.com/track/795R8VmFJ4rjLRmtiiOSBj) | [Sleep Sleep Sleep](https://open.spotify.com/artist/1OqVbmth0QR4OXPVPmIEyi) | [Sleep Noise](https://open.spotify.com/album/4vAdUTer5fygtGo2VeDt7q) | 2:42 |
+| 188 | [White Noise in Arena](https://open.spotify.com/track/795R8VmFJ4rjLRmtiiOSBj) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [Sleep Noise](https://open.spotify.com/album/4vAdUTer5fygtGo2VeDt7q) | 2:42 |
 | 189 | [Below the Fall \- River Noise](https://open.spotify.com/track/6sXtxe7FGKa8a7C8fJvEDt) | [The Mindful](https://open.spotify.com/artist/5emKKqhb4oYf9k3sWw0At9) | [Mindfulness White Noise](https://open.spotify.com/album/7qWWQFUC7A8j6G0j8DHJnK) | 1:34 |
 | 190 | [White Noise \- 1.700 Hz \- Cutoff](https://open.spotify.com/track/2vz1BL4wwGsANBAyReU7df) | [Soft Searchers](https://open.spotify.com/artist/0Z0335EMFgyltW1mRGksiK) | [Soft White Noise](https://open.spotify.com/album/7Fmll38PhJVevGE4RA7jbL) | 1:28 |
 | 191 | [White Noise Machine](https://open.spotify.com/track/3rcqaQqGBeL5f7jqUUxDmE) | [Strepitus](https://open.spotify.com/artist/0j7tapvMme49QfivtjSBmw) | [Feeling Noise](https://open.spotify.com/album/0UvtD6a54Lng14vdisfVKw) | 3:24 |

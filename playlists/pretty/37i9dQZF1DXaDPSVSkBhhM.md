@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,365 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,388 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 31 | [Conversaciones Con Mi Almohada](https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ), [Fear Allison](https://open.spotify.com/artist/75t1ar10ekAij353mysCMK) | [Autodestrucción](https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR) | 3:54 |
 | 32 | [Llévate Todo](https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5) | [Finde](https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC) | [Volver a Empezar](https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel) | 3:29 |
 | 33 | [Disparos](https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Disparos](https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68) | 3:49 |
-| 34 | [No olvides de enfocarte siempre en lo importante](https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK) | [Da Skate](https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW) | [La teoría de los septenios](https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo) | 2:31 |
-| 35 | [Siempre Fuerte](https://open.spotify.com/track/6x8GV4GRH2hZ8eeRmpMrC4) | [Skates Mx](https://open.spotify.com/artist/2P3698bE1ZmRUy8KljStTv) | [Y Si Patinan?](https://open.spotify.com/album/3AVCV6rOUqSxWt9YRf3IjD) | 3:36 |
+| 34 | [Siempre Fuerte](https://open.spotify.com/track/6x8GV4GRH2hZ8eeRmpMrC4) | [Skates Mx](https://open.spotify.com/artist/2P3698bE1ZmRUy8KljStTv) | [Y Si Patinan?](https://open.spotify.com/album/3AVCV6rOUqSxWt9YRf3IjD) | 3:36 |
+| 35 | [No olvides de enfocarte siempre en lo importante](https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK) | [Da Skate](https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW) | [La teoría de los septenios](https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo) | 2:31 |
 | 36 | [Un Año](https://open.spotify.com/track/3cxNffyduQfuB5W9w9bbv9) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Un Año](https://open.spotify.com/album/57zOfuG9zThe5GfGKx97IT) | 2:46 |
 | 37 | [Te Vale Madre](https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Te Vale Madre](https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7) | 3:10 |
 | 38 | [Humanos Como Tú](https://open.spotify.com/track/3fvNWLnmratSXuqcVXIHyU) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Humanos Como Tú](https://open.spotify.com/album/0HqeYIoIRBpQ9zt31b5VQY) | 3:48 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 42 | [Dualidad](https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Dualidad](https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg) | 3:43 |
 | 43 | [Diablo](https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Al infierno y de regreso](https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa) | 3:24 |
 | 44 | [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 |
-| 45 | [Clavo](https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Clavo](https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11) | 2:50 |
-| 46 | [No Digas Lo Siento](https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [No Digas Lo Siento](https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7) | 2:51 |
-| 47 | [Canción para Ti](https://open.spotify.com/track/45Vmknqo3EMaLb6ijxUA3q) | [Blast55](https://open.spotify.com/artist/6ZtsVCTccysmOQrMasGMG8) | [A Todos Nos Pasa](https://open.spotify.com/album/6wJEaTch4XaGZnsXSAv0ve) | 3:45 |
-| 48 | [Empezar, Pt\. 2](https://open.spotify.com/track/7MLwzBBleVNsTN4X2enXO2) | [Sureste](https://open.spotify.com/artist/1F4oynmQhLxXhdS4J2z9MH) | [Empezar, Pt\. 2](https://open.spotify.com/album/07VAGAMUcivFxHWTgYVlQS) | 2:45 |
+| 45 | [No Digas Lo Siento](https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [No Digas Lo Siento](https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7) | 2:51 |
+| 46 | [Canción para Ti](https://open.spotify.com/track/45Vmknqo3EMaLb6ijxUA3q) | [Blast55](https://open.spotify.com/artist/6ZtsVCTccysmOQrMasGMG8) | [A Todos Nos Pasa](https://open.spotify.com/album/6wJEaTch4XaGZnsXSAv0ve) | 3:45 |
+| 47 | [Empezar, Pt\. 2](https://open.spotify.com/track/7MLwzBBleVNsTN4X2enXO2) | [Sureste](https://open.spotify.com/artist/1F4oynmQhLxXhdS4J2z9MH) | [Empezar, Pt\. 2](https://open.spotify.com/album/07VAGAMUcivFxHWTgYVlQS) | 2:45 |
+| 48 | [Clavo](https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Clavo](https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11) | 2:50 |
 | 49 | [Nunca Me Voy a Ir](https://open.spotify.com/track/5IKIuPYuH1tnRFXrQ003VG) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss), [Niza Buenrostro](https://open.spotify.com/artist/5UgD3jrxzwsJywYScFRIS9) | [Nunca Me Voy a Ir](https://open.spotify.com/album/67YPCFbxBiQQNujPVpVOUS) | 2:31 |
-| 50 | [Doble Vida](https://open.spotify.com/track/0hL4uLIKFzKwRIpOsjP9DF) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Doble Vida](https://open.spotify.com/album/3WwiGAt7wzs8wKVtM06cNU) | 3:04 |
+| 50 | [Antes](https://open.spotify.com/track/1rZPLX3l9i3nOzPuyw5uTa) | [Celofán](https://open.spotify.com/artist/6lxn2RanNHWxoWRHLTLunm) | [Split](https://open.spotify.com/album/2w1Xt3HBQq6qIDZEZWk4CE) | 3:19 |
 
-Snapshot ID: `MTY3MTY0MzM2MiwwMDAwMDAwMGExNmNkOThlMTRmMmZhMjg3MmRlZjFlZWVlZGY3MTM1`
+Snapshot ID: `MTY3MTY0MzM2MiwwMDAwMDAwMGM2MDYzZDgxNTc2ZTljNjcyYTU2MjAwYjVmZGY1MDY3`

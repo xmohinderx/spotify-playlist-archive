@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw blues.\n",
-  "num_followers": 45262,
+  "num_followers": 45361,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1ODk0NywwMDAwMDAwMDk4YzQwOTdjZDhmNDIwZDNmOTQ1ZGRjZTNmMWJmZGZk",
+  "snapshot_id": "MTY3MTU1ODk0NywwMDAwMDAwMGE2ODNkYmJlYjhjZmNkOGFlOTc1NDJhMjkyOGNjZjY4",
   "tracks": [
     {
       "added_at": "2022-12-20 17:55:47",
@@ -63,22 +63,6 @@
     {
       "added_at": "2022-12-20 17:55:47",
       "album": {
-        "name": "Paris Blues",
-        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 353585,
-      "name": "Paris Blues",
-      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
-    },
-    {
-      "added_at": "2022-12-20 17:55:47",
-      "album": {
         "name": "Give It Up (2008 Remaster)",
         "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
@@ -95,6 +79,22 @@
     {
       "added_at": "2022-12-20 17:55:47",
       "album": {
+        "name": "Paris Blues",
+        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 353585,
+      "name": "Paris Blues",
+      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
+    },
+    {
+      "added_at": "2022-12-20 17:55:47",
+      "album": {
         "name": "Rockin' With Reed",
         "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
       },
@@ -107,22 +107,6 @@
       "duration_ms": 143331,
       "name": "Take Out Some Insurance",
       "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
-    },
-    {
-      "added_at": "2022-12-20 17:55:47",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Bring It On Home",
-      "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
     },
     {
       "added_at": "2022-12-20 17:55:47",
@@ -155,6 +139,22 @@
       "duration_ms": 192706,
       "name": "Junker's Blues",
       "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
+    },
+    {
+      "added_at": "2022-12-20 17:55:47",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Bring It On Home",
+      "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
     },
     {
       "added_at": "2022-12-20 17:55:47",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-12-20 17:55:47",
       "album": {
-        "name": "Smoke From The Chimney",
-        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "Boot Money",
-      "url": "https://open.spotify.com/track/2WzaKNNPxwE4dKGaGlghqh"
-    },
-    {
-      "added_at": "2022-12-20 17:55:47",
-      "album": {
         "name": "An Anthology",
         "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 218357,
       "name": "How to Love",
       "url": "https://open.spotify.com/track/5xSUcxAoaRsXMaaSace7ST"
+    },
+    {
+      "added_at": "2022-12-20 17:55:47",
+      "album": {
+        "name": "Smoke From The Chimney",
+        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 207573,
+      "name": "Boot Money",
+      "url": "https://open.spotify.com/track/2WzaKNNPxwE4dKGaGlghqh"
     },
     {
       "added_at": "2022-12-20 17:55:47",
@@ -723,26 +723,6 @@
     {
       "added_at": "2022-12-20 17:55:47",
       "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx"
-      },
-      "artists": [
-        {
-          "name": "AJ Fullerton",
-          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
-        },
-        {
-          "name": "Eddie Roberts",
-          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
-        }
-      ],
-      "duration_ms": 194321,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY"
-    },
-    {
-      "added_at": "2022-12-20 17:55:47",
-      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 298293,
       "name": "Outside (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
+    },
+    {
+      "added_at": "2022-12-20 17:55:47",
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx"
+      },
+      "artists": [
+        {
+          "name": "AJ Fullerton",
+          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        }
+      ],
+      "duration_ms": 194321,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY"
     },
     {
       "added_at": "2022-12-20 17:55:47",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-12-20 17:55:47",
       "album": {
-        "name": "Little Junior Parker: Mr. Blues",
-        "url": "https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 144746,
-      "name": "Mystery Train",
-      "url": "https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo"
-    },
-    {
-      "added_at": "2022-12-20 17:55:47",
-      "album": {
         "name": "Muddy Waters Sings Big Bill Broonzy",
         "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2022-12-20 17:55:47",
       "album": {
-        "name": "Dust My Broom",
-        "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
+        "name": "Little Junior Parker: Mr. Blues",
+        "url": "https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD"
       },
       "artists": [
         {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
         }
       ],
-      "duration_ms": 215662,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
+      "duration_ms": 144746,
+      "name": "Mystery Train",
+      "url": "https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo"
     },
     {
       "added_at": "2022-12-20 17:55:47",
@@ -1055,6 +1039,22 @@
       "duration_ms": 218864,
       "name": "Low Down Dog",
       "url": "https://open.spotify.com/track/2EonQEVNpFj4DjrBqBghxe"
+    },
+    {
+      "added_at": "2022-12-20 17:55:47",
+      "album": {
+        "name": "Dust My Broom",
+        "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 215662,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
     },
     {
       "added_at": "2022-12-20 17:55:47",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-12-20 17:55:47",
       "album": {
+        "name": "Somebody Loan Me A Dime",
+        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 230040,
+      "name": "Going To Chicago",
+      "url": "https://open.spotify.com/track/2sxwR4yGCYUznXqgewA4Le"
+    },
+    {
+      "added_at": "2022-12-20 17:55:47",
+      "album": {
         "name": "Call Me King",
         "url": "https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2022-12-20 17:55:47",
       "album": {
-        "name": "Somebody Loan Me A Dime",
-        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 230040,
-      "name": "Going To Chicago",
-      "url": "https://open.spotify.com/track/2sxwR4yGCYUznXqgewA4Le"
-    },
-    {
-      "added_at": "2022-12-20 17:55:47",
-      "album": {
         "name": "Devil Got My Woman",
         "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
       },
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-12-20 17:55:47",
       "album": {
-        "name": "Otis Spann Is The Blues (Remastered)",
-        "url": "https://open.spotify.com/album/5C85Qbmifxkrb5aPfAMZq2"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "Take A Little Walk With Me - Remastered",
-      "url": "https://open.spotify.com/track/6BW7rDbeWvsz7v6kVFvEay"
-    },
-    {
-      "added_at": "2022-12-20 17:55:47",
-      "album": {
         "name": "Shake Sugaree",
         "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 209400,
       "name": "Shake Sugaree",
       "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
+    },
+    {
+      "added_at": "2022-12-20 17:55:47",
+      "album": {
+        "name": "Otis Spann Is The Blues (Remastered)",
+        "url": "https://open.spotify.com/album/5C85Qbmifxkrb5aPfAMZq2"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "Take A Little Walk With Me - Remastered",
+      "url": "https://open.spotify.com/track/6BW7rDbeWvsz7v6kVFvEay"
     },
     {
       "added_at": "2022-12-20 17:55:47",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-12-20 17:55:47",
       "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 360480,
-      "name": "Blue River Rising",
-      "url": "https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE"
-    },
-    {
-      "added_at": "2022-12-20 17:55:47",
-      "album": {
         "name": "Brother Johnny",
         "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 159360,
       "name": "Blues Chase up a Rabbit",
       "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
+    },
+    {
+      "added_at": "2022-12-20 17:55:47",
+      "album": {
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+      },
+      "artists": [
+        {
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+        }
+      ],
+      "duration_ms": 360480,
+      "name": "Blue River Rising",
+      "url": "https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE"
     },
     {
       "added_at": "2022-12-20 17:55:47",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2022-12-20 17:55:47",
       "album": {
+        "name": "For Blind Willie",
+        "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
+      },
+      "artists": [
+        {
+          "name": "Bror Gunnar Jansson",
+          "url": "https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q"
+        }
+      ],
+      "duration_ms": 361970,
+      "name": "Lord I Just Can't Keep from Crying",
+      "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
+    },
+    {
+      "added_at": "2022-12-20 17:55:47",
+      "album": {
         "name": "Vanguard Visionaries",
         "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 315842,
       "name": "Keep on Lovin You (feat. Billy Branch)",
       "url": "https://open.spotify.com/track/0bFC7aJVSuRY26OVco4hdJ"
-    },
-    {
-      "added_at": "2022-12-20 17:55:47",
-      "album": {
-        "name": "For Blind Willie",
-        "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
-      },
-      "artists": [
-        {
-          "name": "Bror Gunnar Jansson",
-          "url": "https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q"
-        }
-      ],
-      "duration_ms": 361970,
-      "name": "Lord I Just Can't Keep from Crying",
-      "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
     },
     {
       "added_at": "2022-12-20 17:55:47",

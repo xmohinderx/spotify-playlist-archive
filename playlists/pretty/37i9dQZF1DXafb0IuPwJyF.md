@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The Hottest Hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover:  なとり
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,325 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,659 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [綺羅キラー](https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [綺羅キラー](https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O) | 4:13 |
-| 2 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
-| 3 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 |
+| 2 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 |
+| 3 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
 | 4 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
 | 5 | [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 |
 | 6 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 |
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 17 | [Roll](https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/6iIVpIxJXZy6ZQixh46N3F) | 3:35 |
 | 18 | [Mirage Op.4 \- Collective ver\. \(feat\. 長澤まさみ\)](https://open.spotify.com/track/4wx4CeiVDQM2RDq8b6nYWk) | [Mirage Collective](https://open.spotify.com/artist/468Drn2keEN3vswfh1qHHf), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I), [YONCE \(Suchmos\)](https://open.spotify.com/artist/6tvhvpr5WUc7Q13ulPr2Zi), [長澤まさみ](https://open.spotify.com/artist/6GjALwVkZtW4lkr2vAe24n) | [Mirage Op.4 \- Collective ver\. \(feat\. 長澤まさみ\)](https://open.spotify.com/album/3X8NFyIOThWuYBSJnZ3GEs) | 4:28 |
 | 19 | [化け猫](https://open.spotify.com/track/7wag9tAwUdqyfQMDUgY1g9) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/4nDK96OK3zDeE3rZkvG9E7) | 2:47 |
-| 20 | [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 |
-| 21 | [置き手紙](https://open.spotify.com/track/30qO2rZlw1ZTLWOpCGuuGI) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [置き手紙](https://open.spotify.com/album/0c0A1E5XEI1IEopfuaIgxN) | 3:59 |
-| 22 | [メリーゴーランド](https://open.spotify.com/track/1llk0Ducps2jpfNDtKwO1h) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [メリーゴーランド](https://open.spotify.com/album/51rgXBzk8MYv4IEN0ZeBdI) | 4:15 |
-| 23 | [空っぽ](https://open.spotify.com/track/1VfOJgHWGyXIVcowq3dcJK) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [空っぽ](https://open.spotify.com/album/6gsTB987dJeaTUifVdWbO4) | 4:53 |
+| 20 | [置き手紙](https://open.spotify.com/track/30qO2rZlw1ZTLWOpCGuuGI) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [置き手紙](https://open.spotify.com/album/0c0A1E5XEI1IEopfuaIgxN) | 3:59 |
+| 21 | [メリーゴーランド](https://open.spotify.com/track/1llk0Ducps2jpfNDtKwO1h) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [メリーゴーランド](https://open.spotify.com/album/51rgXBzk8MYv4IEN0ZeBdI) | 4:15 |
+| 22 | [空っぽ](https://open.spotify.com/track/1VfOJgHWGyXIVcowq3dcJK) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [空っぽ](https://open.spotify.com/album/6gsTB987dJeaTUifVdWbO4) | 4:53 |
+| 23 | [Habit](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Habit](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) | 4:13 |
 | 24 | [A Ride On The Gentle Luminous Dragon](https://open.spotify.com/track/0VdZOJzfLxWruafPR5Dt5F) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [映画「Dr.コトー診療所」オリジナルサウンドトラック](https://open.spotify.com/album/4P4mHnIg0zLw8aIrJt2Vq1) | 6:14 |
 | 25 | [バイオレンス](https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [バイオレンス](https://open.spotify.com/album/4ci2aR3GoukVAmJwIfaQ61) | 3:52 |
 | 26 | [Melody](https://open.spotify.com/track/495GBEvMX06OrwhCCZ7H0y) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [Melody](https://open.spotify.com/album/7C22dOSEgyvDKkVKxiSkGV) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [Join Us!](https://open.spotify.com/track/0WCWhT1XJCS6sYWLIXf4Dh) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Join Us!](https://open.spotify.com/album/24jLRo7S7jJTM9ngeeMxtA) | 3:27 |
 | 50 | [lien](https://open.spotify.com/track/2v98sRbseSHCUYbH0bJkZR) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [round trip](https://open.spotify.com/album/0FtqmB9RvzPiBApNH4MPrt) | 3:29 |
 
-Snapshot ID: `MTY3MjU4NTIwMCwwMDAwMDAwMDlkZWEwM2JhNDZkNmFjNTA0MWI2MzQ4NTYxMTU2NTg1`
+Snapshot ID: `MTY3MjYyNzYxNiwwMDAwMDAwMDVkYWNiZWRhNTM5MThkZDQ0OTM3NDdkMTIxM2EyZjI1`

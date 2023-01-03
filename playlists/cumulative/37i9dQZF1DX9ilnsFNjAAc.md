@@ -4,7 +4,7 @@
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-94 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/6c2DXccUunEn5VXDoEgAbj)
+95 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/6c2DXccUunEn5VXDoEgAbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Hot \(Florentino Remix\)](https://open.spotify.com/track/25DN4vHNwu14uKHkMgjUwA) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Florentino](https://open.spotify.com/artist/5CRFA1Pu4DnNXSxHnsoBiE), [Nick & Navi](https://open.spotify.com/artist/7x6iPPYRfmbacrdRChvYp3) | [Hot \(Remixes\)](https://open.spotify.com/album/3Olx5bgSM20KISuTU8KrL9) | 3:21 | 2021-02-19 | 2022-07-29 |
 | [HOT \- Florentino Remix](https://open.spotify.com/track/12wmgaotWpT7L2pv6G7ZE3) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Nick & Navi](https://open.spotify.com/artist/7x6iPPYRfmbacrdRChvYp3), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44) | [HOT \(Remixes\)](https://open.spotify.com/album/2V455jdMkssf0SdpBkg4vX) | 3:21 | 2021-02-19 |  |
 | [Hott](https://open.spotify.com/track/31Xdw0ZM27KYZC4vLTY7Gw) | [Jasmine Infiniti](https://open.spotify.com/artist/4Ii6N7zTISiFbVsUPPD0sE) | [Bxtch Släp](https://open.spotify.com/album/5ZQgUIk9rZc7JpbTqwpp2F) | 5:47 | 2021-02-19 |  |
-| [Ice Bridge](https://open.spotify.com/track/4B8HqglWbTLLs0jvQv2S9V) | [Air Max '97](https://open.spotify.com/artist/5DTUVDQxl5fDiY2plzFP9R) | [Ice Bridge](https://open.spotify.com/album/5krCbpOUzawFzyze0yfYuN) | 4:55 | 2021-02-19 |  |
+| [Ice Bridge](https://open.spotify.com/track/36RgzPOiQDMKrflKdo2tRN) | [Air Max '97](https://open.spotify.com/artist/5DTUVDQxl5fDiY2plzFP9R) | [Ice Bridge](https://open.spotify.com/album/2lgiqx50EYIRzR2mkzXvtI) | 4:55 | 2021-02-19 |  |
+| [Ice Bridge](https://open.spotify.com/track/4B8HqglWbTLLs0jvQv2S9V) | [Air Max '97](https://open.spotify.com/artist/5DTUVDQxl5fDiY2plzFP9R) | [Ice Bridge](https://open.spotify.com/album/5krCbpOUzawFzyze0yfYuN) | 4:55 | 2021-02-19 | 2023-01-03 |
 | [Ice Bridge](https://open.spotify.com/track/4eafLBHbasYQfiCVvh2Wi8) | [Air Max '97](https://open.spotify.com/artist/5DTUVDQxl5fDiY2plzFP9R) | [Ice Bridge](https://open.spotify.com/album/1UAim3z8AlQzliXH9I3XdB) | 4:55 | 2021-02-19 | 2022-07-29 |
 | [Jinn](https://open.spotify.com/track/1eu1i0zc9KNa7GOzoFl7It) | [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE) | [Inner Worlds](https://open.spotify.com/album/4DN13fYd1TQpeUkLQa4pVR) | 5:23 | 2021-02-19 |  |
 | [JUICY](https://open.spotify.com/track/7v7UZAX5TR64Pmvda8kI8E) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [NAUGHTY DOG](https://open.spotify.com/album/58NX2JGkFppV0NQJqv0yEp) | 2:26 | 2021-02-19 |  |

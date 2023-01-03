@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 259518,
+  "num_followers": 259908,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNTU0MCwwMDAwMDAwMDE2Mzg4ZDI4ZTFiMDViYzZiMDlmNWE5ZWQwODRlYTNm",
+  "snapshot_id": "MTY1MzkxNTU0MCwwMDAwMDAwMDRjY2M2YmEwZDY4MjMwOGE2ZTZjYjFkNGNmODg4Zjk2",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -183,6 +183,26 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 298133,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Things Are Swingin'",
         "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 147880,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/06PdA0DLgF4BfAeUNZAbFG"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Porgy And Bess",
-        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 298133,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Flying Platters Around The World",
-        "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan"
       },
       "artists": [
         {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
         }
       ],
-      "duration_ms": 168293,
-      "name": "Twilight Time - Single Version",
-      "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
+      "duration_ms": 168306,
+      "name": "True Love Ways",
+      "url": "https://open.spotify.com/track/2Aq3BiLhITGHe6YSzkzOvi"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan"
+        "name": "The Flying Platters Around The World",
+        "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
       },
       "artists": [
         {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
         }
       ],
-      "duration_ms": 168306,
-      "name": "True Love Ways",
-      "url": "https://open.spotify.com/track/2Aq3BiLhITGHe6YSzkzOvi"
+      "duration_ms": 168293,
+      "name": "Twilight Time - Single Version",
+      "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
       },
       "artists": [
         {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
         }
       ],
-      "duration_ms": 141040,
-      "name": "Devoted to You",
-      "url": "https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5"
+      "duration_ms": 142693,
+      "name": "The Theme from \"A Summer Place\"",
+      "url": "https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -491,22 +491,6 @@
       "duration_ms": 145133,
       "name": "Mr. Blue",
       "url": "https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 142693,
-      "name": "The Theme from \"A Summer Place\"",
-      "url": "https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -559,6 +543,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "Devoted to You",
+      "url": "https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Love Is The Thing",
         "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 195573,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/3npHR2nReF5bhCvvGiNwcL"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
+        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
+      },
+      "artists": [
+        {
+          "name": "The Fleetwoods",
+          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Come Softly To Me",
+      "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -603,22 +619,6 @@
       "duration_ms": 161373,
       "name": "Mr. Lonely",
       "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
-        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
-      },
-      "artists": [
-        {
-          "name": "The Fleetwoods",
-          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "Come Softly To Me",
-      "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 164413,
-      "name": "You're Gonna Miss Me",
-      "url": "https://open.spotify.com/track/1yLsZ8fuQJqk2cm1VDWTGb"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
@@ -731,38 +715,6 @@
       "duration_ms": 194986,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/5dae01pKNjRQtgOeAkFzPY"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Born Too Late",
-        "url": "https://open.spotify.com/album/3TnMW3EicWwdyFAze9Y0og"
-      },
-      "artists": [
-        {
-          "name": "The Poni-Tails",
-          "url": "https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN"
-        }
-      ],
-      "duration_ms": 139013,
-      "name": "Born Too Late",
-      "url": "https://open.spotify.com/track/3ZyJfbh2Y9y15f45qY1pDJ"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Rock with Sedaka (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "You Mean Everything to Me",
-      "url": "https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -783,6 +735,38 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 164413,
+      "name": "You're Gonna Miss Me",
+      "url": "https://open.spotify.com/track/1yLsZ8fuQJqk2cm1VDWTGb"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Born Too Late",
+        "url": "https://open.spotify.com/album/3TnMW3EicWwdyFAze9Y0og"
+      },
+      "artists": [
+        {
+          "name": "The Poni-Tails",
+          "url": "https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN"
+        }
+      ],
+      "duration_ms": 139013,
+      "name": "Born Too Late",
+      "url": "https://open.spotify.com/track/3ZyJfbh2Y9y15f45qY1pDJ"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Johnny's Greatest Hits",
         "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 182440,
       "name": "Chances Are (with Ray Conniff & His Orchestra)",
       "url": "https://open.spotify.com/track/6sAcECONsANle5n0rnP2at"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Rock with Sedaka (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "You Mean Everything to Me",
+      "url": "https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH"
     },
     {
       "added_at": "2022-05-30 12:59:00",

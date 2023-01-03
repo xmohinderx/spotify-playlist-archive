@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 106833,
+  "num_followers": 106878,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMGJlMjI2MmQyYjlmY2Y4MTU5YWMxZmI0MWE5ZjQ4NjU0",
+  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMGJjMjg3NWNiOGIzMjgyN2I2NjRmNmYzYzFjMDYwNDdi",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/2yZXtlCUGjaOYBGc9qqeay"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Songs Of Yesterday",
-      "url": "https://open.spotify.com/track/7jYXoudEWfERVDFZHM8Nfw"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Street Corner Talking",
         "url": "https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 323733,
       "name": "Tell Mama",
       "url": "https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2yZXtlCUGjaOYBGc9qqeay"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Songs Of Yesterday",
+      "url": "https://open.spotify.com/track/7jYXoudEWfERVDFZHM8Nfw"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "The Rolling Stones",
-        "url": "https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 159706,
-      "name": "Little By Little - Mono Version",
-      "url": "https://open.spotify.com/track/1WLo0a2kvkcwTZ9x3r3MDt"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Thunder in the Sky",
@@ -745,20 +729,20 @@
       "url": "https://open.spotify.com/track/4tHfqhXZAnCFH5JiU6YId3"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
+      "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/64VYTykrTBKltig6Li2JLF"
+        "name": "The Rolling Stones",
+        "url": "https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX"
       },
       "artists": [
         {
-          "name": "Aynsley Lister",
-          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 357813,
-      "name": "Won't Be Taken Down",
-      "url": "https://open.spotify.com/track/5s5hWAZii6ahuLEyVXG2L9"
+      "duration_ms": 159706,
+      "name": "Little By Little - Mono Version",
+      "url": "https://open.spotify.com/track/1WLo0a2kvkcwTZ9x3r3MDt"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -809,6 +793,22 @@
       "url": "https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1"
     },
     {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/64VYTykrTBKltig6Li2JLF"
+      },
+      "artists": [
+        {
+          "name": "Aynsley Lister",
+          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
+        }
+      ],
+      "duration_ms": 357813,
+      "name": "Won't Be Taken Down",
+      "url": "https://open.spotify.com/track/5s5hWAZii6ahuLEyVXG2L9"
+    },
+    {
       "added_at": "2021-04-22 22:35:02",
       "album": {
         "name": "Pigthology",
@@ -823,22 +823,6 @@
       "duration_ms": 202760,
       "name": "It's Only Love",
       "url": "https://open.spotify.com/track/4N5FQb7LHkSP2tMHdv9rFQ"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Twice Removed from Yesterday",
-        "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
-      },
-      "artists": [
-        {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
-        }
-      ],
-      "duration_ms": 162426,
-      "name": "Man of the World",
-      "url": "https://open.spotify.com/track/6xiH4qEmsfOvvdMcuAjX7s"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -887,6 +871,22 @@
       "duration_ms": 268920,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/7A7DjkAK1MVYFuYRtqOvWm"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Twice Removed from Yesterday",
+        "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
+      },
+      "artists": [
+        {
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        }
+      ],
+      "duration_ms": 162426,
+      "name": "Man of the World",
+      "url": "https://open.spotify.com/track/6xiH4qEmsfOvvdMcuAjX7s"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Foghat (2016 Remaster)",
-        "url": "https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ"
-      },
-      "artists": [
-        {
-          "name": "Foghat",
-          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
-        }
-      ],
-      "duration_ms": 230160,
-      "name": "Highway (Killing Me) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Down the Road Apiece - the Recordings 1963-1966",
         "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 215453,
       "name": "I Put a Spell on You",
       "url": "https://open.spotify.com/track/7nNL3wfaSz4wUzHr66ICTk"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Foghat (2016 Remaster)",
+        "url": "https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ"
+      },
+      "artists": [
+        {
+          "name": "Foghat",
+          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "Highway (Killing Me) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL"
     },
     {
       "added_at": "2021-04-22 22:35:02",

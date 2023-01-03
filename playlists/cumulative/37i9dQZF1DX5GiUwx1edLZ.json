@@ -2062,6 +2062,32 @@
     },
     {
       "album": {
+        "name": "Living Without You (Acoustic)",
+        "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "Living Without You - Acoustic",
+      "url": "https://open.spotify.com/track/6jgDBaX7ZxirvxpvCRpiaN"
+    },
+    {
+      "album": {
         "name": "Lonely Together (Acoustic)",
         "url": "https://open.spotify.com/album/3IPBaA3vOQN7aGCQoZU40K"
       },
@@ -4159,7 +4185,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 201762,
       "name": "They Don't Know Us - Piano Version",
       "url": "https://open.spotify.com/track/5t7NI9WuLyDMHafulqpOps"

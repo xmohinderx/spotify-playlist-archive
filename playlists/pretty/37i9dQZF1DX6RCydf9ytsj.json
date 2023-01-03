@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 495899,
+  "num_followers": 496272,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4NTAxNCwwMDAwMDAwMGU2ZTM3MzBkN2MwYzJlNDc3ODBlZjI5ZDUxNTc3NjU3",
+  "snapshot_id": "MTY1ODc4NTAxNCwwMDAwMDAwMGNiMmUxYWE3YTVlMDhlMWMxNzkzMGQ3ODEyMWRlNDY1",
   "tracks": [
     {
       "added_at": "2022-07-25 21:36:54",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
-        "url": "https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Song of the South",
-      "url": "https://open.spotify.com/track/2uX5f3x2cObov0iDAPln4o"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Copperhead Road",
         "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 269920,
       "name": "Copperhead Road",
       "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
+        "url": "https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Song of the South",
+      "url": "https://open.spotify.com/track/2uX5f3x2cObov0iDAPln4o"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -291,18 +291,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "The Closer You Get...",
-        "url": "https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM"
+        "name": "Castles in the Sand",
+        "url": "https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib"
       },
       "artists": [
         {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 322093,
-      "name": "Dixieland Delight",
-      "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
+      "duration_ms": 190133,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/4wt2PBgqXZbvRiWSHDc4O4"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -339,18 +339,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Castles in the Sand",
-        "url": "https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib"
+        "name": "The Closer You Get...",
+        "url": "https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM"
       },
       "artists": [
         {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
         }
       ],
-      "duration_ms": 190133,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/4wt2PBgqXZbvRiWSHDc4O4"
+      "duration_ms": 322093,
+      "name": "Dixieland Delight",
+      "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -747,38 +747,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "There's No Gettin' Over Me",
-        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "I Wouldn't Have Missed It For The World",
-      "url": "https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "Rockin' With The Rhythm",
-        "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Rockin' With The Rhythm Of The Rain",
-      "url": "https://open.spotify.com/track/0uEuAQ0c5yittMpxJ3l5iR"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -799,6 +767,38 @@
       "duration_ms": 216573,
       "name": "Wildflowers - 2015 Remaster",
       "url": "https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Rockin' With The Rhythm",
+        "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Rockin' With The Rhythm Of The Rain",
+      "url": "https://open.spotify.com/track/0uEuAQ0c5yittMpxJ3l5iR"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "There's No Gettin' Over Me",
+        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "I Wouldn't Have Missed It For The World",
+      "url": "https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "The Very Best Of David Frizzell & Shelly West",
-        "url": "https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI"
-      },
-      "artists": [
-        {
-          "name": "David Frizzell",
-          "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
-        },
-        {
-          "name": "Shelly West",
-          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "You're The Reason God Made Oklahoma",
-      "url": "https://open.spotify.com/track/6h2uiSGYI1oLzYg0MvBs6v"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Guitars, Cadillacs, Etc., Etc.",
         "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
       },
@@ -1167,6 +1147,22 @@
       "duration_ms": 167426,
       "name": "Honky Tonk Man",
       "url": "https://open.spotify.com/track/60Vbhlv3GUL8fNt3LLZ1nH"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Gene Watson's Greatest Hits",
+        "url": "https://open.spotify.com/album/1PKnP8QXBvGKbNWEBhxGsp"
+      },
+      "artists": [
+        {
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+        }
+      ],
+      "duration_ms": 159506,
+      "name": "Fourteen Carat Mind",
+      "url": "https://open.spotify.com/track/2RB2xSlVoMRhINO0SruNIx"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1187,18 +1183,38 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Gene Watson's Greatest Hits",
-        "url": "https://open.spotify.com/album/1PKnP8QXBvGKbNWEBhxGsp"
+        "name": "Won't Be Blue Anymore",
+        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
       },
       "artists": [
         {
-          "name": "Gene Watson",
-          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+          "name": "Dan Seals",
+          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
         }
       ],
-      "duration_ms": 159506,
-      "name": "Fourteen Carat Mind",
-      "url": "https://open.spotify.com/track/2RB2xSlVoMRhINO0SruNIx"
+      "duration_ms": 292626,
+      "name": "Everything That Glitters (Is Not Gold)",
+      "url": "https://open.spotify.com/track/6NaQDBNUP6LcsZklHizAki"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "The Very Best Of David Frizzell & Shelly West",
+        "url": "https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI"
+      },
+      "artists": [
+        {
+          "name": "David Frizzell",
+          "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
+        },
+        {
+          "name": "Shelly West",
+          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "You're The Reason God Made Oklahoma",
+      "url": "https://open.spotify.com/track/6h2uiSGYI1oLzYg0MvBs6v"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1227,22 +1243,6 @@
       "duration_ms": 182973,
       "name": "Highwayman",
       "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "Won't Be Blue Anymore",
-        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
-      },
-      "artists": [
-        {
-          "name": "Dan Seals",
-          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
-        }
-      ],
-      "duration_ms": 292626,
-      "name": "Everything That Glitters (Is Not Gold)",
-      "url": "https://open.spotify.com/track/6NaQDBNUP6LcsZklHizAki"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
+        "name": "I Am What I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "If Drinkin' Don't Kill Me (Her Memory Will)",
+      "url": "https://open.spotify.com/track/1Eu8T7TxbcrlZ1oE8Eccxd"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
         "name": "The Essential Waylon Jennings",
         "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
       },
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/30upl1YT1suEgSDpIopSky"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Walk The Way The Wind Blows",
         "url": "https://open.spotify.com/album/5F5np5Tdq8eWV79SNf8HHv"
       },
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "I Am What I Am (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
         }
       ],
-      "duration_ms": 189933,
-      "name": "If Drinkin' Don't Kill Me (Her Memory Will)",
-      "url": "https://open.spotify.com/track/1Eu8T7TxbcrlZ1oE8Eccxd"
+      "duration_ms": 222400,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/30upl1YT1suEgSDpIopSky"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "What Am I Gonna Do About You",
-        "url": "https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL"
+        "name": "Friday Night Blues",
+        "url": "https://open.spotify.com/album/6ahnIVl7o1IfC6GEOWgafD"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
         }
       ],
-      "duration_ms": 205866,
-      "name": "One Promise Too Late",
-      "url": "https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B"
+      "duration_ms": 198453,
+      "name": "Friday Night Blues",
+      "url": "https://open.spotify.com/track/5AgHGO8qE6Gf5HFaY1YHg9"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Friday Night Blues",
-        "url": "https://open.spotify.com/album/6ahnIVl7o1IfC6GEOWgafD"
+        "name": "What Am I Gonna Do About You",
+        "url": "https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL"
       },
       "artists": [
         {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
         }
       ],
-      "duration_ms": 198453,
-      "name": "Friday Night Blues",
-      "url": "https://open.spotify.com/track/5AgHGO8qE6Gf5HFaY1YHg9"
+      "duration_ms": 205866,
+      "name": "One Promise Too Late",
+      "url": "https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "I Love 'Em All",
-        "url": "https://open.spotify.com/album/4gkofMfdkx3zQAJUv1iz6c"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "I Loved 'Em Every One",
-      "url": "https://open.spotify.com/track/4vRwErUg8XwxZnMsAp5ozS"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Top 10",
         "url": "https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 179373,
       "name": "Diggin' Up Bones",
       "url": "https://open.spotify.com/track/6stD0CS3QFs2yY3CoBfK8K"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "I Love 'Em All",
+        "url": "https://open.spotify.com/album/4gkofMfdkx3zQAJUv1iz6c"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 221280,
+      "name": "I Loved 'Em Every One",
+      "url": "https://open.spotify.com/track/4vRwErUg8XwxZnMsAp5ozS"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1751,54 +1751,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Best Of The Bellamy Brothers",
-        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Old Hippie",
-      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "The Very Best Of Rosanne Cash",
-        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        }
-      ],
-      "duration_ms": 195080,
-      "name": "Tennessee Flat Top Box",
-      "url": "https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "I'd Love To Lay You Down",
-      "url": "https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Greatest Hits, Vol. 2",
         "url": "https://open.spotify.com/album/1TRb99NpbCbLBiYnCis1fv"
       },
@@ -1847,6 +1799,54 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
+        "name": "Best Of The Bellamy Brothers",
+        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Old Hippie",
+      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "I'd Love To Lay You Down",
+      "url": "https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "The Very Best Of Rosanne Cash",
+        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 195080,
+      "name": "Tennessee Flat Top Box",
+      "url": "https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
         "name": "Whoever's In New England",
         "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
       },
@@ -1891,6 +1891,22 @@
       "duration_ms": 258799,
       "name": "I'll Still Be Loving You",
       "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "35 Biggest Hits",
+        "url": "https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 164653,
+      "name": "Born To Boogie",
+      "url": "https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1959,22 +1975,6 @@
       "duration_ms": 232773,
       "name": "What I'd Say",
       "url": "https://open.spotify.com/track/6qdaMyeAxixEtIiI1Wqr4l"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "35 Biggest Hits",
-        "url": "https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 164653,
-      "name": "Born To Boogie",
-      "url": "https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Smooth Sailin'",
-        "url": "https://open.spotify.com/album/3fpDwkHJJkVOTuOMRmcLW9"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Do You Wanna Go To Heaven",
-      "url": "https://open.spotify.com/track/2S0XttyAttwENSmmWa0kkm"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 251600,
       "name": "Good Ole Boys Like Me - Single Version",
       "url": "https://open.spotify.com/track/7fw6XQdMN9BszacQxoz4gZ"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Smooth Sailin'",
+        "url": "https://open.spotify.com/album/3fpDwkHJJkVOTuOMRmcLW9"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Do You Wanna Go To Heaven",
+      "url": "https://open.spotify.com/track/2S0XttyAttwENSmmWa0kkm"
     },
     {
       "added_at": "2022-07-25 21:36:54",

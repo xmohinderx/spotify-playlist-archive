@@ -1,12 +1,12 @@
 {
   "description": "A decade full of 00s country hits! Cover: Lee Ann Womack",
-  "num_followers": 583553,
+  "num_followers": 583986,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODcwMjc0OSwwMDAwMDAwMDQ0MTI1ZWQwNTk1MGM2MDdmNjJjNDc1NzFjZjMwMDU5",
+  "snapshot_id": "MTY1ODcwMjc0OSwwMDAwMDAwMDlmY2RlYTRkM2MwNDQzMzA4Y2FjMmM0MzFjMmVjNDA5",
   "tracks": [
     {
       "added_at": "2022-07-24 22:45:48",
@@ -507,22 +507,18 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Cocky",
-        "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
+        "name": "Horse of a Different Color",
+        "url": "https://open.spotify.com/album/0mX8aXMM7nYOGUTGcTEeZH"
       },
       "artists": [
         {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+          "name": "Big & Rich",
+          "url": "https://open.spotify.com/artist/0oBEeN6BCxEgMogzThqrPf"
         }
       ],
-      "duration_ms": 298960,
-      "name": "Picture (feat. Sheryl Crow)",
-      "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
+      "duration_ms": 200306,
+      "name": "Save a Horse (Ride a Cowboy)",
+      "url": "https://open.spotify.com/track/5s7m2xNZWgz5FqVSIvJcGA"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -543,18 +539,22 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Horse of a Different Color",
-        "url": "https://open.spotify.com/album/0mX8aXMM7nYOGUTGcTEeZH"
+        "name": "Cocky",
+        "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
       },
       "artists": [
         {
-          "name": "Big & Rich",
-          "url": "https://open.spotify.com/artist/0oBEeN6BCxEgMogzThqrPf"
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
         }
       ],
-      "duration_ms": 200306,
-      "name": "Save a Horse (Ride a Cowboy)",
-      "url": "https://open.spotify.com/track/5s7m2xNZWgz5FqVSIvJcGA"
+      "duration_ms": 298960,
+      "name": "Picture (feat. Sheryl Crow)",
+      "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Doin' Somethin' Right",
-        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 269586,
-      "name": "Must Be Doin' Somethin' Right",
-      "url": "https://open.spotify.com/track/6TefPQD0oc88BNALpu4U87"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 224866,
       "name": "American Honey",
       "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 343496,
+      "name": "Travelin' Soldier",
+      "url": "https://open.spotify.com/track/0AkZjWYCMJ8wWiNex7LmkY"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -935,34 +935,18 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
+        "name": "Doin' Somethin' Right",
+        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
         }
       ],
-      "duration_ms": 343496,
-      "name": "Travelin' Soldier",
-      "url": "https://open.spotify.com/track/0AkZjWYCMJ8wWiNex7LmkY"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 248280,
-      "name": "My Wish",
-      "url": "https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU"
+      "duration_ms": 269586,
+      "name": "Must Be Doin' Somethin' Right",
+      "url": "https://open.spotify.com/track/6TefPQD0oc88BNALpu4U87"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -979,6 +963,22 @@
       "duration_ms": 248066,
       "name": "She Thinks My Tractor's Sexy",
       "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 248280,
+      "name": "My Wish",
+      "url": "https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "My Life's Been A Country Song",
-        "url": "https://open.spotify.com/album/1dWIW99cXa2sq9CipTsksd"
-      },
-      "artists": [
-        {
-          "name": "Chris Cagle",
-          "url": "https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "What Kinda Gone",
-      "url": "https://open.spotify.com/track/7uPReljrrTaqzDCcx4JHmi"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Shock 'N Y'all",
         "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 335333,
       "name": "I Love This Bar",
       "url": "https://open.spotify.com/track/32jHB7W9b08OTorAqR0cJo"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "My Life's Been A Country Song",
+        "url": "https://open.spotify.com/album/1dWIW99cXa2sq9CipTsksd"
+      },
+      "artists": [
+        {
+          "name": "Chris Cagle",
+          "url": "https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "What Kinda Gone",
+      "url": "https://open.spotify.com/track/7uPReljrrTaqzDCcx4JHmi"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
+        "name": "Jason Aldean",
+        "url": "https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 306026,
+      "name": "Hicktown",
+      "url": "https://open.spotify.com/track/0WYbR2GSfl4ehvmLmcpAqi"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
         "name": "Tim McGraw And The Dancehall Doctors",
         "url": "https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6"
       },
@@ -1963,22 +1979,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Hits Alive",
-        "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 206720,
-      "name": "Mud On the Tires",
-      "url": "https://open.spotify.com/track/2rQyI7A1yTvTXJ9J4qFmmN"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -1995,18 +1995,18 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Jason Aldean",
-        "url": "https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA"
+        "name": "Hits Alive",
+        "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
         }
       ],
-      "duration_ms": 306026,
-      "name": "Hicktown",
-      "url": "https://open.spotify.com/track/0WYbR2GSfl4ehvmLmcpAqi"
+      "duration_ms": 206720,
+      "name": "Mud On the Tires",
+      "url": "https://open.spotify.com/track/2rQyI7A1yTvTXJ9J4qFmmN"
     },
     {
       "added_at": "2022-07-24 22:45:48",

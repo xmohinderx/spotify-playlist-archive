@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
-  "num_followers": 4469,
+  "num_followers": 4493,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc2NzM4OSwwMDAwMDAwMGQ0ODMwMzczOWQ2MjhhNzM2ZWE5MzQ5ZDJiNjc1MWJk",
+  "snapshot_id": "MTY2ODc2NzM4OSwwMDAwMDAwMDU5OGU0Y2Y5OTE1YTQ5YzJjMGVkNjRkY2U0NmQxYzIx",
   "tracks": [
     {
       "added_at": "2022-11-18 10:29:49",
@@ -255,38 +255,6 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "SLEEPIN!",
-        "url": "https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "SLEEPIN!",
-      "url": "https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
-        "name": "Child of God",
-        "url": "https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 255486,
-      "name": "Child of God",
-      "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
         "name": "Spread The Opps",
         "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
       },
@@ -315,6 +283,42 @@
       "duration_ms": 168989,
       "name": "Have Me",
       "url": "https://open.spotify.com/track/6Z1f1hRzEp9ysuprxhNdc5"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "SLEEPIN!",
+        "url": "https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "SLEEPIN!",
+      "url": "https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "FYE FYE",
+        "url": "https://open.spotify.com/album/6fyajWzEooH12hA3oJIOZU"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        }
+      ],
+      "duration_ms": 232615,
+      "name": "FYE FYE",
+      "url": "https://open.spotify.com/track/08L5NUKHYS0RO32tz34G4A"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -359,42 +363,18 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "FYE FYE",
-        "url": "https://open.spotify.com/album/6fyajWzEooH12hA3oJIOZU"
+        "name": "Child of God",
+        "url": "https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w"
       },
       "artists": [
         {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Fat Nwigwe",
-          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 232615,
-      "name": "FYE FYE",
-      "url": "https://open.spotify.com/track/08L5NUKHYS0RO32tz34G4A"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
-        "name": "Let's Be Honest - EP",
-        "url": "https://open.spotify.com/album/6Efeo3hqiEHsi6DXdeVK6Y"
-      },
-      "artists": [
-        {
-          "name": "Lathan Warlick",
-          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 136384,
-      "name": "Long Way (feat. KB)",
-      "url": "https://open.spotify.com/track/4t1eK7Vxy2f4l29qJM6lrP"
+      "duration_ms": 255486,
+      "name": "Child of God",
+      "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -419,50 +399,42 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/32hA1fDTD9gVo70i02JIQa"
       },
       "artists": [
         {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
         }
       ],
-      "duration_ms": 260708,
-      "name": "Jesus Called My Name",
-      "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
+      "duration_ms": 164224,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0u1DrbKJTZjFatqh9qs47C"
     },
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "Your Word My Mind",
-        "url": "https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6"
+        "name": "Let's Be Honest - EP",
+        "url": "https://open.spotify.com/album/6Efeo3hqiEHsi6DXdeVK6Y"
       },
       "artists": [
         {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 149300,
-      "name": "Your Word My Mind",
-      "url": "https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
-        "name": "mess it up",
-        "url": "https://open.spotify.com/album/6RGc68Chn4t2kLI2OODxYP"
-      },
-      "artists": [
+          "name": "Lathan Warlick",
+          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
+        },
         {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 128300,
-      "name": "mess it up",
-      "url": "https://open.spotify.com/track/0R65qkFygRF8FB4iX9VndY"
+      "duration_ms": 136384,
+      "name": "Long Way (feat. KB)",
+      "url": "https://open.spotify.com/track/4t1eK7Vxy2f4l29qJM6lrP"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -495,22 +467,50 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/32hA1fDTD9gVo70i02JIQa"
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
       "artists": [
         {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        },
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
         }
       ],
-      "duration_ms": 164224,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0u1DrbKJTZjFatqh9qs47C"
+      "duration_ms": 260708,
+      "name": "Jesus Called My Name",
+      "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "mess it up",
+        "url": "https://open.spotify.com/album/6RGc68Chn4t2kLI2OODxYP"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        }
+      ],
+      "duration_ms": 128300,
+      "name": "mess it up",
+      "url": "https://open.spotify.com/track/0R65qkFygRF8FB4iX9VndY"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "Your Word My Mind",
+        "url": "https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 149300,
+      "name": "Your Word My Mind",
+      "url": "https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -551,6 +551,26 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
+        "name": "As I Am",
+        "url": "https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "WHATUPRG",
+          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
+        }
+      ],
+      "duration_ms": 119209,
+      "name": "Father Abraham",
+      "url": "https://open.spotify.com/track/2luFEc1iqWhF21bdcbXpTR"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
         "name": "The Lion King: The Gift [Deluxe Edition]",
         "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 272464,
       "name": "MOOD 4 EVA (feat. Oumou Sangar\u00e9)",
       "url": "https://open.spotify.com/track/6tbkOI2yzodPd7FsYcz5D3"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
-        "name": "As I Am",
-        "url": "https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr"
-      },
-      "artists": [
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "WHATUPRG",
-          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
-        }
-      ],
-      "duration_ms": 119209,
-      "name": "Father Abraham",
-      "url": "https://open.spotify.com/track/2luFEc1iqWhF21bdcbXpTR"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -635,6 +635,26 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
+        "name": "Any Attack",
+        "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "duration_ms": 113051,
+      "name": "Any Attack",
+      "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
         "name": "Respect My Team",
         "url": "https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 227741,
       "name": "Respect My Team",
       "url": "https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
-        "name": "Any Attack",
-        "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 113051,
-      "name": "Any Attack",
-      "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 150169,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/641i12iK07r1ALlCWq1xW3"
       },
@@ -1003,22 +987,18 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "Who That Is",
-        "url": "https://open.spotify.com/album/1YorEgzQ3eu2DmskAzB3Sq"
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC"
       },
       "artists": [
         {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
-        },
-        {
-          "name": "Dj Laz",
-          "url": "https://open.spotify.com/artist/5REF3rMSUd6bSRwgV09dzQ"
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 144533,
-      "name": "Who That Is",
-      "url": "https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny"
+      "duration_ms": 150169,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1035,6 +1015,26 @@
       "duration_ms": 153737,
       "name": "God Good",
       "url": "https://open.spotify.com/track/2STMTOFNic9TvIcYrhKC8y"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "Who That Is",
+        "url": "https://open.spotify.com/album/1YorEgzQ3eu2DmskAzB3Sq"
+      },
+      "artists": [
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        },
+        {
+          "name": "Dj Laz",
+          "url": "https://open.spotify.com/artist/5REF3rMSUd6bSRwgV09dzQ"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Who That Is",
+      "url": "https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "Pray for Me",
-        "url": "https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 165532,
-      "name": "Pray for Me",
-      "url": "https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
         "name": "His Glory Alone",
         "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
+        "name": "Pray for Me",
+        "url": "https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "duration_ms": 165532,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
         "name": "Lord Knows",
         "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
       },
@@ -1107,22 +1107,6 @@
       "duration_ms": 182508,
       "name": "Lord Knows",
       "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
-        "name": "It Could Be Worse",
-        "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
-      },
-      "artists": [
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 144021,
-      "name": "It Could Be Worse",
-      "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
+        "name": "It Could Be Worse",
+        "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 144021,
+      "name": "It Could Be Worse",
+      "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
         "name": "NO WEAPON",
         "url": "https://open.spotify.com/album/1dCQ5hg9mhPYH59HCPwGJF"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 224465,
       "name": "NO WEAPON",
       "url": "https://open.spotify.com/track/6gLLWeqFXGYQ5BHzKhM5y5"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/4CA9N7MLaMCFUrGZddg7FD"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        }
+      ],
+      "duration_ms": 139742,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/1yeDabwKWVLBN8DoJMtwK5"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1191,22 +1207,6 @@
       "duration_ms": 202285,
       "name": "I Can't Fail",
       "url": "https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/4CA9N7MLaMCFUrGZddg7FD"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        }
-      ],
-      "duration_ms": 139742,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/1yeDabwKWVLBN8DoJMtwK5"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1299,38 +1299,6 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "KIDS",
-        "url": "https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh"
-      },
-      "artists": [
-        {
-          "name": "WHATUPRG",
-          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
-        }
-      ],
-      "duration_ms": 133021,
-      "name": "KIDS",
-      "url": "https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
-        "name": "No Loss",
-        "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 175018,
-      "name": "No Loss",
-      "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/1kLw0lTfdQ7Bcob66mxnSJ"
       },
@@ -1351,6 +1319,22 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
+        "name": "No Loss",
+        "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 175018,
+      "name": "No Loss",
+      "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
         "name": "I Can't Let Up",
         "url": "https://open.spotify.com/album/057xUQ5V2b0sDty0YrRMCF"
       },
@@ -1363,6 +1347,46 @@
       "duration_ms": 146000,
       "name": "I Can't Let Up",
       "url": "https://open.spotify.com/track/3aschLk8c7vD1dUc92ytfV"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "KIDS",
+        "url": "https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh"
+      },
+      "artists": [
+        {
+          "name": "WHATUPRG",
+          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
+        }
+      ],
+      "duration_ms": 133021,
+      "name": "KIDS",
+      "url": "https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "Stuff Back",
+        "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        },
+        {
+          "name": "Heavenz",
+          "url": "https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo"
+        },
+        {
+          "name": "Church",
+          "url": "https://open.spotify.com/artist/7u7GeFTkX2dqwUkwDhMOJW"
+        }
+      ],
+      "duration_ms": 193648,
+      "name": "Stuff Back",
+      "url": "https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1399,30 +1423,6 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "Stuff Back",
-        "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        },
-        {
-          "name": "Heavenz",
-          "url": "https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo"
-        },
-        {
-          "name": "Church",
-          "url": "https://open.spotify.com/artist/7u7GeFTkX2dqwUkwDhMOJW"
-        }
-      ],
-      "duration_ms": 193648,
-      "name": "Stuff Back",
-      "url": "https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
         "name": "Hold Me Back",
         "url": "https://open.spotify.com/album/7j3AwRPzTy00HODBozut4E"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "Major Moves",
-        "url": "https://open.spotify.com/album/5oqZoHiDMif50YtaUs5sBz"
-      },
-      "artists": [
-        {
-          "name": "Konata Small",
-          "url": "https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ"
-        }
-      ],
-      "duration_ms": 250285,
-      "name": "Die Empty",
-      "url": "https://open.spotify.com/track/6sHj4isyrw1d5hlgEnvALC"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
         "name": "NOTHING BUT JESUS",
         "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 157885,
       "name": "NOTHING",
       "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "Major Moves",
+        "url": "https://open.spotify.com/album/5oqZoHiDMif50YtaUs5sBz"
+      },
+      "artists": [
+        {
+          "name": "Konata Small",
+          "url": "https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ"
+        }
+      ],
+      "duration_ms": 250285,
+      "name": "Die Empty",
+      "url": "https://open.spotify.com/track/6sHj4isyrw1d5hlgEnvALC"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
+        "name": "Woosah",
+        "url": "https://open.spotify.com/album/6dHdewGLzf3DS7IzYMQ3lX"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 157753,
+      "name": "Woosah",
+      "url": "https://open.spotify.com/track/0E1kivol5RnT49KmePFnYc"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
         "name": "Still Hungry",
         "url": "https://open.spotify.com/album/5Aalwoihbm3hpdDQaGpXp2"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 204358,
       "name": "Still Hungry",
       "url": "https://open.spotify.com/track/5Pfd2yyAFif05Ie3oorPoB"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
-        "name": "Woosah",
-        "url": "https://open.spotify.com/album/6dHdewGLzf3DS7IzYMQ3lX"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 157753,
-      "name": "Woosah",
-      "url": "https://open.spotify.com/track/0E1kivol5RnT49KmePFnYc"
     },
     {
       "added_at": "2022-11-18 10:29:49",

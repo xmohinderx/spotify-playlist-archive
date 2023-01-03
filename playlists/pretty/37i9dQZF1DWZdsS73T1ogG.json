@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: YOVNGCHIMI & Lunay",
-  "num_followers": 510445,
+  "num_followers": 510464,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyOTAyMiwwMDAwMDAwMGY5NjgzZWNiNmZhYzYxMmQ3NWQ3ZjMyN2IzNjIxMGRh",
+  "snapshot_id": "MTY3MjQyOTAyMiwwMDAwMDAwMGExYTliOTM1MzAzODJiY2EzNDllNjQ3ZTRkOGQxZDQ0",
   "tracks": [
     {
       "added_at": "2022-12-29 07:16:19",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
+        "name": "Siempre Blessd",
+        "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Que Duro",
+      "url": "https://open.spotify.com/track/12RaiccXZ5yIDrHt4c5ngZ"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
         "name": "EL NENE",
         "url": "https://open.spotify.com/album/66dX9XaTPTYeTg3w7mHV5i"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 179999,
       "name": "EL NENE",
       "url": "https://open.spotify.com/track/18onJmAJLKbrQVEt9IiKs1"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
-        "name": "Siempre Blessd",
-        "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Que Duro",
-      "url": "https://open.spotify.com/track/12RaiccXZ5yIDrHt4c5ngZ"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -783,18 +783,18 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "TO' ESTO ES TUYO",
-        "url": "https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn"
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
       "artists": [
         {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 193093,
-      "name": "TO' ESTO ES TUYO",
-      "url": "https://open.spotify.com/track/3sFGJUJ4Dk8WYsahfZaPgM"
+      "duration_ms": 147066,
+      "name": "Lady Mi Amor",
+      "url": "https://open.spotify.com/track/30Xh83fw03PZ2Wfm36H4EZ"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
+        "name": "TO' ESTO ES TUYO",
+        "url": "https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "TO' ESTO ES TUYO",
+      "url": "https://open.spotify.com/track/3sFGJUJ4Dk8WYsahfZaPgM"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 192320,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 147066,
-      "name": "Lady Mi Amor",
-      "url": "https://open.spotify.com/track/30Xh83fw03PZ2Wfm36H4EZ"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -935,26 +935,6 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "LOKITA",
-        "url": "https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 193294,
-      "name": "LOKITA",
-      "url": "https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
         "name": "SnipeZ",
         "url": "https://open.spotify.com/album/1O0VHFd6xTl1CfLausE0kN"
       },
@@ -1007,26 +987,6 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "Doxxis",
-        "url": "https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 186601,
-      "name": "Doxxis",
-      "url": "https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
         "name": "Welcome To My World",
         "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
       },
@@ -1047,6 +1007,26 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
+        "name": "LOKITA",
+        "url": "https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 193294,
+      "name": "LOKITA",
+      "url": "https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
         "name": "Fundota",
         "url": "https://open.spotify.com/album/5PnjVOr9NEnjP6ttNRaIBo"
       },
@@ -1059,6 +1039,46 @@
       "duration_ms": 140666,
       "name": "Fundota",
       "url": "https://open.spotify.com/track/5MZIwnOllAg7HCrWpjSIXu"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/4hbG4DAg7wlYF6cvmYv9Hb"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 250887,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/7DtsTnAn320fWxiw6bdAHe"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
+        "name": "Doxxis",
+        "url": "https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 186601,
+      "name": "Doxxis",
+      "url": "https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1087,26 +1107,6 @@
       "duration_ms": 277714,
       "name": "Hot Sauce (feat. Ovi)",
       "url": "https://open.spotify.com/track/53AR3UfALKm0L8FRsz2FCf"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/4hbG4DAg7wlYF6cvmYv9Hb"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 250887,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/7DtsTnAn320fWxiw6bdAHe"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 184072,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
         "name": "Nadie Nos Vio - Spotify Singles",
         "url": "https://open.spotify.com/album/5TCDz405Ejfs2yEK9Mgu8c"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 160311,
       "name": "Nadie Nos Vio - Spotify Singles",
       "url": "https://open.spotify.com/track/0BibHMUWAVk5R4R0EpUOfX"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 184072,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "La HP - Spotify Singles",
-        "url": "https://open.spotify.com/album/4EA3vA6Qya4YZRUYlT9PPB"
-      },
-      "artists": [
-        {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        }
-      ],
-      "duration_ms": 186780,
-      "name": "La HP - Spotify Singles",
-      "url": "https://open.spotify.com/track/0GKmZutSxfdOUQzElk0Psv"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
         "name": "Kachin",
         "url": "https://open.spotify.com/album/2pN1aM6Qq2mTsoHO1VosvY"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 142453,
       "name": "Kachin",
       "url": "https://open.spotify.com/track/6mhWPv4qu7hBmBZlRs5vza"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
+        "name": "La HP - Spotify Singles",
+        "url": "https://open.spotify.com/album/4EA3vA6Qya4YZRUYlT9PPB"
+      },
+      "artists": [
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "duration_ms": 186780,
+      "name": "La HP - Spotify Singles",
+      "url": "https://open.spotify.com/track/0GKmZutSxfdOUQzElk0Psv"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
+        "name": "La Torta",
+        "url": "https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA"
+      },
+      "artists": [
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "duration_ms": 170589,
+      "name": "La Torta",
+      "url": "https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
         "name": "Good Morning",
         "url": "https://open.spotify.com/album/0HNN0LwNYkhezQXBJfg6wO"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 182485,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/6daIHKI41ssxwkHqKqfBnM"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
-        "name": "La Torta",
-        "url": "https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA"
-      },
-      "artists": [
-        {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        }
-      ],
-      "duration_ms": 170589,
-      "name": "La Torta",
-      "url": "https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "Puntos D\u00e9biles",
-        "url": "https://open.spotify.com/album/3CnLeyns2pf6kbMCuFq6zJ"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Puntos D\u00e9biles",
-      "url": "https://open.spotify.com/track/1YqpiLwPLdNRWvCtBeAOc0"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
         "name": "SUSANA (Remix)",
         "url": "https://open.spotify.com/album/6j7F1URZEkmzMLrhid2yQB"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 234856,
       "name": "SUSANA (Remix)",
       "url": "https://open.spotify.com/track/15aQ8FSDgo0SCmhIXvdyWP"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
+        "name": "Puntos D\u00e9biles",
+        "url": "https://open.spotify.com/album/3CnLeyns2pf6kbMCuFq6zJ"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Puntos D\u00e9biles",
+      "url": "https://open.spotify.com/track/1YqpiLwPLdNRWvCtBeAOc0"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "Solteras y Bandidos",
-        "url": "https://open.spotify.com/album/1P2x98BuSrjoTCrDw18JsQ"
-      },
-      "artists": [
-        {
-          "name": "YoGambii",
-          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
-        }
-      ],
-      "duration_ms": 157021,
-      "name": "Solteras y Bandidos",
-      "url": "https://open.spotify.com/track/53WPpMiDP3MTyINUMxigga"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
         "name": "Peligrosa",
         "url": "https://open.spotify.com/album/1TEaCjr1kDMwRBhAgXi73f"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 183813,
       "name": "PITUQUITA",
       "url": "https://open.spotify.com/track/1oksgOdMDrzC1qSnBB4ErK"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
+        "name": "Solteras y Bandidos",
+        "url": "https://open.spotify.com/album/1P2x98BuSrjoTCrDw18JsQ"
+      },
+      "artists": [
+        {
+          "name": "YoGambii",
+          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
+        }
+      ],
+      "duration_ms": 157021,
+      "name": "Solteras y Bandidos",
+      "url": "https://open.spotify.com/track/53WPpMiDP3MTyINUMxigga"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "ANKHALINO",
-        "url": "https://open.spotify.com/album/45jdyAEuBmMpTbwRrZqhK6"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "LOVID 19",
-      "url": "https://open.spotify.com/track/4pqqnFe8ZIyrYEoGoZLJia"
-    },
-    {
-      "added_at": "2022-12-29 07:16:19",
-      "album": {
         "name": "Lamb",
         "url": "https://open.spotify.com/album/25RW5q6ZVQGv6GC3Mv6SXM"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 158222,
       "name": "Lamb",
       "url": "https://open.spotify.com/track/1A9N05ZPTLWoDWTDGxWZ8z"
+    },
+    {
+      "added_at": "2022-12-29 07:16:19",
+      "album": {
+        "name": "ANKHALINO",
+        "url": "https://open.spotify.com/album/45jdyAEuBmMpTbwRrZqhK6"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "LOVID 19",
+      "url": "https://open.spotify.com/track/4pqqnFe8ZIyrYEoGoZLJia"
     },
     {
       "added_at": "2022-12-29 07:16:19",
@@ -2003,26 +2003,18 @@
     {
       "added_at": "2022-12-29 07:16:19",
       "album": {
-        "name": "No Me Saluda",
-        "url": "https://open.spotify.com/album/0JTiGuynQIcU5xIOp1Rie0"
+        "name": "Inalcanzable",
+        "url": "https://open.spotify.com/album/4ONgWtVITzY9HjFGWk8OyK"
       },
       "artists": [
         {
-          "name": "Eix",
-          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
-        },
-        {
-          "name": "Moffa",
-          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+          "name": "Gotay \"El Autentiko\"",
+          "url": "https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o"
         }
       ],
-      "duration_ms": 212727,
-      "name": "No Me Saluda",
-      "url": "https://open.spotify.com/track/0U7DXjOGWUWJJXVc8YjF4i"
+      "duration_ms": 149932,
+      "name": "Inalcanzable",
+      "url": "https://open.spotify.com/track/1YscXjm7Is99GXDkxVDCkn"
     }
   ],
   "unique_name": "el nuevo urbano",

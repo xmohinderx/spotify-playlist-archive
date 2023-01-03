@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 100409,
+  "num_followers": 100436,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMDNhN2YwMDA1M2M4NjdhMGM5MGQyOWFjOGM4YTgzNDE2",
+  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMDViY2EwMzNjODBkNjhkMzRjZWQ5ZjAzMzFhNDY4MmFk",
   "tracks": [
     {
       "added_at": "2022-12-01 13:00:00",
@@ -131,18 +131,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Orsay",
-        "url": "https://open.spotify.com/album/1AbtwU50Jik6zPT1kvsIZ4"
+        "name": "More Content",
+        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
       },
       "artists": [
         {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 246363,
-      "name": "Orsay",
-      "url": "https://open.spotify.com/track/5sUKkQzT6ZrCQPV65hnkx8"
+      "duration_ms": 181873,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -159,6 +159,22 @@
       "duration_ms": 228609,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Orsay",
+        "url": "https://open.spotify.com/album/1AbtwU50Jik6zPT1kvsIZ4"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 246363,
+      "name": "Orsay",
+      "url": "https://open.spotify.com/track/5sUKkQzT6ZrCQPV65hnkx8"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -207,18 +223,22 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "More Content",
-        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
+        "name": "Can We Still Be Friends?",
+        "url": "https://open.spotify.com/album/0KcN7nF5IZu4x90dwmxBDC"
       },
       "artists": [
         {
           "name": "Barry Can't Swim",
           "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
         }
       ],
-      "duration_ms": 181873,
-      "name": "Sonder",
-      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
+      "duration_ms": 243498,
+      "name": "Can We Still Be Friends?",
+      "url": "https://open.spotify.com/track/57UOWrbEXa4wrcfuOs7Xuj"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -255,26 +275,6 @@
       "duration_ms": 211845,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/7lggwV1nP2sMYOieWNvjfw"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Old Love / The Silence in Between",
-        "url": "https://open.spotify.com/album/7lzmVCDtNyrnJuzurcmB4p"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "BROODS",
-          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
-        }
-      ],
-      "duration_ms": 210457,
-      "name": "Old Love",
-      "url": "https://open.spotify.com/track/0W3AkAITCAqzCCzU3vjEoV"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -327,6 +327,26 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
+        "name": "Old Love / The Silence in Between",
+        "url": "https://open.spotify.com/album/7lzmVCDtNyrnJuzurcmB4p"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        {
+          "name": "BROODS",
+          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+        }
+      ],
+      "duration_ms": 210457,
+      "name": "Old Love",
+      "url": "https://open.spotify.com/track/0W3AkAITCAqzCCzU3vjEoV"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
         "name": "Please Keep Shimmering",
         "url": "https://open.spotify.com/album/1gNXxhIfHLXttmjKSC1TDV"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 263842,
       "name": "Keep Shimmering",
       "url": "https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Can We Still Be Friends?",
-        "url": "https://open.spotify.com/album/0KcN7nF5IZu4x90dwmxBDC"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        },
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 243498,
-      "name": "Can We Still Be Friends?",
-      "url": "https://open.spotify.com/track/57UOWrbEXa4wrcfuOs7Xuj"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Heirloom",
-        "url": "https://open.spotify.com/album/29rHqyYnfNh28uhELamXiN"
-      },
-      "artists": [
-        {
-          "name": "KISLO",
-          "url": "https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6"
-        }
-      ],
-      "duration_ms": 283461,
-      "name": "Heirloom",
-      "url": "https://open.spotify.com/track/7oq6vOvJhCrDTTlgmtNiNS"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "Black Rain (\u00c2me Remix)",
         "url": "https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 203751,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Heirloom",
+        "url": "https://open.spotify.com/album/29rHqyYnfNh28uhELamXiN"
+      },
+      "artists": [
+        {
+          "name": "KISLO",
+          "url": "https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6"
+        }
+      ],
+      "duration_ms": 283461,
+      "name": "Heirloom",
+      "url": "https://open.spotify.com/track/7oq6vOvJhCrDTTlgmtNiNS"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
+        "name": "Quiet Corners Of My Mind",
+        "url": "https://open.spotify.com/album/5vvhB33PqaRiwyAyuUWqjM"
       },
       "artists": [
         {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+          "name": "Romare",
+          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
         }
       ],
-      "duration_ms": 282349,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
+      "duration_ms": 268237,
+      "name": "Quiet Corners Of My Mind",
+      "url": "https://open.spotify.com/track/10G4nVNI2Jyvi7bLrbZBEK"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Quiet Corners Of My Mind",
-        "url": "https://open.spotify.com/album/5vvhB33PqaRiwyAyuUWqjM"
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
       },
       "artists": [
         {
-          "name": "Romare",
-          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
         }
       ],
-      "duration_ms": 268237,
-      "name": "Quiet Corners Of My Mind",
-      "url": "https://open.spotify.com/track/10G4nVNI2Jyvi7bLrbZBEK"
+      "duration_ms": 282349,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Standing There",
-        "url": "https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 216028,
-      "name": "Standing There",
-      "url": "https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "Speed King",
         "url": "https://open.spotify.com/album/1XIpESQiT426pr6dvBgZRf"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 238000,
       "name": "All Together, Here Together",
       "url": "https://open.spotify.com/track/1fUy3z7TaLqyUF3VDuBzLR"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Standing There",
+        "url": "https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "duration_ms": 216028,
+      "name": "Standing There",
+      "url": "https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
+        "name": "breath tapes",
+        "url": "https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA"
+      },
+      "artists": [
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 215222,
+      "name": "suddenly",
+      "url": "https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
         "name": "Moonbaton Vol. 1",
         "url": "https://open.spotify.com/album/3T5s9mE6LhH5KR5AlZAId8"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 298713,
       "name": "Water",
       "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "breath tapes",
-        "url": "https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 215222,
-      "name": "suddenly",
-      "url": "https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "The Work",
-        "url": "https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV"
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
       },
       "artists": [
         {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
         }
       ],
-      "duration_ms": 337266,
-      "name": "Plastic Future",
-      "url": "https://open.spotify.com/track/3r0MPlszKS3iIYcZOAJDME"
+      "duration_ms": 317183,
+      "name": "Ultra Truth",
+      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
+        "name": "The Work",
+        "url": "https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV"
       },
       "artists": [
         {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
         }
       ],
-      "duration_ms": 317183,
-      "name": "Ultra Truth",
-      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
+      "duration_ms": 337266,
+      "name": "Plastic Future",
+      "url": "https://open.spotify.com/track/3r0MPlszKS3iIYcZOAJDME"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Is It Me",
-        "url": "https://open.spotify.com/album/7bdQzzdr4GwfMZIP5G6rKl"
-      },
-      "artists": [
-        {
-          "name": "Achingdrum",
-          "url": "https://open.spotify.com/artist/4LeM3PKFS6wEtkDLNULq87"
-        },
-        {
-          "name": "Tim Shiel",
-          "url": "https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Is It Me",
-      "url": "https://open.spotify.com/track/1rgievgwEh6siXmnPp5V93"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "In The Sweetness of You",
         "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 239240,
       "name": "Natural",
       "url": "https://open.spotify.com/track/0kGkvqy8ne40PwxNWZ01XL"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Is It Me",
+        "url": "https://open.spotify.com/album/7bdQzzdr4GwfMZIP5G6rKl"
+      },
+      "artists": [
+        {
+          "name": "Achingdrum",
+          "url": "https://open.spotify.com/artist/4LeM3PKFS6wEtkDLNULq87"
+        },
+        {
+          "name": "Tim Shiel",
+          "url": "https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Is It Me",
+      "url": "https://open.spotify.com/track/1rgievgwEh6siXmnPp5V93"
     },
     {
       "added_at": "2022-12-01 13:00:00",

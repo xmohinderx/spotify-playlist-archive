@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 127296,
+  "num_followers": 127395,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDE4NzZiYTVkYThjZmMzODNmOThhZGU3YzhkMTA4MjM3",
+  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDg4OGU3Nzc4NDc2YThhNDlhZTQ3NWQ4OThmNzI5MjRk",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
     },
     {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 381998,
+      "name": "Lyin' Eyes - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
+    },
+    {
       "added_at": "2022-06-01 14:18:36",
       "album": {
         "name": "Certified Hits (Remastered)",
@@ -151,22 +167,6 @@
       "duration_ms": 153466,
       "name": "You Ain't Goin' Nowhere",
       "url": "https://open.spotify.com/track/6kPxXhjSvy8RsmZBAJUiFs"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 381998,
-      "name": "Lyin' Eyes - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -221,22 +221,6 @@
       "url": "https://open.spotify.com/track/1mqydO6xMtyTPa8yo1SdVr"
     },
     {
-      "added_at": "2022-06-01 14:18:36",
-      "album": {
-        "name": "Heart Like A Wheel",
-        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Willin'",
-      "url": "https://open.spotify.com/track/7HblJM23la7H8kXeBwlkzN"
-    },
-    {
       "added_at": "2022-06-01 14:20:20",
       "album": {
         "name": "Eagles (2013 Remaster)",
@@ -251,6 +235,22 @@
       "duration_ms": 250888,
       "name": "Witchy Woman - 2013 Remaster",
       "url": "https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r"
+    },
+    {
+      "added_at": "2022-06-01 14:18:36",
+      "album": {
+        "name": "Heart Like A Wheel",
+        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Willin'",
+      "url": "https://open.spotify.com/track/7HblJM23la7H8kXeBwlkzN"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -317,6 +317,22 @@
       "url": "https://open.spotify.com/track/0Ov9Hh2ygoGCkwTXMRYRcp"
     },
     {
+      "added_at": "2022-06-01 14:18:36",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w"
+      },
+      "artists": [
+        {
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+        }
+      ],
+      "duration_ms": 219346,
+      "name": "This Ol' Cowboy",
+      "url": "https://open.spotify.com/track/0diAR6QUxrDiEBjRZSfweR"
+    },
+    {
       "added_at": "2020-08-05 15:52:11",
       "album": {
         "name": "Firefall",
@@ -333,20 +349,20 @@
       "url": "https://open.spotify.com/track/6nwlPs3mgpHYUJJ0ETPIXP"
     },
     {
-      "added_at": "2022-06-01 14:18:36",
+      "added_at": "2022-06-01 14:20:20",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w"
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
       },
       "artists": [
         {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 219346,
-      "name": "This Ol' Cowboy",
-      "url": "https://open.spotify.com/track/0diAR6QUxrDiEBjRZSfweR"
+      "duration_ms": 250456,
+      "name": "Train Leaves Here This Morning - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5ro7xAxDVbtabTl8t3MzHz"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -379,22 +395,6 @@
       "duration_ms": 172533,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT"
-    },
-    {
-      "added_at": "2022-06-01 14:20:20",
-      "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 250456,
-      "name": "Train Leaves Here This Morning - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5ro7xAxDVbtabTl8t3MzHz"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -627,6 +627,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "The Flying Burrito Brothers",
+        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
+      },
+      "artists": [
+        {
+          "name": "The Flying Burrito Brothers",
+          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "White Line Fever",
+      "url": "https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Hand Sown...Home Grown",
         "url": "https://open.spotify.com/album/3a7qArnirRgatBiSlc2k3W"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "The Flying Burrito Brothers",
-        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
-      },
-      "artists": [
-        {
-          "name": "The Flying Burrito Brothers",
-          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "White Line Fever",
-      "url": "https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Ton-Ton Macoute!",
-        "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jenkins",
-          "url": "https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27"
-        }
-      ],
-      "duration_ms": 205093,
-      "name": "Down Along The Cove",
-      "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Elite Hotel (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/312OEZO2boUMqdNMuuip6h"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 146986,
       "name": "Feelin' Single - Seein' Double - 2003 Remaster",
       "url": "https://open.spotify.com/track/65J216Pxb4JOdiYVFIpLx7"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Ton-Ton Macoute!",
+        "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jenkins",
+          "url": "https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27"
+        }
+      ],
+      "duration_ms": 205093,
+      "name": "Down Along The Cove",
+      "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -787,22 +787,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "The Desert Rose Band",
-        "url": "https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih"
-      },
-      "artists": [
-        {
-          "name": "The Desert Rose Band",
-          "url": "https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "Love Reunited",
-      "url": "https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Safe at Home",
         "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 175240,
       "name": "Luxury Liner",
       "url": "https://open.spotify.com/track/69WQgn5cXFhtwbDGBHOzxS"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "The Desert Rose Band",
+        "url": "https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih"
+      },
+      "artists": [
+        {
+          "name": "The Desert Rose Band",
+          "url": "https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "Love Reunited",
+      "url": "https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63"
     },
     {
       "added_at": "2020-08-05 15:52:11",

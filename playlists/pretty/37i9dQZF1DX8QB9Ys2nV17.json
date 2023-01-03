@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 170107,
+  "num_followers": 170097,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMGQyZThmMmM5ZDU4ZjAzZTU5NWE4Y2ZmNmJhYzY4YmJk",
+  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMGE5Y2JmMTY5ZTAzY2FkOTZkNTk4YTY5MjkzZWM2YmRh",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 223490,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Promise of a Brand New Day",
         "url": "https://open.spotify.com/album/18QNLSpGZgj4aePM9STq2q"
       },
@@ -207,22 +223,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 223490,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Things Have Changed",
         "url": "https://open.spotify.com/album/4WrWD47QXsRA5IUZAyZmue"
       },
@@ -235,6 +235,22 @@
       "duration_ms": 416560,
       "name": "Things Have Changed",
       "url": "https://open.spotify.com/track/5KPuSBrMgHRIguurOqAi6r"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 232724,
+      "name": "What's the Matter with You",
+      "url": "https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -283,22 +299,6 @@
       "duration_ms": 212903,
       "name": "Ain't Too Worried Yet",
       "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Road I Call Home",
-        "url": "https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 232724,
-      "name": "What's the Matter with You",
-      "url": "https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Fish Outta Water",
-        "url": "https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg"
-      },
-      "artists": [
-        {
-          "name": "Karen Lovely",
-          "url": "https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Fish Outta Water",
-      "url": "https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Presumed Innocent",
         "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Hannah Wicklund & The Steppin Stones",
-        "url": "https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74"
+        "name": "Fish Outta Water",
+        "url": "https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg"
       },
       "artists": [
         {
-          "name": "Hannah Wicklund",
-          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
+          "name": "Karen Lovely",
+          "url": "https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5"
         }
       ],
-      "duration_ms": 243396,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/19isNY7Hvhg0Mw7skGLHqT"
+      "duration_ms": 230533,
+      "name": "Fish Outta Water",
+      "url": "https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -443,6 +427,22 @@
       "duration_ms": 266071,
       "name": "Clotilda's On Fire",
       "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Hannah Wicklund & The Steppin Stones",
+        "url": "https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wicklund",
+          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
+        }
+      ],
+      "duration_ms": 243396,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/19isNY7Hvhg0Mw7skGLHqT"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 216171,
+      "name": "Money Makes You Ugly",
+      "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Heavy Hearts Hard Fists",
         "url": "https://open.spotify.com/album/2nZC1XpdGBiYkIG4R5ytml"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 216171,
-      "name": "Money Makes You Ugly",
-      "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Love Spin",
         "url": "https://open.spotify.com/album/0jHM5tctOO79BT3POpCSfd"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 231080,
       "name": "Life Of The Party",
       "url": "https://open.spotify.com/track/0YdyAqpiuGX1GPocApE83R"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 210989,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/1j8CRRMzesefIQaVh1y4R1"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -751,6 +735,22 @@
       "duration_ms": 435426,
       "name": "Handle Me with Care",
       "url": "https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1j8CRRMzesefIQaVh1y4R1"
     },
     {
       "added_at": "2022-03-08 14:01:09",

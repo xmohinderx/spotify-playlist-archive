@@ -4,7 +4,7 @@
 
 > Música alegre para que el trabajo se te pase volando.
 
-280 songs - 16 hr 17 min - [published](https://open.spotify.com/playlist/0X0LW6lwV1SEGovOJVY5Oo)
+281 songs - 16 hr 21 min - [published](https://open.spotify.com/playlist/0X0LW6lwV1SEGovOJVY5Oo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2022-01-10 |  |
 | [Secreto a Voces](https://open.spotify.com/track/3G4sSV2TLD2Xv15mmVyRVU) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Secreto a Voces](https://open.spotify.com/album/1J8nF5XucUMjOPxORoMmMY) | 3:27 | 2022-01-10 | 2022-07-21 |
 | [Si Me Dices Que Sí](https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Si Me Dices Que Sí](https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV) | 3:31 | 2022-01-10 |  |
-| [Si Tú La Quieres](https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Si Tú La Quieres](https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU) | 3:44 | 2022-01-10 |  |
+| [Si Tú La Quieres](https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Si Tú La Quieres](https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU) | 3:44 | 2022-01-10 | 2023-01-03 |
 | [Si tú no estas](https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 4:16 | 2022-08-08 |  |
 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 2:41 | 2022-01-10 |  |
 | [Simplemente Pasan](https://open.spotify.com/track/4RAJ1h4eqt2dHR6FyyiZLM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [¿A Dónde Vamos?](https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i) | 3:01 | 2022-01-10 |  |
@@ -271,6 +271,7 @@
 | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba) | 4:17 | 2022-01-10 | 2022-07-29 |
 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-08-08 |  |
 | [Volverá \- 2021](https://open.spotify.com/track/1t0iDaXutz0LrGzSBbWGu5) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [No, No Vuelve](https://open.spotify.com/album/5Kcur0mxf34Q4BKTdeBBQj) | 3:59 | 2022-01-10 | 2022-07-22 |
+| [Voy a pasármelo bien](https://open.spotify.com/track/78FJd3BMjDQCA1Hh2QfKqS) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Voy A Pasarmelo Bien](https://open.spotify.com/album/50XOsvW7uGrpaCtzqUm2bv) | 3:55 | 2022-08-08 |  |
 | [Vuelve, Vuelve](https://open.spotify.com/track/5EjRxRZTIpJP1nOdowCFbZ) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Vuelve, Vuelve](https://open.spotify.com/album/4xTMKZ0p01gSgO0YW5aJud) | 2:47 | 2022-01-10 | 2022-07-29 |
 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 | 2022-01-10 | 2022-08-09 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2022-01-10 | 2022-08-09 |

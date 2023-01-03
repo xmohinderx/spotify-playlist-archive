@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,857 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,863 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 33 | [The Lucky Ones](https://open.spotify.com/track/0htOaNZzBUZFd31Puajgbz) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Ice Queen](https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe) | 3:43 |
 | 34 | [Good Thing](https://open.spotify.com/track/48Ma2WkbEcsnNXqDjOkoSa) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 2:29 |
 | 35 | [Palace Of The King \- Remastered](https://open.spotify.com/track/6u71ueCmdXNGjbbAX4bkOU) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 3:40 |
-| 36 | [Good Time](https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 2:52 |
-| 37 | [Best in Town](https://open.spotify.com/track/5sPZH5scVV63witIumgJIa) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:55 |
-| 38 | [Soul Shake](https://open.spotify.com/track/3hKeRXFfnGAN80ZvZCwz01) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165), [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Stompin' Ground](https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti) | 3:59 |
-| 39 | [Shakin' Shakin' Shakes](https://open.spotify.com/track/5SjmKLwVsxEgiuWmqVBfPA) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:50 |
+| 36 | [Best in Town](https://open.spotify.com/track/5sPZH5scVV63witIumgJIa) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:55 |
+| 37 | [Soul Shake](https://open.spotify.com/track/3hKeRXFfnGAN80ZvZCwz01) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165), [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Stompin' Ground](https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti) | 3:59 |
+| 38 | [Shakin' Shakin' Shakes](https://open.spotify.com/track/5SjmKLwVsxEgiuWmqVBfPA) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:50 |
+| 39 | [Good Time](https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 2:52 |
 | 40 | [Satisfy My Soul](https://open.spotify.com/track/4c9VnYPdhCYh9kFen4mvnt) | [Cassie Taylor / Dani Wilde / Samantha Fish](https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc) | [Girls With Guitars](https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS) | 2:43 |
 | 41 | [Outlaw Angel](https://open.spotify.com/track/6sxkNpFtNuK5q8ctf626Z1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Dirty Truth](https://open.spotify.com/album/0kzodLdXKTl9mbyAr5hFXW) | 4:22 |
 | 42 | [Let The Good Time Party Begin](https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5), [Danielia Cotton](https://open.spotify.com/artist/50miJwBy3aOhmUFpyewX5t), [Sugar Blue](https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE) | [50 \- Just warming up !](https://open.spotify.com/album/25DudAOE7STeKctgnHdrvt) | 4:35 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 45 | [Mr\. Soul](https://open.spotify.com/track/5tYEt83ElN9b0GtNtlnwau) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [The Traveler](https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow) | 3:44 |
 | 46 | [Big Mama's Soul Food](https://open.spotify.com/track/0PmnHzal7bupGVxxVsWiV9) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Big Mama's Soul Food](https://open.spotify.com/album/7bxcXUEuJWhx1rot455Mlx) | 4:09 |
 | 47 | [She Got Some Money](https://open.spotify.com/track/4gyMp3SlD3xaYQoP77nlAQ) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [She Got Some Money](https://open.spotify.com/album/6dvZHqoGgZjlTnNhYRpmjc) | 3:02 |
-| 48 | [Hail Mighty Caesar](https://open.spotify.com/track/6jdEZXv8lPmCam6ENXQDZI) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [Damage Control](https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH) | 4:16 |
-| 49 | [Mr\. Loving Man](https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7) | [Cassie Taylor / Dani Wilde / Samantha Fish](https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc) | [Girls With Guitars](https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS) | 3:34 |
-| 50 | [Funky Broadway](https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [The Son Of A Bluesman](https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9) | 4:41 |
+| 48 | [Funky Broadway](https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [The Son Of A Bluesman](https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9) | 4:41 |
+| 49 | [Hail Mighty Caesar](https://open.spotify.com/track/6jdEZXv8lPmCam6ENXQDZI) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [Damage Control](https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH) | 4:16 |
+| 50 | [Mr\. Loving Man](https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7) | [Cassie Taylor / Dani Wilde / Samantha Fish](https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc) | [Girls With Guitars](https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS) | 3:34 |
 
-Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMGVhZmUxZmNjZDRiODFjNjM5YjIyNzk1ZTBhZThhNjMw`
+Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDkxNmI1MGIxZjM3OGNmMjBlYTI2MDJiODU1YmU3YmZm`

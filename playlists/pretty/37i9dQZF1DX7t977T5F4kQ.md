@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: <a href="https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI?si=i0H2aCbMQJS7HrwsS4kZWw"> Lasmid </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,967 likes - 85 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,996 likes - 85 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 45 | [My Size](https://open.spotify.com/track/2fMtRigMAdE6hXHm2WrzlQ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:45 |
 | 46 | [Labadi \(feat\. King Promise\)](https://open.spotify.com/track/25SWsMxuKg62xEMx7zb4iO) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Labadi \(feat\. King Promise\)](https://open.spotify.com/album/2JoRJuNZhren1c4hi5L8a4) | 3:18 |
 | 47 | [Yaa Asantewaa \(feat\. Frenna\)](https://open.spotify.com/track/6NGXW92wizzbj2aHI2ZpPT) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 3:12 |
-| 48 | [Slow](https://open.spotify.com/track/5e5Be8E42zERy5Y3k65wyo) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/0GNeksC7xMQxGc9z4Y6rpL) | 2:50 |
+| 48 | [Slow](https://open.spotify.com/track/6BcuM2pQGcED8ebZc5GXjO) | [Char Lay](https://open.spotify.com/artist/4kEX2XtmxJ7Cf9GafuYFR4) | [Slow](https://open.spotify.com/album/0GxXWdO5ZOmdcr3TetwGtY) | 2:50 |
 | 49 | [Friday Night](https://open.spotify.com/track/4lFOrIFSya1i1cBHMUFve8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Friday Night](https://open.spotify.com/album/1ZWld3Y1lv9rvkEivSpXMO) | 2:51 |
 | 50 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/1GjyutvlWkLC5woI2mDrgE) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 |
 | 51 | [Picture](https://open.spotify.com/track/3A2w2RbkpNnJpYUohOcOEf) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:37 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 84 | [Bunker](https://open.spotify.com/track/430qeeo39VnjbC8aXIsEbS) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Bunker](https://open.spotify.com/album/5opRh6RWjK3h9hPfcY68yn) | 2:44 |
 | 85 | [Game Over](https://open.spotify.com/track/6i6wVdyqlRmFCTkNxSzxQz) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Madina to the Universe](https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW) | 3:18 |
 
-Snapshot ID: `MTY3MTM1ODc1MSwwMDAwMDAwMDNkOWIzOTdlY2ZlMWExN2ZkZmY0YjgyYmY1ZWQ1OTIy`
+Snapshot ID: `MTY3MTM1ODc1MSwwMDAwMDAwMGU5YTUyNGY0Y2M1ZGU4MmMyMDk0ZWExMmQzYThmNTlj`

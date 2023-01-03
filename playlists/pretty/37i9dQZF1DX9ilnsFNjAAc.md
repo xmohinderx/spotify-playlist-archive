@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,513 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,531 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 28 | [Blaze Away \- Throwing Snow Remix](https://open.spotify.com/track/2Yp7Ulnqr80EqEla4GRx2G) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd), [Throwing Snow](https://open.spotify.com/artist/0Qur5LqqAVVunjY2PnjhUp) | [Blaze Away \(Throwing Snow Remix\)](https://open.spotify.com/album/2M903dUWZcuXCDxvahm07N) | 3:23 |
 | 29 | [ECSTASY OF ST\. TERESA](https://open.spotify.com/track/7GYlqodPA2sXLI11yE44NZ) | [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [FIGURE BESIDE ME](https://open.spotify.com/album/1ua3QVWei0VVsllQKUtFxB) | 6:40 |
 | 30 | [KYOKAI](https://open.spotify.com/track/7Eve0LgYwsaCKsQnRpPHzi) | [Slikback](https://open.spotify.com/artist/0NwRAG9DawUqqgur9925fA) | [Tomo](https://open.spotify.com/album/38CmagnFPEGJMwZHpjGPCr) | 2:28 |
-| 31 | [Ice Bridge](https://open.spotify.com/track/4B8HqglWbTLLs0jvQv2S9V) | [Air Max '97](https://open.spotify.com/artist/5DTUVDQxl5fDiY2plzFP9R) | [Ice Bridge](https://open.spotify.com/album/5krCbpOUzawFzyze0yfYuN) | 4:55 |
+| 31 | [Ice Bridge](https://open.spotify.com/track/36RgzPOiQDMKrflKdo2tRN) | [Air Max '97](https://open.spotify.com/artist/5DTUVDQxl5fDiY2plzFP9R) | [Ice Bridge](https://open.spotify.com/album/2lgiqx50EYIRzR2mkzXvtI) | 4:55 |
 | 32 | [Closed Curve](https://open.spotify.com/track/3tXMsUB2y34fg0FHvI4XJj) | [Rian Treanor](https://open.spotify.com/artist/6un6trkuuP46AZM0kkY8Yx) | [File Under UK Metaplasm](https://open.spotify.com/album/1GOCqu141EPdI8yiwfSBSY) | 5:09 |
 | 33 | [Anxiety](https://open.spotify.com/track/55EUSGKBeZSHmy53mRKk2k) | [Leila Samir](https://open.spotify.com/artist/3SEWWBoysH0FKZ7KROMAaG) | [No Music](https://open.spotify.com/album/7v3Pl4Bak76OUNIQdwTe0Q) | 4:16 |
 | 34 | [Groan](https://open.spotify.com/track/3DoCZ2f1fP4AU40pAjPonj) | [Zaliva\-D](https://open.spotify.com/artist/28wvoKGy5TxdUPxZVNzygo) | [Calling](https://open.spotify.com/album/4bGFKMAoLAdxxTaLFOM1Y4) | 4:38 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 59 | [Harbinger](https://open.spotify.com/track/3smLcr5e84zq10h2LXByED) | [Alec Ness](https://open.spotify.com/artist/3qIOkb1528LbR4UIwJefsr) | [Temporary Awareness of Passing](https://open.spotify.com/album/1Or89jf0Su8WpBINgkvVLI) | 3:07 |
 | 60 | [Alucard](https://open.spotify.com/track/2ibgB5zU0EGIh1x7JM8AMD) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [Alucard](https://open.spotify.com/album/0KlEXfI6QhODTsxKdSjrl4) | 5:12 |
 
-Snapshot ID: `MTYxMzc1Nzc2MCwwMDAwMDAwMDRhNTA3NjhhNzQwN2E4NDkxZGQ5NzM3MThhODU1M2Y2`
+Snapshot ID: `MTYxMzc1Nzc2MCwwMDAwMDAwMDgzMGRhNWM4MTUwOWQzNGMzZjAzZjZmNzAzZmI4OWUy`

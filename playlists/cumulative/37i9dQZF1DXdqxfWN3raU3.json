@@ -1653,7 +1653,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 210560,
       "name": "la que calla",
       "url": "https://open.spotify.com/track/1MxFX1v93jngElLiOqpdJx"
@@ -3042,6 +3042,24 @@
     },
     {
       "album": {
+        "name": "Tengo sue\u00f1o y la noche est\u00e1 fr\u00eda",
+        "url": "https://open.spotify.com/album/4TdmtENPdGoimxsJv4kAoB"
+      },
+      "artists": [
+        {
+          "name": "Miki Deb",
+          "url": "https://open.spotify.com/artist/7zfbfOUFubSgFCZt4aCJVY"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207647,
+      "name": "Tengo sue\u00f1o y la noche est\u00e1 fr\u00eda",
+      "url": "https://open.spotify.com/track/20VsB53FK4Pz97E64fatIo"
+    },
+    {
+      "album": {
         "name": "Terminamos",
         "url": "https://open.spotify.com/album/1TIbf6LcBe262eVSsJWLQu"
       },
@@ -3075,7 +3093,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 207000,
       "name": "Terremoto",
       "url": "https://open.spotify.com/track/3AbJALTHShkODDRfL5BH8p"
@@ -3261,6 +3279,24 @@
       "duration_ms": 215093,
       "name": "Verte",
       "url": "https://open.spotify.com/track/58eWb1SrncuILvCQgSrQPl"
+    },
+    {
+      "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153132,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
     },
     {
       "album": {

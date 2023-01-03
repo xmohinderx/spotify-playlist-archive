@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,730 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,149 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 11 | [Summer Of '69 \- MTV Unplugged Version](https://open.spotify.com/track/1OQpTtcuAauAqp5Okxtbs2) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [MTV Unplugged](https://open.spotify.com/album/081klksuaEwHIzuHGCks5p) | 4:01 |
 | 12 | [How to Save a Life \- Live in NYC \- 2009](https://open.spotify.com/track/3OPVsn0Dk3s8vWhXxnK35p) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Live From Soho](https://open.spotify.com/album/0abkVfZF9JpWbHA1Cm2Jgq) | 4:50 |
 | 13 | [Ghost \- Acoustic](https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Ghost](https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX) | 4:29 |
-| 14 | [Bad Life \- acoustic](https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life \(acoustic\)](https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI) | 3:40 |
-| 15 | [Scars \- Acoustic Version](https://open.spotify.com/track/0xIIXygHdt17X6HtObqK7M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Scars](https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D) | 3:11 |
+| 14 | [Scars \- Acoustic Version](https://open.spotify.com/track/0xIIXygHdt17X6HtObqK7M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Scars](https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D) | 3:11 |
+| 15 | [Bad Life \- acoustic](https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life \(acoustic\)](https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI) | 3:40 |
 | 16 | [1979 \- Acoustic](https://open.spotify.com/track/1hUD0aBTicbHb5G3p5P79e) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Aeroplane Flies High \(Deluxe Edition\)](https://open.spotify.com/album/5y5Qnze6BJUbON6FxndO9c) | 4:12 |
 | 17 | [The Middle \- Acoustic Version](https://open.spotify.com/track/7HJmJYQqBq2tn7RleFlun5) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8) | 3:10 |
 | 18 | [Tears Don't Fall \- Acoustic Version](https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 4:37 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 39 | [I Sat by the Ocean \- Live Acoustic](https://open.spotify.com/track/7mGAH8wfCljwG0tBi9WMGJ) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Cologne \(Spotify Exclusive\)](https://open.spotify.com/album/4emoC6C9fCDkWPdTuxN9an) | 4:35 |
 | 40 | [Bored To Death \(Acoustic\)](https://open.spotify.com/track/2hQRxgtDliE6eD7NmEfpuD) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0jLf8ecN5HjstQqPAjJlsS) | 3:55 |
 | 41 | [Kill The Noise \- Acoustic](https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise \(Acoustic\)](https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI) | 2:41 |
-| 42 | [Shooting Stars \- in the Woods](https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Shooting Stars \(in the Woods\)](https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1) | 4:23 |
-| 43 | [Something Human \(Acoustic\)](https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 |
-| 44 | [Island in the Sun \- Live from Spotify NYC](https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Spotify Sessions](https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T) | 3:44 |
-| 45 | [Bite Me \- Acoustic](https://open.spotify.com/track/0tooLMhjLCJ4Cmb8cDdraJ) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 3:09 |
+| 42 | [Bite Me \- Acoustic](https://open.spotify.com/track/0tooLMhjLCJ4Cmb8cDdraJ) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 3:09 |
+| 43 | [Shooting Stars \- in the Woods](https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Shooting Stars \(in the Woods\)](https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1) | 4:23 |
+| 44 | [Something Human \(Acoustic\)](https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 |
+| 45 | [Island in the Sun \- Live from Spotify NYC](https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Spotify Sessions](https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T) | 3:44 |
 | 46 | [7 \- Acoustic](https://open.spotify.com/track/2Nz14MtLy82a3togG2EI8l) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [7 \(Acoustic\)](https://open.spotify.com/album/6IKwv5Fu9q2xAwAIKDlakX) | 4:12 |
 | 47 | [Ana's Song \(Open Fire\) \- Acoustic Re\-Mix](https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 3:50 |
 | 48 | [Walk On Water \- Acoustic](https://open.spotify.com/track/4sNbnjnqIKkT16XuUtwU88) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Walk On Water \(Acoustic\)](https://open.spotify.com/album/6AYKHtLtX2M9WnHcM2s142) | 3:08 |
 | 49 | [Space \- Acoustic Version](https://open.spotify.com/track/63z4jrxNSqlNkYPzGzY3Od) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Space \(Orchestral Version\)](https://open.spotify.com/album/620D8EVhCCJFc0Qif0uHnd) | 4:05 |
 | 50 | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/track/2l2i0FeYCBkK0OdPMuBGeW) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Teenage Dirtbag 2020 / Mope](https://open.spotify.com/album/0lCvikSjJ1QwvHRTfDEs16) | 4:32 |
 
-Snapshot ID: `MTY3MDg0MzI0NiwwMDAwMDAwMDBjNmE1MmIyZDc5Nzg2MThhYTUwMzI0NTc0Njc0Nzc1`
+Snapshot ID: `MTY3MDg0MzI0NiwwMDAwMDAwMGVlYTYwZjg1MjI1N2I4Mzk2ODE3Y2VmMmM3NzY1ZTZi`

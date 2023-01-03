@@ -4,7 +4,7 @@
 
 > Where everything is lovely and snuggly <3
 
-211 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/3OzAg60NrwMQPfMtLjUuRG)
+212 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/3OzAg60NrwMQPfMtLjUuRG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Easily](https://open.spotify.com/track/2k9N4caeCIJLOWwWwssrEM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx) | 3:30 | 2021-10-18 | 2022-02-26 |
 | [either side](https://open.spotify.com/track/5zsbL78TMgXh1vzt77h5pl) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:47 | 2022-10-07 |  |
 | [either side](https://open.spotify.com/track/6ktq7bBlxFi3aPexm5N31m) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [either side](https://open.spotify.com/album/7EcfkZxkjFLn0FASWQmFkX) | 2:47 | 2021-10-18 | 2022-10-13 |
-| [Everything Is Just a Mess](https://open.spotify.com/track/61wUA5kA0F88dsakAPSjPg) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH) | 4:43 | 2021-10-18 |  |
+| [Everything Is Just a Mess](https://open.spotify.com/track/1RsKWNZJOBfOsVSeDIogpB) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o) | 4:43 | 2022-10-07 |  |
+| [Everything Is Just a Mess](https://open.spotify.com/track/61wUA5kA0F88dsakAPSjPg) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH) | 4:43 | 2021-10-18 | 2023-01-03 |
 | [Fall, Fall, Fall](https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Fall, Fall, Fall](https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY) | 4:41 | 2021-10-18 |  |
 | [Far Out](https://open.spotify.com/track/3FBisbTYZcpmPPAjnXE7w9) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:18 | 2022-04-27 |  |
 | [Far Out](https://open.spotify.com/track/6H6NrMPFl4HC7Pz9bSVmTZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Far Out / Follies Fixture](https://open.spotify.com/album/2LONjruohqPKqKsMVwChw8) | 4:18 | 2021-10-18 | 2022-07-29 |

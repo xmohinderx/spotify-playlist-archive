@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: iri
 
-983 songs - 2 day 16 hr 33 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+984 songs - 2 day 16 hr 37 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Roll](https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/6iIVpIxJXZy6ZQixh46N3F) | 3:35 | 2022-12-20 |  |
 | [Rooftop Rhapsody](https://open.spotify.com/track/7fkcgIVRFJHYJeir9e8e7p) | [TWEEDEES](https://open.spotify.com/artist/1LlXc0olPO5z5GbX61yK3C) | [Rooftop Rhapsody](https://open.spotify.com/album/0SEeaTLdugL0UPr46I7RXl) | 3:27 | 2022-09-13 | 2022-09-21 |
 | [Room Tour](https://open.spotify.com/track/6LHIN6rig6gAsikFBwpWfe) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [Room Tour](https://open.spotify.com/album/2FHpkkHWUQAPMl9Vqwpmi0) | 4:25 | 2022-06-21 | 2022-07-20 |
+| [rubble pile](https://open.spotify.com/track/0kQrcW11G95tsTtR9JvFve) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/1YSluMFx67PoAuWIMAEXEh) | 3:58 | 2022-12-27 |  |
 | [S.S.S.](https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [S.S.S.](https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X) | 3:21 | 2022-08-02 | 2022-10-26 |
 | [Sailing](https://open.spotify.com/track/5bkb0z3NyoyOokKRrsIsua) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Sailing](https://open.spotify.com/album/1aiaI6bjMi0gOEBPzS9yCl) | 5:49 | 2022-06-02 | 2022-07-27 |
 | [Satsuki](https://open.spotify.com/track/2tiex0oWYiAR9UWZ9SlFW3) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [My First Love is Crying](https://open.spotify.com/album/5ojxoUisAMA5Mon0amRHCE) | 4:30 | 2022-07-14 | 2022-07-20 |
@@ -950,7 +951,7 @@
 | [袖のキルト](https://open.spotify.com/track/7iDC1sNnfChQhMmdBuZmBA) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [袖のキルト](https://open.spotify.com/album/2CnTOCTNSyJmZd1DXHVsFT) | 4:15 | 2022-05-29 | 2022-12-20 |
 | [貴方に会いたいのに](https://open.spotify.com/track/5kgk5e6TUEaBfzjL94gjVw) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [貴方に会いたいのに](https://open.spotify.com/album/7h7zICpmhMCrMXHtFmfgTa) | 5:13 | 2022-08-23 | 2022-09-07 |
 | [超天獄](https://open.spotify.com/track/0rT5dClklXHjNPKFy970ZV) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [超天獄](https://open.spotify.com/album/1bQdf81b8Akd262qhyd1xo) | 4:29 | 2022-10-11 | 2022-10-19 |
-| [超最悪](https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [超最悪](https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK) | 2:58 | 2022-11-29 |  |
+| [超最悪](https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [超最悪](https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK) | 2:58 | 2022-11-29 | 2023-01-03 |
 | [踊る踊る夜](https://open.spotify.com/track/4zGteIpeyU3LFtvUuQAY7Q) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [踊る踊る夜](https://open.spotify.com/album/1mOqAXdQyRDzNdYmVL92nD) | 2:57 | 2022-05-31 | 2022-07-28 |
 | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv) | 3:29 | 2022-05-31 | 2022-09-30 |
 | [運命の扉](https://open.spotify.com/track/5sDht7s7Rwc5lD4yYtAIyZ) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [駆け引きはポーカーフェイス](https://open.spotify.com/album/0f2Tz7GgmTmUM4UbYpiDYc) | 4:21 | 2022-07-19 | 2022-07-27 |

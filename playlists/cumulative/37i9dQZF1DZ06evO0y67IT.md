@@ -4,7 +4,7 @@
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 56 min - not published yet
+52 songs - 2 hr 59 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Hate](https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hate](https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh) | 2:43 | 2022-10-25 |  |
 | [Hollywood & Vine](https://open.spotify.com/track/0jK7tJvPWzdG73hnSnQweF) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 2:46 | 2022-10-25 |  |
 | [Holy Coast](https://open.spotify.com/track/2NsP4tsec1tjWENKlbDqtg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Rain Just Follows Me](https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz) | 3:42 | 2022-10-25 |  |
+| [Hurt](https://open.spotify.com/track/0sFUZ7Hklg97I0l7MTGbD0) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 3:36 | 2023-01-02 |  |
 | [Inside Out](https://open.spotify.com/track/2g3HARlhrIwTiVvfRWOkSb) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dead Formats, Vol\. 1](https://open.spotify.com/album/6a5P9JdN8QpJr1TuK3JPSn) | 3:25 | 2022-10-25 |  |
 | [Just Another Ghost](https://open.spotify.com/track/7IKDhmw11hdjJf25Ogj3Yp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 3:05 | 2022-10-25 |  |
 | [Life On Standby](https://open.spotify.com/track/0Cp4EGSI11ePgUD3qpt5Nn) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:11 | 2022-10-25 |  |
@@ -46,7 +47,7 @@
 | [Somewhere In Between](https://open.spotify.com/track/0UbQ3KnwzzQ8uAvRA81cEp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:21 | 2022-10-25 |  |
 | [Spark](https://open.spotify.com/track/0B1DLVAVc2yM9IXJS2vy7G) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Zero](https://open.spotify.com/album/4P4KShJRERTru62QQ8WnO6) | 3:39 | 2022-10-25 |  |
 | [Spray Paint It Black](https://open.spotify.com/track/06HjfFHz0JKJ1df22AOXvi) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Anthony Raneri](https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj) | [The Rain Just Follows Me](https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz) | 3:18 | 2022-10-25 |  |
-| [Starlighter \(Echo, Utah\)](https://open.spotify.com/track/6nGB0sJyx9bMPMmuVQBSPc) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 3:18 | 2022-12-26 |  |
+| [Starlighter \(Echo, Utah\)](https://open.spotify.com/track/6nGB0sJyx9bMPMmuVQBSPc) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 3:18 | 2022-12-26 | 2023-01-03 |
 | [Tail Lights](https://open.spotify.com/track/1wLyxJA73dEPitzJFtY0pd) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 3:21 | 2022-10-25 |  |
 | [The Business Of Paper Stars](https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:46 | 2022-10-25 |  |
 | [The Darkest Times](https://open.spotify.com/track/2ibiou9bHgZpv03Qe3Fjzh) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 3:40 | 2022-10-25 |  |

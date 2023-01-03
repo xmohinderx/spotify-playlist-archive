@@ -2354,6 +2354,24 @@
     },
     {
       "album": {
+        "name": "PULL UP",
+        "url": "https://open.spotify.com/album/2qxFZtfoMurigQtO5LElI1"
+      },
+      "artists": [
+        {
+          "name": "ANGELPLAYA",
+          "url": "https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122487,
+      "name": "PULL UP",
+      "url": "https://open.spotify.com/track/1BS10ZqOZDyY4D2JxPO2AL"
+    },
+    {
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/0f9uwxp1EHKSRyijI0dDLW"
       },

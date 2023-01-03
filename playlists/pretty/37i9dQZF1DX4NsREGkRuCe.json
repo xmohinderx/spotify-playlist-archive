@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 29849,
+  "num_followers": 29923,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTM1NzkxMSwwMDAwMDAwMGJkNTBjYjE5YjUxNTQ1YTY4ZmI5Y2UzZjEwNTg0M2Y4",
+  "snapshot_id": "MTY3MTM1NzkxMSwwMDAwMDAwMGJjMmQyMGFkMGRiNDdhYWY3NjM5ODYyZTUwNWU2MWVh",
   "tracks": [
     {
       "added_at": "2022-06-16 23:00:00",
@@ -353,6 +353,22 @@
       "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
     },
     {
+      "added_at": "2022-07-25 06:09:32",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 216991,
+      "name": "It's Plenty",
+      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
+    },
+    {
       "added_at": "2022-06-08 08:18:16",
       "album": {
         "name": "Sad Romance",
@@ -367,26 +383,6 @@
       "duration_ms": 166642,
       "name": "emiliana",
       "url": "https://open.spotify.com/track/6cWath96kzfqITDd6S0El8"
-    },
-    {
-      "added_at": "2022-07-13 06:25:18",
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Soweto",
-      "url": "https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5"
     },
     {
       "added_at": "2022-11-15 09:04:57",
@@ -437,20 +433,24 @@
       "url": "https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z"
     },
     {
-      "added_at": "2022-07-25 06:09:32",
+      "added_at": "2022-07-13 06:25:18",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
         }
       ],
-      "duration_ms": 216991,
-      "name": "It's Plenty",
-      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
+      "duration_ms": 148000,
+      "name": "Soweto",
+      "url": "https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5"
     },
     {
       "added_at": "2022-09-09 09:16:27",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
     },
     {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "i'm a mess",
-      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
-    },
-    {
       "added_at": "2022-06-08 08:18:16",
       "album": {
         "name": "LV N ATTN",
@@ -655,6 +639,22 @@
       "duration_ms": 213991,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
+    },
+    {
+      "added_at": "2022-11-18 11:42:22",
+      "album": {
+        "name": "Asiwaju",
+        "url": "https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Asiwaju",
+      "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
     },
     {
       "added_at": "2022-08-18 23:00:00",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
-      "added_at": "2022-11-18 11:42:22",
-      "album": {
-        "name": "Asiwaju",
-        "url": "https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Asiwaju",
-      "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
-    },
-    {
       "added_at": "2022-06-08 08:18:16",
       "album": {
         "name": "Omo Ope",
@@ -731,6 +715,22 @@
       "duration_ms": 166153,
       "name": "Omo Ope (feat. Olamide)",
       "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
+    },
+    {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
     },
     {
       "added_at": "2022-09-19 07:21:02",
@@ -841,6 +841,22 @@
       "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 183056,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
+    },
+    {
       "added_at": "2022-10-21 06:05:43",
       "album": {
         "name": "19 & Dangerous (Deluxe)",
@@ -861,22 +877,6 @@
       "url": "https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH"
     },
     {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 183056,
-      "name": "soso",
-      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
-    },
-    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "Ijo (Laba Laba)",
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
     },
     {
-      "added_at": "2022-06-08 08:18:16",
-      "album": {
-        "name": "The Second Wave",
-        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 220525,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6"
-    },
-    {
       "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Ego",
@@ -923,6 +907,22 @@
       "duration_ms": 156080,
       "name": "Ego",
       "url": "https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc"
+    },
+    {
+      "added_at": "2022-06-08 08:18:16",
+      "album": {
+        "name": "The Second Wave",
+        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 220525,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6"
     },
     {
       "added_at": "2022-06-08 08:18:16",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-06-08 08:18:16",
       "album": {
-        "name": "Barnabas",
-        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 146399,
-      "name": "Pour Me Water",
-      "url": "https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0"
-    },
-    {
-      "added_at": "2022-06-08 08:18:16",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 168742,
       "name": "woman",
       "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+    },
+    {
+      "added_at": "2022-06-08 08:18:16",
+      "album": {
+        "name": "Barnabas",
+        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 146399,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0"
     },
     {
       "added_at": "2022-07-22 04:28:03",
@@ -1057,30 +1057,6 @@
       "url": "https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr"
     },
     {
-      "added_at": "2022-08-05 07:32:43",
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 232155,
-      "name": "Diana",
-      "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
-    },
-    {
       "added_at": "2022-06-08 08:18:16",
       "album": {
         "name": "Sungba (Remix) [feat. Burna Boy]",
@@ -1099,6 +1075,34 @@
       "duration_ms": 210000,
       "name": "Sungba (feat. Burna Boy) - Remix",
       "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
+    },
+    {
+      "added_at": "2022-06-08 08:18:16",
+      "album": {
+        "name": "Sugarcane (Remix)",
+        "url": "https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 251147,
+      "name": "Sugarcane - Remix",
+      "url": "https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2"
     },
     {
       "added_at": "2022-09-23 06:29:24",
@@ -1125,6 +1129,30 @@
       "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
     },
     {
+      "added_at": "2022-08-05 07:32:43",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 232155,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
+    },
+    {
       "added_at": "2022-06-08 08:18:16",
       "album": {
         "name": "Want It All (feat. Polo G)",
@@ -1143,6 +1171,22 @@
       "duration_ms": 232500,
       "name": "Want It All (feat. Polo G)",
       "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+    },
+    {
+      "added_at": "2022-06-08 08:18:16",
+      "album": {
+        "name": "Barnabas",
+        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Eh God (Barnabas)",
+      "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
     },
     {
       "added_at": "2022-11-15 09:04:57",
@@ -1189,50 +1233,6 @@
       "url": "https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A"
     },
     {
-      "added_at": "2022-06-08 08:18:16",
-      "album": {
-        "name": "Sugarcane (Remix)",
-        "url": "https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 251147,
-      "name": "Sugarcane - Remix",
-      "url": "https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2"
-    },
-    {
-      "added_at": "2022-06-08 08:18:16",
-      "album": {
-        "name": "Barnabas",
-        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Eh God (Barnabas)",
-      "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
-    },
-    {
       "added_at": "2022-07-04 07:22:02",
       "album": {
         "name": "The Second Wave Deluxe",
@@ -1247,22 +1247,6 @@
       "duration_ms": 173617,
       "name": "WeWe",
       "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
-    },
-    {
-      "added_at": "2022-06-08 08:18:16",
-      "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 151640,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
     },
     {
       "added_at": "2022-06-08 08:18:16",
@@ -1319,6 +1303,38 @@
     {
       "added_at": "2022-06-08 08:18:16",
       "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 151640,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
+    },
+    {
+      "added_at": "2023-01-03 02:06:29",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 143452,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
+    },
+    {
+      "added_at": "2022-06-08 08:18:16",
+      "album": {
         "name": "Crazy Tings",
         "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
       },
@@ -1333,20 +1349,24 @@
       "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     },
     {
-      "added_at": "2023-01-02 01:17:24",
+      "added_at": "2022-06-08 08:18:16",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
+        "name": "Barnabas",
+        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
       },
       "artists": [
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
         }
       ],
-      "duration_ms": 143452,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
+      "duration_ms": 158399,
+      "name": "Oshe (feat. The Cavemen.)",
+      "url": "https://open.spotify.com/track/4upQnh3K5k1xbVOr97fdG7"
     },
     {
       "added_at": "2022-06-08 08:18:16",
@@ -1383,26 +1403,6 @@
       "duration_ms": 177000,
       "name": "Fashion Killer",
       "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
-    },
-    {
-      "added_at": "2022-06-08 08:18:16",
-      "album": {
-        "name": "Barnabas",
-        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 158399,
-      "name": "Oshe (feat. The Cavemen.)",
-      "url": "https://open.spotify.com/track/4upQnh3K5k1xbVOr97fdG7"
     },
     {
       "added_at": "2022-06-08 08:18:16",
@@ -1461,42 +1461,6 @@
       "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
     },
     {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "How Are You (My Friend)",
-        "url": "https://open.spotify.com/album/2h9jc7KGoE0qDayuf6o7pq"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "How Are You (My Friend)",
-      "url": "https://open.spotify.com/track/2QdqML21AFaQPWxmhuv1KW"
-    },
-    {
-      "added_at": "2022-06-08 08:18:16",
-      "album": {
-        "name": "Always (feat. Black Sherif)",
-        "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 154957,
-      "name": "Always (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
-    },
-    {
       "added_at": "2022-06-08 08:18:16",
       "album": {
         "name": "Loving You",
@@ -1511,6 +1475,38 @@
       "duration_ms": 125030,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj"
+    },
+    {
+      "added_at": "2022-06-08 08:18:16",
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Kolomental",
+      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "How Are You (My Friend)",
+        "url": "https://open.spotify.com/album/2h9jc7KGoE0qDayuf6o7pq"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "How Are You (My Friend)",
+      "url": "https://open.spotify.com/track/2QdqML21AFaQPWxmhuv1KW"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

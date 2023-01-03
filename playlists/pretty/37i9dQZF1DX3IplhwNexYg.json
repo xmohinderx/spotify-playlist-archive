@@ -1,15 +1,15 @@
 {
   "description": "The best in current indie rock. Cover: Nil\u00fcfer Yanya",
-  "num_followers": 110691,
+  "num_followers": 110677,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTcxODA5MiwwMDAwMDAwMDlmYjAxODNmMzk0ZjZiNzhjNzJhMmIwMzdiOTlkMTEy",
+  "snapshot_id": "MTY3MTcxODA5MiwwMDAwMDAwMGFjMzQ3MDUxNjhiNmIxNjg1OGM1OWJhYzk4MDg4MTM4",
   "tracks": [
     {
-      "added_at": "2023-01-02 01:16:52",
+      "added_at": "2023-01-03 02:05:07",
       "album": {
         "name": "PAINLESS (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4Vj636uY4zVju5d3NWc9jP"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8"
     },
     {
-      "added_at": "2023-01-02 01:16:52",
+      "added_at": "2023-01-03 02:05:07",
       "album": {
         "name": "Someone2Me",
         "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "SCARING ME",
-      "url": "https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Kool Aid",
         "url": "https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 216665,
       "name": "Kool Aid",
       "url": "https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "SCARING ME",
+      "url": "https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
         "name": "I've Never Been To LA",
         "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 159129,
       "name": "I've Never Been To LA (Edit)",
       "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv"
-      },
-      "artists": [
-        {
-          "name": "Bad Nerves",
-          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Break!",
         "url": "https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 137000,
       "name": "Thick of the Honey",
       "url": "https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv"
+      },
+      "artists": [
+        {
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Miss Power",
-        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
-      },
-      "artists": [
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 137840,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Follow You Down",
         "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 136435,
       "name": "Follow You Down",
       "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Miss Power",
+        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
+      },
+      "artists": [
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 137840,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "HAPPY",
-        "url": "https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie"
-      },
-      "artists": [
-        {
-          "name": "Sl\u00f8tface",
-          "url": "https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh"
-        }
-      ],
-      "duration_ms": 147378,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "ILY2",
         "url": "https://open.spotify.com/album/5Z465xB0bAwR9qyhWEtE7k"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 225278,
       "name": "ILY2",
       "url": "https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "HAPPY",
+        "url": "https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie"
+      },
+      "artists": [
+        {
+          "name": "Sl\u00f8tface",
+          "url": "https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh"
+        }
+      ],
+      "duration_ms": 147378,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Only Good Things",
-        "url": "https://open.spotify.com/album/0BpLn2166vvfF8ZTU8igCt"
-      },
-      "artists": [
-        {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
-        }
-      ],
-      "duration_ms": 195430,
-      "name": "Only Good Things",
-      "url": "https://open.spotify.com/track/4jAuXYgRTt64vVRFQnHuzt"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Blu Shirt Boy",
         "url": "https://open.spotify.com/album/05VXMRVwjCX9ML4llr0AJa"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 223703,
       "name": "Blu Shirt Boy",
       "url": "https://open.spotify.com/track/1BdT5rKfpJtJ2t9hlPsgB3"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Only Good Things",
+        "url": "https://open.spotify.com/album/0BpLn2166vvfF8ZTU8igCt"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "duration_ms": 195430,
+      "name": "Only Good Things",
+      "url": "https://open.spotify.com/track/4jAuXYgRTt64vVRFQnHuzt"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Bleak Sublime",
-        "url": "https://open.spotify.com/album/2GJx1j54AfcuG0eG6ENdH2"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Esau",
-          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
-        }
-      ],
-      "duration_ms": 231722,
-      "name": "Bleak Sublime",
-      "url": "https://open.spotify.com/track/2Fc0Dt76yZv3hJcBs4rl5Z"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 143322,
       "name": "Anything",
       "url": "https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Bleak Sublime",
+        "url": "https://open.spotify.com/album/2GJx1j54AfcuG0eG6ENdH2"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "duration_ms": 231722,
+      "name": "Bleak Sublime",
+      "url": "https://open.spotify.com/track/2Fc0Dt76yZv3hJcBs4rl5Z"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "At Least I'm Free",
-        "url": "https://open.spotify.com/album/3Clv75P0Uv9MDbHofO66VP"
-      },
-      "artists": [
-        {
-          "name": "WAAX",
-          "url": "https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi"
-        }
-      ],
-      "duration_ms": 216613,
-      "name": "Read Receipts",
-      "url": "https://open.spotify.com/track/20AN26EiRdg6MUk5YeTaun"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Never Good Enough",
         "url": "https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 227115,
       "name": "Never Good Enough",
       "url": "https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "At Least I'm Free",
+        "url": "https://open.spotify.com/album/3Clv75P0Uv9MDbHofO66VP"
+      },
+      "artists": [
+        {
+          "name": "WAAX",
+          "url": "https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "Read Receipts",
+      "url": "https://open.spotify.com/track/20AN26EiRdg6MUk5YeTaun"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Green Dream in F#",
-        "url": "https://open.spotify.com/album/3FsVZD0eyVFDemLLWcR8rq"
-      },
-      "artists": [
-        {
-          "name": "The Bug Club",
-          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
-        }
-      ],
-      "duration_ms": 125733,
-      "name": "Love For Two",
-      "url": "https://open.spotify.com/track/4h0yZCpf4CunKMi06y8kqZ"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "World Below",
         "url": "https://open.spotify.com/album/0rxXVzueM7PnAjecoPYg2i"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 174800,
       "name": "I Feel So Cold But It's Warm Outside",
       "url": "https://open.spotify.com/track/7jAQxWVBVAuKmVjlERODpc"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Green Dream in F#",
+        "url": "https://open.spotify.com/album/3FsVZD0eyVFDemLLWcR8rq"
+      },
+      "artists": [
+        {
+          "name": "The Bug Club",
+          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
+        }
+      ],
+      "duration_ms": 125733,
+      "name": "Love For Two",
+      "url": "https://open.spotify.com/track/4h0yZCpf4CunKMi06y8kqZ"
     }
   ],
   "unique_name": "pulp",

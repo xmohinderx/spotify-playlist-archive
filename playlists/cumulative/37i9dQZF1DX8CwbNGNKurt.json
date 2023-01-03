@@ -780,6 +780,28 @@
     },
     {
       "album": {
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292373,
+      "name": "Fergalicious",
+      "url": "https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp"
+    },
+    {
+      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/33YSJfsBkjN3yqcq18bdRi"
       },
@@ -1783,7 +1805,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 249466,
       "name": "P.I.M.P.",
       "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"

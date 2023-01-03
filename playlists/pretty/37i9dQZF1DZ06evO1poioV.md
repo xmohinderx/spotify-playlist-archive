@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 
 > This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,683 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,745 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 14 | [Carried Me With You](https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Onward \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst) | 3:33 |
 | 15 | [Angel From Montgomery](https://open.spotify.com/track/3JZRzBdRPCo2j8hXKGK0vZ) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Cayamo Sessions At Sea](https://open.spotify.com/album/4JbbKkl47kk0jNHWFWUjtF) | 4:47 |
 | 16 | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9) | 4:30 |
-| 17 | [Water Witch](https://open.spotify.com/track/7MW0vSCN9g2T5eConVGEsO) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Saturn Return](https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA) | 3:27 |
-| 18 | [The Eye](https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Firewatcher's Daughter](https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB) | 3:31 |
+| 17 | [The Eye](https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Firewatcher's Daughter](https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB) | 3:31 |
+| 18 | [Water Witch](https://open.spotify.com/track/7MW0vSCN9g2T5eConVGEsO) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Saturn Return](https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA) | 3:27 |
 | 19 | [The Mother](https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:16 |
 | 20 | [Mama Werewolf](https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:41 |
 | 21 | [Raise Hell](https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 49 | [Heaven](https://open.spotify.com/track/6nddAZdwg0qKNTce8WzzgQ) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [XOBC](https://open.spotify.com/album/2dUNitZMCbMgbBjlal2xBp) | 3:29 |
 | 50 | [Cleanup Hitter](https://open.spotify.com/track/0RQT5rs8uElx7yrvhj6GMU) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Busted Jukebox Volume 2](https://open.spotify.com/album/4cJyMkeK2D0fRaFZXFGK14) | 3:53 |
 
-Snapshot ID: `Mjc4NzYzNDMsMDAwMDAwMDA5Y2I0ODVkYjc2NWQwZTI3MjhkZTYxYzJjYjIxNzNhOA==`
+Snapshot ID: `Mjc4Nzc3NTksMDAwMDAwMDA2Yzc4ZjViNjE5NmI1ZjhmMDcwODEyNjE2ZGJmZmI0NA==`

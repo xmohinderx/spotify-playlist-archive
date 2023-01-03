@@ -1,53 +1,13 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 237417,
+  "num_followers": 237413,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE5NjAxMCwwMDAwMDAwMDlkYTI5NWI0NjYyMjkzOWZmNGFlYzA5NzU0N2Q5ZTU4",
+  "snapshot_id": "MTY3MTE5NjAxMCwwMDAwMDAwMDFjMDYyMTRkNmExM2YyNWM4MmZlYzQwYTE3NzNiOTNh",
   "tracks": [
-    {
-      "added_at": "2023-01-02 00:54:39",
-      "album": {
-        "name": "Kind Reminder",
-        "url": "https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc"
-      },
-      "artists": [
-        {
-          "name": "Pr\u00f3xima Parada",
-          "url": "https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz"
-        }
-      ],
-      "duration_ms": 220096,
-      "name": "Musta Been a Ghost",
-      "url": "https://open.spotify.com/track/0AZTpwagcDe4nH0mPcnYhS"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
-        "name": "Schvitz",
-        "url": "https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        },
-        {
-          "name": "Vulf",
-          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
-        },
-        {
-          "name": "Vulfmon",
-          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
-        }
-      ],
-      "duration_ms": 144588,
-      "name": "Earworm",
-      "url": "https://open.spotify.com/track/3cc1BbtqEBbmBvXcmqdwBa"
-    },
     {
       "added_at": "2022-04-15 04:02:00",
       "album": {
@@ -173,6 +133,22 @@
       "url": "https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE"
     },
     {
+      "added_at": "2023-01-03 02:20:36",
+      "album": {
+        "name": "Kind Reminder",
+        "url": "https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00f3xima Parada",
+          "url": "https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz"
+        }
+      ],
+      "duration_ms": 220096,
+      "name": "Musta Been a Ghost",
+      "url": "https://open.spotify.com/track/0AZTpwagcDe4nH0mPcnYhS"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "I Can't Help But Feel",
@@ -187,46 +163,6 @@
       "duration_ms": 178780,
       "name": "I Can't Help But Feel",
       "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Weekend Lover",
-        "url": "https://open.spotify.com/album/7tRmWRv8UUj1yY7erZmhds"
-      },
-      "artists": [
-        {
-          "name": "Nico Santos",
-          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
-        }
-      ],
-      "duration_ms": 186080,
-      "name": "Weekend Lover",
-      "url": "https://open.spotify.com/track/6rNV70K6yK3qd19aNYtf8E"
-    },
-    {
-      "added_at": "2021-08-06 04:01:00",
-      "album": {
-        "name": "Groove Continental: Side A",
-        "url": "https://open.spotify.com/album/4f4Mgrjdn7P6SoSLV6SWHI"
-      },
-      "artists": [
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        },
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 176293,
-      "name": "Silver and Gold (feat. Sam Fischer & Pink Sweat$)",
-      "url": "https://open.spotify.com/track/14NGdYOr9abOGH6euZcpu5"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -273,6 +209,62 @@
       "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
     },
     {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Weekend Lover",
+        "url": "https://open.spotify.com/album/7tRmWRv8UUj1yY7erZmhds"
+      },
+      "artists": [
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "duration_ms": 186080,
+      "name": "Weekend Lover",
+      "url": "https://open.spotify.com/track/6rNV70K6yK3qd19aNYtf8E"
+    },
+    {
+      "added_at": "2021-08-06 04:01:00",
+      "album": {
+        "name": "Groove Continental: Side A",
+        "url": "https://open.spotify.com/album/4f4Mgrjdn7P6SoSLV6SWHI"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 176293,
+      "name": "Silver and Gold (feat. Sam Fischer & Pink Sweat$)",
+      "url": "https://open.spotify.com/track/14NGdYOr9abOGH6euZcpu5"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "LAst dAy oN EaRTh",
+        "url": "https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 172755,
+      "name": "LAst dAy oN EaRTh",
+      "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Kids Are Born Stars",
@@ -287,6 +279,26 @@
       "duration_ms": 187026,
       "name": "Kids Are Born Stars",
       "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -319,42 +331,6 @@
       "duration_ms": 173983,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "LAst dAy oN EaRTh",
-        "url": "https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 172755,
-      "name": "LAst dAy oN EaRTh",
-      "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -425,6 +401,22 @@
       "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 238613,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
+    },
+    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Public Displays Of Affection: The Album",
@@ -443,22 +435,6 @@
       "duration_ms": 152241,
       "name": "Baby Boo",
       "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 238613,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -513,22 +489,6 @@
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
     },
     {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "My Wave",
-        "url": "https://open.spotify.com/album/4qbZPeJPVHASszWzkoS8hf"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 151636,
-      "name": "My Wave",
-      "url": "https://open.spotify.com/track/12spArvPaLxK6deo7ikvnZ"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "GUCCI BAG",
@@ -543,6 +503,22 @@
       "duration_ms": 134193,
       "name": "GUCCI BAG",
       "url": "https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "My Wave",
+        "url": "https://open.spotify.com/album/4qbZPeJPVHASszWzkoS8hf"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 151636,
+      "name": "My Wave",
+      "url": "https://open.spotify.com/track/12spArvPaLxK6deo7ikvnZ"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -565,6 +541,22 @@
       "url": "https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH"
     },
     {
+      "added_at": "2022-07-18 15:20:06",
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/4SArFlFDyqFOzmlNFS5fDX"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 250346,
+      "name": "Nick Of Time",
+      "url": "https://open.spotify.com/track/1SdkSIyVEBu8o9ZsJnTJqO"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Up",
@@ -583,22 +575,6 @@
       "duration_ms": 177014,
       "name": "Up",
       "url": "https://open.spotify.com/track/1WWRakZzeLuWPlfymWPSYf"
-    },
-    {
-      "added_at": "2022-07-18 15:20:06",
-      "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/4SArFlFDyqFOzmlNFS5fDX"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 250346,
-      "name": "Nick Of Time",
-      "url": "https://open.spotify.com/track/1SdkSIyVEBu8o9ZsJnTJqO"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -685,6 +661,22 @@
       "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
     },
     {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Ashamed",
+      "url": "https://open.spotify.com/track/6V5dtTAY64G0bIzQAdxuEl"
+    },
+    {
       "added_at": "2022-11-11 05:01:00",
       "album": {
         "name": "Stop This Feeling",
@@ -703,18 +695,18 @@
     {
       "added_at": "2021-09-21 15:07:50",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6"
+        "name": "Sweet Side",
+        "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
         }
       ],
-      "duration_ms": 204213,
-      "name": "Ashamed",
-      "url": "https://open.spotify.com/track/6V5dtTAY64G0bIzQAdxuEl"
+      "duration_ms": 205862,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -731,22 +723,6 @@
       "duration_ms": 219590,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/2qDJNEzQvyuXPblfZcXPqM"
-    },
-    {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Sweet Side",
-        "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
-      },
-      "artists": [
-        {
-          "name": "Raquel Rodriguez",
-          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
-        }
-      ],
-      "duration_ms": 205862,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -793,22 +769,6 @@
       "url": "https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Get it Got it",
-        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 246680,
-      "name": "Get it Got it",
-      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Every Night",
@@ -847,6 +807,22 @@
       "duration_ms": 217767,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/7m9YbOeFNU0mpvGaPV53L3"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Get it Got it",
+        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 246680,
+      "name": "Get it Got it",
+      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -913,22 +889,6 @@
       "url": "https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Blink Twice (Extended)",
-        "url": "https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe"
-      },
-      "artists": [
-        {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
-        }
-      ],
-      "duration_ms": 184204,
-      "name": "Floating Like",
-      "url": "https://open.spotify.com/track/4MDPyqKZLDYd1PsGGYMThw"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "These Days",
@@ -947,6 +907,22 @@
       "duration_ms": 217812,
       "name": "These Days",
       "url": "https://open.spotify.com/track/6ghyebyKTLw7ITymWy5y3g"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Blink Twice (Extended)",
+        "url": "https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "duration_ms": 184204,
+      "name": "Floating Like",
+      "url": "https://open.spotify.com/track/4MDPyqKZLDYd1PsGGYMThw"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -985,24 +961,44 @@
       "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "Better Days (feat. Aloe Blacc)",
-        "url": "https://open.spotify.com/album/3k8hV5JyJKOjBG1xiuLpT5"
+        "name": "Schvitz",
+        "url": "https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI"
       },
       "artists": [
         {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
         },
         {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        },
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
         }
       ],
-      "duration_ms": 156681,
-      "name": "Better Days (feat. Aloe Blacc)",
-      "url": "https://open.spotify.com/track/5zvJABAyFbNEhdMTr0cCtT"
+      "duration_ms": 144588,
+      "name": "Earworm",
+      "url": "https://open.spotify.com/track/3cc1BbtqEBbmBvXcmqdwBa"
+    },
+    {
+      "added_at": "2021-07-30 04:01:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
+      },
+      "artists": [
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1025,20 +1021,40 @@
       "url": "https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb"
     },
     {
-      "added_at": "2021-07-30 04:01:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
+        "name": "Better Days (feat. Aloe Blacc)",
+        "url": "https://open.spotify.com/album/3k8hV5JyJKOjBG1xiuLpT5"
       },
       "artists": [
         {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
         }
       ],
-      "duration_ms": 201653,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
+      "duration_ms": 156681,
+      "name": "Better Days (feat. Aloe Blacc)",
+      "url": "https://open.spotify.com/track/5zvJABAyFbNEhdMTr0cCtT"
+    },
+    {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
+        "url": "https://open.spotify.com/album/6rVBwEvvvWDf5flpBu1yHq"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 163149,
+      "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
+      "url": "https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY"
     },
     {
       "added_at": "2021-09-03 04:01:00",
@@ -1063,82 +1079,6 @@
       "duration_ms": 183870,
       "name": "According To You",
       "url": "https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6"
-    },
-    {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
-        "url": "https://open.spotify.com/album/6rVBwEvvvWDf5flpBu1yHq"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 163149,
-      "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
-      "url": "https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY"
-    },
-    {
-      "added_at": "2022-07-12 18:25:04",
-      "album": {
-        "name": "ITS ALL GOOD",
-        "url": "https://open.spotify.com/album/3eCn1ahWXhBqkX89q627Tn"
-      },
-      "artists": [
-        {
-          "name": "Neon Dreams",
-          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
-        }
-      ],
-      "duration_ms": 187618,
-      "name": "ITS ALL GOOD",
-      "url": "https://open.spotify.com/track/1rtfAn2mFfDuVXhg8nkv6Z"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "I Told You",
-        "url": "https://open.spotify.com/album/7D4zYU5Rp03kIE3HMG7fzp"
-      },
-      "artists": [
-        {
-          "name": "Haywood",
-          "url": "https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu"
-        },
-        {
-          "name": "Loote",
-          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
-        },
-        {
-          "name": "Petey Martin",
-          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
-        }
-      ],
-      "duration_ms": 207023,
-      "name": "I Told You",
-      "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
-    },
-    {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Something to Say",
-        "url": "https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        },
-        {
-          "name": "The Funk Apostles",
-          "url": "https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD"
-        }
-      ],
-      "duration_ms": 196722,
-      "name": "Switch",
-      "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -1183,6 +1123,66 @@
       "duration_ms": 264501,
       "name": "WE ARE",
       "url": "https://open.spotify.com/track/3CAUdHOsgijdnNsjO7o7Hd"
+    },
+    {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Something to Say",
+        "url": "https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "The Funk Apostles",
+          "url": "https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD"
+        }
+      ],
+      "duration_ms": 196722,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "I Told You",
+        "url": "https://open.spotify.com/album/7D4zYU5Rp03kIE3HMG7fzp"
+      },
+      "artists": [
+        {
+          "name": "Haywood",
+          "url": "https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu"
+        },
+        {
+          "name": "Loote",
+          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
+        },
+        {
+          "name": "Petey Martin",
+          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
+        }
+      ],
+      "duration_ms": 207023,
+      "name": "I Told You",
+      "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
+    },
+    {
+      "added_at": "2022-07-12 18:25:04",
+      "album": {
+        "name": "ITS ALL GOOD",
+        "url": "https://open.spotify.com/album/3eCn1ahWXhBqkX89q627Tn"
+      },
+      "artists": [
+        {
+          "name": "Neon Dreams",
+          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
+        }
+      ],
+      "duration_ms": 187618,
+      "name": "ITS ALL GOOD",
+      "url": "https://open.spotify.com/track/1rtfAn2mFfDuVXhg8nkv6Z"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -1377,6 +1377,26 @@
       "url": "https://open.spotify.com/track/0bXnX6oozY4qDbNTBqdJwe"
     },
     {
+      "added_at": "2022-03-18 04:01:00",
+      "album": {
+        "name": "Sacred Place",
+        "url": "https://open.spotify.com/album/4BlDropl0rs0ZyGOLdb9pc"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kest",
+          "url": "https://open.spotify.com/artist/7fRYOt13ebct7IUSm36irk"
+        },
+        {
+          "name": "Satsang",
+          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "Sacred Place",
+      "url": "https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal"
+    },
+    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Bluffin",
@@ -1415,26 +1435,6 @@
       "duration_ms": 189079,
       "name": "AM Gold - Tobtok Remix",
       "url": "https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug"
-    },
-    {
-      "added_at": "2022-03-18 04:01:00",
-      "album": {
-        "name": "Sacred Place",
-        "url": "https://open.spotify.com/album/4BlDropl0rs0ZyGOLdb9pc"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kest",
-          "url": "https://open.spotify.com/artist/7fRYOt13ebct7IUSm36irk"
-        },
-        {
-          "name": "Satsang",
-          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Sacred Place",
-      "url": "https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal"
     },
     {
       "added_at": "2021-09-21 15:07:50",

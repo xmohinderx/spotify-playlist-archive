@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: Big Joanie
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,859 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,847 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 6 | [Thrash Unreal](https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 4:14 |
 | 7 | [Damage](https://open.spotify.com/track/5jNBQ9iqlXV2i14gA45tOZ) | [Fit For Rivals](https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV) | [Steady Damage](https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk) | 3:07 |
 | 8 | [Fences](https://open.spotify.com/track/1xFzQ7lZeNZkaXeozVWb79) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Fences](https://open.spotify.com/album/2V3FIz7zBjKGsSLdV7ixXj) | 3:58 |
-| 9 | [Standing In the Way of Control](https://open.spotify.com/track/0hd4rC19ldUBmabhSHxiwS) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr) | 4:16 |
-| 10 | [Bitchboy](https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Bitchboy](https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG) | 1:47 |
+| 9 | [Bitchboy](https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Bitchboy](https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG) | 1:47 |
+| 10 | [Standing In the Way of Control](https://open.spotify.com/track/0hd4rC19ldUBmabhSHxiwS) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr) | 4:16 |
 | 11 | [Hate Me \(Sometimes\)](https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 3:53 |
 | 12 | [Seashore](https://open.spotify.com/track/6kQ3W5LMxh6ftjEBssYgAd) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Feel Your Feelings Fool!](https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98) | 3:28 |
 | 13 | [Becky](https://open.spotify.com/track/258n2M8Xg97Vk15PzmY24O) | [be your own PET](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Get Damaged](https://open.spotify.com/album/0UpDz8iVPhlZPRLwJVkkSk) | 3:00 |
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 26 | [I Hate the Weekend](https://open.spotify.com/track/4ve7zbGDOJ9WIlPiUoTtVp) | [Tacocat](https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW) | [Lost Time](https://open.spotify.com/album/62hqSIE4mKpvl9sCs8AaKh) | 2:05 |
 | 27 | [So\-Called Str8 Grrrl](https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L) | [Gina Young](https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn) | [Intractable](https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J) | 2:04 |
 | 28 | [Fem in a Black Leather Jacket](https://open.spotify.com/track/7Gjze5dPQjujzoHGOQReWT) | [Pansy Division](https://open.spotify.com/artist/5OyEfwMlXpCWU8dWVENGgm) | [Undressed](https://open.spotify.com/album/3FQM6XQYuV0CMKzs1jTTBF) | 2:04 |
-| 29 | [Nvr Pass](https://open.spotify.com/track/7yJLS5bbD1BbVVXaRktMxP) | [She/Her/hers](https://open.spotify.com/artist/4VfY7XPH7M1nahvlNluxTg) | [Grrrl Angst](https://open.spotify.com/album/1joEVEBQ4YuxikhoClLGBP) | 3:50 |
-| 30 | [Lovers Lane](https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf) | [Hunx & His Punx](https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF) | [Too Young To Be In Love](https://open.spotify.com/album/0PBnBbcUe9KaCmt4x6izYP) | 3:35 |
-| 31 | [Always Happy](https://open.spotify.com/track/3sBNnodq6ff1kcM69Kxdtw) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Always Happy](https://open.spotify.com/album/3Pygq0SBpzO6CKbdLjrYEa) | 2:38 |
+| 29 | [Always Happy](https://open.spotify.com/track/3sBNnodq6ff1kcM69Kxdtw) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Always Happy](https://open.spotify.com/album/3Pygq0SBpzO6CKbdLjrYEa) | 2:38 |
+| 30 | [Nvr Pass](https://open.spotify.com/track/7yJLS5bbD1BbVVXaRktMxP) | [She/Her/hers](https://open.spotify.com/artist/4VfY7XPH7M1nahvlNluxTg) | [Grrrl Angst](https://open.spotify.com/album/1joEVEBQ4YuxikhoClLGBP) | 3:50 |
+| 31 | [Lovers Lane](https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf) | [Hunx & His Punx](https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF) | [Too Young To Be In Love](https://open.spotify.com/album/0PBnBbcUe9KaCmt4x6izYP) | 3:35 |
 | 32 | [Glitterspit](https://open.spotify.com/track/5tLlzGHopRtDv56PntKB8R) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv) | [Sure\-Tuff](https://open.spotify.com/album/1C1OTQGHE9NeWHEw2aG8bO) | 3:40 |
 | 33 | [SuperNatural Possession](https://open.spotify.com/track/2argENW2MZGxj0TwGtH2RZ) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh) | 2:04 |
 | 34 | [Fagetarian and Dyke](https://open.spotify.com/track/2942YKHIqF1XHp7fvp1iEN) | [Team Dresch](https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs) | [Personal Best](https://open.spotify.com/album/2CcIyIyNax2Zim1Ii5pHRK) | 2:45 |
 | 35 | [Chickens](https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U) | [Forrest Flowers](https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8) | [Chickens](https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI) | 4:20 |
-| 36 | [Total 90](https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Total 90](https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj) | 2:43 |
-| 37 | [Rev Your Motor](https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv) | [Dog Park Dissidents](https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp) | [High Risk Homosexual Behavior](https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C) | 2:19 |
+| 36 | [Rev Your Motor](https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv) | [Dog Park Dissidents](https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp) | [High Risk Homosexual Behavior](https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C) | 2:19 |
+| 37 | [Total 90](https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Total 90](https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj) | 2:43 |
 | 38 | [Y'know](https://open.spotify.com/track/2fEgApMmxqKwCYXqg3Y2YE) | [Hoity\-Toity](https://open.spotify.com/artist/59C4CCO7zRyoXORgHPjDjp) | [Not Your Kind](https://open.spotify.com/album/2bINeWV1YXsi5QrPl28cnh) | 4:34 |
 | 39 | [Night in the Woods](https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5) | [Gender Chores](https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi) | [Night in the Woods](https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0) | 3:03 |
 | 40 | [Let's Make Out](https://open.spotify.com/track/6sFBi0lIQ2tWedzNcFDnkR) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty) | 2:55 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 55 | [It's Ok to Be Sick](https://open.spotify.com/track/02Xk3OGe1Q4mtOcrokOOAY) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl) | [Friends\. Lovers\. Favorites](https://open.spotify.com/album/3nffqxNgYlaorWIVUm56R8) | 1:03 |
 | 56 | [Baby, I Had an Abortion](https://open.spotify.com/track/5ilQi9gYgFQohJ5olmtigL) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Baby, I Had an Abortion](https://open.spotify.com/album/0MmQCI3aQdUXVAfN2q67V7) | 3:12 |
 | 57 | [Good Time Charlie](https://open.spotify.com/track/3m8UItuMK5t0VXmTOztjDQ) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [The Seduction of Kansas](https://open.spotify.com/album/7LFNJk5W0KLjtdgo9W4WmQ) | 2:47 |
-| 58 | [Miranda](https://open.spotify.com/track/7JuocCvYUBbC0X1bZj6guM) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Miranda](https://open.spotify.com/album/7M5VeWYg64LLnKe5yvVDo2) | 4:00 |
-| 59 | [Sorry](https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p) | [LIINES](https://open.spotify.com/artist/1JfKFoNd6l125tY9uJcd4f) | [Sorry](https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5) | 2:24 |
+| 58 | [Sorry](https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p) | [LIINES](https://open.spotify.com/artist/1JfKFoNd6l125tY9uJcd4f) | [Sorry](https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5) | 2:24 |
+| 59 | [Miranda](https://open.spotify.com/track/7JuocCvYUBbC0X1bZj6guM) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Miranda](https://open.spotify.com/album/7M5VeWYg64LLnKe5yvVDo2) | 4:00 |
 | 60 | [Woodchuck](https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ) | [Egg on Face\. Foot in Mouth\. Wriggling Wriggling Wriggling.](https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC) | 2:33 |
 | 61 | [Binary](https://open.spotify.com/track/310OmUKAvBV8hHZQxXZsIu) | [The Spook School](https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA) | [Try to Be Hopeful](https://open.spotify.com/album/1RKrCP38UismUZ1NnC9sjc) | 3:15 |
 | 62 | [Save the Planet, You Dumb Shit](https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o) | [Joe & The Shitboys](https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg) | [The Reson For Hardcore Vibes Again](https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI) | 0:55 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 76 | [Eden on Acid](https://open.spotify.com/track/1RNfuLU3uGrhUDitaQ0AW8) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [I Found the Answers and Now I Want More](https://open.spotify.com/album/0tDPveQFHjPpuSTYaOP9Cl) | 1:26 |
 | 77 | [Snowball](https://open.spotify.com/track/30MPTi1NdJlN4WeEiXWmPC) | [Royal Brat](https://open.spotify.com/artist/2nsqDdnAg6Wlgkfxv5MlKC) | [Eyesore](https://open.spotify.com/album/17ayOXluk76ZIBqAtyCk4g) | 1:15 |
 | 78 | [For Matt](https://open.spotify.com/track/4Lrwl77lIBqBFtVIUQPI3D) | [Slash Fiction](https://open.spotify.com/artist/51lcK4r9QlqmtGQxLedO9M) | [For Matt](https://open.spotify.com/album/1l2zfAh6tsE6FfYZVxF3cE) | 5:44 |
-| 79 | [Mackerel's Funky Mission](https://open.spotify.com/track/40vNItT9RcL9FOD9M2p6wb) | [ĠENN](https://open.spotify.com/artist/5mZ836Fy59tOJEcqWfN771) | [Mackerel's Funky Mission](https://open.spotify.com/album/1PZHj7UZQmyzbtIjGFeNxV) | 3:44 |
-| 80 | [Fake Great Britain](https://open.spotify.com/track/3SeQfwjcIIlCAMEYO9tGgZ) | [pink suits](https://open.spotify.com/artist/2tetR4N7chonvlPLHlNzOL) | [Fake Great Britain](https://open.spotify.com/album/604nwPmwMK2bFGUeHnnmMN) | 2:23 |
+| 79 | [Fake Great Britain](https://open.spotify.com/track/3SeQfwjcIIlCAMEYO9tGgZ) | [pink suits](https://open.spotify.com/artist/2tetR4N7chonvlPLHlNzOL) | [Fake Great Britain](https://open.spotify.com/album/604nwPmwMK2bFGUeHnnmMN) | 2:23 |
+| 80 | [Mackerel's Funky Mission](https://open.spotify.com/track/40vNItT9RcL9FOD9M2p6wb) | [ĠENN](https://open.spotify.com/artist/5mZ836Fy59tOJEcqWfN771) | [Mackerel's Funky Mission](https://open.spotify.com/album/1PZHj7UZQmyzbtIjGFeNxV) | 3:44 |
 
-Snapshot ID: `MTY1NDAzODA2MCwwMDAwMDAwMDhkZTQyNzVlNzczOTc3YTVkMjQ3OWI0ZjBkZWMxOTQ3`
+Snapshot ID: `MTY1NDAzODA2MCwwMDAwMDAwMDMxNWQ4NjY4MDAyODE5MDg4ODQwODFkNzc3NGQ1OWJj`

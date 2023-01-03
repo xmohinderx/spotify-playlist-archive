@@ -4,7 +4,7 @@
 
 > Gott nytt år!
 
-356 songs - 20 hr 5 min - [published](https://open.spotify.com/playlist/0p8DpxU3K1bFOSWPIoQiEH)
+357 songs - 20 hr 10 min - [published](https://open.spotify.com/playlist/0p8DpxU3K1bFOSWPIoQiEH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Boogie Wonderland](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 | 2022-01-03 | 2022-11-13 |
 | [Boom, Boom, Boom, Boom!!](https://open.spotify.com/track/65OXGbKBQ8gUyJvUd0jNpf) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [Greatest Hits!](https://open.spotify.com/album/5t02mTYT9ks9sOC1ihea4a) | 3:22 | 2020-12-31 | 2022-07-03 |
 | [Boten Anna \- Radio edit](https://open.spotify.com/track/1Y73xpxMMWInxiAHG6INCK) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [LOL \(International version\)](https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU) | 3:27 | 2020-12-31 | 2022-07-26 |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-12-31 |  |
 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-12-29 | 2023-01-01 |
 | [Bruises \- Steve Void Remix](https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt) | [Bruises EP](https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR) | 3:32 | 2020-12-31 | 2022-07-29 |
 | [Buy U a Drank \(Shawty Snappin'\) \(feat\. Yung Joc\)](https://open.spotify.com/track/1tkMs9wDPknQ3ZHcKDw1ES) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Yung Joc](https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj) | [Epiphany \(Expanded Edition\)](https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h) | 3:47 | 2022-01-03 | 2022-11-13 |
@@ -284,7 +285,7 @@
 | [Sing Hallelujah!](https://open.spotify.com/track/1ohbjkuczl6hEoYEo931PH) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [One Love \(2nd Edition\)](https://open.spotify.com/album/5YPI9qfm2uuMxlq4CEUOFu) | 4:00 | 2020-12-31 | 2022-07-28 |
 | [Sinner](https://open.spotify.com/track/4juLrLNeyIX0Z5EnmAgLOo) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Sinner](https://open.spotify.com/album/1CZSSwLnSsUeYzZGceZF2Z) | 3:09 | 2020-12-31 | 2021-12-31 |
 | [Slå mig hårt i ansiktet](https://open.spotify.com/track/58facAQuyUDml53CS4fOd3) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Fulkultur](https://open.spotify.com/album/6q1ZMtfSljJFfS3w6nQmkL) | 3:31 | 2020-12-31 | 2022-07-29 |
-| [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 | 2022-01-03 |  |
+| [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 | 2022-01-03 | 2023-01-03 |
 | [Smokin Out The Window](https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:17 | 2022-01-03 | 2022-12-30 |
 | [Solo Dance](https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance](https://open.spotify.com/album/7J6SYqcOQ705IYA0DUec38) | 2:54 | 2020-12-31 | 2022-07-27 |
 | [Someone You Loved \- Madism Radio Mix](https://open.spotify.com/track/1FaMsrYFdk914HDLQar1tz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Someone You Loved \(Madism Radio Mix\)](https://open.spotify.com/album/4wooeoqR0Ix5w7GDYvkHju) | 2:37 | 2020-12-31 | 2021-12-31 |

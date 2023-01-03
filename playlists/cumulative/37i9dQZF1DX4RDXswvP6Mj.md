@@ -4,7 +4,7 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: KARA\(카라\)\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-514 songs - 1 day 4 hr 20 min - [published](https://open.spotify.com/playlist/0IIEvRANFzgYAa88SFKSJA)
+515 songs - 1 day 4 hr 23 min - [published](https://open.spotify.com/playlist/0IIEvRANFzgYAa88SFKSJA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Forbidden Island](https://open.spotify.com/track/5YFIlLHse7UplUd36BYGSm) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Mirage](https://open.spotify.com/album/3IluPLhGQ9kKlIQp4C11P3) | 3:19 | 2022-04-12 | 2022-04-17 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-08 | 2023-01-01 |
 | [Forever Young](https://open.spotify.com/track/2naEVOadudtXHwtZNfjMDM) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) | 3:57 | 2022-01-18 | 2022-06-10 |
-| [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-26 |  |
+| [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-26 | 2023-01-03 |
 | [Free Pass](https://open.spotify.com/track/5z0EvFqwl5fqJ2dDdwQRfs) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [DRIPPIN 1st Single Album \[Free Pass\]](https://open.spotify.com/album/6bTEGLbyWMOVvZc7MexlgS) | 3:11 | 2022-04-12 | 2022-04-15 |
 | [FRESH](https://open.spotify.com/track/4Az5BSC0ud7E5Dx3xoI8Mh) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [FRESH](https://open.spotify.com/album/4pyOB4Ao8xUYXyfOd8Sj1f) | 3:27 | 2022-03-29 | 2022-04-10 |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-04 |  |
@@ -215,6 +215,7 @@
 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-08-03 | 2022-11-13 |
 | [GUNSHOT](https://open.spotify.com/track/4qMt92hgQlJMyJjdI0Nw2h) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 1st Single ‘Way With Words’](https://open.spotify.com/album/23qHJjHFUstyeqN9oHotCI) | 3:01 | 2022-03-24 | 2022-04-08 |
 | [GYOPO HAIRSTYLE](https://open.spotify.com/track/4pAas7JMUikN9utv8ul14H) | [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l) | [GYOPO HAIRSTYLE](https://open.spotify.com/album/1JVAKAJI0RwttgnhpYlH0o) | 2:39 | 2022-01-03 | 2022-07-14 |
+| [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2023-01-02 |  |
 | [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 | 2022-04-05 | 2022-04-09 |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2022-03-24 | 2022-03-30 |
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-07-04 | 2022-08-15 |

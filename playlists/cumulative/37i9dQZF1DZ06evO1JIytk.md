@@ -4,7 +4,7 @@
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/3ntLLbFu4xW2KbCpfe6IH1)
+64 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/3ntLLbFu4xW2KbCpfe6IH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Rank\-n\-File](https://open.spotify.com/track/1lcSbWCkd56TB7NPedWPDs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP) | 3:46 | 2022-09-18 |  |
 | [Should I Stay or Should I Go \- Live Version](https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Complete Control Sessions](https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si) | 2:43 | 2022-09-16 |  |
 | [SKATE](https://open.spotify.com/track/6yd9HSGpSnunM8kLum15HC) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike \(10 Year Anniversary\)](https://open.spotify.com/album/0HrNCNxt4ps1IJsqURkjEE) | 1:18 | 2022-10-12 |  |
-| [Sky Is Falling](https://open.spotify.com/track/3tC1mUUoPAuerNvMB0t07T) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Spring](https://open.spotify.com/album/355URbzuPPjaXkBs7G20ee) | 4:14 | 2022-09-16 |  |
+| [Sky Is Falling](https://open.spotify.com/track/3tC1mUUoPAuerNvMB0t07T) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Spring](https://open.spotify.com/album/355URbzuPPjaXkBs7G20ee) | 4:14 | 2022-09-16 | 2023-01-03 |
 | [Sodom, Gomorrah, Washington D.C\. \(Sheep in Shepherds Clothing\)](https://open.spotify.com/track/6yYrpq7dyqQGxw5XB9nShv) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn) | 2:50 | 2022-12-23 |  |
 | [Song for Jesus Christ \- Demo 1992](https://open.spotify.com/track/5KnC2asOnAoTsJd1K8zikT) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [17 Song Demo](https://open.spotify.com/album/6ExCmOuF4swxtuCyA1wD5h) | 0:31 | 2022-09-16 | 2022-10-13 |
 | [Stars and Stripes](https://open.spotify.com/track/61QnLM7lbEhwIe3umKpeNI) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg) | 3:33 | 2022-09-16 |  |
@@ -58,6 +58,7 @@
 | [THE FIGHT OF OUR LIVES \(feat\. Tim McIlrath of Rise Against & Brian Baker of Bad Religion\)](https://open.spotify.com/track/1TZDfrtzmN70FKKeCcrwxT) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tim McIlrath](https://open.spotify.com/artist/1ha9OccsctLTOMCFWTpC9Z), [Brian Baker](https://open.spotify.com/artist/6iIkHyTPwf0OrLGibZxT8Q) | [THE FIGHT OF OUR LIVES \(feat\. Tim McIlrath of Rise Against & Brian Baker of Bad Religion\)](https://open.spotify.com/album/52O9xBWemqkJRPWK3mDdCP) | 2:52 | 2022-09-16 |  |
 | [The Press Corpse](https://open.spotify.com/track/0mzqrv0bY7d5ECDfsRMUpf) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 3:20 | 2022-09-16 |  |
 | [This Is the End \(For You My Friend\)](https://open.spotify.com/track/1jvqZQtbBGK5GJCGT615ao) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 3:12 | 2022-09-16 |  |
+| [This Is the New Sound](https://open.spotify.com/track/4t98qp03cHX5oau9jsxE0M) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 2:45 | 2023-01-02 |  |
 | [This Machine Kills Fascists](https://open.spotify.com/track/1ZFpMCNOL0IMqNRcOHE5e9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg) | 1:38 | 2022-09-16 |  |
 | [Throw It Away](https://open.spotify.com/track/5G9WBRnU2CVOfRtykUk8XQ) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 2:49 | 2022-09-16 | 2022-12-24 |
 | [Trouble Follows Me](https://open.spotify.com/track/5INOUHACgzsc79cRSdpRIN) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 3:09 | 2022-09-20 | 2022-10-12 |

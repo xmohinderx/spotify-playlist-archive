@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New Music Friday will return in Canada on 1/6/23 – Happy New Year! Listen to music from KILLY \(pictured\), Ava Max, Bailey Zimmerman, Damso, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,748 likes - 61 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,754 likes - 61 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

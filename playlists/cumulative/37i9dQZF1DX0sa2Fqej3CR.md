@@ -4,7 +4,7 @@
 
 > 지금 국내에서 가장 핫한 노래들을 만나보세요! \(커버: NCT DREAM\)
 
-111 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/69FUGFsW4OBtls4BtdFXep)
+112 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/69FUGFsW4OBtls4BtdFXep)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-06-29 | 2022-12-20 |
 | [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 | 2022-10-12 |  |
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-05-11 | 2022-06-30 |
+| [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2023-01-02 |  |
 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-05-11 | 2022-07-27 |
 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 | 2022-06-24 | 2022-08-13 |
 | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE) | 3:21 | 2022-12-01 |  |

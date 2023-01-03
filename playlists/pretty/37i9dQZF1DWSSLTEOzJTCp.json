@@ -1,12 +1,12 @@
 {
   "description": "why is this game so hard goddamnit #SpotifyWrapped",
-  "num_followers": 3824,
+  "num_followers": 3937,
   "original_name": "dance tracks we smashed our controllers to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxOTgzOCwwMDAwMDAwMGMzZTRkZWE4NTI3MzM2N2ZhM2UxODMxZTgzMDVlNzc5",
+  "snapshot_id": "MTY2OTgxOTgzOCwwMDAwMDAwMDA0MDM2ZjViNjdjMDFmMTUyMzMwMjA0Yjc2MTYyOWUw",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -619,6 +619,26 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "FUNKONAUT",
+        "url": "https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "FUNKONAUT",
+      "url": "https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "DISRUPTOR LP",
         "url": "https://open.spotify.com/album/2N9vEGNuEuqxG5rGBIKIME"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 174736,
       "name": "Kill Me With Your Love",
       "url": "https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "FUNKONAUT",
-        "url": "https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "FUNKONAUT",
-      "url": "https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec"
     },
     {
       "added_at": "2022-11-30 13:46:00",

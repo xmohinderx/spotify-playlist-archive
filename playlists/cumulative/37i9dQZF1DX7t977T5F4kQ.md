@@ -4,7 +4,7 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: <a href="https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI?si=i0H2aCbMQJS7HrwsS4kZWw"> Lasmid </a>
 
-96 songs - 5 hr 10 min - not published yet
+97 songs - 5 hr 13 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,8 +83,9 @@
 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 | 2022-11-04 |  |
 | [She Bad \(feat\. Oxlade\)](https://open.spotify.com/track/2sQtgfBy77UVwkSDcZF8S5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 5:00 | 2022-11-15 |  |
 | [Single](https://open.spotify.com/track/6N45YY6tHC0DNeAdXS43fe) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Single](https://open.spotify.com/album/1yszAI0O53HKBjyrR8l2fi) | 2:47 | 2022-11-04 |  |
-| [Slow](https://open.spotify.com/track/5e5Be8E42zERy5Y3k65wyo) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/0GNeksC7xMQxGc9z4Y6rpL) | 2:50 | 2022-11-04 |  |
+| [Slow](https://open.spotify.com/track/5e5Be8E42zERy5Y3k65wyo) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/0GNeksC7xMQxGc9z4Y6rpL) | 2:50 | 2022-11-04 | 2023-01-03 |
 | [Slow](https://open.spotify.com/track/6fZmsZJAnLXJW7p9KO9hNI) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/16OczVqcp5NswQ7nawPX8h) | 2:50 | 2022-11-04 | 2022-12-25 |
+| [Slow](https://open.spotify.com/track/6BcuM2pQGcED8ebZc5GXjO) | [Char Lay](https://open.spotify.com/artist/4kEX2XtmxJ7Cf9GafuYFR4) | [Slow](https://open.spotify.com/album/0GxXWdO5ZOmdcr3TetwGtY) | 2:50 | 2022-11-04 |  |
 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 | 2022-11-04 |  |
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2022-11-04 |  |
 | [Sophia](https://open.spotify.com/track/60836fFuqabzSTVWykb2YC) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Sophia](https://open.spotify.com/album/33MnqYooSC2VMMQrL6S0Au) | 3:07 | 2022-11-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Anthems only. For an extra rep, an extra set or an extra mile.",
-  "num_followers": 639113,
+  "num_followers": 639492,
   "original_name": "Classic Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU2MzQxMCwwMDAwMDAwMDJjM2ExMDc3Y2RhMGUwODkwM2M2ZGE1M2I0MWYyNDUw",
+  "snapshot_id": "MTY2MjU2MzQxMCwwMDAwMDAwMGUxNjc4MWNjNzI2Y2NkNjU3ZjRkN2E5NjVkZjZiYjQw",
   "tracks": [
     {
       "added_at": "2021-12-14 20:27:19",
@@ -91,6 +91,22 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
         "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
         "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 292880,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -235,22 +235,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 308666,
       "name": "Wanted Dead Or Alive",
       "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 273480,
-      "name": "Welcome To The Jungle",
-      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Out Of Our Heads",
         "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 222813,
       "name": "(I Can't Get No) Satisfaction - Mono Version",
       "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 273480,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -443,6 +443,22 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 295386,
+      "name": "Black Dog - Remaster",
+      "url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
         "name": "A Night At The Opera (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
       },
@@ -459,18 +475,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
       "artists": [
         {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 295386,
-      "name": "Black Dog - Remaster",
-      "url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb"
+      "duration_ms": 269920,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -491,18 +507,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 269920,
-      "name": "Born to Run",
-      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
+      "duration_ms": 317426,
+      "name": "Shoot to Thrill",
+      "url": "https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -555,22 +571,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 317426,
-      "name": "Shoot to Thrill",
-      "url": "https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Get A Grip",
         "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
       },
@@ -583,38 +583,6 @@
       "duration_ms": 308333,
       "name": "Cryin'",
       "url": "https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "Not Fragile",
-        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
-      },
-      "artists": [
-        {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "You Ain't Seen Nothing Yet",
-      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
-    },
-    {
-      "added_at": "2022-06-29 15:30:44",
-      "album": {
-        "name": "Moving Pictures (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "Tom Sawyer",
-      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
     },
     {
       "added_at": "2022-06-29 15:30:44",
@@ -633,6 +601,22 @@
       "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
     },
     {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Not Fragile",
+        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
+      },
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "You Ain't Seen Nothing Yet",
+      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
+    },
+    {
       "added_at": "2022-04-08 19:02:42",
       "album": {
         "name": "Ram Jam",
@@ -647,6 +631,22 @@
       "duration_ms": 238973,
       "name": "Black Betty",
       "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
+    },
+    {
+      "added_at": "2022-06-29 15:30:44",
+      "album": {
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Tom Sawyer",
+      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 243826,
-      "name": "Roadhouse Blues",
-      "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Tom Petty & The Heartbreakers",
         "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 214733,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 243826,
+      "name": "Roadhouse Blues",
+      "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 282746,
-      "name": "Hot for Teacher - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Led Zeppelin",
         "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 166266,
       "name": "Good Times Bad Times - 1993 Remaster",
       "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Hot for Teacher - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
     },
     {
       "added_at": "2022-06-29 15:30:44",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Van Halen (Remastered)",
-        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Runnin' with the Devil - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
       },
@@ -937,22 +921,6 @@
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
     },
     {
-      "added_at": "2022-05-31 17:29:22",
-      "album": {
-        "name": "Smashes Thrashes & Hits",
-        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "Detroit Rock City",
-      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
-    },
-    {
       "added_at": "2021-12-14 20:27:19",
       "album": {
         "name": "Pyromania",
@@ -967,6 +935,38 @@
       "duration_ms": 247962,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/18URo35acNKRTHfEdjTcGn"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Van Halen (Remastered)",
+        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Runnin' with the Devil - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
+    },
+    {
+      "added_at": "2022-05-31 17:29:22",
+      "album": {
+        "name": "Smashes Thrashes & Hits",
+        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "Detroit Rock City",
+      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Van Halen (Remastered)",
-        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 227800,
-      "name": "Ain't Talkin' 'Bout Love - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6fybp4N6eW3bsFAvARxyVe"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Survivor Greatest Hits",
         "url": "https://open.spotify.com/album/2wBiw6c2bGb4c9pnRdHw6X"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 228666,
       "name": "Brown Sugar - 2009 Remaster",
       "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Gimme Three Steps",
+      "url": "https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x"
     }
   ],
   "unique_name": "Classic Rock Workout",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 
 > From House & Techno to the spheres of Pop\. This playlist features legendary tracks that have been produced on a TR\-909 drum machine\. Cover: Jeff Mills
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,507 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,703 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 3 | [Pump Up The Jam \- Edit](https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB), [Felly](https://open.spotify.com/artist/1pvibpCqTQG4mnbZ7vVSDj) | [Best Of](https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL) | 3:35 |
 | 4 | [Sussudio \- 2016 Remaster](https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:23 |
 | 5 | [Together Again](https://open.spotify.com/track/1aJnGme5ZRltYTp8FJ52eZ) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 5:01 |
-| 6 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
-| 7 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Basement Boy Strip To The Bone Mix](https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [The Basement Boys](https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 7:31 |
+| 6 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Basement Boy Strip To The Bone Mix](https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [The Basement Boys](https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 7:31 |
+| 7 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
 | 8 | [Mr\. Vain](https://open.spotify.com/track/2rTYgHxgcndkUrRoU7x0Sv) | [Culture Beat](https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8) | [Serenity](https://open.spotify.com/album/4WiN45TcjcmOnnk8ZPzIIO) | 5:36 |
 | 9 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 |
 | 10 | [Sweet Harmony](https://open.spotify.com/track/5lSOVaPDk7x9Ey6c9DqGZx) | [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Conscience](https://open.spotify.com/album/1KFxJU4UBv1RWwrrwbn9xY) | 5:01 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 41 | [Children \- Dream Version](https://open.spotify.com/track/1JfrKj59dl3rrpzShRf9If) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Dreamland](https://open.spotify.com/album/1XL0X5szAJw8vY9GrP2HUC) | 7:06 |
 | 42 | [Parade D'Amour](https://open.spotify.com/track/66PCrDlu6eD8isiBgD7Z1Z) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Garden Party](https://open.spotify.com/album/2hxBhd405LrdVwrUsRz3x8) | 3:31 |
 | 43 | [You Used to Hold Me](https://open.spotify.com/track/02ePVbyZRQs0LQB5XrofKa) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [Greatest Hits](https://open.spotify.com/album/34JhQsl3BlrRWe9OHGyfUs) | 4:59 |
-| 44 | [Jupiter Jazz](https://open.spotify.com/track/2T6rMXWYc934IWMudx1H1X) | [Galaxy 2 Galaxy](https://open.spotify.com/artist/2JW9UTb6ViFLYf7VQxBJqD) | [Galaxy 2 Galaxy: A High Tech Jazz Compilation](https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV) | 4:30 |
-| 45 | [Tribute](https://open.spotify.com/track/3p7Ydiltj799Rx3JfjARxF) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Forevernevermore](https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36) | 6:01 |
+| 44 | [Tribute](https://open.spotify.com/track/3p7Ydiltj799Rx3JfjARxF) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Forevernevermore](https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36) | 6:01 |
+| 45 | [Jupiter Jazz](https://open.spotify.com/track/2T6rMXWYc934IWMudx1H1X) | [Galaxy 2 Galaxy](https://open.spotify.com/artist/2JW9UTb6ViFLYf7VQxBJqD) | [Galaxy 2 Galaxy: A High Tech Jazz Compilation](https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV) | 4:30 |
 | 46 | [Closer To God](https://open.spotify.com/track/5kXtr0OnI0xvaBSHRMPC1m) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral \(Deluxe Edition\)](https://open.spotify.com/album/5I7lLu8xXJfGRdFUqHaLQU) | 5:05 |
 | 47 | [Agfachrome RSX II](https://open.spotify.com/track/7za2bHIESAb7RVIhQzwn6H) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [Colour Negatives](https://open.spotify.com/album/0Odwnjhcu9okjCZMq9sK1p) | 7:42 |
 | 48 | [Girls Ain't Nothing But Trouble \- 1988 Extended Remix](https://open.spotify.com/track/1b7tJQyJvzAcbDI8I3A2Bf) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Rock The House](https://open.spotify.com/album/52UtxXOfjs1RzOyS2TKYD8) | 4:49 |
 | 49 | [Nothing Stops Detroit](https://open.spotify.com/track/5nNJEUFkgZB0olDGybR59S) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Mirror Man](https://open.spotify.com/album/4Lt9RcisVkCyWynK67kCQo) | 6:33 |
 | 50 | [My Heart Goes Boom \- Radio Version](https://open.spotify.com/track/4k75o8WPCPqDd2tgD4AKxU) | [French Affair](https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E) | [My Heart Goes Boom \(La Di da Da\)](https://open.spotify.com/album/0AVy1xmas9TvWDPPsHOC0G) | 3:40 |
 
-Snapshot ID: `MTY2MjY1NzU5OCwwMDAwMDAwMDk1ZjhkZjAxOGEzNzdhZjliZWQ5Y2I2YTMyMGQyNmJl`
+Snapshot ID: `MTY2MjY1NzU5OCwwMDAwMDAwMDA1OTU3YjA5YjMxMDEyMzI4YzNiNDVlNWY2YmFhZWE4`

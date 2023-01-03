@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 208973,
+  "num_followers": 209546,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEzMDYxNiwwMDAwMDAwMGFjZTZmMDUzNDNhOWU0NDkyNjZlYTQ4ZjIxYmZiZGY3",
+  "snapshot_id": "MTY3MTEzMDYxNiwwMDAwMDAwMDBiZjM4NzE1NzQ5ODUzNjhjMTRkYzhmODVjYzUyNDc0",
   "tracks": [
     {
       "added_at": "2022-09-26 15:51:30",
@@ -203,30 +203,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Slide (feat. Frank Ocean & Migos)",
-        "url": "https://open.spotify.com/album/1UIlzhqJLiA3f6OVw7QKn6"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 230813,
-      "name": "Slide (feat. Frank Ocean & Migos)",
-      "url": "https://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "Metamodernity",
         "url": "https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q"
       },
@@ -263,6 +239,22 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
+        "name": "Weekend Friend",
+        "url": "https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Weekend Friend",
+      "url": "https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
         "name": "Tieduprightnow",
         "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
       },
@@ -279,18 +271,26 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Weekend Friend",
-        "url": "https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc"
+        "name": "Slide (feat. Frank Ocean & Migos)",
+        "url": "https://open.spotify.com/album/1UIlzhqJLiA3f6OVw7QKn6"
       },
       "artists": [
         {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 209454,
-      "name": "Weekend Friend",
-      "url": "https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM"
+      "duration_ms": 230813,
+      "name": "Slide (feat. Frank Ocean & Migos)",
+      "url": "https://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -531,26 +531,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "BOY",
         "url": "https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 132746,
       "name": "Passion",
       "url": "https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "I Don't Know You",
-        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209449,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "Odyss\u00e9e - EP",
         "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 248892,
       "name": "Agitations tropicales",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209449,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Think About Things",
-        "url": "https://open.spotify.com/album/3wnnkEyvrINGbPfVbIzAXs"
-      },
-      "artists": [
-        {
-          "name": "Da\u00f0i Freyr",
-          "url": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
-        }
-      ],
-      "duration_ms": 173385,
-      "name": "Think About Things",
-      "url": "https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "Free Yourself",
         "url": "https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 234493,
       "name": "Free Yourself",
       "url": "https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "Think About Things",
+        "url": "https://open.spotify.com/album/3wnnkEyvrINGbPfVbIzAXs"
+      },
+      "artists": [
+        {
+          "name": "Da\u00f0i Freyr",
+          "url": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
+        }
+      ],
+      "duration_ms": 173385,
+      "name": "Think About Things",
+      "url": "https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Foreign Language",
-        "url": "https://open.spotify.com/album/0VaOUq9SfMxBspe18eyufo"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "Jess",
-          "url": "https://open.spotify.com/artist/0TmD2CTH26wHTBb8LxOw7s"
-        }
-      ],
-      "duration_ms": 244080,
-      "name": "Foreign Language",
-      "url": "https://open.spotify.com/track/6M0cy8N7KQhaYbJ7088D28"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "The Mission",
         "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
       },
@@ -1215,6 +1195,26 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
+        "name": "Foreign Language",
+        "url": "https://open.spotify.com/album/0VaOUq9SfMxBspe18eyufo"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Jess",
+          "url": "https://open.spotify.com/artist/0TmD2CTH26wHTBb8LxOw7s"
+        }
+      ],
+      "duration_ms": 244080,
+      "name": "Foreign Language",
+      "url": "https://open.spotify.com/track/6M0cy8N7KQhaYbJ7088D28"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
         "name": "JAGUAR",
         "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
       },
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "\u00bfT\u00e9o?",
-        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        },
-        {
-          "name": "Jaden Smith",
-          "url": "https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4"
-        }
-      ],
-      "duration_ms": 170125,
-      "name": "Uno Dos",
-      "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "Streets (Disclosure Remix)",
         "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 254280,
       "name": "Streets - Disclosure Remix",
       "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "\u00bfT\u00e9o?",
+        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        },
+        {
+          "name": "Jaden Smith",
+          "url": "https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4"
+        }
+      ],
+      "duration_ms": 170125,
+      "name": "Uno Dos",
+      "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
+        "name": "Body Talk Pt. 1",
+        "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 285973,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
         "name": "Heaven To A Tortured Mind",
         "url": "https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 198626,
       "name": "Gospel For A New Century",
       "url": "https://open.spotify.com/track/46LX0sSwIU4GFLcj23ZfMA"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "Life Is Yours",
-        "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 266614,
-      "name": "2001",
-      "url": "https://open.spotify.com/track/18mdHJIozzktPJ93oXk39A"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Body Talk Pt. 1",
-        "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
+        "name": "Life Is Yours",
+        "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
       },
       "artists": [
         {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
         }
       ],
-      "duration_ms": 285973,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
+      "duration_ms": 266614,
+      "name": "2001",
+      "url": "https://open.spotify.com/track/18mdHJIozzktPJ93oXk39A"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "duration_ms": 195704,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
         "name": "Vibe Creator",
         "url": "https://open.spotify.com/album/2PRNnM6d2g86lr48Wp4rxU"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 147250,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/5ICUko5tff4xEdS4DdnODT"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "Exotica",
-        "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 195704,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
+        "name": "Dance Moves",
+        "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 201376,
+      "name": "Dance Moves",
+      "url": "https://open.spotify.com/track/3zlJ0h0VFDMm6AIZAQzZBb"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
         "name": "CRISIS",
         "url": "https://open.spotify.com/album/3sAJ892CzDIa869oCpgj1G"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 193285,
       "name": "CRISIS",
       "url": "https://open.spotify.com/track/43czZSFDYr2i6HDJw580n5"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/5llzZfuUMShvnGzWL7x07d"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 132903,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/3RZwiJMiAeiSObHO25qGK1"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1739,22 +1739,6 @@
       "duration_ms": 124736,
       "name": "Automatic - Orion Sun Remix",
       "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "Dance Moves",
-        "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 201376,
-      "name": "Dance Moves",
-      "url": "https://open.spotify.com/track/3zlJ0h0VFDMm6AIZAQzZBb"
     },
     {
       "added_at": "2022-10-28 13:36:00",
@@ -1779,6 +1763,38 @@
       "duration_ms": 175381,
       "name": "Electric Photograph",
       "url": "https://open.spotify.com/track/4aMExui9zpbQZNhAmMsHPB"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/5llzZfuUMShvnGzWL7x07d"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "duration_ms": 132903,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/3RZwiJMiAeiSObHO25qGK1"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "Electric U",
+        "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
+      },
+      "artists": [
+        {
+          "name": "Kid Bloom",
+          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Electric U",
+      "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1811,22 +1827,6 @@
       "duration_ms": 208946,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "Electric U",
-        "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
-      },
-      "artists": [
-        {
-          "name": "Kid Bloom",
-          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Electric U",
-      "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
     }
   ],
   "unique_name": "Soir\u00e9e",

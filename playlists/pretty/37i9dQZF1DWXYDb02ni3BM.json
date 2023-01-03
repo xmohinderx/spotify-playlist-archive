@@ -1,12 +1,12 @@
 {
   "description": "Las divas del pop latino de ayer y hoy. Foto: Alejandra Guzm\u00e1n",
-  "num_followers": 97362,
+  "num_followers": 97631,
   "original_name": "Mujeres del Pop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDQyOGNiMDk5ZmEyNTYyMDA3ZDdmYTQ2ODIzMWQ5NzYy",
+  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDE3OWQxYjZjZmY1ZWNiNjk3ZjI5ZmI1MmRhODEzNTll",
   "tracks": [
     {
       "added_at": "2022-12-16 03:00:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Pari\u0301s",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Pari\u0301s",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Dulce Beat",
         "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 185920,
       "name": "Rosa Pastel",
       "url": "https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Pari\u0301s",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Pari\u0301s",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178693,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -275,18 +259,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 205413,
-      "name": "Lim\u00f3n y Sal",
-      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+      "duration_ms": 178693,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -319,6 +303,62 @@
       "duration_ms": 280040,
       "name": "Las Mil Y Una Noches",
       "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "Este Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0bMVCO35RJiUhAfvFsLjIF"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -375,46 +415,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Nuestro Amor",
-        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
-      },
-      "artists": [
-        {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
-        },
-        {
-          "name": "Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Maite Perroni",
-          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
-        },
-        {
-          "name": "Christian Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
-        },
-        {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
-        },
-        {
-          "name": "Alfonso Herrera",
-          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "Este Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0bMVCO35RJiUhAfvFsLjIF"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -443,6 +443,22 @@
       "duration_ms": 220666,
       "name": "Las de la Intuici\u00f3n",
       "url": "https://open.spotify.com/track/3uU6dqBjVKRTPis0RrTaT4"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -479,22 +495,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
         }
       ],
-      "duration_ms": 180480,
-      "name": "Destino",
-      "url": "https://open.spotify.com/track/041Kcvnw8nOdq8xiRibPTG"
+      "duration_ms": 302493,
+      "name": "Cruz de navajas",
+      "url": "https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -515,34 +527,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
       },
       "artists": [
         {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 302493,
-      "name": "Cruz de navajas",
-      "url": "https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
         }
       ],
-      "duration_ms": 208866,
-      "name": "El Chico Del Apartamento 512",
-      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
+      "duration_ms": 180480,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/041Kcvnw8nOdq8xiRibPTG"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "HA-ASH Primera Fila - Hecho Realidad",
-        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "Perd\u00f3n, Perd\u00f3n - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
-      "url": "https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -655,42 +639,6 @@
       "duration_ms": 239226,
       "name": "Lento",
       "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Amantes",
-        "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 235424,
-      "name": "Amantes",
-      "url": "https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Escucha",
-        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 236613,
-      "name": "V\u00edveme",
-      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -715,6 +663,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Escucha",
+        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 236613,
+      "name": "V\u00edveme",
+      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "A las Cinco en el Astoria",
         "url": "https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r"
       },
@@ -727,6 +691,42 @@
       "duration_ms": 239240,
       "name": "Jueves",
       "url": "https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "HA-ASH Primera Fila - Hecho Realidad",
+        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "Perd\u00f3n, Perd\u00f3n - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+      "url": "https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Amantes",
+        "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 235424,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 189413,
       "name": "Ay, DiOs M\u00edo!",
       "url": "https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Tierna La Noche",
+        "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
+      },
+      "artists": [
+        {
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+        }
+      ],
+      "duration_ms": 281520,
+      "name": "Az\u00facar Amargo",
+      "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -931,22 +947,6 @@
       "duration_ms": 185573,
       "name": "100 A\u00f1os",
       "url": "https://open.spotify.com/track/4gJzpOMYyOpVnbDXlT5aWL"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Tierna La Noche",
-        "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
-      },
-      "artists": [
-        {
-          "name": "Fey",
-          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
-        }
-      ],
-      "duration_ms": 281520,
-      "name": "Az\u00facar Amargo",
-      "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
     },
     {
       "added_at": "2022-12-16 03:00:00",

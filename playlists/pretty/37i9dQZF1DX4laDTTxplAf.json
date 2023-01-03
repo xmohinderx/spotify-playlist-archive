@@ -1,12 +1,12 @@
 {
   "description": "All 00s, all ballads. Cover: Norah Jones",
-  "num_followers": 223385,
+  "num_followers": 223525,
   "original_name": "00s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQwNzU2MCwwMDAwMDAwMGMyOThmZmI1MGZhYjdhZGYwMzZkZjk1MGJhNWQ3ZDdm",
+  "snapshot_id": "MTY1MDQwNzU2MCwwMDAwMDAwMGYyNDdiNTAyNmI5MjRhNWM5OTQwYzA2MTBkZjQxZjVj",
   "tracks": [
     {
       "added_at": "2021-02-10 17:52:46",
@@ -359,22 +359,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 198226,
       "name": "Come Away With Me",
       "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -455,22 +455,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 245826,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "Songs In A Minor",
         "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
       },
@@ -487,18 +471,18 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
       "artists": [
         {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 231933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
+      "duration_ms": 245826,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -515,6 +499,22 @@
       "duration_ms": 226680,
       "name": "Bless The Broken Road",
       "url": "https://open.spotify.com/track/4YjjNHtEsTX6Af4mCTupT5"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -599,6 +599,22 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 284760,
+      "name": "This I Promise You",
+      "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "This I Promise You",
-      "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
@@ -663,22 +663,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 249146,
-      "name": "If I Were a Boy",
-      "url": "https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "Heavier Things",
         "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 237906,
       "name": "Daughters",
       "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 249146,
+      "name": "If I Were a Boy",
+      "url": "https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -789,6 +789,38 @@
       "url": "https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI"
     },
     {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 285053,
+      "name": "Stop This Train",
+      "url": "https://open.spotify.com/track/3E6iea9uEmB7gRru4lyP6h"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1"
+    },
+    {
       "added_at": "2022-04-19 14:07:15",
       "album": {
         "name": "It's Time",
@@ -819,38 +851,6 @@
       "duration_ms": 279826,
       "name": "Breathe (2 AM)",
       "url": "https://open.spotify.com/track/5auMzVHFr5Zfw6IbKarZ56"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 285053,
-      "name": "Stop This Train",
-      "url": "https://open.spotify.com/track/3E6iea9uEmB7gRru4lyP6h"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -917,22 +917,6 @@
       "url": "https://open.spotify.com/track/24Gxm7Eh7tO83E26LG0CsY"
     },
     {
-      "added_at": "2022-04-19 14:07:15",
-      "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
-    },
-    {
       "added_at": "2021-02-10 17:52:46",
       "album": {
         "name": "The Spirit Room",
@@ -967,22 +951,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 430800,
-      "name": "Untitled (How Does It Feel)",
-      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -995,6 +963,38 @@
       "duration_ms": 198200,
       "name": "The Heart of Life",
       "url": "https://open.spotify.com/track/78DwRIo6Vj6wqteyerGetr"
+    },
+    {
+      "added_at": "2022-04-19 14:07:15",
+      "album": {
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 430800,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
     },
     {
       "added_at": "2022-04-19 14:07:15",

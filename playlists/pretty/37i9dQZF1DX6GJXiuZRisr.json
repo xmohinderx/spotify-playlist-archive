@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1420530,
+  "num_followers": 1421087,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc5MDE4MywwMDAwMDAwMGI0MzZlN2EzZmRlMDZmZTM5Yzg0ODYzNzJmYjMyOGMy",
+  "snapshot_id": "MTY2ODc5MDE4MywwMDAwMDAwMDYzZTdkM2MwODMzYWQ2MTQ3ZDQwNjgyMTA2MTAwYjY1",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -291,18 +291,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/43MmWS3TZ60DH9XKn6SPwv"
+        "name": "Invisible (Paul Kalkbrenner Remix)",
+        "url": "https://open.spotify.com/album/4cqsB6UXqiauyUjNFxh8yf"
       },
       "artists": [
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
         }
       ],
-      "duration_ms": 464516,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/7Mqdzo9NcZLUwTAoyV2AeE"
+      "duration_ms": 457036,
+      "name": "Invisible - Paul Kalkbrenner Remix",
+      "url": "https://open.spotify.com/track/2xUsXYIiK18wSnv2SXFGtj"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -323,22 +327,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Invisible (Paul Kalkbrenner Remix)",
-        "url": "https://open.spotify.com/album/4cqsB6UXqiauyUjNFxh8yf"
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/43MmWS3TZ60DH9XKn6SPwv"
       },
       "artists": [
         {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        },
-        {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         }
       ],
-      "duration_ms": 457036,
-      "name": "Invisible - Paul Kalkbrenner Remix",
-      "url": "https://open.spotify.com/track/2xUsXYIiK18wSnv2SXFGtj"
+      "duration_ms": 464516,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/7Mqdzo9NcZLUwTAoyV2AeE"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -555,26 +555,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        },
-        {
-          "name": "Ginger",
-          "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "I Want You - Edit",
-      "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "Greece 2000",
         "url": "https://open.spotify.com/album/18Fd16l4DfL01k1tFKGMeV"
       },
@@ -617,6 +597,26 @@
       "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Ginger",
+          "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "I Want You - Edit",
+      "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
+    },
+    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Power",
@@ -657,46 +657,6 @@
       "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "About Us (feat. EMME)",
-        "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
-      },
-      "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "EMME",
-          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
-        }
-      ],
-      "duration_ms": 286520,
-      "name": "About Us (feat. EMME)",
-      "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Numb (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 237865,
-      "name": "Numb - Joris Voorn Remix, Edit",
-      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
-    },
-    {
       "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Out Of Control",
@@ -715,6 +675,26 @@
       "duration_ms": 168387,
       "name": "Out Of Control",
       "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "About Us (feat. EMME)",
+        "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+        }
+      ],
+      "duration_ms": 286520,
+      "name": "About Us (feat. EMME)",
+      "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -739,6 +719,26 @@
       "duration_ms": 236078,
       "name": "This Feeling - Yotto Remix",
       "url": "https://open.spotify.com/track/19LE5SbXV0A4UFRJvz91Eq"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Numb (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 237865,
+      "name": "Numb - Joris Voorn Remix, Edit",
+      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -819,6 +819,26 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Show Me A Sign",
+        "url": "https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 223283,
+      "name": "Show Me A Sign (with MKLA)",
+      "url": "https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "The World You See",
         "url": "https://open.spotify.com/album/0V9gdn8ZnhvkpRAvdnkT7I"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 217515,
       "name": "The World You See",
       "url": "https://open.spotify.com/track/4TQgbkv9CF1Qy4GIfpZeSO"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Show Me A Sign",
-        "url": "https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
-        }
-      ],
-      "duration_ms": 223283,
-      "name": "Show Me A Sign (with MKLA)",
-      "url": "https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -935,6 +935,26 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Elements Of A New Life",
+        "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
+      },
+      "artists": [
+        {
+          "name": "VER:WEST",
+          "url": "https://open.spotify.com/artist/0Ig1YsHXd4GGVLWXXYqM2W"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Elements Of A New Life",
+      "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Offshore",
         "url": "https://open.spotify.com/album/0myVJOaR23M72HCt1EynC6"
       },
@@ -959,22 +979,26 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Elements Of A New Life",
-        "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
+        "name": "Out Of Reach",
+        "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
       },
       "artists": [
         {
-          "name": "VER:WEST",
-          "url": "https://open.spotify.com/artist/0Ig1YsHXd4GGVLWXXYqM2W"
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Sansa",
+          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
         }
       ],
-      "duration_ms": 205161,
-      "name": "Elements Of A New Life",
-      "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
+      "duration_ms": 255991,
+      "name": "Out Of Reach",
+      "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1031,30 +1055,6 @@
       "duration_ms": 258536,
       "name": "Reminiscing",
       "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Out Of Reach",
-        "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Sansa",
-          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
-        }
-      ],
-      "duration_ms": 255991,
-      "name": "Out Of Reach",
-      "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Fibonacci",
+        "url": "https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 188483,
+      "name": "Fibonacci",
+      "url": "https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "You Take My Hand",
         "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
       },
@@ -1217,23 +1233,7 @@
       "url": "https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Fibonacci",
-        "url": "https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 188483,
-      "name": "Fibonacci",
-      "url": "https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX"
-    },
-    {
-      "added_at": "2023-01-02 01:02:53",
+      "added_at": "2023-01-03 02:31:17",
       "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j"
@@ -1255,26 +1255,6 @@
       "duration_ms": 189102,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/5xt7yJL0BWlhH3FM0cq0VP"
-      },
-      "artists": [
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        },
-        {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/18hPcmBPzTiHPQUKT9tC8v"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1301,20 +1281,24 @@
       "url": "https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/5xt7yJL0BWlhH3FM0cq0VP"
       },
       "artists": [
         {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
         }
       ],
-      "duration_ms": 245881,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
+      "duration_ms": 195000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/18hPcmBPzTiHPQUKT9tC8v"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -1335,6 +1319,38 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6wXKar1LAK5xSRcPLhbzjR"
+      },
+      "artists": [
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 221090,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Thermal / Oblivion",
+        "url": "https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Kensh\u014d",
         "url": "https://open.spotify.com/album/4gmTE6DRT8TfSxk3Ai9WOn"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6wXKar1LAK5xSRcPLhbzjR"
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
       },
       "artists": [
         {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
         }
       ],
-      "duration_ms": 221090,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu"
+      "duration_ms": 245881,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1383,22 +1399,6 @@
       "duration_ms": 209016,
       "name": "Golden (feat. Blondfire)",
       "url": "https://open.spotify.com/track/1he0nibCzlDvB96EoJbbIZ"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Thermal / Oblivion",
-        "url": "https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Tantrum",
+        "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 229512,
+      "name": "Tantrum",
+      "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Deep State",
         "url": "https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo"
       },
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Tantrum",
-        "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         }
       ],
-      "duration_ms": 229512,
-      "name": "Tantrum",
-      "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
+      "duration_ms": 326929,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1551,22 +1567,6 @@
       "duration_ms": 329349,
       "name": "Strangers (with Mansionair) - Tinlicker Remix",
       "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 326929,
-      "name": "Flame - Edit",
-      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
     },
     {
       "added_at": "2022-07-01 11:37:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,064 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,107 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 31 | [Ghost Shaped People](https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God \(Deluxe Version\)](https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE) | 4:05 |
 | 32 | [Vigil](https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 4:43 |
 | 33 | [Broken Hands](https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:53 |
-| 34 | [Resurrection Man](https://open.spotify.com/track/53xXTqz8QfadLsXbs411si) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:59 |
-| 35 | [Black Label](https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 4:52 |
+| 34 | [Black Label](https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 4:52 |
+| 35 | [Resurrection Man](https://open.spotify.com/track/520RXauS1LLY6sTUUOO7h4) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy) | 4:59 |
 | 36 | [As The Palaces Burn](https://open.spotify.com/track/2KjmnyVafBbq4VEnrJ5rra) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 2:24 |
 | 37 | [Grace](https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:56 |
 | 38 | [Straight For The Sun](https://open.spotify.com/track/32LDIhVVsYEksBPoyfeKRo) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 49 | [Dead Seeds](https://open.spotify.com/track/4KVfAs5lGzPHunOT1OZ5fG) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 3:41 |
 | 50 | [In Your Words](https://open.spotify.com/track/7lVrIjVb0ctSCo00X7cDOk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 5:24 |
 
-Snapshot ID: `Mjc4NzYzNDMsMDAwMDAwMDBiNDgxYWZlYjNiMGVjYWVlY2M3ZDNjODI0NWViYTBmOQ==`
+Snapshot ID: `Mjc4Nzc3NTksMDAwMDAwMDAxZDM5YzAwNzBiNDVkZDMzMjEzMDc1ZmE0M2EwNWJhNw==`

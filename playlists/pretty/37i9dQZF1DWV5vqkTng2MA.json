@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Pokey LaFarge",
-  "num_followers": 343465,
+  "num_followers": 343729,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDIwMGU0YWZlOGFiMTliOWRiMGVlZDNlZDI4M2IzNDFh",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDNkMzBkYjJlN2U5ZTY0NjU3M2U3ODFjNzI4MDRmNGU1",
   "tracks": [
     {
       "added_at": "2022-08-02 19:57:54",
@@ -155,18 +155,18 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Bronco",
-        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 210840,
-      "name": "C'mon Baby, Cry",
-      "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
+        "name": "Bronco",
+        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "C'mon Baby, Cry",
+      "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
         "name": "Men Amongst Mountains",
         "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
       },
@@ -207,38 +223,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "If I Should Go Before You",
-        "url": "https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 234698,
-      "name": "Lover Come Back",
-      "url": "https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "Fear Fun",
         "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 215146,
       "name": "I'm Writing a Novel",
       "url": "https://open.spotify.com/track/2gUwnJ5cpl40TSlqmjfqAC"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "If I Should Go Before You",
+        "url": "https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 234698,
+      "name": "Lover Come Back",
+      "url": "https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 140133,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
         "name": "Sound & Color (Deluxe)",
         "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 247293,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 140133,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Utah",
-        "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/1Q9BAEptV3nrj8sXBHU70M"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 183333,
       "name": "Smooth Sailin'",
       "url": "https://open.spotify.com/track/3jpeI1goQHPIwwCMxrLrwx"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "Utah",
+        "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/1Q9BAEptV3nrj8sXBHU70M"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
+        "name": "You're Dreaming",
+        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 143939,
+      "name": "Powder Blue",
+      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
         "name": "For the Time Being",
         "url": "https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 245333,
       "name": "For the Time Being",
       "url": "https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
-        "name": "You're Dreaming",
-        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 143939,
-      "name": "Powder Blue",
-      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Dance For Love",
-        "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
-      },
-      "artists": [
-        {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
-        }
-      ],
-      "duration_ms": 262536,
-      "name": "Dance For Love",
-      "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "There's a Light",
         "url": "https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 277675,
       "name": "Empty Me Out",
       "url": "https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "Dance For Love",
+        "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
+      },
+      "artists": [
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        }
+      ],
+      "duration_ms": 262536,
+      "name": "Dance For Love",
+      "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Little Neon Limelight",
-        "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 202401,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/1Ww0HQhPiT0t9KRdzukr8T"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "S.O.B.",
         "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 247426,
       "name": "S.O.B.",
       "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "Little Neon Limelight",
+        "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 202401,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/1Ww0HQhPiT0t9KRdzukr8T"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
+        "name": "S\u00edminn+Spotify Session",
+        "url": "https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4"
+      },
+      "artists": [
+        {
+          "name": "J\u00fan\u00edus Meyvant",
+          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
+        }
+      ],
+      "duration_ms": 352720,
+      "name": "Neon Experience - Live from Vatnagar\u00f0ar",
+      "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
         "name": "Monterey",
         "url": "https://open.spotify.com/album/2ttSZFH721F5dC6fbZznTb"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 186016,
       "name": "First Time Feeling",
       "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
-        "name": "S\u00edminn+Spotify Session",
-        "url": "https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4"
-      },
-      "artists": [
-        {
-          "name": "J\u00fan\u00edus Meyvant",
-          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
-        }
-      ],
-      "duration_ms": 352720,
-      "name": "Neon Experience - Live from Vatnagar\u00f0ar",
-      "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 166106,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "Allen Stone",
         "url": "https://open.spotify.com/album/6thR6jvixyobv21QPAQrcz"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 238680,
       "name": "Not Yet",
       "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Aviary: Act 1",
-        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 222937,
-      "name": "Slipping",
-      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "Real Contender",
         "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 201933,
       "name": "Real Contender",
       "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "Aviary: Act 1",
+        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
+      },
+      "artists": [
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 222937,
+      "name": "Slipping",
+      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
     },
     {
       "added_at": "2022-09-30 04:00:00",

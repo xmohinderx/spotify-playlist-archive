@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 180040,
       "name": "Body Stories",
       "url": "https://open.spotify.com/track/7uICRy0IYUKeYQjZojQ2UA"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 199880,
       "name": "Duet",
       "url": "https://open.spotify.com/track/2DpRCugH6W4YelZWeprDNv"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 948600,
       "name": "Duo for Accordion & Bandoneon",
       "url": "https://open.spotify.com/track/0Q7j4wnChUGkIhxVfmVzDv"
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 392040,
       "name": "From the Backstretch - Live",
       "url": "https://open.spotify.com/track/3PY81IH55XLkkll2zgQVWQ"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 999400,
       "name": "IV Of IV",
       "url": "https://open.spotify.com/track/4wgoRq5FxguolBfMGdz4n3"
@@ -1872,6 +1872,28 @@
     },
     {
       "album": {
+        "name": "Lotto S.E.L. - Et Spel for to Eller Fleire",
+        "url": "https://open.spotify.com/album/13D88HNolpDtVGV0tcGhxb"
+      },
+      "artists": [
+        {
+          "name": "N/A",
+          "url": "https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526786,
+      "name": "Old Sound, New Sound, Borrowed Sound Blue",
+      "url": "https://open.spotify.com/track/3I6nx9swPrIqLD95fpVveO"
+    },
+    {
+      "album": {
         "name": "Four Electronic Pieces 1959-1966",
         "url": "https://open.spotify.com/album/0S9zSAOan7TcYIBGVClPpp"
       },
@@ -1975,7 +1997,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": null,
       "duration_ms": 243986,
       "name": "Pauline's Solo",
       "url": "https://open.spotify.com/track/7zM9MsyzwpYErpujQMH6YQ"
@@ -3093,7 +3115,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 865733,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/77gWQtMuwLoBHzbPyy6S9X"

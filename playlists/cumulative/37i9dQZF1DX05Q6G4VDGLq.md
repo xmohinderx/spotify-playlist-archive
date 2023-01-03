@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-401 songs - 1 day 1 hr 11 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
+402 songs - 1 day 1 hr 14 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [It Could Happen To You](https://open.spotify.com/track/6H7Gxcz5HDeuPjrmiJG9KR) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [It Could Happen To You](https://open.spotify.com/album/53e911it8lcwlOLCAPuNVa) | 3:30 | 2022-08-30 | 2022-11-01 |
 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 | 2022-06-28 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/221sAu49BeeicsRkrfn8I0) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [It Never Entered My Mind](https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d) | 4:11 | 2022-06-28 |  |
+| [It's Easier Than You Might Think](https://open.spotify.com/track/1lC6fXNgq6Bxgz8GpTkxEY) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [It's Easier Than You Might Think](https://open.spotify.com/album/7sfucyoyWUtYk5RUOPYQBj) | 2:40 | 2022-12-30 |  |
 | [It's Magic](https://open.spotify.com/track/2WUhTb5nBwDxccn0sqDWeh) | [Brooks Jazz Band](https://open.spotify.com/artist/6Kc4Zf0t3jYBys33kkknR3) | [Mack the Knife](https://open.spotify.com/album/2FfccIOiTzTUmYE751pwJw) | 4:48 | 2022-06-28 | 2022-10-08 |
 | [It's Raining Outside](https://open.spotify.com/track/6ezo3VE51Lj8IggiawcBHx) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [It's Raining Outside](https://open.spotify.com/album/72SWmZ0lZRxILVW6xNCyQS) | 3:44 | 2022-09-13 | 2022-10-08 |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-08-30 |  |
@@ -350,7 +351,7 @@
 | [The End Of A Love Affair](https://open.spotify.com/track/7K0RtjPEyD4djyUJUQUiNG) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Soon](https://open.spotify.com/album/2SIpgdBZhwz6fYZ0pGMwcu) | 6:17 | 2022-06-28 | 2022-10-08 |
 | [The Fairies](https://open.spotify.com/track/0IaY3Z8XKbNFMxMxBa5WeM) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [The Fairies](https://open.spotify.com/album/1OLkOGh5LyyqoYFlY0tvSL) | 3:00 | 2022-06-28 | 2022-10-08 |
 | [The Folks Who Live On The Hill](https://open.spotify.com/track/339eppUVQJF6JsKEiwYNWL) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Searching](https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV) | 3:45 | 2022-06-28 | 2022-11-11 |
-| [The Masquerade Is Over](https://open.spotify.com/track/3Sg76cvYesfYDtHcMQ2fxn) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [The Masquerade Is Over](https://open.spotify.com/album/0A7QiAU3NJBMHzlZliGrKp) | 4:05 | 2022-06-28 |  |
+| [The Masquerade Is Over](https://open.spotify.com/track/3Sg76cvYesfYDtHcMQ2fxn) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [The Masquerade Is Over](https://open.spotify.com/album/0A7QiAU3NJBMHzlZliGrKp) | 4:05 | 2022-06-28 | 2023-01-03 |
 | [The Masquerade Is Over](https://open.spotify.com/track/6ifkMfpjxGakTjtOWngjYw) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:59 | 2022-06-28 | 2022-10-02 |
 | [The More I See You](https://open.spotify.com/track/4dvn4VXmnKlVHByYTK2WFP) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [The More I See You](https://open.spotify.com/album/3HqHBF5BE5cxCAFtbjrjbA) | 3:49 | 2022-06-28 |  |
 | [The Nearness Of You](https://open.spotify.com/track/1SKlVBEmde9eokyAvzI9lf) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [The Nearness Of You](https://open.spotify.com/album/16pqEckMdJpXjwpWRxZYyW) | 3:58 | 2022-06-28 |  |

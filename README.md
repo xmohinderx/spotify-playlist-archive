@@ -2063,6 +2063,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Indie Rock Club](/playlists/pretty/37i9dQZF1DX35DWKgAk2B5.md)
 - [Indie Rock Road Trip](/playlists/pretty/37i9dQZF1DWUoqEG4WY6ce.md)
 - [Indie Shuffle](/playlists/pretty/37i9dQZF1DWVbu3wLXA48X.md)
+- [Indie Sleaze](/playlists/pretty/37i9dQZF1DWVmFSstZWJmo.md)
 - [Indie Spirit](/playlists/pretty/37i9dQZF1DX0IXk7nnh7Jx.md)
 - [Indie Strings](/playlists/pretty/0sDO43KAaJUWIYassTKWYf.md)
 - [Indie Sunshine](/playlists/pretty/37i9dQZF1DWUWC0NIJDJKL.md)

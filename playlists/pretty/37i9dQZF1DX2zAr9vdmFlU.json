@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
-  "num_followers": 366213,
+  "num_followers": 366254,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDkxOSwwMDAwMDAwMDA0ZTNjZDllYTNjOGFiY2Q3NDg4NWI5N2RhYzQ0YjBl",
+  "snapshot_id": "MTY2MTkzMDkxOSwwMDAwMDAwMGY4NDIxMTNmZmRjZTVjODNhOGNmMzA2ZjA0MDYzNmY4",
   "tracks": [
     {
       "added_at": "2022-08-31 07:28:39",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "El Rey Bravo",
-        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 274018,
-      "name": "Oye C\u00f3mo Va",
-      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 211400,
       "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
       "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "El Rey Bravo",
+        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 274018,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -151,22 +151,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Sonidos De Karm\u00e1tica Resonancia",
-        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 270906,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/3y7CeywdF5PUHpDJriC9tC"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 197888,
       "name": "Tiene Sabor (feat. Omara Portuondo)",
       "url": "https://open.spotify.com/track/659r0xM5pXvb5sUQG3Yl28"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Sonidos De Karm\u00e1tica Resonancia",
+        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 270906,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Some More Horizons (Digital Version)",
-        "url": "https://open.spotify.com/album/4PTCPiyD0Pwhoec2VU6rlk"
-      },
-      "artists": [
-        {
-          "name": "Mo' Horizons",
-          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
-        }
-      ],
-      "duration_ms": 328866,
-      "name": "Ai mi morena - Chocolate Restyle",
-      "url": "https://open.spotify.com/track/195rt3pQCPzYDmobHp9uL5"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Ra\u00edz",
         "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
       },
@@ -515,6 +499,38 @@
       "duration_ms": 180640,
       "name": "Cumbia del Mole",
       "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Some More Horizons (Digital Version)",
+        "url": "https://open.spotify.com/album/4PTCPiyD0Pwhoec2VU6rlk"
+      },
+      "artists": [
+        {
+          "name": "Mo' Horizons",
+          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
+        }
+      ],
+      "duration_ms": 328866,
+      "name": "Ai mi morena - Chocolate Restyle",
+      "url": "https://open.spotify.com/track/195rt3pQCPzYDmobHp9uL5"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Cantos de Vision",
+        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 329719,
+      "name": "Danza de Vision",
+      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -563,22 +579,6 @@
       "duration_ms": 354715,
       "name": "Latin Note",
       "url": "https://open.spotify.com/track/7fUr8EpRc0AC4MCPMVPIgI"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
-        "name": "Cantos de Vision",
-        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 329719,
-      "name": "Danza de Vision",
-      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
+        "name": "Harta",
+        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 185083,
+      "name": "Harta",
+      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
         "name": "Encuentro",
         "url": "https://open.spotify.com/album/5dMx0NVZdoTtrdVprK7gSz"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 236346,
       "name": "Margarita (feat. Vicente Garc\u00eda & Jose Qui\u00f1\u00f3nez)",
       "url": "https://open.spotify.com/track/6LEZkAAdNuEPE6PdEX7lrj"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
-        "name": "Harta",
-        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 185083,
-      "name": "Harta",
-      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -831,26 +831,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Eureka",
-        "url": "https://open.spotify.com/album/2LA3Z2VlhMWBAIpaAnJFmf"
-      },
-      "artists": [
-        {
-          "name": "Clemente Castillo",
-          "url": "https://open.spotify.com/artist/6xq8uO5PE2Vs9G6OsIicin"
-        },
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Calaveras y Diablitos",
-      "url": "https://open.spotify.com/track/3hEMRRpy1AiRma7mlsVqY7"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Bailables",
         "url": "https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 192007,
       "name": "Bienvenido a mi habitaci\u00f3n",
       "url": "https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Eureka",
+        "url": "https://open.spotify.com/album/2LA3Z2VlhMWBAIpaAnJFmf"
+      },
+      "artists": [
+        {
+          "name": "Clemente Castillo",
+          "url": "https://open.spotify.com/artist/6xq8uO5PE2Vs9G6OsIicin"
+        },
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Calaveras y Diablitos",
+      "url": "https://open.spotify.com/track/3hEMRRpy1AiRma7mlsVqY7"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -915,22 +915,6 @@
       "duration_ms": 133915,
       "name": "Dame un Besito",
       "url": "https://open.spotify.com/track/3XI5IKSEsGITE0zAQwj1CR"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
-        "name": "Origen",
-        "url": "https://open.spotify.com/album/1pnliPS7mvHIMlBgwK7kgO"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "El Amor Despu\u00e9s Del Amor",
-      "url": "https://open.spotify.com/track/5s7y4yEb3TGIqRMjE32MZx"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -995,6 +979,22 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/1pnliPS7mvHIMlBgwK7kgO"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "El Amor Despu\u00e9s Del Amor",
+      "url": "https://open.spotify.com/track/5s7y4yEb3TGIqRMjE32MZx"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
-        "url": "https://open.spotify.com/album/1SSdDsip5PL6hBiWrQ1QiI"
-      },
-      "artists": [
-        {
-          "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
-          "url": "https://open.spotify.com/artist/7zug34wHklQjAqvDHAhqJ3"
-        }
-      ],
-      "duration_ms": 180413,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/4htOz9gMFZStfcVz1kx3El"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Zeca Pagodinho Em Casa",
         "url": "https://open.spotify.com/album/0ihjlZ6pyIMNly2O2OLIm0"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 275466,
       "name": "Deixa A Vida Me Levar",
       "url": "https://open.spotify.com/track/3cVSl7SF1BNnCYUR3WYKd8"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
+        "url": "https://open.spotify.com/album/1SSdDsip5PL6hBiWrQ1QiI"
+      },
+      "artists": [
+        {
+          "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
+          "url": "https://open.spotify.com/artist/7zug34wHklQjAqvDHAhqJ3"
+        }
+      ],
+      "duration_ms": 180413,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/4htOz9gMFZStfcVz1kx3El"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "En Medio Del Jard\u00edn",
-        "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
-      },
-      "artists": [
-        {
-          "name": "DRIMS",
-          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "En Medio Del Jard\u00edn",
-      "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Cun Cun Pr\u00e1",
         "url": "https://open.spotify.com/album/24UH0bSpSX7dikFJI9dE0v"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+        "name": "En Medio Del Jard\u00edn",
+        "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
       },
       "artists": [
         {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+          "name": "DRIMS",
+          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
         }
       ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
+      "duration_ms": 221986,
+      "name": "En Medio Del Jard\u00edn",
+      "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1311,6 +1295,22 @@
       "duration_ms": 239800,
       "name": "Quien Sabe",
       "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Atacama!",
-        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
-      },
-      "artists": [
-        {
-          "name": "Alessio Arena",
-          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
-        }
-      ],
-      "duration_ms": 251830,
-      "name": "El hombre que quiso ser canci\u00f3n",
-      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Companeros De Mi Vida",
         "url": "https://open.spotify.com/album/5syN6MvgMAkQDOpYy8mceC"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Pel\u00edcula Muda (Primera Parte)",
-        "url": "https://open.spotify.com/album/5fiR3WAp6vuCLmxoQ88Vcd"
+        "name": "Atacama!",
+        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
       },
       "artists": [
         {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+          "name": "Alessio Arena",
+          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
         }
       ],
-      "duration_ms": 342595,
-      "name": "El Extranjero",
-      "url": "https://open.spotify.com/track/795MWYB06Kuc3w1T26ftys"
+      "duration_ms": 251830,
+      "name": "El hombre que quiso ser canci\u00f3n",
+      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1675,6 +1659,22 @@
       "duration_ms": 200145,
       "name": "El Bombo",
       "url": "https://open.spotify.com/track/6Y8ezCRn008lOajLva47nN"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Pel\u00edcula Muda (Primera Parte)",
+        "url": "https://open.spotify.com/album/5fiR3WAp6vuCLmxoQ88Vcd"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 342595,
+      "name": "El Extranjero",
+      "url": "https://open.spotify.com/track/795MWYB06Kuc3w1T26ftys"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Songs From The Tin",
-        "url": "https://open.spotify.com/album/0zhr7bMdhtlQioU1qDklVl"
-      },
-      "artists": [
-        {
-          "name": "Da Lata",
-          "url": "https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN"
-        }
-      ],
-      "duration_ms": 373133,
-      "name": "Pra Manha",
-      "url": "https://open.spotify.com/track/0rvFckXmDJA6XjH1k26OZq"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Ondatr\u00f3pica",
         "url": "https://open.spotify.com/album/7yjJJnG1eUZRJkwHcjqg8Y"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 273466,
       "name": "Tiene Sabor, Tiene Saz\u00f3n",
       "url": "https://open.spotify.com/track/7CPu17eltuCnWj3QZtlI8Z"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Songs From The Tin",
+        "url": "https://open.spotify.com/album/0zhr7bMdhtlQioU1qDklVl"
+      },
+      "artists": [
+        {
+          "name": "Da Lata",
+          "url": "https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN"
+        }
+      ],
+      "duration_ms": 373133,
+      "name": "Pra Manha",
+      "url": "https://open.spotify.com/track/0rvFckXmDJA6XjH1k26OZq"
     }
   ],
   "unique_name": "Latin Dinner",

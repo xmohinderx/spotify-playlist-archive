@@ -4,7 +4,7 @@
 
 > R&B sensual para una apasionada noche en excelente compañía.
 
-69 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/1i4e9zZGg6WcrvjDTSglUO)
+70 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/1i4e9zZGg6WcrvjDTSglUO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [altar](https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 4:04 | 2022-04-18 |  |
 | [Always n Forever \(feat\. Lil Baby\)](https://open.spotify.com/track/6dbENHQHHtWRai4snSvy2w) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [RY RY WORLD](https://open.spotify.com/album/6i1OieEQCZaMlQZZ44VLON) | 3:17 | 2022-04-18 |  |
 | [Another Lifetime](https://open.spotify.com/track/48WTGGIeSFD5ZMF51Rm4Y9) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:29 | 2022-04-18 |  |
-| [BELIEVE IT](https://open.spotify.com/track/118aglbgrsb8w0cRsynoMq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [At My Worst \- Chilled Pop](https://open.spotify.com/album/5LeKEWV2BkMFRjnIjSXHdJ) | 3:03 | 2022-04-18 |  |
+| [BELIEVE IT](https://open.spotify.com/track/118aglbgrsb8w0cRsynoMq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [At My Worst \- Chilled Pop](https://open.spotify.com/album/5LeKEWV2BkMFRjnIjSXHdJ) | 3:03 | 2022-04-18 | 2023-01-03 |
 | [BELIEVE IT](https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 3:03 | 2022-04-18 | 2023-01-01 |
+| [BELIEVE IT](https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:03 | 2022-04-18 |  |
 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:29 | 2022-04-18 |  |
 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/2ynqtdm2zE73wuNKjGItwp) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/album/6xfzpf7F4Czvs7XMGaNWEr) | 3:03 | 2022-04-18 | 2023-01-02 |
 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/759KqKQyDmTWJape4odo21) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:03 | 2022-04-18 |  |

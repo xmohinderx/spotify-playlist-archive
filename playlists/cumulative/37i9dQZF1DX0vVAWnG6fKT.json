@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 135706,
       "name": "Bubbles In My Beer - Single Version",
       "url": "https://open.spotify.com/track/4A2dABZi18gmKGizp0ubyn"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173693,
       "name": "Cherokee Maiden",
       "url": "https://open.spotify.com/track/0nBjrklebmieCxTBY4jITG"
@@ -690,6 +690,28 @@
     },
     {
       "album": {
+        "name": "Presenting Patsy Montana",
+        "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
+      },
+      "artists": [
+        {
+          "name": "Patsy Montana",
+          "url": "https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG"
+        },
+        {
+          "name": "Prairie Ramblers",
+          "url": "https://open.spotify.com/artist/6BULiiddM6bpoauWBhCW2W"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "I Want to Be a Cowboy's Sweetheart",
+      "url": "https://open.spotify.com/track/0vm8Va7eps0w4DlQ8QWjFd"
+    },
+    {
+      "album": {
         "name": "The Complete Hank Williams",
         "url": "https://open.spotify.com/album/6tQ1p5gjEujiZGAK10pY1f"
       },
@@ -1128,6 +1150,24 @@
     },
     {
       "album": {
+        "name": "Presenting Patsy Montana",
+        "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
+      },
+      "artists": [
+        {
+          "name": "Patsy Montana",
+          "url": "https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176653,
+      "name": "Old Nevada Moon",
+      "url": "https://open.spotify.com/track/3rhYzTf2LKvMd4K0JkcL3E"
+    },
+    {
+      "album": {
         "name": "The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
@@ -1255,7 +1295,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 216560,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3Vtcjs5wVanh6LocIRrpwy"
@@ -1995,7 +2035,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 172000,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/32Mjgo3oqzlVwaTpidm000"

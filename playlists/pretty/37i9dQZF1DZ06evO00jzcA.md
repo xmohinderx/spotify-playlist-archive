@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,645 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,870 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 49 | [Goin' Blind \- Live](https://open.spotify.com/track/0iX0reYVBCXyLfPg6zgyP9) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 3:27 |
 | 50 | [Creatures Of The Night](https://open.spotify.com/track/1ximfMNQcS4HLKK5sAdZDO) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Box Set](https://open.spotify.com/album/1aQUAWtVCilkjTK9fnoJ3e) | 4:02 |
 
-Snapshot ID: `Mjc4NzYzNDMsMDAwMDAwMDA4NzkwYTU4NTI1ZDhjYTdkNTc0NTk1ZDU5YzBhNTAzNQ==`
+Snapshot ID: `Mjc4Nzc3NTksMDAwMDAwMDA3OTA0Y2YzY2NkYTM3ZTY0MjUxNTA0MmUwNDcyYzkwYg==`

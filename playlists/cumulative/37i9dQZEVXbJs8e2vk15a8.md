@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-682 songs - 1 day 14 hr 2 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
+683 songs - 1 day 14 hr 5 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 | 2022-04-15 | 2022-05-04 |
 | [Blackest Eyes \- Remastered](https://open.spotify.com/track/72MXwlutXRUV31lmFhylgn) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [In Absentia \(Deluxe \- Remastered\)](https://open.spotify.com/album/38d7C2XIoUX0v5cU0HuSSW) | 4:24 | 2022-10-11 | 2022-10-14 |
 | [Blin Blin Blin Blan](https://open.spotify.com/track/71zt6MfZmy1kcOXaLqS5Ie) | [King Blvck](https://open.spotify.com/artist/03EM6UHgNRnx8RGKQApVQA) | [Blin Blin Blin Blan](https://open.spotify.com/album/44LSJkLPRq6cK96LWqzo3o) | 1:51 | 2022-08-26 | 2022-09-18 |
-| [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-01 |  |
+| [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-01 | 2023-01-03 |
 | [Body Paint](https://open.spotify.com/track/42GuKw49pPxNAkIhWGwgFs) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 4:50 | 2022-10-25 | 2022-11-06 |
 | [BORRACHA](https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql) | [Felix Klain](https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [BORRACHA](https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex) | 3:24 | 2022-06-21 | 2022-07-04 |
 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 | 2022-12-27 |  |
@@ -680,6 +680,7 @@
 | [Yo No Te Pido](https://open.spotify.com/track/7h7IkK9jXlc2szCeexTDHG) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [No Me Pidas](https://open.spotify.com/album/4Cz3T17VDkaF6x1OdgSolu) | 2:47 | 2022-11-23 | 2022-12-01 |
 | [Yo Quiero](https://open.spotify.com/track/5prjQ7QCWQXH84EUwIckgB) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Yo Quiero](https://open.spotify.com/album/5kzinI28FtIP1UjxPtQ528) | 3:29 | 2022-05-31 | 2022-06-14 |
 | [Yolanda](https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Yo Me Quedo](https://open.spotify.com/album/3tOrqsV4WmxXbI57j3RHvU) | 4:38 | 2022-11-23 | 2022-12-01 |
+| [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2023-01-02 |  |
 | [You're On Your Own, Kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-11-15 | 2022-11-24 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-10 | 2022-05-25 |
 | [\|BONKERS\|](https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS) | [staplegun](https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI) | [\|BONKERS\|](https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr) | 3:32 | 2022-09-09 | 2022-10-05 |

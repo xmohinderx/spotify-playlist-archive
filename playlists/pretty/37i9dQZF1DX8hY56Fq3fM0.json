@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 184224,
+  "num_followers": 184433,
   "original_name": "Energy Booster: Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3MjgwMCwwMDAwMDAwMDVmYTZhY2E2ZDI1Y2QxMjI2MDM4ODc2MmY2ZTczZDBi",
+  "snapshot_id": "MTY2ODc3MjgwMCwwMDAwMDAwMGZhNTdhMmRlYzM0MzIzYTRiZjg0NWExNDUyODcyMDEx",
   "tracks": [
     {
       "added_at": "2022-11-18 12:00:00",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 193030,
+      "name": "Snap Out Of It",
+      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 467586,
       "name": "Let It Happen",
       "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 193030,
-      "name": "Snap Out Of It",
-      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "Cure For Me",
-      "url": "https://open.spotify.com/track/33WTgxRdPBQQpVCMXpNxhO"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Lonerism",
         "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
@@ -331,6 +315,22 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 201640,
+      "name": "Cure For Me",
+      "url": "https://open.spotify.com/track/33WTgxRdPBQQpVCMXpNxhO"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
         "name": "Hurry Up, We're Dreaming",
         "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
@@ -343,22 +343,6 @@
       "duration_ms": 241440,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 277506,
-      "name": "Supercut",
-      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -427,6 +411,22 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 277506,
+      "name": "Supercut",
+      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Pleaser",
-        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187895,
-      "name": "Pleaser",
-      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Holy Fire",
         "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
+        "name": "Pleaser",
+        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187895,
+      "name": "Pleaser",
+      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
         "name": "Oh No",
         "url": "https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "The Balcony",
-        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 160886,
-      "name": "Kathleen",
-      "url": "https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Hypersonic Missiles",
         "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 162600,
       "name": "Will We Talk?",
       "url": "https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "The Balcony",
+        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 160886,
+      "name": "Kathleen",
+      "url": "https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Strange Desire",
-        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
+        "name": "The Balcony",
+        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 188866,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
+      "duration_ms": 236887,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -695,6 +695,38 @@
       "duration_ms": 191800,
       "name": "Howlin' for You",
       "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "saintmotelevision",
+        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 192040,
+      "name": "Sweet Talk",
+      "url": "https://open.spotify.com/track/6kcHg7XL6SKyPNd78daRBL"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Strange Desire",
+        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -727,38 +759,6 @@
       "duration_ms": 249382,
       "name": "Fire and the Flood",
       "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
-        "name": "The Balcony",
-        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 236887,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
-        "name": "saintmotelevision",
-        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 192040,
-      "name": "Sweet Talk",
-      "url": "https://open.spotify.com/track/6kcHg7XL6SKyPNd78daRBL"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 177511,
-      "name": "My Love - Edit",
-      "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 262209,
       "name": "Meet Me in the Woods",
       "url": "https://open.spotify.com/track/1bqrRn1pJWowNLA5N9L6uW"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 177511,
+      "name": "My Love - Edit",
+      "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Gone Now",
-        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 215546,
-      "name": "Don't Take The Money",
-      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 212146,
       "name": "Genghis Khan",
       "url": "https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Gone Now",
+        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 215546,
+      "name": "Don't Take The Money",
+      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Everything Else Has Gone Wrong",
-        "url": "https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 219893,
-      "name": "Eat, Sleep, Wake (Nothing But You)",
-      "url": "https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Signs of Light",
         "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 225560,
       "name": "All We Ever Knew",
       "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Everything Else Has Gone Wrong",
+        "url": "https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 219893,
+      "name": "Eat, Sleep, Wake (Nothing But You)",
+      "url": "https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "All I Want To Hear You Say",
-        "url": "https://open.spotify.com/album/1q1jS5K0GVUbJL7NySZM3F"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 190693,
-      "name": "All I Want To Hear You Say",
-      "url": "https://open.spotify.com/track/7BZWTu4Pv77TxGmmsQaSXN"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Kids In Love",
         "url": "https://open.spotify.com/album/4M2p2BIRHIeBu8Ew9IBQ0s"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Dear Miss Lonelyhearts",
-        "url": "https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy"
+        "name": "All I Want To Hear You Say",
+        "url": "https://open.spotify.com/album/1q1jS5K0GVUbJL7NySZM3F"
       },
       "artists": [
         {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
         }
       ],
-      "duration_ms": 180133,
-      "name": "Miracle Mile",
-      "url": "https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK"
+      "duration_ms": 190693,
+      "name": "All I Want To Hear You Say",
+      "url": "https://open.spotify.com/track/7BZWTu4Pv77TxGmmsQaSXN"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1527,6 +1511,22 @@
       "duration_ms": 163626,
       "name": "Harlem",
       "url": "https://open.spotify.com/track/573latfTMO7SpGtStVrQx5"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Dear Miss Lonelyhearts",
+        "url": "https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Miracle Mile",
+      "url": "https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK"
     },
     {
       "added_at": "2022-11-18 12:00:00",

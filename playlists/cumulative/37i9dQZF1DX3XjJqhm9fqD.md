@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Michael Benjamin
 
-146 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/3ur3vTrlhNCzIjyRqhoVJ8)
+147 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/3ur3vTrlhNCzIjyRqhoVJ8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All on Me](https://open.spotify.com/track/3q3o1X4nGTeaBKeUmotLx4) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk), [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 3:07 | 2021-12-06 |  |
 | [Apre bal la](https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [Apre bal la](https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd) | 3:57 | 2021-12-06 |  |
 | [Ayibobo](https://open.spotify.com/track/6NALXWBiw7iCydGxxKoSVI) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Lenny Auguste](https://open.spotify.com/artist/3pwVQFBfXLboDOnLCfPezC) | [Ayibobo](https://open.spotify.com/album/1xnzux2cqtpKfiWVIi5PLJ) | 3:28 | 2022-07-14 |  |
+| [Ayizan](https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY) | 6:40 | 2022-11-18 |  |
 | [Ayizan](https://open.spotify.com/track/7Dy2z4DuyXOcwFBcSY42aX) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/0RahduaPCp3gU0jRK3zZHy) | 6:40 | 2021-12-06 | 2022-11-02 |
 | [Ayyy](https://open.spotify.com/track/4VYw7E6sI15Y5wvGN36Cx5) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Ayyy](https://open.spotify.com/album/0ZiHsWkTYNhkuBJ5VWLt2T) | 2:46 | 2021-12-06 |  |
 | [Ba L on Bye \(Remix\)](https://open.spotify.com/track/4fWZzg3eAFjAakACvYO9nD) | [Enposib](https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn), [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB) | [Ba L on Bye \(Remix\)](https://open.spotify.com/album/4C8j0BgGIJa0nNqnzlAMMH) | 3:36 | 2021-12-06 |  |
@@ -37,7 +38,7 @@
 | [Chasing Amy](https://open.spotify.com/track/3KSQ1BjRT0T4dnu6Z7UL8c) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [Before I Spill Myself](https://open.spotify.com/album/3AK7VAPf2hnnLMpITKokgq) | 4:08 | 2021-12-06 |  |
 | [Comme Papa](https://open.spotify.com/track/5ISI8j1HmsXIRzFtxAwuBn) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 3:40 | 2021-12-06 |  |
 | [Crush la](https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP) | [Vanessa Desire](https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa), [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB) | [Fòs](https://open.spotify.com/album/4vdLW8X1NRUrlBrbamczWX) | 3:54 | 2022-07-14 |  |
-| [Culo](https://open.spotify.com/track/76z00avJmFVkjRcnufMEou) | [Jamhaitian](https://open.spotify.com/artist/5q7fo2hqaDSFvvr8wLZzHq) | [Culo](https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES) | 3:12 | 2022-09-30 |  |
+| [Culo](https://open.spotify.com/track/76z00avJmFVkjRcnufMEou) | [Jamhaitian](https://open.spotify.com/artist/5q7fo2hqaDSFvvr8wLZzHq) | [Culo](https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES) | 3:12 | 2022-09-30 | 2023-01-03 |
 | [Dassit](https://open.spotify.com/track/6TDGueJuplnLpbww2YQPM0) | [KOLO](https://open.spotify.com/artist/2CICr3LR6jHHl0V6DmAtWE), [KeyAra](https://open.spotify.com/artist/5ip5n1ajctLiO63CCJfEv6) | [Dassit](https://open.spotify.com/album/4IaH8qCfa0zRTZZhbwMLpO) | 2:37 | 2021-12-06 | 2022-10-14 |
 | [Dejanbem](https://open.spotify.com/track/1zv4dnCKkvsrsT9POHyYj5) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 3:33 | 2021-12-06 |  |
 | [Dekonekte](https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj) | [Florence El Luche](https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1) | [Dekonekte](https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H) | 3:46 | 2021-12-06 |  |

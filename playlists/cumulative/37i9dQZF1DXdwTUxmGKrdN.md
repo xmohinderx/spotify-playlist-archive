@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-204 songs - 15 hr 3 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
+205 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Consequences](https://open.spotify.com/track/6yLOYaqyHjHBiAIGwEj1Xt) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Soul City](https://open.spotify.com/album/4wjBRmKPL5VVnLwEBZ0GtR) | 3:56 | 2021-12-27 | 2022-07-27 |
 | [Cruising](https://open.spotify.com/track/6LyFVLSOjBL9gh5Q6fwAVK) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe) | 5:38 | 2022-08-01 |  |
 | [Cruising](https://open.spotify.com/track/7C90grbsFHtsmGac0clKhm) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/5m0YhT07QfRVhcnjGmrBZS) | 5:38 | 2021-12-27 | 2022-07-12 |
-| [Deep Blue C](https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U), [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Deep Blue C](https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0) | 4:26 | 2022-05-23 | 2022-12-30 |
+| [Deep Blue C](https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U), [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Deep Blue C](https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0) | 4:26 | 2022-05-23 |  |
 | [Down Here On The Ground](https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Let's Get Away](https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD) | 3:25 | 2022-07-11 | 2022-07-25 |
 | [Driftin'](https://open.spotify.com/track/1HvNKIGfKzR5I26EuLXDwv) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [The Spice Of Life](https://open.spotify.com/album/142E2CAmo6Cnr5LXmIozky) | 3:48 | 2022-04-11 | 2022-04-21 |
 | [Driftin'](https://open.spotify.com/track/55lgoqbpgD5cdCfms3MEC2) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [The Spice Of Life](https://open.spotify.com/album/0PSCIKNXpjCmTqUr76NdHx) | 3:48 | 2022-12-22 |  |
@@ -119,7 +119,7 @@
 | [Let It Shine](https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:06 | 2022-01-10 |  |
 | [Let's Get Serious](https://open.spotify.com/track/4RTGS87OcG5XjKfM7VsJk4) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Let's Get Serious](https://open.spotify.com/album/49K4eS0dajl4UzTYEMb5Zj) | 4:06 | 2021-12-27 | 2022-07-29 |
 | [Let’s Get Serious](https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM) | 4:06 | 2022-07-18 |  |
-| [Lift Every Voice And Sing](https://open.spotify.com/track/2HvU1gv4A2GZ5v0m9MVkjS) | [Mike Phillips](https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb) | [Mike Phillips](https://open.spotify.com/album/4FomqjIojtkML36UO4rW7W) | 2:02 | 2022-12-20 |  |
+| [Lift Every Voice And Sing](https://open.spotify.com/track/2HvU1gv4A2GZ5v0m9MVkjS) | [Mike Phillips](https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb) | [Mike Phillips](https://open.spotify.com/album/4FomqjIojtkML36UO4rW7W) | 2:02 | 2022-12-20 | 2023-01-03 |
 | [Lifted](https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg) | [Phil Denny](https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH) | [Lifted](https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9) | 4:20 | 2021-12-27 |  |
 | [Lip Service](https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:35 | 2022-07-18 |  |
 | [Lip Service](https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:35 | 2021-12-27 | 2022-07-29 |
@@ -167,6 +167,7 @@
 | [Sky Watcher](https://open.spotify.com/track/6M5Zlr1uSlLksVBVy5q6uq) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:02 | 2022-07-18 |  |
 | [Sky Watcher](https://open.spotify.com/track/6fL5Bg8dzMTnmYz9NVnFGf) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Out Of A Dream](https://open.spotify.com/album/6zHqMQut7wD5vAnyDf78pt) | 4:02 | 2022-04-11 | 2022-04-21 |
 | [Sliver Moon](https://open.spotify.com/track/4IXhfpRsjaIocu1YOXSVpF) | [Dwight Sills](https://open.spotify.com/artist/6MtRZ8y10C26lLb1LZ9xiH) | [Easy](https://open.spotify.com/album/7ccpGuH9fqMtC5nH65NdHS) | 5:13 | 2022-04-11 | 2022-04-13 |
+| [So Many Ways](https://open.spotify.com/track/5M4hx3dAvctkZhArX9SWrh) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [So Many Ways](https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw) | 4:07 | 2023-01-02 |  |
 | [Soleh](https://open.spotify.com/track/56YE4O9RrVQa1JNy0ytneB) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [usj2p0800041](https://open.spotify.com/artist/0T0SSwN3JVvR8embQTIamo), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Pearls](https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF) | 3:43 | 2022-04-11 | 2022-04-21 |
 | [Something About You](https://open.spotify.com/track/06vu8fZlTlL7okvLGzhr47) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Something About You](https://open.spotify.com/album/5EHFd3yxzZdDvUiRuwSsTR) | 5:13 | 2022-07-18 |  |
 | [Something About You](https://open.spotify.com/track/2rtiJtfuR6nMofzbdq1y5V) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Something About You](https://open.spotify.com/album/1DAKxl6tghAvbXoGWtEixv) | 5:13 | 2021-12-27 | 2022-07-29 |
@@ -183,7 +184,7 @@
 | [Stockholm Summer](https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A) | 4:55 | 2021-12-27 | 2022-07-29 |
 | [Stockholm Summer](https://open.spotify.com/track/7nDChpaHBKx9ZCJmEcTdtX) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ) | 4:55 | 2022-07-18 |  |
 | [Stop, Look, Listen \(To Your Heart\)](https://open.spotify.com/track/24Wg5AQK6AaNyZBTpL1unQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 4:56 | 2022-01-03 |  |
-| [Stronger Now](https://open.spotify.com/track/1ldNcaMyLRYnRgYORskmlX) | [Carol Albert](https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm) | [Stronger Now](https://open.spotify.com/album/2rE6572rB3fOGktDLQWzdC) | 3:43 | 2021-12-27 |  |
+| [Stronger Now](https://open.spotify.com/track/1ldNcaMyLRYnRgYORskmlX) | [Carol Albert](https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm) | [Stronger Now](https://open.spotify.com/album/2rE6572rB3fOGktDLQWzdC) | 3:43 | 2021-12-27 | 2023-01-03 |
 | [Stylin'](https://open.spotify.com/track/40UbNyeFo1F7ETJ4zLi14e) | [Gregory Goodloe](https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY) | [Stylin'](https://open.spotify.com/album/042LSaaSuwj4MCZIxDX59c) | 4:07 | 2022-04-11 |  |
 | [Suede](https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Player's Club](https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U) | 4:16 | 2022-07-18 |  |
 | [Suede](https://open.spotify.com/track/5jmb1MEFD9GjRfy3E2MhEl) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Player's Club](https://open.spotify.com/album/2oD4MAvCNjWlhMia9x9QmS) | 4:16 | 2022-04-11 | 2022-06-04 |

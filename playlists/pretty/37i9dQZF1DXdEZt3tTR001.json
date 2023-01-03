@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 92115,
+  "num_followers": 92286,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI2NDgwMSwwMDAwMDAwMDYwZDI2YTI1ZGFiNjg2MTExYmIzNDNiZDk0ZWU0ZDRm",
+  "snapshot_id": "MTY3MjI2NDgwMSwwMDAwMDAwMDExMjI3N2RmNDdlYzJkMmUxOWUyZTY2NmY4MGJlZjhl",
   "tracks": [
     {
       "added_at": "2022-12-28 22:00:01",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-12-28 22:00:01",
       "album": {
+        "name": "Fortunate",
+        "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 301160,
+      "name": "Fortunate",
+      "url": "https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E"
+    },
+    {
+      "added_at": "2022-12-28 22:00:01",
+      "album": {
         "name": "Love Soul",
         "url": "https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
-    },
-    {
-      "added_at": "2022-12-28 22:00:01",
-      "album": {
-        "name": "Fortunate",
-        "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 301160,
-      "name": "Fortunate",
-      "url": "https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E"
     },
     {
       "added_at": "2022-12-28 22:00:01",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-12-28 22:00:01",
       "album": {
-        "name": "How Could I Forget You",
-        "url": "https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy"
-      },
-      "artists": [
-        {
-          "name": "Etta Bond",
-          "url": "https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA"
-        }
-      ],
-      "duration_ms": 214054,
-      "name": "How Could I Forget You",
-      "url": "https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi"
-    },
-    {
-      "added_at": "2022-12-28 22:00:01",
-      "album": {
         "name": "Lost And Found",
         "url": "https://open.spotify.com/album/0CMYJkOIYIZjo6wCJtlZNq"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 277666,
       "name": "Alright",
       "url": "https://open.spotify.com/track/1wRQqmZwiF4thdQ8N7FiNv"
+    },
+    {
+      "added_at": "2022-12-28 22:00:01",
+      "album": {
+        "name": "How Could I Forget You",
+        "url": "https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy"
+      },
+      "artists": [
+        {
+          "name": "Etta Bond",
+          "url": "https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA"
+        }
+      ],
+      "duration_ms": 214054,
+      "name": "How Could I Forget You",
+      "url": "https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi"
     },
     {
       "added_at": "2022-12-28 22:00:01",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-12-28 22:00:01",
       "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 249106,
-      "name": "Movies",
-      "url": "https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0"
-    },
-    {
-      "added_at": "2022-12-28 22:00:01",
-      "album": {
         "name": "ALICIA",
         "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 245333,
       "name": "Jill Scott (feat. Jill Scott)",
       "url": "https://open.spotify.com/track/7ajm1QlAaMFkNFlpZbcceL"
+    },
+    {
+      "added_at": "2022-12-28 22:00:01",
+      "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 249106,
+      "name": "Movies",
+      "url": "https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0"
     },
     {
       "added_at": "2022-12-28 22:00:01",

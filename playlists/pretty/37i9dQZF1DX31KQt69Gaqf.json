@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 182842,
+  "num_followers": 182844,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDgwM2I3ZTViNzIxZThmODU1MTY2ZDQwMTcwMGExM2I0",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMGY5NzZkNjBjYzE4MzVlOTY2YjQwMjgzNjgxYzMyZTEx",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -269,6 +269,26 @@
       "url": "https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to"
     },
     {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "I Wonder Why",
+        "url": "https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 228347,
+      "name": "I Wonder Why",
+      "url": "https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp"
+    },
+    {
       "added_at": "2021-09-22 10:11:59",
       "album": {
         "name": "When You Were Mine",
@@ -299,26 +319,6 @@
       "duration_ms": 236640,
       "name": "Bittersweet - Radio Edit",
       "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "I Wonder Why",
-        "url": "https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 228347,
-      "name": "I Wonder Why",
-      "url": "https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -407,22 +407,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "AUATC",
-        "url": "https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 142125,
-      "name": "AUATC",
-      "url": "https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Undecided (with Marie Dahlstrom)",
         "url": "https://open.spotify.com/album/3JfLwZQDIGfCtsUXJpiFcG"
       },
@@ -443,18 +427,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+        "name": "AUATC",
+        "url": "https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 221933,
-      "name": "The Walls Are Way Too Thin",
-      "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
+      "duration_ms": 142125,
+      "name": "AUATC",
+      "url": "https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -471,6 +455,22 @@
       "duration_ms": 242854,
       "name": "Question It All",
       "url": "https://open.spotify.com/track/2IFhH2i9jxSZoqgzV9jipi"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "The Walls Are Way Too Thin",
+      "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -867,22 +867,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Little Oblivions",
-        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Faith Healer",
-      "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 197640,
       "name": "Good Woman",
       "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Little Oblivions",
+        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Faith Healer",
+      "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1263,18 +1263,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "California Screaming",
-        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f"
       },
       "artists": [
         {
-          "name": "Liz Lawrence",
-          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
         }
       ],
-      "duration_ms": 197000,
-      "name": "California Screaming",
-      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
+      "duration_ms": 236486,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1299,6 +1303,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "California Screaming",
+        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
+      },
+      "artists": [
+        {
+          "name": "Liz Lawrence",
+          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "California Screaming",
+      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Gladstone",
         "url": "https://open.spotify.com/album/5XWJvBc60xAv1WSn3EIPPw"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 174166,
       "name": "Gladstone",
       "url": "https://open.spotify.com/track/7y8stO3CzbhstlHg6cYBs4"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f"
-      },
-      "artists": [
-        {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
-        },
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 236486,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
     },
     {
       "added_at": "2021-08-12 14:57:38",

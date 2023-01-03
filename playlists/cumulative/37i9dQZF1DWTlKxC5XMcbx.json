@@ -26,6 +26,36 @@
     },
     {
       "album": {
+        "name": "Straight Road",
+        "url": "https://open.spotify.com/album/248dwcccpMSMb7giqK1nJg"
+      },
+      "artists": [
+        {
+          "name": "Gathering in Jazz",
+          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Heine Hansen",
+          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285969,
+      "name": "A Flower Is a Lovesome Thing",
+      "url": "https://open.spotify.com/track/5m5k5wCQiXimPD5V4ik6VN"
+    },
+    {
+      "album": {
         "name": "Presenting Ray Bryant",
         "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
       },
@@ -113,7 +143,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 389773,
       "name": "Alone And I - Remastered 2007",
       "url": "https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o"
@@ -321,6 +351,36 @@
       "duration_ms": 442506,
       "name": "Chelsea Bridge",
       "url": "https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB"
+    },
+    {
+      "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy"
+      },
+      "artists": [
+        {
+          "name": "Nello Toscano",
+          "url": "https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR"
+        },
+        {
+          "name": "Seby Burgio",
+          "url": "https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf"
+        },
+        {
+          "name": "Alessandro Presti",
+          "url": "https://open.spotify.com/artist/1L9dcenPN5mRCnw0cYX5yH"
+        },
+        {
+          "name": "Peppe Tringali",
+          "url": "https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313040,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj"
     },
     {
       "album": {
@@ -1167,7 +1227,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 323226,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"

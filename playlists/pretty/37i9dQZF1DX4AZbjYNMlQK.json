@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Feliz Navidad! Celebra los d\u00edas festivos con estas canciones. ",
-  "num_followers": 289486,
+  "num_followers": 289456,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczNDI2OSwwMDAwMDAwMDEzZjA4M2YyN2VhMDA2N2IwZTdjZWRlNDEwMDkzNzRh",
+  "snapshot_id": "MTY3MTczNDI2OSwwMDAwMDAwMGM3OTEwZDM3Yzk5ZDEwZTc0NTY3MDkxYzBmZjM0NGNk",
   "tracks": [
     {
       "added_at": "2022-12-22 18:37:48",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 171535,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
-    },
-    {
-      "added_at": "2022-12-22 18:37:48",
-      "album": {
         "name": "Otro a\u00f1o +",
         "url": "https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 100231,
       "name": "Otro a\u00f1o +",
       "url": "https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj"
+    },
+    {
+      "added_at": "2022-12-22 18:37:48",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 171535,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
     },
     {
       "added_at": "2022-12-22 18:37:48",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
-        "name": "Esta Navidad",
-        "url": "https://open.spotify.com/album/3vmbZ0rnrXXdv5mhJLfGgQ"
-      },
-      "artists": [
-        {
-          "name": "Janine",
-          "url": "https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z"
-        }
-      ],
-      "duration_ms": 215310,
-      "name": "Esta Navidad",
-      "url": "https://open.spotify.com/track/4NaX0GnWbYcgTSkmvRLYYC"
-    },
-    {
-      "added_at": "2022-12-22 18:37:48",
-      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 216038,
       "name": "Nuestra Canci\u00f3n De Navidad",
       "url": "https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0"
+    },
+    {
+      "added_at": "2022-12-22 18:37:48",
+      "album": {
+        "name": "Esta Navidad",
+        "url": "https://open.spotify.com/album/3vmbZ0rnrXXdv5mhJLfGgQ"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z"
+        }
+      ],
+      "duration_ms": 215310,
+      "name": "Esta Navidad",
+      "url": "https://open.spotify.com/track/4NaX0GnWbYcgTSkmvRLYYC"
     },
     {
       "added_at": "2022-12-22 18:37:48",

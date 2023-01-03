@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 74748,
+  "num_followers": 74799,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGIwNmI5YzZiODJkMzg4NjY3NzY0ZWY5MjFjZTg5YmNj",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDNhMTYzNzlmYjIyZjlmMDZmYTBlZGQ4OTQxZThjZTk2",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
-        "url": "https://open.spotify.com/album/2vz9bOelnO5EoDBPkzEJjt"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/4qrNDqLkVXz7t5fJnGqr6B"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Sings For Two In Love",
         "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 169786,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/4bIeo029q0hlNl2d3XJ0iM"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
+        "url": "https://open.spotify.com/album/2vz9bOelnO5EoDBPkzEJjt"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/4qrNDqLkVXz7t5fJnGqr6B"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -347,26 +347,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: 6 Songs / Corea: Children's Songs",
-        "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
-      },
-      "artists": [
-        {
-          "name": "Leon Bates",
-          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
-        },
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Fascinatin' Rhythm",
-      "url": "https://open.spotify.com/track/7MQ1HfXBLl4y23fHNEZMgQ"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Sarah Vaughan Sings George Gershwin",
         "url": "https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 132826,
       "name": "7 Virtuoso Etudes: 1. I Got Rhythm (after G. Gershwin)",
       "url": "https://open.spotify.com/track/1MCCJo3HPgOZkGAd2BmTuZ"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: 6 Songs / Corea: Children's Songs",
+        "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
+      },
+      "artists": [
+        {
+          "name": "Leon Bates",
+          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Fascinatin' Rhythm",
+      "url": "https://open.spotify.com/track/7MQ1HfXBLl4y23fHNEZMgQ"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -763,26 +763,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
-        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Benjamin Grosvenor",
-          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "Love Walked In",
-      "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: We got Rhythm - A Gershwin Songbook",
         "url": "https://open.spotify.com/album/5dpk1t1HctEJEQRZHlvVqE"
       },
@@ -803,8 +783,8 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Piano Concerto - Second Rhapsody - I Got Rhythm Variations",
-        "url": "https://open.spotify.com/album/1Pe0dxZvRLFe0GnAMfzko2"
+        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
+        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
       },
       "artists": [
         {
@@ -812,21 +792,13 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
         {
-          "name": "Orion Weiss",
-          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        },
-        {
-          "name": "Joann Falletta",
-          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
         }
       ],
-      "duration_ms": 438560,
-      "name": "Piano Concerto in F Major: III. Allegro con brio",
-      "url": "https://open.spotify.com/track/6VDflF21RwoPqEE4vmqGyi"
+      "duration_ms": 239693,
+      "name": "Love Walked In",
+      "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -875,6 +847,34 @@
       "duration_ms": 131400,
       "name": "Three-Quarter Blues",
       "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Piano Concerto - Second Rhapsody - I Got Rhythm Variations",
+        "url": "https://open.spotify.com/album/1Pe0dxZvRLFe0GnAMfzko2"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Orion Weiss",
+          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "duration_ms": 438560,
+      "name": "Piano Concerto in F Major: III. Allegro con brio",
+      "url": "https://open.spotify.com/track/6VDflF21RwoPqEE4vmqGyi"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin Take Two",
-        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Simon Tedeschi",
-          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
-        }
-      ],
-      "duration_ms": 47426,
-      "name": "I'll Build a Stairway to Paradise",
-      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Michael Tilson Thomas Conducts Gershwin",
         "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 498373,
       "name": "Let 'Em Eat Cake: Overture",
       "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin Take Two",
+        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Simon Tedeschi",
+          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
+        }
+      ],
+      "duration_ms": 47426,
+      "name": "I'll Build a Stairway to Paradise",
+      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
     },
     {
       "added_at": "2022-08-05 04:02:00",

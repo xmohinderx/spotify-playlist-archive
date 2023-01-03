@@ -4,7 +4,7 @@
 
 > This is R&B in Canada, elevate your aura with Diddy & PARTYNEXTDOOR.
 
-483 songs - 1 day 1 hr 19 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
+484 songs - 1 day 1 hr 23 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,8 +79,9 @@
 | [Choosy](https://open.spotify.com/track/0ZEhKJ9OqLrZyoftWnuyGK) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [Choosy](https://open.spotify.com/album/1BJpudHLMJaIJUCbIaXhPz) | 3:18 | 2022-08-05 | 2022-10-01 |
 | [Closure](https://open.spotify.com/track/1OcnAp6rB3ZbQbXw1ncAI3) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Closure](https://open.spotify.com/album/1MqcGz8uF79zpVcH75JH19) | 2:57 | 2022-08-26 | 2022-09-24 |
 | [Cloud 9](https://open.spotify.com/track/0nnVrlB6g0UvxygqUhYLjU) | [Maison Gimotto](https://open.spotify.com/artist/09Yg7cvW5HCTss1cQWVP4E) | [Cloud 9](https://open.spotify.com/album/4KelIUPQYV7ypTLzR3A82O) | 2:11 | 2022-07-01 | 2022-09-17 |
-| [Come and See Me](https://open.spotify.com/track/6G9XqMGLEFMqHWkTIOY3Nd) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Easy 10's](https://open.spotify.com/album/2qHZsOcIglVGhu7Zf9UC6F) | 3:55 | 2022-12-30 |  |
+| [Come and See Me](https://open.spotify.com/track/6G9XqMGLEFMqHWkTIOY3Nd) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Easy 10's](https://open.spotify.com/album/2qHZsOcIglVGhu7Zf9UC6F) | 3:55 | 2022-12-30 | 2023-01-03 |
 | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/1wZqJM5FGDEl3FjHDxDyQd) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2FXGUAESmG5l9YPrzWPvHI) | 3:55 | 2022-12-16 | 2023-01-01 |
+| [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/6cEguiQecbXrFlsnMi2ysr) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:55 | 2022-12-30 |  |
 | [Come Back](https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Come Back](https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X) | 3:18 | 2022-05-27 |  |
 | [Come Over](https://open.spotify.com/track/1PjlJyLVv53xSRwD0KzvX9) | [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08), [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Come Over](https://open.spotify.com/album/7lvNlojG1C0yBwVfOc42MS) | 4:00 | 2022-02-18 |  |
 | [Come With Me](https://open.spotify.com/track/26xDpdbYyHQtL1VigJRkhD) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Come With Me](https://open.spotify.com/album/1H9pgl0ykNBD3NeZsk6Eve) | 3:33 | 2022-06-24 | 2022-08-13 |
@@ -422,8 +423,8 @@
 | [Suppress](https://open.spotify.com/track/4I0lAql698rA7kNmRnKbSX) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Suppress \(Original\)](https://open.spotify.com/album/1MhBXyaIo7WfOy1nctpIkb) | 3:12 | 2022-02-25 | 2022-04-16 |
 | [Sweet Adetola](https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr) | 3:46 | 2022-02-18 | 2022-03-18 |
 | [Take Care of You \(feat\. King Princess, Amaarae & Meshell Ndegeocello\) \- Remix](https://open.spotify.com/track/4lQX77YOzLJKXJu0CNRz3T) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [ALPHA \(Deluxe\)](https://open.spotify.com/album/06xkAXs3CjdSofoAQbRVhL) | 3:34 | 2022-02-18 | 2022-07-30 |
-| [Take It Slow](https://open.spotify.com/track/05ohfzEBUfCEqoQCMUARWw) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 2:32 | 2022-12-30 | 2023-01-02 |
-| [Take It Slow](https://open.spotify.com/track/6FNhXIXcooRrD5mZCjqPV9) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/11LYtfhFQqoEsnTRgWtBSM) | 2:32 | 2022-10-28 |  |
+| [Take It Slow](https://open.spotify.com/track/05ohfzEBUfCEqoQCMUARWw) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 2:32 | 2022-12-30 |  |
+| [Take It Slow](https://open.spotify.com/track/6FNhXIXcooRrD5mZCjqPV9) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/11LYtfhFQqoEsnTRgWtBSM) | 2:32 | 2022-10-28 | 2023-01-03 |
 | [TAKE ME AS I AM](https://open.spotify.com/track/02zXxImHvdQdhmZ3kxUno9) | [Shébani](https://open.spotify.com/artist/1t8rTRUUPUItjj6vOTP8kc) | [TAKE ME AS I AM](https://open.spotify.com/album/3JmCUmEgy7tUdJv607LInw) | 3:51 | 2022-11-25 |  |
 | [Talk Luv](https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Talk Luv](https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX) | 2:44 | 2022-02-18 | 2022-05-14 |
 | [Tease](https://open.spotify.com/track/5ttmYDw7JUPeBFV9I2DdbS) | [Neela](https://open.spotify.com/artist/1lz7G1MhES1Bb0toy0tluz) | [Tease](https://open.spotify.com/album/1SCKl3Yaa9g3wd8G1I9pzo) | 3:20 | 2022-05-27 | 2022-06-25 |

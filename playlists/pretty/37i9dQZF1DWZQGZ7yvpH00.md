@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Los Aptos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,695 likes - 67 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,214 likes - 67 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 35 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 |
 | 36 | [2 De La](https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [2 De La](https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u) | 3:10 |
 | 37 | [Mi Despedida](https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 4:05 |
-| 38 | [solo](https://open.spotify.com/track/3Ca34mFUBOXwWhWxfOsUv3) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [solo](https://open.spotify.com/album/7GqXnEzfhxnXYFdutyomuG) | 3:48 |
+| 38 | [solo](https://open.spotify.com/track/46CDWM2aCya6puIqIGaVaZ) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [solo](https://open.spotify.com/album/7r0ywAV1jtYvJGiFYqrQeZ) | 3:48 |
 | 39 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 |
 | 40 | [Me Estoy Enamorando \- en Vivo](https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 2:53 |
 | 41 | [Estas En Mi Pasado](https://open.spotify.com/track/62PeKIJQiist979Q2GBrFc) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:55 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 66 | [Arroz Con Leche](https://open.spotify.com/track/0KOLLA1pqLBYFvWy1qfHS1) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Arroz Con Leche](https://open.spotify.com/album/5ofEPdxEML57Lnxcr1t5Yn) | 2:35 |
 | 67 | [Airplanes](https://open.spotify.com/track/5DZjm7FxWFoAamWPegY7cM) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94), [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Proximo Nivel](https://open.spotify.com/album/3Mh5n49gD1gafG2e83Emjk) | 3:10 |
 
-Snapshot ID: `MTY3MTczODU5MywwMDAwMDAwMGMxMzUzYmRhOTg5Y2JmMDk2MjRiMjg3ZWRhMGQwZTlj`
+Snapshot ID: `MTY3MTczODU5MywwMDAwMDAwMDQ1OWYxNjVhNmNkMjdlYzdjYTRmOTI3ZDg5OGVhNjg5`

@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 188256,
+  "num_followers": 188273,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDFlYTVkODg0ZWE5YWFmZWU0OGIyNDBmZTE3NzMxN2Jl",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGQyODM0Nzc5YWY5ZDk3Njg4NjEyZTM5M2JkNGQ4MGQ2",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Ivy To Roses (Mixtape)",
-        "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 178480,
-      "name": "Don't Call Me Up",
-      "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -207,6 +191,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Ivy To Roses (Mixtape)",
+        "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 178480,
+      "name": "Don't Call Me Up",
+      "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
       },
@@ -223,6 +223,26 @@
       "duration_ms": 138819,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -291,26 +311,6 @@
       "duration_ms": 208473,
       "name": "Turn Me On (feat. Vula)",
       "url": "https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 166028,
-      "name": "Head & Heart (feat. MNEK)",
-      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "EveryTime I Cry",
-        "url": "https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 177855,
-      "name": "EveryTime I Cry",
-      "url": "https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Hear Me Say",
         "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 164739,
       "name": "Off Of My Mind",
       "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "EveryTime I Cry",
+        "url": "https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 177855,
+      "name": "EveryTime I Cry",
+      "url": "https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -599,6 +599,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "All Around The World (La La La)",
+        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "A Touch Of Class",
+          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "All Around The World (La La La)",
+      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "All We Got (feat. KIDDO)",
         "url": "https://open.spotify.com/album/7wzcIKvtXDWs1VA2BMHuaY"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 169466,
       "name": "All Day And Night",
       "url": "https://open.spotify.com/track/5naYe7rLMZcLfO1DKg48MK"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "All Around The World (La La La)",
-        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "A Touch Of Class",
-          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "All Around The World (La La La)",
-      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Staying at Tamara's (Remixes)",
+        "url": "https://open.spotify.com/album/25Fa2sqxbfNOeCh3DokwDs"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        },
+        {
+          "name": "The Wild",
+          "url": "https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd"
+        }
+      ],
+      "duration_ms": 193037,
+      "name": "Shotgun (The Wild Remix)",
+      "url": "https://open.spotify.com/track/4W7B68ptUXQLym1oIiGuod"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 148693,
       "name": "Let Them Know",
       "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Staying at Tamara's (Remixes)",
-        "url": "https://open.spotify.com/album/25Fa2sqxbfNOeCh3DokwDs"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        },
-        {
-          "name": "The Wild",
-          "url": "https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd"
-        }
-      ],
-      "duration_ms": 193037,
-      "name": "Shotgun (The Wild Remix)",
-      "url": "https://open.spotify.com/track/4W7B68ptUXQLym1oIiGuod"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Something Stupid (feat. AWA)",
-        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "AWA",
-          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
-        }
-      ],
-      "duration_ms": 176734,
-      "name": "Something Stupid (feat. AWA)",
-      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "TIM",
         "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 191248,
       "name": "Tough Love (feat. Agnes, Vargas & Lagola)",
       "url": "https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Something Stupid (feat. AWA)",
+        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "AWA",
+          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
+        }
+      ],
+      "duration_ms": 176734,
+      "name": "Something Stupid (feat. AWA)",
+      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1427,8 +1427,8 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI"
+        "name": "Knockout",
+        "url": "https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI"
       },
       "artists": [
         {
@@ -1436,9 +1436,9 @@
           "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
         }
       ],
-      "duration_ms": 147656,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"
+      "duration_ms": 147789,
+      "name": "Knockout",
+      "url": "https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 147656,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Boom Boom Boom Boom",
         "url": "https://open.spotify.com/album/0MY7UAFFOsR5mHgyfmNPfj"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 128524,
       "name": "Boom Boom Boom Boom",
       "url": "https://open.spotify.com/track/2mWsc7kD2lpFtMNndPEMOH"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Knockout",
-        "url": "https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "Knockout",
-      "url": "https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L"
     },
     {
       "added_at": "2022-11-10 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 
 > your guide for a peaceful night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,123 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,179 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 40 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 |
 | 41 | [Rumours](https://open.spotify.com/track/0Brzu8MFxLwh3R57bImH2r) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m) | 4:10 |
 | 42 | [On the Outside](https://open.spotify.com/track/2SIAABhWXJWDHLfx51VdDc) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy) | 3:09 |
-| 43 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 |
-| 44 | [Woodpecker](https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 2:05 |
+| 43 | [Woodpecker](https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 2:05 |
+| 44 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 |
 | 45 | [Rest \(Acoustic\)](https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Rest](https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr) | 5:19 |
 | 46 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 |
 | 47 | [Sugar Baby](https://open.spotify.com/track/2azVRgjUiKxEoUn9loNAFO) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [All Is Well](https://open.spotify.com/album/21MiDyKUukfBWOtMeZa7Ul) | 5:24 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 51 | [Lose This Number](https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Beginners](https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY) | 3:56 |
 | 52 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
 | 53 | [Requiem](https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Requiem](https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec) | 3:38 |
-| 54 | [Air Forces](https://open.spotify.com/track/0FoUOS7ExFM2FmEuyGBxOP) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:09 |
-| 55 | [Try to Make a Fire Burn Again](https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Bluebird](https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN) | 3:02 |
+| 54 | [Try to Make a Fire Burn Again](https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Bluebird](https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN) | 3:02 |
+| 55 | [Air Forces](https://open.spotify.com/track/0FoUOS7ExFM2FmEuyGBxOP) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:09 |
 | 56 | [Montana](https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 3:20 |
 | 57 | [The Only Thing I Fear](https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Higher Places](https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK) | 3:30 |
 | 58 | [Belly of the Beast](https://open.spotify.com/track/4lPlgjFGA1VGdXJw5DlGzC) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 4:11 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 67 | [Different Kinds of Light](https://open.spotify.com/track/3q7T7yQ0oj0hWEoPciBTKj) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 3:05 |
 | 68 | [Something To Believe In](https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:57 |
 | 69 | [Thrift Store](https://open.spotify.com/track/73sQ8REIBnQfqg6ZHAgfoz) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Endless Chase: 2020 Singles](https://open.spotify.com/album/3Bwkxb1PPKKBK9ZRpBhsZ9) | 3:22 |
-| 70 | [Baker's Dozen](https://open.spotify.com/track/4bG2bFzJGX3P4igPWaVonz) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Baker's Dozen](https://open.spotify.com/album/5lPk6MPBbKW43uH9RFPecD) | 3:48 |
-| 71 | [Surprise, Surprise](https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Surprise, Surprise](https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE) | 3:56 |
+| 70 | [Surprise, Surprise](https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Surprise, Surprise](https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE) | 3:56 |
+| 71 | [Baker's Dozen](https://open.spotify.com/track/4bG2bFzJGX3P4igPWaVonz) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Baker's Dozen](https://open.spotify.com/album/5lPk6MPBbKW43uH9RFPecD) | 3:48 |
 | 72 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 |
 | 73 | [You're Smiling \(But I Don't Believe You\)](https://open.spotify.com/track/7ajY0y3joEbeL1gZW4ujmR) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [If & When](https://open.spotify.com/album/39VHhQwmza9iT3K3PuNHSU) | 3:33 |
 | 74 | [Hypochondriac \- acoustic](https://open.spotify.com/track/1voad61aPwZdcwGy4UV3dl) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREECH \(acoustic\)](https://open.spotify.com/album/2z0LnLC80s7cJDEYlcwWjO) | 3:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 79 | [I Can Go With You](https://open.spotify.com/track/2PRTaVpNOOIQSKuOqbjfSX) | [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [I Can Go With You](https://open.spotify.com/album/5CgAtDCY8HxQ0eyt4RQQCj) | 3:36 |
 | 80 | [Bed Head \- Acoustic](https://open.spotify.com/track/2d7DuVXlzYByepNPmQSejc) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Bed Head \(Acoustic\)](https://open.spotify.com/album/51adUeflIsXW7VBLulUd3M) | 4:03 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDllMzgzZDhkNjA0ZDE1NDgzZTgzOTI0MjczMDg5OWIx`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGNjMjkzMmM1ZWRiMmNkNTVlZWViOTRmOTFhNzZjNDg5`

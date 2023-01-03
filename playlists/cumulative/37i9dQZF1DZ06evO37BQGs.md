@@ -4,7 +4,7 @@
 
 > This is Hundred Reasons\. The essential tracks, all in one playlist.
 
-42 songs - 2 hr 27 min - not published yet
+43 songs - 2 hr 31 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,9 +38,10 @@
 | [Punctuality's Greatest Enemy](https://open.spotify.com/track/5M0z2M1clANb4ACB8OLWjG) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick the Word Sharp the Action \(New Version\)](https://open.spotify.com/album/1w1ukla1NGjk1DUDaiQyvX) | 2:15 | 2022-11-17 |  |
 | [Remmus \(Live\)](https://open.spotify.com/track/2RT9TJVahSuoOsYBnmsyuB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Live at the Lemon Grove](https://open.spotify.com/album/5nykFp8cx7wIad1R4rlFc2) | 3:22 | 2022-11-17 |  |
 | [Savanna](https://open.spotify.com/track/4H5bB6B7kOS9V6kBcLKz8k) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:10 | 2022-11-17 |  |
-| [She Is Poison](https://open.spotify.com/track/3omFnVaIxHHUgOGLpS6OHX) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:29 | 2022-11-17 |  |
+| [She Is Poison](https://open.spotify.com/track/3omFnVaIxHHUgOGLpS6OHX) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:29 | 2022-11-17 | 2023-01-03 |
 | [Sick Little Masquerade](https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:42 | 2022-11-17 |  |
 | [Silver](https://open.spotify.com/track/1iP5nJRIag9Kem1RuqCVXt) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:17 | 2022-11-17 |  |
+| [Slipping Away](https://open.spotify.com/track/5YrcfV2qcH5cTw9LqvOF2s) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 4:16 | 2023-01-02 |  |
 | [Soapbox Rally \(Live\)](https://open.spotify.com/track/1mznyaXfDmQIhMBQExRQ57) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Live at the Lemon Grove](https://open.spotify.com/album/5nykFp8cx7wIad1R4rlFc2) | 2:23 | 2022-11-17 |  |
 | [Stalemate](https://open.spotify.com/track/5jpH92KeCAHVFyrmOyuGGw) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick the Word Sharp the Action \(New Version\)](https://open.spotify.com/album/1w1ukla1NGjk1DUDaiQyvX) | 2:33 | 2022-11-17 |  |
 | [Stories With Unhappy Endings](https://open.spotify.com/track/1nR2maqQdyrb7xEpzUyfOL) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:48 | 2022-11-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 236921,
+  "num_followers": 237059,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDViZDY4YzI1MTIzZjEzYjlhOWNlMzNhN2MwYjA1NzAw",
+  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDI5MmNkMDYxZTc0YjJmMTU2OWJiODc1MGZmOTIwNGVj",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Grace Is On Our Side",
+        "url": "https://open.spotify.com/album/0GgRDCWPLjgLl79e71UT7F"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Faithful Now",
+      "url": "https://open.spotify.com/track/0T3iZrykxliMyN1yeunXQh"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Revival's In The Air (Live)",
         "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 526890,
       "name": "Champion - Live",
       "url": "https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Grace Is On Our Side",
-        "url": "https://open.spotify.com/album/0GgRDCWPLjgLl79e71UT7F"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Faithful Now",
-      "url": "https://open.spotify.com/track/0T3iZrykxliMyN1yeunXQh"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -371,30 +371,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 515387,
-      "name": "God of Revival - Live",
-      "url": "https://open.spotify.com/track/6r0WuK50Lpu9u460x84oBn"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Land Of The Living (Live)",
         "url": "https://open.spotify.com/album/18Zm6kFysUFl9qHLdgIjLa"
       },
@@ -431,6 +407,30 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 515387,
+      "name": "God of Revival - Live",
+      "url": "https://open.spotify.com/track/6r0WuK50Lpu9u460x84oBn"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Everything And Nothing Less (Live)",
         "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
       },
@@ -443,46 +443,6 @@
       "duration_ms": 326613,
       "name": "God Of Miracles - Live",
       "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Empires",
-        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 262120,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Tell All My Friends",
-        "url": "https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF"
-      },
-      "artists": [
-        {
-          "name": "Will Reagan",
-          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
-        },
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 351760,
-      "name": "Lay It All Down",
-      "url": "https://open.spotify.com/track/2YkANIn2t02TQms674Vv9Z"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -507,22 +467,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
+        "name": "Tell All My Friends",
+        "url": "https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
         },
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
         }
       ],
-      "duration_ms": 416323,
-      "name": "We Praise You - Live",
-      "url": "https://open.spotify.com/track/4ECDvXMDVz3nUXfZOqF9j2"
+      "duration_ms": 351760,
+      "name": "Lay It All Down",
+      "url": "https://open.spotify.com/track/2YkANIn2t02TQms674Vv9Z"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -543,18 +503,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "At Midnight - EP",
-        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
+        "name": "Empires",
+        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 350358,
-      "name": "It Is So",
-      "url": "https://open.spotify.com/track/4A7X1OObKEp7KAZOYrcPnr"
+      "duration_ms": 262120,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -615,6 +579,42 @@
       "duration_ms": 287611,
       "name": "Goodness of God (feat. Vertical Worship)",
       "url": "https://open.spotify.com/track/1UOzgUuakMRQcKVTUTU6Pu"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "At Midnight - EP",
+        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 350358,
+      "name": "It Is So",
+      "url": "https://open.spotify.com/track/4A7X1OObKEp7KAZOYrcPnr"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 416323,
+      "name": "We Praise You - Live",
+      "url": "https://open.spotify.com/track/4ECDvXMDVz3nUXfZOqF9j2"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -943,26 +943,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 389897,
-      "name": "Hosanna - Live",
-      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Yes I Will",
         "url": "https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz"
       },
@@ -999,34 +979,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "God That Saves",
-        "url": "https://open.spotify.com/album/1YDUpNjOV9TsqbERUcsN2C"
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
       "artists": [
         {
-          "name": "Iron Bell Music",
-          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
-        }
-      ],
-      "duration_ms": 292560,
-      "name": "Belong To You",
-      "url": "https://open.spotify.com/track/6zSXglLZMZBUMoqXHzzvYC"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Praise Before My Breakthrough",
-        "url": "https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9"
-      },
-      "artists": [
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
         {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 246619,
-      "name": "My Hallelujah",
-      "url": "https://open.spotify.com/track/6ibX7aG1bsQzTJb5gUjCpn"
+      "duration_ms": 389897,
+      "name": "Hosanna - Live",
+      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1047,6 +1015,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "God That Saves",
+        "url": "https://open.spotify.com/album/1YDUpNjOV9TsqbERUcsN2C"
+      },
+      "artists": [
+        {
+          "name": "Iron Bell Music",
+          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
+        }
+      ],
+      "duration_ms": 292560,
+      "name": "Belong To You",
+      "url": "https://open.spotify.com/track/6zSXglLZMZBUMoqXHzzvYC"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Fire in My Bones",
         "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 272000,
       "name": "Fire in My Bones",
       "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Praise Before My Breakthrough",
+        "url": "https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 246619,
+      "name": "My Hallelujah",
+      "url": "https://open.spotify.com/track/6ibX7aG1bsQzTJb5gUjCpn"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Hallelujah For The Cross (Live)",
-        "url": "https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL"
-      },
-      "artists": [
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        }
-      ],
-      "duration_ms": 331998,
-      "name": "Hallelujah For The Cross - Live",
-      "url": "https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Fill This Place (Studio Version)",
         "url": "https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 225333,
       "name": "Fill This Place (Studio Version)",
       "url": "https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Hallelujah For The Cross (Live)",
+        "url": "https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL"
+      },
+      "artists": [
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "duration_ms": 331998,
+      "name": "Hallelujah For The Cross - Live",
+      "url": "https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Roar (Live From Passion 2020)",
+        "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 345637,
+      "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live From Passion 2020",
+      "url": "https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Abundantly More",
         "url": "https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke"
       },
@@ -1459,6 +1479,30 @@
       "duration_ms": 241684,
       "name": "Abundantly More (feat. Seth Condrey)",
       "url": "https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Awake My Soul (With Tasha Cobbs Leonard)",
+        "url": "https://open.spotify.com/album/2HC0cgHArt7LwYi31BygLX"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 225876,
+      "name": "Awake My Soul (With Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/31hmy3Djo43cIjZptFN5xs"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1495,26 +1539,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Roar (Live From Passion 2020)",
-        "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 345637,
-      "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live From Passion 2020",
-      "url": "https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
       },
@@ -1527,50 +1551,6 @@
       "duration_ms": 350386,
       "name": "Come Holy Spirit - Live",
       "url": "https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Awake My Soul (With Tasha Cobbs Leonard)",
-        "url": "https://open.spotify.com/album/2HC0cgHArt7LwYi31BygLX"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 225876,
-      "name": "Awake My Soul (With Tasha Cobbs Leonard)",
-      "url": "https://open.spotify.com/track/31hmy3Djo43cIjZptFN5xs"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Love Makes Us Strong (Live)",
-        "url": "https://open.spotify.com/album/0U9aF7g5O6rVEf2QsxNEfX"
-      },
-      "artists": [
-        {
-          "name": "Onething Live",
-          "url": "https://open.spotify.com/artist/3T6MQugN3SnovyHgr7PLUa"
-        },
-        {
-          "name": "Jon Thurlow",
-          "url": "https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B"
-        }
-      ],
-      "duration_ms": 448719,
-      "name": "Jesus, You're Beautiful (Live)",
-      "url": "https://open.spotify.com/track/6aQq9IC5749DQOj6I7rhNM"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1595,6 +1575,26 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Love Makes Us Strong (Live)",
+        "url": "https://open.spotify.com/album/0U9aF7g5O6rVEf2QsxNEfX"
+      },
+      "artists": [
+        {
+          "name": "Onething Live",
+          "url": "https://open.spotify.com/artist/3T6MQugN3SnovyHgr7PLUa"
+        },
+        {
+          "name": "Jon Thurlow",
+          "url": "https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B"
+        }
+      ],
+      "duration_ms": 448719,
+      "name": "Jesus, You're Beautiful (Live)",
+      "url": "https://open.spotify.com/track/6aQq9IC5749DQOj6I7rhNM"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Valley (Live)",
         "url": "https://open.spotify.com/album/2RfOUTIdbZpA8YH2qlPi6n"
       },
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Glory to Glory",
-        "url": "https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB"
+        "name": "A Thousand More",
+        "url": "https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y"
       },
       "artists": [
         {
-          "name": "Iron Bell Music",
-          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
         }
       ],
-      "duration_ms": 569244,
-      "name": "Holy Desire (From Worship Nights at the Barn)",
-      "url": "https://open.spotify.com/track/37o1DSQq5WzSFjYKKXDDIR"
+      "duration_ms": 359710,
+      "name": "A Thousand More - Live",
+      "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1639,22 +1639,6 @@
       "duration_ms": 297320,
       "name": "The Cause Of Christ",
       "url": "https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "A Thousand More",
-        "url": "https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y"
-      },
-      "artists": [
-        {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
-        }
-      ],
-      "duration_ms": 359710,
-      "name": "A Thousand More - Live",
-      "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1716,25 +1700,9 @@
           "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
         }
       ],
-      "duration_ms": 316541,
-      "name": "Always Loved Me",
-      "url": "https://open.spotify.com/track/2fepfnn0tCwSSAVReXQpPh"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "This Is Love (Live)",
-        "url": "https://open.spotify.com/album/2vBQ6WdlR01gc6iJbwFJdI"
-      },
-      "artists": [
-        {
-          "name": "New Wine Worship",
-          "url": "https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV"
-        }
-      ],
-      "duration_ms": 320683,
-      "name": "This Is Love - Live",
-      "url": "https://open.spotify.com/track/19TTpoQDJmX11sBrLwt7Nx"
+      "duration_ms": 569244,
+      "name": "Holy Desire (From Worship Nights at the Barn)",
+      "url": "https://open.spotify.com/track/37o1DSQq5WzSFjYKKXDDIR"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1751,6 +1719,22 @@
       "duration_ms": 351213,
       "name": "Inhabit - Live",
       "url": "https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "This Is Love (Live)",
+        "url": "https://open.spotify.com/album/2vBQ6WdlR01gc6iJbwFJdI"
+      },
+      "artists": [
+        {
+          "name": "New Wine Worship",
+          "url": "https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV"
+        }
+      ],
+      "duration_ms": 320683,
+      "name": "This Is Love - Live",
+      "url": "https://open.spotify.com/track/19TTpoQDJmX11sBrLwt7Nx"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1803,6 +1787,22 @@
       "duration_ms": 344986,
       "name": "Mover Of Mountains - Live",
       "url": "https://open.spotify.com/track/5xzOWqDeMxavlNPkKrWt9b"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Glory to Glory",
+        "url": "https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB"
+      },
+      "artists": [
+        {
+          "name": "Iron Bell Music",
+          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
+        }
+      ],
+      "duration_ms": 316541,
+      "name": "Always Loved Me",
+      "url": "https://open.spotify.com/track/2fepfnn0tCwSSAVReXQpPh"
     },
     {
       "added_at": "2020-06-26 04:02:00",

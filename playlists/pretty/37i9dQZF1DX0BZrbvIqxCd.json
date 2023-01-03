@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 521432,
+  "num_followers": 521452,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDA5NGY3NTIwMTE1YzI4MjM3MmRlOGNjMDYxNWY1Zjcw",
+  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMGI3ZmRhOGU3ZDAyYjRhMGI1NTM2NDY5ZDYzZjA2YTg2",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -91,6 +91,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "You're Gonna Go Far, Kid",
+      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -159,6 +175,38 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Thnks fr th Mmrs",
+      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Three Cheers for Sweet Revenge",
         "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
       },
@@ -171,42 +219,6 @@
       "duration_ms": 186480,
       "name": "I'm Not Okay (I Promise)",
       "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "You're Gonna Go Far, Kid",
-      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 171620,
-      "name": "forget me too (feat. Halsey)",
-      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -243,18 +255,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 203506,
-      "name": "Thnks fr th Mmrs",
-      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
+      "duration_ms": 171620,
+      "name": "forget me too (feat. Halsey)",
+      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -287,22 +303,6 @@
       "duration_ms": 220146,
       "name": "Check Yes, Juliet",
       "url": "https://open.spotify.com/track/0wVluBsVAVzBKrqspuCcwR"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -403,22 +403,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Appeal To Reason",
-        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 242280,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "...And Out Come The Wolves",
         "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 201920,
       "name": "96 Quite Bitter Beings",
       "url": "https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Appeal To Reason",
+        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -579,22 +579,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Bro Hymn - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Off the Leash",
         "url": "https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l"
       },
@@ -611,22 +595,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Brain Invaders (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 183242,
-      "name": "All My Friends Are Nobodies",
-      "url": "https://open.spotify.com/track/3xhvI8X8PGCKuKd49ZyFNJ"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -639,6 +607,38 @@
       "duration_ms": 163240,
       "name": "I Fought the Law",
       "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Bro Hymn - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Brain Invaders (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 183242,
+      "name": "All My Friends Are Nobodies",
+      "url": "https://open.spotify.com/track/3xhvI8X8PGCKuKd49ZyFNJ"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -755,22 +755,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "When Your Heart Stops Beating",
-        "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
-      },
-      "artists": [
-        {
-          "name": "+44",
-          "url": "https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "When Your Heart Stops Beating",
-      "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "SIGNED and SEALED in BLOOD",
         "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 306520,
       "name": "Rose Tattoo",
       "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "When Your Heart Stops Beating",
+        "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
+      },
+      "artists": [
+        {
+          "name": "+44",
+          "url": "https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "When Your Heart Stops Beating",
+      "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/4nxdFmnrmHS2IjGT8lYxI5"
     },
     {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "The Best Of Goldfinger",
+        "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
+    },
+    {
       "added_at": "2021-07-08 22:59:55",
       "album": {
         "name": "deathwish (feat. nothing,nowhere.)",
@@ -951,22 +967,6 @@
       "duration_ms": 147907,
       "name": "deathwish (feat. nothing,nowhere.)",
       "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "The Best Of Goldfinger",
-        "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Hate Me (Sometimes)",
-      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Love and Loathing",
         "url": "https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 195866,
       "name": "Moving Boxes",
       "url": "https://open.spotify.com/track/0bP8VDZQ3eXgHofaXT88Cr"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Hate Me (Sometimes)",
+      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Degenerates",
-        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Degenerates",
-      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Lost Touch",
         "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Degenerates",
+        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Degenerates",
+      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Brain Invaders (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
       },
@@ -1435,6 +1435,22 @@
       "duration_ms": 175272,
       "name": "We\u2019re Not Alright",
       "url": "https://open.spotify.com/track/3CPm8pViOWEUtCTI4qrWGu"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "From The Outside",
+      "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
     },
     {
       "added_at": "2021-07-08 22:59:55",
@@ -1471,22 +1487,6 @@
       "duration_ms": 221241,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "From The Outside",
-      "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "One Foot out the Door",
-        "url": "https://open.spotify.com/album/2obrFk3sGcVAE85Z9LCZJT"
+        "name": "Lips Like Oxygen",
+        "url": "https://open.spotify.com/album/40DudVPACBmM5CAPbfamkC"
       },
       "artists": [
         {
-          "name": "SecondShot",
-          "url": "https://open.spotify.com/artist/1ZImVuFIqvP8USz3OVfxw9"
+          "name": "Oh, Weatherly",
+          "url": "https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ"
         }
       ],
-      "duration_ms": 193560,
-      "name": "I Just Died in Your Arms",
-      "url": "https://open.spotify.com/track/1qfyKQeFz6l6h4caVLmNCW"
+      "duration_ms": 199181,
+      "name": "Here Tonight",
+      "url": "https://open.spotify.com/track/08QLT3tCqODR95QIN8DrGX"
     }
   ],
   "unique_name": "Punk Rock Workout",

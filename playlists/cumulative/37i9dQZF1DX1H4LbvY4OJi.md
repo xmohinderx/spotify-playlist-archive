@@ -4,7 +4,7 @@
 
 > Embrace those happy vibes with these feel\-good hits!
 
-939 songs - 2 day 5 hr 8 min - [published](https://open.spotify.com/playlist/12cpPVut3uQWRqFuOfuatL)
+940 songs - 2 day 5 hr 11 min - [published](https://open.spotify.com/playlist/12cpPVut3uQWRqFuOfuatL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Goodbye \(feat\. Nicki Minaj & Willy William\)](https://open.spotify.com/track/5Xn4IyTtW6FUGIUyWjbUHG) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Goodbye \(feat\. Nicki Minaj & Willy William\)](https://open.spotify.com/album/5dL5RSd455FewNptPgtBTS) | 3:15 | 2021-03-08 | 2021-03-14 |
 | [Got My Mind Set On You \- Extended Version](https://open.spotify.com/track/6miUySWi347iIJyz7ETo6m) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq) | 5:17 | 2019-10-25 | 2019-11-09 |
 | [Grace Kelly](https://open.spotify.com/track/4Sqc0kPuZpfI0T2TZBu8JT) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life In Cartoon Motion](https://open.spotify.com/album/1lGwdsq4OtYZfIIoi4p79E) | 3:07 | 2019-11-08 | 2022-04-17 |
+| [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 | 2022-11-15 |  |
 | [Groceries](https://open.spotify.com/track/4x0pNOZ5r6kJMjsvsoliBm) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In The Sky](https://open.spotify.com/album/3nmMmfLZCp9nw0Ol2eqP2C) | 3:37 | 2021-03-08 | 2022-04-21 |
 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 | 2019-08-06 | 2022-04-08 |
 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 | 2020-08-14 | 2022-04-09 |
@@ -701,7 +702,7 @@
 | [Share That Love \(feat\. G\-Eazy\)](https://open.spotify.com/track/44l9nnCVvOQBbWG6tDViKl) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Share That Love \(feat\. G\-Eazy\)](https://open.spotify.com/album/1zTCnLSvIx3DjsKDV1xcmO) | 2:52 | 2020-08-21 | 2022-07-21 |
 | [She Looks So Perfect](https://open.spotify.com/track/5cPO2j2p9Myq77YQVwWyrN) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE) | 3:22 | 2019-08-01 | 2022-04-11 |
 | [Shine](https://open.spotify.com/track/0w1cshxOoZvM0ZembJEEca) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [The Power \(15 Year Anniversary Re\-Issue\)](https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ) | 3:54 | 2019-08-01 | 2022-04-17 |
-| [Shotgun](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:21 | 2019-08-05 |  |
+| [Shotgun](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:21 | 2019-08-05 | 2023-01-03 |
 | [Shout Out to My Ex](https://open.spotify.com/track/0YHUITU3w6ws1v8ehT264g) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Deluxe\)](https://open.spotify.com/album/2GJLzxAajkFeyDPVH7X4Cs) | 4:06 | 2019-07-30 | 2022-03-30 |
 | [Show Business](https://open.spotify.com/track/2p33SUZHJxFybdvHjwQGVW) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [Show Business](https://open.spotify.com/album/2TTNLOFuAsqs2C5CZVbEe4) | 3:37 | 2022-03-17 | 2022-04-05 |
 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 | 2019-08-04 | 2022-04-21 |

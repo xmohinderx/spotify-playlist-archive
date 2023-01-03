@@ -4,7 +4,7 @@
 
 > The ultimate rock party playlist!
 
-248 songs - 15 hr 47 min - [published](https://open.spotify.com/playlist/6wytlPj0ScraMlbNzCNoAU)
+249 songs - 15 hr 55 min - [published](https://open.spotify.com/playlist/6wytlPj0ScraMlbNzCNoAU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Last Resort](https://open.spotify.com/track/5eek2X5459T1HoYJk2CKXv) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/3VdXq4YQIt3ugs05SjFmsD) | 3:19 | 2021-12-08 | 2022-07-21 |
 | [Last Resort](https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:19 | 2022-04-08 |  |
 | [Let's Dance \- 1999 Remaster](https://open.spotify.com/track/0F0MA0ns8oXwGw66B2BSXm) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(1999 Remaster\)](https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR) | 7:37 | 2021-12-30 | 2022-04-20 |
+| [Let's Dance \- 2018 Remaster](https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 7:37 | 2022-12-29 |  |
 | [Livin' On A Prayer](https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/5uU2uM1RGHfzlA12opjqol) | 4:09 | 2021-12-08 | 2022-07-29 |
 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 | 2022-04-08 |  |
 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 | 2022-04-08 | 2022-04-20 |
@@ -212,7 +213,7 @@
 | [Sympathy For The Devil \- 50th Anniversary Edition](https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 6:18 | 2022-09-02 |  |
 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 | 2022-04-08 |  |
 | [Take Me Out](https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD) | 3:57 | 2021-12-08 | 2022-07-29 |
-| [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 | 2022-12-29 |  |
+| [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 | 2022-12-29 | 2023-01-03 |
 | [The Beautiful People](https://open.spotify.com/track/3Kw4KEYQg6JaqUD8ZgAwz6) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Lest We Forget \- The Best Of](https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S) | 3:42 | 2022-04-08 | 2022-04-21 |
 | [The Bitter End](https://open.spotify.com/track/3WBPiogtVDBSXK7uOpxJ6m) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Sleeping With Ghosts](https://open.spotify.com/album/4fUDor6o5gw0b18iYKEaRq) | 3:10 | 2021-12-30 | 2022-07-14 |
 | [The Boys Are Back In Town](https://open.spotify.com/track/68uQDTO3wN8Qkvu7GEmrhI) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [The Boys Are Back In Town / Jailbreak](https://open.spotify.com/album/2VAIRxkdYlAtcx7G752PIu) | 4:23 | 2022-07-14 | 2022-07-28 |

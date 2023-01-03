@@ -4,7 +4,7 @@
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW?si=dEeiPyvUTYSjwFjib5pt4Q"> Mr Eazi </a>
 
-89 songs - 4 hr 31 min - not published yet
+90 songs - 4 hr 34 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,8 +79,9 @@
 | [She Bad \(feat\. Oxlade\)](https://open.spotify.com/track/2sQtgfBy77UVwkSDcZF8S5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 5:00 | 2022-11-15 |  |
 | [Single](https://open.spotify.com/track/6N45YY6tHC0DNeAdXS43fe) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Single](https://open.spotify.com/album/1yszAI0O53HKBjyrR8l2fi) | 2:47 | 2022-11-04 |  |
 | [Sisa](https://open.spotify.com/track/6Th1cJVTMgDoMapYnSCFEx) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sisa](https://open.spotify.com/album/0zrNrEUVfhBDhnQG2KGmLl) | 3:11 | 2021-02-22 |  |
-| [Slow](https://open.spotify.com/track/5e5Be8E42zERy5Y3k65wyo) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/0GNeksC7xMQxGc9z4Y6rpL) | 2:50 | 2022-10-13 |  |
+| [Slow](https://open.spotify.com/track/5e5Be8E42zERy5Y3k65wyo) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/0GNeksC7xMQxGc9z4Y6rpL) | 2:50 | 2022-10-13 | 2023-01-03 |
 | [Slow](https://open.spotify.com/track/6fZmsZJAnLXJW7p9KO9hNI) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/16OczVqcp5NswQ7nawPX8h) | 2:50 | 2022-10-13 | 2022-12-25 |
+| [Slow](https://open.spotify.com/track/6BcuM2pQGcED8ebZc5GXjO) | [Char Lay](https://open.spotify.com/artist/4kEX2XtmxJ7Cf9GafuYFR4) | [Slow](https://open.spotify.com/album/0GxXWdO5ZOmdcr3TetwGtY) | 2:50 | 2022-10-13 |  |
 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 | 2021-05-14 |  |
 | [Soja](https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Soja](https://open.spotify.com/album/0WrpYqyMi0ZU8EY9AzCdht) | 3:01 | 2022-09-23 |  |
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2022-06-20 |  |

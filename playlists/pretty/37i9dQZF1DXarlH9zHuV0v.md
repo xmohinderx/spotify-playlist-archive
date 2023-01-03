@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 
 > A playlist of spooky songs to get you ready for fright night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,712 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,661 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 44 | [Going To Hell](https://open.spotify.com/track/1Lg55kAU7qG9y9IZ3jTaIG) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going To Hell \(Deluxe Edition\)](https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4) | 4:36 |
 | 45 | [The Death & Resurrection Show](https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH) | 6:55 |
 | 46 | [Monster](https://open.spotify.com/track/1K9jK8EHkgOTjLokIbIxPq) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2) | 4:09 |
-| 47 | [A Nightmare on My Street](https://open.spotify.com/track/1ugkqjRKTAX3kExAR4QgQz) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Greatest Hits](https://open.spotify.com/album/5XLCFog0qr2dw0877zzypG) | 4:58 |
-| 48 | [Dracula's Wedding \(feat\. Kelis\)](https://open.spotify.com/track/2EFHXO4zJRitZLpE1ztsWO) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 2:32 |
+| 47 | [Dracula's Wedding \(feat\. Kelis\)](https://open.spotify.com/track/2EFHXO4zJRitZLpE1ztsWO) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 2:32 |
+| 48 | [A Nightmare on My Street](https://open.spotify.com/track/1ugkqjRKTAX3kExAR4QgQz) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Greatest Hits](https://open.spotify.com/album/5XLCFog0qr2dw0877zzypG) | 4:58 |
 | 49 | [I Want Candy](https://open.spotify.com/track/6J8IwGX3oHi7x9B57vmMMW) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [The Best Of Bow Wow Wow](https://open.spotify.com/album/0CjR9Tn8bR68Iwg1UVnN1m) | 2:44 |
 | 50 | [I Put A Spell On You](https://open.spotify.com/track/0F5qpNAXWKyvyrHbpn168z) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Smells Like Children](https://open.spotify.com/album/5XiQM9S9V3XL03xxmIMPeb) | 3:36 |
 | 51 | [Ghosts \- Single Edit](https://open.spotify.com/track/5CwU6ek98q7Xqnvoq2ojht) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Ghosts \(Remixes\)](https://open.spotify.com/album/0hVxQVrEH3n2CmwGzntdFk) | 4:31 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 59 | [Ding\-Dong! The Witch Is Dead \(feat\. Harold Arlen\)](https://open.spotify.com/track/08ZDdpL9NVZ2IzYmyqOofM) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA) | [Just For The Record...](https://open.spotify.com/album/1p6eCn8I7XVTGQ4E9RhCfj) | 1:54 |
 | 60 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
 
-Snapshot ID: `MTU3MDYzMzM3MCwwMDAwMDAwMDFmNzBmYzJjYWI4YjlhNTM2ZTk4ZWU3MTgwYjc5ODgy`
+Snapshot ID: `MTU3MDYzMzM3MCwwMDAwMDAwMDkxYWU3NDQyZTJjODVkYjJjYTM1YmRlOWI2ZWE2MTA1`

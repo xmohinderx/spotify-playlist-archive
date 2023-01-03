@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 57013,
+  "num_followers": 57006,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDI2ODY5NCwwMDAwMDAwMGNmNDljMjIyYmM3NjEwYTM3NzVlOTUwZDY0OWY4OWE2",
+  "snapshot_id": "MTY3MDI2ODY5NCwwMDAwMDAwMDhkOTIxNzMxMDZjNWE0NWIzM2ZiODE5OTQ2Y2M2NDg3",
   "tracks": [
     {
       "added_at": "2022-12-05 19:31:34",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
+        "name": "REBELS NEVER DIE",
+        "url": "https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "duration_ms": 245624,
+      "name": "BLACK MAGIC",
+      "url": "https://open.spotify.com/track/3VNFtgC51Emt7XfWZWhPhD"
+    },
+    {
+      "added_at": "2022-12-05 19:31:34",
+      "album": {
         "name": "I Go (Remixes)",
         "url": "https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 410880,
       "name": "I Go - Soulwax Remix",
       "url": "https://open.spotify.com/track/577TxxoJTaW1BxH6EUDlTS"
-    },
-    {
-      "added_at": "2022-12-05 19:31:34",
-      "album": {
-        "name": "REBELS NEVER DIE",
-        "url": "https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        }
-      ],
-      "duration_ms": 245624,
-      "name": "BLACK MAGIC",
-      "url": "https://open.spotify.com/track/3VNFtgC51Emt7XfWZWhPhD"
     },
     {
       "added_at": "2022-12-05 19:31:34",
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
-        "name": "Variations",
-        "url": "https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck"
-      },
-      "artists": [
-        {
-          "name": "Donato Dozzy",
-          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
-        },
-        {
-          "name": "Anna Caragnano",
-          "url": "https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ"
-        }
-      ],
-      "duration_ms": 429000,
-      "name": "Parola - Rework",
-      "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
-    },
-    {
-      "added_at": "2022-12-05 19:31:34",
-      "album": {
         "name": "TASTY",
         "url": "https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 230780,
       "name": "TASTY - Boys Noize Remix",
       "url": "https://open.spotify.com/track/4InDcTU0WkizVukh4Yua0Q"
+    },
+    {
+      "added_at": "2022-12-05 19:31:34",
+      "album": {
+        "name": "Variations",
+        "url": "https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck"
+      },
+      "artists": [
+        {
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+        },
+        {
+          "name": "Anna Caragnano",
+          "url": "https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ"
+        }
+      ],
+      "duration_ms": 429000,
+      "name": "Parola - Rework",
+      "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
     },
     {
       "added_at": "2022-12-05 19:31:34",
@@ -963,6 +963,26 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
+        "name": "First Album (2009 Reissue)",
+        "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
+      },
+      "artists": [
+        {
+          "name": "Miss Kittin",
+          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
+        },
+        {
+          "name": "The Hacker",
+          "url": "https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp"
+        }
+      ],
+      "duration_ms": 319493,
+      "name": "1982",
+      "url": "https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1"
+    },
+    {
+      "added_at": "2022-12-05 19:31:34",
+      "album": {
         "name": "acts of rebellion",
         "url": "https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 495872,
       "name": "Ivoire (feat. Kio Amachree)",
       "url": "https://open.spotify.com/track/6BlQZAp3rGiVJbSSjJ6LEJ"
-    },
-    {
-      "added_at": "2022-12-05 19:31:34",
-      "album": {
-        "name": "First Album (2009 Reissue)",
-        "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
-      },
-      "artists": [
-        {
-          "name": "Miss Kittin",
-          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
-        },
-        {
-          "name": "The Hacker",
-          "url": "https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp"
-        }
-      ],
-      "duration_ms": 319493,
-      "name": "1982",
-      "url": "https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1"
     },
     {
       "added_at": "2022-12-05 19:31:34",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL"
+    },
+    {
+      "added_at": "2022-12-05 19:31:34",
+      "album": {
         "name": "Family Portrait",
         "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 176372,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
-    },
-    {
-      "added_at": "2022-12-05 19:31:34",
-      "album": {
-        "name": "Strut",
-        "url": "https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        },
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Strut",
-      "url": "https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL"
     },
     {
       "added_at": "2022-12-05 19:31:34",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
-      },
-      "artists": [
-        {
-          "name": "upsammy",
-          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
-    },
-    {
-      "added_at": "2022-12-05 19:31:34",
-      "album": {
         "name": "Famous Monsters",
         "url": "https://open.spotify.com/album/2TMoP7QgyGeRuortBdbOuQ"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 397266,
       "name": "Famous Monsters",
       "url": "https://open.spotify.com/track/0K5tCOHMG1GN4HsBTOljKm"
+    },
+    {
+      "added_at": "2022-12-05 19:31:34",
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
+      },
+      "artists": [
+        {
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
     },
     {
       "added_at": "2022-12-05 19:31:34",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
-      },
-      "artists": [
-        {
-          "name": "KITTENS",
-          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
-    },
-    {
-      "added_at": "2022-12-05 19:31:34",
-      "album": {
         "name": "Amniotic",
         "url": "https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 432266,
       "name": "Return to Oz",
       "url": "https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP"
+    },
+    {
+      "added_at": "2022-12-05 19:31:34",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
+      },
+      "artists": [
+        {
+          "name": "KITTENS",
+          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
     },
     {
       "added_at": "2022-12-05 19:31:34",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
-        "name": "Just Us",
-        "url": "https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8"
-      },
-      "artists": [
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        }
-      ],
-      "duration_ms": 405768,
-      "name": "Just Us",
-      "url": "https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA"
-    },
-    {
-      "added_at": "2022-12-05 19:31:34",
-      "album": {
         "name": "We All Move Together (Kevin Saunderson x Latroit Remix)",
         "url": "https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 200000,
       "name": "We All Move Together - Kevin Saunderson x Latroit Remix",
       "url": "https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17"
+    },
+    {
+      "added_at": "2022-12-05 19:31:34",
+      "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "duration_ms": 405768,
+      "name": "Just Us",
+      "url": "https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA"
     },
     {
       "added_at": "2022-12-05 19:31:34",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
-        "name": "Birdie",
-        "url": "https://open.spotify.com/album/5QopGkCvcxWJRIKkblX89H"
-      },
-      "artists": [
-        {
-          "name": "Squire",
-          "url": "https://open.spotify.com/artist/6cwjZ6yYU9sr6IeiYy3vv8"
-        }
-      ],
-      "duration_ms": 417547,
-      "name": "Birdie",
-      "url": "https://open.spotify.com/track/3VIBhgSoVZq31ypQK1x4VL"
-    },
-    {
-      "added_at": "2022-12-05 19:31:34",
-      "album": {
         "name": "Sol De Mi Vida",
         "url": "https://open.spotify.com/album/69zq4kjggO1ibPgk4px1Ve"
       },
@@ -1723,18 +1707,18 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
-        "name": "Cataclysmic",
-        "url": "https://open.spotify.com/album/4eXNPTKfQUhbT6JgENZeY4"
+        "name": "Birdie",
+        "url": "https://open.spotify.com/album/5QopGkCvcxWJRIKkblX89H"
       },
       "artists": [
         {
-          "name": "Jordan Gill",
-          "url": "https://open.spotify.com/artist/4SMjBNhuUVL2dqIk67vsKx"
+          "name": "Squire",
+          "url": "https://open.spotify.com/artist/6cwjZ6yYU9sr6IeiYy3vv8"
         }
       ],
-      "duration_ms": 491652,
-      "name": "White Lights",
-      "url": "https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz"
+      "duration_ms": 417547,
+      "name": "Birdie",
+      "url": "https://open.spotify.com/track/3VIBhgSoVZq31ypQK1x4VL"
     },
     {
       "added_at": "2022-12-05 19:31:34",
@@ -1755,6 +1739,22 @@
       "duration_ms": 516533,
       "name": "August in Paris",
       "url": "https://open.spotify.com/track/3ZqbN38TDR0e0AEAthNZ3Y"
+    },
+    {
+      "added_at": "2022-12-05 19:31:34",
+      "album": {
+        "name": "Cataclysmic",
+        "url": "https://open.spotify.com/album/4eXNPTKfQUhbT6JgENZeY4"
+      },
+      "artists": [
+        {
+          "name": "Jordan Gill",
+          "url": "https://open.spotify.com/artist/4SMjBNhuUVL2dqIk67vsKx"
+        }
+      ],
+      "duration_ms": 491652,
+      "name": "White Lights",
+      "url": "https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz"
     },
     {
       "added_at": "2022-12-05 19:31:34",

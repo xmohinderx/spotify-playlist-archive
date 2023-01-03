@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 
 > This is Green Day\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,314 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,505 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 49 | [Pollyanna](https://open.spotify.com/track/4b2h4jQxgHpiWuLH8rp8Vu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Pollyanna](https://open.spotify.com/album/21i1bokXCRyRyszxxNvX19) | 3:15 |
 | 50 | [Oh Yeah!](https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Oh Yeah!](https://open.spotify.com/album/4YfXSuoJWZGcTNGAkFK8cO) | 2:51 |
 
-Snapshot ID: `Mjc4NzYzNDMsMDAwMDAwMDA5NzI1YjMwMWNiZWRjOGU3ZDE1NTQxN2ViMDFlZTNhMg==`
+Snapshot ID: `Mjc4Nzc3NTksMDAwMDAwMDBmYzI2MmYxMTMyMzg4N2RmYmMwZmJkODUxMTNkMjZjZg==`

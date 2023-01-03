@@ -1,12 +1,12 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marion Raw.",
-  "num_followers": 32449,
+  "num_followers": 32466,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMDg4OTZkNjAwY2VhNTFhNjQzNzE0OTBjZjQ2OGRjOTYx",
+  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMDE3ZWI3YjljODZlNDRiYTlhOTEwOWY1MjFjZTU4Y2I1",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Hice Todo Mal",
-        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Hice Todo Mal",
-      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Perro de Playa (2020 Remasterizado)",
         "url": "https://open.spotify.com/album/6y0rD6EpLaAq6tOuMLB51Z"
       },
@@ -247,22 +231,6 @@
       "duration_ms": 186440,
       "name": "Sola en los Bares (2020 Remasterizado)",
       "url": "https://open.spotify.com/track/7HeOiPvLeOgdszASIZGCZX"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Prender un Fuego",
-        "url": "https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 178913,
-      "name": "Fumar de d\u00eda",
-      "url": "https://open.spotify.com/track/482CWaKmMQzrYMQMEMYRtT"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -287,6 +255,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Hice Todo Mal",
+        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Hice Todo Mal",
+      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Teoria Espacial",
         "url": "https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi"
       },
@@ -299,22 +283,6 @@
       "duration_ms": 230833,
       "name": "Teoria Espacial",
       "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Coraz\u00f3n Delator",
-        "url": "https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 261153,
-      "name": "Coraz\u00f3n Delator",
-      "url": "https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -335,8 +303,8 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Cosa M\u00eda",
-        "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
+        "name": "Prender un Fuego",
+        "url": "https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3"
       },
       "artists": [
         {
@@ -344,9 +312,9 @@
           "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "duration_ms": 169693,
-      "name": "Cosa M\u00eda",
-      "url": "https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD"
+      "duration_ms": 178913,
+      "name": "Fumar de d\u00eda",
+      "url": "https://open.spotify.com/track/482CWaKmMQzrYMQMEMYRtT"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -399,8 +367,8 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Seremos Primavera",
-        "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
+        "name": "Coraz\u00f3n Delator",
+        "url": "https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6"
       },
       "artists": [
         {
@@ -408,9 +376,25 @@
           "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
         }
       ],
-      "duration_ms": 205704,
-      "name": "Carapaz\u00f3n",
-      "url": "https://open.spotify.com/track/0mjtqNKNsTyEugEbZ6aXji"
+      "duration_ms": 261153,
+      "name": "Coraz\u00f3n Delator",
+      "url": "https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Cosa M\u00eda",
+        "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "Cosa M\u00eda",
+      "url": "https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -467,22 +451,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Arriba Es Abajo",
-        "url": "https://open.spotify.com/album/5qtQcnGlsl5zfTKAx4y6My"
-      },
-      "artists": [
-        {
-          "name": "Chini and The Technicians",
-          "url": "https://open.spotify.com/artist/6WUEX7OnXihiMxJM6HZcIR"
-        }
-      ],
-      "duration_ms": 247349,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/7o3kKOdoMX38izCcM4PdRQ"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
@@ -495,6 +463,38 @@
       "duration_ms": 249797,
       "name": "Coraz\u00f3n Lic\u00e1ntropo",
       "url": "https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "La Nieve",
+        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 211699,
+      "name": "La Nieve",
+      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Arriba Es Abajo",
+        "url": "https://open.spotify.com/album/5qtQcnGlsl5zfTKAx4y6My"
+      },
+      "artists": [
+        {
+          "name": "Chini and The Technicians",
+          "url": "https://open.spotify.com/artist/6WUEX7OnXihiMxJM6HZcIR"
+        }
+      ],
+      "duration_ms": 247349,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/7o3kKOdoMX38izCcM4PdRQ"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Seremos Primavera",
+        "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 205704,
+      "name": "Carapaz\u00f3n",
+      "url": "https://open.spotify.com/track/0mjtqNKNsTyEugEbZ6aXji"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Rompiente",
         "url": "https://open.spotify.com/album/3w4O98Q6qpxEBUalrwu9XM"
       },
@@ -543,38 +559,6 @@
       "duration_ms": 224159,
       "name": "Por Tu Bien",
       "url": "https://open.spotify.com/track/2ZYlH2nDsECjJPw51fBHlj"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Seremos Primavera",
-        "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 230259,
-      "name": "Sorojchi",
-      "url": "https://open.spotify.com/track/3G2oKpZKebeikGbTBiidsb"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "La Nieve",
-        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 211699,
-      "name": "La Nieve",
-      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -655,6 +639,22 @@
       "duration_ms": 204878,
       "name": "La Verdad",
       "url": "https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Seremos Primavera",
+        "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 230259,
+      "name": "Sorojchi",
+      "url": "https://open.spotify.com/track/3G2oKpZKebeikGbTBiidsb"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Raices de Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5"
-      },
-      "artists": [
-        {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
-        }
-      ],
-      "duration_ms": 127426,
-      "name": "Feliz en Mi Soledad",
-      "url": "https://open.spotify.com/track/0z2HgqzzE3E14yAnnJ8rnx"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Viuda e Hijas de Roque Enroll",
         "url": "https://open.spotify.com/album/2zskKFjyqd5SDnoUJ2Gvw9"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 136933,
       "name": "Estoy Tocando Fondo",
       "url": "https://open.spotify.com/track/4cxq32CeMok10ICwlQwRx8"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Raices de Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5"
+      },
+      "artists": [
+        {
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+        }
+      ],
+      "duration_ms": 127426,
+      "name": "Feliz en Mi Soledad",
+      "url": "https://open.spotify.com/track/0z2HgqzzE3E14yAnnJ8rnx"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Epica & Fant\u00e1stica",
-        "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
-      },
-      "artists": [
-        {
-          "name": "Marina Fages",
-          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
-        }
-      ],
-      "duration_ms": 245246,
-      "name": "Piedra Marea Fuego",
-      "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Buenas Noches Terr\u00edcolas",
         "url": "https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Ruta Hotel",
-        "url": "https://open.spotify.com/album/5198xcABxOJ3tJicMBwchi"
+        "name": "Epica & Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
       },
       "artists": [
         {
-          "name": "Playa Nudista",
-          "url": "https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3"
+          "name": "Marina Fages",
+          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
         }
       ],
-      "duration_ms": 148997,
-      "name": "Nubosidad Variable",
-      "url": "https://open.spotify.com/track/2bIkvdwmFGpaskCWbtHgXP"
+      "duration_ms": 245246,
+      "name": "Piedra Marea Fuego",
+      "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1007,6 +991,22 @@
       "duration_ms": 291280,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Ruta Hotel",
+        "url": "https://open.spotify.com/album/5198xcABxOJ3tJicMBwchi"
+      },
+      "artists": [
+        {
+          "name": "Playa Nudista",
+          "url": "https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3"
+        }
+      ],
+      "duration_ms": 148997,
+      "name": "Nubosidad Variable",
+      "url": "https://open.spotify.com/track/2bIkvdwmFGpaskCWbtHgXP"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "bi/MENTAL",
-        "url": "https://open.spotify.com/album/3XuJE4Y50tva93lL4uxfle"
-      },
-      "artists": [
-        {
-          "name": "Le Butcherettes",
-          "url": "https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6"
-        }
-      ],
-      "duration_ms": 220561,
-      "name": "give/UP",
-      "url": "https://open.spotify.com/track/3VjCRe4un6MDLH5Bt1CqLh"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Wed 21",
         "url": "https://open.spotify.com/album/5kPgL6cR1ks9ElKafo4nD7"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 264746,
       "name": "Eras",
       "url": "https://open.spotify.com/track/037RKV3MIa0h2qHDZUR79x"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "bi/MENTAL",
+        "url": "https://open.spotify.com/album/3XuJE4Y50tva93lL4uxfle"
+      },
+      "artists": [
+        {
+          "name": "Le Butcherettes",
+          "url": "https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6"
+        }
+      ],
+      "duration_ms": 220561,
+      "name": "give/UP",
+      "url": "https://open.spotify.com/track/3VjCRe4un6MDLH5Bt1CqLh"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Preguntame",
+        "url": "https://open.spotify.com/album/21qw6k8y7iO77WUFXPaGLx"
+      },
+      "artists": [
+        {
+          "name": "Vale Acevedo",
+          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
+        }
+      ],
+      "duration_ms": 204336,
+      "name": "Preguntame",
+      "url": "https://open.spotify.com/track/3dMYfIeVVdaY9U9GLTG9PK"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Chica Rutera",
         "url": "https://open.spotify.com/album/677rkyQAwxStGoAqiRiLiy"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 308116,
       "name": "Chica Rutera",
       "url": "https://open.spotify.com/track/7mULoTsK56Nfyf7o50LKk3"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Preguntame",
-        "url": "https://open.spotify.com/album/21qw6k8y7iO77WUFXPaGLx"
-      },
-      "artists": [
-        {
-          "name": "Vale Acevedo",
-          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
-        }
-      ],
-      "duration_ms": 204336,
-      "name": "Preguntame",
-      "url": "https://open.spotify.com/track/3dMYfIeVVdaY9U9GLTG9PK"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Mujer Contra Mujer",
+        "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
+      },
+      "artists": [
+        {
+          "name": "Sandra Y Celeste",
+          "url": "https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Mujer Contra Mujer",
+      "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Todo el mundo miente",
         "url": "https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T"
       },
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Mujer Contra Mujer",
-        "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
+        "name": "Tiro de Gracia",
+        "url": "https://open.spotify.com/album/6ro7NdgISN4SVWrea2V2SU"
       },
       "artists": [
         {
-          "name": "Sandra Y Celeste",
-          "url": "https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H"
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
         }
       ],
-      "duration_ms": 229373,
-      "name": "Mujer Contra Mujer",
-      "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
+      "duration_ms": 222911,
+      "name": "Tiro de Gracia",
+      "url": "https://open.spotify.com/track/60tZwScYfPsB314xJ3zuYc"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Autodefensa",
-        "url": "https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu"
-      },
-      "artists": [
-        {
-          "name": "Las Ex",
-          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
-        }
-      ],
-      "duration_ms": 180277,
-      "name": "Autodefensa",
-      "url": "https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Libido",
         "url": "https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 175114,
       "name": "Libido",
       "url": "https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Autodefensa",
+        "url": "https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu"
+      },
+      "artists": [
+        {
+          "name": "Las Ex",
+          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
+        }
+      ],
+      "duration_ms": 180277,
+      "name": "Autodefensa",
+      "url": "https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Tiro de Gracia",
-        "url": "https://open.spotify.com/album/6ro7NdgISN4SVWrea2V2SU"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 222911,
-      "name": "Tiro de Gracia",
-      "url": "https://open.spotify.com/track/60tZwScYfPsB314xJ3zuYc"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Hola",
         "url": "https://open.spotify.com/album/1qZ7f9jaPpmrL1NZko5CZu"
       },
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Friends And Lovers",
-        "url": "https://open.spotify.com/album/32LODALsWr6JJa6Xq1TEQf"
-      },
-      "artists": [
-        {
-          "name": "Las Kellies",
-          "url": "https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze"
-        }
-      ],
-      "duration_ms": 252178,
-      "name": "Sugar Beat",
-      "url": "https://open.spotify.com/track/2dqE2QTIYEV54uysxuHt69"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "On\u00edrica",
         "url": "https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 223205,
       "name": "Shangri-La",
       "url": "https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Friends And Lovers",
+        "url": "https://open.spotify.com/album/32LODALsWr6JJa6Xq1TEQf"
+      },
+      "artists": [
+        {
+          "name": "Las Kellies",
+          "url": "https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze"
+        }
+      ],
+      "duration_ms": 252178,
+      "name": "Sugar Beat",
+      "url": "https://open.spotify.com/track/2dqE2QTIYEV54uysxuHt69"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Escapar",
-        "url": "https://open.spotify.com/album/3z0nWOxV7wwnX4wfgVUXGR"
+        "name": "Dulce Fuerte Grave",
+        "url": "https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz"
       },
       "artists": [
         {
-          "name": "Silver Rose",
-          "url": "https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP"
+          "name": "Flopa",
+          "url": "https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy"
         }
       ],
-      "duration_ms": 241194,
-      "name": "Escapar",
-      "url": "https://open.spotify.com/track/4ipgJtYhCTrsGnkL1XRRET"
+      "duration_ms": 224119,
+      "name": "Vengas Conmigo",
+      "url": "https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1"
     }
   ],
   "unique_name": "Rockeras",

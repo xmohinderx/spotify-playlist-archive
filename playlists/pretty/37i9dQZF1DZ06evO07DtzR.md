@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,466 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,478 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 26 | [Eiyu Fate's Song](https://open.spotify.com/track/09MdY7aQmFhDdnnQGSk6aa) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄 運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:44 |
 | 27 | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD) | 1:30 |
 | 28 | [Door](https://open.spotify.com/track/53MmtPvpScpwrk1Dr87yOG) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [リローデッド](https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B) | 5:34 |
-| 29 | [原罪の灯](https://open.spotify.com/track/7EGSABJsiGBgtJeXmQ44B0) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 2:12 |
+| 29 | [Extra terrestrial Biological Entities](https://open.spotify.com/track/2ORgcPwvgBo5begZWzYSkE) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra terrestrial Biological Entities](https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi) | 5:40 |
 | 30 | [Fallen\-TV edit\-](https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen\-TV edit\-](https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y) | 1:29 |
 | 31 | [It's all about you](https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2) | 4:07 |
 | 32 | [好きと言われた日 \(from BEST AL“ALTER EGO”\)](https://open.spotify.com/track/0TQw7jTUAbTRyx58vwg53E) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [GREATEST HITS 2011\-2017 “ALTER EGO”](https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr) | 4:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 49 | [KABANERI OF THE IRON FORTRESS \-Instrumental\-](https://open.spotify.com/track/5WQ2gTSyn4zh5skFTF19t6) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2) | 4:52 |
 | 50 | [Departures 〜あなたにおくるアイの歌〜 \-BOOM BOOM SATELLITES Remix\-](https://open.spotify.com/track/4shRfuRkwt9ydnL1gTr0dA) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 7:11 |
 
-Snapshot ID: `Mjc4NzYzNDMsMDAwMDAwMDA2ZWIxOWMzMjAyMWVhOGQxZTJkYjZmZTg4NTM4YTJiMw==`
+Snapshot ID: `Mjc4Nzc3NTksMDAwMDAwMDA2OWM2YWQwZDE3MTQ3NTVhMjIxYTJjZTFmYjBiMzY0Yg==`

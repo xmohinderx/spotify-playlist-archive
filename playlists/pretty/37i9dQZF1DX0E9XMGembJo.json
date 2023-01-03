@@ -1,12 +1,12 @@
 {
   "description": "your daily dose of dopamine ",
-  "num_followers": 881414,
+  "num_followers": 882259,
   "original_name": "DOPAMINE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDk2NzVhMmQ2YjkwNmNkMDFkMWEwZmMyZTA4ZmNjNDdi",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDEyZDY5YTNhYzZiMDJiMzRhZmI0NTUyNDAzOTA3YjA2",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -179,18 +179,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Dark Red",
-        "url": "https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 173104,
-      "name": "Dark Red",
-      "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -211,18 +211,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "Dark Red",
+        "url": "https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+      "duration_ms": 173104,
+      "name": "Dark Red",
+      "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Music For a Sushi Restaurant",
-      "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "CKay The First",
         "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 145800,
       "name": "love nwantiti (ah ah ah)",
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Music For a Sushi Restaurant",
+      "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Hey Ya!",
+      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "Here Comes The Sun - Remastered 2009",
-      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Pretty Girl Era",
         "url": "https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY"
       },
@@ -711,18 +711,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
       },
       "artists": [
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 235213,
-      "name": "Hey Ya!",
-      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
+      "duration_ms": 185733,
+      "name": "Here Comes The Sun - Remastered 2009",
+      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "BEST INTEREST",
-        "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 127921,
-      "name": "BEST INTEREST",
-      "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "18 Months",
         "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 206413,
       "name": "Feel So Close - Radio Edit",
       "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "BEST INTEREST",
+        "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 127921,
+      "name": "BEST INTEREST",
+      "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "Looking Out for You",
         "url": "https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 215686,
       "name": "Every Summertime",
       "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "The Melodic Blue",
-        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 156040,
-      "name": "16",
-      "url": "https://open.spotify.com/track/1Is8hGpkGMiePASAxBluxM"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "The Melodic Blue",
+        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 156040,
+      "name": "16",
+      "url": "https://open.spotify.com/track/1Is8hGpkGMiePASAxBluxM"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 191823,
       "name": "Tek It",
       "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "C U Girl",
-        "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 129697,
-      "name": "C U Girl",
-      "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Because the Internet",
-        "url": "https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr"
+        "name": "C U Girl",
+        "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 234215,
-      "name": "3005",
-      "url": "https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16"
+      "duration_ms": 129697,
+      "name": "C U Girl",
+      "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1211,6 +1195,22 @@
       "duration_ms": 339320,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Because the Internet",
+        "url": "https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 234215,
+      "name": "3005",
+      "url": "https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "Some",
+        "url": "https://open.spotify.com/album/4POiurFeB5bDsF9yBwOxbh"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 118393,
+      "name": "Some",
+      "url": "https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "Young, Wild & Free (feat. Bruno Mars)",
         "url": "https://open.spotify.com/album/11Bkx3E99vf0IlYPND61LJ"
       },
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Some",
-        "url": "https://open.spotify.com/album/4POiurFeB5bDsF9yBwOxbh"
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Grouplove",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
         }
       ],
-      "duration_ms": 118393,
-      "name": "Some",
-      "url": "https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd"
+      "duration_ms": 218013,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
-      },
-      "artists": [
-        {
-          "name": "Grouplove",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa"
       },
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Sundress",
-        "url": "https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl"
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 158205,
-      "name": "Sundress",
-      "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
+      "duration_ms": 173182,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
     }
   ],
   "unique_name": "DOPAMINE",

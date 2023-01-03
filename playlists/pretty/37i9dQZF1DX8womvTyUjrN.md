@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Humbe
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,803 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,874 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Real G](https://open.spotify.com/track/6WU2eYUtOL91iROonROPyh) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Real G](https://open.spotify.com/album/4zQmGdxbD2EOKItaKLMnrC) | 3:11 |
 | 2 | [¿Cómo Es Que Tú?](https://open.spotify.com/track/4xzoXEyNlodC0yT0i62got) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Es Que Tú?](https://open.spotify.com/album/6AXc9vXxu4vgTrMaeb3jo5) | 2:40 |
 | 3 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 |
-| 4 | [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 |
+| 4 | [La Esquina del Mall](https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Esquina del Mall](https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8) | 3:27 |
 | 5 | [Noche Fría](https://open.spotify.com/track/6oCXKOBPwCE98zaHtbTMqD) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Noche Fría](https://open.spotify.com/album/4KPnrkrm3vDGwQ5HxroO4W) | 2:40 |
-| 6 | [La Esquina del Mall](https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Esquina del Mall](https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8) | 3:27 |
+| 6 | [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 |
 | 7 | [Muerta de Frío](https://open.spotify.com/track/4jXfJMb6rEDc86zMC115pc) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4), [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Muerta de Frío](https://open.spotify.com/album/1gbqdDkwfvEWirx6po0YtY) | 4:18 |
 | 8 | [Flores](https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:16 |
 | 9 | [Yo\-yo](https://open.spotify.com/track/4p9q8knpkk8vx7RTilNiyr) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Yo\-yo](https://open.spotify.com/album/5Bydy5fT7Q1mNDzgb6aDzs) | 3:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 45 | [Permanente](https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Permanente](https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz) | 3:55 |
 | 46 | [Que Todo Sea Probar](https://open.spotify.com/track/6D236R0HOtK8kAQxKYZFEt) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Amor Escupido](https://open.spotify.com/album/14WhMR0dMyEdhoNVXnvG7w) | 2:50 |
 | 47 | [De Charco En Charco](https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [De Charco En Charco](https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN) | 2:40 |
-| 48 | [Ferrari](https://open.spotify.com/track/3Ydc6aIUWfsL7Kf618lA2e) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Ferrari](https://open.spotify.com/album/5XYRAwmbiYlvdauwTY3nqw) | 3:07 |
-| 49 | [mE RecHaZasTe :\(](https://open.spotify.com/track/3aWhOkrsuXseE7xccF7Upa) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE RecHaZasTe :\(](https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf) | 2:56 |
-| 50 | [A Poca Luz](https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [A Poca Luz](https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS) | 2:27 |
+| 48 | [A Poca Luz](https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [A Poca Luz](https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS) | 2:27 |
+| 49 | [Ferrari](https://open.spotify.com/track/3Ydc6aIUWfsL7Kf618lA2e) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Ferrari](https://open.spotify.com/album/5XYRAwmbiYlvdauwTY3nqw) | 3:07 |
+| 50 | [mE RecHaZasTe :\(](https://open.spotify.com/track/3aWhOkrsuXseE7xccF7Upa) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE RecHaZasTe :\(](https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf) | 2:56 |
 
-Snapshot ID: `MTY3MjQyOTM5MCwwMDAwMDAwMDYyNDg1ZGM1ZDhkMTYyYTAxNWM1ZDA4MGM5MWQwOTc3`
+Snapshot ID: `MTY3MjQyOTM5MCwwMDAwMDAwMDA4Y2YyNjRkYmM3ZGFlZmM1MjhjYmUzYTVlNjQ5NTc5`

@@ -4,7 +4,7 @@
 
 > All the vibes\. All the feels\. 🫠
 
-238 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/4xt4qCzuE9mxZU2JZ6d8qW)
+239 songs - 14 hr 21 min - [published](https://open.spotify.com/playlist/4xt4qCzuE9mxZU2JZ6d8qW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Honest](https://open.spotify.com/track/7rezT408cCLBBr40Gvtg4J) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Honest](https://open.spotify.com/album/5VjgE3Mjh32oW42Y5ku6Ea) | 2:50 | 2020-09-05 | 2022-07-19 |
 | [Honesty](https://open.spotify.com/track/19gCnDoMbugHhF7eMpLpe1) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 3:09 | 2022-07-28 |  |
 | [Honesty](https://open.spotify.com/track/5dXI2NV7X2c4anyLFbQdEX) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Honesty](https://open.spotify.com/album/6Z5XlgKlOc9FVyM2Nb2Pyo) | 3:11 | 2019-06-19\* | 2022-07-29 |
-| [How Could I Forget You](https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [How Could I Forget You](https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy) | 3:34 | 2022-10-26 |  |
+| [How Could I Forget You](https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [How Could I Forget You](https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy) | 3:34 | 2022-10-26 | 2023-01-03 |
 | [How Would You Feel](https://open.spotify.com/track/5yosbcAjMrTNcosZbhZiBo) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [How Would You Feel](https://open.spotify.com/album/373W4hy5SMxKxICDMDynoX) | 2:41 | 2022-05-20 | 2022-07-29 |
 | [Hurricane](https://open.spotify.com/track/4kBkD5qWlRlZXAYVSztETX) | [Shanuka](https://open.spotify.com/artist/57wiktlw2QICiizAd9s2ny) | [Hurricane](https://open.spotify.com/album/6GWkW0A9C6WNAM0sozjrsN) | 4:14 | 2022-04-15 | 2022-07-29 |
 | [Hurt You](https://open.spotify.com/track/13wNEvWmBsWaWVtiLPRIW5) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [My Dear Melancholy,](https://open.spotify.com/album/3N88bRVAwQrtKqSV0UgU69) | 3:50 | 2019-06-19\* | 2022-04-16 |
@@ -168,6 +168,7 @@
 | [Pain](https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Pain](https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN) | 2:33 | 2022-05-13 | 2022-12-02 |
 | [Pain](https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:33 | 2022-11-25 |  |
 | [PERSIAN RUGS](https://open.spotify.com/track/02UJ1sCanP94fS2MdsWafh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t) | 2:54 | 2020-10-22 | 2023-01-01 |
+| [PERSIAN RUGS](https://open.spotify.com/track/7e6GS3IZB1RNf75EjrfUeA) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R&B + Dancehall](https://open.spotify.com/album/5IBUMFPljtxCXK0cwCAne7) | 2:54 | 2022-12-29 |  |
 | [Playing Games \(with Bryson Tiller\) \- Extended Version](https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:23 | 2019-10-29 |  |
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2022-04-22 |  |
 | [Poison](https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Poison](https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD) | 3:32 | 2019-06-19\* |  |

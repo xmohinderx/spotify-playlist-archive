@@ -277,6 +277,28 @@
     {
       "album": {
         "name": "Rasanbleman (Red Moon)",
+        "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
+      },
+      "artists": [
+        {
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+        },
+        {
+          "name": "Anie Alerte",
+          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400388,
+      "name": "Ayizan",
+      "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
+    },
+    {
+      "album": {
+        "name": "Rasanbleman (Red Moon)",
         "url": "https://open.spotify.com/album/0RahduaPCp3gU0jRK3zZHy"
       },
       "artists": [
@@ -629,7 +651,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 192897,
       "name": "Culo",
       "url": "https://open.spotify.com/track/76z00avJmFVkjRcnufMEou"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QOv5kjbU68.md) - [plain]
 
 > Hear all of Drake's biggest and best hits in one playlist\. Thank us later.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,688,049 likes - 117 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,689,051 likes - 117 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QOv5kjbU68.md) - [plain]
 | 27 | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43) | 4:21 |
 | 28 | [Circo Loco](https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:56 |
 | 29 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 |
-| 30 | [Over the Top](https://open.spotify.com/track/6dnfxKKuZoPzV2SFjbMS5S) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [808 Bangers](https://open.spotify.com/album/7MASRGI1ZS1AiuwGAWslHs) | 2:33 |
+| 30 | [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Buy or Bye 2](https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF) | 2:33 |
 | 31 | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa) | 3:20 |
 | 32 | [Currents](https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:37 |
 | 33 | [GREECE \(feat\. Drake\)](https://open.spotify.com/track/35RJhm1pEovTBwnNR0zWad) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [GREECE \(feat\. Drake\)](https://open.spotify.com/album/3O6ywzP5LE5msmuBBTpaIN) | 3:38 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QOv5kjbU68.md) - [plain]
 | 40 | [Oprah’s Bank Account \(Lil Yachty & DaBaby feat\. Drake\)](https://open.spotify.com/track/7wsmIIm0xWmtP7TmACXkJn) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Oprah’s Bank Account \(Lil Yachty & DaBaby feat\. Drake\)](https://open.spotify.com/album/56Abu6NLfNM5X7rJhrUdO4) | 3:26 |
 | 41 | [7am On Bridle Path](https://open.spotify.com/track/42m3eP1JJhtzffal9B136J) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:59 |
 | 42 | [You Only Live Twice \(with Lil Wayne & Rick Ross\)](https://open.spotify.com/track/50ceCGZ3oD3U5caQV5bP6f) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:33 |
-| 43 | [LOYAL](https://open.spotify.com/track/3DyMFKj8ejtfG3uKk0lgdS) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Rap Champions](https://open.spotify.com/album/46NIT12md7kqLANzbIla2G) | 3:17 |
+| 43 | [LOYAL \(feat\. Drake\)](https://open.spotify.com/track/2rFqkDRJlumT7QjljlldlR) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:17 |
 | 44 | [Won't Be Late \(feat\. Drake\)](https://open.spotify.com/track/2sqsNXfN0HtgDEgaHXiUTa) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Won't Be Late \(feat\. Drake\)](https://open.spotify.com/album/4v0FSMsulZqfi28KIdwDfb) | 3:38 |
 | 45 | [Money In The Grave \(Drake ft\. Rick Ross\)](https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [The Best In The World Pack](https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4) | 3:25 |
 | 46 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QOv5kjbU68.md) - [plain]
 | 116 | [That’s How You Feel](https://open.spotify.com/track/41a7dZcq30Ss5kPMayWRV0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 2:37 |
 | 117 | [Finesse](https://open.spotify.com/track/2WP8G2pdddDmnh1xbfKBOI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:02 |
 
-Snapshot ID: `MTY2ODIwNTA2OSwwMDAwMDAwMDdlNjMwNDA5MzRiYzE2ZWM3MmU5ODNjMzFhYWM5MWUx`
+Snapshot ID: `MTY2ODIwNTA2OSwwMDAwMDAwMGQ4ZjFhYWMwZWZlNzgwZjVhYmRiYjhhM2VhMWM3NGEz`

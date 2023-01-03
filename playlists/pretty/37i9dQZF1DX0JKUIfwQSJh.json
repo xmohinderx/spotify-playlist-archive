@@ -1,12 +1,12 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 813750,
+  "num_followers": 813974,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNTgwMzI2MCwwMDAwMDAwMDVlMDJiODE0ZDQ3ZTU0MmQxODk3OTgzNWZjODdlYzQy",
+  "snapshot_id": "MTYyNTgwMzI2MCwwMDAwMDAwMDQzZTQwOTkxYmNmOTI2M2UyMmQyOWY0NjRjZDU5MTk0",
   "tracks": [
     {
       "added_at": "2021-07-09 04:01:00",
@@ -187,6 +187,22 @@
     {
       "added_at": "2021-07-09 04:01:00",
       "album": {
+        "name": "Face Value (Deluxe Editon)",
+        "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 336453,
+      "name": "In The Air Tonight - 2015 Remastered",
+      "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
+    },
+    {
+      "added_at": "2021-07-09 04:01:00",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 438493,
       "name": "Just the Two of Us (feat. Bill Withers)",
       "url": "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT"
-    },
-    {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
-        "name": "Face Value (Deluxe Editon)",
-        "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 336453,
-      "name": "In The Air Tonight - 2015 Remastered",
-      "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
     },
     {
       "added_at": "2021-07-09 04:01:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-07-09 04:01:00",
       "album": {
-        "name": "I Can Stand A Little Rain",
-        "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 159640,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
-    },
-    {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
         "name": "Simple Dreams",
         "url": "https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 239399,
       "name": "Blue Bayou",
       "url": "https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU"
+    },
+    {
+      "added_at": "2021-07-09 04:01:00",
+      "album": {
+        "name": "I Can Stand A Little Rain",
+        "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 159640,
+      "name": "You Are So Beautiful",
+      "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
     },
     {
       "added_at": "2021-07-09 04:01:00",

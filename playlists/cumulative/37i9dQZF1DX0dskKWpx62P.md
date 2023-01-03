@@ -4,7 +4,7 @@
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-109 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/6WULSQ3fhigV44qwMbRlO1)
+110 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/6WULSQ3fhigV44qwMbRlO1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Serenata Condemayta](https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx) | 2:53 | 2022-02-04 |  |
 | [Sihuarsito](https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Huayno, Vol\. 2](https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4) | 2:47 | 2022-02-04 |  |
 | [Sirwana](https://open.spotify.com/track/4DAavl2OUBU180DLfSeY5r) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0CK8pR74Lrzmh0NIOTy5Dh) | 3:59 | 2022-02-04 | 2022-07-29 |
-| [Sirwana](https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH) | 3:59 | 2022-02-04 |  |
+| [Sirwana](https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH) | 3:59 | 2022-02-04 | 2023-01-03 |
 | [Siwarquinticha](https://open.spotify.com/track/6rqSrUpqSCth4jrz7FJ3zr) | [Porfirio Ayvar](https://open.spotify.com/artist/1nu4Tbh3AzDwDMXIaEFRzx) | [Mensajes Andinos](https://open.spotify.com/album/3JgzRlcbxu5l5I9VtcwzNH) | 3:40 | 2022-02-04 | 2022-07-29 |
 | [Sobreviviendo](https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Sobreviviendo](https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R) | 6:17 | 2022-02-04 |  |
 | [Soy Provinciano](https://open.spotify.com/track/48gJ019YstMfy2k6tp9Sja) | [Pumita Cazador](https://open.spotify.com/artist/4HBWFmmZe0Ll2tTkvsn1Mb) | [El Nuevo Líder del Requinto](https://open.spotify.com/album/48PIu89fj0h9ME5JtGmCoB) | 6:22 | 2022-02-04 | 2022-07-27 |
@@ -116,6 +116,7 @@
 | [Vida Ya No es Vida](https://open.spotify.com/track/4CpOzN60AZOKsufiLpNfhY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Vida Ya No es Vida](https://open.spotify.com/album/3bYxZ5jLjyWrPcThIpCOZg) | 4:43 | 2022-02-04 |  |
 | [Vienes y Te Vas](https://open.spotify.com/track/20li7MK7ufX4MhYcVsGUIX) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/1FNmNqN8zEi4TOuhQ4pxkK) | 4:47 | 2022-02-04 | 2022-12-31 |
 | [Vienes y Te Vas](https://open.spotify.com/track/65UbyGpH5tP9AkmZAXV8aB) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/1Neoq9Qlrcv0pHVWZTmDky) | 4:47 | 2022-02-04 | 2022-07-29 |
+| [Vienes y Te Vas](https://open.spotify.com/track/6tp6NTptAjAdiayBTJnRbR) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/0y0l5FMyFAuMDhhhnnXxW7) | 4:47 | 2022-02-04 |  |
 | [Yo Soy el Amor](https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Yo Soy el Amor, Vol\. 15](https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo) | 5:40 | 2022-02-04 |  |
 
 \*This playlist was first scraped on 2022-06-08. Prior content cannot be recovered.

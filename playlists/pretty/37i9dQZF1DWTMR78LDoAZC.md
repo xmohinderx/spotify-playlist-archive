@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative LGBTQQIA+ artists\. Cover: serpentwithfeet
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,245 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,174 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 24 | [Lovestained](https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Lovestained](https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl) | 2:55 |
 | 25 | [Vacation](https://open.spotify.com/track/7fQmffdxTktq0sJFvRUcwE) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Holdly](https://open.spotify.com/album/6F4S4TL7KECkwJkMD9ziCW) | 3:47 |
 | 26 | [Soft Spot](https://open.spotify.com/track/30bqNfOgcJOw2EWJJl1w5J) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW) | 3:08 |
-| 27 | [Walking with a Ghost](https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 |
-| 28 | [Olympus](https://open.spotify.com/track/7JONeaUwRAPZvrXBrhGq4E) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/35Hg5KkyQoM4s0tHFq5L1u) | 3:36 |
-| 29 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 |
-| 30 | [Savage Good Boy](https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 2:26 |
-| 31 | [Lifetime](https://open.spotify.com/track/023GoM1byudLGkMZDLweRJ) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime](https://open.spotify.com/album/3hD7HAJtGLF5BYDriRwbkZ) | 3:17 |
+| 27 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 |
+| 28 | [Walking with a Ghost](https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 |
+| 29 | [Olympus](https://open.spotify.com/track/7JONeaUwRAPZvrXBrhGq4E) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/35Hg5KkyQoM4s0tHFq5L1u) | 3:36 |
+| 30 | [Lifetime](https://open.spotify.com/track/023GoM1byudLGkMZDLweRJ) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime](https://open.spotify.com/album/3hD7HAJtGLF5BYDriRwbkZ) | 3:17 |
+| 31 | [Savage Good Boy](https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 2:26 |
 | 32 | [Ur Gonna Wish U Believed Me](https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Ur Gonna Wish U Believed Me](https://open.spotify.com/album/7Ddogby9L1bwm8sPaKfCf6) | 4:31 |
-| 33 | [Maybe You're the Reason](https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 3:38 |
-| 34 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 |
-| 35 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 |
-| 36 | [Outta Time](https://open.spotify.com/track/3usFKA7XXOtaIqDdH6mUx9) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 4:18 |
+| 33 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 |
+| 34 | [Maybe You're the Reason](https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 3:38 |
+| 35 | [Outta Time](https://open.spotify.com/track/3usFKA7XXOtaIqDdH6mUx9) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 4:18 |
+| 36 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 |
 | 37 | [Phanta](https://open.spotify.com/track/6agThDCDlPNwJL6lvU5iYX) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/5k3SJlcTe5aDF7gDkcBnOL) | 3:14 |
 | 38 | [megan fox](https://open.spotify.com/track/1S59E0qKUoPdVneBH4nelg) | [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [claire \(deluxe\)](https://open.spotify.com/album/1Z6bytsj2M6HXeVqhruReA) | 2:29 |
 | 39 | [Power Of Two](https://open.spotify.com/track/4peEqwtnP8CoTZRFkDUqnC) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Swamp Ophelia](https://open.spotify.com/album/1X0bc0O18Dj5eqh0owcw21) | 5:22 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 68 | [Ophelia](https://open.spotify.com/track/3v87pWnjTC90f3yj9OKqYP) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [We Slept at Last](https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz) | 3:33 |
 | 69 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 |
 | 70 | [Liffey](https://open.spotify.com/track/7f2KXS3p7hnuY7DoUrHWVN) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [In Waiting](https://open.spotify.com/album/3lUUNYKTsf9J1P1YneO8n2) | 4:19 |
-| 71 | [Your Body Changes Everything \- Boy Harsher Remix](https://open.spotify.com/track/5cAHpfjLmP36gTYdkBvhA7) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn), [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Your Body Changes Everything \(Boy Harsher Remix\)](https://open.spotify.com/album/2IsfgSVzOFF2e7qRj1ASEg) | 5:06 |
-| 72 | [Don't Go Puttin Wishes in My Head](https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Thirstier](https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu) | 4:21 |
-| 73 | [Angel](https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Angel](https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f) | 3:56 |
+| 71 | [Angel](https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Angel](https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f) | 3:56 |
+| 72 | [Your Body Changes Everything \- Boy Harsher Remix](https://open.spotify.com/track/5cAHpfjLmP36gTYdkBvhA7) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn), [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Your Body Changes Everything \(Boy Harsher Remix\)](https://open.spotify.com/album/2IsfgSVzOFF2e7qRj1ASEg) | 5:06 |
+| 73 | [Don't Go Puttin Wishes in My Head](https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Thirstier](https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu) | 4:21 |
 | 74 | [Pretty Lady](https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/6GvxhHWo3EyQLW94ftqtoz) | 4:37 |
 | 75 | [umbrellar](https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [umbrellar](https://open.spotify.com/album/3QUdaLdeNzvVrVpOmIfRyn) | 2:35 |
 
-Snapshot ID: `MTY2MDIzOTI2MSwwMDAwMDAwMDUyOGFjYTQxYmM1ZjM3ZjA5NjI1ZGQwNDNmMzk2MTc5`
+Snapshot ID: `MTY2MDIzOTI2MSwwMDAwMDAwMDM0ZDQxYzQ1YzEzYmU4ZmVjMDhkMTMxNDMxNTNjN2Ix`

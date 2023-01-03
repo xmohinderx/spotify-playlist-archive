@@ -4,7 +4,7 @@
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Los Aptos en portada.
 
-104 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/7yuqccTYEQrtqPBOlPtt5b)
+105 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/7yuqccTYEQrtqPBOlPtt5b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Sentimental](https://open.spotify.com/track/0hl0vf7MEJOm4aFUoxluJX) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Sentimental](https://open.spotify.com/album/4UWHo2mn14UspvWYlMWMw5) | 4:00 | 2022-11-03 |  |
 | [Si Me Ven Tomar](https://open.spotify.com/track/4YtK6d4nvS7Z40Z12dYqZu) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Si Me Ven Tomar](https://open.spotify.com/album/6aOYYhHha8C74a19jItJrY) | 3:13 | 2022-04-22 | 2022-05-28 |
 | [SI SUPIERAS](https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:47 | 2022-05-09 |  |
-| [solo](https://open.spotify.com/track/3Ca34mFUBOXwWhWxfOsUv3) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [solo](https://open.spotify.com/album/7GqXnEzfhxnXYFdutyomuG) | 3:48 | 2022-05-23 |  |
+| [solo](https://open.spotify.com/track/3Ca34mFUBOXwWhWxfOsUv3) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [solo](https://open.spotify.com/album/7GqXnEzfhxnXYFdutyomuG) | 3:48 | 2022-05-23 | 2023-01-03 |
+| [solo](https://open.spotify.com/track/46CDWM2aCya6puIqIGaVaZ) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [solo](https://open.spotify.com/album/7r0ywAV1jtYvJGiFYqrQeZ) | 3:48 | 2022-12-22 |  |
 | [Solo En Navidad](https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Solo En Navidad](https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs) | 3:11 | 2022-11-16 |  |
 | [Solo Me Dejaste](https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH) | 3:06 | 2022-07-22 |  |
 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 | 2022-07-22 |  |

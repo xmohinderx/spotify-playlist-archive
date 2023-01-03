@@ -4,7 +4,7 @@
 
 > \(Listen Genie TV's original drama 'Summer Strike's soundtrack in here!\) Genie TV 오리지널 시리즈 '아무것도 하고 싶지 않아'의 사운드 트랙들을 감상해보세요!
 
-29 songs - 1 hr 28 min - not published yet
+34 songs - 1 hr 31 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,15 @@
 | [Color](https://open.spotify.com/track/7CgwXjVLZu82aHXCkE6FR7) | [Sunnie](https://open.spotify.com/artist/0v5xONZJ2N9zcriZXfzFK5) | [Summer Strike, Pt\. 10 \(Original Soundtrack\)](https://open.spotify.com/album/0OGWvBjkYVHW9LMtDPdi5p) | 3:09 | 2022-12-28 |  |
 | [Color \- Instrumental](https://open.spotify.com/track/468NY7aEJGD09WFUwEteJh) | [Sunnie](https://open.spotify.com/artist/0v5xONZJ2N9zcriZXfzFK5) | [Summer Strike, Pt\. 10 \(Original Soundtrack\)](https://open.spotify.com/album/0OGWvBjkYVHW9LMtDPdi5p) | 3:09 | 2022-12-28 |  |
 | [EP1\. Summer Strike](https://open.spotify.com/track/6DmCZeVtjGd0TEYxoVCcNi) | [Summer Strike](https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr) | [EP1\. Summer Strike](https://open.spotify.com/album/2z9Bol38d2aB1KvHr0Tq8e) | 0:25 | 2022-12-14 |  |
+| [EP10\. Summer Strike](https://open.spotify.com/track/12ACCKBD9BGr5s6Z64zjCh) | [Summer Strike](https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr) | [Summer Strike Audio liners](https://open.spotify.com/album/1ZZKgOGk03rR30GBbU5IWy) | 0:39 | 2023-01-02 |  |
 | [EP2\. Summer Strike](https://open.spotify.com/track/7glOIY0v0t9mhuMIL5K3xT) | [Summer Strike](https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr) | [EP2\. Summer Strike](https://open.spotify.com/album/2ZK4i2zK4r0FMb02Borh8k) | 0:25 | 2022-12-19 |  |
 | [EP3\. Summer Strike](https://open.spotify.com/track/2xQuPcEsuHtgmjmnLXRHTA) | [Summer Strike](https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr) | [EP2\. Summer Strike](https://open.spotify.com/album/2ZK4i2zK4r0FMb02Borh8k) | 0:25 | 2022-12-19 |  |
 | [EP4\. Summer Strike](https://open.spotify.com/track/7JlqDSo9wwFgrqOQUh1Qok) | [Summer Strike](https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr) | [EP2\. Summer Strike](https://open.spotify.com/album/2ZK4i2zK4r0FMb02Borh8k) | 0:25 | 2022-12-19 |  |
 | [EP5\. Summer Strike](https://open.spotify.com/track/41hWRGUuKSxqHQfeGJjLVt) | [Summer Strike](https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr) | [EP2\. Summer Strike](https://open.spotify.com/album/2ZK4i2zK4r0FMb02Borh8k) | 0:25 | 2022-12-19 |  |
+| [EP6\. Summer Strike](https://open.spotify.com/track/7bGKxHqTiMKmXB2fgPQk8E) | [Summer Strike](https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr) | [Summer Strike Audio liners](https://open.spotify.com/album/1ZZKgOGk03rR30GBbU5IWy) | 0:27 | 2023-01-02 |  |
+| [EP7\. Summer Strike](https://open.spotify.com/track/5rYY3srtSHm4yzQWgYvmta) | [Summer Strike](https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr) | [Summer Strike Audio liners](https://open.spotify.com/album/1ZZKgOGk03rR30GBbU5IWy) | 0:29 | 2023-01-02 |  |
+| [EP8\. Summer Strike](https://open.spotify.com/track/13Ak3wAUHY28SB0PzvSj5F) | [Summer Strike](https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr) | [Summer Strike Audio liners](https://open.spotify.com/album/1ZZKgOGk03rR30GBbU5IWy) | 1:00 | 2023-01-02 |  |
+| [EP9\. Summer Strike](https://open.spotify.com/track/6FPaAniNdRru6MVlgKmMMa) | [Summer Strike](https://open.spotify.com/artist/32Kmmlb572mlYomrUtOcLr) | [Summer Strike Audio liners](https://open.spotify.com/album/1ZZKgOGk03rR30GBbU5IWy) | 0:19 | 2023-01-02 |  |
 | [Hello, Stranger](https://open.spotify.com/track/5YHYuTCyF50A70ixu1nkku) | [Kum Junhyeon](https://open.spotify.com/artist/1OFbKzbdQhFvWfqQH8RXNB) | [Summer Strike, Pt\. 9 \(Original Soundtrack\)](https://open.spotify.com/album/52qsYImTDRxS2IVZ5n8rnZ) | 4:24 | 2022-12-19 |  |
 | [Hello, Stranger \- Instrumental](https://open.spotify.com/track/6xUba5wbv0FAs6TmAMedQt) | [Kum Junhyeon](https://open.spotify.com/artist/1OFbKzbdQhFvWfqQH8RXNB) | [Summer Strike, Pt\. 9 \(Original Soundtrack\)](https://open.spotify.com/album/52qsYImTDRxS2IVZ5n8rnZ) | 4:24 | 2022-12-19 |  |
 | [I See You Like I See the Sun](https://open.spotify.com/track/4grbG9wAAoFTbYnDBTkyrc) | [Low\-end project](https://open.spotify.com/artist/5HECc7MQ1IoYk1H8MNrflW) | [Summer Strike, Pt\. 12 \(Original Soundtrack\)](https://open.spotify.com/album/1x1azzo9YyhTc65qCKfEar) | 3:06 | 2022-12-26 |  |

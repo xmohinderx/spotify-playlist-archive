@@ -1,12 +1,12 @@
 {
   "description": "I think my life might be better if I lived in Colorado? Cover: Rene\u00e9 Rapp",
-  "num_followers": 1445192,
+  "num_followers": 1445391,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMGM2YjYyNzE4YzU5Mjc4ZWZjZTQzMTIxNDY2NWIzMmEw",
+  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMDgxNGZlZDliZGFhZDE4MDk4Njg3N2Y3MTA0ZjRiZDZm",
   "tracks": [
     {
       "added_at": "2022-12-23 05:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Girl Like Me",
-        "url": "https://open.spotify.com/album/5ieBMOA3cYk5kofLMCSnMv"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 149456,
-      "name": "Girl Like Me",
-      "url": "https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "QUARTER LIFE CRISIS",
         "url": "https://open.spotify.com/album/1xZpg4zC8UQRM0NAnWCiZl"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 198436,
       "name": "QUARTER LIFE CRISIS",
       "url": "https://open.spotify.com/track/7BmpRLqZg1vLheYi1SI1Rw"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Girl Like Me",
+        "url": "https://open.spotify.com/album/5ieBMOA3cYk5kofLMCSnMv"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 149456,
+      "name": "Girl Like Me",
+      "url": "https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -671,26 +671,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Let Me Down",
-        "url": "https://open.spotify.com/album/30hk8tSh4WijrOfesqXZLx"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        },
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 149727,
-      "name": "Let Me Down (with Chelsea Cutler)",
-      "url": "https://open.spotify.com/track/0ulm3WgGZsMAgwwv0Zg00W"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Lego Blocks",
         "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 143466,
       "name": "Wish You the Worst",
       "url": "https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Let Me Down",
+        "url": "https://open.spotify.com/album/30hk8tSh4WijrOfesqXZLx"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 149727,
+      "name": "Let Me Down (with Chelsea Cutler)",
+      "url": "https://open.spotify.com/track/0ulm3WgGZsMAgwwv0Zg00W"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 181667,
-      "name": "Blonde",
-      "url": "https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Easy On My Eyes",
         "url": "https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 180146,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/5nsFJfYtAFZmL9PbtYKYcA"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 181667,
+      "name": "Blonde",
+      "url": "https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
+        "name": "Alive and Unwell (Deluxe)",
+        "url": "https://open.spotify.com/album/5kmXkrUWjJfIEV5v2tzlTn"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "My Bed",
+      "url": "https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
         "name": "Casual",
         "url": "https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 193973,
       "name": "Mr. Percocet",
       "url": "https://open.spotify.com/track/3ONe6SKdO3uRrWLsZePF1p"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Alive and Unwell (Deluxe)",
-        "url": "https://open.spotify.com/album/5kmXkrUWjJfIEV5v2tzlTn"
-      },
-      "artists": [
-        {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
-        }
-      ],
-      "duration_ms": 164131,
-      "name": "My Bed",
-      "url": "https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "madhouse",
-        "url": "https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 125720,
-      "name": "madhouse",
-      "url": "https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 243236,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "madhouse",
+        "url": "https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 125720,
+      "name": "madhouse",
+      "url": "https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "I F*cking Love You",
-        "url": "https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "I F*cking Love You",
-      "url": "https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Jane Doe",
         "url": "https://open.spotify.com/album/4dtUttZLZbbkp6cN52zDy2"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 173808,
       "name": "GORGEOUS",
       "url": "https://open.spotify.com/track/4vowH3BCuj5NHsdU4YHeLh"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "I F*cking Love You",
+        "url": "https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "I F*cking Love You",
+      "url": "https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "d e a d",
-        "url": "https://open.spotify.com/album/6BoTX3xIgr81kb80R3nkPL"
-      },
-      "artists": [
-        {
-          "name": "Madelline",
-          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
-        }
-      ],
-      "duration_ms": 157933,
-      "name": "d e a d",
-      "url": "https://open.spotify.com/track/4syKTHaJJTF1fxvsNJXHHV"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "I Hate Cardio",
         "url": "https://open.spotify.com/album/0pP7mQFtuoZ9q5BU6Nj3Yc"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 209913,
       "name": "I Hate Cardio",
       "url": "https://open.spotify.com/track/5w6EF3wgPvME78cSrxnIuj"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "d e a d",
+        "url": "https://open.spotify.com/album/6BoTX3xIgr81kb80R3nkPL"
+      },
+      "artists": [
+        {
+          "name": "Madelline",
+          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
+        }
+      ],
+      "duration_ms": 157933,
+      "name": "d e a d",
+      "url": "https://open.spotify.com/track/4syKTHaJJTF1fxvsNJXHHV"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Was It A Dream?",
-        "url": "https://open.spotify.com/album/1JtOCuaJC96Vf15eB1DsU5"
-      },
-      "artists": [
-        {
-          "name": "MARIS",
-          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "Was It A Dream?",
-      "url": "https://open.spotify.com/track/6guvZdV8yLurQSr90uIavl"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Swing!",
         "url": "https://open.spotify.com/album/3LrxGxVT1ScQcKHkPHjzuD"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 170306,
       "name": "Swing!",
       "url": "https://open.spotify.com/track/6As82n96RAwuoR9Y69N0EB"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Was It A Dream?",
+        "url": "https://open.spotify.com/album/1JtOCuaJC96Vf15eB1DsU5"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "Was It A Dream?",
+      "url": "https://open.spotify.com/track/6guvZdV8yLurQSr90uIavl"
     },
     {
       "added_at": "2022-12-23 05:00:00",

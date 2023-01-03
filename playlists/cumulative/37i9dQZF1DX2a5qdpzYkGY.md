@@ -4,7 +4,7 @@
 
 > Music for Imaginary Films
 
-204 songs - 16 hr 43 min - [published](https://open.spotify.com/playlist/1CBal6MWGHQHhJpI3e8YnM)
+205 songs - 16 hr 47 min - [published](https://open.spotify.com/playlist/1CBal6MWGHQHhJpI3e8YnM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [In a Cistern](https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [In a Cistern b/w Into Clouds](https://open.spotify.com/album/6xlCxwfhcHoAB9QFPltjU3) | 4:20 | 2021-10-06 | 2022-09-01 |
 | [In Select Everlight](https://open.spotify.com/track/3WwqIyIL1LinO784i5CyGv) | [G.S\. Schray](https://open.spotify.com/artist/4PQMNbMO9wHRTui4lIi57z) | [The Changing Account](https://open.spotify.com/album/2y04cN2fakdqvC0kfFfUhs) | 4:17 | 2021-10-06 | 2022-07-29 |
 | [Innumerabilia](https://open.spotify.com/track/2Ps9LDSSSdXcnNX7cLpMXK) | [Theo Alexander](https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK), [Joel Ford](https://open.spotify.com/artist/5XiDsZ4MdTGfZvUEVBGfiA) | [Sunbathing Through A Glass Screen](https://open.spotify.com/album/73m26m4c0E7EH40WKUdPNz) | 4:56 | 2021-10-06 | 2022-07-29 |
-| [Inspiral](https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8) | [EN.KI.DU](https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE) | [BITTER.ROOT](https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4) | 4:36 | 2022-01-11 |  |
+| [Inspiral](https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8) | [EN.KI.DU](https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE) | [BITTER.ROOT](https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4) | 4:36 | 2022-01-11 | 2023-01-03 |
 | [Jinja Encounters](https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:54 | 2021-10-06 | 2022-12-13 |
 | [Just Wrong](https://open.spotify.com/track/20B96sgEcofUFcwtvWxXfK) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Just Wrong](https://open.spotify.com/album/17YsrMtHDv5KmqLWeqcAVd) | 4:44 | 2021-10-06 | 2022-09-19 |
 | [Kandaiki](https://open.spotify.com/track/1jsnIb8rHk5GgsN3oUNB6O) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Animalia](https://open.spotify.com/album/5yelbd379vJVsYZH2A9yYF) | 5:15 | 2021-10-06 |  |
@@ -205,6 +205,7 @@
 | [Vortex](https://open.spotify.com/track/6VtRGov8SEpPMq569x76mz) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Vortex](https://open.spotify.com/album/4s3HbuAOfH5ua6RctwNGlq) | 2:18 | 2021-10-06 | 2022-07-29 |
 | [Wandering II \- Ed Carlsen Rework](https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx), [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Wandering II \(Ed Carlsen Rework\)](https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga) | 3:10 | 2021-10-06 |  |
 | [Wanderlust](https://open.spotify.com/track/6KNLUSRViRg5bG0E1y1feX) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Discovery](https://open.spotify.com/album/2krPbH9goFZldIUjP7WfRE) | 3:51 | 2022-01-19 |  |
+| [Way We Are](https://open.spotify.com/track/7BL0yd3SW6TgTxPV6ORWQI) | [Ben Marc](https://open.spotify.com/artist/4sxl9xjKCAmzbtkEHf5lkJ) | [Glass Effect](https://open.spotify.com/album/7aGcbrgSOp6pgTC0AQ1oc6) | 3:26 | 2023-01-02 |  |
 | [West Coast Love Stories](https://open.spotify.com/track/0TVrtYj3l7QcCfxJr6Nl9T) | [Stone Giants](https://open.spotify.com/artist/6Z9PPhoezsXDDnYdrF8HxI), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [West Coast Love Stories](https://open.spotify.com/album/5CQ333XImLCRk9FQQauHU9) | 4:05 | 2021-10-06 | 2022-07-29 |
 | [West Coast Love Stories](https://open.spotify.com/track/4VUYyfFzi7NzbT6GYP1kqh) | [Stone Giants](https://open.spotify.com/artist/6Z9PPhoezsXDDnYdrF8HxI), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [West Coast Love Stories](https://open.spotify.com/album/3Cbt36aq6cwrNCggqrRdw4) | 4:05 | 2021-10-06 |  |
 | [Who Is Still Dreaming?](https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z) | [June11](https://open.spotify.com/artist/615aT4UKAuj5e7tcsGuPg4) | [11000 Dreams](https://open.spotify.com/album/187zWJ91K3S3MHWQuKQ0L8) | 3:32 | 2021-10-06 |  |

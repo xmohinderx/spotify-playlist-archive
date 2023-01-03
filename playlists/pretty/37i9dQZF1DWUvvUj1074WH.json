@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Qu\u00e9 traigan m\u00e1s cheve que nos sobran copas!",
-  "num_followers": 32245,
+  "num_followers": 32444,
   "original_name": "La Cervecer\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0Njg2MywwMDAwMDAwMGFiYTE4MjJhOTMwZWMxZGRmODMzM2NkN2NmOWJhYmI0",
+  "snapshot_id": "MTY3MTY0Njg2MywwMDAwMDAwMGZmOWE4YzA1YTg4M2JjODViZTRjMDg2MjM4ZTI3MzRi",
   "tracks": [
     {
       "added_at": "2022-12-21 18:21:03",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Big Bang",
         "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
       },
@@ -231,6 +215,38 @@
       "duration_ms": 281160,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -267,22 +283,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "By the Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Can't Stop",
-      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Visperas De Carnaval",
         "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
       },
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 215906,
+      "name": "Scar Tissue",
+      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 245055,
       "name": "Tu Sin Mi",
       "url": "https://open.spotify.com/track/2cIDetbjLPkhYf4r7z86WH"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "Scar Tissue",
-      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Rollin' (Air Raid Vehicle)",
-      "url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
@@ -459,6 +443,38 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
+        "name": "Stadium Arcadium",
+        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 334666,
+      "name": "Snow (Hey Oh)",
+      "url": "https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Rollin' (Air Raid Vehicle)",
+      "url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
         "name": "The Resistance",
         "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
@@ -475,6 +491,22 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
@@ -487,22 +519,6 @@
       "duration_ms": 211933,
       "name": "Are You Gonna Go My Way",
       "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
-        "name": "Stadium Arcadium",
-        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 334666,
-      "name": "Snow (Hey Oh)",
-      "url": "https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -543,18 +559,34 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Master of Puppets (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+        "name": "Nada Personal (Remastered)",
+        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 515386,
-      "name": "Master of Puppets (Remastered)",
-      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
+      "duration_ms": 229160,
+      "name": "Cuando Pase El Temblor - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 228426,
+      "name": "Amargo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -587,38 +619,6 @@
       "duration_ms": 194853,
       "name": "Interstate Love Song - 2019 Remaster",
       "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 228426,
-      "name": "Amargo Adi\u00f3s",
-      "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
-        "name": "Nada Personal (Remastered)",
-        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Cuando Pase El Temblor - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "So\u00f1\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Led Zeppelin IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 295386,
       "name": "Black Dog - Remaster",
       "url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "So\u00f1\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Rocanlover",
-        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "La Cagaste... Burt Lancaster",
         "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 184360,
       "name": "El ataque de las chicas cocodrilo",
       "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Rocanlover",
+        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "La C\u00e9lula Que Explota",
-      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "El Milagro Argentino",
         "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 313000,
       "name": "Loco (Tu Forma De Ser)",
       "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "La C\u00e9lula Que Explota",
+      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Como te extra\u00f1o mi amor",
-      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Como te extra\u00f1o mi amor",
+      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
+        "name": "Bailar\u00edn Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 195580,
+      "name": "Raz\u00f3n",
+      "url": "https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Bailar\u00edn Apocal\u00edptico",
-        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
+        "name": "News Of The World (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
       },
       "artists": [
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 195580,
-      "name": "Raz\u00f3n",
-      "url": "https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e"
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "News Of The World (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 122066,
-      "name": "We Will Rock You - Remastered 2011",
-      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Smashes Thrashes & Hits",
         "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 228560,
       "name": "Detroit Rock City",
       "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "El Loco",
-      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+      "duration_ms": 185826,
+      "name": "El Loco",
+      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Mucho Barato",
-        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
       "artists": [
         {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 215266,
-      "name": "Comprendes, Mendes?",
-      "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
+      "duration_ms": 241626,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1251,6 +1235,22 @@
       "duration_ms": 218493,
       "name": "La Guitarra",
       "url": "https://open.spotify.com/track/6aPoVnA9UDncMyKgTAicsO"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Comprendes, Mendes?",
+      "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Defecto Perfecto",
-        "url": "https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx"
-      },
-      "artists": [
-        {
-          "name": "Divisi\u00f3n Min\u00fascula",
-          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
-        }
-      ],
-      "duration_ms": 313933,
-      "name": "Sognare",
-      "url": "https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Honestidad Brutal",
         "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 261626,
       "name": "La parte de adelante",
       "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Defecto Perfecto",
+        "url": "https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "duration_ms": 313933,
+      "name": "Sognare",
+      "url": "https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "Si Se\u00f1or",
-      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Ch\u00fantaros Radio Poder",
         "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253880,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 308040,
       "name": "El baile y el sal\u00f3n",
       "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "M\u00e1tenme Porque Me Muero",
+      "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1579,18 +1595,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV"
       },
       "artists": [
         {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+          "name": "Rostros Ocultos",
+          "url": "https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib"
         }
       ],
-      "duration_ms": 213360,
-      "name": "M\u00e1tenme Porque Me Muero",
-      "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
+      "duration_ms": 158253,
+      "name": "El Final",
+      "url": "https://open.spotify.com/track/39ELDQVDsgBmo5gbTuru9U"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1607,22 +1623,6 @@
       "duration_ms": 342173,
       "name": "Smoke on the Water",
       "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV"
-      },
-      "artists": [
-        {
-          "name": "Rostros Ocultos",
-          "url": "https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib"
-        }
-      ],
-      "duration_ms": 158253,
-      "name": "El Final",
-      "url": "https://open.spotify.com/track/39ELDQVDsgBmo5gbTuru9U"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 206600,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2HZ9lGdprVT5XpOUf12h4z"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "La Luz Del Ritmo",
         "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 272640,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2HZ9lGdprVT5XpOUf12h4z"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Vasos Vac\u00edos",
-        "url": "https://open.spotify.com/album/54A9Agody2BGDXtTGMdFn4"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 275893,
-      "name": "Matador - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/7d4pdMym8ZBOgf1oVPTiPb"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 259813,
       "name": "Sr. Cobranza",
       "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Vasos Vac\u00edos",
+        "url": "https://open.spotify.com/album/54A9Agody2BGDXtTGMdFn4"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 275893,
+      "name": "Matador - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/7d4pdMym8ZBOgf1oVPTiPb"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1983,38 +1983,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 243293,
-      "name": "Mal Bicho",
-      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
-        "name": "Mundo Feliz",
-        "url": "https://open.spotify.com/album/0K1gJZEM3OPo9hnxUDZBW6"
-      },
-      "artists": [
-        {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
-        }
-      ],
-      "duration_ms": 215413,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/51PKgx0ep9pIKJxJvTBnqx"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Avalancha de \u00e9xitos",
         "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
       },
@@ -2063,18 +2031,34 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Carrousel",
-        "url": "https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT"
+        "name": "Mundo Feliz",
+        "url": "https://open.spotify.com/album/0K1gJZEM3OPo9hnxUDZBW6"
       },
       "artists": [
         {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
         }
       ],
-      "duration_ms": 266746,
-      "name": "Guitarras Blancas",
-      "url": "https://open.spotify.com/track/4g6BF5KhQDIpwJuevv7bFa"
+      "duration_ms": 215413,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/51PKgx0ep9pIKJxJvTBnqx"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 243293,
+      "name": "Mal Bicho",
+      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -2095,6 +2079,22 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
+        "name": "Carrousel",
+        "url": "https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 266746,
+      "name": "Guitarras Blancas",
+      "url": "https://open.spotify.com/track/4g6BF5KhQDIpwJuevv7bFa"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -2111,38 +2111,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Musica De Contrabando",
-        "url": "https://open.spotify.com/album/73HchWHWCwNldGE8cFDfuS"
-      },
-      "artists": [
-        {
-          "name": "Danza Invisible",
-          "url": "https://open.spotify.com/artist/1MK9J20Op7jFgUDbLiy6m2"
-        }
-      ],
-      "duration_ms": 297960,
-      "name": "Sin aliento",
-      "url": "https://open.spotify.com/track/3jAgeQ5AmuV7UWhdvP651Y"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
-        "name": "Obras Cumbres",
-        "url": "https://open.spotify.com/album/1P4zxnE9WYLHs4k8VZPlNw"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 272840,
-      "name": "La Parte de Adelante",
-      "url": "https://open.spotify.com/track/1eGNgTzF0YBoGN1BYNyvJJ"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Cualquiera Puede Cantar",
         "url": "https://open.spotify.com/album/2u6Qss7iielaR2Je3mQnl7"
       },
@@ -2155,6 +2123,22 @@
       "duration_ms": 184866,
       "name": "Los Piratas",
       "url": "https://open.spotify.com/track/4vtaM6xsM7V8R1sJseCWHu"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Musica De Contrabando",
+        "url": "https://open.spotify.com/album/73HchWHWCwNldGE8cFDfuS"
+      },
+      "artists": [
+        {
+          "name": "Danza Invisible",
+          "url": "https://open.spotify.com/artist/1MK9J20Op7jFgUDbLiy6m2"
+        }
+      ],
+      "duration_ms": 297960,
+      "name": "Sin aliento",
+      "url": "https://open.spotify.com/track/3jAgeQ5AmuV7UWhdvP651Y"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -2207,18 +2191,34 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Reggae Mexicano",
-        "url": "https://open.spotify.com/album/5XtLOVnEN46fgRZOI216R4"
+        "name": "30 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
       },
       "artists": [
         {
-          "name": "Ganja",
-          "url": "https://open.spotify.com/artist/1BqQRFZhXGMUtOlGS1IvLt"
+          "name": "Los Toreros Muertos",
+          "url": "https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI"
         }
       ],
-      "duration_ms": 261426,
-      "name": "Caminando",
-      "url": "https://open.spotify.com/track/5hirK8wva1Nh38fVwWdLlc"
+      "duration_ms": 263506,
+      "name": "Yo No Me Llamo Javier",
+      "url": "https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Obras Cumbres",
+        "url": "https://open.spotify.com/album/1P4zxnE9WYLHs4k8VZPlNw"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 272840,
+      "name": "La Parte de Adelante",
+      "url": "https://open.spotify.com/track/1eGNgTzF0YBoGN1BYNyvJJ"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -2239,18 +2239,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "30 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
+        "name": "Reggae Mexicano",
+        "url": "https://open.spotify.com/album/5XtLOVnEN46fgRZOI216R4"
       },
       "artists": [
         {
-          "name": "Los Toreros Muertos",
-          "url": "https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI"
+          "name": "Ganja",
+          "url": "https://open.spotify.com/artist/1BqQRFZhXGMUtOlGS1IvLt"
         }
       ],
-      "duration_ms": 263506,
-      "name": "Yo No Me Llamo Javier",
-      "url": "https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz"
+      "duration_ms": 261426,
+      "name": "Caminando",
+      "url": "https://open.spotify.com/track/5hirK8wva1Nh38fVwWdLlc"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Vasos Vac\u00edos",
-        "url": "https://open.spotify.com/album/54A9Agody2BGDXtTGMdFn4"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 239680,
-      "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/2p44QtrD16WSiIZxbDOtxg"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 344680,
       "name": "Cuando Seas Grande",
       "url": "https://open.spotify.com/track/6lUtlvjRGKQsH6lNLRzl0K"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Vasos Vac\u00edos",
+        "url": "https://open.spotify.com/album/54A9Agody2BGDXtTGMdFn4"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 239680,
+      "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/2p44QtrD16WSiIZxbDOtxg"
     },
     {
       "added_at": "2022-12-21 18:21:03",

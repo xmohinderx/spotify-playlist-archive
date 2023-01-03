@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-176 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/1Go6SzSjthtEYQfJ1ialIi)
+177 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/1Go6SzSjthtEYQfJ1ialIi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Adwoa](https://open.spotify.com/track/6OM34AepZAyNTdRcQFZrd3) | [J.Derobie](https://open.spotify.com/artist/0Mb4ieQOX8g5d8lnjdCVZ2), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Adwoa](https://open.spotify.com/album/3B80wQGtdbktw36Q8hIaR7) | 2:58 | 2022-11-25 | 2022-12-09 |
 | [All Of Us \(Ashawo\)](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 | 2022-08-05 |  |
 | [All The Way](https://open.spotify.com/track/4m8ywcRBvlcYWeFyH6yX7v) | [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [All The Way](https://open.spotify.com/album/7Ki5xYUVuhvuAijgaJeQsA) | 2:50 | 2022-10-13 | 2022-10-31 |
-| [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 | 2022-06-08 |  |
+| [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 | 2022-06-08 | 2023-01-03 |
 | [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 | 2022-11-18 |  |
 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 | 2022-06-08 |  |
 | [B.O.A \(Based On Analysis\)](https://open.spotify.com/track/48jL8qMO31Hu6aEczS0CJn) | [Dj Voyst](https://open.spotify.com/artist/7g61HbXl5DD2soIUBikmUA), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [B.O.A \(Based On Analysis\)](https://open.spotify.com/album/5otlaiucF8ysHx3fyjsXc9) | 2:52 | 2022-10-13 | 2022-10-31 |
@@ -85,6 +85,7 @@
 | [Jowo](https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:56 | 2022-06-08 | 2022-08-18 |
 | [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 | 2022-07-22 | 2022-09-02 |
 | [Kolo Kolo](https://open.spotify.com/track/2RnkJgwCzgvQU3MUysO1fG) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Kolo Kolo](https://open.spotify.com/album/6o46JSSqZAcJSma0j37t4u) | 3:15 | 2022-09-09 | 2022-11-12 |
+| [Kolomental](https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 3:17 | 2022-06-08 |  |
 | [kolomental](https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [kolomental](https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL) | 3:17 | 2022-06-08 | 2022-12-19 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-06-16 |  |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-06-08 |  |

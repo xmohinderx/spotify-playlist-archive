@@ -278,6 +278,24 @@
     },
     {
       "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "album": {
         "name": "Moonshine Freeze Remixes",
         "url": "https://open.spotify.com/album/24xJu2aYlYPt5YtH5FP3fi"
       },
@@ -427,6 +445,24 @@
       "duration_ms": 271176,
       "name": "Chemtrails Over The Country Club",
       "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
+    },
+    {
+      "album": {
+        "name": "Cherry Wine",
+        "url": "https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173286,
+      "name": "Cherry Wine",
+      "url": "https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce"
     },
     {
       "album": {
@@ -1122,6 +1158,24 @@
     },
     {
       "album": {
+        "name": "Fade into You",
+        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252596,
+      "name": "Fade into You",
+      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
+    },
+    {
+      "album": {
         "name": "Fast Car b/w Fire",
         "url": "https://open.spotify.com/album/71iDfOWbiVriNL3FnD6fFJ"
       },
@@ -1299,6 +1353,24 @@
       "duration_ms": 127210,
       "name": "For You",
       "url": "https://open.spotify.com/track/50bMSujg47Xc9LRuy6Xra9"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "album": {
@@ -1779,7 +1851,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 211403,
       "name": "I Wanna Dance With Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/10e8OyV77FnTWvWhO1x6n6"
@@ -2315,7 +2387,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 175786,
       "name": "Limoneros",
       "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
@@ -2453,7 +2525,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 246222,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/1KKO7lAg5RTGYaTJkkZC9E"
@@ -3500,6 +3572,24 @@
     },
     {
       "album": {
+        "name": "Wilds",
+        "url": "https://open.spotify.com/album/2IXuKQr2JhjocXGfkTmfPG"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154026,
+      "name": "Spanish On The Beach",
+      "url": "https://open.spotify.com/track/3GTqzTpAxsqbXiiL3OBZQu"
+    },
+    {
+      "album": {
         "name": "Starboy (Acoustic)",
         "url": "https://open.spotify.com/album/5Bh0yujzOhMqly3ONkprWR"
       },
@@ -3691,7 +3781,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 229850,
       "name": "The Day I Left Hanoi",
       "url": "https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y"
@@ -3951,7 +4041,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 180778,
       "name": "Un D\u00eda Lo Encontr\u00e9",
       "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"

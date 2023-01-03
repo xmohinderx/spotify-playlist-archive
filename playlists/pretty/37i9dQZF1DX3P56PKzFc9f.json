@@ -1,12 +1,12 @@
 {
   "description": "Home is where the heart is.",
-  "num_followers": 802429,
+  "num_followers": 802459,
   "original_name": "Home Sweet Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNDI5NywwMDAwMDAwMGM3YTc5YWI3ZDUxMDVmYzhiNzI4NWE4YmVlNzQ5ZjNl",
+  "snapshot_id": "MTY3MjQyNDI5NywwMDAwMDAwMDdhMzFiN2QwYjA0MzAwZTFkNmU5YjZiY2JiNjBkOWMw",
   "tracks": [
     {
       "added_at": "2022-12-01 15:49:02",
@@ -283,26 +283,6 @@
     {
       "added_at": "2022-12-01 15:49:02",
       "album": {
-        "name": "Save Your Tears (Remix)",
-        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Save Your Tears (with Ariana Grande) (Remix)",
-      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
-    },
-    {
-      "added_at": "2022-12-01 15:49:02",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -335,6 +315,26 @@
     {
       "added_at": "2022-12-01 15:49:02",
       "album": {
+        "name": "Save Your Tears (Remix)",
+        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Save Your Tears (with Ariana Grande) (Remix)",
+      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "added_at": "2022-12-01 15:49:02",
+      "album": {
         "name": "Harry Styles",
         "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
       },
@@ -351,18 +351,18 @@
     {
       "added_at": "2022-12-01 15:49:02",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2022-12-01 15:49:02",
@@ -387,18 +387,18 @@
     {
       "added_at": "2022-12-01 15:49:02",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "added_at": "2022-12-01 15:49:02",
@@ -415,6 +415,22 @@
       "duration_ms": 215093,
       "name": "September",
       "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
+    {
+      "added_at": "2022-12-01 15:49:02",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "deja vu",
+      "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
     },
     {
       "added_at": "2022-12-01 15:49:02",
@@ -463,22 +479,6 @@
       "duration_ms": 196520,
       "name": "Wait a Minute!",
       "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
-    },
-    {
-      "added_at": "2022-12-01 15:49:02",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "deja vu",
-      "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
     },
     {
       "added_at": "2022-12-01 15:49:02",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-12-01 15:49:02",
       "album": {
-        "name": "Bigger, Better, Faster, More !",
-        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
-      },
-      "artists": [
-        {
-          "name": "4 Non Blondes",
-          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "What's Up?",
-      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
-    },
-    {
-      "added_at": "2022-12-01 15:49:02",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 125093,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
+    },
+    {
+      "added_at": "2022-12-01 15:49:02",
+      "album": {
+        "name": "Bigger, Better, Faster, More !",
+        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
+      },
+      "artists": [
+        {
+          "name": "4 Non Blondes",
+          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
     },
     {
       "added_at": "2022-12-01 15:49:02",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-12-01 15:49:02",
       "album": {
+        "name": "Abba",
+        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
+    },
+    {
+      "added_at": "2022-12-01 15:49:02",
+      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -971,26 +987,6 @@
       "duration_ms": 243360,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
-    },
-    {
-      "added_at": "2022-12-01 15:49:02",
-      "album": {
-        "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
-        "url": "https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
-      "url": "https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF"
     },
     {
       "added_at": "2022-12-01 15:49:02",
@@ -1011,18 +1007,22 @@
     {
       "added_at": "2022-12-01 15:49:02",
       "album": {
-        "name": "Abba",
-        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
+        "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
+        "url": "https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 213266,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
+      "duration_ms": 217466,
+      "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
+      "url": "https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF"
     },
     {
       "added_at": "2022-12-01 15:49:02",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-12-01 15:49:02",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 201882,
-      "name": "pov",
-      "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
-    },
-    {
-      "added_at": "2022-12-01 15:49:02",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -1243,22 +1227,6 @@
     {
       "added_at": "2022-12-01 15:49:02",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 172213,
-      "name": "Lights Up",
-      "url": "https://open.spotify.com/track/4jAIqgrPjKLTY9Gbez25Qb"
-    },
-    {
-      "added_at": "2022-12-01 15:49:02",
-      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -1271,6 +1239,38 @@
       "duration_ms": 289160,
       "name": "I Have Nothing",
       "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
+    },
+    {
+      "added_at": "2022-12-01 15:49:02",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 201882,
+      "name": "pov",
+      "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
+    },
+    {
+      "added_at": "2022-12-01 15:49:02",
+      "album": {
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
     }
   ],
   "unique_name": "Home Sweet Home",

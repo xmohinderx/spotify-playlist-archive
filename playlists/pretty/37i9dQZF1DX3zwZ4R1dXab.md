@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 
 > Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,144 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 6 | [Don't Worry Be Happy](https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [Simple Pleasures](https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b) | 4:54 |
 | 7 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 |
 | 8 | [Weightless](https://open.spotify.com/track/6kkwzB6hXLIONkEk9JciA6) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [The Ambient Zone Just Music Cafe Vol 4](https://open.spotify.com/album/0JsrUHqVkWkXt0vQeNiVkW) | 8:00 |
-| 9 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 |
-| 10 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 |
-| 11 | [With A Little Help From My Friends \- Remastered 2009](https://open.spotify.com/track/2RnPATK99oGOZygnD2GTO6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 2:44 |
+| 9 | [With A Little Help From My Friends \- Remastered 2009](https://open.spotify.com/track/2RnPATK99oGOZygnD2GTO6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 2:44 |
+| 10 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 |
+| 11 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 |
 | 12 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 |
 | 13 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 |
 | 14 | [Raconteur](https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [Raconteur](https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T) | 1:47 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 53 | [Comtemplating Still](https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [Comtemplating Still](https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo) | 1:40 |
 | 54 | [On the Stairs](https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [On the Stairs](https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu) | 2:21 |
 | 55 | [Calm](https://open.spotify.com/track/4CK6vuYb4BaaQ2oYbkASuB) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Calm](https://open.spotify.com/album/68XXJLCevHtMqzrnKPobT9) | 1:49 |
-| 56 | [Resurrection](https://open.spotify.com/track/0BtJKY7UaAtw4ViVQJHOHI) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Eternity](https://open.spotify.com/album/5HxEiomNu1exVfU8cokO0A) | 2:00 |
-| 57 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 |
+| 56 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 |
+| 57 | [Resurrection](https://open.spotify.com/track/0BtJKY7UaAtw4ViVQJHOHI) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Eternity](https://open.spotify.com/album/5HxEiomNu1exVfU8cokO0A) | 2:00 |
 | 58 | [City Lights](https://open.spotify.com/track/041EqVueOI4pszWGJfKerh) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [City Lights](https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx) | 2:06 |
 | 59 | [Space And Time](https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Space And Time](https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN) | 2:25 |
 | 60 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 67 | [Bocks](https://open.spotify.com/track/2uefuYyOh0LTfrMcuvl2ID) | [Granite Stone](https://open.spotify.com/artist/2IIgijC6z7dO3WTWEX79tv) | [Bocks](https://open.spotify.com/album/5P5KYC3jZPN7F6lVMEZLCa) | 2:13 |
 | 68 | [Desiderium](https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Desiderium](https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU) | 2:24 |
 | 69 | [Muddus](https://open.spotify.com/track/45We1ecGx6GcCNJWiQywxA) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Muddus](https://open.spotify.com/album/2vgJ3w2gKOoKNFe9myNZcO) | 2:08 |
-| 70 | [Pensamiento \(Variacion 1\)](https://open.spotify.com/track/1XjmvMlHQeXqXqbIiphr7L) | [Night Effects](https://open.spotify.com/artist/3LYasSAMIunoZHkV2FC7WB) | [Night Effects](https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU) | 1:42 |
-| 71 | [Vejlefjord](https://open.spotify.com/track/6ff7MgoSLL9Cxi3t2qYVnA) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Vejlefjord](https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4) | 2:14 |
+| 70 | [Vejlefjord](https://open.spotify.com/track/6ff7MgoSLL9Cxi3t2qYVnA) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Vejlefjord](https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4) | 2:14 |
+| 71 | [Pensamiento \(Variacion 1\)](https://open.spotify.com/track/1XjmvMlHQeXqXqbIiphr7L) | [Night Effects](https://open.spotify.com/artist/3LYasSAMIunoZHkV2FC7WB) | [Night Effects](https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU) | 1:42 |
 | 72 | [Story Time](https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Story Time](https://open.spotify.com/album/0v547nlB4ydYCt26HXGxIl) | 2:09 |
 | 73 | [Ainda Ontem](https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Ainda Ontem](https://open.spotify.com/album/4fCDlV21vCQxgNa5D1wtEW) | 2:25 |
 | 74 | [Night Light](https://open.spotify.com/track/4iRBjXN9x4UdOrT9c6sSsL) | [Phoenomenatic](https://open.spotify.com/artist/1jOAI3YkQLJswHVGCIKbu4) | [Night Light](https://open.spotify.com/album/2q4lhQVfht53WO9uwkJYIr) | 2:30 |
 | 75 | [Alteration For Life](https://open.spotify.com/track/3T8EFeyuU6WEKgF4tpggDd) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Days of Tomorrow](https://open.spotify.com/album/7J0vzQvMdrRP04BNHge7pH) | 2:46 |
 
-Snapshot ID: `MTY3MTQzOTUzMCwwMDAwMDAwMDExODc3NDc1MmU2MTZkM2Y3ZDY3MzAxMWRjNmNjNmZj`
+Snapshot ID: `MTY3MTQzOTUzMCwwMDAwMDAwMDRmOTI1ZmM5N2QxOTdjYzcxN2E1MjFjZmIzNzhmODAy`

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: Red Velvet, aespa)",
-  "num_followers": 103264,
+  "num_followers": 103068,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjEzMTYyOSwwMDAwMDAwMDk4MDVlNzFkOWU0YTJmY2NjYTU3YjJjNTEyOTY5YmMy",
+  "snapshot_id": "MTY3MjEzMTYyOSwwMDAwMDAwMGU3MWZkODNhZjAyZDI3ZjRmYjlmZDE5NDEwM2YyNTQy",
   "tracks": [
     {
       "added_at": "2022-12-23 09:03:54",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-12-23 09:03:54",
       "album": {
+        "name": "Christmas EveL",
+        "url": "https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 235386,
+      "name": "Winter Falls",
+      "url": "https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3"
+    },
+    {
+      "added_at": "2022-12-23 09:03:54",
+      "album": {
         "name": "Amusement Park",
         "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
       },
@@ -335,6 +351,22 @@
       "duration_ms": 256693,
       "name": "Amusement Park",
       "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
+    },
+    {
+      "added_at": "2022-12-23 09:03:54",
+      "album": {
+        "name": "Miracles in December",
+        "url": "https://open.spotify.com/album/7xKAWXGHTlXovWpEVu1csM"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 273287,
+      "name": "Miracles in December",
+      "url": "https://open.spotify.com/track/7HrCnwDvbtCKSZtpNDmII9"
     },
     {
       "added_at": "2022-12-23 09:03:54",
@@ -379,50 +411,18 @@
     {
       "added_at": "2022-12-23 09:03:54",
       "album": {
-        "name": "MAD Winter Edition",
-        "url": "https://open.spotify.com/album/3D4sDxSTwqNnsyYlI3ueb4"
+        "name": "The Present",
+        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
       },
       "artists": [
         {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
         }
       ],
-      "duration_ms": 212836,
-      "name": "\uace0\ubc31\uc1a1 Confession Song",
-      "url": "https://open.spotify.com/track/0Lw61bzbNQz9Nkw4uRlx4F"
-    },
-    {
-      "added_at": "2022-12-23 09:03:54",
-      "album": {
-        "name": "Christmas EveL",
-        "url": "https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 235386,
-      "name": "Winter Falls",
-      "url": "https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3"
-    },
-    {
-      "added_at": "2022-12-23 09:03:54",
-      "album": {
-        "name": "Miracles in December",
-        "url": "https://open.spotify.com/album/7xKAWXGHTlXovWpEVu1csM"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 273287,
-      "name": "Miracles in December",
-      "url": "https://open.spotify.com/track/7HrCnwDvbtCKSZtpNDmII9"
+      "duration_ms": 222560,
+      "name": "PRESENT",
+      "url": "https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt"
     },
     {
       "added_at": "2022-12-23 09:03:54",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-12-23 09:03:54",
       "album": {
+        "name": "MAD Winter Edition",
+        "url": "https://open.spotify.com/album/3D4sDxSTwqNnsyYlI3ueb4"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "duration_ms": 212836,
+      "name": "\uace0\ubc31\uc1a1 Confession Song",
+      "url": "https://open.spotify.com/track/0Lw61bzbNQz9Nkw4uRlx4F"
+    },
+    {
+      "added_at": "2022-12-23 09:03:54",
+      "album": {
         "name": "JOY - SM STATION",
         "url": "https://open.spotify.com/album/5UkUr57L6X1gopnzG1dyBa"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 178534,
       "name": "JOY",
       "url": "https://open.spotify.com/track/3I4pgDhMKp6Sww3lTxyg8X"
-    },
-    {
-      "added_at": "2022-12-23 09:03:54",
-      "album": {
-        "name": "The Present",
-        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "PRESENT",
-      "url": "https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt"
     },
     {
       "added_at": "2022-12-23 09:03:54",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-12-23 09:03:54",
       "album": {
-        "name": "Dear Santa - X-Mas Special",
-        "url": "https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation-TTS",
-          "url": "https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q"
-        }
-      ],
-      "duration_ms": 238287,
-      "name": "Dear Santa",
-      "url": "https://open.spotify.com/track/7khMBZeWJMPIyHehQ5aXuf"
-    },
-    {
-      "added_at": "2022-12-23 09:03:54",
-      "album": {
         "name": "\uc138\uac00\uc9c0 \uc18c\uc6d0 Wish Tree - WINTER GARDEN",
         "url": "https://open.spotify.com/album/69a7YNzhApHfLFwHvPkCso"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 238786,
       "name": "\uc138\uac00\uc9c0 \uc18c\uc6d0 Wish Tree",
       "url": "https://open.spotify.com/track/3wtDVPGUMTHgsVdpr9uYin"
+    },
+    {
+      "added_at": "2022-12-23 09:03:54",
+      "album": {
+        "name": "Dear Santa - X-Mas Special",
+        "url": "https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation-TTS",
+          "url": "https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q"
+        }
+      ],
+      "duration_ms": 238287,
+      "name": "Dear Santa",
+      "url": "https://open.spotify.com/track/7khMBZeWJMPIyHehQ5aXuf"
     },
     {
       "added_at": "2022-12-23 09:03:54",
@@ -643,22 +643,6 @@
       "duration_ms": 197480,
       "name": "Santa For You",
       "url": "https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76"
-    },
-    {
-      "added_at": "2022-12-23 09:03:54",
-      "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 167456,
-      "name": "The Magic of Christmas Time",
-      "url": "https://open.spotify.com/track/35OjjtMHKnPdOAsEZ6M9OA"
     },
     {
       "added_at": "2022-12-23 09:03:54",
@@ -743,6 +727,22 @@
     {
       "added_at": "2022-12-23 09:03:54",
       "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 167456,
+      "name": "The Magic of Christmas Time",
+      "url": "https://open.spotify.com/track/35OjjtMHKnPdOAsEZ6M9OA"
+    },
+    {
+      "added_at": "2022-12-23 09:03:54",
+      "album": {
         "name": "The Present",
         "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
       },
@@ -795,38 +795,6 @@
     {
       "added_at": "2022-12-23 09:03:54",
       "album": {
-        "name": "Mr. Santa",
-        "url": "https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5"
-      },
-      "artists": [
-        {
-          "name": "LUNCH",
-          "url": "https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Mr. Santa",
-      "url": "https://open.spotify.com/track/5sKVq8eZao43FmumueYClP"
-    },
-    {
-      "added_at": "2022-12-23 09:03:54",
-      "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 204554,
-      "name": "Candy Cane",
-      "url": "https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt"
-    },
-    {
-      "added_at": "2022-12-23 09:03:54",
-      "album": {
         "name": "Solo Christmas",
         "url": "https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h"
       },
@@ -847,6 +815,22 @@
     {
       "added_at": "2022-12-23 09:03:54",
       "album": {
+        "name": "Mr. Santa",
+        "url": "https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5"
+      },
+      "artists": [
+        {
+          "name": "LUNCH",
+          "url": "https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Mr. Santa",
+      "url": "https://open.spotify.com/track/5sKVq8eZao43FmumueYClP"
+    },
+    {
+      "added_at": "2022-12-23 09:03:54",
+      "album": {
         "name": "Lonely Christmas",
         "url": "https://open.spotify.com/album/6EdZ5jg5tJ0vV97VzXFG7a"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 217866,
       "name": "Lonely Christmas",
       "url": "https://open.spotify.com/track/2vJP8zpSkssJjuddm63jyS"
+    },
+    {
+      "added_at": "2022-12-23 09:03:54",
+      "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 204554,
+      "name": "Candy Cane",
+      "url": "https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt"
     },
     {
       "added_at": "2022-12-23 09:03:54",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-12-23 09:03:54",
       "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 259339,
-      "name": "Christmas without You",
-      "url": "https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT"
-    },
-    {
-      "added_at": "2022-12-23 09:03:54",
-      "album": {
         "name": "5.1",
         "url": "https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 233025,
       "name": "Merry-Go-Round (Christmas Edition)",
       "url": "https://open.spotify.com/track/67s1NKEYHGfhyGhAgnlg6e"
+    },
+    {
+      "added_at": "2022-12-23 09:03:54",
+      "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 259339,
+      "name": "Christmas without You",
+      "url": "https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT"
     },
     {
       "added_at": "2022-12-23 09:03:54",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-12-23 09:03:54",
       "album": {
-        "name": "The Winter's Tale",
-        "url": "https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v"
-      },
-      "artists": [
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        }
-      ],
-      "duration_ms": 225488,
-      "name": "Because It's Christmas",
-      "url": "https://open.spotify.com/track/4hqJ7ikAK2dXTeptTi58Di"
-    },
-    {
-      "added_at": "2022-12-23 09:03:54",
-      "album": {
         "name": "Another Sad Love Song",
         "url": "https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 184772,
       "name": "Let Me Know - Bonus Track",
       "url": "https://open.spotify.com/track/5iEFTzTm71gxXJnbNfHCAt"
+    },
+    {
+      "added_at": "2022-12-23 09:03:54",
+      "album": {
+        "name": "The Winter's Tale",
+        "url": "https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "duration_ms": 225488,
+      "name": "Because It's Christmas",
+      "url": "https://open.spotify.com/track/4hqJ7ikAK2dXTeptTi58Di"
     },
     {
       "added_at": "2022-12-23 09:03:54",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2022-12-23 09:03:54",
       "album": {
-        "name": "First Snow",
-        "url": "https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb"
-      },
-      "artists": [
-        {
-          "name": "Xydo",
-          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
-        },
-        {
-          "name": "BUMKEY",
-          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "First Snow",
-      "url": "https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn"
-    },
-    {
-      "added_at": "2022-12-23 09:03:54",
-      "album": {
         "name": "Grass under Snow",
         "url": "https://open.spotify.com/album/2bUVBzFqxI4LmcgM58rDro"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 178986,
       "name": "Grass under Snow",
       "url": "https://open.spotify.com/track/5yqrLjLXElOOj8cW1eH0If"
+    },
+    {
+      "added_at": "2022-12-23 09:03:54",
+      "album": {
+        "name": "First Snow",
+        "url": "https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb"
+      },
+      "artists": [
+        {
+          "name": "Xydo",
+          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
+        },
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "First Snow",
+      "url": "https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn"
     },
     {
       "added_at": "2022-12-23 09:03:54",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-12-23 09:03:54",
       "album": {
-        "name": "This Is Your Winter Song",
-        "url": "https://open.spotify.com/album/5WWvltjF8gA414aWghDCsy"
-      },
-      "artists": [
-        {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "This Is Your Winter Song",
-      "url": "https://open.spotify.com/track/5y7C6vS8d8IjAKZkeTrMRT"
-    },
-    {
-      "added_at": "2022-12-23 09:03:54",
-      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 186533,
       "name": "Y earned (Feat. Gaeko, SOLE) (Prod. Primary, plusNONE)",
       "url": "https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5"
+    },
+    {
+      "added_at": "2022-12-23 09:03:54",
+      "album": {
+        "name": "This Is Your Winter Song",
+        "url": "https://open.spotify.com/album/5WWvltjF8gA414aWghDCsy"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "This Is Your Winter Song",
+      "url": "https://open.spotify.com/track/5y7C6vS8d8IjAKZkeTrMRT"
     },
     {
       "added_at": "2022-12-23 09:03:54",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2022-12-23 09:03:54",
       "album": {
+        "name": "My Favorite Winter",
+        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "D-day",
+      "url": "https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE"
+    },
+    {
+      "added_at": "2022-12-23 09:03:54",
+      "album": {
         "name": "Jingle All Night",
         "url": "https://open.spotify.com/album/2rFML9EpjokJoy5FK5ewVi"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 197500,
       "name": "Jingle All Night",
       "url": "https://open.spotify.com/track/2dFKs3VdqnQijyWjw02YbJ"
-    },
-    {
-      "added_at": "2022-12-23 09:03:54",
-      "album": {
-        "name": "My Favorite Winter",
-        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "D-day",
-      "url": "https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE"
     }
   ],
   "unique_name": "Christmas K-Pop",

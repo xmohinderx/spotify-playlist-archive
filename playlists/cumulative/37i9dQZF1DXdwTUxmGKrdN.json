@@ -797,7 +797,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 266717,
       "name": "Deep Blue C",
       "url": "https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k"
@@ -2113,7 +2113,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 122520,
       "name": "Lift Every Voice And Sing",
       "url": "https://open.spotify.com/track/2HvU1gv4A2GZ5v0m9MVkjS"
@@ -3022,6 +3022,24 @@
     },
     {
       "album": {
+        "name": "So Many Ways",
+        "url": "https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247440,
+      "name": "So Many Ways",
+      "url": "https://open.spotify.com/track/5M4hx3dAvctkZhArX9SWrh"
+    },
+    {
+      "album": {
         "name": "Pearls",
         "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
       },
@@ -3329,7 +3347,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 223196,
       "name": "Stronger Now",
       "url": "https://open.spotify.com/track/1ldNcaMyLRYnRgYORskmlX"

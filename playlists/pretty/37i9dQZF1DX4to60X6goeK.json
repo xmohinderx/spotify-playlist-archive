@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 38633,
+  "num_followers": 38638,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMDI2YTE3OGIxMDA3YTJjOTZmM2QyNGIyNjljOTI2Zjhh",
+  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMDliYmQ5YTU0ODA1NDQyNmViZDUwOGZkMDQyY2FjMjUw",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/5XRi4gmPsCAb6rF6HwfSUf"
       },
       "artists": [
         {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
         }
       ],
-      "duration_ms": 226916,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
+      "duration_ms": 268800,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/6sdvLVBHnuNjne2DS2IrJ9"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -447,22 +447,6 @@
       "duration_ms": 270344,
       "name": "Nerd Starter Pack",
       "url": "https://open.spotify.com/track/4Be86Iyz32bO0CJAjhSQDg"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/5XRi4gmPsCAb6rF6HwfSUf"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/6sdvLVBHnuNjne2DS2IrJ9"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -507,6 +491,22 @@
       "duration_ms": 240000,
       "name": "Tekkers Riddim (feat. Harry Shotta & Mr Traumatik)",
       "url": "https://open.spotify.com/track/0qmQbxSIt10XDEw90Bqvhx"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        }
+      ],
+      "duration_ms": 226916,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -679,38 +679,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Transcend",
-        "url": "https://open.spotify.com/album/5EE5Ix18HkEAFFD5ZHJtxz"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 292117,
-      "name": "Transcend",
-      "url": "https://open.spotify.com/track/1kL6yPur8rCHOahU3KUWNb"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Us / When the Lights Go",
-        "url": "https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE"
-      },
-      "artists": [
-        {
-          "name": "Tesen",
-          "url": "https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP"
-        }
-      ],
-      "duration_ms": 271542,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Skillz",
         "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
       },
@@ -739,6 +707,38 @@
       "duration_ms": 204621,
       "name": "Skillz",
       "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Transcend",
+        "url": "https://open.spotify.com/album/5EE5Ix18HkEAFFD5ZHJtxz"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 292117,
+      "name": "Transcend",
+      "url": "https://open.spotify.com/track/1kL6yPur8rCHOahU3KUWNb"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Us / When the Lights Go",
+        "url": "https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE"
+      },
+      "artists": [
+        {
+          "name": "Tesen",
+          "url": "https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP"
+        }
+      ],
+      "duration_ms": 271542,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -811,18 +811,26 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Spotlight",
-        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
+        "name": "Do It Like Me",
+        "url": "https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR"
       },
       "artists": [
         {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+        },
+        {
+          "name": "Complex",
+          "url": "https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
         }
       ],
-      "duration_ms": 225245,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
+      "duration_ms": 204364,
+      "name": "Do It Like Me",
+      "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -875,42 +883,18 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Do It Like Me",
-        "url": "https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR"
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
       },
       "artists": [
         {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
-        },
-        {
-          "name": "Complex",
-          "url": "https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
         }
       ],
-      "duration_ms": 204364,
-      "name": "Do It Like Me",
-      "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Lady Petrol",
-        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 309986,
-      "name": "Lady Petrol",
-      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
+      "duration_ms": 225245,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -943,6 +927,22 @@
       "duration_ms": 327945,
       "name": "Void",
       "url": "https://open.spotify.com/track/5bRZR2TRxH4xoZAb9O126q"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Lady Petrol",
+        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 309986,
+      "name": "Lady Petrol",
+      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "VOID LP",
+        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 267586,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/38qsNzezB0gCCk8N74lPJV"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 267428,
       "name": "Grape",
       "url": "https://open.spotify.com/track/7wobm0ZyzQHe7G3Q6rzLe3"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "VOID LP",
-        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 267586,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
     },
     {
       "added_at": "2022-08-12 16:34:51",

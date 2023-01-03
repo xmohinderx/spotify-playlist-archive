@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 176617,
+  "num_followers": 176709,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzAwOTQ0MCwwMDAwMDAwMDdhMWNlNDY1OGRkMzA1M2M4ZTU4MWIxY2UzNzRkZDc1",
+  "snapshot_id": "MTU5MzAwOTQ0MCwwMDAwMDAwMGE4NmE3NDg4YzQ5MTQyNjg5NTM4NTY2OGUwNmU3NjA4",
   "tracks": [
     {
       "added_at": "2020-06-24 14:37:20",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 293826,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 293826,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -195,22 +195,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 222706,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -243,18 +243,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "The Queen Is Dead",
-        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
       "artists": [
         {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 244586,
-      "name": "There Is a Light That Never Goes Out - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"
+      "duration_ms": 238266,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -275,22 +275,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Non-Stop Erotic Cabaret",
         "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 153800,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 244586,
+      "name": "There Is a Light That Never Goes Out - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -515,22 +515,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 262240,
-      "name": "I Just Called To Say I Love You",
-      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
+      "duration_ms": 240280,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -575,6 +559,22 @@
       "duration_ms": 252773,
       "name": "Karma Chameleon - Remastered 2002",
       "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -627,18 +627,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Footloose (15th Anniversary Collectors' Edition)",
-        "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
       "artists": [
         {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 226826,
-      "name": "Footloose - From \"Footloose\" Soundtrack",
-      "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -659,18 +659,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+        "name": "Footloose (15th Anniversary Collectors' Edition)",
+        "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
         }
       ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
+      "duration_ms": 226826,
+      "name": "Footloose - From \"Footloose\" Soundtrack",
+      "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -771,22 +771,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Songs From The Big Chair",
-        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 393666,
-      "name": "Shout",
-      "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "The Best Of Men At Work: Contraband",
         "url": "https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Rebel Yell",
-        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
+        "name": "Songs From The Big Chair",
+        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
       },
       "artists": [
         {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
         }
       ],
-      "duration_ms": 299240,
-      "name": "Eyes Without A Face",
-      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS"
+      "duration_ms": 393666,
+      "name": "Shout",
+      "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -831,6 +815,22 @@
       "duration_ms": 248906,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Rebel Yell",
+        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 299240,
+      "name": "Eyes Without A Face",
+      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1079,22 +1079,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Songs From The Big Chair (Deluxe)",
-        "url": "https://open.spotify.com/album/06J93pgtDCUw6bsAQINhCs"
+        "name": "Bad (Remastered)",
+        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
       },
       "artists": [
         {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        },
-        {
-          "name": "Dave Bascombe",
-          "url": "https://open.spotify.com/artist/3pAVaThptde5bneOqDfY1I"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 257315,
-      "name": "Head Over Heels - Dave Bascombe 7\" N.Mix",
-      "url": "https://open.spotify.com/track/5lwQGZYF4BXOzFtXc5zk8q"
+      "duration_ms": 257760,
+      "name": "Smooth Criminal - 2012 Remaster",
+      "url": "https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1115,18 +1111,38 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Bad (Remastered)",
-        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
+        "name": "Songs From The Big Chair (Deluxe)",
+        "url": "https://open.spotify.com/album/06J93pgtDCUw6bsAQINhCs"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        },
+        {
+          "name": "Dave Bascombe",
+          "url": "https://open.spotify.com/artist/3pAVaThptde5bneOqDfY1I"
         }
       ],
-      "duration_ms": 257760,
-      "name": "Smooth Criminal - 2012 Remaster",
-      "url": "https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"
+      "duration_ms": 257315,
+      "name": "Head Over Heels - Dave Bascombe 7\" N.Mix",
+      "url": "https://open.spotify.com/track/5lwQGZYF4BXOzFtXc5zk8q"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1159,22 +1175,6 @@
       "duration_ms": 359733,
       "name": "Dancing With Myself",
       "url": "https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Three Imaginary Boys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "Boys Don't Cry - Single Version",
-      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Dois",
         "url": "https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 271440,
       "name": "Eduardo E M\u00f4nica",
       "url": "https://open.spotify.com/track/6Pa6VpdGS8OfiVOEnNAHHw"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Three Imaginary Boys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "Boys Don't Cry - Single Version",
+      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 277373,
-      "name": "The Sweetest Taboo",
-      "url": "https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "O Descobridor Dos Sete Mares",
         "url": "https://open.spotify.com/album/7Ff0Q5oeEoVKHtxJJoXyId"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 265297,
       "name": "O Descobridor Dos Sete Mares",
       "url": "https://open.spotify.com/track/6wpDQGn3Gl0j9Wt6D6mYvQ"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 277373,
+      "name": "The Sweetest Taboo",
+      "url": "https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+        "name": "Speak & Spell (2006 Remaster)",
+        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 223733,
-      "name": "Big Love - 2017 Remaster",
-      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
+      "duration_ms": 222760,
+      "name": "Just Can't Get Enough - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Speak & Spell (2006 Remaster)",
-        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 222760,
-      "name": "Just Can't Get Enough - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+      "duration_ms": 223733,
+      "name": "Big Love - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Brothers in Arms",
-        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+        "name": "Madonna (Reissue)",
+        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
       },
       "artists": [
         {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 252466,
-      "name": "Walk of Life",
-      "url": "https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a"
+      "duration_ms": 231560,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
     }
   ],
   "unique_name": "Faxina Nostalgia",

@@ -1,12 +1,12 @@
 {
   "description": "Britpop, trip-hop, grunge and more from the other side of the 90s. Cover: my bloody valentine",
-  "num_followers": 1134874,
+  "num_followers": 1135104,
   "original_name": "Alternative 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcxNzk1NCwwMDAwMDAwMDQ5Mzk2YzM2NTkwNGMzYTNiM2IxNzhjYmRjODk4MjAz",
+  "snapshot_id": "MTY2ODcxNzk1NCwwMDAwMDAwMDg3YWM5ODFkZDhhODMwMzZjOTJlYmUxMTk4NjhiZTM1",
   "tracks": [
     {
       "added_at": "2022-09-29 15:49:26",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Say It Ain't So",
-      "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We?",
         "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 274706,
       "name": "Linger",
       "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Say It Ain't So",
+      "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
@@ -283,22 +267,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Bullet With Butterfly Wings - Remastered 2012",
-      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "Blind Melon",
         "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
       },
@@ -311,6 +279,38 @@
       "duration_ms": 217106,
       "name": "No Rain",
       "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Bullet With Butterfly Wings - Remastered 2012",
+      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
-      },
-      "artists": [
-        {
-          "name": "Jeff Buckley",
-          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
-        }
-      ],
-      "duration_ms": 413826,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "duration_ms": 413826,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "The La's",
-        "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
-      },
-      "artists": [
-        {
-          "name": "The La's",
-          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "There She Goes",
-      "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "Different Class",
         "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 273573,
       "name": "Disco 2000",
       "url": "https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "The La's",
+        "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
+      },
+      "artists": [
+        {
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -1083,38 +1083,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "Waltz #2 (XO)",
-      "url": "https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 305213,
-      "name": "Beetlebum - 2012 Remaster",
-      "url": "https://open.spotify.com/track/4OHVCeQYPncEwZOtNAJZZx"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "Fashion Nugget",
         "url": "https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90"
       },
@@ -1195,6 +1163,38 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 305213,
+      "name": "Beetlebum - 2012 Remaster",
+      "url": "https://open.spotify.com/track/4OHVCeQYPncEwZOtNAJZZx"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 280106,
+      "name": "Waltz #2 (XO)",
+      "url": "https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
         "name": "Moon Safari",
         "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
       },
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 461946,
-      "name": "Tender",
-      "url": "https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "Murder Ballads (2011 Remastered Version)",
         "url": "https://open.spotify.com/album/0SJIg249cRWdGWEcqXsYyW"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 237080,
       "name": "Where the Wild Roses Grow - 2011 - Remaster",
       "url": "https://open.spotify.com/track/3OwtuzRo8mc7lgsBau9MWk"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 461946,
+      "name": "Tender",
+      "url": "https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6"
     },
     {
       "added_at": "2022-09-29 15:49:26",

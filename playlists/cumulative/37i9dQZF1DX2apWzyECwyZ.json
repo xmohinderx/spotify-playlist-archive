@@ -1176,6 +1176,28 @@
     },
     {
       "album": {
+        "name": "Gato de Noche",
+        "url": "https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227013,
+      "name": "Gato de Noche",
+      "url": "https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC"
+    },
+    {
+      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -1396,6 +1418,28 @@
     },
     {
       "album": {
+        "name": "La Jumpa",
+        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255693,
+      "name": "La Jumpa",
+      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
+    },
+    {
+      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -1592,6 +1636,32 @@
     },
     {
       "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281119,
+      "name": "LOYAL (feat. Drake and Bad Bunny) [Remix]",
+      "url": "https://open.spotify.com/track/1aVut0Tb18c8BOpLGkfAhp"
+    },
+    {
+      "album": {
         "name": "Top \u00c9xitos 2022",
         "url": "https://open.spotify.com/album/4NiCkuiDt8H3rTUjhrHIuN"
       },
@@ -1611,7 +1681,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 281119,
       "name": "LOYAL - Remix",
       "url": "https://open.spotify.com/track/1tKC5iErbwzH42ZmLN38d6"

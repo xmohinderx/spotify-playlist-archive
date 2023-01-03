@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 421296,
+  "num_followers": 421379,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDJkOWE2N2ZlYTE1MzAwZDIxMzQwNDkyZWYyYThmMzMz",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDQ3MGU1NDkxZjA2ZTVjNjY4ZTZhYWYxOWY3YmUyM2Vl",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -323,38 +323,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Good To You",
-        "url": "https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15"
-      },
-      "artists": [
-        {
-          "name": "Jonny P",
-          "url": "https://open.spotify.com/artist/3UtTKOuKlWMQPSCyIvCDl6"
-        }
-      ],
-      "duration_ms": 158855,
-      "name": "Good To You",
-      "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 237244,
-      "name": "CRY",
-      "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -387,6 +355,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "Good To You",
+        "url": "https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15"
+      },
+      "artists": [
+        {
+          "name": "Jonny P",
+          "url": "https://open.spotify.com/artist/3UtTKOuKlWMQPSCyIvCDl6"
+        }
+      ],
+      "duration_ms": 158855,
+      "name": "Good To You",
+      "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "aloha",
         "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 221476,
       "name": "neve give up",
       "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 237244,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -433,22 +433,6 @@
       "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/6r25VBzNtDV6OUMV71WbVC"
-      },
-      "artists": [
-        {
-          "name": "Earl St. Clair",
-          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
-        }
-      ],
-      "duration_ms": 179310,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/1s7Max0epbgOzPtsFfh5d6"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "That's How Love Is Made",
@@ -463,6 +447,22 @@
       "duration_ms": 226986,
       "name": "That's How Love Is Made",
       "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/6r25VBzNtDV6OUMV71WbVC"
+      },
+      "artists": [
+        {
+          "name": "Earl St. Clair",
+          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
+        }
+      ],
+      "duration_ms": 179310,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/1s7Max0epbgOzPtsFfh5d6"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Light (Edit)",
-        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Light - Edit",
-      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "I Be Trying",
         "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 155026,
       "name": "Step In",
       "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Light (Edit)",
+        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Light - Edit",
+      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -613,22 +613,6 @@
       "url": "https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "stripped back",
-        "url": "https://open.spotify.com/album/2SJZOQy7R0fEgMRtexjZL3"
-      },
-      "artists": [
-        {
-          "name": "Liam St. John",
-          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Eastham Prison Farm Blues - Stripped Back",
-      "url": "https://open.spotify.com/track/749IyqWQSErX4dT4pmcDOH"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Set Sail",
@@ -647,6 +631,22 @@
       "duration_ms": 297893,
       "name": "Set Sail part I (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "stripped back",
+        "url": "https://open.spotify.com/album/2SJZOQy7R0fEgMRtexjZL3"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Eastham Prison Farm Blues - Stripped Back",
+      "url": "https://open.spotify.com/track/749IyqWQSErX4dT4pmcDOH"
     },
     {
       "added_at": "2022-07-26 14:55:05",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "South Gotta Change",
+        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "South Gotta Change",
+      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Hit 'Em Back",
         "url": "https://open.spotify.com/album/1kN8MM4zOwjHKzFw6epZuX"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 273981,
       "name": "Hit 'Em Back",
       "url": "https://open.spotify.com/track/7vneiArcRtUop1FpF88CFd"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "South Gotta Change",
-        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "South Gotta Change",
-      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Introducing Junior Kimbrough",
         "url": "https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 137413,
       "name": "Feels so Bad - Previously Unreleased Take",
       "url": "https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Smoke From The Chimney",
-        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 266013,
-      "name": "Bubba Jones",
-      "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -951,6 +951,22 @@
       "duration_ms": 180077,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Smoke From The Chimney",
+        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 266013,
+      "name": "Bubba Jones",
+      "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 243219,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -1157,10 +1157,10 @@
       "url": "https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
+      "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Down to the River",
-        "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
+        "name": "Healing Tide",
+        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
       },
       "artists": [
         {
@@ -1168,9 +1168,9 @@
           "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
-      "duration_ms": 231253,
-      "name": "Down to the River",
-      "url": "https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD"
+      "duration_ms": 144106,
+      "name": "Love Like There's No Tomorrow",
+      "url": "https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX"
     },
     {
       "added_at": "2022-01-28 05:01:00",

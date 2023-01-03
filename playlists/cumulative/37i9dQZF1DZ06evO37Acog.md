@@ -4,7 +4,7 @@
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/3o4Z9XwrdzrNGWVZanB7aT)
+80 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/3o4Z9XwrdzrNGWVZanB7aT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Del Otro Lado del Portón](https://open.spotify.com/track/5lLSkpxhENaXxzeBBa8vYN) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [El Número 100](https://open.spotify.com/album/0QduY2R2maevRnHXuBFrBi) | 2:53 | 2022-06-01 |  |
 | [Donde Estas \- \(En Vivo\)](https://open.spotify.com/track/2EUD3y0s05HTyxex8m9Sah) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:27 | 2022-06-01 | 2022-10-12 |
 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/6yWXKiGLhagm6f9biSM7Bk) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [DOS HOJAS SIN RUMBO / ENSÉÑAME A OLVIDAR \(Grabación Original Remasterizada\)](https://open.spotify.com/album/5igh7OUbG6jyg5yXVWnTQk) | 3:27 | 2022-10-21 |  |
-| [Dos Monedas](https://open.spotify.com/track/7eVY9hPDlrY6M23hiR239q) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:23 | 2022-06-01 |  |
+| [Dos Monedas](https://open.spotify.com/track/7eVY9hPDlrY6M23hiR239q) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:23 | 2022-06-01 | 2023-01-03 |
+| [Dos Monedas](https://open.spotify.com/track/4epespdttWqUpIk35qEoMY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:29 | 2023-01-02 |  |
 | [El Disgusto](https://open.spotify.com/track/1yhUCJgl0iUT9zX8UvEyPr) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Relampagueando \- En Memoria De Cornelio Reyna 25 Años Después](https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy) | 2:24 | 2022-06-01 |  |
 | [El Disgusto](https://open.spotify.com/track/6vFceYiO9H6rsW5pLKF3Tv) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Lo Mejor De Los Relámpagos Con](https://open.spotify.com/album/5Alc676cqJGN5rqCWY4tl1) | 2:26 | 2022-06-25 | 2022-09-21 |
 | [El Federal De Caminos](https://open.spotify.com/track/2P9XuggCZbHMOHI6Upkahb) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Corridos Con](https://open.spotify.com/album/4hOI70GYvjg7PXpcyowngB) | 3:08 | 2022-06-01 |  |

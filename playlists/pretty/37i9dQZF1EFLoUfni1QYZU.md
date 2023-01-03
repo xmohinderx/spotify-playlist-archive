@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 40 | [Lolita](https://open.spotify.com/track/5xnogcyfSvaSLu9Ad9CaBH) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Lolita](https://open.spotify.com/album/0dz08Fh4ZEZzZFBApPHLTf) | 3:25 |
 | 41 | [One Night in the Sun](https://open.spotify.com/track/29xUFQ0Zvh5U7vYtlgrTGw) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 4:24 |
 | 42 | [One Last Mistake](https://open.spotify.com/track/0Mo8e9GpOr8dJ2YuOo7jNB) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:35 |
-| 43 | [The Power](https://open.spotify.com/track/7sxj9JzppS5rYayRsvZixD) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 4:38 |
-| 44 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 |
+| 43 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 |
+| 44 | [The Power](https://open.spotify.com/track/7sxj9JzppS5rYayRsvZixD) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 4:38 |
 | 45 | [Die For Your Love](https://open.spotify.com/track/37z1U7PORW95mDVHiKedWx) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:39 |
 | 46 | [Day By Day](https://open.spotify.com/track/1AWffsRRRPuqAM6hC5atPX) | [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Day By Day](https://open.spotify.com/album/6VU1gU8DiUTwtBOglFMYGO) | 3:40 |
 | 47 | [Tear It Down](https://open.spotify.com/track/3mBpbLyT9wDg50I0lgmAul) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Hot Thoughts](https://open.spotify.com/album/1OPdyA7ZW7zIZEmSqThRGy) | 4:20 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 81 | [Roller Coaster](https://open.spotify.com/track/6elXVlR9dJliy71mybZP7s) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Utopia \(Deluxe\)](https://open.spotify.com/album/0GAtHpvRswlQ1ONVQgz9q5) | 3:30 |
 | 82 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `Mjc4NzcwMjEsMDAwMDAwMDA0NThkZTc3Y2FkN2RlZTM0MzIxMGRhZGIxMGM4MzI5YQ==`
+Snapshot ID: `Mjc4Nzg1ODIsMDAwMDAwMDAxYTg2NjMyODM3N2NiZGYyMDA2OGFmZWRkMGM4MDI5MA==`

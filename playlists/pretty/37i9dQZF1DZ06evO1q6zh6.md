@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 
 > This is Judas Priest\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,575 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,621 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 49 | [Dissident Aggressor](https://open.spotify.com/track/3x639plCXGLyZoMcyR2IgJ) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Sin After Sin](https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv) | 3:06 |
 | 50 | [Worth Fighting For](https://open.spotify.com/track/4jDY1o3ACRhpbD6LiRNScd) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Angel Of Retribution](https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1) | 4:18 |
 
-Snapshot ID: `Mjc4NzYzNDMsMDAwMDAwMDA5MzFkOTVkZWU4MWZjNjJhYjE2NzA1NjZiZTA4YzRlMQ==`
+Snapshot ID: `Mjc4Nzc3NTksMDAwMDAwMDAwYmQ4ZWIwY2E3NWRlNjJkZGJlODk2MDRhNGEwYmYyMw==`

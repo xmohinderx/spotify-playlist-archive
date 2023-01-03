@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 180480,
       "name": "Airplanes (feat. Hayley Williams of Paramore)",
       "url": "https://open.spotify.com/track/6lV2MSQmRIkycDScNtrBXO"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 203186,
       "name": "Brother",
       "url": "https://open.spotify.com/track/65gLJGey4u4KFFqoC5fzFJ"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 177280,
       "name": "Everybody Talks",
       "url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
@@ -981,7 +981,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 192000,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr"
@@ -1147,7 +1147,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 176346,
       "name": "get off the car",
       "url": "https://open.spotify.com/track/24mTyVgk93IvEfQuG2IeEV"
@@ -1814,6 +1814,24 @@
     },
     {
       "album": {
+        "name": "THE DEATH OF PEACE OF MIND",
+        "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204676,
+      "name": "Just Pretend",
+      "url": "https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ"
+    },
+    {
+      "album": {
         "name": "When the Morning Comes",
         "url": "https://open.spotify.com/album/6SQWwNCTTPmS1DaXQNRDOy"
       },
@@ -1915,7 +1933,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 252733,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
@@ -2431,7 +2449,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 218800,
       "name": "Out of My League",
       "url": "https://open.spotify.com/track/4VoJCUgNmnqG2qF0peDBkw"
@@ -2485,7 +2503,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 274245,
       "name": "Passenger Seat",
       "url": "https://open.spotify.com/track/5ZpSUdy5wL5Hvwsqz6JCAt"
@@ -2561,7 +2579,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 219069,
       "name": "REACH!",
       "url": "https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK"
@@ -3333,7 +3351,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 215163,
       "name": "Tissues",
       "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
@@ -3373,7 +3391,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 244666,
       "name": "Torn",
       "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
@@ -3467,7 +3485,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 242840,
       "name": "Two Is Better Than One (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/1MaqkdFNIKPdpQGDzme5ss"
@@ -3485,7 +3503,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -3597,7 +3615,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 211413,
       "name": "Why Don't You Love Me (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/0cEBv7oJxFp3bfTFqWFI0R"
@@ -3705,7 +3723,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"

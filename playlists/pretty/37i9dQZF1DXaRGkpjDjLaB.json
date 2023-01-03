@@ -1,12 +1,12 @@
 {
   "description": "If you're going to be sad, at least let it be with Bad Bunny\ud83d\udc94",
-  "num_followers": 189167,
+  "num_followers": 189826,
   "original_name": "Sad Bunny :(",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTkwMCwwMDAwMDAwMDFhYmY4YzZjYzY3ZGNhMzJjMGM3MDdlMTAzZTM5Nzgy",
+  "snapshot_id": "MTY2OTgxNTkwMCwwMDAwMDAwMDc1NjRjY2UxOGM1YjVmNzQxYWI3MTY0NTQ3M2Q0YjNm",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -143,38 +143,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 169247,
-      "name": "Si Estuvi\u00e9semos Juntos",
-      "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 148143,
-      "name": "Un Verano Sin Ti",
-      "url": "https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -195,6 +163,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 169247,
+      "name": "Si Estuvi\u00e9semos Juntos",
+      "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 170971,
       "name": "Si Veo a Tu Mam\u00e1",
       "url": "https://open.spotify.com/track/41wtwzCZkXwpnakmwJ239F"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 148143,
+      "name": "Un Verano Sin Ti",
+      "url": "https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Amorfoda",
-        "url": "https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 153887,
-      "name": "Amorfoda",
-      "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/3fxzSn0ObgCjLadyR53ohN"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 192024,
       "name": "Vete",
       "url": "https://open.spotify.com/track/5DxXgozhkPLgrbKFY91w0c"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Amorfoda",
+        "url": "https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 153887,
+      "name": "Amorfoda",
+      "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
     },
     {
       "added_at": "2022-11-30 13:45:00",

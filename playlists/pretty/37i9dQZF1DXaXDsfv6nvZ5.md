@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,311 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,784 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 58 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 |
 | 59 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 |
 | 60 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
-| 61 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 |
-| 62 | [Ambience](https://open.spotify.com/track/1V7Hrt7ek8rzl2tn29UgXi) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz) | [Bigger Dreams](https://open.spotify.com/album/7g0ZUn505parZAzW477hHd) | 2:48 |
-| 63 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 |
+| 61 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 |
+| 62 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 |
+| 63 | [Ambience](https://open.spotify.com/track/1V7Hrt7ek8rzl2tn29UgXi) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz) | [Bigger Dreams](https://open.spotify.com/album/7g0ZUn505parZAzW477hHd) | 2:48 |
 | 64 | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA) | 3:21 |
 | 65 | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld) | 5:17 |
 | 66 | [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 74 | [Love \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/2K5CdJb1IkAlsT108wRxYP) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:53 |
 | 75 | [without you](https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV) | [Secily](https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2) | [without you](https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z) | 2:56 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGYyZGNhODMzZmM0ZGFhOTc4NDA2ZTFjNjlkNDdjY2Vl`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDg5YTU2M2E1Y2ZlNGUzM2I1MjBhZDdkZGEyNzM3M2Ew`

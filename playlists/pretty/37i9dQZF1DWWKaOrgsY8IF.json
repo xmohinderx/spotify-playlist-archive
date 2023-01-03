@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 123351,
+  "num_followers": 123403,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMDUzMWUxNTI3NDhiNTZlZjRiYjA3OWZkYjM2Yzg4ZGQ5",
+  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMDc5MzIwYTMyYTA2MTgyODVmODFmMjJmMjY5NjI0ZGJm",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -147,26 +147,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 225812,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 188213,
       "name": "El Mismo Aire - con Pablo Albor\u00e1n",
       "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 225812,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "AYAYAY!",
+        "url": "https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 159533,
+      "name": "Se Me Olvid\u00f3",
+      "url": "https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
         "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 219760,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "AYAYAY!",
-        "url": "https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 159533,
-      "name": "Se Me Olvid\u00f3",
-      "url": "https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "AYAYAY!",
+        "url": "https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 130759,
+      "name": "Amor T\u00f3xico",
+      "url": "https://open.spotify.com/track/5LPlvbxA6bJQHvUW12Mr22"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/5edB3I7c5aZj1bH2obUXne"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 182708,
       "name": "Por Primera Vez",
       "url": "https://open.spotify.com/track/0pgj4EzB1XRqgZemoMNG5D"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "AYAYAY!",
-        "url": "https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 130759,
-      "name": "Amor T\u00f3xico",
-      "url": "https://open.spotify.com/track/5LPlvbxA6bJQHvUW12Mr22"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -763,26 +763,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Aire (Versi\u00f3n D\u00eda)",
-        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "Ma\u00f1ana Es Too Late",
-      "url": "https://open.spotify.com/track/7ckO8bTkYT5YzwzwnZ6v5a"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Recuerdo",
         "url": "https://open.spotify.com/album/28RBKKab2bzmcaKzW8h3Ji"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 200960,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/3DjInVTE03icrWsq2UZV9n"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Aire (Versi\u00f3n D\u00eda)",
+        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "Ma\u00f1ana Es Too Late",
+      "url": "https://open.spotify.com/track/7ckO8bTkYT5YzwzwnZ6v5a"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Ella Dice",
-        "url": "https://open.spotify.com/album/2lfpTAKfLmWjcqUl34D1GS"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 161060,
-      "name": "Ella Dice",
-      "url": "https://open.spotify.com/track/5UKBbglwH7gZEkzfuWGn5J"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 197879,
       "name": "La L\u00e1",
       "url": "https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Ella Dice",
+        "url": "https://open.spotify.com/album/2lfpTAKfLmWjcqUl34D1GS"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 161060,
+      "name": "Ella Dice",
+      "url": "https://open.spotify.com/track/5UKBbglwH7gZEkzfuWGn5J"
     },
     {
       "added_at": "2020-12-01 05:03:00",

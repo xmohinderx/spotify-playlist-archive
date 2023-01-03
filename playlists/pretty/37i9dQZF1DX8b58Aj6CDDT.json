@@ -1,12 +1,12 @@
 {
   "description": "Las canciones alternativas que definieron el 2022 en Hispanoam\u00e9rica. Marilina Bertoldi y Javiera Mena en portada.",
-  "num_followers": 983,
+  "num_followers": 1007,
   "original_name": "Lo mejor del Indie y Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyMDYzMiwwMDAwMDAwMDAyYTA4OTRmNmMwMjhjNjAwMGRmY2ZhY2U1OWMyZDIy",
+  "snapshot_id": "MTY2OTgyMDYzMiwwMDAwMDAwMGE2YTM1Y2M1ZGFhMGI1NWU2YmU2NzU1ZTE4OTZhZGRj",
   "tracks": [
     {
       "added_at": "2022-11-30 14:18:55",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
-        "name": "Charly Garc\u00eda",
-        "url": "https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF"
-      },
-      "artists": [
-        {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
-        }
-      ],
-      "duration_ms": 157467,
-      "name": "Charly Garc\u00eda",
-      "url": "https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
         "name": "Quemonito",
         "url": "https://open.spotify.com/album/1YglhALq6PbY7GjqO1rKVb"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 220463,
       "name": "Quemonito",
       "url": "https://open.spotify.com/track/7BpJ0z0MG7aAOeQfudwFpJ"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
+        "name": "Charly Garc\u00eda",
+        "url": "https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF"
+      },
+      "artists": [
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+        }
+      ],
+      "duration_ms": 157467,
+      "name": "Charly Garc\u00eda",
+      "url": "https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP"
     },
     {
       "added_at": "2022-11-30 14:18:55",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
-        "name": "La Puerta Dorada",
-        "url": "https://open.spotify.com/album/7IoX8WbxcqgD15fKTfwQiy"
-      },
-      "artists": [
-        {
-          "name": "Edu Requejo",
-          "url": "https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M"
-        }
-      ],
-      "duration_ms": 223730,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/1YErzz0pkMQCxZdYeUbNUC"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
         "name": "Nada de M\u00ed Vale Dinero",
         "url": "https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 257897,
       "name": "Nada de M\u00ed Vale Dinero",
       "url": "https://open.spotify.com/track/5imr697dT1gPajZWd376fL"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
+        "name": "La Puerta Dorada",
+        "url": "https://open.spotify.com/album/7IoX8WbxcqgD15fKTfwQiy"
+      },
+      "artists": [
+        {
+          "name": "Edu Requejo",
+          "url": "https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M"
+        }
+      ],
+      "duration_ms": 223730,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/1YErzz0pkMQCxZdYeUbNUC"
     },
     {
       "added_at": "2022-11-30 14:18:55",

@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. Cover: Wolf Alice",
-  "num_followers": 293919,
+  "num_followers": 294016,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMGIwZjBhOTE3MjAyYjM4MWI5ZGQyNWJiYjY0YWIxYjRj",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMGVjNjMyNmE4NTcyOTkyNmZjOWVhYjlhOWZlYjZjZGIx",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
+        "name": "Anthem Of The Peaceful Army",
+        "url": "https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX"
       },
       "artists": [
         {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
         }
       ],
-      "duration_ms": 253120,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
+      "duration_ms": 281306,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/2KN0Kgfb15aNLR0p2J4pkr"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 253120,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
         "name": "mainstream sellout (life in pink deluxe)",
         "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 174991,
       "name": "maybe (feat. Bring Me The Horizon) - acoustic version",
       "url": "https://open.spotify.com/track/42zvj6KEuxB5ZSa5ea0Lyh"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Anthem Of The Peaceful Army",
-        "url": "https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 281306,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/2KN0Kgfb15aNLR0p2J4pkr"
     },
     {
       "added_at": "2022-09-23 04:01:00",

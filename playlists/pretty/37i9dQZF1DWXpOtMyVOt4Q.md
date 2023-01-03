@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,242 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,335 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 2 | [love within](https://open.spotify.com/track/6wv5lxSg3U9DSC5KvbQdfr) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [love within](https://open.spotify.com/album/4NYnzOZDYMcQvA3Ome46ej) | 1:37 |
 | 3 | [Alone Forever](https://open.spotify.com/track/4KLXhuPL5YS4mYZFL8XGBM) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Isolation](https://open.spotify.com/album/1LZl9LkihImKLeAVcq3NbA) | 1:20 |
 | 4 | [Last Words](https://open.spotify.com/track/1rOKAsJZJDIikOKDeUfPRV) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:49 |
-| 5 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
-| 6 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
+| 5 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
+| 6 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
 | 7 | [Jiyū](https://open.spotify.com/track/0jPFyaLzyApdcr23f2GICv) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [Memoir](https://open.spotify.com/album/76p65caGTlfMloCpcJXbjI) | 1:50 |
 | 8 | [I Fell in Love with You One Night in September](https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [Dreams for Two](https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba) | 1:36 |
 | 9 | [you're not lost](https://open.spotify.com/track/0NIawAn7SZDA1CQ1G8GybR) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j) | [you're not lost](https://open.spotify.com/album/6rBnuL3apGfI42RaL9MJix) | 2:28 |
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 15 | [One Last Time](https://open.spotify.com/track/6IC0untdEsc2PeKcQgZWN9) | [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW) | [Hourglass](https://open.spotify.com/album/2rZTW31z0d1DhCztQr21b2) | 2:20 |
 | 16 | [Stargazing](https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL) | 2:13 |
 | 17 | [Breeze](https://open.spotify.com/track/7qBHJ0nXHHsoOtqKwfkF35) | [Mvdb](https://open.spotify.com/artist/0hleYpwrJSPEh2pCRTU0AY) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 1:35 |
-| 18 | [Underwater](https://open.spotify.com/track/5TNDBtPIkduKFGdMSkOPQG) | [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Cold Thoughts](https://open.spotify.com/album/6j9efsz6v7I0WkDaHDrWfW) | 2:26 |
-| 19 | [Ocelot](https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/7tFM2YfFPx3mNrwRes7LrC) | 4:36 |
-| 20 | [structures](https://open.spotify.com/track/6B9DAQWbldDxbEQ6IhabvF) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [structures](https://open.spotify.com/album/4xwwce3n8nmpfAEVmg7xQe) | 2:01 |
-| 21 | [A Gloomy Night](https://open.spotify.com/track/7ogQ3ATYnACdIjSXXesBKF) | [Voron](https://open.spotify.com/artist/5NmGxnoqCncZYg2TbfC1hN) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:20 |
+| 18 | [Ocelot](https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/7tFM2YfFPx3mNrwRes7LrC) | 4:36 |
+| 19 | [Underwater](https://open.spotify.com/track/5TNDBtPIkduKFGdMSkOPQG) | [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Cold Thoughts](https://open.spotify.com/album/6j9efsz6v7I0WkDaHDrWfW) | 2:26 |
+| 20 | [A Gloomy Night](https://open.spotify.com/track/7ogQ3ATYnACdIjSXXesBKF) | [Voron](https://open.spotify.com/artist/5NmGxnoqCncZYg2TbfC1hN) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:20 |
+| 21 | [structures](https://open.spotify.com/track/6B9DAQWbldDxbEQ6IhabvF) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [structures](https://open.spotify.com/album/4xwwce3n8nmpfAEVmg7xQe) | 2:01 |
 | 22 | [Counter Attack Mankind](https://open.spotify.com/track/238xYmosbRii3JrPUFIUtF) | [Feora](https://open.spotify.com/artist/1CrlOWdMRMmEkDbivpWVxn) | [Counter Attack Mankind](https://open.spotify.com/album/1qW6KDoQYiVTJAvSOTtimE) | 2:19 |
 | 23 | [Fast Coupe](https://open.spotify.com/track/6tc7zWJVIIriVePVQNtLxA) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Fast Coupe](https://open.spotify.com/album/6sAtDkgwuXjdoyg3cyYE9f) | 2:14 |
 | 24 | [Panacea](https://open.spotify.com/track/7KBoQnlle2lUerygFSk0iJ) | [Disasterpeace](https://open.spotify.com/artist/7rSMEcqv4Ez0OLgJKDjrvq) | [Hyper Light Drifter](https://open.spotify.com/album/0uYATlPpnvkSvsjxWg8ZB3) | 6:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [Accepted](https://open.spotify.com/track/5mqJzfZk1S0VoxDugE4vk5) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Supine](https://open.spotify.com/artist/1DA2Vxz6LkO6e0yWkAtZlM), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8) | [Accepted](https://open.spotify.com/album/674aHZ6bdGvgLplZLNTymO) | 2:00 |
 | 50 | [Lovely Lofi](https://open.spotify.com/track/38IPo6fOXpTzSMmQ2ohDGF) | [Bonsai Beats](https://open.spotify.com/artist/44HbOH5E0KjEBzoSs79j8Y) | [Lovely Lofi](https://open.spotify.com/album/0gaH5zVC6gwe397z6WYjg8) | 1:12 |
 
-Snapshot ID: `MTY2OTE0NTgyMCwwMDAwMDAwMDVhZWJjNjlmODQ0YzJmNjZiMzA0ODFkN2U1N2VjM2Yz`
+Snapshot ID: `MTY2OTE0NTgyMCwwMDAwMDAwMDk0NjQxOGIyNWM2ZjM1NTRhOTYxMmUxZTUzMzUxNmE4`

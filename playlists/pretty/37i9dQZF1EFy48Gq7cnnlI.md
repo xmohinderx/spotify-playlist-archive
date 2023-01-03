@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0bmMTtKNwsDbQN40k0KTeW">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562 likes - 89 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 565 likes - 89 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 57 | [Villain in Me](https://open.spotify.com/track/446BbuQVXxRVT3RwKnDeab) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:37 |
 | 58 | [Call Me](https://open.spotify.com/track/3Wevk6rPHoYfCCk6zNQgRX) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Call Me](https://open.spotify.com/album/5EAnX8LJVNCPAKwuIGzxH4) | 3:11 |
 | 59 | [Piece by Piece](https://open.spotify.com/track/2qRkZwDiXkZ3pn9J986wGB) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:00 |
-| 60 | [Nirvana](https://open.spotify.com/track/0uWYy8j7zltA3xGThkD6aX) | [Tuka](https://open.spotify.com/artist/2D9eG3B30VlpA1uME35LeB) | [Life Death Time Eternal](https://open.spotify.com/album/4RgNO71umpxSv5GEnKHr6i) | 3:20 |
-| 61 | [Scares Me](https://open.spotify.com/track/2dSU3oIyt2hz3L4s8JE2Hj) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:02 |
+| 60 | [Scares Me](https://open.spotify.com/track/2dSU3oIyt2hz3L4s8JE2Hj) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:02 |
+| 61 | [Nirvana](https://open.spotify.com/track/0uWYy8j7zltA3xGThkD6aX) | [Tuka](https://open.spotify.com/artist/2D9eG3B30VlpA1uME35LeB) | [Life Death Time Eternal](https://open.spotify.com/album/4RgNO71umpxSv5GEnKHr6i) | 3:20 |
 | 62 | [Hold My Breath Until I Die](https://open.spotify.com/track/1MnCNW7fVSLHmLnCXxRg1k) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:42 |
 | 63 | [Backup Plan](https://open.spotify.com/track/1UjZRtdqR3o5hfdhtLadT5) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [First & Foremost](https://open.spotify.com/album/3MgPBfKTcXs9wLLRqr78JG) | 2:46 |
 | 64 | [Knock Me Out](https://open.spotify.com/track/3ZKWAGpEG2UGvjzoNgJEPq) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [SAMURAI SESSIONS vol.3 \- Worlds Collide \-](https://open.spotify.com/album/4H9oh7fZrr6GBH1SWSNYsR) | 3:41 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 88 | [feather](https://open.spotify.com/track/3nUc4j3R64TGkuJ8s7WVuB) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [i hate rollercoasters](https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9) | 2:27 |
 | 89 | [Lose Myself](https://open.spotify.com/track/5GiQpCHV469WHEbhef3EVB) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:50 |
 
-Snapshot ID: `Mjc4NzcwMzMsMDAwMDAwMDAzNGYwMGY4MTU5YTQ3YzBhNjRjZDYxZmYwNjFlNjUxYQ==`
+Snapshot ID: `Mjc4Nzg1OTMsMDAwMDAwMDAxYjY2M2E1OTIzYTkwODY2NmI4MDM2OTg0N2JmZjFkOQ==`

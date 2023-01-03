@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 57647,
+  "num_followers": 57685,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMGFiYjg5YjhmZTk1ODVmYTIyYjBjNjAyYThkZDE0NzQw",
+  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMDg0YmJiNGEwNDUzOTAwMjgxYjIzYTZhOTVmMjkyZWQ5",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -59,22 +59,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Que Se Vaya",
-        "url": "https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo"
-      },
-      "artists": [
-        {
-          "name": "El Prodigio & Su Banda Tipica",
-          "url": "https://open.spotify.com/artist/20f0aBVhhWPudN6pWBcfb6"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "Ta' Buena",
-      "url": "https://open.spotify.com/track/2zHFgOgtiH5X3Up92IltJi"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "Date Brillo Cadenita",
         "url": "https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 438480,
       "name": "La Chiflera",
       "url": "https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "Que Se Vaya",
+        "url": "https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo"
+      },
+      "artists": [
+        {
+          "name": "El Prodigio & Su Banda Tipica",
+          "url": "https://open.spotify.com/artist/20f0aBVhhWPudN6pWBcfb6"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "Ta' Buena",
+      "url": "https://open.spotify.com/track/2zHFgOgtiH5X3Up92IltJi"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -123,18 +123,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Fogarat\u00e9",
-        "url": "https://open.spotify.com/album/2IUnsgSNSjCyiUEVlg61er"
+        "name": "Tipico Live",
+        "url": "https://open.spotify.com/album/4a5WXhcbJ3tfxilPKCaIZz"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Krisspy",
+          "url": "https://open.spotify.com/artist/5EG8kX3NJR8Az7XKu4Czu7"
         }
       ],
-      "duration_ms": 223466,
-      "name": "El Farolito",
-      "url": "https://open.spotify.com/track/6GJd6DkNEIsZf2tbRRkpbk"
+      "duration_ms": 331162,
+      "name": "El Maiz",
+      "url": "https://open.spotify.com/track/4P7wu5ZhOk92I1NYde1YwL"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -171,18 +171,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Tipico Live",
-        "url": "https://open.spotify.com/album/4a5WXhcbJ3tfxilPKCaIZz"
+        "name": "Fogarat\u00e9",
+        "url": "https://open.spotify.com/album/2IUnsgSNSjCyiUEVlg61er"
       },
       "artists": [
         {
-          "name": "Krisspy",
-          "url": "https://open.spotify.com/artist/5EG8kX3NJR8Az7XKu4Czu7"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 331162,
-      "name": "El Maiz",
-      "url": "https://open.spotify.com/track/4P7wu5ZhOk92I1NYde1YwL"
+      "duration_ms": 223466,
+      "name": "El Farolito",
+      "url": "https://open.spotify.com/track/6GJd6DkNEIsZf2tbRRkpbk"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -251,22 +251,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Cojelo Ah\u00ed",
-        "url": "https://open.spotify.com/album/3DMQ0XGeZlnUJtqHU8kDWm"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 258545,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/40Hmq1MsOhQP2y5Aff4VtI"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "Te Fuiste De Aqui",
         "url": "https://open.spotify.com/album/0u9rhbXI7lqSii2p1sGYUF"
       },
@@ -299,22 +283,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Homenaje A Tatico Henr\u00edquez",
-        "url": "https://open.spotify.com/album/6wpHAV5jdgysuRBal7lYvu"
-      },
-      "artists": [
-        {
-          "name": "Tatico Henriquez Y Sus Muchachos",
-          "url": "https://open.spotify.com/artist/4Pva9KTs5FoQl4TuyZZ3Mm"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "La Mecedora",
-      "url": "https://open.spotify.com/track/4gud2okz9KBcDUjVGw36sD"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "Pero Dime",
         "url": "https://open.spotify.com/album/3mkTHzbBUqtv7FoChJ6VWi"
       },
@@ -331,34 +299,34 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Bachata Pueblo",
-        "url": "https://open.spotify.com/album/0GMRJn4slEK9YSkAIfT9BU"
+        "name": "Cojelo Ah\u00ed",
+        "url": "https://open.spotify.com/album/3DMQ0XGeZlnUJtqHU8kDWm"
       },
       "artists": [
         {
-          "name": "Blas Duran",
-          "url": "https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb"
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 338226,
-      "name": "El Conejo De La Vecina",
-      "url": "https://open.spotify.com/track/0quAI5YgttjrisTDw3CH4d"
+      "duration_ms": 258545,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/40Hmq1MsOhQP2y5Aff4VtI"
     },
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Porque Te Fuiste Dulce Amor",
-        "url": "https://open.spotify.com/album/3eYIiRrrWsTWP76NwqrFBd"
+        "name": "Homenaje A Tatico Henr\u00edquez",
+        "url": "https://open.spotify.com/album/6wpHAV5jdgysuRBal7lYvu"
       },
       "artists": [
         {
-          "name": "Raquel Arias",
-          "url": "https://open.spotify.com/artist/49P6VROZM32gIQyX9CvJE8"
+          "name": "Tatico Henriquez Y Sus Muchachos",
+          "url": "https://open.spotify.com/artist/4Pva9KTs5FoQl4TuyZZ3Mm"
         }
       ],
-      "duration_ms": 357000,
-      "name": "Porque Te Fuiste Dulce Amor",
-      "url": "https://open.spotify.com/track/2teVg77oXxa7UOSochwdEo"
+      "duration_ms": 174306,
+      "name": "La Mecedora",
+      "url": "https://open.spotify.com/track/4gud2okz9KBcDUjVGw36sD"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -395,6 +363,86 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
+        "name": "El Pobre Infeliz",
+        "url": "https://open.spotify.com/album/20EpT6CZXF2E6GQK7Vwfjo"
+      },
+      "artists": [
+        {
+          "name": "Urbanda",
+          "url": "https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov"
+        }
+      ],
+      "duration_ms": 261061,
+      "name": "El Pobre Infeliz",
+      "url": "https://open.spotify.com/track/24lNmJYGnL4NRMjmAkGAL1"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/5Q8p7lerPqauI6Hz9kSAN6"
+      },
+      "artists": [
+        {
+          "name": "Geovanny Polanco",
+          "url": "https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY"
+        }
+      ],
+      "duration_ms": 336226,
+      "name": "Dile Que Vuelva",
+      "url": "https://open.spotify.com/track/2HDynkWGsEg1pGoTEZlN9S"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "Porque Te Fuiste Dulce Amor",
+        "url": "https://open.spotify.com/album/3eYIiRrrWsTWP76NwqrFBd"
+      },
+      "artists": [
+        {
+          "name": "Raquel Arias",
+          "url": "https://open.spotify.com/artist/49P6VROZM32gIQyX9CvJE8"
+        }
+      ],
+      "duration_ms": 357000,
+      "name": "Porque Te Fuiste Dulce Amor",
+      "url": "https://open.spotify.com/track/2teVg77oXxa7UOSochwdEo"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "Bachata Pueblo",
+        "url": "https://open.spotify.com/album/0GMRJn4slEK9YSkAIfT9BU"
+      },
+      "artists": [
+        {
+          "name": "Blas Duran",
+          "url": "https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb"
+        }
+      ],
+      "duration_ms": 338226,
+      "name": "El Conejo De La Vecina",
+      "url": "https://open.spotify.com/track/0quAI5YgttjrisTDw3CH4d"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "From Santo Domingo: Live!",
+        "url": "https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z"
+      },
+      "artists": [
+        {
+          "name": "El Prodigio",
+          "url": "https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO"
+        }
+      ],
+      "duration_ms": 320920,
+      "name": "La Muerte De Mart\u00edn",
+      "url": "https://open.spotify.com/track/6dRqfRIFbxbu65vsjCUXeI"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
         "name": "Los Numero 1",
         "url": "https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI"
       },
@@ -423,70 +471,6 @@
       "duration_ms": 187846,
       "name": "Arriba Santo Domingo",
       "url": "https://open.spotify.com/track/0JZR9VYEsnkLAlMzXhZHGq"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "1",
-        "url": "https://open.spotify.com/album/5Q8p7lerPqauI6Hz9kSAN6"
-      },
-      "artists": [
-        {
-          "name": "Geovanny Polanco",
-          "url": "https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY"
-        }
-      ],
-      "duration_ms": 336226,
-      "name": "Dile Que Vuelva",
-      "url": "https://open.spotify.com/track/2HDynkWGsEg1pGoTEZlN9S"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "El Pobre Infeliz",
-        "url": "https://open.spotify.com/album/20EpT6CZXF2E6GQK7Vwfjo"
-      },
-      "artists": [
-        {
-          "name": "Urbanda",
-          "url": "https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov"
-        }
-      ],
-      "duration_ms": 261061,
-      "name": "El Pobre Infeliz",
-      "url": "https://open.spotify.com/track/24lNmJYGnL4NRMjmAkGAL1"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "From Santo Domingo: Live!",
-        "url": "https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z"
-      },
-      "artists": [
-        {
-          "name": "El Prodigio",
-          "url": "https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO"
-        }
-      ],
-      "duration_ms": 320920,
-      "name": "La Muerte De Mart\u00edn",
-      "url": "https://open.spotify.com/track/6dRqfRIFbxbu65vsjCUXeI"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/0hjzbRJGIAlvfWhoX3n2Oj"
-      },
-      "artists": [
-        {
-          "name": "Blas Duran",
-          "url": "https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb"
-        }
-      ],
-      "duration_ms": 352060,
-      "name": "El Total",
-      "url": "https://open.spotify.com/track/36kTM5MeWQLjhkMxAlxqII"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -523,6 +507,54 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/0hjzbRJGIAlvfWhoX3n2Oj"
+      },
+      "artists": [
+        {
+          "name": "Blas Duran",
+          "url": "https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb"
+        }
+      ],
+      "duration_ms": 352060,
+      "name": "El Total",
+      "url": "https://open.spotify.com/track/36kTM5MeWQLjhkMxAlxqII"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "De Que Tu Priva?",
+        "url": "https://open.spotify.com/album/6rdek5bHbx11piMtwzaZCm"
+      },
+      "artists": [
+        {
+          "name": "Geovanny Polanco",
+          "url": "https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY"
+        }
+      ],
+      "duration_ms": 269533,
+      "name": "La Rubia Y Yo",
+      "url": "https://open.spotify.com/track/2zLZaQsd66qHAR6HWJOOAI"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "Dos X Uno",
+        "url": "https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN"
+      },
+      "artists": [
+        {
+          "name": "El Prodigio",
+          "url": "https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "Ta' Buena",
+      "url": "https://open.spotify.com/track/3BgSFrdupRytjDZw2BcwHn"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
         "name": "La Caba\u00f1a",
         "url": "https://open.spotify.com/album/0RdcZm4JIUfIyTfN7exGIV"
       },
@@ -539,22 +571,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "\u00cddolo Del Pueblo",
-        "url": "https://open.spotify.com/album/1b8lRfNkfmqV1BRsyAaNgK"
-      },
-      "artists": [
-        {
-          "name": "Tatico Henriquez",
-          "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
-        }
-      ],
-      "duration_ms": 167760,
-      "name": "Comiendo Gallina",
-      "url": "https://open.spotify.com/track/45B4Uym3KHBziu4olVZHNe"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "Por Mujeres Voy a Morir",
         "url": "https://open.spotify.com/album/2VflDAQnjXjv6skaVYkozt"
       },
@@ -567,6 +583,22 @@
       "duration_ms": 310005,
       "name": "Por Mujeres Voy a Morir",
       "url": "https://open.spotify.com/track/4z91y2K61tnG3IgZZtq84H"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "\u00cddolo Del Pueblo",
+        "url": "https://open.spotify.com/album/1b8lRfNkfmqV1BRsyAaNgK"
+      },
+      "artists": [
+        {
+          "name": "Tatico Henriquez",
+          "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
+        }
+      ],
+      "duration_ms": 167760,
+      "name": "Comiendo Gallina",
+      "url": "https://open.spotify.com/track/45B4Uym3KHBziu4olVZHNe"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -591,18 +623,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "De Que Tu Priva?",
-        "url": "https://open.spotify.com/album/6rdek5bHbx11piMtwzaZCm"
+        "name": "\"El Cacique\" - Todo Exitos",
+        "url": "https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB"
       },
       "artists": [
         {
-          "name": "Geovanny Polanco",
-          "url": "https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY"
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
         }
       ],
-      "duration_ms": 269533,
-      "name": "La Rubia Y Yo",
-      "url": "https://open.spotify.com/track/2zLZaQsd66qHAR6HWJOOAI"
+      "duration_ms": 268373,
+      "name": "Por Esa Mujer",
+      "url": "https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -623,8 +655,8 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Dos X Uno",
-        "url": "https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN"
+        "name": "Only Mambo Vol. 3",
+        "url": "https://open.spotify.com/album/2D7sxPoukdCOjQsw9YDiei"
       },
       "artists": [
         {
@@ -632,57 +664,9 @@
           "url": "https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO"
         }
       ],
-      "duration_ms": 215386,
-      "name": "Ta' Buena",
-      "url": "https://open.spotify.com/track/3BgSFrdupRytjDZw2BcwHn"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/0hjzbRJGIAlvfWhoX3n2Oj"
-      },
-      "artists": [
-        {
-          "name": "Blas Duran",
-          "url": "https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb"
-        }
-      ],
-      "duration_ms": 234707,
-      "name": "Sal\u00f3n de Belleza",
-      "url": "https://open.spotify.com/track/70SA4D9VxrH3RI1cDOSHAk"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "\"El Cacique\" - Todo Exitos",
-        "url": "https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 268373,
-      "name": "Por Esa Mujer",
-      "url": "https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "Que Se Vaya",
-        "url": "https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo"
-      },
-      "artists": [
-        {
-          "name": "El Prodigio & Su Banda Tipica",
-          "url": "https://open.spotify.com/artist/20f0aBVhhWPudN6pWBcfb6"
-        }
-      ],
-      "duration_ms": 268293,
-      "name": "Mi Tia",
-      "url": "https://open.spotify.com/track/2uQulIXKszC5YbqIVabPO5"
+      "duration_ms": 258226,
+      "name": "Marapica",
+      "url": "https://open.spotify.com/track/0BfIwYo2uuLX8ZdyPacuOx"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -711,6 +695,38 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/0hjzbRJGIAlvfWhoX3n2Oj"
+      },
+      "artists": [
+        {
+          "name": "Blas Duran",
+          "url": "https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb"
+        }
+      ],
+      "duration_ms": 234707,
+      "name": "Sal\u00f3n de Belleza",
+      "url": "https://open.spotify.com/track/70SA4D9VxrH3RI1cDOSHAk"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "Que Se Vaya",
+        "url": "https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo"
+      },
+      "artists": [
+        {
+          "name": "El Prodigio & Su Banda Tipica",
+          "url": "https://open.spotify.com/artist/20f0aBVhhWPudN6pWBcfb6"
+        }
+      ],
+      "duration_ms": 268293,
+      "name": "Mi Tia",
+      "url": "https://open.spotify.com/track/2uQulIXKszC5YbqIVabPO5"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
         "name": "En Vivo Vol. 2",
         "url": "https://open.spotify.com/album/0LgHV66s4e9hVJSiZNFxF8"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 371586,
       "name": "La Culebra",
       "url": "https://open.spotify.com/track/6sjj7jg37ccG6jTjlqvJG3"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "Consagraci\u00f3n de Cari\u00f1o",
-        "url": "https://open.spotify.com/album/785ylApcbHMfJ6nzmBumvv"
-      },
-      "artists": [
-        {
-          "name": "Tatico Henriquez",
-          "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "La Pava",
-      "url": "https://open.spotify.com/track/2NjlBCWu91w1DPNb7jPb15"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -775,6 +775,22 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
+        "name": "Consagraci\u00f3n de Cari\u00f1o",
+        "url": "https://open.spotify.com/album/785ylApcbHMfJ6nzmBumvv"
+      },
+      "artists": [
+        {
+          "name": "Tatico Henriquez",
+          "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "La Pava",
+      "url": "https://open.spotify.com/track/2NjlBCWu91w1DPNb7jPb15"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
         "name": "El Contentoso!",
         "url": "https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Only Mambo Vol. 3",
-        "url": "https://open.spotify.com/album/2D7sxPoukdCOjQsw9YDiei"
+        "name": "Merengues Tipicos los Numero 1",
+        "url": "https://open.spotify.com/album/7ddzfJF2k9P2rbg2oiaP3c"
       },
       "artists": [
         {
-          "name": "El Prodigio",
-          "url": "https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO"
+          "name": "Chiqui Rodriguez",
+          "url": "https://open.spotify.com/artist/0uf9GZiXpX0zAv9RGSNVgl"
         }
       ],
-      "duration_ms": 258226,
-      "name": "Marapica",
-      "url": "https://open.spotify.com/track/0BfIwYo2uuLX8ZdyPacuOx"
+      "duration_ms": 343093,
+      "name": "El Trafico",
+      "url": "https://open.spotify.com/track/4ecoSAaeXWE2C1KfSX5hFU"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -819,22 +835,6 @@
       "duration_ms": 365600,
       "name": "D\u00e9jame Entrar",
       "url": "https://open.spotify.com/track/2vJJxPOAPHPYBJqEHl64Oi"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "Merengues Tipicos los Numero 1",
-        "url": "https://open.spotify.com/album/7ddzfJF2k9P2rbg2oiaP3c"
-      },
-      "artists": [
-        {
-          "name": "Chiqui Rodriguez",
-          "url": "https://open.spotify.com/artist/0uf9GZiXpX0zAv9RGSNVgl"
-        }
-      ],
-      "duration_ms": 343093,
-      "name": "El Trafico",
-      "url": "https://open.spotify.com/track/4ecoSAaeXWE2C1KfSX5hFU"
     },
     {
       "added_at": "2019-09-09 17:49:24",

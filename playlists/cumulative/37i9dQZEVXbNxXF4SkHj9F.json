@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 195667,
       "name": "As You Wish",
       "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
@@ -2055,10 +2055,28 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 188706,
       "name": "Beyond Love (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
+    },
+    {
+      "album": {
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234386,
+      "name": "Big world",
+      "url": "https://open.spotify.com/track/0Hy3JNYKAJu4ttcyQHzzYA"
     },
     {
       "album": {
@@ -5747,6 +5765,24 @@
       "duration_ms": 199338,
       "name": "Friends",
       "url": "https://open.spotify.com/track/5RjUtRlDonw3TBgGGMLC5b"
+    },
+    {
+      "album": {
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168760,
+      "name": "Fuckin' New Year",
+      "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
     },
     {
       "album": {

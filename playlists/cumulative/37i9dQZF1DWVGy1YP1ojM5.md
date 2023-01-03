@@ -4,7 +4,7 @@
 
 > Sensual silky sounds for the sheets.
 
-156 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/4G7nlm98x5vy85RlXW1X91)
+157 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/4G7nlm98x5vy85RlXW1X91)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Neighbors Know My Name](https://open.spotify.com/track/6jvvpPJQJy5rMOEkLlADl6) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Ready \(Deluxe\)](https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85) | 3:06 | 2022-10-03 |  |
 | [Nobody Else](https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:53 | 2022-10-03 |  |
 | [Nowhere](https://open.spotify.com/track/6yAnK8YECaJVnFRydwcG5s) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET) | [Nowhere](https://open.spotify.com/album/0z2WCYayeU6t4gYMnaHcVZ) | 3:00 | 2022-12-02 |  |
-| [O M W](https://open.spotify.com/track/4nmYOE1zEKtc2G3mBqbwd6) | [Tonio Hall](https://open.spotify.com/artist/2qwtqP59pYwPsz0sI76ZHK) | [O M W](https://open.spotify.com/album/13FbmtNg4Z5DRBn6TGzmHD) | 3:20 | 2022-12-09 |  |
+| [O M W](https://open.spotify.com/track/4nmYOE1zEKtc2G3mBqbwd6) | [Tonio Hall](https://open.spotify.com/artist/2qwtqP59pYwPsz0sI76ZHK) | [O M W](https://open.spotify.com/album/13FbmtNg4Z5DRBn6TGzmHD) | 3:20 | 2022-12-09 | 2023-01-03 |
 | [Obsession](https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Obsession](https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6) | 3:21 | 2022-10-21 |  |
 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 | 2022-10-03 |  |
 | [On The Way \(feat\. Mila J\)](https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:42 | 2022-10-03 |  |
@@ -162,6 +162,7 @@
 | [When We](https://open.spotify.com/track/2HWelwHQS4EdRqIycZOc3O) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [SAVAGE](https://open.spotify.com/album/2P723Vzun1R14cqiwfX7Fa) | 5:09 | 2022-10-03 |  |
 | [Who Hurt You?](https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Who Hurt You?](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) | 3:51 | 2022-10-03 |  |
 | [Wus Good / Curious](https://open.spotify.com/track/2ekdnv2xVIyAdG3ySoDDeY) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH) | 3:32 | 2022-10-03 | 2023-01-01 |
+| [Wus Good / Curious](https://open.spotify.com/track/3etk5nFDuLtlQqc0dDMjC8) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Wus Good \- Hip\-Hop Favourites](https://open.spotify.com/album/4jVDpoSqQ2zyGREFiOei1E) | 3:32 | 2022-10-03 |  |
 | [Your Guilty Pleasure](https://open.spotify.com/track/1FlH4OcYNclGCb2nIvKmld) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [Your Guilty Pleasure](https://open.spotify.com/album/3x0OjWQt4BhiLZewP0NRkG) | 2:54 | 2021-08-13 | 2022-07-29 |
 | [Your Guilty Pleasure](https://open.spotify.com/track/0Sn0hAaE5yQxyduDZuqWoY) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [Vanity](https://open.spotify.com/album/3Wicqw4vojPJ7Um7DaK9Qi) | 2:54 | 2022-03-25 | 2022-10-04 |
 

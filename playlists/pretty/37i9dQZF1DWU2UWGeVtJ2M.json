@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 140134,
+  "num_followers": 140229,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjAyMjU1NCwwMDAwMDAwMDkzNzI4OTk2MWZkNTMwMzlkMDExZTVhODMyNWUzM2Q3",
+  "snapshot_id": "MTY3MjY0MjM2MiwwMDAwMDAwMGM2MjA2OTY1MTNmMjk3OWZhNzkxZDI2ODJkOWQ4N2Iy",
   "tracks": [
     {
       "added_at": "2022-12-26 02:42:34",
@@ -179,6 +179,22 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 221543,
+      "name": "wish you were gay",
+      "url": "https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 212787,
       "name": "I Want You Around",
       "url": "https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 221543,
-      "name": "wish you were gay",
-      "url": "https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 212496,
+      "name": "Lost Cause",
+      "url": "https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
         "name": "Treat Me",
         "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 238320,
       "name": "The Boat I Row",
       "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 212496,
-      "name": "Lost Cause",
-      "url": "https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 181140,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
         "name": "Sanctuary",
         "url": "https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI"
       },
@@ -443,18 +459,18 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
-        "name": "While We Wait",
-        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 181140,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -475,22 +491,6 @@
       "duration_ms": 230964,
       "name": "fue mejor (feat. SZA)",
       "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
-        "name": "my future",
-        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 208155,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
     },
     {
       "added_at": "2022-12-26 02:42:34",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-12-26 02:42:34",
       "album": {
-        "name": "Play Me Something Nice",
-        "url": "https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 201301,
-      "name": "Play Me Something Nice",
-      "url": "https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb"
-    },
-    {
-      "added_at": "2022-12-26 02:42:34",
-      "album": {
         "name": "life's a beach",
         "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 155845,
       "name": "daydreams",
       "url": "https://open.spotify.com/track/3XHjBo5wg5tvVugQRXkP0P"
+    },
+    {
+      "added_at": "2022-12-26 02:42:34",
+      "album": {
+        "name": "Play Me Something Nice",
+        "url": "https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 201301,
+      "name": "Play Me Something Nice",
+      "url": "https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb"
     },
     {
       "added_at": "2022-12-26 02:42:34",

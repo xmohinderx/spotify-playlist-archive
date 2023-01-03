@@ -1,12 +1,12 @@
 {
   "description": "Set the perfect brunch mood with instrumental and vocal Jazz.",
-  "num_followers": 11197,
+  "num_followers": 11225,
   "original_name": "Brunch Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDhlMDM4MjZhMmJlZTk4OWRkNjk3YTBjMTYzOGQ0YWIy",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDNlYTk1MjdiZmNlMDM0ODk4MTM4MzZkMjg2N2FhOTk0",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 393000,
-      "name": "Softly As In A Morning Sunrise",
-      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Jeru",
         "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 332333,
       "name": "Inside Impromptu",
       "url": "https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 393000,
+      "name": "Softly As In A Morning Sunrise",
+      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -327,38 +327,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "A Garland Of Red",
-        "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
-      },
-      "artists": [
-        {
-          "name": "Red Garland Trio",
-          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "A Foggy Day",
-      "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 442400,
-      "name": "West Coast Blues",
-      "url": "https://open.spotify.com/track/1xlNWhgv6MgVKvGK3ZXauZ"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Brass Shout",
         "url": "https://open.spotify.com/album/4J45qykVYkRLFMQGdQEJGn"
       },
@@ -391,34 +359,34 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
       "artists": [
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Moten Swing",
-      "url": "https://open.spotify.com/track/1haPzI492gIfPLv27qKUHA"
+      "duration_ms": 442400,
+      "name": "West Coast Blues",
+      "url": "https://open.spotify.com/track/1xlNWhgv6MgVKvGK3ZXauZ"
     },
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Nights Of Ballads & Blues",
-        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
+        "name": "A Garland Of Red",
+        "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
       },
       "artists": [
         {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+          "name": "Red Garland Trio",
+          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
         }
       ],
-      "duration_ms": 322560,
-      "name": "Blue Monk",
-      "url": "https://open.spotify.com/track/56XCdW9tzLtnbtupTLoBVJ"
+      "duration_ms": 287400,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -455,6 +423,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Nights Of Ballads & Blues",
+        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 322560,
+      "name": "Blue Monk",
+      "url": "https://open.spotify.com/track/56XCdW9tzLtnbtupTLoBVJ"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Quiet Kenny",
         "url": "https://open.spotify.com/album/12tlFVNl1jvVru8EtB5HEn"
       },
@@ -471,6 +455,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Moten Swing",
+      "url": "https://open.spotify.com/track/1haPzI492gIfPLv27qKUHA"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -483,22 +483,6 @@
       "duration_ms": 185800,
       "name": "Don't Get Around Much Any More",
       "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Swingin' Easy",
-        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 198360,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/0f2HoOAhmbJdO26eZGLqIV"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -523,6 +507,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Swingin' Easy",
+        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 198360,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/0f2HoOAhmbJdO26eZGLqIV"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Music For Lovers",
         "url": "https://open.spotify.com/album/0DNcDpKHbwG5lBz8sZnWga"
       },
@@ -539,22 +539,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Oscar Peterson Trio Plus One",
-        "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
+        "name": "Blue's Moods",
+        "url": "https://open.spotify.com/album/0GwJHqjwlCjcdIXeV7yELw"
       },
       "artists": [
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        },
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+          "name": "Blue Mitchell",
+          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
         }
       ],
-      "duration_ms": 315893,
-      "name": "Mack The Knife",
-      "url": "https://open.spotify.com/track/4tJb85eDxIIm2frcwb8PAG"
+      "duration_ms": 266666,
+      "name": "I Wish I Knew",
+      "url": "https://open.spotify.com/track/11yFXAL7mtcXaEz8CnumIq"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -575,18 +571,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Blue's Moods",
-        "url": "https://open.spotify.com/album/0GwJHqjwlCjcdIXeV7yELw"
+        "name": "Brass/Trio",
+        "url": "https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon"
       },
       "artists": [
         {
-          "name": "Blue Mitchell",
-          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 266666,
-      "name": "I Wish I Knew",
-      "url": "https://open.spotify.com/track/11yFXAL7mtcXaEz8CnumIq"
+      "duration_ms": 270200,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -615,34 +611,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Brass/Trio",
-        "url": "https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon"
+        "name": "Oscar Peterson Trio Plus One",
+        "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 270200,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
-      },
-      "artists": [
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
         }
       ],
-      "duration_ms": 220520,
-      "name": "Red Pepper Blues",
-      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
+      "duration_ms": 315893,
+      "name": "Mack The Knife",
+      "url": "https://open.spotify.com/track/4tJb85eDxIIm2frcwb8PAG"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -667,6 +651,62 @@
       "duration_ms": 387000,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 220520,
+      "name": "Red Pepper Blues",
+      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Everybody Gets the Blues",
+        "url": "https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N"
+      },
+      "artists": [
+        {
+          "name": "Eric Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "Everybody Gets the Blues",
+      "url": "https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Red Garland's Piano",
+        "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Art Taylor",
+          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
+        }
+      ],
+      "duration_ms": 398720,
+      "name": "If I Were A Bell",
+      "url": "https://open.spotify.com/track/5lGq5kSDArh2UVqXAbHVng"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -711,42 +751,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Red Garland's Piano",
-        "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
+        "name": "Cannonball Adderley Quintet In Chicago",
+        "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
       },
       "artists": [
         {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Art Taylor",
-          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
         }
       ],
-      "duration_ms": 398720,
-      "name": "If I Were A Bell",
-      "url": "https://open.spotify.com/track/5lGq5kSDArh2UVqXAbHVng"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Everybody Gets the Blues",
-        "url": "https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N"
-      },
-      "artists": [
-        {
-          "name": "Eric Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Everybody Gets the Blues",
-      "url": "https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm"
+      "duration_ms": 374840,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/4nslzINuZ9ZU5jhIj2xSNO"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -767,18 +783,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Cannonball Adderley Quintet In Chicago",
-        "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
       "artists": [
         {
-          "name": "The Cannonball Adderley Quintet",
-          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 374840,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/4nslzINuZ9ZU5jhIj2xSNO"
+      "duration_ms": 275133,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -807,22 +823,6 @@
       "duration_ms": 435440,
       "name": "Night Dreamer - Remastered 2004",
       "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Red's Blues",
-        "url": "https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS"
+        "name": "Verve Jazz Masters 50",
+        "url": "https://open.spotify.com/album/4dpEvh4rulUsOVn6WMWItA"
       },
       "artists": [
         {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
         }
       ],
-      "duration_ms": 400373,
-      "name": "Ralph J. Gleason Blues",
-      "url": "https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR"
+      "duration_ms": 325800,
+      "name": "Easy Does It",
+      "url": "https://open.spotify.com/track/7kvMRfMrGjY0AgzgaBtkDf"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Verve Jazz Masters 50",
-        "url": "https://open.spotify.com/album/4dpEvh4rulUsOVn6WMWItA"
+        "name": "Red's Blues",
+        "url": "https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS"
       },
       "artists": [
         {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
         }
       ],
-      "duration_ms": 325800,
-      "name": "Easy Does It",
-      "url": "https://open.spotify.com/track/7kvMRfMrGjY0AgzgaBtkDf"
+      "duration_ms": 400373,
+      "name": "Ralph J. Gleason Blues",
+      "url": "https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1015,6 +1015,22 @@
       "duration_ms": 362280,
       "name": "Peace",
       "url": "https://open.spotify.com/track/5XjjmKaKGBgPuwOgm1Ux1j"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Now!",
+        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "I'm Getting Sentimental Over You",
+      "url": "https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1071,38 +1087,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Saxophone Supremacy",
-        "url": "https://open.spotify.com/album/2e6azkD3xAzR0bQ8sJHPPb"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt Quartet",
-          "url": "https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H"
-        }
-      ],
-      "duration_ms": 230120,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/76mRDTbUFAUyG0yRMzpwwj"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Now!",
-        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "I'm Getting Sentimental Over You",
-      "url": "https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Blue Serge",
         "url": "https://open.spotify.com/album/5i1fTxPtjfONNBEuIStYIM"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 335933,
       "name": "A Handful Of Stars",
       "url": "https://open.spotify.com/track/5KchCZytpApt4oW8f9rkLI"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Saxophone Supremacy",
+        "url": "https://open.spotify.com/album/2e6azkD3xAzR0bQ8sJHPPb"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt Quartet",
+          "url": "https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H"
+        }
+      ],
+      "duration_ms": 230120,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/76mRDTbUFAUyG0yRMzpwwj"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/4SaSGPT2uxIgJcMSCNvO1x"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 389733,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/06xd6gNwwXK51BD4RJ0Khd"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "The Lionel Hampton Quintet",
         "url": "https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 382773,
       "name": "April In Paris",
       "url": "https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/4SaSGPT2uxIgJcMSCNvO1x"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 389733,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/06xd6gNwwXK51BD4RJ0Khd"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 457186,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "How My Heart Sings! [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/03DYlPuBuICW1aTbvwbDjl"
       },
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 457186,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Down With It",
         "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
       },
@@ -1319,22 +1319,6 @@
       "duration_ms": 376333,
       "name": "March On Selma - Remastered",
       "url": "https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "The Trio Live From Chicago (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6aVAGkx39QecHlSjGt63sh"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Whisper Not - Live",
-      "url": "https://open.spotify.com/track/6KBNObIQGq722j8hchNcmf"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "The Trio Live From Chicago (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6aVAGkx39QecHlSjGt63sh"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Whisper Not - Live",
+      "url": "https://open.spotify.com/track/6KBNObIQGq722j8hchNcmf"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "A Garland Of Red",
         "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
       },
@@ -1387,6 +1387,30 @@
       "duration_ms": 290040,
       "name": "What Is This Thing Called Love? - Instrumental",
       "url": "https://open.spotify.com/track/1A2ioCDTc0lDVuCUpBwh3v"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Working the Night Shift",
+        "url": "https://open.spotify.com/album/5qnAFOL2HK4Ly20bk5ixYi"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        },
+        {
+          "name": "Michael Blicher",
+          "url": "https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Working the Night Shift",
+      "url": "https://open.spotify.com/track/3Z20hsq9GRuI2AP5Rx5gwW"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1495,30 +1519,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Working the Night Shift",
-        "url": "https://open.spotify.com/album/5qnAFOL2HK4Ly20bk5ixYi"
-      },
-      "artists": [
-        {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
-        },
-        {
-          "name": "Michael Blicher",
-          "url": "https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Working the Night Shift",
-      "url": "https://open.spotify.com/track/3Z20hsq9GRuI2AP5Rx5gwW"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Study In Brown",
         "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
       },
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "4 to Go!",
+        "url": "https://open.spotify.com/album/5Za3xlEz6bE0ELBf1EjdAQ"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "duration_ms": 331266,
+      "name": "Life Is a Ball",
+      "url": "https://open.spotify.com/track/5knIQIYX3uLKECQH6n9DJg"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Bird Feathers (Remastered)",
         "url": "https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM"
       },
@@ -1555,18 +1571,46 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "4 to Go!",
-        "url": "https://open.spotify.com/album/5Za3xlEz6bE0ELBf1EjdAQ"
+        "name": "The Deep",
+        "url": "https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+          "name": "Juraj Stanik Trio",
+          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
         }
       ],
-      "duration_ms": 331266,
-      "name": "Life Is a Ball",
-      "url": "https://open.spotify.com/track/5knIQIYX3uLKECQH6n9DJg"
+      "duration_ms": 217993,
+      "name": "Freedom Jazz Dance",
+      "url": "https://open.spotify.com/track/2Y3LodqaNIgE1MwTaX7C6o"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        },
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        },
+        {
+          "name": "Reginald Workman",
+          "url": "https://open.spotify.com/artist/0oYdxgeUsbFXRBFEGwtUSZ"
+        },
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        }
+      ],
+      "duration_ms": 414466,
+      "name": "Charcoal Blues - Remastered 2004",
+      "url": "https://open.spotify.com/track/6S5vGVyWqxCXkBwrF32wHJ"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1599,34 +1643,6 @@
       "duration_ms": 294973,
       "name": "The Touch Of Your Lips - Remastered",
       "url": "https://open.spotify.com/track/3ZTityDuOCHIM7ow7twjmX"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Night Dreamer",
-        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        },
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        },
-        {
-          "name": "Reginald Workman",
-          "url": "https://open.spotify.com/artist/0oYdxgeUsbFXRBFEGwtUSZ"
-        },
-        {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
-        }
-      ],
-      "duration_ms": 414466,
-      "name": "Charcoal Blues - Remastered 2004",
-      "url": "https://open.spotify.com/track/6S5vGVyWqxCXkBwrF32wHJ"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1707,22 +1723,6 @@
       "duration_ms": 466026,
       "name": "If I Were A Bell",
       "url": "https://open.spotify.com/track/6cp5rZOUVR0DWMf97J1VLy"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "The Deep",
-        "url": "https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7"
-      },
-      "artists": [
-        {
-          "name": "Juraj Stanik Trio",
-          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
-        }
-      ],
-      "duration_ms": 217993,
-      "name": "Freedom Jazz Dance",
-      "url": "https://open.spotify.com/track/2Y3LodqaNIgE1MwTaX7C6o"
     },
     {
       "added_at": "2022-12-22 23:00:00",

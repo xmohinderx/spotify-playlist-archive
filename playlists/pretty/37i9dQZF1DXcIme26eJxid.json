@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 80156,
+  "num_followers": 80205,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMDJlNTliZDA5NWZiMzVhNjIyZGE1MGRkNjNmMjViMDIy",
+  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMGRmN2RjODMxYmZmMDVkN2ZkMGE1NWJkYWJmMmY3OTQ2",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -145,6 +145,22 @@
       "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
     },
     {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
+        "name": "Sibongile",
+        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        }
+      ],
+      "duration_ms": 351053,
+      "name": "Ndihamba Nawe",
+      "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
+    },
+    {
       "added_at": "2019-06-28 16:54:51",
       "album": {
         "name": "Zombie",
@@ -163,22 +179,6 @@
       "duration_ms": 745653,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
-    },
-    {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
-        "name": "Sibongile",
-        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
-      },
-      "artists": [
-        {
-          "name": "Mafikizolo",
-          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
-        }
-      ],
-      "duration_ms": 351053,
-      "name": "Ndihamba Nawe",
-      "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -265,22 +265,6 @@
       "url": "https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 289493,
-      "name": "Agolo",
-      "url": "https://open.spotify.com/track/0epThWIIEZZBBwDaHoMBBz"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Guz Hits",
@@ -295,6 +279,22 @@
       "duration_ms": 351746,
       "name": "Shibobo / The Final Countdown",
       "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 289493,
+      "name": "Agolo",
+      "url": "https://open.spotify.com/track/0epThWIIEZZBBwDaHoMBBz"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
     },
     {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
-    },
-    {
       "added_at": "2019-06-28 16:54:51",
       "album": {
         "name": "Big Sound",
@@ -423,6 +407,22 @@
       "duration_ms": 187160,
       "name": "Joromi",
       "url": "https://open.spotify.com/track/5P79h7NLD3zIpkomzFaMWy"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -643,22 +643,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Ojah Awake",
-        "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
-      },
-      "artists": [
-        {
-          "name": "Osibisa",
-          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "The Warrior",
-      "url": "https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "Nigeria 70 - Funky Lagos",
         "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 483986,
       "name": "Alo Mi Alo (Parts 1 & 2)",
       "url": "https://open.spotify.com/track/4ZAjQaFzbW5IbJJsjfCJJ4"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Ivory Music Classics, Vol. 2",
+        "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
+      },
+      "artists": [
+        {
+          "name": "Dizzy K Falola",
+          "url": "https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj"
+        }
+      ],
+      "duration_ms": 265573,
+      "name": "Baby Kilode",
+      "url": "https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu"
     }
   ],
   "unique_name": "Classic Afropop",

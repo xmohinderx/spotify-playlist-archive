@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1046947,
+  "num_followers": 1047526,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYyMzExOCwwMDAwMDAwMDU5MDY3ZWRjMDI1MmI4NTIzMmE2OWYzMzMxMTViMWI2",
+  "snapshot_id": "MTY3MTYyMzExOCwwMDAwMDAwMGRhZDczZjE5OTI4YjY3ODFmMGM4Njc4OTM1ODhiMWZh",
   "tracks": [
     {
       "added_at": "2022-12-15 23:00:00",
@@ -131,26 +131,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Modal Soul",
-        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Shing02",
-          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
-        }
-      ],
-      "duration_ms": 336866,
-      "name": "Luv(sic.) pt3 (feat. Shing02)",
-      "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Illadelph Halflife",
         "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 168654,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Modal Soul",
+        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Shing02",
+          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
+        }
+      ],
+      "duration_ms": 336866,
+      "name": "Luv(sic.) pt3 (feat. Shing02)",
+      "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -323,30 +323,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Spiritual State",
-        "url": "https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Pase Rock",
-          "url": "https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo"
-        },
-        {
-          "name": "Substantial",
-          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
-        }
-      ],
-      "duration_ms": 194293,
-      "name": "City Lights (feat. Pase Rock & Substantial)",
-      "url": "https://open.spotify.com/track/0fbnqrpTlUdy0PUwMdU8Pl"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Dear Annie",
         "url": "https://open.spotify.com/album/0zjfO1k7RSkLnJz9AeEORl"
       },
@@ -423,6 +399,30 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "Spiritual State",
+        "url": "https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Pase Rock",
+          "url": "https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo"
+        },
+        {
+          "name": "Substantial",
+          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
+        }
+      ],
+      "duration_ms": 194293,
+      "name": "City Lights (feat. Pase Rock & Substantial)",
+      "url": "https://open.spotify.com/track/0fbnqrpTlUdy0PUwMdU8Pl"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "2nd Exit",
         "url": "https://open.spotify.com/album/7DYnI0CZgasN25teMmX9O9"
       },
@@ -435,6 +435,26 @@
       "duration_ms": 176884,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Don't Feed the Birds",
+        "url": "https://open.spotify.com/album/0CpFxcoFV9MHFVI7M8a2Qt"
+      },
+      "artists": [
+        {
+          "name": "Ben Beal",
+          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
+        },
+        {
+          "name": "byJ.",
+          "url": "https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws"
+        }
+      ],
+      "duration_ms": 173181,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/0t89zjm5vxQCuW4jkOfT93"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -463,26 +483,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Don't Feed the Birds",
-        "url": "https://open.spotify.com/album/0CpFxcoFV9MHFVI7M8a2Qt"
-      },
-      "artists": [
-        {
-          "name": "Ben Beal",
-          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
-        },
-        {
-          "name": "byJ.",
-          "url": "https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws"
-        }
-      ],
-      "duration_ms": 173181,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/0t89zjm5vxQCuW4jkOfT93"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "After The Storm (Pete Rock Remix)",
         "url": "https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje"
       },
@@ -507,30 +507,6 @@
       "duration_ms": 225026,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins) - Pete Rock Remix",
       "url": "https://open.spotify.com/track/1aKzgL3nsei4Idwi8H9Zts"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Metaphorical Music",
-        "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Substantial",
-          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
-        },
-        {
-          "name": "Pase Rock",
-          "url": "https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo"
-        }
-      ],
-      "duration_ms": 203706,
-      "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
-      "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -643,6 +619,30 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "Metaphorical Music",
+        "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Substantial",
+          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
+        },
+        {
+          "name": "Pase Rock",
+          "url": "https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo"
+        }
+      ],
+      "duration_ms": 203706,
+      "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
+      "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "Elusive",
         "url": "https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Drive Slow",
-        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
-      },
-      "artists": [
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Drive Slow",
-      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Reachin' (A New Refutation Of Time And Space)",
         "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 271373,
       "name": "Pacifics (Sdtrk \"N.Y. Is Red Hot\")",
       "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Drive Slow",
+        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
+      },
+      "artists": [
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Drive Slow",
+      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -943,30 +943,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "The Actual Proof",
-        "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
-      },
-      "artists": [
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        },
-        {
-          "name": "Tiff the Gift",
-          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "The Rain",
-      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Train Of Thought",
         "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 157603,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/30qvk9d9puwUPqklbQG3KT"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "The Actual Proof",
+        "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
+      },
+      "artists": [
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        },
+        {
+          "name": "Tiff the Gift",
+          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1051,6 +1051,30 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/3vH1qTsY5lbQvkwHH8PwGc"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        },
+        {
+          "name": "Turt",
+          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
+        },
+        {
+          "name": "Slim.",
+          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
+        }
+      ],
+      "duration_ms": 179463,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/2GUVzvrOhwAwTsDrZcyPQU"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1079,30 +1103,6 @@
       "duration_ms": 251068,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/2uweJu8oFGaj7F3cMCX2Ha"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/3vH1qTsY5lbQvkwHH8PwGc"
-      },
-      "artists": [
-        {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        },
-        {
-          "name": "Turt",
-          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
-        },
-        {
-          "name": "Slim.",
-          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
-        }
-      ],
-      "duration_ms": 179463,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/2GUVzvrOhwAwTsDrZcyPQU"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1255,30 +1255,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "You Don\u2019t Know",
-        "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        },
-        {
-          "name": "Rebel Kleff",
-          "url": "https://open.spotify.com/artist/4IZnj59pur7nfqpdGzuPF6"
-        },
-        {
-          "name": "Kiko Bun",
-          "url": "https://open.spotify.com/artist/7yMruV2Y0a7ib9RLj9mLQQ"
-        }
-      ],
-      "duration_ms": 250450,
-      "name": "You Don't Know",
-      "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "It's Nice Outside",
         "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
       },
@@ -1299,38 +1275,26 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
+        "name": "You Don\u2019t Know",
+        "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
       },
       "artists": [
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 190116,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Green Street (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5gGkZtYnMyoAvNUz88V47g"
-      },
-      "artists": [
-        {
-          "name": "Jazz Spastiks",
-          "url": "https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S"
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
         },
         {
-          "name": "People Without Shoes",
-          "url": "https://open.spotify.com/artist/2Zef0Fnh4FEJ1OxrtnscxL"
+          "name": "Rebel Kleff",
+          "url": "https://open.spotify.com/artist/4IZnj59pur7nfqpdGzuPF6"
+        },
+        {
+          "name": "Kiko Bun",
+          "url": "https://open.spotify.com/artist/7yMruV2Y0a7ib9RLj9mLQQ"
         }
       ],
-      "duration_ms": 160508,
-      "name": "Super Fly Funk",
-      "url": "https://open.spotify.com/track/1gEdLgfWA7xkJ9TYaUJHmi"
+      "duration_ms": 250450,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1359,6 +1323,26 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "Green Street (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5gGkZtYnMyoAvNUz88V47g"
+      },
+      "artists": [
+        {
+          "name": "Jazz Spastiks",
+          "url": "https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S"
+        },
+        {
+          "name": "People Without Shoes",
+          "url": "https://open.spotify.com/artist/2Zef0Fnh4FEJ1OxrtnscxL"
+        }
+      ],
+      "duration_ms": 160508,
+      "name": "Super Fly Funk",
+      "url": "https://open.spotify.com/track/1gEdLgfWA7xkJ9TYaUJHmi"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "Everything's Beautiful",
         "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 190116,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "Stories From The Brass Section",
         "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
       },
@@ -1395,26 +1395,6 @@
       "duration_ms": 200829,
       "name": "Blue In Green",
       "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Back At The House",
-        "url": "https://open.spotify.com/album/2T7xEVNUgsoZ1pDlseBpg2"
-      },
-      "artists": [
-        {
-          "name": "Hemlock Ernst",
-          "url": "https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa"
-        },
-        {
-          "name": "Kenny Segal",
-          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
-        }
-      ],
-      "duration_ms": 258461,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/1g5Cpz0Gs4mKkmLa7sUgpj"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1443,6 +1423,26 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "Back At The House",
+        "url": "https://open.spotify.com/album/2T7xEVNUgsoZ1pDlseBpg2"
+      },
+      "artists": [
+        {
+          "name": "Hemlock Ernst",
+          "url": "https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa"
+        },
+        {
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
+        }
+      ],
+      "duration_ms": 258461,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/1g5Cpz0Gs4mKkmLa7sUgpj"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/2Esry53MOhCSaf5jOOcF4P"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 126839,
       "name": "Low",
       "url": "https://open.spotify.com/track/7i1mHHP4XpCjBM7VHx7g7U"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
-      },
-      "artists": [
-        {
-          "name": "RAIZA BIZA",
-          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
-        }
-      ],
-      "duration_ms": 243711,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1519,6 +1503,22 @@
       "duration_ms": 233154,
       "name": "Scottie Pippen",
       "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
+      },
+      "artists": [
+        {
+          "name": "RAIZA BIZA",
+          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
+        }
+      ],
+      "duration_ms": 243711,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "What Am I to Do?",
-        "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "What Am I to Do?",
-      "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "Tulips",
         "url": "https://open.spotify.com/album/6Oa2B45zimQ8lfbknds32G"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 143903,
       "name": "Chino",
       "url": "https://open.spotify.com/track/3nguTHU4uZRChg1k1PCUtB"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "What Am I to Do?",
+        "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 244733,
+      "name": "What Am I to Do?",
+      "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
-        "name": "Every Eye",
-        "url": "https://open.spotify.com/album/6rO3ImnEB7V0Wfmd6UjlIZ"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "Running Shoes",
-      "url": "https://open.spotify.com/track/0KDHlI9wbl31IGJfjx7Akh"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
         "name": "City All Stars (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7qVlqy2oyNjSDb8COORG0f"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 180290,
       "name": "The Stars My Destination",
       "url": "https://open.spotify.com/track/5mEktxj3u61Q9tM5ZfPuMP"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
+        "name": "Every Eye",
+        "url": "https://open.spotify.com/album/6rO3ImnEB7V0Wfmd6UjlIZ"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "Running Shoes",
+      "url": "https://open.spotify.com/track/0KDHlI9wbl31IGJfjx7Akh"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "Oh Word",
+        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "Oh Word",
+      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/11WVMvo2CIfz3kkqLjNkoJ"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 205080,
       "name": "Three Sixty",
       "url": "https://open.spotify.com/track/00Dl4SEgRut6XaLpOQH6Gk"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "Oh Word",
-        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "Oh Word",
-      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
     },
     {
       "added_at": "2022-12-15 23:00:00",
@@ -1987,6 +1987,26 @@
     {
       "added_at": "2022-12-15 23:00:00",
       "album": {
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
+      },
+      "artists": [
+        {
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+        },
+        {
+          "name": "DJ Access",
+          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
+        }
+      ],
+      "duration_ms": 136785,
+      "name": "DOOM",
+      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
+    },
+    {
+      "added_at": "2022-12-15 23:00:00",
+      "album": {
         "name": "Jazzmatazz Volume II: The New Reality",
         "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
       },
@@ -2007,26 +2027,6 @@
       "duration_ms": 259533,
       "name": "Insert A (Mental Relaxation)/Medicine",
       "url": "https://open.spotify.com/track/7iWgFxOgOWT6JKPSrEWVrP"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
-      },
-      "artists": [
-        {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
-        },
-        {
-          "name": "DJ Access",
-          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
-        }
-      ],
-      "duration_ms": 136785,
-      "name": "DOOM",
-      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
     }
   ],
   "unique_name": "Jazz Rap",

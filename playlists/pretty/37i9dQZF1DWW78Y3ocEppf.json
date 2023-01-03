@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: PARTYNEXTDOOR",
-  "num_followers": 38567,
+  "num_followers": 38592,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGU4MmVjY2Y3YWI4MzE2YzI4YjM4ZDg5YTFkZTIzYTBj",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGQzYmNmYTU3ZGRmMGQ2NWU4ZTc2OGVhYjhjMTFhYzll",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -381,22 +381,6 @@
       "url": "https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Give Or Take",
-        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 180953,
-      "name": "Lost Me",
-      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Lost",
@@ -411,6 +395,22 @@
       "duration_ms": 158420,
       "name": "Trust",
       "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 180953,
+      "name": "Lost Me",
+      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Tread Carefully",
-      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
-    },
-    {
       "added_at": "2022-09-09 04:09:30",
       "album": {
         "name": "Spotify Singles",
@@ -477,20 +461,20 @@
       "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
+      "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 169013,
-      "name": "JACKIE BROWN",
-      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
+      "duration_ms": 182068,
+      "name": "Tread Carefully",
+      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -531,6 +515,22 @@
       "duration_ms": 223157,
       "name": "FOREVER (with 6LACK)",
       "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "JACKIE BROWN",
+      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
     },
     {
       "added_at": "2022-10-07 16:24:50",
@@ -581,6 +581,22 @@
       "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
     },
     {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Not Another Love Song",
+        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 217801,
+      "name": "Not Another Love Song",
+      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
+    },
+    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Good & Plenty (Remix)",
@@ -607,22 +623,6 @@
       "duration_ms": 204705,
       "name": "Good & Plenty - Remix",
       "url": "https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Not Another Love Song",
-        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 217801,
-      "name": "Not Another Love Song",
-      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 162006,
-      "name": "ROLLING STONE",
-      "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Still Over It",
@@ -711,6 +695,22 @@
       "duration_ms": 189546,
       "name": "So Be It",
       "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 162006,
+      "name": "ROLLING STONE",
+      "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -777,6 +777,22 @@
       "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 197094,
+      "name": "Constant Bullshit",
+      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Obsession (feat. Muni Long) [Remix]",
@@ -795,22 +811,6 @@
       "duration_ms": 201869,
       "name": "Obsession (feat. Muni Long) - Remix",
       "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 197094,
-      "name": "Constant Bullshit",
-      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
     },
     {
-      "added_at": "2022-10-28 04:22:42",
-      "album": {
-        "name": "Bout Mine",
-        "url": "https://open.spotify.com/album/6Sw7bDrqFYxuHZT7eSHhEK"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 147613,
-      "name": "Bout Mine",
-      "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Give Me Time",
@@ -895,6 +879,22 @@
       "duration_ms": 154702,
       "name": "Give Me Time",
       "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
+    },
+    {
+      "added_at": "2022-10-28 04:22:42",
+      "album": {
+        "name": "Bout Mine",
+        "url": "https://open.spotify.com/album/6Sw7bDrqFYxuHZT7eSHhEK"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 147613,
+      "name": "Bout Mine",
+      "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -1149,7 +1149,7 @@
       "url": "https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW"
     },
     {
-      "added_at": "2022-09-23 04:09:12",
+      "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Public Displays Of Affection: The Album",
         "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 152574,
-      "name": "Plot Twist",
-      "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -1217,6 +1217,38 @@
       "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Irresponsible",
+        "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 192545,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
+    },
+    {
+      "added_at": "2022-09-23 04:09:12",
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 152574,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
+    },
+    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Confujawn (feat. Nija)",
@@ -1269,22 +1301,6 @@
       "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Irresponsible",
-        "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 192545,
-      "name": "Irresponsible",
-      "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Tell Me",
@@ -1317,20 +1333,20 @@
       "url": "https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+        "name": "Candydrip",
+        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 153226,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
+      "duration_ms": 164000,
+      "name": "Fuckin' Sound",
+      "url": "https://open.spotify.com/track/3cH7YI52JMcJrZIrJEJemU"
     },
     {
       "added_at": "2022-10-28 04:22:42",
@@ -1347,22 +1363,6 @@
       "duration_ms": 170937,
       "name": "Divide",
       "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Candydrip",
-        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Fuckin' Sound",
-      "url": "https://open.spotify.com/track/3cH7YI52JMcJrZIrJEJemU"
     },
     {
       "added_at": "2022-10-14 05:33:57",
@@ -1403,6 +1403,38 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Feelings 4 You",
+        "url": "https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 256202,
+      "name": "Feelings 4 You",
+      "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Um, Hello",
+        "url": "https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Crazy Down",
+      "url": "https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "FWM",
         "url": "https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg"
       },
@@ -1421,22 +1453,6 @@
       "url": "https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Feelings 4 You",
-        "url": "https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 256202,
-      "name": "Feelings 4 You",
-      "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Love Letterz (Deluxe)",
@@ -1451,22 +1467,6 @@
       "duration_ms": 165813,
       "name": "Countless Times",
       "url": "https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Um, Hello",
-        "url": "https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj"
-      },
-      "artists": [
-        {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Crazy Down",
-      "url": "https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1505,22 +1505,6 @@
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Insensitive",
-        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Insensitive",
-      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
-    },
-    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Cold Toronto",
@@ -1551,6 +1535,22 @@
       "duration_ms": 175522,
       "name": "SCORPIO MOON - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6D1FytV3a4tYR6O8Q2w83z"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Insensitive",
+        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Insensitive",
+      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1681,22 +1681,6 @@
       "url": "https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Sweet Side",
-        "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
-      },
-      "artists": [
-        {
-          "name": "Raquel Rodriguez",
-          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
-        }
-      ],
-      "duration_ms": 194679,
-      "name": "Don't You Know",
-      "url": "https://open.spotify.com/track/5FAQkTyzcSraGEQORCmhaz"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "flora + fana",
@@ -1711,6 +1695,22 @@
       "duration_ms": 169579,
       "name": "BAD bad",
       "url": "https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Sweet Side",
+        "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
+      },
+      "artists": [
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        }
+      ],
+      "duration_ms": 194679,
+      "name": "Don't You Know",
+      "url": "https://open.spotify.com/track/5FAQkTyzcSraGEQORCmhaz"
     },
     {
       "added_at": "2022-08-05 04:11:54",

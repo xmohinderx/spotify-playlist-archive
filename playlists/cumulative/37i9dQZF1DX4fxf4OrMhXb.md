@@ -4,11 +4,12 @@
 
 > Close the curtains, it's time for some leftfield gems.
 
-176 songs - 15 hr 15 min - [published](https://open.spotify.com/playlist/6h0aBJF4DpxBxWLBMOrNnP)
+177 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/6h0aBJF4DpxBxWLBMOrNnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81) | 4:31 | 2022-09-09 |  |
+| [2nd Round](https://open.spotify.com/track/0lrsCibEGQd7uP0eJ7T2bk) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [2nd Round / FFBH](https://open.spotify.com/album/7cjAjQbz0Rdh7UnGFLXQE5) | 2:30 | 2022-09-09 |  |
 | [2nd Round](https://open.spotify.com/track/47aIlnjYCoc2JOEOCe2AXy) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [2nd Round / FFBH](https://open.spotify.com/album/7nreaITfEOxOavaPVm16an) | 2:30 | 2022-05-06 | 2022-07-29 |
 | [<3core](https://open.spotify.com/track/2OhTPWJOToqCMUAua8zx6Z) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [<3core](https://open.spotify.com/album/42a7AJAwyRYVTTp8JhHBLv) | 3:00 | 2022-07-08 |  |
 | [Adiós Ayer](https://open.spotify.com/track/69XQLZq4KqLs6bDQSjiWmM) | [AFFKT](https://open.spotify.com/artist/1VCo9PBRImHKuQyiubNSqF), [Piek](https://open.spotify.com/artist/43nO5CZZAubCVReVSXGR13) | [The Big Picture](https://open.spotify.com/album/1XtxDRUqZmCjblEnKN9Kzt) | 3:55 | 2022-05-06 | 2022-07-26 |
@@ -138,7 +139,7 @@
 | [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 | 2022-11-15 |  |
 | [Proton](https://open.spotify.com/track/7qYLpCBd3QTlCJY1BXpzCQ) | [Carlo Ruetz](https://open.spotify.com/artist/5vDqopi7jF9kQoL6xg696f) | [Proton](https://open.spotify.com/album/1lgtdQcPe6E04NS1y4krXH) | 6:10 | 2022-09-09 | 2022-12-14 |
 | [Raves On Sunday](https://open.spotify.com/track/5xLq7wQZ5jdNchreNeX4mh) | [Fufi.SNC](https://open.spotify.com/artist/2TxijqLiA5O497LEzyWiQH), [DJ Kolibri](https://open.spotify.com/artist/2XcqoE2lgvbSFnMpUsLYrn) | [Raves On Sunday feat\. DJ Kolibri](https://open.spotify.com/album/0rhDoQe8PbARP5zlo0JR3Z) | 6:41 | 2022-05-06 | 2022-07-29 |
-| [Repeater](https://open.spotify.com/track/5nFk84BnSMagKAS1exyWsd) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [Repeater](https://open.spotify.com/album/3PYi4JChaldZJx2dLuoBYX) | 3:49 | 2022-11-15 |  |
+| [Repeater](https://open.spotify.com/track/5nFk84BnSMagKAS1exyWsd) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [Repeater](https://open.spotify.com/album/3PYi4JChaldZJx2dLuoBYX) | 3:49 | 2022-11-15 | 2023-01-03 |
 | [Rip](https://open.spotify.com/track/1EEa7LoV6LkA9ANWnLz5KH) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Rip](https://open.spotify.com/album/1rRrZeKmaMwC4fLdWpqJMD) | 4:08 | 2022-05-06 | 2022-07-29 |
 | [Ritual](https://open.spotify.com/track/2LwYxvZHiYuiDREh29K5lG) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Breaking My Mind / Ritual](https://open.spotify.com/album/0mYepiqOEbEaDTaBmNZj9Z) | 4:16 | 2022-07-08 | 2022-09-15 |
 | [Ritual](https://open.spotify.com/track/3fwlBRGTkl8DuHI7DRkcK9) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Breaking My Mind](https://open.spotify.com/album/3jEFXW2SCX7GIZl91cd09a) | 4:16 | 2022-05-06 | 2022-07-28 |

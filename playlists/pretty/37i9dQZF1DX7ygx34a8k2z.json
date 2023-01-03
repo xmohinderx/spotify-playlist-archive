@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 100982,
+  "num_followers": 101237,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMDdjYjlkMzViOTZlYjk5NjM1NThjNWZlMWYzNmFkMjA5",
+  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMGY2N2E1YWU4Yjc4ZDEzNjNhZjQ4YWZhZTAzODk4MjJl",
   "tracks": [
     {
       "added_at": "2022-05-30 14:05:21",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "In Utero - 20th Anniversary Remaster",
-        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "All Apologies",
-      "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Marcy Playground",
         "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 173493,
       "name": "Sex & Candy",
       "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "In Utero - 20th Anniversary Remaster",
+        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "All Apologies",
+      "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 358773,
-      "name": "Coffee & TV",
-      "url": "https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "The Mollusk",
         "url": "https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 126946,
       "name": "Ocean Man",
       "url": "https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 358773,
+      "name": "Coffee & TV",
+      "url": "https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "Only Shallow",
-      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 210200,
       "name": "Girl From Mars",
       "url": "https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "Only Shallow",
+      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Refried Ectoplasm [Switched On Volume 2]",
-        "url": "https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 215825,
-      "name": "French Disko",
-      "url": "https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "It's A Wonderful Life",
         "url": "https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 163733,
       "name": "Piano Fire",
       "url": "https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Refried Ectoplasm [Switched On Volume 2]",
+        "url": "https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 215825,
+      "name": "French Disko",
+      "url": "https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Monster (Remastered)",
-        "url": "https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "What\u2019s The Frequency, Kenneth? - Remastered",
-      "url": "https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Screamadelica",
         "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 230533,
       "name": "Movin' on Up",
       "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Monster (Remastered)",
+        "url": "https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "What\u2019s The Frequency, Kenneth? - Remastered",
+      "url": "https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "On Fire",
-        "url": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M"
-      },
-      "artists": [
-        {
-          "name": "Galaxie 500",
-          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/2TTAPkrGQQOZkaUTUlt21Q"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Rites Of Passage (Expanded Edition)",
         "url": "https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 252960,
       "name": "Galileo",
       "url": "https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M"
+      },
+      "artists": [
+        {
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/2TTAPkrGQQOZkaUTUlt21Q"
     },
     {
       "added_at": "2022-05-30 14:05:21",

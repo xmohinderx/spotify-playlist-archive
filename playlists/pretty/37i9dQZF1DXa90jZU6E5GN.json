@@ -1,12 +1,12 @@
 {
   "description": "the prerogative to have a little fun ",
-  "num_followers": 88086,
+  "num_followers": 88260,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjU5NjAwMCwwMDAwMDAwMGU4ZWI5ZWI1M2IwY2UyMWNjYmI0ZGZlOGY0ODllYzY5",
+  "snapshot_id": "MTY3MjU5NjAwMCwwMDAwMDAwMDk3ZjU5ZDE1YjdlZTFhODhjYmUzOTUxMDNlNGU3NmYx",
   "tracks": [
     {
       "added_at": "2023-01-01 18:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-01-01 18:00:00",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
-    },
-    {
-      "added_at": "2023-01-01 18:00:00",
-      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -271,22 +255,6 @@
     {
       "added_at": "2023-01-01 18:00:00",
       "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 205473,
-      "name": "You should be sad",
-      "url": "https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK"
-    },
-    {
-      "added_at": "2023-01-01 18:00:00",
-      "album": {
         "name": "Love Stuff",
         "url": "https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov"
       },
@@ -299,6 +267,38 @@
       "duration_ms": 202173,
       "name": "Ex's & Oh's",
       "url": "https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH"
+    },
+    {
+      "added_at": "2023-01-01 18:00:00",
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+    },
+    {
+      "added_at": "2023-01-01 18:00:00",
+      "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 205473,
+      "name": "You should be sad",
+      "url": "https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK"
     },
     {
       "added_at": "2023-01-01 18:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-01-01 18:00:00",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "Jumpin', Jumpin'",
-      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
-    },
-    {
-      "added_at": "2023-01-01 18:00:00",
-      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 230960,
       "name": "22 (Taylor's Version)",
       "url": "https://open.spotify.com/track/3yII7UwgLF6K5zW3xad3MP"
+    },
+    {
+      "added_at": "2023-01-01 18:00:00",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
     },
     {
       "added_at": "2023-01-01 18:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-01-01 18:00:00",
       "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "My Life Would Suck Without You",
-      "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
-    },
-    {
-      "added_at": "2023-01-01 18:00:00",
-      "album": {
         "name": "JoDee Messina",
         "url": "https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 209760,
       "name": "Heads Carolina, Tails California",
       "url": "https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa"
+    },
+    {
+      "added_at": "2023-01-01 18:00:00",
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "My Life Would Suck Without You",
+      "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
     },
     {
       "added_at": "2023-01-01 18:00:00",
@@ -571,22 +571,6 @@
       "duration_ms": 191693,
       "name": "Gunpowder & Lead",
       "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
-    },
-    {
-      "added_at": "2023-01-01 18:00:00",
-      "album": {
-        "name": "Speak Now",
-        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 237733,
-      "name": "Mean",
-      "url": "https://open.spotify.com/track/5yEPktRqvIhko5QFF3aBhQ"
     },
     {
       "added_at": "2023-01-01 18:00:00",
@@ -643,18 +627,34 @@
     {
       "added_at": "2023-01-01 18:00:00",
       "album": {
-        "name": "Stronger (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj"
+        "name": "Speak Now",
+        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 221946,
-      "name": "Stronger (What Doesn't Kill You)",
-      "url": "https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss"
+      "duration_ms": 237733,
+      "name": "Mean",
+      "url": "https://open.spotify.com/track/5yEPktRqvIhko5QFF3aBhQ"
+    },
+    {
+      "added_at": "2023-01-01 18:00:00",
+      "album": {
+        "name": "Why Not Me",
+        "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Why Not Me",
+      "url": "https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex"
     },
     {
       "added_at": "2023-01-01 18:00:00",
@@ -675,18 +675,38 @@
     {
       "added_at": "2023-01-01 18:00:00",
       "album": {
-        "name": "Why Not Me",
-        "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
+        "name": "Stronger (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj"
       },
       "artists": [
         {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 211266,
-      "name": "Why Not Me",
-      "url": "https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex"
+      "duration_ms": 221946,
+      "name": "Stronger (What Doesn't Kill You)",
+      "url": "https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss"
+    },
+    {
+      "added_at": "2023-01-01 18:00:00",
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
+      "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
     },
     {
       "added_at": "2023-01-01 18:00:00",
@@ -723,26 +743,6 @@
       "duration_ms": 196360,
       "name": "Woman (feat. The Dap-Kings Horns)",
       "url": "https://open.spotify.com/track/1kJtfldK9F7XmsSiSNlbth"
-    },
-    {
-      "added_at": "2023-01-01 18:00:00",
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
-      "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
     },
     {
       "added_at": "2023-01-01 18:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-01-01 18:00:00",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK"
-      },
-      "artists": [
-        {
-          "name": "Karmin",
-          "url": "https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG"
-        }
-      ],
-      "duration_ms": 227146,
-      "name": "Brokenhearted",
-      "url": "https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi"
-    },
-    {
-      "added_at": "2023-01-01 18:00:00",
-      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 192840,
       "name": "Miss Me More",
       "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
+    },
+    {
+      "added_at": "2023-01-01 18:00:00",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK"
+      },
+      "artists": [
+        {
+          "name": "Karmin",
+          "url": "https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG"
+        }
+      ],
+      "duration_ms": 227146,
+      "name": "Brokenhearted",
+      "url": "https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi"
     },
     {
       "added_at": "2023-01-01 18:00:00",
@@ -859,38 +859,6 @@
     {
       "added_at": "2023-01-01 18:00:00",
       "album": {
-        "name": "Here For The Party",
-        "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
-      },
-      "artists": [
-        {
-          "name": "Gretchen Wilson",
-          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
-        }
-      ],
-      "duration_ms": 196760,
-      "name": "Here for the Party",
-      "url": "https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk"
-    },
-    {
-      "added_at": "2023-01-01 18:00:00",
-      "album": {
-        "name": "Stop Draggin' Your Boots",
-        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 164347,
-      "name": "Stop Draggin' Your Boots",
-      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
-    },
-    {
-      "added_at": "2023-01-01 18:00:00",
-      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1"
       },
@@ -903,6 +871,22 @@
       "duration_ms": 185800,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"
+    },
+    {
+      "added_at": "2023-01-01 18:00:00",
+      "album": {
+        "name": "Here For The Party",
+        "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        }
+      ],
+      "duration_ms": 196760,
+      "name": "Here for the Party",
+      "url": "https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk"
     },
     {
       "added_at": "2023-01-01 18:00:00",
@@ -927,6 +911,22 @@
       "duration_ms": 175229,
       "name": "YOU'RE DRUNK, GO HOME",
       "url": "https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd"
+    },
+    {
+      "added_at": "2023-01-01 18:00:00",
+      "album": {
+        "name": "Stop Draggin' Your Boots",
+        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 164347,
+      "name": "Stop Draggin' Your Boots",
+      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
     },
     {
       "added_at": "2023-01-01 18:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-01-01 18:00:00",
       "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "Undo It",
-      "url": "https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O"
-    },
-    {
-      "added_at": "2023-01-01 18:00:00",
-      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 211767,
       "name": "80s Mercedes",
       "url": "https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99"
+    },
+    {
+      "added_at": "2023-01-01 18:00:00",
+      "album": {
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "Undo It",
+      "url": "https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O"
     },
     {
       "added_at": "2023-01-01 18:00:00",

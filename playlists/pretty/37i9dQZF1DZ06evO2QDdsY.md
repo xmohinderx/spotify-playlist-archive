@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,367 likes - 41 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,373 likes - 41 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 15 | [Long Lonely Road](https://open.spotify.com/track/4l0bi7g9dOp1L3QDBbCTjk) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:56 |
 | 16 | [Stay](https://open.spotify.com/track/0lXhdx5FL08z86AjpYPqRo) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:01 |
 | 17 | [Into My Arms](https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:10 |
-| 18 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 |
-| 19 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
+| 18 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
+| 19 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 |
 | 20 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
 | 21 | [Fade Into You](https://open.spotify.com/track/2SF4jGzFzrTdOm7ivfIDqY) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Fade Into You](https://open.spotify.com/album/0rBigYSvUtkuE4C8qvVg0L) | 4:45 |
 | 22 | [Slip Slide On By](https://open.spotify.com/track/3TEojRdSXcNyaDXZDqlr31) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 4:04 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 35 | [Summer's End](https://open.spotify.com/track/4XEJxDDGvxgAAUXJGMWg0h) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh) | 3:29 |
 | 36 | [Imagine](https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:07 |
 | 37 | [Pushin’ Against A Stone](https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 5:14 |
-| 38 | [Within You \- Moon And Stars / Acoustic](https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 4:02 |
-| 39 | [Love Told A Lie](https://open.spotify.com/track/13AbPBJkIgSlvwZoW7z8GF) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [For The Loved & Loveless](https://open.spotify.com/album/77cwbGS06HijohXkm0oDM2) | 3:59 |
+| 38 | [Love Told A Lie](https://open.spotify.com/track/13AbPBJkIgSlvwZoW7z8GF) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [For The Loved & Loveless](https://open.spotify.com/album/77cwbGS06HijohXkm0oDM2) | 3:59 |
+| 39 | [Within You \- Moon And Stars / Acoustic](https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 4:02 |
 | 40 | [Mad About the Girl](https://open.spotify.com/track/2bNDCbxCEPMa0qBzh26MEm) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Universal Love \- Wedding Songs Reimagined](https://open.spotify.com/album/1Roqqh9z76dk77g98fiR2E) | 3:11 |
 | 41 | [The Hour](https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' against a Stone](https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z) | 3:49 |
 
-Snapshot ID: `Mjc4NzYzNDMsMDAwMDAwMDBiZmY5NDJmOGU2MjhmMDA1Njc4NWMyYzJmNWZiNzcwNA==`
+Snapshot ID: `Mjc4Nzc3NTksMDAwMDAwMDBhOGU5Y2QxYmVkNWJjNGEwOTBkYTIxNjhlYzRjOGZiNA==`

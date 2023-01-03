@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 451629,
+  "num_followers": 452021,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjMzNTM5NSwwMDAwMDAwMDNmNDVkOWVlNzk0NDlkZTgxNDczMTA5ZTZmOTM0ZGQ1",
+  "snapshot_id": "MTY3MjMzNTM5NSwwMDAwMDAwMGQzNmIyODQ4MzVhNTI1OTIzYWYyYjU0NzFlZjMzMTQ3",
   "tracks": [
     {
       "added_at": "2021-10-21 15:13:27",
@@ -165,6 +165,38 @@
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
     },
     {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "Falta Amor",
+        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Rayando El Sol",
+      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
+    },
+    {
+      "added_at": "2022-12-29 17:36:35",
+      "album": {
+        "name": "Para Siempre... \u00bf?",
+        "url": "https://open.spotify.com/album/7f2UbbWOm1LZFF7TWzeNnu"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 198076,
+      "name": "Para Siempre... \u00bf?",
+      "url": "https://open.spotify.com/track/4ZqHm4OWOoZOOv5smffU6C"
+    },
+    {
       "added_at": "2022-11-11 14:50:07",
       "album": {
         "name": "Amigos (con Maria Becerra)",
@@ -185,36 +217,20 @@
       "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
     },
     {
-      "added_at": "2022-12-29 17:36:35",
+      "added_at": "2022-09-07 01:06:36",
       "album": {
-        "name": "Para Siempre... \u00bf?",
-        "url": "https://open.spotify.com/album/7f2UbbWOm1LZFF7TWzeNnu"
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
       },
       "artists": [
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 198076,
-      "name": "Para Siempre... \u00bf?",
-      "url": "https://open.spotify.com/track/4ZqHm4OWOoZOOv5smffU6C"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "Falta Amor",
-        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Rayando El Sol",
-      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
+      "duration_ms": 204173,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -237,40 +253,24 @@
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
     },
     {
-      "added_at": "2021-10-21 15:13:27",
+      "added_at": "2022-08-04 14:51:34",
       "album": {
-        "name": "Independiente + Demos",
-        "url": "https://open.spotify.com/album/3LrWQfyoO7cEc7ZGkWqHgy"
+        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         },
         {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 265306,
-      "name": "Fuiste T\u00fa (feat. Gaby Moreno)",
-      "url": "https://open.spotify.com/track/29csiYMOfBmLmGwxmISrMy"
-    },
-    {
-      "added_at": "2022-09-07 01:06:36",
-      "album": {
-        "name": "Des/Amor",
-        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
+      "duration_ms": 185038,
+      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
     },
     {
       "added_at": "2022-11-25 02:17:47",
@@ -305,24 +305,24 @@
       "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     },
     {
-      "added_at": "2022-08-04 14:51:34",
+      "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
+        "name": "Independiente + Demos",
+        "url": "https://open.spotify.com/album/3LrWQfyoO7cEc7ZGkWqHgy"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
         },
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
         }
       ],
-      "duration_ms": 185038,
-      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+      "duration_ms": 265306,
+      "name": "Fuiste T\u00fa (feat. Gaby Moreno)",
+      "url": "https://open.spotify.com/track/29csiYMOfBmLmGwxmISrMy"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -425,6 +425,22 @@
       "url": "https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK"
     },
     {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "Para M\u00ed",
+        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 211373,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
+    },
+    {
       "added_at": "2022-07-11 18:58:17",
       "album": {
         "name": "Volare",
@@ -479,22 +495,6 @@
       "duration_ms": 209268,
       "name": "Felices Perdidos",
       "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "Para M\u00ed",
-        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 211373,
-      "name": "Ya Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -655,6 +655,22 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
         "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
         "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 242446,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
         "name": "M\u00e1s De Lo Que Apost\u00e9",
         "url": "https://open.spotify.com/album/4DAiwXZWP397meKmAG7xaS"
       },
@@ -805,10 +789,10 @@
       "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
     },
     {
-      "added_at": "2021-10-21 15:13:27",
+      "added_at": "2021-11-25 00:58:58",
       "album": {
-        "name": "Eres Mi Religi\u00f3n",
-        "url": "https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc"
+        "name": "Mariposa Traicionera",
+        "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
       "artists": [
         {
@@ -816,13 +800,13 @@
           "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         },
         {
-          "name": "Joy",
-          "url": "https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 267836,
-      "name": "Eres Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4"
+      "duration_ms": 243307,
+      "name": "Mariposa Traicionera",
+      "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -839,6 +823,22 @@
       "duration_ms": 211946,
       "name": "\u00bfC\u00f3mo Pagarte?",
       "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -875,6 +875,42 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
+        "name": "Eres Mi Religi\u00f3n",
+        "url": "https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Joy",
+          "url": "https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1"
+        }
+      ],
+      "duration_ms": 267836,
+      "name": "Eres Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "Yo Creo",
+        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Que Lo Nuestro Se Quede Nuestro",
+      "url": "https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
         "name": "Palabras Del Silencio (Edici\u00f3n Aniversario - Un A\u00f1o Despues)",
         "url": "https://open.spotify.com/album/5gCxcHCAA50nboku1ks180"
       },
@@ -905,76 +941,20 @@
       "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
     },
     {
-      "added_at": "2021-11-25 00:58:58",
-      "album": {
-        "name": "Mariposa Traicionera",
-        "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 243307,
-      "name": "Mariposa Traicionera",
-      "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
-    },
-    {
       "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "Yo Creo",
-        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 222826,
-      "name": "Que Lo Nuestro Se Quede Nuestro",
-      "url": "https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "ADMV",
-        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 193699,
-      "name": "ADMV",
-      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
-    },
-    {
-      "added_at": "2022-07-26 14:18:45",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
+      "duration_ms": 234773,
+      "name": "El Amar y el Querer",
+      "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -995,18 +975,34 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 234773,
-      "name": "El Amar y el Querer",
-      "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
+      "duration_ms": 292760,
+      "name": "Te Llor\u00e9 Un R\u00edo",
+      "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "ADMV",
+        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 193699,
+      "name": "ADMV",
+      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
     },
     {
       "added_at": "2022-07-11 22:40:18",
@@ -1029,36 +1025,44 @@
       "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
-      "added_at": "2021-10-21 15:13:27",
+      "added_at": "2022-07-26 14:18:45",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 292760,
-      "name": "Te Llor\u00e9 Un R\u00edo",
-      "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
+      "duration_ms": 208600,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
     },
     {
-      "added_at": "2022-07-07 15:34:37",
+      "added_at": "2022-11-03 17:29:23",
       "album": {
-        "name": "Haashtag",
-        "url": "https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw"
+        "name": "Que Triste",
+        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 226480,
-      "name": "Supongo Que Lo Sabes",
-      "url": "https://open.spotify.com/track/0poZ5t6JLsuxtUXfhPDLJI"
+      "duration_ms": 226339,
+      "name": "Que Triste",
+      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
     },
     {
       "added_at": "2022-02-08 16:52:52",
@@ -1093,24 +1097,20 @@
       "url": "https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F"
     },
     {
-      "added_at": "2022-11-03 17:29:23",
+      "added_at": "2022-07-07 15:34:37",
       "album": {
-        "name": "Que Triste",
-        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
+        "name": "Haashtag",
+        "url": "https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
         }
       ],
-      "duration_ms": 226339,
-      "name": "Que Triste",
-      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
+      "duration_ms": 226480,
+      "name": "Supongo Que Lo Sabes",
+      "url": "https://open.spotify.com/track/0poZ5t6JLsuxtUXfhPDLJI"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1161,20 +1161,40 @@
       "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
     },
     {
-      "added_at": "2022-02-25 05:01:00",
+      "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "Felices x Siempre",
-        "url": "https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2"
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 199656,
-      "name": "Felices x Siempre",
-      "url": "https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn"
+      "duration_ms": 250200,
+      "name": "Gavil\u00e1n o Paloma",
+      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "Aire (Versi\u00f3n D\u00eda)",
+        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE"
     },
     {
       "added_at": "2022-03-18 01:00:00",
@@ -1191,6 +1211,22 @@
       "duration_ms": 194120,
       "name": "Lo Que un Hombre Deber\u00eda Saber",
       "url": "https://open.spotify.com/track/53xbvOgbt6aDHTudDBKGle"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Felices x Siempre",
+        "url": "https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 199656,
+      "name": "Felices x Siempre",
+      "url": "https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1227,22 +1263,6 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Gavil\u00e1n o Paloma",
-      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
         "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
@@ -1250,15 +1270,11 @@
         {
           "name": "Jesse & Joy",
           "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE"
+      "duration_ms": 216000,
+      "name": "Te Esper\u00e9",
+      "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1341,58 +1357,6 @@
       "url": "https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck"
     },
     {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "Bajo La Mesa",
-        "url": "https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "Bajo La Mesa",
-      "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "Mis Canciones De La Web",
-        "url": "https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP"
-      },
-      "artists": [
-        {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
-        }
-      ],
-      "duration_ms": 172309,
-      "name": "Mi Razon De Ser",
-      "url": "https://open.spotify.com/track/6RLB0Jw4gg5uYpHyekjQSI"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "Aire (Versi\u00f3n D\u00eda)",
-        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Te Esper\u00e9",
-      "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
-    },
-    {
       "added_at": "2022-05-18 02:31:29",
       "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
@@ -1415,6 +1379,22 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
+        "name": "Mis Canciones De La Web",
+        "url": "https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP"
+      },
+      "artists": [
+        {
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+        }
+      ],
+      "duration_ms": 172309,
+      "name": "Mi Razon De Ser",
+      "url": "https://open.spotify.com/track/6RLB0Jw4gg5uYpHyekjQSI"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 211906,
       "name": "Moscas en la Casa",
       "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "Bajo La Mesa",
+        "url": "https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "Bajo La Mesa",
+      "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
     },
     {
       "added_at": "2022-02-01 00:50:26",
@@ -1533,22 +1533,6 @@
       "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
     },
     {
-      "added_at": "2022-02-18 04:06:10",
-      "album": {
-        "name": "Llamada Perdida",
-        "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "Llamada Perdida",
-      "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
-    },
-    {
       "added_at": "2021-10-21 15:13:27",
       "album": {
         "name": "Oye",
@@ -1569,22 +1553,6 @@
       "url": "https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE"
     },
     {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "30 de Febrero",
-        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 194386,
-      "name": "No Pasa Nada",
-      "url": "https://open.spotify.com/track/6Gusd5o0sQD1jmmoQlvNw4"
-    },
-    {
       "added_at": "2022-04-01 06:00:00",
       "album": {
         "name": "Un Nuevo Amor",
@@ -1601,6 +1569,22 @@
       "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
     },
     {
+      "added_at": "2022-02-18 04:06:10",
+      "album": {
+        "name": "Llamada Perdida",
+        "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "Llamada Perdida",
+      "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
+    },
+    {
       "added_at": "2021-10-21 15:13:27",
       "album": {
         "name": "Franco De Vita En Primera Fila",
@@ -1615,6 +1599,26 @@
       "duration_ms": 218760,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "999 (with Camilo)",
+        "url": "https://open.spotify.com/album/1ku34hDkNqM7caSllxf5Tu"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 224168,
+      "name": "999 (with Camilo)",
+      "url": "https://open.spotify.com/track/0EtuSDTRJYUwlPf4y6coIz"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1659,26 +1663,6 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "999 (with Camilo)",
-        "url": "https://open.spotify.com/album/1ku34hDkNqM7caSllxf5Tu"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 224168,
-      "name": "999 (with Camilo)",
-      "url": "https://open.spotify.com/track/0EtuSDTRJYUwlPf4y6coIz"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
         "name": "Mas Turbada Que Nunca",
         "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 235200,
       "name": "El Recuento de los Da\u00f1os",
       "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "30 de Febrero",
+        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "No Pasa Nada",
+      "url": "https://open.spotify.com/track/6Gusd5o0sQD1jmmoQlvNw4"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
+        "name": "Sube",
+        "url": "https://open.spotify.com/album/4G2BGiu4lG5GNW6LR9oWb0"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "M\u00e1s Que Amigos",
+      "url": "https://open.spotify.com/track/06PcFr42yEwK5Dv2cdkcC0"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 279000,
       "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
       "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
-    },
-    {
-      "added_at": "2022-11-24 22:46:18",
-      "album": {
-        "name": "Un Viaje a Todas Partes (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/1BQBLXaMxMEwSsnuxTgdbE"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Un Viaje a Todas Partes - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/12AyVdnjbSyH00nrZXowIl"
     },
     {
       "added_at": "2022-07-26 14:18:45",
@@ -1761,20 +1761,20 @@
       "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
     },
     {
-      "added_at": "2021-10-21 15:13:27",
+      "added_at": "2022-11-24 22:46:18",
       "album": {
-        "name": "Sube",
-        "url": "https://open.spotify.com/album/4G2BGiu4lG5GNW6LR9oWb0"
+        "name": "Un Viaje a Todas Partes (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/1BQBLXaMxMEwSsnuxTgdbE"
       },
       "artists": [
         {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 177640,
-      "name": "M\u00e1s Que Amigos",
-      "url": "https://open.spotify.com/track/06PcFr42yEwK5Dv2cdkcC0"
+      "duration_ms": 210000,
+      "name": "Un Viaje a Todas Partes - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/12AyVdnjbSyH00nrZXowIl"
     }
   ],
   "unique_name": "Radio Coraz\u00f3n",

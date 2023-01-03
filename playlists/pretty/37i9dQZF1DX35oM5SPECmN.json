@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2424735,
+  "num_followers": 2424694,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDVlZjNlZjQ0YTQzYTVmNjZhOTMxMTgyZWQ5ZTVkMmMx",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDkwMjBiODNiNmQ3ODJlM2EyNWQyY2E4MDQ5YzNmNThh",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Rearrange Us",
-        "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 193186,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/3wcluZHyfuTzIXHfwXVAIE"
+      "duration_ms": 211453,
+      "name": "Mountain Sound",
+      "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "Mountain Sound",
-      "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Milo Greene",
         "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
       },
@@ -235,6 +219,38 @@
       "duration_ms": 204213,
       "name": "1957",
       "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Rearrange Us",
+        "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/3wcluZHyfuTzIXHfwXVAIE"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -255,22 +271,6 @@
       "duration_ms": 209711,
       "name": "Coast",
       "url": "https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Remind Me Tomorrow",
-        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 198973,
       "name": "I\u2019m On Your Side",
       "url": "https://open.spotify.com/track/3rBi3Y2miFgPHm8OAcLRoL"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "Heart Beats",
         "url": "https://open.spotify.com/album/3tt2SVYuamD48tewEdDqza"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 195706,
       "name": "Own Alone",
       "url": "https://open.spotify.com/track/2wSJmOCCeO3Nvq1eRqJuTD"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Expectations",
-      "url": "https://open.spotify.com/track/5j5bXVwxBapNPj0MbYBa6f"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "By The Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 262866,
       "name": "Hold Out Your Hand",
       "url": "https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "Expectations",
+      "url": "https://open.spotify.com/track/5j5bXVwxBapNPj0MbYBa6f"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "A Beautiful Life",
-        "url": "https://open.spotify.com/album/0F2pKTWsWxkd0RfW59EV49"
+        "name": "Covers One",
+        "url": "https://open.spotify.com/album/34WkSeCkKh4wMsz7AFtU0F"
       },
       "artists": [
         {
-          "name": "Heartless Bastards",
-          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
+          "name": "The Wind and The Wave",
+          "url": "https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy"
         }
       ],
-      "duration_ms": 244160,
-      "name": "How Low",
-      "url": "https://open.spotify.com/track/0WLJjIjP8YBCyLZIClsmKW"
+      "duration_ms": 249586,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/5hOaRdlUqUSZ5nv8kQx1DF"
     }
   ],
   "unique_name": "Run Wild",

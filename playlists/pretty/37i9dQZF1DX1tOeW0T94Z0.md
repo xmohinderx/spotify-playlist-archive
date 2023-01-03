@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Kardinal Offishall
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,716 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,724 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 30 | [Back For More \(featuring Kardinal Offishall\)](https://open.spotify.com/track/2UBTQWYASPvWU1FAJ5pUjx) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Back For More](https://open.spotify.com/album/6sG9BpyHGpCC3xZgU1JNZz) | 3:54 |
 | 31 | [Still Too Much](https://open.spotify.com/track/5Y3CKN987KSm4POS1Qelea) | [Ghetto Concept](https://open.spotify.com/artist/7dQsyUecbPiqTSDbVWJDaU), [Ironside](https://open.spotify.com/artist/3QkETber5Vjiab0nJZJhBf), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Maestro Fresh Wes](https://open.spotify.com/artist/1dwKQTuExr4n8IwmXzyN2K), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1), [Red\-1 of Rascalz](https://open.spotify.com/artist/3fqp4orZdkSAxLDhNchKJ4) | [Still Too Much](https://open.spotify.com/album/5LZLZsykNszXzZlRLenTN2) | 5:18 |
 | 32 | [Successful \(feat\. Trey Songz & Lil Wayne\)](https://open.spotify.com/track/6NwhtCYkfwWlcR62Ac4E7y) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 6:15 |
-| 33 | [Seven Day Fool](https://open.spotify.com/track/2PL3PBj9UUJzU3O3M85nIj) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Revival](https://open.spotify.com/album/7fjR0khZYoo95oW4RtHOkg) | 3:25 |
+| 33 | [Seven Day Fool](https://open.spotify.com/track/68Vb8dhUtY7xXgAc9WONXc) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Revival](https://open.spotify.com/album/2PpxaPsS6U1bhDNG2sMf2q) | 3:25 |
 | 34 | [Let Me f/ KARDINAL OFFISHALL \- Radio Edit](https://open.spotify.com/track/21ufU0oFWoqQzOBcY58gLk) | [Melanie Durrant](https://open.spotify.com/artist/24ugOdZDzBvFLq5MGOZhGg), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Let Me](https://open.spotify.com/album/1D3SvZpse0qZ8CBiNtQvAj) | 3:40 |
 | 35 | [Magic Touch \- Extended](https://open.spotify.com/track/1YnpOewGrWskSENwS05FON) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Magic Touch](https://open.spotify.com/album/3ulZv9agxM6bBn0cq1dzll) | 3:49 |
 | 36 | [Still Believe in Love](https://open.spotify.com/track/5GcRGfXAsjnzDqRB3Qz0un) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [Resurrected](https://open.spotify.com/album/5MQcm3NqGGIxHPpqwupuXy) | 3:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 74 | [Rap Passion \(feat\. Red One\)](https://open.spotify.com/track/0OKl5o9g4coiF36u9UXCzq) | [Checkmate](https://open.spotify.com/artist/6nfguy4Wxd0sQ8Bq7O3zYT), [The Red One](https://open.spotify.com/artist/5hXGIlHB5bApAiYvcaEhiP) | [Welcome To The Game](https://open.spotify.com/album/5RUtDILSiQz96aSdNM1a1o) | 4:33 |
 | 75 | [Superstar](https://open.spotify.com/track/3vaML1rAVord8FBk0XxzhR) | [Ivana Santilli](https://open.spotify.com/artist/73yYSgzrqoynMAdhF2cEOr) | [Corduroy Boogie](https://open.spotify.com/album/326EQJeyBJOhrMvSX6uMAB) | 5:36 |
 
-Snapshot ID: `MTY3MjI2MjUxNCwwMDAwMDAwMGNkYTllYWYzNjM3NTYxODJkOGExNzM2Y2Y3NzNhNDM4`
+Snapshot ID: `MTY3MjI2MjUxNCwwMDAwMDAwMGQ2NmNhMTdlODljMGFjZjY4YmQ3ZTI5Zjg1ODAyMWVj`

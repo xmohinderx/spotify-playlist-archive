@@ -1,12 +1,12 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1025147,
+  "num_followers": 1025302,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGQ2NGM0YjkwZjFiNTZmYWRmYzczOWI5NzUzMzYzMzMw",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGFmZmRlOGJiODQ4ZmRkMTQxMjgxZDY3ZTc0YTNhY2Q1",
   "tracks": [
     {
       "added_at": "2022-12-08 23:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 202395,
-      "name": "Lavender Haze",
-      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -247,6 +231,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 202395,
+      "name": "Lavender Haze",
+      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },
@@ -259,22 +259,6 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -299,6 +283,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Shirt",
-        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181830,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181830,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -551,26 +551,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 218586,
-      "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Forget Me",
         "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
       },
@@ -583,6 +563,22 @@
       "duration_ms": 203472,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Calm Down",
+        "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -607,22 +603,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Calm Down",
-        "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 218586,
+      "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
       },
@@ -703,54 +687,6 @@
       "duration_ms": 209026,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Midnights (3am Edition)",
-        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/02Zkkf2zMkwRGQjZ7T4p8f"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
-      },
-      "artists": [
-        {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 171743,
-      "name": "double take",
-      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -775,38 +711,66 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Pointless",
-        "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 228988,
-      "name": "Pointless",
-      "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
+      "duration_ms": 216410,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Bam Bam (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
+      "duration_ms": 158840,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 171743,
+      "name": "double take",
+      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/02Zkkf2zMkwRGQjZ7T4p8f"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -831,6 +795,42 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Pointless",
+        "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 228988,
+      "name": "Pointless",
+      "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Midnights (3am Edition)",
-        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 260361,
-      "name": "Would've, Could've, Should've",
-      "url": "https://open.spotify.com/track/0aV5uARAknQgYhBaK944FP"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -911,22 +895,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "BORN PINK",
-        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 175889,
-      "name": "Shut Down",
-      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "CHARLIE",
         "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
@@ -943,18 +911,18 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Midnights (3am Edition)",
-        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 174782,
-      "name": "Midnight Rain",
-      "url": "https://open.spotify.com/track/6Nl7KyvjkFncGsjB49SxLl"
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -975,6 +943,22 @@
       "duration_ms": 159123,
       "name": "For My Hand (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 260361,
+      "name": "Would've, Could've, Should've",
+      "url": "https://open.spotify.com/track/0aV5uARAknQgYhBaK944FP"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1047,6 +1031,22 @@
       "duration_ms": 227395,
       "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 174782,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/6Nl7KyvjkFncGsjB49SxLl"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Maybe You\u2019re The Problem",
+        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 190318,
+      "name": "Maybe You\u2019re The Problem",
+      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown)",
         "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Maybe You\u2019re The Problem",
-        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 190318,
-      "name": "Maybe You\u2019re The Problem",
-      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "everything sucks",
-        "url": "https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO"
-      },
-      "artists": [
-        {
-          "name": "vaultboy",
-          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
-        }
-      ],
-      "duration_ms": 115401,
-      "name": "everything sucks",
-      "url": "https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 236906,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "everything sucks",
+        "url": "https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "duration_ms": 115401,
+      "name": "everything sucks",
+      "url": "https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Weapons",
-        "url": "https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO"
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 151592,
-      "name": "Weapons",
-      "url": "https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E"
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+        "name": "Weapons",
+        "url": "https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+      "duration_ms": 151592,
+      "name": "Weapons",
+      "url": "https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1695,22 +1695,6 @@
       "duration_ms": 206772,
       "name": "she's all i wanna be",
       "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/18zQTt3ifDv6iLni2YuXMg"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1747,22 +1731,34 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "brent ii",
-        "url": "https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2"
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
       },
       "artists": [
         {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        },
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 174586,
-      "name": "this is how you fall in love",
-      "url": "https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS"
+      "duration_ms": 213333,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/18zQTt3ifDv6iLni2YuXMg"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 187940,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw"
     }
   ],
   "unique_name": "Pop Right Now",

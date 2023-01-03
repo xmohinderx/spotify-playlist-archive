@@ -4,7 +4,7 @@
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-75 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/6L0IFMoxZABDTeTkmPaFPR)
+76 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/6L0IFMoxZABDTeTkmPaFPR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [El Comandante](https://open.spotify.com/track/5ZZIduUosHfi5GQQsbhGGu) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comandante](https://open.spotify.com/album/0vumH1IfChTf4mBo9iJtOM) | 2:14 | 2022-06-01 | 2022-12-08 |
 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 | 2022-06-01 |  |
 | [El De La P](https://open.spotify.com/track/3iFhFNQ1TC3OmkPGEb4bwB) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 3:16 | 2022-06-01 | 2022-10-13 |
-| [El De La S](https://open.spotify.com/track/2EJ690TBn8abbcqJiml4X9) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:22 | 2022-06-01 |  |
+| [El De La S](https://open.spotify.com/track/2EJ690TBn8abbcqJiml4X9) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:22 | 2022-06-01 | 2023-01-03 |
 | [El Del Palenque](https://open.spotify.com/track/6LWj1Vkb8eAtvGm4kAc2bD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Del Palenque](https://open.spotify.com/album/4yWgittlnciR60xapf9IYH) | 3:23 | 2022-12-26 |  |
 | [El Dinero No Me Cambia \- En Vivo](https://open.spotify.com/track/20PIire7LH4Wjkc6zVHbAS) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Dinero No Me Cambia \(En Vivo\)](https://open.spotify.com/album/5iVAYE7Ra3Avw3ygesMP2Z) | 3:16 | 2022-07-26 |  |
 | [El Gabito \(En Vivo\)](https://open.spotify.com/track/2KlWJQJY4iQ0wacmBrBFdj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Gabito \(En Vivo\)](https://open.spotify.com/album/1oWBe0hMfCUMrr1PgH4mDo) | 3:17 | 2022-06-01 | 2022-10-13 |
@@ -55,6 +55,7 @@
 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 | 2022-06-01 |  |
 | [Los Mire Con Talento](https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Los Mire Con Talento](https://open.spotify.com/album/55ALbKLzliLSlrbVRcWft9) | 2:43 | 2022-06-01 |  |
 | [Los Pajaros \(En Vivo\)](https://open.spotify.com/track/5cDiDT7E88eUXiVhkUYEpf) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Los Pajaros \(En Vivo\)](https://open.spotify.com/album/3V1HnCC6js35Pw7NFctA6Y) | 2:31 | 2022-08-09 | 2022-08-11 |
+| [Malas Rachas](https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas](https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG) | 4:20 | 2023-01-02 |  |
 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 | 2022-06-01 |  |
 | [Me Veran Relajado](https://open.spotify.com/track/4rNCNL3SaHHDe77U7gMez1) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jesus Payan e Imparables](https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup) | [Me Veran Relajado](https://open.spotify.com/album/3IOA8hIuW1vRN4qA5lIvGl) | 3:22 | 2022-10-05 | 2022-10-08 |
 | [Mi Momento](https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 2:42 | 2022-11-12 |  |

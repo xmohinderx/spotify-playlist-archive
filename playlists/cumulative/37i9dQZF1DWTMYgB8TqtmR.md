@@ -4,7 +4,7 @@
 
 > It's Hits – bästa och största hitsen just nu.
 
-338 songs - 17 hr 1 min - [published](https://open.spotify.com/playlist/5FW2JUcG1GBhEhBYMh9n3a)
+339 songs - 17 hr 4 min - [published](https://open.spotify.com/playlist/5FW2JUcG1GBhEhBYMh9n3a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-12-16 | 2022-03-12 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-21 | 2022-10-14 |
 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 | 2022-07-14 | 2022-07-29 |
-| [Down In Atlanta](https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Down In Atlanta](https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp) | 2:44 | 2022-11-17 |  |
+| [Down In Atlanta](https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Down In Atlanta](https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp) | 2:44 | 2022-11-17 | 2023-01-03 |
 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 | 2022-05-06 | 2022-05-27 |
 | [Dum](https://open.spotify.com/track/1PcFYA0p9UxvQkLe18s8gz) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan \(Deluxe\)](https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt) | 2:13 | 2022-10-21 |  |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-12-16 | 2022-03-04 |
@@ -312,6 +312,7 @@
 | [Två steg från helvetet](https://open.spotify.com/track/2Rnovc1XuaXP1yc7X1AqbK) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Två steg från helvetet](https://open.spotify.com/album/6tdvSwpWnFTRkpnvX0CP76) | 3:18 | 2022-02-24 | 2022-05-18 |
 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 | 2022-09-29 | 2022-10-13 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-22 |  |
+| [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-01-02 |  |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-03-31 | 2022-04-15 |
 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-01-20 | 2022-02-02 |
 | [Ut med allt](https://open.spotify.com/track/7Ek3bY3DecGbIaRKo7aQVQ) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Ut med allt](https://open.spotify.com/album/3j4hIguJ9ftVQI6J4ZUGSE) | 2:21 | 2022-04-11 | 2022-07-08 |

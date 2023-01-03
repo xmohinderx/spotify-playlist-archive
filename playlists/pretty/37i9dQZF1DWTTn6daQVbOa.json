@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1970s.",
-  "num_followers": 396584,
+  "num_followers": 397117,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDc3OTIwNSwwMDAwMDAwMGJkOGQ1NTFjNDFiNDBjODIwYWY5NDM4MTViNzNjNWM1",
+  "snapshot_id": "MTY2NDc3OTIwNSwwMDAwMDAwMDEwOWY3ZTIyODYzMjU4ODUwNzNkNWZkYTcwYTRjZTBm",
   "tracks": [
     {
       "added_at": "2022-09-23 05:26:33",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 214240,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
@@ -187,18 +171,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+      "duration_ms": 214240,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -287,6 +271,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Commodores",
         "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
@@ -299,22 +299,6 @@
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 192826,
-      "name": "Goodbye Yellow Brick Road - Remastered 2014",
-      "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -443,6 +427,22 @@
       "duration_ms": 286493,
       "name": "What You Won't Do for Love",
       "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 192826,
+      "name": "Goodbye Yellow Brick Road - Remastered 2014",
+      "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 293120,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 164733,
       "name": "I Can See Clearly Now - Edit",
       "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 293120,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Nights Are Forever",
-        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 159106,
-      "name": "I'd Really Love to See You Tonight",
-      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Don't Shoot Me I'm Only The Piano Player",
         "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 234666,
       "name": "Daniel",
       "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Nights Are Forever",
+        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 159106,
+      "name": "I'd Really Love to See You Tonight",
+      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Anytime... Anywhere",
-        "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
-      },
-      "artists": [
-        {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
-        }
-      ],
-      "duration_ms": 220520,
-      "name": "We're All Alone",
-      "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "We Must Believe In Magic",
         "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 157653,
       "name": "Don't It Make My Brown Eyes Blue",
       "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Anytime... Anywhere",
+        "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
+      },
+      "artists": [
+        {
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
+        }
+      ],
+      "duration_ms": 220520,
+      "name": "We're All Alone",
+      "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Careless",
+        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Eric Carmen",
         "url": "https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 228933,
       "name": "Sorry Seems To Be The Hardest Word",
       "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Careless",
-        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
-      },
-      "artists": [
-        {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "On And On",
-      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Sky's The Limit",
-        "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 228160,
-      "name": "Just My Imagination (Running Away With Me)",
-      "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Turnstiles",
         "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 362400,
       "name": "New York State of Mind",
       "url": "https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Sky's The Limit",
+        "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 228160,
+      "name": "Just My Imagination (Running Away With Me)",
+      "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1651,38 +1651,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Closeup",
-        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "My Eyes Adored You",
-      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
-      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Trafalgar",
         "url": "https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV"
       },
@@ -1695,6 +1663,22 @@
       "duration_ms": 237826,
       "name": "How Can You Mend A Broken Heart",
       "url": "https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Closeup",
+        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "My Eyes Adored You",
+      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1731,6 +1715,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
+      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Feel Like Makin' Love",
         "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
       },
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 452773,
+      "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Red Rose Speedway",
         "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
       },
@@ -1791,26 +1811,6 @@
       "duration_ms": 276000,
       "name": "(They Long To Be) Close To You",
       "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 452773,
-      "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Carpenters",
-        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 218893,
-      "name": "Rainy Days And Mondays",
-      "url": "https://open.spotify.com/track/5cbZDpFu1hTwaU7hDQpf13"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Life Beyond L.A.",
         "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 161906,
       "name": "The Most Beautiful Girl",
       "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Carpenters",
+        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 218893,
+      "name": "Rainy Days And Mondays",
+      "url": "https://open.spotify.com/track/5cbZDpFu1hTwaU7hDQpf13"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Hair Of The Dog",
-        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
-      },
-      "artists": [
-        {
-          "name": "Nazareth",
-          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "2 Hot!",
         "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 345240,
       "name": "Reunited",
       "url": "https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Hair Of The Dog",
+        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2121,22 +2121,6 @@
       "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
     },
     {
-      "added_at": "2022-10-03 06:40:05",
-      "album": {
-        "name": "Do You Wanna Go Party",
-        "url": "https://open.spotify.com/album/1VyflnFsIEfcxPj4JgM5QR"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Please Don't Go - Single Version",
-      "url": "https://open.spotify.com/track/6dw6BquK0Mv72p6HpusqKN"
-    },
-    {
       "added_at": "2022-09-23 05:26:33",
       "album": {
         "name": "JT",
@@ -2151,6 +2135,22 @@
       "duration_ms": 196800,
       "name": "Handy Man",
       "url": "https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ"
+    },
+    {
+      "added_at": "2022-10-03 06:40:05",
+      "album": {
+        "name": "Do You Wanna Go Party",
+        "url": "https://open.spotify.com/album/1VyflnFsIEfcxPj4JgM5QR"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Please Don't Go - Single Version",
+      "url": "https://open.spotify.com/track/6dw6BquK0Mv72p6HpusqKN"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 291866,
+      "name": "The Name Of The Game",
+      "url": "https://open.spotify.com/track/1lDo24S34NvI1pAg7Oxldc"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Classic Masters",
         "url": "https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo"
       },
@@ -2183,22 +2199,6 @@
       "duration_ms": 253213,
       "name": "Sad Eyes - Remastered 2002",
       "url": "https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "The Dream Weaver",
-        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
-      },
-      "artists": [
-        {
-          "name": "Gary Wright",
-          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "Dream Weaver",
-      "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 277413,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp"
       },
@@ -2251,18 +2235,34 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
+        "name": "The Dream Weaver",
+        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Gary Wright",
+          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
         }
       ],
-      "duration_ms": 291866,
-      "name": "The Name Of The Game",
-      "url": "https://open.spotify.com/track/1lDo24S34NvI1pAg7Oxldc"
+      "duration_ms": 256173,
+      "name": "Dream Weaver",
+      "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 277413,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "Oh My Love - Remastered 2010",
-      "url": "https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Carpenters",
         "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 231506,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/1Gv6f7m5ZNDcInxGA8PsLS"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "Oh My Love - Remastered 2010",
+      "url": "https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1"
     },
     {
       "added_at": "2022-09-23 05:26:33",

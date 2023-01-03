@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 183547,
       "name": "ARRANCARMELO",
       "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 160212,
       "name": "Bar",
       "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
@@ -2731,7 +2731,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 197647,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/1gYtMKmICjH8KQG3MheNJt"
@@ -3337,7 +3337,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 182610,
       "name": "GIVENCHY",
       "url": "https://open.spotify.com/track/2bbwjxA68m9PHZFWgF1fze"
@@ -5141,7 +5141,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 211896,
       "name": "Me Encanta",
       "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
@@ -6337,6 +6337,24 @@
       "duration_ms": 258540,
       "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
       "url": "https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM"
+    },
+    {
+      "album": {
+        "name": "Pa\u2019 la Selecci\u00f3n",
+        "url": "https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186735,
+      "name": "Pa\u2019 la Selecci\u00f3n",
+      "url": "https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO"
     },
     {
       "album": {
@@ -9028,6 +9046,24 @@
     },
     {
       "album": {
+        "name": "Una Cerveza",
+        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240853,
+      "name": "Una Cerveza",
+      "url": "https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII"
+    },
+    {
+      "album": {
         "name": "Enoc",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -9689,7 +9725,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 191606,
       "name": "\u00c9xtasis",
       "url": "https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22"

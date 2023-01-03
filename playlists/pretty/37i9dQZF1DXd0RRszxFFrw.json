@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 43981,
+  "num_followers": 43991,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDI5NzNmZTdkZmU1OTRhNjFmMzk4MGI5YzA0MmUzMjU3",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGFhYjg0OTRkNTAwNjkwMmM3YWM5MmYxYmQ1OGQzOTNh",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Guitar Pop Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy"
-      },
-      "artists": [
-        {
-          "name": "Edy Hafler",
-          "url": "https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T"
-        }
-      ],
-      "duration_ms": 150101,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Vibrante",
         "url": "https://open.spotify.com/album/4fY4gJd79MfpOGKgFLRNWc"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 196111,
       "name": "Vibrante",
       "url": "https://open.spotify.com/track/3hzl8wmLDAMg1KCGz93bo9"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Guitar Pop Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy"
+      },
+      "artists": [
+        {
+          "name": "Edy Hafler",
+          "url": "https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T"
+        }
+      ],
+      "duration_ms": 150101,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "La Fuente",
-        "url": "https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J"
-      },
-      "artists": [
-        {
-          "name": "Muniesa",
-          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "La Fuente",
-      "url": "https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Mediterr\u00e1neo",
         "url": "https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 108053,
       "name": "Adelita",
       "url": "https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "La Fuente",
+        "url": "https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J"
+      },
+      "artists": [
+        {
+          "name": "Muniesa",
+          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "La Fuente",
+      "url": "https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -579,26 +579,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        }
-      ],
-      "duration_ms": 241412,
-      "name": "Bossa de Leblon",
-      "url": "https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Cinque Terre",
         "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 142560,
       "name": "Bossa Bravado",
       "url": "https://open.spotify.com/track/6okyzUui51pNetfcXT40zu"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        }
+      ],
+      "duration_ms": 241412,
+      "name": "Bossa de Leblon",
+      "url": "https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Cinema Latino Vol. 1",
-        "url": "https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 107434,
-      "name": "Mexico 1910",
-      "url": "https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Ibiza Sunset",
         "url": "https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8"
       },
@@ -799,22 +783,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Commitments",
-        "url": "https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st"
-      },
-      "artists": [
-        {
-          "name": "Affe Reidhoff",
-          "url": "https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0"
-        }
-      ],
-      "duration_ms": 194944,
-      "name": "Commitments",
-      "url": "https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Ni\u00f1o Josele",
         "url": "https://open.spotify.com/album/79653plha39OpqECC3HCln"
       },
@@ -827,6 +795,38 @@
       "duration_ms": 245466,
       "name": "Madera Negra",
       "url": "https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Cinema Latino Vol. 1",
+        "url": "https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "duration_ms": 107434,
+      "name": "Mexico 1910",
+      "url": "https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Commitments",
+        "url": "https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st"
+      },
+      "artists": [
+        {
+          "name": "Affe Reidhoff",
+          "url": "https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0"
+        }
+      ],
+      "duration_ms": 194944,
+      "name": "Commitments",
+      "url": "https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Parque De Mar\u00eda Luisa",
+        "url": "https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI"
+      },
+      "artists": [
+        {
+          "name": "Rafael Riqueni",
+          "url": "https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4"
+        }
+      ],
+      "duration_ms": 134578,
+      "name": "Tiempos Pasados",
+      "url": "https://open.spotify.com/track/52Y2oYV8SXt292vc4I7NFO"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Meu cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 147179,
       "name": "Ilha Do Amor",
       "url": "https://open.spotify.com/track/0UXh0DcW5J0QSzeq2oORbi"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Parque De Mar\u00eda Luisa",
-        "url": "https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI"
-      },
-      "artists": [
-        {
-          "name": "Rafael Riqueni",
-          "url": "https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4"
-        }
-      ],
-      "duration_ms": 134578,
-      "name": "Tiempos Pasados",
-      "url": "https://open.spotify.com/track/52Y2oYV8SXt292vc4I7NFO"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Cafe de l'Art, Vol. 1 (14 Guitar Duets Themes)",
+        "url": "https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ"
+      },
+      "artists": [
+        {
+          "name": "Panagiotis Margaris",
+          "url": "https://open.spotify.com/artist/2UUloMjgTaoxRyWKK9mK0f"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Tango en Skai - Instrumental",
+      "url": "https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "The Andalusian Guitar",
         "url": "https://open.spotify.com/album/0YKpmdeKwm9A9d8VZANavZ"
       },
@@ -1139,34 +1155,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Cafe de l'Art, Vol. 1 (14 Guitar Duets Themes)",
-        "url": "https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ"
+        "name": "Colours of Greece / Instrumentals of Greek Music",
+        "url": "https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w"
       },
       "artists": [
         {
-          "name": "Panagiotis Margaris",
-          "url": "https://open.spotify.com/artist/2UUloMjgTaoxRyWKK9mK0f"
+          "name": "Yiorgos Zabetas",
+          "url": "https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM"
         }
       ],
-      "duration_ms": 173800,
-      "name": "Tango en Skai - Instrumental",
-      "url": "https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Contemporary Spanish Guitar: Kindred Spirits",
-        "url": "https://open.spotify.com/album/61scRHtRDhLo89WfuniFJV"
-      },
-      "artists": [
-        {
-          "name": "Jason Carter",
-          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
-        }
-      ],
-      "duration_ms": 402466,
-      "name": "Porgy and Bess: Summertime - The Sound of Music: My Favorite Things - Autumn Leaves (arr. J. Carter)",
-      "url": "https://open.spotify.com/track/6XhpnareRxv7kVHE4nVpXt"
+      "duration_ms": 160560,
+      "name": "Tavernas' Hasapikos - Instrumental",
+      "url": "https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1187,34 +1187,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Colours of Greece / Instrumentals of Greek Music",
-        "url": "https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w"
+        "name": "Contemporary Spanish Guitar: Kindred Spirits",
+        "url": "https://open.spotify.com/album/61scRHtRDhLo89WfuniFJV"
       },
       "artists": [
         {
-          "name": "Yiorgos Zabetas",
-          "url": "https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM"
+          "name": "Jason Carter",
+          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
         }
       ],
-      "duration_ms": 160560,
-      "name": "Tavernas' Hasapikos - Instrumental",
-      "url": "https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Classical Guitar Latin Style",
-        "url": "https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu"
-      },
-      "artists": [
-        {
-          "name": "William Wilson",
-          "url": "https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "Libertango",
-      "url": "https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7"
+      "duration_ms": 402466,
+      "name": "Porgy and Bess: Summertime - The Sound of Music: My Favorite Things - Autumn Leaves (arr. J. Carter)",
+      "url": "https://open.spotify.com/track/6XhpnareRxv7kVHE4nVpXt"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1235,6 +1219,22 @@
       "duration_ms": 370773,
       "name": "Dan-Son",
       "url": "https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Classical Guitar Latin Style",
+        "url": "https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu"
+      },
+      "artists": [
+        {
+          "name": "William Wilson",
+          "url": "https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba"
+        }
+      ],
+      "duration_ms": 246040,
+      "name": "Libertango",
+      "url": "https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7"
     },
     {
       "added_at": "2022-10-27 22:01:00",

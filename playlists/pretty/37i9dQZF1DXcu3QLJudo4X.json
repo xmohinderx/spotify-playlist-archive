@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 39140,
+  "num_followers": 39248,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk4MTQ3MCwwMDAwMDAwMGRjNzg0MWZjOGFhZTFhNDdhYjMxNThmYWIxOWQ2MDI4",
+  "snapshot_id": "MTY2OTk4MTQ3MCwwMDAwMDAwMGQ4YmMzMTJhMjM1ZTg3MTFmYjJmNWI1YWI3ODJlYjAy",
   "tracks": [
     {
       "added_at": "2022-12-02 11:44:30",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-12-02 11:44:30",
       "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
+    },
+    {
+      "added_at": "2022-12-02 11:44:30",
+      "album": {
         "name": "1956-1958 Cobra Recordings",
         "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 167466,
       "name": "Spoonful - Single Version",
       "url": "https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm"
-    },
-    {
-      "added_at": "2022-12-02 11:44:30",
-      "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
     },
     {
       "added_at": "2022-12-02 11:44:30",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-12-02 11:44:30",
       "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "Key To The Highway",
+      "url": "https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL"
+    },
+    {
+      "added_at": "2022-12-02 11:44:30",
+      "album": {
         "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
         "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
       },
@@ -767,38 +783,6 @@
     {
       "added_at": "2022-12-02 11:44:30",
       "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "Key To The Highway",
-      "url": "https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL"
-    },
-    {
-      "added_at": "2022-12-02 11:44:30",
-      "album": {
-        "name": "Singin' The Blues",
-        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Everyday I Have The Blues",
-      "url": "https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE"
-    },
-    {
-      "added_at": "2022-12-02 11:44:30",
-      "album": {
         "name": "The Best In Blues",
         "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
       },
@@ -819,6 +803,38 @@
     {
       "added_at": "2022-12-02 11:44:30",
       "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
+    },
+    {
+      "added_at": "2022-12-02 11:44:30",
+      "album": {
+        "name": "Singin' The Blues",
+        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Everyday I Have The Blues",
+      "url": "https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE"
+    },
+    {
+      "added_at": "2022-12-02 11:44:30",
+      "album": {
         "name": "Blues With A Feeling",
         "url": "https://open.spotify.com/album/7l6XVI97Qxjt0KPJEiYFjB"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 225733,
       "name": "(You've Got To) Love Her With A Feeling",
       "url": "https://open.spotify.com/track/1lEbKg3mNA97wDSAXj2xsY"
-    },
-    {
-      "added_at": "2022-12-02 11:44:30",
-      "album": {
-        "name": "The Very Best Of Albert King",
-        "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 154813,
-      "name": "Crosscut Saw",
-      "url": "https://open.spotify.com/track/1uu03dv8HEchMBXcR08uke"
     }
   ],
   "unique_name": "Blues Standards",

@@ -1,12 +1,12 @@
 {
   "description": "L'autoroute des tubes fran\u00e7ais !",
-  "num_followers": 59571,
+  "num_followers": 59662,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQwNDE1MSwwMDAwMDAwMDEzZTY4Y2YyZjg0YTFhZWQ1NTFiNGYxYzI1Y2I4OWRm",
+  "snapshot_id": "MTY3MDQwNDE1MSwwMDAwMDAwMDc3MDkxZGMzMTRmNjQxZTIzZGExNzFmZTYwNTU4MjUy",
   "tracks": [
     {
       "added_at": "2022-12-07 09:09:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "C\u0153ur",
-        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Le reste",
-      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
-    },
-    {
-      "added_at": "2022-12-07 09:09:11",
-      "album": {
         "name": "Sur La Route De Memphis",
         "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 173933,
       "name": "Sur la route de Memphis",
       "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
+    },
+    {
+      "added_at": "2022-12-07 09:09:11",
+      "album": {
+        "name": "C\u0153ur",
+        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Le reste",
+      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Pri\u00e8re pa\u00efenne",
-      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
-    },
-    {
-      "added_at": "2022-12-07 09:09:11",
-      "album": {
         "name": "Palais d'argile",
         "url": "https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi"
       },
@@ -519,22 +503,6 @@
       "duration_ms": 214464,
       "name": "Monde Nouveau",
       "url": "https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd"
-    },
-    {
-      "added_at": "2022-12-07 09:09:11",
-      "album": {
-        "name": "L'Ange De Mon D\u00e9mon",
-        "url": "https://open.spotify.com/album/37lOShWdQxr7gTVjKZm6v0"
-      },
-      "artists": [
-        {
-          "name": "Ridan",
-          "url": "https://open.spotify.com/artist/3SsER7gGsy3a9LlfQ62oxz"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Ulysse",
-      "url": "https://open.spotify.com/track/6OPNvqvtQf9QT5zPh8wDk7"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -555,18 +523,34 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "Br\u00fbler le feu",
-        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
       },
       "artists": [
         {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 164893,
-      "name": "Tu me Play",
-      "url": "https://open.spotify.com/track/1HFU10aC4Bzflxqb7jZnLq"
+      "duration_ms": 249733,
+      "name": "Pri\u00e8re pa\u00efenne",
+      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
+    },
+    {
+      "added_at": "2022-12-07 09:09:11",
+      "album": {
+        "name": "L'Ange De Mon D\u00e9mon",
+        "url": "https://open.spotify.com/album/37lOShWdQxr7gTVjKZm6v0"
+      },
+      "artists": [
+        {
+          "name": "Ridan",
+          "url": "https://open.spotify.com/artist/3SsER7gGsy3a9LlfQ62oxz"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Ulysse",
+      "url": "https://open.spotify.com/track/6OPNvqvtQf9QT5zPh8wDk7"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -583,6 +567,22 @@
       "duration_ms": 123053,
       "name": "La belle vie",
       "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
+    },
+    {
+      "added_at": "2022-12-07 09:09:11",
+      "album": {
+        "name": "Br\u00fbler le feu",
+        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Tu me Play",
+      "url": "https://open.spotify.com/track/1HFU10aC4Bzflxqb7jZnLq"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
+        "name": "la derniere annee",
+        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
+      },
+      "artists": [
+        {
+          "name": "De Palmas",
+          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Sur la route",
+      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
+    },
+    {
+      "added_at": "2022-12-07 09:09:11",
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/0ejCopVV0wK3D6rrlVBOpu"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 250480,
       "name": "Il est o\u00f9 le bonheur",
       "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
-    },
-    {
-      "added_at": "2022-12-07 09:09:11",
-      "album": {
-        "name": "la derniere annee",
-        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
-      },
-      "artists": [
-        {
-          "name": "De Palmas",
-          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Sur la route",
-      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "Cach\u00e9 derri\u00e8re",
-        "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Le pouvoir des fleurs",
-      "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
-    },
-    {
-      "added_at": "2022-12-07 09:09:11",
-      "album": {
         "name": "Les Annees Barclay",
         "url": "https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 189666,
       "name": "Non non rien n'a chang\u00e9",
       "url": "https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m"
+    },
+    {
+      "added_at": "2022-12-07 09:09:11",
+      "album": {
+        "name": "Cach\u00e9 derri\u00e8re",
+        "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Le pouvoir des fleurs",
+      "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
+        "name": "Ailleurs Land",
+        "url": "https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg"
+      },
+      "artists": [
+        {
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+        }
+      ],
+      "duration_ms": 204546,
+      "name": "Ma libert\u00e9 de penser",
+      "url": "https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j"
+    },
+    {
+      "added_at": "2022-12-07 09:09:11",
+      "album": {
         "name": "Mon paradis",
         "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "Ailleurs Land",
-        "url": "https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg"
+        "name": "Week End \u00c0 Rome",
+        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
       },
       "artists": [
         {
-          "name": "Florent Pagny",
-          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
         }
       ],
-      "duration_ms": 204546,
-      "name": "Ma libert\u00e9 de penser",
-      "url": "https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j"
+      "duration_ms": 254453,
+      "name": "Week-end \u00e0 Rome",
+      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -947,18 +963,18 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "Week End \u00c0 Rome",
-        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
+        "name": "Osez Josephine",
+        "url": "https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+          "name": "Alain Bashung",
+          "url": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
         }
       ],
-      "duration_ms": 254453,
-      "name": "Week-end \u00e0 Rome",
-      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
+      "duration_ms": 178173,
+      "name": "Osez Jos\u00e9phine",
+      "url": "https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -979,22 +995,6 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "Osez Josephine",
-        "url": "https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM"
-      },
-      "artists": [
-        {
-          "name": "Alain Bashung",
-          "url": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "Osez Jos\u00e9phine",
-      "url": "https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1"
-    },
-    {
-      "added_at": "2022-12-07 09:09:11",
-      "album": {
         "name": "13",
         "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 326186,
       "name": "Un \u00e9t\u00e9 fran\u00e7ais",
       "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
+    },
+    {
+      "added_at": "2022-12-07 09:09:11",
+      "album": {
+        "name": "Charango",
+        "url": "https://open.spotify.com/album/6poeQP5Vsy8V8cRdqLbn8c"
+      },
+      "artists": [
+        {
+          "name": "Yannick Noah",
+          "url": "https://open.spotify.com/artist/0BCkVcs4QEgfHlvZ7rjSNv"
+        }
+      ],
+      "duration_ms": 195680,
+      "name": "Aux arbres citoyens",
+      "url": "https://open.spotify.com/track/2poOtKwdjc39DRNmY6wRV2"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "Charango",
-        "url": "https://open.spotify.com/album/6poeQP5Vsy8V8cRdqLbn8c"
+        "name": "40 succ\u00e8s en or",
+        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
       },
       "artists": [
         {
-          "name": "Yannick Noah",
-          "url": "https://open.spotify.com/artist/0BCkVcs4QEgfHlvZ7rjSNv"
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
         }
       ],
-      "duration_ms": 195680,
-      "name": "Aux arbres citoyens",
-      "url": "https://open.spotify.com/track/2poOtKwdjc39DRNmY6wRV2"
+      "duration_ms": 448906,
+      "name": "Gigi l'amoroso",
+      "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -1059,22 +1075,6 @@
       "duration_ms": 221600,
       "name": "Amoureuse - Remasteris\u00e9 en 2008",
       "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
-    },
-    {
-      "added_at": "2022-12-07 09:09:11",
-      "album": {
-        "name": "40 succ\u00e8s en or",
-        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
-      },
-      "artists": [
-        {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        }
-      ],
-      "duration_ms": 448906,
-      "name": "Gigi l'amoroso",
-      "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "Dimanche",
-        "url": "https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq"
-      },
-      "artists": [
-        {
-          "name": "Emma Peters",
-          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Le temps passe",
-      "url": "https://open.spotify.com/track/7h10VREXjoiHk7YE9QGfgs"
-    },
-    {
-      "added_at": "2022-12-07 09:09:11",
-      "album": {
         "name": "Grain de sable",
         "url": "https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 229053,
       "name": "Serre-moi",
       "url": "https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm"
+    },
+    {
+      "added_at": "2022-12-07 09:09:11",
+      "album": {
+        "name": "Dimanche",
+        "url": "https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq"
+      },
+      "artists": [
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Le temps passe",
+      "url": "https://open.spotify.com/track/7h10VREXjoiHk7YE9QGfgs"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "PYRAMIDE",
-        "url": "https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0"
-      },
-      "artists": [
-        {
-          "name": "M. Pokora",
-          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
-        }
-      ],
-      "duration_ms": 233800,
-      "name": "Tomb\u00e9",
-      "url": "https://open.spotify.com/track/3EiDyqPIjDDo6F8RS5Lj4t"
-    },
-    {
-      "added_at": "2022-12-07 09:09:11",
-      "album": {
         "name": "Album De Duos",
         "url": "https://open.spotify.com/album/5HgPr5vMIGWGYuqtEXb9qV"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 209733,
       "name": "Le Loir & Cher",
       "url": "https://open.spotify.com/track/2qHhWm8oZ7nNNvTitjEvio"
+    },
+    {
+      "added_at": "2022-12-07 09:09:11",
+      "album": {
+        "name": "PYRAMIDE",
+        "url": "https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "duration_ms": 233800,
+      "name": "Tomb\u00e9",
+      "url": "https://open.spotify.com/track/3EiDyqPIjDDo6F8RS5Lj4t"
     },
     {
       "added_at": "2022-12-07 09:09:11",

@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances.",
-  "num_followers": 22188,
+  "num_followers": 22210,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMGNjYWNmYzVmZjVlZmU2NzUxZTA3ZWE0MzJmODQ1Yjc4",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMGE3ZDhiYjc2M2RlMmZjNjkxMjYzZjU0MjI5MzZlYzZj",
   "tracks": [
     {
       "added_at": "2022-02-10 23:02:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 244213,
-      "name": "Beyond - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Lalah Hathaway Live!",
         "url": "https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71"
       },
@@ -139,34 +123,18 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "AMY (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 152093,
-      "name": "Love Is A Losing Game - Live At The Mercury Music Awards",
-      "url": "https://open.spotify.com/track/1DYCdxNAVNUCAOlAi7aP5o"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2kQ1EcVFOp70CML1HYjRzn"
+        "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 263770,
-      "name": "Teenage Fantasy - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4dSCmsx1GjA7te9KJ6Jm8R"
+      "duration_ms": 244213,
+      "name": "Beyond - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -203,6 +171,22 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
+        "name": "AMY (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 152093,
+      "name": "Love Is A Losing Game - Live At The Mercury Music Awards",
+      "url": "https://open.spotify.com/track/1DYCdxNAVNUCAOlAi7aP5o"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
         "name": "Betty Wright Live",
         "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 215715,
       "name": "It's A Man's Man's Man's World - Live",
       "url": "https://open.spotify.com/track/0Jv7rhNYIFk46JZNdCNbIp"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kQ1EcVFOp70CML1HYjRzn"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 263770,
+      "name": "Teenage Fantasy - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4dSCmsx1GjA7te9KJ6Jm8R"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 319160,
+      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/1izqfeako1qgYLviORVoDT"
       },
@@ -331,6 +347,22 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
+        "name": "AMY (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 285453,
+      "name": "What Is It About Men - Live At North Sea Jazz Festival",
+      "url": "https://open.spotify.com/track/40GTKaedGtzka8dlV4NuqI"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
       },
@@ -343,22 +375,6 @@
       "duration_ms": 317786,
       "name": "What's Going On - Live",
       "url": "https://open.spotify.com/track/1QQgtnvXfArwOCq7zYSE5g"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 319160,
-      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -395,22 +411,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "AMY (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 285453,
-      "name": "What Is It About Men - Live At North Sea Jazz Festival",
-      "url": "https://open.spotify.com/track/40GTKaedGtzka8dlV4NuqI"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
       },
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 177426,
-      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 255320,
       "name": "A Change Is Gonna Come - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 177426,
+      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Live at Recording Oasis",
-        "url": "https://open.spotify.com/album/2wT5rThNPLGqxKGyKUjvjK"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 415864,
-      "name": "Blackbird (Live)",
-      "url": "https://open.spotify.com/track/2XTIXLumlviDE2eP0SpxEj"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "MTV Unplugged No. 2.0",
         "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 226666,
       "name": "I Remember - Live",
       "url": "https://open.spotify.com/track/7vXnfKmzcCXJgRei61vmIc"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Live at Recording Oasis",
+        "url": "https://open.spotify.com/album/2wT5rThNPLGqxKGyKUjvjK"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 415864,
+      "name": "Blackbird (Live)",
+      "url": "https://open.spotify.com/track/2XTIXLumlviDE2eP0SpxEj"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Live (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 374973,
-      "name": "Distant Lover - Live At Oakland Coliseum, CA/1974",
-      "url": "https://open.spotify.com/track/5JUbydhL4lOuxYB4nWAZ0W"
+      "duration_ms": 244973,
+      "name": "Apple Tree",
+      "url": "https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
+        "name": "Live (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 374973,
+      "name": "Distant Lover - Live At Oakland Coliseum, CA/1974",
+      "url": "https://open.spotify.com/track/5JUbydhL4lOuxYB4nWAZ0W"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
         "name": "Natural Wonder",
         "url": "https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 141333,
       "name": "You Are The Sunshine Of My Life - Live/1995",
       "url": "https://open.spotify.com/track/6KVDNjUSJc035LgkrPaGSD"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Apple Tree",
-      "url": "https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
+        "name": "Alive In America",
+        "url": "https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Peg - Live",
+      "url": "https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Alive In America",
-        "url": "https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc"
+        "name": "Curtis Live! (US Release)",
+        "url": "https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp"
       },
       "artists": [
         {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         }
       ],
-      "duration_ms": 259200,
-      "name": "Peg - Live",
-      "url": "https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44"
+      "duration_ms": 227026,
+      "name": "People Get Ready - Live at The Bitter End, NYC",
+      "url": "https://open.spotify.com/track/5fN60U114jgzi8TfhIDcpK"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1115,22 +1131,6 @@
       "duration_ms": 374800,
       "name": "The Ghetto - Live",
       "url": "https://open.spotify.com/track/1ZTKGGmBDAadBT2jDrcpPM"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "Curtis Live! (US Release)",
-        "url": "https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "People Get Ready - Live at The Bitter End, NYC",
-      "url": "https://open.spotify.com/track/5fN60U114jgzi8TfhIDcpK"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Live at Metropolis Studios",
-        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "Family - Live at Metropolis Studios",
-      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Live At The London Palladium",
         "url": "https://open.spotify.com/album/5PY79lSefhMwfRU4v2fIjU"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 381626,
       "name": "Let's Get It On - Live At The London Palladium/1976",
       "url": "https://open.spotify.com/track/0BkJY3UsoBYPCwKBl2ate3"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Live at Metropolis Studios",
+        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Family - Live at Metropolis Studios",
+      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Live on Soundstage",
-        "url": "https://open.spotify.com/album/13WZzcE9qqYGIGYwY8fFFE"
+        "name": "These Songs for You, Live!",
+        "url": "https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY"
       },
       "artists": [
         {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 273933,
-      "name": "I Keep Forgettin' - Live",
-      "url": "https://open.spotify.com/track/3lLdweMPFav5srRwselDyG"
+      "duration_ms": 355400,
+      "name": "I Love You More Than You'll Ever Know - Live at the Bitter End, New York City, 1971",
+      "url": "https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
+        "name": "Live on Soundstage",
+        "url": "https://open.spotify.com/album/13WZzcE9qqYGIGYwY8fFFE"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 273933,
+      "name": "I Keep Forgettin' - Live",
+      "url": "https://open.spotify.com/track/3lLdweMPFav5srRwselDyG"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
         "name": "Curtis Live! (US Release)",
         "url": "https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 196040,
       "name": "I Plan to Stay a Believer - Live at The Bitter End, NYC",
       "url": "https://open.spotify.com/track/6JIfkqGRilj97vEdaLpHaS"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "These Songs for You, Live!",
-        "url": "https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 355400,
-      "name": "I Love You More Than You'll Ever Know - Live at the Bitter End, New York City, 1971",
-      "url": "https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
       "artists": [
         {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 220546,
-      "name": "Add To Me - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
+      "duration_ms": 645040,
+      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1459,6 +1459,22 @@
       "duration_ms": 356493,
       "name": "Say Yes - Live At The House Of Blues, New Orleans / 2003",
       "url": "https://open.spotify.com/track/54tuUilU05mObbh1Xhqu44"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "Add To Me - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 645040,
-      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 158266,
       "name": "Nobody Knows You When You're Down And Out - Live In New York",
       "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Live In Stockholm",
+        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 341551,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1595,22 +1611,6 @@
       "duration_ms": 331120,
       "name": "Good Morning Heartache (feat. Jill Scott) - Live Audio from The Wilshire Theatre",
       "url": "https://open.spotify.com/track/2TU7q95ZSarTw047rzV6A3"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "Live In Stockholm",
-        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 341551,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
     },
     {
       "added_at": "2022-02-10 23:02:00",

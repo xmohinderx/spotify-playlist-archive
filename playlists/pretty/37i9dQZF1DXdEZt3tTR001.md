@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > lay back\. chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,115 likes - 70 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,286 likes - 70 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 22 | [Through the Fire](https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 4:48 |
 | 23 | [Next Lifetime](https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:26 |
 | 24 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 |
-| 25 | [He's Mine](https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn) | [MoKenStef](https://open.spotify.com/artist/3uklrkyCGBBg5PoFTbEoim) | [Love Soul](https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m) | 4:13 |
-| 26 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 |
-| 27 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 |
+| 25 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 |
+| 26 | [He's Mine](https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn) | [MoKenStef](https://open.spotify.com/artist/3uklrkyCGBBg5PoFTbEoim) | [Love Soul](https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m) | 4:13 |
+| 27 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 |
 | 28 | [Sweet Love](https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Sweet Love](https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD) | 4:22 |
 | 29 | [PiLOT \(feat\. Snoop Dogg, Busta Rhymes, Anderson .Paak\)](https://open.spotify.com/track/6OquGsVTLqZHyxqG0PLwFz) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 3:22 |
 | 30 | [Sending My Love](https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 3:40 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 48 | [Bittersweet](https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:52 |
 | 49 | [Dangerously In Love](https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 5:06 |
 | 50 | [Getting Late](https://open.spotify.com/track/0khnsS3vcqT6qngEhZCk4c) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 6:46 |
-| 51 | [How Could I Forget You](https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [How Could I Forget You](https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy) | 3:34 |
-| 52 | [Alright](https://open.spotify.com/track/1wRQqmZwiF4thdQ8N7FiNv) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Lost And Found](https://open.spotify.com/album/0CMYJkOIYIZjo6wCJtlZNq) | 4:37 |
+| 51 | [Alright](https://open.spotify.com/track/1wRQqmZwiF4thdQ8N7FiNv) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Lost And Found](https://open.spotify.com/album/0CMYJkOIYIZjo6wCJtlZNq) | 4:37 |
+| 52 | [How Could I Forget You](https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [How Could I Forget You](https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy) | 3:34 |
 | 53 | [Read My Mind](https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:48 |
 | 54 | [3 Hour Drive \(feat\. Sampha\)](https://open.spotify.com/track/3WBpLOiuBWlkSjqxXfqQrH) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:01 |
 | 55 | [Compassion \(feat\. Chiiild\)](https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 4:22 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 61 | [So Good](https://open.spotify.com/track/6IitCjxg3AQvuQEdN3gzl6) | [Davina](https://open.spotify.com/artist/13gLWDdUjHWnK0XWn3gZMP) | [Best Of Both Worlds](https://open.spotify.com/album/7xapjTJctomHjCQI8bNSXP) | 4:34 |
 | 62 | [Keep Your Head Up](https://open.spotify.com/track/7LKeX6HZw7lSSlaLRGMWWY) | [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs) | [Keep Your Head Up](https://open.spotify.com/album/5iigwSrb7BkMa9Flopzkr8) | 2:43 |
 | 63 | [DON'T PLAY WITH MY HEART](https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [DON'T PLAY WITH MY HEART](https://open.spotify.com/album/4ObdfMfycjd0NIuX6IcO5I) | 3:39 |
-| 64 | [Movies](https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:09 |
-| 65 | [Jill Scott \(feat\. Jill Scott\)](https://open.spotify.com/track/7ajm1QlAaMFkNFlpZbcceL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:05 |
+| 64 | [Jill Scott \(feat\. Jill Scott\)](https://open.spotify.com/track/7ajm1QlAaMFkNFlpZbcceL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:05 |
+| 65 | [Movies](https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:09 |
 | 66 | [Only With Time \- A COLORS SHOW](https://open.spotify.com/track/17fEBNv11IqWe4O9592GvU) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Only With Time \- A COLORS SHOW](https://open.spotify.com/album/2m68gpBt70o4bo4NJxkl78) | 5:04 |
 | 67 | [Lullaby \(feat\. Syd\)](https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 2:31 |
 | 68 | [Still Wonder](https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Still Wonder](https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi) | 3:58 |
 | 69 | [Can't Wait](https://open.spotify.com/track/6P8PBbcXeIBxoThtF8yq38) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [Can't Wait](https://open.spotify.com/album/29UTEWJkBTdpIMCrXH8x4N) | 3:27 |
 | 70 | [Lay](https://open.spotify.com/track/3lKPcUIf29EDNES4vCYxmb) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:31 |
 
-Snapshot ID: `MTY3MjI2NDgwMSwwMDAwMDAwMDYwZDI2YTI1ZGFiNjg2MTExYmIzNDNiZDk0ZWU0ZDRm`
+Snapshot ID: `MTY3MjI2NDgwMSwwMDAwMDAwMDExMjI3N2RmNDdlYzJkMmUxOWUyZTY2NmY4MGJlZjhl`

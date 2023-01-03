@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 174866,
       "name": "ABC",
       "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
@@ -3291,7 +3291,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 254240,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
@@ -4303,6 +4303,24 @@
       "duration_ms": 168823,
       "name": "How Did I Find You",
       "url": "https://open.spotify.com/track/7dhh5MGe898uMm7TrCUvwj"
+    },
+    {
+      "album": {
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337733,
+      "name": "Hung Up",
+      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
     },
     {
       "album": {
@@ -6928,6 +6946,24 @@
     },
     {
       "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267266,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
+    },
+    {
+      "album": {
         "name": "Rougher Side of Love",
         "url": "https://open.spotify.com/album/6v5O87FhvGPajNLwfLxIKn"
       },
@@ -8528,6 +8564,24 @@
     },
     {
       "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206200,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
+    },
+    {
+      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best of The Isley Brothers-The Motown Years",
         "url": "https://open.spotify.com/album/57CNwGt0hsLPUlMMNuxtRS"
       },
@@ -9775,7 +9829,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 187133,
       "name": "Your Love Is My Drug",
       "url": "https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92"

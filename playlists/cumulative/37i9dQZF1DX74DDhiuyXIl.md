@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-239 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/3PHd0BgAU7GtH83PqXsATM)
+240 songs - 17 hr 45 min - [published](https://open.spotify.com/playlist/3PHd0BgAU7GtH83PqXsATM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [只是太愛你](https://open.spotify.com/track/7HFhf84HSwhYnCBpmTNi1U) | [邱詩凌](https://open.spotify.com/artist/5vM5uXrXIJ7vEao4Zs6Dak) | [只是太愛你](https://open.spotify.com/album/5yiFG6GQCSoODCJyWOJ8hZ) | 4:07 | 2022-06-06 | 2022-07-06 |
 | [可不可以喜歡你](https://open.spotify.com/track/2CULBvZRKENq945theF7sI) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [《好想和你在一起》網劇原聲帶, Pt\. 1](https://open.spotify.com/album/6CIX1eLCWeOYW4pTOm9yZl) | 4:31 | 2022-06-13 | 2022-07-12 |
 | [可惜了 \(電影《大約在冬季》主題片尾曲\)](https://open.spotify.com/track/6t9yroLrmNDVfOV2AicYmm) | [Chyi Chin](https://open.spotify.com/artist/4VhiuMC32Qj7pVW3e6Nlms), [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [可惜了 \(電影《大約在冬季》主題片尾曲\)](https://open.spotify.com/album/6tjVDuKYuqubiBizWK4Asq) | 4:26 | 2022-06-20 | 2022-06-24 |
-| [台北某個地方](https://open.spotify.com/track/3LQ0RDsFVMYrUfPYOgncCh) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [沙發海](https://open.spotify.com/album/47gZvbKIMWIHFLOXnxhUZA) | 4:16 | 2022-06-13 |  |
+| [台北某個地方](https://open.spotify.com/track/3LQ0RDsFVMYrUfPYOgncCh) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [沙發海](https://open.spotify.com/album/47gZvbKIMWIHFLOXnxhUZA) | 4:16 | 2022-06-13 | 2023-01-03 |
 | [同.情](https://open.spotify.com/track/2nQ3JmUlwRdnkt6pRwOrpC) | [黃靖倫](https://open.spotify.com/artist/511uHEaNtVZFirzh4Q46d8) | [同.情](https://open.spotify.com/album/5LU2xEOtIM2ZdAmvOyyWXs) | 4:34 | 2022-11-29 | 2022-12-06 |
 | [唯一的你 \- 韓劇《現正分手中》中文主題曲](https://open.spotify.com/track/2UNcAbLy25IMUjj0cq3Xud) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [唯一的你 \(韓劇《現正分手中》中文主題曲\)](https://open.spotify.com/album/5npbPfK0TGruvqhq5la8WF) | 4:03 | 2022-06-06 | 2022-07-28 |
 | [唯一的理由](https://open.spotify.com/track/6s5dcaEHYQ17iugGONCIkd) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi), [Judy Chou](https://open.spotify.com/artist/0TEuJoFCfA5zd9YQlwRk44) | [唯一的理由](https://open.spotify.com/album/1u21DSFACuRh2kGvymY0qI) | 3:18 | 2022-06-06 | 2022-07-22 |
@@ -122,6 +122,7 @@
 | [完整的我](https://open.spotify.com/track/6b4lo9VraG23VigqszlKuI) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 | 2022-06-06 | 2022-07-20 |
 | [將故事寫成我們](https://open.spotify.com/track/3Vl7IqSQsAsfScssywTDny) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [將故事寫成我們](https://open.spotify.com/album/1HfahU2Hx8p8jq9IHkD4Mq) | 5:35 | 2022-06-06 |  |
 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 | 2022-06-06 |  |
+| [小忘掉](https://open.spotify.com/track/3ID0KaUlhhww4PHgMWPwxn) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [潘嘉麗Kelly同名專輯](https://open.spotify.com/album/0QW25Iew4wU60kn06up4Bm) | 4:32 | 2023-01-02 |  |
 | [少了一件牛仔褲 \(三立華劇《跟鯊魚接吻》片尾曲\)](https://open.spotify.com/track/1gWXdnCKkhcu7f4nVOBh5h) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [少了一件牛仔褲](https://open.spotify.com/album/6aJHPJ6sEefHkwrSIh7RbZ) | 4:36 | 2022-06-06 | 2022-07-28 |
 | [就算天空湛藍 \- 韓劇《現正分手中》中文主題曲](https://open.spotify.com/track/6LggHKv9s8ZnGTczOAEixP) | [徐暐翔](https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm) | [就算天空湛藍 \(韓劇《現正分手中》中文主題曲\)](https://open.spotify.com/album/2yILs6eZQcAx2DZdI7R7tx) | 4:17 | 2022-06-13 | 2022-07-04 |
 | [就讓這大雨全都落下](https://open.spotify.com/track/7D6WfjE6qDlCJMkjQYYlnJ) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [就讓這大雨全都落下](https://open.spotify.com/album/5r3nFPZFjCTHprTs9vZfm3) | 4:14 | 2022-08-08 | 2022-08-17 |

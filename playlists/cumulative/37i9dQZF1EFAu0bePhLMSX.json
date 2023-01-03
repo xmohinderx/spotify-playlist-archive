@@ -1678,6 +1678,24 @@
     },
     {
       "album": {
+        "name": "The Lost Tapes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5UO8gsaqNUoFrKBBQBEoVn"
+      },
+      "artists": [
+        {
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251454,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/0SElZqWjPYLsOub9h4VpGK"
+    },
+    {
+      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/24ip1G5MdfgcC0kxQDTasv"
       },

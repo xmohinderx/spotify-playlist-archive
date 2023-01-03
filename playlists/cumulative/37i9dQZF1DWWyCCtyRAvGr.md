@@ -4,7 +4,7 @@
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-124 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/4DGKdeIKwUTAqn1tb8TpDI)
+125 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/4DGKdeIKwUTAqn1tb8TpDI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,9 +116,10 @@
 | [Streamline Train](https://open.spotify.com/track/5CPeVuAPqziKhpKhCg2yqD) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Streamline Train](https://open.spotify.com/album/07freMLOHPr2UEguJeZ3re) | 4:03 | 2022-11-18 |  |
 | [Ten Long Years](https://open.spotify.com/track/4CayREZylZ5ij94y1v0zlc) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:40 | 2022-05-25 |  |
 | [Thanks, But No Thanks](https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [From The Heart Of A Woman](https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h) | 4:17 | 2022-05-25 |  |
-| [That's How I Learned \(feat\. Ben Rice\)](https://open.spotify.com/track/0KeJ7vkPFLGLNOBjms9HYO) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [Ben Rice](https://open.spotify.com/artist/4X0fLF6Ez0hMrc9EPmF7ex) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 5:56 | 2022-11-18 |  |
+| [That's How I Learned \(feat\. Ben Rice\)](https://open.spotify.com/track/0KeJ7vkPFLGLNOBjms9HYO) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [Ben Rice](https://open.spotify.com/artist/4X0fLF6Ez0hMrc9EPmF7ex) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 5:56 | 2022-11-18 | 2023-01-03 |
 | [The Celebrated Walkin' Blues](https://open.spotify.com/track/1R5mc9pkvt3ZZ7r8nnnVVR) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Essential Taj Mahal](https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6) | 8:50 | 2022-05-25 |  |
 | [The Game](https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6) | [Lightnin' Ray](https://open.spotify.com/artist/7aCr5RMW8vRX9vz46xI93s) | [Two Sides to the Story](https://open.spotify.com/album/6i2eofEuSfRixw6woF6obn) | 6:05 | 2022-06-14 |  |
+| [They Call Me John Primer \(feat\. John Primer & Bob Corritore\)](https://open.spotify.com/track/1UDBiAeAbODqiNzahvO6Dv) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1HiM9YWyFh75nasggcpRoE) | 6:21 | 2022-11-18 |  |
 | [This Time I'm Gone For Good](https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Man Of My Word](https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5) | 4:40 | 2022-05-25 |  |
 | [Three Hours Past Midnight](https://open.spotify.com/track/2foANcWBXIew7aBRUDaPuC) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Colin James And The Little Big Band](https://open.spotify.com/album/0emrpjJ9IbaBS6lc6FpaDm) | 6:08 | 2022-05-25 |  |
 | [Three O'Clock Blues](https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 8:36 | 2022-05-25 |  |

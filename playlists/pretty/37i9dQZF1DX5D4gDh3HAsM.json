@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 522240,
+  "num_followers": 521930,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDYyMzgyMjczMzRjZjA0YjlmNDczNDkzNDg5MzYwYWNj",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDQ3NzNkNjc0Y2U1OTFmNDAzNjI1OGJkNjU2MGVmYTY1",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -145,38 +145,6 @@
       "url": "https://open.spotify.com/track/0DdRiJLOcekwfwLlAT79wU"
     },
     {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "The Christmas Song (Merry Christmas To You)",
-      "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "European Quartet: A Little Christmas Music",
-        "url": "https://open.spotify.com/album/2KxLBRm5ZqsiiTs6efbZHb"
-      },
-      "artists": [
-        {
-          "name": "Walt Weiskopf",
-          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Wonderful Christmastime",
-      "url": "https://open.spotify.com/track/6qaVpEUBt6tLOrzZkRjhJB"
-    },
-    {
       "added_at": "2021-12-03 05:02:00",
       "album": {
         "name": "Love to Keep Me Warm",
@@ -197,6 +165,38 @@
       "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
     },
     {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "European Quartet: A Little Christmas Music",
+        "url": "https://open.spotify.com/album/2KxLBRm5ZqsiiTs6efbZHb"
+      },
+      "artists": [
+        {
+          "name": "Walt Weiskopf",
+          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/6qaVpEUBt6tLOrzZkRjhJB"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 131733,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
+    },
+    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "What Are You Doing New Year's Eve?",
@@ -215,18 +215,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 131733,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
+      "duration_ms": 192160,
+      "name": "The Christmas Song (Merry Christmas To You)",
+      "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -475,6 +475,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "I Dream Of Christmas",
+        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 160290,
+      "name": "Christmas Don't Be Late",
+      "url": "https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "The Classic Christmas Album",
         "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
       },
@@ -507,22 +523,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "I Dream Of Christmas",
-        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 160290,
-      "name": "Christmas Don't Be Late",
-      "url": "https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Breaking It Up!",
         "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 145333,
       "name": "Shake Hands with Santa Claus - Mono Recording",
       "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Just Me This Year",
+        "url": "https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 187005,
+      "name": "Just Me This Year",
+      "url": "https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -555,22 +571,6 @@
       "duration_ms": 237613,
       "name": "That Holiday Feeling",
       "url": "https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Just Me This Year",
-        "url": "https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 187005,
-      "name": "Just Me This Year",
-      "url": "https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/2YyDhrHll7MvGZsGtQbq7O"
     },
     {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Three Suites",
-        "url": "https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Sugar Rum Cherry (Dance of the Sugar-Plum Fairy)",
-      "url": "https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0"
-    },
-    {
       "added_at": "2022-10-21 04:01:00",
       "album": {
         "name": "I Dream Of Christmas",
@@ -667,6 +651,22 @@
       "duration_ms": 200461,
       "name": "Christmas Calling (Jolly Jones)",
       "url": "https://open.spotify.com/track/53oBX4dx0KGxIaAWCFSjks"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Three Suites",
+        "url": "https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "Sugar Rum Cherry (Dance of the Sugar-Plum Fairy)",
+      "url": "https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0"
     },
     {
       "added_at": "2021-11-12 15:48:58",

@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 13011,
+  "num_followers": 13066,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDFmZmYyMGZkYzg0MDlkNjc4YWI2MjE2MTkxYzc5Y2M4",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGMxMDdkYWMzNjM1YWUzNDc1ZWZiNTAwMjgyYzRiNzli",
   "tracks": [
     {
       "added_at": "2022-10-12 18:33:51",
@@ -469,22 +469,6 @@
       "url": "https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Club Vibes Part 01",
-        "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 518400,
-      "name": "Geh\u00f6rschadengenerator",
-      "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
-    },
-    {
       "added_at": "2022-06-10 14:45:01",
       "album": {
         "name": "Bionic Boy",
@@ -515,6 +499,22 @@
       "duration_ms": 417145,
       "name": "I Am Somebody",
       "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Club Vibes Part 01",
+        "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 518400,
+      "name": "Geh\u00f6rschadengenerator",
+      "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-06-03 18:11:27",
       "album": {
-        "name": "Strung Up",
-        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
-      },
-      "artists": [
-        {
-          "name": "Sorley",
-          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Strung Up",
-      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
         "name": "Really Really Hot",
         "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 232133,
       "name": "Really Really Hot",
       "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
+    },
+    {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Strung Up",
+        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
+      },
+      "artists": [
+        {
+          "name": "Sorley",
+          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Strung Up",
+      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
     },
     {
       "added_at": "2022-07-08 17:12:43",

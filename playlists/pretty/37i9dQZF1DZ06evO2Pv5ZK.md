@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,660 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,705 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 44 | [Nocturnal Promenade](https://open.spotify.com/track/55PQaWj0EcF5YWPthNi7fb) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:51 |
 | 45 | [In the magic of Cosmos](https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [In the magic of Cosmos](https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1) | 2:07 |
 | 46 | [Eternal Alexander](https://open.spotify.com/track/6DDH5VNbeYP5Z7IpQJSv1H) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 4:37 |
-| 47 | [Dream in an Open Place](https://open.spotify.com/track/2Jbdcc1ZSqOBGhLEtoiLuh) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 5:56 |
-| 48 | [Création du monde \- Remastered](https://open.spotify.com/track/4sGMiZL7PhTJgcg2pJwXP4) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 10:01 |
+| 47 | [Création du monde \- Remastered](https://open.spotify.com/track/4sGMiZL7PhTJgcg2pJwXP4) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 10:01 |
+| 48 | [Dream in an Open Place](https://open.spotify.com/track/2Jbdcc1ZSqOBGhLEtoiLuh) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 5:56 |
 | 49 | [Prelude \(Voices\)](https://open.spotify.com/track/3DvQ0SduBB9zfn5PZXaucl) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6), [Piano in a Living Room](https://open.spotify.com/artist/2WmuRVbJhmg5fB6bM668tZ) | [Prelude \(Voices\)](https://open.spotify.com/album/21elcibDkkuOqqkZYrg4hj) | 3:36 |
 | 50 | [Rêve \- Remastered](https://open.spotify.com/track/6a9zPEoKGFMjRQeQIJ8h83) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 12:31 |
 
-Snapshot ID: `Mjc4NzYzNDMsMDAwMDAwMDA0OWNmZjQwYjBhODM3ZTM4YWJmZGE0NGFiN2Q5YzQ1YQ==`
+Snapshot ID: `Mjc4Nzc3NTksMDAwMDAwMDA1ODg3ZmFiODE0ODhlZmVjMWRlZjBmODhjYTA1NGQyOQ==`

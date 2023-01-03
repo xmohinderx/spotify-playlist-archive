@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 
 > Get into the flow of the forest, with relaxing natural water sounds of small creeks and calming streams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,676 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,728 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 6 | [Gentle Brook](https://open.spotify.com/track/0LmZCiJJm2g4ZPiN3B7hgB) | [Natural Symphony](https://open.spotify.com/artist/2FKH7GMHSHNoUNnQNWwSeF) | [Calming Nature Sounds](https://open.spotify.com/album/68zHKb2TfQN0NnUXotpZNM) | 3:16 |
 | 7 | [A Babbling Brook](https://open.spotify.com/track/6SwFLZEH7gG2fxGLAdsj4m) | [The Nature Songs](https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF) | [Babbling Stream in the Forest](https://open.spotify.com/album/0fN39o8AJyHObpdmuoVUda) | 3:21 |
 | 8 | [Flood Of Dreams](https://open.spotify.com/track/2abDqcxNlX6FtkpZ2VJ00Z) | [Memminger](https://open.spotify.com/artist/18C09r0LhahZlz3yOqzkME) | [Porthgain Wave](https://open.spotify.com/album/640iYvnQKp9oL17PkcHI6t) | 2:07 |
-| 9 | [Värnen](https://open.spotify.com/track/16Im0hhhrBii9rTBajBbFK) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian waters](https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge) | 3:16 |
-| 10 | [Waterfall Creek](https://open.spotify.com/track/1fXu9OU5gVwTwjeScrRwMK) | [Natural Waters](https://open.spotify.com/artist/0nIJ15ViXXRyCe6mRqPOaD) | [At the Waterfall](https://open.spotify.com/album/30bgRxzTaRDFcNnm8wdpaP) | 2:42 |
-| 11 | [Soothing River Flow](https://open.spotify.com/track/3SKM9jaKCBuMCApHbWhVHG) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [River Water Flowing in Winter](https://open.spotify.com/album/4d9puaEJSCPXGu4K2nV7eU) | 3:42 |
+| 9 | [Soothing River Flow](https://open.spotify.com/track/3SKM9jaKCBuMCApHbWhVHG) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [River Water Flowing in Winter](https://open.spotify.com/album/4d9puaEJSCPXGu4K2nV7eU) | 3:42 |
+| 10 | [Värnen](https://open.spotify.com/track/16Im0hhhrBii9rTBajBbFK) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian waters](https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge) | 3:16 |
+| 11 | [Waterfall Creek](https://open.spotify.com/track/1fXu9OU5gVwTwjeScrRwMK) | [Natural Waters](https://open.spotify.com/artist/0nIJ15ViXXRyCe6mRqPOaD) | [At the Waterfall](https://open.spotify.com/album/30bgRxzTaRDFcNnm8wdpaP) | 2:42 |
 | 12 | [Forest Creek](https://open.spotify.com/track/1LoOR1wpNLSRaVsYwBvJrD) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Relaxing Nature](https://open.spotify.com/album/7CHcLv7WKxu3l96kbJkIgT) | 3:00 |
 | 13 | [Deep River Rapid Flow](https://open.spotify.com/track/1ixae5u6IU5ngF2j1vWWQk) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [River & Waterfall Flow](https://open.spotify.com/album/170V5jgd4OGqMCCIPulFiR) | 3:02 |
 | 14 | [Forest River](https://open.spotify.com/track/5ODwMwLtWtIidqySNMrjX9) | [Wild Ambience](https://open.spotify.com/artist/4jsAEGrVJtzzmF8baeNHy6) | [Running Water](https://open.spotify.com/album/4uvOtiH0g3Y6Ft2WwCPVXY) | 3:09 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 18 | [Flod i skogen](https://open.spotify.com/track/3RfktG11RapLgNH1qgHWgc) | [Naturen](https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB) | [Floden](https://open.spotify.com/album/59DYy1L2g1AQu8OvnRoccW) | 3:18 |
 | 19 | [Big and calm creek, distant wind in trees](https://open.spotify.com/track/5JH5HC1r8ljEGjXYq8Uzcd) | [Sounds of Scandinavia](https://open.spotify.com/artist/3SfbWy42IpSQrfjrIErmKt) | [Waters of the North](https://open.spotify.com/album/6eUzmobKzaTB4q8VhhNxMD) | 2:45 |
 | 20 | [Zenful Water](https://open.spotify.com/track/3Umi1MexD0B01HXRjo0k48) | [Japanese Garden](https://open.spotify.com/artist/3oIpb7nuzcXKzS9hgh4LAQ) | [Stream Of Life](https://open.spotify.com/album/1RaCPUrWLHhG5D2q8uHCJN) | 2:22 |
-| 21 | [Trickeling Flow](https://open.spotify.com/track/1qUwc1VTQW2671NrsL9NXd) | [Aurise](https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP) | [Trickeling Flow](https://open.spotify.com/album/69Q8MYFjXqt3ETH3JpYTin) | 2:37 |
-| 22 | [Spring Creek](https://open.spotify.com/track/4AubLLJUxHh4PxDCJUZiSx) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Spring Creek](https://open.spotify.com/album/1qq0T0W2P5yH7rsjSwWMWV) | 2:23 |
+| 21 | [Spring Creek](https://open.spotify.com/track/4AubLLJUxHh4PxDCJUZiSx) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Spring Creek](https://open.spotify.com/album/1qq0T0W2P5yH7rsjSwWMWV) | 2:23 |
+| 22 | [Trickeling Flow](https://open.spotify.com/track/1qUwc1VTQW2671NrsL9NXd) | [Aurise](https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP) | [Trickeling Flow](https://open.spotify.com/album/69Q8MYFjXqt3ETH3JpYTin) | 2:37 |
 | 23 | [Fjällbäck](https://open.spotify.com/track/6d54aNX0e0Y4IvncHa3whr) | [In The River \(Sound FX\)](https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU) | [More Swedish River Sounds](https://open.spotify.com/album/4yhFtZFQE8rgGX81kYWAlv) | 2:02 |
 | 24 | [Rain Forest River](https://open.spotify.com/track/6VeOkaotCgCi5fqDR2aKxi) | [River Dreams Catalog](https://open.spotify.com/artist/6eBzW7r64y7AQS4kE2BNmE) | [River Dreams Vol\. 1](https://open.spotify.com/album/50L1ElINmGvHh48jg0WaCK) | 2:28 |
 | 25 | [Lovely Stream](https://open.spotify.com/track/5cMoDHCfhjqmWuoeQKRxq5) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [River Spirit](https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 49 | [Blue Stream](https://open.spotify.com/track/5qjGUHHKNozzMnw987lVry) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Sound of Nature](https://open.spotify.com/album/7sBAqC5kXL7wZoDVXOU0ex) | 2:36 |
 | 50 | [A Creek In The Jungle](https://open.spotify.com/track/6sCXRYcWRoyFaHp2WzBb8T) | [The Sound Designers](https://open.spotify.com/artist/5fW4vA2xSDXwdSopSVrerj) | [A Creek In The Jungle](https://open.spotify.com/album/6yjGJsLWm1zMHaPzxRzFzp) | 3:20 |
 
-Snapshot ID: `MTY2OTIxNjI4OCwwMDAwMDAwMDdkZDdlYzIxZjYxMzUwYTc0OTMxMjczNjY1NjAyNzUx`
+Snapshot ID: `MTY2OTIxNjI4OCwwMDAwMDAwMDk5MGU4YzEwNWYzMDczZDgzNjRiMjA4ZTYxM2RjZDk4`

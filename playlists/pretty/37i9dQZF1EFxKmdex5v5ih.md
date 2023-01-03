@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,638 likes - 209 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,641 likes - 209 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 136 | [NEVERMIND](https://open.spotify.com/track/02IuhAGzHtZFc1lJozOC08) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [NEVERMIND](https://open.spotify.com/album/0xnuMxgI3tYVFaShnNHvgD) | 2:56 |
 | 137 | [Brad Pitt](https://open.spotify.com/track/1305H2NYoSJJpRodGdh5yZ) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome](https://open.spotify.com/album/5PYtz6P7n4V5ryGlRIambH) | 3:01 |
 | 138 | [+I QUIT180327+](https://open.spotify.com/track/3EdiyhQpcHaZnszgApgYYh) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [In The Name Of Love](https://open.spotify.com/album/25egHGsBVaTA7QQ1gGtIRa) | 3:03 |
-| 139 | [Love Me Like I Am](https://open.spotify.com/track/60GTOisUSdUksjMzq17XvO) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For?](https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW) | 3:04 |
-| 140 | [Different](https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Different](https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D) | 3:13 |
+| 139 | [Different](https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Different](https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D) | 3:13 |
+| 140 | [Love Me Like I Am](https://open.spotify.com/track/60GTOisUSdUksjMzq17XvO) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For?](https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW) | 3:04 |
 | 141 | [Conflicted](https://open.spotify.com/track/33e3om2LnwbpMvLrII4Iuw) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:29 |
 | 142 | [Odds \- Bonus Track](https://open.spotify.com/track/0ci6bL4OULrhspWhWcgwE3) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [January Flower \(Deluxe\)](https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4) | 3:13 |
 | 143 | [childhood bedroom](https://open.spotify.com/track/3GndP4EReJb9DdA4ByUZeF) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:17 |
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 208 | [Lied on Me](https://open.spotify.com/track/3DUaaUvTEebccVYvlTGBuL) | [Mike Riches Ross](https://open.spotify.com/artist/1EOsdKjjf2PWJf4OgT3pYT) | [Collected Thoughts](https://open.spotify.com/album/7HwchDhCZqyr4Y0XZV1G1T) | 4:31 |
 | 209 | [Heaven](https://open.spotify.com/track/0t0Dqao4DNlyZkhjA8MLbh) | [Michael Wills](https://open.spotify.com/artist/2EXbEUh36k3Qjh48mcXvpf) | [Fire](https://open.spotify.com/album/7fT0kivs4DxyxoeSk7KphV) | 3:20 |
 
-Snapshot ID: `Mjc4NzcwMjcsMDAwMDAwMDBhODc1OTdjN2M5YTEwOGM0ZWE4MTU0Mjk0NzNlMDFiOA==`
+Snapshot ID: `Mjc4Nzg1ODcsMDAwMDAwMDBlNTQ1MzZjYzFiZWEzODRhMGUwZWFmZmU2ZGQzZThjZQ==`

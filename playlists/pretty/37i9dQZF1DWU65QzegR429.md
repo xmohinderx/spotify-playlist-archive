@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Jenn Morel
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,515 likes - 44 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,524 likes - 44 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 7 | [Soy Yo](https://open.spotify.com/track/20Ca0pIyUwu9jIUJ2sr5cg) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Soy Yo](https://open.spotify.com/album/7JuLd58gOTogWvAwNyYggp) | 3:38 |
 | 8 | [KI\-KI](https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [KI\-KI](https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1) | 2:21 |
 | 9 | [Morena](https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Lil Silvio & El Vega](https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Morena](https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP) | 4:02 |
-| 10 | [Perfume](https://open.spotify.com/track/2UxCHjxmGN6X4oiBfWKM0c) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot \(Extended Version\)](https://open.spotify.com/album/75DDvdNMm1S83v3iefTbtu) | 3:12 |
+| 10 | [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 |
 | 11 | [El Toro](https://open.spotify.com/track/5fCLXGmn6hq4XhWLwoWJyv) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [El Toro](https://open.spotify.com/album/77cUCnK4xklADFgpBcJDtk) | 2:40 |
-| 12 | [PIN PIN](https://open.spotify.com/track/51tMYALx6Lkrte41DoWIPq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:39 |
-| 13 | [G Wagon](https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [G Wagon](https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq) | 3:29 |
-| 14 | [Sister 2 Sister](https://open.spotify.com/track/2nSancXdw3xATmlG1X6Ts0) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 3:15 |
-| 15 | [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 |
-| 16 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 |
-| 17 | [Triple H](https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP) | [They Love Us](https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb) | 2:54 |
+| 12 | [Sister 2 Sister](https://open.spotify.com/track/2nSancXdw3xATmlG1X6Ts0) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 3:15 |
+| 13 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 |
+| 14 | [Triple H](https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP) | [They Love Us](https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb) | 2:54 |
+| 15 | [PIN PIN](https://open.spotify.com/track/51tMYALx6Lkrte41DoWIPq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:39 |
+| 16 | [G Wagon](https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [G Wagon](https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq) | 3:29 |
+| 17 | [Perfume](https://open.spotify.com/track/2UxCHjxmGN6X4oiBfWKM0c) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot \(Extended Version\)](https://open.spotify.com/album/75DDvdNMm1S83v3iefTbtu) | 3:12 |
 | 18 | [Fue](https://open.spotify.com/track/4Yce6tyMOK05sPdCMQVxlt) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Fue](https://open.spotify.com/album/7L6g9MtMHH52YLcYBBPMu2) | 2:51 |
 | 19 | [Bitcoin](https://open.spotify.com/track/7edR9E5WUTG1DUN4K8bNgH) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Bitcoin](https://open.spotify.com/album/0hEC9LcZJT7HvZRzK4ysjC) | 3:21 |
 | 20 | [Otra Noche](https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [En Letra de Otro](https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E) | 2:31 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 43 | [EnVy](https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx) | [Rauli V](https://open.spotify.com/artist/1TyllKWCaozGr3Ytrw95FG) | [EnVy](https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl) | 2:49 |
 | 44 | [Mismo De Antes](https://open.spotify.com/track/0e3pNr8A7NEAb9ItjHLlfb) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Akanni](https://open.spotify.com/artist/0wgIOP9UaikBczBsamAyFh), [Jay Fire](https://open.spotify.com/artist/1V3fm7z9TDaSA5JnfRaWUe), [The F](https://open.spotify.com/artist/12vv65YPMmM49KAsC1mnK5) | [Mismo De Antes](https://open.spotify.com/album/7K1G6hWjrZF7bJqMr4R1Tz) | 3:55 |
 
-Snapshot ID: `MTY3MjQyOTg3NCwwMDAwMDAwMDFiZGJmZTMyM2FmYjA0ZWRmZTliNWE1ZDkwYzk2ZmY5`
+Snapshot ID: `MTY3MjQyOTg3NCwwMDAwMDAwMGE0OGUwOGMyZDM3NjkyYTQ4NWVjMTdmMmY3Njc1NWE3`

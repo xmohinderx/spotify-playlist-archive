@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in
 
-372 songs - 19 hr 5 min - [published](https://open.spotify.com/playlist/4ErUvcpZdUGk4GTDxGrgwc)
+373 songs - 19 hr 7 min - [published](https://open.spotify.com/playlist/4ErUvcpZdUGk4GTDxGrgwc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,8 @@
 | [Oprah’s Bank Account \(Lil Yachty & DaBaby feat\. Drake\)](https://open.spotify.com/track/7wsmIIm0xWmtP7TmACXkJn) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Oprah’s Bank Account \(Lil Yachty & DaBaby feat\. Drake\)](https://open.spotify.com/album/56Abu6NLfNM5X7rJhrUdO4) | 3:26 | 2021-09-02 | 2022-06-25 |
 | [Out The Mud](https://open.spotify.com/track/2wZjsbwmWfNVslgV5afl1L) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Out The Mud](https://open.spotify.com/album/1LGwG4vhQIOwCBZhyEtL4u) | 2:37 | 2021-09-02 | 2022-10-01 |
 | [OUT WEST \(feat\. Young Thug\)](https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 2:37 | 2021-09-02 |  |
-| [Over the Top](https://open.spotify.com/track/6dnfxKKuZoPzV2SFjbMS5S) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [808 Bangers](https://open.spotify.com/album/7MASRGI1ZS1AiuwGAWslHs) | 2:33 | 2022-09-02 |  |
+| [Over the Top](https://open.spotify.com/track/6dnfxKKuZoPzV2SFjbMS5S) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [808 Bangers](https://open.spotify.com/album/7MASRGI1ZS1AiuwGAWslHs) | 2:33 | 2022-09-02 | 2023-01-03 |
+| [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Buy or Bye 2](https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF) | 2:33 | 2022-09-02 |  |
 | [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Over The Top \(feat\. Drake\)](https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5) | 2:33 | 2022-06-24 | 2023-01-01 |
 | [Pain & Strife \(feat\. Offset\)](https://open.spotify.com/track/5sER6mjVIHvloVenvFbgT1) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:37 | 2022-09-30 |  |
 | [Pain 1993 \(with Playboi Carti\)](https://open.spotify.com/track/6Kj17Afjo1OKJYpf5VzCeo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 2:29 | 2021-09-02 | 2022-11-05 |

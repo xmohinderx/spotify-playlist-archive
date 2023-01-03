@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
-  "num_followers": 64801,
+  "num_followers": 65054,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM1NDgwMCwwMDAwMDAwMGY4ZDliZmVjYmQ4ZjQ0NWQ2MGMxZDRkMDIxY2U1MmE4",
+  "snapshot_id": "MTY3MjM1NDgwMCwwMDAwMDAwMGQ1MDE2ZmU3Mjg4ODg5MjkxOTY4NzYwMDgzNDYyZmM1",
   "tracks": [
     {
       "added_at": "2022-12-29 23:00:00",
@@ -147,26 +147,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        },
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 261506,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/0Z9yS8hMAZ3cNeavV0KKpv"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 273626,
       "name": "Suzanne (feat. Gregory Porter)",
       "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 261506,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/0Z9yS8hMAZ3cNeavV0KKpv"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
         "name": "If You Know Love",
         "url": "https://open.spotify.com/album/6zkbgihaa15nXO07A6VTs4"
       },
@@ -287,18 +303,22 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
         }
       ],
-      "duration_ms": 197146,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT"
+      "duration_ms": 380066,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -319,26 +339,6 @@
       "duration_ms": 217172,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 380066,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Karen Souza Essentials",
-        "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "Have You Ever Seen The Rain",
-      "url": "https://open.spotify.com/track/3NgbqEb4VID47c65fyAJic"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 232866,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Karen Souza Essentials",
+        "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/3NgbqEb4VID47c65fyAJic"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Your Mother Should Know",
-        "url": "https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 138213,
-      "name": "Your Mother Should Know",
-      "url": "https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
       },
@@ -607,22 +591,6 @@
       "duration_ms": 160280,
       "name": "Mrs. Robinson",
       "url": "https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Wind Cries Mary",
-      "url": "https://open.spotify.com/track/3jUSBrXmLIYVdlXbHIcTzm"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -643,6 +611,22 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Wind Cries Mary",
+      "url": "https://open.spotify.com/track/3jUSBrXmLIYVdlXbHIcTzm"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
         "name": "Always on my mind",
         "url": "https://open.spotify.com/album/5pFidxPVBBynmTakbH5LNL"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 211528,
       "name": "Always on my mind",
       "url": "https://open.spotify.com/track/6kyUOXEadxHeG9ya0TuMIr"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Your Mother Should Know",
+        "url": "https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "Your Mother Should Know",
+      "url": "https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "These Are The Vistas",
-        "url": "https://open.spotify.com/album/3iVI9khuzGp8ohGEJLUi6Q"
-      },
-      "artists": [
-        {
-          "name": "The Bad Plus",
-          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
-        }
-      ],
-      "duration_ms": 244573,
-      "name": "Flim",
-      "url": "https://open.spotify.com/track/73dk1Hmi0bDX9IMYISFuac"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Magnetism, Vol. 1",
         "url": "https://open.spotify.com/album/7rqgZCddN1qd5kfkrjiZgw"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 220795,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/7MF6TekcON2t7g8aGijtqI"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "These Are The Vistas",
+        "url": "https://open.spotify.com/album/3iVI9khuzGp8ohGEJLUi6Q"
+      },
+      "artists": [
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "duration_ms": 244573,
+      "name": "Flim",
+      "url": "https://open.spotify.com/track/73dk1Hmi0bDX9IMYISFuac"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/1kS7asSbEPEd5KMB9krFDx"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 266862,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/32E9nlJdTcgeO0ifM8IkqU"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Jazz Volume: Herbie Hancock",
         "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 456480,
       "name": "A Case Of You - Short Version",
       "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/1kS7asSbEPEd5KMB9krFDx"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 266862,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/32E9nlJdTcgeO0ifM8IkqU"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
+        "name": "Stockholm Underground",
+        "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
+      },
+      "artists": [
+        {
+          "name": "Magnus Lindgren",
+          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 303807,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/5EQoSCrUMefedwvGUUl6ey"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
         "name": "Give Us These Days",
         "url": "https://open.spotify.com/album/3eo3nkUCc90eI7UDHfkZE3"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 361813,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/4UpSPiCAeE8Wjzs71LiXnK"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "Stockholm Underground",
-        "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
-      },
-      "artists": [
-        {
-          "name": "Magnus Lindgren",
-          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 303807,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/5EQoSCrUMefedwvGUUl6ey"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 334560,
-      "name": "High And Dry - Live On The South Bank Show / 2014",
-      "url": "https://open.spotify.com/track/0IOb6D22mnQIxsGo0db6lI"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 334560,
+      "name": "High And Dry - Live On The South Bank Show / 2014",
+      "url": "https://open.spotify.com/track/0IOb6D22mnQIxsGo0db6lI"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/49ZdyLXkMzzRE01tsrM61s"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 263253,
       "name": "Strong",
       "url": "https://open.spotify.com/track/0iJhPjzqVlPsvmzwT8PRtF"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "Songs: The Art of the Trio, Vol. 3",
-        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 288800,
-      "name": "River Man",
-      "url": "https://open.spotify.com/track/5FiSo7E1IvpBeowZxMk9UI"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1355,18 +1339,34 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Blacknuss",
-        "url": "https://open.spotify.com/album/1OnXBqIDGKpI3Y9qugJ85p"
+        "name": "Songs: The Art of the Trio, Vol. 3",
+        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
       },
       "artists": [
         {
-          "name": "Rahsaan Roland Kirk",
-          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
         }
       ],
-      "duration_ms": 148800,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
+      "duration_ms": 288800,
+      "name": "River Man",
+      "url": "https://open.spotify.com/track/5FiSo7E1IvpBeowZxMk9UI"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
+        "name": "Blacknuss",
+        "url": "https://open.spotify.com/album/1OnXBqIDGKpI3Y9qugJ85p"
       },
       "artists": [
         {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+          "name": "Rahsaan Roland Kirk",
+          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
         }
       ],
-      "duration_ms": 229493,
-      "name": "Big Yellow Taxi",
-      "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
+      "duration_ms": 148800,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
+        "name": "Basie's Beatle Bag",
+        "url": "https://open.spotify.com/album/1XBfMdvfawbcBOh43VvHWE"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 262706,
+      "name": "A Hard Day's Night",
+      "url": "https://open.spotify.com/track/2ESLwV27dNbFi91FUJdPJP"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
         "name": "What Took You so Long",
         "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 523613,
       "name": "Maiden Voyage / Everything In Its Right Place",
       "url": "https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "Basie's Beatle Bag",
-        "url": "https://open.spotify.com/album/1XBfMdvfawbcBOh43VvHWE"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 262706,
-      "name": "A Hard Day's Night",
-      "url": "https://open.spotify.com/track/2ESLwV27dNbFi91FUJdPJP"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
-      },
-      "artists": [
-        {
-          "name": "Staci Griesbach",
-          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
-        }
-      ],
-      "duration_ms": 309810,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "You Should Have Told Me",
         "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
       },
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
+      },
+      "artists": [
+        {
+          "name": "Staci Griesbach",
+          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
+        }
+      ],
+      "duration_ms": 309810,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
         "name": "Oliver Nelson Plays Michelle",
         "url": "https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw"
       },
@@ -1579,30 +1579,6 @@
       "duration_ms": 162480,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "Remember to Remember",
-        "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
-      },
-      "artists": [
-        {
-          "name": "Claudio Cusmano",
-          "url": "https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L"
-        },
-        {
-          "name": "Nello Toscano",
-          "url": "https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR"
-        },
-        {
-          "name": "Enzo Zirilli",
-          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
-        }
-      ],
-      "duration_ms": 305631,
-      "name": "Sorry Seems to Be the Hardest Word",
-      "url": "https://open.spotify.com/track/5kBw6WiW6YwymbFQm4DQQp"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1631,6 +1607,30 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
+        "name": "Remember to Remember",
+        "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cusmano",
+          "url": "https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L"
+        },
+        {
+          "name": "Nello Toscano",
+          "url": "https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR"
+        },
+        {
+          "name": "Enzo Zirilli",
+          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
+        }
+      ],
+      "duration_ms": 305631,
+      "name": "Sorry Seems to Be the Hardest Word",
+      "url": "https://open.spotify.com/track/5kBw6WiW6YwymbFQm4DQQp"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
         "name": "Jazz Plays The Beatles",
         "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
       },
@@ -1643,22 +1643,6 @@
       "duration_ms": 356026,
       "name": "She's Leaving Home",
       "url": "https://open.spotify.com/track/6U6wRwjLkBQUjBEQ1vdVJi"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "Jazz Plays The Beatles",
-        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Can't Buy Me Love",
-      "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1687,34 +1671,18 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
+        "name": "Jazz Plays The Beatles",
+        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 152813,
-      "name": "Blowin' In The Wind",
-      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "A Day In The Life: Impressions Of Pepper",
-        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
-      },
-      "artists": [
-        {
-          "name": "The JuJu Exchange",
-          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "A Day In The Life",
-      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
+      "duration_ms": 157200,
+      "name": "Can't Buy Me Love",
+      "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1731,6 +1699,22 @@
       "duration_ms": 413240,
       "name": "Mr. Tambourine Man",
       "url": "https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "Blowin' In The Wind",
+      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1755,6 +1739,22 @@
       "duration_ms": 210593,
       "name": "When Most I Wink - Sonnet 43",
       "url": "https://open.spotify.com/track/7Lo8oj9nSXy6DWCpbd4mGb"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "A Day In The Life: Impressions Of Pepper",
+        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
+      },
+      "artists": [
+        {
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "A Day In The Life",
+      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
     },
     {
       "added_at": "2022-12-29 23:00:00",

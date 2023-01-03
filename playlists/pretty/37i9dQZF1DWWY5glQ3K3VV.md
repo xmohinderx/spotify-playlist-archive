@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Per i tuoi party di fine anno, un takeover speciale a cura di <a href="spotify:artist:6hkKbkZGvAXuvle2FhCnxy">Shablo</a>!  🎆 Live fino al 6/1!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,514 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,498 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

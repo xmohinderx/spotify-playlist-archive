@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 44260,
+  "num_followers": 44381,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDJkYTc5MWY1NTIwOWIxOTJhZWUyNjM0NDBkYmQwNzI5",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDMyYWViNjc1OWIzYzI1YzlkYzhmZDVmYTE0YmVjNTA0",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Riot On An Empty Street",
-        "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Misread",
-      "url": "https://open.spotify.com/track/3hxoYmSHzIBwSS2bPTOfbg"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 217984,
       "name": "The Cave",
       "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Riot On An Empty Street",
+        "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Misread",
+      "url": "https://open.spotify.com/track/3hxoYmSHzIBwSS2bPTOfbg"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Flume",
+      "url": "https://open.spotify.com/track/0bhBtXHQX3u6dSAPF59qGx"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Seven Swans",
         "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Flume",
-      "url": "https://open.spotify.com/track/0bhBtXHQX3u6dSAPF59qGx"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Flying Club Cup",
         "url": "https://open.spotify.com/album/71udkw2yxFqNK4SNSYcCce"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 259120,
       "name": "Lost in My Mind",
       "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -479,18 +495,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
         }
       ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
+      "duration_ms": 183666,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -507,22 +523,6 @@
       "duration_ms": 364613,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "The Reminder",
-        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "The Sunset Tree",
+        "url": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 232893,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Ongiara",
         "url": "https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Sunset Tree",
-        "url": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ"
-      },
-      "artists": [
-        {
-          "name": "The Mountain Goats",
-          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "This Year",
-      "url": "https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Civilian",
         "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Riot On An Empty Street",
-        "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "I'd Rather Dance With You",
-      "url": "https://open.spotify.com/track/4hGOhC87bn7JBdYykOJJvJ"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Mouthfuls",
         "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 271160,
       "name": "When U Love Somebody",
       "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Riot On An Empty Street",
+        "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "I'd Rather Dance With You",
+      "url": "https://open.spotify.com/track/4hGOhC87bn7JBdYykOJJvJ"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "A Larum",
-        "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
-      },
-      "artists": [
-        {
-          "name": "Johnny Flynn",
-          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
-        }
-      ],
-      "duration_ms": 247080,
-      "name": "The Wrote & The Writ",
-      "url": "https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Peaceful, The World Lays Me Down",
         "url": "https://open.spotify.com/album/4bzNinbJcnth182w03fSL2"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+        "name": "A Larum",
+        "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
       },
       "artists": [
         {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+          "name": "Johnny Flynn",
+          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
         }
       ],
-      "duration_ms": 286653,
-      "name": "The Blower's Daughter",
-      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
+      "duration_ms": 247080,
+      "name": "The Wrote & The Writ",
+      "url": "https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -843,6 +827,22 @@
       "duration_ms": 207773,
       "name": "Each Coming Night",
       "url": "https://open.spotify.com/track/2xa9PoO42d7VjT0KqG5d3I"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286653,
+      "name": "The Blower's Daughter",
+      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Chutes Too Narrow",
-        "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 168533,
-      "name": "So Says I",
-      "url": "https://open.spotify.com/track/6WBNQSfB047hAZ7tusGhqB"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Crane Wife",
         "url": "https://open.spotify.com/album/4qvFBtRrwbSgoH3nyVlTCp"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 313600,
       "name": "Sons & Daughters",
       "url": "https://open.spotify.com/track/721tATaNQPPGSuC3dYEI3h"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Chutes Too Narrow",
+        "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 168533,
+      "name": "So Says I",
+      "url": "https://open.spotify.com/track/6WBNQSfB047hAZ7tusGhqB"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Transfiguration of Vincent",
+        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "duration_ms": 300186,
+      "name": "Let\u2019s Dance",
+      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Woke On A Whaleheart",
         "url": "https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 248453,
       "name": "Kathleen",
       "url": "https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Transfiguration of Vincent",
-        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "Let\u2019s Dance",
-      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
     },
     {
       "added_at": "2022-02-04 22:01:34",

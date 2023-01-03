@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: DKZ
 
-705 songs - 1 day 15 hr 13 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+706 songs - 1 day 15 hr 17 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,6 +470,7 @@
 | [Play](https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [\[REC.\]](https://open.spotify.com/album/6ofVW04Q32gN1Hxk50S9Fi) | 3:21 | 2022-01-19 | 2022-03-25 |
 | [Poison](https://open.spotify.com/track/0dhBiy6lmLdyKUEJTf5Fcz) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Poison \(Crime Puzzle\)](https://open.spotify.com/album/0C7uH2bPULuV0t15yTkygg) | 2:41 | 2021-11-19 | 2022-01-13 |
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-01-24 | 2022-06-11 |
+| [Ponytail \(Feat\. Sik\-K\)](https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Ponytail](https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0) | 3:25 | 2023-01-03 |  |
 | [Ponzona](https://open.spotify.com/track/597wvQ0bqfJgszRg4eDVy1) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [INTO VIOLET](https://open.spotify.com/album/3CjwKaPAPzaHgivlGFjsp4) | 3:11 | 2021-03-19 | 2021-06-25 |
 | [Popping](https://open.spotify.com/track/4QZKSPPgyfNLR9UkMx0158) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [SUMMER POPUP ALBUM \[POPPING\]](https://open.spotify.com/album/0JRycz0jI4Rh02dRl6aGF6) | 3:24 | 2021-08-11 | 2021-10-13 |
 | [PRESENT](https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [The Present](https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j) | 3:42 | 2022-12-28 |  |

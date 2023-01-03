@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 57365,
+  "num_followers": 57388,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0MzM2MiwwMDAwMDAwMGExNmNkOThlMTRmMmZhMjg3MmRlZjFlZWVlZGY3MTM1",
+  "snapshot_id": "MTY3MTY0MzM2MiwwMDAwMDAwMGM2MDYzZDgxNTc2ZTljNjcyYTU2MjAwYjVmZGY1MDY3",
   "tracks": [
     {
       "added_at": "2022-10-01 18:54:42",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "La teor\u00eda de los septenios",
-        "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
-      },
-      "artists": [
-        {
-          "name": "Da Skate",
-          "url": "https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW"
-        }
-      ],
-      "duration_ms": 151757,
-      "name": "No olvides de enfocarte siempre en lo importante",
-      "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Y Si Patinan?",
         "url": "https://open.spotify.com/album/3AVCV6rOUqSxWt9YRf3IjD"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 216213,
       "name": "Siempre Fuerte",
       "url": "https://open.spotify.com/track/6x8GV4GRH2hZ8eeRmpMrC4"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "La teor\u00eda de los septenios",
+        "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
+      },
+      "artists": [
+        {
+          "name": "Da Skate",
+          "url": "https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW"
+        }
+      ],
+      "duration_ms": 151757,
+      "name": "No olvides de enfocarte siempre en lo importante",
+      "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -731,26 +731,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Clavo",
-        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        },
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Clavo",
-      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "No Digas Lo Siento",
         "url": "https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7"
       },
@@ -797,6 +777,26 @@
       "url": "https://open.spotify.com/track/7MLwzBBleVNsTN4X2enXO2"
     },
     {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Clavo",
+        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        },
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Clavo",
+      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
+    },
+    {
       "added_at": "2022-12-21 17:22:42",
       "album": {
         "name": "Nunca Me Voy a Ir",
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Doble Vida",
-        "url": "https://open.spotify.com/album/3WwiGAt7wzs8wKVtM06cNU"
+        "name": "Split",
+        "url": "https://open.spotify.com/album/2w1Xt3HBQq6qIDZEZWk4CE"
       },
       "artists": [
         {
-          "name": "NUNO",
-          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
+          "name": "Celof\u00e1n",
+          "url": "https://open.spotify.com/artist/6lxn2RanNHWxoWRHLTLunm"
         }
       ],
-      "duration_ms": 184354,
-      "name": "Doble Vida",
-      "url": "https://open.spotify.com/track/0hL4uLIKFzKwRIpOsjP9DF"
+      "duration_ms": 199924,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/1rZPLX3l9i3nOzPuyw5uTa"
     }
   ],
   "unique_name": "Escena Pop Punk",

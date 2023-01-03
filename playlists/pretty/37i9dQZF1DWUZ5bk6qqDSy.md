@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 
 > Welcome to the soothing hum...
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,933 likes - 263 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,711 likes - 263 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -267,7 +267,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 | 257 | [White Noise Steady](https://open.spotify.com/track/1uuknnayMGMgrlF7Z3TASV) | [89 Degrees](https://open.spotify.com/artist/08tojUw02w3tPLuknZGqNR) | [White Noise Road](https://open.spotify.com/album/65ZsZ7FX7pdr4XCTFCovdf) | 1:44 |
 | 258 | [White Noise Dreams](https://open.spotify.com/track/20BI2mW4dmSdRuICaicI0t) | [Espacious](https://open.spotify.com/artist/521e3mjRhBkTgjRW8bDfA2) | [White Noise Flow](https://open.spotify.com/album/4bjdhr0j4BJZwtyShH8OYc) | 2:20 |
 | 259 | [Dozy Noise](https://open.spotify.com/track/27W4LkxptBvhMxYAWMpsOL) | [Dozy FX](https://open.spotify.com/artist/3LErbZP1QobnVRGGCDaRdK) | [Dozy Noise](https://open.spotify.com/album/1Ao4sYFISxtmZaA7jedaJW) | 2:25 |
-| 260 | [White Noise in Arena](https://open.spotify.com/track/795R8VmFJ4rjLRmtiiOSBj) | [Sleep Sleep Sleep](https://open.spotify.com/artist/1OqVbmth0QR4OXPVPmIEyi) | [Sleep Noise](https://open.spotify.com/album/4vAdUTer5fygtGo2VeDt7q) | 2:42 |
+| 260 | [White Noise in Arena](https://open.spotify.com/track/795R8VmFJ4rjLRmtiiOSBj) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [Sleep Noise](https://open.spotify.com/album/4vAdUTer5fygtGo2VeDt7q) | 2:42 |
 | 261 | [Airplane Sleep Pt.1](https://open.spotify.com/track/53PHCS3cgaXm3JCIlAw6z8) | [Fabricants of Noise](https://open.spotify.com/artist/6rUkUd35nP2xoKO46sKPqs) | [Airplane Sleep](https://open.spotify.com/album/5bkoo0uYmf8YyGvNb8Bbq0) | 2:29 |
 | 262 | [White Noise \- 14400 Hz Gain \- Q 1.60](https://open.spotify.com/track/0iBZq0JWdp5oE5R2lpoqi3) | [Noise Library](https://open.spotify.com/artist/1wFEHvHdcbuWVxo6reRywR) | [Sleep Recordings](https://open.spotify.com/album/7erGXH8NA4saz6eFpHzY7a) | 2:24 |
 | 263 | [Heavenly White](https://open.spotify.com/track/6kpj39kjc6RXinIQSMn36K) | [Waves Of Time](https://open.spotify.com/artist/5doCIxxFrIe9mTSjcGKmQd) | [Heavenly White](https://open.spotify.com/album/2SRlxVlbNsTy5OqZvLBwCh) | 3:07 |

@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2517315,
+  "num_followers": 2517917,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDk5ZjVhNWVmZjNkZGU0YWMxODA1Yjc2YjMzZDE2OTli",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDUyMzcyMGQ5NjZhNTA5ZTRmYTMzNDlkMjBlMmY0MjU4",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Tea For The Tillerman (Remastered 2020)",
-        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Father And Son",
-      "url": "https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Duran Duran",
         "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 340200,
       "name": "Ordinary World",
       "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "Father And Son",
+      "url": "https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Wednesday Morning, 3 A.M.",
         "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 185413,
       "name": "The Sound of Silence - Acoustic Version",
       "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -415,38 +415,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Crosby, Stills & Nash",
-        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 157893,
-      "name": "Helplessly Hoping - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -475,6 +443,38 @@
       "duration_ms": 124693,
       "name": "Norwegian Wood (This Bird Has Flown) - Remastered 2009",
       "url": "https://open.spotify.com/track/1H7gMYGykdtwZOV6s1N0by"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 157893,
+      "name": "Helplessly Hoping - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Rubber Soul (Remastered)",
-        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Michelle - Remastered 2009",
-      "url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Unplugged (Live)",
-        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 289026,
-      "name": "Layla - Acoustic Live",
-      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
+      "duration_ms": 162373,
+      "name": "Michelle - Remastered 2009",
+      "url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -723,18 +707,34 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "The Velvet Underground (45th Anniversary)",
-        "url": "https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX"
+        "name": "Unplugged (Live)",
+        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
       },
       "artists": [
         {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 339533,
-      "name": "Pale Blue Eyes",
-      "url": "https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb"
+      "duration_ms": 289026,
+      "name": "Layla - Acoustic Live",
+      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "The Times They Are A-Changin'",
+      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "The Velvet Underground (45th Anniversary)",
+        "url": "https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        }
+      ],
+      "duration_ms": 339533,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Life & Times",
         "url": "https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 182240,
       "name": "Bad, Bad Leroy Brown",
       "url": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "The Times They Are A-Changin'",
-      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Teaser And The Firecat (Remastered 2021)",
-        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Peace Train - Remastered 2021",
-      "url": "https://open.spotify.com/track/4d0d2llNcQIHmaCgYTrODQ"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 269813,
       "name": "The Chain - 2004 Remaster",
       "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Teaser And The Firecat (Remastered 2021)",
+        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Peace Train - Remastered 2021",
+      "url": "https://open.spotify.com/track/4d0d2llNcQIHmaCgYTrODQ"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Songs Of Love And Hate",
-        "url": "https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 310773,
-      "name": "Famous Blue Raincoat",
-      "url": "https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -1043,22 +1027,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Uh-HUH!",
-        "url": "https://open.spotify.com/album/1p4YwrjrP7t6Rfb755yoTQ"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 283666,
-      "name": "Pink Houses",
-      "url": "https://open.spotify.com/track/5JKQMoGmXwDHCodn5pFVHB"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
       },
@@ -1071,6 +1039,38 @@
       "duration_ms": 301133,
       "name": "Shelter from the Storm",
       "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Songs Of Love And Hate",
+        "url": "https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 310773,
+      "name": "Famous Blue Raincoat",
+      "url": "https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Uh-HUH!",
+        "url": "https://open.spotify.com/album/1p4YwrjrP7t6Rfb755yoTQ"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 283666,
+      "name": "Pink Houses",
+      "url": "https://open.spotify.com/track/5JKQMoGmXwDHCodn5pFVHB"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Bruised Orange",
-        "url": "https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "That's the Way That the World Goes 'Round",
-      "url": "https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Odetta Sings",
         "url": "https://open.spotify.com/album/1dG9AMcbsyxRCJO6aXL5jp"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 201022,
       "name": "Strangers - 2020 Stereo Remaster",
       "url": "https://open.spotify.com/track/1LH9QyMF3YIqYRoVsoXihB"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Bruised Orange",
+        "url": "https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "That's the Way That the World Goes 'Round",
+      "url": "https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "It's So Hard To Tell Who's Going To Love You The Best",
-        "url": "https://open.spotify.com/album/1O330PE8lc1dDXduHBwLXe"
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
       },
       "artists": [
         {
-          "name": "Karen Dalton",
-          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 156893,
-      "name": "Little Bit Of Rain",
-      "url": "https://open.spotify.com/track/09g4TuWLxMmrOTt1kzS47Z"
+      "duration_ms": 290080,
+      "name": "Just Like a Woman",
+      "url": "https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p"
     }
   ],
   "unique_name": "Classic Acoustic",

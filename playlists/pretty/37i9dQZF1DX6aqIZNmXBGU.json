@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17251,
+  "num_followers": 17249,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODA1MDUxNSwwMDAwMDAwMDEzN2JlNmE2OTcwNWVkNGJkNTMwOTEzMDgzYTNjNzkw",
+  "snapshot_id": "MTY0ODA1MDUxNSwwMDAwMDAwMDI4NjFlZjMyMzM2OTY3MGFmMTkyNmQwODdmMDMxNDFm",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 271720,
-      "name": "Lucidity",
-      "url": "https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "The Drums",
         "url": "https://open.spotify.com/album/3pfNU5FIwyvTjtxxtQXK9l"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 175426,
       "name": "Lets Go Surfing",
       "url": "https://open.spotify.com/track/6l6LgnyNHL3U6UgSx5Aiph"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 271720,
+      "name": "Lucidity",
+      "url": "https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO"
     },
     {
       "added_at": "2021-04-09 06:19:31",

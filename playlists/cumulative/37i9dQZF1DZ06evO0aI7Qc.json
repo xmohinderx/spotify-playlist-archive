@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 142863,
       "name": "El De La S",
       "url": "https://open.spotify.com/track/2EJ690TBn8abbcqJiml4X9"
@@ -963,6 +963,32 @@
       "duration_ms": 151104,
       "name": "Los Pajaros (En Vivo)",
       "url": "https://open.spotify.com/track/5cDiDT7E88eUXiVhkUYEpf"
+    },
+    {
+      "album": {
+        "name": "Malas Rachas",
+        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260285,
+      "name": "Malas Rachas",
+      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: blink-182",
-  "num_followers": 538638,
+  "num_followers": 538707,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMDJhY2RiZTI1MGRkZTA3NDliNmQwYzg0MDZkZDU5NGU0",
+  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMDU3NjQ0ZDcxZjcxZmJmNjA2NDg3Y2Y0MDk3ZjUyZjQ2",
   "tracks": [
     {
       "added_at": "2022-11-10 17:53:01",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat"
       },
@@ -199,22 +215,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Hey Ben",
         "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
       },
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 164621,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Harder Than It Looks",
         "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 199198,
       "name": "Ruin My Life (feat. Deryck Whibley)",
       "url": "https://open.spotify.com/track/0g4Nl4tH0jef0wApjV5sfH"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 164621,
-      "name": "Real Life",
-      "url": "https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Light Switch",
-        "url": "https://open.spotify.com/album/7yBLWbLDEZp3ZLNKC1oB35"
-      },
-      "artists": [
-        {
-          "name": "Youth Fountain",
-          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
-        }
-      ],
-      "duration_ms": 188374,
-      "name": "Light Switch",
-      "url": "https://open.spotify.com/track/43YhUeHATriN0vyiEZUZ82"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "how could you do this to me? feat. Kellin Quinn from Sleeping With Sirens",
         "url": "https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 160000,
       "name": "how could you do this to me? feat. Kellin Quinn from Sleeping With Sirens",
       "url": "https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Light Switch",
+        "url": "https://open.spotify.com/album/7yBLWbLDEZp3ZLNKC1oB35"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "duration_ms": 188374,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/43YhUeHATriN0vyiEZUZ82"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "Addison Rae",
+        "url": "https://open.spotify.com/album/10guCRD4IIfIvmAt5ny4Km"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "Addison Rae",
+      "url": "https://open.spotify.com/track/5G7JTfXmgI7BXiT8ijEhn7"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Backfired",
         "url": "https://open.spotify.com/album/5XZgEi755XiwELre12FuYW"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 153876,
       "name": "Backfired",
       "url": "https://open.spotify.com/track/2pkaP5gZboMEf5Jlrh8FXK"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "Addison Rae",
-        "url": "https://open.spotify.com/album/10guCRD4IIfIvmAt5ny4Km"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Addison Rae",
-      "url": "https://open.spotify.com/track/5G7JTfXmgI7BXiT8ijEhn7"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "Don't Fall In Love With Me",
+        "url": "https://open.spotify.com/album/5IQldAUzw7BjWe6fcg163u"
+      },
+      "artists": [
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Don't Fall In Love With Me",
+      "url": "https://open.spotify.com/track/14U3GHjvw3Bk9HDeEBdrur"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Seeing Red",
         "url": "https://open.spotify.com/album/5niGkfpw5sNpXPQnicsAKO"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 161683,
       "name": "Seeing Red (with Dusty Locane & Rah Swish)",
       "url": "https://open.spotify.com/track/7eokpLlr9FBg6PdqzA2hLh"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "Don't Fall In Love With Me",
-        "url": "https://open.spotify.com/album/5IQldAUzw7BjWe6fcg163u"
-      },
-      "artists": [
-        {
-          "name": "Story Untold",
-          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Don't Fall In Love With Me",
-      "url": "https://open.spotify.com/track/14U3GHjvw3Bk9HDeEBdrur"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "BURNOUT",
-        "url": "https://open.spotify.com/album/01vivwdeCRkTwNwgVEFmza"
-      },
-      "artists": [
-        {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
-        }
-      ],
-      "duration_ms": 182622,
-      "name": "THE AMERICAN DREAM",
-      "url": "https://open.spotify.com/track/3FSxSPFLwvVUMjTjFo9Von"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "The King and Queen of Gasoline",
         "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 218656,
       "name": "The King and Queen of Gasoline",
       "url": "https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "BURNOUT",
+        "url": "https://open.spotify.com/album/01vivwdeCRkTwNwgVEFmza"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "duration_ms": 182622,
+      "name": "THE AMERICAN DREAM",
+      "url": "https://open.spotify.com/track/3FSxSPFLwvVUMjTjFo9Von"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/2wJWPmjFjIAu4z8SlQkHjt"
-      },
-      "artists": [
-        {
-          "name": "MxPx",
-          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
-        }
-      ],
-      "duration_ms": 185070,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/0DRxRCkk7lrUs1VggJMmnP"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Happy Never After",
         "url": "https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/2wJWPmjFjIAu4z8SlQkHjt"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "duration_ms": 185070,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/0DRxRCkk7lrUs1VggJMmnP"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/1TK2KPCTblGOP0J1fIITpx"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 163285,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/6kUqtwGftq5d2kzlH3Eh9t"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "WE'RE NOT STRANGERS",
+        "url": "https://open.spotify.com/album/6uP0FNogIlJpxFnrRCES5z"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "duration_ms": 138720,
+      "name": "WE'RE NOT STRANGERS",
+      "url": "https://open.spotify.com/track/3RuNatnCCHe7LS5QTNnJJu"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "WE'RE NOT STRANGERS",
-        "url": "https://open.spotify.com/album/6uP0FNogIlJpxFnrRCES5z"
+        "name": "Bowser's Castle",
+        "url": "https://open.spotify.com/album/6HU1A82WqOKoc4f7Z5zLjG"
       },
       "artists": [
         {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
         }
       ],
-      "duration_ms": 138720,
-      "name": "WE'RE NOT STRANGERS",
-      "url": "https://open.spotify.com/track/3RuNatnCCHe7LS5QTNnJJu"
+      "duration_ms": 177755,
+      "name": "Bowser's Castle",
+      "url": "https://open.spotify.com/track/7KGCp5rReukE5rsPhoF8wJ"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1115,22 +1131,6 @@
       "duration_ms": 175306,
       "name": "Cavalier",
       "url": "https://open.spotify.com/track/4N9LPYE07fGLDK2EfCpVpn"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "Bowser's Castle",
-        "url": "https://open.spotify.com/album/6HU1A82WqOKoc4f7Z5zLjG"
-      },
-      "artists": [
-        {
-          "name": "Belmont",
-          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
-        }
-      ],
-      "duration_ms": 177755,
-      "name": "Bowser's Castle",
-      "url": "https://open.spotify.com/track/7KGCp5rReukE5rsPhoF8wJ"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "SUP",
-        "url": "https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq"
-      },
-      "artists": [
-        {
-          "name": "Super American",
-          "url": "https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2"
-        }
-      ],
-      "duration_ms": 194751,
-      "name": "together",
-      "url": "https://open.spotify.com/track/5kWxexqLsP9izjOxZre9iD"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "DEAD ASTRONAUT",
         "url": "https://open.spotify.com/album/5EXQvM0YJmhdqaU0lBXG4A"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 157714,
       "name": "DEAD ASTRONAUT",
       "url": "https://open.spotify.com/track/2hym6qBXvGwg0VnI7HuZot"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "SUP",
+        "url": "https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq"
+      },
+      "artists": [
+        {
+          "name": "Super American",
+          "url": "https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2"
+        }
+      ],
+      "duration_ms": 194751,
+      "name": "together",
+      "url": "https://open.spotify.com/track/5kWxexqLsP9izjOxZre9iD"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "u look stupid",
+        "url": "https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 148897,
+      "name": "u look stupid",
+      "url": "https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Six Feet Under",
         "url": "https://open.spotify.com/album/4C8d8WgzPnrxZyJdlNgzHo"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 133124,
       "name": "Six Feet Under",
       "url": "https://open.spotify.com/track/54BhHvjtrz2eqGomjZK9mg"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "u look stupid",
-        "url": "https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 148897,
-      "name": "u look stupid",
-      "url": "https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A"
     },
     {
       "added_at": "2022-11-10 17:53:01",

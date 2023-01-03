@@ -943,7 +943,7 @@
     {
       "album": {
         "name": "Ice Bridge",
-        "url": "https://open.spotify.com/album/5krCbpOUzawFzyze0yfYuN"
+        "url": "https://open.spotify.com/album/2lgiqx50EYIRzR2mkzXvtI"
       },
       "artists": [
         {
@@ -954,6 +954,24 @@
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 295205,
+      "name": "Ice Bridge",
+      "url": "https://open.spotify.com/track/36RgzPOiQDMKrflKdo2tRN"
+    },
+    {
+      "album": {
+        "name": "Ice Bridge",
+        "url": "https://open.spotify.com/album/5krCbpOUzawFzyze0yfYuN"
+      },
+      "artists": [
+        {
+          "name": "Air Max '97",
+          "url": "https://open.spotify.com/artist/5DTUVDQxl5fDiY2plzFP9R"
+        }
+      ],
+      "date_added": "2021-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
       "duration_ms": 295205,
       "name": "Ice Bridge",
       "url": "https://open.spotify.com/track/4B8HqglWbTLLs0jvQv2S9V"

@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 858040,
+  "num_followers": 858116,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA1NTYxNCwwMDAwMDAwMDQ3Njc5NDQ5OGZmMjcwMjYyZTY2ZDkwOTExZjJhZTMz",
+  "snapshot_id": "MTY2OTA1NTYxNCwwMDAwMDAwMDYyZDRhYWFiM2Q1ZWE1MWU3OWFkYjc3ZDI2ODQzNTcy",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Slow Reveal: Chapter One",
-        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 158948,
-      "name": "The Love",
-      "url": "https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Officer of Love",
         "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 239805,
       "name": "Officer of Love",
       "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Slow Reveal: Chapter One",
+        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 158948,
+      "name": "The Love",
+      "url": "https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 189282,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Barchords",
         "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 236720,
       "name": "Lost In The Light",
       "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 189282,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1309,6 +1309,38 @@
       "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
     },
     {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "I Think Of Angels",
+      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Feel Alive Again",
+      "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Evergreen (feat. Molly Tuttle)",
@@ -1331,34 +1363,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Rosemary",
-        "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
+        "name": "Adeline",
+        "url": "https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1"
       },
       "artists": [
         {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
         }
       ],
-      "duration_ms": 254200,
-      "name": "Feel Alive Again",
-      "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "I Think Of Angels",
-      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+      "duration_ms": 188824,
+      "name": "Adeline",
+      "url": "https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1375,22 +1391,6 @@
       "duration_ms": 198266,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Adeline",
-        "url": "https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 188824,
-      "name": "Adeline",
-      "url": "https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb"
     },
     {
       "added_at": "2022-10-07 04:00:00",

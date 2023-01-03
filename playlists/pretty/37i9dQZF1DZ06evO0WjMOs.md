@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,022 likes - 31 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,087 likes - 31 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 | 23 | [Hope \- Acoustic](https://open.spotify.com/track/5TwOrHpV01ymb1vMFVRZJl) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Hope \(Acoustic\)](https://open.spotify.com/album/5OWWNrqbvgrWqsRsdjC5IC) | 3:43 |
 | 24 | [When The World Stopped Moving](https://open.spotify.com/track/7JgDvGmgeKcdM633G1XAo9) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:14 |
 | 25 | [I Think I](https://open.spotify.com/track/4v7shHT3eXpvBoG5k2OMIM) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [I Think I](https://open.spotify.com/album/2TxV63ZiqONxz4lfA25rYJ) | 2:49 |
-| 26 | [Lady In Blue \(Pickup Live Session\)](https://open.spotify.com/track/0ZrmeApk2p2FY4BGvQHPoZ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Lady In Blue \(Pickup Live Session\)](https://open.spotify.com/album/0paOo5lZd1KIFagxQgLMLf) | 3:10 |
-| 27 | [Just the Two of Us](https://open.spotify.com/track/7kjvp3gUi1BzmcUsjk1k6I) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Just the Two of Us](https://open.spotify.com/album/6ppQvrvuJh7YAiAsz5IMp8) | 3:15 |
+| 26 | [Just the Two of Us](https://open.spotify.com/track/7kjvp3gUi1BzmcUsjk1k6I) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Just the Two of Us](https://open.spotify.com/album/6ppQvrvuJh7YAiAsz5IMp8) | 3:15 |
+| 27 | [Lady In Blue \(Pickup Live Session\)](https://open.spotify.com/track/0ZrmeApk2p2FY4BGvQHPoZ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Lady In Blue \(Pickup Live Session\)](https://open.spotify.com/album/0paOo5lZd1KIFagxQgLMLf) | 3:10 |
 | 28 | [Stupid](https://open.spotify.com/track/4J7JZr3LfTC96SLjbpIyDe) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:42 |
 | 29 | [Yellow](https://open.spotify.com/track/3P7aN7piKYjITMJgFT09Ib) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Parachutes](https://open.spotify.com/album/2FhVMpJN2jtR2BwvZOFZop) | 3:30 |
 | 30 | [Paranoia Purple](https://open.spotify.com/track/0kOq336SMTIa90VjHMutht) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Paranoia Purple](https://open.spotify.com/album/6nqblG53NdUSIoKLndjgL2) | 3:57 |
 | 31 | [Dancing Queen](https://open.spotify.com/track/1dHbjQmKlr15e6xP7VDfWi) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Dancing Queen](https://open.spotify.com/album/7kPywVWHVzRTrlzPMXFIWq) | 3:05 |
 
-Snapshot ID: `Mjc4NzYzNDMsMDAwMDAwMDAzOGI1NzUxMTdmNzRjYTQzNjc0N2NlYTY0M2JmNjAxZg==`
+Snapshot ID: `Mjc4Nzc3NTksMDAwMDAwMDAxZWNjMDA0OWRmZWRiNmEyMDU5MjhmZmJjNzEwNzY5MA==`

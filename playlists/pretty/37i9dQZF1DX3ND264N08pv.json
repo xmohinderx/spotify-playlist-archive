@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 29692,
+  "num_followers": 29747,
   "original_name": "Hardcore Rage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMGRkODMwMTg2NDZlNGM4MWExYTljZjUxMWRkODdmNmE4",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDBmMjE2OWMwNDY4NDczZjA2MWRiZDQzNTEyMzkzNjk1",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Hard Knock Life",
-        "url": "https://open.spotify.com/album/0pbwFymA94rgfOGDEcRdPZ"
-      },
-      "artists": [
-        {
-          "name": "Gunz For Hire",
-          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
-        }
-      ],
-      "duration_ms": 215684,
-      "name": "Hard Knock Life",
-      "url": "https://open.spotify.com/track/3aD91A4Lk9uGAcyk3fhYsW"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "The Next Level",
         "url": "https://open.spotify.com/album/4BIBYeZSRT3z0om94NPXut"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 195600,
       "name": "The Next Level",
       "url": "https://open.spotify.com/track/52Da7df3ErcDwprCRADkgS"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Hard Knock Life",
+        "url": "https://open.spotify.com/album/0pbwFymA94rgfOGDEcRdPZ"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "duration_ms": 215684,
+      "name": "Hard Knock Life",
+      "url": "https://open.spotify.com/track/3aD91A4Lk9uGAcyk3fhYsW"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Broken Inside",
+        "url": "https://open.spotify.com/album/07ibnMCRSY45wLqlWETuW8"
+      },
+      "artists": [
+        {
+          "name": "Namara",
+          "url": "https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1"
+        }
+      ],
+      "duration_ms": 205339,
+      "name": "Broken Inside",
+      "url": "https://open.spotify.com/track/6LvC4nm62BQGESBPhwgpgg"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Deathblow",
         "url": "https://open.spotify.com/album/6PmtZ0lfWZ5XFl4IryXLxa"
       },
@@ -571,46 +587,6 @@
       "duration_ms": 226285,
       "name": "Deathblow",
       "url": "https://open.spotify.com/track/5odPjdHDsGX3RUSzrw7eD9"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Hell Of A Ride (Official Dominator 2022 Anthem)",
-        "url": "https://open.spotify.com/album/5DJ81U0ycYxyM6g0DwJv0d"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
-        },
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
-        }
-      ],
-      "duration_ms": 251368,
-      "name": "Hell Of A Ride - Official Dominator 2022 Anthem",
-      "url": "https://open.spotify.com/track/4mmfmBwioCjlXjkklzXzHx"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Broken Inside",
-        "url": "https://open.spotify.com/album/07ibnMCRSY45wLqlWETuW8"
-      },
-      "artists": [
-        {
-          "name": "Namara",
-          "url": "https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1"
-        }
-      ],
-      "duration_ms": 205339,
-      "name": "Broken Inside",
-      "url": "https://open.spotify.com/track/6LvC4nm62BQGESBPhwgpgg"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -643,6 +619,30 @@
       "duration_ms": 147003,
       "name": "F#ck The Haters",
       "url": "https://open.spotify.com/track/2MkEOJ1yZ1wBk1Sx022OTo"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Hell Of A Ride (Official Dominator 2022 Anthem)",
+        "url": "https://open.spotify.com/album/5DJ81U0ycYxyM6g0DwJv0d"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
+        }
+      ],
+      "duration_ms": 251368,
+      "name": "Hell Of A Ride - Official Dominator 2022 Anthem",
+      "url": "https://open.spotify.com/track/4mmfmBwioCjlXjkklzXzHx"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "PartyRockerz",
-        "url": "https://open.spotify.com/album/51mWPGTNUyjPtbkYyh6cYI"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "Elite Enemy",
-          "url": "https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB"
-        }
-      ],
-      "duration_ms": 175151,
-      "name": "PartyRockerz",
-      "url": "https://open.spotify.com/track/2iRiV6IPA015xIEGfiwXKX"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "STRUGGLE TO SURVIVE",
         "url": "https://open.spotify.com/album/3xjbDfiuJmTrLOgwkrotM4"
       },
@@ -767,6 +747,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Order & Chaos",
+        "url": "https://open.spotify.com/album/1VTmqBZu6npbGJ25S5Xi9U"
+      },
+      "artists": [
+        {
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+        }
+      ],
+      "duration_ms": 292356,
+      "name": "Kick Creator",
+      "url": "https://open.spotify.com/track/2mLYAPAPlfMGMjpHHjVPJo"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
         "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
       },
@@ -787,18 +783,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Order & Chaos",
-        "url": "https://open.spotify.com/album/1VTmqBZu6npbGJ25S5Xi9U"
+        "name": "PartyRockerz",
+        "url": "https://open.spotify.com/album/51mWPGTNUyjPtbkYyh6cYI"
       },
       "artists": [
         {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Elite Enemy",
+          "url": "https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB"
         }
       ],
-      "duration_ms": 292356,
-      "name": "Kick Creator",
-      "url": "https://open.spotify.com/track/2mLYAPAPlfMGMjpHHjVPJo"
+      "duration_ms": 175151,
+      "name": "PartyRockerz",
+      "url": "https://open.spotify.com/track/2iRiV6IPA015xIEGfiwXKX"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Fake Shit",
-        "url": "https://open.spotify.com/album/6e0Et3Pidz5fELr3QgH7Te"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Fake Shit",
-      "url": "https://open.spotify.com/track/2YV9sAhCtOC0ybKcFjHErO"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Medication Time",
         "url": "https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 194117,
       "name": "Attack",
       "url": "https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Fake Shit",
+        "url": "https://open.spotify.com/album/6e0Et3Pidz5fELr3QgH7Te"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Fake Shit",
+      "url": "https://open.spotify.com/track/2YV9sAhCtOC0ybKcFjHErO"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1055,30 +1055,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/07GpeolPTgwFsrV04i37Pl"
-      },
-      "artists": [
-        {
-          "name": "DRS",
-          "url": "https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs"
-        },
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Warriors",
-      "url": "https://open.spotify.com/track/3CcUsyvCZbEzisnQItM7XX"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Crazy, Like Me!",
         "url": "https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g"
       },
@@ -1115,22 +1091,26 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Runes of Retribution",
-        "url": "https://open.spotify.com/album/6lsiqiLTNIBZwha12kaqM5"
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/07GpeolPTgwFsrV04i37Pl"
       },
       "artists": [
         {
-          "name": "Tyfon",
-          "url": "https://open.spotify.com/artist/2BD8kvs6Ti7uGecILeVgqs"
+          "name": "DRS",
+          "url": "https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs"
         },
         {
-          "name": "The Fuze",
-          "url": "https://open.spotify.com/artist/0DNLQ8dkmODxzWGL83rPtY"
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
         }
       ],
-      "duration_ms": 252158,
-      "name": "Warriors (2022 Refix)",
-      "url": "https://open.spotify.com/track/7rSv6TtMaamxdoG3fzhKQ8"
+      "duration_ms": 200400,
+      "name": "Warriors",
+      "url": "https://open.spotify.com/track/3CcUsyvCZbEzisnQItM7XX"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1147,6 +1127,26 @@
       "duration_ms": 288398,
       "name": "Shadows in the Dark",
       "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Runes of Retribution",
+        "url": "https://open.spotify.com/album/6lsiqiLTNIBZwha12kaqM5"
+      },
+      "artists": [
+        {
+          "name": "Tyfon",
+          "url": "https://open.spotify.com/artist/2BD8kvs6Ti7uGecILeVgqs"
+        },
+        {
+          "name": "The Fuze",
+          "url": "https://open.spotify.com/artist/0DNLQ8dkmODxzWGL83rPtY"
+        }
+      ],
+      "duration_ms": 252158,
+      "name": "Warriors (2022 Refix)",
+      "url": "https://open.spotify.com/track/7rSv6TtMaamxdoG3fzhKQ8"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1219,6 +1219,22 @@
       "duration_ms": 178975,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "The Resurrection (Official Toxicator 2022 Anthem)",
+        "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 254075,
+      "name": "The Resurrection (Official Toxicator 2022 Anthem)",
+      "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1315,22 +1331,6 @@
       "duration_ms": 324300,
       "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
       "url": "https://open.spotify.com/track/6D67E5KlS9L6o2KgU3Ng0O"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "The Resurrection (Official Toxicator 2022 Anthem)",
-        "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 254075,
-      "name": "The Resurrection (Official Toxicator 2022 Anthem)",
-      "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Rave Machine",
-        "url": "https://open.spotify.com/album/1PrEgszhMvGe9PiLdPywWu"
-      },
-      "artists": [
-        {
-          "name": "Dither",
-          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
-        }
-      ],
-      "duration_ms": 228631,
-      "name": "Rave Machine",
-      "url": "https://open.spotify.com/track/7quuryt7S7Ix5Xr51GC3Ng"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Forged In Fury",
         "url": "https://open.spotify.com/album/1QVTiTTs4oZvU4lL7qLAnv"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 238421,
       "name": "Forged In Fury",
       "url": "https://open.spotify.com/track/74QKmn0vjBHL4SJ2WXPnhJ"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Rave Machine",
+        "url": "https://open.spotify.com/album/1PrEgszhMvGe9PiLdPywWu"
+      },
+      "artists": [
+        {
+          "name": "Dither",
+          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
+        }
+      ],
+      "duration_ms": 228631,
+      "name": "Rave Machine",
+      "url": "https://open.spotify.com/track/7quuryt7S7Ix5Xr51GC3Ng"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "The Sound Flow",
-        "url": "https://open.spotify.com/album/3iqIKphcsHVZa5B0Soy0cH"
-      },
-      "artists": [
-        {
-          "name": "Korsakoff",
-          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
-        },
-        {
-          "name": "Promo",
-          "url": "https://open.spotify.com/artist/6CG5i0dfyqWIOrqFY60ooq"
-        }
-      ],
-      "duration_ms": 265945,
-      "name": "The Sound Flow",
-      "url": "https://open.spotify.com/track/2lH3W71iBNQGiQRLeHqPQF"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Fvcking One",
         "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 213254,
       "name": "Fvcking One",
       "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "The Sound Flow",
+        "url": "https://open.spotify.com/album/3iqIKphcsHVZa5B0Soy0cH"
+      },
+      "artists": [
+        {
+          "name": "Korsakoff",
+          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
+        },
+        {
+          "name": "Promo",
+          "url": "https://open.spotify.com/artist/6CG5i0dfyqWIOrqFY60ooq"
+        }
+      ],
+      "duration_ms": 265945,
+      "name": "The Sound Flow",
+      "url": "https://open.spotify.com/track/2lH3W71iBNQGiQRLeHqPQF"
     },
     {
       "added_at": "2022-12-22 23:00:00",

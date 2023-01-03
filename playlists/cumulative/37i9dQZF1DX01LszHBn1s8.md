@@ -4,7 +4,7 @@
 
 > back to black 🖤
 
-908 songs - 2 day 0 hr 1 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
+909 songs - 2 day 0 hr 4 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Ginseng Strip 2002](https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/3xG021y87AUy0wWIlWvGw4) | 2:33 | 2022-05-19 |  |
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2022-11-07 |  |
 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 | 2022-06-09 |  |
+| [Give It To Me](https://open.spotify.com/track/6wpk1zTTTXD7O64vL7TodM) | [Lofis](https://open.spotify.com/artist/7iFODSQxtV2tDxZBYtyFgt) | [Give It To Me](https://open.spotify.com/album/5ftAJP7ejD3F85LL78jo0U) | 2:51 | 2023-01-02 |  |
 | [Give Me a Kiss](https://open.spotify.com/track/0OXdfW3Q6VJGpg1k5Ik1SW) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me a Kiss](https://open.spotify.com/album/0CafPkGhvLKbSwto8FQJq1) | 2:49 | 2022-10-28 |  |
 | [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-08-08 | 2022-11-06 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-15 |  |

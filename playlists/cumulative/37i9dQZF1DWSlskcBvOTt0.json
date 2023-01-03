@@ -3506,6 +3506,44 @@
     },
     {
       "album": {
+        "name": "Looking In The Sky",
+        "url": "https://open.spotify.com/album/2On5ucuoSWhuQwU5qZcM2Z"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Satie",
+          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
+        },
+        {
+          "name": "Maga",
+          "url": "https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl"
+        },
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        },
+        {
+          "name": "Sean Doron",
+          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
+        },
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        },
+        {
+          "name": "Paul Brenning",
+          "url": "https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271979,
+      "name": "Looking In The Sky - Radio Edit",
+      "url": "https://open.spotify.com/track/4o7tMl7CwHMKKCUDgbZCC9"
+    },
+    {
+      "album": {
         "name": "Los Dos",
         "url": "https://open.spotify.com/album/1Ldq4SBeOmEGt9UxcR4Sij"
       },
@@ -6385,7 +6423,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 460165,
       "name": "Trilobit",
       "url": "https://open.spotify.com/track/3G6h7nE6eciZDrNVs6Mlov"

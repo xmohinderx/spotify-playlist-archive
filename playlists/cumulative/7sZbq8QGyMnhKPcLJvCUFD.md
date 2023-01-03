@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-165 songs - 8 hr 32 min - not published yet
+166 songs - 8 hr 34 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Pray Tonight \- borne Remix](https://open.spotify.com/track/24UiVa4yw52VDpPxGwq3Bw) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [P\-One](https://open.spotify.com/artist/07rQW5tiQ8KWfhvtNckUpX), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Pray Tonight \(borne Remix\)](https://open.spotify.com/album/3ddEoq1V87uYH3IOXxdGg1) | 2:46 | 2022-11-15 |  |
 | [Pressure](https://open.spotify.com/track/2SGKoGK8sRtD3Rr2Rvofvc) | [Abstrakt](https://open.spotify.com/artist/2a0PIzFpYjhOabDRcUmUnQ), [Perk Pietrek](https://open.spotify.com/artist/7gVaS1q03Q8Dliy2lDXLx3) | [Pressure](https://open.spotify.com/album/6ENSlOPhYtBVrZbud8FtRR) | 3:14 | 2022-05-24 |  |
 | [Psycho](https://open.spotify.com/track/3IyziM0cSPmHfTLH3dB8Dw) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm) | [Psycho](https://open.spotify.com/album/3BOwQFiUMdG0eTmfQuiJgJ) | 2:30 | 2022-12-13 |  |
+| [PULL UP](https://open.spotify.com/track/1BS10ZqOZDyY4D2JxPO2AL) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PULL UP](https://open.spotify.com/album/2qxFZtfoMurigQtO5LElI1) | 2:02 | 2023-01-02 |  |
 | [Radio](https://open.spotify.com/track/4mvfSVZQgpsfJpH67WWRJs) | [WBN](https://open.spotify.com/artist/3lylsmPHMyvkSFS4EQWWih), [Mojnz](https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st) | [Radio](https://open.spotify.com/album/0f9uwxp1EHKSRyijI0dDLW) | 3:26 | 2022-09-13 |  |
 | [Redemption](https://open.spotify.com/track/11hQpTbTymxIZzSmabCd9b) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [Redemption](https://open.spotify.com/album/7Dl2QenOQCV2oRvbfugT7m) | 4:05 | 2022-09-29 |  |
 | [Retrophonic](https://open.spotify.com/track/2jT3LKqUJVrcT6TYJhcsJg) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Retrophonic](https://open.spotify.com/album/1c0bNZGrgSQlcALkrwSgQ2) | 2:31 | 2022-05-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 
 > Some of the most beautiful French love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,959 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,020 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 8 | [Je te promets](https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Gang](https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg) | 4:35 |
 | 9 | [Le temps de l'amour](https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 2:24 |
 | 10 | [Si tu m'aimes demain](https://open.spotify.com/track/14UoUyJ5opQScau6Iw6G0e) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Si tu m'aimes demain](https://open.spotify.com/album/2LjSr9COs39I342Ho6nwtp) | 2:57 |
-| 11 | [INDÉLÉBILE](https://open.spotify.com/track/5Mwwrp4vtCAhExnFFHbwBt) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [INDÉLÉBILE](https://open.spotify.com/album/6SYrm2Ynl39i7bkanjPNVK) | 2:50 |
-| 12 | [Mais je t'aime](https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [MESDAMES deluxe](https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh) | 4:30 |
+| 11 | [Mais je t'aime](https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [MESDAMES deluxe](https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh) | 4:30 |
+| 12 | [INDÉLÉBILE](https://open.spotify.com/track/5Mwwrp4vtCAhExnFFHbwBt) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [INDÉLÉBILE](https://open.spotify.com/album/6SYrm2Ynl39i7bkanjPNVK) | 2:50 |
 | 13 | [J'espère](https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Airs païens](https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD) | 2:29 |
 | 14 | [L'amour, l'amour, l'amour](https://open.spotify.com/track/6OGpURRDL26WAeouxgnfX9) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:07 |
 | 15 | [Tout le monde \(sauf toi\)](https://open.spotify.com/track/4lyIlP2RIrY2dy6U6Xy0qu) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 2:45 |
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 36 | [La madrague](https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot](https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV) | 2:35 |
 | 37 | [Je vais t'aimer](https://open.spotify.com/track/5KwJJz1nqsu5Edy1f4HGWe) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [La famille Bélier](https://open.spotify.com/album/0jBt5J960S7MX8yqEwz8Fd) | 3:55 |
 | 38 | [On va s'aimer encore](https://open.spotify.com/track/6SQxzjbQ6rFkzFC0vbTZBL) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le monde tourne fort](https://open.spotify.com/album/1nGMO1npqc1fweNbJ7hLbj) | 4:18 |
-| 39 | [L'amour à la plage \(with Alice on the roof\)](https://open.spotify.com/track/0n1GxWrgNWZKfmDdpuAJUf) | [Suarez](https://open.spotify.com/artist/6D40RuzdpIC5ip4yL2UUvD), [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Ni rancoeur ni colère](https://open.spotify.com/album/3EINJyR2I0Qke3sb9hBUte) | 2:49 |
-| 40 | [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 |
+| 39 | [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 |
+| 40 | [L'amour à la plage \(with Alice on the roof\)](https://open.spotify.com/track/0n1GxWrgNWZKfmDdpuAJUf) | [Suarez](https://open.spotify.com/artist/6D40RuzdpIC5ip4yL2UUvD), [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Ni rancoeur ni colère](https://open.spotify.com/album/3EINJyR2I0Qke3sb9hBUte) | 2:49 |
 | 41 | [Histoire d'un amour](https://open.spotify.com/track/0GRKjWdbLYWnnts6LbUE43) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Les Annees Barclay](https://open.spotify.com/album/3bbpQ0vU7DZUADemJgig1n) | 3:05 |
-| 42 | [Aime\-moi encore](https://open.spotify.com/track/1Sft5kKO1SNO21kshqzIaz) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Acrophobie](https://open.spotify.com/album/6zBf71wZueuPdcCUq7FjzE) | 2:49 |
-| 43 | [Il me dit que je suis belle \(Version album\)](https://open.spotify.com/track/5oHLDVSTy3M5mXWNAgnzvF) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Je te dis vous](https://open.spotify.com/album/6IRWC0tQS54aZeL6ptB2TG) | 5:21 |
+| 42 | [Il me dit que je suis belle \(Version album\)](https://open.spotify.com/track/5oHLDVSTy3M5mXWNAgnzvF) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Je te dis vous](https://open.spotify.com/album/6IRWC0tQS54aZeL6ptB2TG) | 5:21 |
+| 43 | [Aime\-moi encore](https://open.spotify.com/track/1Sft5kKO1SNO21kshqzIaz) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Acrophobie](https://open.spotify.com/album/6zBf71wZueuPdcCUq7FjzE) | 2:49 |
 | 44 | [Boum Boum Boum](https://open.spotify.com/track/0h1yRXb0VDMH64xCsXoxaj) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [No Place In Heaven \(Special Edition\)](https://open.spotify.com/album/4ILxyc4VA9ymZVC8o6MyiX) | 3:26 |
 | 45 | [Comme j'ai toujours envie d'aimer \(version 2001\)](https://open.spotify.com/track/5E3wkDtNAPeqMNJHwczB55) | [Marc Hamilton](https://open.spotify.com/artist/4tSPtm10lKqc2KYps8Hslm) | [Comme j'ai toujours envie d'aimer](https://open.spotify.com/album/4zRTAGVOXT4kpqfEFjNcNH) | 3:17 |
 | 46 | [S'il suffisait d'aimer](https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:34 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 59 | [Je t'aime moi non plus](https://open.spotify.com/track/3YW3Tw3lLQfuPfklE76F3y) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo), [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Jane Birkin & Serge Gainsbourg](https://open.spotify.com/album/2JR65ppK6Z6h1lfV5fy7Fr) | 4:21 |
 | 60 | [Maladie d'amour](https://open.spotify.com/track/2PYiUmFOp3Zx0GHHTXUW8F) | [Jimmy Hunt](https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2) | [Maladie d'amour](https://open.spotify.com/album/5fEydxgjsCkuIXZcV2gIDV) | 3:24 |
 | 61 | [La bohème](https://open.spotify.com/track/2xmXyY7rye6nH5sMObxdbu) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [La Bohème](https://open.spotify.com/album/2AYkNAE68SK0xezVrJNFkC) | 4:07 |
-| 62 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
-| 63 | [Ecoute mon coeur](https://open.spotify.com/track/3S2SYHTaWB06riIlXKaOjm) | [Ria Bartok](https://open.spotify.com/artist/72a2NwGKFzbqBp88CGkWKO) | [La Belle Epoque \- EMI's French Girls 1965\-68](https://open.spotify.com/album/5etrwdUj5I4qj9rlGNPJR1) | 3:08 |
+| 62 | [Ecoute mon coeur](https://open.spotify.com/track/3S2SYHTaWB06riIlXKaOjm) | [Ria Bartok](https://open.spotify.com/artist/72a2NwGKFzbqBp88CGkWKO) | [La Belle Epoque \- EMI's French Girls 1965\-68](https://open.spotify.com/album/5etrwdUj5I4qj9rlGNPJR1) | 3:08 |
+| 63 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
 | 64 | [Oublie Pas](https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Le Volume Du Vent](https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF) | 3:06 |
 | 65 | [Je l'aime à mourir](https://open.spotify.com/track/4Gkand3D5w5hXmyWmLtcdT) | [Ariane Brunet](https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg) | [Elles chantent Cabrel](https://open.spotify.com/album/6t2XVmjJahrLkLpkcQfss0) | 3:06 |
 | 66 | [Quand j'aime une fois j'aime pour toujours](https://open.spotify.com/track/40PuSCcS6qI3J9iEJeP3od) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Desjardins](https://open.spotify.com/album/2VPoXJSzpdtKp5VTrds7XC) | 3:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 74 | [Chanson d'amour en sol standard](https://open.spotify.com/track/4jAgDuNmbaARi8zEQulw7v) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Mitan](https://open.spotify.com/album/4Zm0Sey2ULq1FS7YYaCQOB) | 5:36 |
 | 75 | [Ma préférence](https://open.spotify.com/track/28DzOSJv7d8NW96v0ZD804) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Limoilou \(Deluxe\)](https://open.spotify.com/album/32N6jwadyAwPmruhrGRB0J) | 2:49 |
 
-Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMGQxZTNhMTA5M2VjMTBjMDY1NjFjNjAyNzllMGU3OWFl`
+Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMGI3OTdhMzE4MGQ2YTBjZjc0OWQ5MGViM2MzZDc0YzE1`

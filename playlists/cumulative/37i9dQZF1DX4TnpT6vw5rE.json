@@ -494,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Avori",
+        "url": "https://open.spotify.com/album/4pWrxItDLygNwhM6pHIgeO"
+      },
+      "artists": [
+        {
+          "name": "Mirova",
+          "url": "https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171419,
+      "name": "Avori",
+      "url": "https://open.spotify.com/track/2Fq3ZwxleE9ahYEAvcZSji"
+    },
+    {
+      "album": {
         "name": "Awash",
         "url": "https://open.spotify.com/album/5G1QrK23ZwsQrKDjpbVNo7"
       },
@@ -2161,7 +2179,7 @@
       ],
       "date_added": "2021-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 196000,
       "name": "Mission at Beccles",
       "url": "https://open.spotify.com/track/0873bg61Q7WoVoKJXzNQCD"
@@ -2237,6 +2255,24 @@
       "duration_ms": 153000,
       "name": "Mystery of Time",
       "url": "https://open.spotify.com/track/2EecYffFBqS2sTprJXabvW"
+    },
+    {
+      "album": {
+        "name": "Mythos",
+        "url": "https://open.spotify.com/album/1SPAZKktXHa1QoUUNm0MON"
+      },
+      "artists": [
+        {
+          "name": "Carufo",
+          "url": "https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Mythos",
+      "url": "https://open.spotify.com/track/5wjfTGgoy0ZPtKF96GaUEb"
     },
     {
       "album": {
@@ -3001,7 +3037,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 170500,
       "name": "Sea of Light",
       "url": "https://open.spotify.com/track/5HvS3GWbrI2hzzOGqe52UG"

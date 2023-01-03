@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,167 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,286 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 5 | [Just Got Paid](https://open.spotify.com/track/7bNFkCSO1ofu3uzr6voY7T) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 4:27 |
 | 6 | [In My Time of Dying \- Remaster](https://open.spotify.com/track/4EUe6BsZm5wZLxOTaV3kDX) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 11:08 |
 | 7 | [Ain't No Easy Way](https://open.spotify.com/track/2fUUIfU0WurkHNLoUJwGnH) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT) | 2:36 |
-| 8 | [You Gotta Move](https://open.spotify.com/track/2En6kxGCjZxXmKJ1IYu4Fp) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [You Gotta Move](https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1) | 3:20 |
-| 9 | [Running on Faith \- Acoustic Live](https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 6:30 |
+| 8 | [Running on Faith \- Acoustic Live](https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 6:30 |
+| 9 | [You Gotta Move](https://open.spotify.com/track/2En6kxGCjZxXmKJ1IYu4Fp) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [You Gotta Move](https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1) | 3:20 |
 | 10 | [Catch Hell Blues](https://open.spotify.com/track/064unATFKRpnOwL1Yfvp39) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:18 |
 | 11 | [Diving Duck Blues](https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 4:28 |
 | 12 | [I'm In The Mood](https://open.spotify.com/track/1W3QQa9SG6zaftNQJchWY7) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [The Healer](https://open.spotify.com/album/2jKj2prskANfjyo13navEs) | 4:31 |
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 18 | [I Can't Be Satisfied](https://open.spotify.com/track/7FDFtgdyzlBN0tUo3boGZe) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:42 |
 | 19 | [Down In the Flood](https://open.spotify.com/track/5U51nS2N1TDL1HEHEio7mC) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Already Free](https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS) | 5:02 |
 | 20 | [Ground On Down](https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 4:53 |
-| 21 | [Old Friend](https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Hittin' the Note](https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL) | 6:12 |
-| 22 | [Dust My Broom](https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:55 |
-| 23 | [Feelin' Bad Blues \- 2008 Remaster](https://open.spotify.com/track/1mka0egloj2XnXJznzMCw6) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:16 |
-| 24 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:18 |
+| 21 | [Dust My Broom](https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:55 |
+| 22 | [Feelin' Bad Blues \- 2008 Remaster](https://open.spotify.com/track/1mka0egloj2XnXJznzMCw6) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:16 |
+| 23 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:18 |
+| 24 | [Old Friend](https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Hittin' the Note](https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL) | 6:12 |
 | 25 | [Congo Square](https://open.spotify.com/track/5MknKDH6Zh81k93y7YU6w6) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [South Of I\-10](https://open.spotify.com/album/3bmO15uks5XJehH4HVfjRO) | 6:20 |
 | 26 | [Mississippi](https://open.spotify.com/track/0JsQSLUInJGc5RmWAOBs9p) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 3:39 |
 | 27 | [Find a Way](https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:56 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 40 | [Walkin' Blues](https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Fight](https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK) | 4:22 |
 | 41 | [Sweet Home Chicago](https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu) | [John Hammond](https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR) | [At The Crossroads: The Blues Of Robert Johnson](https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc) | 4:28 |
 | 42 | [Gypsy In Me](https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:09 |
-| 43 | [Death Row](https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Gone to Texas](https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ) | 4:07 |
-| 44 | [In Your Town](https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Deuce \(Remastered 2017\)](https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ) | 5:44 |
+| 43 | [In Your Town](https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Deuce \(Remastered 2017\)](https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ) | 5:44 |
+| 44 | [Death Row](https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Gone to Texas](https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ) | 4:07 |
 | 45 | [Shake 'Em on Down](https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:49 |
 | 46 | [Statesboro Blues](https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC) | 4:06 |
 | 47 | [Death Letter Blues](https://open.spotify.com/track/5fO2jCKeCHRIduCq7X7O5e) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Martin Scorsese Presents The Blues: Son House](https://open.spotify.com/album/4HsEjPkFlM2XYST7SS73g4) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 49 | [Bad Girl Blues \- Remastered](https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:34 |
 | 50 | [You Got to Move](https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Steakbone Slide Guitar](https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn) | 2:59 |
 
-Snapshot ID: `MTY2ODY5NjMyNSwwMDAwMDAwMDdmZGY0OGMyZmM3YWZjZDE1NmNlOWNmMWUzNjU2NjY5`
+Snapshot ID: `MTY2ODY5NjMyNSwwMDAwMDAwMDFkNDcwYmViMzdkMWUxOWIyZDIzNTAzMTRlY2UwY2U1`

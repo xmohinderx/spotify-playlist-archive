@@ -1,12 +1,12 @@
 {
   "description": "A collection of powerful voices and alluring siren songs. ",
-  "num_followers": 602749,
+  "num_followers": 602848,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGZkMTI0ZThjMTlkNDQyYTlmOGZjY2Q0Y2VlZDRjMTY4",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGM1NjcyZGFmMTVlZDBmNjgxYjdkNDk3NGM2YTEyNGVj",
   "tracks": [
     {
       "added_at": "2022-07-22 02:11:14",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-07-22 02:11:14",
       "album": {
-        "name": "Harmony (Deluxe)",
-        "url": "https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7"
-      },
-      "artists": [
-        {
-          "name": "Serena Ryder",
-          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
-        }
-      ],
-      "duration_ms": 221746,
-      "name": "Stompa",
-      "url": "https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH"
-    },
-    {
-      "added_at": "2022-07-22 02:11:14",
-      "album": {
         "name": "POWER",
         "url": "https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 232186,
       "name": "Hands on You",
       "url": "https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi"
+    },
+    {
+      "added_at": "2022-07-22 02:11:14",
+      "album": {
+        "name": "Harmony (Deluxe)",
+        "url": "https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7"
+      },
+      "artists": [
+        {
+          "name": "Serena Ryder",
+          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+        }
+      ],
+      "duration_ms": 221746,
+      "name": "Stompa",
+      "url": "https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH"
     },
     {
       "added_at": "2022-07-22 02:11:14",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-07-22 02:11:14",
       "album": {
-        "name": "Dead in the Water",
-        "url": "https://open.spotify.com/album/5MhrlWBZnRVQrTIRzKkElX"
-      },
-      "artists": [
-        {
-          "name": "SPELLES",
-          "url": "https://open.spotify.com/artist/76UfJrb52tTTiDQNWEeCBY"
-        }
-      ],
-      "duration_ms": 189640,
-      "name": "Dead in the Water",
-      "url": "https://open.spotify.com/track/2VHMbDcuKELIqvB7bh1QhE"
-    },
-    {
-      "added_at": "2022-07-22 02:11:14",
-      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 233266,
       "name": "Highway Vagabond",
       "url": "https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo"
+    },
+    {
+      "added_at": "2022-07-22 02:11:14",
+      "album": {
+        "name": "Dead in the Water",
+        "url": "https://open.spotify.com/album/5MhrlWBZnRVQrTIRzKkElX"
+      },
+      "artists": [
+        {
+          "name": "SPELLES",
+          "url": "https://open.spotify.com/artist/76UfJrb52tTTiDQNWEeCBY"
+        }
+      ],
+      "duration_ms": 189640,
+      "name": "Dead in the Water",
+      "url": "https://open.spotify.com/track/2VHMbDcuKELIqvB7bh1QhE"
     },
     {
       "added_at": "2022-07-22 02:11:14",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-07-22 02:11:14",
       "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/3SA0R1i0Edc7JOvvhqni06"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "The Dark",
+      "url": "https://open.spotify.com/track/14e2jOLYQO9xPLqQKU9dCW"
+    },
+    {
+      "added_at": "2022-07-22 02:11:14",
+      "album": {
         "name": "Roses (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4rb0ToWRx0JUKakgtc8VOy"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 190560,
       "name": "Listen Up",
       "url": "https://open.spotify.com/track/1vtkAVGkmMckxrlbLEHhTx"
-    },
-    {
-      "added_at": "2022-07-22 02:11:14",
-      "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/3SA0R1i0Edc7JOvvhqni06"
-      },
-      "artists": [
-        {
-          "name": "ZZ Ward",
-          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "The Dark",
-      "url": "https://open.spotify.com/track/14e2jOLYQO9xPLqQKU9dCW"
     },
     {
       "added_at": "2022-07-22 02:11:14",

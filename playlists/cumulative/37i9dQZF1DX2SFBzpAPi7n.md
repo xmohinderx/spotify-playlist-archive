@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Cherry Filter\(체리필터\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Nell\(넬\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-426 songs - 1 day 2 hr 16 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
+427 songs - 1 day 2 hr 20 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Parting](https://open.spotify.com/track/6NpJD0Hkm4fbjqwqHRNHJt) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Parting](https://open.spotify.com/album/49M2LTtZI2Fl2M7w1isqAV) | 4:00 | 2022-04-12 | 2022-07-18 |
 | [Password 486](https://open.spotify.com/track/1KrreL8nKfx44ibk9sd9Cu) | [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Password 486](https://open.spotify.com/album/6pZdY6TKxDTkk6Ndi3eOt1) | 3:18 | 2022-09-01 | 2022-10-01 |
 | [PDSG](https://open.spotify.com/track/7h64srBKgw9bmocbk3EmGQ) | [April 2nd](https://open.spotify.com/artist/6p2HEgiJp6Dr0DI9p5n7nr) | [PDSG](https://open.spotify.com/album/1Owmn3lrAQzRTMtnlNfhCd) | 4:03 | 2022-05-11 | 2022-06-26 |
-| [Pianissimo \- 2022 Remixed Remastered](https://open.spotify.com/track/4bukywaDtuziUGdNOeMK3o) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Rocksteric](https://open.spotify.com/album/3HWyyy6xnbKLRuLv5skOnJ) | 3:49 | 2022-12-26 |  |
+| [Pianissimo \- 2022 Remixed Remastered](https://open.spotify.com/track/4bukywaDtuziUGdNOeMK3o) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Rocksteric](https://open.spotify.com/album/3HWyyy6xnbKLRuLv5skOnJ) | 3:49 | 2022-12-26 | 2023-01-03 |
 | [Pigeon 비둘기](https://open.spotify.com/track/33UpKCuBBaqJNkewD79QZN) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Pigeon 비둘기](https://open.spotify.com/album/5ohbhyXCdiKJ6ONWztPqy2) | 3:30 | 2022-04-22 | 2022-07-18 |
 | [PIRI](https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 3:26 | 2022-07-22 |  |
 | [Pisces](https://open.spotify.com/track/7ix35I3PNAN63JeV7feOG9) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Pisces](https://open.spotify.com/album/2xX2M89Ep7wZGhExNjtMIK) | 3:47 | 2022-05-24 | 2022-07-29 |
@@ -357,6 +357,7 @@
 | [Tempest](https://open.spotify.com/track/4RTeOflkCNdBmJymYk2JJj) | [Huckleberryfinn](https://open.spotify.com/artist/4HWH9BmIaKteAv5RmqWeZa) | [The Devil Judge \(Original Television Soundtrack\)](https://open.spotify.com/album/7dt9sjnoSCVuU4SLnHeFeG) | 4:29 | 2022-05-03 | 2022-07-09 |
 | [The Answer](https://open.spotify.com/track/6gnCg6Z7WcJ9qt8idMWiaj) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2), [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [daybreak X LUCY : Part.1](https://open.spotify.com/album/7k74Ulb6AeAPYPkUFVntyu) | 3:34 | 2022-04-12 | 2022-07-29 |
 | [The Assignment Song](https://open.spotify.com/track/6AZqC0amAg49hiTk67DWxL) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [The Assignment Song](https://open.spotify.com/album/772jJk9bGdOZB6k6uCWHGE) | 3:49 | 2022-05-02 | 2022-07-17 |
+| [The beauty of acceptance](https://open.spotify.com/track/7BrzmSCRaZ0GJv2Q0kAQUc) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [The beauty of acceptance](https://open.spotify.com/album/7mpeNqcw76RzWz70HGgUUB) | 4:33 | 2023-01-02 |  |
 | [The boy of June](https://open.spotify.com/track/3ayELZnkl36t100LdVnF20) | [igloobay](https://open.spotify.com/artist/4C8KZvLXUzzR2lFY580ATb) | [The boy of June](https://open.spotify.com/album/2nU6gOokfzK3iXpJm7m4Ny) | 3:35 | 2022-07-04 | 2022-07-09 |
 | [The Moment, To You](https://open.spotify.com/track/2ytFb5XXbbSX4oEgNDsceJ) | [Yoo Jungmok](https://open.spotify.com/artist/2KdO1rsQPujhuEF7eNclr9) | [The Vernal Equinox Vol.2](https://open.spotify.com/album/2dO4RUT8D9aPae0DawhmBW) | 4:07 | 2022-05-03 | 2022-05-12 |
 | [The Nation](https://open.spotify.com/track/2ZU9mOK47wo2BLXmvZ9lV4) | [PITTA](https://open.spotify.com/artist/6XM2UmNjSqY2kwSP0hoZDI) | [The Nation](https://open.spotify.com/album/1RRisKTmM1K9pKXMKNSyYF) | 3:27 | 2022-04-22 | 2022-07-08 |

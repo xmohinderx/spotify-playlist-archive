@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Plumas + Pedropiedra",
-  "num_followers": 199944,
+  "num_followers": 199942,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMDk1NDA4Mjk1YzY3NDQyNjgyZGJlY2IyZjdmMmQzMDQ1",
+  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMGU0YzA1YTMyZWIwMzU0NmNjMDg4NTU2OTBiZWUyNjYx",
   "tracks": [
     {
       "added_at": "2022-12-16 03:00:00",
@@ -147,6 +147,78 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Traicionera / El Reo Ausente (Desorden P\u00fablico rinde Homenaje al Indio Pastor L\u00f3pez)",
+        "url": "https://open.spotify.com/album/0hFL6zBllV0W3f9HdvMgMz"
+      },
+      "artists": [
+        {
+          "name": "Desorden P\u00fablico",
+          "url": "https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB"
+        },
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        },
+        {
+          "name": "Digital Charanga",
+          "url": "https://open.spotify.com/artist/5QJLZDRwx6z7xCKkk9QmBu"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Traicionera / El Reo Ausente - Desorden P\u00fablico rinde Homenaje al Indio Pastor L\u00f3pez",
+      "url": "https://open.spotify.com/track/4DPRgzo3TmEOM6DZM11cZU"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Nuestra se\u00f1al",
+      "url": "https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/7vDEFYg7ptetrcB5C3l9tj"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 209045,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/5aS9VmUxCXdG8NkmtivEOi"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Baladas del Fin del Mundo",
+        "url": "https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw"
+      },
+      "artists": [
+        {
+          "name": "Los Makana",
+          "url": "https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5"
+        }
+      ],
+      "duration_ms": 248593,
+      "name": "Revelando, Develando",
+      "url": "https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Julius Popper?",
         "url": "https://open.spotify.com/album/23fZQY7rzLPXzLJlmEhs6W"
       },
@@ -183,78 +255,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Digan Lo Que Digan",
-        "url": "https://open.spotify.com/album/2zmRkOB16XBx0QNXvlr469"
-      },
-      "artists": [
-        {
-          "name": "Beto Cuevas",
-          "url": "https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL"
-        }
-      ],
-      "duration_ms": 161298,
-      "name": "Digan Lo Que Digan",
-      "url": "https://open.spotify.com/track/4bULkLH35pHeVl0NzlVzid"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Baladas del Fin del Mundo",
-        "url": "https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw"
-      },
-      "artists": [
-        {
-          "name": "Los Makana",
-          "url": "https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5"
-        }
-      ],
-      "duration_ms": 248593,
-      "name": "Revelando, Develando",
-      "url": "https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Nuestra se\u00f1al",
-      "url": "https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Traicionera / El Reo Ausente (Desorden P\u00fablico rinde Homenaje al Indio Pastor L\u00f3pez)",
-        "url": "https://open.spotify.com/album/0hFL6zBllV0W3f9HdvMgMz"
-      },
-      "artists": [
-        {
-          "name": "Desorden P\u00fablico",
-          "url": "https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB"
-        },
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        },
-        {
-          "name": "Digital Charanga",
-          "url": "https://open.spotify.com/artist/5QJLZDRwx6z7xCKkk9QmBu"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Traicionera / El Reo Ausente - Desorden P\u00fablico rinde Homenaje al Indio Pastor L\u00f3pez",
-      "url": "https://open.spotify.com/track/4DPRgzo3TmEOM6DZM11cZU"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Adi\u00f3s",
         "url": "https://open.spotify.com/album/4L9szCk8k7IPt1LcdS0GfH"
       },
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/7vDEFYg7ptetrcB5C3l9tj"
+        "name": "Digan Lo Que Digan",
+        "url": "https://open.spotify.com/album/2zmRkOB16XBx0QNXvlr469"
       },
       "artists": [
         {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+          "name": "Beto Cuevas",
+          "url": "https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL"
         }
       ],
-      "duration_ms": 209045,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/5aS9VmUxCXdG8NkmtivEOi"
+      "duration_ms": 161298,
+      "name": "Digan Lo Que Digan",
+      "url": "https://open.spotify.com/track/4bULkLH35pHeVl0NzlVzid"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -299,22 +299,6 @@
       "duration_ms": 199961,
       "name": "Casualidades",
       "url": "https://open.spotify.com/track/6SzCC78V5SvyB1bRJCcIx6"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "La Culebra",
-        "url": "https://open.spotify.com/album/5mu4eaFjnSI1jDizjUTus1"
-      },
-      "artists": [
-        {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
-        }
-      ],
-      "duration_ms": 297934,
-      "name": "La Culebra",
-      "url": "https://open.spotify.com/track/6mE3MWroSgNl3kaCHB72DP"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -387,8 +371,8 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Abejas En La Miel",
-        "url": "https://open.spotify.com/album/10MlABdlVHamSJ4O2BT7G0"
+        "name": "La Culebra",
+        "url": "https://open.spotify.com/album/5mu4eaFjnSI1jDizjUTus1"
       },
       "artists": [
         {
@@ -396,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
         }
       ],
-      "duration_ms": 225696,
-      "name": "Abejas En La Miel",
-      "url": "https://open.spotify.com/track/0vnvBApffcXbV2QoEzjHCg"
+      "duration_ms": 297934,
+      "name": "La Culebra",
+      "url": "https://open.spotify.com/track/6mE3MWroSgNl3kaCHB72DP"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -439,6 +423,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Cerca del Sol",
+        "url": "https://open.spotify.com/album/2JyB6oVNlkblXEsdHlBks6"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 272871,
+      "name": "Cerca del Sol",
+      "url": "https://open.spotify.com/track/4LoB0vpJvhlROCaOMNJP78"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Madre Coraz\u00f3n de \u00c1tomo",
         "url": "https://open.spotify.com/album/5NIxNiU2TPC2bgjbJSyddE"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 232500,
       "name": "Madre Coraz\u00f3n de \u00c1tomo",
       "url": "https://open.spotify.com/track/3PSJCQuRCeowzPFRCVePsO"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Cerca del Sol",
-        "url": "https://open.spotify.com/album/2JyB6oVNlkblXEsdHlBks6"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 272871,
-      "name": "Cerca del Sol",
-      "url": "https://open.spotify.com/track/4LoB0vpJvhlROCaOMNJP78"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -495,8 +479,8 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Elijo Soledad",
-        "url": "https://open.spotify.com/album/03UF0yRngtiNd5gZaJ9Msk"
+        "name": "Abejas En La Miel",
+        "url": "https://open.spotify.com/album/10MlABdlVHamSJ4O2BT7G0"
       },
       "artists": [
         {
@@ -504,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
         }
       ],
-      "duration_ms": 267271,
-      "name": "Elijo Soledad",
-      "url": "https://open.spotify.com/track/0De9FIACgaulJDIzIN7jqq"
+      "duration_ms": 225696,
+      "name": "Abejas En La Miel",
+      "url": "https://open.spotify.com/track/0vnvBApffcXbV2QoEzjHCg"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -523,26 +507,6 @@
       "duration_ms": 233499,
       "name": "Sombras",
       "url": "https://open.spotify.com/track/7yty7k7SUnbm61GvnXPho3"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Mientras Duermes",
-        "url": "https://open.spotify.com/album/5Gv3HrGr085Rv4Fc2uuMm3"
-      },
-      "artists": [
-        {
-          "name": "Lanza Internacional",
-          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
-        },
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 219610,
-      "name": "Mientras Duermes",
-      "url": "https://open.spotify.com/track/1HZNMsGylrBnAuHkRMLl8O"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -567,6 +531,26 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Mientras Duermes",
+        "url": "https://open.spotify.com/album/5Gv3HrGr085Rv4Fc2uuMm3"
+      },
+      "artists": [
+        {
+          "name": "Lanza Internacional",
+          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
+        },
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 219610,
+      "name": "Mientras Duermes",
+      "url": "https://open.spotify.com/track/1HZNMsGylrBnAuHkRMLl8O"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Ases Falsos En El Coliseo",
         "url": "https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R"
       },
@@ -579,22 +563,6 @@
       "duration_ms": 243270,
       "name": "Mala Fama - En Vivo",
       "url": "https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 86063,
-      "name": "T\u00fa No Propones Na",
-      "url": "https://open.spotify.com/track/6nSO2TaVtEUsfz6nSLRTjq"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -615,6 +583,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 86063,
+      "name": "T\u00fa No Propones Na",
+      "url": "https://open.spotify.com/track/6nSO2TaVtEUsfz6nSLRTjq"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Abr\u00e1zame",
         "url": "https://open.spotify.com/album/5Beu32a70MC8gI1fh43xKW"
       },
@@ -631,6 +615,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Elijo Soledad",
+        "url": "https://open.spotify.com/album/03UF0yRngtiNd5gZaJ9Msk"
+      },
+      "artists": [
+        {
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+        }
+      ],
+      "duration_ms": 267271,
+      "name": "Elijo Soledad",
+      "url": "https://open.spotify.com/track/0De9FIACgaulJDIzIN7jqq"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Dual",
         "url": "https://open.spotify.com/album/3WywOeCZ9nXNnnTu5MBGIX"
       },
@@ -643,6 +643,42 @@
       "duration_ms": 264249,
       "name": "Dual",
       "url": "https://open.spotify.com/track/1i12FygtGjwPG3UBf6Nb8l"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "De Polic\u00eda a Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6"
+      },
+      "artists": [
+        {
+          "name": "Lanza Internacional",
+          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
+        }
+      ],
+      "duration_ms": 192646,
+      "name": "De Polic\u00eda a Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Carne (En vivo)",
+        "url": "https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        },
+        {
+          "name": "Claudio Valenzuela",
+          "url": "https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE"
+        }
+      ],
+      "duration_ms": 359233,
+      "name": "Carne - En Vivo",
+      "url": "https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -679,42 +715,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Carne (En vivo)",
-        "url": "https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        },
-        {
-          "name": "Claudio Valenzuela",
-          "url": "https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE"
-        }
-      ],
-      "duration_ms": 359233,
-      "name": "Carne - En Vivo",
-      "url": "https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "De Polic\u00eda a Ladr\u00f3n",
-        "url": "https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6"
-      },
-      "artists": [
-        {
-          "name": "Lanza Internacional",
-          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
-        }
-      ],
-      "duration_ms": 192646,
-      "name": "De Polic\u00eda a Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Rocanrol de los Misterios",
         "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "La Manera Correcta",
-        "url": "https://open.spotify.com/album/6oVkvaKUqAGlyNiLtjnSMx"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo Ya\u00f1ez",
-          "url": "https://open.spotify.com/artist/0IbRsXxQF51TMsTaVNfeqA"
-        }
-      ],
-      "duration_ms": 203684,
-      "name": "La Manera Correcta",
-      "url": "https://open.spotify.com/track/1tuLGickBIo4hN5CPHaa8I"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Lo Comido y Lo Bailado",
         "url": "https://open.spotify.com/album/61CtpH0g7Q4Vr4Tr6O1rLh"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 189568,
       "name": "El Vaiv\u00e9n",
       "url": "https://open.spotify.com/track/5aIrqFydkhSU25u6OQLRdT"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "La Manera Correcta",
+        "url": "https://open.spotify.com/album/6oVkvaKUqAGlyNiLtjnSMx"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo Ya\u00f1ez",
+          "url": "https://open.spotify.com/artist/0IbRsXxQF51TMsTaVNfeqA"
+        }
+      ],
+      "duration_ms": 203684,
+      "name": "La Manera Correcta",
+      "url": "https://open.spotify.com/track/1tuLGickBIo4hN5CPHaa8I"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Ya No Estamos Para Mentiras",
+        "url": "https://open.spotify.com/album/1Ne5vOQ8dkWWahYG2HyMgm"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 196317,
+      "name": "Ya No Estamos Para Mentiras",
+      "url": "https://open.spotify.com/track/7yJyFqkj0FFxjqXJ2Yfa7l"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Fuego y Mar",
         "url": "https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 224096,
       "name": "Fuego y Mar",
       "url": "https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Ya No Estamos Para Mentiras",
-        "url": "https://open.spotify.com/album/1Ne5vOQ8dkWWahYG2HyMgm"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 196317,
-      "name": "Ya No Estamos Para Mentiras",
-      "url": "https://open.spotify.com/track/7yJyFqkj0FFxjqXJ2Yfa7l"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Todo lo que sube",
-        "url": "https://open.spotify.com/album/2SnwhKbP6ibkBjbWFkB9nE"
-      },
-      "artists": [
-        {
-          "name": "Perrosky",
-          "url": "https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm"
-        }
-      ],
-      "duration_ms": 315288,
-      "name": "Todo lo que sube",
-      "url": "https://open.spotify.com/track/1FZZm0nu55sStVXCPt7Pab"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Hipertenso",
         "url": "https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o"
       },
@@ -927,6 +911,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Todo lo que sube",
+        "url": "https://open.spotify.com/album/2SnwhKbP6ibkBjbWFkB9nE"
+      },
+      "artists": [
+        {
+          "name": "Perrosky",
+          "url": "https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm"
+        }
+      ],
+      "duration_ms": 315288,
+      "name": "Todo lo que sube",
+      "url": "https://open.spotify.com/track/1FZZm0nu55sStVXCPt7Pab"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo"
       },
@@ -939,26 +939,6 @@
       "duration_ms": 218735,
       "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Sale",
-        "url": "https://open.spotify.com/album/0QceJCJqsKtfEfxQJZaKAD"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        },
-        {
-          "name": "Arlette Jequier",
-          "url": "https://open.spotify.com/artist/4gSoikgkAj7eScTWcLrmij"
-        }
-      ],
-      "duration_ms": 237940,
-      "name": "Sale",
-      "url": "https://open.spotify.com/track/0JwfanqBJszF8B8bVjuXuU"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -995,22 +975,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Lo Que Hemos Dejado",
-        "url": "https://open.spotify.com/album/2pbgDYhXjZ5bI74KpVOsft"
-      },
-      "artists": [
-        {
-          "name": "Perrosky",
-          "url": "https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm"
-        }
-      ],
-      "duration_ms": 231332,
-      "name": "Lo Que Hemos Dejado",
-      "url": "https://open.spotify.com/track/0FbRAe9HvEug0lRIGAmCv6"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Fantasma",
         "url": "https://open.spotify.com/album/0UmnKHtvruemxAzyiGpiuj"
       },
@@ -1043,6 +1007,26 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Sale",
+        "url": "https://open.spotify.com/album/0QceJCJqsKtfEfxQJZaKAD"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        },
+        {
+          "name": "Arlette Jequier",
+          "url": "https://open.spotify.com/artist/4gSoikgkAj7eScTWcLrmij"
+        }
+      ],
+      "duration_ms": 237940,
+      "name": "Sale",
+      "url": "https://open.spotify.com/track/0JwfanqBJszF8B8bVjuXuU"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Libido",
         "url": "https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 175114,
       "name": "Libido",
       "url": "https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Lo Que Hemos Dejado",
+        "url": "https://open.spotify.com/album/2pbgDYhXjZ5bI74KpVOsft"
+      },
+      "artists": [
+        {
+          "name": "Perrosky",
+          "url": "https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm"
+        }
+      ],
+      "duration_ms": 231332,
+      "name": "Lo Que Hemos Dejado",
+      "url": "https://open.spotify.com/track/0FbRAe9HvEug0lRIGAmCv6"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1135,38 +1135,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Clavelito Ant\u00e1rtico",
-        "url": "https://open.spotify.com/album/3VrIHqJEqLI27Yd86wF2Oj"
-      },
-      "artists": [
-        {
-          "name": "Hijo de Ladr\u00f3n",
-          "url": "https://open.spotify.com/artist/2X4WeD7RHacya71SNgMWgM"
-        }
-      ],
-      "duration_ms": 321972,
-      "name": "Clavelito Ant\u00e1rtico",
-      "url": "https://open.spotify.com/track/2X2FciR0lbbWcJUof3R8rw"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "Indirectas",
-        "url": "https://open.spotify.com/album/7wQOmI6hL0HoMPExNumQAf"
-      },
-      "artists": [
-        {
-          "name": "Corvje",
-          "url": "https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3"
-        }
-      ],
-      "duration_ms": 190693,
-      "name": "Indirectas",
-      "url": "https://open.spotify.com/track/7FywawaL45oYAqPHBM4YDk"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Hasta que el Agua al R\u00edo Brote",
         "url": "https://open.spotify.com/album/0WJaE3Sxl4dwLuL7GahTJL"
       },
@@ -1211,6 +1179,38 @@
       "duration_ms": 258331,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Clavelito Ant\u00e1rtico",
+        "url": "https://open.spotify.com/album/3VrIHqJEqLI27Yd86wF2Oj"
+      },
+      "artists": [
+        {
+          "name": "Hijo de Ladr\u00f3n",
+          "url": "https://open.spotify.com/artist/2X4WeD7RHacya71SNgMWgM"
+        }
+      ],
+      "duration_ms": 321972,
+      "name": "Clavelito Ant\u00e1rtico",
+      "url": "https://open.spotify.com/track/2X2FciR0lbbWcJUof3R8rw"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Indirectas",
+        "url": "https://open.spotify.com/album/7wQOmI6hL0HoMPExNumQAf"
+      },
+      "artists": [
+        {
+          "name": "Corvje",
+          "url": "https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3"
+        }
+      ],
+      "duration_ms": 190693,
+      "name": "Indirectas",
+      "url": "https://open.spotify.com/track/7FywawaL45oYAqPHBM4YDk"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Gris",
-        "url": "https://open.spotify.com/album/06S8bPjcB55y7YomGYHVCm"
-      },
-      "artists": [
-        {
-          "name": "Carga4",
-          "url": "https://open.spotify.com/artist/7oLFGxYGGi5T5iHABngpBM"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Gris",
-      "url": "https://open.spotify.com/track/3Rt94RtEaG0Er5fuq9mHRe"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Como te amo (Radio Edit)",
         "url": "https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 176471,
       "name": "Como te amo - Radio Edit",
       "url": "https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Gris",
+        "url": "https://open.spotify.com/album/06S8bPjcB55y7YomGYHVCm"
+      },
+      "artists": [
+        {
+          "name": "Carga4",
+          "url": "https://open.spotify.com/artist/7oLFGxYGGi5T5iHABngpBM"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Gris",
+      "url": "https://open.spotify.com/track/3Rt94RtEaG0Er5fuq9mHRe"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Voy Saliendo",
-        "url": "https://open.spotify.com/album/7HZGOnq1prj8mI0grmBkMa"
-      },
-      "artists": [
-        {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
-        }
-      ],
-      "duration_ms": 196336,
-      "name": "Voy Saliendo",
-      "url": "https://open.spotify.com/track/6pwvmkiqmpk2DSmBHfIu6W"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Reversiones, Vol. 1",
         "url": "https://open.spotify.com/album/6mIL0XM3koHXG3jyonuzMW"
       },
@@ -1371,6 +1355,38 @@
       "duration_ms": 315241,
       "name": "Volver",
       "url": "https://open.spotify.com/track/3x39YiMOzzkcEDg4FDZVEk"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Tu mundo al rev\u00e9s",
+        "url": "https://open.spotify.com/album/6RbRANaLEgi48pHVCECIuI"
+      },
+      "artists": [
+        {
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+        }
+      ],
+      "duration_ms": 224885,
+      "name": "Tu mundo al rev\u00e9s",
+      "url": "https://open.spotify.com/track/2xIa96oIh8soVkhCHGWvug"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Flores Pl\u00e1sticas",
+        "url": "https://open.spotify.com/album/0gZr1LBzr2XcRfkiZz0fO4"
+      },
+      "artists": [
+        {
+          "name": "Jurel S\u00f3nico & Los Impuros",
+          "url": "https://open.spotify.com/artist/5E82IAvqChVXuyo2cDUxPN"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Diversion",
+      "url": "https://open.spotify.com/track/3wNMVSpqdIEilxI5eH2vMK"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Flores Pl\u00e1sticas",
-        "url": "https://open.spotify.com/album/0gZr1LBzr2XcRfkiZz0fO4"
+        "name": "Voy Saliendo",
+        "url": "https://open.spotify.com/album/7HZGOnq1prj8mI0grmBkMa"
       },
       "artists": [
         {
-          "name": "Jurel S\u00f3nico & Los Impuros",
-          "url": "https://open.spotify.com/artist/5E82IAvqChVXuyo2cDUxPN"
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Diversion",
-      "url": "https://open.spotify.com/track/3wNMVSpqdIEilxI5eH2vMK"
+      "duration_ms": 196336,
+      "name": "Voy Saliendo",
+      "url": "https://open.spotify.com/track/6pwvmkiqmpk2DSmBHfIu6W"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Tu mundo al rev\u00e9s",
-        "url": "https://open.spotify.com/album/6RbRANaLEgi48pHVCECIuI"
-      },
-      "artists": [
-        {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
-        }
-      ],
-      "duration_ms": 224885,
-      "name": "Tu mundo al rev\u00e9s",
-      "url": "https://open.spotify.com/track/2xIa96oIh8soVkhCHGWvug"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Y Es Verdad",
         "url": "https://open.spotify.com/album/1StejThSepSyQ6158JaC4Z"
       },
@@ -1471,6 +1471,38 @@
       "duration_ms": 220236,
       "name": "Y Es Verdad",
       "url": "https://open.spotify.com/track/61l0LK7CU4fzifB7nUPKoI"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Camino Hacia el Sol",
+        "url": "https://open.spotify.com/album/5DxMciCzaK9ZgB68NZvWLG"
+      },
+      "artists": [
+        {
+          "name": "Club Calaca",
+          "url": "https://open.spotify.com/artist/6tMgnaQXrnY75jL1wktHRA"
+        }
+      ],
+      "duration_ms": 219286,
+      "name": "Camino Hacia el Sol",
+      "url": "https://open.spotify.com/track/4U2QDvSK05kZjbBFyGGXNs"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Vamos!",
+        "url": "https://open.spotify.com/album/3Llg6NgYDQpgiIOSYXh0cs"
+      },
+      "artists": [
+        {
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+        }
+      ],
+      "duration_ms": 219979,
+      "name": "Vamos!",
+      "url": "https://open.spotify.com/track/2bxaZPSCzC8wBN8JauKkor"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1507,22 +1539,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Camino Hacia el Sol",
-        "url": "https://open.spotify.com/album/5DxMciCzaK9ZgB68NZvWLG"
-      },
-      "artists": [
-        {
-          "name": "Club Calaca",
-          "url": "https://open.spotify.com/artist/6tMgnaQXrnY75jL1wktHRA"
-        }
-      ],
-      "duration_ms": 219286,
-      "name": "Camino Hacia el Sol",
-      "url": "https://open.spotify.com/track/4U2QDvSK05kZjbBFyGGXNs"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Dignidad",
         "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
       },
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Vamos!",
-        "url": "https://open.spotify.com/album/3Llg6NgYDQpgiIOSYXh0cs"
-      },
-      "artists": [
-        {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
-        }
-      ],
-      "duration_ms": 219979,
-      "name": "Vamos!",
-      "url": "https://open.spotify.com/track/2bxaZPSCzC8wBN8JauKkor"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
         "name": "Sofrito",
         "url": "https://open.spotify.com/album/5TH4Gp9Zne4iSgbhPu4Lgh"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 138715,
       "name": "Conspiradores",
       "url": "https://open.spotify.com/track/6r3Q5foiIWeKmX0yh1ikum"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/207ZNb5QEsdVRPGwB5iS3l"
+      },
+      "artists": [
+        {
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+        }
+      ],
+      "duration_ms": 204591,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/4XA016W1NpyZrKW0rzmip8"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Polic\u00eda Loca",
-        "url": "https://open.spotify.com/album/090MnaImdhok2B2OXv6gwF"
+        "name": "El Inquieto Alarido del Pinganilla Subversivo",
+        "url": "https://open.spotify.com/album/3zieYMVFYsb6sENa8IqmdL"
       },
       "artists": [
         {
-          "name": "Radio Veneno",
-          "url": "https://open.spotify.com/artist/5iZe17DQj9sY3ME8rXFrfI"
+          "name": "Chicanota",
+          "url": "https://open.spotify.com/artist/73ZDYjQrEIwv6dxSVl12mS"
         }
       ],
-      "duration_ms": 192049,
-      "name": "Polic\u00eda Loca",
-      "url": "https://open.spotify.com/track/5XiCtLCLCv9pycjDaQTug1"
+      "duration_ms": 328000,
+      "name": "Shina Blues",
+      "url": "https://open.spotify.com/track/4ScFXWoMdIZUEVJZv6mlWi"
     },
     {
       "added_at": "2022-12-16 03:00:00",
@@ -1651,34 +1667,18 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/207ZNb5QEsdVRPGwB5iS3l"
+        "name": "Polic\u00eda Loca",
+        "url": "https://open.spotify.com/album/090MnaImdhok2B2OXv6gwF"
       },
       "artists": [
         {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+          "name": "Radio Veneno",
+          "url": "https://open.spotify.com/artist/5iZe17DQj9sY3ME8rXFrfI"
         }
       ],
-      "duration_ms": 204591,
-      "name": "Diva",
-      "url": "https://open.spotify.com/track/4XA016W1NpyZrKW0rzmip8"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "El Inquieto Alarido del Pinganilla Subversivo",
-        "url": "https://open.spotify.com/album/3zieYMVFYsb6sENa8IqmdL"
-      },
-      "artists": [
-        {
-          "name": "Chicanota",
-          "url": "https://open.spotify.com/artist/73ZDYjQrEIwv6dxSVl12mS"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "Shina Blues",
-      "url": "https://open.spotify.com/track/4ScFXWoMdIZUEVJZv6mlWi"
+      "duration_ms": 192049,
+      "name": "Polic\u00eda Loca",
+      "url": "https://open.spotify.com/track/5XiCtLCLCv9pycjDaQTug1"
     },
     {
       "added_at": "2022-12-16 03:00:00",

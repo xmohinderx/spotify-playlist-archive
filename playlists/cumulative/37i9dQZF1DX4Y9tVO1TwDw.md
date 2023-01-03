@@ -4,7 +4,7 @@
 
 > Celebrating Latin Heritage Month con un poquito De TODO! Cover: Villano Antillano
 
-77 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/6DZwNA9MjbDEuxRfTl6EGo)
+78 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/6DZwNA9MjbDEuxRfTl6EGo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Si Acaso Vuelves](https://open.spotify.com/track/2JIfE0dJv2b8fTvHxZZ0kP) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Si Acaso Vuelves](https://open.spotify.com/album/6aTk7cTS9ClTgjefVjLel3) | 3:03 | 2022-09-14 |  |
 | [Si Te Preguntan...](https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Si Te Preguntan...](https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9) | 3:43 | 2022-09-14 |  |
 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 | 2022-09-14 |  |
-| [solo](https://open.spotify.com/track/3Ca34mFUBOXwWhWxfOsUv3) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [solo](https://open.spotify.com/album/7GqXnEzfhxnXYFdutyomuG) | 3:48 | 2022-09-14 |  |
+| [solo](https://open.spotify.com/track/3Ca34mFUBOXwWhWxfOsUv3) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [solo](https://open.spotify.com/album/7GqXnEzfhxnXYFdutyomuG) | 3:48 | 2022-09-14 | 2023-01-03 |
+| [solo](https://open.spotify.com/track/46CDWM2aCya6puIqIGaVaZ) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [solo](https://open.spotify.com/album/7r0ywAV1jtYvJGiFYqrQeZ) | 3:48 | 2022-10-11 |  |
 | [SPIDERCAT](https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ) | [SPIDERCAT](https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer) | 1:42 | 2022-09-14 |  |
 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 | 2022-09-14 |  |
 | [Tears At Bae](https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:22 | 2022-09-14 |  |

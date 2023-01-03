@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 70s.",
-  "num_followers": 1593235,
+  "num_followers": 1593871,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY5ODkyMywwMDAwMDAwMDUxYzUyMzU3MmFlNTVjMjRlNTE2YzU5NjAyYWViNzgz",
+  "snapshot_id": "MTY2ODY5ODkyMywwMDAwMDAwMDAzYWFkYWIzNWMzNzQxY2Y1MzI2MWFkYTA1NWIxNjJk",
   "tracks": [
     {
       "added_at": "2022-11-17 15:28:43",
@@ -187,38 +187,6 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 187866,
-      "name": "Imagine - Remastered 2010",
-      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
-    },
-    {
-      "added_at": "2022-11-17 15:28:43",
-      "album": {
-        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
-        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 547106,
-      "name": "Free Bird",
-      "url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
-    },
-    {
-      "added_at": "2022-11-17 15:28:43",
-      "album": {
         "name": "High Voltage",
         "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
       },
@@ -247,6 +215,54 @@
       "duration_ms": 223613,
       "name": "Go Your Own Way - 2004 Remaster",
       "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
+    },
+    {
+      "added_at": "2022-11-17 15:28:43",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 187866,
+      "name": "Imagine - Remastered 2010",
+      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
+    },
+    {
+      "added_at": "2022-11-17 15:28:43",
+      "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Immigrant Song - Remaster",
+      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
+    },
+    {
+      "added_at": "2022-11-17 15:28:43",
+      "album": {
+        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 547106,
+      "name": "Free Bird",
+      "url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -295,22 +311,6 @@
       "duration_ms": 211577,
       "name": "Take It Easy - 2013 Remaster",
       "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
-    },
-    {
-      "added_at": "2022-11-17 15:28:43",
-      "album": {
-        "name": "Led Zeppelin III (Remaster)",
-        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Immigrant Song - Remaster",
-      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "Agents Of Fortune",
-        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 308120,
-      "name": "(Don't Fear) The Reaper",
-      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
-    },
-    {
-      "added_at": "2022-11-17 15:28:43",
-      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "\"Heroes\" (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
+        "name": "Agents Of Fortune",
+        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
         }
       ],
-      "duration_ms": 371413,
-      "name": "Heroes - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
+      "duration_ms": 308120,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -507,6 +491,22 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
+        "name": "\"Heroes\" (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 371413,
+      "name": "Heroes - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
+    },
+    {
+      "added_at": "2022-11-17 15:28:43",
+      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
+    },
+    {
+      "added_at": "2022-11-17 15:28:43",
+      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 382296,
       "name": "Comfortably Numb",
       "url": "https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC"
-    },
-    {
-      "added_at": "2022-11-17 15:28:43",
-      "album": {
-        "name": "Jazz (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "Dirty Deeds Done Dirt Cheap",
-        "url": "https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Dirty Deeds Done Dirt Cheap",
-      "url": "https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT"
-    },
-    {
-      "added_at": "2022-11-17 15:28:43",
-      "album": {
         "name": "Some Girls",
         "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
+        "name": "Dirty Deeds Done Dirt Cheap",
+        "url": "https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Dirty Deeds Done Dirt Cheap",
+      "url": "https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT"
+    },
+    {
+      "added_at": "2022-11-17 15:28:43",
+      "album": {
         "name": "The Joker",
         "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
-        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 134466,
-      "name": "Blitzkrieg Bop - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
-    },
-    {
-      "added_at": "2022-11-17 15:28:43",
-      "album": {
         "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 274133,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
+    },
+    {
+      "added_at": "2022-11-17 15:28:43",
+      "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 134466,
+      "name": "Blitzkrieg Bop - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "Not Fragile",
-        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
-      },
-      "artists": [
-        {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "You Ain't Seen Nothing Yet",
-      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
-    },
-    {
-      "added_at": "2022-11-17 15:28:43",
-      "album": {
         "name": "Hunky Dory (2015 Remaster)",
         "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 235986,
       "name": "Life on Mars? - 2015 Remaster",
       "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
+    },
+    {
+      "added_at": "2022-11-17 15:28:43",
+      "album": {
+        "name": "Not Fragile",
+        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
+      },
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "You Ain't Seen Nothing Yet",
+      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "A New World Record",
-        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "Livin' Thing",
-      "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
-    },
-    {
-      "added_at": "2022-11-17 15:28:43",
-      "album": {
         "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
         "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 241991,
       "name": "Lola - 2020 Stereo Remaster",
       "url": "https://open.spotify.com/track/4ZKgPZ9d4V5WW6H2s4qMD3"
+    },
+    {
+      "added_at": "2022-11-17 15:28:43",
+      "album": {
+        "name": "A New World Record",
+        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Livin' Thing",
+      "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "The Runaways",
-        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
-      },
-      "artists": [
-        {
-          "name": "The Runaways",
-          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "Cherry Bomb",
-      "url": "https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"
-    },
-    {
-      "added_at": "2022-11-17 15:28:43",
-      "album": {
         "name": "A Day At The Races (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 296493,
       "name": "Somebody To Love - Remastered 2011",
       "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
+    },
+    {
+      "added_at": "2022-11-17 15:28:43",
+      "album": {
+        "name": "The Runaways",
+        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
+      },
+      "artists": [
+        {
+          "name": "The Runaways",
+          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "Cherry Bomb",
+      "url": "https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "Paranoid (Remaster)",
-        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+        "name": "The Essential Billy Joel",
+        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
       },
       "artists": [
         {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 355303,
-      "name": "Iron Man - 2012 - Remaster",
-      "url": "https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9"
+      "duration_ms": 336093,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/3FCto7hnn1shUyZL42YgfO"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "The Essential Billy Joel",
-        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
+        "name": "Paranoid (Remaster)",
+        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 336093,
-      "name": "Piano Man",
-      "url": "https://open.spotify.com/track/3FCto7hnn1shUyZL42YgfO"
+      "duration_ms": 355303,
+      "name": "Iron Man - 2012 - Remaster",
+      "url": "https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "Cosmo's Factory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 147493,
-      "name": "Who'll Stop The Rain",
-      "url": "https://open.spotify.com/track/3Bh6uInhcVBVvLraGZdkKD"
-    },
-    {
-      "added_at": "2022-11-17 15:28:43",
-      "album": {
         "name": "All The Young Dudes (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 211066,
       "name": "All the Young Dudes",
       "url": "https://open.spotify.com/track/0WNGPpmWqzPnk0psUhJ3SX"
+    },
+    {
+      "added_at": "2022-11-17 15:28:43",
+      "album": {
+        "name": "Electric Warrior [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Bang a Gong (Get It On) - 2003 Remaster",
+      "url": "https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "Electric Warrior [Expanded & Remastered]",
-        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
       },
       "artists": [
         {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Bang a Gong (Get It On) - 2003 Remaster",
-      "url": "https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm"
+      "duration_ms": 147493,
+      "name": "Who'll Stop The Rain",
+      "url": "https://open.spotify.com/track/3Bh6uInhcVBVvLraGZdkKD"
     },
     {
       "added_at": "2022-11-17 15:28:43",

@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Lee Fields",
-  "num_followers": 169449,
+  "num_followers": 169809,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMGY3OWJiMGVhYjhiYTdkNTJkZTQwOTc3ZWI3MzVkNTNh",
+  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMDA2OGFlOTBhODljMTNkZmU2YTc3MTQ0ZjE1ZjA3N2E0",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -389,30 +389,6 @@
       "url": "https://open.spotify.com/track/7a5xvCgoD8qFEQmO8Jjvtf"
     },
     {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "An Evening With Silk Sonic",
-        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 284870,
-      "name": "Blast Off",
-      "url": "https://open.spotify.com/track/2kpoReN3MY7I0tSF902n0z"
-    },
-    {
       "added_at": "2021-07-09 02:40:08",
       "album": {
         "name": "Tearing At The Seams",
@@ -491,6 +467,30 @@
       "duration_ms": 218613,
       "name": "Rome",
       "url": "https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "duration_ms": 284870,
+      "name": "Blast Off",
+      "url": "https://open.spotify.com/track/2kpoReN3MY7I0tSF902n0z"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -661,24 +661,20 @@
       "url": "https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu"
     },
     {
-      "added_at": "2021-08-02 16:49:06",
+      "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Private Space",
-        "url": "https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW"
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
       },
       "artists": [
         {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
         }
       ],
-      "duration_ms": 254722,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
+      "duration_ms": 222320,
+      "name": "Sun Go Down",
+      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -699,22 +695,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Lazy Days",
-        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
-      },
-      "artists": [
-        {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Sun Go Down",
-      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -729,20 +709,24 @@
       "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
+      "added_at": "2021-08-02 16:49:06",
       "album": {
-        "name": "Matters of the Heart",
-        "url": "https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa"
+        "name": "Private Space",
+        "url": "https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW"
       },
       "artists": [
         {
-          "name": "RuthAnne",
-          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
       ],
-      "duration_ms": 210454,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/1rbykFoRXzj8yEG1Wyu6FC"
+      "duration_ms": 254722,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -759,6 +743,22 @@
       "duration_ms": 188155,
       "name": "Just Like You Used To",
       "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Matters of the Heart",
+        "url": "https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa"
+      },
+      "artists": [
+        {
+          "name": "RuthAnne",
+          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
+        }
+      ],
+      "duration_ms": 210454,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1rbykFoRXzj8yEG1Wyu6FC"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/2M7UdnD0fEaryh8TnCvqFX"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "American Love Call",
-        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        }
-      ],
-      "duration_ms": 200686,
-      "name": "Don\u2019t You Know",
-      "url": "https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c"
-    },
-    {
       "added_at": "2021-09-10 04:02:00",
       "album": {
         "name": "If Words Were Flowers",
@@ -855,6 +839,22 @@
       "duration_ms": 228553,
       "name": "So Caught Up",
       "url": "https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "American Love Call",
+        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        }
+      ],
+      "duration_ms": 200686,
+      "name": "Don\u2019t You Know",
+      "url": "https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -921,26 +921,6 @@
       "url": "https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Cruisin' To The Parque feat. Y La Bamba",
-        "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 215204,
-      "name": "Cruisin' to the Parque feat. Y La Bamba",
-      "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
-    },
-    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "Thee Sacred Souls",
@@ -989,6 +969,26 @@
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Cruisin' To The Parque feat. Y La Bamba",
+        "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 215204,
+      "name": "Cruisin' to the Parque feat. Y La Bamba",
+      "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
+    },
+    {
       "added_at": "2021-11-05 04:01:00",
       "album": {
         "name": "Arcadia",
@@ -1019,22 +1019,6 @@
       "duration_ms": 255227,
       "name": "Hard Up",
       "url": "https://open.spotify.com/track/2PdrcHhYBZdzP4yhkgpuhw"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Durand Jones & The Indications (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        }
-      ],
-      "duration_ms": 229403,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1105,6 +1089,22 @@
       "url": "https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy"
     },
     {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Durand Jones & The Indications (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        }
+      ],
+      "duration_ms": 229403,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
+    },
+    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "By Design [Evel Knievel]",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 204747,
-      "name": "Through It All",
-      "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Last One Standing (Radio Edit)",
@@ -1169,20 +1153,36 @@
       "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
+      "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Tell 'Em What Your Name Is!",
-        "url": "https://open.spotify.com/album/3BYdrXB8qCr0ImFpKIRI8J"
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
       },
       "artists": [
         {
-          "name": "Black Joe Lewis & The Honeybears",
-          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
         }
       ],
-      "duration_ms": 247133,
-      "name": "I'm Broke",
-      "url": "https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU"
+      "duration_ms": 204747,
+      "name": "Through It All",
+      "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "A Strange Arrangement",
+        "url": "https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 150933,
+      "name": "Just Ain't Gonna Work Out",
+      "url": "https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X"
     }
   ],
   "unique_name": "Retro Soul",

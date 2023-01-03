@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 2000s! Cover: Shakira",
-  "num_followers": 241159,
+  "num_followers": 241282,
   "original_name": "00s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDMxNSwwMDAwMDAwMDk0NzBhNzY1NmQ4NWU5YzJjZDQwNTVmM2RkYjJiY2Q5",
+  "snapshot_id": "MTY2MTkzMDMxNSwwMDAwMDAwMDIyNjgxMjFlYzMzODExNzA0ODhhNTFkNjNiYzYxMWI5",
   "tracks": [
     {
       "added_at": "2022-08-31 07:18:35",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-08-31 07:18:35",
       "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "Lo Que Pas\u00f3, Pas\u00f3",
-      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
-    },
-    {
-      "added_at": "2022-08-31 07:18:35",
-      "album": {
         "name": "Ciclos",
         "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
       },
@@ -227,6 +211,22 @@
     {
       "added_at": "2022-08-31 07:18:35",
       "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 210933,
+      "name": "Lo Que Pas\u00f3, Pas\u00f3",
+      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
+    },
+    {
+      "added_at": "2022-08-31 07:18:35",
+      "album": {
         "name": "Tha Smokin' Nephew",
         "url": "https://open.spotify.com/album/42LlDinsxjsByAqqpZXRp4"
       },
@@ -259,6 +259,26 @@
       "duration_ms": 193826,
       "name": "Todo Cambi\u00f3",
       "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
+    },
+    {
+      "added_at": "2022-08-31 07:18:35",
+      "album": {
+        "name": "Fijaci\u00f3n Oral, Vol. 1",
+        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "La Tortura (feat. Alejandro Sanz)",
+      "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
     },
     {
       "added_at": "2022-08-31 07:18:35",
@@ -335,26 +355,6 @@
     {
       "added_at": "2022-08-31 07:18:35",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 192760,
-      "name": "Eres para M\u00ed (with Anita Tijoux)",
-      "url": "https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3"
-    },
-    {
-      "added_at": "2022-08-31 07:18:35",
-      "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
@@ -375,22 +375,22 @@
     {
       "added_at": "2022-08-31 07:18:35",
       "album": {
-        "name": "Fijaci\u00f3n Oral, Vol. 1",
-        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         },
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
         }
       ],
-      "duration_ms": 212893,
-      "name": "La Tortura (feat. Alejandro Sanz)",
-      "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
+      "duration_ms": 192760,
+      "name": "Eres para M\u00ed (with Anita Tijoux)",
+      "url": "https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3"
     },
     {
       "added_at": "2022-08-31 07:18:35",
@@ -407,22 +407,6 @@
       "duration_ms": 219533,
       "name": "Ni T\u00fa Ni Nadie",
       "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
-    },
-    {
-      "added_at": "2022-08-31 07:18:35",
-      "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
     },
     {
       "added_at": "2022-08-31 07:18:35",
@@ -507,6 +491,22 @@
     {
       "added_at": "2022-08-31 07:18:35",
       "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+    },
+    {
+      "added_at": "2022-08-31 07:18:35",
+      "album": {
         "name": "Caraluna",
         "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
       },
@@ -559,26 +559,6 @@
       "duration_ms": 211466,
       "name": "Ser O Parecer",
       "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
-    },
-    {
-      "added_at": "2022-08-31 07:18:35",
-      "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
     },
     {
       "added_at": "2022-08-31 07:18:35",
@@ -671,6 +651,26 @@
     {
       "added_at": "2022-08-31 07:18:35",
       "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
+    },
+    {
+      "added_at": "2022-08-31 07:18:35",
+      "album": {
         "name": "Masterpiece: Nuestra Obra Maestra",
         "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 225693,
       "name": "Down",
       "url": "https://open.spotify.com/track/0t0WIrjRcvgBAwLlby2gsZ"
+    },
+    {
+      "added_at": "2022-08-31 07:18:35",
+      "album": {
+        "name": "Elefante",
+        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
     },
     {
       "added_at": "2022-08-31 07:18:35",
@@ -727,38 +743,6 @@
     {
       "added_at": "2022-08-31 07:18:35",
       "album": {
-        "name": "Elefante",
-        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
-    },
-    {
-      "added_at": "2022-08-31 07:18:35",
-      "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "Volverte A Ver",
-      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
-    },
-    {
-      "added_at": "2022-08-31 07:18:35",
-      "album": {
         "name": "Nina Sky",
         "url": "https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 232000,
       "name": "Move Ya Body",
       "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
+    },
+    {
+      "added_at": "2022-08-31 07:18:35",
+      "album": {
+        "name": "Hijas del Tomate",
+        "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
+      },
+      "artists": [
+        {
+          "name": "Las Ketchup",
+          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "The Ketchup Song (Aserej\u00e9) - Spanglish Version",
+      "url": "https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie"
     },
     {
       "added_at": "2022-08-31 07:18:35",
@@ -811,46 +811,6 @@
     {
       "added_at": "2022-08-31 07:18:35",
       "album": {
-        "name": "Rebelde",
-        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
-      },
-      "artists": [
-        {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
-        },
-        {
-          "name": "Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Maite Perroni",
-          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
-        },
-        {
-          "name": "Christian Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
-        },
-        {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
-        },
-        {
-          "name": "Alfonso Herrera",
-          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
-        }
-      ],
-      "duration_ms": 214306,
-      "name": "Rebelde",
-      "url": "https://open.spotify.com/track/56tOMi4N980gmsdUoyaLb3"
-    },
-    {
-      "added_at": "2022-08-31 07:18:35",
-      "album": {
         "name": "Prince Royce",
         "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
       },
@@ -867,18 +827,18 @@
     {
       "added_at": "2022-08-31 07:18:35",
       "album": {
-        "name": "Hijas del Tomate",
-        "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
       "artists": [
         {
-          "name": "Las Ketchup",
-          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 213973,
-      "name": "The Ketchup Song (Aserej\u00e9) - Spanglish Version",
-      "url": "https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie"
+      "duration_ms": 217560,
+      "name": "Volverte A Ver",
+      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
     },
     {
       "added_at": "2022-08-31 07:18:35",
@@ -927,6 +887,46 @@
       "duration_ms": 240973,
       "name": "Oye Mi Canto",
       "url": "https://open.spotify.com/track/3J6vrRMz6EfwH2sgYiyNhc"
+    },
+    {
+      "added_at": "2022-08-31 07:18:35",
+      "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "duration_ms": 214306,
+      "name": "Rebelde",
+      "url": "https://open.spotify.com/track/56tOMi4N980gmsdUoyaLb3"
     },
     {
       "added_at": "2022-08-31 07:18:35",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-08-31 07:18:35",
       "album": {
+        "name": "Los Rayos",
+        "url": "https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 239040,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/1crk0MXXyFQ1zVow6YTJOo"
+    },
+    {
+      "added_at": "2022-08-31 07:18:35",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 215746,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/7F7qwp7VZRVwZsNoddRRgX"
-    },
-    {
-      "added_at": "2022-08-31 07:18:35",
-      "album": {
-        "name": "Los Rayos",
-        "url": "https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 239040,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/1crk0MXXyFQ1zVow6YTJOo"
     },
     {
       "added_at": "2022-08-31 07:18:35",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-08-31 07:18:35",
       "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "Genio Atrapado",
-      "url": "https://open.spotify.com/track/3ne8ipFCs7RUr2K6QoD6BQ"
-    },
-    {
-      "added_at": "2022-08-31 07:18:35",
-      "album": {
         "name": "N.O.R.E. Y La Familia",
         "url": "https://open.spotify.com/album/0RLMAxS9mhy149lu93u7GA"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 274946,
       "name": "Mas Maiz",
       "url": "https://open.spotify.com/track/3r3v3yoi2dEowTwO1IAfLy"
+    },
+    {
+      "added_at": "2022-08-31 07:18:35",
+      "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "Genio Atrapado",
+      "url": "https://open.spotify.com/track/3ne8ipFCs7RUr2K6QoD6BQ"
     }
   ],
   "unique_name": "00s Latino",

@@ -1,12 +1,12 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u6211\u60f3\u5922\u898b\u4f60 \u53ef\u4f60\u6c92\u56de\u61c9\n\u5225\u6015\u6211\u518d\u6b21\u7d93\u6b77\u5206\u96e2\n\u6211\u60f3\u4f60 \u5c31\u770b\u770b\u93e1\u5b50\u88e1\u7684\u6211\u81ea\u5df1\u3002",
-  "num_followers": 189071,
+  "num_followers": 189094,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ3MTc3NiwwMDAwMDAwMDlhMWU3YmNhODA4NGY1NjUxNGMyNTUyMzRhM2ZhNmEw",
+  "snapshot_id": "MTY2NzQ3MTc3NiwwMDAwMDAwMDI5MzBhMGU1ZjQzZWRjNThiYWQwNzkwYzA0Y2NkN2Vl",
   "tracks": [
     {
       "added_at": "2022-11-03 10:36:16",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-11-03 10:36:16",
       "album": {
+        "name": "\u4f60\u4e0d\u5c6c\u65bc\u6211 (\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u5f71\u96c6\u7248\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 322266,
+      "name": "\u4f60\u4e0d\u5c6c\u65bc\u6211 - \u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u5f71\u96c6\u7248\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm"
+    },
+    {
+      "added_at": "2022-11-03 10:36:16",
+      "album": {
         "name": "\u4e03\u91cc\u9999",
         "url": "https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC"
       },
@@ -219,22 +235,6 @@
     {
       "added_at": "2022-11-03 10:36:16",
       "album": {
-        "name": "\u4f60\u4e0d\u5c6c\u65bc\u6211 (\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u5f71\u96c6\u7248\u7247\u5c3e\u66f2)",
-        "url": "https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 322266,
-      "name": "\u4f60\u4e0d\u5c6c\u65bc\u6211 - \u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u5f71\u96c6\u7248\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm"
-    },
-    {
-      "added_at": "2022-11-03 10:36:16",
-      "album": {
         "name": "\u771f\u7684\u50bb (\u96fb\u5f71\u300a\u4e00\u543b\u5b9a\u60c5\u300b\u8ffd\u611b\u7248\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/1kwz2DPjIizXiCnWz6ru2s"
       },
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-11-03 10:36:16",
       "album": {
-        "name": "\u7368\u5bb6\u8a18\u61b6",
-        "url": "https://open.spotify.com/album/4q9kSxmIeeJgRMhZC6AE0J"
+        "name": "\u611b,\u6559\u6703\u6211\u5011\u7684\u4e8b",
+        "url": "https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc"
       },
       "artists": [
         {
-          "name": "Jordan Chan",
-          "url": "https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U"
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
         }
       ],
-      "duration_ms": 307093,
-      "name": "\u7368\u5bb6\u8a18\u61b6",
-      "url": "https://open.spotify.com/track/3cSHn8YDBsq4Tlc4RXKSUe"
+      "duration_ms": 287306,
+      "name": "\u4f60,\u597d\u4e0d\u597d? - TVBS\u9023\u7e8c\u5287\u3010\u907a\u61be\u62fc\u5716\u3011\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS"
     },
     {
       "added_at": "2022-11-03 10:36:16",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-11-03 10:36:16",
       "album": {
+        "name": "\u7368\u5bb6\u8a18\u61b6",
+        "url": "https://open.spotify.com/album/4q9kSxmIeeJgRMhZC6AE0J"
+      },
+      "artists": [
+        {
+          "name": "Jordan Chan",
+          "url": "https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U"
+        }
+      ],
+      "duration_ms": 307093,
+      "name": "\u7368\u5bb6\u8a18\u61b6",
+      "url": "https://open.spotify.com/track/3cSHn8YDBsq4Tlc4RXKSUe"
+    },
+    {
+      "added_at": "2022-11-03 10:36:16",
+      "album": {
         "name": "Album 1",
         "url": "https://open.spotify.com/album/2AjWUJJJekECU7JAezYTIV"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 289066,
       "name": "\u6211\u61f7\u5ff5\u7684",
       "url": "https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21"
-    },
-    {
-      "added_at": "2022-11-03 10:36:16",
-      "album": {
-        "name": "\u611b,\u6559\u6703\u6211\u5011\u7684\u4e8b",
-        "url": "https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 287306,
-      "name": "\u4f60,\u597d\u4e0d\u597d? - TVBS\u9023\u7e8c\u5287\u3010\u907a\u61be\u62fc\u5716\u3011\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS"
     },
     {
       "added_at": "2022-11-03 10:36:16",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-11-03 10:36:16",
       "album": {
-        "name": "11\u6708\u7684\u856d\u90a6",
-        "url": "https://open.spotify.com/album/6rRydp9XlVoLfTtA3qpWcn"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "\u6953",
-      "url": "https://open.spotify.com/track/2YzJaHvzsEb1LzGugXIduK"
-    },
-    {
-      "added_at": "2022-11-03 10:36:16",
-      "album": {
         "name": "\u8a8d\u4e86\u5427",
         "url": "https://open.spotify.com/album/2CKvwKuHcZvnt4mC9DB6Fk"
       },
@@ -423,22 +407,6 @@
       "duration_ms": 250493,
       "name": "\u597d\u4e45\u4e0d\u898b",
       "url": "https://open.spotify.com/track/7LHaRfgjJzOEzvnAZVxxtR"
-    },
-    {
-      "added_at": "2022-11-03 10:36:16",
-      "album": {
-        "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c (\u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 309840,
-      "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c - \u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe"
     },
     {
       "added_at": "2022-11-03 10:36:16",
@@ -459,6 +427,54 @@
     {
       "added_at": "2022-11-03 10:36:16",
       "album": {
+        "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c (\u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 309840,
+      "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c - \u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe"
+    },
+    {
+      "added_at": "2022-11-03 10:36:16",
+      "album": {
+        "name": "\u8303\u9038\u81e3\u7b2c\u4e00\u5f35\u500b\u4eba\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw"
+      },
+      "artists": [
+        {
+          "name": "Fan Yi Chen",
+          "url": "https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct"
+        }
+      ],
+      "duration_ms": 288773,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK"
+    },
+    {
+      "added_at": "2022-11-03 10:36:16",
+      "album": {
+        "name": "11\u6708\u7684\u856d\u90a6",
+        "url": "https://open.spotify.com/album/6rRydp9XlVoLfTtA3qpWcn"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "\u6953",
+      "url": "https://open.spotify.com/track/2YzJaHvzsEb1LzGugXIduK"
+    },
+    {
+      "added_at": "2022-11-03 10:36:16",
+      "album": {
         "name": "\u5f90\u4f73\u7469LaLa\u9996\u5f35\u5275\u4f5c\u5c08\u8f2f",
         "url": "https://open.spotify.com/album/5j3PCRtHQABiQLCgiRIsAk"
       },
@@ -471,6 +487,38 @@
       "duration_ms": 299346,
       "name": "\u5931\u843d\u6c99\u6d32",
       "url": "https://open.spotify.com/track/4vBoopG4WzohMju1GUmwoi"
+    },
+    {
+      "added_at": "2022-11-03 10:36:16",
+      "album": {
+        "name": "\u5d07\u62dc",
+        "url": "https://open.spotify.com/album/75wQXImqEikrSo5Uon4Pxr"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 272973,
+      "name": "\u6703\u547c\u5438\u7684\u75db",
+      "url": "https://open.spotify.com/track/5IgElbSREzVyqgf1OCuKJd"
+    },
+    {
+      "added_at": "2022-11-03 10:36:16",
+      "album": {
+        "name": "\u6211\u611b\u4e0a\u7684",
+        "url": "https://open.spotify.com/album/4s6z6tx4tMRKjjtyhtPQzb"
+      },
+      "artists": [
+        {
+          "name": "Della",
+          "url": "https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "\u731c\u4e0d\u900f",
+      "url": "https://open.spotify.com/track/5FGzM47D9MUa0y7qb2D0Ix"
     },
     {
       "added_at": "2022-11-03 10:36:16",
@@ -495,66 +543,18 @@
     {
       "added_at": "2022-11-03 10:36:16",
       "album": {
-        "name": "\u8303\u9038\u81e3\u7b2c\u4e00\u5f35\u500b\u4eba\u5c08\u8f2f",
-        "url": "https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw"
+        "name": "\u8a8d\u4e86\u5427",
+        "url": "https://open.spotify.com/album/2CKvwKuHcZvnt4mC9DB6Fk"
       },
       "artists": [
         {
-          "name": "Fan Yi Chen",
-          "url": "https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct"
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
         }
       ],
-      "duration_ms": 288773,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK"
-    },
-    {
-      "added_at": "2022-11-03 10:36:16",
-      "album": {
-        "name": "\u5d07\u62dc",
-        "url": "https://open.spotify.com/album/75wQXImqEikrSo5Uon4Pxr"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 272973,
-      "name": "\u6703\u547c\u5438\u7684\u75db",
-      "url": "https://open.spotify.com/track/5IgElbSREzVyqgf1OCuKJd"
-    },
-    {
-      "added_at": "2022-11-03 10:36:16",
-      "album": {
-        "name": "\u9b54\u6770\u5ea7",
-        "url": "https://open.spotify.com/album/6pmapc89HjY4f16ARzrmBB"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 254720,
-      "name": "\u8aaa\u597d\u7684\u5e78\u798f\u5462",
-      "url": "https://open.spotify.com/track/6W2tmkeuHKaedHhdTPnyVs"
-    },
-    {
-      "added_at": "2022-11-03 10:36:16",
-      "album": {
-        "name": "\u6211\u611b\u4e0a\u7684",
-        "url": "https://open.spotify.com/album/4s6z6tx4tMRKjjtyhtPQzb"
-      },
-      "artists": [
-        {
-          "name": "Della",
-          "url": "https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "\u731c\u4e0d\u900f",
-      "url": "https://open.spotify.com/track/5FGzM47D9MUa0y7qb2D0Ix"
+      "duration_ms": 285000,
+      "name": "\u6dd8\u6c70",
+      "url": "https://open.spotify.com/track/3aawXLnJpcDVXCl1UUksAW"
     },
     {
       "added_at": "2022-11-03 10:36:16",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-11-03 10:36:16",
       "album": {
-        "name": "\u8a8d\u4e86\u5427",
-        "url": "https://open.spotify.com/album/2CKvwKuHcZvnt4mC9DB6Fk"
-      },
-      "artists": [
-        {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "\u6dd8\u6c70",
-      "url": "https://open.spotify.com/track/3aawXLnJpcDVXCl1UUksAW"
-    },
-    {
-      "added_at": "2022-11-03 10:36:16",
-      "album": {
         "name": "\u6709\u4e00\u7a2e\u60b2\u50b7 (\u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 237000,
       "name": "\u6709\u4e00\u7a2e\u60b2\u50b7 - \u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG"
+    },
+    {
+      "added_at": "2022-11-03 10:36:16",
+      "album": {
+        "name": "\u9b54\u6770\u5ea7",
+        "url": "https://open.spotify.com/album/6pmapc89HjY4f16ARzrmBB"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "\u8aaa\u597d\u7684\u5e78\u798f\u5462",
+      "url": "https://open.spotify.com/track/6W2tmkeuHKaedHhdTPnyVs"
     },
     {
       "added_at": "2022-11-03 10:36:16",
@@ -655,18 +655,18 @@
     {
       "added_at": "2022-11-03 10:36:16",
       "album": {
-        "name": "\u6211\u5f88\u5fd9",
-        "url": "https://open.spotify.com/album/3CFQKBIkZKTRxU3EvZ1oHY"
+        "name": "\u6211\u5011 (\u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r"
       },
       "artists": [
         {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
         }
       ],
-      "duration_ms": 235840,
-      "name": "\u6700\u9577\u7684\u96fb\u5f71",
-      "url": "https://open.spotify.com/track/6C9w3NKP7yKqGLBP09iEL4"
+      "duration_ms": 260878,
+      "name": "\u6211\u5011 - \u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos"
     },
     {
       "added_at": "2022-11-03 10:36:16",
@@ -735,18 +735,18 @@
     {
       "added_at": "2022-11-03 10:36:16",
       "album": {
-        "name": "\u6211\u5011 (\u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r"
+        "name": "\u6211\u5f88\u5fd9",
+        "url": "https://open.spotify.com/album/3CFQKBIkZKTRxU3EvZ1oHY"
       },
       "artists": [
         {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 260878,
-      "name": "\u6211\u5011 - \u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos"
+      "duration_ms": 235840,
+      "name": "\u6700\u9577\u7684\u96fb\u5f71",
+      "url": "https://open.spotify.com/track/6C9w3NKP7yKqGLBP09iEL4"
     },
     {
       "added_at": "2022-11-03 10:36:16",

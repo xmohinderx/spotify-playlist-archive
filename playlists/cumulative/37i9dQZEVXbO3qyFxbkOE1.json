@@ -371,7 +371,7 @@
       ],
       "date_added": "2021-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 156266,
       "name": "A La Antig\u00fcita",
       "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -1481,7 +1481,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 201280,
       "name": "CAIRO",
       "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
@@ -1587,7 +1587,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -2855,7 +2855,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 185693,
       "name": "El A\u00f1o Viejo",
       "url": "https://open.spotify.com/track/5PZlMcW7VUlti8IRdApRIn"
@@ -3041,7 +3041,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 186360,
       "name": "El Precio De La Soledad",
       "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
@@ -4527,7 +4527,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 188416,
       "name": "La Boda Del Huitlacoche - Live",
       "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
@@ -4549,7 +4549,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -4585,7 +4585,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 198920,
       "name": "La Chona",
       "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
@@ -5991,7 +5991,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 158804,
       "name": "Monoton\u00eda",
       "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
@@ -6897,7 +6897,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 227628,
       "name": "Party",
       "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
@@ -8465,7 +8465,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 255640,
       "name": "Si Te Pudiera Mentir",
       "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
@@ -8897,6 +8897,24 @@
       "duration_ms": 237894,
       "name": "Tarot",
       "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
+    },
+    {
+      "album": {
+        "name": "Unas M\u00edas y Otras Prestadas, Vol. 2",
+        "url": "https://open.spotify.com/album/6sF3LfhZPhZWAbdzsJ6hHz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224523,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/5S5iGgjym5A1JUDAv50wYg"
     },
     {
       "album": {
@@ -9461,7 +9479,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 196412,
       "name": "Un Coco",
       "url": "https://open.spotify.com/track/6VrQTLzzuyGIYjUDe4kAZk"

@@ -1,15 +1,15 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 218876,
+  "num_followers": 218905,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODUyMDU0MywwMDAwMDAwMGY0NjdiYjE2MmNmNWUzZTdhYjg0ZjkwMjM5ZDA4YTAy",
+  "snapshot_id": "MTY2ODUyMDU0MywwMDAwMDAwMDAwNmJhNTk0NTE3ZWNlN2QxODM0YzY3MTRiYjVhM2Ew",
   "tracks": [
     {
-      "added_at": "2023-01-02 01:03:19",
+      "added_at": "2023-01-03 02:04:13",
       "album": {
         "name": "The Astronaut",
         "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-10-14 08:20:00",
       "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
+    },
+    {
+      "added_at": "2022-10-14 08:20:00",
+      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
       },
@@ -159,18 +175,18 @@
     {
       "added_at": "2022-10-14 08:20:00",
       "album": {
-        "name": "Savage - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+        "name": "Feel Special",
+        "url": "https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 238143,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
+      "duration_ms": 206866,
+      "name": "Feel Special",
+      "url": "https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9"
     },
     {
       "added_at": "2022-10-14 08:20:00",
@@ -203,38 +219,6 @@
       "duration_ms": 204973,
       "name": "INVU",
       "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
-    },
-    {
-      "added_at": "2022-10-14 08:20:00",
-      "album": {
-        "name": "Feel Special",
-        "url": "https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 206866,
-      "name": "Feel Special",
-      "url": "https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9"
-    },
-    {
-      "added_at": "2022-10-14 08:20:00",
-      "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 228615,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK"
     },
     {
       "added_at": "2022-10-14 08:20:00",
@@ -287,6 +271,38 @@
     {
       "added_at": "2022-10-14 08:20:00",
       "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "SCIENTIST",
+      "url": "https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh"
+    },
+    {
+      "added_at": "2022-10-14 08:20:00",
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 228615,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK"
+    },
+    {
+      "added_at": "2022-10-14 08:20:00",
+      "album": {
         "name": "Hello Future - The 1st Album Repackage",
         "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
       },
@@ -319,38 +335,6 @@
     {
       "added_at": "2022-10-14 08:20:00",
       "album": {
-        "name": "MAP OF THE SOUL : PERSONA",
-        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 234177,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/6Yc3tjFCVR2bfAQFRTZBef"
-    },
-    {
-      "added_at": "2022-10-14 08:20:00",
-      "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "SCIENTIST",
-      "url": "https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh"
-    },
-    {
-      "added_at": "2022-10-14 08:20:00",
-      "album": {
         "name": "DOUBLAST",
         "url": "https://open.spotify.com/album/0yMosWzriw3613d26x7MQK"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 197320,
       "name": "HWAA",
       "url": "https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn"
+    },
+    {
+      "added_at": "2022-10-14 08:20:00",
+      "album": {
+        "name": "YES or YES",
+        "url": "https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "YES or YES",
+      "url": "https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9"
     },
     {
       "added_at": "2022-10-14 08:20:00",
@@ -435,38 +435,6 @@
     {
       "added_at": "2022-10-14 08:20:00",
       "album": {
-        "name": "YES or YES",
-        "url": "https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "YES or YES",
-      "url": "https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9"
-    },
-    {
-      "added_at": "2022-10-14 08:20:00",
-      "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 251279,
-      "name": "Answer : Love Myself",
-      "url": "https://open.spotify.com/track/2X3UgVLSA4wYriGIQyYmMA"
-    },
-    {
-      "added_at": "2022-10-14 08:20:00",
-      "album": {
         "name": "The Dream Chapter: STAR",
         "url": "https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz"
       },
@@ -479,6 +447,22 @@
       "duration_ms": 230706,
       "name": "CROWN",
       "url": "https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg"
+    },
+    {
+      "added_at": "2022-10-14 08:20:00",
+      "album": {
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 234177,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/6Yc3tjFCVR2bfAQFRTZBef"
     },
     {
       "added_at": "2022-10-14 08:20:00",
@@ -579,6 +563,22 @@
     {
       "added_at": "2022-10-14 08:20:00",
       "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 251279,
+      "name": "Answer : Love Myself",
+      "url": "https://open.spotify.com/track/2X3UgVLSA4wYriGIQyYmMA"
+    },
+    {
+      "added_at": "2022-10-14 08:20:00",
+      "album": {
         "name": "Jam & Butterfly",
         "url": "https://open.spotify.com/album/5MYVpPtqQFHdYIJV0gnYbq"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-14 08:20:00",
       "album": {
-        "name": "Mixtape : Time Out",
-        "url": "https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Mixtape : Time Out",
-      "url": "https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx"
-    },
-    {
-      "added_at": "2022-10-14 08:20:00",
-      "album": {
         "name": "The Chaos Chapter: FREEZE",
         "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2022-10-14 08:20:00",
       "album": {
+        "name": "Mixtape : Time Out",
+        "url": "https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Mixtape : Time Out",
+      "url": "https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx"
+    },
+    {
+      "added_at": "2022-10-14 08:20:00",
+      "album": {
         "name": "SQUARE UP",
         "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-10-14 08:20:00",
       "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc"
-    },
-    {
-      "added_at": "2022-10-14 08:20:00",
-      "album": {
         "name": "Eyes Wide Open",
         "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 214240,
       "name": "UP NO MORE",
       "url": "https://open.spotify.com/track/1LiNP5q2thWScdvCRkJ584"
+    },
+    {
+      "added_at": "2022-10-14 08:20:00",
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc"
     },
     {
       "added_at": "2022-10-14 08:20:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-10-14 08:20:00",
       "album": {
-        "name": "NOEASY",
-        "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "Mixtape : OH",
-      "url": "https://open.spotify.com/track/2afx8zfrOsN3QVEWSx5IPp"
-    },
-    {
-      "added_at": "2022-10-14 08:20:00",
-      "album": {
         "name": "Twenty-Five Twenty-One OST Part 1",
         "url": "https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 225817,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa"
+    },
+    {
+      "added_at": "2022-10-14 08:20:00",
+      "album": {
+        "name": "NOEASY",
+        "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 212480,
+      "name": "Mixtape : OH",
+      "url": "https://open.spotify.com/track/2afx8zfrOsN3QVEWSx5IPp"
     }
   ],
   "unique_name": "Morning K-Pop!",

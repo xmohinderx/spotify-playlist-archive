@@ -1,12 +1,12 @@
 {
   "description": "Gal Costa e destaques de 2022, por mais mulheres sendo ouvidas no m\u00e1ximo volume.",
-  "num_followers": 130493,
+  "num_followers": 130517,
   "original_name": "O Melhor de EQUAL Brasil 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTkwMCwwMDAwMDAwMGE1MGE1MmUwMzk4YTMxMzFmMWYwODZiY2YxNWRhZDli",
+  "snapshot_id": "MTY2OTgxNTkwMCwwMDAwMDAwMDYxMDk2MzEwNTE3ODA0NjE2NzZhY2UxNjJlMTg1NmVj",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -335,6 +335,26 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Festa das Patroas 35%",
+        "url": "https://open.spotify.com/album/50wAyDdWCMpPnG3lzWUChj"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 206171,
+      "name": "Todo Mundo Menos Voc\u00ea",
+      "url": "https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Levado - Spotify Singles",
         "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 149514,
       "name": "Barbie (feat. Danny Bond)",
       "url": "https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Festa das Patroas 35%",
-        "url": "https://open.spotify.com/album/50wAyDdWCMpPnG3lzWUChj"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 206171,
-      "name": "Todo Mundo Menos Voc\u00ea",
-      "url": "https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Vis\u00e3o Perif\u00e9rica",
-        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 139644,
-      "name": "Festa do Pijama",
-      "url": "https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Eclipse do Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5MuqShBqOfBFxvfyUlZx2D"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 136888,
       "name": "Bruta",
       "url": "https://open.spotify.com/track/3mQSEDjzQnlvL4wPZbIGxY"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 139644,
+      "name": "Festa do Pijama",
+      "url": "https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk"
     },
     {
       "added_at": "2022-11-30 13:45:00",

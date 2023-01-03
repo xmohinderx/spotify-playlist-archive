@@ -4,7 +4,7 @@
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-82 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/1qWKcFnGWK5ylu3NU6p4us)
+83 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/1qWKcFnGWK5ylu3NU6p4us)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Be One \- From The "School Daze" Soundtrack](https://open.spotify.com/track/1EF7lcwgxH3Np3fcE3v81t) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [School Daze \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT) | 4:36 | 2022-05-27 | 2022-10-13 |
 | [Beautiful Man of Mine](https://open.spotify.com/track/35NPXOAZeNlu6WMRfJAA8m) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 6:58 | 2022-05-25 | 2022-11-26 |
 | [Betcha by Golly Wow \(feat\. Phyllis Hyman\) \- Remastered](https://open.spotify.com/track/2r9qFtnF0Iq41I5HlsPfdW) | [Norman Connors](https://open.spotify.com/artist/54bbmw5qZiMf23TTmm6ojR), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Are My Starship](https://open.spotify.com/album/0whQoF11EIgNxK3FntxLCU) | 6:22 | 2022-05-25 |  |
+| [Black And Blue \(with Phyllis Hyman feat\. Tom Scott\) \- Digitally Remastered: 1996](https://open.spotify.com/track/18HuoV25f636YINxzO5p53) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX), [Tom Scott](https://open.spotify.com/artist/72ktMty33X1LsIzHdRr0U5), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Swing Street](https://open.spotify.com/album/402g6pypGOQN7AniaMpY1v) | 4:03 | 2023-01-02 |  |
 | [But I Love You](https://open.spotify.com/track/0ZyE4cTb4IRlMI3iwMoT8E) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 3:04 | 2022-08-16 |  |
 | [Can We Fall in Love Again \- 7" Version](https://open.spotify.com/track/5SLaNYs7FNro2jsZqHSNpB) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv), [Michael Henderson](https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K) | [Wide Receiver \(Expanded Edition\)](https://open.spotify.com/album/2HzXFwkID486XKjNArB24Z) | 3:47 | 2022-08-02 | 2022-08-09 |
 | [Can't We Fall in Love Again](https://open.spotify.com/track/7LoUpAYekcUxAnBC8Cv27p) | [Michael Henderson](https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Slingshot](https://open.spotify.com/album/4ZTtXdTxQFaHLJrJPxUt3x) | 3:44 | 2022-05-25 |  |
@@ -43,7 +44,7 @@
 | [I'm Calling You](https://open.spotify.com/track/26JxIeSiCMikxLmEeZHwus) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:59 | 2022-06-18 | 2022-10-11 |
 | [I'm Truly Yours](https://open.spotify.com/track/3pXp6U7fYTj2sy5bK2FMML) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:39 | 2022-06-01 |  |
 | [If You Want Me](https://open.spotify.com/track/1kU7W8P5aCIyK7Qk19VcfB) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:19 | 2022-05-25 |  |
-| [In A Sentimental Mood](https://open.spotify.com/track/73PpHL1BhZ3ji6c1FLhEfo) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 3:26 | 2022-05-25 |  |
+| [In A Sentimental Mood](https://open.spotify.com/track/73PpHL1BhZ3ji6c1FLhEfo) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 3:26 | 2022-05-25 | 2023-01-03 |
 | [In Between the Heartaches](https://open.spotify.com/track/16pids01DZBwCLo1JAQvjY) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 3:45 | 2022-06-03 | 2022-08-03 |
 | [It's Not About You \(It's About Me\)](https://open.spotify.com/track/6UXYjqgQvV6JYIJjoxG5Vc) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:14 | 2022-06-05 | 2022-06-07 |
 | [Just Me And You](https://open.spotify.com/track/2LwAnUO0yqMyEbAgXAqM9N) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 4:35 | 2022-05-26 | 2022-10-13 |

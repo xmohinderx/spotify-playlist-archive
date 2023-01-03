@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Indie Dance and Alt Hip\-Hop for cooling under the sunny sun sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,976 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,061 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 25 | [Drop The Game](https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p) | 3:41 |
 | 26 | [Youth](https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:50 |
 | 27 | [Let's go to Hell](https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME) | 2:32 |
-| 28 | [I Wanna Help Your Mind](https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [I Wanna Help Your Mind](https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4) | 2:51 |
-| 29 | [waves \- Tame Impala Remix](https://open.spotify.com/track/3lB0GMiI5KxDbTOG8V3bOx) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Rogue Waves](https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f) | 4:13 |
+| 28 | [waves \- Tame Impala Remix](https://open.spotify.com/track/3lB0GMiI5KxDbTOG8V3bOx) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Rogue Waves](https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f) | 4:13 |
+| 29 | [I Wanna Help Your Mind](https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [I Wanna Help Your Mind](https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4) | 2:51 |
 | 30 | [Just Say](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Just Say](https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG) | 2:46 |
 | 31 | [Breathe Deeper](https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:12 |
 | 32 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 59 | [Beach Bummer](https://open.spotify.com/track/4loxhrC7MqARWyHLofmhtW) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Amo XO](https://open.spotify.com/album/04Yi3MVgftQcAqIqVdy9Wu) | 2:28 |
 | 60 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 |
 | 61 | [Trouble On Central](https://open.spotify.com/track/3tsFWhe45D6CGFSMA77T3B) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Harlan & Alondra](https://open.spotify.com/album/5djciKtjqkY9ZQ1OhKICXN) | 3:07 |
-| 62 | [Luvaroq](https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Circmvnt](https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs) | 3:40 |
-| 63 | [Sea Sick](https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Sea Sick](https://open.spotify.com/album/2rW8WOaJP6R7rIFFaJEhoZ) | 2:10 |
+| 62 | [Sea Sick](https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Sea Sick](https://open.spotify.com/album/2rW8WOaJP6R7rIFFaJEhoZ) | 2:10 |
+| 63 | [Luvaroq](https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Circmvnt](https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs) | 3:40 |
 | 64 | [Shadow Man](https://open.spotify.com/track/0EN4QjJqiAufEh6g4xPNvC) | [Noname feat\. Smino, Phoelix, Saba](https://open.spotify.com/artist/0sN6V0DZiCbB1exRjapMNo) | [Telefone](https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c) | 5:11 |
 | 65 | [Only Child](https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Only Child](https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ) | 3:59 |
 | 66 | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep) | 4:04 |
-| 67 | [Clueless](https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Clueless](https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU) | 3:47 |
-| 68 | [Electric U](https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Electric U](https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY) | 2:51 |
+| 67 | [Electric U](https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Electric U](https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY) | 2:51 |
+| 68 | [Clueless](https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Clueless](https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU) | 3:47 |
 | 69 | [Don't Trust Me](https://open.spotify.com/track/5xz9GcQI6wDVjSFneT8J6n) | [the booyah! kids](https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP) | [Booyah](https://open.spotify.com/album/0DZlZyJFLtBjT0jQVtcmnR) | 2:00 |
 | 70 | [Garden Party](https://open.spotify.com/track/7166FiVEnGCG27MITo4kXC) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Garden Party](https://open.spotify.com/album/7p0R9IR7TOzFe7rENEKQn9) | 3:49 |
 | 71 | [Ce Soir](https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Ce Soir](https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 99 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 |
 | 100 | [Nont For Sale](https://open.spotify.com/track/1dSUiYNjblQ2Vd142K8kjn) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Nont For Sale](https://open.spotify.com/album/5W0wZsGfR0VeEGxXpLHgHY) | 3:39 |
 
-Snapshot ID: `MTY2NDQ4NzIwNywwMDAwMDAwMDNmNTQzMTA3MTE3NGFmYWQxNTgxNDhmMGE4ZjU0MjY3`
+Snapshot ID: `MTY2NDQ4NzIwNywwMDAwMDAwMGU2ZGVlMWVjMGRlZDA5YTgyMTY3NzI2YTgzODg2MzFi`

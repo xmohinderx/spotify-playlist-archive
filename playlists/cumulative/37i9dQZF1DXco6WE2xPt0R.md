@@ -4,13 +4,14 @@
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-203 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/1UgxtLr4GKJDtfVaD2Kqru)
+204 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/1UgxtLr4GKJDtfVaD2Kqru)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11:30](https://open.spotify.com/track/5IzhFuvCxmDTnDGaKFcUPQ) | [KAYWHT](https://open.spotify.com/artist/6yipJErUDK9GLL37qLDEje), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [11:30](https://open.spotify.com/album/6lLnauUkWS82XPRdhRkuvp) | 2:55 | 2022-02-25 | 2022-03-26 |
-| [A Muse](https://open.spotify.com/track/6Bke7jOC2UJH3wbWIoBaHU) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [A Muse](https://open.spotify.com/album/76lGBTxJ0O1ChELVJ3BPxR) | 3:42 | 2022-12-30 |  |
+| [A Muse](https://open.spotify.com/track/6Bke7jOC2UJH3wbWIoBaHU) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [A Muse](https://open.spotify.com/album/76lGBTxJ0O1ChELVJ3BPxR) | 3:42 | 2022-12-30 | 2023-01-03 |
 | [A Muse](https://open.spotify.com/track/7AOIpGjtubeC0uSiMEhOyR) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [A Muse](https://open.spotify.com/album/3hVw6V8hze4yXUGfkO1gE2) | 3:42 | 2022-02-25 | 2023-01-02 |
+| [A Muse](https://open.spotify.com/track/7HdUnaN512R9oB2QyL8Brl) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:42 | 2022-12-30 |  |
 | [All About You](https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [All About You](https://open.spotify.com/album/36Lr1Ipl7w3gn0NdZbRcge) | 3:00 | 2022-02-25 | 2022-03-18 |
 | [All I Want](https://open.spotify.com/track/3pEXcNA3Qe7Q2xTfRp3G3k) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn), [Kenny Greene](https://open.spotify.com/artist/6aEQsH3DcqRL3b3iEZcj3J), [Intro](https://open.spotify.com/artist/03n0Ll5tJjUxajYOvc0TQm) | [All I Want](https://open.spotify.com/album/4OtJ4StIlfpWJz3BsXAKSV) | 4:43 | 2022-03-25 |  |
 | [All In](https://open.spotify.com/track/7FqgILt2JtU2NIUFVNWprd) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [All In](https://open.spotify.com/album/61aKnk6jGB7LkVlTzsw9gX) | 3:19 | 2022-02-25 | 2022-09-03 |

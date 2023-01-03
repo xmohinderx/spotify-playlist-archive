@@ -361,10 +361,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 203562,
       "name": "Dos Monedas",
       "url": "https://open.spotify.com/track/7eVY9hPDlrY6M23hiR239q"
+    },
+    {
+      "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209893,
+      "name": "Dos Monedas",
+      "url": "https://open.spotify.com/track/4epespdttWqUpIk35qEoMY"
     },
     {
       "album": {

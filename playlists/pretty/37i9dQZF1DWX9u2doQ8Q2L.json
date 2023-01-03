@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 350345,
+  "num_followers": 350423,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjE1MzIwMCwwMDAwMDAwMGJlODRiZDI2MjM5NDhkZTkzMTVkZDlhNWE0MWRiYzhi",
+  "snapshot_id": "MTY3MjE1MzIwMCwwMDAwMDAwMDU5ZDFmYTM2OGZmZTU5NWY4NmRjODlmYmFkMmJlNDIy",
   "tracks": [
     {
       "added_at": "2022-12-27 15:00:00",
@@ -199,6 +199,22 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
+        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 239625,
+      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
         "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
         "url": "https://open.spotify.com/album/3X8NFyIOThWuYBSJnZ3GEs"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 268119,
       "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
       "url": "https://open.spotify.com/track/4wx4CeiVDQM2RDq8b6nYWk"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
-        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 239625,
-      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -791,42 +791,6 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
-        }
-      ],
-      "duration_ms": 207521,
-      "name": "Love Like A Bomb (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
-        "name": "Roll",
-        "url": "https://open.spotify.com/album/6iIVpIxJXZy6ZQixh46N3F"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 215928,
-      "name": "Roll",
-      "url": "https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
         "name": "Mirage Op.3 - Collective ver.",
         "url": "https://open.spotify.com/album/2aVREOIIGvGHmnfrzxMerN"
       },
@@ -851,6 +815,42 @@
       "duration_ms": 264732,
       "name": "Mirage Op.3 - Collective ver.",
       "url": "https://open.spotify.com/track/7HPAzfHeXm5itZGahUKbFN"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
+        "name": "Roll",
+        "url": "https://open.spotify.com/album/6iIVpIxJXZy6ZQixh46N3F"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 215928,
+      "name": "Roll",
+      "url": "https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
+        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 207521,
+      "name": "Love Like A Bomb (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "REACH!",
-        "url": "https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7"
+        "name": "\u70b9\u63cf",
+        "url": "https://open.spotify.com/album/4YB963L0XoHhaa6qqOW2Gf"
       },
       "artists": [
         {
-          "name": "ego apartment",
-          "url": "https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4"
+          "name": "Toko Miura",
+          "url": "https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE"
         }
       ],
-      "duration_ms": 219069,
-      "name": "REACH!",
-      "url": "https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK"
+      "duration_ms": 258146,
+      "name": "blur and flower",
+      "url": "https://open.spotify.com/track/69Za0q72RlvUiwaiZkJbEQ"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
-        "name": "\u70b9\u63cf",
-        "url": "https://open.spotify.com/album/4YB963L0XoHhaa6qqOW2Gf"
+        "name": "REACH!",
+        "url": "https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7"
       },
       "artists": [
         {
-          "name": "Toko Miura",
-          "url": "https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE"
+          "name": "ego apartment",
+          "url": "https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4"
         }
       ],
-      "duration_ms": 258146,
-      "name": "blur and flower",
-      "url": "https://open.spotify.com/track/69Za0q72RlvUiwaiZkJbEQ"
+      "duration_ms": 219069,
+      "name": "REACH!",
+      "url": "https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK"
     },
     {
       "added_at": "2022-12-27 15:00:00",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2022-12-27 15:00:00",
       "album": {
+        "name": "One Way My Love (Neon Mix)",
+        "url": "https://open.spotify.com/album/0N8WnVOavGjgjqNKpVmiop"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "\u4e0a\u5742\u3059\u307f\u308c",
+          "url": "https://open.spotify.com/artist/5U8UElMnRxVib9zj3svQts"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "One Way My Love - Neon Mix",
+      "url": "https://open.spotify.com/track/6CLeUulXsPa2AyaiVKN9OY"
+    },
+    {
+      "added_at": "2022-12-27 15:00:00",
+      "album": {
         "name": "\u30ed\u30de\u30f3\u30b9",
         "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 216634,
       "name": "No Pressure",
       "url": "https://open.spotify.com/track/620i08CTZIo1K9ycN144lg"
-    },
-    {
-      "added_at": "2022-12-27 15:00:00",
-      "album": {
-        "name": "One Way My Love (Neon Mix)",
-        "url": "https://open.spotify.com/album/0N8WnVOavGjgjqNKpVmiop"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "\u4e0a\u5742\u3059\u307f\u308c",
-          "url": "https://open.spotify.com/artist/5U8UElMnRxVib9zj3svQts"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "One Way My Love - Neon Mix",
-      "url": "https://open.spotify.com/track/6CLeUulXsPa2AyaiVKN9OY"
     }
   ],
   "unique_name": "Tokyo Rising",

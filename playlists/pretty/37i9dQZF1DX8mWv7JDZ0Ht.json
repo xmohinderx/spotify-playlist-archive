@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Mariah Nala",
-  "num_followers": 415012,
+  "num_followers": 415052,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMDk3Njk4NjQ2OWVlYjAxNGI4NGJiOTcyNDQ3ZmFiNDFh",
+  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMDk2OGQ4ZTJiYWZkYjI4Zjg2YTU2MjgwNmNlMzdmODBh",
   "tracks": [
     {
       "added_at": "2022-12-30 03:00:00",
@@ -155,6 +155,26 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
+        "name": "Geleira do tempo",
+        "url": "https://open.spotify.com/album/27ihbfzqxFE0FWX9g4uMhG"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 211831,
+      "name": "Geleira do tempo",
+      "url": "https://open.spotify.com/track/4ziqkaBXfo4GrmuF0gsNyi"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
         "name": "FICA PRO CAF\u00c9",
         "url": "https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId"
       },
@@ -243,26 +263,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Geleira do tempo",
-        "url": "https://open.spotify.com/album/27ihbfzqxFE0FWX9g4uMhG"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 211831,
-      "name": "Geleira do tempo",
-      "url": "https://open.spotify.com/track/4ziqkaBXfo4GrmuF0gsNyi"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "De Tanto Sol (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0G9XFPE6847h3nRRL7Ct8n"
       },
@@ -315,6 +315,26 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
+        "name": "Aguei",
+        "url": "https://open.spotify.com/album/2vOz8ssYDr5H8LTusYbmzd"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 191142,
+      "name": "Aguei",
+      "url": "https://open.spotify.com/track/3hCJ7bncN6wjLxWCxhUSkp"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
         "name": "Voc\u00ea nasceu para mudar",
         "url": "https://open.spotify.com/album/3qWkbSgJ4yK7ZiWpjNaoAt"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 188620,
       "name": "Intui\u00e7\u00e3o (Envolvid\u00e3o) - Ao Vivo",
       "url": "https://open.spotify.com/track/3WmCgLfple2ny5iHO3t2Nv"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Aguei",
-        "url": "https://open.spotify.com/album/2vOz8ssYDr5H8LTusYbmzd"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 191142,
-      "name": "Aguei",
-      "url": "https://open.spotify.com/track/3hCJ7bncN6wjLxWCxhUSkp"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
+        "name": "Trilhas",
+        "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 228231,
+      "name": "Barquinho de papel",
+      "url": "https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
         "name": "Degrad\u00ea",
         "url": "https://open.spotify.com/album/3QMNbZzZcpkPgm68PnKfHt"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 199436,
       "name": "No Mesmo Tom",
       "url": "https://open.spotify.com/track/0I4vL4Z2MZyZzhFxBktvdR"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Trilhas",
-        "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 228231,
-      "name": "Barquinho de papel",
-      "url": "https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Degrad\u00ea",
-        "url": "https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 206113,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Horizonte",
         "url": "https://open.spotify.com/album/2yfBvpXbJ15VXJSKU6YTJH"
       },
@@ -651,26 +635,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Olho de Girassol",
-        "url": "https://open.spotify.com/album/6sFjAGgZMaQTYa4j5OlJhj"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Br\u00e1ulio Bessa",
-          "url": "https://open.spotify.com/artist/4G22JHSJnunUt8t3yMt46A"
-        }
-      ],
-      "duration_ms": 194673,
-      "name": "Olho de Girassol",
-      "url": "https://open.spotify.com/track/3s0A8jRhbklln6u5eZFxSX"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "\u00c1gua Salgada",
         "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
       },
@@ -687,18 +651,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/3vXGRIRvX8rGxu79ktxSI2"
+        "name": "Degrad\u00ea",
+        "url": "https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs"
       },
       "artists": [
         {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 179521,
-      "name": "MENTIRA",
-      "url": "https://open.spotify.com/track/6jrk9SYMQh8dhOAYTjU3A2"
+      "duration_ms": 206113,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -715,6 +679,22 @@
       "duration_ms": 78968,
       "name": "te vi dan\u00e7ando",
       "url": "https://open.spotify.com/track/2LlRU1DN8gqAfbO2bY6Ksd"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/3vXGRIRvX8rGxu79ktxSI2"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 179521,
+      "name": "MENTIRA",
+      "url": "https://open.spotify.com/track/6jrk9SYMQh8dhOAYTjU3A2"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -767,8 +747,8 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Me Beija",
-        "url": "https://open.spotify.com/album/6jT8SLaJHeOgSReiWWNLQI"
+        "name": "Olho de Girassol",
+        "url": "https://open.spotify.com/album/6sFjAGgZMaQTYa4j5OlJhj"
       },
       "artists": [
         {
@@ -776,13 +756,33 @@
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         },
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Br\u00e1ulio Bessa",
+          "url": "https://open.spotify.com/artist/4G22JHSJnunUt8t3yMt46A"
         }
       ],
-      "duration_ms": 190937,
-      "name": "Me Beija",
-      "url": "https://open.spotify.com/track/4s5FI0NH6yiJ85tatkCJ8h"
+      "duration_ms": 194673,
+      "name": "Olho de Girassol",
+      "url": "https://open.spotify.com/track/3s0A8jRhbklln6u5eZFxSX"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Rara",
+        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Santino",
+          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
+        }
+      ],
+      "duration_ms": 197883,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -815,26 +815,6 @@
       "duration_ms": 161500,
       "name": "S\u00f3 Pra Te Falar",
       "url": "https://open.spotify.com/track/0Bp8enfrYMsD63VNXHj2uN"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Rara",
-        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
-      },
-      "artists": [
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Santino",
-          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
-        }
-      ],
-      "duration_ms": 197883,
-      "name": "Rara",
-      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -915,6 +895,26 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
+        "name": "Me Beija",
+        "url": "https://open.spotify.com/album/6jT8SLaJHeOgSReiWWNLQI"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 190937,
+      "name": "Me Beija",
+      "url": "https://open.spotify.com/track/4s5FI0NH6yiJ85tatkCJ8h"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
         "name": "Sorria que Volta",
         "url": "https://open.spotify.com/album/2V4qg7sNcMllTmLOFpzf7o"
       },
@@ -931,18 +931,38 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/2yKMpfp6npVmfyjHVR08xQ"
+        "name": "Flores Que Eu Nunca Dei",
+        "url": "https://open.spotify.com/album/1mM2in7kTBpSLurd8HIjvD"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "dreko",
+          "url": "https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy"
+        },
+        {
+          "name": "Kyu",
+          "url": "https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE"
         }
       ],
-      "duration_ms": 168204,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/4oDijncCNWBbS54GAqa9if"
+      "duration_ms": 201013,
+      "name": "Flores Que Eu Nunca Dei",
+      "url": "https://open.spotify.com/track/1tSRitSlttJ9PGtUz40ZSQ"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Eu N\u00e3o Ando T\u00e3o Bem Assim",
+        "url": "https://open.spotify.com/album/5SDyNbbogMnxYdXw29dijy"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 180046,
+      "name": "Eu N\u00e3o Ando T\u00e3o Bem Assim",
+      "url": "https://open.spotify.com/track/7fbZjEmoOFBu1HrhrRHLFc"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -979,22 +999,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Flores Que Eu Nunca Dei",
-        "url": "https://open.spotify.com/album/1mM2in7kTBpSLurd8HIjvD"
+        "name": "Onda Forte",
+        "url": "https://open.spotify.com/album/3TvpZ96xrxz1u5qHNs76Um"
       },
       "artists": [
         {
-          "name": "dreko",
-          "url": "https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy"
-        },
-        {
-          "name": "Kyu",
-          "url": "https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE"
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
         }
       ],
-      "duration_ms": 201013,
-      "name": "Flores Que Eu Nunca Dei",
-      "url": "https://open.spotify.com/track/1tSRitSlttJ9PGtUz40ZSQ"
+      "duration_ms": 104237,
+      "name": "Onda Forte",
+      "url": "https://open.spotify.com/track/6tLsgc4dTkdEja9eZhaHEt"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1019,40 +1035,24 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "vem pra perto",
-        "url": "https://open.spotify.com/album/7BTA7ELwKm8YRLpZpsG1PE"
+        "name": "Sem Filtro",
+        "url": "https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1"
       },
       "artists": [
         {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
         }
       ],
-      "duration_ms": 169226,
-      "name": "vem pra perto",
-      "url": "https://open.spotify.com/track/1HfYw6gTSOzeCFwdEJ3fqr"
+      "duration_ms": 229032,
+      "name": "Sem Filtro",
+      "url": "https://open.spotify.com/track/1UEUzTALPqCT2oDJ3LoQfC"
     },
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Eu N\u00e3o Ando T\u00e3o Bem Assim",
-        "url": "https://open.spotify.com/album/5SDyNbbogMnxYdXw29dijy"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 180046,
-      "name": "Eu N\u00e3o Ando T\u00e3o Bem Assim",
-      "url": "https://open.spotify.com/track/7fbZjEmoOFBu1HrhrRHLFc"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Doideira",
-        "url": "https://open.spotify.com/album/6911oHZwSo1MXBOhnocMbN"
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/2yKMpfp6npVmfyjHVR08xQ"
       },
       "artists": [
         {
@@ -1060,25 +1060,9 @@
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 157573,
-      "name": "Doideira",
-      "url": "https://open.spotify.com/track/4aodXHEeYiQHyLBc0ElCX3"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Onda Forte",
-        "url": "https://open.spotify.com/album/3TvpZ96xrxz1u5qHNs76Um"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 104237,
-      "name": "Onda Forte",
-      "url": "https://open.spotify.com/track/6tLsgc4dTkdEja9eZhaHEt"
+      "duration_ms": 168204,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/4oDijncCNWBbS54GAqa9if"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Sem Filtro",
-        "url": "https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1"
+        "name": "vem pra perto",
+        "url": "https://open.spotify.com/album/7BTA7ELwKm8YRLpZpsG1PE"
       },
       "artists": [
         {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
         }
       ],
-      "duration_ms": 229032,
-      "name": "Sem Filtro",
-      "url": "https://open.spotify.com/track/1UEUzTALPqCT2oDJ3LoQfC"
+      "duration_ms": 169226,
+      "name": "vem pra perto",
+      "url": "https://open.spotify.com/track/1HfYw6gTSOzeCFwdEJ3fqr"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1139,22 +1123,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Embriagado de Saudade",
-        "url": "https://open.spotify.com/album/2MgoX7Y7rP0JCb6Q3K5SUX"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
-        }
-      ],
-      "duration_ms": 155250,
-      "name": "Embriagado de Saudade",
-      "url": "https://open.spotify.com/track/5efZJvbyTISLTujhMm3rcR"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Ano Que Vem",
         "url": "https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl"
       },
@@ -1167,6 +1135,38 @@
       "duration_ms": 179656,
       "name": "Ano Que Vem",
       "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Doideira",
+        "url": "https://open.spotify.com/album/6911oHZwSo1MXBOhnocMbN"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 157573,
+      "name": "Doideira",
+      "url": "https://open.spotify.com/track/4aodXHEeYiQHyLBc0ElCX3"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Embriagado de Saudade",
+        "url": "https://open.spotify.com/album/2MgoX7Y7rP0JCb6Q3K5SUX"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        }
+      ],
+      "duration_ms": 155250,
+      "name": "Embriagado de Saudade",
+      "url": "https://open.spotify.com/track/5efZJvbyTISLTujhMm3rcR"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
+        "name": "Jo\u00e3o Napoli - EP",
+        "url": "https://open.spotify.com/album/0ujRJb25gsj69J6nNC2gdk"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Napoli",
+          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
+        }
+      ],
+      "duration_ms": 169624,
+      "name": "Tr\u00eas Desejos",
+      "url": "https://open.spotify.com/track/4tWK98H5J7oXD6sjfd7YrW"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
         "name": "Melhor Falar Agora",
         "url": "https://open.spotify.com/album/4lzWUsgzXAA2NhmkX3XUIp"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 115500,
       "name": "Melhor Falar Agora",
       "url": "https://open.spotify.com/track/5Ppya3s6VURsZ4oLwiOj1q"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Jo\u00e3o Napoli - EP",
-        "url": "https://open.spotify.com/album/0ujRJb25gsj69J6nNC2gdk"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Napoli",
-          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
-        }
-      ],
-      "duration_ms": 169624,
-      "name": "Tr\u00eas Desejos",
-      "url": "https://open.spotify.com/track/4tWK98H5J7oXD6sjfd7YrW"
     },
     {
       "added_at": "2022-12-30 03:00:00",

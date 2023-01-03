@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: SALES",
-  "num_followers": 1039558,
+  "num_followers": 1039806,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0Nzk3MywwMDAwMDAwMDg0NTA0ZGQxMTA5YTY1NDJiMTI0NDFhZjQ4MWI5ZTYz",
+  "snapshot_id": "MTY3MTY0Nzk3MywwMDAwMDAwMDVkOTk5MmM4OGE5OTVhMjJhNWY2MWJlNDBiMTc1ODg4",
   "tracks": [
     {
       "added_at": "2022-12-14 19:43:31",
@@ -157,6 +157,22 @@
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
     },
     {
+      "added_at": "2022-12-14 19:43:31",
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "the perfect pair",
+      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+    },
+    {
       "added_at": "2022-09-14 21:31:42",
       "album": {
         "name": "Fuzzybrain",
@@ -175,22 +191,6 @@
     {
       "added_at": "2022-12-14 19:43:31",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "the perfect pair",
-      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
-    },
-    {
-      "added_at": "2022-12-14 19:43:31",
-      "album": {
         "name": "October Passed Me By",
         "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
       },
@@ -203,22 +203,6 @@
       "duration_ms": 165746,
       "name": "October Passed Me By",
       "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
-    },
-    {
-      "added_at": "2022-12-16 17:29:36",
-      "album": {
-        "name": "C U Girl",
-        "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 129697,
-      "name": "C U Girl",
-      "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -239,6 +223,22 @@
       "duration_ms": 178000,
       "name": "Are You Bored Yet? (feat. Clairo)",
       "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
+    },
+    {
+      "added_at": "2022-12-16 17:29:36",
+      "album": {
+        "name": "C U Girl",
+        "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 129697,
+      "name": "C U Girl",
+      "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
     },
     {
       "added_at": "2022-12-16 05:54:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Pretty Girl",
-        "url": "https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 178352,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Pop Food",
         "url": "https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 181586,
       "name": "Still Beating",
       "url": "https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 178352,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
     },
     {
-      "added_at": "2022-12-16 17:29:36",
-      "album": {
-        "name": "Pop Food",
-        "url": "https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb"
-      },
-      "artists": [
-        {
-          "name": "Jack Stauber",
-          "url": "https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Buttercup",
-      "url": "https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC"
-    },
-    {
       "added_at": "2022-09-14 21:31:42",
       "album": {
         "name": "4EVER",
@@ -603,6 +587,22 @@
       "duration_ms": 159595,
       "name": "4EVER",
       "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
+    },
+    {
+      "added_at": "2022-12-16 17:29:36",
+      "album": {
+        "name": "Pop Food",
+        "url": "https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb"
+      },
+      "artists": [
+        {
+          "name": "Jack Stauber",
+          "url": "https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Buttercup",
+      "url": "https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 188301,
-      "name": "Tree Among Shrubs",
-      "url": "https://open.spotify.com/track/4JYJU761kWJEK91hyug33F"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 165254,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 188301,
+      "name": "Tree Among Shrubs",
+      "url": "https://open.spotify.com/track/4JYJU761kWJEK91hyug33F"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1085,20 +1085,20 @@
       "url": "https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03"
     },
     {
-      "added_at": "2022-09-14 21:31:42",
+      "added_at": "2022-12-16 17:29:36",
       "album": {
-        "name": "age tape 1",
-        "url": "https://open.spotify.com/album/3o4JOV2P8fueS8vdkaivbO"
+        "name": "You Say I'm in Love",
+        "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
       },
       "artists": [
         {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+          "name": "Banes World",
+          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
         }
       ],
-      "duration_ms": 123269,
-      "name": "horror story",
-      "url": "https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL"
+      "duration_ms": 176760,
+      "name": "You Say I'm in Love",
+      "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1117,20 +1117,20 @@
       "url": "https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4"
     },
     {
-      "added_at": "2022-12-16 17:29:36",
+      "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "You Say I'm in Love",
-        "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
+        "name": "age tape 1",
+        "url": "https://open.spotify.com/album/3o4JOV2P8fueS8vdkaivbO"
       },
       "artists": [
         {
-          "name": "Banes World",
-          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
         }
       ],
-      "duration_ms": 176760,
-      "name": "You Say I'm in Love",
-      "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
+      "duration_ms": 123269,
+      "name": "horror story",
+      "url": "https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Cotton Candy",
-        "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 93871,
-      "name": "Cotton Candy",
-      "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Over the Hill",
         "url": "https://open.spotify.com/album/76igtoYKgzHd578j23y2Hb"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/16F9QOwv3lMvYiTscoFD4Q"
+        "name": "Cotton Candy",
+        "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
       },
       "artists": [
         {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
         }
       ],
-      "duration_ms": 219286,
-      "name": "Seeds",
-      "url": "https://open.spotify.com/track/4BwGU8l91SQWeVqnWqWClh"
+      "duration_ms": 93871,
+      "name": "Cotton Candy",
+      "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1339,6 +1323,22 @@
       "duration_ms": 214724,
       "name": "Talk to You",
       "url": "https://open.spotify.com/track/6suxUONtPxkEPL3JHGX9SX"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/16F9QOwv3lMvYiTscoFD4Q"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 219286,
+      "name": "Seeds",
+      "url": "https://open.spotify.com/track/4BwGU8l91SQWeVqnWqWClh"
     },
     {
       "added_at": "2022-09-14 21:31:42",

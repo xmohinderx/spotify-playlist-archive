@@ -5153,7 +5153,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 194285,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/6fFEmC1qMzelJ6a0TBpPsJ"
@@ -7875,7 +7875,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 151139,
       "name": "Days Like This (On Repeat) - Remix",
       "url": "https://open.spotify.com/track/1DqdbCxDOAB0A9P11RxtFy"
@@ -8193,7 +8193,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 327903,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/7jxBqkuplnJRttsUtku6i2"
@@ -12105,7 +12105,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 317209,
       "name": "Game Is On",
       "url": "https://open.spotify.com/track/1jQpoZAhmWIQ5zXbBYVc1I"
@@ -12967,7 +12967,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 224000,
       "name": "Good Riddance",
       "url": "https://open.spotify.com/track/2T3gj4a5hsNv1Y7R4oYhzk"
@@ -14685,7 +14685,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 198888,
       "name": "How Many",
       "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
@@ -18851,7 +18851,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 200869,
       "name": "little spider on the shower wall",
       "url": "https://open.spotify.com/track/4KYqGXuVYwhpfsFATIXuP7"
@@ -25817,7 +25817,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 248058,
       "name": "Reaching",
       "url": "https://open.spotify.com/track/3OYkaKbx3bLP1Rt91SylaS"
@@ -30531,7 +30531,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 190919,
       "name": "Table for Two",
       "url": "https://open.spotify.com/track/7F7WRCNDWTwGkNEu8otUoY"
@@ -31199,7 +31199,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 248524,
       "name": "That's Where We Are",
       "url": "https://open.spotify.com/track/73JpRpTGvfVKr1Flb1jEk2"
@@ -31815,7 +31815,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 290951,
       "name": "They Can Say What They Like",
       "url": "https://open.spotify.com/track/3Pp5PFYOdZHwT3nz4iLk6H"
@@ -32145,7 +32145,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 200000,
       "name": "Time",
       "url": "https://open.spotify.com/track/5KtIbToah0ZWXDQ1qBFOcr"
@@ -32503,7 +32503,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 252055,
       "name": "Too Good To Be True",
       "url": "https://open.spotify.com/track/6Du8n39SzV59stLwyGLElQ"
@@ -33648,6 +33648,24 @@
     },
     {
       "album": {
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/57CRc7E3pq0HsE44CZK4Ly"
+      },
+      "artists": [
+        {
+          "name": "Otys",
+          "url": "https://open.spotify.com/artist/55LHVtbowUWskZI5JTpH4h"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155359,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/18VEuK9sI79lq4l5duui1r"
+    },
+    {
+      "album": {
         "name": "Vanity Fool",
         "url": "https://open.spotify.com/album/6nBWg4bLNbpR0lDaTrgfKZ"
       },
@@ -34517,7 +34535,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 152076,
       "name": "We Dey",
       "url": "https://open.spotify.com/track/5KryeTvG0C02vF9cpgZrYA"
@@ -35367,7 +35385,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 165933,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/21jX31TUsYoVFD0jH6m5nx"
@@ -35967,7 +35985,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 186801,
       "name": "Yaro",
       "url": "https://open.spotify.com/track/6UtnlIR1th1t1aZu7zD1Im"

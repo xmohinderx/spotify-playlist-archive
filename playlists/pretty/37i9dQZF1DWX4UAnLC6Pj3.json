@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Edicion Especial en portada.",
-  "num_followers": 1069479,
+  "num_followers": 1069692,
   "original_name": "Banda 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMDU3YTg3ZTczMDhhNDBlYWZhMzViYWEwYWY4NzkyZTUz",
+  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMGI5Nzg1ZDBlYjIxNjgyNWRiMjkzNjVkMzUwMTBiMTgw",
   "tracks": [
     {
       "added_at": "2022-12-23 05:00:00",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
+        "name": "141",
+        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 175102,
+      "name": "141",
+      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
         "name": "Partido En Dos",
         "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
       },
@@ -231,6 +247,22 @@
       "duration_ms": 226003,
       "name": "Partido En Dos",
       "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -251,22 +283,6 @@
       "duration_ms": 179745,
       "name": "El T\u00f3xico",
       "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "141",
-        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 175102,
-      "name": "141",
-      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -303,22 +319,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Y Si Se Quiere Ir",
         "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
       },
@@ -351,18 +351,18 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+        "name": "Ojos En Blanco",
+        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 191413,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez"
+      "duration_ms": 147053,
+      "name": "Ya Te Perd\u00ed La Fe",
+      "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Soy Buen Amigo",
-        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 153967,
-      "name": "Soy Buen Amigo",
-      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "El Trabajo Es La Suerte",
         "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
       },
@@ -419,22 +403,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Ojos En Blanco",
-        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 147053,
-      "name": "Ya Te Perd\u00ed La Fe",
-      "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Desde la Ra\u00edz",
         "url": "https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y"
       },
@@ -447,6 +415,58 @@
       "duration_ms": 201205,
       "name": "Fumando Mota",
       "url": "https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Soy Buen Amigo",
+        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 153967,
+      "name": "Soy Buen Amigo",
+      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Cada Quien",
+        "url": "https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 197781,
+      "name": "Cada Quien",
+      "url": "https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -487,18 +507,18 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9"
+        "name": "Calidad Y Cantidad",
+        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 171266,
-      "name": "Y T\u00fa - Ranchera",
-      "url": "https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL"
+      "duration_ms": 182306,
+      "name": "Entre Beso Y Beso",
+      "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -515,26 +535,6 @@
       "duration_ms": 253105,
       "name": "Me Vale Madre",
       "url": "https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Cada Quien",
-        "url": "https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 197781,
-      "name": "Cada Quien",
-      "url": "https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -571,38 +571,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "Y Me Da Verg\u00fcenza",
-      "url": "https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Calidad Y Cantidad",
-        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Entre Beso Y Beso",
-      "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Cabron Yo Puedo",
         "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
       },
@@ -615,6 +583,22 @@
       "duration_ms": 195895,
       "name": "Cabron Yo Puedo",
       "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "Y T\u00fa - Ranchera",
+      "url": "https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -639,6 +623,26 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
+        "name": "El Reemplazo",
+        "url": "https://open.spotify.com/album/0QaYqMY1nTvvKzUOf4F0tu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "El Reemplazo",
+      "url": "https://open.spotify.com/track/6mVWXZDsMguKrTHfiCyIVu"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
         "name": "Tiempo Fuera",
         "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
       },
@@ -651,6 +655,26 @@
       "duration_ms": 198040,
       "name": "Tiempo Fuera",
       "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "M\u00fasica Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 232573,
+      "name": "M\u00fasica Rom\u00e1ntica",
+      "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -691,42 +715,18 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "El Reemplazo",
-        "url": "https://open.spotify.com/album/0QaYqMY1nTvvKzUOf4F0tu"
+        "name": "Hablando Claro",
+        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
         }
       ],
-      "duration_ms": 235213,
-      "name": "El Reemplazo",
-      "url": "https://open.spotify.com/track/6mVWXZDsMguKrTHfiCyIVu"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "M\u00fasica Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 232573,
-      "name": "M\u00fasica Rom\u00e1ntica",
-      "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
+      "duration_ms": 161900,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/35HWGdRlsTQdRQbdfpVcWm"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Hablando Claro",
-        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 161900,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/35HWGdRlsTQdRQbdfpVcWm"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
         "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 177249,
       "name": "Como Que Me Enamoro - En Vivo",
       "url": "https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 182480,
+      "name": "Y Me Da Verg\u00fcenza",
+      "url": "https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -895,6 +895,26 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
+        "name": "M En El Radar",
+        "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 140546,
+      "name": "M En El Radar",
+      "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
         "name": "Cosas Del Diablo",
         "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
       },
@@ -931,42 +951,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "12 Rifles",
-        "url": "https://open.spotify.com/album/1KqUq2OTqTIlxAdXhz0Ypn"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "12 Rifles",
-      "url": "https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "M En El Radar",
-        "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 140546,
-      "name": "M En El Radar",
-      "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 180120,
       "name": "A Trav\u00e9s Del Vaso",
       "url": "https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "12 Rifles",
+        "url": "https://open.spotify.com/album/1KqUq2OTqTIlxAdXhz0Ypn"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "12 Rifles",
+      "url": "https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Historias de Mi Vida",
-        "url": "https://open.spotify.com/album/6rXIKiwGq6YDhNyEUnlabe"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        }
-      ],
-      "duration_ms": 201857,
-      "name": "A Cu\u00e1nto Me Qued\u00e9",
-      "url": "https://open.spotify.com/track/4HgB85fVdWG83EZOHj5paV"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "El Precio De La Soledad",
         "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
       },
@@ -1083,6 +1067,38 @@
       "duration_ms": 166143,
       "name": "El Precio De La Soledad",
       "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Se Manda Sola",
+        "url": "https://open.spotify.com/album/6JEaPc6iKUgI3YrDUGxJDk"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 154640,
+      "name": "Se Manda Sola",
+      "url": "https://open.spotify.com/track/2ZyqVjfaWdbXogeNjwrLgo"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Historias de Mi Vida",
+        "url": "https://open.spotify.com/album/6rXIKiwGq6YDhNyEUnlabe"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "duration_ms": 201857,
+      "name": "A Cu\u00e1nto Me Qued\u00e9",
+      "url": "https://open.spotify.com/track/4HgB85fVdWG83EZOHj5paV"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1103,6 +1119,22 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
+        "name": "Calidad Y Cantidad",
+        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "T\u00fa Eres La Raz\u00f3n",
+      "url": "https://open.spotify.com/track/0CjVJ4RC8UEVo5pfnnFjs3"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
         "name": "Aqu\u00ed Casual",
         "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
       },
@@ -1115,22 +1147,6 @@
       "duration_ms": 165000,
       "name": "Que Llore, Que Llore",
       "url": "https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Se Manda Sola",
-        "url": "https://open.spotify.com/album/6JEaPc6iKUgI3YrDUGxJDk"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 154640,
-      "name": "Se Manda Sola",
-      "url": "https://open.spotify.com/track/2ZyqVjfaWdbXogeNjwrLgo"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Calidad Y Cantidad",
-        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "T\u00fa Eres La Raz\u00f3n",
-      "url": "https://open.spotify.com/track/0CjVJ4RC8UEVo5pfnnFjs3"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "La Ley De La Vida",
         "url": "https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F"
       },
@@ -1183,6 +1183,26 @@
       "duration_ms": 175293,
       "name": "La Ley De La Vida",
       "url": "https://open.spotify.com/track/0B0vC9ItsWMUahbFN7a01H"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1219,22 +1239,18 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Ya Se Fue",
-        "url": "https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k"
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3aFP6ikpIxjW9FzTAktQ1t"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 201400,
-      "name": "Ya Se Fue",
-      "url": "https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr"
+      "duration_ms": 197280,
+      "name": "El Final De Nuestra Historia",
+      "url": "https://open.spotify.com/track/7kofJygFUxxmag4EAYcCG3"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1287,22 +1303,6 @@
       "duration_ms": 186706,
       "name": "Modo Inc\u00f3gnito",
       "url": "https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3aFP6ikpIxjW9FzTAktQ1t"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "El Final De Nuestra Historia",
-      "url": "https://open.spotify.com/track/7kofJygFUxxmag4EAYcCG3"
     }
   ],
   "unique_name": "Banda 2022",

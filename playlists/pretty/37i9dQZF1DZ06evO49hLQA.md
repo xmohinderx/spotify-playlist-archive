@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 
 > This is AC/DC\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,912,664 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,913,428 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 47 | [Through The Mists Of Time](https://open.spotify.com/track/3FR2w9O5i9q3unY3gyjq6E) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:32 |
 | 48 | [Sin City](https://open.spotify.com/track/3UQQ7g6J8fiMB7oldQzBoq) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 4:45 |
 | 49 | [Baptism By Fire](https://open.spotify.com/track/1ULNWGJD3skjg0jWjhCFHc) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 3:30 |
-| 50 | [Problem Child](https://open.spotify.com/track/5wTuWXWREngkFGtBXhOaI9) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 5:24 |
+| 50 | [Black Ice](https://open.spotify.com/track/3Axmw41lmMoXih3NJYzbXb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Black Ice](https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN) | 3:25 |
 
-Snapshot ID: `Mjc4NzYzNDMsMDAwMDAwMDBlYjVjMGFhZWRkNDU3YmQ1NDg0NWUwMzVjNDJjYTcxMQ==`
+Snapshot ID: `Mjc4Nzc3NTksMDAwMDAwMDBkYjg0MjlhOGZmMThkNGMzZDFkNWNmM2ViYTBlYWMwMQ==`

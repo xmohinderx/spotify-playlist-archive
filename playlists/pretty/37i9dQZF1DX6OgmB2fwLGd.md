@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Riovaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,276,499 likes - 100 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,276,840 likes - 100 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

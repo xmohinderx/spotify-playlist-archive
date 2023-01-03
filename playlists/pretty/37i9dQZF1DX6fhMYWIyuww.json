@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 98523,
+  "num_followers": 98682,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDA2OTFkMTU0MjRkMDhlYjFiZjllOGMyMjY1MzliNmMw",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGM2MGM0N2U1ZDAzNmRiOTZkMTZkYjlhZTVhNTAyYmQw",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -191,22 +191,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Movin' Out (Anthony's Song)",
-      "url": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Fly Like An Eagle",
         "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
       },
@@ -223,18 +207,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Guitar Man",
-        "url": "https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy"
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
       "artists": [
         {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 226213,
-      "name": "Guitar Man",
-      "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
+      "duration_ms": 210760,
+      "name": "Movin' Out (Anthony's Song)",
+      "url": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -251,6 +235,22 @@
       "duration_ms": 257868,
       "name": "Reminiscing - Remastered 2022",
       "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Guitar Man",
+        "url": "https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Guitar Man",
+      "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
     },
     {
-      "added_at": "2022-06-29 18:13:00",
-      "album": {
-        "name": "Gaucho",
-        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 307400,
-      "name": "Hey Nineteen",
-      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
-    },
-    {
       "added_at": "2021-04-22 18:12:12",
       "album": {
         "name": "You Can Tune a Piano, But You Can't Tuna Fish",
@@ -459,6 +443,38 @@
       "duration_ms": 262733,
       "name": "Somebody's Baby",
       "url": "https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV"
+    },
+    {
+      "added_at": "2022-06-29 18:13:00",
+      "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 307400,
+      "name": "Hey Nineteen",
+      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "The Essentials: Orleans",
+        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
+      },
+      "artists": [
+        {
+          "name": "Orleans",
+          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
+        }
+      ],
+      "duration_ms": 180479,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -507,22 +523,6 @@
       "duration_ms": 223520,
       "name": "Love the One You're With",
       "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "The Essentials: Orleans",
-        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
-      },
-      "artists": [
-        {
-          "name": "Orleans",
-          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
-        }
-      ],
-      "duration_ms": 180479,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -623,18 +623,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Nicolette",
-        "url": "https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu"
+        "name": "Careless",
+        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
       },
       "artists": [
         {
-          "name": "Nicolette Larson",
-          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
         }
       ],
-      "duration_ms": 191773,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
+      "duration_ms": 192973,
+      "name": "Save It For A Rainy Day",
+      "url": "https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -655,18 +655,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Careless",
-        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
+        "name": "Nicolette",
+        "url": "https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu"
       },
       "artists": [
         {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+          "name": "Nicolette Larson",
+          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
         }
       ],
-      "duration_ms": 192973,
-      "name": "Save It For A Rainy Day",
-      "url": "https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld"
+      "duration_ms": 191773,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -783,6 +783,22 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
+        "name": "A-1-A",
+        "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "A Pirate Looks At Forty",
+      "url": "https://open.spotify.com/track/6ac6RlvEhiFraIxBYHhg1j"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
         "name": "High Adventure",
         "url": "https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 284720,
       "name": "Love Is the Answer",
       "url": "https://open.spotify.com/track/2jto2mk883akXynLqkdung"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "A-1-A",
-        "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "A Pirate Looks At Forty",
-      "url": "https://open.spotify.com/track/6ac6RlvEhiFraIxBYHhg1j"
     },
     {
       "added_at": "2022-06-29 18:13:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Changes In Latitudes, Changes In Attitudes",
-      "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Dialogue",
         "url": "https://open.spotify.com/album/1DxnK2IpTzpxiDWLZ1xNdK"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 241266,
       "name": "This Night Won't Last Forever",
       "url": "https://open.spotify.com/track/3u9g38eyqu5eJxU4Mhhzam"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Changes In Latitudes, Changes In Attitudes",
+      "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Dane Donohue",
-        "url": "https://open.spotify.com/album/34LLJFmhTpNRaKVR5qnqwx"
-      },
-      "artists": [
-        {
-          "name": "Dane Donohue",
-          "url": "https://open.spotify.com/artist/4kTI0EhldC81wN7PSBki3A"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/2dcL0moa4ZOrRNUBrOMojo"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "A HOLE IN THE WALL",
         "url": "https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 250173,
       "name": "MARGARITA",
       "url": "https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Dane Donohue",
+        "url": "https://open.spotify.com/album/34LLJFmhTpNRaKVR5qnqwx"
+      },
+      "artists": [
+        {
+          "name": "Dane Donohue",
+          "url": "https://open.spotify.com/artist/4kTI0EhldC81wN7PSBki3A"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/2dcL0moa4ZOrRNUBrOMojo"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Something In The Night",
-        "url": "https://open.spotify.com/album/1TqLFWSHFnAZq5I7Xg0tti"
-      },
-      "artists": [
-        {
-          "name": "Pure Prairie League",
-          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Still Right Here In My Heart",
-      "url": "https://open.spotify.com/track/5HZchgrpAreegk6UGs0zHr"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "A-1-A",
         "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 200026,
       "name": "You're the Love",
       "url": "https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Something In The Night",
+        "url": "https://open.spotify.com/album/1TqLFWSHFnAZq5I7Xg0tti"
+      },
+      "artists": [
+        {
+          "name": "Pure Prairie League",
+          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Still Right Here In My Heart",
+      "url": "https://open.spotify.com/track/5HZchgrpAreegk6UGs0zHr"
     },
     {
       "added_at": "2022-03-31 19:29:02",

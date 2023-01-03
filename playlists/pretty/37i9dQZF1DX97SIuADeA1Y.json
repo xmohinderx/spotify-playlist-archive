@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 281464,
+  "num_followers": 281622,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQwNTIwMCwwMDAwMDAwMDhhY2MwMDllMDMzZGRhNGY5NTRkNDcwMTAyMWM5NzQ0",
+  "snapshot_id": "MTY3MjQwNTIwMCwwMDAwMDAwMDE0MjliMmE0M2M5OWE0YmVmOTlkMzQ5ZDIwY2QwMzcy",
   "tracks": [
     {
       "added_at": "2022-12-16 13:31:20",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
     },
     {
-      "added_at": "2023-01-02 00:54:40",
+      "added_at": "2023-01-03 03:02:34",
       "album": {
         "name": "Shake That",
         "url": "https://open.spotify.com/album/2SYED5j8wPKjVW5cviH4qN"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
     },
     {
-      "added_at": "2023-01-02 00:54:40",
+      "added_at": "2023-01-03 03:02:34",
       "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
     },
     {
-      "added_at": "2023-01-02 00:54:40",
+      "added_at": "2023-01-03 03:02:34",
       "album": {
         "name": "Lust",
         "url": "https://open.spotify.com/album/1a0tiOO2ge9jZYYCCFEHrg"
@@ -507,26 +507,6 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "Skippin",
-        "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
-      },
-      "artists": [
-        {
-          "name": "MAXAM",
-          "url": "https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH"
-        },
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        }
-      ],
-      "duration_ms": 157446,
-      "name": "Skippin",
-      "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
         "name": "I'm Okay",
         "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 151723,
       "name": "I'm Okay",
       "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
+        "name": "Skippin",
+        "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
+      },
+      "artists": [
+        {
+          "name": "MAXAM",
+          "url": "https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH"
+        },
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        }
+      ],
+      "duration_ms": 157446,
+      "name": "Skippin",
+      "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -747,26 +747,6 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "Speed of Light",
-        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
-      },
-      "artists": [
-        {
-          "name": "Drive With Beats",
-          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
-        },
-        {
-          "name": "Beachbag",
-          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
-        }
-      ],
-      "duration_ms": 176347,
-      "name": "Speed of Light",
-      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
         "name": "Outta Love",
         "url": "https://open.spotify.com/album/59FlDwNsfaskGibimitsIm"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 164704,
       "name": "Outta Love",
       "url": "https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
+        "name": "Speed of Light",
+        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
+      },
+      "artists": [
+        {
+          "name": "Drive With Beats",
+          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
+        },
+        {
+          "name": "Beachbag",
+          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
+        }
+      ],
+      "duration_ms": 176347,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -875,30 +875,6 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M"
-      },
-      "artists": [
-        {
-          "name": "F\u00c4T TONY",
-          "url": "https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK"
-        },
-        {
-          "name": "MEDUN",
-          "url": "https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM"
-        },
-        {
-          "name": "Tiffany Aris",
-          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr"
-    },
-    {
-      "added_at": "2022-12-16 13:31:20",
-      "album": {
         "name": "Alone Again (feat. PollyAnna)",
         "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
       },
@@ -923,26 +899,26 @@
     {
       "added_at": "2022-12-16 13:31:20",
       "album": {
-        "name": "Little Do You Know",
-        "url": "https://open.spotify.com/album/57L2J0YLAxDo0uRYeLPab8"
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M"
       },
       "artists": [
         {
-          "name": "Mike Gudmann",
-          "url": "https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s"
+          "name": "F\u00c4T TONY",
+          "url": "https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK"
         },
         {
-          "name": "Crystal Rock",
-          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+          "name": "MEDUN",
+          "url": "https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM"
         },
         {
-          "name": "Rotciv & Revilo",
-          "url": "https://open.spotify.com/artist/4aA5K4qnL9Z3hD2rWJrjJW"
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
         }
       ],
-      "duration_ms": 194091,
-      "name": "Little Do You Know",
-      "url": "https://open.spotify.com/track/686AkgCXl1Mteuvdf9snKb"
+      "duration_ms": 172500,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr"
     },
     {
       "added_at": "2022-12-16 13:31:20",
@@ -963,6 +939,30 @@
       "duration_ms": 140000,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/6NQJeMKCVNBerVdZw9S3hj"
+    },
+    {
+      "added_at": "2022-12-16 13:31:20",
+      "album": {
+        "name": "Little Do You Know",
+        "url": "https://open.spotify.com/album/57L2J0YLAxDo0uRYeLPab8"
+      },
+      "artists": [
+        {
+          "name": "Mike Gudmann",
+          "url": "https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s"
+        },
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        },
+        {
+          "name": "Rotciv & Revilo",
+          "url": "https://open.spotify.com/artist/4aA5K4qnL9Z3hD2rWJrjJW"
+        }
+      ],
+      "duration_ms": 194091,
+      "name": "Little Do You Know",
+      "url": "https://open.spotify.com/track/686AkgCXl1Mteuvdf9snKb"
     },
     {
       "added_at": "2022-12-16 13:31:20",

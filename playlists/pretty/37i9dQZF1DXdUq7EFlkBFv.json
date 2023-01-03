@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 3153,
+  "num_followers": 3196,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMDA4YWIxNjNmZTg2YTkyYjliMDZhNDNkYTBiZjYzMGUy",
+  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMDAwZjY0NjM3ZjdjOTlkMDExMTRmYmU2NWZhMzQ4OGRk",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -215,6 +215,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/6d8HN8MqqbqrEUI2bvx0aG"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Shiesty Season",
         "url": "https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV"
       },
@@ -235,6 +251,26 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 166911,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "NEVER LEFT",
         "url": "https://open.spotify.com/album/0PMJvFnZxXl9LToaZFHhxp"
       },
@@ -247,22 +283,6 @@
       "duration_ms": 168727,
       "name": "NEVER LEFT",
       "url": "https://open.spotify.com/track/21UkXrc9kD48rNpTMI2ecz"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Jail",
-      "url": "https://open.spotify.com/track/6d8HN8MqqbqrEUI2bvx0aG"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -283,26 +303,6 @@
       "duration_ms": 199093,
       "name": "Maybach (feat. Future)",
       "url": "https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 166911,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -427,26 +427,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "King Of Killbranch",
-        "url": "https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK"
-      },
-      "artists": [
-        {
-          "name": "BIG30",
-          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 167190,
-      "name": "Free Shiest Life (feat. Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/0OruY3ybpkoHM9qG9xXbK3"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "SKAT (feat. DaBaby)",
         "url": "https://open.spotify.com/album/1Y9B8NqVUn69IhVhe2YMwT"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 171000,
       "name": "Attachments",
       "url": "https://open.spotify.com/track/1SedJ3dLWoCqnPIGeEMUJH"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "King Of Killbranch",
+        "url": "https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK"
+      },
+      "artists": [
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 167190,
+      "name": "Free Shiest Life (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/0OruY3ybpkoHM9qG9xXbK3"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -675,22 +675,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "808 Bangers",
-        "url": "https://open.spotify.com/album/7MASRGI1ZS1AiuwGAWslHs"
+        "name": "Off-White (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/1mQayAKgsYORLTbpvXdI5T"
       },
       "artists": [
         {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+          "name": "NGeeYL",
+          "url": "https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 153406,
-      "name": "Over the Top",
-      "url": "https://open.spotify.com/track/6dnfxKKuZoPzV2SFjbMS5S"
+      "duration_ms": 164353,
+      "name": "Off-White (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/6WSypNUxnt7YYXQ9iUGRR7"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -711,26 +711,6 @@
       "duration_ms": 150449,
       "name": "Brush Em (feat. Rah Swish)",
       "url": "https://open.spotify.com/track/58aW6yZGFl7rVM7SLfLnLL"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Off-White (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/1mQayAKgsYORLTbpvXdI5T"
-      },
-      "artists": [
-        {
-          "name": "NGeeYL",
-          "url": "https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 164353,
-      "name": "Off-White (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/6WSypNUxnt7YYXQ9iUGRR7"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -943,6 +923,26 @@
       "duration_ms": 123870,
       "name": "Toxic Punk",
       "url": "https://open.spotify.com/track/1kt1zJEovrCGeW4xHvQwaX"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Buy or Bye 2",
+        "url": "https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 153406,
+      "name": "Over The Top (feat. Drake)",
+      "url": "https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa"
     },
     {
       "added_at": "2022-10-01 16:17:17",

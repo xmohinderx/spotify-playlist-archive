@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: SZA
 
-519 songs - 1 day 4 hr 52 min - [published](https://open.spotify.com/playlist/2gY4599r7wEcpzuQThQTVi)
+520 songs - 1 day 4 hr 54 min - [published](https://open.spotify.com/playlist/2gY4599r7wEcpzuQThQTVi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Boo'd Up](https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 4:16 | 2022-04-01 | 2022-04-21 |
 | [boyfriend \(with Social House\)](https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [boyfriend](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) | 3:06 | 2022-04-01 | 2022-12-30 |
 | [BRB \(feat\. Pink Sweat$\)](https://open.spotify.com/track/3cIYfp1jvO622pUW5zaeEF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [BRB \(feat\. Pink Sweat$\)](https://open.spotify.com/album/6MDVwRIC8PaZFkggzSFBso) | 3:38 | 2022-04-01 | 2022-07-27 |
-| [Break from Toronto](https://open.spotify.com/track/13NpYEWi9EIFDJksYsk1hr) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Sad Rap Vibes](https://open.spotify.com/album/0qluLhlEBcznsuNv7lTd82) | 1:39 | 2022-12-29 |  |
+| [Break from Toronto](https://open.spotify.com/track/13NpYEWi9EIFDJksYsk1hr) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Sad Rap Vibes](https://open.spotify.com/album/0qluLhlEBcznsuNv7lTd82) | 1:39 | 2022-12-29 | 2023-01-03 |
+| [Break from Toronto](https://open.spotify.com/track/5fEB6ZmVkg63GZg9qO86jh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 1:39 | 2022-12-29 |  |
 | [Break from Toronto](https://open.spotify.com/track/79MSEdtXuudhGhC5AtG07g) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH) | 1:39 | 2022-11-16 | 2023-01-02 |
 | [Break Me](https://open.spotify.com/track/03XDjkWj7ME04UpDyAjg8Q) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [then, now & again](https://open.spotify.com/album/5CitFeZFJGYkgdH8EhIHta) | 4:12 | 2022-04-01 | 2022-04-20 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-09-22 | 2022-12-30 |

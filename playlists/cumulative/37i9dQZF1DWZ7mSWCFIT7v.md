@@ -4,7 +4,7 @@
 
 > Laid back electronic soundscapes rooted in experimental and ambient sensibilities.
 
-288 songs - 23 hr 40 min - [published](https://open.spotify.com/playlist/6KKCtKWPCrKLZ3W8ZVtimv)
+289 songs - 23 hr 44 min - [published](https://open.spotify.com/playlist/6KKCtKWPCrKLZ3W8ZVtimv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Bergen](https://open.spotify.com/track/6AhRffpaXubqSn4lHMfmyk) | [Ertoz](https://open.spotify.com/artist/4d7FnTdZG753sLDlnOOzOH) | [Bergen](https://open.spotify.com/album/1iDL1GIkT2T7EkXUwcw7Xy) | 5:50 | 2021-10-06 | 2022-07-26 |
 | [Blobject](https://open.spotify.com/track/2fo83TJRtbirzVwANgZvTo) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [SoulCity EP](https://open.spotify.com/album/1u8OYI31zSwRKa8uzjAEvI) | 5:56 | 2021-10-06 | 2022-09-10 |
 | [Blobject](https://open.spotify.com/track/4R49HTqdoT2EkLHrFOODYf) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Blobject](https://open.spotify.com/album/5rtc7nqGQrjHG7aQwZmRf2) | 5:56 | 2021-10-06 | 2022-07-27 |
-| [Blooms](https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA) | [Sau Poler](https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu) | [Blooms](https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz) | 5:46 | 2021-10-06 |  |
+| [Blooms](https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA) | [Sau Poler](https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu) | [Blooms](https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz) | 5:46 | 2021-10-06 | 2023-01-03 |
 | [BLUE](https://open.spotify.com/track/6kAtLKUnOMn3zcVkPkc0V8) | [ALL OF THE WORLD](https://open.spotify.com/artist/7fLaa02J09xp33ucEoQQUE) | [BLUE](https://open.spotify.com/album/7cdbK0qiDoS6pf4Dx9343l) | 4:30 | 2022-08-31 | 2022-11-17 |
 | [Blush](https://open.spotify.com/track/0TNvT1nOjUcDpamaWDtSxd) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 3:57 | 2021-10-06 | 2022-12-31 |
 | [Boreal](https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 2:34 | 2021-10-06 |  |
@@ -137,6 +137,7 @@
 | [Kompod](https://open.spotify.com/track/0i2IjtW0GaTSAYfmKEGtXB) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Iaora Tahiti](https://open.spotify.com/album/6Vgdflce6Ty8CADUFC3Zu3) | 4:10 | 2021-10-06 | 2022-07-29 |
 | [Kompod](https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Iaora Tahiti](https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii) | 4:10 | 2021-10-06 |  |
 | [l'empelt](https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4) | [drames rurals](https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [juns](https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF), [oma totem](https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb), [Meritxell Bonastre](https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp) | [drames rurals](https://open.spotify.com/album/3yC35q63Eg6ctGi3CXFUDD) | 4:43 | 2022-02-16 |  |
+| [LADDE](https://open.spotify.com/track/1uescVu7fcevtmnW9vps7A) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [ADDLE](https://open.spotify.com/album/1xD85z87BbTL8jtOEHPCK5) | 4:04 | 2023-01-02 |  |
 | [Las Tres Hermanas](https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z) | [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Las Tres Hermanas](https://open.spotify.com/album/7HJ6ekJSoJP6utcPh1HmK9) | 3:49 | 2022-09-27 |  |
 | [lavender's love](https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [lavender's love](https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo) | 2:40 | 2022-04-12 |  |
 | [Liminal States](https://open.spotify.com/track/35PHqb3ib80HYuwcXGKtGr) | [Patricia](https://open.spotify.com/artist/7Czyyo31ZyZL1VLtYaTkW0) | [Several Shades of the Same Color](https://open.spotify.com/album/3UKvKcratbHPHngyOxQ0ar) | 5:03 | 2021-10-06 |  |
@@ -165,7 +166,7 @@
 | [Morning Sun](https://open.spotify.com/track/1Si3jjKdNox3btMEcfRx0V) | [Below Clouds](https://open.spotify.com/artist/28Ml3ItdZ6mbi1q7X8hvfw) | [Morning Sun](https://open.spotify.com/album/3RRzxZkIeB5CLtTm7Fl2Lv) | 5:42 | 2022-04-12 | 2022-07-29 |
 | [Mountain](https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB) | 2:15 | 2021-10-06 |  |
 | [Muckbirth](https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Muckbirth](https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y) | 3:17 | 2021-10-06 |  |
-| [Nannou \- Mixed](https://open.spotify.com/track/3dgD602JCmRmFm95pOXCtz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Nannou \(Mixed\)](https://open.spotify.com/album/4UiRbLnV7kPBhXhyEnr1S2) | 1:55 | 2022-12-30 |  |
+| [Nannou \- Mixed](https://open.spotify.com/track/3dgD602JCmRmFm95pOXCtz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Nannou \(Mixed\)](https://open.spotify.com/album/4UiRbLnV7kPBhXhyEnr1S2) | 1:55 | 2022-12-29 |  |
 | [Niffler](https://open.spotify.com/track/1UgC3l3kRvZSj1l94QnJ8b) | [Yilan](https://open.spotify.com/artist/7o1UX2zZS5cu7uwcQ5hVao), [Ren](https://open.spotify.com/artist/7J5Y3wpzYedPu0w7ZMrKgw) | [Suddenly I Am Falling](https://open.spotify.com/album/2BordD7HRLKpTukyPxetBN) | 6:27 | 2021-10-06 | 2022-07-26 |
 | [NLL561606933](https://open.spotify.com/track/1sxkvvUTGKcRoY3IYnKyRb) | [Aleksi Perälä](https://open.spotify.com/artist/3hjBVvW03HcmXfKUipv1Fx) | [Simulation](https://open.spotify.com/album/542oFPILAI1UiGnoHH8XyH) | 4:54 | 2021-10-06 | 2022-07-29 |
 | [NRG Remains](https://open.spotify.com/track/0OsNfb4otfIOdHSUt40ecP) | [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Grial](https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X) | 2:56 | 2021-10-06 | 2022-07-22 |

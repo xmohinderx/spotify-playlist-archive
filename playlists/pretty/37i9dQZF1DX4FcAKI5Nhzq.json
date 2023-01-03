@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: DKZ",
-  "num_followers": 726964,
+  "num_followers": 727156,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM5MDgwMCwwMDAwMDAwMDFhODc0YjM2YmQ5YTM2MDEwNjY0ZWU1YmJhY2Q2ZGU5",
+  "snapshot_id": "MTY3MjcxMjk4OSwwMDAwMDAwMDM0ZDY5YmIzNzkzYWU0ZGEyZTIwOGVkZGYyMzA3Njlk",
   "tracks": [
     {
       "added_at": "2022-12-30 09:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 202500,
       "name": "2022 (Forever)",
       "url": "https://open.spotify.com/track/11JclvqEv0Zw0VwfgUqoek"
+    },
+    {
+      "added_at": "2023-01-03 02:29:49",
+      "album": {
+        "name": "Ponytail",
+        "url": "https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 205284,
+      "name": "Ponytail (Feat. Sik-K)",
+      "url": "https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa"
     },
     {
       "added_at": "2022-12-30 09:00:00",

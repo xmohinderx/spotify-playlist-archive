@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Teenage Priest",
-  "num_followers": 276496,
+  "num_followers": 276529,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczMTk1MSwwMDAwMDAwMDYyZDMwZWRmZDFkYjdkOWJjNTVhOWEwZWI5YzJkNjkz",
+  "snapshot_id": "MTY3MTczMTk1MSwwMDAwMDAwMGI2ZDQwOWZhYjhhYWZlMGJhNzNlNWU0NzBiNDhiOGI2",
   "tracks": [
     {
       "added_at": "2022-10-21 14:21:02",
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/1GXKnG7uoUr4RacaxE3e8m"
     },
     {
-      "added_at": "2023-01-02 01:16:50",
+      "added_at": "2023-01-03 03:04:11",
       "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/08u1lOOEqeG1CMuL2YDSbf"
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "When You Know You Know",
-      "url": "https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "Dog Eat Dog",
         "url": "https://open.spotify.com/album/6EL1CpUnemPFyu30uPEu9N"
       },
@@ -439,6 +423,38 @@
       "duration_ms": 138600,
       "name": "Ticking Bomb",
       "url": "https://open.spotify.com/track/7KCqSmpnDXwuhHgaMZ5wli"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "When You Know You Know",
+      "url": "https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa"
     },
     {
       "added_at": "2022-11-17 17:47:18",
@@ -487,22 +503,6 @@
       "duration_ms": 152226,
       "name": "Forgetting Delaney",
       "url": "https://open.spotify.com/track/0BoEasH9Wqi5N0Ryd5VPzt"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 224253,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh"
     },
     {
       "added_at": "2022-12-07 00:44:37",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
+        "name": "Inner World Peace",
+        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 205890,
+      "name": "Aftershook",
+      "url": "https://open.spotify.com/track/4AdD9JhtqFrMXrSXOQ2MGT"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
         "name": "Quiet the Room",
         "url": "https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 173905,
       "name": "Legs",
       "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Inner World Peace",
-        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 205890,
-      "name": "Aftershook",
-      "url": "https://open.spotify.com/track/4AdD9JhtqFrMXrSXOQ2MGT"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE"
     },
     {
-      "added_at": "2022-12-16 04:00:00",
-      "album": {
-        "name": "Bounds",
-        "url": "https://open.spotify.com/album/2GmeIjqLRMB2wpn0z5hLd9"
-      },
-      "artists": [
-        {
-          "name": "chemical club",
-          "url": "https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN"
-        }
-      ],
-      "duration_ms": 207072,
-      "name": "Bounds",
-      "url": "https://open.spotify.com/track/3u2gVMfuOJWi4MF8mh4nof"
-    },
-    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "i only sing about food",
@@ -895,6 +879,22 @@
       "duration_ms": 144586,
       "name": "i only sing about food",
       "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
+    },
+    {
+      "added_at": "2022-12-16 04:00:00",
+      "album": {
+        "name": "Bounds",
+        "url": "https://open.spotify.com/album/2GmeIjqLRMB2wpn0z5hLd9"
+      },
+      "artists": [
+        {
+          "name": "chemical club",
+          "url": "https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN"
+        }
+      ],
+      "duration_ms": 207072,
+      "name": "Bounds",
+      "url": "https://open.spotify.com/track/3u2gVMfuOJWi4MF8mh4nof"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "When The Wind Forgets Your Name",
-        "url": "https://open.spotify.com/album/4mI5F5FT88NKoCaW9CdaIN"
-      },
-      "artists": [
-        {
-          "name": "Built To Spill",
-          "url": "https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U"
-        }
-      ],
-      "duration_ms": 323300,
-      "name": "Spiderweb",
-      "url": "https://open.spotify.com/track/4jUA8bO0BppkejDTUVidVR"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "Bull Believer",
         "url": "https://open.spotify.com/album/7snO1rfm1c5QndkfgQVsFb"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 510773,
       "name": "Bull Believer",
       "url": "https://open.spotify.com/track/6wYlN6ikOUsS0PQEI4XJMl"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "When The Wind Forgets Your Name",
+        "url": "https://open.spotify.com/album/4mI5F5FT88NKoCaW9CdaIN"
+      },
+      "artists": [
+        {
+          "name": "Built To Spill",
+          "url": "https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U"
+        }
+      ],
+      "duration_ms": 323300,
+      "name": "Spiderweb",
+      "url": "https://open.spotify.com/track/4jUA8bO0BppkejDTUVidVR"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
+        "name": "Leap Day",
+        "url": "https://open.spotify.com/album/5bIvA0LQnYPoZNpqJAKlFw"
+      },
+      "artists": [
+        {
+          "name": "Remember Sports",
+          "url": "https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc"
+        }
+      ],
+      "duration_ms": 136320,
+      "name": "Leap Day",
+      "url": "https://open.spotify.com/track/5nBj7IUAzB42XV5ZIpQws5"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
         "name": "WASTELAND",
         "url": "https://open.spotify.com/album/4XMzbNjifjbUTci7QxtP14"
       },
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Leap Day",
-        "url": "https://open.spotify.com/album/5bIvA0LQnYPoZNpqJAKlFw"
+        "name": "Household Name",
+        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
       },
       "artists": [
         {
-          "name": "Remember Sports",
-          "url": "https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc"
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
         }
       ],
-      "duration_ms": 136320,
-      "name": "Leap Day",
-      "url": "https://open.spotify.com/track/5nBj7IUAzB42XV5ZIpQws5"
+      "duration_ms": 201333,
+      "name": "Motorbike",
+      "url": "https://open.spotify.com/track/2JMB5piiHlzUWqvnPfuVCO"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1091,22 +1107,6 @@
       "duration_ms": 197333,
       "name": "You Know",
       "url": "https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Household Name",
-        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 201333,
-      "name": "Motorbike",
-      "url": "https://open.spotify.com/track/2JMB5piiHlzUWqvnPfuVCO"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1157,22 +1157,6 @@
       "url": "https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj"
     },
     {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Sandra",
-        "url": "https://open.spotify.com/album/3diUwioN2XksdXKERc4rxi"
-      },
-      "artists": [
-        {
-          "name": "Yb.",
-          "url": "https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i"
-        }
-      ],
-      "duration_ms": 234704,
-      "name": "Sandra",
-      "url": "https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN"
-    },
-    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Hayday",
@@ -1187,6 +1171,22 @@
       "duration_ms": 130606,
       "name": "Dog Song 2",
       "url": "https://open.spotify.com/track/38o4QGAJgtqmhQw3SE0gZR"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Sandra",
+        "url": "https://open.spotify.com/album/3diUwioN2XksdXKERc4rxi"
+      },
+      "artists": [
+        {
+          "name": "Yb.",
+          "url": "https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i"
+        }
+      ],
+      "duration_ms": 234704,
+      "name": "Sandra",
+      "url": "https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN"
     },
     {
       "added_at": "2022-10-21 14:21:02",

@@ -1,12 +1,12 @@
 {
   "description": "The happiest hits to boost your day.",
-  "num_followers": 442515,
+  "num_followers": 442704,
   "original_name": "Good Times",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0NDQ5OCwwMDAwMDAwMGRhMjQ4OGM3NGFiMzMzYjE5Y2E1OTc4OWFiNGIyYWI1",
+  "snapshot_id": "MTY2ODE0NDQ5OCwwMDAwMDAwMDIzZGVjOGU2Mzk3NjJkMzc2NTgyMjFkNzJkZGIyYjM1",
   "tracks": [
     {
       "added_at": "2022-11-11 05:28:18",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-11-11 05:28:18",
       "album": {
-        "name": "Origins (Deluxe)",
-        "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 260773,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3"
-    },
-    {
-      "added_at": "2022-11-11 05:28:18",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 217306,
       "name": "Havana (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
+    },
+    {
+      "added_at": "2022-11-11 05:28:18",
+      "album": {
+        "name": "Origins (Deluxe)",
+        "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 260773,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3"
     },
     {
       "added_at": "2022-11-11 05:28:18",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-11-11 05:28:18",
       "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "no tears left to cry",
-      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
-    },
-    {
-      "added_at": "2022-11-11 05:28:18",
-      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 174760,
       "name": "My Head & My Heart",
       "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
+    },
+    {
+      "added_at": "2022-11-11 05:28:18",
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "no tears left to cry",
+      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
     },
     {
       "added_at": "2022-11-11 05:28:18",
@@ -683,42 +683,6 @@
     {
       "added_at": "2022-11-11 05:28:18",
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
-    },
-    {
-      "added_at": "2022-11-11 05:28:18",
-      "album": {
-        "name": "Don\u2019t Wake Me Up",
-        "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 188894,
-      "name": "Don\u2019t Wake Me Up",
-      "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
-    },
-    {
-      "added_at": "2022-11-11 05:28:18",
-      "album": {
         "name": "Please Me",
         "url": "https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso"
       },
@@ -755,6 +719,22 @@
     {
       "added_at": "2022-11-11 05:28:18",
       "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
+    },
+    {
+      "added_at": "2022-11-11 05:28:18",
+      "album": {
         "name": "Rover (feat. DTG)",
         "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
       },
@@ -775,6 +755,26 @@
     {
       "added_at": "2022-11-11 05:28:18",
       "album": {
+        "name": "Don\u2019t Wake Me Up",
+        "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 188894,
+      "name": "Don\u2019t Wake Me Up",
+      "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
+    },
+    {
+      "added_at": "2022-11-11 05:28:18",
+      "album": {
         "name": "AMAZING",
         "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
       },
@@ -787,6 +787,26 @@
       "duration_ms": 209200,
       "name": "AMAZING",
       "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
+    },
+    {
+      "added_at": "2022-11-11 05:28:18",
+      "album": {
+        "name": "Rain On Me (with Ariana Grande)",
+        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Rain On Me (with Ariana Grande)",
+      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
     },
     {
       "added_at": "2022-11-11 05:28:18",
@@ -867,26 +887,6 @@
     {
       "added_at": "2022-11-11 05:28:18",
       "album": {
-        "name": "Rain On Me (with Ariana Grande)",
-        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Rain On Me (with Ariana Grande)",
-      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
-    },
-    {
-      "added_at": "2022-11-11 05:28:18",
-      "album": {
         "name": "Know-It-All (Deluxe)",
         "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
       },
@@ -903,26 +903,22 @@
     {
       "added_at": "2022-11-11 05:28:18",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/0kCeC3O3QGbCYDJGCGUIce"
+        "name": "Cover Me In Sunshine",
+        "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
       },
       "artists": [
         {
-          "name": "Hot Shade",
-          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         },
         {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "Chris James",
-          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
+          "name": "Willow Sage Hart",
+          "url": "https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS"
         }
       ],
-      "duration_ms": 164490,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd"
+      "duration_ms": 141050,
+      "name": "Cover Me In Sunshine",
+      "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
     }
   ],
   "unique_name": "Good Times",

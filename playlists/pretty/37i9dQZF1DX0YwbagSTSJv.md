@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 
 > Let it all go and lift yourself up with inspiring ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,582 likes - 126 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,620 likes - 126 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

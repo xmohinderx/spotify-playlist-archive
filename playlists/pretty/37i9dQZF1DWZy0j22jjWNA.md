@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,045 likes - 65 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,073 likes - 65 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 14 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 |
 | 15 | [Kin](https://open.spotify.com/track/2bLR9LPyrBiT0F4KohEbop) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Wendigo](https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q) | 3:24 |
 | 16 | [Survival \(feat\. Drew Holcomb & Ellie Holcomb\)](https://open.spotify.com/track/4os91DjSzBTVk2GaPtkrMp) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 4:27 |
-| 17 | [End of the World](https://open.spotify.com/track/01yPhHRM0V95CenZmFQKjw) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Dragons](https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31) | 3:24 |
-| 18 | [Bridges](https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5) | 3:36 |
+| 17 | [Bridges](https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5) | 3:36 |
+| 18 | [End of the World](https://open.spotify.com/track/01yPhHRM0V95CenZmFQKjw) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Dragons](https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31) | 3:24 |
 | 19 | [Closer Than a Brother](https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Chrysaline](https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA) | 5:09 |
 | 20 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
 | 21 | [Not Afraid Of The Dark](https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz) | [Carrollton](https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs) | [Carrollton](https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf) | 3:52 |
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 28 | [Harmony Hall](https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Covers](https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF) | 4:57 |
 | 29 | [Backwards](https://open.spotify.com/track/07ii8FiGFeAf6ZoW8TbggA) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Zeal](https://open.spotify.com/album/1p9qFUWDth0hWAQYiKUB37) | 3:48 |
 | 30 | [Morning Song](https://open.spotify.com/track/0TITOVVpWkNT5H3JKVdoXq) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [Morning Song](https://open.spotify.com/album/2MB2SNajHrRGLcnEGFgns2) | 4:21 |
-| 31 | [Giants](https://open.spotify.com/track/0Q7ike4sNrjLSZx8r26C9s) | [Silverberg](https://open.spotify.com/artist/3lpVtJYZ57FvUVDzECu4UY), [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Giants](https://open.spotify.com/album/2ik2fFjv7xdAAK3VP9P779) | 3:53 |
-| 32 | [Time's Always Leaving](https://open.spotify.com/track/7e5k4ucRMRHT9MEJh6PTxI) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk into a Storm](https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ) | 3:17 |
-| 33 | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2) | 3:42 |
+| 31 | [Time's Always Leaving](https://open.spotify.com/track/7e5k4ucRMRHT9MEJh6PTxI) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk into a Storm](https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ) | 3:17 |
+| 32 | [Giants](https://open.spotify.com/track/0Q7ike4sNrjLSZx8r26C9s) | [Silverberg](https://open.spotify.com/artist/3lpVtJYZ57FvUVDzECu4UY), [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Giants](https://open.spotify.com/album/2ik2fFjv7xdAAK3VP9P779) | 3:53 |
+| 33 | [Go with You](https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs) | 3:31 |
 | 34 | [I Love It](https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx) | [Aalok Bala](https://open.spotify.com/artist/5Uu7rkbI8eNOsGWFCp5sSM) | [Rebirth](https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd) | 3:21 |
-| 35 | [Go with You](https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs) | 3:31 |
-| 36 | [Juggernaut](https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:54 |
-| 37 | [Holy Rain](https://open.spotify.com/track/6CFj3yJ1i8U91Cn7jN0fSI) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Pilot of My Own Life](https://open.spotify.com/album/6AsU7R0g9THoQ7f4NKK2AJ) | 4:04 |
+| 35 | [Juggernaut](https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:54 |
+| 36 | [Holy Rain](https://open.spotify.com/track/6CFj3yJ1i8U91Cn7jN0fSI) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Pilot of My Own Life](https://open.spotify.com/album/6AsU7R0g9THoQ7f4NKK2AJ) | 4:04 |
+| 37 | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2) | 3:42 |
 | 38 | [Like Myself](https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Like Myself](https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv) | 2:28 |
 | 39 | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq) | [13 Crowns](https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH) | 4:06 |
 | 40 | [Ain't No Grave](https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF) | [Zach Winters](https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu) | [Ain't No Grave](https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw) | 4:48 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 60 | [Starts With You And Me](https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma) | [Nathan Sheridan](https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm) | [Broken With You](https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7) | 2:58 |
 | 61 | [The Mountain \(Live from 25in24\)](https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [The Mountain \(Live from 25in24\)](https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs) | 3:51 |
 | 62 | [I Am One](https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [I Am One](https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF) | 4:10 |
-| 63 | [Dawned On Me](https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj) | [Brewer](https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2) | [Dawned On Me](https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe) | 2:57 |
-| 64 | [Roses](https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [Roses](https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs) | 3:08 |
+| 63 | [Roses](https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [Roses](https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs) | 3:08 |
+| 64 | [Dawned On Me](https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj) | [Brewer](https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2) | [Dawned On Me](https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe) | 2:57 |
 | 65 | [Radiant \(Shine Like Diamonds\)](https://open.spotify.com/track/1y6A6uJmgWWXyD9sO7iCtp) | [Quiet Science](https://open.spotify.com/artist/6ClKRjCUNwKVuR5MjFPjY0) | [Radiant \(Shine Like Diamonds\)](https://open.spotify.com/album/5G2zZlIJhCqKAT5Pjoqr2Y) | 4:01 |
 
-Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMGRmODYwOGQ5ZTZlZjBjOGY0Y2U3NzZlMGUzNTVjZTlk`
+Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMDJjMTc0Mzg5ZWU4ODg1YWM1MDI0NzFmZjRhNjMwOTEx`

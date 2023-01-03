@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Hang ten.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,352 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,605 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 15 | [down bad](https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:11 |
 | 16 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
 | 17 | [Petals](https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Sugar at the Gate](https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh) | 2:54 |
-| 18 | [Peach Pit](https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 4:47 |
-| 19 | [Swim and Sleep \(Like a Shark\)](https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 2:45 |
+| 18 | [Swim and Sleep \(Like a Shark\)](https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 2:45 |
+| 19 | [Peach Pit](https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 4:47 |
 | 20 | [Drugs](https://open.spotify.com/track/5T545E02gCrnhkPoHXJPxK) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [M.A.G.S.](https://open.spotify.com/album/02lZc0jdze6xKqeXeAWbyg) | 2:14 |
 | 21 | [Saltwater](https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:07 |
 | 22 | [Dorothy](https://open.spotify.com/track/7jay75cMfpEIyIkkvmemYr) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:06 |
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 29 | [Shalala](https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe) | [Moses Gunn Collective](https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o) | [Mercy Mountain](https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT) | 3:48 |
 | 30 | [Panama](https://open.spotify.com/track/6keyBQK6pA0OApRfM1f0dp) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Naked All the Time](https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N) | 3:18 |
 | 31 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 |
-| 32 | [Raspberry Jam](https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G) | 3:48 |
-| 33 | [French Press](https://open.spotify.com/track/77RHNGjtLP4UlIb7FW1uOu) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [The French Press](https://open.spotify.com/album/5k0144ExDJZEx03Pp7VeNn) | 5:26 |
-| 34 | [What a Pleasure](https://open.spotify.com/track/3FwuOIr8dkrzdAOMUM6sOe) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [What a Pleasure](https://open.spotify.com/album/4BfZ2aZSNDlXFx15lgHGcO) | 2:32 |
-| 35 | [Avant Gardener](https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [The Double EP: A Sea of Split Peas](https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej) | 5:12 |
-| 36 | [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 |
+| 32 | [French Press](https://open.spotify.com/track/77RHNGjtLP4UlIb7FW1uOu) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [The French Press](https://open.spotify.com/album/5k0144ExDJZEx03Pp7VeNn) | 5:26 |
+| 33 | [What a Pleasure](https://open.spotify.com/track/3FwuOIr8dkrzdAOMUM6sOe) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [What a Pleasure](https://open.spotify.com/album/4BfZ2aZSNDlXFx15lgHGcO) | 2:32 |
+| 34 | [Avant Gardener](https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [The Double EP: A Sea of Split Peas](https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej) | 5:12 |
+| 35 | [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 |
+| 36 | [Raspberry Jam](https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G) | 3:48 |
 | 37 | [Rocky](https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Rocky](https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur) | 2:46 |
 | 38 | [Under the Sun](https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:46 |
-| 39 | [City Club](https://open.spotify.com/track/6Ig2iLUX11ZNpI7EBCZqyt) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 3:16 |
-| 40 | [Peace Blossom Boogy](https://open.spotify.com/track/742oWlfJlZRsX6SA2QLRtD) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow](https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL) | 3:14 |
+| 39 | [Peace Blossom Boogy](https://open.spotify.com/track/742oWlfJlZRsX6SA2QLRtD) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow](https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL) | 3:14 |
+| 40 | [City Club](https://open.spotify.com/track/6Ig2iLUX11ZNpI7EBCZqyt) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 3:16 |
 | 41 | [Out In The Country](https://open.spotify.com/track/1FOAgjh0uXXjNTPTwHxZCT) | [Natural Child](https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt) | [Dancin' With Wolves](https://open.spotify.com/album/4GFodiOr1aC5Ekr87RhyOl) | 2:54 |
 | 42 | [Fire Flower](https://open.spotify.com/track/2zgpMaaXfVJqUJoMbjmfH2) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Favorite Holiday, Vol\. 1](https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer) | 4:10 |
 | 43 | [Super Natural](https://open.spotify.com/track/729EEmzEdLEg6wJo0gqvDO) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Good Nature](https://open.spotify.com/album/7ChpG56flymk0okdZiaIrq) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 49 | [Taking up Space](https://open.spotify.com/track/2l0KF9ywMxglacqb7Nb6H0) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Zest Pop](https://open.spotify.com/album/4CvR0TtxnofCq74AiND8kp) | 3:37 |
 | 50 | [Let the Sun In](https://open.spotify.com/track/6qMiZK4mGuCRkVwRFds4Sm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Spring EP](https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw) | 3:43 |
 
-Snapshot ID: `MTY2OTc1MDgxNywwMDAwMDAwMDg4MGVlYTk3M2ZjMWM4MmVhYjBjZWEyMDRkZTk0Mzhi`
+Snapshot ID: `MTY2OTc1MDgxNywwMDAwMDAwMDI3YjQ1MWNlZWFmZGQ2MDM1ZmQwNWQwMmM0YjYyMTFi`

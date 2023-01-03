@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior H ",
-  "num_followers": 102851,
+  "num_followers": 102890,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQzMTAwNSwwMDAwMDAwMDc5NjM5ZDhiYThiYzQ5M2Q5NTQ1YzUyZGI5MDUzNGYy",
+  "snapshot_id": "MTY3MjQzMTAwNSwwMDAwMDAwMDYxMjk5NThhYjFiZjY5MmYzNDljYWY1MTM2MmY3YWY3",
   "tracks": [
     {
       "added_at": "2022-12-30 18:14:14",
@@ -95,6 +95,22 @@
     {
       "added_at": "2022-12-30 18:14:14",
       "album": {
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Me Olvid\u00e9 De Los 2",
+      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
+    },
+    {
+      "added_at": "2022-12-30 18:14:14",
+      "album": {
         "name": "algo as\u00ed (remix)",
         "url": "https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 175718,
       "name": "NUDE",
       "url": "https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L"
-    },
-    {
-      "added_at": "2022-12-30 18:14:14",
-      "album": {
-        "name": "LA ISLA LP",
-        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Me Olvid\u00e9 De Los 2",
-      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
     },
     {
       "added_at": "2022-12-30 18:14:14",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-12-30 18:14:14",
       "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj"
+      },
+      "artists": [
+        {
+          "name": "Fernanda",
+          "url": "https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0"
+        }
+      ],
+      "duration_ms": 137794,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5"
+    },
+    {
+      "added_at": "2022-12-30 18:14:14",
+      "album": {
         "name": "La Corriente",
         "url": "https://open.spotify.com/album/1FVv5DkYsVlPXrxRbT777f"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 166086,
       "name": "La Corriente",
       "url": "https://open.spotify.com/track/5hHIU3jEsTAWR08g7mOdwM"
-    },
-    {
-      "added_at": "2022-12-30 18:14:14",
-      "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj"
-      },
-      "artists": [
-        {
-          "name": "Fernanda",
-          "url": "https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0"
-        }
-      ],
-      "duration_ms": 137794,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5"
     },
     {
       "added_at": "2022-12-30 18:14:14",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-12-30 18:14:14",
       "album": {
-        "name": "DUCATI",
-        "url": "https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X"
-      },
-      "artists": [
-        {
-          "name": "Le Coco",
-          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
-        }
-      ],
-      "duration_ms": 169161,
-      "name": "DUCATI",
-      "url": "https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX"
-    },
-    {
-      "added_at": "2022-12-30 18:14:14",
-      "album": {
         "name": "Prende",
         "url": "https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 173373,
       "name": "Prende",
       "url": "https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX"
+    },
+    {
+      "added_at": "2022-12-30 18:14:14",
+      "album": {
+        "name": "DUCATI",
+        "url": "https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X"
+      },
+      "artists": [
+        {
+          "name": "Le Coco",
+          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
+        }
+      ],
+      "duration_ms": 169161,
+      "name": "DUCATI",
+      "url": "https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX"
     },
     {
       "added_at": "2022-12-30 18:14:14",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-12-30 18:14:14",
       "album": {
-        "name": "CU\u00c1NTO",
-        "url": "https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm"
-      },
-      "artists": [
-        {
-          "name": "CIAN",
-          "url": "https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60"
-        }
-      ],
-      "duration_ms": 172430,
-      "name": "CU\u00c1NTO",
-      "url": "https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1"
-    },
-    {
-      "added_at": "2022-12-30 18:14:14",
-      "album": {
         "name": "esc\u00e1pate",
         "url": "https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f"
       },
@@ -1239,22 +1223,6 @@
       "duration_ms": 171477,
       "name": "esc\u00e1pate",
       "url": "https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m"
-    },
-    {
-      "added_at": "2022-12-30 18:14:14",
-      "album": {
-        "name": "Del Amor Al Odio",
-        "url": "https://open.spotify.com/album/3jSsrpfRaecPJXr8bHHSUM"
-      },
-      "artists": [
-        {
-          "name": "Digiannia",
-          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
-        }
-      ],
-      "duration_ms": 196231,
-      "name": "Del Amor Al Odio",
-      "url": "https://open.spotify.com/track/3qBRVRm3dOA3RXVZPgBlqT"
     },
     {
       "added_at": "2022-12-30 18:14:14",
@@ -1275,6 +1243,38 @@
       "duration_ms": 173098,
       "name": "Na Pa Ti (feat. Kofi)",
       "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
+    },
+    {
+      "added_at": "2022-12-30 18:14:14",
+      "album": {
+        "name": "CU\u00c1NTO",
+        "url": "https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm"
+      },
+      "artists": [
+        {
+          "name": "CIAN",
+          "url": "https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60"
+        }
+      ],
+      "duration_ms": 172430,
+      "name": "CU\u00c1NTO",
+      "url": "https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1"
+    },
+    {
+      "added_at": "2022-12-30 18:14:14",
+      "album": {
+        "name": "Del Amor Al Odio",
+        "url": "https://open.spotify.com/album/3jSsrpfRaecPJXr8bHHSUM"
+      },
+      "artists": [
+        {
+          "name": "Digiannia",
+          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
+        }
+      ],
+      "duration_ms": 196231,
+      "name": "Del Amor Al Odio",
+      "url": "https://open.spotify.com/track/3qBRVRm3dOA3RXVZPgBlqT"
     },
     {
       "added_at": "2022-12-30 18:14:14",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-12-30 18:14:14",
       "album": {
+        "name": "Cerquita del Mar",
+        "url": "https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Cerquita del Mar",
+      "url": "https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo"
+    },
+    {
+      "added_at": "2022-12-30 18:14:14",
+      "album": {
         "name": "DIADREAMER",
         "url": "https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9"
       },
@@ -1331,6 +1347,22 @@
       "duration_ms": 150000,
       "name": "QUIEN ES ESA",
       "url": "https://open.spotify.com/track/3M2tFhrNdBDEEY3nDrcmNn"
+    },
+    {
+      "added_at": "2022-12-30 18:14:14",
+      "album": {
+        "name": "el vuelo",
+        "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "el vuelo",
+      "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
     },
     {
       "added_at": "2022-12-30 18:14:14",
@@ -1387,22 +1419,6 @@
     {
       "added_at": "2022-12-30 18:14:14",
       "album": {
-        "name": "el vuelo",
-        "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "el vuelo",
-      "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
-    },
-    {
-      "added_at": "2022-12-30 18:14:14",
-      "album": {
         "name": "Perd\u00f3n",
         "url": "https://open.spotify.com/album/5PIZDkH2AgYl5dLYSVN2yo"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 167041,
       "name": "dime que si :)",
       "url": "https://open.spotify.com/track/4eh0rsvnBgw8CKKZPY5r5D"
-    },
-    {
-      "added_at": "2022-12-30 18:14:14",
-      "album": {
-        "name": "Cerquita del Mar",
-        "url": "https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Cerquita del Mar",
-      "url": "https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo"
     },
     {
       "added_at": "2022-12-30 18:14:14",

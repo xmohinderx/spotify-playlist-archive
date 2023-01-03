@@ -4,7 +4,7 @@
 
 > Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: JUNNY\(주니\)\)
 
-484 songs - 1 day 2 hr 19 min - [published](https://open.spotify.com/playlist/3joqGbdyT1iJwODdo3szax)
+485 songs - 1 day 2 hr 23 min - [published](https://open.spotify.com/playlist/3joqGbdyT1iJwODdo3szax)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Dancing In The Rain](https://open.spotify.com/track/1ouGYz9Qvou12hFOwYOV66) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo) | [Scene](https://open.spotify.com/album/3Eq7lSl4bvV5CNP6IbLkkl) | 3:23 | 2022-07-27 | 2022-11-02 |
 | [Darling](https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Darling](https://open.spotify.com/album/0XVe9SlfGUzJeMfzODdKdm) | 3:02 | 2022-06-10 | 2022-07-29 |
 | [Darling](https://open.spotify.com/track/13Ck1nAjyzdcMCKIQ9Kpkh) | [Young Jun](https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt), [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z) | [Darling with KozyPop](https://open.spotify.com/album/60ZOBCww9IkkpXwKF22zja) | 4:13 | 2022-04-22 | 2022-07-26 |
-| [Darling \(feat\. dress\)](https://open.spotify.com/track/0vVVMt1bmd7K87IstridSS) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z) | [Darling \(feat\. dress\)](https://open.spotify.com/album/1nDGEzBI75Dan159KrtNAj) | 4:14 | 2022-12-28 |  |
+| [Darling \(feat\. dress\)](https://open.spotify.com/track/0vVVMt1bmd7K87IstridSS) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z) | [Darling \(feat\. dress\)](https://open.spotify.com/album/1nDGEzBI75Dan159KrtNAj) | 4:14 | 2022-12-27 |  |
 | [DATENIGHT \(Feat\. Leellamarz\)](https://open.spotify.com/track/1pKO3nzDM1z5lrg2OWpOfq) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Certified Mamdda Boy](https://open.spotify.com/album/2W7CH5NE2noUchdppgZOYi) | 2:44 | 2022-08-31 | 2022-09-22 |
 | [Dawn do that](https://open.spotify.com/track/4xD5Vnn0DM8jksh1GCTqNu) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Dawn do that](https://open.spotify.com/album/6pmkZgZ01iByTV2hfaZmdo) | 4:03 | 2022-05-09 | 2022-07-22 |
 | [Dear My](https://open.spotify.com/track/2p4yp2OSeGiMQ384JCAvAB) | [JeongA](https://open.spotify.com/artist/7ciR9UTxsmKjF9O09I55yL) | [Dear My](https://open.spotify.com/album/0qEXktHXsW5MW0VMGBRYHX) | 3:13 | 2022-09-20 | 2022-09-28 |
@@ -355,6 +355,7 @@
 | [Please Don′t Save Me](https://open.spotify.com/track/23vBocYQlxBdAhwbNbLPcd) | [Acy blu](https://open.spotify.com/artist/3MYIi83H7ZCfglGpvMtCQ6) | [Love Is Over](https://open.spotify.com/album/7pT9cfakGi2TnHHTFr7LCj) | 3:20 | 2022-06-16 | 2022-06-24 |
 | [Point \(feat\. Loopy\)](https://open.spotify.com/track/1mKvuX59nIvGwGpypwAy7k) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [Every letter I sent you.](https://open.spotify.com/album/4wQwYHzJSgqbqU7YWioU1A) | 4:13 | 2022-07-07 | 2022-07-11 |
 | [Point, Line, Plane](https://open.spotify.com/track/0pfMdkCAZVThhpzOkassXJ) | [LLANO](https://open.spotify.com/artist/61vo1oAMWvmdRIJYdeCzrd) | [duL](https://open.spotify.com/album/1cloUGhbWriqDkuh5mm7wW) | 3:33 | 2022-04-19 | 2022-04-21 |
+| [Ponytail \(Feat\. Sik\-K\)](https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Ponytail](https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0) | 3:25 | 2023-01-03 |  |
 | [Popo \(How deep is our love?\)](https://open.spotify.com/track/5XAJzwa0B2Hf8Rb1q0rowN) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/4wQwYHzJSgqbqU7YWioU1A) | 4:31 | 2022-04-19 | 2022-07-29 |
 | [PRADA](https://open.spotify.com/track/0baJx4nGlfhylHDSlzj4bM) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW) | [PRADA](https://open.spotify.com/album/7bNkxJREqmOfu6Mz4SNIHS) | 2:34 | 2022-04-19 | 2022-04-21 |
 | [Prescription](https://open.spotify.com/track/7bAdDCF5HouWbsHPwLAfYY) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Precious](https://open.spotify.com/album/5kSldVJSFCbuMmBgmSEQef) | 3:26 | 2022-06-29 | 2022-07-01 |
@@ -370,7 +371,7 @@
 | [right now](https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [right now](https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs) | 2:15 | 2022-09-30 | 2022-10-06 |
 | [Ringwanderung](https://open.spotify.com/track/2cLJhvm09iuwVHSAfaCaus) | [YELO](https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD) | [Ringwanderung](https://open.spotify.com/album/2gQiMJyIb8lqZu3dAeBbwh) | 2:54 | 2022-05-31 | 2022-07-03 |
 | [Rollercoaster](https://open.spotify.com/track/5vQtp2D5HRfqZ1FKmFx9r0) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Still Blue](https://open.spotify.com/album/5NVdE7fnUNSfJ7Taka31IF) | 2:29 | 2022-12-19 |  |
-| [Running Through The Night](https://open.spotify.com/track/3UZ46DvXvB2R7sBUZornlv) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [?depacse ohw](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca) | 3:37 | 2022-04-19 |  |
+| [Running Through The Night](https://open.spotify.com/track/3UZ46DvXvB2R7sBUZornlv) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [?depacse ohw](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca) | 3:37 | 2022-04-19 | 2023-01-03 |
 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 | 2022-09-22 |  |
 | [Salang Salang](https://open.spotify.com/track/1DEJaWgi8ZKdStRO0iUX6e) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 | 2022-04-22 | 2022-07-21 |
 | [Sandfunk \(feat\. ELO\)](https://open.spotify.com/track/0vM0bCUmKNGAGTmie7yv13) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [COLOUR](https://open.spotify.com/album/5NuA284oIw8Badg4oHaIOe) | 3:13 | 2022-11-23 | 2022-12-10 |

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/zackbia/\">Zack Bia</a>",
-  "num_followers": 1126,
+  "num_followers": 1129,
   "original_name": "Zack Bia's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0NTg3NywwMDAwMDAwMGUwNzQyYmFjODg1NGY3NDY3MzNiM2IwMmZmODNlNGJi",
+  "snapshot_id": "MTY2NDY0NTg3NywwMDAwMDAwMGJiZjk3NzQ0ZGZiMmUwZDVhNjFkMWMxMmJhNmVjNzQ4",
   "tracks": [
     {
       "added_at": "2022-10-01 17:37:57",
@@ -115,26 +115,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Nobody But You",
-        "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 213214,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "Who is Nardo Wick?",
         "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 225533,
       "name": "Me or Sum (feat. Future & Lil Baby)",
       "url": "https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "Nobody But You",
+        "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 213214,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Let Me Explain",
-        "url": "https://open.spotify.com/album/3BjVNKsPNcmSGG5n4bHNUq"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 223969,
-      "name": "Let Me Explain",
-      "url": "https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 173097,
       "name": "A Keeper",
       "url": "https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "Let Me Explain",
+        "url": "https://open.spotify.com/album/3BjVNKsPNcmSGG5n4bHNUq"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 223969,
+      "name": "Let Me Explain",
+      "url": "https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -319,6 +319,22 @@
       "duration_ms": 165107,
       "name": "Yam",
       "url": "https://open.spotify.com/track/1RE3rZvv6kImf4fIZCjs2I"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 205721,
+      "name": "Pipe Down",
+      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -419,22 +435,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 205721,
-      "name": "Pipe Down",
-      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
       },
@@ -467,6 +467,22 @@
       "duration_ms": 129479,
       "name": "LOVE YOU BETTER",
       "url": "https://open.spotify.com/track/40zU9RnT0liuXMjornRlhn"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 262453,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/4c2xt1trwYZpMqPWY35Xi9"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -519,38 +535,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 262453,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/4c2xt1trwYZpMqPWY35Xi9"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "House Of Balloons (Original)",
-        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 459659,
-      "name": "The Party & The After Party - Original",
-      "url": "https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "Deux fr\u00e8res",
         "url": "https://open.spotify.com/album/0VbjQH6iXN5VdE0OX35cpD"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 224365,
       "name": "50-0",
       "url": "https://open.spotify.com/track/1Smhzk6DHo8aR11SkZAtEY"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "House Of Balloons (Original)",
+        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 459659,
+      "name": "The Party & The After Party - Original",
+      "url": "https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu"
     },
     {
       "added_at": "2022-10-01 17:37:57",

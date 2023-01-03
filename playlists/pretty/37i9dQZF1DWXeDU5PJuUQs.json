@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Pablo Lescano & El Mago.",
-  "num_followers": 106825,
+  "num_followers": 106886,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMDIyOWM3ZDY2YWVjNDUyNmRlMDZjZDBlM2MzOTBlZDg1",
+  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMDBiNDA1ZDZiNTExNjNkNTVjMDk4YmUzZDhkMTZiYWJh",
   "tracks": [
     {
       "added_at": "2022-12-02 03:00:00",
@@ -195,22 +195,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
-        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 238528,
-      "name": "Me Vas a Extra\u00f1ar - En Vivo",
-      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
+      "duration_ms": 278133,
+      "name": "Como Podr\u00e9",
+      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -231,38 +227,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
-        "url": "https://open.spotify.com/album/1v84b34paaTfnbh8c9d7pa"
+        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
+        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
       },
       "artists": [
         {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         },
         {
-          "name": "Paula Rivas",
-          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
         }
       ],
-      "duration_ms": 364197,
-      "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
-      "url": "https://open.spotify.com/track/1EY7yWaDtrVH8p2vnTEJCt"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 278133,
-      "name": "Como Podr\u00e9",
-      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
+      "duration_ms": 238528,
+      "name": "Me Vas a Extra\u00f1ar - En Vivo",
+      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -287,6 +267,26 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
+        "url": "https://open.spotify.com/album/1v84b34paaTfnbh8c9d7pa"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Paula Rivas",
+          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+        }
+      ],
+      "duration_ms": 364197,
+      "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
+      "url": "https://open.spotify.com/track/1EY7yWaDtrVH8p2vnTEJCt"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
       },
@@ -303,18 +303,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "En Vivo en el Gran Rex",
-        "url": "https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx"
+        "name": "La Marca de la Gorra (En Vivo en Teatro Gran Rex)",
+        "url": "https://open.spotify.com/album/4oSBMSEEQzampqBxfHirYb"
       },
       "artists": [
         {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
         }
       ],
-      "duration_ms": 177739,
-      "name": "No Llores - En Vivo",
-      "url": "https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13"
+      "duration_ms": 273273,
+      "name": "La Marca de la Gorra - En Vivo en Teatro Gran Rex",
+      "url": "https://open.spotify.com/track/2WiXC3N7FhogWVHpj2rnKW"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -367,6 +371,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "T\u00fa, La M\u00e1s Bella",
+      "url": "https://open.spotify.com/track/0INfS0VDSgKQS3jCDdTMOX"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "No Te Creas Tan Importante (En Vivo)",
         "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
       },
@@ -387,38 +407,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "La Marca de la Gorra (En Vivo en Teatro Gran Rex)",
-        "url": "https://open.spotify.com/album/4oSBMSEEQzampqBxfHirYb"
+        "name": "En Vivo en el Gran Rex",
+        "url": "https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx"
       },
       "artists": [
         {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        },
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
         }
       ],
-      "duration_ms": 273273,
-      "name": "La Marca de la Gorra - En Vivo en Teatro Gran Rex",
-      "url": "https://open.spotify.com/track/2WiXC3N7FhogWVHpj2rnKW"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "T\u00fa, La M\u00e1s Bella",
-      "url": "https://open.spotify.com/track/0INfS0VDSgKQS3jCDdTMOX"
+      "duration_ms": 177739,
+      "name": "No Llores - En Vivo",
+      "url": "https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -487,6 +487,26 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "Me Muero de Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "El Viejo Marquez",
+          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
+        }
+      ],
+      "duration_ms": 208619,
+      "name": "Me Muero de Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "Amiga Traidora (En Vivo)",
         "url": "https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd"
       },
@@ -519,22 +539,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Me Muero de Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "El Viejo Marquez",
-          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 208619,
-      "name": "Me Muero de Amor - En Vivo",
-      "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
+      "duration_ms": 71981,
+      "name": "Persiana Americana - En Vivo",
+      "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -551,22 +567,6 @@
       "duration_ms": 199435,
       "name": "Ella Dijo / Mil Horas - En Vivo",
       "url": "https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 71981,
-      "name": "Persiana Americana - En Vivo",
-      "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -632,9 +632,25 @@
           "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 269848,
-      "name": "Perdoname / Te Quiero a Ti - En Vivo",
-      "url": "https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL"
+      "duration_ms": 175992,
+      "name": "Adios Amor Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 131265,
+      "name": "Jurabas Tu (En Vivo)[Remasterizado 2021]",
+      "url": "https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -691,38 +707,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Mi Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
-      },
-      "artists": [
-        {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
-        }
-      ],
-      "duration_ms": 483693,
-      "name": "La Ventanita / Beso a Beso",
-      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 131265,
-      "name": "Jurabas Tu (En Vivo)[Remasterizado 2021]",
-      "url": "https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "Ay, Amor (En Vivo)",
         "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
@@ -735,22 +719,6 @@
       "duration_ms": 193000,
       "name": "Quiero Yo Saber (Donde Esta El Amor)",
       "url": "https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 255973,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/1mgOFzzOQkGIE7wWrsFSBL"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -771,50 +739,34 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 175992,
-      "name": "Adios Amor Adios - En Vivo",
-      "url": "https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "En Vivo",
-        "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
       },
       "artists": [
         {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 312032,
-      "name": "Hoy Te Vi / El Paredon - En Vivo",
-      "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
+      "duration_ms": 64017,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
     },
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
-        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
       },
       "artists": [
         {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
         }
       ],
-      "duration_ms": 328000,
-      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
-      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
+      "duration_ms": 483693,
+      "name": "La Ventanita / Beso a Beso",
+      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -835,24 +787,40 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 81813,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
+      "duration_ms": 269848,
+      "name": "Perdoname / Te Quiero a Ti - En Vivo",
+      "url": "https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL"
     },
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
         "name": "En Vivo",
-        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+        "url": "https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 255973,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/1mgOFzzOQkGIE7wWrsFSBL"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "En Vivo 2019",
+        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
       },
       "artists": [
         {
@@ -860,15 +828,15 @@
           "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 64017,
+      "duration_ms": 147113,
       "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
+      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
     },
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
         "name": "En Vivo",
-        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
+        "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
       },
       "artists": [
         {
@@ -876,9 +844,9 @@
           "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
         }
       ],
-      "duration_ms": 180244,
-      "name": "Mi Condena - En Vivo",
-      "url": "https://open.spotify.com/track/1gvxPwDb2Kf4nNmoDQjQpw"
+      "duration_ms": 312032,
+      "name": "Hoy Te Vi / El Paredon - En Vivo",
+      "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -899,6 +867,38 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 81813,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
+        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
+      },
+      "artists": [
+        {
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
+      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "Te Hubieras Ido Antes (En Vivo)",
         "url": "https://open.spotify.com/album/1eCVJ8ZIMQ0OoC6TGBFleh"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 213859,
       "name": "Te Hubieras Ido Antes - En Vivo",
       "url": "https://open.spotify.com/track/1C3dp1xXzJjc9eUrWZ6QBv"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 158958,
-      "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
-      "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -967,6 +951,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 158958,
+      "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
+      "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "Sencillamente (En Vivo)",
         "url": "https://open.spotify.com/album/148HwFdc4WPUhEEK0eeSGQ"
       },
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 180244,
+      "name": "Mi Condena - En Vivo",
+      "url": "https://open.spotify.com/track/1gvxPwDb2Kf4nNmoDQjQpw"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "Crecer (En Vivo)",
         "url": "https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE"
       },
@@ -1003,6 +1019,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "En Vivo En La Quinta Vergara",
         "url": "https://open.spotify.com/album/1ufPsyIKQ45i4nKN5urv2C"
       },
@@ -1015,22 +1047,6 @@
       "duration_ms": 224806,
       "name": "Ahora Te Vas - En Vivo",
       "url": "https://open.spotify.com/track/1a47ltENRUWMRlNnlqVsvs"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "En Vivo 2019",
-        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 147113,
-      "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -1055,38 +1071,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "En Vivo en el Teatro",
-        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 1189088,
-      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
-      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
-      },
-      "artists": [
-        {
-          "name": "Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "Me Olvide de Ti (En Vivo)",
         "url": "https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 128072,
       "name": "Me Olvide de Ti - En Vivo",
       "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/3atDahyoXPO030lj6lpzLn"
+      },
+      "artists": [
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "No Te Vi Crecer - En Vivo",
+      "url": "https://open.spotify.com/track/5WKV0jy7T3fzk5Lji9BpRf"
     }
   ],
   "unique_name": "Vivo de Cumbia",

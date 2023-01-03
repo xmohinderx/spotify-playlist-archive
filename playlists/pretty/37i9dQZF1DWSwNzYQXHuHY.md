@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,727 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,729 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 9 | [Can I Love ? \(feat\. youra, Meego\)](https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Can I Love ?](https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5) | 3:49 |
 | 10 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 |
 | 11 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
-| 12 | [Don’t](https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [The Hyena on the Keyboard, Pt\. 4](https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77) | 3:51 |
-| 13 | [Brand New](https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Brand New \- The 1st Mini Album](https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R) | 3:04 |
+| 12 | [Brand New](https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Brand New \- The 1st Mini Album](https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R) | 3:04 |
+| 13 | [Don’t](https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [The Hyena on the Keyboard, Pt\. 4](https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77) | 3:51 |
 | 14 | [Pop? Pop!](https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [Sequence : 7272](https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo) | 3:35 |
 | 15 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
 | 16 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 36 | [Fresh](https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Fresh](https://open.spotify.com/album/5Yr1LYAYT20wcjiKNYttDs) | 2:58 |
 | 37 | [A midsummer night's sweetness](https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [San E, Raina Project Single 'A midsummer night's sweetness'](https://open.spotify.com/album/1srZhGQymoN6YQksduox2J) | 3:53 |
 | 38 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 |
-| 39 | [Pong Dang](https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Pong Dang](https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2) | 3:53 |
-| 40 | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/track/40wyDhO974VOe491zfVLbC) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp) | 4:03 |
+| 39 | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/track/40wyDhO974VOe491zfVLbC) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp) | 4:03 |
+| 40 | [Pong Dang](https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Pong Dang](https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2) | 3:53 |
 | 41 | [Your name](https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [The One and Only, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB) | 3:45 |
 | 42 | [Actor \(Feat\. pH\-1\)](https://open.spotify.com/track/35vGPMlJwGQeBPzjJAZMW5) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:32 |
 | 43 | [NDGGA](https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [NDGGA](https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 49 | [I Study You](https://open.spotify.com/track/0KjzuciHomg603Pk1n64R9) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [I Study You](https://open.spotify.com/album/1GjqVAgkAdFotA8zkoRphT) | 3:37 |
 | 50 | [Fool](https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [My First June](https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7) | 3:50 |
 
-Snapshot ID: `MTY3MjA0NjgyNywwMDAwMDAwMDc1ZGU2MWUyNGMwYWEyOGYyMGNkNjEwOWEwNGU1Zjk3`
+Snapshot ID: `MTY3MjA0NjgyNywwMDAwMDAwMDFkYTIxNDhmZjlhOTVkN2VmZGE3ZDIzNzZkYTk4MGQ2`

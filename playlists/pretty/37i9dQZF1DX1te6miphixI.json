@@ -1,12 +1,12 @@
 {
   "description": "Grandes temas del rock de ayer y de hoy.",
-  "num_followers": 766428,
+  "num_followers": 766462,
   "original_name": "Radio Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyNDA4MCwwMDAwMDAwMDA4ZWNhM2QyMmFjNjRjMDZiY2NkMDM2MDEzMmVlNTE3",
+  "snapshot_id": "MTY2NTcyNDA4MCwwMDAwMDAwMDRkZmNhZjRmOTA0NTQ2NzFkODUzMWM3MTgxMTY3NDY4",
   "tracks": [
     {
       "added_at": "2022-10-14 05:08:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-10-14 05:08:00",
       "album": {
-        "name": "Toxicity",
-        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Chop Suey!",
-      "url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"
-    },
-    {
-      "added_at": "2022-10-14 05:08:00",
-      "album": {
         "name": "Willy And The Poor Boys (Expanded Edition)",
         "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 140773,
       "name": "Fortunate Son",
       "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
+    },
+    {
+      "added_at": "2022-10-14 05:08:00",
+      "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Chop Suey!",
+      "url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"
     },
     {
       "added_at": "2022-10-14 05:08:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-10-14 05:08:00",
       "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 292880,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
-    },
-    {
-      "added_at": "2022-10-14 05:08:00",
-      "album": {
         "name": "Bleed American",
         "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
+    },
+    {
+      "added_at": "2022-10-14 05:08:00",
+      "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
     },
     {
       "added_at": "2022-10-14 05:08:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-10-14 05:08:00",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
-    },
-    {
-      "added_at": "2022-10-14 05:08:00",
-      "album": {
         "name": "Blur (Special Edition)",
         "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
       },
@@ -343,6 +327,38 @@
       "duration_ms": 237026,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
+    },
+    {
+      "added_at": "2022-10-14 05:08:00",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+    },
+    {
+      "added_at": "2022-10-14 05:08:00",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
     },
     {
       "added_at": "2022-10-14 05:08:00",
@@ -395,22 +411,6 @@
     {
       "added_at": "2022-10-14 05:08:00",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2022-10-14 05:08:00",
-      "album": {
         "name": "Weezer (Green Album)",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 200306,
       "name": "Island In The Sun",
       "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
-    },
-    {
-      "added_at": "2022-10-14 05:08:00",
-      "album": {
-        "name": "Superunknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 318586,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
     },
     {
       "added_at": "2022-10-14 05:08:00",
@@ -459,34 +443,18 @@
     {
       "added_at": "2022-10-14 05:08:00",
       "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
       },
       "artists": [
         {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
         }
       ],
-      "duration_ms": 333893,
-      "name": "Whole Lotta Love - 1990 Remaster",
-      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
-    },
-    {
-      "added_at": "2022-10-14 05:08:00",
-      "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Learn to Fly",
-      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
+      "duration_ms": 318586,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
     },
     {
       "added_at": "2022-10-14 05:08:00",
@@ -523,6 +491,38 @@
     {
       "added_at": "2022-10-14 05:08:00",
       "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
+    },
+    {
+      "added_at": "2022-10-14 05:08:00",
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 333893,
+      "name": "Whole Lotta Love - 1990 Remaster",
+      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
+    },
+    {
+      "added_at": "2022-10-14 05:08:00",
+      "album": {
         "name": "The Resistance",
         "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-10-14 05:08:00",
       "album": {
-        "name": "In Your Honor",
-        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 255626,
-      "name": "Best of You",
-      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
-    },
-    {
-      "added_at": "2022-10-14 05:08:00",
-      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 219826,
       "name": "Reptilia",
       "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
+    },
+    {
+      "added_at": "2022-10-14 05:08:00",
+      "album": {
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 255626,
+      "name": "Best of You",
+      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
     },
     {
       "added_at": "2022-10-14 05:08:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-10-14 05:08:00",
       "album": {
-        "name": "One By One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
-    },
-    {
-      "added_at": "2022-10-14 05:08:00",
-      "album": {
         "name": "Purple (2019 Remaster)",
         "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 194853,
       "name": "Interstate Love Song - 2019 Remaster",
       "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
+    },
+    {
+      "added_at": "2022-10-14 05:08:00",
+      "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
     },
     {
       "added_at": "2022-10-14 05:08:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-10-14 05:08:00",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
       },
       "artists": [
         {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 221332,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
+      "duration_ms": 134466,
+      "name": "Blitzkrieg Bop - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
     }
   ],
   "unique_name": "Radio Rock",

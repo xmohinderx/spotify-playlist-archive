@@ -2,7 +2,7 @@
 
 ### [Rap en Español](https://open.spotify.com/playlist/37i9dQZF1DX40O80BIPklU)
 
-> En memoria de Neto Reyno, DEP.
+> De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Neto Reyno en portada.
 
 138 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
 

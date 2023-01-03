@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
@@ -1569,7 +1569,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 169000,
       "name": "Alright (feat. KIDDO)",
       "url": "https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp"
@@ -3035,7 +3035,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 178453,
       "name": "Beautiful Girl",
       "url": "https://open.spotify.com/track/5xX2LYdXyx0Boa61rZOjq5"
@@ -3181,7 +3181,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Bei Nacht",
       "url": "https://open.spotify.com/track/1kKvfCmzXzRcfszwQrXFPM"
@@ -4043,7 +4043,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
@@ -4497,7 +4497,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 182618,
       "name": "Brooklyn",
       "url": "https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW"
@@ -4657,7 +4657,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 161867,
       "name": "Buzz Down",
       "url": "https://open.spotify.com/track/7Je6BkJF9PnQ3lefOw1RrT"
@@ -6651,7 +6651,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 160842,
       "name": "Dirty Dancing",
       "url": "https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J"
@@ -6727,7 +6727,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -6923,7 +6923,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 168000,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/19ZVTasRlHHd6vWfOEr8fU"
@@ -8269,6 +8269,32 @@
       "duration_ms": 130800,
       "name": "Engel ohne Fl\u00fcgel",
       "url": "https://open.spotify.com/track/4imwzIKE4hypf2Xq2T0slV"
+    },
+    {
+      "album": {
+        "name": "Violator | The 12\" Singles",
+        "url": "https://open.spotify.com/album/6nYdAmB6enE4lKlt4IHuVT"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Daniel Miller",
+          "url": "https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt"
+        },
+        {
+          "name": "Phil Legg",
+          "url": "https://open.spotify.com/artist/7CXlqxbfckEDH2hQMjrGyZ"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257630,
+      "name": "Enjoy the Silence",
+      "url": "https://open.spotify.com/track/4wGSg2Qqpt2sGCWuAZj6EN"
     },
     {
       "album": {
@@ -11487,7 +11513,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -12093,7 +12119,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
@@ -12191,7 +12217,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -12285,7 +12311,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
@@ -12321,7 +12347,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 151071,
       "name": "I Like",
       "url": "https://open.spotify.com/track/2Olt8sKVNmJ7WBuGbPvUuy"
@@ -12643,7 +12669,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 193024,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
@@ -13191,7 +13217,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 185843,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/75UUG6x5zQe0gCVOiQpa6X"
@@ -14477,7 +14503,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -15659,7 +15685,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 158704,
       "name": "Let It Rain Down (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/2thqF2hKNMubZksfpRvuNF"
@@ -17543,7 +17569,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 150090,
       "name": "Mein kleines Herz (Bam Bam)",
       "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
@@ -19031,7 +19057,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 188659,
       "name": "Moulaga",
       "url": "https://open.spotify.com/track/4pnk9Mhzcv3oHxFyARlNNP"
@@ -19053,7 +19079,7 @@
       ],
       "date_added": "2022-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 157444,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
@@ -19381,7 +19407,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 178973,
       "name": "Nachts wach",
       "url": "https://open.spotify.com/track/3kgt8Ys78I6GBZlQrWqZiA"
@@ -21967,7 +21993,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 163515,
       "name": "Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit",
       "url": "https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo"
@@ -22319,7 +22345,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 141931,
       "name": "Rain In Ibiza",
       "url": "https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4"
@@ -23039,7 +23065,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 157093,
       "name": "Roller",
       "url": "https://open.spotify.com/track/6hw1Sy9wZ8UCxYGdpKrU6M"
@@ -23411,7 +23437,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 243600,
       "name": "S&M",
       "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
@@ -24709,7 +24735,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
@@ -25135,7 +25161,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 163476,
       "name": "Spirit Of The Hawk",
       "url": "https://open.spotify.com/track/1u0vQfpkbTKMTmkO0lLDer"
@@ -25279,7 +25305,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
@@ -26661,7 +26687,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
@@ -28355,7 +28381,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 153773,
       "name": "VIJA VIJA",
       "url": "https://open.spotify.com/track/1VcHYhlqqEDdN2D2sumdWo"
@@ -30395,7 +30421,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 186140,
       "name": "Young Right Now",
       "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"

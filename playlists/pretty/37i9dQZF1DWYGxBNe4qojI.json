@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: Mase",
-  "num_followers": 253279,
+  "num_followers": 253569,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGI2NWM5NjQzMDc2YTcyMmZlZDU5ZDNhZTI2YTM0M2Vh",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDg0MmFjOTlmYmVkMmRmZGMxNzZmMjhjYTY5NzNiM2Iz",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 252746,
-      "name": "Big Poppa - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
@@ -207,6 +191,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 252746,
+      "name": "Big Poppa - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Blackout!",
         "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
       },
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 302760,
-      "name": "Juicy - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Return to the 36 Chambers: The Dirty Version",
         "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
       },
@@ -271,26 +255,6 @@
       "duration_ms": 161400,
       "name": "Shimmy Shimmy Ya",
       "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Harlem World",
-        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
-      },
-      "artists": [
-        {
-          "name": "Mase",
-          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
-        },
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "What You Want (feat. Total)",
-      "url": "https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -343,6 +307,26 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Harlem World",
+        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
+      },
+      "artists": [
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        },
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "What You Want (feat. Total)",
+      "url": "https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -371,6 +355,42 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 302760,
+      "name": "Juicy - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Come Home With Me",
+        "url": "https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy"
+      },
+      "artists": [
+        {
+          "name": "Cam\u2019ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "Oh Boy",
+      "url": "https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Liquid Swords",
         "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
       },
@@ -387,30 +407,6 @@
       "duration_ms": 209973,
       "name": "Shadowboxin'",
       "url": "https://open.spotify.com/track/7bp5DfkdK1OAvNJ1U4HfDA"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "Mase",
-          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
-        },
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        }
-      ],
-      "duration_ms": 257399,
-      "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
-      "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -451,6 +447,30 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "duration_ms": 257399,
+      "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
+      "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Midnight Marauders",
         "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
       },
@@ -483,22 +503,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Whos The Man ? Soundtrack",
-        "url": "https://open.spotify.com/album/2lka9gSjkghBBSjktHnN6o"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "Party And Bullshit",
-      "url": "https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Illmatic",
         "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
       },
@@ -527,6 +531,22 @@
       "duration_ms": 217626,
       "name": "Put It On",
       "url": "https://open.spotify.com/track/6JI5wNWYdBw68GZjOMmgK5"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Whos The Man ? Soundtrack",
+        "url": "https://open.spotify.com/album/2lka9gSjkghBBSjktHnN6o"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "Party And Bullshit",
+      "url": "https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -567,26 +587,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Come Home With Me",
-        "url": "https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy"
-      },
-      "artists": [
-        {
-          "name": "Cam\u2019ron",
-          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
-        },
-        {
-          "name": "Juelz Santana",
-          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "Oh Boy",
-      "url": "https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Hard To Earn",
         "url": "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 221026,
       "name": "Mass Appeal",
       "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Tical",
-        "url": "https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf"
-      },
-      "artists": [
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "Bring The Pain",
-      "url": "https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -635,6 +619,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Tical",
+        "url": "https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Bring The Pain",
+      "url": "https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "The Dynasty",
         "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 227866,
       "name": "I Just Wanna Love U (Give It 2 Me)",
       "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Illadelph Halflife",
+        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 357200,
+      "name": "What They Do",
+      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -675,22 +691,6 @@
       "duration_ms": 253226,
       "name": "Ice Cream (feat. Ghostface Killah, Method Man & Cappadonna)",
       "url": "https://open.spotify.com/track/6SI4JD7iyQ0rrudhCNtMv0"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Illadelph Halflife",
-        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 357200,
-      "name": "What They Do",
-      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Return to the 36 Chambers: The Dirty Version",
+        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
+      },
+      "artists": [
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        }
+      ],
+      "duration_ms": 217506,
+      "name": "Brooklyn Zoo",
+      "url": "https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Mr. Smith (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
       },
@@ -743,18 +759,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Return to the 36 Chambers: The Dirty Version",
-        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
+        "name": "Ill Na Na",
+        "url": "https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk"
       },
       "artists": [
         {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 217506,
-      "name": "Brooklyn Zoo",
-      "url": "https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW"
+      "duration_ms": 178600,
+      "name": "I'll Be",
+      "url": "https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -791,26 +811,6 @@
       "duration_ms": 302013,
       "name": "Flava in Ya Ear Remix (feat. Notorious B.I.G., L.L. Cool J, Busta Rhymes, Rampage)",
       "url": "https://open.spotify.com/track/4JYUDRtPZuVNi7FAnbHyux"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Ill Na Na",
-        "url": "https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk"
-      },
-      "artists": [
-        {
-          "name": "Foxy Brown",
-          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "I'll Be",
-      "url": "https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT"
     },
     {
       "added_at": "2022-10-28 04:00:00",

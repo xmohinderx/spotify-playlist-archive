@@ -1,12 +1,12 @@
 {
   "description": "Keep it low-key with all of today's chill pop. Cover: Lana Del Rey",
-  "num_followers": 1813773,
+  "num_followers": 1814176,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMDdkYjUzODI3YmNkMDliNDUzZWI5OGQxMTZjMDdlNzE0",
+  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMGM0NjNiMzNmNDlmMWM2YmJkODAzNGFhNzE0ODMwMjQ1",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 281380,
       "name": "TV",
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Midnights (3am Edition)",
-        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 218502,
-      "name": "Bigger Than The Whole Sky",
-      "url": "https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Locksmith",
         "url": "https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 218502,
+      "name": "Bigger Than The Whole Sky",
+      "url": "https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Habits",
         "url": "https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 202653,
       "name": "Kingston",
       "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "This Love (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 250100,
-      "name": "This Love (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -619,8 +603,8 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Carolina (From The Motion Picture \u201cWhere The Crawdads Sing\u201d)",
-        "url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
+        "name": "This Love (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 264438,
-      "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
-      "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
+      "duration_ms": 250100,
+      "name": "This Love (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -719,6 +703,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Carolina (From The Motion Picture \u201cWhere The Crawdads Sing\u201d)",
+        "url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 264438,
+      "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
+      "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Firebabe",
         "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
       },
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "never knew a heart could break itself",
+        "url": "https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "duration_ms": 155223,
+      "name": "never knew a heart could break itself",
+      "url": "https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "I'm So Happy",
         "url": "https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 173365,
       "name": "I'm So Happy (with BENEE)",
       "url": "https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "never knew a heart could break itself",
-        "url": "https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6"
-      },
-      "artists": [
-        {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
-        }
-      ],
-      "duration_ms": 155223,
-      "name": "never knew a heart could break itself",
-      "url": "https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 232796,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Have A Little Faith In Me",
         "url": "https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz"
       },
@@ -1035,22 +1019,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Not Alone (from Devotion)",
-        "url": "https://open.spotify.com/album/0Wzpt98v7378EqKu3NlONg"
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt"
       },
       "artists": [
         {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 251481,
-      "name": "Not Alone - from Devotion",
-      "url": "https://open.spotify.com/track/6h6TV778sDIHTmx6iaZvZu"
+      "duration_ms": 232796,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1083,6 +1063,26 @@
       "duration_ms": 170414,
       "name": "Hard To Be Human",
       "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Not Alone (from Devotion)",
+        "url": "https://open.spotify.com/album/0Wzpt98v7378EqKu3NlONg"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 251481,
+      "name": "Not Alone - from Devotion",
+      "url": "https://open.spotify.com/track/6h6TV778sDIHTmx6iaZvZu"
     },
     {
       "added_at": "2022-12-02 05:00:00",

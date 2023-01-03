@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 290019,
+  "num_followers": 290091,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDY5OTFmNjY5MWMwYWUyODBjMWEyNGFiODIzMjg2ZWUw",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDRlNTM0ZDM3NGU1MzU1YjJlOTdjY2Y2NjVlNjg5MDQ3",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 194177,
+      "name": "Unrequited Love",
+      "url": "https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "We Are",
         "url": "https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 255500,
       "name": "We Are",
       "url": "https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 194177,
-      "name": "Unrequited Love",
-      "url": "https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1131,22 +1131,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "All Mine",
-        "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
+        "name": "Only Diamonds Cut Diamonds",
+        "url": "https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5"
       },
       "artists": [
         {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        },
-        {
-          "name": "John Givez",
-          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
         }
       ],
-      "duration_ms": 148529,
-      "name": "All Mine",
-      "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
+      "duration_ms": 205893,
+      "name": "It's Nice to Be Alive",
+      "url": "https://open.spotify.com/track/0KmxMouBQhAihwTJLKxQgW"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Only Diamonds Cut Diamonds",
-        "url": "https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5"
+        "name": "All Mine",
+        "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
       },
       "artists": [
         {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        },
+        {
+          "name": "John Givez",
+          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
         }
       ],
-      "duration_ms": 205893,
-      "name": "It's Nice to Be Alive",
-      "url": "https://open.spotify.com/track/0KmxMouBQhAihwTJLKxQgW"
+      "duration_ms": 148529,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
     },
     {
       "added_at": "2022-06-20 14:19:42",

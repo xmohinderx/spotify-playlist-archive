@@ -2,9 +2,9 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: Stray Kids
+> 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: NewJeans
 
-455 songs - 1 day 1 hr 8 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+456 songs - 1 day 1 hr 12 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [O \- Japanese ver.](https://open.spotify.com/track/6i48Y8Z6MmfqXeOGKjsfrm) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [O \(Japanese ver.\)](https://open.spotify.com/album/2Sw3c9ecekZHYweZXDjwcy) | 3:17 | 2022-06-21 | 2022-08-04 |
 | [O.O](https://open.spotify.com/track/1m2PksrrMpIev63uPxT1V0) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/0QkOWJsNjhHQwhmhy4bstt) | 2:52 | 2022-02-22 | 2022-05-24 |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 | 2022-05-18 |
+| [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-01-02 |  |
 | [One Heart](https://open.spotify.com/track/6xw1r7HNaJZuseZdrjNf1i) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [中島美嘉](https://open.spotify.com/artist/1hXIFV17zZ2Q5X2GWIAIwF) | [One Heart](https://open.spotify.com/album/5Y9VvyQdmZmAgfUiJ1WOA2) | 4:20 | 2022-09-20 | 2022-10-05 |
 | [One In A Billion](https://open.spotify.com/track/66wQlkJP6zHNOzRkyo5yZS) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [One In A Billion](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) | 3:16 | 2022-09-06 | 2022-12-22 |
 | [Oort Cloud](https://open.spotify.com/track/7bKcCs0Lvg00wFNkq3EPIx) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 3:26 | 2022-03-30 | 2022-06-01 |

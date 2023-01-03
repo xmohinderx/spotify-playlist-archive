@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,816 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,878 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 30 | [Foxy, Foxy](https://open.spotify.com/track/61u3kwCoVSdYc8DH7JQZlN) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:28 |
 | 31 | [The Life And Times Of A Teenage Rock God](https://open.spotify.com/track/0xdeIyhlfgOq9BAg3VUr5G) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:54 |
 | 32 | [Boom\-Boom\-Boom](https://open.spotify.com/track/6GJ3dvNNkXEiGFaMqcVBoY) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:20 |
-| 33 | [Teenage Nosferatu Pussy](https://open.spotify.com/track/1WHVjInrsVm6kt9D3Dtgw8) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 4:33 |
+| 33 | [Lucifer Rising](https://open.spotify.com/track/6mlkXrADJObRQXMPVBWFV0) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:18 |
 | 34 | [The Devil's Rejects](https://open.spotify.com/track/4MnDhacMb3iXUlPth1MTc1) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:54 |
 | 35 | [Blitzkrieg Bop](https://open.spotify.com/track/3AG08FLEXqn8Wm32mJj5vc) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 2:43 |
 | 36 | [The Ballad of Sleazy Rider](https://open.spotify.com/track/2wY5AD0JnaANlabZbx2CFF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:03 |
-| 37 | [Lucifer Rising](https://open.spotify.com/track/6mlkXrADJObRQXMPVBWFV0) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:18 |
+| 37 | [Teenage Nosferatu Pussy](https://open.spotify.com/track/1WHVjInrsVm6kt9D3Dtgw8) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 4:33 |
 | 38 | [The Hideous Exhibitions Of A Dedicated Gore Whore](https://open.spotify.com/track/372ouFqFzQKr9ZdV2HUpk2) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:46 |
 | 39 | [The Great American Nightmare](https://open.spotify.com/track/1FuSOxJNvBoJbYjHWNbbJB) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Howard Stern](https://open.spotify.com/artist/7zlb9GG5MVmFkAVptGaGpE) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 3:54 |
 | 40 | [Thunder Kiss '65 \- JDevil Number Of The Beast Remix](https://open.spotify.com/track/182RMRDl88iyYlFd3cC20j) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8), [Jonathan Davis](https://open.spotify.com/artist/1VW5tZ9pmSb2rG0GmSELwW) | [Mondo Sex Head](https://open.spotify.com/album/2Miyi6VLfg7A9ztHxHzyQV) | 3:49 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 47 | [Halloween \(She's So Mean\)](https://open.spotify.com/track/2m1cWmzEI3wxGlYd16jdJp) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [The Ghastly Ones](https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy) | [Halloween Hootenanny](https://open.spotify.com/album/7xbEDCU4OTLtq2rrpog79t) | 2:50 |
 | 48 | [Lords Of Salem](https://open.spotify.com/track/1TWYm9bNuRT8m8IrSmSDfN) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 4:13 |
 | 49 | [Run Rabbit Run \- From "House Of 1000 Corpses" Soundtrack](https://open.spotify.com/track/2PDNpYuAKC9dfxBspBwRm9) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [House Of 1000 Corpses](https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF) | 3:01 |
-| 50 | [The Scorpion Sleeps](https://open.spotify.com/track/5sfr7L2gWXXYulwD8KmfkQ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:38 |
+| 50 | [Real Solution \#9 \- Live At Riot Fest / 2016](https://open.spotify.com/track/6tbM7PdCTV8QBNzGyykUSM) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Astro\-Creep: 2000 Live \- Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head \(Live At Riot Fest\)](https://open.spotify.com/album/0gUwZR11HJJYAHo47RGvsY) | 4:32 |
 
-Snapshot ID: `Mjc4NzYzNDMsMDAwMDAwMDBlYmZjYmJmNjUwMWU3MWIwNTM0MjZhOWUxMWJhYjI1MA==`
+Snapshot ID: `Mjc4Nzc3NTksMDAwMDAwMDAzNDU2ZTVhNDRhMDI1MzE4YWY1ZWE0OTkzODE2OWViYg==`

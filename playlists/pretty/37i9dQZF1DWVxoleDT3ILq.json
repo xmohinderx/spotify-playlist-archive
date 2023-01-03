@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMDU1ZmNhMTczMDA4NjgyNzE0NDliZjNhMzU5YzllODA2",
+  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMGE2MzY0NTQwMGNmZmJhM2EzOTQxODYyNmQ5NmU4NTVj",
   "tracks": [
     {
       "added_at": "2022-12-23 03:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Suave Pendiente",
+        "url": "https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os Del Cerro",
+          "url": "https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy"
+        }
+      ],
+      "duration_ms": 266502,
+      "name": "Sulamita",
+      "url": "https://open.spotify.com/track/6GeDdnTBZmZzu9luTKndJs"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Vuela Lejos",
         "url": "https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Suave Pendiente",
-        "url": "https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1os Del Cerro",
-          "url": "https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy"
-        }
-      ],
-      "duration_ms": 266502,
-      "name": "Sulamita",
-      "url": "https://open.spotify.com/track/6GeDdnTBZmZzu9luTKndJs"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "<3",
         "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 150623,
       "name": "Tri\u00e1logo",
       "url": "https://open.spotify.com/track/7jhOHdaEHGCiGnRaNFNHTG"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Suave Pendiente",
+        "url": "https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os Del Cerro",
+          "url": "https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy"
+        }
+      ],
+      "duration_ms": 236275,
+      "name": "V\u00eda Contemplativa",
+      "url": "https://open.spotify.com/track/2EdsfzRhbmOZVN9g8WY09R"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -491,22 +507,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Suave Pendiente",
-        "url": "https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1os Del Cerro",
-          "url": "https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy"
-        }
-      ],
-      "duration_ms": 236275,
-      "name": "V\u00eda Contemplativa",
-      "url": "https://open.spotify.com/track/2EdsfzRhbmOZVN9g8WY09R"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Retazos de Diciembre",
         "url": "https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 180500,
       "name": "Retazos de Diciembre",
       "url": "https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "intento 2: pi\u00e9nsalo bien",
+        "url": "https://open.spotify.com/album/0Cb6g0K5lKTdOspMOOBW47"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        }
+      ],
+      "duration_ms": 224604,
+      "name": "intento 2: pi\u00e9nsalo bien",
+      "url": "https://open.spotify.com/track/2aWrpGxJbltjwBK1gloSPn"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -559,38 +575,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Albor",
-        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 201123,
-      "name": "Esta vislumbra",
-      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "intento 2: pi\u00e9nsalo bien",
-        "url": "https://open.spotify.com/album/0Cb6g0K5lKTdOspMOOBW47"
-      },
-      "artists": [
-        {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
-        }
-      ],
-      "duration_ms": 224604,
-      "name": "intento 2: pi\u00e9nsalo bien",
-      "url": "https://open.spotify.com/track/2aWrpGxJbltjwBK1gloSPn"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Coquimbo, Mazatl\u00e1n",
         "url": "https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 264732,
       "name": "Coquimbo, Mazatl\u00e1n",
       "url": "https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Albor",
+        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 201123,
+      "name": "Esta vislumbra",
+      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "formas de volver a casa",
-        "url": "https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo"
-      },
-      "artists": [
-        {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
-        }
-      ],
-      "duration_ms": 153065,
-      "name": "formas de volver a casa",
-      "url": "https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Hace 10 A\u00f1os",
         "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
       },
@@ -715,6 +699,38 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "formas de volver a casa",
+        "url": "https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        }
+      ],
+      "duration_ms": 153065,
+      "name": "formas de volver a casa",
+      "url": "https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Al Norte",
+        "url": "https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp"
+      },
+      "artists": [
+        {
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+        }
+      ],
+      "duration_ms": 173336,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Laurel",
         "url": "https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 232925,
       "name": "Clara",
       "url": "https://open.spotify.com/track/63q0vbXjdpzMS6EIUuv77R"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Al Norte",
-        "url": "https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp"
-      },
-      "artists": [
-        {
-          "name": "Los Animales Tambi\u00e9n Se Suicidan",
-          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
-        }
-      ],
-      "duration_ms": 173336,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -803,6 +803,26 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Fachada Continua",
+        "url": "https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        },
+        {
+          "name": "Alba Morena",
+          "url": "https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5"
+        }
+      ],
+      "duration_ms": 246349,
+      "name": "Fachada Continua",
+      "url": "https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Estado Vegetal",
         "url": "https://open.spotify.com/album/677hsNZFSH3CJgXANUH30n"
       },
@@ -815,22 +835,6 @@
       "duration_ms": 196173,
       "name": "Estado Vegetal",
       "url": "https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Hollywood",
-        "url": "https://open.spotify.com/album/33GKPCFphdqcOJHhcVb5Wl"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 200715,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/63vFXsLISdjcpqlf6uUnxo"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -851,22 +855,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Fachada Continua",
-        "url": "https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR"
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/33GKPCFphdqcOJHhcVb5Wl"
       },
       "artists": [
         {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        },
-        {
-          "name": "Alba Morena",
-          "url": "https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5"
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
         }
       ],
-      "duration_ms": 246349,
-      "name": "Fachada Continua",
-      "url": "https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs"
+      "duration_ms": 200715,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/63vFXsLISdjcpqlf6uUnxo"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "La Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/17hJrkocBoKtoCCEHilJNk"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 278076,
-      "name": "La Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0KIToCiD4bYgdz7nwJle93"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "OBSYDIANA",
         "url": "https://open.spotify.com/album/2Cugagycjm239pg7OyqWVb"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "La Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/17hJrkocBoKtoCCEHilJNk"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 278076,
+      "name": "La Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0KIToCiD4bYgdz7nwJle93"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "No Hay M\u00e1s",
         "url": "https://open.spotify.com/album/4Llq0EXs525rVvENrZnvaZ"
       },
@@ -1195,6 +1195,26 @@
       "duration_ms": 241500,
       "name": "Las Piedras",
       "url": "https://open.spotify.com/track/5FMyNDgr11zcBsxfilA005"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Un Nuevo Ritmo",
+        "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 213164,
+      "name": "Un Nuevo Ritmo",
+      "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1267,42 +1287,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Un Nuevo Ritmo",
-        "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 213164,
-      "name": "Un Nuevo Ritmo",
-      "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "As\u00ed Te Soy",
-        "url": "https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 221537,
-      "name": "As\u00ed Te Soy",
-      "url": "https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Compa\u00f1era",
         "url": "https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 265533,
       "name": "\u2727Sof\u00eda\u2727",
       "url": "https://open.spotify.com/track/5oHan4IDjcbSrA9TzHXB5I"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "As\u00ed Te Soy",
+        "url": "https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 221537,
+      "name": "As\u00ed Te Soy",
+      "url": "https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna"
-      },
-      "artists": [
-        {
-          "name": "Fran Quintero",
-          "url": "https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2"
-        }
-      ],
-      "duration_ms": 251261,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Fuerzas Que Retroceden",
         "url": "https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 231403,
       "name": "Fuerzas Que Retroceden",
       "url": "https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna"
+      },
+      "artists": [
+        {
+          "name": "Fran Quintero",
+          "url": "https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2"
+        }
+      ],
+      "duration_ms": 251261,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G"
     },
     {
       "added_at": "2022-12-23 03:00:00",

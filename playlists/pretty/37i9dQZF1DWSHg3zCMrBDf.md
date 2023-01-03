@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW?si=dEeiPyvUTYSjwFjib5pt4Q"> Mr Eazi </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,434 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,481 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 77 | [2 Shots](https://open.spotify.com/track/7D5teOLgUBiDS4LrKIVNGe) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [2 Shots](https://open.spotify.com/album/3swkn0bH9u7TWbO9Jfe0YD) | 2:43 |
 | 78 | [Enjoyment](https://open.spotify.com/track/74zNTorpLrsnDUGKxPb0fv) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI) | [Enjoyment](https://open.spotify.com/album/3kO5jijVZlEl5KaOKM2ZG0) | 3:31 |
 | 79 | [I Feel Nice](https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Group Chat](https://open.spotify.com/artist/2bUFkuoX9s0HaQwNLhRCqA), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [I Feel Nice](https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk) | 2:40 |
-| 80 | [Slow](https://open.spotify.com/track/5e5Be8E42zERy5Y3k65wyo) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/0GNeksC7xMQxGc9z4Y6rpL) | 2:50 |
+| 80 | [Slow](https://open.spotify.com/track/6BcuM2pQGcED8ebZc5GXjO) | [Char Lay](https://open.spotify.com/artist/4kEX2XtmxJ7Cf9GafuYFR4) | [Slow](https://open.spotify.com/album/0GxXWdO5ZOmdcr3TetwGtY) | 2:50 |
 
-Snapshot ID: `MTY3MTM1ODQ3OSwwMDAwMDAwMDY2N2RlZDNiZjJjZmNjYTdlNjNkOWZjZWUwNmVlN2Iw`
+Snapshot ID: `MTY3MTM1ODQ3OSwwMDAwMDAwMGMzYzMzNzczYWY2ODljNzZkNTViMTQ2YmVlN2M1NDk0`

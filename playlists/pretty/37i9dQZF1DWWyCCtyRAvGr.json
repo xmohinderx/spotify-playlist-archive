@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 133506,
+  "num_followers": 133654,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczNDA4NSwwMDAwMDAwMGYxMWEyNmI5NTllZjhmMTgwMzc1MmQ3NWI1YzM1MWNm",
+  "snapshot_id": "MTY3MTczNDA4NSwwMDAwMDAwMGQzNjZmNjY4NWVjMTIwNzYzMjYwNWFmZTBmN2FjYjg3",
   "tracks": [
     {
       "added_at": "2022-11-18 10:48:39",
@@ -275,6 +275,26 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
+        "name": "Riding with the King",
+        "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 280453,
+      "name": "Ten Long Years",
+      "url": "https://open.spotify.com/track/4CayREZylZ5ij94y1v0zlc"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
         "name": "I Be Trying",
         "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 189466,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
-        "name": "Riding with the King",
-        "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 280453,
-      "name": "Ten Long Years",
-      "url": "https://open.spotify.com/track/4CayREZylZ5ij94y1v0zlc"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "Smoke From The Chimney",
-        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 266013,
-      "name": "Bubba Jones",
-      "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
         "name": "Blues Comin' On",
         "url": "https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 317819,
       "name": "Old Time Used to Be",
       "url": "https://open.spotify.com/track/5qORQA2LGzwmmCjLgHtHS6"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
+        "name": "Smoke From The Chimney",
+        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 266013,
+      "name": "Bubba Jones",
+      "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -755,6 +755,38 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
+        "name": "Hoodoo (Commentary Version)",
+        "url": "https://open.spotify.com/album/2o8wETexTC7MB0MON0oVWN"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 268946,
+      "name": "Who You Gonna Hoodoo Now?",
+      "url": "https://open.spotify.com/track/0ezAYtCKGYWVAtSr1xZGVe"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
+        "name": "Peter Green's Fleetwood Mac (Deluxe)",
+        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "I Loved Another Woman",
+      "url": "https://open.spotify.com/track/5G5YA3qzHlEa2RMuf1WDqB"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
         "name": "The Right Time",
         "url": "https://open.spotify.com/album/1FIwDtSAdIyBCpBvNheudQ"
       },
@@ -799,38 +831,6 @@
       "duration_ms": 436213,
       "name": "How Blue Can You Get",
       "url": "https://open.spotify.com/track/2P5nxLbWpdpFrrt03R7fU0"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
-        "name": "Peter Green's Fleetwood Mac (Deluxe)",
-        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "I Loved Another Woman",
-      "url": "https://open.spotify.com/track/5G5YA3qzHlEa2RMuf1WDqB"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
-        "name": "Hoodoo (Commentary Version)",
-        "url": "https://open.spotify.com/album/2o8wETexTC7MB0MON0oVWN"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 268946,
-      "name": "Who You Gonna Hoodoo Now?",
-      "url": "https://open.spotify.com/track/0ezAYtCKGYWVAtSr1xZGVe"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "Crackdown",
-        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 211819,
-      "name": "Easy On The Eyes",
-      "url": "https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
         "name": "Then Play On (2013 Remaster; Expanded Edition)",
         "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 275201,
       "name": "Without You - 2013 Remaster",
       "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
+        "name": "Crackdown",
+        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 211819,
+      "name": "Easy On The Eyes",
+      "url": "https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "Willie's Blues",
-        "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        },
-        {
-          "name": "Memphis Slim",
-          "url": "https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia"
-        }
-      ],
-      "duration_ms": 354573,
-      "name": "Go Easy",
-      "url": "https://open.spotify.com/track/3owiWE0J2144puM4MB1lxK"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 296506,
       "name": "I Need You So Bad",
       "url": "https://open.spotify.com/track/5Afi4JrAnQtUsSYpYwbYAj"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
+        "name": "Willie's Blues",
+        "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        },
+        {
+          "name": "Memphis Slim",
+          "url": "https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia"
+        }
+      ],
+      "duration_ms": 354573,
+      "name": "Go Easy",
+      "url": "https://open.spotify.com/track/3owiWE0J2144puM4MB1lxK"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
-      },
-      "artists": [
-        {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
         "name": "Sailin' Shoes",
         "url": "https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 208133,
       "name": "A Apolitical Blues",
       "url": "https://open.spotify.com/track/3ApqVYTzkiGRK74zw34X3X"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "Shadows and Ghosts",
-        "url": "https://open.spotify.com/album/7MLFMguNvYpr0q0ZWOOzAa"
-      },
-      "artists": [
-        {
-          "name": "Sean Stephen",
-          "url": "https://open.spotify.com/artist/0wHOPf2KuDPTX1jXDw1qMp"
-        }
-      ],
-      "duration_ms": 230524,
-      "name": "Don't Deal With The Devil",
-      "url": "https://open.spotify.com/track/33jJqlgkrH2iHOjoXcOj7r"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
         "name": "Born Under A Bad Sign (Mono)",
         "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 188697,
       "name": "Laundromat Blues - Mono Mix",
       "url": "https://open.spotify.com/track/272P3DN547Z4CNFNdLV4SD"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
+        "name": "Shadows and Ghosts",
+        "url": "https://open.spotify.com/album/7MLFMguNvYpr0q0ZWOOzAa"
+      },
+      "artists": [
+        {
+          "name": "Sean Stephen",
+          "url": "https://open.spotify.com/artist/0wHOPf2KuDPTX1jXDw1qMp"
+        }
+      ],
+      "duration_ms": 230524,
+      "name": "Don't Deal With The Devil",
+      "url": "https://open.spotify.com/track/33jJqlgkrH2iHOjoXcOj7r"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -1375,6 +1375,22 @@
       "duration_ms": 210040,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
+        "name": "Crackdown",
+        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 178436,
+      "name": "Gone For Good",
+      "url": "https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "Crackdown",
-        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 178436,
-      "name": "Gone For Good",
-      "url": "https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
         "name": "Standing My Ground",
         "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
       },
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
+        "name": "Two Sides to the Story",
+        "url": "https://open.spotify.com/album/6i2eofEuSfRixw6woF6obn"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Ray",
+          "url": "https://open.spotify.com/artist/7aCr5RMW8vRX9vz46xI93s"
+        }
+      ],
+      "duration_ms": 365909,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
         "name": "Bob Corritore & Friends: You Shocked Me",
         "url": "https://open.spotify.com/album/18rXZSxt8oRqSMZChCNEPE"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 197388,
       "name": "Blue Blue Water",
       "url": "https://open.spotify.com/track/6YqNOEJY1xQw1Zbgxa10Bu"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
-        "name": "Two Sides to the Story",
-        "url": "https://open.spotify.com/album/6i2eofEuSfRixw6woF6obn"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Ray",
-          "url": "https://open.spotify.com/artist/7aCr5RMW8vRX9vz46xI93s"
-        }
-      ],
-      "duration_ms": 365909,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "Chinook Blues",
-        "url": "https://open.spotify.com/album/77Yf1keBRtlim9xBNtcmn5"
-      },
-      "artists": [
-        {
-          "name": "Alice Di Micele",
-          "url": "https://open.spotify.com/artist/5GTLKa7etYFhkKklJyoSgX"
-        }
-      ],
-      "duration_ms": 309614,
-      "name": "Chinook Blues",
-      "url": "https://open.spotify.com/track/1AyxLC8AnaNOF2e6zeGbpR"
-    },
-    {
-      "added_at": "2022-11-18 10:48:39",
-      "album": {
         "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
         "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 81000,
       "name": "Don't Go Back To New Orleans - Remastered 2022",
       "url": "https://open.spotify.com/track/17J48o0PQhGI7KFZXMe9j1"
+    },
+    {
+      "added_at": "2022-11-18 10:48:39",
+      "album": {
+        "name": "Chinook Blues",
+        "url": "https://open.spotify.com/album/77Yf1keBRtlim9xBNtcmn5"
+      },
+      "artists": [
+        {
+          "name": "Alice Di Micele",
+          "url": "https://open.spotify.com/artist/5GTLKa7etYFhkKklJyoSgX"
+        }
+      ],
+      "duration_ms": 309614,
+      "name": "Chinook Blues",
+      "url": "https://open.spotify.com/track/1AyxLC8AnaNOF2e6zeGbpR"
     },
     {
       "added_at": "2022-11-18 10:48:39",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2022-11-18 10:48:39",
       "album": {
-        "name": "Porch Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
+        "name": "Porch Sessions",
+        "url": "https://open.spotify.com/album/1HiM9YWyFh75nasggcpRoE"
       },
       "artists": [
         {
           "name": "Tony Holiday",
           "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
-        },
-        {
-          "name": "Ben Rice",
-          "url": "https://open.spotify.com/artist/4X0fLF6Ez0hMrc9EPmF7ex"
         }
       ],
-      "duration_ms": 356426,
-      "name": "That's How I Learned (feat. Ben Rice)",
-      "url": "https://open.spotify.com/track/0KeJ7vkPFLGLNOBjms9HYO"
+      "duration_ms": 381813,
+      "name": "They Call Me John Primer (feat. John Primer & Bob Corritore)",
+      "url": "https://open.spotify.com/track/1UDBiAeAbODqiNzahvO6Dv"
     }
   ],
   "unique_name": "Blues on the Rocks",

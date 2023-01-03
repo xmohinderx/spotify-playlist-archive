@@ -1,12 +1,12 @@
 {
   "description": "Kick back and enjoy these classic summer songs.",
-  "num_followers": 333831,
+  "num_followers": 333815,
   "original_name": "Feel Good Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ2MDYyNSwwMDAwMDAwMDgwMzE5NWE3NzdhMDRkZTBkMjY3NWE1OWMwOTdmZDVk",
+  "snapshot_id": "MTY2NTQ2MDYyNSwwMDAwMDAwMGUyMzFjOWQ5OWNkOWRjZDVkYTliZTg0NzA3ZDAzM2Jj",
   "tracks": [
     {
       "added_at": "2022-10-11 03:57:05",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-10-11 03:57:05",
       "album": {
-        "name": "Buffalo Springfield",
-        "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Springfield",
-          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
-    },
-    {
-      "added_at": "2022-10-11 03:57:05",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 190626,
       "name": "You Make My Dreams (Come True)",
       "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
+    },
+    {
+      "added_at": "2022-10-11 03:57:05",
+      "album": {
+        "name": "Buffalo Springfield",
+        "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Springfield",
+          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
     },
     {
       "added_at": "2022-10-11 03:57:05",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-10-11 03:57:05",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Three Little Birds",
-      "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
-    },
-    {
-      "added_at": "2022-10-11 03:57:05",
-      "album": {
         "name": "Building The Perfect Beast",
         "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 288733,
       "name": "The Boys Of Summer",
       "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
+    },
+    {
+      "added_at": "2022-10-11 03:57:05",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
     },
     {
       "added_at": "2022-10-11 03:57:05",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-10-11 03:57:05",
       "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
+    },
+    {
+      "added_at": "2022-10-11 03:57:05",
+      "album": {
         "name": "Spirit In The Sky",
         "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
       },
@@ -527,22 +543,6 @@
     {
       "added_at": "2022-10-11 03:57:05",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
-    },
-    {
-      "added_at": "2022-10-11 03:57:05",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
       },
@@ -555,22 +555,6 @@
       "duration_ms": 183733,
       "name": "Red Red Wine",
       "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
-    },
-    {
-      "added_at": "2022-10-11 03:57:05",
-      "album": {
-        "name": "Four Tops Second Album",
-        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
-      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
     },
     {
       "added_at": "2022-10-11 03:57:05",
@@ -603,6 +587,22 @@
       "duration_ms": 166280,
       "name": "Down On The Corner",
       "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
+    },
+    {
+      "added_at": "2022-10-11 03:57:05",
+      "album": {
+        "name": "Four Tops Second Album",
+        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
     },
     {
       "added_at": "2022-10-11 03:57:05",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-10-11 03:57:05",
       "album": {
+        "name": "The Very Best Of The Beach Boys: Sounds Of Summer",
+        "url": "https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 217692,
+      "name": "Kokomo",
+      "url": "https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN"
+    },
+    {
+      "added_at": "2022-10-11 03:57:05",
+      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": "2022-10-11 03:57:05",
       "album": {
-        "name": "The Very Best Of The Beach Boys: Sounds Of Summer",
-        "url": "https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 217692,
-      "name": "Kokomo",
-      "url": "https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN"
-    },
-    {
-      "added_at": "2022-10-11 03:57:05",
-      "album": {
         "name": "ABC",
         "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
       },
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-10-11 03:57:05",
       "album": {
+        "name": "Surfin' USA (Remastered)",
+        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 149373,
+      "name": "Surfin' U.S.A. - Remastered 2001",
+      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
+    },
+    {
+      "added_at": "2022-10-11 03:57:05",
+      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 271573,
       "name": "Magic Carpet Ride",
       "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
-    },
-    {
-      "added_at": "2022-10-11 03:57:05",
-      "album": {
-        "name": "Surfin' USA (Remastered)",
-        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 149373,
-      "name": "Surfin' U.S.A. - Remastered 2001",
-      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
     },
     {
       "added_at": "2022-10-11 03:57:05",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-10-11 03:57:05",
       "album": {
+        "name": "Smiley Smile (Remastered)",
+        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
+    },
+    {
+      "added_at": "2022-10-11 03:57:05",
+      "album": {
         "name": "Sundown",
         "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 143333,
       "name": "All I Have to Do Is Dream",
       "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
-    },
-    {
-      "added_at": "2022-10-11 03:57:05",
-      "album": {
-        "name": "Smiley Smile (Remastered)",
-        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
     },
     {
       "added_at": "2022-10-11 03:57:05",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-10-11 03:57:05",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2022-10-11 03:57:05",
-      "album": {
         "name": "We All Are One: The Best Of Jimmy Cliff",
         "url": "https://open.spotify.com/album/0g0F1l0hQ1nZTelBbmlmB5"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 196000,
       "name": "I Can See Clearly Now",
       "url": "https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp"
+    },
+    {
+      "added_at": "2022-10-11 03:57:05",
+      "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
       "added_at": "2022-10-11 03:57:05",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-10-11 03:57:05",
       "album": {
-        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 158893,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ"
-    },
-    {
-      "added_at": "2022-10-11 03:57:05",
-      "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 215080,
       "name": "September",
       "url": "https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j"
+    },
+    {
+      "added_at": "2022-10-11 03:57:05",
+      "album": {
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 158893,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ"
     },
     {
       "added_at": "2022-10-11 03:57:05",

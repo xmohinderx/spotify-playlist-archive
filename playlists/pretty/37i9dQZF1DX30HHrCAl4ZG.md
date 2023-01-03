@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The pulse of new indie rock\. Featuring new music by Yot Club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,718 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,696 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 10 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 |
 | 11 | [the dealer](https://open.spotify.com/track/1UZ1OcxlQYd28UoCnbNYCB) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 3:38 |
 | 12 | [One Day](https://open.spotify.com/track/58U47mHjyLwUwJZ7voUt15) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/5nlhLmWKBfIzkCxwVRAFd2) | 2:24 |
-| 13 | [Skinny Ape](https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Skinny Ape](https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG) | 4:41 |
-| 14 | [Keep It Tucked](https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Keep It Tucked](https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY) | 2:53 |
+| 13 | [Keep It Tucked](https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Keep It Tucked](https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY) | 2:53 |
+| 14 | [Skinny Ape](https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Skinny Ape](https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG) | 4:41 |
 | 15 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
 | 16 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 |
 | 17 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 |
-| 18 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 |
-| 19 | [Lots of Nothing](https://open.spotify.com/track/2WtFN7eLf5gvhJNgwBvGP6) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 3:16 |
-| 20 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 |
+| 18 | [Lots of Nothing](https://open.spotify.com/track/2WtFN7eLf5gvhJNgwBvGP6) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 3:16 |
+| 19 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 |
+| 20 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 |
 | 21 | [Snowbank Blues](https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:17 |
 | 22 | [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 |
 | 23 | [Driving South](https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Santa Catalina](https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm) | 3:55 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 28 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 |
 | 29 | [Figure You Out](https://open.spotify.com/track/6TorufIR9E06RXo3VhZaae) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 3:04 |
 | 30 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 |
-| 31 | [Surfing in Iceland](https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Surfing in Iceland](https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q) | 4:32 |
-| 32 | [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 |
-| 33 | [It Could Be Me](https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [It Could Be Me](https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba) | 2:07 |
+| 31 | [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 |
+| 32 | [It Could Be Me](https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [It Could Be Me](https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba) | 2:07 |
+| 33 | [Surfing in Iceland](https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Surfing in Iceland](https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q) | 4:32 |
 | 34 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 |
 | 35 | [cough drops](https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [cough drops](https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph) | 2:43 |
 | 36 | [Oregon](https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Oregon / Harvard](https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I) | 3:18 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 40 | [Eyez](https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Eyez](https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4) | 3:40 |
 | 41 | [Freedom](https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Freedom](https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb) | 4:08 |
 | 42 | [take it back \(feat\. Beck\)](https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [take it back \(feat\. Beck\)](https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl) | 2:25 |
-| 43 | [Rats](https://open.spotify.com/track/7li497pL9YAtpGb7Z9lgiF) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Rats](https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY) | 2:25 |
-| 44 | [Lying Through Their Teeth](https://open.spotify.com/track/3hneGCI7tzgFpQeZyv83hq) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [Lying Through Their Teeth](https://open.spotify.com/album/2v0B167eqQ3tplIIk7ZK24) | 2:37 |
-| 45 | [sos](https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [sos](https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK) | 2:29 |
+| 43 | [Lying Through Their Teeth](https://open.spotify.com/track/3hneGCI7tzgFpQeZyv83hq) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [Lying Through Their Teeth](https://open.spotify.com/album/2v0B167eqQ3tplIIk7ZK24) | 2:37 |
+| 44 | [sos](https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [sos](https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK) | 2:29 |
+| 45 | [Rats](https://open.spotify.com/track/7li497pL9YAtpGb7Z9lgiF) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Rats](https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY) | 2:25 |
 | 46 | [Pretender](https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Pretender](https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP) | 2:08 |
 | 47 | [Violent](https://open.spotify.com/track/6WbzgXBdZZPV2Zfpy7rHsA) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Violent](https://open.spotify.com/album/07K4uMIK0Krz4p83DLULDd) | 2:41 |
 | 48 | [Just Before The Morning](https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Just Before The Morning](https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x) | 3:34 |
 | 49 | [Expert In A Dying Field](https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:11 |
 | 50 | [Start This Over](https://open.spotify.com/track/3rghzWiJzh59FHeec1hcfK) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Attaboy](https://open.spotify.com/album/3BKkbvHT458y5uGt7VE2NU) | 3:33 |
 
-Snapshot ID: `MTY3MTE2MzIwMCwwMDAwMDAwMGM1YmFmYWM0NWIzNDgxNDhhM2ZmZDdiZGNjYjQwNDdh`
+Snapshot ID: `MTY3MTE2MzIwMCwwMDAwMDAwMGMyNGE0MTM0MzRkZjEwYWM3MzFlNzkxNmZiOTNjMGE0`

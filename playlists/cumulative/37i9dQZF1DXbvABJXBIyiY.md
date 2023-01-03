@@ -4,13 +4,13 @@
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-124 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/155vUGZmORDuQImfG0A8fc)
+125 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/155vUGZmORDuQImfG0A8fc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [After Rain](https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [After Rain](https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA) | 4:54 | 2021-10-01 |  |
 | [All My Days](https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU) | 4:57 | 2021-10-01 |  |
-| [Bare](https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:54 | 2021-10-01 |  |
+| [Bare](https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:54 | 2021-10-01 | 2023-01-03 |
 | [Bare](https://open.spotify.com/track/4NyDbkF2p3U0jeT8kiTFac) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/1MyNz9qy24BF1VxpW2riZM) | 3:54 | 2021-10-01 | 2022-07-29 |
 | [Beautiful Hell](https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Run, Lucifer](https://open.spotify.com/album/1uL86W2jobgxHMrJEGdAal) | 2:56 | 2021-10-01 |  |
 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 | 2021-10-01 | 2022-07-26 |
@@ -30,6 +30,7 @@
 | [Detour](https://open.spotify.com/track/7DEY4XYmucW9CajmANlscn) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Detour](https://open.spotify.com/album/3HaXu8yI1wBwmQB2ifgccT) | 3:33 | 2021-10-01 | 2022-10-13 |
 | [Dirty Rain](https://open.spotify.com/track/6hNZ5O5riDfxd2wWNgkjVn) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Dirty Rain](https://open.spotify.com/album/03OHMyiBTEOe4TPtpa0ISr) | 3:12 | 2021-10-01 | 2022-07-29 |
 | [Donoughmore](https://open.spotify.com/track/3hcMGfmZBzpR9l1tkk5Iy2) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 3:15 | 2021-10-01 |  |
+| [Dreaming \(Mahogany Sessions\)](https://open.spotify.com/track/6hhk528iV6EGtIh9DRlJdM) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Dreaming \(Mahogany Sessions\)](https://open.spotify.com/album/3r9bDmZ0W3CROXfLusAymH) | 4:31 | 2022-12-28 |  |
 | [Dreaming \- Mahogany Sessions](https://open.spotify.com/track/11VjvbhJ8QdHC37VktjfUA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Dreaming \(Mahogany Sessions\)](https://open.spotify.com/album/0DvXICZwcJszRJpYglIVOy) | 4:31 | 2021-10-01 | 2022-07-29 |
 | [Dreaming \- Mahogany Sessions](https://open.spotify.com/track/5myjsv8hybpNWNIWtLaW4T) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Dreaming \(Mahogany Sessions\)](https://open.spotify.com/album/58iAtZRKMXR0mg1WntNBsa) | 4:31 | 2021-10-01 | 2022-12-25 |
 | [Each Coming Night](https://open.spotify.com/track/0mh7eTsBmQj29bkgpQKoPj) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 3:27 | 2021-10-01 | 2022-07-29 |

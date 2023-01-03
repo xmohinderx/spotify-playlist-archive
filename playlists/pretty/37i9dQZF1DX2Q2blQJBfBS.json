@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 27562,
+  "num_followers": 27880,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDYzM2MxNjg4NDI0ODFlMTU0YzNhYmFkOGRiNzg0ZDcw",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDNmZTIyYjQ2MzFkMjU5NWZhMjhhNGYwYzE3ZGZiNjY3",
   "tracks": [
     {
       "added_at": "2022-05-10 19:26:35",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Illmatic",
-        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "The World Is Yours",
-      "url": "https://open.spotify.com/track/7G3lxTsMfSx4yarMkfgnTC"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 155292,
       "name": "HOT WIND BLOWS (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Illmatic",
+        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/7G3lxTsMfSx4yarMkfgnTC"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -139,26 +139,6 @@
       "duration_ms": 150520,
       "name": "Raid",
       "url": "https://open.spotify.com/track/3KQh7ppbDxVjdJBtjvP5BU"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "This Thing Of Ours 2",
-        "url": "https://open.spotify.com/album/0bFVjwPABfPBSWimES0TJ6"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 114092,
-      "name": "6 Five Heartbeats (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/5psl7bZImUdYdKfajE2r2v"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -231,6 +211,26 @@
       "duration_ms": 134040,
       "name": "Invocation",
       "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "This Thing Of Ours 2",
+        "url": "https://open.spotify.com/album/0bFVjwPABfPBSWimES0TJ6"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 114092,
+      "name": "6 Five Heartbeats (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/5psl7bZImUdYdKfajE2r2v"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/2rk0lCpO1vkKAQ6BC8bjUX"
     },
     {
-      "added_at": "2022-06-24 12:00:00",
-      "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 98720,
-      "name": "Time: The Donut of the Heart",
-      "url": "https://open.spotify.com/track/6ywnTBL62OTd8HUaztJizb"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "MOVIN'",
@@ -553,7 +537,23 @@
       "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
     },
     {
-      "added_at": "2023-01-02 00:49:09",
+      "added_at": "2022-06-24 12:00:00",
+      "album": {
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 98720,
+      "name": "Time: The Donut of the Heart",
+      "url": "https://open.spotify.com/track/6ywnTBL62OTd8HUaztJizb"
+    },
+    {
+      "added_at": "2023-01-03 02:51:40",
       "album": {
         "name": "One More",
         "url": "https://open.spotify.com/album/1iplLu9MsH5FMf35L6sZq3"
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Pieces of a Man",
-        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 208570,
-      "name": "Understood",
-      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "The Plugs I Met",
         "url": "https://open.spotify.com/album/5So31JibrTO74WvuCozsAb"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 215640,
       "name": "Just Another Case",
       "url": "https://open.spotify.com/track/60KWmDnLE9jB9dHVkhlu3P"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 208570,
+      "name": "Understood",
+      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -759,26 +759,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Below the Heavens",
-        "url": "https://open.spotify.com/album/2OnNdRdzqs0Xe6VU2uGdPe"
-      },
-      "artists": [
-        {
-          "name": "Blu",
-          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
-        },
-        {
-          "name": "Exile",
-          "url": "https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP"
-        }
-      ],
-      "duration_ms": 265826,
-      "name": "Dancing In The Rain",
-      "url": "https://open.spotify.com/track/5BegRQCcJu4trXT6PPdih9"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Bread",
         "url": "https://open.spotify.com/album/6HB5Nq7lSjvTs3gJom6BXI"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 175581,
       "name": "Roman Candles (feat. Roc Marciano & Black Thought)",
       "url": "https://open.spotify.com/track/3jj5c4DGogPb9xglsxl4BI"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Below the Heavens",
+        "url": "https://open.spotify.com/album/2OnNdRdzqs0Xe6VU2uGdPe"
+      },
+      "artists": [
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        },
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP"
+        }
+      ],
+      "duration_ms": 265826,
+      "name": "Dancing In The Rain",
+      "url": "https://open.spotify.com/track/5BegRQCcJu4trXT6PPdih9"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/5eURoU1GtJypHBQJTXWTPN"
     },
     {
-      "added_at": "2023-01-02 00:49:09",
+      "added_at": "2023-01-03 02:51:40",
       "album": {
         "name": "I Turned Myself into Myself",
         "url": "https://open.spotify.com/album/6tmKZYFGFxsZHgJwTeUERQ"
@@ -1141,6 +1141,22 @@
       "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
     },
     {
+      "added_at": "2023-01-03 02:51:40",
+      "album": {
+        "name": "YOD Presents: The Shining",
+        "url": "https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 153886,
+      "name": "Here's Johnny",
+      "url": "https://open.spotify.com/track/6cHurzh0uUnafG4HwOpRWK"
+    },
+    {
       "added_at": "2022-07-08 12:00:00",
       "album": {
         "name": "Capital Punishment (Explicit Version)",
@@ -1159,22 +1175,6 @@
       "duration_ms": 234133,
       "name": "You Came Up (feat. Noreaga)",
       "url": "https://open.spotify.com/track/2uh3tuSkLydG8QpxY4cqgQ"
-    },
-    {
-      "added_at": "2023-01-02 00:49:09",
-      "album": {
-        "name": "YOD Presents: The Shining",
-        "url": "https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        }
-      ],
-      "duration_ms": 153886,
-      "name": "Here's Johnny",
-      "url": "https://open.spotify.com/track/6cHurzh0uUnafG4HwOpRWK"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1213,7 +1213,7 @@
       "url": "https://open.spotify.com/track/32vb0qbbgiZbOkl2N22rIK"
     },
     {
-      "added_at": "2023-01-02 00:49:09",
+      "added_at": "2023-01-03 02:51:40",
       "album": {
         "name": "Narcan",
         "url": "https://open.spotify.com/album/4D1kEyNNQvPZy4sJ3togDl"
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Cocodrillo Turbo",
-        "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
-      },
-      "artists": [
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        },
-        {
-          "name": "Meyhem Lauren",
-          "url": "https://open.spotify.com/artist/4lph4e07jjlKkioG1bQx95"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Turkish [Feat. Meyhem Lauren]",
-      "url": "https://open.spotify.com/track/3RkZ88ENyaY9WRC2yMAUQ0"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Aethiopes",
         "url": "https://open.spotify.com/album/34uTUAM6SE8Eo6Cv4PRqwD"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 143781,
       "name": "Heavy Water",
       "url": "https://open.spotify.com/track/5UgkmxdEqJV0WqBVcLmrSG"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Cocodrillo Turbo",
+        "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        },
+        {
+          "name": "Meyhem Lauren",
+          "url": "https://open.spotify.com/artist/4lph4e07jjlKkioG1bQx95"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Turkish [Feat. Meyhem Lauren]",
+      "url": "https://open.spotify.com/track/3RkZ88ENyaY9WRC2yMAUQ0"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1641,6 +1641,46 @@
       "url": "https://open.spotify.com/track/6MryJ1KbKurnBs2ELzzrGh"
     },
     {
+      "added_at": "2022-07-29 12:00:00",
+      "album": {
+        "name": "Desired Effect",
+        "url": "https://open.spotify.com/album/6yI6FFPozffhLeNvzmRhr1"
+      },
+      "artists": [
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 133080,
+      "name": "More Soup",
+      "url": "https://open.spotify.com/track/0C5Nxw2GNFMzinyLklHTYA"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "To Kill A Sunrise",
+        "url": "https://open.spotify.com/album/0inJD6mDF0x5zIAv774uE2"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "The Cold",
+      "url": "https://open.spotify.com/track/68cmih5OJnacarGh9wPnpw"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Component System with the Auto Reverse",
@@ -1667,46 +1707,6 @@
       "duration_ms": 185493,
       "name": "Multi-Game Arcade Cabinet",
       "url": "https://open.spotify.com/track/46lQe6895zxB3HRP6YPbnl"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "To Kill A Sunrise",
-        "url": "https://open.spotify.com/album/0inJD6mDF0x5zIAv774uE2"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Statik Selektah",
-          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
-        }
-      ],
-      "duration_ms": 222439,
-      "name": "The Cold",
-      "url": "https://open.spotify.com/track/68cmih5OJnacarGh9wPnpw"
-    },
-    {
-      "added_at": "2022-07-29 12:00:00",
-      "album": {
-        "name": "Desired Effect",
-        "url": "https://open.spotify.com/album/6yI6FFPozffhLeNvzmRhr1"
-      },
-      "artists": [
-        {
-          "name": "Moka Only",
-          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 133080,
-      "name": "More Soup",
-      "url": "https://open.spotify.com/track/0C5Nxw2GNFMzinyLklHTYA"
     },
     {
       "added_at": "2022-07-15 12:00:00",
@@ -1797,26 +1797,6 @@
       "url": "https://open.spotify.com/track/70vNbz9XdqTzDHSh3MILZY"
     },
     {
-      "added_at": "2022-10-29 04:00:00",
-      "album": {
-        "name": "Soon You'll Understand",
-        "url": "https://open.spotify.com/album/3y9LcyWa7gYevziWBx4wiu"
-      },
-      "artists": [
-        {
-          "name": "Monday Night",
-          "url": "https://open.spotify.com/artist/2McZu1EnlbfSEz7TG5jTQ3"
-        },
-        {
-          "name": "Heather Grey",
-          "url": "https://open.spotify.com/artist/0NHdHKgWjJriXzzufBwSqE"
-        }
-      ],
-      "duration_ms": 240501,
-      "name": "Randy Moss / Twenty-Six",
-      "url": "https://open.spotify.com/track/1fIsoghaCZ5i61AB9Lv5Is"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Dump YOD: Krutoy Edition",
@@ -1841,6 +1821,26 @@
       "url": "https://open.spotify.com/track/6hvUcNz4QLXGftpZsvjWDb"
     },
     {
+      "added_at": "2022-10-29 04:00:00",
+      "album": {
+        "name": "Soon You'll Understand",
+        "url": "https://open.spotify.com/album/3y9LcyWa7gYevziWBx4wiu"
+      },
+      "artists": [
+        {
+          "name": "Monday Night",
+          "url": "https://open.spotify.com/artist/2McZu1EnlbfSEz7TG5jTQ3"
+        },
+        {
+          "name": "Heather Grey",
+          "url": "https://open.spotify.com/artist/0NHdHKgWjJriXzzufBwSqE"
+        }
+      ],
+      "duration_ms": 240501,
+      "name": "Randy Moss / Twenty-Six",
+      "url": "https://open.spotify.com/track/1fIsoghaCZ5i61AB9Lv5Is"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Cherry Blossom",
@@ -1863,22 +1863,6 @@
       "duration_ms": 252680,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/2HfwP1SaxQTGPwobr06lXP"
-    },
-    {
-      "added_at": "2023-01-02 00:49:09",
-      "album": {
-        "name": "One Man Army",
-        "url": "https://open.spotify.com/album/5r8TqJW9lIFw6easkGvqU0"
-      },
-      "artists": [
-        {
-          "name": "Apathy",
-          "url": "https://open.spotify.com/artist/6fK2hnSgfRPxR6sL975XQS"
-        }
-      ],
-      "duration_ms": 204956,
-      "name": "One Man Army",
-      "url": "https://open.spotify.com/track/6bOQpInkCrN8xixyBv9aG2"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1911,6 +1895,22 @@
       "duration_ms": 213920,
       "name": "Royal (feat. Blu & Joell Ortiz)",
       "url": "https://open.spotify.com/track/5uzxflxVqVEbyukRQim0v4"
+    },
+    {
+      "added_at": "2023-01-03 02:51:40",
+      "album": {
+        "name": "One Man Army",
+        "url": "https://open.spotify.com/album/5r8TqJW9lIFw6easkGvqU0"
+      },
+      "artists": [
+        {
+          "name": "Apathy",
+          "url": "https://open.spotify.com/artist/6fK2hnSgfRPxR6sL975XQS"
+        }
+      ],
+      "duration_ms": 204956,
+      "name": "One Man Army",
+      "url": "https://open.spotify.com/track/6bOQpInkCrN8xixyBv9aG2"
     },
     {
       "added_at": "2022-05-13 12:00:00",
@@ -1953,7 +1953,7 @@
       "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
     },
     {
-      "added_at": "2023-01-02 00:49:09",
+      "added_at": "2023-01-03 02:51:40",
       "album": {
         "name": "Deutsche Marks 3",
         "url": "https://open.spotify.com/album/7k9IS4gC6f5ERorZ8eScJu"

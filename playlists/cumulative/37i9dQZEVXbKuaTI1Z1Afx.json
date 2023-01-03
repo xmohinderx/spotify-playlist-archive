@@ -5286,6 +5286,24 @@
     },
     {
       "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -5973,7 +5991,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
@@ -7053,7 +7071,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 171750,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/6wpk1zTTTXD7O64vL7TodM"
@@ -11833,7 +11851,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-22",
+      "date_removed": null,
       "duration_ms": 170437,
       "name": "messy in heaven",
       "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
@@ -12859,7 +12877,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 235466,
       "name": "New Year\u2019s Day",
       "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
@@ -18915,7 +18933,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 84817,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/7DfX6Bou8XXAxkWSUt18LD"

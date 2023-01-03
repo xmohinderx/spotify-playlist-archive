@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-139 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/0GSyIlhN75utulsjStUTdu)
+140 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/0GSyIlhN75utulsjStUTdu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Love](https://open.spotify.com/track/1XZhYDzpkGogafOyTDhZtn) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Love](https://open.spotify.com/album/589ZsN7OR27RrA5q3ltkyv) | 2:06 | 2022-07-05 | 2022-07-29 |
 | [Loveliness](https://open.spotify.com/track/2743TnEHSd1VI9Dwrzut7k) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Loveliness](https://open.spotify.com/album/3IZIg6JCUU2i9KTiRE5CYy) | 2:40 | 2022-07-19 | 2022-07-25 |
 | [Loveliness](https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Loveliness](https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP) | 2:40 | 2022-11-11 | 2022-11-30 |
+| [Mind Balance](https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 2:58 | 2022-12-30 |  |
 | [Moonchild's First Flight](https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011) | [Amos Stremann](https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV) | [Moonchild's First Flight](https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc) | 2:52 | 2022-07-05 |  |
 | [Moonlit](https://open.spotify.com/track/1QHE6Ou7sUHXSS9y7eKVR8) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Moonlit](https://open.spotify.com/album/39mlZc7KmKoHZ8jiGancz3) | 2:38 | 2022-11-11 | 2022-11-29 |
 | [Moonlit](https://open.spotify.com/track/67cHf1VdUczVmY1nD8gdos) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Moonlit](https://open.spotify.com/album/1tbaoKLRFMdl6vhDO63LN9) | 2:38 | 2022-07-19 | 2022-07-29 |
@@ -128,7 +129,7 @@
 | [Soothe](https://open.spotify.com/track/5HUkAj1VUDNKtkt6uM45xR) | [Ever So Calm](https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd) | [Soothe](https://open.spotify.com/album/4n3NUoFluygkss3dDjfEea) | 2:51 | 2022-07-19 | 2022-07-29 |
 | [Sphere](https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Sphere](https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn) | 2:59 | 2022-07-19 |  |
 | [Stillness](https://open.spotify.com/track/5dm8dyCwn5fGikFFmcSoGc) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Stillness](https://open.spotify.com/album/45JitQMFNSa8L3wFS5JOcC) | 3:11 | 2022-07-19 | 2022-07-27 |
-| [Tangerine Dreams](https://open.spotify.com/track/0LXhz2plYEUrE4HFjAASLD) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Tangerine Dreams](https://open.spotify.com/album/2IfctRtqYFXXcUXuYsO8HI) | 2:50 | 2022-11-11 |  |
+| [Tangerine Dreams](https://open.spotify.com/track/0LXhz2plYEUrE4HFjAASLD) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Tangerine Dreams](https://open.spotify.com/album/2IfctRtqYFXXcUXuYsO8HI) | 2:50 | 2022-11-11 | 2023-01-03 |
 | [Tangerine Dreams](https://open.spotify.com/track/0loHXV5PTemi8u167w9NYi) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Tangerine Dreams](https://open.spotify.com/album/5Qr4R4KJuA08m64wcHJ20Z) | 2:50 | 2022-07-05 | 2022-07-29 |
 | [The State of Mudita](https://open.spotify.com/track/0PThYRj8Rj9v2DF1n1mGaP) | [The State Of Mudita](https://open.spotify.com/artist/6CqbtbMl0AAhgkpg7nmquy) | [The State of Mudita](https://open.spotify.com/album/4o8usQMTLQY2MQJzF97XFJ) | 2:35 | 2022-07-19 | 2022-07-28 |
 | [The State of Mudita](https://open.spotify.com/track/1xPNLw77249xsb6EBWipV2) | [The State Of Mudita](https://open.spotify.com/artist/6CqbtbMl0AAhgkpg7nmquy) | [The State of Mudita](https://open.spotify.com/album/34tKY4ovl06o917Ggv6ztL) | 2:35 | 2022-11-11 | 2022-11-14 |

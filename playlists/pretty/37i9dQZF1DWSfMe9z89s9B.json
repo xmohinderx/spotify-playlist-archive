@@ -1,12 +1,12 @@
 {
   "description": "R&B without boundaries. Cover: Q",
-  "num_followers": 1324435,
+  "num_followers": 1324613,
   "original_name": "Alternative R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMGIwYmZmYzdkMmJhYmRjZDE1Y2YxN2EzMmFjN2IzMGIz",
+  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMGM2NDY3MDEyNmE4ZTNhMTc1N2E0MjVlOGI3MmFlMjg4",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Stereo Driver",
-        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Stereo Driver",
-      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
         "name": "Suspension of Disbelief",
         "url": "https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2"
       },
@@ -645,20 +629,20 @@
       "url": "https://open.spotify.com/track/2xGGpmywtvPY3h7JkcwP1E"
     },
     {
-      "added_at": "2022-09-23 04:12:35",
+      "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+        "name": "Stereo Driver",
+        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Awkward",
-      "url": "https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG"
+      "duration_ms": 231533,
+      "name": "Stereo Driver",
+      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -679,6 +663,22 @@
       "duration_ms": 171676,
       "name": "Lee & Lovie (with reggie)",
       "url": "https://open.spotify.com/track/403tC8spWXnKcdXdbFnayL"
+    },
+    {
+      "added_at": "2022-09-23 04:12:35",
+      "album": {
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Awkward",
+      "url": "https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/3xqtvSfofDvSMVwwSbuvKi"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "On The Run",
-        "url": "https://open.spotify.com/album/48fMFnwmGaqqt3iWtsoeH0"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 292824,
-      "name": "On the Run",
-      "url": "https://open.spotify.com/track/3IlfKc2D6TxTkWTX3xWsLt"
-    },
-    {
       "added_at": "2022-07-22 14:09:12",
       "album": {
         "name": "JAMIE",
@@ -763,6 +747,22 @@
       "duration_ms": 168000,
       "name": "uni",
       "url": "https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "On The Run",
+        "url": "https://open.spotify.com/album/48fMFnwmGaqqt3iWtsoeH0"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 292824,
+      "name": "On the Run",
+      "url": "https://open.spotify.com/track/3IlfKc2D6TxTkWTX3xWsLt"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -957,20 +957,20 @@
       "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-07-24 02:54:27",
       "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/7JTfcLHEOyg7aQTF16PGyA"
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt"
       },
       "artists": [
         {
-          "name": "Hojean",
-          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+          "name": "Kelz",
+          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
         }
       ],
-      "duration_ms": 163689,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/6IwZZImA6kzAcLo0fobeFO"
+      "duration_ms": 99454,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -989,20 +989,20 @@
       "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
-      "added_at": "2022-07-24 02:54:27",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt"
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/7JTfcLHEOyg7aQTF16PGyA"
       },
       "artists": [
         {
-          "name": "Kelz",
-          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
         }
       ],
-      "duration_ms": 99454,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
+      "duration_ms": 163689,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/6IwZZImA6kzAcLo0fobeFO"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1121,26 +1121,6 @@
       "url": "https://open.spotify.com/track/5f7us9O5oOi4QqSpehe3Qo"
     },
     {
-      "added_at": "2022-07-29 04:14:33",
-      "album": {
-        "name": "NOT TiGHT",
-        "url": "https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j"
-      },
-      "artists": [
-        {
-          "name": "DOMi & JD BECK",
-          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 119999,
-      "name": "BOWLiNG (feat. Thundercat)",
-      "url": "https://open.spotify.com/track/3Sk51FK0sTdiRQN477u5oq"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "IDC",
@@ -1159,6 +1139,26 @@
       "duration_ms": 112666,
       "name": "IDC",
       "url": "https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss"
+    },
+    {
+      "added_at": "2022-07-29 04:14:33",
+      "album": {
+        "name": "NOT TiGHT",
+        "url": "https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j"
+      },
+      "artists": [
+        {
+          "name": "DOMi & JD BECK",
+          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 119999,
+      "name": "BOWLiNG (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/3Sk51FK0sTdiRQN477u5oq"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1305,38 +1305,6 @@
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "deadman",
-        "url": "https://open.spotify.com/album/3o7s3kTZToycxrqhtrAwxa"
-      },
-      "artists": [
-        {
-          "name": "Souly Had",
-          "url": "https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "deadman",
-      "url": "https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "I'll make it better",
-        "url": "https://open.spotify.com/album/6r8krYPEnO2XgQG98rXAuK"
-      },
-      "artists": [
-        {
-          "name": "Naji",
-          "url": "https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK"
-        }
-      ],
-      "duration_ms": 75294,
-      "name": "I'll make it better",
-      "url": "https://open.spotify.com/track/2YmvgEuz7O8YpjclnGYDYn"
-    },
-    {
       "added_at": "2022-12-16 05:17:19",
       "album": {
         "name": "wood tip",
@@ -1357,6 +1325,38 @@
       "url": "https://open.spotify.com/track/4GEL1AJUwD6BYlDxod9E4H"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "I'll make it better",
+        "url": "https://open.spotify.com/album/6r8krYPEnO2XgQG98rXAuK"
+      },
+      "artists": [
+        {
+          "name": "Naji",
+          "url": "https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK"
+        }
+      ],
+      "duration_ms": 75294,
+      "name": "I'll make it better",
+      "url": "https://open.spotify.com/track/2YmvgEuz7O8YpjclnGYDYn"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "deadman",
+        "url": "https://open.spotify.com/album/3o7s3kTZToycxrqhtrAwxa"
+      },
+      "artists": [
+        {
+          "name": "Souly Had",
+          "url": "https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "deadman",
+      "url": "https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Wild Animals",
@@ -1371,6 +1371,22 @@
       "duration_ms": 218080,
       "name": "Wild Animals",
       "url": "https://open.spotify.com/track/3tr8E4dFE9VIuWbIiwiePE"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "Goodbye Paris",
+        "url": "https://open.spotify.com/album/1j9bISVe9klnDse00amxRQ"
+      },
+      "artists": [
+        {
+          "name": "Santino Le Saint",
+          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "Goodbye Paris",
+      "url": "https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1391,22 +1407,6 @@
       "duration_ms": 153712,
       "name": "Keep It Lo",
       "url": "https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
-        "name": "Goodbye Paris",
-        "url": "https://open.spotify.com/album/1j9bISVe9klnDse00amxRQ"
-      },
-      "artists": [
-        {
-          "name": "Santino Le Saint",
-          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Goodbye Paris",
-      "url": "https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "supernova",
-        "url": "https://open.spotify.com/album/0VOYkE46BuoAn8EMfeMqxq"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 90650,
-      "name": "supernova",
-      "url": "https://open.spotify.com/track/3Tb7Mkjq5WpA7FqSBNUUQC"
-    },
-    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "Getaway",
@@ -1475,6 +1459,22 @@
       "duration_ms": 220893,
       "name": "pressure",
       "url": "https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "supernova",
+        "url": "https://open.spotify.com/album/0VOYkE46BuoAn8EMfeMqxq"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 90650,
+      "name": "supernova",
+      "url": "https://open.spotify.com/track/3Tb7Mkjq5WpA7FqSBNUUQC"
     },
     {
       "added_at": "2022-08-19 04:17:01",
@@ -1673,6 +1673,22 @@
       "url": "https://open.spotify.com/track/5WUKybZ2qvtWjZOKbK8JwF"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "What About Me?",
+        "url": "https://open.spotify.com/album/51D87o8rHccQRtjNK4ybgJ"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "duration_ms": 205544,
+      "name": "What About Me?",
+      "url": "https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS"
+    },
+    {
       "added_at": "2022-08-19 04:17:01",
       "album": {
         "name": "So Bad",
@@ -1707,22 +1723,6 @@
       "duration_ms": 202213,
       "name": "Bang",
       "url": "https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "What About Me?",
-        "url": "https://open.spotify.com/album/51D87o8rHccQRtjNK4ybgJ"
-      },
-      "artists": [
-        {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        }
-      ],
-      "duration_ms": 205544,
-      "name": "What About Me?",
-      "url": "https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS"
     }
   ],
   "unique_name": "Alternative R&B",

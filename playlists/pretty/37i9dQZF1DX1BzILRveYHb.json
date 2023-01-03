@@ -1,12 +1,12 @@
 {
   "description": "Easy listening pop that feels sunny wherever you are.",
-  "num_followers": 534195,
+  "num_followers": 534446,
   "original_name": "Sunny Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI5NDAxNSwwMDAwMDAwMGVlNjk5YTlkYTRmNGI4ZDRkZTg2M2JlYzY0ZTk1YWEy",
+  "snapshot_id": "MTY3MjI5NDAxNSwwMDAwMDAwMDMzZjY4YWNmMzA5NTZmZWJiYjFkY2E1ZWNiOTIwZmM4",
   "tracks": [
     {
       "added_at": "2022-12-29 06:06:55",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "Drops Of Jupiter",
-        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Drops of Jupiter (Tell Me)",
-      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
-    },
-    {
-      "added_at": "2022-12-29 06:06:55",
-      "album": {
         "name": "August And Everything After",
         "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 272293,
       "name": "Mr. Jones",
       "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
+    },
+    {
+      "added_at": "2022-12-29 06:06:55",
+      "album": {
+        "name": "Drops Of Jupiter",
+        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
       "added_at": "2022-12-29 06:06:55",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2022-12-29 06:06:55",
-      "album": {
         "name": "Corinne Bailey Rae",
         "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 215360,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "added_at": "2022-12-29 06:06:55",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2022-12-29 06:06:55",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 271560,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
+    },
+    {
+      "added_at": "2022-12-29 06:06:55",
+      "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
@@ -575,18 +591,18 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
         }
       ],
-      "duration_ms": 271560,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
+      "duration_ms": 268360,
+      "name": "Semi-Charmed Life",
+      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
     },
     {
       "added_at": "2022-12-29 06:06:55",
@@ -611,18 +627,18 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU"
       },
       "artists": [
         {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 268360,
-      "name": "Semi-Charmed Life",
-      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+      "duration_ms": 209546,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ"
     },
     {
       "added_at": "2022-12-29 06:06:55",
@@ -639,22 +655,6 @@
       "duration_ms": 151507,
       "name": "sun and moon",
       "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
-    },
-    {
-      "added_at": "2022-12-29 06:06:55",
-      "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ"
     },
     {
       "added_at": "2022-12-29 06:06:55",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
-    },
-    {
-      "added_at": "2022-12-29 06:06:55",
-      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+    },
+    {
+      "added_at": "2022-12-29 06:06:55",
+      "album": {
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2022-12-29 06:06:55",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
+    },
+    {
+      "added_at": "2022-12-29 06:06:55",
+      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 239440,
       "name": "I Try",
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
-    },
-    {
-      "added_at": "2022-12-29 06:06:55",
-      "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
     },
     {
       "added_at": "2022-12-29 06:06:55",
@@ -915,6 +915,22 @@
       "duration_ms": 243160,
       "name": "I'm Like A Bird",
       "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi"
+    },
+    {
+      "added_at": "2022-12-29 06:06:55",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj"
     },
     {
       "added_at": "2022-12-29 06:06:55",
@@ -999,22 +1015,6 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Turn Me On",
-      "url": "https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj"
-    },
-    {
-      "added_at": "2022-12-29 06:06:55",
-      "album": {
         "name": "Cracked Rear View",
         "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "Can't Take My Eyes Off of You - (I Love You Baby)",
-      "url": "https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt"
-    },
-    {
-      "added_at": "2022-12-29 06:06:55",
-      "album": {
         "name": "Mystery Girl",
         "url": "https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 210266,
       "name": "You Got It",
       "url": "https://open.spotify.com/track/6r20M5DWYdIoCDmDViBxuz"
+    },
+    {
+      "added_at": "2022-12-29 06:06:55",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "Can't Take My Eyes Off of You - (I Love You Baby)",
+      "url": "https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt"
     },
     {
       "added_at": "2022-12-29 06:06:55",
